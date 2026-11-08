@@ -8,8 +8,64 @@
  ],
  "context": "同一性",
  "kind": "market",
- "researched_at": "2026-11-08T13:26:23.320766+00:00",
+ "researched_at": "2026-11-08T21:21:06.604580+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "Political sensitivity around corporate-state ties",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "These are not marketing claims. They are legal filings.",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Name-matching errors occur. Duplicate individuals appear. Always verify with original filings.",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Chinese domestic records may be restricted. Overseas filings are not.",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ": US filings disclose subsidiaries and VIE structures",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ": Ownership and financial filings",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Step 5: Search Bond and Financial Filings",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Massive public filing infrastructure",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If a Shanghai Stock Exchange filing conflicts with Qichacha data, check:",
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "Stephen Doig, Knight Chair of Journalism, Arizona State University (US), recommends:",
@@ -134,62 +190,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "Political sensitivity around corporate-state ties",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These are not marketing claims. They are legal filings.",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Name-matching errors occur. Duplicate individuals appear. Always verify with original filings.",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Chinese domestic records may be restricted. Overseas filings are not.",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ": US filings disclose subsidiaries and VIE structures",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ": Ownership and financial filings",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Step 5: Search Bond and Financial Filings",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Massive public filing infrastructure",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If a Shanghai Stock Exchange filing conflicts with Qichacha data, check:",
-    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "The Global Investigative Journalism Casebook",
@@ -281,6 +281,36 @@
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/houjinbase/n/n3453fdaa031d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.note.com/n/n39fc991197b6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/davide_tech/n/n05a7bc439eae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clean_duck544/n/n5b0d73f0048e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hogakuyoridokoro/n/nb2c42a74be69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/legit_minnow1784/n/na06085e612de",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://ja.wikipedia.org/wiki/%E8%AA%BF%E6%9F%BB%E5%A0%B1%E9%81%93",
     "status": "ok",
     "method": "http"
@@ -291,12 +321,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/houjinbase/n/n3453fdaa031d",
+    "url": "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
+    "url": "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
     "status": "ok",
     "method": "http"
    },
@@ -306,7 +336,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
+    "url": "https://imidas.jp/insight/f-40-270-26-04-g787/",
     "status": "ok",
     "method": "http"
    },
@@ -319,15 +349,55 @@
     "url": "https://kyodonewsprwire.jp/corp/glossary/7029/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://mediahelpingmedia.org/investigative/compiling-an-investigative-journalism-dossier/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mhm.annors.se/investigative/compiling-an-investigative-journalism-dossier/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/tag/corporate-records/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/freedom-of-information-privacy-act/requesting-fbi-records",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/resource/researching-corporations-and-their-owners/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
  "search_log": [
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://biz.note.com/n/n39fc991197b6",
+    "https://note.com/davide_tech/n/n05a7bc439eae",
+    "https://note.com/clean_duck544/n/n5b0d73f0048e",
+    "https://note.com/hogakuyoridokoro/n/nb2c42a74be69",
+    "https://note.com/legit_minnow1784/n/na06085e612de",
+    "https://note.com/hiratsuji/n/n7ffbec06dbca"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） note",
@@ -336,16 +406,14 @@
     "https://rirekisho-guide.com/0038-2/",
     "https://note.com/houjinbase/n/n3453fdaa031d",
     "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
-    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
     "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
-    "https://www.asahi.com/investigative-reporting/",
-    "https://scholar.google.com/?hl=ja"
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://imidas.jp/insight/f-40-270-26-04-g787/"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） やり方",
@@ -353,8 +421,8 @@
     "https://ja.wikipedia.org/wiki/調査報道",
     "https://rirekisho-guide.com/0038-2/",
     "https://jmedia.wiki/調査報道は、鋭い質問を投げかけ、特定の疑問を徹底的に掘り下げることで、特定の/Investigative_journalism",
-    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf"
    ],
@@ -368,8 +436,8 @@
    "results": [
     "https://ja.wikipedia.org/wiki/調査報道",
     "https://rirekisho-guide.com/0038-2/",
-    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
     "https://kyodonewsprwire.jp/corp/glossary/7029/"
@@ -381,9 +449,19 @@
   },
   {
    "query": "investigative journalism company records former names aliases checklist Don Ray dossier GIJN corporate records",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://mediahelpingmedia.org/investigative/compiling-an-investigative-journalism-dossier/",
+    "https://mhm.annors.se/investigative/compiling-an-investigative-journalism-dossier/",
+    "https://gijn.org/tag/corporate-records/",
+    "https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/freedom-of-information-privacy-act/requesting-fbi-records",
+    "https://gijn.org/resource/researching-corporations-and-their-owners/",
+    "https://projectosint.com/osint-chinese-companies-investigation-guide/",
+    "https://panamapapers.investigativecenters.org/panama-db/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:note.com 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）",
@@ -394,7 +472,7 @@
     "https://note.com/clean_duck544/n/n5b0d73f0048e",
     "https://note.com/sore_shirabeta/n/n4a0e0f2eaf93",
     "https://note.com/hiratsuji/n/n7ffbec06dbca",
-    "https://note.com/ai_answer/n/ne33dfb7c20bb"
+    "https://note.com/yomitaina/n/n3c8e9e58bc28"
    ],
    "engines": [
     "ddgs:google"
@@ -404,13 +482,13 @@
   {
    "query": "site:x.com 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）",
    "results": [
+    "https://x.com/xm18Qydjm390917/status/2082286555276931423",
     "https://x.com/tarareba722/status/2082992243846394075",
     "https://x.com/tarareba722/status/2083112551869563286",
     "https://x.com/tokudanewriter",
     "https://x.com/HayakawaYukio/status/2057248750121480479",
-    "https://x.com/grok/status/2016135808982433917",
-    "https://x.com/xm18Qydjm390917/status/2082286555276931423",
-    "https://x.com/nkinvestigation"
+    "https://x.com/i/trending/2094574452973433041",
+    "https://x.com/grok/status/2016135808982433917"
    ],
    "engines": [
     "ddgs:google"
@@ -421,15 +499,15 @@
    "query": "site:linkedin.com 調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き）",
    "results": [
     "https://jp.linkedin.com/in/大城-岡嶋-571535245",
-    "https://jp.linkedin.com/in/康史-原田-731483167",
+    "https://jp.linkedin.com/in/陽二朗-鏑木-b461a6228",
     "https://jp.linkedin.com/posts/mitsubishi-materials-hardmetal-corporation_社名変更のお知らせ-平素より格別のご愛顧を賜り厚く御礼申し上げます-このたび-activity-7323212100716105728-9qsi",
+    "https://jp.linkedin.com/in/歩-曽篠-4023753ba",
     "https://www.linkedin.com/posts/kenjiasada_17日土曜日日本記者クラブ土曜記者ゼミ調査報道でジャーナリスト記者向けに-activity-7012433755495694336-Pzqj",
     "https://www.linkedin.com/posts/啓-仲手川-108968234_当社の社名と某宗教団体関連団体が同じ名称ということでちょっと手間がかかる対応を行-activity-6986232608770703360-NkoS",
-    "https://jp.linkedin.com/in/歩-曽篠-4023753ba",
     "https://jp.linkedin.com/posts/kanadevia_カナデビア-kanadevia-日立造船-activity-7483349941340250112-xU9c"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -438,11 +516,11 @@
    "results": [
     "https://www.facebook.com/nitiyouban/photos/赤旗日曜版-1月18日号ジャーナリズムには希望がある調査報道から見た戦後８０年ジャーナリスト-東京都市大学教授-高田昌幸-さん-北海道新聞や高知新聞で記者活動を/1476462244002660/",
     "https://www.facebook.com/fukuda212noriko/posts/昨日は記者会見でした株式会社scoグループへの社名変更コーポレートロゴの変更などを弊社社長の玉井から記者のみなさんにご説明させていただきました受付業務から司会取/447118991006705/",
-    "https://www.facebook.com/100002627702917/posts/報道実務家フォーラムの調査報道大賞スペシャル2025に来ています今年の調査報道の優れた8つに作品について取材を担当した記者から話を聞きました-オールドメディアが/24968825409455038/",
-    "https://www.facebook.com/KobeShimbun/posts/調査依頼募集中あなたの疑問を取材するスクープラボリニューアル-読者ユーザーの皆さんから届いた疑問などを記者が取材し解決を目指すだけでなく調査の経緯なども紹介する/954536943340193/",
-    "https://www.facebook.com/JBpress/posts/調査報道の大著regime-changeが明らかにしたイラン開戦の内幕皇帝的大統領制が問い直す世界秩序の未来-一時的では済まないトランプ大統領という現象私たちの/1656263096504264/",
     "https://www.facebook.com/JmeTV.official/posts/nhkスペシャル-調査報道新世紀-file-３デジタル時代に向け調査報道の手法をアップデート強化現代社会の様々な闇謎に迫る大型シリーズ調査報道新世紀今回はｓｎｓ/122145641918054205/",
-    "https://www.facebook.com/smenjo/posts/調査報道2025授賞作決定大賞にnhktbs優秀賞4作品奨励賞3作品npo法人報道実務家フォーラム瀬川至朗理事長とスローニュース株式会社瀬尾傑代表が調査報道大賞/25358328093755148/"
+    "https://www.facebook.com/rkbnews/videos/ｒ調査班がスタートrkbの記者がテーマに沿って深掘り取材するr調査班がスタートしました取材のきっかけとなる情報を幅広く募ります調査報道/390018685849271/",
+    "https://www.facebook.com/100002627702917/posts/報道実務家フォーラムの調査報道大賞スペシャル2025に来ています今年の調査報道の優れた8つに作品について取材を担当した記者から話を聞きました-オールドメディアが/24968825409455038/",
+    "https://www.facebook.com/nikkei.bizdaily/photos/きょうの紙面から開けぬ-展望あえて廃業老舗の鉄工所独ボッシュいすゞと取引も-中小後継者難に悩む企業破綻の現場から-日経電子版で連載中の企業信用調査マンの目と連動/1293094644055154/",
+    "https://www.facebook.com/JBpress/posts/調査報道の大著regime-changeが明らかにしたイラン開戦の内幕皇帝的大統領制が問い直す世界秩序の未来-一時的では済まないトランプ大統領という現象私たちの/1656263096504264/"
    ],
    "engines": [
     "ddgs:bing"
@@ -454,11 +532,11 @@
    "results": [
     "https://ja.wikipedia.org/wiki/調査報道",
     "https://rirekisho-guide.com/0038-2/",
-    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/",
-    "https://convertaudiototext.com/ja/blog/transcription-tips-for-investigative-reporting",
-    "https://yamanaka-bengoshi.jp/2026/09/23/lawyer-media-interview/"
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://www.youtube.com/watch?v=9v9eTKItuy4"
    ],
    "engines": [
     "ddgs:google"
@@ -469,10 +547,10 @@
    "query": "調査報道の記者が会社を別名・旧社名・屋号で記録を引く手順（Media Helping Media の Don Ray の書き方・GIJN の会社記録の手引き） X 投稿",
    "results": [
     "https://ja.wikipedia.org/wiki/調査報道",
-    "https://lekky.jp/articles/20645/",
     "https://rirekisho-guide.com/0038-2/",
-    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
+    "https://jmedia.wiki/調査報道は、鋭い質問を投げかけ、特定の疑問を徹底的に掘り下げることで、特定の/Investigative_journalism",
     "https://note.com/houjinbase/n/n3453fdaa031d",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000285637",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
     "https://www.graciauto.jp/blog/yago-kaishamei-chigau-site-hyoki-202608/"
    ],
@@ -493,15 +571,15 @@
     "https://www.linkedin.com/posts/dothetell_investigativejournalism-publicrecords-activity-7501372857390923776-rnRH"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ8頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ20頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T12:28:52.620342+00:00"
 }

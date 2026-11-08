@@ -8,8 +8,866 @@
  ],
  "context": "改訂",
  "kind": "market",
- "researched_at": "2026-11-08T13:23:04.363233+00:00",
+ "researched_at": "2026-11-08T21:19:51.290664+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In those studies where the pitfalls of relying on current-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "unbiased estimates of the parameters linking true GDP",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IV . Strategy-3 Bias",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "stances. The exact formula for its bias depends on the nature",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "coef/bullet5 cient bias when right-side variables are subject to",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1) will yield an unbiased estimate of the coef /bullet5 cient vector",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "an unbiased estimate of a provided that x(t)t and y(t) 2",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "guarantee the unbiasedness of strategy-1 estimation.",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "x(t)a 1 w(t), although both strategies yield unbiased estimates of a.",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "on the right. Strategy 1 yields unbiased coef /bullet5 cient estimates",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimation methodology yield unbiased parameter estimates. The unbi-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "casters Biased? Agency versus Behavioral Explanations, ” Quar-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Laster, David, Paul Bennett, and In Sun Geoum, “Rational Bias in",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "statistically significant positive bias to revisions for GDP growth.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "however, is whether this apparent bias is statistically significant",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "it ignores the fact that it will be revised. In some cases, the costs of this approach are",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "for example, Croushore and Stark (2001)), we are able to look back and gauge how well",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "to what might be expected to work for forecasters today. As an example, by forecasting",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3In the case of the US, the Bureau of Economic Analysis provides descriptions of the methodologies",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the superscript the quarterly vintage (or estimate). In the case of US BEA data, the",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "also be modelled and forecasted. It is generally the case that the models we discuss",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5For example, there are 8 benchmark revisions in the data vintages from 1965Q3 up 2010Q1. In fact",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "or on the later estimate. F or example, consider the revision between the rst-estimates",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and the PF assumes this is the case. That is, the SO makes no attempt to process the",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A number of extensions and generalizations are possible. F or example, Howrey (1978)",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "motivated by, and generalises, the simpler cases described in sections 3.2 and 3.3.",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(2017) estimates the forecasting model  a DSGE model in her case  with nal (true",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "revisions are integrated of order zero (written I (0)). So, for example, Yt+1t\u00001 and Ytt\u00001",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Carriero, Clements and Galvªo (2015)). F or example, let yt+1t = 400\u0000Yt+1t \u0000Yt+1t\u00001\u0001 be",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "If n is set equal to 2, for example, then values after the rst revision are assumed to",
+    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the missing values are estimated. Since it is gener ally the case that the estimated values do not",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and \"practice to be avoided\", following the success ful example of the ESS guidelines on seasonal",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "for users. More details, practical examples and ref erences are included in the ESS handbook on",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "in line with relevant improvements in the productio n process. This could be the case when",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Some examples are the adoption of a new classificat ion or changes in international",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In case of an update of the weights of an index series, the new index using updated weights is",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "be removed whenever necessary. In this case, the re ason for the removal should be posted. When",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "example, the magnitude of the correction could be c ompared to the magnitude of expected",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In the case of significant errors detected with del ay (referring to past or sometimes even far past",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "relevant figures, released as soon as possible with a pre-announcement. In the case of past errors",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "possible. In case of significant errors affecting past data a decision is taken based upon the",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "should be mentioned. A draft example of a harmonised template is presented in annex.",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "similar economic conditions – for example for compa rable phases of business cycle, seasonal and",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "• Finally, it is possible to focus on the diagonals l ooking for example to the differences",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "shown the usefulness of using vintages for forecasting, see for example Garrat et al. (2008), Kishor and Koenig",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the CV-VAR approach can improve the forecast of the initial announcements for most of the cases compared to",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "significant and there is no case where the V -VAR model generates a statistically significant better forecast than",
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2026.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in 2021 led to a revision from 1.7% to 2.1%. Another example is in",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, the mean revision between the estimate published a year later (m plus 12) and this “final” estimate is 0.08 percentage points. It will then be zero by the time of the estimate that is published three years later, which is taken to be the “final” one.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "if the economy is contracting in real time. However, this is also conditional on the distribution of these growth rates for the first estimates. First estimates that are closer to no growth (for example, 0.0%) are more likely to change sign if there is a revision, where the mean revision over this entire sample is positive 0.13 percentage points. Our",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, from the period May 2018 to August 2025, we find a mean revision between the first estimate and the one published a year later of positive 0.1 percentage points. As our sample increases, we will move to a “final” estimate that is the one that is published three years later to improve comparability.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume business investment – this includes up to Quarter 2 (Apr to June) 2026.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example, 1999:Q1-vintage data (the most recent available at the time this paper was written) might",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example, when the left-hand-side variable is 1990:Q1 GDP growth, all right-hand-side variables",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, since 1990, the root-mean-square error of the Blue Chip consensus forecast of GDP",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Except in the uninteresting case in which y(t)t is never revised, the Equation 3's error term has",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "x(T)T and the sample mean of the x(t)t (t = 0, 1, ...T - 1). The simplest case is that in which x(T)T",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We will use this case as a benchmark when comparing the performance of Strategy 1 to the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "case of Strategy-1 estimation arises when the vector x(t)t on the right-hand-side of Equation 3 is",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the corresponding term on the right-hand side of Equation 6. In the benchmark case in which x(T)T",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and the sample mean of the x(t)t coincide, for example, Equation 6' reduces to",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "exceptional case in which revisions to the government’s estimates of y(t) and movements in >(t)T \"",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As an extreme example, consider the special case in which \" = 0, so that x(T)T is of",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "IV. An Example: Forecasting Current-Quarter GDP Growth",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "sample-vintage, real-time-vintage, and (as a special case of real-time-vintage) first-release data sets.",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 as applied to Equation 12. In addition, the table presents results for the special case of Strategy-1",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "real-time-vintage data. For example, when the left-side",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1 See, for example, Fitzgerald and Miller (1989), Trehan (1989, 1992),",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, since 1990, the root-mean-square error of the",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "errors-in-variables problem. In the case where deviations of",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Now consider the case where revisions to the right-side",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the government ’s time-t information set. In this case, ap-",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "equation (5) to equal zero [such will be the case if n(t)T21",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revisions-as-noise case. First, latest available data are used to estimate a",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "As an extreme example, consider the special case in",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "y(t)T21 are uncorrelated, as will certainly be the case if the",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In the special case in which x(T)T and the sample mean of",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "11 Consider, for example, the extreme case in which y(t) 5 x(t) 1 z(t)",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tion in the special case where the econometrician forecasts",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example, y(t) might be quarterly real GDP growth and x(t)",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the x(t)t are drawn. Suppose, for example, that the x(t)t (t 5",
+    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example, a user may be interested in studying revision between first published data and",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "statistical agency publishing the data. For example, if reconciliation with annual data",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3.5 In the case of growth rates, how often is the later published growth rate in the",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "data points of the time series. For example, 1994Q1 – 2007Q3 represents 55",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "% of positive revisions : it returns the number of cases revised upward as a proportion of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "% of negative revisions: it returns the number of cases revised down ward as a proportion",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "% of zero revisions: it returns the number of cases with null revision as a proportion of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This is an extreme case of unreliability, although it may be that the change of a small",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, the United States releases initial estimates of GDP",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Following the example set by the Philadelphia Federal Reserve",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be misleading in certain cases.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "forecast differs from a standard forecast. In this case, the aim is",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "inflow of new data extracted from primary sources w ith vintages identification procedures. It",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "databases usually cover only subsets of variables available in primary sources (key indicators), on",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(http://www.oecd.org/dataoecd/44/37/40309451.pdf).",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf",
+    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "tional approach would be to estimate the forecasting model using the latest vintage of",
@@ -666,352 +1524,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "inflow of new data extracted from primary sources w ith vintages identification procedures. It",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "databases usually cover only subsets of variables available in primary sources (key indicators), on",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(http://www.oecd.org/dataoecd/44/37/40309451.pdf).",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/44/36/40308976.pdf?contentId=40308977",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/20/26/34350524.pdf.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2005, Paris http://www.oecd.org/dataoecd/55/17/35010765.pdf.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Paris. http://www.oecd.org/dataoecd/13/49/35440080.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/44/38/40309461.pdf?contentId=40309462",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/45/29/36561675.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.cirano.qc.ca/fin/Real-timeData/2007/McKenzie.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "http://www.oecd.org/dataoecd/47/15/40315408.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ONS, UK. http://www.oecd.org/dataoecd/43/62/33779647.pdf",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "communication of the mistake should be frank and th e revised data should be published at the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Bias or unusual behaviour in the revision process of preliminary data might reveal some problems",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(rationality tests), i.e. revisions should not be biased and therefore present a zero mean, revisions should be small",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In those studies where the pitfalls of relying on current-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "unbiased estimates of the parameters linking true GDP",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IV . Strategy-3 Bias",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "stances. The exact formula for its bias depends on the nature",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "coef/bullet5 cient bias when right-side variables are subject to",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1) will yield an unbiased estimate of the coef /bullet5 cient vector",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "an unbiased estimate of a provided that x(t)t and y(t) 2",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "guarantee the unbiasedness of strategy-1 estimation.",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "x(t)a 1 w(t), although both strategies yield unbiased estimates of a.",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "on the right. Strategy 1 yields unbiased coef /bullet5 cient estimates",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimation methodology yield unbiased parameter estimates. The unbi-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "casters Biased? Agency versus Behavioral Explanations, ” Quar-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Laster, David, Paul Bennett, and In Sun Geoum, “Rational Bias in",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "be of limited use (also called “average bias”).",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "statistically significant positive bias to revisions for GDP growth.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "however, is whether this apparent bias is statistically significant",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "W e survey these methods, and provide guidance on choosing one, depending on whether",
@@ -1457,617 +1969,40 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "実例": [
-   {
-    "quote": "it ignores the fact that it will be revised. In some cases, the costs of this approach are",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "for example, Croushore and Stark (2001)), we are able to look back and gauge how well",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "to what might be expected to work for forecasters today. As an example, by forecasting",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3In the case of the US, the Bureau of Economic Analysis provides descriptions of the methodologies",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the superscript the quarterly vintage (or estimate). In the case of US BEA data, the",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "also be modelled and forecasted. It is generally the case that the models we discuss",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5For example, there are 8 benchmark revisions in the data vintages from 1965Q3 up 2010Q1. In fact",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "or on the later estimate. F or example, consider the revision between the rst-estimates",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and the PF assumes this is the case. That is, the SO makes no attempt to process the",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A number of extensions and generalizations are possible. F or example, Howrey (1978)",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "motivated by, and generalises, the simpler cases described in sections 3.2 and 3.3.",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(2017) estimates the forecasting model  a DSGE model in her case  with nal (true",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "revisions are integrated of order zero (written I (0)). So, for example, Yt+1t\u00001 and Ytt\u00001",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Carriero, Clements and Galvªo (2015)). F or example, let yt+1t = 400\u0000Yt+1t \u0000Yt+1t\u00001\u0001 be",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "If n is set equal to 2, for example, then values after the rst revision are assumed to",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the missing values are estimated. Since it is gener ally the case that the estimated values do not",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and \"practice to be avoided\", following the success ful example of the ESS guidelines on seasonal",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for users. More details, practical examples and ref erences are included in the ESS handbook on",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "in line with relevant improvements in the productio n process. This could be the case when",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Some examples are the adoption of a new classificat ion or changes in international",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In case of an update of the weights of an index series, the new index using updated weights is",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "revisions and to limit them to the case of importan t errors. When significant mistakes occur, the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "be removed whenever necessary. In this case, the re ason for the removal should be posted. When",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "example, the magnitude of the correction could be c ompared to the magnitude of expected",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In the case of significant errors detected with del ay (referring to past or sometimes even far past",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "relevant figures, released as soon as possible with a pre-announcement. In the case of past errors",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "possible. In case of significant errors affecting past data a decision is taken based upon the",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "should be mentioned. A draft example of a harmonised template is presented in annex.",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "similar economic conditions – for example for compa rable phases of business cycle, seasonal and",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "• Finally, it is possible to focus on the diagonals l ooking for example to the differences",
-    "url": "https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS%20guidelines%20on%20revision%20policy.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "shown the usefulness of using vintages for forecasting, see for example Garrat et al. (2008), Kishor and Koenig",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the CV-VAR approach can improve the forecast of the initial announcements for most of the cases compared to",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "significant and there is no case where the V -VAR model generates a statistically significant better forecast than",
-    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We are exploring how we can further assist users to interpret movements in our main economic statistics by developing a smoothed seasonally adjusted measure of monthly GDP, which is planned to be published before the end of 2026. An example of the application of smoothed estimates is available from the",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume GDP – this includes up to Quarter 2 (Apr to June) 2026.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "in 2021 led to a revision from 1.7% to 2.1%. Another example is in",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, the mean revision between the estimate published a year later (m plus 12) and this “final” estimate is 0.08 percentage points. It will then be zero by the time of the estimate that is published three years later, which is taken to be the “final” one.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "if the economy is contracting in real time. However, this is also conditional on the distribution of these growth rates for the first estimates. First estimates that are closer to no growth (for example, 0.0%) are more likely to change sign if there is a revision, where the mean revision over this entire sample is positive 0.13 percentage points. Our",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, from the period May 2018 to August 2025, we find a mean revision between the first estimate and the one published a year later of positive 0.1 percentage points. As our sample increases, we will move to a “final” estimate that is the one that is published three years later to improve comparability.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The revisions in each Blue Book relate to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication. For example, the Blue Book 2026 revisions reflect those between the August 2026 and September 2026 vintages of quarterly estimates of volume business investment – this includes up to Quarter 2 (Apr to June) 2026.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example, 1999:Q1-vintage data (the most recent available at the time this paper was written) might",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example, when the left-hand-side variable is 1990:Q1 GDP growth, all right-hand-side variables",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, since 1990, the root-mean-square error of the Blue Chip consensus forecast of GDP",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Except in the uninteresting case in which y(t)t is never revised, the Equation 3's error term has",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "x(T)T and the sample mean of the x(t)t (t = 0, 1, ...T - 1). The simplest case is that in which x(T)T",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We will use this case as a benchmark when comparing the performance of Strategy 1 to the",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "case of Strategy-1 estimation arises when the vector x(t)t on the right-hand-side of Equation 3 is",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the corresponding term on the right-hand side of Equation 6. In the benchmark case in which x(T)T",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and the sample mean of the x(t)t coincide, for example, Equation 6' reduces to",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "exceptional case in which revisions to the government’s estimates of y(t) and movements in >(t)T \"",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As an extreme example, consider the special case in which \" = 0, so that x(T)T is of",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "IV. An Example: Forecasting Current-Quarter GDP Growth",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "sample-vintage, real-time-vintage, and (as a special case of real-time-vintage) first-release data sets.",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2 as applied to Equation 12. In addition, the table presents results for the special case of Strategy-1",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "real-time-vintage data. For example, when the left-side",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1 See, for example, Fitzgerald and Miller (1989), Trehan (1989, 1992),",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, since 1990, the root-mean-square error of the",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "errors-in-variables problem. In the case where deviations of",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Now consider the case where revisions to the right-side",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the government ’s time-t information set. In this case, ap-",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "equation (5) to equal zero [such will be the case if n(t)T21",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revisions-as-noise case. First, latest available data are used to estimate a",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "As an extreme example, consider the special case in",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "y(t)T21 are uncorrelated, as will certainly be the case if the",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In the special case in which x(T)T and the sample mean of",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "11 Consider, for example, the extreme case in which y(t) 5 x(t) 1 z(t)",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "tion in the special case where the econometrician forecasts",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example, y(t) might be quarterly real GDP growth and x(t)",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the x(t)t are drawn. Suppose, for example, that the x(t)t (t 5",
-    "url": "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example, a user may be interested in studying revision between first published data and",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "statistical agency publishing the data. For example, if reconciliation with annual data",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.5 In the case of growth rates, how often is the later published growth rate in the",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "data points of the time series. For example, 1994Q1 – 2007Q3 represents 55",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "% of positive revisions : it returns the number of cases revised upward as a proportion of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "% of negative revisions: it returns the number of cases revised down ward as a proportion",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "% of zero revisions: it returns the number of cases with null revision as a proportion of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This is an extreme case of unreliability, although it may be that the change of a small",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, the United States releases initial estimates of GDP",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Following the example set by the Philadelphia Federal Reserve",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "be misleading in certain cases.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "forecast differs from a standard forecast. In this case, the aim is",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/bearcapital/n/n4f3d135558b3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/nae2210dd64f8",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/ocaml/n/n27b7431b0b5e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ocaml/n/n7d712123cbea",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/dakudhigura/n/ne5626dc862c7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/contents/pdf/180117_houkokusho.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.boj.or.jp/research/brp/ron_2019/data/ron190320a.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000476197.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000817235.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mlit.go.jp/seisakutokatsu/content/001615133.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1000&context=economics-faculty-publications",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "url": "https://note.com/good_poppy696/n/n5a548ce40e91",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "url": "https://note.com/todobuono/n/n5a514ba6467a",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mitarashi_info/n/n226acbc9d3cc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cat_eye/n/n5140b758937e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brave_yucca4780/n/n32aae27aad78",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://ropensci.org/blog/2026/04/13/reviser/",
@@ -2075,13 +2010,28 @@
     "method": "http"
    },
    {
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://www.inet.ox.ac.uk/publications/data-revisions-and-real-time-forecasting",
+    "url": "https://cran.r-project.org/web/packages//reviser/vignettes/understanding-revisions.html",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/10.1177/20531680231170502",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -2090,114 +2040,81 @@
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） site:note.com",
    "results": [
-    "https://note.com/bearcapital/n/n4f3d135558b3",
-    "https://note.com/jack4manastalk/n/nae2210dd64f8",
-    "https://note.com/ocaml/n/n27b7431b0b5e",
-    "https://note.com/ocaml/n/n7d712123cbea",
-    "https://note.com/dakudhigura/n/ne5626dc862c7",
     "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
     "https://note.com/good_poppy696/n/n5a548ce40e91",
     "https://note.com/todobuono/n/n5a514ba6467a",
+    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
     "https://note.com/cat_eye/n/n5140b758937e",
-    "https://note.com/mitarashi_info/n/n226acbc9d3cc"
+    "https://note.com/brave_yucca4780/n/n32aae27aad78",
+    "https://note.com/atlasstudio/n/nd337c8737bf9"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 12
+   "n_hits": 7
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） note",
-   "results": [
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 1
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） やり方",
-   "results": [
-    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/contents/pdf/180117_houkokusho.pdf",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
-    "https://www.boj.or.jp/research/brp/ron_2019/data/ron190320a.pdf",
-    "https://www.soumu.go.jp/main_content/000476197.pdf",
-    "https://nano.globis.ac.jp/r/digital-glossary/article/1078",
-    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2024.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） 事例",
-   "results": [
-    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/contents/pdf/180117_houkokusho.pdf",
-    "https://www.soumu.go.jp/main_content/000817235.pdf",
-    "https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/ap2025.pdf",
-    "https://www.stat.go.jp/training/2kenkyu/pdf/rn/rn007b00.pdf",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "https://www.boj.or.jp/research/brp/ron_2019/data/ron190320a.pdf",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
-    "https://www.mlit.go.jp/seisakutokatsu/content/001615133.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "statistical data revisions analysis real-time vintages revision size bias preliminary final",
    "results": [
-    "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1000&context=economics-faculty-publications",
-    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
     "https://ropensci.org/blog/2026/04/13/reviser/",
-    "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "https://www.inet.ox.ac.uk/publications/data-revisions-and-real-time-forecasting",
-    "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "https://jeremypiger.com/assets/files/KDP_2003_RESTAT.pdf",
-    "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1342.pdf",
-    "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html"
+    "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "https://cran.r-project.org/web/packages//reviser/vignettes/understanding-revisions.html",
+    "https://www.r-bloggers.com/2026/04/reviser-analyzing-real-time-data-revisions-in-r/",
+    "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "https://journals.sagepub.com/doi/10.1177/20531680231170502",
+    "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
    "results": [
     "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
     "https://note.com/good_poppy696/n/n5a548ce40e91",
-    "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/brave_yucca4780/n/n32aae27aad78",
     "https://note.com/atlasstudio/n/nd337c8737bf9",
-    "https://note.com/cat_eye/n/n5140b758937e"
+    "https://note.com/data_pn/n/n3a33a9120a47",
+    "https://note.com/iga7633/n/n163e182967ea",
+    "https://note.com/cat_eye/n/n5140b758937e",
+    "https://note.com/todobuono/n/n5a514ba6467a",
+    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
+    "https://note.com/brave_yucca4780/n/n32aae27aad78"
    ],
    "engines": [
+    "ddgs:google",
     "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "site:x.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
    "results": [
     "https://x.com/wlbcoltd1214/status/2092253564533911971",
+    "https://x.com/genkuroki/status/2118338683359392035",
     "https://x.com/genkuroki/status/1260402105841410050",
     "https://x.com/yuyawatase/status/2081070485648101771",
     "https://x.com/iwaoshumpei/status/2070672331379540140",
     "https://x.com/sugimoto_kei/status/2043196796550463952",
-    "https://x.com/genkuroki/status/1838792403240837475",
     "https://x.com/genkuroki/status/1754421797343428629"
    ],
    "engines": [
@@ -2207,20 +2124,30 @@
   },
   {
    "query": "site:linkedin.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://in.linkedin.com/in/nooha-sajeev-5761232b4",
+    "https://jp.linkedin.com/pulse/revision-update-iso-19011-raveesh-chandra-pandey--m5fqc?tl=ja",
+    "https://jp.linkedin.com/posts/俊光-早﨑-763730392_今日は統計の話-出荷予測と実績の差はどうしてもゼロにはなりませんそしてその-activity-7448516286810132480-R0sR",
+    "https://jp.linkedin.com/learning/g-certificate-cert-prep-overview-and-structural-map-of-the-test/28688046",
+    "https://jp.linkedin.com/posts/glg_効果的な定量調査を行うための完全ガイド-activity-6995604115120635904-5ca4",
+    "https://jp.linkedin.com/posts/晃徳-髙田-4126ba3b0_サンプルサイズは何個あれば十分ですか-統計解析で意外と見落とされがちなのが-activity-7492013747591434240-h2X3",
+    "https://jp.linkedin.com/learning/statistics-foundations-3-using-data-sets-19861761/3372084"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値）",
    "results": [
-    "https://www.facebook.com/adammed.jp/posts/サイズの正しい測り方を動画で説明します簡易測定キットは改訂前の旧型の説明です近日改訂いたします/288881641517885/",
-    "https://www.facebook.com/jati.jp/photos/オンラインセミナーのご案内だれにでもできる実践報告のための最新統計処理p値を使わずにトレーニング効果の大きさを正しく推量するための効果量とその信頼区間の意義と求/1522197867988371/",
-    "https://www.facebook.com/physicaltherapydiagnosis/photos/a.999684880213272/1816862251828860/",
     "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
+    "https://www.facebook.com/jati.jp/photos/オンラインセミナーのご案内だれにでもできる実践報告のための最新統計処理p値を使わずにトレーニング効果の大きさを正しく推量するための効果量とその信頼区間の意義と求/1522197867988371/",
     "https://www.facebook.com/koichiro.nishikawa.16/photos/静岡産業大学で岩本武範先生のデータの読み解き方がわかるはじめての統計思考と調査設計を受講しました①なぜ今データなのか②調査とは現実の要約である③実例で学ぶ心の測/25158718173788758/",
+    "https://www.facebook.com/physicaltherapydiagnosis/photos/a.999684880213272/1816862251828860/",
     "https://www.facebook.com/toukei.kentei/posts/東京図書株式会社より統計調査士に対応したテキストの改訂版が2024年4月に刊行されます改訂版では公的統計および統計調査に関する変更を反映し公的統計に関する記述を/928510505734997/",
-    "https://www.facebook.com/stat.japan/posts/9月29日総務省統計局からお知らせします令和7年国勢調査-人口等基本集計結果-2025年令和7年10月1日現在の我が国の人口は1億2297万3千人2020年に比/1530830449080978/"
+    "https://www.facebook.com/medicalnote.jp/posts/2016年膵臓がんのステージ分類が改訂されより細かく腫瘤の大きさから進行度を評価できるようになりました今回は膵臓がんのステージ分類から早期膵臓がんの診断のポイン/1951196555141853/",
+    "https://www.facebook.com/office.oshima/posts/人口動態統計速報令和７年７月分-速報全体版を見たい場合は印刷用資料のpdfファイルをご覧ください-httpswwwmhlwgojptoukeisaikinhwj/1209752114526797/"
    ],
    "engines": [
     "ddgs:google"
@@ -2229,34 +2156,19 @@
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） note 社長",
-   "results": [
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
-    "https://www.soumu.go.jp/main_content/000476197.pdf",
-    "https://www.rilg.or.jp/htdocs/uploads/protect/R5_chousa/R5_03.pdf",
-    "https://www.bunkyo.ac.jp/faculty/business/feature/journal/pdf/vol7/business_journal_vol7_full.pdf",
-    "https://www.soumu.go.jp/johotsusintokei/linkdata/r07_03_houkoku.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 5
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "統計の改訂の大きさの測り方（速報と確報の差・改訂の出どころを定義の変更と新しい情報に分ける・リアルタイムの値） X 投稿",
-   "results": [
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "https://www.rilg.or.jp/htdocs/uploads/protect/R5_chousa/R5_03.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 2
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "statistical data revisions analysis real-time vintages revision size bias preliminary final site:linkedin.com",
    "results": [
-    "https://dk.linkedin.com/in/fredericverhelst",
-    "https://www.bing.com/aclick?ld=e8_O1l897cCzWVu_j6Mj_crzVUCUxWLTbd9KLgxNZQsVBVks3f_nLeqqksrYvHrr9xTGw4nLqHP7XrW4wNWG_i-3dwye6t9-bNR3xXGi82wJNnqYwAd-HWpqRSfZpAy7OkoJMA1ZgKTm8LKWB_ubp3SIQIHG6oY88CM6sEGOh7TlmK976BqVD-9aAWd2BWcQaVNk1f6g&u=aHR0cHMlM2ElMmYlMmZ3d3cuY291cnNlcmEub3JnJTJmcHJvZmVzc2lvbmFsLWNlcnRpZmljYXRlcyUyZmdvb2dsZS1hZHZhbmNlZC1kYXRhLWFuYWx5dGljcyUyZnBhaWRtZWRpYSUzZnV0bV9tZWRpdW0lM2RzZW0lMjZ1dG1fc291cmNlJTNkYmclMjZ1dG1fY2FtcGFpZ24lM2RiMmNfbmFtZXJfZ29vZ2xlLWFkdmFuY2VkLWRhdGEtYW5hbHl0aWNzX2dvb2dsZV9mdGNvZl9wcm9mZXNzaW9uYWwtY2VydGlmaWNhdGVzX3B4X2RyX2JhdV9iZ19zZW1fcHJfdXNfZW5fbV94XzI0LTA1XzIwMXMlMjZjYW1wYWlnbmlkJTNkNjYyODQxNjgzJTI2YWRncm91cGlkJTNkMTI0MjQ0OTQ1OTE3MTQ3MiUyNmRldmljZSUzZGMlMjZrZXl3b3JkJTNkYWJvdXQlMjUyMGRhdGElMjUyMGFuYWx5dGljcyUyNm1hdGNodHlwZSUzZHAlMjZuZXR3b3JrJTNkbyUyNmRldmljZW1vZGVsJTNkJTI2YWRwb3NpdGlvbiUzZCUyNmNyZWF0aXZlaWQlM2Q3NzY1MzIyMDAxMzEzOSUyNmFkZ3JvdXAlM2RiMmNfbmFtZXJfZ29vZ2xlLWFkdmFuY2VkLWRhdGEtYW5hbHl0aWNzX2dvb2dsZV9neF9iYXVfYmdfdXMtY2FfeF94X3hfeF9oeWJfeF94X3Byb2Zlc3Npb25hbC1jZXJ0aWZpY2F0ZXNfeCUyNnF1ZXJ5c3RyaW5nJTNkc3RhdGlzdGljYWwlMjUyMGRhdGElMjUyMHJldmlzaW9ucyUyNTIwYW5hbHlzaXMlMjUyMHJlYWwtdGltZSUyNTIwdmludGFnZXMlMjUyMHJldmlzaW9uJTI1MjBzaXplJTI1MjBiaWFzJTI1MjBwcmVsaW1pbmFyeSUyNTIwZmluYWwlMjZ0YXJnZXRpZCUzZGt3ZC03NzY1MzQ1MDYyMjg1NyUzYWxvYy0xOTAlMjZiaWRtYXRjaHR5cGUlM2RiYiUyNmV4dGVuc2lvbmlkJTNkJTI2bXNjbGtpZCUzZDI5YzE4YTJjMDRiZjFkMGI4YjAyZTBkYzdjMGIwODgw&rlid=29c18a2c04bf1d0b8b02e0dc7c0b0880",
     "https://www.linkedin.com/posts/philipp-wegmueller_reviser-analyzing-revisions-in-real-time-activity-7444298545873997824-JzXd",
     "https://www.linkedin.com/pulse/why-economic-data-revisions-hurt-us-alland-how-stop-them-jim-kaffen-rtbzc",
     "https://www.linkedin.com/posts/volascope_reasons-for-major-revisions-in-government-activity-7377009307021705216-bZiD",
@@ -2266,291 +2178,13 @@
     "https://pe.linkedin.com/pulse/major-revision-vs-minor-understanding-differences-nvurc"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "tional approach would be to estimate the forecasting model using the latest vintage of",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "data revisions we are able to improve the reliability of output gap estimates in real time",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "This article considers the implications of the nature of the estimates of macroeconomic",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimates, for forecasting the future values of those variables. Excellent general surveys",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "including details of the nature and timing of their updates to initial estimates (i.e., data",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "in terms of its processing of source data to generate initial estimates of macroeconomic",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "second estimate (equivalently, rst revision) reveals the truth. Later on, we describe",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "BEA publishes its rst or  advanceestimates of quarterly national accounts data about",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "a month after the quarter in question. These estimates are necessarily based on only",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "formerly known as the  preliminaryand  nalestimates, but are now simply the second",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and third estimates. As described by Landefeld, Seskin and F raumeni (2008), 25% of the",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "GDP components at the time of the release of the rst estimate are trend-based data",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "trend-based data in the second and third estimates is 23% and 13% respectively. Hence",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "to incorporate new annual source data into the estimates. Finally, comprehensive or",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In terms of the question we posed - why data revisions? - the need for timely estimates",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "W e survey these methods, and provide guidance on choosing one, depending on whether",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "benchmark revisions make use of major periodic source data, as well as methodological",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3In the case of the US, the Bureau of Economic Analysis provides descriptions of the methodologies",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "employed at: http://www.bea.gov/methodologies/index.htm#national_meth",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3 F orecasting methods and a model of the behaviour",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "expecting somehow to get cider . [Kishor and Koenig (2012)]",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "F or step (2) we need an estimate of ^yT . Suppose the SO simply sets yT +1T =wT +1T , so",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the second step of the three-stage forecasting strategy set out above, would result in",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(7) provides an estimate of ^yT , as required by step (2) of the forecasting strategy.",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Galvªo (2017) proposes a one-step method to jointly estimate the parameters of",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "lagged values, and Bayesian methods were sometimes adopted: see, e.g., Doan, Litterman",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "vintage, i.e., Yt+1 for t = 1; 2;:::T , where Yt+1 =\b:::;y t+1t\u00001;yt+1t . The h-step ahead",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "to work relatively well. W e use the statistical framework of Jacobs and van Norden (2011)",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "autoregressive model for forecasting. The statistical framework of Jacobs and van Norden",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "model as a coherent statistical framework for deriving the properties of single-equation",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "it ignores the fact that it will be revised. In some cases, the costs of this approach are",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "for example, Croushore and Stark (2001)), we are able to look back and gauge how well",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "to what might be expected to work for forecasters today. As an example, by forecasting",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3In the case of the US, the Bureau of Economic Analysis provides descriptions of the methodologies",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the superscript the quarterly vintage (or estimate). In the case of US BEA data, the",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "also be modelled and forecasted. It is generally the case that the models we discuss",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5For example, there are 8 benchmark revisions in the data vintages from 1965Q3 up 2010Q1. In fact",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "or on the later estimate. F or example, consider the revision between the rst-estimates",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and the PF assumes this is the case. That is, the SO makes no attempt to process the",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A number of extensions and generalizations are possible. F or example, Howrey (1978)",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "motivated by, and generalises, the simpler cases described in sections 3.2 and 3.3.",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(2017) estimates the forecasting model  a DSGE model in her case  with nal (true",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "revisions are integrated of order zero (written I (0)). So, for example, Yt+1t\u00001 and Ytt\u00001",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Carriero, Clements and Galvªo (2015)). F or example, let yt+1t = 400\u0000Yt+1t \u0000Yt+1t\u00001\u0001 be",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "If n is set equal to 2, for example, then values after the rst revision are assumed to",
-    "url": "https://centaur.reading.ac.uk/78512/1/encyc_final.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ]
- },
- "runs": 15,
+ "new_this_run": {},
+ "runs": 16,
  "first_researched_at": "2026-11-05T17:50:43.722749+00:00"
 }

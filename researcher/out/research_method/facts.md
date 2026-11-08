@@ -2222,16 +2222,16 @@
   - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報の決算公告を訂正するには？誤記発覚後の手順・費用・リスクを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「訂正公告・取消公告の手順、費用（2枠7万円台〜）、会社法976条のリスクをわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「帝国データバンクの決算公告を無料で検索する方法｜有料サービスとの違いも解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「帝国データバンクで決算公告を無料検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「TDB企業サーチの使い方、COSMOS有料データとの違い、見つからない場合の官報・EDINETでの代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「ホームページ（電子公告）で公告できる規模基準や株式会社との違い、事業報告書の具体的な閲覧方法まで比較表で整理して紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告を電子公告に変更する登記手続き｜費用3万円・5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告を電子公告に変更する登記手続きを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「吸収分割の公告と決算公告の同時掲載とは？費用・手順・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「減資公告と決算公告の同時掲載とは？費用・手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告の官報掲載ガイド｜費用・手順・申込みを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「決算公告の官報掲載を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「医療法人の決算公告はホームページでできる？義務の基準と閲覧方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 突き合わせ・推定：
   - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -2266,6 +2266,7 @@
   - 「Q3. 決算公告の当期純利益から売上高を推定できますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 失敗・落とし穴：
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -2279,7 +2280,6 @@
   - 「ただし、中小企業の決算公告はB/Sのみのため、売上成長率や利益率の比較はできない点に注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「株式会社の決算公告を調べる際と対象を混同しないようご注意ください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 実例：
   - 「必要になるケースの判定基準、会社法789条・799条の根拠、官報費用の目安から申込期限までを一括で確認できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3457,7 +3457,7 @@
   - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
-- 突き合わせ・推定：記載なし（読んだ16頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -9424,6 +9424,12 @@
 ## 検索の記録の書き方（検索先・検索式・絞り込み・件数・表示上限での打ち切り・灰色文献）と再現できる検索（search reporting PRISMA-S literature search documentation grey literature result limits reproducible search）
 - 文脈：裏取り
 - 手順・やり方：
+  - 「How to search grey literature for a systematic review: which sources to check (theses, trial registries, conference abstracts, preprints, government/NGO reports), how to translate a search strategy where Boolean syntax isn’t supported, and how to document the search under PRISMA-S so it satisfies PRISMA 2020 reporting.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「There is no single index that covers grey literature the way a bibliographic database covers journal articles. Each source type below needs to be searched separately, and each has its own convention for what to record in your methods section.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「PRISMA and systematic review methodology guide」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「(Authority, Accuracy, Coverage, Objectivity, Date, Significance), developed by Jess Tyndall at Flinders University, is a commonly used tool for this appraisal step specifically because it was built for grey literature rather than adapted from a tool designed for peer-reviewed studies.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「Yes, though they are typically tracked as a separate arm within the diagram’s Identification phase (commonly labeled “other methods” alongside “databases and registers”) so the count of records from each source type stays distinct and traceable through screening and inclusion.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「Most reviewers apply an explicit credibility-appraisal step, such as the AACODS checklist, before treating a grey-literature document as evidence, precisely because it has not passed through journal peer review. This does not mean automatically excluding it — it means documenting how its credibility was assessed.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
   - 「Preparing a systematic review - How to get started with systematic literature searching - Library Guides at University of the West of Scotland」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
   - 「How to get started with systematic literature searching: Preparing a systematic review」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
   - 「Registering your systematic review is an important step in ensuring transparency, credibility, and avoidance of duplication.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
@@ -9433,12 +9439,6 @@
   - 「Using this template demonstrates a clear, transparent search method and supports critical engagement with the evidence base - a valuable skill in academic and professional practice.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
   - 「Screening and appraisal methods」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
   - 「Allow others to assess or replicate your methods」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
-  - 「Many journals (and assessors) expect full details of your search methods, including the databases used, search terms, limits applied, and the exact strategy as run. Providing this information is essential for transparency, reproducibility, and meeting publishing standards」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
-  - 「), an extension of the PRISMA 2020 guidelines, focuses specifically on the transparent reporting of search strategies in systematic reviews. It helps ensure that the search methods are clear, detailed, and reproducible.」（https://uws-uk.libguides.com/c.php?g=710225&p=5308192）
-  - 「は、題名や抄録の文字列そのものを引く方法です」（https://www.conolab.co.jp/lit-search/）
-  - 「特にレビュー論文を書くつもりがあるなら、記録がないと方法の節が書けません」（https://www.conolab.co.jp/lit-search/）
-  - 「そして、ここで作った記録が、そのままレビューの方法の節になり、緒言の「まだ検討されていない」の根拠になります」（https://www.conolab.co.jp/lit-search/）
-  - 「文献調査とは？やり方を初心者向けに解説｜論文の探し方・進め方・コツ | Scholar Compass」（https://scholarcompass.net/columns/3）
 - 突き合わせ・推定：
   - 「文献調査がうまくいくと、研究テーマの妥当性を確認できるだけでなく、研究背景、関連研究、仮説、方法の設計まで進めやすくなります」（https://scholarcompass.net/columns/3）
   - 「たとえば「批判的思考力の介入研究において、授業設計の要因として〜と〜が繰り返し検討されており（〇〇, 2020；△△, 2021；□□, 2023）、効果量の推定には〜という課題が残っている（□□, 2023；◇◇, 2024）」（https://ja.tesify.pro/bunken-review-kakikata-2026/）
@@ -9464,6 +9464,7 @@
   - 「統計解析・統計チェック・メタアナリシスに対応します」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「The PRISMA-S checklist is available for download in Word and PDF formats from the PRISMA Statement web site [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 - 失敗・落とし穴：
+  - 「Registry name, date searched, search terms/condition and intervention fields used, number of registered trials identified, number with no linked publication (relevant to a risk-of-bias/publication-bias assessment).」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
   - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed toward English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「]. Though searching a general search engine like Google or using a general search engine to search a specific website may introduce some bias into the search methodology through the personalization algorithms inherent in many of these tools [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「]. Conference proceedings are often the only way to locate these studies. Including conference proceedings in a systematic review search helps minimize bias [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
@@ -9478,8 +9479,9 @@
   - 「メタアナリシスとは？手順・フォレストプロットの読み方・よくある誤り」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「バイアスリスク評価｜RoB 2・ROBINS-I・NOSの選び方」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
   - 「バイアスリスク評価のツールは、含める研究の研究デザインごとに選びます」（https://japan.editverse.com/pubmed-search-strategy-systematic-review/）
-  - 「Systematic reviews were developed to remove as much bias as possible from the literature review process. One of the most important ways they achieve this reduction in bias is by searching beyond literature databases, which are skewed towards English-language publications with positive results [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC7839230/）
 - 実例：
+  - 「Systematic Review Abstract Example」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
+  - 「— A section-by-section walkthrough of the PRISMA 2020 for Abstracts checklist, with a full illustrative composite systematic review abstract example.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
   - 「検索して件数が出たら、それは結果ではなく指示です」（https://www.conolab.co.jp/lit-search/）
   - 「図2 件数は結果ではなく、次の指示」（https://www.conolab.co.jp/lit-search/）
   - 「デザインで絞ると、質的研究や事例報告が一括で消えます」（https://www.conolab.co.jp/lit-search/）
@@ -9493,8 +9495,6 @@
   - 「文献マトリックス（比較表）に研究目的・方法・結果・限界を記録し、テーマ別に分類する」（https://ja.tesify.pro/bunken-review-kakikata-2026/）
   - 「例えば「海外では研究されているが日本では未検討」「成人を対象にした研究は多いが高校生対象は少ない」「量的研究は蓄積されているが質的な経験知は不足」といった観点で先行研究を見直すと、自分の研究が必要とされる理由が明確になります」（https://ja.tesify.pro/bunken-review-kakikata-2026/）
   - 「PRISMA-S emerged from health information practice, and its examples are clinical, but its design scope is explicit: the checklist was built」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
-  - 「A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
-  - 「Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycInfo.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
 
 ## 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）（triangulation across settings and time points shared bias false corroboration reporting triangulation strategy）
 - 文脈：裏取り
@@ -10585,11 +10585,11 @@
 
 ## AIや他人が示した番号・統計・引用を原本で1件ずつ照合する手順（存在しない統計・番号は実在するが中身が違う・調べた範囲の記録）-求人 -就活（verify AI cited statistics identifiers against original source checklist scope record）
 - 文脈：検証
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ13頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ13頁・検索12回）
+- 実例：記載なし（読んだ13頁・検索12回）
 
 ## 名寄せの前の標準化の実務（異体字・機種依存文字・表記ゆれ辞書・標準化してから照合・法人番号では事業所・拠点を区別できない粒度の違い）-求人 -就活（entity resolution standardization before matching variant kanji normalization establishment vs legal entity granularity）
 - 文脈：名寄せ
@@ -11290,7 +11290,7 @@
   - 「The guide warns that cases can disappear without notice .」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「Following the Waste Back to Italy: An OSINT Case Study from Croatia」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
   - 「AI-Designed Viral Genomes: What the First Functional Phage Case Changes」（https://projectosint.com/osint-chinese-companies-investigation-guide/）
-- 失敗・落とし穴：記載なし（読んだ8頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
 
 ## 統計の利用上の注意を数字の前に読む手順（抽出推計か全数か・付加価値の算式・消費税の込み抜き・秘匿の扱い・都道府県の統計課の解説）（how to read statistical survey methodology notes before using numbers sampling estimation suppression tax inclusive）
 - 文脈：裏取り
