@@ -129,10 +129,15 @@ def off_topic_latin(q: str, name: str, en: str = "", url: str = "") -> bool:
 JOBHOST = re.compile(r"(r-agent|stanby|indeed|doda|mynavi|rikunabi|en-japan|townwork|baitoru|careerjet|kyujinbox|hatarako|bizreach|green-japan|wantedly|type\.jp|levtech|jac-recruitment)", re.I)
 JOBPATH = re.compile(r"(job_search|/jobs?/|/kw/|search|/q-|[?&](q|keyword|kw)=)", re.I)
 HEADLINE_RE = re.compile(r"(で解説|を解説|注目\s*\d+\s*本|\d+\s*選|まとめ|ランキング|とは[？?]?)\s*$")
+SITE_SUFFIX = re.compile(r"(\s[-–—|]\s|｜)[^。、]{2,60}$")
 def job_or_headline(q: str, url: str) -> bool:
     p = urlparse(url or "")
     if JOBHOST.search(p.netloc) and JOBPATH.search((p.path or "") + "?" + (p.query or "")): return True
     q = re.sub(r"\s+", " ", q or "").strip()
+    # 2026-11-09 93回目の走査の失敗から：36kr.jp の記事の題名「関節1つの交換で70万円！…「修理難民」問題 - 36Kr Japan | 最大級の…」が
+    # 80字を超えたため題名の判定をすり抜け、人型ロボットの「経済」の事実として INDEX.md に出た（4-5：題名の数字は事実にしない）。
+    # 句点の無い行で、末尾が「 - サイト名」「 | サイト名」「｜サイト名」の形（ページの題名＋サイト名）なら長さによらず題名として外す（4-118）
+    if "。" not in q and len(q) <= 160 and SITE_SUFFIX.search(q): return True
     return "。" not in q and len(q) <= 80 and bool(HEADLINE_RE.search(q))
 
 

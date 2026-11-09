@@ -401,6 +401,11 @@ def rows_from_doc(topic, d):
                         y, yfix = str(int(y) - 1), "活動調査の調査年→実績年（-1年）"
                     if GOINGCONCERN.search(q): GC.setdefault(topic, set()).add((name, url))
                     kind = "調査会社" if REPORT.search(url) else "信用調査" if CREDIT.search(url) else "一次" if is_primary(url) else "記事"
+                    # 2026-11-09 93回目の走査の失敗から（4-118）：mfg_capacity の金型（HS8480）の輸入のミラーの品目で、gdfreak.com の
+                    # 「2023年の輸入額は前年比6.6%増の21.0億円」が「受注金額・加工賃収入」の欄に入った。輸出入の額は受託の受注・加工賃ではない。
+                    # 数字の前30字に輸入・輸出の額の語があれば、金額・増減率の文脈を「貿易額（輸出入）」に分けて同じ欄で突き合わせない
+                    if re.search(r"(輸入|輸出)(額|高|金額)|(import|export)s?\s*(value)?", q[max(0, m.start() - 30):m.start()], re.I) and u in ("万円", "%"):
+                        ctx_n = "貿易額（輸出入）" if u == "万円" else "貿易額（輸出入）の増減率"
                     yield {"品目": name, "区分": cat, "文脈": ctx_n, "年": y, "値": round(v, 4), "単位": u,
                            "一次": kind, "立場": standing(url, kind),
                            "元へ戻る": "要" if kind != "一次" and CITES_PRIMARY.search(q) else "",
@@ -3287,6 +3292,40 @@ def scan(topic):
                *(f"  - {n[:30]}／{k}：0が{z}／{t}件" for n, k, z, t in _zh[:4]),
                f"- 年が取得日の年より後で「予測」の印が無い行：{len(_fut)}件（見込みを実績と読んだ疑い）／1950年より前の年の行：{len(_old)}件（番号・金額を年と読んだ疑い）",
                f"- 貿易統計の行：{len(_tr)}件。うち CIF/FOB の印がある {len(_cf)}件・月の値 {len(_mo)}件・再輸出や仲介の語がある {len(_rx)}件。輸入（CIF）と相手国の輸出（FOB）を突き合わせるときは、印の無い行を同じ欄に並べず、月の値は時点の差が大きいので年の値で比べる（4-117）",
+               ""]
+    except Exception: pass
+    # 2026-11-09 4-118（GIJN／Journalist's Resource「4 Tips for Avoiding Math Errors When Reporting」：割合どうしの差は
+    # 「ポイント」で、割合の伸びは「%」で書く。1%→5%は4ポイント増で、4%増ではない（相対では400%増）。
+    # iMediaEthics「Why Journalists Should Learn Math」：数字の誤りの元は 聞き違い／出どころの無自覚な誤り／意図的な誇張／
+    # 計算の誤り／他媒体の誤りの写し の5つで、多くは計算力でなく確かめ直しの省略から出る）。
+    # ①引用に「A%から（→）B%」と「C%増・減」が並び、C が B−A に近い＝ポイント差を%と書いた疑い
+    # ②同じ品目に「ポイント」の値と「%」の増減率が混ざる＝割合の差と割合の伸びを同じ欄で比べている疑い
+    # ③転載・配信の印（「より転載」「originally published」「republished」「出典：」）がある引用＝元の記事を探して1件に束ねる
+    try:
+        _pp, _mix, _syn = [], {}, []
+        _seen = set()
+        for r in rows:
+            q = unicodedata.normalize("NFKC", r.get("引用", "") or "")
+            if q in _seen: continue
+            _seen.add(q)
+            m = re.search(r"(\d+(?:\.\d+)?)\s*%\s*(?:から|→|より)\s*(\d+(?:\.\d+)?)\s*%", q)
+            if m:
+                a, b = float(m.group(1)), float(m.group(2))
+                for c in re.findall(r"(\d+(?:\.\d+)?)\s*%\s*(?:の)?(?:増|減|上昇|低下|伸び|拡大|縮小)", q[m.end():]):
+                    c = float(c)
+                    if abs(b - a) > 0 and abs(c - abs(b - a)) <= 0.05 * abs(b - a) + 0.01:
+                        _pp.append((r, a, b, c)); break
+            k = r.get("品目", "")
+            if re.search(r"ポイント|pt\b|percentage point", q, re.I): _mix.setdefault(k, [0, 0])[0] += 1
+            if re.search(r"\d\s*%\s*(?:増|減|上昇|低下|伸び)", q): _mix.setdefault(k, [0, 0])[1] += 1
+            if re.search(r"より転載|転載元|配信元|originally (?:published|appeared)|republished|reprinted", q, re.I): _syn.append(r)
+        _mx = [(k, a, b) for k, (a, b) in _mix.items() if a and b]
+        md += ["## 割合の差（ポイント）と割合の伸び（%）、転載の印（4-118・機械）",
+               f"- 「A%からB%」と並ぶ「C%増・減」で、C が B−A と同じ＝ポイント差を%と書いた疑い：{len(_pp)}件。増減率に使わず、元の表の2つの割合から scan.py の差（ポイント）と伸び（%）を別の欄で出し直す（4-118）",
+               *(f"  - {r['品目'][:30]}：{a:g}%→{b:g}% と {c:g}%（{r['出典']}）" for r, a, b, c in _pp[:4]),
+               f"- 同じ品目に「ポイント」と「%の増減」が混ざる品目：{len(_mx)}件。割合の差と割合の伸びを同じ欄で比べない",
+               *(f"  - {k[:30]}：ポイント {a}件・%増減 {b}件" for k, a, b in _mx[:4]),
+               f"- 転載・配信の印がある引用：{len(_syn)}件。元の記事を探して出どころ1件に束ねる（4-1・4-118）",
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
