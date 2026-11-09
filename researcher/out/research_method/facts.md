@@ -6488,7 +6488,7 @@
   - 「The bull case in most investment situations is the obvious thesis. The bear case is where the work is. Stress-testing the thesis against Stage 4 risks before building valuation assumptions forces intellectual honesty about the entry price required.」（https://minalyst.com/blog/research-guides/due-diligence-checklist）
   - 「Cisco is a selective buy at $102.97, with a stronger case than a networking stock purchased only for AI excitement. AI infrastructure orders are…」（https://equityresearchbase.com/）
   - 「Separate reported facts, assumptions and examples.」（https://equityresearchbase.com/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
 
 ## 構造化分析手法（シナリオの4本・仮定の書き出し・グループでの分析）の実務（structured analytic techniques scenarios key assumptions check practitioner）
 - 文脈：突き合わせ・推定
@@ -6604,6 +6604,7 @@
   - 「5つの閲覧方法を比較｜目的別おすすめ早見表」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「Q6: 非上場企業の決算公告を無料で調べる最も効率的な方法は何ですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 突き合わせ・推定：
+  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「調査先の回答、過去データ、推定値が含まれることもあります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
   - 「決算公告の官報掲載期限｜いつまでに申し込めばいい？逆算スケジュール完全ガイド」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -6631,6 +6632,7 @@
   - 「4. 非上場会社は決算公告を探す」（https://note.com/s_o_0517/n/n51e06bbe1aed）
   - 「非上場会社でも、株式会社には原則として決算公告義務があります」（https://note.com/s_o_0517/n/n51e06bbe1aed）
 - 失敗・落とし穴：
+  - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「会社法の「遅滞なく」の実務解釈、総会後2〜6週間が目安の申込締切、繁忙期の注意点、3月・12月決算など決算期別の逆算スケジュール表を網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
@@ -6645,7 +6647,6 @@
   - 「官報の決算公告を閲覧する際には、いくつかの実務上の注意点があります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告（電子公告）のURL変更に必要な登記手続き・費用・注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
   - 「定款変更・株主総会決議は不要な手続きの流れと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
-  - 「官報で破産・再生公告を確認する方法、無料で見られる範囲、個人情報を扱うときの注意点を整理します」（https://kanpou.ai/guide）
 - 実例：
   - 「提出を依頼しても、「そんなこと言うのはおたくだけだよ」、「出すほどのものじゃないよ」、「お恥ずかしい内容なので勘弁してください」……等と言って煙に巻かれてしまうケースが多いのではないでしょうか」（https://note.com/s_o_0517/n/n51e06bbe1aed）
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-sagashikata/）
@@ -12437,7 +12438,7 @@
   - 「Commercial PEP databases remain more comprehensive than open alternatives but cost $20K–$100K+ annually. OpenSanctions provides a viable open-source alternative for most use cases and has rapidly closed the coverage gap since 2022.」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
   - 「7.2 Case: Uyghur Forced Labor Prevention Act (UFLPA, US 2022)」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
   - 「7.3 Case: Russia Sanctions and Component Diversion」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
 
 ## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
 - 文脈：会社・一次

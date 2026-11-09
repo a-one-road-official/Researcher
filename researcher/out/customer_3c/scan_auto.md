@@ -768,10 +768,10 @@
   - 出光興産
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：3件／数字のある品目 3件（100%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
-  - www.youtube.com と www.nikkei.com：品目の重なり 2/2（100%）
+  - unistyleinc.com と www.nikkei.com：品目の重なり 2/2（100%）
   - the-shashi.com と note.com：品目の重なり 3/3（100%）
-  - the-shashi.com と www.youtube.com：品目の重なり 2/3（67%）
   - the-shashi.com と www.nikkei.com：品目の重なり 2/3（67%）
+  - the-shashi.com と unistyleinc.com：品目の重なり 2/3（67%）
   - the-shashi.com と business.nikkei.com：品目の重なり 2/3（67%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
