@@ -3414,6 +3414,75 @@ def scan(topic):
                f"- 毎月勤労統計の1月の前年比：{len(_mk1)}件。標本交替・ウェイト更新の断層を含み遡及改定されない値として読み、向きに使わない（4-26・4-120）",
                ""]
     except Exception: pass
+    # 2026-11-09 4-121（MetricGate「MAD基準化zスコア」「ロバスト統計」：中央値とMAD×1.4826で標準化し|z|≥3.5を強い外れ値、
+    # MAD=0（半分以上が同じ値）ならIQRの柵に切り替える。SD/MADが1.5超は裾の重さ・外れ値の兆し、平均と20%トリム平均の差がMADの半分超は汚染の兆し。
+    # 経産省「2023年経済構造実態調査 製造業事業所調査 利用上の注意」：対象は分類ごとに出荷額の9割に達するまでの事業所で残りは推計、
+    # 個人経営を除く全事業所の集計で、4人以上の工業統計と単純に比べられない。雇用区分は「正社員」から「無期・有期」に変わった。
+    # SCU「Tricky Questions Buried in the Number」：期待される件数・全単位がそろうかを先に数える）。
+    # ①品目×区分×単位で値5件以上の欄ごとに、ロバストな外れ値（|z|≥3.5、MAD=0ならIQRの柵）と SD/MAD・トリム平均の兆しを出す（外れ値は消さず印すだけ）
+    # ②同じ品目×区分に工業統計（〜2020年）と経済構造実態調査（2021年〜）の値が並ぶ組＝範囲・推計の違う値をつないでいる
+    # ③雇用区分の旧い語（正社員・正職員以外）と新しい語（無期雇用・有期雇用）が同じ品目に混ざる
+    # ④都道府県別を名指す品目で、引用に出る都道府県の数（47に足りない＝全単位がそろっていない）
+    try:
+        import statistics as _st
+        _grp = {}
+        for r in rows:
+            try: v = float(r.get("値"))
+            except (TypeError, ValueError): continue
+            if r.get("予測"): continue
+            _grp.setdefault((r["品目"], r.get("区分", ""), r.get("単位", "")), []).append((v, r))
+        _rob = []; _heavy = []; _iqr0 = 0
+        for k, lst in _grp.items():
+            xs = sorted(v for v, _ in lst)
+            if len(xs) < 5: continue
+            med = _st.median(xs); mad = _st.median([abs(x - med) for x in xs])
+            if mad > 0:
+                s = 1.4826 * mad
+                out = [(v, r) for v, r in lst if abs(v - med) / s >= 3.5]
+                sd = _st.pstdev(xs); kk = int(len(xs) * 0.2)
+                tm = _st.mean(xs[kk:len(xs) - kk]) if len(xs) - 2 * kk > 0 else med
+                if sd / s > 1.5 or abs(_st.mean(xs) - tm) > mad / 2:
+                    _heavy.append((k, round(sd / s, 2), len(xs)))
+            else:
+                _iqr0 += 1
+                q = _st.quantiles(xs, n=4); iq = q[2] - q[0]
+                out = [(v, r) for v, r in lst if v < q[0] - 1.5 * iq or v > q[2] + 1.5 * iq] if iq > 0 else []
+            if out: _rob.append((k, len(out), len(xs), out))
+        _br = {}
+        for r in rows:
+            t = (r.get("引用", "") or "") + (r.get("出典", "") or "")
+            y = str(r.get("年", ""))[:4]
+            if not y.isdigit(): continue
+            kk2 = (r["品目"], r.get("区分", ""))
+            if re.search(r"工業統計", t) and int(y) <= 2020: _br.setdefault(kk2, set()).add("工業統計")
+            if re.search(r"経済構造実態調査", t) and int(y) >= 2021: _br.setdefault(kk2, set()).add("経済構造実態調査")
+        _brx = [k for k, v in _br.items() if len(v) == 2]
+        _emp = {}
+        for r in rows:
+            q2 = r.get("引用", "") or ""
+            if re.search(r"正社員|正職員", q2): _emp.setdefault(r["品目"], set()).add("旧")
+            if re.search(r"無期雇用|有期雇用", q2): _emp.setdefault(r["品目"], set()).add("新")
+        _empx = [k for k, v in _emp.items() if len(v) == 2]
+        _PREF = "北海道 青森 岩手 宮城 秋田 山形 福島 茨城 栃木 群馬 埼玉 千葉 東京 神奈川 新潟 富山 石川 福井 山梨 長野 岐阜 静岡 愛知 三重 滋賀 京都 大阪 兵庫 奈良 和歌山 鳥取 島根 岡山 広島 山口 徳島 香川 愛媛 高知 福岡 佐賀 長崎 熊本 大分 宮崎 鹿児島 沖縄".split()
+        _pc = {}
+        for r in rows:
+            if not re.search(r"都道府県別|都道府県ごと", r["品目"]): continue
+            q3 = r.get("引用", "") or ""
+            for p in _PREF:
+                if p in q3: _pc.setdefault(r["品目"], set()).add(p)
+        md += ["## ロバストな外れ値・統計のつなぎ目・全単位の点検（4-121・機械）",
+               f"- 値5件以上の欄で、中央値とMAD×1.4826で|z|≥3.5（MAD=0の欄はIQRの柵）の外れ値を持つ欄：{len(_rob)}欄（うちMAD=0でIQRに切り替えた欄の総数 {_iqr0}）。外れ値は消さず、元の表で単位・対象を確かめるまで採る値の根拠にしない（4-89・4-121）",
+               *(f"  - {k[0][:30]}／{k[1]}（{k[2]}）：{n}/{m}件　例 {out[0][0]:g}（{out[0][1].get('出典', '')}）" for k, n, m, out in sorted(_rob, key=lambda x: -x[1])[:5]),
+               f"- SD/MAD が1.5超か、平均と20%トリム平均の差がMADの半分超の欄（裾が重い・混入の兆し）：{len(_heavy)}欄。平均でなく中央値で読み、混ざった文脈を本文で分ける（4-5・4-121）",
+               *(f"  - {k[0][:30]}／{k[1]}：SD/MAD={x}（n={n}）" for k, x, n in sorted(_heavy, key=lambda x: -x[1])[:4]),
+               f"- 同じ品目×区分に工業統計（2020年以前）と経済構造実態調査（2021年以降）の値が並ぶ組：{len(_brx)}組。後者は出荷額の9割までの事業所＋推計・個人経営を除く全規模で、4人以上の工業統計と範囲が違うので、つないで向きを書かない（4-105・4-121）",
+               *(f"  - {k[0][:35]}／{k[1]}" for k in _brx[:4]),
+               f"- 雇用区分の旧い語（正社員・正職員）と新しい語（無期・有期雇用）が混ざる品目：{len(_empx)}件。区分が連続しないので同じ欄で比べない（4-121）",
+               *(f"  - {k[:40]}" for k in _empx[:3]),
+               f"- 都道府県別を名指す品目で、引用に出る都道府県の数が47に足りない品目：{sum(1 for v in _pc.values() if len(v) < 47)}件。全単位がそろわない表で全国の向きを書かない（4-91・4-121）",
+               *(f"  - {k[:35]}：{len(v)}都道府県" for k, v in list(_pc.items())[:3] if len(v) < 47),
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
