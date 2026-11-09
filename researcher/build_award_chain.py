@@ -90,6 +90,7 @@ LABELS = {
     "取引先": r"主要取引先|主な取引先|取引先|主要販売先|主な販売先|販売先|主要納入先|納入先|主要仕入先|仕入先|取引実績",
     "子会社": r"子会社|関連会社|関係会社|グループ会社|グループ企業|国内拠点|海外拠点",
     "従業員": r"従業員数|従業員|社員数",
+    "売上": r"売上高|売上|年商|年間売上",
 }
 ANY_LABEL = re.compile(r"^(?:" + "|".join(LABELS.values()) + r"|資本金|代表者|代表取締役|電話|TEL|FAX|URL|売上高|決算|許認可|取引銀行|主要取引銀行|加盟団体)")
 SUBPAGE_RX = re.compile(r"会社概要|会社案内|企業情報|会社情報|企業概要|沿革|取引先|グループ|拠点|事業所|about|company|corporate|profile|outline|overview", re.I)
@@ -173,6 +174,19 @@ def capital_man(text: str) -> tuple[float | None, str]:
         v = num / 10
     else:
         v = num / 10000
+    return v, m.group(0)[:80]
+
+
+REV_RX = re.compile(r"(?:売上高|売上|年商|年間売上)[^0-9０-９]{0,12}([0-9０-９][0-9０-９,，\.．]*)\s*(億|千万|百万|万|千)?\s*([0-9０-９,，]*)\s*(万)?\s*円")
+
+
+def revenue_man(text: str) -> tuple[float | None, str]:
+    """売上の行 → 万円（資本金と同じ読み方。複数年あれば最初の値）。"""
+    t = _nfkc(text)
+    m = REV_RX.search(t)
+    if not m:
+        return None, ""
+    v, _ = capital_man("資本金" + t[m.start(1):m.end()])
     return v, m.group(0)[:80]
 
 
@@ -301,11 +315,11 @@ def find_official(name: str) -> str:
     return ""
 
 
-def check_one(name: str, depth: int, via: str) -> dict:
+def check_one(name: str, depth: int, via: str, home: str = "") -> dict:
     from researcher.fetch import fetch
     from researcher.search import search
     r = {"name": name, "key": cmp_key(name), "depth": depth, "found_via": via, "status": "", "official_url": "", "pages_read": ""}
-    home = find_official(name)
+    home = home or find_official(name)
     if not home:
         r["status"] = "公式サイト見つからず"
         return r
@@ -366,6 +380,23 @@ def check_one(name: str, depth: int, via: str) -> dict:
         sig.append("取引先：" + "・".join(hit[:4]))
     r["auto_signals"] = " / ".join(sig)
     r["auto_judge"] = "自動車（除外）" if len(sig) >= 2 else ("自動車（要確認）" if sig else "")
+    # 売上（2026-11-10 イプロスの名簿で使う）：会社概要の売上の欄→無ければ外部の検索の抜粋
+    rv, rq = revenue_man("売上 " + got["売上"]) if got["売上"] else (None, "")
+    if rv is None:
+        for h in search(f"{name} 売上高", 6):
+            if cmp_key(name) in cmp_key(h.get("title", "") + h.get("snippet", "")) and re.search(r"売上|年商", h.get("snippet", "")):
+                seg = h["snippet"][re.search(r"売上|年商", h["snippet"]).start():][:60]
+                rv, rq = revenue_man(seg)
+                if rv is not None:
+                    rq = f"{rq}（外部：{h['url'][:80]}）"
+                    break
+    r["revenue_man"] = "" if rv is None else f"{rv:g}"
+    r["revenue_quote"] = rq
+    # 送り先：問い合わせページとメール
+    r["contact_url"] = next((href for label, href in (first.get("links") or [])
+                             if re.search(r"お問い?合わ?せ|contact|inquiry|ご相談", (label or "") + href, re.I)), "")
+    mails = re.findall(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+", "\n".join(texts))
+    r["emails"] = " ".join(dict.fromkeys(m for m in mails if not m.lower().endswith((".png", ".jpg", ".gif"))))[:200]
     # 製造業かどうか（3つの手がかりのうち2つ）
     from researcher import classify_industry as ci
     text = "\n".join(texts)
