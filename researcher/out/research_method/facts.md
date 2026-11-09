@@ -1725,6 +1725,7 @@
   - 「公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「市場規模の調べ方｜公的統計を式へつなぐ7工程」（https://media.spready.co.jp/how-to-estimate-market-size/）
 - 失敗・落とし穴：
+  - 「BIツールだけでは顧客ニーズを見逃す！？ 従来の分析の落とし穴を解消する新時代のアプローチ」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「企業が見落としがちな“データの落とし穴”と解決策」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「In much the same way that some meals are great while others are inedible, some data files are great and some are unusable. The quality of a data file is perhaps the biggest cause of problems experienced by people when learning how to analyze surveys, as a common mistake is to put insufficient effort into obtaining ‘good’ data which results in the analysis being much harder than it needs to be.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
@@ -1739,7 +1740,6 @@
   - 「? Identifying Bias in Market Research Reports」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
   - 「Triangulation involves comparing multiple data sources or methods to validate findings, helping to identify consistent patterns and reduce bias.」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
   - 「Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
-  - 「これは、数字を誤りと断ずるものではない」（https://note.com/sun_r_lab/n/n495b9a988be5）
 - 実例：
   - 「Data tidying involves manipulating the way that data is set up to make it easier to interpret. For example, changing birth dates into age categories, or removing ‘don’t know’ categories.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
   - 「is called the raw data. The table below shows raw data for ten households (from a larger data file). Each row in a table of raw data represents the data from an individual respondent, and there are no blank rows. In this case, each respondent was a household. Each column is referred to as a variable. Each variable is a measure of some characteristic of the respondents.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
@@ -5178,7 +5178,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -10905,6 +10905,9 @@
   - 「al. (May 2005), "Extending Heuer's Analysis of Competing Hypotheses Method to Support Complex Decision Analysis",」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
   - 「International Conference on Intelligence Analysis Methods and Tools」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
   - 「Cluxton, Diane; Eick, Stephen G., "DECIDE Hypothesis Visualization Tool",」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
+  - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
   - 「）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -10914,9 +10917,6 @@
   - 「プロセスの最初のステップは可能性のあるすべての仮説を特定することです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「ホイヤーによるとこのステップが最も重要になります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)」（https://note.com/haurix/n/ncc5a33f069f9）
 - 突き合わせ・推定：
   - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -11504,11 +11504,11 @@
 
 ## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活（verify PDF table extraction errors footnote units row column journalist data checking）
 - 文脈：手法
@@ -12530,11 +12530,11 @@
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
 - 文脈：検証

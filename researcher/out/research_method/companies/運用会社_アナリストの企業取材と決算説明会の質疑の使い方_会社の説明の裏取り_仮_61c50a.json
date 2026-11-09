@@ -8,21 +8,11 @@
  ],
  "context": "会社・一次",
  "kind": "market",
- "researched_at": "2026-11-09T01:03:31.922829+00:00",
+ "researched_at": "2026-11-09T11:36:45.891424+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
-   {
-    "url": "https://note.com/masatana/n/n4e0515cd58d9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
-    "status": "ok",
-    "method": "http"
-   },
    {
     "url": "https://note.com/tatsuya_sabato/n/nab4489b3f022",
     "status": "ok",
@@ -35,6 +25,16 @@
    },
    {
     "url": "https://note.com/loots/n/nfc33babc30c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masatana/n/n4e0515cd58d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakanoam/n/nc638baf1b1d1",
     "status": "ok",
     "method": "http"
    },
@@ -69,7 +69,12 @@
     "method": "http"
    },
    {
-    "url": "https://japaneseinvestor.jp/jilist/column/488/",
+    "url": "https://manabinavi.net/archives/5795",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.logmi.jp/log_top",
     "status": "ok",
     "method": "http"
    },
@@ -84,11 +89,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.glassdoor.com/Interview/Citco-Fund-Services-Interview-Questions-E5459609.htm",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://www.bucko.ai/learn/earnings-call-note-template",
     "status": "ok",
     "method": "http"
@@ -99,8 +99,13 @@
     "method": "http"
    },
    {
-    "url": "https://www.glassdoor.com/Interview/Fidelity-Investments-Interview-Questions-E2786.htm",
+    "url": "https://www.glassdoor.com/Interview/Citco-Fund-Services-Interview-Questions-E5459609.htm",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pin.com/blog/interview-notes-guide/",
+    "status": "ok",
     "method": "http"
    }
   ]
@@ -109,16 +114,16 @@
   {
    "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） site:note.com",
    "results": [
-    "https://note.com/masatana/n/n4e0515cd58d9",
-    "https://note.com/nakanoam/n/nc638baf1b1d1",
     "https://note.com/tatsuya_sabato/n/nab4489b3f022",
     "https://note.com/yappyy/n/n6291713bbdfd",
     "https://note.com/loots/n/nfc33babc30c0",
+    "https://note.com/masatana/n/n4e0515cd58d9",
+    "https://note.com/nakanoam/n/nc638baf1b1d1",
     "https://note.com/masatana/n/n42095b322750",
     "https://note.com/yappyy/n/naeeacf78ce9d"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -131,12 +136,14 @@
     "https://www.hubloom.jp/blog/2026/09/22/financial-analyst-kw-46/",
     "https://otemachiprep.com/glossary/earnings-call/",
     "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
-    "https://irprimelive.fieldcaster.net/blog/fair-disclosure-kessan-setsumeikai.html"
+    "https://irprimelive.fieldcaster.net/blog/fair-disclosure-kessan-setsumeikai.html",
+    "https://manabinavi.net/archives/5795"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） やり方",
@@ -147,76 +154,56 @@
     "https://www.hubloom.jp/blog/2026/09/22/financial-analyst-kw-46/",
     "https://otemachiprep.com/glossary/earnings-call/",
     "https://www.tr.mufg.jp/new_assets/houjin/jutaku/pdf/unyou_jyoho_202610_no173.pdf",
-    "https://irprimelive.fieldcaster.net/blog/fair-disclosure-kessan-setsumeikai.html"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） 事例",
-   "results": [
-    "https://note.com/tatsuya_sabato/n/nab4489b3f022",
-    "https://note.com/yappyy/n/n6291713bbdfd",
-    "https://irprimelive.fieldcaster.net/blog/kessan-setsumeikai-qa-junbi.html",
-    "https://www.hubloom.jp/blog/2026/09/22/financial-analyst-kw-46/",
-    "https://otemachiprep.com/glossary/earnings-call/",
-    "https://irprimelive.fieldcaster.net/blog/fair-disclosure-kessan-setsumeikai.html",
-    "https://japaneseinvestor.jp/jilist/column/488/"
+    "https://finance.logmi.jp/log_top"
    ],
    "engines": [
     "ddgs:google"
    ],
    "n_hits": 7
+  },
+  {
+   "query": "運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note） 事例",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "fund manager company interview earnings call verification analyst note",
    "results": [
     "https://www.boardinfinity.com/blog/reading-earnings-calls-guidance-management-commentary/",
     "https://www.bucko.ai/learn/earnings-call-transcript-checklist",
-    "https://www.glassdoor.com/Interview/Citco-Fund-Services-Interview-Questions-E5459609.htm",
     "https://www.bucko.ai/learn/earnings-call-note-template",
     "https://www.peakframeworks.com/post/taking-notes",
-    "https://www.glassdoor.com/Interview/Fidelity-Investments-Interview-Questions-E2786.htm",
-    "https://www.pin.com/blog/interview-notes-guide/"
+    "https://www.glassdoor.com/Interview/Citco-Fund-Services-Interview-Questions-E5459609.htm",
+    "https://www.pin.com/blog/interview-notes-guide/",
+    "https://www.glassdoor.com/Interview/Fidelity-Investments-Interview-Questions-E2786.htm"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:note.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
    "results": [
-    "https://note.com/masatana/n/n4e0515cd58d9",
     "https://note.com/tatsuya_sabato/n/nab4489b3f022",
     "https://note.com/yappyy/n/n6291713bbdfd",
     "https://note.com/loots/n/nfc33babc30c0",
+    "https://note.com/masatana/n/n4e0515cd58d9",
     "https://note.com/masatana/n/n42095b322750",
-    "https://note.com/yappyy/n/naeeacf78ce9d",
-    "https://note.com/muybonito84/n/n23846ce99b86"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:x.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
-   "results": [
-    "https://x.com/healiospr/status/2090015662639141179",
-    "https://x.com/REL_retired/status/2115798219645202716",
-    "https://x.com/NxeraPharma/status/2036003388538941674",
-    "https://x.com/nrnkyk/status/2090018744538104147",
-    "https://x.com/spiderplusir/status/2037386816018592017",
-    "https://x.com/IGoldeneggs/status/2058793946906788063",
-    "https://x.com/2okutameo/status/2051852980727828951"
+    "https://note.com/muybonito84/n/n23846ce99b86",
+    "https://note.com/yappyy/n/naeeacf78ce9d"
    ],
    "engines": [
     "ddgs:bing"
    ],
    "n_hits": 7
+  },
+  {
+   "query": "site:x.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）",
@@ -225,8 +212,8 @@
     "https://www.linkedin.com/company/日本証券アナリスト協会",
     "https://jp.linkedin.com/in/sarah-usami",
     "https://www.linkedin.com/posts/morimitsu-miyazaki-23129119_メディアでの対談記事の取材のため顧客であるnxhdの大槻cfoを訪問いたしました-activity-7335847278965944320-h2KI",
-    "https://jp.linkedin.com/posts/astellaspharmainc_公益社団法人-日本証券アナリスト協会-activity-7123103751019663360-RGNT",
     "https://jp.linkedin.com/learning/creating-and-giving-business-presentations-3/2876211",
+    "https://jp.linkedin.com/posts/astellaspharmainc_公益社団法人-日本証券アナリスト協会-activity-7123103751019663360-RGNT",
     "https://jp.linkedin.com/pulse/top-10-analyst-briefing-mistakes-avoid-david-lavenda-6s14f?tl=ja"
    ],
    "engines": [
@@ -239,14 +226,14 @@
    "results": [
     "https://www.facebook.com/medicalnet.inc/posts/皆さんこんにちは株式会社メディカルネットfacebook担当です先月7月29日木にメディカルネットグループの決算説明会が日本証券アナリスト協会にて行われましたそ/4546079945429310/",
     "https://www.facebook.com/minsetsu/posts/みんせつでアナリストレポートが読めるようになりました先ずは独立系リサーチ会社シェアードリサーチカバレッジ130社以上による決算速報や訪問取材レポートを配信します/913462682121153/",
-    "https://www.facebook.com/minsetsu/",
     "https://www.facebook.com/SoftBank/videos/ソフトバンク株式会社の2026年3月期-決算説明会では新たな中期計画に関する質問が多く寄せられました質疑応答の一部を抜粋してご紹介しますhttpsstnmbso/2457853631294805/",
     "https://www.facebook.com/dnpjp.official/posts/2026年3月期-第2四半期-決算説明会を開催しましたdnpは1114に2026年3月期-第2四半期-決算説明会を実施しました本説明会では機関投資家アナリスト向/1248589290622086/",
     "https://www.facebook.com/creekandriver/posts/2027年2月期第1四半期-決算説明会の動画を公開しました2027年2月期第37期第1四半期-決算報告成長戦略-連峰経営による持続可能な成長モデルについて質疑応/1666867962105690/",
+    "https://www.facebook.com/minsetsu/",
     "https://www.facebook.com/syuzainogakkou/posts/編集後記掲載情報取材の学校10期の勝田慶ですこのたび中小企業診断協会の会報誌企業診断ニュース2026年7月号にて特集推し活と中小企業熱狂を味方につける経営戦略の/1502600128333061/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -262,7 +249,7 @@
     "https://irprimelive.fieldcaster.net/blog/fair-disclosure-kessan-setsumeikai.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -278,7 +265,7 @@
     "https://irprimelive.fieldcaster.net/blog/fair-disclosure-kessan-setsumeikai.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -300,13 +287,13 @@
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ18頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ18頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ18頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ18頁・検索12回）",
-  "実例": "記載なし（読んだ18頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ19頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ19頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ19頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ19頁・検索12回）",
+  "実例": "記載なし（読んだ19頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T20:45:03.470186+00:00"
 }
