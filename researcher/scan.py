@@ -3847,6 +3847,36 @@ def scan(topic):
                f"- 速報と確報・改定がそろう組のうち、直しがゼロの組：{_zero}組、基準改定・方法の変更の語がある組：{_meth}組。直しが小さいのは後の情報を入れない方針の結果のことがあり精度の証拠にしない。方法の変更による直しは、直しの偏りを測る組から外して別に数える（4-46・4-128・4-130）",
                ""]
     except Exception: pass
+    # 2026-11-10 4-131（VantaInsights「How to Research an Industry」：業種の範囲は分類コードを先に全部書き出す・1つの事業が複数の
+    # コードにまたがる・開示の分類と統計の分類は別・既存の統計で答えられる問いに独自の調査を使わない・上位社のセグメント開示は統計に無い
+    # 取り分の手がかり。ichi_twnovel「情報安全保障」note：利害当事者の予測が検証されないまま前提に入る・監視する側にも事業上の動機がある）
+    try:
+        _CODE = re.compile(r"産業分類|細分類|小分類|中分類|[（(]\d{3,4}[)）]|NAICS|SIC|JSIC", re.I)
+        _STAT = re.compile(r"工業統計|経済構造実態|経済センサス|事業所・企業統計|法人企業統計|賃金構造")
+        _items = {}
+        for r in rows:
+            _items.setdefault(r.get("品目", ""), []).append(r)
+        _nocode = [k for k, g in _items.items()
+                   if any(_STAT.search((r.get("引用", "") or "") + k) for r in g)
+                   and not _CODE.search(k) and not any(_CODE.search(r.get("引用", "") or "") for r in g)]
+        _STAKE = re.compile(r"社長|CEO|代表取締役|会長|当社|弊社|自社|our company|we expect", re.I)
+        _FC = re.compile(r"見通し|見込み|予測|予想|目指す|計画|forecast|expect|project", re.I)
+        _stake = [r for r in rows if (r.get("予測") or _FC.search(r.get("引用", "") or "")) and _STAKE.search(r.get("引用", "") or "")]
+        _SURV = re.compile(r"アンケート|当社調べ|自社調べ|調査会社|インターネット調査|n=\d|回答者", re.I)
+        _dup = [k for k, g in _items.items()
+                if any(r.get("一次") == "一次" for r in g) and any(_SURV.search(r.get("引用", "") or "") and r.get("一次") != "一次" for r in g)]
+        _SEG = re.compile(r"セグメント|事業別|部門別|事業部門|segment", re.I)
+        _SAL2 = re.compile(r"売上|売上高|revenue|sales", re.I)
+        _seg = [r for r in rows if _SEG.search(r.get("引用", "") or "") and _SAL2.search(r.get("引用", "") or "")]
+        md += ["## 分類コード・利害当事者の予測・統計で足りる問い・セグメント（4-131・機械）",
+               f"- 統計（工業統計・経済構造実態調査など）から取る品目のうち、品目名にも引用にも産業分類の番号・階層の記載が無い品目：{len(_nocode)}品目。表を引く前に日本標準産業分類の番号を全部書き出し、1つの事業が2つ以上の番号にまたがるなら全部を並べる（4-79・4-83・4-131）",
+               *(f"  - {k[:40]}" for k in _nocode[:5]),
+               f"- 社長・自社など利害当事者の言う見通し・予測の行：{len(_stake)}件。証言の中でも【言明（利害）】として分け、検証されないまま推定の前提に入れない（4-51・4-106・4-131）",
+               f"- 一次の統計がある品目に、アンケート・自社調べの値も入っている品目：{len(_dup)}品目。統計で答えられる問いはアンケートの値で答えず、アンケートは統計に無い問いにだけ使う（4-104・4-131）",
+               *(f"  - {k[:40]}" for k in _dup[:5]),
+               f"- セグメント・事業別の売上の行：{len(_seg)}件。上位社のセグメントの売上を統計の総額で割った取り分は【推定】の手がかりで、範囲（取引段階・国内か）をそろえるまで取り分と書かない（4-63・4-115・4-131）",
+               ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
