@@ -1,0 +1,42 @@
+# 本人の指示（2026-11-09）：古い営業リスト（ドライブ「営業リスト 最新版連携用」の「営業リスト＿Factory/BPO」タブ、海外スタートアップ8,229社）を全社見て、
+# 今の式「Banklessで実証済みの、海外のサービスを日本に持ち込んで根づかせる力 × 製造業」に当てはまるものを洗い出す。
+# 探すもの：海外で製造業の採用・採用ブランディング・広告・広報・現場の研修や定着にすでに使われて実績があり、日本ではまだ根づいていないサービス。
+# 除外（本人）：日本に誰かいる会社（日本法人・日本拠点・日本の代理店・取扱い会社）、一人の会社と組むことがありえない大手。
+# 前提：一人・手持ち約20万円（別に11月中に使い切る70万円）・業界の実績なし・1か月・借入なし・在庫を持たない・A1の名前で積み上がる。
+# 並び：社名・説明に採用・広告系の言葉がある907社を先に、説明のある会社、説明のない会社の順（全社を回す。並べ替えは順番だけで、絞り込みには使わない）。
+# 引用のまま取る。判定表（judged.csv）は日本の担い手と、採用・広告の製品／製造業の実績／再販・ホワイトラベルの引用の有無を並べるだけ。最後の判定は本人（または別のAI）。
+title: 旧営業リスト全社 採用・広告・現場研修のサービス×製造業の実績×日本の担い手×再販条件
+input: researcher/inputs/oldlist_hr.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [Founded, Established, founded in, year founded, Since, 設立, 創業]
+  株主: [Investors, backed by, Y Combinator, Series A, Series B, Seed, raised, funding, Shareholders, Parent company, part of, acquired by, 株主]
+  従業員数: [Employees, employees, team of, staff, 従業員]
+  売上高: [Revenue, ARR, Turnover, sales, 売上]
+  所在地: [Headquarters, HQ, Address, based in, 所在地]
+  料金: [Pricing, per month, per user, per seat, /mo, /month, plans start, 料金]
+  連絡先: [E-mail, Email, sales@, info@, partners@, hello@, Contact, 問い合わせ]
+
+evidence:
+  採用・広告の製品: [hiring, hire, recruiting, recruitment, applicant, candidate, interview, job posting, job board, career site, careers page, talent acquisition, employer brand, employer branding, onboarding, frontline, deskless, hourly workers, upskilling, training, workforce, retention, marketing, advertising, ads, brand awareness, PR, press release, content, video, social media, lead generation]
+  製造業の実績: [manufacturing, manufacturer, manufacturers, factory, factories, plant, plants, shop floor, production line, industrial, skilled trades, technicians, machinists, welders, operators, blue-collar, blue collar, warehouse, automotive, aerospace, case study, customers include, trusted by, used by]
+  再販・ホワイトラベル: [white label, white-label, whitelabel, rebrand, your brand, your own brand, reseller, resellers, reseller program, partner program, channel partner, agency partner, agencies, referral program, become a partner, OEM, private label]
+  日本の担い手: [Japan, Japanese, 日本, 日本法人, K.K., 株式会社, 代理店, 正規代理店, 総代理店, 販売代理店, 国内導入, 導入事例, Tokyo, 東京, Osaka, Japan office, Japan partner, distributor in Japan]
+  規模・親会社: [employees, revenue, ARR, part of, subsidiary of, owned by, acquired, acquisition, listed, NASDAQ, NYSE, IPO, Fortune 500, 上場, 子会社]
+  連絡先: [sales@, info@, partners@, partnerships@, hello@, contact@, E-mail, Email, Contact us]
+
+subpage_keywords: [about, company, customers, case-studies, case-study, stories, industries, manufacturing, solutions, pricing, partners, partner, reseller, white-label, agencies, contact, careers, japan, jp]
+image_keywords: [customers, logos, manufacturing, partners]
+
+external_queries:
+  - "{name} 日本 導入"
+  - "{name} 代理店 OR 総代理店 OR 日本法人"
+  - "{name} Japan"
+  - "{name} manufacturing customer case study"
+  - "{name} white label OR reseller OR partner program"
+  - "{name} founded funding employees revenue"
+
+limits: {pages: 20, subpages: 15, pdfs: 2, images: 4, external_per_query: 4}
+
+judge: {japan: 日本の担い手, scale: 規模・親会社, contact: 連絡先, extra: [採用・広告の製品, 製造業の実績, 再販・ホワイトラベル]}

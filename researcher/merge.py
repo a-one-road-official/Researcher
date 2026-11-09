@@ -107,12 +107,14 @@ def write_judged(topic: dict, base: Path, recs: list[dict]) -> None:
     by_name = {r.get("name"): r for r in recs}
     with open(base / "judged.csv", "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f)
-        w.writerow(["社名", "公式URL", "文脈", "判定", "判定の根拠（引用）", "根拠URL", "大手の疑い（引用）", "窓口メール", "状態"])
+        extra = cfg.get("extra") or []  # 2026-11-09 判定に加えて並べる引用の欄（oldlist_hr など）
+        w.writerow(["社名", "公式URL", "文脈", "判定", "判定の根拠（引用）", "根拠URL", "大手の疑い（引用）", "窓口メール", "状態"]
+                   + [f"{c}（件数｜最初の引用｜URL）" for c in extra] + (["当てはまりの候補"] if extra else []))
         counts, review = {}, []
         for t in load_targets(topic):
             r = by_name.get(t["name"])
             if not r:
-                w.writerow([t["name"], t["url"], t["context"], "未調査", "", "", "", "", "未調査"])
+                w.writerow([t["name"], t["url"], t["context"], "未調査", "", "", "", "", "未調査"] + [""] * (len(extra) + bool(extra)))
                 counts["未調査"] = counts.get("未調査", 0) + 1
                 continue
             ev = r.get("evidence", {})
@@ -140,7 +142,9 @@ def write_judged(topic: dict, base: Path, recs: list[dict]) -> None:
                 verdict, q, u = "余地あり（日本の取扱い見つからず）", f"日本の取扱いの引用なし（外部の検索結果を{n}件読んだ）", ""
             counts[verdict] = counts.get(verdict, 0) + 1
             w.writerow([t["name"], r.get("official_url", "") or t["url"], t["context"], verdict, q, u,
-                        (big[0]["quote"][:160] if big else ""), " ".join(dict.fromkeys(mails))[:200], "調査済み"])
+                        (big[0]["quote"][:160] if big else ""), " ".join(dict.fromkeys(mails))[:200], "調査済み"]
+                       + [(f"{len(ev.get(c, []))}｜{ev[c][0]['quote'][:160]}｜{ev[c][0]['url']}" if ev.get(c) else "0") for c in extra]
+                       + (["候補（全欄に引用あり・日本の取扱いなし）" if extra and all(ev.get(c) for c in extra) and verdict.startswith("余地あり") else ""] if extra else []))
     # Claude が読むのは決めきれない会社だけ。1社3行まで・1行300字までに絞る（全部の引用は読まない）
     lines = ["# 要確認（日本に関わる引用はあるが、代理店か募集か直送か決めきれない）", ""]
     for name, url, items in review:
