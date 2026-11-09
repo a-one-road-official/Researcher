@@ -3898,11 +3898,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -9140,8 +9140,8 @@
   - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
 
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
@@ -9598,71 +9598,71 @@
 ## 三角測量で一致が1つの場面・1つの時点に乗っていないかを確かめる方法（場面・時点を変えた確認・共通の偏りの一致・比べ方の書き方）（triangulation across settings and time points shared bias false corroboration reporting triangulation strategy）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「Situationship: How to Cope When Commitment is Unclear」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation is often described through three roles from Stephen Karpman’s “drama triangle”: the victim, the rescuer and the persecutor (Karpman, 1968).」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Bowen argued that two-person relationships are unstable under stress. A pair alone has no built-in way to dilute the tension between them. The process unfolds in three steps:」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Family members learn to notice when they have been drawn into someone else’s conflict. Then they step back. They encourage direct communication between the two people who hold the disagreement, so the third position can be vacated.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Take a step back, evaluate, and assess all of the facts.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「The most robust way of dealing with these situations is to take a step back, assess what is occurring, and act accordingly.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「They can help you learn more about your relationships involving triangulation and how to navigate them safely.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「日本では明治時代から、全国の三角点の位置を決める方法として使われ、地形図整備の骨格になりました」（https://construction-dx.com/ict/triangulation）
-  - 「各ステップを順に実施することで、直接測れない地点の座標を高精度に求めます」（https://construction-dx.com/ict/triangulation）
-  - 「この手順を隣接する三角形に繰り返し適用した測量網を「三角網（さんかくもう）」と呼びます」（https://construction-dx.com/ict/triangulation）
-  - 「この手順を繰り返すことで、基線から連鎖的に多数の点の座標を導き出すことができます」（https://construction-dx.com/ict/triangulation）
-  - 「スネルは1617年に隣接する三角形を連続してネットワーク状に配置する手法を考案し、現代の三角測量の原型を生み出しました」（https://construction-dx.com/ict/triangulation）
-  - 「GNSS測量はネットワーク型RTK方式の普及により、単独の受信機だけで短時間に世界測地系の座標値を取得できるようになりました」（https://construction-dx.com/ict/triangulation）
-  - 「国土地理院が整備した三角点網はこの手法で構築されており、地形図の作成や土地の境界確定、大型構造物の施工測量など幅広い用途の基準として活用されています」（https://construction-dx.com/ict/triangulation）
-  - 「丁張り測量とは｜種類・かけ方・計算方法をわかりやすく解説」（https://construction-dx.com/ict/triangulation）
+  - 「Triangulation in Research: Definition, Types, Examples, and Steps」（https://researchmethod.net/triangulation/）
+  - 「Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence. Done well, triangulation strengthens the credibility and depth of a study, but it does not automatically prove that its conclusions are true.」（https://researchmethod.net/triangulation/）
+  - 「Every research method offers only a partial view of a problem. Interviews can reveal how people interpret an experience, but participants may not accurately describe what they do. Observations can document behaviour, but they may not explain participants’ motivations. Surveys can identify patterns across a large sample, but they may remove important context.」（https://researchmethod.net/triangulation/）
+  - 「How triangulation differs from mixed methods.」（https://researchmethod.net/triangulation/）
+  - 「How to plan, analyse, integrate, and report triangulated」（https://researchmethod.net/triangulation/）
+  - 「Triangulation means investigating the same phenomenon through multiple sources, methods, researchers, or theories.」（https://researchmethod.net/triangulation/）
+  - 「, and methodological triangulation.」（https://researchmethod.net/triangulation/）
+  - 「Triangulation does not require exactly three methods.」（https://researchmethod.net/triangulation/）
+  - 「Using several methods does not count as triangulation unless their findings are deliberately compared or integrated.」（https://researchmethod.net/triangulation/）
+  - 「is associated particularly with Denzin’s classification of four forms: data, investigator, theory, and methodological triangulation (Denzin, 1978). It is widely used in qualitative research, mixed-methods studies, case studies, programme evaluation, education, healthcare, social」（https://researchmethod.net/triangulation/）
+  - 「The metaphor should not be interpreted too literally. Researchers do not need exactly three methods or sources. Two well-chosen perspectives may be sufficient, while a complex project may use four or more.」（https://researchmethod.net/triangulation/）
+  - 「When methodologically different sources point towards a similar conclusion, confidence in the interpretation may increase. For example, falling attendance records, student interviews, and classroom observations may all indicate reduced engagement.」（https://researchmethod.net/triangulation/）
+  - 「Different methods often answer different parts of a question. A survey may show how common a problem is, while interviews explain why it occurs. The findings are not duplicates; they complement one another.」（https://researchmethod.net/triangulation/）
+  - 「A contradiction is not automatically a methodological failure. It may expose an important subgroup, contextual difference, measurement problem, power relationship, or change over time.」（https://researchmethod.net/triangulation/）
+  - 「Denzin’s framework identifies four principal forms of triangulation (Denzin, 1978).」（https://researchmethod.net/triangulation/）
 - 突き合わせ・推定：
-  - 「Triangulation in Families」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation in relationships refers to a communication pattern where one person avoids direct interaction with another, instead using a third person as an intermediary. This can create misunderstandings and conflicts, often serving as a」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation typically entails a dynamic where the victim and persecutor engage in conflict while a third party assumes the role of the rescuer.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation is a pattern where one person routes communication through a third person instead of speaking directly to the other.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「What is Triangulation in Families?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「What is Triangulation Manipulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「What are the signs of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「What are the three points of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「How is triangulation used in relationships?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「What are the effects of triangulation?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「What does recent research say about Triangulation in Families?」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation Manipulation」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「, triangulation is one of the best known.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation is a form of manipulation and is used to exploit an interaction between two people who are not communicating directly.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Triangulation is often an attempt to gain control. The manipulator seeks advantage from the situation, in the form of loyalty or attention from the other parties.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
+  - 「Triangulation in Research: Definition, Types, Examples, and Steps」（https://researchmethod.net/triangulation/）
+  - 「Triangulation in research is the deliberate use of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon. Researchers compare the resulting evidence to identify convergence, complementarity, and divergence. Done well, triangulation strengthens the credibility and depth of a study, but it does not automatically prove that its conclusions are true.」（https://researchmethod.net/triangulation/）
+  - 「Triangulation addresses this problem by examining a」（https://researchmethod.net/triangulation/）
+  - 「What triangulation means in research.」（https://researchmethod.net/triangulation/）
+  - 「The four principal types of triangulation.」（https://researchmethod.net/triangulation/）
+  - 「How triangulation differs from mixed methods.」（https://researchmethod.net/triangulation/）
+  - 「Triangulation means investigating the same phenomenon through multiple sources, methods, researchers, or theories.」（https://researchmethod.net/triangulation/）
+  - 「, and methodological triangulation.」（https://researchmethod.net/triangulation/）
+  - 「Triangulation does not require exactly three methods.」（https://researchmethod.net/triangulation/）
+  - 「Using several methods does not count as triangulation unless their findings are deliberately compared or integrated.」（https://researchmethod.net/triangulation/）
+  - 「Triangulation supports credibility and completeness; it does not guarantee truth or eliminate all bias.」（https://researchmethod.net/triangulation/）
+  - 「What Is Triangulation in Research?」（https://researchmethod.net/triangulation/）
+  - 「Triangulation is a research strategy in which investigators use two or more perspectives to study the same phenomenon and then examine how the resulting evidence relates.」（https://researchmethod.net/triangulation/）
+  - 「is associated particularly with Denzin’s classification of four forms: data, investigator, theory, and methodological triangulation (Denzin, 1978). It is widely used in qualitative research, mixed-methods studies, case studies, programme evaluation, education, healthcare, social」（https://researchmethod.net/triangulation/）
+  - 「The word comes from surveying and navigation. A location can be estimated more confidently when it is examined from different reference points. In research, the reference points may be:」（https://researchmethod.net/triangulation/）
 - 一次情報の探し方：
   - 「公開情報や一次情報をもとに内容を検証し、正確性・信頼性の高いコンテンツ制作を支援しています」（https://construction-dx.com/ict/triangulation）
 - 失敗・落とし穴：
-  - 「, blamed for faults and mistakes whether or not they are responsible.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「A点から求めた座標とB点から求めた座標が一致すれば、計算に誤りがないと確認できます」（https://construction-dx.com/ict/triangulation）
-  - 「The original rationale, laid out by Denzin and later elaborated with Yvonna Lincoln, was framed around validity: no single data source, investigator, theory, or method is free of its own particular biases and blind spots, so corroborating a finding across more than one of them offsets the weaknesses specific to any one approach with the strengths of another.」（https://casrai.org/guides/triangulation-in-research）
-  - 「different assumptions and are vulnerable to different biases」（https://casrai.org/guides/triangulation-in-research）
-  - 「Common Pitfalls and Limitations」（https://casrai.org/guides/triangulation-in-research）
-  - 「Combining sources does not guarantee a correct answer — if all sources share the same underlying bias (e.g., every method relies on self-report from the same population), agreement across them doesn’t rule that bias out.」（https://casrai.org/guides/triangulation-in-research）
-  - 「of research findings. It involves using multiple data sources, methods, theories, or investigators to validate findings and to minimize potential biases.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「This helps to reduce the risk of relying on a single source that may be biased or incomplete.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「. A team with diverse backgrounds and perspectives can reduce that bias and add depth to the analysis.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「(an ongoing awareness of how the researcher’s own assumptions and choices shape the data and analysis) and critical thinking. Researchers must also recognize how their own biases might influence their interpretations of the data.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Explain the specific goals of triangulation, such as enhancing credibility, minimizing bias, or achieving a more comprehensive understanding of the phenomenon.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「What are Bias in Qualitative Research?」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Addressing how researcher bias was managed through triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「a shared bias can make agreement look like independent confirmation.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
-  - 「Researchers themselves decide how and where to triangulate. A systematic bias, such as the researcher’s own expectations about what the data should show, can shape every judgement in the same direction.」（https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html）
+  - 「The advantages, limitations, common mistakes, and responsible use of digital tools.」（https://researchmethod.net/triangulation/）
+  - 「Triangulation supports credibility and completeness; it does not guarantee truth or eliminate all bias.」（https://researchmethod.net/triangulation/）
+  - 「Different study designs with different sources of bias.」（https://researchmethod.net/triangulation/）
+  - 「Exposes individual interpretive bias」（https://researchmethod.net/triangulation/）
+  - 「In epidemiology and causal research, evidence triangulation can involve comparing findings from study designs with different and preferably unrelated sources of bias. The aim is not simply to repeat the same analysis, but to determine whether several imperfect approaches support a coherent causal explanation (Lawlor et al., 2016).」（https://researchmethod.net/triangulation/）
+  - 「In epidemiology, triangulation has been proposed as the integration of evidence from approaches whose important biases differ and are preferably unrelated (Lawlor et al., 2016).」（https://researchmethod.net/triangulation/）
+  - 「Agreement across designs can strengthen a causal argument when it is unlikely that the same bias produced all results. However, convergence alone still does not prove causation.」（https://researchmethod.net/triangulation/）
+  - 「Sources may share biases」（https://researchmethod.net/triangulation/）
+  - 「Triangulation cannot eliminate all bias」（https://researchmethod.net/triangulation/）
+  - 「Retrospective additions may be vulnerable to confirmation bias unless clearly justified and reported.」（https://researchmethod.net/triangulation/）
+  - 「May reproduce biases in its training data or prompt.」（https://researchmethod.net/triangulation/）
+  - 「How shared biases limit the conclusions.」（https://researchmethod.net/triangulation/）
+  - 「Are shared biases considered?」（https://researchmethod.net/triangulation/）
+  - 「A causal question can be examined through approaches with different biases.」（https://researchmethod.net/triangulation/）
+  - 「The additional source would merely duplicate the same bias.」（https://researchmethod.net/triangulation/）
 - 実例：
-  - 「Example 1: Using a Messenger」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「The third person may also be an inappropriate choice. For example, a parent becomes a mediator between the other parent and their child.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「In some cases, triangulation is an intentional attempt to make the situation in favor of the manipulator.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Example 2: Unintentional Triangulation」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Simultaneously, each sibling is treated very differently and is discouraged from communicating with one another except via the parent; this is a clear case of triangulation.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Example 3: Avoiding Direct Confrontation」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「In that case, direct communication may not have been used. Instead, the friend or family may have chosen to manipulate a third party or another person to say everything they needed.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「Annie Wright shows how this plays out in a composite case she calls “Rosalind,” whose mother was the link between her and her sister.」（https://www.simplypsychology.org/what-is-triangulation-in-psychology.html）
-  - 「フランス革命期の1792年からは、ドランブルとメシャンがダンケルクからバルセロナまでを三角測量し、その結果から求めた子午線の長さをもとに、1799年に確定メートル原器が作られました」（https://construction-dx.com/ict/triangulation）
-  - 「最新の技術・市場・制度・導入事例をわかりやすく整理し、建設業界のDX推進に役立つ情報を中立的な視点で発信しています」（https://construction-dx.com/ict/triangulation）
-  - 「Construction DX リサーチチームは、建設DX市場や最新技術、法制度、国内外の事例を継続的に調査・分析する専門チームです」（https://construction-dx.com/ict/triangulation）
-  - 「BIMの活用事例とは？国内外の導入事例と成功のポイントを解説」（https://construction-dx.com/ict/triangulation）
-  - 「設計から施工、維持管理までの段階別の活用や国内外の導入事例、自社で成功させるポイントまで分かります」（https://construction-dx.com/ict/triangulation）
-  - 「Worked Examples of Each Type」（https://casrai.org/guides/triangulation-in-research）
-  - 「), using the contested question of whether low-to-moderate alcohol consumption protects against dementia as the running example.」（https://casrai.org/guides/triangulation-in-research）
+  - 「Triangulation in Research: Definition, Types, Examples, and Steps」（https://researchmethod.net/triangulation/）
+  - 「is associated particularly with Denzin’s classification of four forms: data, investigator, theory, and methodological triangulation (Denzin, 1978). It is widely used in qualitative research, mixed-methods studies, case studies, programme evaluation, education, healthcare, social」（https://researchmethod.net/triangulation/）
+  - 「When methodologically different sources point towards a similar conclusion, confidence in the interpretation may increase. For example, falling attendance records, student interviews, and classroom observations may all indicate reduced engagement.」（https://researchmethod.net/triangulation/）
+  - 「Using several investigators or theoretical perspectives can make hidden assumptions more visible. A second analyst may notice negative cases or alternative interpretations overlooked by the primary」（https://researchmethod.net/triangulation/）
+  - 「Data sources may also be less independent than they appear. For example, a manager’s report and an internal policy document may reproduce the same organizational narrative.」（https://researchmethod.net/triangulation/）
+  - 「Negative or contradictory cases.」（https://researchmethod.net/triangulation/）
+  - 「, constructs, themes, cases, groups, or time periods.」（https://researchmethod.net/triangulation/）
+  - 「Worked Example of Triangulation」（https://researchmethod.net/triangulation/）
+  - 「A qualitative case study might combine:」（https://researchmethod.net/triangulation/）
+  - 「Identify negative or deviant cases.」（https://researchmethod.net/triangulation/）
+  - 「Negative-case analysis.」（https://researchmethod.net/triangulation/）
+  - 「For example, an observed relationship may be examined through:」（https://researchmethod.net/triangulation/）
+  - 「Interviews, observation and documents in a case study」（https://researchmethod.net/triangulation/）
+  - 「Case-by-method tables.」（https://researchmethod.net/triangulation/）
+  - 「Retrieve evidence by source or case.」（https://researchmethod.net/triangulation/）
 
 ## 競合仮説分析の診断力（どの仮説にも合う証拠を外す）と結論を兆し（サインポスト）に変える実務（Umbrex・Heuer・コンサル）（analysis of competing hypotheses diagnosticity of evidence signposts indicators consulting practice）
 - 文脈：裏取り
@@ -12508,25 +12508,60 @@
 ## AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）（citation error types hallucination outdated superseded source verification checklist）
 - 文脈：検証
 - 手順・やり方：
+  - 「東京弁護士会の特集は、生成AIが「ある単語の次にどのような単語が続くかを統計的に予測するモデル」であり、判決文等の定型的な表現を学習することでもっともらしい判決文を生成できてしまう点を、法律分野特有のリスクとして説明している」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「禁止行為を列挙して違反に罰則を科すEU型の規制法とは構造が異なり、推進の枠組みを定める法律である」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「2026年7月14日に閣議決定された計画は、政府業務における生成AIについて、エージェント型AIの導入や国内で開発されたAIモデルの積極活用を含むガバメントAI「源内」を推進し、AIエージェントに対応するルール作りを進めるとしている」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「さらに3要件のいずれにも該当する場合であっても、弁護士または弁護士法人に提供し、当該弁護士がサービスの利用結果も踏まえて契約書等を自ら精査し必要に応じて自ら修正する方法で利用するとき、および提供先の役職員となっている弁護士が同等の方法で利用するときは、通常は72条に違反しないとされた」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「主尋問の質問案、反論の骨子、定型書面の草稿」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「東京弁護士会の特集は、文献・判例調査においては汎用型の生成AIをそのまま使うのではなく、利用者が指定した資料を前提として回答する仕組みを用いることや、回答に不正確なものが混ざっている可能性を常に意識しつつ抜け漏れを防ぎ調査の初動を早める用途に留めることを、留意点として挙げている」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「よくある質問では、相手先企業名や自社が特定できる固有名詞を「甲」「乙」などに置き換えてからアップロードする方法を案内し、画像のPDFや2段組み・表形式の契約書は読み込めないとしています」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「同会は2025年9月、日本国内で汎用型の生成AIサービスを提供する主要事業者を対象に、入出力データの取扱い、データの利用・保存、セキュリティ対策体制、データ処理の方法等に関する照会を実施した」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「後者は、無資格事業者によるサービスが報酬を得て弁理士専権業務を実質的に行っている場合は弁理士法第75条に違反すると考えられると整理しており、弁護士法72条をめぐる法務省の枠組みと同型の議論が、他士業でも並行して進んでいることが分かる」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「同ガイドラインは、①サービスの設計・機能が「事件性」のある案件に関して利用させることを目指したものではなく、②同利用に特化した特性・機能を備えていないこと（「価値中立的なサービス提供」）に加え、③不適切利用を回避するガバナンス体制を整備している場合には、文献・法的問題点のリサーチ支援、書面の作成・審査・管理支援、内部通報事案の調査支援など列挙された業務類型について、一般的に弁護士法72条に抵触しないと整理した」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「東京弁護士会の特集では、汎用型の生成AIに自由形式で尋ねる使い方は誤情報が生じやすいこと、利用者が指定した資料を前提に回答する仕組みを使うこと、回答に不正確なものが混ざる可能性を前提に、抜け漏れを防いで調査の初動を早める用途に留めることが挙げられています」（https://aiteller.jp/blog/ai-horitsu-hub）
   - 「How to check AI citations and identify AI hallucinations in references | Editage」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
   - 「How to check AI citations and identify AI hallucinations in references」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
   - 「Step-by-Step Process to Verify AI-Generated References」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
   - 「Before submitting any AI-assisted document, run every citation through a structured verification process. The 5 steps below work for academic papers, reports, and articles alike.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-  - 「Step 1: Confirm the Source Exists」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-  - 「Step 2: Match Author Names and Publication Details」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-  - 「Step 3: Verify DOIs and URLs」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-  - 「Step 4: Cross-Check with Academic Databases」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-  - 「Step 5: Confirm the Citation Supports the Claim」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-  - 「updated guidelines on how to actually cite AI output」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-  - 「Common Punctuation Errors in Academic Writing (and How to Fix Them)」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
 - 突き合わせ・推定：
+  - 「このページは、制度側の整理と、公表されている数値を突き合わせて現在地をまとめたものである」（https://aiteller.jp/blog/ai-horitsu-hub）
   - 「Step 4: Cross-Check with Academic Databases」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
   - 「A professional editor cross-checks every citation against the original source, corrects formatting, and edits the surrounding text for flow, coherence, and argument strength.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
 - 一次情報の探し方：
+  - 「東京弁護士会の特集は、生成AIが「ある単語の次にどのような単語が続くかを統計的に予測するモデル」であり、判決文等の定型的な表現を学習することでもっともらしい判決文を生成できてしまう点を、法律分野特有のリスクとして説明している」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「よくある質問では、相手先企業名や自社が特定できる固有名詞を「甲」「乙」などに置き換えてからアップロードする方法を案内し、画像のPDFや2段組み・表形式の契約書は読み込めないとしています」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「隣接分野として、採用・人事における選考へのAI利用は」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「日本のAI普及率を総務省・令和8年版情報通信白書（2026年7月公表）などの一次情報で整理」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「McKinsey・OECD・総務省・経済産業省・日経リサーチなど一次情報を業界横断で整理し、医療・金融・製造・小売・教育・ITの導入率を調査機関・時点・定義を明記して比較する中立のデータまとめ」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「医療機関949施設の調査で判明した製品群別のAI導入率（0〜6.6%、翻訳26.4%、見守り19.6%）、令和8年度診療報酬改定に入った生成AI文書作成の扱い、恵寿総合病院・慶應義塾大学病院など公表資料のある実名事例を、一次情報の出典と時点つきで整理した医療AIの全体地図」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「議事録・文書作成・データ分析・顧客対応など6領域の現状と、パナソニックコネクト・ソニーグループ・宮崎銀行など国内11業種の一次情報ベースの事例」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「分母のある統計ではなく、認定された件数の集計である点に注意が必要です」（https://aiteller.jp/blog/ai-horitsu-hub）
   - 「Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
+- 失敗・落とし穴：
+  - 「判例調査に生成AIを使う場合の注意点は何が挙げられていますか」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「日本弁護士連合会のAI戦略ワーキンググループが「弁護士業務における生成AIの利活用等に関する注意事項」を策定（会員向け）」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「前者は、生成AIから得られた生成物の正確性は保証されていないため弁理士が正確性を確認する必要があり、最終的には弁理士が責任をもって提供すべきであるとし、機密情報・非公開情報を扱う立場としての注意を求めている」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「日弁連のAI戦略ワーキンググループが2025年9月に策定した会員向けの注意事項は、守秘義務、誤情報（ハルシネーション）、責任の所在、職務上の倫理を主要な論点として扱っている」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「生成AIはもっともらしい誤りや存在しない出典を出すことがある」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「分母のある統計ではなく、認定された件数の集計である点に注意が必要です」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「日本弁護士連合会のAI戦略ワーキンググループが2025年9月に「弁護士業務における生成AIの利活用等に関する注意事項」を策定し、会員向けに公表しています」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「記事内容に誤り・古い情報を発見された場合は」（https://aiteller.jp/blog/ai-horitsu-hub）
 - 実例：
-  - 「A List of Strong Verbs for Academic Writing: Examples and Exercises」（https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+  - 「その一方で、生成AIが作った存在しない判例が法廷に提出される事例は世界的に積み上がり、収録件数として数えられる段階に入った」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「裁判所が当事者の幻覚的な内容への依拠を認定した事例を集めたデータベースAI Hallucination Casesによる、同号執筆時点の件数で、うち65%が米国、104件は2026年に入ってからの事例」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「最初の事例は2023年の米国」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「ChatGPTが生成した架空の判例が原告の書面に引用されたMata v. Avianca事件は、生成AIによる誤情報が法廷に提出された事例として最初に報道され、連邦民事訴訟規則11条による制裁金が課された最初の事例でもある」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「AI Hallucination Cases（東京弁護士会LIBRA 2026年7-8月号が引用）」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「NRIの調査は企業全体の導入状況、Hallucination Casesは「問題として認定された件数」であり、分母は存在しない」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「誤情報の生成率は、手本を見て要約するテストでは極めて低い一方、自由な形式で質問した場合にはかなりの確率で誤情報が生成されるというテスト結果があるとし、プロンプトで「嘘をつくな」「わからないことはわからないと回答しろ」と指示しても、誤った引用や要約が生じることがあると記載している」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「さらに3要件のいずれにも該当する場合であっても、弁護士または弁護士法人に提供し、当該弁護士がサービスの利用結果も踏まえて契約書等を自ら精査し必要に応じて自ら修正する方法で利用するとき、および提供先の役職員となっている弁護士が同等の方法で利用するときは、通常は72条に違反しないとされた」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「個人向けプランは含まない）を選定基準に照らして整理した結果、明らかに齟齬する点は見当たらなかったと記載している」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「各領域の代表事例と最新データで「AIの今」を把握できる情報まとめ」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「母数と定義が異なる2つの調査を分けて整理し、MUFG・SMBCなど公式発表のある事例と、対顧客利用の線引きをまとめた」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「医療機関949施設の調査で判明した製品群別のAI導入率（0〜6.6%、翻訳26.4%、見守り19.6%）、令和8年度診療報酬改定に入った生成AI文書作成の扱い、恵寿総合病院・慶應義塾大学病院など公表資料のある実名事例を、一次情報の出典と時点つきで整理した医療AIの全体地図」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「議事録・文書作成・データ分析・顧客対応など6領域の現状と、パナソニックコネクト・ソニーグループ・宮崎銀行など国内11業種の一次情報ベースの事例」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「法務省のガイドライン（令和5年8月）は、「報酬を得る目的」「訴訟事件…その他一般の法律事件」「鑑定…その他の法律事務」の3要件のいずれかに該当しない場合は違反せず、全てに該当する場合でも、弁護士がサービスの利用結果を踏まえて自ら精査し必要に応じて自ら修正する形で利用するときは通常違反しないと整理しています」（https://aiteller.jp/blog/ai-horitsu-hub）
+  - 「東京弁護士会の会報LIBRA 2026年7-8月合併号の特集は、裁判所が当事者の幻覚的な内容や資料への依拠を認定した事例を集めたデータベース「AI Hallucination Cases」をもとに、弁護士がAIを使って問題になった事件が執筆時点で432件、うち65%が米国、104件が2026年に入ってからの事例だと記載しています」（https://aiteller.jp/blog/ai-horitsu-hub）
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次

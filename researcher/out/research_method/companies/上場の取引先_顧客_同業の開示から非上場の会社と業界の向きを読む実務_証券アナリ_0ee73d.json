@@ -8,11 +8,16 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-09T01:45:06.992174+00:00",
+ "researched_at": "2026-11-09T12:36:42.178621+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/hanseatic_league/n/n2dde7d6cc554",
+    "status": "ok",
+    "method": "http"
+   },
    {
     "url": "https://note.com/hanseatic_league/n/nac30a2f038e5",
     "status": "ok",
@@ -20,11 +25,6 @@
    },
    {
     "url": "https://note.com/petenshoku/n/n2db353012e4a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hanseatic_league/n/n2dde7d6cc554",
     "status": "ok",
     "method": "http"
    },
@@ -54,11 +54,6 @@
     "method": "http"
    },
    {
-    "url": "https://finanscope.jp/column/1847/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://ma-la.co.jp/m-and-a/non-listed-company/",
     "status": "http_403",
     "method": "http"
@@ -69,12 +64,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.nagashima.com/publications/publication20240129-1/",
+    "url": "https://finanscope.jp/column/1847/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://adlive.co/ir/article015/",
+    "url": "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91ma%E3%81%AE%E9%81%A9%E6%99%82%E9%96%8B%E7%A4%BA/",
     "status": "ok",
     "method": "http"
    },
@@ -84,12 +79,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.jpx.co.jp/english/equities/listing-on-tse/new/guide/tvdivq0000002g9b-att/bv22ga0000001uhp.pdf",
+    "url": "https://adlive.co/ir/article015/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
-    "url": "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91ma%E3%81%AE%E9%81%A9%E6%99%82%E9%96%8B%E7%A4%BA/",
+    "url": "https://www.braincenter.co.jp/angle/sustainability6.html",
     "status": "ok",
     "method": "http"
    },
@@ -99,12 +94,12 @@
     "method": "http"
    },
    {
-    "url": "https://rc.persol-group.co.jp/thinktank/thinktank-column/202206100003/",
+    "url": "https://www.jpx.co.jp/equities/listing/disclosure/guidebook/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.braincenter.co.jp/angle/sustainability6.html",
+    "url": "https://www.theport.jp/portcareer/article/132878/",
     "status": "ok",
     "method": "http"
    },
@@ -124,24 +119,24 @@
     "method": "http"
    },
    {
-    "url": "https://www.meti.go.jp/shingikai/economy/corporate_information/pdf/001_a_04_00.pdf",
+    "url": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904/01.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.reddit.com/r/SoundersFC/comments/11h48t5/parking_at_lumen_field_on_gameday/",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://note.com/cpa20240208/n/n0e0020eaacbc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/economy/corporate_information/pdf/20240625_1.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.intelligize.com/solution/strategy/peer-benchmarking/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438123",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://www.avantisai.com/resources/blog",
@@ -159,6 +154,11 @@
     "method": "http"
    },
    {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438123",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://link.springer.com/article/10.1007/s11142-024-09821-z",
     "status": "robots_disallowed",
     "method": ""
@@ -169,15 +169,15 @@
   {
    "query": "上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109） site:note.com",
    "results": [
+    "https://note.com/hanseatic_league/n/n2dde7d6cc554",
     "https://note.com/hanseatic_league/n/nac30a2f038e5",
     "https://note.com/petenshoku/n/n2db353012e4a",
-    "https://note.com/hanseatic_league/n/n2dde7d6cc554",
     "https://note.com/petenshoku/n/n1814e23c76e1",
     "https://note.com/tatsuya_sabato/n/nbf30b29f665f",
     "https://note.com/igpi/n/n56c6075f4232",
     "https://note.com/tatsuya_sabato/n/nfffd48f5ec18",
-    "https://note.com/qfindr/n/naa98e781bedd",
     "https://note.com/qfindr/n/nd94adf502297",
+    "https://note.com/qfindr/n/naa98e781bedd",
     "https://note.com/tatsuya_sabato/n/n1f22cca6103c"
    ],
    "engines": [
@@ -191,14 +191,52 @@
    "results": [
     "https://note.com/tatsuya_sabato/n/nac55beffbef2",
     "https://note.com/cpa20240208/n/n21269291b564",
-    "https://finanscope.jp/column/1847/",
     "https://ma-la.co.jp/m-and-a/non-listed-company/",
     "https://note.com/igpi/n/n05acb51c99fc",
-    "https://www.nagashima.com/publications/publication20240129-1/",
+    "https://finanscope.jp/column/1847/",
     "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91ma%E3%81%AE%E9%81%A9%E6%99%82%E9%96%8B%E7%A4%BA/",
-    "https://note.com/petenshoku/n/n2db353012e4a",
+    "https://www.nagashima.com/publications/publication20240129-1/",
+    "https://rc.persol-group.co.jp/thinktank/thinktank-column/202206100003/",
+    "https://adlive.co/ir/article015/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109） やり方",
+   "results": [
+    "https://ma-la.co.jp/m-and-a/non-listed-company/",
+    "https://www.socialimpactact.com/post/sme-sustainability",
+    "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91ma%E3%81%AE%E9%81%A9%E6%99%82%E9%96%8B%E7%A4%BA/",
     "https://adlive.co/ir/article015/",
-    "https://note.com/bsj2026/n/n12dcb8938401"
+    "https://www.braincenter.co.jp/angle/sustainability6.html",
+    "https://wheat-biz.com/fp/chusho-kigyo-ir-joho-kaiji-finance/",
+    "https://www.jpx.co.jp/equities/listing/disclosure/guidebook/",
+    "https://www.theport.jp/portcareer/article/132878/",
+    "https://rc.persol-group.co.jp/thinktank/thinktank-column/202206100003/",
+    "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904/01.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109） 事例",
+   "results": [
+    "https://ma-la.co.jp/m-and-a/non-listed-company/",
+    "https://www.braincenter.co.jp/angle/sustainability6.html",
+    "https://www.socialimpactact.com/post/sme-sustainability",
+    "https://www.jpx.co.jp/news/1020/20251226-02.html",
+    "https://adlive.co/ir/article015/",
+    "https://paradigm-shift.co.jp/media/unlisted/",
+    "https://note.com/tatsuya_sabato/n/nac55beffbef2",
+    "https://knotus.jp/journal/1860",
+    "https://www.theport.jp/portcareer/article/132878/",
+    "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20260904/01.pdf"
    ],
    "engines": [
     "ddgs:bing",
@@ -207,82 +245,41 @@
    "n_hits": 16
   },
   {
-   "query": "上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109） やり方",
-   "results": [
-    "https://ma-la.co.jp/m-and-a/non-listed-company/",
-    "https://adlive.co/ir/article015/",
-    "https://www.socialimpactact.com/post/sme-sustainability",
-    "https://www.jpx.co.jp/english/equities/listing-on-tse/new/guide/tvdivq0000002g9b-att/bv22ga0000001uhp.pdf",
-    "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91ma%E3%81%AE%E9%81%A9%E6%99%82%E9%96%8B%E7%A4%BA/",
-    "https://wheat-biz.com/fp/chusho-kigyo-ir-joho-kaiji-finance/",
-    "https://rc.persol-group.co.jp/thinktank/thinktank-column/202206100003/",
-    "https://www.braincenter.co.jp/angle/sustainability6.html",
-    "https://www.theport.jp/portcareer/article/132878/",
-    "https://www.walmart.com/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 29
-  },
-  {
-   "query": "上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109） 事例",
-   "results": [
-    "https://ma-la.co.jp/m-and-a/non-listed-company/",
-    "https://www.braincenter.co.jp/angle/sustainability6.html",
-    "https://adlive.co/ir/article015/",
-    "https://www.socialimpactact.com/post/sme-sustainability",
-    "https://www.jpx.co.jp/news/1020/20251226-02.html",
-    "https://note.com/tatsuya_sabato/n/nac55beffbef2",
-    "https://paradigm-shift.co.jp/media/unlisted/",
-    "https://knotus.jp/journal/1860",
-    "https://www.meti.go.jp/shingikai/economy/corporate_information/pdf/001_a_04_00.pdf",
-    "https://www.reddit.com/r/SoundersFC/comments/11h48t5/parking_at_lumen_field_on_gameday/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 19
-  },
-  {
    "query": "analyst using listed suppliers customers peers disclosures to infer private company industry trends blog",
    "results": [
     "https://www.intelligize.com/solution/strategy/peer-benchmarking/",
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438123",
     "https://www.avantisai.com/resources/blog",
     "https://www.bayes.citystgeorges.ac.uk/__data/assets/pdf_file/0005/873023/jiancheng-duncan-liu-CHLZ-2024.pdf",
     "https://www.equitymethods.com/articles/how-the-secs-latest-cdis-impact-pay-vs-performance-disclosure-practices/",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438123",
     "https://link.springer.com/article/10.1007/s11142-024-09821-z",
     "https://www.marketplace.spglobal.com/en/blueprints/company-peer-group-using-similarity-analysis-(c40668a5-a8e6-4d1f-ab58-2303c92a073e)",
-    "https://www.winvesta.in/blog/investors/comparable-company-analysis-finding-the-right-peers",
     "https://www.mdpi.com/2071-1050/15/8/6479",
-    "https://www.spglobal.com/market-intelligence/en/news-insights/research/2025/11/turning-data-into-deal-flow-the-future-of-private-company-analysis"
+    "https://www.winvesta.in/blog/investors/comparable-company-analysis-finding-the-right-peers",
+    "https://link.springer.com/article/10.1007/s11142-026-09963-2"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "site:note.com 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）",
    "results": [
     "https://note.com/petenshoku/n/n2db353012e4a",
     "https://note.com/tatsuya_sabato/n/n91ae51ec6f5b",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
     "https://note.com/petenshoku/n/nb1d763a27206",
     "https://note.com/tatsuya_sabato/n/nd2eda6fa7da9",
     "https://note.com/deal_decoded_jp/n/n5cfe764d86a6",
-    "https://note.com/bizgram/n/n5bde4d5402d1",
     "https://note.com/ib_pe_hf/n/nb25b94945c37",
     "https://note.com/olp2017/n/n35fb18d68965",
     "https://note.com/humble_crane7701/n/n0570c7856767",
     "https://note.com/quick_koala7217/n/n960c9b0e69d9"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -291,13 +288,13 @@
    "query": "site:x.com 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）",
    "results": [
     "https://x.com/luigi_jpn/article/2099081014463369454",
-    "https://note.com/maco0411/n/n9680cedaf442",
-    "https://note.com/bsj2026/n/n12dcb8938401",
-    "https://note.com/sustainablelab/n/n684255b7f36d",
-    "https://note.com/tyousachuo/n/n6ad52dc4070a",
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/tatsuya_sabato/n/nac55beffbef2",
-    "https://note.com/cpa20240208/n/n0e0020eaacbc"
+    "https://x.com/kaijiwire",
+    "https://x.com/TSR_NEWS/status/2054781709179408846",
+    "https://x.com/edinetdb/status/2063194749616681271",
+    "https://x.com/ejima_ma/status/2116745811065229562",
+    "https://x.com/nagi_cpa_tax/status/2084787425872896365",
+    "https://x.com/profession_n/status/2060632302544371951",
+    "https://x.com/shindo_y/status/2106536081407738122"
    ],
    "engines": [
     "ddgs:google",
@@ -309,13 +306,13 @@
    "query": "site:linkedin.com 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）",
    "results": [
     "https://jp.linkedin.com/in/%E5%93%B2-%E7%B9%94%E7%94%B0-13545762",
-    "https://note.com/maco0411/n/n9680cedaf442",
-    "https://note.com/bsj2026/n/n12dcb8938401",
-    "https://note.com/sustainablelab/n/n684255b7f36d",
-    "https://note.com/tyousachuo/n/n6ad52dc4070a",
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/tatsuya_sabato/n/nac55beffbef2",
-    "https://note.com/cpa20240208/n/n0e0020eaacbc"
+    "https://jp.linkedin.com/posts/智史-栗賀-aaa370102_peoplexの自主開示に学ぶ非上場企業が人的資本を武器にする方法-4月10-activity-7449973521029709824--gX7",
+    "https://jp.linkedin.com/posts/pwc-japan-グループ_不正調査開示事例の分析-調査報告書から見る不正の傾向と考察-第1回総論-activity-7202224811165507584-iD6b",
+    "https://www.linkedin.com/posts/masahiro-fukuhara-8107239_非上場企業も対応を強化-いま注力すべきesg情報開示を考える③-日本企業が-activity-7087182038180499456-PiId",
+    "https://www.linkedin.com/pulse/gptの時代上場企業の動き最新プレスリリースから読み解くtheinfitechのセールステックレポート-nguyen-manh-マイン-",
+    "https://jp.linkedin.com/posts/yoshifumi-kato-5b3889237_某セミナーで東証上場部で7月に新設された上場サポートグループの方の講演を聞きました-activity-7405191634293944320-5KQJ",
+    "https://jp.linkedin.com/posts/yuko-sasaki-61734bb4_人的資本の開示拡充政府指針経営戦略と連動義務に指標のみ重視から転換-日本経済新聞-activity-7442344597592363008-gQld",
+    "https://jp.linkedin.com/posts/toru-fukuda-541b227_非財務情報開示と企業価値なぜ書いても評価されないのか-近年統合報告書やサステナビリティ-activity-7426761239013400576-elqp"
    ],
    "engines": [
     "ddgs:google",
@@ -326,13 +323,13 @@
   {
    "query": "site:facebook.com 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）",
    "results": [
-    "https://note.com/maco0411/n/n9680cedaf442",
-    "https://note.com/bsj2026/n/n12dcb8938401",
-    "https://note.com/sustainablelab/n/n684255b7f36d",
-    "https://note.com/tyousachuo/n/n6ad52dc4070a",
-    "https://note.com/isa99999/n/n7aadf977f2e7",
-    "https://note.com/tatsuya_sabato/n/nac55beffbef2",
-    "https://note.com/cpa20240208/n/n0e0020eaacbc"
+    "https://www.facebook.com/CREGIO.Partners/posts/コラム買い手は同業非同業どちらにすべきかmaにおいて売り手企業から見ると買い手は大きく①同業②非同業③ファンドの3つに分類されますmaの検討交渉が進む中で複数の/182204640087254/",
+    "https://www.facebook.com/MAstrike/posts/ソウルドアウト創業者荻原猛氏にipoから非上場化pmiまでのリアルな体験談をお話しいただきます上場維持基準見直しで高まる上場非上場議論に対し経営戦略や事業承継を/1175863694579979/",
+    "https://www.facebook.com/bmcnet/posts/非上場株式の評価方式が変わる顧問先を守るための残余利益モデル対策現在検討が進められている非上場株式の評価方式の改正実はこの改正場合によっては中小企業にとって-大/1592346686237686/",
+    "https://www.facebook.com/doshinweb/videos/解説動画上場か非上場か北海道企業の新たな生存戦略-動画本編はこちらhttpswwwhokkaido-npcojparticle1345884-道北で店舗展開する/1825515675531744/",
+    "https://www.facebook.com/BureauVeritasJapan/posts/ウェビナーサステナビリティデータの第三者検証ssbj非財務情報の開示検証やgx-etsの準備としてサステナビリティ情報開示としてssbjsustainabili/122119550325165034/",
+    "https://www.facebook.com/funaisoken/videos/100億企業に導く10の羅針盤-無料ダウンロード/3403579636476773/",
+    "https://www.facebook.com/EYJapanOfficial/posts/この動画では非財務情報やesg情報といったサステナビリティ情報の開示について取り上げています有価証券報告書での開示の必要性や虚偽記載があった場合の責任といった内/5028084277270888/"
    ],
    "engines": [
     "ddgs:google"
@@ -344,29 +341,29 @@
    "results": [
     "https://note.com/cpa20240208/n/n21269291b564",
     "https://note.com/tatsuya_sabato/n/nac55beffbef2",
-    "https://note.com/igpi/n/n05acb51c99fc",
+    "https://note.com/good_camel6014",
     "https://adlive.co/ir/article015/",
     "https://www.jacd.jp/news/opinion/251205%20POMstatement.pdf",
     "https://www.nagashima.com/publications/publication20240129-1/",
-    "https://www.youtube.com/watch?v=2uAuWrJIjR0",
+    "https://note.com/igpi/n/n05acb51c99fc",
     "https://rc.persol-group.co.jp/thinktank/thinktank-column/202206100003/",
-    "https://note.com/good_camel6014",
-    "https://www.microsoft.com/en-us/"
+    "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91ma%E3%81%AE%E9%81%A9%E6%99%82%E9%96%8B%E7%A4%BA/",
+    "https://note.com/isa99999/n/n7aadf977f2e7"
    ],
    "engines": [
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109） X 投稿",
    "results": [
-    "https://www.socialimpactact.com/post/sme-sustainability",
     "https://squaregroup.co.jp/column/%E3%80%90%E3%82%B3%E3%83%A9%E3%83%A0%E3%80%91ma%E3%81%AE%E9%81%A9%E6%99%82%E9%96%8B%E7%A4%BA/",
+    "https://www.socialimpactact.com/post/sme-sustainability",
     "https://knotus.jp/journal/1860",
-    "https://www.fsa.go.jp/singi/singi_kinyu/market-system/siryou/20210525/05.pdf",
     "https://www.zeiken.co.jp/zeikenpress/press/0004pp20250609/",
+    "https://www.fsa.go.jp/singi/singi_kinyu/market-system/siryou/20210525/05.pdf",
     "https://www.jpx.co.jp/equities/follow-up/nlsgeu000006gevo-att/mklp77000000k4tj.pdf",
     "https://adlive.co/ir/article015/",
     "https://www.murc.jp/wp-content/uploads/2026/04/cr_260420_01.pdf",
@@ -377,27 +374,27 @@
     "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "analyst using listed suppliers customers peers disclosures to infer private company industry trends blog site:linkedin.com",
    "results": [
     "https://uk.linkedin.com/company/options-technology",
-    "https://in.linkedin.com/company/airties",
     "https://www.linkedin.com/company/founders-future",
     "https://ca.linkedin.com/in/gauravutrivedi",
     "https://www.linkedin.com/in/jakehallac",
     "https://www.linkedin.com/in/dongentile",
-    "https://www.linkedin.com/in/louiscolumbus",
     "https://www.linkedin.com/in/juanandresespinosa",
+    "https://www.linkedin.com/in/louiscolumbus",
     "https://www.linkedin.com/in/jakemrose",
+    "https://www.linkedin.com/in/ryan-glanville",
     "https://www.linkedin.com/in/sanjmo"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 17
   }
  ],
  "missing": {
@@ -408,6 +405,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T17:57:15.543004+00:00"
 }

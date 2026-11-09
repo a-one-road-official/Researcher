@@ -8,9 +8,181 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T01:20:09.297392+00:00",
+ "researched_at": "2026-11-09T12:36:50.739362+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "判例調査に生成AIを使う場合の注意点は何が挙げられていますか",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本弁護士連合会のAI戦略ワーキンググループが「弁護士業務における生成AIの利活用等に関する注意事項」を策定（会員向け）",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "前者は、生成AIから得られた生成物の正確性は保証されていないため弁理士が正確性を確認する必要があり、最終的には弁理士が責任をもって提供すべきであるとし、機密情報・非公開情報を扱う立場としての注意を求めている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日弁連のAI戦略ワーキンググループが2025年9月に策定した会員向けの注意事項は、守秘義務、誤情報（ハルシネーション）、責任の所在、職務上の倫理を主要な論点として扱っている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "生成AIはもっともらしい誤りや存在しない出典を出すことがある",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "分母のある統計ではなく、認定された件数の集計である点に注意が必要です",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本弁護士連合会のAI戦略ワーキンググループが2025年9月に「弁護士業務における生成AIの利活用等に関する注意事項」を策定し、会員向けに公表しています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "記事内容に誤り・古い情報を発見された場合は",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "東京弁護士会の特集は、生成AIが「ある単語の次にどのような単語が続くかを統計的に予測するモデル」であり、判決文等の定型的な表現を学習することでもっともらしい判決文を生成できてしまう点を、法律分野特有のリスクとして説明している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "よくある質問では、相手先企業名や自社が特定できる固有名詞を「甲」「乙」などに置き換えてからアップロードする方法を案内し、画像のPDFや2段組み・表形式の契約書は読み込めないとしています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "隣接分野として、採用・人事における選考へのAI利用は",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本のAI普及率を総務省・令和8年版情報通信白書（2026年7月公表）などの一次情報で整理",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "McKinsey・OECD・総務省・経済産業省・日経リサーチなど一次情報を業界横断で整理し、医療・金融・製造・小売・教育・ITの導入率を調査機関・時点・定義を明記して比較する中立のデータまとめ",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "医療機関949施設の調査で判明した製品群別のAI導入率（0〜6.6%、翻訳26.4%、見守り19.6%）、令和8年度診療報酬改定に入った生成AI文書作成の扱い、恵寿総合病院・慶應義塾大学病院など公表資料のある実名事例を、一次情報の出典と時点つきで整理した医療AIの全体地図",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "議事録・文書作成・データ分析・顧客対応など6領域の現状と、パナソニックコネクト・ソニーグループ・宮崎銀行など国内11業種の一次情報ベースの事例",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "分母のある統計ではなく、認定された件数の集計である点に注意が必要です",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.",
+    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "東京弁護士会の特集は、生成AIが「ある単語の次にどのような単語が続くかを統計的に予測するモデル」であり、判決文等の定型的な表現を学習することでもっともらしい判決文を生成できてしまう点を、法律分野特有のリスクとして説明している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "禁止行為を列挙して違反に罰則を科すEU型の規制法とは構造が異なり、推進の枠組みを定める法律である",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年7月14日に閣議決定された計画は、政府業務における生成AIについて、エージェント型AIの導入や国内で開発されたAIモデルの積極活用を含むガバメントAI「源内」を推進し、AIエージェントに対応するルール作りを進めるとしている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに3要件のいずれにも該当する場合であっても、弁護士または弁護士法人に提供し、当該弁護士がサービスの利用結果も踏まえて契約書等を自ら精査し必要に応じて自ら修正する方法で利用するとき、および提供先の役職員となっている弁護士が同等の方法で利用するときは、通常は72条に違反しないとされた",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "主尋問の質問案、反論の骨子、定型書面の草稿",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "東京弁護士会の特集は、文献・判例調査においては汎用型の生成AIをそのまま使うのではなく、利用者が指定した資料を前提として回答する仕組みを用いることや、回答に不正確なものが混ざっている可能性を常に意識しつつ抜け漏れを防ぎ調査の初動を早める用途に留めることを、留意点として挙げている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "よくある質問では、相手先企業名や自社が特定できる固有名詞を「甲」「乙」などに置き換えてからアップロードする方法を案内し、画像のPDFや2段組み・表形式の契約書は読み込めないとしています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同会は2025年9月、日本国内で汎用型の生成AIサービスを提供する主要事業者を対象に、入出力データの取扱い、データの利用・保存、セキュリティ対策体制、データ処理の方法等に関する照会を実施した",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "後者は、無資格事業者によるサービスが報酬を得て弁理士専権業務を実質的に行っている場合は弁理士法第75条に違反すると考えられると整理しており、弁護士法72条をめぐる法務省の枠組みと同型の議論が、他士業でも並行して進んでいることが分かる",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同ガイドラインは、①サービスの設計・機能が「事件性」のある案件に関して利用させることを目指したものではなく、②同利用に特化した特性・機能を備えていないこと（「価値中立的なサービス提供」）に加え、③不適切利用を回避するガバナンス体制を整備している場合には、文献・法的問題点のリサーチ支援、書面の作成・審査・管理支援、内部通報事案の調査支援など列挙された業務類型について、一般的に弁護士法72条に抵触しないと整理した",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "東京弁護士会の特集では、汎用型の生成AIに自由形式で尋ねる使い方は誤情報が生じやすいこと、利用者が指定した資料を前提に回答する仕組みを使うこと、回答に不正確なものが混ざる可能性を前提に、抜け漏れを防いで調査の初動を早める用途に留めることが挙げられています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "How to check AI citations and identify AI hallucinations in references | Editage",
     "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
@@ -78,15 +250,13 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "実例": [
-   {
-    "quote": "A List of Strong Verbs for Academic Writing: Examples and Exercises",
-    "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "突き合わせ・推定": [
+   {
+    "quote": "このページは、制度側の整理と、公表されている数値を突き合わせて現在地をまとめたものである",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "Step 4: Cross-Check with Academic Databases",
     "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
@@ -100,9 +270,99 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "Avoid asking AI tools to generate citations on their own. Upload your own PDFs of published papers as much as possible, or a list of URLs/DOIs that you have already verified, and ask the tool to prioritize citing them.",
+    "quote": "その一方で、生成AIが作った存在しない判例が法廷に提出される事例は世界的に積み上がり、収録件数として数えられる段階に入った",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "裁判所が当事者の幻覚的な内容への依拠を認定した事例を集めたデータベースAI Hallucination Casesによる、同号執筆時点の件数で、うち65%が米国、104件は2026年に入ってからの事例",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "最初の事例は2023年の米国",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ChatGPTが生成した架空の判例が原告の書面に引用されたMata v. Avianca事件は、生成AIによる誤情報が法廷に提出された事例として最初に報道され、連邦民事訴訟規則11条による制裁金が課された最初の事例でもある",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI Hallucination Cases（東京弁護士会LIBRA 2026年7-8月号が引用）",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "NRIの調査は企業全体の導入状況、Hallucination Casesは「問題として認定された件数」であり、分母は存在しない",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "誤情報の生成率は、手本を見て要約するテストでは極めて低い一方、自由な形式で質問した場合にはかなりの確率で誤情報が生成されるというテスト結果があるとし、プロンプトで「嘘をつくな」「わからないことはわからないと回答しろ」と指示しても、誤った引用や要約が生じることがあると記載している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに3要件のいずれにも該当する場合であっても、弁護士または弁護士法人に提供し、当該弁護士がサービスの利用結果も踏まえて契約書等を自ら精査し必要に応じて自ら修正する方法で利用するとき、および提供先の役職員となっている弁護士が同等の方法で利用するときは、通常は72条に違反しないとされた",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "個人向けプランは含まない）を選定基準に照らして整理した結果、明らかに齟齬する点は見当たらなかったと記載している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "各領域の代表事例と最新データで「AIの今」を把握できる情報まとめ",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母数と定義が異なる2つの調査を分けて整理し、MUFG・SMBCなど公式発表のある事例と、対顧客利用の線引きをまとめた",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "医療機関949施設の調査で判明した製品群別のAI導入率（0〜6.6%、翻訳26.4%、見守り19.6%）、令和8年度診療報酬改定に入った生成AI文書作成の扱い、恵寿総合病院・慶應義塾大学病院など公表資料のある実名事例を、一次情報の出典と時点つきで整理した医療AIの全体地図",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "議事録・文書作成・データ分析・顧客対応など6領域の現状と、パナソニックコネクト・ソニーグループ・宮崎銀行など国内11業種の一次情報ベースの事例",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "法務省のガイドライン（令和5年8月）は、「報酬を得る目的」「訴訟事件…その他一般の法律事件」「鑑定…その他の法律事務」の3要件のいずれかに該当しない場合は違反せず、全てに該当する場合でも、弁護士がサービスの利用結果を踏まえて自ら精査し必要に応じて自ら修正する形で利用するときは通常違反しないと整理しています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "東京弁護士会の会報LIBRA 2026年7-8月合併号の特集は、裁判所が当事者の幻覚的な内容や資料への依拠を認定した事例を集めたデータベース「AI Hallucination Cases」をもとに、弁護士がAIを使って問題になった事件が執筆時点で432件、うち65%が米国、104件が2026年に入ってからの事例だと記載しています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A List of Strong Verbs for Academic Writing: Examples and Exercises",
     "url": "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -123,11 +383,6 @@
     "method": "http"
    },
    {
-    "url": "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "status": "ok",
     "method": "pdf"
@@ -135,6 +390,11 @@
    {
     "url": "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -148,7 +408,7 @@
     "method": "http"
    },
    {
-    "url": "https://emanet.jp/column/ai-public-correction/",
+    "url": "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
     "status": "ok",
     "method": "http"
    },
@@ -168,6 +428,11 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/kikuad501/n/n4350779e0fed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://yamanaka-bengoshi.jp/2026/10/22/ai-fake-statistics-source-independence/",
     "status": "http_403",
     "method": "http"
@@ -178,12 +443,12 @@
     "method": "http"
    },
    {
-    "url": "https://qiita.com/kz2021019/items/4f5f6aebe65403c88737",
+    "url": "https://maisondechatofficial.com/entry/2026/11/05/203000",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://shigyo.ai/blog/2026-05-26-ai-hallucination-sanctions/",
+    "url": "https://mainichi-miru.com/ai-forensics/case-20260809-03",
     "status": "ok",
     "method": "http"
    },
@@ -193,18 +458,18 @@
     "method": "http"
    },
    {
+    "url": "https://arxiv.org/html/2607.00738v2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.inra.ai/blog/citation-accuracy",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/html/2606.21155v3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://library.edgewood.edu/artificial-intelligence/hallucinated-citations",
-    "status": "ok",
+    "url": "https://scholarworks.calstate.edu/downloads/p5548244z",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -213,7 +478,7 @@
     "method": "http"
    },
    {
-    "url": "https://gptzero.me/news/what-counts-as-a-hallucinated-citation",
+    "url": "https://manuelgarcia.info/guides/research/guide/training-researchers-recognize-ai-hallucinations",
     "status": "ok",
     "method": "http"
    }
@@ -225,14 +490,14 @@
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
+    "https://aiteller.jp/blog/ai-horitsu-hub",
     "https://www.it-houmu.com/archives/2705",
-    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://emanet.jp/column/ai-public-correction/",
-    "https://note.com/auverimo/n/n7c48e409762f"
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "https://note.com/hulk_kei/n/ndb03de89e5a7"
    ],
    "engines": [
     "ddgs:google",
@@ -245,31 +510,13 @@
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
+    "https://aiteller.jp/blog/ai-horitsu-hub",
     "https://www.it-houmu.com/archives/2705",
-    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://emanet.jp/column/ai-public-correction/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） やり方",
-   "results": [
-    "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
-    "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
-    "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
-    "https://www.it-houmu.com/archives/2705",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://emanet.jp/column/ai-public-correction/",
+    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
@@ -279,17 +526,37 @@
    "n_hits": 16
   },
   {
+   "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） やり方",
+   "results": [
+    "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
+    "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
+    "https://aiteller.jp/blog/ai-horitsu-hub",
+    "https://www.it-houmu.com/archives/2705",
+    "https://www.youtube.com/watch?v=Ot9jNgftXDI",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
+    "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
    "query": "AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手） 事例",
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
+    "https://aiteller.jp/blog/ai-horitsu-hub",
     "https://www.it-houmu.com/archives/2705",
+    "https://www.youtube.com/watch?v=Ot9jNgftXDI",
     "https://note.com/copymonitor/n/n8c2d19ba1cc3",
-    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://emanet.jp/column/ai-public-correction/",
+    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
@@ -302,18 +569,18 @@
    "query": "citation error types hallucination outdated superseded source verification checklist",
    "results": [
     "https://www.editage.com/blog/how-to-verify-ai-generated-citations-references-steps-checklist-examples/",
+    "https://arxiv.org/html/2607.00738v2",
     "https://www.inra.ai/blog/citation-accuracy",
-    "https://arxiv.org/html/2606.21155v3",
-    "https://library.edgewood.edu/artificial-intelligence/hallucinated-citations",
-    "https://paperpile.com/blog/citation-checker-hallucinations/",
-    "https://gptzero.me/news/what-counts-as-a-hallucinated-citation",
     "https://scholarworks.calstate.edu/downloads/p5548244z",
-    "https://manusights.com/blog/what-citation-verification-catches",
-    "https://vishwajeet.org/citation-accuracy-checklist/",
-    "https://arxiv.org/html/2607.22693v2"
+    "https://paperpile.com/blog/citation-checker-hallucinations/",
+    "https://manuelgarcia.info/guides/research/guide/training-researchers-recognize-ai-hallucinations",
+    "https://library.edgewood.edu/artificial-intelligence/hallucinated-citations",
+    "https://gptzero.me/news/what-counts-as-a-hallucinated-citation",
+    "https://www.enago.com/articles/ai-hallucinations-research-citations/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10307651/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -326,17 +593,16 @@
     "https://note.com/matsuo1984/n/n006e3e569eb0",
     "https://note.com/miuraandpartners/n/n6e2ed30722cc",
     "https://note.com/gifted_viola8806/n/n320003225f39",
+    "https://note.com/gifted_viola8806/n/n1ea7b49cc3a7",
     "https://note.com/gifted_viola8806/n/na41c8b925790",
     "https://note.com/gifted_viola8806/n/n8b8d42d7055b",
     "https://note.com/gifted_viola8806/n/n116ee27016c5",
-    "https://note.com/lovely_moose206/n/nb33d612ffa29",
-    "https://note.com/gifted_viola8806/n/n04144675f0a5"
+    "https://note.com/lovely_moose206/n/nb33d612ffa29"
    ],
    "engines": [
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "site:x.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
@@ -349,33 +615,33 @@
     "https://x.com/Con_Law_Masa",
     "https://x.com/HiromitsuTakagi/status/2118199154128429087",
     "https://x.com/lawvis",
-    "https://x.com/ak_tch/with_replies",
-    "https://x.com/eikichi_keppy"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:linkedin.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
-   "results": [
-    "https://jp.linkedin.com/in/hidehiko-kasaba-813baa133",
-    "https://jp.linkedin.com/in/shohei-teramae-01181b24a/ja",
-    "https://jp.linkedin.com/in/hiroshiooshima1983",
-    "https://vn.linkedin.com/in/daisuke-yamamoto-557137198",
-    "https://jp.linkedin.com/in/ryu-nakasaki-ab6747b8",
-    "https://jp.linkedin.com/in/yoichi-honda",
-    "https://jp.linkedin.com/in/kurokawa-naoki-law",
-    "https://jp.linkedin.com/in/kota-fujinuma-593329173",
-    "https://jp.linkedin.com/in/ai141",
-    "https://jp.linkedin.com/in/seiko-araki-39848421a"
+    "https://x.com/eikichi_keppy",
+    "https://x.com/ak_tch/with_replies"
    ],
    "engines": [
     "yahoo_jp"
    ],
    "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
+   "results": [
+    "https://jp.linkedin.com/in/kurokawa-naoki-law",
+    "https://jp.linkedin.com/in/hidehiko-kasaba-813baa133",
+    "https://jp.linkedin.com/in/yoichi-honda",
+    "https://jp.linkedin.com/in/shohei-teramae-01181b24a/ja",
+    "https://jp.linkedin.com/in/ryu-nakasaki-ab6747b8",
+    "https://jp.linkedin.com/in/hiroshiooshima1983",
+    "https://vn.linkedin.com/in/daisuke-yamamoto-557137198",
+    "https://jp.linkedin.com/in/kota-fujinuma-593329173",
+    "https://jp.linkedin.com/in/ai141",
+    "https://jp.linkedin.com/in/hiranumaconsulting"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）",
@@ -385,14 +651,14 @@
     "https://www.facebook.com/ikedasomeya/?locale=ja_JP",
     "https://www.facebook.com/matsushimamidori/",
     "https://www.facebook.com/groups/bukatsutochiikisportclub/posts/3728882007418251/",
+    "https://www.facebook.com/anna.fujimori/",
     "https://www.facebook.com/100064119754324/?locale=is_IS",
     "https://www.facebook.com/benrishi.mumeikai/",
     "https://www.facebook.com/p/%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%8C%E6%80%A7%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%9C%A8%E7%95%99%E7%89%B9%E5%88%A5%E8%B3%87%E6%A0%BC%E8%A8%B4%E8%A8%9F%E3%82%92%E6%94%AF%E6%8F%B4%E3%81%99%E3%82%8B%E4%BC%9A-100064878810714/",
-    "https://www.facebook.com/VUC2021/",
-    "https://www.facebook.com/paulshizuofukuzaki/posts/%E3%83%9E%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%AE%E6%97%A5%E6%9C%AC%E6%86%B2%E6%B3%95%E8%8D%89%E6%A1%88%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95%E6%96%B0%E6%86%B2%E6%B3%95%E3%81%AF%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%A6%E5%BE%8C%E3%81%AE%E9%80%A3%E5%90%88%E5%9B%BD%E8%BB%8D%E6%9C%80%E9%AB%98%E5%8F%B8%E4%BB%A4%E5%AE%98%E7%B7%8F%E5%8F%B8%E4%BB%A4%E9%83%A8ghq%E3%81%AE%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%82%82%E3%81%A8%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E3%81%A8%E3%81%AE%E4%BA%A4%E6%B8%89%E3%82%84%E5%B8%9D%E5%9B%BD%E8%AD%B0%E4%BC%9A%E3%81%A7%E3%81%AE%E5%AF%A9%E8%AD%B0%E3%82%92%E7%B5%8C%E3%81%A6%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F1/28075665388703006/"
+    "https://www.facebook.com/VUC2021/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -403,11 +669,11 @@
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
-    "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
-    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://aiteller.jp/blog/ai-horitsu-hub",
     "https://www.it-houmu.com/archives/2705",
-    "https://www.youtube.com/watch?v=gSnb_sQPvU4",
+    "https://www.youtube.com/watch?v=Ot9jNgftXDI",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide"
    ],
    "engines": [
@@ -420,17 +686,17 @@
    "results": [
     "https://www.toben.or.jp/message/libra/pdf/2026_0708/lbr_2026_0708.pdf",
     "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
-    "https://hidetoshilawoffice.com/column/column-20260612-ai-fake-precedents/",
     "https://www.bunka.go.jp/seisaku/bunkashingikai/chosakuken/pdf/94037901_01.pdf",
     "https://yamanaka-bengoshi.jp/2026/10/13/old-legal-tax-books-ai-knowledge-base/",
+    "https://aiteller.jp/blog/ai-horitsu-hub",
     "https://www.it-houmu.com/archives/2705",
-    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
     "https://www.youtube.com/watch?v=gSnb_sQPvU4",
-    "https://emanet.jp/column/ai-public-correction/",
+    "https://note.com/copymonitor/n/n8c2d19ba1cc3",
+    "https://citely.ai/ja/posts/how-to-check-if-an-ai-generated-citation-is-real-2026-guide",
     "https://radineer.asia/aisaas/blog/ai-cited-source-url-not-exist-verification-guide-2026/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -439,27 +705,293 @@
    "query": "citation error types hallucination outdated superseded source verification checklist site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/why-we-cant-yet-blindly-trust-ai-answers-what-do-patrick-e-lawrence-86iwe",
+    "https://www.linkedin.com/posts/edith-elkind-8890825_everyone-is-discussing-ai-hallucinated-citations-activity-7468881954868838400-3Q85",
     "https://www.linkedin.com/pulse/ai-legal-problem-nobody-talking-more-dangerous-than-kalim-ullah-101if",
-    "https://www.linkedin.com/pulse/hallucinations-happen-heres-how-investors-can-keep-ai-andrew-west-mtdzc",
-    "https://www.linkedin.com/posts/ruben-hassid_stop-embarrassing-yourself-with-outdated-activity-7417445538612101121-ayRa",
-    "https://www.linkedin.com/posts/caroline-trotman_ai-knowledgemanagement-digitaltwin-activity-7519172616411197440-H53u",
-    "https://www.linkedin.com/posts/carolynelefant_douglasvdeutsche-activity-7501614639504437248-7fCB",
-    "https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/understanding-why-ai-models-generate-false-information/",
     "https://www.linkedin.com/posts/%F0%9F%8E%AF-ming-tommy-tang-40650014_1-claude-code-just-hallucinated-ensembl-activity-7429898761835028481-NQOu",
-    "https://www.linkedin.com/posts/financial-times_pwc-published-reports-on-ai-and-electric-activity-7488217741187854336-royC",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/how-to-validate-ai-responses/"
+    "https://www.linkedin.com/posts/nikunj-dang-3942454_enterpriseai-aitransformation-designthinking-activity-7508722408682430464-otFN",
+    "https://www.linkedin.com/posts/carolynelefant_douglasvdeutsche-activity-7501614639504437248-7fCB",
+    "https://www.linkedin.com/posts/ruben-hassid_stop-embarrassing-yourself-with-outdated-activity-7417445538612101121-ayRa",
+    "https://www.linkedin.com/posts/ottivogt_ai-leadership-criticalthinking-activity-7443606596024205313-R7Gk",
+    "https://www.linkedin.com/pulse/from-human-bias-ai-hallucinations-truth-false-dube-ph-d-cv1vc",
+    "https://www.linkedin.com/posts/shailiguru_here-is-how-i-am-preparing-for-another-ai-activity-7440895274442530816-EtA_"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   }
  ],
- "missing": {
-  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）"
+ "missing": {},
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "判例調査に生成AIを使う場合の注意点は何が挙げられていますか",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本弁護士連合会のAI戦略ワーキンググループが「弁護士業務における生成AIの利活用等に関する注意事項」を策定（会員向け）",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "前者は、生成AIから得られた生成物の正確性は保証されていないため弁理士が正確性を確認する必要があり、最終的には弁理士が責任をもって提供すべきであるとし、機密情報・非公開情報を扱う立場としての注意を求めている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日弁連のAI戦略ワーキンググループが2025年9月に策定した会員向けの注意事項は、守秘義務、誤情報（ハルシネーション）、責任の所在、職務上の倫理を主要な論点として扱っている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "生成AIはもっともらしい誤りや存在しない出典を出すことがある",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "分母のある統計ではなく、認定された件数の集計である点に注意が必要です",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本弁護士連合会のAI戦略ワーキンググループが2025年9月に「弁護士業務における生成AIの利活用等に関する注意事項」を策定し、会員向けに公表しています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "記事内容に誤り・古い情報を発見された場合は",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "東京弁護士会の特集は、生成AIが「ある単語の次にどのような単語が続くかを統計的に予測するモデル」であり、判決文等の定型的な表現を学習することでもっともらしい判決文を生成できてしまう点を、法律分野特有のリスクとして説明している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "よくある質問では、相手先企業名や自社が特定できる固有名詞を「甲」「乙」などに置き換えてからアップロードする方法を案内し、画像のPDFや2段組み・表形式の契約書は読み込めないとしています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "隣接分野として、採用・人事における選考へのAI利用は",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "日本のAI普及率を総務省・令和8年版情報通信白書（2026年7月公表）などの一次情報で整理",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "McKinsey・OECD・総務省・経済産業省・日経リサーチなど一次情報を業界横断で整理し、医療・金融・製造・小売・教育・ITの導入率を調査機関・時点・定義を明記して比較する中立のデータまとめ",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "医療機関949施設の調査で判明した製品群別のAI導入率（0〜6.6%、翻訳26.4%、見守り19.6%）、令和8年度診療報酬改定に入った生成AI文書作成の扱い、恵寿総合病院・慶應義塾大学病院など公表資料のある実名事例を、一次情報の出典と時点つきで整理した医療AIの全体地図",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "議事録・文書作成・データ分析・顧客対応など6領域の現状と、パナソニックコネクト・ソニーグループ・宮崎銀行など国内11業種の一次情報ベースの事例",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "分母のある統計ではなく、認定された件数の集計である点に注意が必要です",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "東京弁護士会の特集は、生成AIが「ある単語の次にどのような単語が続くかを統計的に予測するモデル」であり、判決文等の定型的な表現を学習することでもっともらしい判決文を生成できてしまう点を、法律分野特有のリスクとして説明している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "禁止行為を列挙して違反に罰則を科すEU型の規制法とは構造が異なり、推進の枠組みを定める法律である",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年7月14日に閣議決定された計画は、政府業務における生成AIについて、エージェント型AIの導入や国内で開発されたAIモデルの積極活用を含むガバメントAI「源内」を推進し、AIエージェントに対応するルール作りを進めるとしている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに3要件のいずれにも該当する場合であっても、弁護士または弁護士法人に提供し、当該弁護士がサービスの利用結果も踏まえて契約書等を自ら精査し必要に応じて自ら修正する方法で利用するとき、および提供先の役職員となっている弁護士が同等の方法で利用するときは、通常は72条に違反しないとされた",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "主尋問の質問案、反論の骨子、定型書面の草稿",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "東京弁護士会の特集は、文献・判例調査においては汎用型の生成AIをそのまま使うのではなく、利用者が指定した資料を前提として回答する仕組みを用いることや、回答に不正確なものが混ざっている可能性を常に意識しつつ抜け漏れを防ぎ調査の初動を早める用途に留めることを、留意点として挙げている",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "よくある質問では、相手先企業名や自社が特定できる固有名詞を「甲」「乙」などに置き換えてからアップロードする方法を案内し、画像のPDFや2段組み・表形式の契約書は読み込めないとしています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同会は2025年9月、日本国内で汎用型の生成AIサービスを提供する主要事業者を対象に、入出力データの取扱い、データの利用・保存、セキュリティ対策体制、データ処理の方法等に関する照会を実施した",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "後者は、無資格事業者によるサービスが報酬を得て弁理士専権業務を実質的に行っている場合は弁理士法第75条に違反すると考えられると整理しており、弁護士法72条をめぐる法務省の枠組みと同型の議論が、他士業でも並行して進んでいることが分かる",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "同ガイドラインは、①サービスの設計・機能が「事件性」のある案件に関して利用させることを目指したものではなく、②同利用に特化した特性・機能を備えていないこと（「価値中立的なサービス提供」）に加え、③不適切利用を回避するガバナンス体制を整備している場合には、文献・法的問題点のリサーチ支援、書面の作成・審査・管理支援、内部通報事案の調査支援など列挙された業務類型について、一般的に弁護士法72条に抵触しないと整理した",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "東京弁護士会の特集では、汎用型の生成AIに自由形式で尋ねる使い方は誤情報が生じやすいこと、利用者が指定した資料を前提に回答する仕組みを使うこと、回答に不正確なものが混ざる可能性を前提に、抜け漏れを防いで調査の初動を早める用途に留めることが挙げられています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "このページは、制度側の整理と、公表されている数値を突き合わせて現在地をまとめたものである",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "その一方で、生成AIが作った存在しない判例が法廷に提出される事例は世界的に積み上がり、収録件数として数えられる段階に入った",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "裁判所が当事者の幻覚的な内容への依拠を認定した事例を集めたデータベースAI Hallucination Casesによる、同号執筆時点の件数で、うち65%が米国、104件は2026年に入ってからの事例",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "最初の事例は2023年の米国",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ChatGPTが生成した架空の判例が原告の書面に引用されたMata v. Avianca事件は、生成AIによる誤情報が法廷に提出された事例として最初に報道され、連邦民事訴訟規則11条による制裁金が課された最初の事例でもある",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI Hallucination Cases（東京弁護士会LIBRA 2026年7-8月号が引用）",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "NRIの調査は企業全体の導入状況、Hallucination Casesは「問題として認定された件数」であり、分母は存在しない",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "誤情報の生成率は、手本を見て要約するテストでは極めて低い一方、自由な形式で質問した場合にはかなりの確率で誤情報が生成されるというテスト結果があるとし、プロンプトで「嘘をつくな」「わからないことはわからないと回答しろ」と指示しても、誤った引用や要約が生じることがあると記載している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "さらに3要件のいずれにも該当する場合であっても、弁護士または弁護士法人に提供し、当該弁護士がサービスの利用結果も踏まえて契約書等を自ら精査し必要に応じて自ら修正する方法で利用するとき、および提供先の役職員となっている弁護士が同等の方法で利用するときは、通常は72条に違反しないとされた",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "個人向けプランは含まない）を選定基準に照らして整理した結果、明らかに齟齬する点は見当たらなかったと記載している",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "各領域の代表事例と最新データで「AIの今」を把握できる情報まとめ",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母数と定義が異なる2つの調査を分けて整理し、MUFG・SMBCなど公式発表のある事例と、対顧客利用の線引きをまとめた",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "医療機関949施設の調査で判明した製品群別のAI導入率（0〜6.6%、翻訳26.4%、見守り19.6%）、令和8年度診療報酬改定に入った生成AI文書作成の扱い、恵寿総合病院・慶應義塾大学病院など公表資料のある実名事例を、一次情報の出典と時点つきで整理した医療AIの全体地図",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "議事録・文書作成・データ分析・顧客対応など6領域の現状と、パナソニックコネクト・ソニーグループ・宮崎銀行など国内11業種の一次情報ベースの事例",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "法務省のガイドライン（令和5年8月）は、「報酬を得る目的」「訴訟事件…その他一般の法律事件」「鑑定…その他の法律事務」の3要件のいずれかに該当しない場合は違反せず、全てに該当する場合でも、弁護士がサービスの利用結果を踏まえて自ら精査し必要に応じて自ら修正する形で利用するときは通常違反しないと整理しています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "東京弁護士会の会報LIBRA 2026年7-8月合併号の特集は、裁判所が当事者の幻覚的な内容や資料への依拠を認定した事例を集めたデータベース「AI Hallucination Cases」をもとに、弁護士がAIを使って問題になった事件が執筆時点で432件、うち65%が米国、104件が2026年に入ってからの事例だと記載しています",
+    "url": "https://aiteller.jp/blog/ai-horitsu-hub",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
  },
- "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T19:49:28.238004+00:00"
 }

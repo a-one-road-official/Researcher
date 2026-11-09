@@ -735,9 +735,9 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：19件／数字のある品目 26件（73%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - note.com と www.bizreach.jp：品目の重なり 2/7（29%）
   - note.com と ja.wikipedia.org：品目の重なり 2/7（29%）
-  - www.bizreach.jp と ja.wikipedia.org：品目の重なり 1/5（20%）
   - www.bizreach.jp と initial.inc：品目の重なり 1/5（20%）
-  - initial.inc と ja.wikipedia.org：品目の重なり 1/5（20%）
+  - ja.wikipedia.org と www.bizreach.jp：品目の重なり 1/5（20%）
+  - ja.wikipedia.org と initial.inc：品目の重なり 1/5（20%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - Crane&I｜売上の柱（何で稼ぐか）［売上・決算］
