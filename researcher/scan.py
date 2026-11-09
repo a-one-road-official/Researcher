@@ -3735,6 +3735,8 @@ def scan(topic):
         _ec = {}
         for r in rows:
             if r.get("値") in (None, "") or not r.get("出典"): continue
+            # 「1人あたり・1台あたり」の分母の1は値でない（4-5）。104回目の走査で 1.0人・1.0台 が最古の掲載の組の上位に出た失敗から外す
+            if isinstance(r.get("値"), (int, float)) and r["値"] == 1: continue
             _ec.setdefault((r.get("品目", ""), str(r.get("値")), r.get("単位", "")), []).append(r)
         _old = []
         for _k, _g in _ec.items():
@@ -3755,6 +3757,38 @@ def scan(topic):
                f"- 同じ品目で同じ値が2ホスト以上に出る組：{len(_old)}組。取得日のいちばん古いホストを元の候補として先に本文で確かめる（取得日は掲載日ではないので、元と決めるのは公開日を本文で見てから・4-24・4-128）",
                *(f"  - {k[0][:28]}：{k[1]}{k[2]} → 最古 {h}（{d}）／{n}ホスト" for k, h, d, n in sorted(_old, key=lambda x: -x[3])[:5]),
                f"- scan.md で「ほぼ確実・かなり高い」を使う行：{_strong}行、うち同じ行に未確認の点が書かれていない行：{_strong_nou}行。強い語を使うなら何が未確認かを同じ行に添える（4-39・4-128）",
+               ""]
+    except Exception: pass
+    # 2026-11-09 4-129（kagawatomo「Waymo」note：報道が「独自に検証できていない」と断った数字は未確認のまま・評価額は調達前か後かの定義で食い違う。
+    # 日本銀行 spri02c「GDPギャップの推計とバブル期の金融政策」：過去の判断は当時使えた版のデータで評価する・折れ目の後の2〜3年分だけでトレンドの折れを決めない）
+    try:
+        _NOV = re.compile(r"独自に検証|独自に確認|確認できていない|検証できていない|確認が取れていない|could not (be )?independently verif|not independently verif|unverified", re.I)
+        _nov = [r for r in rows if r.get("値") not in (None, "") and _NOV.search(r.get("引用", "") or "")]
+        _VAL = re.compile(r"ポストマネー|プレマネー|評価額|バリュエーション|post-money|pre-money|valuation", re.I)
+        _SAL = re.compile(r"売上|売上高|収益|revenue|sales", re.I)
+        _vh = {}
+        for r in rows:
+            if r.get("値") in (None, ""): continue
+            q = r.get("引用", "") or ""
+            if _VAL.search(q): _vh.setdefault(r.get("品目", ""), set()).add("評価額")
+            elif _SAL.search(q): _vh.setdefault(r.get("品目", ""), set()).add("売上")
+        _vmix = sorted(k for k, v in _vh.items() if len(v) == 2)
+        # 2022年（工業統計→経済構造実態調査）の切れ目の後に何年分あるか：3年未満の系列は新方式での向きを言わない
+        _ser = {}
+        for r in rows:
+            try: _y = int(r.get("年") or 0)
+            except (TypeError, ValueError): _y = 0
+            if isinstance(r.get("値"), (int, float)) and _y and not r.get("予測"):
+                _ser.setdefault((r.get("品目", ""), r.get("区分", ""), r.get("単位", "")), set()).add(_y)
+        _short = sorted(((k, len([y for y in ys if y >= 2022])) for k, ys in _ser.items() if any(y < 2022 for y in ys) and any(y >= 2022 for y in ys)), key=lambda x: x[1])
+        _sh3 = [x for x in _short if x[1] < 3]
+        md += ["## 報道の未検証・評価額の定義・切れ目の後の年数（4-129・機械）",
+               f"- 引用の中で書き手自身が「独自に検証できていない・確認できていない」と断った数字の行：{len(_nov)}件。これらは出典が大手でも【未確認】にし、採る値の根拠にしない（4-7・4-129）",
+               *(f"  - {r.get('品目', '')[:24]}：{r.get('値')}{r.get('単位', '')}（{r.get('出典', '')[:50]}）" for r in _nov[:5]),
+               f"- 同じ品目に評価額（調達前・調達後）と売上の両方の数字が入る品目：{len(_vmix)}品目。評価額は売上でも規模でもない。調達前か後かを確かめるまで評価額どうしも比べない（4-63・4-129）",
+               *(f"  - {k[:40]}" for k in _vmix[:5]),
+               f"- 2022年の切れ目をまたぐ系列：{len(_short)}本、うち切れ目の後が3年未満の系列：{len(_sh3)}本。切れ目の後の2〜3年分だけで「新しい傾き」を決めず、前後は別の系列として向きは前の区間だけで書く（4-26・4-105・4-129）",
+               *(f"  - {k[0][:24]}｜{k[1][:16]}｜{k[2]}：2022年以後 {n}年分" for k, n in _sh3[:5]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
