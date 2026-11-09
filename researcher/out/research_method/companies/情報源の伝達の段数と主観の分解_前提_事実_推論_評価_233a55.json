@@ -8,7 +8,7 @@
  ],
  "context": "出どころ",
  "kind": "market",
- "researched_at": "2026-11-09T02:25:11.618498+00:00",
+ "researched_at": "2026-11-09T13:02:34.303155+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -102,32 +102,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.",
-    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "For example, a screenshot of a threat actor’s forum post may preserve its visible content. But the screenshot alone may not establish when the post was accessed, whether the investigator was authenticated, or what information was visible elsewhere on the page.",
@@ -201,6 +175,32 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them | Authentic8",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "OSINT Chain of Custody: 8 Evidence Collection Mistakes and How to Prevent Them",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "What Are the 8 Most Common OSINT Chain-of-Custody Mistakes?",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This can create concerns about selective reporting or confirmation bias, particularly when the investigation is challenged.",
+    "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
@@ -267,11 +267,6 @@
     "method": "http"
    },
    {
-    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
     "url": "https://www.cdfr.design.kyushu-u.ac.jp/lexicon/185/",
     "status": "ok",
     "method": "http"
@@ -282,29 +277,34 @@
     "method": "http"
    },
    {
+    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/gento-k/presentations/11905400?lang=ja",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://zenn.dev/manabuyasuda/articles/3950c61bea392f",
+    "url": "https://saycon.co.jp/archives/neta/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91%E5%A0%B1%E5%91%8A%E4%B8%8A%E6%89%8B%E3%81%AF%E3%81%93%E3%81%93%E3%81%8C%E9%81%95%E3%81%86%EF%BC%81%E3%80%8C%E4%BA%8B%E5%AE%9F%E3%80%8D",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://tsukuba.repo.nii.ac.jp/records/2021236",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/gento-k/presentations/52284652?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tsukuba.repo.nii.ac.jp/records/2021236",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://philarchive.org/archive/HUARKP",
@@ -322,9 +322,9 @@
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/lsdn/presentations/3214723",
+    "url": "https://www.jil.go.jp/institute/siryo/2016/documents/0165.pdf",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    },
    {
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK551677/",
@@ -348,8 +348,8 @@
    },
    {
     "url": "https://www.keiseruniversity.edu/articles/why-chain-of-custody-makes-or-breaks-a-case/",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://authentic8.com/blog/osint-chain-of-custody-digital-evidence/",
@@ -374,9 +374,10 @@
     "https://note.com/jack4manastalk/n/n23f349d009fb"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） note",
@@ -388,12 +389,12 @@
     "https://note.com/chizuru_rakuten/n/n4c896be513d4",
     "https://www.salesanalytics.co.jp/column/no00245/",
     "https://repository.kulib.kyoto-u.ac.jp/handle/2433/125341",
-    "https://note.com/keisuke_miura/n/n1cf533f00ea7",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/akiramotomura/n/nfcaea3fed7b1",
     "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -401,19 +402,19 @@
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） やり方",
    "results": [
-    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://www.cdfr.design.kyushu-u.ac.jp/lexicon/185/",
     "https://www.kantokushi.or.jp/lsp/no775/775_01.html",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
-    "https://researchmap.jp/gento-k/presentations/11905400?lang=ja",
-    "https://zenn.dev/manabuyasuda/articles/3950c61bea392f",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://saycon.co.jp/archives/neta/%E3%80%90%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%E3%80%91%E5%A0%B1%E5%91%8A%E4%B8%8A%E6%89%8B%E3%81%AF%E3%81%93%E3%81%93%E3%81%8C%E9%81%95%E3%81%86%EF%BC%81%E3%80%8C%E4%BA%8B%E5%AE%9F%E3%80%8D",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www2.lib.keio.ac.jp/project/kitie/evaluate/index.html",
+    "https://repository.dl.itc.u-tokyo.ac.jp/login/?next=%2Frecords%2F2011063%2Ffile_details%2FA39889.pdf",
+    "https://portal.do-johodai.ac.jp/articles/6080",
     "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -421,19 +422,19 @@
   {
    "query": "情報源の伝達の段数と主観の分解（前提・事実・推論・評価） 事例",
    "results": [
+    "https://researchmap.jp/gento-k/presentations/52284652?lang=ja",
     "https://tsukuba.repo.nii.ac.jp/records/2021236",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://philarchive.org/archive/HUARKP",
     "https://www.jmfrri.gr.jp/wp-content/uploads/RRI_WG3_AI_.pdf",
     "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
-    "https://researchmap.jp/lsdn/presentations/3214723",
     "https://www.jil.go.jp/institute/siryo/2016/documents/0165.pdf",
     "https://www.soumu.go.jp/main_content/000935597.pdf",
-    "https://www.ipa.go.jp/archive/publish/qv6pgp0000000wrt-att/000079352.pdf",
+    "http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/others/CriticalThinking.pdf",
     "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -453,7 +454,7 @@
     "https://www.cambridge.org/core/books/intelligence-analysis-as-discovery-of-evidence-hypotheses-and-arguments/chains-of-custody/C4551D55340C444A8C82C8158F289924"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -462,13 +463,13 @@
    "query": "site:note.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
     "https://note.com/modern_flea8708/n/ndee8060bc853",
-    "https://note.com/tsuyu_glassmania/n/n9a3e8da2410e",
     "https://note.com/niwatori_keirin/n/nc3da00c42d7b",
+    "https://note.com/tsuyu_glassmania/n/n9a3e8da2410e",
     "https://note.com/vivid_crab2704/n/n7bdaa870499d",
     "https://note.com/fond_bee9001/n/nfb12449e0dfb",
     "https://note.com/blitz_kun/n/n69e2f77eeba5",
     "https://note.com/his10233470/n/n86db8cc075ca",
-    "https://note.com/spaceground/n/n6a55796143c6"
+    "https://note.com/kenhoshino2025/n/ncec38c2088ec"
    ],
    "engines": [
     "ddgs:google",
@@ -479,11 +480,11 @@
   {
    "query": "site:x.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
-    "https://x.com/fukku_ai_BD/status/2067133351262302572",
     "https://x.com/yura_ai123/status/2103599741263352228",
-    "https://x.com/wancoro_xx/status/2070105823804883225",
-    "https://x.com/hiro44_pino/status/2100058975245074878",
+    "https://x.com/fukku_ai_BD/status/2067133351262302572",
     "https://x.com/sankakuten91256/status/2101070223738564655",
+    "https://x.com/hiro44_pino/status/2100058975245074878",
+    "https://x.com/wancoro_xx/status/2070105823804883225",
     "https://x.com/enhanced_jp/status/2085668602389372932",
     "https://x.com/DokeiHi/status/2066811614855364653"
    ],
@@ -495,13 +496,13 @@
   {
    "query": "site:linkedin.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
+    "https://jp.linkedin.com/pulse/学びの窓-51-概念と伝達-誠一郎-眞部-rvf5c",
     "https://jp.linkedin.com/pulse/power-logic-how-develop-evidence-based-reasoning-genius-banerji-lvbzc?tl=ja",
     "https://jp.linkedin.com/pulse/fact-fetch-reason-unified-evaluation-generation-vlad-bogolin-tufve?tl=ja",
-    "https://www.linkedin.com/posts/naba3_行動や評価の基準が言語化されていても-その前提が共有されていない-ことがあります-activity-7413903981669847040-JCvv",
     "https://www.linkedin.com/posts/freeowner17_一を聞いて十を知る人間になる極意-結論-演繹法-をマスターすることです-activity-7206435293804044288-J4gm",
+    "https://www.linkedin.com/posts/naba3_行動や評価の基準が言語化されていても-その前提が共有されていない-ことがあります-activity-7413903981669847040-JCvv",
     "https://jp.linkedin.com/pulse/how-do-risk-managers-maintain-credibility-era-mass-tony?tl=ja",
-    "https://jp.linkedin.com/posts/永嶋-國雄-88ab1189_惨敗した中道は政策秘書にさえぎられ代表には本件が届いていない-ご指摘の状況は事実-activity-7427871978839076864-Z7N8",
-    "https://jp.linkedin.com/pulse/how-find-sources-your-research-paper-5-steps-dr-naureen-aleem-hpw8f?tl=ja"
+    "https://jp.linkedin.com/posts/永嶋-國雄-88ab1189_惨敗した中道は政策秘書にさえぎられ代表には本件が届いていない-ご指摘の状況は事実-activity-7427871978839076864-Z7N8"
    ],
    "engines": [
     "ddgs:google"
@@ -512,15 +513,15 @@
    "query": "site:facebook.com 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）",
    "results": [
     "https://www.facebook.com/nihongo.teachers.nagoya/posts/1425722452937453/",
-    "https://www.facebook.com/longwen.yuechuan/posts/提示された評価文について事実確認の結果を踏まえて論理構成を検証します1-数値の事実確認-高い精度主要な数値は現時点の一次情報と正確に一致しています-日本の米国債/10228620910786188/",
     "https://www.facebook.com/akemi.furukawa.9/posts/ジャーナリズムの役割無視だなー事実の伝達報道-権力者の動向や社会的な事件災害などの情報を正確かつ迅速に市民に伝えること権力の監視-政治や行政大企業などの権力や不/26956430590717583/",
+    "https://www.facebook.com/longwen.yuechuan/posts/提示された評価文について事実確認の結果を踏まえて論理構成を検証します1-数値の事実確認-高い精度主要な数値は現時点の一次情報と正確に一致しています-日本の米国債/10228620910786188/",
     "https://www.facebook.com/groups/548266103946448/posts/1202508308522221/",
     "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報524金610月開催直観と主観の覚醒によるルール形成戦略型のイノベーション力強化プログラムルール形成戦略の第一人者として数々のルール形成に自らも取り/907033654767956/",
     "https://www.facebook.com/akihiko.manabe.9/posts/複数の推論と倫理的評価を重ねて謝罪要求に至る高橋庸正氏の最新noteを読んで判断と確認された事実は同じではない高橋庸正氏の最新noteまた自分の断定から逃げたを/3775095752628103/",
-    "https://www.facebook.com/EYJapanOfficial/posts/セミナー情報610月開催直観と主観の覚醒によるルール形成戦略型のイノベーション力強化プログラムルール形成戦略の第一人者として数々のルール形成に自らも取り組みつつ/917353487069306/"
+    "https://www.facebook.com/akihiko.manabe.9/posts/推論と倫理的評価からなぜ僕の謝罪責任まで導けるのか高橋庸正氏へだけならとだけだは違う高橋庸正氏の新しいnote痛みは醍醐味異議は卑怯かを読みました僕が以前-その/3777115639092781/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -532,14 +533,14 @@
     "https://note.com/sudatakashi/n/n5831f0e3b883",
     "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K20899",
     "https://note.com/chizuru_rakuten/n/n4c896be513d4",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://gigazine.net/news/20230712-twitter-communitynote-algorithm/",
-    "https://note.com/kens_reading1/n/n07707f3b393b",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/trans_souta/n/n006b476a532d",
     "https://montai.jp/column/objective-record-five-techniques-fact-opinion",
-    "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
+    "https://note.com/niwatori_keirin/n/nc3da00c42d7b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -551,15 +552,15 @@
     "https://note.com/kawaidesign/n/ncc48348607be",
     "https://grow-group.jp/archives/29326/",
     "https://qiita.com/f_uto/items/5464a85647f8765fbddb",
-    "https://digital.siance.co.jp/column/2023/08/twitter-x/",
     "https://www.koukoku.jp/service/suketto/marketer/sns/sns%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A8%E3%81%AF%EF%BD%9Cx%E3%83%BBinstagram%E5%88%A5%E3%81%AE%E8%A9%95%E4%BE%A1%E5%9F%BA%E6%BA%96/",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vIzXH4xzi4xx98iPFgvTICZVr-sf_WsDpFgTNtQ9bhFb6Ob3_Yx",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vL_F0r_VysOMwkIAjotV0xLSh-VxlmvH1jrX6GzSM8miV1O6Q37",
     "https://www.wantedly.com/companies/liddell/post_articles/985591",
     "https://camtsuku.com/guide/3811",
+    "https://baigie.me/nippo/2025/09/11/x_algo/",
     "https://saycon.co.jp/archives/neta/【完全ガイド】報告上手はここが違う！「事実」"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -579,7 +580,7 @@
     "https://www.linkedin.com/pulse/chain-custody-practical-guide-traceability-accountability-ruyde"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -590,6 +591,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-06T03:39:48.721492+00:00"
 }

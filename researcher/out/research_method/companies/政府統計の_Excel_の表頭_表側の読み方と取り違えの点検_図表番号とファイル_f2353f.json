@@ -8,25 +8,19 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-09T02:22:29.590388+00:00",
+ "researched_at": "2026-11-09T13:00:01.415714+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "The scope encompasses a wide range of activities: downloading and querying government databases, filing Freedom of Information Act requests for records in structured formats (as authorized under",
-    "url": "https://journalismauthority.com/data-journalism/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "- Request data in machine-readable format (CSV, JSON, XML) rather than PDF",
+    "quote": "translates findings into charts, maps, tables, or interactive graphics. The Reuters Graphics team and the New York Times's The Upshot are documented examples of in-house units that have published methodologies alongside their data stories, allowing readers to inspect source datasets directly.",
     "url": "https://journalismauthority.com/data-journalism/",
     "pass": 3,
     "first_seen": "2026-11-07"
    }
   ],
-  "実例": [
+  "突き合わせ・推定": [
    {
-    "quote": "translates findings into charts, maps, tables, or interactive graphics. The Reuters Graphics team and the New York Times's The Upshot are documented examples of in-house units that have published methodologies alongside their data stories, allowing readers to inspect source datasets directly.",
+    "quote": "- Cross-check at least one derived statistic against a published secondary source",
     "url": "https://journalismauthority.com/data-journalism/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -82,9 +76,15 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "突き合わせ・推定": [
+  "一次情報の探し方": [
    {
-    "quote": "- Cross-check at least one derived statistic against a published secondary source",
+    "quote": "The scope encompasses a wide range of activities: downloading and querying government databases, filing Freedom of Information Act requests for records in structured formats (as authorized under",
+    "url": "https://journalismauthority.com/data-journalism/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "- Request data in machine-readable format (CSV, JSON, XML) rather than PDF",
     "url": "https://journalismauthority.com/data-journalism/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -95,32 +95,32 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "url": "https://note.com/oyakusho/n/n71174cf1b34b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kiyo_ai_note/n/n52d38a013520",
+    "url": "https://note.com/haru2006ppe/n/nd1b96a7c6d8d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kusobukken/n/nc60c605800f9",
+    "url": "https://note.com/nagoyac/n/n62b54b305ff1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ishizakahiroshi/n/ndebab997f926",
+    "url": "https://note.com/qiqumo/n/n286ad1b308c3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shakai_kaisetsu/n/n95cbc275aa4c",
+    "url": "https://note.com/oyakusho/n/nd65b41974a2d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/taituna/n/n037544e76a4e",
+    "url": "https://note.com/limber_acacia925/n/n0524f090823b",
     "status": "ok",
     "method": "http"
    },
@@ -130,17 +130,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://note.com/gicloud/n/nb0a9971b5291",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35089",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/sekkeiya_kenichi/n/n91d9f6e62e3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-37708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gicloud/n/nb0a9971b5291",
     "status": "ok",
     "method": "http"
    },
@@ -175,17 +175,17 @@
     "method": "http"
    },
    {
+    "url": "https://mentena.biz/insight/inspection-record/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://sites.google.com/site/johosyorikiso1/%E7%9B%B8%E4%BA%92%E5%8F%82%E7%85%A7%E3%81%AE%E6%B4%BB%E7%94%A8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://lab.ndl.go.jp/pdf/event/digicafe2021/arimoto_NDLdigicafe2021.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://mentena.biz/insight/inspection-record/",
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35089",
     "status": "ok",
     "method": "http"
    },
@@ -195,22 +195,22 @@
     "method": "http"
    },
    {
+    "url": "https://data.bodik.jp/dataset/400009_shougyoutoukeichousa_h14/resource/55f13ff4-44bf-4ce2-af68-99a6b957b0a3?inner_span=True",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.e-stat.go.jp/estat/html/machine-readable-stats-format.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukatsu01_02000186.html",
+    "url": "https://www.excel-no-mori-blog.jp/?p=21191",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000723626.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/kokusei/2010/users-g/mikata.html",
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukatsu01_02000186.html",
     "status": "ok",
     "method": "http"
    },
@@ -230,18 +230,18 @@
     "method": "http"
    },
    {
-    "url": "https://viewjournal.eu/articles/10.18146/view.332",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://mediahelpingmedia.org/advanced/what-is-data-journalism/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.lib.utexas.edu/c.php?g=530875&p=10524341",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viewjournal.eu/articles/10.18146/view.332",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    }
   ]
@@ -250,43 +250,38 @@
   {
    "query": "政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合） site:note.com",
    "results": [
-    "https://note.com/stats47/n/naf04e81afb7b",
-    "https://note.com/kiyo_ai_note/n/n52d38a013520",
-    "https://note.com/kusobukken/n/nc60c605800f9",
-    "https://note.com/ishizakahiroshi/n/ndebab997f926",
-    "https://note.com/shakai_kaisetsu/n/n95cbc275aa4c",
-    "https://note.com/taituna/n/n037544e76a4e",
-    "https://note.com/security_dojo/n/na10c024b9d8a",
-    "https://note.com/fire_2026/n/n86b62982a764",
-    "https://note.com/xoperation/n/n93109494872d",
-    "https://note.com/huge_kamaitachi/n/n16d2697e2555"
+    "https://note.com/oyakusho/n/n71174cf1b34b",
+    "https://note.com/haru2006ppe/n/nd1b96a7c6d8d",
+    "https://note.com/nagoyac/n/n62b54b305ff1",
+    "https://note.com/qiqumo/n/n286ad1b308c3",
+    "https://note.com/oyakusho/n/nd65b41974a2d",
+    "https://note.com/limber_acacia925/n/n0524f090823b",
+    "https://note.com/qiqumo/n/n574a983b1c95"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合） note",
    "results": [
     "https://www.soumu.go.jp/main_content/000723697.pdf",
-    "https://note.com/gicloud/n/nb0a9971b5291",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35089",
     "https://note.com/sekkeiya_kenichi/n/n91d9f6e62e3d",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-37708",
+    "https://note.com/gicloud/n/nb0a9971b5291",
     "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups14-d-16.pdf",
     "https://note.com/ai_analysiss/n/n47652737608f",
-    "https://x.com/i/trending/2117125228891451574",
+    "https://www.stat.go.jp/naruhodo/12_ppdac/data.html",
     "https://data.bodik.jp/dataset/400009_shougyoutoukeichousa_h14/resource/55f13ff4-44bf-4ce2-af68-99a6b957b0a3?inner_span=True",
     "https://mentena.biz/insight/inspection-record/",
     "https://note.com/haru2006ppe/n/nd1b96a7c6d8d"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 18
+   "n_hits": 16
   },
   {
    "query": "政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合） やり方",
@@ -296,14 +291,14 @@
     "https://bellcurve.jp/statistics/blog/12194.html",
     "https://bijicon.co.jp/blog/inspection-checklist-excel/",
     "https://www.stat.go.jp/naruhodo/12_ppdac/data.html",
+    "https://mentena.biz/insight/inspection-record/",
     "https://sites.google.com/site/johosyorikiso1/%E7%9B%B8%E4%BA%92%E5%8F%82%E7%85%A7%E3%81%AE%E6%B4%BB%E7%94%A8",
     "https://www.youtube.com/watch?v=ayhd1Ivy6TY",
-    "https://note.com/gicloud/n/nb0a9971b5291",
     "https://lab.ndl.go.jp/pdf/event/digicafe2021/arimoto_NDLdigicafe2021.pdf",
-    "https://www.e-stat.go.jp/estat/html/machine-readable-stats-format.pdf"
+    "https://www.soumu.go.jp/main_content/000723626.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -318,12 +313,12 @@
     "https://mentena.biz/insight/inspection-record/",
     "https://www.stat.go.jp/naruhodo/12_ppdac/data.html",
     "https://bijicon.co.jp/blog/inspection-checklist-excel/",
-    "https://note.com/gicloud/n/nb0a9971b5291",
     "https://dx.nsw.co.jp/column/11918/",
+    "https://data.bodik.jp/dataset/400009_shougyoutoukeichousa_h14/resource/55f13ff4-44bf-4ce2-af68-99a6b957b0a3?inner_span=True",
     "https://www.e-stat.go.jp/estat/html/machine-readable-stats-format.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -335,11 +330,11 @@
     "https://datajournalism.com/read/longreads/spreadsheets-for-journalism",
     "https://www.youtube.com/watch?v=M_Dx5A44hug",
     "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
-    "https://viewjournal.eu/articles/10.18146/view.332",
-    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
     "https://mediahelpingmedia.org/advanced/what-is-data-journalism/",
-    "https://dokumen.pub/data-for-journalists.html",
+    "https://www.youtube.com/watch?v=W2ifrvrRrxc",
     "https://guides.lib.utexas.edu/c.php?g=530875&p=10524341",
+    "https://viewjournal.eu/articles/10.18146/view.332",
+    "https://www.unitedstatespressagency.com/news/data-journalism-telling-stories-with-numbers-and-public-records/",
     "https://data.journalism.columbia.edu/"
    ],
    "engines": [
@@ -352,30 +347,44 @@
    "query": "site:note.com 政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合）",
    "results": [
     "https://note.com/haru2006ppe/n/nd1b96a7c6d8d",
-    "https://note.com/nagoyac/n/n62b54b305ff1",
     "https://note.com/oyakusho/n/n71174cf1b34b",
+    "https://note.com/nagoyac/n/n62b54b305ff1",
+    "https://note.com/oyakusho/n/nb35720645fbb",
     "https://note.com/qiqumo/n/n286ad1b308c3",
     "https://note.com/oyakusho/n/nd65b41974a2d",
-    "https://note.com/limber_acacia925/n/n0524f090823b",
-    "https://note.com/qiqumo/n/n574a983b1c95",
-    "https://note.com/bee_plus0729/n/n5dba4142d613"
+    "https://note.com/qiqumo/n/n574a983b1c95"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:yahoo"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:x.com 政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合）",
    "results": [
+    "https://jf.x.com/images/media-preview/2106380537472356561",
     "https://jf.x.com/images/media-preview/2117919755260830154",
-    "https://jf.x.com/images/media-preview/2107420162140061707",
     "https://x.com/gita_edioff0014/status/2115801341406945667",
-    "https://x.com/NIKKEIxTECH/status/2065013981576864217",
-    "https://x.com/IsaoShirakata/status/2090397132163588179",
     "https://x.com/Massu15/status/2112915450862751767",
-    "https://x.com/pogohopper8/status/2117979544196194729"
+    "https://x.com/IsaoShirakata/status/2090397132163588179",
+    "https://x.com/pogohopper8/status/2117979544196194729",
+    "https://x.com/mixingale/status/2100784655687688424"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合）",
+   "results": [
+    "https://jp.linkedin.com/pulse/from-statistical-analysis-business-problem-solving-rcaic?tl=ja",
+    "https://jp.linkedin.com/pulse/how-use-descriptive-statistics-excel-data-analysis-chartexpo-me2gf?tl=ja",
+    "https://jp.linkedin.com/pulse/16-excel-statistics-you-didnt-know-really-should-ivpme?tl=ja",
+    "https://hk.linkedin.com/in/mian-tse-6bb571250",
+    "https://www.linkedin.com/home?originalSubdomain=pe",
+    "https://www.linkedin.com/learning/topics/data-analysis",
+    "https://jp.linkedin.com/posts/hirotakashoneshibata_2025年9月16日厚労省が令和6年2024人口動態統計確定数を公開-activity-7377628947456589824-t-3P"
    ],
    "engines": [
     "ddgs:google"
@@ -383,21 +392,15 @@
    "n_hits": 7
   },
   {
-   "query": "site:linkedin.com 政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
    "query": "site:facebook.com 政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合）",
    "results": [
-    "https://www.facebook.com/ZanPowerBi/photos/power-bi練習題取得網頁資料請參考文章嘗試以excel-power-query取得政府資料開放平臺中的上市公司營益分析查詢彙總表全體公司彙總報表參考文章h/545411723909430/",
-    "https://graph.facebook.com/v2.8/10213325794233169/picture/",
-    "https://www.facebook.com/moneysaveJP/posts/1116582282406776/",
-    "https://www.facebook.com/stat.japan/videos/オンライン講座社会人のためのデータサイエンス演習/1029840991860883/",
-    "https://www.facebook.com/beginneros/videos/政府工必備excel入門教室/1322760767755084/",
     "https://www.facebook.com/NTUDAC/posts/-社課精華excel-及統計應用-ntu-dac-本學年-excel-和統計學社課很榮幸再次邀請到郭俊東-tim-講師帶領同學進入資料分析的世界在三堂課程中從實/778667410936644/",
-    "https://www.facebook.com/stat.japan/posts/キッズすたっと探そう統計データに使い方動画を掲載小中学生向け統計データ検索サイトキッズすたっと探そう統計データに使い方を分かりやすく説明した動画を掲載しました是/2078323622247124/"
+    "https://www.facebook.com/moneysaveJP/posts/1116582282406776/",
+    "https://graph.facebook.com/v2.8/10213325794233169/picture/",
+    "https://www.facebook.com/stat.japan/videos/オンライン講座社会人のためのデータサイエンス演習/1029840991860883/",
+    "https://www.facebook.com/ZanPowerBi/photos/power-bi練習題取得網頁資料請參考文章嘗試以excel-power-query取得政府資料開放平臺中的上市公司營益分析查詢彙總表全體公司彙總報表參考文章h/545411723909430/",
+    "https://www.facebook.com/acctexcel/photos/power-bi練習題取得網頁資料請參考文章嘗試以excel-power-query取得政府資料開放平臺中的上市公司營益分析查詢彙總表全體公司彙總報表參考文章h/2183793408454529/",
+    "https://www.facebook.com/Good.KY/photos/跟政府申請鳳凰專案貸款要付很多項文件其中一樣是月報表-但是政府不接受excel表格為什麼因為excel表格可以修正作假有在用excel的都知道所以如果檢察官真的/28728165780104042/"
    ],
    "engines": [
     "ddgs:google"
@@ -408,18 +411,18 @@
    "query": "政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合） note 社長",
    "results": [
     "https://note.com/gicloud/n/nb0a9971b5291",
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35089",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-37708",
     "https://note.com/ai_analysiss/n/n47652737608f",
-    "https://data.bodik.jp/dataset/400009_shougyoutoukeichousa_h14/resource/55f13ff4-44bf-4ce2-af68-99a6b957b0a3?inner_span=True",
     "https://x.com/i/trending/2117125228891451574",
     "https://note.com/yosatonet/n/ne02cbf66600a",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://ikenplus.cfa.go.jp/api/file/4C2189TCM",
+    "https://ikenplus.cfa.go.jp/api/file/6170YNKDT",
+    "https://www.npo-homepage.go.jp/npoportal/document/021000276/hokoku/202070/2020%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
+    "https://warp.ndl.go.jp/web/20210703201216/www.data.jma.go.jp/suishin/oshirase/pdf/20190107.pdf",
     "https://note.com/haru2006ppe/n/nd1b96a7c6d8d"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -427,19 +430,19 @@
   {
    "query": "政府統計の Excel の表頭・表側の読み方と取り違えの点検（図表番号とファイル番号・行の見出しの照合） X 投稿",
    "results": [
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-38610",
-    "https://x.com/i/trending/2117125228891451574",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35089",
     "https://www.e-survey.go.jp/system/files/inline-files/Excel%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E4%B8%80%E6%8B%AC%E9%80%81%E4%BF%A1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%95%8F%E9%A1%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6_1.pdf",
+    "https://lab.ndl.go.jp/pdf/event/digicafe2021/arimoto_NDLdigicafe2021.pdf",
+    "https://x.com/i/trending/2117125228891451574",
     "https://data.bodik.jp/dataset/400009_shougyoutoukeichousa_h14/resource/55f13ff4-44bf-4ce2-af68-99a6b957b0a3?inner_span=True",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://note.com/gicloud/n/nb0a9971b5291",
+    "https://github.com/NaoyaShimizzz/excel_disorder",
     "https://ikenplus.cfa.go.jp/api/file/6170YNKDT",
-    "https://warp.ndl.go.jp/web/20210703201216/www.data.jma.go.jp/suishin/oshirase/pdf/20190107.pdf",
-    "https://www.npo-homepage.go.jp/npoportal/document/021000276/hokoku/202070/2020%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%AD%89.pdf",
-    "https://www.e-stat.go.jp/estat/html/machine-readable-stats-format.pdf"
+    "https://www.soumu.go.jp/main_content/000723626.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -454,12 +457,12 @@
     "https://www.linkedin.com/in/pranav-senthilkumaran",
     "https://uk.linkedin.com/in/diannabautista",
     "https://www.linkedin.com/in/sean-golonka",
-    "https://in.linkedin.com/in/imratankj",
     "https://www.linkedin.com/in/michelle-leclerc-22351b6",
-    "https://www.linkedin.com/in/rafvrab"
+    "https://www.linkedin.com/in/rafvrab",
+    "https://www.linkedin.com/in/alamirnovin"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -469,6 +472,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T15:55:38.614147+00:00"
 }

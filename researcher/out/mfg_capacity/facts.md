@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・282品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・284品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -14567,6 +14567,62 @@
   - 「金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました」（https://forwit.jp/column/die-and-mold/）
   - 「量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています」（https://forwit.jp/column/die-and-mold/）
   - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
+
+## 経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129）（Japan Economic Structure Survey manufacturing establishments 2022 2023 2024 industry subdivision plating die heat treatment press employees value added）
+- 文脈：統計・切れ目の後
+- 事業所数・社数：
+  - 「経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+- 社員数・平均社員数：
+  - 「経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「常用労働者（Ａ）_常用雇用者_有期雇用者（１か月以上）_男【人】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「常用労働者（Ａ）_常用雇用者_有期雇用者（１か月以上）_女【人】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「臨時雇用者（有期雇用者（１か月未満、日々雇用））_男【人】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「臨時雇用者（有期雇用者（１か月未満、日々雇用））_女【人】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_1122_絹・人絹織物業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_1142_絹・人絹織物機械染色業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+- 受注金額・加工賃収入：
+  - 「経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+- 1人あたり・1社あたり金額：
+  - 「経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+- 生産能力・設備：
+  - 「経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+- 10年推移：
+  - 「経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2022年経済構造実態調査（製造業事業所調査）」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「経済構造実態調査 / 2022年経済構造実態調査（製造業事業所調査） / 二次集計」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「経済構造実態調査は、我が国の企業等の経済活動の状況を明らかにし、国民経済計算の精度向上等に資するとともに、企業等に関する施策の基礎資料を得ることを目的として、総務省・経済産業省の共管で令和元年（2019年）から実施しております」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2025-12-25 14:00」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「有形固定資産額_建設仮勘定_Ｃ増加額【百万円】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「有形固定資産額_建設仮勘定_Ｄ減少額【百万円】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_0000_製造業計」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_0900_食料品製造業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_0910_畜産食料品製造業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_0911_部分肉・冷凍肉製造業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_0912_肉加工品製造業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「2021000000_2021_0913_処理牛乳・乳飲料製造業」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+- 人手と仕事の差：
+  - 「原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+  - 「原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】」（https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574）
+- 痛み・損（深さの印）：記載なし（読んだ24頁・検索18回）
+
+## 金属AM・3Dプリンターの市場規模の記事で書き手が「独自に検証できていない」と断った数字と、評価額（調達前・調達後）の数字の区別（売上・市場規模の欄に入れない・4-129）（metal additive manufacturing market size could not independently verify valuation post-money revenue Japan）
+- 文脈：市場規模・定義
+- 痛み・損（深さの印）：記載なし（読んだ31頁・検索18回）
+- 事業所数・社数：記載なし（読んだ31頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ31頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ31頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ31頁・検索18回）
+- 生産能力・設備：記載なし（読んだ31頁・検索18回）
+- 10年推移：記載なし（読んだ31頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ31頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

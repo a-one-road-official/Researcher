@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・298品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・300品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -7750,21 +7750,21 @@
 ## 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）（quote grounding verification extracted citation exists in source text RAG hallucination legal research）
 - 文脈：検証
 - 手順・やり方：
+  - 「Abstention is a product state, not an error message. Design the "I cannot answer this from the documents" path, measure it, and give it a next step.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「Then comes the display step, which is also a control: the interface decides whether a reader can check the answer in five seconds or has to trust it.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「Step one: constrain the model to what you gave it」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「Step two: use a citation API instead of asking nicely」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「Step three: design the "I cannot answer that" path」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「Offer a next step: rephrase, narrow the scope, search another source, or hand over to a person.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「Step four: verify claims after generation」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「Extra tokens or a second step」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「with next steps, as above, styled as a normal outcome rather than an error.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「RAG Hallucination: Why It Happens and How to Fix It (2026)」（https://hussain-nazary.github.io/rag-hallucination.html）
   - 「RAG Evaluation: How to Measure Retrieval Quality」（https://hussain-nazary.github.io/rag-hallucination.html）
   - 「Those three steps, retrieval, grounding, and verification, are what make RAG legal research reliable enough to file from. This guide walks through each layer of the pipeline and shows exactly where each one breaks.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「Deployment is governed by a rigorous evaluation framework using」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「vector index partitioned by jurisdiction for low-latency, high-relevance retrieval. Our evaluation framework measures」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「Citation Precision and Recall Evaluation Framework」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「Training Regimen and Citation-Fidelity Evaluation Framework」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「A specialized training engagement to jointly optimize retriever and generator models on a corpus of state appellate decisions, eliminating hallucinated citations through a rigorous, metrics-driven evaluation framework.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「A deployment architecture and monitoring framework for fine-tuned RAG systems that detect and correct hallucinated citations in state appellate practice, ensuring every assertion remains grounded in verifiable authority as the law evolves.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「What is the evaluation framework, and how do you measure success beyond vague 'accuracy' claims?」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「Citation grounding is a methodology that verifies citations accurately support claims by linking specific text spans to their original sources.」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「Empirical studies demonstrate that integrating fine-grained extraction and validation steps significantly improves citation precision and reduces hallucinations.」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「3. Methodological families」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「4. Evaluation frameworks」（https://www.emergentmind.com/topics/citation-grounding-cg）
 - 突き合わせ・推定：
   - 「AIが示した公報番号と引用は、J-PlatPatの原文で1件ずつ照合するまで使わない」（https://coplus-one.jp/tokkyo-chosa-ai/）
   - 「原文で1件ずつ照合します」（https://coplus-one.jp/tokkyo-chosa-ai/）
@@ -7782,6 +7782,8 @@
   - 「- §112(f) の推定（"means for" は推定あり、"configured to" 等は構造を示す語かどうか）を要件ごとに」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「クエリは事実の主張ではなく探索のための仮説である」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 一次情報の探し方：
+  - 「Citations must be enabled on all or none of the documents in a request, only text is citable (scanned PDFs without extractable text are not), and combining citations with structured outputs returns a 400 error.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
+  - 「that open the source at the cited location (page number, anchor or highlighted range), not just at the top of a 60-page PDF.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「over a citation grammar compiled into a finite-state automaton, and posthoc span alignment. In constrained decoding, the automaton tracks whether decoding is in Claim, DOCID, or SNIPPET mode, restricts allowable tokens accordingly, and retries up to 3 times with temperature increased by」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～｜角渕由英（つのぶちよしひで）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「生成AIで特許侵害を見つけられるか？～Web情報を使ったEoU調査を検討してみた～」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7795,9 +7797,8 @@
   - 「- 対応法域：日本特許・米国特許（変数 `{{JURISDICTION}}` で切替）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「PDFはテキスト化してから貼る（報告書3.4節：表・図の構造が崩れると検索・判定精度が落ちるため、表はMarkdown表として保持する）」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「** 対象特許の選定理由、ターゲット企業リスト、権利行使方針は原則プロンプトに含めない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「3. **逐語引用のない判定は採用しない」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「あなたは特許のEoU（Evidence of Use）調査を支援する分析アシスタントです」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 失敗・落とし穴：
+  - 「A verifier is a model or a classifier and it makes mistakes. Label a few hundred verdicts by hand and track the verifier's own precision and recall, otherwise you have moved trust from one unmeasured component to another.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「Citation precision >= 0.98; citation recall >= 0.95; hallucination rate < 0.01; evaluated on held-out state appellate decisions with Weights & Biases」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「12 even in the best setting, and reports a primacy bias in which」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「これらは調査報告でも、分解・検索・判定を通じて注意すべき点として整理しています」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
@@ -7812,8 +7813,8 @@
   - 「**実行上の注意**：P6とは別のセッション（可能なら別モデル）で実行する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「"required": ["bias_assessment", "changed_elements"],」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「"bias_assessment": { "type": "string" },」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
-  - 「検証に失敗した引用は、まず抽出テキスト側の問題（改行位置、表の展開）を疑い、原文PDFで人が確認する」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 実例：
+  - 「Structured outputs and citations cannot be combined on the Anthropic API today, so an extraction pipeline needs a different grounding strategy, for example a verification pass over the JSON values.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「, grounds the answer in that retrieved text, then verifies every citation against the source before you see it. It does not ask the model to recall the law from memory. That single design choice is the difference between a tool that cites real authority and one that invents cases.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「In 2023 a New York lawyer filed a brief citing six cases that did not exist. A generative AI tool had written them, names, citations, and quoted holdings, and nobody checked.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「I'm Priyansh, CTO of Vaquill AI. I've spent two years building this pipeline for US case law and statutes, and this is the explainer I wish existed when I started.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
@@ -7828,7 +7829,8 @@
   - 「How does the system handle complex cross-reference resolution, where a state case's authority depends on a federal precedent that may have been overturned?」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
   - 「constructs grounded training examples from unlabeled queries using a pretrained」（https://www.emergentmind.com/topics/citation-grounding-cg）
   - 「, by contrast, studies closed-book authority generation with citation retrieval, citation completion, citation error detection, case matching, and case verification/correction, and introduces Misleading Answer Rate as a measure of concrete but incorrect outputs under low」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「for joint document-plus-span grounding, and finer-grained evaluation such as position-based citation recall. AGREE proposes human-annotated partial-support examples,」（https://www.emergentmind.com/topics/citation-grounding-cg）
+- 検索結果の抜粋：
+  - 「LLM hallucinations: grounding and citations · Balázs Csorba — Aug 20, 2026 · A Stanford study found leading RAG legal tools still hallucinated between 17% and 33% of the time, often by citing a real source that does not support the claim. Treat grounding as a pipeline, not a prompt: an evidence gate before generation, native citations during generation, claim-level verification after, and a UI tha」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
 
 ## 調査を狂わせる認知の偏りを手順で防ぐ（偏った検索語・反証を先に探す・前提の書き出し・悪魔の代弁者）OSINT Blog・イノベーション総合研究所のナレッジ（cognitive bias investigation workflow disconfirming evidence osintblog）
 - 文脈：偏り
@@ -8987,6 +8989,7 @@
   - 「まずは自社が大会社に該当するかどうかを確認し、該当する場合は公告方法に応じた損益計算書の準備を始めましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 突き合わせ・推定：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「規程整備のスケジュール｜N-3期からの逆算と優先順位」（https://ipo-method.com/legal-compliance/6735/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -9012,6 +9015,9 @@
 - 失敗・落とし穴：
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「計算書類を作成した直後に株主総会へ提出できるとは限らないことに注意が必要です」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「会計帳簿そのものに誤りや不正が存在する可能性があるためです」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
@@ -9022,9 +9028,6 @@
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「有価証券報告書をエディネットに上げる日以前に掲載開始する場合は、上述の②のとおり前年の有価証券報告書の開示は有効とならず、貸借対照表の要旨の同時公告が必要となる場合は注意が必要です」（https://asanagi.co.jp/2023/03/07/5096/）
-  - 「本日は上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説しました」（https://asanagi.co.jp/2023/03/07/5096/）
-  - 「公告手続きを失敗しますと予定した効力発生日を延期する必要が生じたりと大変な損害に繋がる場合もございますので慎重に確認する必要がございます」（https://asanagi.co.jp/2023/03/07/5096/）
-  - 「のみを公示している場合は、違法状態となることに注意する必要がある」（https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A）
 - 実例：
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -13420,10 +13423,10 @@
   - 「What is survivorship bias in stock market data?」（https://solotrade.io/learn/quant-quantitative-trading-158）
   - 「Why does survivorship bias inflate backtest performance?」（https://solotrade.io/learn/quant-quantitative-trading-158）
   - 「How can survivorship bias be reduced?」（https://solotrade.io/learn/quant-quantitative-trading-158）
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
@@ -14884,11 +14887,11 @@
 
 ## 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）（investigative journalism company network analysis shared addresses directors red flags auditor resignation）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 非公開の会社を記録で調べる調査報道の手順（IRE・Investigative Reporters and Editors のティップシート・裁判記録・登記の全件データの一括取得・規制当局の処分の頻度を同業と比べる・不動産の記録・4-111）（IRE tipsheet investigating private companies records court filings business registry bulk data regulatory violations）
 - 文脈：探し先
@@ -16767,6 +16770,48 @@
   - 「Examples of Fact-Checking in Action」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
   - 「Post-case reviews of what has worked in the past and what hasn’t.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
   - 「Select one reliable option per category—search, archive, reverse image, domain lookup, and metadata. Test them against past cases to confirm consistency and speed.」（https://blog.sociallinks.io/the-osint-fact-checking-toolkit/）
+
+## トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる）（structural break detection short sample after break trend specification comparison forecast performance）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「たとえば料金改定、UI刷新、大型キャンペーン、アルゴリズム変更、競合の参入、法規制、災害や社会的イベントなどがあると、指標の水準が段差のように変わることがあります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「時系列予測を使える形にするためには、学習と評価のやり方を“時間に忠実”にする必要があります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「運用を成立させる最後のコツは、予測の更新頻度と責任範囲を明確にすることです」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「現場を知り、人を動かす──ヤマハ発動機 小野豊土氏が語る、会社の未来を変える『変革実現型CIO』への挑戦」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「ステップ1: データの収集と前処理」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「ステップ2: トレンドの可視化と特性把握」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「ステップ3: トレンドモデルの推定」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「ステップ4: 予測と信頼区間の提示」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+- 突き合わせ・推定：
+  - 「具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「堅牢なベースライン、時間に忠実な検証、ドリフトを前提にした監視、説明可能性、更新ルール」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「帰無仮説 γ = 𝜃 = 0が 採択 され たら 、 構 造 変 化 な しと判断されます」（https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf）
+  - 「回帰分析は、時間を説明変数として最小二乗法でトレンドラインを推定します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「ステップ3: トレンドモデルの推定」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「推定したトレンドモデルをもとに将来の値を予測します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「市場規模の推定: 業界データのトレンドから、ターゲット市場の将来規模を予測します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+- 一次情報の探し方：
+  - 「次に、時系列専用の統計モデルがあります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「過去の実績データに潜むパターンを統計的に抽出することで、直感や経験則に頼らない意思決定を可能にします」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「トレンド分析の基本的な考え方は古くから存在しますが、統計的な時系列分析の体系化はジョージ・ボックスとグウィリム・ジェンキンスによる1970年の著書「Time Series Analysis: Forecasting and Control」が大きく貢献しました」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「ボックス=ジェンキンス法として知られるARIMAモデルは、トレンド分析の統計的基盤として現在も広く使われています」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「回帰分析やその他の統計手法を用いて、トレンドを数式化します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「トレンド分析は、時系列データの中長期的な傾向を統計的に把握し、将来の動向を予測する基本的な分析手法です」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+- 実例：
+  - 「例えば「当日の売上」から作った特徴量を予測に使ってしまうなど、時間の矢印を逆流させるミスが起きやすいです」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「例えば広告費を増やした場合のシナリオ、価格を変えた場合のシナリオなど、予測を“もしも”の計画に変換できると、単なる数当てから一段上がります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「AI利用を昇進条件に据えるのはアリ？アクセンチュアの事例から考える」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「移動平均法、回帰分析、指数平滑法などの手法を目的に応じて使い分け、季節変動を適切に分離することで、信頼性の高い分析結果が得られます」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+
+## 報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印）（news agency could not independently verify attribution practice handling unverified figures）
+- 文脈：手順・やり方
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

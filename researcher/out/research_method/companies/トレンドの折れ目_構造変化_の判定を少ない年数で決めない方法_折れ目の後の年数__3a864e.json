@@ -1,0 +1,671 @@
+{
+ "name": "トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる）",
+ "en": "structural break detection short sample after break trend specification comparison forecast performance",
+ "aliases": [
+  "構造変化 検定 サンプル 少ない 注意",
+  "屈折トレンド 固定トレンド 推計 比較",
+  "structural break few observations after break pitfalls",
+  "Chow test small sample caution"
+ ],
+ "context": "突き合わせ・推定",
+ "kind": "market",
+ "researched_at": "2026-11-09T12:55:56.867391+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "例えば「当日の売上」から作った特徴量を予測に使ってしまうなど、時間の矢印を逆流させるミスが起きやすいです",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば広告費を増やした場合のシナリオ、価格を変えた場合のシナリオなど、予測を“もしも”の計画に変換できると、単なる数当てから一段上がります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI利用を昇進条件に据えるのはアリ？アクセンチュアの事例から考える",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "移動平均法、回帰分析、指数平滑法などの手法を目的に応じて使い分け、季節変動を適切に分離することで、信頼性の高い分析結果が得られます",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "「何を調べたいか」を明確にすること。 業界トレンド先読み調査（1/4... 「何を調べたいか」を明確にすること。 業界トレンド先読み調査（1/4） ディープリサーチの真価は「知らなかった情報を掘ってくること」じゃない。 「構造変化・失敗事例・海外の先行事例」を一気に束ねて、打ち手まで出してくることにある。",
+    "url": "https://x.com/daifukujinji/status/2046333092584153597",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "たとえば料金改定、UI刷新、大型キャンペーン、アルゴリズム変更、競合の参入、法規制、災害や社会的イベントなどがあると、指標の水準が段差のように変わることがあります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "時系列予測を使える形にするためには、学習と評価のやり方を“時間に忠実”にする必要があります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "運用を成立させる最後のコツは、予測の更新頻度と責任範囲を明確にすることです",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現場を知り、人を動かす──ヤマハ発動機 小野豊土氏が語る、会社の未来を変える『変革実現型CIO』への挑戦",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ1: データの収集と前処理",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2: トレンドの可視化と特性把握",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ3: トレンドモデルの推定",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ4: 予測と信頼区間の提示",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "堅牢なベースライン、時間に忠実な検証、ドリフトを前提にした監視、説明可能性、更新ルール",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "帰無仮説 γ = 𝜃 = 0が 採択 され たら 、 構 造 変 化 な しと判断されます",
+    "url": "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "回帰分析は、時間を説明変数として最小二乗法でトレンドラインを推定します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ3: トレンドモデルの推定",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推定したトレンドモデルをもとに将来の値を予測します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "市場規模の推定: 業界データのトレンドから、ターゲット市場の将来規模を予測します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "次に、時系列専用の統計モデルがあります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "過去の実績データに潜むパターンを統計的に抽出することで、直感や経験則に頼らない意思決定を可能にします",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トレンド分析の基本的な考え方は古くから存在しますが、統計的な時系列分析の体系化はジョージ・ボックスとグウィリム・ジェンキンスによる1970年の著書「Time Series Analysis: Forecasting and Control」が大きく貢献しました",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ボックス=ジェンキンス法として知られるARIMAモデルは、トレンド分析の統計的基盤として現在も広く使われています",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "回帰分析やその他の統計手法を用いて、トレンドを数式化します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トレンド分析は、時系列データの中長期的な傾向を統計的に把握し、将来の動向を予測する基本的な分析手法です",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/time-series/how-to/trend-analysis/interpret-the-results/all-statistics-and-graphs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otexts.com/fppjp/toolbox.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wandb.ai/site/ja/articles/a-gentle-introduction-to-time-series-analysis-forecasting-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.lightstone.co.jp/study/statistics_simple_regression.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/ja/fundamentals/predictive-analytics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ntanet.org/wp-content/uploads/proceedings/2007/015-lee-forecasting-structural-breaks-2007-nta-proceedings.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mdpi.com/2571-9394/8/5/86",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rady.ucsd.edu/_files/faculty-research/timmermann/time-series.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metricgate.com/blogs/workflow-for-detecting-structural-breaks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r-statistics.co/Forecasting-Structural-Breaks-in-R.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s00181-021-02137-w",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/daifukujinji/status/2046333092584153597",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる） site:note.com",
+   "results": [
+    "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/time-series/how-to/trend-analysis/interpret-the-results/all-statistics-and-graphs/",
+    "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "https://otexts.com/fppjp/toolbox.html",
+    "https://wandb.ai/site/ja/articles/a-gentle-introduction-to-time-series-analysis-forecasting-ja/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.lightstone.co.jp/study/statistics_simple_regression.html",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる） note",
+   "results": [
+    "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/time-series/how-to/trend-analysis/interpret-the-results/all-statistics-and-graphs/",
+    "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "https://otexts.com/fppjp/toolbox.html",
+    "https://wandb.ai/site/ja/articles/a-gentle-introduction-to-time-series-analysis-forecasting-ja/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.lightstone.co.jp/study/statistics_simple_regression.html",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる） やり方",
+   "results": [
+    "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/time-series/how-to/trend-analysis/interpret-the-results/all-statistics-and-graphs/",
+    "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "https://otexts.com/fppjp/toolbox.html",
+    "https://wandb.ai/site/ja/articles/a-gentle-introduction-to-time-series-analysis-forecasting-ja/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.lightstone.co.jp/study/statistics_simple_regression.html",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる） 事例",
+   "results": [
+    "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/time-series/how-to/trend-analysis/interpret-the-results/all-statistics-and-graphs/",
+    "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "https://otexts.com/fppjp/toolbox.html",
+    "https://wandb.ai/site/ja/articles/a-gentle-introduction-to-time-series-analysis-forecasting-ja/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.lightstone.co.jp/study/statistics_simple_regression.html",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "structural break detection short sample after break trend specification comparison forecast performance",
+   "results": [
+    "https://ntanet.org/wp-content/uploads/proceedings/2007/015-lee-forecasting-structural-breaks-2007-nta-proceedings.pdf",
+    "https://www.mdpi.com/2571-9394/8/5/86",
+    "https://rady.ucsd.edu/_files/faculty-research/timmermann/time-series.pdf",
+    "https://metricgate.com/blogs/workflow-for-detecting-structural-breaks/",
+    "https://r-statistics.co/Forecasting-Structural-Breaks-in-R.html",
+    "https://link.springer.com/article/10.1007/s00181-021-02137-w",
+    "https://www.aptech.com/structural-breaks/",
+    "https://en.wikipedia.org/wiki/Structural_break",
+    "https://medium.com/@simomenaldo/structural-break-and-change-point-detection-in-financial-time-series-584172ffa805",
+    "https://journals.sagepub.com/doi/pdf/10.1177/1536867X251365449"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる）",
+   "results": [
+    "https://note.com/tata_15/n/n11ebe7d5b8be",
+    "https://note.com/hirokimiyano/n/n95e830c836a2",
+    "https://note.com/plusaplusq/n/nd349d229da1d",
+    "https://note.com/shijo_rashinban/n/nc86ff10906f3",
+    "https://note.com/willplion/n/n18d804d15cf0",
+    "https://note.com/tatsuya_sabato/n/na37816fa37c3",
+    "https://note.com/bunkichi_kujo/n/ne0256ee523b7",
+    "https://note.com/fumi_shingai/n/n72b979dab5f4",
+    "https://note.com/lucid_lotus6287/n/n2f925545ae6d",
+    "https://note.com/subaruinspace/n/n275a1f6a40a6"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる）",
+   "results": [
+    "https://x.com/demio_se",
+    "https://x.com/S_to_the_Second",
+    "https://x.com/daifukujinji/status/2046333092584153597",
+    "https://x.com/FOTHERS97/status/2072152590217834539",
+    "https://x.com/naokinish/status/2047070131931820309",
+    "https://x.com/higeprin9/status/2103300654727057424",
+    "https://x.com/NAOYA_Nfx/status/2055253502985642489",
+    "https://x.com/saitamaestate/status/2047097954465722428",
+    "https://x.com/Goodicious97/status/2050034374536511972"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる）",
+   "results": [
+    "https://jp.linkedin.com/pulse/trends-changes-prediction-fabio-alexandre-vieira?tl=ja",
+    "https://jp.linkedin.com/pulse/google-analytics-introduces-trend-change-hog6c?tl=ja",
+    "https://jp.linkedin.com/pulse/successful-innovation-trend-forecasting-defying-making-gerondeau?tl=ja",
+    "https://www.linkedin.com/posts/activity-7505514369603018752-FsPz",
+    "https://www.linkedin.com/posts/kiyoshi-inoue-53ba0238b_日本のedtechやビジネススクール市場特にトレンドの移り変わりが激しいai副業-activity-7477413084010074114-knc5",
+    "https://jp.linkedin.com/pulse/google-analytics-february-13-update-trend-change-detection-koli-ij0xc?tl=ja",
+    "https://jp.linkedin.com/pulse/navigating-uncertainty-economic-shifts-consumer-trends-cheryl-perkins-ashhc?tl=ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる）",
+   "results": [
+    "https://www.facebook.com/gbrc.or/posts/耐震耐久性調査室では2022年7月より鉄筋コンクリート造建築物の構造体の耐用年数評価業務を開始いたしました詳しくはこちらhttpswwwgbrcorjpbuil/579478033561028/",
+    "https://www.facebook.com/tochitatebuilding/photos/この度貸し倉庫貸し工場caseの新着記事倉庫と工場の耐用年数の知識構造別の寿命や修繕の違いをアップ致しました今回の記事では倉庫工場の耐用年数各構造による耐用年数/2347256515570315/",
+    "https://www.facebook.com/ActivePropertyManagement/posts/アーキトレンドの耐震診断使ってみたいつもはホームズ君を使うのだけれど今回はアーキトレンドの耐震診断を使ってみた操作に慣れないせいかちょっとぎこちないが業務支援し/1323095072141340/",
+    "https://www.facebook.com/mikagecpa/photos/フローチャート付固定資産を修繕した場合の税務上の判定基準資本的支出収益的支出会計処理勘定所有する固定資産に修繕や改修を行った場合の会計処理のお話ですこの場合支出/2352506561550345/",
+    "https://www.facebook.com/creacross.fudousan/videos/同じ価格同じ利回りでも残るお金は同じとは限りません収益物件で見落とされやすいのが物件そのものではなく融資条件です築年数や構造によって借入年数や必要な頭金が変わり/1045843821659613/",
+    "https://www.facebook.com/ayumi.minekawa/videos/いいねが少ないと機嫌が悪くなる人へ再生が落ちた数字が伸びないその瞬間ダメだった向いてないかもそう決めてない刺激は毎日くる比較評価バズでもそのたびに動いたら軸は揺/797025023139079/",
+    "https://www.facebook.com/reel/930332869402002/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる） note 社長",
+   "results": [
+    "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/time-series/how-to/trend-analysis/interpret-the-results/all-statistics-and-graphs/",
+    "https://www.giroj.or.jp/publication/risk/No_67-2.pdf",
+    "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "https://otexts.com/fppjp/toolbox.html",
+    "https://wandb.ai/site/ja/articles/a-gentle-introduction-to-time-series-analysis-forecasting-ja/",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる） X 投稿",
+   "results": [
+    "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/time-series/how-to/trend-analysis/interpret-the-results/all-statistics-and-graphs/",
+    "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "https://otexts.com/fppjp/toolbox.html",
+    "https://wandb.ai/site/ja/articles/a-gentle-introduction-to-time-series-analysis-forecasting-ja/",
+    "https://www.mi.u-tokyo.ac.jp/consortium2/pdf/4-4_literacy_level_note.pdf",
+    "https://www.lightstone.co.jp/study/statistics_simple_regression.html",
+    "https://www.snowflake.com/ja/fundamentals/predictive-analytics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "structural break detection short sample after break trend specification comparison forecast performance site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/joshuachan-econ_econometrics-bayesianstatistics-macroeconomics-activity-7513210350742200320-F0KX",
+    "https://www.linkedin.com/posts/akhil-sharma-datasmartness_ewma-timeseriesanalysis-forecasting-activity-7379452864986931200-Ktbz",
+    "https://de.linkedin.com/company/3d-statistical-learning",
+    "https://www.linkedin.com/posts/haihua-chen_beyond-human-annotation-recent-advances-activity-7420598489392373760-idMP",
+    "https://www.linkedin.com/top-content/finance/economic-forecasting-methods/advanced-methods-for-price-forecasting/",
+    "https://www.linkedin.com/in/amir-hermidas",
+    "https://www.linkedin.com/in/gabriel-deo",
+    "https://www.linkedin.com/in/nathanielassayag/en",
+    "https://www.linkedin.com/in/fred-viole-9481278",
+    "https://www.linkedin.com/in/maiydat"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "失敗・落とし穴": "記載なし（読んだ16頁・検索12回）"
+ },
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "例えば「当日の売上」から作った特徴量を予測に使ってしまうなど、時間の矢印を逆流させるミスが起きやすいです",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば広告費を増やした場合のシナリオ、価格を変えた場合のシナリオなど、予測を“もしも”の計画に変換できると、単なる数当てから一段上がります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI利用を昇進条件に据えるのはアリ？アクセンチュアの事例から考える",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "移動平均法、回帰分析、指数平滑法などの手法を目的に応じて使い分け、季節変動を適切に分離することで、信頼性の高い分析結果が得られます",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "「何を調べたいか」を明確にすること。 業界トレンド先読み調査（1/4... 「何を調べたいか」を明確にすること。 業界トレンド先読み調査（1/4） ディープリサーチの真価は「知らなかった情報を掘ってくること」じゃない。 「構造変化・失敗事例・海外の先行事例」を一気に束ねて、打ち手まで出してくることにある。",
+    "url": "https://x.com/daifukujinji/status/2046333092584153597",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "たとえば料金改定、UI刷新、大型キャンペーン、アルゴリズム変更、競合の参入、法規制、災害や社会的イベントなどがあると、指標の水準が段差のように変わることがあります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "時系列予測を使える形にするためには、学習と評価のやり方を“時間に忠実”にする必要があります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "運用を成立させる最後のコツは、予測の更新頻度と責任範囲を明確にすることです",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現場を知り、人を動かす──ヤマハ発動機 小野豊土氏が語る、会社の未来を変える『変革実現型CIO』への挑戦",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ1: データの収集と前処理",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2: トレンドの可視化と特性把握",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ3: トレンドモデルの推定",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ4: 予測と信頼区間の提示",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "堅牢なベースライン、時間に忠実な検証、ドリフトを前提にした監視、説明可能性、更新ルール",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "帰無仮説 γ = 𝜃 = 0が 採択 され たら 、 構 造 変 化 な しと判断されます",
+    "url": "https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "回帰分析は、時間を説明変数として最小二乗法でトレンドラインを推定します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ3: トレンドモデルの推定",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推定したトレンドモデルをもとに将来の値を予測します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "市場規模の推定: 業界データのトレンドから、ターゲット市場の将来規模を予測します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "次に、時系列専用の統計モデルがあります",
+    "url": "https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "過去の実績データに潜むパターンを統計的に抽出することで、直感や経験則に頼らない意思決定を可能にします",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トレンド分析の基本的な考え方は古くから存在しますが、統計的な時系列分析の体系化はジョージ・ボックスとグウィリム・ジェンキンスによる1970年の著書「Time Series Analysis: Forecasting and Control」が大きく貢献しました",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ボックス=ジェンキンス法として知られるARIMAモデルは、トレンド分析の統計的基盤として現在も広く使われています",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "回帰分析やその他の統計手法を用いて、トレンドを数式化します",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トレンド分析は、時系列データの中長期的な傾向を統計的に把握し、将来の動向を予測する基本的な分析手法です",
+    "url": "https://www.consulnote.com/articles/data-analysis/trend-analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T12:55:56.867391+00:00"
+}

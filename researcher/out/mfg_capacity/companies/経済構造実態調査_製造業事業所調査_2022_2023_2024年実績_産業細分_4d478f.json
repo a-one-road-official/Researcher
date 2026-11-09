@@ -1,0 +1,671 @@
+{
+ "name": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129）",
+ "en": "Japan Economic Structure Survey manufacturing establishments 2022 2023 2024 industry subdivision plating die heat treatment press employees value added",
+ "aliases": [
+  "経済構造実態調査 製造業事業所調査 産業細分類 2023年 結果 site:meti.go.jp",
+  "経済構造実態調査 製造業事業所調査 2024年 産業別 従業者数 付加価値額 site:e-stat.go.jp",
+  "2022年経済構造実態調査 製造業事業所調査 電気めっき業 金属用金型 事業所数"
+ ],
+ "context": "統計・切れ目の後",
+ "kind": "market",
+ "researched_at": "2026-11-09T12:55:56.566797+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者（Ａ）_常用雇用者_有期雇用者（１か月以上）_男【人】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "常用労働者（Ａ）_常用雇用者_有期雇用者（１か月以上）_女【人】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "臨時雇用者（有期雇用者（１か月未満、日々雇用））_男【人】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "臨時雇用者（有期雇用者（１か月未満、日々雇用））_女【人】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_1122_絹・人絹織物業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_1142_絹・人絹織物機械染色業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "経済構造実態調査 2022年経済構造実態調査（製造業事業所調査） 産業編 02002 産業細分類別事業所数、従業者数、事業に従事する者の人件費及び派遣受入者に係る人材派遣会社への支払額、原材料・燃料・電力の使用額等、製造品出荷額等、生産額、付加価値額、粗付加価値額、在庫額及び有形固定資産額（従業者３０人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2022年経済構造実態調査（製造業事業所調査）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査 / 2022年経済構造実態調査（製造業事業所調査） / 二次集計",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "経済構造実態調査は、我が国の企業等の経済活動の状況を明らかにし、国民経済計算の精度向上等に資するとともに、企業等に関する施策の基礎資料を得ることを目的として、総務省・経済産業省の共管で令和元年（2019年）から実施しております",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2025-12-25 14:00",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｃ増加額【百万円】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_建設仮勘定_Ｄ減少額【百万円】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地【百万円】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "有形固定資産額_Ｅ除却・売却による減少額_土地以外のもの【百万円】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0000_製造業計",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0900_食料品製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0910_畜産食料品製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0911_部分肉・冷凍肉製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0912_肉加工品製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0913_処理牛乳・乳飲料製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0914_乳製品製造業（処理牛乳、乳飲料を除く）",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0919_その他の畜産食料品製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "2021000000_2021_0920_水産食料品製造業",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "原材料・燃料・電力の使用額等_委託生産費（外注加工費）【百万円】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   },
+   {
+    "quote": "原材料・燃料・電力の使用額等_製造等に関連する外注費【百万円】",
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://banenews.jp/statistics/684.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&toukei=00200555&result_page=1&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035167",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/dbview?sid=0004054008",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macrotrends.net/global-metrics/countries/jpn/japan/manufacturing-output",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theglobaleconomy.com/Japan/industry_value_added/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&toukei=00200555&result_page=1&tstat=000001231885",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 受注残 人手不足",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035167",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.stat.go.jp/data/kkj/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.meti.go.jp/press/2023/07/20230731001/20230731001.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://banenews.jp/statistics/684.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://banenews.jp/statistics/684.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001207540&collect_area=200&result_page=1&statdisp_id=0004048574",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Japan Economic Structure Survey manufacturing establishments 2022 2023 2024 industry subdivision plating die heat treatment press employees value added Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2024/0130_004.html",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004054008",
+    "https://www.macrotrends.net/global-metrics/countries/jpn/japan/manufacturing-output",
+    "https://www.theglobaleconomy.com/Japan/industry_value_added/",
+    "https://data.worldbank.org/indicator/NV.IND.MANF.ZS?locations=JP",
+    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/01/oecd-economic-surveys-japan-2024_9289b572/41e807f9-en.pdf",
+    "https://statbase.org/data/jpn-total-value-added-by-industry/",
+    "https://www.e-stat.go.jp/en/dbview?sid=0004054028",
+    "https://www.stat.go.jp/english/data/nenkan/73nenkan/zenbun/en73/book/pageindices/index301.html",
+    "https://www.meti.go.jp/english/statistics/tyo/kikatu/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com 経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129）",
+   "results": [
+    "https://note.com/imashroom/n/n4a9013f9adeb",
+    "https://note.com/koukisin_jikken/n/na7361ace66cb",
+    "https://note.com/sweetspring/n/nfbf0dc90fbe0",
+    "https://note.com/ksdshu11/n/n95c00b5fc54f",
+    "https://note.com/fuzai_no_ki/n/ncb3495755057",
+    "https://note.com/kino_ai/n/nae6b166a50ba",
+    "https://note.com/primalcolors/n/n22cf5460f649"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2117199059161342223",
+    "https://jf.x.com/images/media-preview/2115227222382661850",
+    "https://jf.x.com/images/media-preview/2113849953605058588",
+    "https://jf.x.com/images/media-preview/2111721275949535626",
+    "https://jf.x.com/images/media-preview/2115411278210740435",
+    "https://x.com/Kankyo_Jpn/status/2071494105545482315",
+    "https://x.com/Every108080869/status/2105778937867694582"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129）",
+   "results": [
+    "https://px.ads.linkedin.com/collect/?pid=5631636&conversionId=15126964&fmt=gif",
+    "https://www.linkedin.com/posts/market-research-ideas_めっきライン-市場のサイズ2023年から2030年の成長ポテンシャルの解放とシェア-activity-7104102329368375297-cgYX",
+    "https://www.linkedin.com/posts/infopulse-daily-24_ドリルカラー市場細分化主要なプレーヤーサイズswot分析2024年から2032-activity-7204859716429041664-j4br",
+    "https://kr.linkedin.com/in/maiinaba1273a7/en",
+    "https://jp.linkedin.com/pulse/金属-プオウドアー-アドドイトイヴエ-製造市場の最新動向主要企業市場細分化と将来展望2026年版-arvqf",
+    "https://jp.linkedin.com/pulse/自動車-電気-電力-ストイールイング-エプス市場の最新動向主要企業市場細分化と将来展望2026年版-qr-pro-data-lab-cjwff",
+    "https://jp.linkedin.com/pulse/モバイル-フオンエ-ルイクイド-金属市場の最新動向主要企業市場細分化と将来展望2026年版-sos-pro-sprint-15tjf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129）",
+   "results": [
+    "https://www.facebook.com/chusanren/posts/中部産業連盟機関誌progress2023年９月号を発行しました今月の特集は特集１中産連創立75周年記念特別インタビュー-不易流行変化と変わらぬ本質を捉える中部/764917538767985/",
+    "https://www.facebook.com/nejibane.news/",
+    "https://www.facebook.com/niid.nara/posts/研究報告を発行しました昨年度実施した研究成果をまとめ研究報告no482022を発行しましたぜひ当センターのシーズ情報をご覧ください研究に関するお問合せ技術相談等/433922802091120/",
+    "https://www.facebook.com/Japan.RIETI/posts/bblウェビナー動画経済産業政策の新機軸ー新しい産業政策の考え方についてースピーカー石川-浩経済産業省-経済産業政策局-産業構造課長講演を掲載いたしましたhtt/396186795873903/",
+    "https://www.facebook.com/torigoetakakoofficial/videos/spotifyの感動テイストが似た曲を勧めてくるのですが自身の曲の後に流してくれたのは富田ラボ土岐麻子misiaパリスマッチぷにぷに電気オリジナルラブさん等でし/2482972548507093/",
+    "https://www.facebook.com/100088886342216/posts/舞台技術サービス事業日本標準産業分類承認の件第14回日本標準産業分類改正令和6年4月1日施行において舞台技術スタッフを指す産業分類番号として大分類n-生活関連サ/224951593811051/",
+    "https://www.facebook.com/city.omura/photos/経済センサス-活動調査にご協力ください総務省経済産業省による全産業分野の経済活動を網羅的に把握するための調査です調査結果は行政の政策立案や民間企業の出店計画など/1373768644780240/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555&toukei_kind=6&tstat=000001231885",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&bunya_l=07&toukei=00200555&tstat=000001231885&cycle=0&tclass1=000001231887&layout=datalist&tclass2val=0",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "経済構造実態調査 製造業事業所調査 2022・2023・2024年実績 産業細分類（電気めっき・金属用金型・金属熱処理・金属プレス）の事業所数・従業者数・付加価値額（切れ目の後を3年以上そろえる・新方式の区間だけで傾きを見る・4-129） X 投稿",
+   "results": [
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035163",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://banenews.jp/statistics/684.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035153",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2024.pdf",
+    "https://www.city.nagoya.jp/shisei/toukei/1003703/1003773/1003951/1034272/1040450.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&bunya_l=07&layout=dataset&toukei=00200555&tstat=000001231885&statdisp_id=0004035168",
+    "https://www.stat.go.jp/data/kkj/kekka/pdf/2024gaiyo2.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Japan Economic Structure Survey manufacturing establishments 2022 2023 2024 industry subdivision plating die heat treatment press employees value added site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/japans-manufacturing-industry-crisis-heres-how-its-fighting-大治-岩田-nmitc",
+    "https://www.linkedin.com/pulse/monozukuri-20-japans-winning-manufacturing-formula-nobuko-kobayashi-gnabc",
+    "https://kr.linkedin.com/pulse/일본-스마트제조혁신-정책-japan-smart-manufacturing-innovation-policy-kim",
+    "https://kr.linkedin.com/pulse/cost-reduction-manufacturing-establishments-strategic-ridma-peiris-ipgyc?tl=ko",
+    "https://pe.linkedin.com/advice/3/how-do-you-conduct-industry-survey-skills-economics",
+    "https://pe.linkedin.com/pulse/stent-manufacturing-process-professional-plating-inc",
+    "https://pulse.linkedin.com/research-and-trends/workforce-reports"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ24頁・検索18回）"
+ }
+}
