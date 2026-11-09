@@ -6669,6 +6669,7 @@
 ## アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）（anchoring bias analyst research first number prevention）
 - 文脈：失敗
 - 手順・やり方：
+  - 「Once you've identified your patterns, here's how to build anchoring out of your process:」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「アンカリング効果を実践するための5ステップ」（https://hrmos.co/trend/talent-management/10187/）
   - 「本記事では、アンカリング効果の定義や仕組み、具体例やビジネスでの活用方法について詳しく解説します」（https://hrmos.co/trend/talent-management/10187/）
   - 「1on1の進め方」（https://hrmos.co/trend/talent-management/10187/）
@@ -6683,7 +6684,6 @@
   - 「ステップ通りに進めることで、アンカリング効果を最大限に引き出せます」（https://hrmos.co/trend/talent-management/10187/）
   - 「ステップは以下の5つです」（https://hrmos.co/trend/talent-management/10187/）
   - 「ステップ1: 目的と対象の明確化」（https://hrmos.co/trend/talent-management/10187/）
-  - 「ステップ2: 情報収集と分析」（https://hrmos.co/trend/talent-management/10187/）
 - 突き合わせ・推定：
   - 「アンカリング効果は、直前に与えられた数値情報が後続の数量推定に影響を与える認知バイアスです」（https://hrmos.co/trend/talent-management/10187/）
   - 「研究では、その説を検証するため、以下の2つの条件でアンカリング効果の強さを比較しました」（https://hrmos.co/trend/talent-management/10187/）
@@ -6705,22 +6705,24 @@
   - 「ブラインド選考を実施することで、公平な採用はもちろん、潜在能力の高い人材や異なる背景を持つ人材の採用ができ、新しいアイデアの創造にもつながります」（https://hrmos.co/trend/talent-management/10187/）
   - 「ブラインド採用とは？メリットとデメリット、実行の際のポイントを徹底解説！」（https://hrmos.co/trend/talent-management/10187/）
 - 失敗・落とし穴：
-  - 「企業がアンカリング効果を利用する際の注意点」（https://hrmos.co/trend/talent-management/10187/）
-  - 「アンカリング効果は、直前に与えられた数値情報が後続の数量推定に影響を与える認知バイアスです」（https://hrmos.co/trend/talent-management/10187/）
-  - 「そのため、リスクを過小評価しすぎたり、過度な期待を抱いてしまったりして失敗するケースがあります」（https://hrmos.co/trend/talent-management/10187/）
-  - 「明確な基準を設けることにより、評価者は主観的な印象やバイアスに頼るのではなく、具体的な指標に基づいて評価を行うことができます」（https://hrmos.co/trend/talent-management/10187/）
-  - 「明確な基準があることで、評価者は自身のバイアスに気づきやすくなり、それを意識的に排除する努力ができます」（https://hrmos.co/trend/talent-management/10187/）
-  - 「評価者はアンカリング効果やその他の認知バイアスが評価に影響することを理解し、意識した上で評価を行う必要があります」（https://hrmos.co/trend/talent-management/10187/）
-  - 「バイアスを意識的に避けるためのトレーニングの実施や、社外の講義やワークショップに参加してもらうのもよいでしょう」（https://hrmos.co/trend/talent-management/10187/）
-  - 「トレーニングとフィードバックによって評価者のバイアスを改善することで、人事評価の精度を高められます」（https://hrmos.co/trend/talent-management/10187/）
-  - 「アンカリング効果を活用する際には、いくつかの注意点を理解しておくことで、効果を最大限に引き出しつつ、信用を失うといったリスクを避けられます」（https://hrmos.co/trend/talent-management/10187/）
-  - 「以下の3つの注意点について詳しく見ていきましょう」（https://hrmos.co/trend/talent-management/10187/）
-  - 「もし、訴訟問題に発展すれば、法的罰則はもちろん、取引先からの信頼も失うなど企業へのダメージは避けられません」（https://hrmos.co/trend/talent-management/10187/）
-  - 「このような事態を避けるためには、適切な価格表示や正確な情報提供を心がけ、消費者を誤認させないように十分な注意が必要です」（https://hrmos.co/trend/talent-management/10187/）
-  - 「アンカリング効果は、最初に提示された情報や数値に引きずられ、その後の判断や評価が影響を受ける認知バイアスのひとつです」（https://hrmos.co/trend/talent-management/10187/）
-  - 「アンカリング効果などのバイアスによる偏りを軽減することは人事評価において重要です」（https://hrmos.co/trend/talent-management/10187/）
-  - 「バイアスとは？種類と人事で起こる5つのバイアス対策」（https://hrmos.co/trend/talent-management/10187/）
+  - 「Stop Anchoring Bias Using Automated Trading Decisions Prevention」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「Stop letting past prices dictate your future profits. Automation neutralizes anchoring bias by using objective data to ensure rational exits and better timing.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「Anchoring bias makes traders fixate on arbitrary price points like their entry price, recent highs, or round numbers, distorting rational decision-making」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「What Is Anchoring Bias in Trading?」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「How Does Anchoring Bias Damage Trading Decisions?」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「How Automation Prevents Anchoring Bias」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「A cognitive bias where individuals over-rely on an initial piece of information (the anchor) when making decisions. In trading, this causes fixation on irrelevant price levels like entry prices, recent highs/lows, or round numbers that distort objective analysis.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「Anchoring bias damages trading decisions by causing traders to evaluate market conditions relative to arbitrary reference points instead of current data. This affects entries, exits, position sizing, and risk management in measurable ways. A 2006 study published in the」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「Automated trading systems prevent anchoring bias by executing trades based on predefined rules that reference objective market data, not a trader's psychological reference points. An algorithm doesn't know what price you entered at, what round number is nearby, or what an analyst predicted. It processes current price, volume, and indicator values, then acts accordingly.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「Building a system that prevents anchoring bias automated trading decisions prevention starts with identifying where anchoring affects your specific trading. A」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「When evaluating your strategy, look at statistical metrics (win rate, expectancy, max drawdown) over a meaningful sample size, not at the last 5 trades. Recency bias is a close cousin of anchoring, and it makes traders overhaul strategies based on small samples. The」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「recency bias and automation article」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「Stress management also plays a role here. Fatigued traders are more susceptible to cognitive biases including anchoring. If you've been staring at screens for 8 hours, your mental defenses against anchoring are weaker. Automation handles execution when you're tired, distracted, or emotionally compromised, which is when anchoring does its worst damage.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「1. What is anchoring bias in futures trading?」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「Anchoring bias in futures trading is the tendency to fixate on a specific price or number when making trading decisions, such as your entry price, a round number, or a previous high/low. This fixation distorts rational analysis because the anchored reference point often has no predictive value for future price movement.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
 - 実例：
+  - 「Consider this practical example with ES futures:」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
+  - 「All trade examples presented for compensation purposes are hypothetical and should not be expected to reflect live trading results. It is important to note that hypothetical and simulated trades do not fully represent the financial risks associated with actual trading. FjordPath, Inc makes no representation that any account will achieve profits or losses similar to those shown.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「実験の結果「10」と記録したグループは、国連加盟国のうちアフリカ諸国が占める割合は、平均で25%と回答しました」（https://hrmos.co/trend/talent-management/10187/）
   - 「その結果、数字を提示した場合に比べ、意味情報のみを提示した場合のアンカリング効果は非常に弱いことが分かりました」（https://hrmos.co/trend/talent-management/10187/）
   - 「例えば、待ち合わせに20分遅刻してしまうとします」（https://hrmos.co/trend/talent-management/10187/）
@@ -6734,8 +6736,6 @@
   - 「キリンホールディングス株式会社、三菱重工業株式会社、川崎重工業株式会社など、どのような効果が得られたのか分かる事例をご紹介中」（https://hrmos.co/trend/talent-management/10187/）
   - 「この結果、AグループのほうがBグループよりも手術を選択する医師が多いという結果が出ました」（https://hrmos.co/trend/talent-management/10187/）
   - 「例えば「朝起きる」という行動を見た後に、その後の行動である「歯磨き」を無意識に認識するなどがあります」（https://hrmos.co/trend/talent-management/10187/）
-  - 「具体的には「どのような結果を得たいのか」と「誰に対してアンカリング効果を働かせたいのか」を決めることが不可欠です」（https://hrmos.co/trend/talent-management/10187/）
-  - 「結果を踏まえて戦略を見直し、必要に応じて適切なアンカーを見つけていくとよいでしょう」（https://hrmos.co/trend/talent-management/10187/）
 
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
@@ -7398,11 +7398,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -9751,6 +9751,7 @@
   - 「一方でフェルミ推定は、細かなディテールを捨象し、物事の「構造」を捉える」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「なぜ、あなたの推定は外れるのか？――挫折を招く「3つの心理的障壁と認知の癖」」（https://note.com/missiondrivencom/n/n9201e39a1296）
 - 一次情報の探し方：
+  - 「2026年12月10日(木) ソング本部 デザインチーム 採用セミナー」（https://my-vision.co.jp/articles/fermi-estimation-explanation）
   - 「2つ目は「最新の統計数字を知らないから計算できない」と諦めてしまうことだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「しかし、一流のコンサルタントもすべての統計を暗記しているわけではない」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「最も手軽で強力な手法が、自分自身の行動や周辺の事象を統計の最小単位として扱う「サンプル・オブ・ワン」だ」（https://note.com/missiondrivencom/n/n9201e39a1296）
@@ -9765,7 +9766,6 @@
   - 「秋採用とは？企業の探し方と今すぐやるべきことをスケジュール別に解説！」（https://www.neo-career.co.jp/careertrus/shukatsu_gd_fermi）
   - 「だからこそ、コンサル面接や総合商社の採用試験で重視され、就活生にとって避けて通れないテーマになっているのです」（https://nengoro.com/column/marketing/fermi/）
   - 「コンサルや総合商社の採用試験で定番の問いかけは「日本にピアノの調律師は何人いるか？」「東京駅を1日に利用する人数は？」といったもの」（https://nengoro.com/column/marketing/fermi/）
-  - 「統計を覚えていなくても、身近な知識を組み合わせれば近い答えにたどり着けます」（https://nengoro.com/column/marketing/fermi/）
 - 失敗・落とし穴：
   - 「その中で多くのビジネスパーソンが、KPIや既存データといった「目に見える指標」に過度に依存する「可視化依存社会」の罠に嵌まっている」（https://note.com/missiondrivencom/n/n9201e39a1296）
   - 「脳が「未知のもの」に対して拒絶反応を起こす際、特定の「心理的な罠」に嵌まっているからだ」（https://note.com/missiondrivencom/n/n9201e39a1296）
@@ -12443,11 +12443,11 @@
 - 文脈：会社・一次
 - 検索結果の抜粋：
   - 「Companies House - GOV.UKCorporate Family Tree - SEC Subsidiary ExplorerUS CorpWatch EX-21 Filings – OpenSanctionsWRDS Company Subsidiary DataEnglish Guides to Japanese Company Public Records | RegBaseHow to Search and Verify Any Japanese Company in 2026 ... — Upload a document to Companies House ServiceUse this service to file certain documents online instead of posting a paper form. Changes to UK」（https://www.gov.uk/government/organisations/companies-house）
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ6頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ6頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ6頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ6頁・検索12回）
+- 実例：記載なし（読んだ6頁・検索12回）
 
 ## AIや他人が示した出典の誤りの型（実在しない・文言違い・関係なし・改正や新しい版で古くなった）と照合の手順（弁護士会・図書館・研究者の書き手）（citation error types hallucination outdated superseded source verification checklist）
 - 文脈：検証
@@ -12925,11 +12925,11 @@
 
 ## AIで作った業界分析・訂正の窓口の無い記事の見分け方と扱い（生成物を一次で取り直す）（how to identify AI-generated research reports and handle sources without corrections policy）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）（nonresponse bias analysis business survey frame variables response rate by industry）
 - 文脈：突き合わせ
@@ -14027,7 +14027,7 @@
   - 「、実際の成功事例は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「他社の成功事例を学び、自社の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「選択結果を選ぶと、ページが全面的に更新されます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
 
 ## 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）（private company due diligence red flags combination late filing director turnover charges）
 - 文脈：裏取り
@@ -14073,7 +14073,7 @@
   - 「信用調査の結果を踏まえ、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
 
 ## 景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない）（leading coincident lagging indicators turning point diffusion index how to read）
 - 文脈：手法・統計
