@@ -3660,17 +3660,18 @@ def scan(topic):
             _refn = _ud2.normalize("NFKC", _ref).replace(",", "")
             _NUM = re.compile(r"(?<![\d\-\.A-Za-z])(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+\.\d+|\d{3,})(?![\d\-])")
             _orph = []
-            for _ln in open(_sm, encoding="utf-8", errors="ignore"):
+            _orl = {}
+            for _no, _ln in enumerate(open(_sm, encoding="utf-8", errors="ignore"), 1):
                 _l = _ud2.normalize("NFKC", _ln)
                 for _m in _NUM.finditer(_l):
                     _v = _m.group(1).replace(",", "")
                     if re.fullmatch(r"(19|20)\d\d", _v): continue  # 年
                     if re.search(r"\d-\d", _l[max(0, _m.start() - 3):_m.end() + 3]) and "." not in _v: continue  # 章番号 4-12 など
-                    if _v not in _refn and _v not in _orph: _orph.append(_v)
+                    if _v not in _refn and _v not in _orph: _orph.append(_v); _orl[_v] = _no
             md += ["## 出どころの無い数字・桁のずれ（4-126・機械）",
                    f"- scan.md の数字（3桁以上か小数つき、年・章番号を除く）で、scan_auto.md・cross.csv・calc.md・facts.md・METHOD.md のどこにも無いもの：{len(_orph)}個。"
                    "頭で計算した値か写し違いの疑い。次の走査で scan.md から外すか、その計算を scan.py に足して出させる（0. 動き方・4-126）",
-                   *(f"  - {v}" for v in _orph[:8]), ""]
+                   *(f"  - {v}（scan.md {_orl.get(v)}行目）" for v in _orph[:8]), ""]
     except Exception: pass
     try:
         _grp = {}
