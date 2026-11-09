@@ -1,0 +1,945 @@
+{
+ "name": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120）",
+ "en": "Census of Manufacture dies and moulds industry shipments vs product shipments same year Japan",
+ "aliases": [
+  "工業統計 品目編 金型 出荷額",
+  "工業統計 産業編 金属用金型製造業 出荷額",
+  "日本政策金融公庫 調査月報 金型 出荷額"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T03:56:42.799620+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "金型の出荷額・事業所数 20年の推移(工業統計)",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 品目編 1-06 【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比５．７％増の２６６億１、０００万円 プレス型は９・７％増、プラ型は３・８％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年５月の金型生産実績をまとめた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 品目編 1-06 【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1041】製氷業【104111】人造氷",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【000000】合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112245】ポリエステル長繊維織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112229】その他の絹小幅織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112249】その他の合成繊維長繊維織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112244】ナイロン長繊維織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112251】化学繊維タイヤコード",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【183211】自動車用プラスチック製品",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112221】ちりめん類（小幅のもの）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112219】その他の絹広幅織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1122】絹・人絹織物業【112149】その他の化学繊維紡績糸織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業【000000】合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業【114212】合成繊維長繊維織物精練・漂白・染色、レーヨン風合成繊維織物機械整理仕上",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業【112245】ポリエステル長繊維織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業【112143】ポリエステル紡績糸織物",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【1142】絹・人絹織物機械染色業【114711】ニット・レース染色・整理",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "２０１５年の工業統計（品目編）によると、金型出荷額は前年比で３・５％伸び、リーマンショック後と比べても15％増加するなど回復を示している",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の出荷額・事業所数 20年の推移(工業統計)",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "生産額20年前の7割",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "２０１５年の金型出荷額は１兆２２８４億円と前年比で３・５％伸びた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "１兆６２７億円だったリーマンショック前と比べても15％増加しており、地道に回復を続けている",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "いまだにピークの１９９８年の１兆８６７２億円と比べると66％でしかない",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月金型生産実績 前年同月比 0.5％減の244億円",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス用金型は11.5％減、プラ用金型は9.9％増 2024年5月の金型生産は、前年同月比0.5%減の243億9,828万円となった",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比５．７％増の２６６億１、０００万円 プレス型は９・７％増、プラ型は３・８％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年５月の金型生産実績をまとめた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 品目編 1-06 【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "プレス用金型は11.5％減、プラ用金型は9.9％増 2024年5月の金型生産は、前年同月比0.5%減の243億9,828万円となった",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比５．７％増の２６６億１、０００万円 プレス型は９・７％増、プラ型は３・８％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年５月の金型生産実績をまとめた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "2015年6月4日",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "２０１５年の工業統計（品目編）によると、金型出荷額は前年比で３・５％伸び、リーマンショック後と比べても15％増加するなど回復を示している",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、国内回帰も言われるなかで、事業所の減少は、潜在的に金型が足りないという別の問題も生まれさせかねない",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の出荷額・事業所数 20年の推移(工業統計)",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "２０１５年の金型出荷額は１兆２２８４億円と前年比で３・５％伸びた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "１兆６２７億円だったリーマンショック前と比べても15％増加しており、地道に回復を続けている",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "金型は５割近くまで一気に減少した",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "98年は８７４３あったが、13年には５４９４で、67％にまで減少した",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし事業所の減少は供給能力の低下を意味し、潜在的には高品質な金型不足という別の問題も生まれつつある",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "金型新聞 平成27年(2015年)6月4日号",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月金型生産実績 前年同月比 0.5％減の244億円",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス用金型は11.5％減、プラ用金型は9.9％増 2024年5月の金型生産は、前年同月比0.5%減の243億9,828万円となった",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月2日",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年1月10日",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年7月4日",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月10日",
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "2022-03-05 10:00",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "産業分類と品目(品目編2019シート1600用)",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）【000000】合計",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）【202111】工業用革製品",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）【311322】座席（完成品に限る）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   },
+   {
+    "quote": "【2021】工業用革製品製造業（手袋を除く）【119919】他に分類されない繊維製品（ニット製を含む）",
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBZ2PGHVBZOXIE03RM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC141CL0U6A210C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jilc.or.jp/files/libs/179/202009181341415929.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/404873.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000607/607232/r03_riyou_tyuui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/hinmoku/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.yamagata.jp/documents/46046/20_kogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kobe.lg.jp/documents/28486/23kiji.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?statdisp_id=0004028787",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/525288.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://faq-e-census-st.dga.jp/faq_detail.html?id=540&category=2104&page=1000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h08/sokuho/h2i5000j.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.wakayama.lg.jp/prefg/020300/keizai/index_d/fil/h23seizougaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/b0c88d28-acd7-4bd7-a4dc-ec4b6fbcd999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.census.gov/manufacturing/m3/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 人手不足 受注 断る",
+   "results": [
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.asahi.com/articles/ASVBZ2PGHVBZOXIE03RM.html",
+    "https://www.nikkei.com/article/DGXZQOUC141CL0U6A210C2000000/",
+    "https://prtimes.jp/main/html/rd/p/000000053.000105632.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.jilc.or.jp/files/libs/179/202009181341415929.pdf",
+    "https://www.jir-web.co.jp/joyoarc/backnumber/pdf/201406.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h11/sokuho/h2i5000j.html",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/404873.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 人手不足 損失 億円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120）",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000607/607232/r03_riyou_tyuui.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/hinmoku/index.html",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.pref.yamagata.jp/documents/46046/20_kogyo.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/404873.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 推移",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h13/kakuho/hinmoku/index.html",
+    "https://www.pref.yamagata.jp/documents/46046/20_kogyo.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.city.kobe.lg.jp/documents/28486/23kiji.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/404873.pdf",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 統計 PDF",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000607/607232/r03_riyou_tyuui.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/525288.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "https://www.pref.kumamoto.jp/site/keizai-kouzou/254002.html",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://ndlsearch.ndl.go.jp/rnavi/business/post_102151"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 従業者規模別",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.otaru.lg.jp/docs/2020121100623/file_contents/h27kougyoutoukeikkeka2.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00200553&tstat=000001056219&lid=000001066481&result_page=1&statdisp_id=0003389773",
+    "https://www.pref.fukushima.lg.jp/sec/11045b/keisen28.html",
+    "https://www.pref.yamanashi.jp/toukei_2/HP/28census_seizougyou_syousai.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/h28-kakuhou/h27-jisseki.html",
+    "https://faq-e-census-st.dga.jp/faq_detail.html?id=540&category=2104&page=1000",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000003d2000000955",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_05.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 1人当たり 万円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h08/sokuho/h2i5000j.html",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/404873.pdf",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://www.pref.wakayama.lg.jp/prefg/020300/keizai/index_d/fil/h23seizougaiyou.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） 2015 2025",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000607/607232/r03_riyou_tyuui.pdf",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/525288.pdf",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/genjou30_no1",
+    "https://www5.cao.go.jp/j-j/cr/cr25-1/pdf/zentai.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/85b9f777-8bdc-4eee-968c-6a7a301f848d",
+    "https://data.e-gov.go.jp/data/dataset/cao_20150109_0017/resource/b0c88d28-acd7-4bd7-a4dc-ec4b6fbcd999"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Census of Manufacture dies and moulds industry shipments vs product shipments same year Japan Japan statistics",
+   "results": [
+    "https://www.usitc.gov/publications/332/pub3556.pdf",
+    "https://www.census.gov/manufacturing/m3",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.cema.or.jp/general/english/statistics/index.html",
+    "https://rosap.ntl.bts.gov/view/dot/11480/dot_11480_DS1.pdf",
+    "https://bisai-monozukuri.com/en/database/",
+    "https://www.fictiv.com/articles/manufacturing-industry-statistics",
+    "https://www.marketdataforecast.com/market-reports/industrial-mold-market",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120）",
+   "results": [
+    "https://note.com/umaki11/n/nb38014bbb6f9",
+    "https://note.com/iceman_23/n/n536201254ff2",
+    "https://note.com/3n7no_tech_pr/n/nac1fb5492d67",
+    "https://note.com/tatsuya_sabato/n/ne84e5d12723f",
+    "https://note.com/hirokimiyano/n/n06e695698d79",
+    "https://note.com/kagawatomo/n/n5d9ceb89a7fd",
+    "https://note.com/tatsuya_sabato/n/nfc1303fb9ce2",
+    "https://note.com/alert_lily2317/n/nca010a26d5d4",
+    "https://note.com/sansan2/n/n038e934f7207",
+    "https://note.com/fujikawa/n/ne4687630dc8c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2098795808997183740",
+    "https://jf.x.com/images/media-preview/2099554207132959067",
+    "https://x.com/tokei_ibaraki/status/1620330455823441921",
+    "https://x.com/hashtag/製造品出荷額等",
+    "https://x.com/ohmura_hideaki/status/2082434710060560428",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845",
+    "https://x.com/takano_mario/status/2093143372257251825"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120）",
+   "results": [
+    "https://in.linkedin.com/company/datamatics",
+    "https://www.linkedin.com/pulse/qvse-scam-legit-investigating-quant-vest-stock-exchange-danny-de-hek-hlahc",
+    "https://jp.linkedin.com/pulse/erp-process-vs-discrete-manufacturing-why-one-size-pkeqf?tl=ja",
+    "https://jp.linkedin.com/posts/masato-matsubara-a61026221_このたび一般社団法人-型技術協会-第36回型技術論文賞を受賞することが決定いたしました-activity-7455191198165520384-Pv7e",
+    "https://www.linkedin.com/posts/moa-ito-32b588a3_ここが変だよ-日本の半導体製造装置23品目輸出規制-activity-7056477658087374848-gqT9",
+    "https://jp.linkedin.com/pulse/3dプリンティング用金属の世界市場金属タイプ別形状別技術別最終用途産業別地域別-予測2030年-ytzte",
+    "https://jp.linkedin.com/pulse/業種別dx製造業界におけるdxの始め方-atlike"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） note 社長",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/404873.pdf",
+    "https://www.pref.osaka.lg.jp/documents/30624/kanagata.pdf",
+    "https://note.com/dear_hyssop6712/n/nc61b8273f7d3",
+    "https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120） X 投稿",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.city.osaka.lg.jp/toshikeikaku/cmsfiles/contents/0000607/607232/r03_riyou_tyuui.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/404873.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/r5keizaikouzou-2.html",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20h.pdf",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/2020/kg20q40000.htm",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "https://www.meti.go.jp/statistics/tyo/seidou/result/ichiran/08_seidou.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Census of Manufacture dies and moulds industry shipments vs product shipments same year Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/americas-manufacturing-power-map-top-10-states-what-varenas-mba-hjnjc",
+    "https://www.linkedin.com/in/luke-e-keller",
+    "https://www.linkedin.com/in/kurtheusner",
+    "https://www.linkedin.com/in/brockwebb",
+    "https://www.linkedin.com/in/andrew-foote-ab2b8911",
+    "https://www.linkedin.com/in/alwhatmough",
+    "https://www.linkedin.com/company/facteus",
+    "https://www.linkedin.com/in/bradley-mattarocci-3637482a",
+    "https://www.linkedin.com/in/chrisrwcochran",
+    "https://ca.linkedin.com/in/jdewsi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

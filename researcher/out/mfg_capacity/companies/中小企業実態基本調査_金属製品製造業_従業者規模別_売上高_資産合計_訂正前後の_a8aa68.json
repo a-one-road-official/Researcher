@@ -1,0 +1,1798 @@
+{
+ "name": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120）",
+ "en": "SME basic survey fabricated metal products sales by employee size Japan",
+ "aliases": [
+  "中小企業実態基本調査 売上高 金属製品製造業 従業者規模別",
+  "中小企業実態基本調査 確報 損益計算書 製造業",
+  "e-Stat 中小企業実態基本調査 売上高 産業中分類"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T03:56:51.030070+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "その他の有効回答 = 廃業、休業又は対象外等",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスー活動調査等を基に中小企業の開廃業率を算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスー活動調査を基に算出した調査年の母集団数に、上記2)の開廃業率を基に調査年の母集団数を算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の有効回答 = 廃業、休業又は対象外等",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスー活動調査等を基に中小企業の開廃業率を算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサスー活動調査を基に算出した調査年の母集団数に、上記2)の開廃業率を基に調査年の母集団数を算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "区分：産業中分類＿６７区分、従業者規模＿５区分",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式) - データ製作所",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "第１～１０表の「(1)産業別・従業者規模別表」を合体しています",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,年度,値 (選択),階層 (選択),階層_1,階層_2,階層_3,階層_4,産業,法人・個人,従業者規模,単位,Value",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "＜ダウンロード＞ 中小企業実態基本調査_表(1)_従業者規模別表_年度次 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たりの従業者数は９．９人（前年度比１．６％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業者数等：令和７年６月１日現在",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "速報（２月）では、従業者数、資産及び負債・純資産、売上高及び営業費用、事業承継の状況、中小企業の動向を集計・公表",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）令和４年調査より調査の期間・期日を変更（「売上高」及び「経常利益」は「前年度（令和３年調査であれば令和２年度）の決算期の数値」から「最近決算期の１年間の数値」に、「従業者数」は「３月３１日現在」から「６月１日現在」に、それぞれ変更）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章 中小企業の従業者数",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の従業者数の産業大分類別構成比は、製造業（２０．３％）が最も高く、次いで小売業（１４．４％）、建設業（１１．３％）の順である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの従業者数は、９．９人（前年度比１．６％増）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの従業者数の変化を産業大分類別にみると、増加しているのは、生活関連サービス業，娯楽業（前年度比１１．５％増）、運輸業，郵便業（同４．９％増）など８産業である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 中小企業（法人企業）の資産及び負債・純資産",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の資産の産業大分類別構成比は、製造業（２３．０％）が最も高く、次いで卸売業（１７．５％）、不動産業，物品賃貸業（１７．２％）の順である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの負債は２．０億円（前年度比▲０．３％減）、純資産は１．６億円（同１．８％増）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの資産を産業大分類別にみると、卸売業（６．１億円）が最も高く、次いで製造業（６．０億円）、運輸業，郵便業（５．１億円）の順である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "01.会社全体の従業者数",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "02.資産及び負債・純資産（法人企業）",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "「階層_1」のとき、従業者数の男女別割合を比較することができます",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,D_建設業,06_総合工事業,人,1370205.661",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,D_建設業,06_総合工事業,人,354375.4033",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,D_建設業,07_職別工事業（設備工事業を除く）,人,647277.1798",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,D_建設業,07_職別工事業（設備工事業を除く）,人,190603.139",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,D_建設業,08_設備工事業,人,691187.7788",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,D_建設業,08_設備工事業,人,190411.8067",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,E_製造業,09_食料品製造業,人,421582.9815",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,E_製造業,09_食料品製造業,人,536198.4958",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,E_製造業,10_飲料・たばこ・飼料製造業,人,71000.08992",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の調査結果に基づき、基本となる層別に見て極めて大きな「売上高」を有する企業がある場合は、別途層を設け、全数を継続標本(抽出率=1)とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高等：最近決算期の１年間",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "速報（２月）では、従業者数、資産及び負債・純資産、売上高及び営業費用、事業承継の状況、中小企業の動向を集計・公表",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）令和４年調査より調査の期間・期日を変更（「売上高」及び「経常利益」は「前年度（令和３年調査であれば令和２年度）の決算期の数値」から「最近決算期の１年間の数値」に、「従業者数」は「３月３１日現在」から「６月１日現在」に、それぞれ変更）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "資産の内訳をみると、流動資産は２．０億円（前年度比２．１％増）、固定資産は１．６億円（同▲１．２％減）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの負債は２．０億円（前年度比▲０．３％減）、純資産は１．６億円（同１．８％増）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの資産を産業大分類別にみると、卸売業（６．１億円）が最も高く、次いで製造業（６．０億円）、運輸業，郵便業（５．１億円）の順である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3章 中小企業の売上高及び営業費用",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "１．中小企業の売上高",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の売上高の産業大分類別構成比は、卸売業（２９．６％）が最も高く、次いで製造業（２０．２％）、建設業（１３．０％）の順である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの売上高は、２．２億円（前年度比６．９％増）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの売上高の変化を産業大分類別にみると、増加しているのは、不動産業，物品賃貸業（前年度比１９．１％増）、卸売業（同１４．９％増）、運輸業，郵便業（同８．６％増）など８産業である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "03.売上高及び営業費用",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "07.売上高の内訳",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "通信業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット附随サービス業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "新聞業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "出版業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "卸売業:資本金1億円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "旅行業:資本金3億円以下又は従業員300人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス‐活動調査の調査結果に基づき、基本となる層別に見て極めて大きな「売上高」を有する企業がある場合は、別途層を設け、全数を継続標本(抽出率=1)とした",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "03.売上高及び営業費用",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "07.売上高の内訳",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査 確報統計表 ３．売上高及び営業費用 産業中分類別表（個人企業） | 統計表・グラフ表示 | 政府統計の総合窓口",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   },
+   {
+    "quote": "３．売上高及び営業費用 産業中分類別表（個人企業）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   },
+   {
+    "quote": "（注１） 売上総利益＝売上（収入）金額－売上原価",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   },
+   {
+    "quote": "2/3 売上高及び営業費用（個人企業）",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの経常利益は、１，０７５万円（前年度比８．４％増）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "３．中小企業（法人企業）の付加価値額",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの付加価値額は、９，９８６万円（前年度比４．３％増）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の従業者１人当たりの付加価値額は、６３１万円（前年度比２．６％増）である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "図 中小企業（法人企業）の１企業当たりの付加価値額（産業大分類別）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "（注１）付加価値額の算出方法の詳細は、付録における経営指標の算出式及び全産業加重平均値（注１）を参照",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "小売業:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "駐車場業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "物品賃貸業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業:資本金5千万円以下又は従業員100人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "上記以外:資本金5千万円以下又は従業員50人以下",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "確報（６月）では、速報公表項目に加え、設備投資とリースの状況、海外展開と輸出の状況、受託・委託の状況等を集計・公表",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "04.設備投資とリースの状況",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "04.設備投資とリースの状況",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "第3次産業活動能力・稼働率指数",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "（2025年7月30日）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの従業者数の変化を産業大分類別にみると、増加しているのは、生活関連サービス業，娯楽業（前年度比１１．５％増）、運輸業，郵便業（同４．９％増）など８産業である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "図 中小企業の従業者数構成比の推移（産業大分類別）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "図 中小企業（法人企業）の資産構成比の推移（産業大分類別）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの売上高の変化を産業大分類別にみると、増加しているのは、不動産業，物品賃貸業（前年度比１９．１％増）、卸売業（同１４．９％増）、運輸業，郵便業（同８．６％増）など８産業である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "図 中小企業の売上高構成比の推移（産業大分類別）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の１企業当たりの経常利益の変化を産業大分類別にみると、増加しているのは、運輸業，郵便業（前年度比２８．８％増）、建設業（同２７．８％増）など７産業である",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "図 中小企業の経常利益構成比の推移（産業大分類別）",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別にみると、学術研究，専門・技術サービス業（同１０．０％増）、建設業（同９．０％増）など８産業で増加している",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業大分類別にみると、学術研究，専門・技術サービス業（同８．６％増）、サービス業（他に分類されないもの）（同７．２％増）など７産業で増加している",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(2)_産業中分類別表_年度次 2018年度 – 2024年度 (列指向形式) - データ製作所",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月10日",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(2)_産業中分類別表_年度次 2018年度 – 2024年度 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "公開日 2023年11月10日",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度 – 2024年度",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,D_建設業,06_総合工事業,人,1370205.661",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,D_建設業,06_総合工事業,人,354375.4033",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,D_建設業,07_職別工事業（設備工事業を除く）,人,647277.1798",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,D_建設業,07_職別工事業（設備工事業を除く）,人,190603.139",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,D_建設業,08_設備工事業,人,691187.7788",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,D_建設業,08_設備工事業,人,190411.8067",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,E_製造業,09_食料品製造業,人,421582.9815",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,女合計,,,,E_製造業,09_食料品製造業,人,536198.4958",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_1,男合計,,,,E_製造業,10_飲料・たばこ・飼料製造業,人,71000.08992",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(3)_資本金階級別表_年度次 2018年度 – 2024年度 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "（2025年7月30日）",
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式) - データ製作所",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月7日",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "公開日 2023年11月7日",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度 – 2024年度",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,R_サービス業（他に分類されないもの）,個人企業,個人企業,人,4025.371477",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,R_サービス業（他に分類されないもの）,法人企業,21～50人,人,",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,R_サービス業（他に分類されないもの）,法人企業,51人以上,人,",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,R_サービス業（他に分類されないもの）,法人企業,5人以下,人,",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,R_サービス業（他に分類されないもの）,法人企業,6～20人,人,",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,H_運輸業，郵便業,個人企業,個人企業,人,342.5722801",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,H_運輸業，郵便業,法人企業,21～50人,人,",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,H_運輸業，郵便業,法人企業,51人以上,人,",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019/3/31,2018年度,01.会社全体の従業者数,階層_3,女合計,他社からの出向・派遣を除く合計,個人事業主,,H_運輸業，郵便業,法人企業,5人以下,人,",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業実態基本調査_表(2)_産業中分類別表_年度次 2018年度 – 2024年度 (列指向形式)",
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "pass": 3
+   },
+   {
+    "quote": "2019-03-25 14:00",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "pass": 3
+   },
+   {
+    "quote": "分離適格振替国債の分離状況並びに現在高推移",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "2025-07",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "2024-07",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "2023-10",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "2023-07",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   },
+   {
+    "quote": "2022-07",
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/111581/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2024FY/000121.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.henmi-adm.jp/news/3775.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180875/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180619/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ab.jcci.or.jp/article/97662/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://office-kitahama.jp/wp-content/themes/minnakaikei/assets/images/pdf/kessanbunseki02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2023FY/000359.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://officenomikata.jp/coverage/16188/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001207561&tclass2=000001207562&stat_infid=000040082482&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001019842",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2022FY/000414.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiridriven.mjs.co.jp/180792/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/statistics/00553010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031387075&layout=dataset&statdisp_id=0003144057",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfc.go.jp/n/findings/shihyou_kekka_m_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shindanshi-nagitatsublog.com/hitori-atari-uriagedaka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?toukei=00553010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317772",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003317770",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/en/news/releases/2025/30059aa3effdfc56/2024_N_America.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kenresearch.com/japan-metal-fabrication-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vKn7t9yvQiKxttQoH2cshnIT7EmETF5oTTOeKNWBQRHpvteSuU1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.saudijournals.com/media/articles/SJBMS-24A357-374.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pecc.org/resources/labor/1337-human-capacity-building-in-smes-japanese-experiences-and-regional-challenges/file",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 人手不足 受注 断る",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.zenkyo.or.jp/chosa/docs/houkoku_2021-3.pdf",
+    "https://ab.jcci.or.jp/article/111581/",
+    "https://www.meti.go.jp/meti_lib/report/2024FY/000121.pdf",
+    "https://worker-training.com/back-office/somu/chushokigyo-jittaichousa/",
+    "https://www.metro.tokyo.lg.jp/information/press/2025/06/2025062501",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
+    "https://www.tsr-net.co.jp/data/detail/1200987_1527.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 受注残 人手不足",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&cycle=7&toukei=00553010&tstat=000001019842&tclass1=000001156334&tclass2=000001156335&tclass3val=0",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180875/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 人手不足 損失 億円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://ab.jcci.or.jp/article/97662/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120）",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/",
+    "https://office-kitahama.jp/wp-content/themes/minnakaikei/assets/images/pdf/kessanbunseki02.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000359.pdf",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 推移",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180875/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://ab.jcci.or.jp/article/97662/",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 統計 PDF",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001132003&tclass2=000001132004&tclass3val=0",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180792/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000414.pdf",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://ab.jcci.or.jp/article/111581/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.e-stat.go.jp/statistics/00553010"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 従業者規模別",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00553010&tstat=000001019842&cycle=7&tclass1=000001220040&tclass2=000001220041&tclass3val=0",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.jfc.go.jp/n/findings/shihyou_kekka_m_index.html",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 1人当たり 万円",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://keiridriven.mjs.co.jp/180619/",
+    "https://www.e-stat.go.jp/dbview?sid=0003317769",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://shindanshi-nagitatsublog.com/hitori-atari-uriagedaka/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://jsite.mhlw.go.jp/saitama-roudoukyoku/content/contents/002336555.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） 2015 2025",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://www.jfc.go.jp/n/findings/shihyou_kekka_m_index.html",
+    "https://catalog.data.metro.tokyo.lg.jp/dataset/t000012d0000000076",
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SME basic survey fabricated metal products sales by employee size Japan Japan statistics",
+   "results": [
+    "https://www.jetro.go.jp/ext_images/en/news/releases/2025/30059aa3effdfc56/2024_N_America.pdf",
+    "https://www.kenresearch.com/japan-metal-fabrication-equipment-market",
+    "https://www.statista.com/topics/13258/metals-industry-in-japan/?srsltid=AYCX9vKn7t9yvQiKxttQoH2cshnIT7EmETF5oTTOeKNWBQRHpvteSuU1",
+    "https://www.meti.go.jp/english/statistics/tyo/seidou/index.html",
+    "https://www.saudijournals.com/media/articles/SJBMS-24A357-374.pdf",
+    "https://www.pecc.org/resources/labor/1337-human-capacity-building-in-smes-japanese-experiences-and-regional-challenges/file",
+    "https://www.ibisworld.com/united-states/market-size/fabricated-structural-metal-manufacturing/5967/",
+    "https://www.jbic.go.jp/en/image/202503_spot.pdf",
+    "https://www.adb.org/sites/default/files/publication/156024/adbi-wp169.pdf",
+    "https://www.stat.go.jp/english/data/nenkan/74nenkan/1431-07.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120）",
+   "results": [
+    "https://note.com/yajirushi_works/n/n8a5d075da360",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/rm_sasaki/n/na05c092af6d1",
+    "https://note.com/rm_sasaki/n/n04dc29e7ac34",
+    "https://note.com/fir_institute/n/nc0e0463b065d",
+    "https://note.com/sabaithailang/n/nfe6bc4fd6f7a",
+    "https://note.com/rm_sasaki/n/n4a2de66159ad",
+    "https://note.com/rm_sasaki/n/n365be2dabec0",
+    "https://note.com/deep_think_ai/n/nea4a83f6b3ee",
+    "https://note.com/chic_deer1160/n/ne6a10c2ab7ed"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120）",
+   "results": [
+    "https://x.com/luigi_jpn/article/2089684200245100653",
+    "https://x.com/luigi_jpn/status/2096029427725685078",
+    "https://x.com/luigi_jpn/status/2050759470628868126",
+    "https://x.com/fujikawa/status/2114120817219170437",
+    "https://x.com/heatdesuyo",
+    "https://x.com/Auralee_Aube",
+    "https://x.com/isyokenmei/status/1905515817355329587",
+    "https://x.com/keiridriven/status/2039513111313756336",
+    "https://x.com/meti_chusho",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com 中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120）",
+   "results": [
+    "https://jp.linkedin.com/posts/清悟-中村-6952563ba_従業員38人で売上73億円の衝撃世界初製造aiで常識を覆す金沢の町工場の-activity-7497826220953202689-j7r4",
+    "https://jp.linkedin.com/posts/masayoshi-ogawa1980_日本の製造業は本業以外で儲けてるって本当-企業規模別の営業外収益費用損益-activity-7443388930839945216-QVdF",
+    "https://www.linkedin.com/pulse/金属加工製品市場現在および将来の成長傾向の分析-2031年-competitive-intelligence-market-fkwbf/",
+    "https://www.linkedin.com/pulse/shien-売上6兆円毎日2700新製品but-廃棄率業界15sdgs対策も上場申請資料を読み解く-kazuhiro-obara-ap95c/",
+    "https://jp.linkedin.com/pulse/小規模企業振興基本計画第期を読み解く日本の小規模事業者に向けた新たな5年の方針-城-石山-5k55c",
+    "https://jp.linkedin.com/posts/sparticle-inc_企業分析-経営戦略-人事戦略-activity-7431503067034071040-t8HQ",
+    "https://jp.linkedin.com/in/泰代-半田-b55896275"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120）",
+   "results": [
+    "https://www.facebook.com/ashiba.esmile/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） note 社長",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://keiridriven.mjs.co.jp/180875/",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://ab.jcci.or.jp/article/97662/",
+    "https://officenomikata.jp/coverage/16188/",
+    "https://note.com/kens_reading1/n/naf3bb307f52d"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120） X 投稿",
+   "results": [
+    "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
+    "https://www.henmi-adm.jp/news/3775.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
+    "https://www.htok.ne.jp/statisticaldata/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%AE%9F%E6%85%8B%E5%9F%BA%E6%9C%AC%E8%AA%BF%E6%9F%BB%EF%BC%88%E4%BB%A4%E5%92%8C3%E5%B9%B4%E5%BA%A6%E6%B1%BA%E7%AE%97%E5%AE%9F%E7%B8%BE/",
+    "https://keiridriven.mjs.co.jp/180374/",
+    "https://j-net21.smrj.go.jp/news/j84vtt000000sd8n.html",
+    "https://ab.jcci.or.jp/article/97662/",
+    "https://www.rieti.go.jp/jp/events/bbl/25051401_okada.pdf",
+    "https://www.yamada-partners.jp/tax-topics/r040411",
+    "https://www.e-stat.go.jp/stat-search/database?stat_infid=000031738516&layout=datalist&statdisp_id=0003317772"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SME basic survey fabricated metal products sales by employee size Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/merrill-iron-&-steel-inc-",
+    "https://www.linkedin.com/company/fabricators-&-manufacturers-association-int'l-fma-",
+    "https://www.linkedin.com/pulse/sme-test-benchmark-2024-new-eu-legislation-adequately-sme-proofed-3wgbf",
+    "https://www.linkedin.com/in/matthewgarbarino",
+    "https://www.linkedin.com/in/mbentz1",
+    "https://www.linkedin.com/in/rileyheady",
+    "https://www.linkedin.com/in/klotzdavid",
+    "https://www.linkedin.com/in/willhealyiii",
+    "https://uk.linkedin.com/company/brookhouseaero",
+    "https://www.linkedin.com/posts/mike-bell-cfa_this-mornings-october-pmi-business-surveys-activity-7391058502770663425-jYLi"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "人手と仕事の差": "記載なし（読んだ50頁・検索18回）"
+ }
+}

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・273品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・276品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3515,6 +3515,9 @@
 ## 官報・電子公告の決算公告で中小の財務を読む実務（探し方・単位・公告が無い理由）（reading Japanese public financial notices kanpo SME balance sheet units）
 - 文脈：一次情報の探し方
 - 手順・やり方：
+  - 「官報に決算公告を載せるのはなぜ？会社法440条が定める3つの目的・歴史的背景・費用約7万5千円の実態と、電子公告への移行手順をわかりやすく解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「一般社団法人に決算公告は必要？義務の根拠・方法・罰則を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
+  - 「決算公告とは？義務・罰則・3つの公告方法を基礎からわかりやすく解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「官報に掲載された非上場会社の決算公告を調べる方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「電子公告への移行手続き完全ガイド｜官報から切り替える4ステップと費用・期間」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
@@ -3527,10 +3530,8 @@
   - 「大会社の貸借対照表要旨の記載方法は、基本的に非大会社と同じですが、公開会社・非公開会社の区分に応じて追加記載が求められる科目があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「公告を閲覧するためのステップについては、」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「枠数と費用の詳しい計算方法については、」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「合法的に行数を削減する主な方法は以下のとおりです」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「方法1：金額の表示単位を大きくする」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
-  - 「方法2：0円科目の省略を徹底する」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 突き合わせ・推定：
+  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -3545,7 +3546,6 @@
   - 「期の区切りは前後の期末からの推定で、欠落した期を詰めずに軸上に空きを残して描きます」（https://kaijiwire.jp/guide/kessan-kokoku）
   - 「国税庁の法人番号と照合済みの企業は法人番号も併記されます」（https://kanpou.ai/guide/kessan-kokoku）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
 - 一次情報の探し方：
   - 「官報の決算公告記載例を完全解説｜実際の紙面フォーマットと各科目の読み方 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「官報の決算公告記載例を完全解説｜実際の紙面フォーマットと各科目の読み方」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
@@ -3563,6 +3563,7 @@
   - 「Q4. 官報決算公告に前期比較の数値を載せることはできますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「Q5. 官報の記載例として、特定の会社の実際の掲載内容を参考にすることはできますか？」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 失敗・落とし穴：
+  - 「料金目安・貸借対照表の自動連携・大会社の注意点・マネーフォワードとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「「資産合計」は三区分の合計で、「負債及び純資産合計」と一致しなければなりません（一致しない場合は記載誤りです）」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
@@ -3577,8 +3578,8 @@
   - 「代表取締役の変更で決算公告はどうなる？必要な対応と注意点を会社法から解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の電子公告は何年間掲載？5年ルールと実務の注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「有限会社に決算公告の義務はある？特例有限会社の扱いと注意点を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 - 実例：
+  - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「つまり、義務はあるのに実際に掲載しているケースがごく少数という現実があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「電子公告に切り替えることで、官報掲載費用（2枠で約73,000円/年）を年間数百円〜数千円程度に削減できるケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
@@ -3593,7 +3594,6 @@
   - 「決算公告ニュース:9/7〜9/13は社債権者集会の規律解説、官報決算公告の実例2件、上場企業の決算期変更など会社法関連の話題が目立ちました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
   - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
   - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-mikata-guide/）
-  - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-kanpou-etsuran/）
 
 ## 日本銀行・RIETI の生産性の計測と分解（1人あたりと時間あたり・内側の改善と構成の変化・参入退出）（productivity decomposition within between entry exit Melitz Polanec Japan establishment data）
 - 文脈：突き合わせ・推定
@@ -5458,38 +5458,44 @@
 ## 公的統計の改訂の分析（版の三角表・平均改訂と平均絶対改訂・片寄りの検定）（official statistics revision analysis vintages real-time data revision triangle）
 - 文脈：統計の版
 - 手順・やり方：
-  - 「その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「つまり、日本では、中央レベルでは分散型の統計機構」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「集中型機構ともいえる＊2」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「一性を図るため、調査方法、分類基準、定義などについての調査を実施している」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「データベースは、共通の計測方法の下での国際比較が可能となっている」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「しているが、各物価指数が共通の方法で計測されているわけではない」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「常に有機的な活用方法を想定して統計を整備しているかどうか、という点である」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「performed in a second step.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• Producers use revision studies to identify particul ar methods that could be improved or」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「because of the introduction of new methodologies, concepts, classifications, etc.;」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「This general policy will also describe reasons for data revisions, how to manage scheduled」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「acts, new definitions, adoption of new sources, new methods of estimation, innovation, etc), they」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「simultaneously in a single revision (current revision policy). This method tries to avoid unsettling」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「accounts. A consistent and coherent framework for a ll statistics, which produces data always in」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「methodological improvements. This should be conside red as good practice as it avoids revisions」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「on the total revisions of the time series and infor m the users. However, a change in the method」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「elements: the pre-announcing strategy, how to commu nicate in advance information on causes」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「methodological change is of major relevance for a c ountry, leading to more accurate figures, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「country could introduce the methodological change a s soon as possible provided that the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「announced and synchronised. Methodological revisions, which foster accuracy of important」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「coordinated. Methodological revisions, which foster accuracy of important indicators mentioned」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「between different domains. Methodological revisions at a country level, which foster accuracy of」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
 - 突き合わせ・推定：
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• Estimates that are not subject to revision could wr ongly be considered more accurate and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• If estimates are affected by sampling or non sampli ng errors, revision analysis can not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「definitively demonstrate the accuracy of initial estimates.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「process (e.g. estimated values for missing response s are replaced by reported figures). Normally,」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Hence, missing values have to be estimated. Since t he estimated values normally do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「assess the new time series. The documentation shall detail the reasons for the revisions, estimate」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「estimated it is important to include information of these methods changes as it has direct impact」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「impact of revisions on their estimates and models ( e.g. business cycle analysis and forecasts).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「between the first release (a flash estimate) and th e second release (a first estimate). This」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「quality of provisional estimates or flash estimates has to be assessed」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「推計期間 1970、1973-2003年 1960-1995年」（https://nira.or.jp/pdf/0803report.pdf）
   - 「実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成」（https://nira.or.jp/pdf/0803report.pdf）
   - 「推計期間 1970-2002年 1960-1992年」（https://nira.or.jp/pdf/0803report.pdf）
   - 「推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「推計期間 1970-2002年 1955-92年」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「『昭和45年国富調査』より推計」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「在まで 2つのヴァージョンがあり、データベースの延長推計を行っている」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「情報サービス産業の動向や受注ソフトウエア投資の推計は、」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「（1） 2002年推計見直しから積み残された“宿題”」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「GDP速報は2002年 8月に推計方法の抜本的な見直しを行った」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「ているため、推計方法の見直しは確報との整合性も高めると考えられた」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「現行推計では、供給」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった」（https://nira.or.jp/pdf/0803report.pdf）
 - 一次情報の探し方：
+  - 「inflow of new data extracted from primary sources w ith vintages identification procedures. It」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「databases usually cover only subsets of variables available in primary sources (key indicators), on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Analysis for Sub-Annual Economic Statistics (http://www.oecd.org/dataoecd/44/39/40309491.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「(http://www.oecd.org/dataoecd/44/37/40309451.pdf).」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「http://www.statistics.gov.uk/about/national_statistics/cop/downloads/revisions.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• ESS Code of Practice; http://epp.eurostat.ec.europa.eu/portal/page/portal/quality/documents/EN.pdf」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている」（https://nira.or.jp/pdf/0803report.pdf）
   - 「現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する」（https://nira.or.jp/pdf/0803report.pdf）
   - 「こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ」（https://nira.or.jp/pdf/0803report.pdf）
@@ -5499,13 +5505,10 @@
   - 「われわれは、統計利用者の立場から、現在の統計の諸」（https://nira.or.jp/pdf/0803report.pdf）
   - 「問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ」（https://nira.or.jp/pdf/0803report.pdf）
   - 「1. 統計の役割と最近の統計制度見直しの経緯」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「(1) 統計の目的」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計」（https://nira.or.jp/pdf/0803report.pdf）
 - 失敗・落とし穴：
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「communication of the mistake should be frank and th e revised data should be published at the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Bias or unusual behaviour in the revision process of preliminary data might reveal some problems」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
   - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/pdf/0803report.pdf）
   - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/pdf/0803report.pdf）
   - 「これら低回収率がもたらすバイアスならびにその補正については」（https://nira.or.jp/pdf/0803report.pdf）
@@ -5518,25 +5521,22 @@
   - 「Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?」（https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html）
   - 「Some revisions correct mistakes. Many do not.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
   - 「Examples include a coding mistake, duplicate source records, a corrupted transformation, incorrect seasonal factors or an error reported by a data provider.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「Bias in revisions can reveal a systematic early-estimate problem」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「A fictional worked example of revision bias」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
-  - 「scale changes are mistaken for economic change.」（https://edukatesingapore.com/2026/09/05/how-statistical-revisions-data-vintages-and-benchmark-updates-work/）
 - 実例：
-  - 「や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「アンケートの結果から日本の統計の問題点が浮き彫りになった」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「図表 1 景気動向指標としての統計調査の評価結果」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「図表 2 構造把握指標としての統計調査の評価結果」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「例えば米国商務省の Bureau of Labor Statisticsでは、労働生」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「ただこうした研究でも、企業行動が市場構造に影響されるケース」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「複数の異業種をかかえる事例が増える可能性がある」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』」（https://nira.or.jp/pdf/0803report.pdf）
-  - 「な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２」（https://nira.or.jp/pdf/0803report.pdf）
+  - 「the missing values are estimated. Since it is gener ally the case that the estimated values do not」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「and "practice to be avoided", following the success ful example of the ESS guidelines on seasonal」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「for users. More details, practical examples and ref erences are included in the ESS handbook on」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「in line with relevant improvements in the productio n process. This could be the case when」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「Some examples are the adoption of a new classificat ion or changes in international」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「In case of an update of the weights of an index series, the new index using updated weights is」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「revisions and to limit them to the case of importan t errors. When significant mistakes occur, the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「be removed whenever necessary. In this case, the re ason for the removal should be posted. When」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「example, the magnitude of the correction could be c ompared to the magnitude of expected」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「In the case of significant errors detected with del ay (referring to past or sometimes even far past」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「relevant figures, released as soon as possible with a pre-announcement. In the case of past errors」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「possible. In case of significant errors affecting past data a decision is taken based upon the」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「should be mentioned. A draft example of a harmonised template is presented in annex.」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「similar economic conditions – for example for compa rable phases of business cycle, seasonal and」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
+  - 「• Finally, it is possible to focus on the diagonals l ooking for example to the differences」（https://circabc.europa.eu/sd/a/37d2ae19-d15f-4cff-8b8b-14f39bca7fac/ESS+guidelines+on+revision+policy.pdf）
 
 ## 出典の三角測量の表（主張×出典の行列・独立性の判定・一致と食い違いの採点）（source triangulation matrix independence scoring）
 - 文脈：裏取り
@@ -11906,6 +11906,11 @@
 ## 決算公告の貸借対照表を内訳の合計と資産合計で照合して読む実務と、株式会社以外の法人（医療法人・協同組合・社団）の決算の科目の違い（開示ワイヤー 決算公告ガイドの書き手）（reading Japanese statutory balance sheet notices verify totals non-stock corporations accounts）
 - 文脈：手法
 - 手順・やり方：
+  - 「官報への決算公告申し込み方法｜15営業日前の締切と費用を解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「15営業日前の締切、1行3,589円の費用計算、必要書類の準備から掲載確認まで実務担当者向けに手順をわかりやすく説明します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
+  - 「一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告のうち司法書士に依頼できるのは主に公告方法の変更登記（代理申請20,000〜40,000円）です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -11916,11 +11921,6 @@
   - 「それぞれの方法にはメリットとデメリットが存在し、適切な選択が求められます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「作成手順（5ステップ）」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「3つの公告方法別｜費用・手間・掲載期間を比較」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「Q7. 官報での決算公告の申込み手順を教えてください」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ここからは、実際に貸借対照表の要旨を作成するための具体的な手順を解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「貸借対照表の要旨は、以下の5ステップで作成できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ1: 自社の会社分類を確認する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
-  - 「ステップ2: 決算書から必須科目の金額を転記する」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
 - 突き合わせ・推定：
   - 「「遅滞なく」の実務解釈、申込スケジュール逆算、決算期別タイムラインを完全解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 一次情報の探し方：
@@ -11952,6 +11952,7 @@
   - 「この「付記」は省略できない必須事項であり、見落としがちな点ですので注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
   - 「決算公告を電子公告に変更する定款変更の手順｜費用・書類・注意点まとめ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-kisairei/）
 - 実例：
+  - 「スターバックスの決算公告はなぜ官報にないのか｜2004年から続くWeb開示の実例」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
@@ -11966,7 +11967,6 @@
   - 「近年はコンプライアンス意識の高まりから、取引先や金融機関が決算公告の実施を確認するケースも増えています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-bs-summary/）
   - 「P/L全体は見えなくても、最終的な収益性の結果は確認できる仕組みになっています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
   - 「特に中小企業同士のビジネスでは、取引先が決算書を開示しないケースが多く、官報公告が唯一の財務情報源になることもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
-  - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-mikata/）
 
 ## 検索の記録を再現できる形で残す実務（PRISMA-S：データベースと入口のプラットフォームを分ける・絞り込みと件数・灰色文献・検索エンジンの個人化の偏り）（PRISMA-S reporting literature search platform database limits grey literature personalization bias reproducible）
 - 文脈：手法
@@ -14689,11 +14689,13 @@
 
 ## 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）（employee count definitions Japan tax valuation pension insured statistics comparison）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ20頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
-- 実例：記載なし（読んだ20頁・検索12回）
+- 検索結果の抜粋：
+  - 「従業員の範囲 - 国税庁会社規模判定要素 従業員数 - 輸出入・越境EC・消費税還付に強い税理...【新設】（従業者の範囲）｜国税庁労務・社会保険、従業員数の数え方にご注意を！｜アセント社労士事務...会社規模の判定基準・非上場株式の評価とは？従業員数や業種・総資産...事業所・企業統計調査及び経済センサスにおける従業者区分 — 財産評価基本通達178（取引相場のない株式の評価上の区分）による会社規模区分の判定において、次の者については、いずれの会社の従業員としてカウントするのでしょうか。 出向中の者 人材派遣会社より派遣されている者 See full list on nta.go.jp 雇用関係や勤務実態を確認して判定します。 (理由) 1 出向中の者 従業員数基準における従業員とは、原則として、評価会社との雇用契約に基づき使用される個人で賃金が支払われる者をいいますから、例えば、出向元」（https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm）
+- 手順・やり方：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 実例：記載なし（読んだ14頁・検索12回）
 
 ## 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）（Mauboussin base rate book PDF sales growth distribution reference class forecasting Flyvbjerg shrinkage）
 - 文脈：推定
@@ -15183,6 +15185,152 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 - 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 - 実例：記載なし（読んだ30頁・検索12回）
+
+## 国・業種をまたいだ生産性の水準の比べ方（業種の元の単価・照合できた割合・裾切りと従業者の定義をそろえる・Groningen の ICOP の手引き・4-120）（industry of origin productivity level comparison unit value ratio coverage ICOP methodology）
+- 文脈：推定
+- 手順・やり方：
+  - 「3. 研究方法とデータ」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「「人月の神話型請負」と呼ばれる、人月による見積もりを前提とした硬直的な請負契約が、柔軟な改善や効率化を阻害」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「品質管理手法、プロセス改善技術、デジタル化推進方法論」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「高橋（2024）「IT人材不足79万人の真因：生産性向上を阻む『人月の神話型請負』」Findy Tech Blog, https://tech.findy.co.jp/entry/2024/11/15/070000」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「2024 年 6 月、 「経済財政運営と改革の基本方針2024 ～賃上げと投資がけん引する成長型」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「V ol.13（滝澤（2020））の計測方法をもとに、各国の産業別労働生産性水準の計測が可能な最」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「次に、労働生産性の計測方法を示す」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「労働生産性の定義や計算方法については、下記のリンクページでより詳細に解説しています」（https://plus.nbc-consul.co.jp/blog/labour-productivity-japan）
+  - 「日本の労働生産性が低い理由｜現状と向上させる方法も紹介」（https://plus.nbc-consul.co.jp/blog/labour-productivity-japan）
+  - 「採用面接で、応募者の中から「自社に合った人をどう見極めるか？」について、実践的な方法や企業が考えておかなければならないポイントを解説します」（https://apj.aidem.co.jp/current/detail/5282.html）
+  - 「「桑山さん、元芸人なんですから、ウケる話し方のコツを教えてくださいよ」講演会の懇親会で、ほぼ必ずいただくリクエストです」（https://apj.aidem.co.jp/current/detail/5282.html）
+  - 「presents the background information on data sources and methodologies used for the KILM」（https://www.ilo.org/media/305836/download）
+  - 「This paper presents background information on data sources and methodologies on」（https://www.ilo.org/media/305836/download）
+  - 「which are calculated according to a common conceptual framework, the System of National」（https://www.ilo.org/media/305836/download）
+  - 「provide employment estimates within the national accounts framework. For most countries」（https://www.ilo.org/media/305836/download）
+- 突き合わせ・推定：
+  - 「本研究は、日本生産性本部が2024年12月に公表した「産業別労働生産性水準の国際比較2024」の最新データ（2020年基準）を用いて、日本の産業別労働生産性の実態を詳細に分析し、従来の「日本の生産性は一律に低い」という通説に対する実証的検証を行った」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「業種別の詳細分析を行い、「日本の生産性は一律に低い」という通説を実証的に検証する」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「構造的要因に対する具体的な政策介入効果の検証」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「. These estimates make use of ICOP's unit value ratios, but - in contrast to the estimates presented here - output and employment are directly taken from national accounts of individual countries instead of from industrial surveys and manufacturing censuses.」（https://www.rug.nl/ggdc/productivity/pr-projects/icop?lang=en）
+  - 「measures. Some discussion focussed on the data estimates for the 31 countries included in the」（https://www.ilo.org/media/305836/download）
+  - 「estimates include 31 countries for the total economy (see Table 1) and 23 countries for」（https://www.ilo.org/media/305836/download）
+  - 「based estimates of labour productivity are obtained on the basis of purchasing power parities」（https://www.ilo.org/media/305836/download）
+  - 「with the estimates of purchasing power parities and unit value ratios.」（https://www.ilo.org/media/305836/download）
+  - 「3 In a limited number of cases the GGDC database also provides estimates of capital stock. The GGDC database is」（https://www.ilo.org/media/305836/download）
+  - 「can differ substantially, and the effect on GDP estimates can be as much as 15 to 20 per cent.」（https://www.ilo.org/media/305836/download）
+  - 「The estimates in this paper are still based on guidelines laid down in the old United」（https://www.ilo.org/media/305836/download）
+  - 「also to annual working hours. Estimates of employment are for the average number of persons」（https://www.ilo.org/media/305836/download）
+  - 「provide employment estimates within the national accounts framework. For most countries」（https://www.ilo.org/media/305836/download）
+  - 「employment estimates are derived from labour force or population surveys. Using these」（https://www.ilo.org/media/305836/download）
+  - 「Comprehensive estimates of annual working hours are difficult to obtain and their」（https://www.ilo.org/media/305836/download）
+- 一次情報の探し方：
+  - 「マクロ経済統計の平均値による議論は、産業別の詳細な実態を覆い隠し、競争優位分野の可能性を過小評価するとともに、課題分野への適切な政策介入を困難にする」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「AI時代の採用面接メソッド〜フリートーク面接からの転換〜（曽和利光）」（https://apj.aidem.co.jp/current/detail/5282.html）
+  - 「アイデム人と仕事研究所 - 人材の採用・育成・活用・定着に資する情報を提供」（https://apj.aidem.co.jp/current/detail/5282.html）
+  - 「採用面接で、応募者の中から「自社に合った人をどう見極めるか？」について、実践的な方法や企業が考えておかなければならないポイントを解説します」（https://apj.aidem.co.jp/current/detail/5282.html）
+  - 「information are derived from the same primary source. However, production censuses and industrial surveys often」（https://www.ilo.org/media/305836/download）
+  - 「primary source. For manufacturing the best source is the national census」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+- 失敗・落とし穴：
+  - 「ータの出典とデータの作成基準及び産業分類が異なるため、単純には比較できない点に注意」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「滝澤 （2016、2018、2020） などでも繰り返し注意喚起されてきた通り、 産」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「業別生産性の絶対水準を国際比較する際には十分な注意が必要である」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「to considerable biases. First, expenditure-based PPPs include prices of」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「high distribution margins in Japan and therefore to a substantial bias in」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「systematic bias in our UVRs across industries. 1 In branches that in-」（https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf）
+  - 「processes of factor substitution, skill-biases in technological change, etc. In addition, the dataset,」（https://www.conference-board.org/pdf_free/eco_klems_report.pdf）
+- 実例：
+  - 「分析の結果、」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「2023年12月に日本生産性本部から発表された「労働生産性の国際比較2023」によると、OECD データに基づく2022年の日本の時間当たり労働生産性は52.3ドルでOECD加盟38カ国中30位という結果が示されている*1」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「4. 分析結果」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「図2の日独比較では、対米比較とは大きく異なる結果が得られた」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「一方、サービス産業全体では65.9%と、米国との比較よりは格差が小さいものの、依然として課題が残る結果となっている」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「2000年から2021年にかけての生産性上昇率がマイナス0.1%という深刻な結果は、この構造的問題の深刻さを物語っている*5」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「この事実を無視した政策論議は、日本の強みを活かす機会を逸する結果となりかねない」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「分析結果は、全業種一律の支援策ではなく、業種別の特性を考慮した差別化アプローチの重要性を示している」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「本研究の結果は、Baumol（1967）の費用病理論だけでは説明できない、産業固有の制度的・文化的要因の重要性を示している」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「分析の結果、以下の主要な知見が得られた：」（https://note.com/btobmarketing/n/n7bb1cd09fab1）
+  - 「結果として消費者態度指数 （消費者マインド）も 50 を下回る状態が続いている」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「新年（2020 年）までデータを更新し、その計測結果を踏まえて、米国に加えて他の先進諸国」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「図１から、 今回の試算結果において日本の労働生産性が米国の労働生産性を超えている」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「図２は、5 年遡った 2015 年時点のデータを用いて同様の試算結果を描画したものである」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+  - 「今回新たな計測結果からも、サービス産業を中心とする非製造業の生産性につい」（https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf）
+
+## 調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120）（CJR The Audit reporting estimates private company numbers attribution）
+- 文脈：裏取り
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）（Monthly Labour Survey Japan sample rotation benchmark revision gap）
+- 文脈：統計の版
+- 手順・やり方：
+  - 「私が考える対応方法は、2023年の各月の指数の実績値に、公表される前年同月比を掛け合わせることで2024年の各月の指数を延長することです」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「見込まれるものの、それでも発生するギャップに対応した指数の作成方法については、本統計の意図しているもの」（https://www.soumu.go.jp/main_content/000576510.pdf）
+  - 「 ワーキンググループでは、各種統計調査の接続方法に係る『望ましい方法』として次の通り結論付けた」（https://www.soumu.go.jp/main_content/000576510.pdf）
+  - 「『特性に応じた対応が望ましい方法』として次のとおり取りまとめた」（https://www.soumu.go.jp/main_content/000576510.pdf）
+  - 「 サンプル替えの影響に係る計測方法についても併せて検討したが、短期間では結論を出すことができなかった」（https://www.soumu.go.jp/main_content/000576510.pdf）
+  - 「じめ定められている支給条件、算定方法によって支給される給与のこと」（https://www.soumu.go.jp/main_content/000576510.pdf）
+  - 「）のうち、資料八−五における「ベンチマーク更新」について、これは、二〇一八年一月から適用されていますが、その適用に伴い、第百二十六回統計委員会参考一として配布された第百二十五回統計委員会での「『毎月勤労統計』の接続方法及び情報提供に係る統計委員会の評価」（以下、「統計委員会の評価」という」（https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm）
+  - 「九 「雇用者報酬推計における「毎月勤労統計調査」データの調整方法について」（二〇一八年十月三十一日、内閣府経済社会総合研究所国民経済計算部）によれば、「二〇一七年十二月以前の毎勤の賃金データに対してギャップの要因に応じた調整を施した上で、推計に利用する」とされていますが、内閣府はなぜこのような対応をしたのですか」（https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm）
+  - 「）の、第五回検討会で示された、「毎月勤労統計のサンプル入れ替え方法とギャップの補正方法の今後の方向」では、「ベンチマークの更新によるギャップは従来の三角修正をそれぞれ適用することとするが、過去の増減率については再計算せず変更しない方式が望ましいと考えられる」（https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm）
+  - 「一方、「統計委員会の評価」では、「今回の断層には、�D標本交替による断層に加えて、�B基準改定・ウエイト更新・計算方法の変更に伴う断層も含まれている」（https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm）
+  - 「しかし「統計委員会の評価」における「�B基準改定・ウエイト更新・計算方法の変更に伴う断層」は、［母集団情報の変更に伴う更新］に該当するものであり、それならば「断層を解消する」と結論付けられており、「統計委員会の評価」には事実誤認がありませんか」（https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm）
+  - 「統計の作成方法を見直し、ベンチマーク更新やサンプル入れ替えによる断層を同一基準で調整した上で、過去に遡ってデータを改定すべきである」（https://www.nli-research.co.jp/report/detail/id=80142?site=nli）
+- 突き合わせ・推定：
+  - 「一番上の2024年１月の速報値では、資料で公表されている前年比と、当年と前年同月の指数の割り算で算出される前年比が一致しています」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「今回のベンチマーク更新では、「2021年経済センサスー活動調査」に基づいて推計された母集団が用いられています」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「５年経てば、産業・規模別の労働者の比率が変わっているのは無理もなく（もちろん、この間、変化を推計していますが）、結果として、日本全体の賃金、労働時間の集計結果が変わるのは当然でしょう」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「数を更新し、実績と推計の乖離を是正 している」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「④推計比率(Ｒ)を用いて、」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「• 毎月勤労統計調査は、産業・規模別に調査事業所の前月末労働者数の合計と母集団労働者数との比率（推計」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「比率）を用いて集計を行っている（前月末労働者数＝母集団労働者数となるように調査した数値に推計比率」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「このため、母集団労働者数を適切に設定することが賃金・労働時間を適切に推計するため」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「労統計調査の労働者数の増減等により本月末労働者数を推計し、翌月の母集団労働者数とする推計方式（リ」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「• 上記のとおり、母集団労働者数は、毎月推計により更新していくため、年月がたつにつれて、推計と実績と」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「採用時期 バージョン モデル推計に使用する期間 先行き予測期間 後戻り予測期間 季節指数を求める期間 始期又は期間の固定の別」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「母集団労働者数 平成28年経済センサス－活動調査等に基づき推計した母集団労働者数 令和３ 年経済センサス－活動調査に基づき推計（ベンチマーク更新）した母集団労働者数を使用」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「平成23年12月分までの「時系列比較のための推計値」から作成した母集団労働者数と整合するよう再推計して指数を作成してるため、Ｇ３はこの再推計した結果から算定する」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「これを基に令和５年各月の集計調査票データ及び雇用保険データを用いて各月の労働者数を推計し、その労働者数を前提に再計算する」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+- 一次情報の探し方：
+  - 「2024年以降の指数を使ってはダメ‼～毎月勤労統計調査｜飯塚 信夫」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「2024年以降の指数を使ってはダメ‼～毎月勤労統計調査」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「毎月のように「毎月勤労統計調査」（厚生労働省）の速報値の動向を書かせていただいているのに、「こんな変なことが起きてるんかい」と今頃気が付きました」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「経済分析などで「毎月勤労統計調査」の賃金、労働時間関連の指数を使う際は、2024年１月以降の値は使ってはいけないというのが結論です」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「毎月勤労統計で調査・公表されている賃金、労働時間、労働者数のそれぞれ代表的な指数などを、厚生労働省の各時点の公表資料（概況と呼ばれます）から転記したものです」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「ただし、毎月勤労統計調査で最も注目されるのは賃金です」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「毎月勤労統計調査における賃金や労働時間は、産業・規模別の一人平均の賃金・労働時間を、その産業（規模別で）が日本全体に占める比率を用いて積み上げることで算出されています」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「そもそも、毎月勤労統計の各公表時点での実績値は、現金給与総額の金額、総労働時間の時間数、常用雇用の人数などです」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「例えば、２月速報の毎月勤労統計の「概況」のトップページには以下の表が出ています」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「以上より、今回の厚生労働省の毎月勤労統計調査担当の対応には問題があると私は考えます」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「統計委員会は一体何をやっているのですかね？」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「（統計・情報システム管理、労使関係担当）」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「毎月勤労統計調査におけるベンチマーク更新等」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「１．毎月勤労統計調査の概要」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+- 失敗・落とし穴：
+  - 「2024年以降の指数を使ってはダメ‼～毎月勤労統計調査｜飯塚 信夫」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「2024年以降の指数を使ってはダメ‼～毎月勤労統計調査」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「○ 賃上げや季節性の要因等もあるが、毎月勤労統計調査は、サンプルを継続的に調査していることから、生存者バイアス」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf）
+  - 「すなわち、毎月勤労統計の賃金において、「生存者バイアス」が一定程度存在することを示している」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf）
+- 実例：
+  - 「現時点で最新の結果である2024年2月の速報値でも同様です」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「この比率は、「経済センサス」など全企業（母集団）を対象に行う調査の結果などが用いられています」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「５年経てば、産業・規模別の労働者の比率が変わっているのは無理もなく（もちろん、この間、変化を推計していますが）、結果として、日本全体の賃金、労働時間の集計結果が変わるのは当然でしょう」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「例えば、２月速報の毎月勤労統計の「概況」のトップページには以下の表が出ています」（https://note.com/todobuono/n/n74c5a63bfea5）
+  - 「○ このため、地方調査の都道府県結果の平均をとっても、全国調査の全国平均とはならない」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「• 母集団労働者数は、事業所の全数調査である「経済センサス－基礎調査」等の結果を用いて設定し、毎月勤」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「結果を労働者数のベンチマーク（水準点）として、毎月勤労統計調査の集計に用いる母集団労働者数の実績」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「は選択結果 X-11パートのオプションの選択基準又は選択結果 頻度 時期」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「【令和６年１月分調査結果の速報と確報の集計方式の違いの概要】」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「令和６年１月分結果速報 令和６年１月分結果確報」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「令和４年12 月分までの結果から計算し」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「令和５年１～12 月分の結果を含めて計」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「平成23年12月分までの「時系列比較のための推計値」から作成した母集団労働者数と整合するよう再推計して指数を作成してるため、Ｇ３はこの再推計した結果から算定する」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
+  - 「○ 「毎月勤労統計調査の改善に関するワーキンググループ」における検討結果を踏まえ、ベンチマーク更新時の賃金、労働時間」（https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

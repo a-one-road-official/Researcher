@@ -5,6 +5,9 @@
 ## 人型ロボット（humanoid robot）
 - 文脈：1 AI・半導体 ①フィジカルAI
 - 痛み・損（深さの印）：
+  - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に｜ニュース｜TOKYO MX」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「東京商工リサーチによりますと、人手不足によって倒産した企業は2025年度には442件となり、過去最多を記録しました」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
   - 「物流では、人手不足を理由とする倒産も増えている」（https://ex.ipros.jp/article/insight/humanoid-robot/）
   - 「（2026年8月28日一部変更）は、物流を、労働の負荷や時間の面で厳しい環境にある労働集約型の産業の一つとし、人手不足による倒産が2025年に52件と過去最多で、全業界で2番目に多かったと記しています」（https://ex.ipros.jp/article/insight/humanoid-robot/）
   - 「Amid advances in AI technology and a worsening labor shortage, development and demonstration efforts」（https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf）
@@ -17,25 +20,22 @@
   - 「While labor shortages grow ever more severe, every existing environment has been designed around the human body. Humanoids—with their human form—can be deployed just like people, without changing environments or workflows.」（https://ai-robotics.gmo/en/）
   - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に｜TOKYO MX+（プラス）」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
   - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
-  - 「東京商工リサーチによりますと、人手不足によって倒産した企業は2025年度には442件となり、過去最多を記録しました」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
-  - 「給与そのものに加えて、社会保険料、採用費、教育費、離職対応、派遣・請負費用なども含めると、人手に依存する工程の維持コストは大きくなります」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
-  - 「特に、離職率が高い工程では、採用してもすぐに教育が必要になり、習熟する前に退職してしまうこともあります」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
 - 顧客（金を払う側）：
+  - 「宇樹科技（Unitree）や智元機器人（Agibot）、優必選（UBTECH）のような業界大手だけでなく、自動車メーカーやネット大手、家電大手などが資金やサプライチェーン、技術面の強みを背景に進軍」（https://36kr.jp/492924/）
+  - 「受注の急増、価格の下落、そして活用シーン不足が交錯し、業界全体は現在「評価の高さが売上高に結びつかない」という現実的なジレンマを抱えている」（https://36kr.jp/492924/）
+  - 「現在の人型ロボット業界では、受注規模が企業の実力をはかる指標であり、投資家の評価を得るための重要な基準となっている」（https://36kr.jp/492924/）
+  - 「中国Agibot、人型ロボット1万台量産 「30分サプライチェーン圏」を構築」（https://36kr.jp/492924/）
+  - 「AgibotとUnitreeは共同で1億2400万元（約28億円）のプロジェクトを落札し、慧智物聯（Huizhi IoT）と智平方科技（AI2 Robotics）は共同で5億元（約110億円）近くの受注を獲得、UBTECHの年間受注額は13億元（約290億円）を突破した」（https://36kr.jp/492924/）
+  - 「円）以上の大型受注が20件余りあり、UBTECH、Agibot、AI2、 松延動力（Noetix Robotics）の4社だけで受注額が35億元（約770億円）を超えたという」（https://36kr.jp/492924/）
+  - 「中国ヒューマノイド業界、「1万台受注」の狂騒 受注バトルの裏に広がる企業の焦りと野心」（https://36kr.jp/492924/）
+  - 「しかし複数の業界関係者は、受注額と販売台数は急増したものの、それに見合うだけの納品体制を確保できていないと指摘する」（https://36kr.jp/492924/）
+  - 「たとえばUBTECHの焦継超・副総裁は2025年8月、年内に産業用人型ロボット「Walker」シリーズを500台納入する計画だと説明したが、受注額13億元（約290億」（https://36kr.jp/492924/）
+  - 「」の出荷開始は26年2月とされており、量産拡大の難しさを物語っている」（https://36kr.jp/492924/）
+  - 「1本240万円から、撮影は最短2〜3日⋯中国の巨大撮影地「横店」で見たショートドラマ量産の舞台裏」（https://36kr.jp/492924/）
   - 「世界中のどのロボットメーカーが勝とうとも、ロボットが作られる限り同社の部品が必要になる「ツルハシ売り」のポジションが最強の強みです」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
   - 「◎ 企業沿革・最近の動向: 帝人製機とナブコが統合して誕生」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
   - 「また、物流施設向けのAGV（無人搬送車）用ドライブユニットなど、工場以外の用途開拓にも積極的です」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
   - 「スマート工場の実現に向けたロボットデータ共有PFの実証実験」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「自動配送ロボやスマート工場、コンビニ向けヒューマノイド、食品工場の自動化など、各分野で具体的な導入が進展している」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「工場で人に代わって作業を担う「産業用ロボット」は、深刻化する国内の人手不足に貢献」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「そのためサーバー障害が工場全体の稼働停止につながる「単一障害点」という課題が常につきまとった」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「製造業ではスマート工場の中核技術として導入」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「工場内のカメラやセンサーから取得したデータを処理し、異常検知や品質管理に活用している」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「ほかにも医療・ヘルスケア、物流など多様な現場で導入が拡大する」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「CUDAの導入が加速することで同社の優位性が拡大している」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「中国人型ロボット、受注急増の裏にある「納品不能」のジレンマ | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/492924/）
-  - 「中国人型ロボット、受注急増の裏にある「納品不能」のジレンマ」（https://36kr.jp/492924/）
-  - 「1〜9月のロボット分野の資金調達額は386億2400万元（約8500億円）となり、24年通年の212億5400万元（約4700億円）の約1.8倍に達した」（https://36kr.jp/492924/）
-  - 「投資が集中する人型ロボット分野へは、参入企業が相次いでいる」（https://36kr.jp/492924/）
 - 顧客の顧客（発注元が求めること）：
   - 「（産業用ロボットのアプリケーションとロボットセルの安全要求）が2025年に発行され、2011年版に置き換わっています」（https://ex.ipros.jp/article/insight/humanoid-robot/）
   - 「登壇者の経歴には、ヒト型ロボットを使った協働安全規格の認証業務を担当したことが記されています」（https://ex.ipros.jp/article/insight/humanoid-robot/）
@@ -53,6 +53,9 @@
   - 「日本郵便との物流実証実験や、防衛省向け用途の開発も進めています」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
   - 「同社は顔認証入退室管理や、AIによる万引き予兆検知、商品棚の欠品検知などの技術を持っており、リテールDXの中核を担います」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
 - 顧客の競合（奪いに来る側）：
+  - 「中国貴州省山間地域の養殖キャビア、日本市場に進出」（https://36kr.jp/492924/）
+  - 「中国人型ロボット「AGIBOT」、世界シェア43％ 半年で売上480億円、Unitreeを逆転」（https://36kr.jp/492924/）
+  - 「会場には中国の工場で実際に働くロボットも展示されていました」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
   - 「中国車、国内失速も海外で快走 9月の輸出56％増、輸入は半減」（https://36kr.jp/492924/）
   - 「「10人に1人がAIで富」 中国富豪ランキング、バイトダンス張一鳴氏が16兆円で首位・DeepSeek梁文鋒氏が初登場で7位」（https://36kr.jp/492924/）
   - 「中国の人型ロボットUBTECH、「将来の成長企業」で世界11位・中国勢首位」（https://36kr.jp/492924/）
@@ -65,10 +68,9 @@
   - 「1カ月で130億円─中国の人型ロボットが受注ラッシュ、熱狂の先に供給制約」（https://36kr.jp/488876/）
   - 「求人数5倍！人型ロボットに「手取り足取り」教える仕事、中国で需要急拡大」（https://36kr.jp/488876/）
   - 「現在の中国では、一部の大手メーカーが都市部限定で出張修理サービスを提供しているにとどまり、多くのロボットは依然として工場送りの対応が中心だ」（https://36kr.jp/488876/）
-  - 「かつて中国では、自動車の普及とともにディーラーや整備拠点が全国へ急速に広がった」（https://36kr.jp/488876/）
-  - 「中国人型ロボット「AGIBOT」、世界シェア43％ 半年で売上480億円、Unitreeを逆転」（https://36kr.jp/488876/）
-  - 「20万円台の小型ヒューマノイドで注目、中国「Noetix Robotics」が香港IPOを準備か」（https://36kr.jp/488876/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「The Monthly Cost of LLM Agents: It’s Not Just “12 Dollars”—Insights from Three Papers on “Inefficient Uses” and “Efficient Uses”」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
+  - 「GMO AIR は、AI・ロボット事業を担う商社として 2024 年 6 月 18 日に設立されました」（https://group.gmo/news/article/9977/）
   - 「Managing 100 Million Users with Just Five People — How a 30,000 Yen AI Agent is Starting to Break the ‘Labor Cost Norm’」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「AI Agents ‘Attack Other Companies on Their Own’ — What Can Small and Medium Enterprises Do for Security with a Monthly Budget of 50,000 Yen?」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「OpenAI's AI agents have autonomously attacked companies without being instructed to do so. It has be」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
@@ -82,8 +84,6 @@
   - 「GMO AIR concluded this authorized distributor agreement in Japan with Unitree Robotics as a partner to accelerate the social implementation of humanoids based on the perspectives below.」（https://group.gmo/en/news/article/851/）
   - 「Through distributor agreements with robot manufacturers, we provide an e-commerce platform where you can easily purchase robots online.」（https://ai-robotics.gmo/en/）
   - 「GMO AI & Robotics Becomes an Authorized Distributor in Japan for Unitree Robotics, the World's No. 1 Humanoid Manufacturer - Providing a one-stop solution spanning humanoid robot sales, implementation support, and secure communications -」（https://ai-robotics.gmo/en/）
-  - 「For Manufacturers and Companies Seeking Japanese Distributors」（https://ai-robotics.gmo/en/）
-  - 「「ものづくり商社」として、機械工学から物流まで幅広い事業を手がけている」（https://forbesjapan.com/articles/detail/94528）
 - 政治（法・予算・規制）：
   - 「Who Will Restore the ‘Eternal Flame’? — The Complete Destruction of the Reikado Hall, the Government-Driven Bid Rigging in Onomichi, and the Disappearance of the Buddha Statue Model Reflect the Absence of ‘Cultural Heritage Support’」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「国のロードマップは、AIロボットを使う作業の安全規制・安全基準の整理を課題に挙げています」（https://ex.ipros.jp/article/insight/humanoid-robot/）
@@ -101,22 +101,28 @@
   - 「◼ 将来、多用途ロボットが我が国労働力の一端を担うことになる以上 、経済安全保障上のリスクも鑑み 、自律した技術基盤と供給体制を確立」（https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics_strategy/pdf/001_03_00.pdf）
   - 「◼ 政府としては、「ロボット新戦略」（2015年）や「ロボットによる社会変革推進計画 」（2019年）等の下で、ロボットの研究開発 ・実証支援、」（https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics_strategy/pdf/001_03_00.pdf）
 - 経済（規模・価格・為替）：
+  - 「動画生成AI「Kling AI」、約4800億円を調達 評価額は2.8兆円、香港IPOも視野」（https://36kr.jp/492924/）
+  - 「バイトダンスの動画生成AI「Seedance」、海外売上高が半年で5倍 海外比率も5割に」（https://36kr.jp/492924/）
+  - 「TikTok運営会社の中国テック大手、バイトダンス（字節跳動）傘下の動画生成AI「Seedance」は、売上高に占める海外比率が5割に達した」（https://36kr.jp/492924/）
+  - 「靴製造で受注96億円超、鉱山の危険作業にも」（https://36kr.jp/492924/）
+  - 「動画生成AI「Kling AI」、約4800億円を調達 評価額は2.8兆円、香港IPOも視野」（https://36kr.jp/502670/）
+  - 「バイトダンスの動画生成AI「Seedance」、海外売上高が半年で5倍 海外比率も5割に」（https://36kr.jp/502670/）
+  - 「TikTok運営会社の中国テック大手、バイトダンス（字節跳動）傘下の動画生成AI「Seedance」は、売上高に占める海外比率が5割に達した」（https://36kr.jp/502670/）
+  - 「靴製造で受注96億円超、鉱山の危険作業にも」（https://36kr.jp/502670/）
+  - 「国際競争力の面では、2040年に世界シェアの3割超を獲得し、20兆円規模の市場を得ること」（https://ex.ipros.jp/article/insight/humanoid-robot/）
+  - 「ヒューマノイドロボットの価格は？5機種を実機購入したGMO AIRが解説【2026年】」（https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3）
+  - 「特定の動きを覚えさせるには、モーションキャプチャ撮影、エンジニアの調整工数、強化学習用のGPU搭載PCなどが別途必要で、GMO AIRの実績では1つの動き（ダンス1曲程度）を運用に乗せるまでに本体とは別に約100万円規模のコストがかかっています」（https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3）
+  - 「Unitree G1は派遣・レンタルで1日10万円〜が目安です」（https://ai-robotics.gmo/blog/article/?id=%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%EF%BC%88%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%EF%BC%89%E3%81%AE%E8%B3%BC%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3）
+  - 「サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出」（https://www.itmedia.co.jp/news/article/2606/19/1260619118/）
   - 「「10人に1人がAIで富」 中国富豪ランキング、バイトダンス張一鳴氏が16兆円で首位・DeepSeek梁文鋒氏が初登場で7位」（https://36kr.jp/492924/）
   - 「中国人型ロボット「AGIBOT」、世界シェア43％ 半年で売上480億円、Unitreeを逆転」（https://36kr.jp/492924/）
-  - 「中国汽車工業協会が発表した税関統計によると、9月の中国の完成車輸出台数は前年同月比56.3％増（前月比12.9％増）の118万2000台、輸出額は62.0％増（同13.2％増）の207億5000万ドル（約3兆2800億円 […]」（https://36kr.jp/492924/）
-  - 「Managing 100 Million Users with Just Five People — How a 30,000 Yen AI Agent is Starting to Break the ‘Labor Cost Norm’」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
-  - 「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/488876/）
-  - 「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題」（https://36kr.jp/488876/）
-  - 「約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品の修理代として3万元（約70万円）を請求され、その高さに驚いたという」（https://36kr.jp/488876/）
-  - 「内訳は部品代が2万8000元（約64万円）、作業費と調整料が2000元（約5万円）だった」（https://36kr.jp/488876/）
-  - 「ロボット外装やバッテリーセルなど基本部品の交換であっても、作業費が1時間当たり200元～500元（約4600円～1万2000円）程度上乗せされ、支払いはともすれば合計で1万元（約20万円）近くになることも珍しくない」（https://36kr.jp/488876/）
-  - 「下肢モジュールを丸ごと交換する場合は数万～数十万元（数十万～数百万円）に達する可能性があり、バッテリー交換でも約4000元（約9万円）が必要になる」（https://36kr.jp/488876/）
-  - 「ロボットハンドを1つ交換するだけでも1万～8万元（約20万～280万円）に及ぶ」（https://36kr.jp/488876/）
-  - 「中国の代表的ロボットメーカー・宇樹科技（Unitree Robotics）のロボットを購入したある消費者の場合、ロボットが転倒して頭部が変形、ブラケットの交換だけで1800元（約4万円）かかったうえ、修理まで1週間待たされたという」（https://36kr.jp/488876/）
-  - 「業界関係者によると、修理費が購入価格の6割を超える場合、個人ユーザーの約7割が修理を断念する」（https://36kr.jp/488876/）
-  - 「消費者向けモデルの場合、年間維持費は一般的に本体価格の10～30％に達するとされる」（https://36kr.jp/488876/）
-  - 「高機能の商用ロボットは1台60万元（約1400万円）程度で購入できるが、使用頻度の高いロボットハンドを毎年交換すれば10万～20万元（約230万～460万円）かかる」（https://36kr.jp/488876/）
 - 社会（人・担い手）：
+  - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に｜ニュース｜TOKYO MX」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「「フィジカルAI」と呼ばれる、周りの状況を自ら判断して動くロボットで労働環境をサポートし、人手不足の解消につながることが期待されています」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「「人手不足」は、物流やサービス業などさまざまな業種で深刻な問題となっています」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「東京商工リサーチによりますと、人手不足によって倒産した企業は2025年度には442件となり、過去最多を記録しました」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「AIを“即戦力の従業員”にすることで、業務の効率化や人手不足の解消につなげる動きが加速しています」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
   - 「さらに、ロボットメンテナンス技術者の多くがドローンや産業用ロボット分野から転身してきた人材だ」（https://36kr.jp/488876/）
   - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGKKZO97853510Z20C26A7FF8000/）
   - 「フィジカルAI 活用とは？製造・物流での人手不足対策と現場改革のポイントを解説」（https://ex.ipros.jp/article/insight/humanoid-robot/）
@@ -126,29 +132,27 @@
   - 「によると、2025年は全産業で企業の人手不足感が高止まりしており、製造業より非製造業で強く、特に「建設」「運輸・郵便」「宿泊・飲食サービス」で高い水準です」（https://ex.ipros.jp/article/insight/humanoid-robot/）
   - 「企業規模別では、2025年は特に中堅企業と中小企業で人手不足感が強まりました」（https://ex.ipros.jp/article/insight/humanoid-robot/）
   - 「物流では、人手不足を理由とする倒産も増えている」（https://ex.ipros.jp/article/insight/humanoid-robot/）
-  - 「（2026年8月28日一部変更）は、物流を、労働の負荷や時間の面で厳しい環境にある労働集約型の産業の一つとし、人手不足による倒産が2025年に52件と過去最多で、全業界で2番目に多かったと記しています」（https://ex.ipros.jp/article/insight/humanoid-robot/）
-  - 「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地 | Iolite（アイオライト）」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「ロボットは人手不足解消に加え、AIとの融合により柔軟な作業対応が可能となっている」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「人手不足や非効率な作業といった現場課題に対する実践的なソリューションとして普及が進む」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「工場で人に代わって作業を担う「産業用ロボット」は、深刻化する国内の人手不足に貢献」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
 - 技術（新しい技術・実証）：
-  - 「しかし、現在求められているのは、より柔軟で、より賢く、人間の代替として複雑な判断を伴う作業ができる「次世代型ロボット」と、それを制御する「AI（人工知能）」の融合です」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「これまでは「夢の技術」と思われていたヒューマノイド（人型ロボット）や、自律走行搬送ロボット（AMR）、そしてそれらを統合管理するAIシステムが、実用段階に入りつつあります」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「ChatGPTに代表される生成AIの進化は、ロボットの「脳」を劇的に進化させました」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「言葉で指示を出すだけでロボットがその意図を汲み取り、未学習の物体さえも認識して把持する――」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「日本政府は「Society 5.0」を掲げ、ロボット導入補助金やDX税制優遇など、企業の自動化投資を強力に後押ししています」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「円安を背景に国内回帰を進める製造業にとって、工場の自動化はコスト競争力を維持するための生命線でもあります」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「本記事では、単に知名度が高いだけの大企業は可能な限り除外し、技術的な「堀（Moat）」を持つ企業、ニッチトップ企業、そしてAIとハードウェアの融合において独自のポジションを築いている銘柄を厳選しました」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「ロボットの「関節」となる精密減速機、自律移動を可能にする「目」となるセンサーやSLAM技術、そして現場への導入を支援するシステムインテグレーターまで、多角的な視点で選出しています」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「【ヒト型ロボットと建設DXのパイオニア】川田テクノロジーズ (3443)」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「◎ 事業内容: 橋梁や鉄骨などのインフラ事業を主軸としつつ、ヒューマノイドロボット「NEXTAGE」の開発・販売を手掛ける異色の企業」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「◎ 注目理由: 主力の橋梁事業が国土強靭化計画で堅調な上、産業用ヒト型ロボット「NEXTAGE」が製造現場の「多品種少量生産」ニーズに合致し導入が加速しています」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地 | Iolite（アイオライト）」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「スマート工場の実現に向けたロボットデータ共有PFの実証実験」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「ロボティクスにとってのシンギュラリティの瞬間が到来した～NVIDIAによるフィジカルAIモデルの躍進～」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
+  - 「中国人型ロボット、受注急増の裏にある「納品不能」のジレンマ | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/492924/）
+  - 「中国人型ロボット、受注急増の裏にある「納品不能」のジレンマ」（https://36kr.jp/492924/）
+  - 「中国では2025年、人型ロボット（ヒューマノイド）が最もホットな先端産業となった」（https://36kr.jp/492924/）
+  - 「1〜9月のロボット分野の資金調達額は386億2400万元（約8500億円）となり、24年通年の212億5400万元（約4700億円）の約1.8倍に達した」（https://36kr.jp/492924/）
+  - 「投資が集中する人型ロボット分野へは、参入企業が相次いでいる」（https://36kr.jp/492924/）
+  - 「中国なしではコスト6倍——テスラ人型ロボットを陰で支えるサプライヤーたちの正体」（https://36kr.jp/492924/）
+  - 「“国内より6倍高く売れる” 中国の人型ロボットレンタルが海外展開へ、「空白市場」を狙う」（https://36kr.jp/492924/）
+  - 「現在の人型ロボット業界では、受注規模が企業の実力をはかる指標であり、投資家の評価を得るための重要な基準となっている」（https://36kr.jp/492924/）
+  - 「中国Agibot、人型ロボット1万台量産 「30分サプライチェーン圏」を構築」（https://36kr.jp/492924/）
+  - 「2025年は人型ロボット分野の商用化が急速に進展した」（https://36kr.jp/492924/）
+  - 「AgibotとUnitreeは共同で1億2400万元（約28億円）のプロジェクトを落札し、慧智物聯（Huizhi IoT）と智平方科技（AI2 Robotics）は共同で5億元（約110億円）近くの受注を獲得、UBTECHの年間受注額は13億元（約290億円）を突破した」（https://36kr.jp/492924/）
+  - 「円）以上の大型受注が20件余りあり、UBTECH、Agibot、AI2、 松延動力（Noetix Robotics）の4社だけで受注額が35億元（約770億円）を超えたという」（https://36kr.jp/492924/）
+  - 「調査会社IDCによると、中国の人型ロボット販売台数は2024年に約800〜2000台だったが、25年は上半期（1〜6月）だけで4000台を超えた」（https://36kr.jp/492924/）
+  - 「たとえばUBTECHの焦継超・副総裁は2025年8月、年内に産業用人型ロボット「Walker」シリーズを500台納入する計画だと説明したが、受注額13億元（約290億」（https://36kr.jp/492924/）
+  - 「中国の人型ロボット、ブームは本物か 需給の歪みと実用性に試練」（https://36kr.jp/492924/）
 - 検索結果の抜粋：
+  - 「ナスダック上場 時価総額4000 億円 でヒューマノイド初の株式 ... — ナスダック上場 時価総額4000 億円 でヒューマノイド初の株式 ... BigGo ファイナンス https://finance.biggo.jp > news」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
+  - 「ヒューマノイド ロボット 世界 市場 に関する調査を実施（ 2026 ... — ヒューマノイド ロボット 世界 市場 に関する調査を実施（ 2026 ... yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLvGKfTQZ6SE3ELKmwGxR5IptaWlC2E-Xdhyxiofcj2yhfFJHL5）
+  - 「Humanoid Robot Market Size, Forecasts Report 2026 -2035 — Humanoid Robot Market Size, Forecasts Report 2026 -2035 Global Market Insights Inc. https://www.gminsights.com > human...」（https://www.gminsights.com/industry-analysis/humanoid-robot-market）
+  - 「Worldwide Humanoid Robotics Market Analysis 2026 — Worldwide Humanoid Robotics Market Analysis 2026 IDC | Trusted Tech Intelligence https://my.idc.com > getdoc」（https://my.idc.com/getdoc.jsp?containerId=CHE54229626）
   - 「AIどころではない……2年後に 人型ロボット 「爆発的普及」で ... — AIどころではない……2年後に 人型ロボット 「爆発的普及」で ... ビジネス+IT https://www.sbbit.jp > ... > 製造業種別 > ロボティクス」（https://www.sbbit.jp/article/st/169887）
   - 「関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... — 関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... 36Kr Japan https://36kr.jp > new-cat > その他 > 編集部おすすめ記事」（https://36kr.jp/488876/）
   - 「アングル：中国、 人型ロボット のIPOブーム抑制 収益の ... — アングル：中国、 人型ロボット のIPOブーム抑制 収益の ... Reuters https://www.reuters.com > markets > japan > AA4A4OVQ...」（https://www.reuters.com/jp/markets/japan/AA4A4OVQFFIP3IGOHNTFV73KWE-2026-09-25/）
@@ -160,10 +164,6 @@
   - 「人手不足 を救う 人型ロボット 導入意向は4割超、山善が明かす ... — 人手不足 を救う 人型ロボット 導入意向は4割超、山善が明かす ... Forbes JAPAN https://forbesjapan.com > テクノロジー > サービス」（https://forbesjapan.com/articles/detail/94528）
   - 「ヒューマノイド ロボット の課題7つと解決策｜技術・コスト ... — ヒューマノイド ロボット の課題7つと解決策｜技術・コスト ... 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0071」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0071.html）
   - 「中国 人型ロボット 、 受注 急増の裏にある「納品不能」のジレンマ — 中国 人型ロボット 、 受注 急増の裏にある「納品不能」のジレンマ 36Kr Japan https://36kr.jp > new-cat > 特集」（https://36kr.jp/492924/）
-  - 「ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... — ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... worldinsight.com https://worldinsight.com > News > Japanese」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
-  - 「CES 2026 Local Report: The Evolution of Humanoid Robots ... — CES 2026 Local Report: The Evolution of Humanoid Robots ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=SwzHCkwa2aw&vl=ja）
-  - 「ヒューマノイド ロボット市場 分析レポート（ 2026 年） — ヒューマノイド ロボット市場 分析レポート（ 2026 年） Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/2593921）
-  - 「人型ロボット 競争、部品にも熱視線 中国20社超が連携 — 人型ロボット 競争、部品にも熱視線 中国20社超が連携 36Kr Japan https://36kr.jp > new-cat > その他 > 編集部おすすめ記事」（https://36kr.jp/503018/）
 
 ## エッジAIチップ（edge AI chip）
 - 文脈：1 AI・半導体 ②中核半導体
@@ -354,6 +354,8 @@
   - 「なぜなら、半導体の発注が決まってから、実際に建屋を建てて設備を入れるまでにタイムラグがあるからです」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
   - 「そして工事の受注残という形で、業績の可視性が比較的高いという特徴があります」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
 - 顧客の顧客（発注元が求めること）：
+  - 「Huaweiの日本・ロシア・ドイツ等の海外現地法人も対象で、TSMCサプライヤーに直接波及する」（https://timewell.jp/columns/0lvaj1e2）
+  - 「元TSMC社員に懲役10年、装置サプライヤーである東京エレクトロンの台湾子会社に1億5,000万台湾元（約7億円）の罰金」（https://timewell.jp/columns/0lvaj1e2）
   - 「ただ、半導体関連市場の設備投資動向自体は、米中対立による日本拠点の増加や微細化、半導体メーカーから装置メーカーへのカーボンニュートラルの要求等を背景に、2030年まで8.6％の年平均成長率(GACR)を見込んでいます」（https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html）
   - 「AIで激化するサイバー攻撃、矛先は製造業へ 防御対象選定とBCPが急務」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「同時に、日本の半導体メーカーや装置サプライヤーは、製造生産性の向上、エネルギー消費の削減、国内の技術力強化に向けた機会を模索している」（https://www.dreamnews.jp/press/0000365009）
@@ -367,9 +369,10 @@
   - 「海外サプライヤーにとって、参入の足掛かりとなるのは、日本の半導体メーカーとの提携、装置・材料の認定プログラム、共同研究プロジェクト、特殊部品の供給契約などである」（https://www.dreamnews.jp/press/0000365009）
   - 「サプライチェーンへの依存： 先端製造技術、装置部品、材料の一部は海外サプライヤーに依存しており、供給のボトルネックが生じる可能性がある」（https://www.dreamnews.jp/press/0000365009）
   - 「先端ロジックの開発、半導体製造装置・材料分野で確立されたサプライヤー基盤、政府支援による投資、AI関連コンピューティングインフラへの需要拡大が組み合わさることで、今後の産業発展に向けた基盤が形成されている」（https://www.dreamnews.jp/press/0000365009）
-  - 「Samsungも装置サプライヤーに対し、新規装置へのAIエージェント標準搭載を求めていると報じられている」（https://ai-revolution.co.jp/media/ai-in-semiconductor/）
-  - 「顧客が新規チップアーキテクチャを要求し、サードパーティの設計IPを使うという難条件下で、」（https://ai-revolution.co.jp/media/ai-in-semiconductor/）
 - 顧客の競合（奪いに来る側）：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
+  - 「伸ばしたが、他の製品でシェアを」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
+  - 「1. コロケーション事業市場プレイヤーシェア2023, 100%比 (IDC); 2. スマートフォン市場2024年100%比 (IDC); 3. BEV新車販売市場2024年 100%比 (S&P Global mobility GADT 20250610); 4. 2024年市場規模 (各」（https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf）
   - 「2024年には台湾積体電路製造（TSMC）の熊本・菊陽町工場が稼働開始を予定」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「ロイター通信の報道によれば、韓国Samsung Electronics（サムスン電子）が日本に後工程工場の設置を検討しているという」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「次の半導体大国、インド」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
@@ -382,9 +385,6 @@
   - 「前回調査の9.1%から約3倍に増えたとはいえ、中国81.2%、米国68.8%、ドイツ59.2%と比べると大きな開きがあります」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
   - 「国内企業での利用率は55.2%でしたが、中国95.8%、米国90.6%、ドイツ90.3%はいずれも9割を超えています」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
   - 「生成AIの活用方針を策定している日本企業は49.7%で、米国84.8%、ドイツ76.4%、中国92.8%に対して低い水準です」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
-  - 「これに対して米国は23.8%、ドイツは44.6%です」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
-  - 「クラウド録画カメラで国内シェア首位の会社です」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
-  - 「後者は18万社が導入し、調査会社の調べで10年連続シェアNo.1を獲得しています」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
 - 自社の競合（商社・代理店・仲介）：
   - 「・エヌビディア製品の代理店であることが確認できた銘柄であること→（4）」（https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html）
   - 「これとは別に、今後AI開発が加速し、日本でもエヌビディア製品への需要が増えるとの予想から、エヌビディア製品の代理店であると確認できたエレクトロニクス商社も採り上げました」（https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html）
@@ -402,22 +402,23 @@
   - 「: Level-5 の ChipStack と AgentStack オーケストレーションは」（https://ai-revolution.co.jp/media/ai-in-semiconductor/）
   - 「AuraStack AI Super Agent」（https://ai-revolution.co.jp/media/ai-in-semiconductor/）
 - 政治（法・予算・規制）：
+  - 「マンション修繕談合に独禁法違反認定、有力企業含む42社 国交省が対策へ」（https://xtech.nikkei.com/atcl/nxt/column/18/03043/）
+  - 「マンション修繕談合に独禁法違反認定、有力企業含む42社／国内初の大型木造商業ビル「渋谷マルイ」27年夏開業／「建築に強い建設会社」」（https://xtech.nikkei.com/atcl/nxt/column/18/03043/）
+  - 「建設Gメン調査に基づく指導が大幅増、法改正で不適正取引にメス」（https://xtech.nikkei.com/atcl/nxt/column/18/03043/）
+  - 「海外サプライヤーにとって、参入の足掛かりとなるのは、日本の半導体メーカーとの提携、装置・材料の認定プログラム、共同研究プロジェクト、特殊部品の供給契約などである」（https://www.dreamnews.jp/press/0000365009）
+  - 「商業的な成功は、製品性能、技術サポート、認定取得までの期間、厳格な半導体製造要件への対応能力に左右される」（https://www.dreamnews.jp/press/0000365009）
+  - 「先端ロジックの開発、半導体製造装置・材料分野で確立されたサプライヤー基盤、政府支援による投資、AI関連コンピューティングインフラへの需要拡大が組み合わさることで、今後の産業発展に向けた基盤が形成されている」（https://www.dreamnews.jp/press/0000365009）
+  - 「さらに同社は、2026年の設備投資予算を520億～560億ドルに引き上げると発表しています」（https://timewell.jp/columns/0lvaj1e2）
+  - 「中国市場への輸出規制は懸念材料ですが、一方で米国内のデータセンター投資が活発化しています」（https://timewell.jp/columns/0lvaj1e2）
+  - 「dominates with >80% market share. Supply is extremely constrained for the latest generations (H200, B200) — export controls restrict shipments to certain regions, and we've watched lead times push past 20 weeks for anyone without allocation.」（https://partscubeglobal.com/blog/ai-chip-accelerator-guide）
   - 「NVIDIAはこれを否定したものの、中国政府は慎重な姿勢を強めている」（https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2026/03/24/2603_tsujiisobeli.pdf）
   - 「政府の積極的な財政支援に加えて、海外人材の呼び込み、イノベーションを起こすような「突出した人材」を育てられる環境づくりが急務である（」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「半導体産業は、関税、エネルギーコスト、地政学的緊張といったマクロ経済的な圧力に加え、AIインフラへの巨額投資額に関連するリスクに直面する中にあって、多くの人々の予測を裏切って、AI需要続伸に支えられて、いつまで驚異的な成長を続けられるか注目される」（https://www.semiconportal.com/archive/blog/insiders/hattori/260512-forecast.html）
   - 「日本は、政府支援による投資、国際的な技術提携、国内生産能力の拡大を通じて、先端半導体製造における地位の再構築を進めている」（https://www.dreamnews.jp/press/0000365009）
   - 「日本の半導体戦略は、チップ製造とAI開発、コンピューティングインフラ、経済安全保障、産業競争力との連携をますます強めている」（https://www.dreamnews.jp/press/0000365009）
   - 「日本AI半導体製造市場は、AIコンピューティングインフラへの需要拡大、国内半導体製造施設への投資再開、政府のインセンティブ、そして半導体サプライチェーンのレジリエンスが持つ戦略的重要性によって支えられている」（https://www.dreamnews.jp/press/0000365009）
-  - 「政府による支援は、日本の半導体製造投資を促進する重要な原動力となっている」（https://www.dreamnews.jp/press/0000365009）
-  - 「半導体メーカー、装置サプライヤー、材料プロバイダーにとって、政府支援による取り組みは、半導体製造施設、生産装置、ウェハ加工、先進パッケージング、半導体の研究開発に至る幅広い分野で事業機会を生み出す可能性がある」（https://www.dreamnews.jp/press/0000365009）
-  - 「同プロジェクトは多額の政府支援と技術企業との提携を受けているものの、顧客の確保、製造歩留まりの改善、商業的に競争力のある生産体制の実現は、依然として重要な課題となっている」（https://www.dreamnews.jp/press/0000365009）
-  - 「「経済安全保障、食料安全保障、エネルギー安全保障、健康医療安全保障、国土強靱化対策などの様々なリスクや社会課題に対し、官民が手を携え先手を打って行う戦略的な投資」であると言及しています」（https://www.ichiyoshi.co.jp/topic/kabuto474）
-  - 「企業のAI導入予算も削られ、現場AI銘柄の受注にも影響が出ます」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
-  - 「国策として装置の自給自足を急ぐものの、米国の規制強化と先端技術の壁により、自給率向上は依然として困難な状況が続いています」（https://note.com/medicalconsult/n/n76645607f55b）
-  - 「各国・地域が経済安全保障の名の下に巨額補助金で工場誘致を競うなか、専門家の間では将来的な供給過剰を懸念する声も高まり始めています」（https://note.com/medicalconsult/n/n76645607f55b）
-  - 「これまでに2.9兆円の支援を決めた政府だけでなく、企業の間でも日本の半導体産業の復権を支援する機運が高まってきた」（https://note.com/medicalconsult/n/n76645607f55b）
-  - 「米政府は中国の半導体メーカーを警戒し輸出規制を課しているが、人工知能（AI）ブームで半導体の不足感が強まる」（https://note.com/medicalconsult/n/n76645607f55b）
 - 経済（規模・価格・為替）：
+  - 「独自調査で判明、三菱UFJニコス・みずほで1000億円超のプロジェクト」（https://xtech.nikkei.com/atcl/nxt/column/18/03043/）
   - 「マーベルの18兆円買収、狙いは光電融合の中核技術 足りぬ光源部品押さえる」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「グローバルインフォメーションによると、世界のHBMの市場規模は2024年で25億ドルでしたが、年平均成長率24.2％で拡大し、2030年には92億ドルに達する見込みです」（https://www.ichiyoshi.co.jp/topic/kabuto474）
   - 「東証プライムの売買代金は10兆9,219億円に膨らみました」（https://note.com/tatsuya_sabato/n/na37816fa37c3）
@@ -432,8 +433,10 @@
   - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
   - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
   - 「【前編】半導体不足で11兆円の機会損失（4ページ目） | 一歩先への道しるべ ビズボヤージュ」（https://project.nikkeibp.co.jp/onestep/feature/00003/092100005/?P=4）
-  - 「メモリ市場は前年比134%の急成長が見込まれる一方、供給不足により価格が急騰しています」（https://note.com/medicalconsult/n/n76645607f55b）
 - 社会（人・担い手）：
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
+  - 「韓国、首都圏に7万6700戸供給へ…「自立型都市」掲げるも雇用目標は未提示」（https://xtech.nikkei.com/atcl/nxt/column/18/03043/）
+  - 「経審に「制度疲労」、人材の確保や育成の評価拡充を求める声 国交省調査」（https://xtech.nikkei.com/atcl/nxt/column/18/03043/）
   - 「・SBI証券銘柄検索ウインドウに「人材派遣」と入力し、出力され、半導体産業との関係が深いとみられる銘柄→（2）」（https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html）
   - 「また、工場建設に伴い人材の確保が急務になるとみられ、半導体関連に強い人材派遣銘柄も採り上げました」（https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html）
   - 「（2）ＴＳＭＣ工場建設で進出企業の人材確保が競争となり、追い風が期待できる人材派遣会社」（https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html）
@@ -446,10 +449,11 @@
   - 「半導体人材不足の裏で「圧倒的」求人数、無策の30年を取り戻せるか | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「旺盛な求人に対して、半導体人材の不足は深刻だ」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「その需要に応えられるだけの人材が、今、日本にいない」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
-  - 「政府の積極的な財政支援に加えて、海外人材の呼び込み、イノベーションを起こすような「突出した人材」を育てられる環境づくりが急務である（」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
-  - 「実際、記者が半導体業界を取材してきた中で、「人材が足りている」という声を聞いたことは一度もない」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
-  - 「むしろ、企業であれ大学であれ、人材不足の悲鳴を上げている」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
 - 技術（新しい技術・実証）：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
+  - 「浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
+  - 「米中の企業が開発した生成AIモデルの実力はどうなのだろうか」（https://sinology-initiative.com/economy/45731/）
+  - 「表1ではアメリカのアーティフィシャル・アナリシス社が考案したAIの「インテリジェンス指数」における上位のモデルを列挙している」（https://sinology-initiative.com/economy/45731/）
   - 「自動運転や、人工知能（AI）、高度医療といった用途の広がりから、今後も半導体市場は拡大していく」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「次世代技術とされる半導体の3次元実装技術でも「人材はいない」（Rapidus〔ラピダス〕 専務執行役員 3Dアセンブリ本部長の折井靖光氏）」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「アカデミアからも、「半導体人材が一番足りないのは企業だが、大学でもその声は出てきている」（東北大学 国際集積エレクトロニクス研究開発センター長の遠藤哲郎氏）と明かす」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
@@ -461,11 +465,8 @@
   - 「LG、家電への独自AI半導体搭載を加速 クルマやロボ向けに触手か」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「デンソー、AIで制御ソフトを検図 ベテランの知見を若手が引き出す」（https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/）
   - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/）
-  - 「第474話 生成AIの発展に欠かせない半導体「HBM」とは？市場拡大に期待 | いちよし証券」（https://www.ichiyoshi.co.jp/topic/kabuto474）
-  - 「第474話 生成AIの発展に欠かせない半導体「HBM」とは？市場拡大に期待」（https://www.ichiyoshi.co.jp/topic/kabuto474）
-  - 「日米株式市場ともにAIを中心としたハイテク株の動向が注目されています」（https://www.ichiyoshi.co.jp/topic/kabuto474）
 - 検索結果の抜粋：
+  - 「AI Accelerator Chip Market 2026 - semiconductorinsight.com — May 26, 2026 · This market research report provides a comprehensive analysis of the AI Accelerator Chip Market , covering the forecast period 2026–2034. It offers detailed insights into market dynamics, technological advancements, competitive landscape, and key trends shaping the industry.」（https://semiconductorinsight.com/report/ai-accelerator-chip-market/）
   - 「AI Accelerator Market 2026, $10B Microsoft Japan Deal - ENKI — Aug 31, 2026 · The New AI Supply Chain: Custom ASICs by Google & AWS Challenge GPU Monoculture The rise of in-house custom silicon, particularly from hyperscalers like Google, AWS, and Microsoft, marks the most significant strategic shift in the AI hardware market. According to market analysis, shipments of custom AI chips are projecte」（https://enkiai.com/ai-infrastructure/ai-accelerator-market-2026-10b/）
   - 「Japan AI Accelerator Chip Market Size By Application 2025 — Sep 22, 2025 · Japan AI Accelerator Chip Market was valued at USD 1.20 Billion in 2022 and is projected to reach USD 6.」（https://www.linkedin.com/pulse/japan-ai-accelerator-chip-market-size-application-6kewc）
   - 「AI Chip & Accelerator Guide 2026: NPUs, GPUs, Edge AI ... — Jun 17, 2026 · AI chip landscape 2026 — NVIDIA H200/B200, Hailo-8, Google Edge TPU, Rockchip NPUs, and Chinese AI accelerators compared. Selection guide for cloud training, edge inference, and embedded AI.」（https://partscubeglobal.com/blog/ai-chip-accelerator-guide）
@@ -480,7 +481,6 @@
   - 「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — May 14, 2026 · The automotive segment is expected to grow at the highest CAGR of approximately 42% between 2026 and 2035, driven by the rapid progression of advanced driver-assistance systems (ADAS), autonomous driving platforms, and AI-enabled in-vehicle experiences.」（https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899）
   - 「Accelerator & HBM Model: AI Chip Shipments & Supply Data ... — Jul 6, 2026 · The SemiAnalysis Accelerator & HBM Model: quarterly data on AI accelerator shipments, ASPs, specifications, and HBM supply by vendor and SKU across Nvidia, AMD, Google TPU, AWS Trainium, and 22 vendors in all, with 60+ buyers modeled, history from 2021, and forecasts to 2030.」（https://semianalysis.com/accelerator-hbm-model/）
   - 「AI Accelerator Chips Market Size, Share & Growth, 2026 -2035 — AI Accelerator Chips Market Size, Share & Growth, 2026 -2035 SNS Insider https://www.snsinsider.com > reports」（https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899）
-  - 「Non GPU AI Accelerator Chips Market Size, Share [ 2026 -2034] — Non GPU AI Accelerator Chips Market Size, Share [ 2026 -2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/non-gpu-ai-accelerator-chips-market-119106）
 
 ## 定置用蓄電池（stationary energy storage battery）
 - 文脈：2 デジタル・サイバー ④蓄電池
@@ -1598,6 +1598,8 @@
 - 痛み・損（深さの印）：
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOCC0391J0T00C26A7000000/）
 - 顧客（金を払う側）：
+  - 「今後、地域住民や地元企業、及び周辺各種団体等の理解促進のため、安全性の向上ならびに社会受容度を高める活動を推進して参ります」（https://skydrive.co.jp/news/7613/）
+  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
   - 「がアメリカのベンチャー企業に出資していますし、」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「などの大企業がそれぞれの分野から参加しようとしています」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「また、スカイドライブのほかにもいくつものベンチャー企業が開発に乗り出しています」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
@@ -1611,25 +1613,24 @@
   - 「万博会期中、空飛ぶクルマのデモフライトや展示を継続して実施した事業者（運航事業者、機体メーカー、ポート運営者）を対象に、成果や課題、制度面における改善点、社会実装に向けた提案などをうかがうことを目的に実施したものだ」（https://jidounten-lab.com/u_65623）
   - 「企業として、ポジティブな反応を糧とするのは当然とも言える行為だ」（https://jidounten-lab.com/u_65623）
   - 「2030年代前半には、新たな交通管理、遠隔操縦による旅客輸送の導入、運航規模の拡大に対応する交通管理（」（https://jidounten-lab.com/u_65623）
-  - 「2016年、大手企業におけるデジタルトランスフォーメーション支援すべく、株式会社ストロボを設立し、設立5年でグループ6社へと拡大」（https://jidounten-lab.com/u_65623）
-  - 「講演実績も多く、早くもあらゆる自動運転系の技術や企業の最新情報が最も集まる存在に」（https://jidounten-lab.com/u_65623）
 - 顧客の顧客（発注元が求めること）：
+  - 「体、②認証・規制、③上空インフラ (運航管理・通信) 、」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「②認証・規制は、旅客輸送を可能にするための制」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「Vertical AerosDace(英国) 認証活動 ——=」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「注) 機体開発の進展は、認証試験用機体の状況を記載しており、それ以前の試験機体の開発や試験などは含めない」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「認証活動には、」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「データ提出までには、機体開発側でも認証試験用機」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「ただし、社会実装に必要な認証は型式証明に限ら」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「※3 事前に航空当局と合意済みの設計・製造方法に準拠した、型式認証」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「2 認証*規制」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「_ 認証試験用機体の設 規制当局から具体的 UTM関連活動 商用運航に使用する具体的な候補地、施 運航主体が明確 自治体の具体的な取」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「認証試験用機体を 個別機体・運航者 限定環境・個別機 複数の拠点を使用でき、具体的な地点 将来の運航主体 自治体や現地当局が」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「認証試験用機体に 関連する型式・運 METEOR 追加拠点の場所、開発主体、運航ルート 将来の運航主体 安全・肥音などの社会」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「社も認証試験用機体を用いた航空当局による飛行」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
   - 「【日本】BSI、ネットゼロ移行計画の第三者認証サービス開始」（https://sustainablejapan.jp/2026/03/29/japan-aam/123429）
   - 「本四高速の通行台数が過去最高 26年3月期、脱炭素投資で減益」（https://www.nikkei.com/article/DGXZQOUC303EC0Q6A630C2000000/）
-  - 「さらに各国での型式認証実績、企業理念、製品実現可能性などの要素も加味し、今回の代理店契約に至ったと明かしている」（https://chizaizukan.com/news/7uDvrs2iPdsCzJeqkJi1De）
-  - 「日本市場は「空飛ぶクルマ」に対して高度な要求があり、それを前提とした普及計画があることを理解しております」（https://chizaizukan.com/news/7uDvrs2iPdsCzJeqkJi1De）
-  - 「Dufour Aerospace社を選択するに際し、熟練した管理チーム、各国での型式認証実績、技術の成熟度、企業理念、製品実現可能性などいくつかの要素を慎重に検討いたしました」（https://chizaizukan.com/news/7uDvrs2iPdsCzJeqkJi1De）
-  - 「：アメリカ連邦航空局（FAA）と認証プロセスを進めており、2025年の商業運航を目指す」（https://589.co.jp/blog/%E3%80%90%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E3%80%91%E6%97%A5%E6%9C%AC%E5%88%9D%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%8C%E5%B2%A1%E5%B1%B1%E3%81%AB/）
-  - 「eVTOLの認証取得や技術開発には多額の費用がかかり、投資家の期待以上の資金調達が必要だったようです」（https://note.com/hyogohaam/n/nd14391c4f169）
-  - 「欧州航空安全機関（EASA）は安全性に厳格で認証プロセスが長期化する傾向があるようです」（https://note.com/hyogohaam/n/nd14391c4f169）
-  - 「FAAは新しい航空技術の実用化を促進するため規制緩和や早期の型式認証取得プロセスを採用しています」（https://note.com/hyogohaam/n/nd14391c4f169）
-  - 「民：有識者、機体メーカー、サービスサプライヤーなど（役員クラス）」（https://www.soumu.go.jp/main_content/001036460.pdf）
-  - 「民：有識者、機体メーカー、サービスサプライヤーなど（実務者クラス）」（https://www.soumu.go.jp/main_content/001036460.pdf）
-  - 「「アンケート回答・顔認証手続のための事前写真登録」等にご協力いただける方」（https://www.metro.tokyo.lg.jp/information/press/2026/02/2026020319）
-  - 「同時に「より早く遠くに行きたい」などの市場の要求にご満足いただくために、バッテリーやモーターの素材改良、軽量化や飛行効率の向上などを低コストで実現する技術的成熟も必要です」（https://note.com/tetraaviation/n/nb3adac1194f1）
-  - 「現在、世界の空飛ぶクルマ開発競争は「機体を浮上させるデモ段階」を終え、商用運航を見据えた実装検証や、認証取得に向けた高精度なデータ蓄積のフェーズへと移行しています」（https://skydrive.co.jp/news/71474/）
-  - 「今回の300フライトを通じて蓄積した実機データと運航データは、型式証明取得に向けた認証試験および2028年の商用化に向けた機体開発を進める上で重要な基盤となります」（https://skydrive.co.jp/news/71474/）
 - 顧客の競合（奪いに来る側）：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
   - 「「特集・インド半導体」「米陸軍で痛感した壁」 注目5本」（https://www.nikkei.com/article/DGXZQOUF303VZ0Q6A630C2000000/）
   - 「米国で先行するeIPPの動きと同様に、日本においても官民が足並みを揃えて実運用へと踏み出す基盤が整いました」（https://skydrive.co.jp/news/68216/）
   - 「これまでに韓国やベトナムの企業などとも契約しており、予約数は計273機となった」（https://www.nikkei.com/article/DGXZQOFD204KS0Q4A121C2000000/）
@@ -1644,7 +1645,6 @@
   - 「Archer Aviation（米国）は、都市間移動を想定したeVTOLを開発中で、製造体制の整備や運航ルールの策定を進めています」（https://sogakkan.jp/%E3%80%90%E6%9C%AA%E6%9D%A5%E3%81%AE%E7%A7%BB%E5%8B%95%E9%9D%A9%E5%91%BD%E3%80%91%E7%A9%BA%E9%A3%9B%E3%81%B6%E3%82%AF%E3%83%AB%E3%83%9E%E3%81%A8%E3%81%AF%EF%BC%9F%E6%9C%9F%E5%BE%85%E3%81%A8%E8%AA%B2/）
   - 「再建中ながら、EASA（欧州航空安全機関）による型式証明審査は75％完了しており、復活の可能性も残されています」（https://sogakkan.jp/%E3%80%90%E6%9C%AA%E6%9D%A5%E3%81%AE%E7%A7%BB%E5%8B%95%E9%9D%A9%E5%91%BD%E3%80%91%E7%A9%BA%E9%A3%9B%E3%81%B6%E3%82%AF%E3%83%AB%E3%83%9E%E3%81%A8%E3%81%AF%EF%BC%9F%E6%9C%9F%E5%BE%85%E3%81%A8%E8%AA%B2/）
   - 「空のほうはむしろ先に動いていて、米国では2025年1月にpowered-lift（空飛ぶクルマを含む区分）の操縦士資格の規則が発効し、欧州も型式限定のしくみを規則化しました」（https://tobuzo30000ft.com/japan-evtol-operators/）
-  - 「運航開始は日本で2025年、米国で2026年を計画」（https://jidounten-lab.com/u_40758）
 - 自社の競合（商社・代理店・仲介）：
   - 「「空飛ぶクルマ」のプラットフォーム事業を手がけるエアモビリティ株式会社が、スイスの空飛ぶクルマメーカーであるDufour Aerospace社と日本市場における代理店契約を締結したことを発表した」（https://chizaizukan.com/news/7uDvrs2iPdsCzJeqkJi1De）
   - 「さらに各国での型式認証実績、企業理念、製品実現可能性などの要素も加味し、今回の代理店契約に至ったと明かしている」（https://chizaizukan.com/news/7uDvrs2iPdsCzJeqkJi1De）
@@ -1662,6 +1662,13 @@
   - 「エアモビリティ（東京都新宿区、浅井尚社長）は、スイスの「空飛ぶクルマ」メーカーのデュフォー・エアロスペース（チューリヒ）と日本市場での代理店契約を結んだ」（https://newswitch.jp/p/27750）
   - 「その情報を一次調査と市場規模推計に活用し、販売代理店、メーカー、業界団体などの主要関係者による検証を受けます」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
 - 政治（法・予算・規制）：
+  - 「空飛ぶクルマ発着場、近畿で40年に30カ所 政府が産業集積後押し - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
+  - 「政府は地域の成長産業を育てる「戦略産業クラスター計画」で、空飛ぶクルマの発着場を2040年までに近畿で約30カ所設ける目標を掲げた」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
+  - 「再生医療など3分野、近畿で政府が集積支援 経産局長「伴走支援を」」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
+  - 「未来投資会議2018（平成30年6月15日閣議決定）（抜粋）」（https://www.soumu.go.jp/main_content/001036460.pdf）
+  - 「政府側構成員（12） 民間側構成員（64）」（https://www.soumu.go.jp/main_content/001036460.pdf）
+  - 「政府では、経済産業省・」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「さらに、政府は戦略産業フウラスター計」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
   - 「をめぐる相次ぐトラブルに対処するため、政府が設置した「マイナンバー情報総点検本部」の初会合が21日午後、首相官邸で開かれた」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「岸田文雄首相は「コロナ対応並みの臨戦態勢で、国民の信頼を一日も早く回復する」と述べ、政府と自治体が一体となって総点検にあたる考えを示した」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「政府系機関ラジオ・テレビ通信委員会が監督を担う」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
@@ -1670,14 +1677,10 @@
   - 「空域4つ・方法6つのそれぞれについて、どこまでが規制の中で、どこからが外かを見ていきます」（https://goalflag.fun/evtol-guide/）
   - 「「空飛ぶクルマ」が日本成長戦略の検討テーマ案（例示）として提示・地方創生の持続可能な生活インフラの実現に向けた施策の一つとして閣議決定 | 株式会社SkyDrive」（https://skydrive.co.jp/news/68216/）
   - 「「空飛ぶクルマ」が日本成長戦略の検討テーマ案（例示）として提示・地方創生の持続可能な生活インフラの実現に向けた施策の一つとして閣議決定」（https://skydrive.co.jp/news/68216/）
-  - 「2025年12月に日本政府から発表された新たな成長戦略および地方創生の指針において、「空飛ぶクルマ」が日本成長戦略の検討テーマ案（例示）として提示され、また地方創生の持続可能な生活インフラの実現に向けた施策の一つとして閣議決定されました」（https://skydrive.co.jp/news/68216/）
-  - 「今回、政府の指針として「空飛ぶクルマ」が明記されたことを受け、SkyDriveは、地方自治体およびパートナー企業と共に、「」（https://skydrive.co.jp/news/68216/）
-  - 「」の閣議決定（12月23日）： 「豊かな生活環境」および「持続可能な生活インフラの実現」（P120）の項目において、地域課題を解決する次世代モビリティとして明記」（https://skydrive.co.jp/news/68216/）
-  - 「今回、政府の成長戦略および地方創生戦略の両面において、「空飛ぶクルマ」が日本の未来を担う重要な政策項目として位置付けられたことを、非常に心強く感じております」（https://skydrive.co.jp/news/68216/）
-  - 「1. 日本の「空の移動革命」の先導： 政府の強力な後押しを受け、都市および地方での実証を通じて安全運用データを蓄積し、商用運航への移行を加速させます」（https://skydrive.co.jp/news/68216/）
-  - 「JALがNEDO補助金を不適切受給 空飛ぶクルマなど、3億円弱返還へ - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC303EC0Q6A630C2000000/）
-  - 「一部の事業で、予算を全て執行しようと社員に従事時間を事前に割り振り、実態に合わない従事日誌を作成させ、費用を過大に受け取ろうとしたとみられる」（https://www.nikkei.com/article/DGXZQOUC303EC0Q6A630C2000000/）
 - 経済（規模・価格・為替）：
+  - 「三井化学、半導体材料大手ＪＳＲを買収へ 約１．４兆円でＪＩＣから(11:52)」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
+  - 「大阪府、空飛ぶクルマ・再生医療に400億円 官民投資計画を国に提出」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
+  - 「手付金の5000ドル（第三者預託口座に預けられ、100％払戻可能）で、NFTの株式1株と、3～6カ月ごとに開催される近況報告会に参加する権利、1500台の販売を予定しているASKAの限定モデル（1台78万9000ドル＝約8600万円）を優先的に購入できる権利が手に入る」（https://japan.cnet.com/article/35169466/）
   - 「スカイドライブは今年4月には、個人向け機体を約2億円で販売するという発表もしています」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「都心の２億円マンション「後妻に相続させる」遺言に実子が「待った」(07:00)」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「お好きな車が月1万円台！頭金・初期費用なし！」（https://jidounten-lab.com/u_65623）
@@ -1690,10 +1693,12 @@
   - 「JALがNEDO補助金を不適切受給 空飛ぶクルマなど、3億円弱返還へ - 日本経済新聞」（https://www.nikkei.com/article/DGXZQOUC303EC0Q6A630C2000000/）
   - 「受領済みの労務費約3億2000万円のうち2億8500万円ほどを返還する」（https://www.nikkei.com/article/DGXZQOUC303EC0Q6A630C2000000/）
   - 「前橋市、自動運転実証事業の交付金3146万円を返還へ 要件満たさず」（https://www.nikkei.com/article/DGXZQOUC303EC0Q6A630C2000000/）
-  - 「【今月の車検特典】1万円で車検！？春のキャンペーン情報まとめ！」（https://589.co.jp/blog/%E3%80%90%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E3%80%91%E6%97%A5%E6%9C%AC%E5%88%9D%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%8C%E5%B2%A1%E5%B1%B1%E3%81%AB/）
-  - 「：2040年には機体・サービスを含む世界市場が約200兆円に達すると予測されています」（https://skydrive.co.jp/news/71802/）
-  - 「2040年に約200兆円とも予測される巨大な世界市場において、「小型・軽量」といった機体の強みを活かした独自のビジネスモデルを確立し、世界に先駆けて社会実装を進めていく重要性が改めて示されました」（https://skydrive.co.jp/news/71802/）
 - 社会（人・担い手）：
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
+  - 「られるほか、 有人操縦の場合には操縦士の技能証明、」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「* 安全で安定的なサービスを提供するための運航事業者、人材、拠点、手順、管理体制など」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「遠隔監視者、整備拠点、整備人材、運航管理手順な」（https://www.nri.com/jp/knowledge/publication/region_202608/files/5_no032.pdf）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOCC0391J0T00C26A7000000/）
   - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUF303VZ0Q6A630C2000000/）
   - 「また、山梨県の日本航空学園との提携による首都圏近郊での実証フィールドの展開や人材育成構想も進行中である」（https://drone-journal.impress.co.jp/docs/event/1188358.html）
   - 「自家用および企業利用において、導入当初はパイロットの搭乗が必須になる見通しのため、その人材確保が求められる」（https://drone-journal.impress.co.jp/docs/event/1188358.html）
@@ -1704,12 +1709,13 @@
   - 「建設業界、整備業界、サービス業界も含めた幅広い雇用が生まれる新産業」（https://monodukuri-career.jp/flying-car-2026-jp-status/）
   - 「運営：株式会社NATECT（建設業×製造業 人材紹介）」（https://monodukuri-career.jp/flying-car-2026-jp-status/）
   - 「技能証明の限定が種類ごとに分かれている理由」（https://goalflag.fun/evtol-guide/）
-  - 「超高齢化社会が進み、あらゆる業界において人手不足が懸念される」（https://otis-group.com/blog/gyoukai/jidosha/flyingcar/）
-  - 「特に、日本のへき地にある発電所で働く人達や、これから多数のインフラや医療が人手不足に悩まされる中で日本のどこに居ても医療を安心して受けられるような世の中を目指しています」（https://note.com/tasuku_nakai/n/n688dc4f8db5c）
-  - 「高度外国人材活躍支援」（https://www.jetro.go.jp/biznews/2024/05/1eb3eeb9f86edc59.html）
-  - 「将来的には、操縦しやすい機体特性を踏まえた、eVTOLに適した新たな技能証明制度の整備が検討されています」（https://bright.nikkiso.co.jp/article/life/evtol）
-  - 「は新たな雇用を生み出していないと批判している」（https://ja.wikipedia.org/wiki/%E7%A9%BA%E9%A3%9B%E3%81%B6%E3%82%AF%E3%83%AB%E3%83%9E）
 - 技術（新しい技術・実証）：
+  - 「「空飛ぶクルマ」（※１）および「物流ドローン」を開発する株式会社SkyDrive（本社：東京都新宿区、代表取締役CEO 福澤知浩、以下「SkyDrive」）は、大阪ベイエリアでのエアタクシーサービスの実現を目指し、株式会社大林組（本社：東京都港区、代表取締役社長：蓮輪賢治）、関西電力株式会社（本店：大阪府大阪市、取締役代表執行役社長：森本孝）、近鉄グループホールディングス株式会社（本社：大阪府大阪市、代表取締役社長：小倉 敏秀）、東京海上日動火災保険株式会社（本店：東京都千代田区、取締役社長：広瀬伸一）と共同で、「空飛ぶクルマによるエアタクシー事業性調査」を実施した事をお知らせいたします」（https://skydrive.co.jp/news/7613/）
+  - 「今後、2025年の大阪ベイエリアでのエアタクシーサービスの実現に向けて、本調査結果を空の移動革命社会実装大阪ラウンドテーブル（※2）にて共有し、空飛ぶクルマの機体開発と事業開発にフィードバックして参ります」（https://skydrive.co.jp/news/7613/）
+  - 「また、今回の実証実験実施に至っては、大阪市港区に本社を構える間口ホールディングス株式会社と一般社団法人港まちづくり協議会大阪に運営サポート等をしていただき、地域への理解促進にご助力いただきました」（https://skydrive.co.jp/news/7613/）
+  - 「モビリティ分野の新たな動きとして、世界各国で空飛ぶクルマの開発が進んでおり、日本においても2018年から「空の移動革命に向けた官民協議会」が開催され、都市部でのタクシーサービス、離島や山間部の新たな移動手段、災害時の救急搬送などにつながるものとして期待されている」（https://skydrive.co.jp/news/7613/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
+  - 「浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
   - 「空飛ぶクルマの開発については、」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「は自前の飛行機技術を活用して開発に入っています」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
   - 「また、スカイドライブのほかにもいくつものベンチャー企業が開発に乗り出しています」（https://asahi.gakujo.ne.jp/common_sense/morning_paper/detail/id=3644）
@@ -1719,13 +1725,9 @@
   - 「ここにきて想定需要が落ち込むのは、開発事業者にとって痛手ではないだろうか」（https://jidounten-lab.com/u_65623）
   - 「■【まとめ】開発サイドの熱は下がっていない」（https://jidounten-lab.com/u_65623）
   - 「空飛ぶクルマの認知度が高まる一方、開発各社の取り組みも目耳に入りやすくなり、その進捗を踏まえ「やっぱり難しいんじゃない？」といった印象が強まっているのかもしれない」（https://jidounten-lab.com/u_65623）
-  - 「こちらも、空飛ぶクルマというものがどういった形状でどのように飛ぶのかが具体化されたイメージとなり、開発が遅れていることなども相まって「思っていたものと違う」「ちょっと怖い」といった印象に変わってきている可能性が考えられる」（https://jidounten-lab.com/u_65623）
-  - 「商用運航と言っても、実証サービス的意味合いのものだが、それでも世界に「空飛ぶクルマ実用化」を発信する絶好の舞台となるはずだった」（https://jidounten-lab.com/u_65623）
-  - 「開発各社は、このような状況下でも多額の資金をつぎ込んで開発する意味はあるのだろうか」（https://jidounten-lab.com/u_65623）
-  - 「国土交通省航空局が2026年3月に公表した「大阪・関西万博会期中における空飛ぶクルマ実証に関する振り返りアンケート」結果を見ていこう」（https://jidounten-lab.com/u_65623）
-  - 「①では、飛行実証や展示を通じ、多くの来場者と直接コミュニケーションを図る機会を創出でき、空飛ぶクルマに対する理解の深化と社会受容性の向上に寄与した」（https://jidounten-lab.com/u_65623）
-  - 「③については、飛行実証およびポート運営を通じ、気象変化や運航遅延への対応、情報共有の在り方について確認する機会となり、機体運航や運営体制に関する実務的な知見を獲得したという」（https://jidounten-lab.com/u_65623）
 - 検索結果の抜粋：
+  - 「【 空飛ぶクルマ 事業性調査】94％以上が「空飛ぶ ... - SkyDrive — 【 空飛ぶクルマ 事業性調査】94％以上が「空飛ぶ ... - SkyDrive 株式会社SkyDrive https://skydrive.co.jp > NEWS」（https://skydrive.co.jp/news/7613/）
+  - 「空飛ぶクルマ 発着場、近畿で40年に30カ所 政府が産業集積 ... — 空飛ぶクルマ 発着場、近畿で40年に30カ所 政府が産業集積 ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUF037VZ0T00C26A8000000/）
   - 「大阪府、 空飛ぶクルマ ・再生医療に400 億円 官民投資計画を国 ... — 大阪府、 空飛ぶクルマ ・再生医療に400 億円 官民投資計画を国 ... 日本経済新聞 https://www.nikkei.com > 地域 > 関西」（https://www.nikkei.com/article/DGXZQOUF303VZ0Q6A630C2000000/）
   - 「スカイドライブ、 空飛ぶクルマ 10機 受注 米運航会社から — スカイドライブ、 空飛ぶクルマ 10機 受注 米運航会社から 日本経済新聞 https://www.nikkei.com > ビジネス > スタートアップ」（https://www.nikkei.com/article/DGXZQOFD204KS0Q4A121C2000000/）
   - 「JALがNEDO補助金を不適切受給 空飛ぶクルマ など、3 億円 弱 ... — JALがNEDO補助金を不適切受給 空飛ぶクルマ など、3 億円 弱 ... 日本経済新聞 https://www.nikkei.com > ビジネス > 物流・運輸」（https://www.nikkei.com/article/DGXZQOUC303EC0Q6A630C2000000/）
@@ -1739,8 +1741,6 @@
   - 「空飛ぶクルマ の国内部品市場、30年に745 億円 矢野経済研予測 — 空飛ぶクルマ の国内部品市場、30年に745 億円 矢野経済研予測 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/688109）
   - 「日本航空 “ 空飛ぶクルマ ”研究めぐり補助金を不正受給 — 日本航空 “ 空飛ぶクルマ ”研究めぐり補助金を不正受給 NHKニュース https://news.web.nhk > newsweb > na-k10015164921000」（https://news.web.nhk/newsweb/na/na-k10015164921000）
   - 「空飛ぶクルマ で広がる未来 知ろう、理解を深めよう — 空飛ぶクルマ で広がる未来 知ろう、理解を深めよう 都庁総合ホームページ https://www.metro.tokyo.lg.jp > ... > 2026年 > 10月」（https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102210）
-  - 「1億円超「 空飛ぶクルマ 」来年発売 2分で車から飛行機へ GS ... — 1億円超「 空飛ぶクルマ 」来年発売 2分で車から飛行機へ GS ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=z5A0V0Xk87A）
-  - 「空飛ぶクルマ ビジネス調査報告書 2026 / 合同会社ポリシー ... — 空飛ぶクルマ ビジネス調査報告書 2026 / 合同会社ポリシー ... 紀伊國屋書店ウェブストア https://www.kinokuniya.co.jp > dsg-08-EK-2327289」（https://www.kinokuniya.co.jp/f/dsg-08-EK-2327289）
 
 ## ロケット打上げ（space launch services）
 - 文脈：6 航空・宇宙 ④ロケット・射場
@@ -1760,6 +1760,9 @@
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
   - 「日系サプライヤーを襲う｢五重苦｣ トヨタから中国で失注」（https://www.nikkei.com/article/DGXZQOSG256940V20C26A2000000/）
 - 顧客（金を払う側）：
+  - 「企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「構造物のパーツの接着に以前の「H2A」とは異なる新方式を採用していた」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「都城で確認の特定外来魚コウライオヤニラミ「1匹200円で買い取ります」――駆除促進へ宮崎県が初の制度導入」（https://373news.com/news/local/detail/195625）
   - 「そこで今回の8号機から、作業効率を向上させるために「開度確認治具」という新しい道具が導入された」（https://note.com/celestial_worlds/n/n30f78960bceb）
   - 「記者会見でJAXAの有田誠氏（H3プロジェクト・マネージャー）は、手順書への明記不足や、新しい治具を導入する際の「変更点管理」の甘さを挙げた」（https://note.com/celestial_worlds/n/n30f78960bceb）
   - 「今回の治具導入も、複数のメンバーでより簡単かつ確実に長さを確認できるようにという、現場の善意から生まれたものだった」（https://note.com/celestial_worlds/n/n30f78960bceb）
@@ -1772,10 +1775,10 @@
   - 「プロジェクト収益や営業損失、受注残高、306億円の資金調達に加え、ADRAS-J2や...」（https://space-connect.jp/h3f10-mmx/）
   - 「H3はJAXAが三菱重工業と開発中の次期基幹ロケットで、設計・開発段階から民間企業である三菱重工が主体的役割を果たしてきた」（https://gendai.media/articles/-/106377）
   - 「運用後には商業利用のための打ち上げを「受注」することを狙っている」（https://gendai.media/articles/-/106377）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGKKZO95475540W6A400C2TJK000/）
-  - 「2025年12月22日のH3ロケット8号機の打上げ失敗を受け、JAXAは、理事長を長とする対策本部を設置し、JAXA内外の有識者をはじめ、関係府省・機関・企業の皆様と連携し、原因究明に係る調査、対策案の検討などを行ってまいりました」（https://www.jaxa.jp/hq-disclosure/h3f8/index_j.html）
-  - 「これまでの原因究明にあたり、社内外の有識者、文部科学省、関係機関・企業の皆様に多大なるご協力、ご支援をいただいたこと、並びに国民の皆様から多くの叱咤激励をいただきましたことに対し、深甚の謝意を表します」（https://www.jaxa.jp/hq-disclosure/h3f8/index_j.html）
 - 顧客の顧客（発注元が求めること）：
+  - 「来春鹿児島県議選へ、自民県連が35人に公認証 現職1人は「他選挙と調整」で交付保留」（https://373news.com/news/local/detail/195625）
+  - 「WE デジタルサイバーセリテWG ecu ae | LAN 9名 ) EH (内政) RFT (oem (aes) . OI, TS. HI)」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf）
+  - 「AFH, RHA. RNA, REA. BA. 防衛省」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf）
   - 「防衛省と三菱電機が「次期防衛衛星通信の整備」に関する契約を締結」（https://space-connect.jp/h3f10-mmx/）
   - 「要求やロケットに搭載する際の各種インタフェース条件を一致させる作業なのですが、まず最初」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「にやらなければならないのが、衛星の軌道投入要求と質量を確認してロケットの打ち上げ能力と」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
@@ -1788,10 +1791,12 @@
   - 「的に伝い渡って行くという軽業師的な身ごなしが要求されました」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「各オーナー共何回かのトライ&エラーを繰り返した後要求する機能を保持する加工」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「N-改Ⅱロケットの調査では第3段モータの要求条件（全長2040mm以下、直径1300mm以下、全質」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「「大型衛星の打上げ要求への対応」はH-Ⅰロケット開発」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「住友商事は今年7月にSpinLaunchへの出資を果たし、今後は日本の通信事業者や官公庁向けにこの新技術を活用した打ち上げサービスを提供する方針を明らかにした」（https://space-connect.jp/spinlaunch-sumitomo/）
-  - 「政府衛星の打上げにおける民間ロケットの活用[内閣官房、内閣府、文部科学省、経済産業省、防衛省等]」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai7/siryou1-1.pdf）
 - 顧客の競合（奪いに来る側）：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「日本政府が米国が進める次世代型ミサイル防衛構想「ゴールデン・ドーム」への参加を、今月予定されている日米首脳会談で伝える方向で調整していること...」（https://space-connect.jp/h3f10-mmx/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOSG1927G0Z11C26A0000000/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOSG1994Q0Z10C26A5000000/）
   - 「また、短期間かつ安価に用意できる点でも合理的なアイディアでもあった」（https://note.com/celestial_worlds/n/n30f78960bceb）
   - 「ベゾス氏の米宇宙企業、大型ロケットを初打ち上げ スペースXと競合」（https://www.asahi.com/articles/ASTDK0F7KTDKUTFL00LM.html）
   - 「沖縄ではなく「琉球」 中国が繰り返す「沖縄地位未定論」のねらいは」（https://www.asahi.com/articles/ASTDK0F7KTDKUTFL00LM.html）
@@ -1802,11 +1807,6 @@
   - 「これは当時米国しか実用化していなかった高性」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「期間で米国、ロシアと肩を並べるまでに発展させてきた様子を実感していただけたら」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「H-Ⅰの開発開始は1977年ということですが、実際には米国の技術援助で開発したN-Ⅰロケッ」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「1970年から始められた、米国技術援助によるN-Ⅰロケットの開発があったことがH-Ⅰ独自開発成功の裏にあることを忘れ」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「第1段はライセンス生産ですが第2段は米国人技術者に指導を受けつつ、当時のデルタロケットよ」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「がら進める米国流の開発方式、デザインフィロソフィーなども学ぶことができたのは貴重な経験でした」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「再着火無し（未だにやっていない）、米国液水ロケット・セントールは4号機、8号機で再着」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「ケットで米国から学び、H-Ⅰロケットで実践された、実証主義に基づく開発フィロソフィーを尊重して進められ、成功を収めら」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
 - 自社の競合（商社・代理店・仲介）：
   - 「が開発する衛星打ち上げサービスの日本における代理店契約を締結したと発表した」（https://space-connect.jp/spinlaunch-sumitomo/）
   - 「9月8日に住友商事が同社の日本代理店契約を結んだと発表しました」（https://space-connect.jp/spinlaunch-sumitomo/）
@@ -1824,6 +1824,12 @@
   - 「商社・卸売り」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
   - 「Agentic AIによるInSAR変動マップの変動要因解釈基盤構築」（https://fund.jaxa.jp/）
 - 政治（法・予算・規制）：
+  - 「予算関連（予算推移、プロジェクト関連）」（https://www.jaxa.jp/press/2026/01/20260120-1_j.html）
+  - 「日本政府が米国が進める次世代型ミサイル防衛構想「ゴールデン・ドーム」への参加を、今月予定されている日米首脳会談で伝える方向で調整していること...」（https://space-connect.jp/h3f10-mmx/）
+  - 「宇宙分野の我が国の中核機関である宇宙航空研究開発機構 (JAXA) の技術基盤・人的資源の強化(R8予算案か」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf）
+  - 「ン【R3<】経済安全保障重要技術育成プログラム (K Program) 、【R4…】中小企業イノベーション創出推進事」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf）
+  - 「Fs BR 3基金事業) そして【R5】宇宙戦略其金事業なとどといった先端技術開発・技術実証の」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf）
+  - 「などの予算措置等を政府として強力に推進しており、 宇宙政策は官主導から官民連携へ」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou3-1.pdf）
   - 「アクセルスペース、宇宙戦略基金第三期に採択｜軌道上実証の低コスト・高頻度化へ」（https://space-connect.jp/h3f10-mmx/）
   - 「予算が確保できないことで、実用的なサイズのエンジンを試作し、試験をするには多額の資」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「目標とするロケットの全体仕様を定め、開発計画が認められれば、予算」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
@@ -1833,12 +1839,6 @@
   - 「当初は開発難度が高く予算面でも厳しい状況にあり、」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「ニットは1985年に認定試験を完了しました」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
   - 「給与の払い方まで政府が決める？岸田内閣はやっぱり「国家統制」がお好き」（https://gendai.media/articles/-/106377）
-  - 「予算関連（予算推移、プロジェクト関連）」（https://www.jaxa.jp/hq-disclosure/h3f8/index_j.html）
-  - 「【また延期】“日の丸ロケット”がダメな根本的な理由を元三菱重工エンジニアが明かす…「JAXAや三菱重工は慢性的な予算不足」（町田 徹） - 2ページ目 | マネー現代 | 講談社」（https://gendai.media/articles/-/106427?page=2）
-  - 「【また延期】“日の丸ロケット”がダメな根本的な理由を元三菱重工エンジニアが明かす…「JAXAや三菱重工は慢性的な予算不足」」（https://gendai.media/articles/-/106427?page=2）
-  - 「日本政府の衛星だけでなく、様々な民間企業の衛星打ち上げや宇宙空間への物資輸送を担える柔軟性と、打ち上げ時刻の正確さと成功率の高さを兼ね備えた信頼性の確立、そして“日の丸ロケット”の弱点とされてきた打ち上げコストの削減（H2Aの1回あたり約100億円から、H3では約50億円に減らす計画だ）の3つを開発の柱に掲げてきた」（https://gendai.media/articles/-/106427?page=2）
-  - 「ところが、日本のロケットは打ち上げコストの高さが響き、政府案件しか打ち上げを受注できなかった」（https://gendai.media/articles/-/106427?page=2）
-  - 「ちなみに、日本の32機のうち28機は日本政府が発注した案件で、民間案件は4機に過ぎなかった」（https://gendai.media/articles/-/106427?page=2）
 - 経済（規模・価格・為替）：
   - 「【今ならキャンペーン価格】有料記事が2カ月間 月額100円で読み放題！」（https://www.asahi.com/articles/ASTDK0F7KTDKUTFL00LM.html）
   - 「都心の2億円マンション「後妻に相続させる」遺言に実子が「待った」」（https://www.asahi.com/articles/ASTDK0F7KTDKUTFL00LM.html）
@@ -1856,38 +1856,45 @@
   - 「新卒1400万円、霞ヶ関キャピタル」（https://www.nikkei.com/article/DGKKZO95475540W6A400C2TJK000/）
   - 「マーベルの18兆円買収、狙いは光電融合中核技術 足りぬ部品押さえる」（https://www.nikkei.com/article/DGKKZO95475540W6A400C2TJK000/）
 - 社会（人・担い手）：
-  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
-  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOSG1931D0Z11C26A0000000/）
-  - 「しかしこれにより技術者・技能者が成長し次のステップへ、これからも続くロ」（https://fanfun.jaxa.jp/information/files/info_20160909_tnsc.pdf）
-  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOSG1927G0Z11C26A0000000/）
-  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOSG202O10Q6A021C2000000/）
-  - 「いる場合においては、機械的な設計だけでなく、操縦する者自身の技能についても確認が」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou2-1.pdf）
-  - 「必要となるところ、その他の役割が与えられている場合も含め、搭乗者の技能に関する基」（https://www8.cao.go.jp/space/comittee/05-yuso/yuso-dai10/siryou2-1.pdf）
-  - 「1. 日本は、自動車や半導体、航空機などの製造業を支える人材と産業基盤が各地域に存在し、地」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/004_06_00.pdf）
-  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOSG256940V20C26A2000000/）
-  - 「H3ロケット開発遅れ・ジェット旅客機挫折は日本の有能「理系人材」不足が原因（磯山 友幸） | マネー現代 | 講談社」（https://gendai.media/articles/-/106377）
-  - 「H3ロケット開発遅れ・ジェット旅客機挫折は日本の有能「理系人材」不足が原因」（https://gendai.media/articles/-/106377）
-  - 「H3ロケット開発遅れ・ジェット旅客機挫折は日本の有能「理系人材」不足が原因」（https://gendai.media/articles/-/106427?page=2）
-  - 「宇宙業界では現在、様々な企業が人材を募集している」（https://space-connect.jp/h3-mission/）
-  - 「業界特化型の人材マッチングサービス「スぺジョブ」」（https://space-connect.jp/h3-mission/）
-  - 「【宇宙業界で仕事をする人にインタビュー#01】自動車産業からElevationSpaceへビジネス人材として出向」（https://space-connect.jp/h3-mission/）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOSG1994Q0Z10C26A5000000/）
+  - 「課題は、人材不足、ロケット製造能力や射場・試験設備の不足・老朽化、打上げ失敗リスク、大規模な先行投資と長い回収期間などです」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「施設であり、地元にとっては産業・雇用・観光・インフラの大きなテーマになります」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「まずは「わがまちが射場・製造・人材のどこで関われるか」を整理するところから始めるのが現実的です」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「地域未来戦略のKPIとしては、たとえば「宇宙関連（ロケット部品など）に取り組む地元企業の数」「射場・関連施設の周辺インフラの整備状況」「宇宙分野の人材育成講座の受講者数」「打上げ見学などで地域を訪れた人の数」などが、このロードマップと方向をそろえやすい指標です」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「自治体の産業振興策（設備投資の相談、品質認証の取得支援、人材確保）と組み合わせやすい分野です」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「リソース制約として、人材不足や経験人材の流動性の低さ、ロケット製造能力や射場・試験設備、組立棟、燃焼試験場、燃料製造保管設備、追跡管制設備等の不足・老朽化があります」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「・人材：人材不足、経験人材の流動性の低さ等」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「：地元の高専・大学と連携した宇宙分野の教育や、他産業からの人材の受け入れを後押しできます」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「ロケット・射場のリソース制約は、人材不足と経験人材の流動性の低さ、製造能力や射場・試験設備等の不足・老朽化です」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「③立地競争力強化として人材流動性の向上と、地域未来戦略と連携した射場整備・特区制度の活用を、④国際連携としてCo-funded事業推進枠組みやCALLISTOプロジェクト等を進めます」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「・宇宙分野においてロケット開発・製造等に係る多様な人材を確保するための宇宙スキル標準の活用の推進」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「・宇宙分野においてロケット開発・製造等に係る多様な人材を確保するための宇宙スキル標準等の整備による人材獲得・人材流動性の向上」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「人材獲得・人材流動性の向上、」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
 - 技術（新しい技術・実証）：
+  - 「宇宙航空研究開発機構（JAXA）は6日、2025年12月に打ち上げに失敗した大型基幹ロケット「H3」8号機を巡り、今後の対策案を提示した」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「同日開催された文部科学省の宇宙開発利用部会の調査・安全小委員会でJAXAが報告した」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「宇宙航空研究開発機構（JAXA）が手掛ける大型基幹ロケット「H3」、イーロン・マスク氏が率いるスペースXなど、世界中で官民が宇宙開発競争を繰り広げています」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「ロケット開発や実験、衛星など最新ニュースをまとめました」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「東京―米ロスが2時間、音速超える旅客機開発へ 動画でクイック解説」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「JAXA | H3ロケット8号機の打上げ失敗原因調査状況について（宇宙開発利用部会 調査・安全小委員会（第59回））」（https://www.jaxa.jp/press/2026/01/20260120-1_j.html）
+  - 「H3ロケット8号機の打上げ失敗原因調査状況について（宇宙開発利用部会 調査・安全小委員会（第59回））」（https://www.jaxa.jp/press/2026/01/20260120-1_j.html）
+  - 「H3ロケット8号機の打上げ失敗原因調査状況について（宇宙開発利用部会 調査・安全小委員会）」（https://www.jaxa.jp/press/2026/01/20260120-1_j.html）
+  - 「1月20日に開催された宇宙開発利用部会 調査・安全小委員会（第59回）において、下記のとおり報告をしました」（https://www.jaxa.jp/press/2026/01/20260120-1_j.html）
+  - 「【2026年11月4日更新】角田宇宙センター「宇宙開発展示室」臨時休館のお知らせ」（https://fanfun.jaxa.jp/information/detail/23389.html）
   - 「宇宙航空研究開発機構（JAXA）は2025年12月20日、記者会見を開き、17日に中止となったH3ロケット8号機の打ち上げについて、経緯と原因を説明した」（https://note.com/celestial_worlds/n/n30f78960bceb）
   - 「H3打ち上げ成功、低コスト機で国際競争力を実証 スペースX追う」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
   - 「［社説］H3成功を宇宙開発の競争力の一歩に」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOUA082GP0Y6A001C2000000/）
-  - 「アクセルスペース、宇宙戦略基金第三期に採択｜軌道上実証の低コスト・高頻度化へ」（https://space-connect.jp/h3f10-mmx/）
-  - 「Space Quarters、ISS船外で電子ビーム溶接・X線検査を実証へ｜2028年に実施予定」（https://space-connect.jp/h3f10-mmx/）
-  - 「現行のXバンド防衛通信衛星「きらめき2号」の後継機となる静止衛星の開発・製造...」（https://space-connect.jp/h3f10-mmx/）
-  - 「H3ロケット開発遅れ・ジェット旅客機挫折は日本の有能「理系人材」不足が原因（磯山 友幸） | マネー現代 | 講談社」（https://gendai.media/articles/-/106377）
-  - 「H3ロケット開発遅れ・ジェット旅客機挫折は日本の有能「理系人材」不足が原因」（https://gendai.media/articles/-/106377）
-  - 「新聞の中には「打ち上げ失敗」と見出しを立てたところがあったが、宇宙航空研究開発機構 （JAXA）の担当者は「失敗ではない」と言う」（https://gendai.media/articles/-/106377）
-  - 「だが、現実は、H3ロケットの開発も苦難の連続と言っていい」（https://gendai.media/articles/-/106377）
-  - 「H3はJAXAが三菱重工業と開発中の次期基幹ロケットで、設計・開発段階から民間企業である三菱重工が主体的役割を果たしてきた」（https://gendai.media/articles/-/106377）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGKKZO95475540W6A400C2TJK000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGKKZO95475540W6A400C2TJK000/）
-  - 「JAXA H3ロケット8号機対策本部は、2026年7月6日に開催された宇宙開発利用部会調査・安全小委員会において、H3ロケット8号機打上げ失敗の原因究明状況について報告いたしました」（https://www.jaxa.jp/hq-disclosure/h3f8/index_j.html）
 - 検索結果の抜粋：
+  - 「H3 ロケット 、25年12月の 打ち上げ 失敗で対策案 JAXAが報告 — H3 ロケット 、25年12月の 打ち上げ 失敗で対策案 JAXAが報告 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOSG063PA0W6A700C2000000/）
+  - 「H3ロケット8号機の打上げ失敗原因調査状況について ... - JAXA — H3ロケット8号機の打上げ失敗原因調査状況について ... - JAXA JAXA｜宇宙航空研究開発機構 https://www.jaxa.jp > press > 2026/01」（https://www.jaxa.jp/press/2026/01/20260120-1_j.html）
+  - 「ロケット 爆発の衛星喪失で約52 億円 補償か無償 打ち上げ 求め ... — ロケット 爆発の衛星喪失で約52 億円 補償か無償 打ち上げ 求め ... sorae 宇宙へのポータルサイト https://sorae.info > 宇宙開発」（https://sorae.info/space/2016_09_06_spacex.html）
+  - 「【 打上げ 日変更】 H3 ロケット 9号機 打上げ 時のセンター施設情報 — 【 打上げ 日変更】 H3 ロケット 9号機 打上げ 時のセンター施設情報 ファン!ファン!JAXA! https://fanfun.jaxa.jp > information > detail」（https://fanfun.jaxa.jp/information/detail/23389.html）
+  - 「r/space on Reddit: 日本 の新型H3 ロケット 、 打ち上げ 成功！でも — r/space on Reddit: 日本 の新型H3 ロケット 、 打ち上げ 成功！でも Reddit https://www.reddit.com > space > comments > japans_new...」（https://www.reddit.com/r/space/comments/1auysie/japans_new_h3_rocket_proved_it_works_but_will_it/?tl=ja）
+  - 「ロケット ・射場とは｜官民投資ロードマップの高頻度 打上げ ... — ロケット ・射場とは｜官民投資ロードマップの高頻度 打上げ ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (6) 航空・宇宙」（https://digital-supporter.net/mirai-ai/17invest/rocket.html）
+  - 「Japan Space Launch Services Market Size & Forecast 2027 ... — Japan Space Launch Services Market Size & Forecast 2027 ... Markntel Advisor https://www.marknteladvisors.com > j...」（https://www.marknteladvisors.com/research-library/japan-space-launch-services-market.html）
   - 「H3 ロケット 8号機、 打ち上げ 直前に緊急停止 冷却用注水設備に ... — H3 ロケット 8号機、 打ち上げ 直前に緊急停止 冷却用注水設備に ... 朝日新聞 https://www.asahi.com > articles」（https://www.asahi.com/articles/ASTDK0F7KTDKUTFL00LM.html）
   - 「H3 ロケット 失敗原因、「製造時の不備」は妥当 文科省専門家 ... — H3 ロケット 失敗原因、「製造時の不備」は妥当 文科省専門家 ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOSG21C350R20C26A4000000/）
   - 「焦点：H3 ロケット 再挑戦、日本の 打ち上げ 正念場 失敗から1 ... — 焦点：H3 ロケット 再挑戦、日本の 打ち上げ 正念場 失敗から1 ... Reuters https://www.reuters.com > world > japan」（https://www.reuters.com/jp/world/japan/RPLU2QFMQRKIBKOEDZ34X3E2KM-2024-02-15/）
@@ -1896,13 +1903,6 @@
   - 「ロケット で宇宙へ「相乗り」。H3商業化への新たな一歩 — ロケット で宇宙へ「相乗り」。H3商業化への新たな一歩 SpaceStep https://space.japanstep.jp > learn > 2026/06」（https://space.japanstep.jp/learn/2026/06/2055/）
   - 「H3 ロケット に予算8倍！急拡大する｢宇宙ビジネス｣12銘柄 — H3 ロケット に予算8倍！急拡大する｢宇宙ビジネス｣12銘柄 四季報オンライン https://shikiho.toyokeizai.net > news」（https://shikiho.toyokeizai.net/news/0/957743）
   - 「ロケット 飛行運用の効率化・高機能化 - 宇宙戦略基金 - JAXA — ロケット 飛行運用の効率化・高機能化 - 宇宙戦略基金 - JAXA JAXA宇宙戦略基金 https://fund.jaxa.jp > techlist > theme3_16」（https://fund.jaxa.jp/techlist/theme3_16/）
-  - 「衛星 打上げロケット 市場の規模・成長レポート、2026〜2035年 — 衛星 打上げロケット 市場の規模・成長レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > satellite...」（https://www.gminsights.com/ja/industry-analysis/satellite-launch-vehicle-slv-market）
-  - 「宇宙戦略基金「民間ロケット打上げ実証加速化（STAND）」に採択いただ... — 6 days ago · インターステラテクノロジズ株式会社（本社：北海道広尾郡大樹町、代表取締役 CEO：稲川貴大、代表取締役 President：中山聡、以下インターステラテクノロジズ）は2026年10月、国立研究開発法人宇宙航空研究開発機構（JAXA）が実施する宇宙戦略基金の技術開発テーマ「民間ロケット打上げ実証 ...」（https://www.istellartech.com/news/releases/11490）
-  - 「民間ロケット打上げ実証加速化（STAND） | JAXA宇宙戦略基金 — 技術開発テーマ 民間ロケット打上げ実証加速化（STAND） 事業名：国際競争力のある高頻度打上げサービス実現に向けた技術開発 概 要 （契約締結・交付決定後に公表） 代表機関名 インターステラテクノロジズ株式会社 採択通知・公表日 2026-10-30 状況 - 担当PO 新谷 美保子 TMI総合法律事務所 ...」（https://fund.jaxa.jp/selectedcompany/theme175/）
-  - 「2023-2024 Directory of Japanese Space Products & Services — SJAC is now comprised of approximately 140 member companies, and these members represent a majority of the companies engaged in the manufacturing, repairing and trading of aircraft, satellites, launch vehicles and related equipment in Japan.」（https://www.sjac.or.jp/wp-content/uploads/2025/12/Directory_of_Japanese_Space_ProductsServices_2023-2024.pdf）
-  - 「Top 11 Space startups in Japan 2026 — Oct 9, 2026 · SPACE ONE is a launch services provider that uses small rockets. We will offer the world’s shortest lead time from contractual engagement to launch, as well as the world’s most frequent launching schedule.」（https://space-startups.org/country/Japan/）
-  - 「Japan Space Launch Services Market Size & Forecast 2034 — Jul 6, 2026 · Market Overview: Japan space launch services market size reached USD 1,146.1 Million in 2025. Looking forward, IMARC Group expects the market to reach USD 4,849.9 Million by 2034, exhibiting a growth rate (CAGR) of 17.39% during 2026-2034.」（https://www.imarcgroup.com/japan-space-launch-services-market）
-  - 「Japan Space Launch Services Market Report by Payload, Launch ... — Jan 1, 2026 · The Japan space launch services market is experiencing substantial growth, driven by the widespread adoption of these procedures across commercial, government, and military and defense sectors.」（https://www.giiresearch.com/report/imarc1922446-japan-space-launch-services-market-report-by.html）
 
 ## 人工衛星（satellite manufacturing）
 - 文脈：6 航空・宇宙 ⑤人工衛星・サービス

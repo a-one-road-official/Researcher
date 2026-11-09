@@ -1,0 +1,609 @@
+{
+ "name": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119）",
+ "en": "Japan Customs imports HS 8480 by 6-digit subheading annual 848041 848071",
+ "aliases": [
+  "財務省 貿易統計 8480.41 輸入 年",
+  "8480.71 金型 輸入額 年次",
+  "普通貿易統計 品目別国別表 8480"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T03:56:40.186990+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "2025年の輸入額は前年比13.4％減の1,092億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "輸出額1,047億円のうち、米国向けが31.2％を占めて最も大きく、次いでタイ12.8％、メキシコ10.8％、中国10.6％の順",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月の輸入額は前年同月比21.0％増の112億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1. 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の輸入額は前年比13.4％減の1,092億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "前年より減少となったのは2年ぶり",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2006年以降で最も大きかった2024年と比べると86.6％の水準",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 輸入相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸出動向 HS8480 2025年 輸出相手国のシェア（％） 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "2. 2025年 輸出相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の輸出相手は74ケ国",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "2 2025年 輸出相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 月次ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1. 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月から2025年11月にかけて減少となったが、この半年余りはやや増加傾向",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://tsukanshi.com/hscode/code/13951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://jeis-kanto.or.jp/license_update/20085/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://hunade.com/kanagata-yunyu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cp.pfa.or.jp/login.html?revision=0&refererPageId=17362",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/srch/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukanshi.com/hscode/code/13953/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-scm.com/hscf/page/14",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ags.co.jp/ir/library/earnings/tanshin_20160729_1q.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyoshin.co.jp/about/disclosure/disclosure_2022/documents/shiryo_01-08.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/biz/seminar/2025/2d02a7a0db2fcb69/250917_2nd_CIQ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jaftas.jp/hscode/user/qs_products.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/external_economy/trade_control/boekikanri/trade-remedy/monitoring/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-scm.com/hscf/archives/123",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikenplus.cfa.go.jp/api/file/5ORBLH8WT",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chiyodagrp.co.jp/ir/2020/0410_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://hts.usitc.gov/search?query=8480.71.80.60",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hexinmusu.com/ja/hs-code-for-aluminum-castings.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toishi.info/hscode/84/8480.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meqt.jml-group.jp/hs-code-navigator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dhl.com/discover/en-jp/logistics-advice/essential-guides/hs-codes",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.post.japanpost.jp/question/oversea/mypage/047_en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aplash.io/blog/26v1cn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-import-guide.com/en/how-to-find-hs-codes-japan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 人手不足 受注 断る",
+   "results": [
+    "https://tsukanshi.com/hscode/code/13951/",
+    "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://jeis-kanto.or.jp/license_update/20085/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://cp.pfa.or.jp/chuhatsu-kikin/membership/assets/file/56.pdf",
+    "https://www.hexinmusu.com/ja/hs-code-for-aluminum-castings.html",
+    "https://www.tfkenpo.or.jp/UploadedFiles/taisenhyo(1021).pdf",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2022/documents/shiryo_01-08.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 受注残 人手不足",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://global-scm.com/hscf/page/14",
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "https://jaftas.jp/hscode/user/code.php?c=1&target=1&content=2&year=2022&code=8480"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 人手不足 損失 億円",
+   "results": [
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://www.ags.co.jp/ir/library/earnings/tanshin_20160729_1q.pdf",
+    "https://www.toyoshin.co.jp/about/disclosure/disclosure_2022/documents/shiryo_01-08.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119）",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.jetro.go.jp/ext_images/biz/seminar/2025/2d02a7a0db2fcb69/250917_2nd_CIQ.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://global-scm.com/hscf/page/14",
+    "https://jaftas.jp/hscode/user/qs_products.php",
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 推移",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.meti.go.jp/policy/external_economy/trade_control/boekikanri/trade-remedy/monitoring/index.html",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://global-scm.com/hscf/archives/123",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 統計 PDF",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://ikenplus.cfa.go.jp/api/file/5ORBLH8WT",
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "https://global-scm.com/hscf/page/14",
+    "https://hunade.com/kanagata-yunyu",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://www.chiyodagrp.co.jp/ir/2020/0410_2.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "https://hts.usitc.gov/search?query=8480.71.80.60",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 従業者規模別",
+   "results": [
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.meti.go.jp/policy/external_economy/trade_control/boekikanri/trade-remedy/monitoring/index.html",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 1人当たり 万円",
+   "results": [
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://hunade.com/kanagata-yunyu",
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://global-scm.com/hscf/page/14",
+    "https://www.hexinmusu.com/ja/hs-code-for-aluminum-castings.html",
+    "https://www.toishi.info/hscode/84/8480.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） 2015 2025",
+   "results": [
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://hts.usitc.gov/search?query=8480.71.80.60",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://hunade.com/kanagata-yunyu",
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "https://global-scm.com/hscf/page/14",
+    "https://www.toishi.info/hscode/84/8480.html",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan Customs imports HS 8480 by 6-digit subheading annual 848041 848071 Japan statistics",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "https://meqt.jml-group.jp/hs-code-navigator/",
+    "https://www.dhl.com/discover/en-jp/logistics-advice/essential-guides/hs-codes",
+    "https://www.post.japanpost.jp/question/oversea/mypage/047_en.html",
+    "https://aplash.io/blog/26v1cn",
+    "https://japan-import-guide.com/en/how-to-find-hs-codes-japan/",
+    "https://www.trade.gov/harmonized-system-hs-codes",
+    "https://www.kanzei.or.jp/english/jtradde/",
+    "https://wtocenter.vn/rcep-market/26570-determining-the-classification-of-goods-imported-into-japan",
+    "https://hub.oceanfreight.jp/en/guide-2/hs-code/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119）",
+   "results": [
+    "https://note.com/dotm2025/n/n58c42f7f3e26",
+    "https://note.com/anbou_navi/n/n1a1150c35951",
+    "https://note.com/nk_advisory/n/n6613ad2e4af5",
+    "https://note.com/sgc_kyoninka/n/n7a4c63a57961",
+    "https://note.com/porty_tsukan/n/ne94f4008dd96",
+    "https://note.com/logistique/n/nc8a7100d4bee",
+    "https://note.com/dotm2025/n/ndde401e3767b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119）",
+   "results": [
+    "https://jp.linkedin.com/",
+    "https://ca.linkedin.com/learning/",
+    "https://www.linkedin.com/jobs/thailand-tariff-schedule-8480.10.00-moulding-boxes-metal-foundry-8480.41-injection-compression-moulds-jobs?f_AL=true",
+    "https://www.linkedin.com/pub/dir/Cécile/VERGNES",
+    "https://www.linkedin.com/company/halliburton",
+    "https://www.linkedin.com/feed/update/urn:li:share:7504357554194657281",
+    "https://jp.linkedin.com/pulse/understanding-hs-code-its-importance-export-business-sudhir-sharma-snbec?tl=ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119）",
+   "results": [
+    "https://www.facebook.com/ProsthoHDC/videos/police-arrest-a-sober-motorist-then-face-immediate-backlash/1435196255368872/",
+    "https://www.facebook.com/neoboxinggym/videos/4月23日水ジム風景夜顔ジムを身近に楽しい感じで毎日営業してます女性8480円税込男性9900円税込共に通いたい放題入会金0円キャンペーン中️そして女性は更に️/1267228418416829/",
+    "https://www.facebook.com/Japan.Customs/photos/貿易統計横浜税関は２０２６年２月分横浜港の貿易速報等を発表しました２０２６年２月分について横浜港の輸出額は7666億円対前年同月比37増となり１３か月連続の増加/1342456167917896/",
+    "https://www.facebook.com/reel/951170493335508/",
+    "https://www.facebook.com/groups/1902545183192803/posts/28629829820037643/",
+    "https://www.facebook.com/rinyajapan/photos/2022年1月からspf-製材とヘムファー製材の小分類が新設されます-木材の輸入事業者をはじめ関係の皆様へお知らせです-この度世界税関機構wcoの定めるhs品目/6266966466710398/",
+    "https://www.facebook.com/marketplace/item/28134657806157238/",
+    "https://www.facebook.com/noriyuki.hayashi.5/videos/話トッポw2skwn3ドルに逆らえば潰されるそんな暗黙の掟が何十年も世界を縛ってきましたでもいまbrics諸国がその掟を破り始めてるんですインドは120億ドル約/1234386725159669/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） note 社長",
+   "results": [
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://hunade.com/kanagata-yunyu",
+    "https://global-scm.com/hscf/page/14",
+    "https://www.kentakukenpo.or.jp/UploadedFiles/%E5%85%AC%E5%91%8A%E7%AC%AC11%E5%8F%B7.pdf",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://cp.pfa.or.jp/chuhatsu-kikin/membership/assets/file/56.pdf",
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119） X 投稿",
+   "results": [
+    "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "https://tsukanshi.com/hscode/code/13953/",
+    "https://hts.usitc.gov/search?query=8480.71.80.60",
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "https://www.kanzei.or.jp/statistical/tariff/detail/index/j/8480100005",
+    "https://global-scm.com/hscf/page/14",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Japan Customs imports HS 8480 by 6-digit subheading annual 848041 848071 site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/economics/international-trade-regulations/harmonized-system-codes-interpretation/",
+    "https://www.linkedin.com/pulse/japan-import-starters-guide-fernando-lira",
+    "https://ga.linkedin.com/posts/niall-oneill_6-digit-hs-codes-mandated-for-cross-border-activity-7066378430342160384-7LEI",
+    "https://www.linkedin.com/pulse/comprehensive-summary-harmonized-system-hs-abdullateef-bashorun-nj5df",
+    "https://www.linkedin.com/pulse/how-find-correct-customs-code-your-product-hs-nc-taric-eyppf",
+    "https://www.linkedin.com/pulse/tariff-classification-guide-how-find-right-hs-code-kirk-gdiplscm-",
+    "https://www.linkedin.com/pulse/mastering-hs-code-classification-gir-rules-practical-hammouda-r47re"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ36頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ36頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ36頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ36頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ36頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ36頁・検索18回）"
+ }
+}

@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・264品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・268品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -13352,11 +13352,12 @@
   - 「次世代自動車による自動産業の変革や、少子高齢化による人手不足など金型産業を取り巻く環境は大きく変化し、新型コロナウイルスの感染拡大によって、そのスピードはさらに加速している」（https://kanagata-shimbun.com/200701news-istma/）
   - 「生産性の向上、人手不足への対応、人を介さないことによる品質向上—」（https://kanagata-shimbun.com/200701news-istma/）
 
-## 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1（092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119））
-- 文脈：財務省 貿易統計 8480.41 輸入 年;8480.71 金型 輸入額 年次;普通貿易統計 品目別国別表 8480
+## 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119）（Japan Customs imports HS 8480 by 6-digit subheading annual 848041 848071）
+- 文脈：統計
 - 受注金額・加工賃収入：
   - 「2025年の輸入額は前年比13.4％減の1,092億円」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
   - 「輸出額1,047億円のうち、米国向けが31.2％を占めて最も大きく、次いでタイ12.8％、メキシコ10.8％、中国10.6％の順」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+  - 「2026年7月の輸入額は前年同月比21.0％増の112億円」（https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1）
 - 10年推移：
   - 「グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 年ベース 【出所】財務省 貿易統計」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
   - 「1. 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
@@ -13369,12 +13370,16 @@
   - 「2. 2025年 輸出相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
   - 「2025年の輸出相手は74ケ国」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
   - 「2 2025年 輸出相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
-- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
-- 事業所数・社数：記載なし（読んだ23頁・検索18回）
-- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
-- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
-- 生産能力・設備：記載なし（読んだ23頁・検索18回）
-- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
+  - 「グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 月次ベース 【出所】財務省 貿易統計」（https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1）
+  - 「1. 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1）
+  - 「2024年11月から2025年11月にかけて減少となったが、この半年余りはやや増加傾向」（https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1）
+  - 「1 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1）
+- 痛み・損（深さの印）：記載なし（読んだ36頁・検索18回）
+- 事業所数・社数：記載なし（読んだ36頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ36頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ36頁・検索18回）
+- 生産能力・設備：記載なし（読んだ36頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ36頁・検索18回）
 
 ## 工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）（Census of Manufacture dies and moulds shipments value annual 2010 2017 Japan）
 - 文脈：統計
@@ -13427,6 +13432,178 @@
 - 生産能力・設備：記載なし（読んだ44頁・検索18回）
 - 人手と仕事の差：記載なし（読んだ44頁・検索18回）
 
+## 金属用金型製造業の製造品出荷額等と品目別の金型の出荷額を同じ年で並べた表（工業統計の産業編と品目編・日本政策金融公庫の調査月報の1兆4294億円と1兆3768億円の年と元の表・産業別と品目別を別の欄に・4-113・4-120）（Census of Manufacture dies and moulds industry shipments vs product shipments same year Japan）
+- 文脈：統計
+- 事業所数・社数：
+  - 「金型の出荷額・事業所数 20年の推移(工業統計)」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「工業統計調査 品目編 1-06 【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+- 社員数・平均社員数：
+  - 「前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「前年同月比５．７％増の２６６億１、０００万円 プレス型は９・７％増、プラ型は３・８％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年５月の金型生産実績をまとめた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「工業統計調査 品目編 1-06 【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1041】製氷業【104111】人造氷」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【000000】合計」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112245】ポリエステル長繊維織物」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112229】その他の絹小幅織物」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112249】その他の合成繊維長繊維織物」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112244】ナイロン長繊維織物」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112251】化学繊維タイヤコード」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【183211】自動車用プラスチック製品」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112221】ちりめん類（小幅のもの）」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112219】その他の絹広幅織物」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【1122】絹・人絹織物業【112149】その他の化学繊維紡績糸織物」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+- 受注金額・加工賃収入：
+  - 「２０１５年の工業統計（品目編）によると、金型出荷額は前年比で３・５％伸び、リーマンショック後と比べても15％増加するなど回復を示している」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「金型の出荷額・事業所数 20年の推移(工業統計)」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「生産額20年前の7割」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「２０１５年の金型出荷額は１兆２２８４億円と前年比で３・５％伸びた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「１兆６２７億円だったリーマンショック前と比べても15％増加しており、地道に回復を続けている」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「いまだにピークの１９９８年の１兆８６７２億円と比べると66％でしかない」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「2024年5月金型生産実績 前年同月比 0.5％減の244億円」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「プレス用金型は11.5％減、プラ用金型は9.9％増 2024年5月の金型生産は、前年同月比0.5%減の243億9,828万円となった」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「前年同月比５．７％増の２６６億１、０００万円 プレス型は９・７％増、プラ型は３・８％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年５月の金型生産実績をまとめた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「工業統計調査 品目編 1-06 【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所） | データベース | 統計データを探す | 政府統計の総合窓口」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+  - 「【１．製造品に関する統計表】（６）産業別出荷における品目別の産出事業所数及び出荷額（従業者４人以上の事業所）」（https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0003448103）
+- 1人あたり・1社あたり金額：
+  - 「プレス用金型は11.5％減、プラ用金型は9.9％増 2024年5月の金型生産は、前年同月比0.5%減の243億9,828万円となった」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「前年同月比５．７％増の２６６億１、０００万円 プレス型は９・７％増、プラ型は３・８％増 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員２０人以上）による平成２６年５月の金型生産実績をまとめた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+- 10年推移：
+  - 「2015年6月4日」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「２０１５年の工業統計（品目編）によると、金型出荷額は前年比で３・５％伸び、リーマンショック後と比べても15％増加するなど回復を示している」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「しかし、国内回帰も言われるなかで、事業所の減少は、潜在的に金型が足りないという別の問題も生まれさせかねない」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「金型の出荷額・事業所数 20年の推移(工業統計)」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「２０１５年の金型出荷額は１兆２２８４億円と前年比で３・５％伸びた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「１兆６２７億円だったリーマンショック前と比べても15％増加しており、地道に回復を続けている」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「金型は５割近くまで一気に減少した」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「98年は８７４３あったが、13年には５４９４で、67％にまで減少した」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「しかし事業所の減少は供給能力の低下を意味し、潜在的には高品質な金型不足という別の問題も生まれつつある」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「金型新聞 平成27年(2015年)6月4日号」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「2024年5月金型生産実績 前年同月比 0.5％減の244億円」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「プレス用金型は11.5％減、プラ用金型は9.9％増 2024年5月の金型生産は、前年同月比0.5%減の243億9,828万円となった」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「2024年10月2日」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「2015年1月10日」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+  - 「前年同月比 4.7％減の295億1,100万円 ゴム型は27.5％増、プレス型は20.4％減 日本金型工業会（会長牧野俊清氏）は、経済産業省機械統計（従業員30人以上）による2017年4月の金型生産実績をまとめた」（https://kanagata-shimbun.com/%E9%87%91%E5%9E%8B%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%EF%BC%9F/）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 中小企業実態基本調査 金属製品製造業 従業者規模別 売上高（資産合計・訂正前後の表でなく損益計算書の売上高の行・e-Stat の確報の表・4-120）（SME basic survey fabricated metal products sales by employee size Japan）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「その他の有効回答 = 廃業、休業又は対象外等」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「経済センサスー活動調査等を基に中小企業の開廃業率を算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「経済センサスー活動調査を基に算出した調査年の母集団数に、上記2)の開廃業率を基に調査年の母集団数を算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「その他の有効回答 = 廃業、休業又は対象外等」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「経済センサスー活動調査等を基に中小企業の開廃業率を算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「経済センサスー活動調査を基に算出した調査年の母集団数に、上記2)の開廃業率を基に調査年の母集団数を算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+- 事業所数・社数：
+  - 「経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「区分：産業中分類＿６７区分、従業者規模＿５区分」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式)」（https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/）
+  - 「経済センサス‐活動調査の「売上(収入)金額」を基に、売上高の総和の目標精度(標準誤差率)を業種分類(産業大分類)・従業者規模区分ごとに(3)に示すとおり目標精度を設定して標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「従業者規模 : 法人企業(常用雇用者数5人以下、6～20人、21～49人、50人以上の4区分)、個人企業」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「目標精度は、公表する統計表の表章を考慮し、業種分類別・従業者規模区分別に概ね8%、産業中分類別に10％、産業中分類・従業者規模区分別に概ね15％と設定した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「なお、産業中分類・従業者規模区分の標本サイズが少なくとも30以上とした」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「上記「１．標本サイズ」の(2)により全体の標本サイズを算出し、次に調査票乙の目標精度を、業種分類別・従業者規模区分別に概ね10%、産業中分類別に15％、産業中分類・従業者規模区分別に概ね20％と設定し、標本サイズを算出した」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式) - データ製作所」（https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/）
+  - 「中小企業実態基本調査_表(1)_従業者規模別表_年度次 2018年度 – 2024年度 (列指向形式)」（https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/）
+  - 「第１～１０表の「(1)産業別・従業者規模別表」を合体しています」（https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/）
+- 社員数・平均社員数：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 受注金額・加工賃収入：
+  - 「資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「通信業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「インターネット附随サービス業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「新聞業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「出版業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「卸売業:資本金1億円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「旅行業:資本金3億円以下又は従業員300人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+- 1人あたり・1社あたり金額：
+  - 「上記以外:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「小売業:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「駐車場業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「物品賃貸業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「宿泊業:資本金5千万円以下又は従業員100人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「上記以外:資本金5千万円以下又は従業員50人以下」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの付加価値額は９，９８６万円（前年度比４．３％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業における、１企業当たりの売上高は２．２億円（前年度比６．９％増）、１企業当たりの営業利益は９０７万円（同１６．６％増）、１企業当たりの経常利益は１，０７５万円（同８．４％増）、１企業当たりの従業者数は９．９人（同１．６％増）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの経常利益は、１，０７５万円（前年度比８．４％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「３．中小企業（法人企業）の付加価値額」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの付加価値額は、９，９８６万円（前年度比４．３％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の従業者１人当たりの付加価値額は、６３１万円（前年度比２．６％増）である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業（法人企業）の１企業当たりの付加価値額（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+- 生産能力・設備：
+  - 「中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「確報（６月）では、速報公表項目に加え、設備投資とリースの状況、海外展開と輸出の状況、受託・委託の状況等を集計・公表」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/）
+  - 「04.設備投資とリースの状況」（https://data-seisaku.com/00553-chusho-00553010-hyo2-extract-list/）
+  - 「中小企業基本法の規定に基づいて、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するための新たな調査として、平成16年9月に初めて実施」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/）
+  - 「04.設備投資とリースの状況」（https://data-seisaku.com/00553-chusho-00553010-hyo1-extract-list/）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/dbview?sid=0003317769）
+  - 「中小企業実態基本調査は、中小企業基本法第10条の規定に基づき、中小企業を巡る経営環境の変化を踏まえ、中小企業全般に共通する財務情報、経営情報及び設備投資動向等を把握するため、中小企業全般の経営等の実態を明らかにし、中小企業施策の企画・立案のための基礎資料を提供するとともに、中小企業関連統計の基本情報を提供するためのデータ収集を行うことを目的にしております」（https://www.e-stat.go.jp/stat-search/files?toukei=00553010）
+  - 「第3次産業活動能力・稼働率指数」（https://www.e-stat.go.jp/stat-search/files?toukei=00553010）
+- 10年推移：
+  - 「（2025年7月30日）」（https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html）
+  - 「中小企業の１企業当たりの売上高、営業利益、経常利益及び従業者数の全てが増加」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの従業者数の変化を産業大分類別にみると、増加しているのは、生活関連サービス業，娯楽業（前年度比１１．５％増）、運輸業，郵便業（同４．９％増）など８産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の従業者数構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「法人企業の１企業当たりの資産は３．７億円で、前年度の３．６億円から０．６％増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業（法人企業）の資産構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの売上高の変化を産業大分類別にみると、増加しているのは、不動産業，物品賃貸業（前年度比１９．１％増）、卸売業（同１４．９％増）、運輸業，郵便業（同８．６％増）など８産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の売上高構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「中小企業の１企業当たりの経常利益の変化を産業大分類別にみると、増加しているのは、運輸業，郵便業（前年度比２８．８％増）、建設業（同２７．８％増）など７産業である」（https://www.henmi-adm.jp/news/3775.html）
+  - 「図 中小企業の経常利益構成比の推移（産業大分類別）」（https://www.henmi-adm.jp/news/3775.html）
+  - 「産業大分類別にみると、学術研究，専門・技術サービス業（同１０．０％増）、建設業（同９．０％増）など８産業で増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「産業大分類別にみると、学術研究，専門・技術サービス業（同８．６％増）、サービス業（他に分類されないもの）（同７．２％増）など７産業で増加している」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年12月」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年11月」（https://www.henmi-adm.jp/news/3775.html）
+  - 「2025年10月」（https://www.henmi-adm.jp/news/3775.html）
+- 人手と仕事の差：記載なし（読んだ50頁・検索18回）
+
+## PRTR 届出事業所数 業種別の年次の表（概要のページの増減率でなく、表のxlsx・csvの電気めっき業・金属製品製造業の行・年ごと・4-41）（PRTR notified facilities by industry annual table electroplating Japan xlsx）
+- 文脈：統計
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 事業所数・社数：記載なし（読んだ55頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ55頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 10年推移：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
 - 事業所数・社数：記載なし（読んだ19頁・検索15回）
@@ -13436,6 +13613,30 @@
 - 生産能力・設備：記載なし（読んだ19頁・検索15回）
 - 10年推移：記載なし（読んだ19頁・検索15回）
 - 人手と仕事の差：記載なし（読んだ19頁・検索15回）
+
+## 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1（092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119））
+- 文脈：財務省 貿易統計 8480.41 輸入 年;8480.71 金型 輸入額 年次;普通貿易統計 品目別国別表 8480
+- 受注金額・加工賃収入：
+  - 「2025年の輸入額は前年比13.4％減の1,092億円」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「輸出額1,047億円のうち、米国向けが31.2％を占めて最も大きく、次いでタイ12.8％、メキシコ10.8％、中国10.6％の順」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+- 10年推移：
+  - 「グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 年ベース 【出所】財務省 貿易統計」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「1. 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「2025年の輸入額は前年比13.4％減の1,092億円」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「前年より減少となったのは2年ぶり」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「2006年以降で最も大きかった2024年と比べると86.6％の水準」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「2025年 輸入相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「1 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸出動向 HS8480 2025年 輸出相手国のシェア（％） 年ベース 【出所】財務省 貿易統計」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+  - 「2. 2025年 輸出相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+  - 「2025年の輸出相手は74ケ国」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+  - 「2 2025年 輸出相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+- 事業所数・社数：記載なし（読んだ23頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
+- 生産能力・設備：記載なし（読んだ23頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
 
 ## 電気めっき業の従業者数を事業所数と同じ表で（工業統計・経済構造実態調査の細分類・平均社員数の欄に業界全体の5（626〜31）
 - 文脈：Japan electroplating industry employees establishments same table census of manufacture

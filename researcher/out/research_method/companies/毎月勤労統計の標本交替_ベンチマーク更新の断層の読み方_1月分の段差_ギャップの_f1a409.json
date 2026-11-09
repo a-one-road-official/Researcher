@@ -1,0 +1,2889 @@
+{
+ "name": "毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）",
+ "en": "Monthly Labour Survey Japan sample rotation benchmark revision gap",
+ "aliases": [
+  "毎月勤労統計 標本交替 ギャップ 読み方",
+  "毎月勤労統計 ベンチマーク更新 断層",
+  "統計委員会 毎月勤労統計 新旧データ 接続"
+ ],
+ "context": "統計の版",
+ "kind": "market",
+ "researched_at": "2026-11-09T03:59:23.335604+00:00",
+ "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "一番上の2024年１月の速報値では、資料で公表されている前年比と、当年と前年同月の指数の割り算で算出される前年比が一致しています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回のベンチマーク更新では、「2021年経済センサスー活動調査」に基づいて推計された母集団が用いられています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "５年経てば、産業・規模別の労働者の比率が変わっているのは無理もなく（もちろん、この間、変化を推計していますが）、結果として、日本全体の賃金、労働時間の集計結果が変わるのは当然でしょう",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数を更新し、実績と推計の乖離を是正 している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "④推計比率(Ｒ)を用いて、",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 毎月勤労統計調査は、産業・規模別に調査事業所の前月末労働者数の合計と母集団労働者数との比率（推計",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "比率）を用いて集計を行っている（前月末労働者数＝母集団労働者数となるように調査した数値に推計比率",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このため、母集団労働者数を適切に設定することが賃金・労働時間を適切に推計するため",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計調査の労働者数の増減等により本月末労働者数を推計し、翌月の母集団労働者数とする推計方式（リ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 上記のとおり、母集団労働者数は、毎月推計により更新していくため、年月がたつにつれて、推計と実績と",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用時期 バージョン モデル推計に使用する期間 先行き予測期間 後戻り予測期間 季節指数を求める期間 始期又は期間の固定の別",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団労働者数 平成28年経済センサス－活動調査等に基づき推計した母集団労働者数 令和３ 年経済センサス－活動調査に基づき推計（ベンチマーク更新）した母集団労働者数を使用",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "平成23年12月分までの「時系列比較のための推計値」から作成した母集団労働者数と整合するよう再推計して指数を作成してるため、Ｇ３はこの再推計した結果から算定する",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これを基に令和５年各月の集計調査票データ及び雇用保険データを用いて各月の労働者数を推計し、その労働者数を前提に再計算する",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ その後、新旧データ接続検討ワーキンググループにおいては、標本交替による新旧断層への対応、母集団情報の変更に伴う更新（比推定におけ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "①-2 当月末の推計労働者数には、事業所の新設・廃止などに伴って増減する労働者数",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "①-1 調査による事業所労働者の増減数の推計：毎月実施",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "前月末の母集団労働者数からの差し引きで、当月末労働者数を推計",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "①-2 雇用保険事業所データ等を用いた母集団労働者数の推計：毎月実施",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "伴い増減した労働者の割合を推計し、①-1で得られた当月末労働者数をこの割合で補正し",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 労働者数推計のベンチマークの更新による影響の公表",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今後、労働者数推計のベンチマークを更新する際は、その影響について、ホームページで公表",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※次回の労働者数推計のベンチマークの更新は、経済センサス-基礎調査の見直しが予定されている",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 精度の検証や所要の補正などに（ベンチマーク以外の）他の統計等を利用できるものに関しては、その活用を検討する",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "九 「雇用者報酬推計における「毎月勤労統計調査」データの調整方法について」（二〇一八年十月三十一日、内閣府経済社会総合研究所国民経済計算部）によれば、「二〇一七年十二月以前の毎勤の賃金データに対してギャップの要因に応じた調整を施した上で、推計に利用する」とされていますが、内閣府はなぜこのような対応をしたのですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 平成27年10月、経済財政諮問会議に おいて、麻生議員がＧＤＰ推計のもととな",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ウエイト更新・計算方法の変更、 ④母集団情報の変更に伴う更新（比推定に",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "合の断層調整、等について 検証し、次のような現状を 把握（別紙１参照）",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団全体の状態（例：売上総額）を推定する",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "査が実施されており、標本調査の推定の対象となっている、母集団全体の「売上総額」等が別途判明",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・精度の検証や所要の補正などに（ベンチマーク以外の）他の統計等を利用できるものに",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「旧ベンチマークを用いた推計結果」の乖離を対象期間中に",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "＞ ■実数原表・実数推計等 ＞ 実数原表 ＞ 月次 ＞ 2026 年 ＞ １月",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・国民経済計算の推計に際し、雇用者報酬の算定資料に利用",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数を更新し、実績と推計の乖離を是正 している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "④推計比率(Ｒ)を用いて、",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ その後、新旧データ接続検討ワーキンググループにおいては、標本交替による新旧断層への対応、母集団情報の変更に伴う更新（比推定におけ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "現時点で最新の結果である2024年2月の速報値でも同様です",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この比率は、「経済センサス」など全企業（母集団）を対象に行う調査の結果などが用いられています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "５年経てば、産業・規模別の労働者の比率が変わっているのは無理もなく（もちろん、この間、変化を推計していますが）、結果として、日本全体の賃金、労働時間の集計結果が変わるのは当然でしょう",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、２月速報の毎月勤労統計の「概況」のトップページには以下の表が出ています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ このため、地方調査の都道府県結果の平均をとっても、全国調査の全国平均とはならない",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 母集団労働者数は、事業所の全数調査である「経済センサス－基礎調査」等の結果を用いて設定し、毎月勤",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果を労働者数のベンチマーク（水準点）として、毎月勤労統計調査の集計に用いる母集団労働者数の実績",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "は選択結果 X-11パートのオプションの選択基準又は選択結果 頻度 時期",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【令和６年１月分調査結果の速報と確報の集計方式の違いの概要】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和６年１月分結果速報 令和６年１月分結果確報",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和４年12 月分までの結果から計算し",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和５年１～12 月分の結果を含めて計",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "平成23年12月分までの「時系列比較のための推計値」から作成した母集団労働者数と整合するよう再推計して指数を作成してるため、Ｇ３はこの再推計した結果から算定する",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 「毎月勤労統計調査の改善に関するワーキンググループ」における検討結果を踏まえ、ベンチマーク更新時の賃金、労働時間",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "に参考とした月次の基幹統計調査において結果を遡及改定していないことを踏まえ、毎月勤労統計調査の賃金指数における「ウエイト（ベンチ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和６年１月分調査の主な結果",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査では、毎月の集計結果を速報と確報の２回公表している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【令和６年１月分調査結果の対前年同月比】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（１）きまって支給する給与の入替え前後の集計結果の差",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査対象事業所を一定期間固定することは、集計結果の安定化のためには有益である",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回は、「平成26年経済センサス-基礎調査」の結果を用いて、平成26年６月末時点の",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのため、雇用保険事業所データの補正結果との",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " サンプル入替え前後の賃金の集計結果の差（今回：2,086円）は、「サンプル入替えによ",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（参考）きまって支給する給与の入替え前後の集計結果の差（調査産業計）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "きまって支給する給与の入替え前後の集計結果の差について",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（平成26年度統計法施行状況に関する審議結果報告書（未諮問基幹統計確認関連分））",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公表値と共通事業所の集計結果の実数の比較について",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "較すると、結果精度に大きな影響を与えて",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "四 厚生労働省資料の資料八−五にある「サンプル入替え」と「ベンチマーク更新」を行ったことに伴う遡及改定あるいは統計データの補正については、それぞれ行うべきと考えており、二月二十二日に厚生労働省が毎月勤労統計調査平成三十年十二月分結果確報及び平成三十年分結果確報を公表する際には、遡及改定あるいは補正した数値を公表すべきと考えるが、それぞれについて遡及改定等をするもしくは遡及改定等しないことは、いつ、どのような主体が、どのような議論、どのような手続きを経て、決定しますか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "十四 統計委員会の旧横断的課題検討部会新旧データ接続検討ワーキンググループの第三回会合（二〇一六年八月三十一日）で示された「『サンプル替えに伴い遡及改訂する際の過去サンプルとの整合性確保のあり方』に関する審議取りまとめ結果」では、「二．今後の方向性等」の中で、［母集団情報の変更に伴う更新］について、「・全数調査などベンチマークとなるものが存在する場合、それを利用して数値を確定する",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＷＧでは�Bを明示的には取り上げていないが、ＷＧにおいて考え方を整理する際に参考とした月次の九基幹統計調査において結果を遡及改定していない",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このため、賃金上昇率が実態を反映しないケースがしばしば見られる",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まま接続する」との諮問内容を、『ＷＧの審議結果（上記⑤）を踏まえたものであ",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "幹統計調査において結果を遡及改定していない",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計法施行状況に関する審議結果（未諮問基 幹統計確認関連分） 」において、",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計の 「賃金・労働時間指数のギャップ補正方法」 に係る審議結果報",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "為標本調査を広く対象として検討を行い、 その結果、ギャップの接続方法に係",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新ベンチマーク結果時点における「新ベンチマーク結果」と",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「旧ベンチマークを用いた推計結果」の乖離を対象期間中に",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "集計しており、2026（令和８）年１月分確報からは入替え後の集計結果による公表と",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "え前後の集計結果の差）を見ることが可能となっております",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年１月入替え前後の集計結果の差",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "入れ替えており、入替え前後の集計結果の差（新旧サンプルの断層（ギャップ））を、毎年４月（１月分確報公表時）に公",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 2026（令和８）年１月分の入替えによる集計結果の差は、現金給与総額では▲1,582円（ ▲ 0.5％）、きまって支給する給",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ このため、地方調査の都道府県結果の平均をとっても、全国調査の全国平均とはならない",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【2026年１月分調査結果の速報と確報における集計方式の違いの概要】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年１月分結果速報 2026年１月分結果確報",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "季節調整値 前年12 月分までの結果から計算した本年１月分の予測季節要素を用いて作成",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これについては、横断的課題審議結果を踏まえた対応であることから、適当である",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "に参考とした月次の基幹統計調査において結果を遡及改定していないことを踏まえ、毎月勤労統計調査の賃金指数における「ウエイト（ベンチ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "サンプル入替え前後の集計結果の差 ～今回の結果及び過去の推移～",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "サンプル入替え前後の集計結果の差 ～規模別の要因分解～",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "入替え後の事業所の結果であり、新旧差は集計時点の",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査｜飯塚 信夫",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 賃上げや季節性の要因等もあるが、毎月勤労統計調査は、サンプルを継続的に調査していることから、生存者バイアス",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "すなわち、毎月勤労統計の賃金において、「生存者バイアス」が一定程度存在することを示している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査｜飯塚 信夫",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月のように「毎月勤労統計調査」（厚生労働省）の速報値の動向を書かせていただいているのに、「こんな変なことが起きてるんかい」と今頃気が付きました",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "経済分析などで「毎月勤労統計調査」の賃金、労働時間関連の指数を使う際は、2024年１月以降の値は使ってはいけないというのが結論です",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計で調査・公表されている賃金、労働時間、労働者数のそれぞれ代表的な指数などを、厚生労働省の各時点の公表資料（概況と呼ばれます）から転記したものです",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、毎月勤労統計調査で最も注目されるのは賃金です",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査における賃金や労働時間は、産業・規模別の一人平均の賃金・労働時間を、その産業（規模別で）が日本全体に占める比率を用いて積み上げることで算出されています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そもそも、毎月勤労統計の各公表時点での実績値は、現金給与総額の金額、総労働時間の時間数、常用雇用の人数などです",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、２月速報の毎月勤労統計の「概況」のトップページには以下の表が出ています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以上より、今回の厚生労働省の毎月勤労統計調査担当の対応には問題があると私は考えます",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計委員会は一体何をやっているのですかね？",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（統計・情報システム管理、労使関係担当）",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査におけるベンチマーク更新等",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１．毎月勤労統計調査の概要",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査におけるベンチマークの更新について",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 毎月勤労統計調査は、産業・規模別に調査事業所の前月末労働者数の合計と母集団労働者数との比率（推計",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計調査の労働者数の増減等により本月末労働者数を推計し、翌月の母集団労働者数とする推計方式（リ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果を労働者数のベンチマーク（水準点）として、毎月勤労統計調査の集計に用いる母集団労働者数の実績",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "〇 毎月勤労統計調査においては、雇用指数、賃金指数、労働時間指数及び入・離職率（月次及び四半期）の系列に",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "〇 毎月勤労統計調査の季節調整値は、１～ 12月までのデータが揃った時点で、過去に遡って改訂している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【 毎月勤労統計調査における季節調整法の適用状況（令和５年４月１日現在）】資料出所：総務省HP",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用時期 バージョン モデル推計に使用する期間 先行き予測期間 後戻り予測期間 季節指数を求める期間 始期又は期間の固定の別",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 「毎月勤労統計調査の改善に関するワーキンググループ」における検討結果を踏まえ、ベンチマーク更新時の賃金、労働時間",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（参考）毎月勤労統計調査における遡及改訂の考え方について",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※ 平成 31 年２月 22 日 統計委員会委員長談話",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "厚生労働省政策統括官（統計・情報政策、政策評価担当）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（１）「毎月勤労統計」における賃金の水準・変化率の捉え方",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "〈参考〉毎月勤労統計を巡る経済財政諮問会議ならびに統計委員会における議論（抜粋）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計における標本には、第一種事業所（常時30人以上を雇用する事業所）と",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計のローテーション・サンプリングへの移行については、精度向上に",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ついての新たな情報提供も、できるだけ早く統計委員会へ報告してほしい",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（第124回統計委員会・西村委員長談）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 基礎統計が利用可能となったとき、母集団労働者数のベンチマーク更新を行う",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "雇用保険事業所や毎月勤労統計のデータを用いて、当月中に事業所の新設、廃止などに",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回は、ローテーション・サンプリングの採用により、「サンプル入替えの寄与」",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 「毎月勤労統計」では、標本交替やウエイト更新時に、新旧指数をそのまま接続してい",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "平成28年３月24日第４回経済財政諮問会議議事要旨（西村統計委員会委員長発言抜粋）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ている継続サンプルによる指標であるので、景気を表わす統計としては、統一的に参考",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 厚生労働省では、統計委員会の考え方を踏まえて、前年ならびに当年において「継続して",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（注）確報公表後、政府統計の総合窓口（e-Stat）で公表予定",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査におけるベンチマーク更新に伴うギャップ補正の必要性等に関する質問主意書",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "政府は、一月十一日に「毎月勤労統計調査において全数調査するとしていたところを一部抽出調査で行っていたことについて」を公表し、これまでの毎月勤労統計が不正な調査に基づくものであること等を公表し、過去の確定したデータの再集計、公表を行うとともに、再集計値に基づく追加給付を実施することとしています",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、一月二十二日には、毎月勤労統計調査等に関する特別監察委員会により「毎月勤労統計調査を巡る不適切な取扱いに係る事実関係とその評価等に関する報告書」が厚生労働大臣に提出されました",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、一月三十日に開催された第百三十一回統計委員会では、毎月勤労統計の不正調査や再集計等に関する様々な資料が提出され、経緯等の説明が行われました",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一 第百三十一回統計委員会に厚生労働省から提出された資料八（以下、厚生労働省資料という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）のうち、資料八−五における「ベンチマーク更新」について、これは、二〇一八年一月から適用されていますが、その適用に伴い、第百二十六回統計委員会参考一として配布された第百二十五回統計委員会での「『毎月勤労統計』の接続方法及び情報提供に係る統計委員会の評価」（以下、「統計委員会の評価」という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）の二．（二）諮問・答申にある遡及改定をしないことについて、厚生労働省及び総務省統計委員会それぞれについて、いつ、どのような主体が、どのような議論、どのような手続きを経て決定したのですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二 「ベンチマーク更新」に伴う遡及改定などの対応を行わないことについて、統計委員会、総務省は是認していますか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "三 西村統計委員長は、二月十八日の衆議院予算委員会で、「ウェート変更の問題は非常に問題が複雑になっているために、この時期のときではまだ十分な資料がないという形で、これはまだ事実上ペンディングの状態になっているというふうに私は考えます",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計委員会で、この「ウェート変更」に関する議論が行われたのは、何月何日ですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "議論が行われていないのであれば、この「ウェート変更」は、厚生労働省が統計委員会の議論を経ずに、独断で行っていると理解してよろしいですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "四 厚生労働省資料の資料八−五にある「サンプル入替え」と「ベンチマーク更新」を行ったことに伴う遡及改定あるいは統計データの補正については、それぞれ行うべきと考えており、二月二十二日に厚生労働省が毎月勤労統計調査平成三十年十二月分結果確報及び平成三十年分結果確報を公表する際には、遡及改定あるいは補正した数値を公表すべきと考えるが、それぞれについて遡及改定等をするもしくは遡及改定等しないことは、いつ、どのような主体が、どのような議論、どのような手続きを経て、決定しますか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "五 毎月勤労統計調査における共通事業所による前年同月比の、実質賃金の変化率（伸び率）の公表は、「毎月勤労統計の『共通事業所』の賃金の実質化をめぐる論点に係る検討会」（以下、実質化検討会という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "六 毎月勤労統計調査では、二〇一八年一月分調査から常用労働者の定義の変更が行われ、「臨時又は日雇労働者で前二カ月の各月にそれぞれ十八日以上雇われた者」（日雇労働者）が定義から外れました",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この点について、統計委員会の諮問第九十七号の答申「毎月勤労統計調査の変更について」の中で、「定義変更に伴う賃金等への影響について、十分な情報提供を行う必要がある",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "求められる毎月勤労統計の再見直し |ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "求められる毎月勤労統計の再見直し | ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "賃金に対する注目度はこれまでにないほど高まっているが、厚生労働省の「毎月勤労統計」は様々な問題を抱えており、賃金動向を正確に把握する上で必ずしも適切な統計と言えない面がある",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "私が考える対応方法は、2023年の各月の指数の実績値に、公表される前年同月比を掛け合わせることで2024年の各月の指数を延長することです",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "見込まれるものの、それでも発生するギャップに対応した指数の作成方法については、本統計の意図しているもの",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " ワーキンググループでは、各種統計調査の接続方法に係る『望ましい方法』として次の通り結論付けた",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "『特性に応じた対応が望ましい方法』として次のとおり取りまとめた",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " サンプル替えの影響に係る計測方法についても併せて検討したが、短期間では結論を出すことができなかった",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "じめ定められている支給条件、算定方法によって支給される給与のこと",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）のうち、資料八−五における「ベンチマーク更新」について、これは、二〇一八年一月から適用されていますが、その適用に伴い、第百二十六回統計委員会参考一として配布された第百二十五回統計委員会での「『毎月勤労統計』の接続方法及び情報提供に係る統計委員会の評価」（以下、「統計委員会の評価」という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "九 「雇用者報酬推計における「毎月勤労統計調査」データの調整方法について」（二〇一八年十月三十一日、内閣府経済社会総合研究所国民経済計算部）によれば、「二〇一七年十二月以前の毎勤の賃金データに対してギャップの要因に応じた調整を施した上で、推計に利用する」とされていますが、内閣府はなぜこのような対応をしたのですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）の、第五回検討会で示された、「毎月勤労統計のサンプル入れ替え方法とギャップの補正方法の今後の方向」では、「ベンチマークの更新によるギャップは従来の三角修正をそれぞれ適用することとするが、過去の増減率については再計算せず変更しない方式が望ましいと考えられる",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、「統計委員会の評価」では、「今回の断層には、�D標本交替による断層に加えて、�B基準改定・ウエイト更新・計算方法の変更に伴う断層も含まれている",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし「統計委員会の評価」における「�B基準改定・ウエイト更新・計算方法の変更に伴う断層」は、［母集団情報の変更に伴う更新］に該当するものであり、それならば「断層を解消する」と結論付けられており、「統計委員会の評価」には事実誤認がありませんか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計の作成方法を見直し、ベンチマーク更新やサンプル入れ替えによる断層を同一基準で調整した上で、過去に遡ってデータを改定すべきである",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・2024年1月のベンチマーク更新時の公表方法変更に問題",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Google検索「Preferred Sources（優先ソース）」設定方法",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※設定済みの方はステップ２でチェックがついています",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「毎月勤労統計」の接続方法及び情報提供に係る統計委員会の評価",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "タ接続検討ＷＧを設置し、各種統計調査の接続方法に係る『望ましい方法』を 整",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ウエイト更新・計算方法の変更、 ④母集団情報の変更に伴う更新（比推定に",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " ＷＧでは、各種統計調査の接続方法に係る『望ましい方法』として次のとおり結",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新・計算方法の変更に伴う断層も含 まれている",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "団情報の変更に伴う更新に関して、上記「望ましい方法」を適切に適用している",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 諮問97号の答申では『（接続方法を変更した新指数の）公表に当たっては、利用",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 毎月勤労統計の新旧指数の接続方法に関する情報提供はＷＧの例示を踏まえ",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "浸透するように、継続サンプル系列の利用方法や本系列との使い分けについて",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "続サンプル系列の利用方法、などに関する分かりやすい説明資料を作成し、次回",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1 毎月勤労統計のギャップ補正方法等については、平成27 年 12 月 11 日の統",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "計を審議し、 「賃金・労働時間指数のギャップ補正方法等について、労働者数",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "の基準数値の更新時の補正方法についてどのような方法を検討しているか」",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "として、労働者数の基準数値の更新時の補正方法も論点の一つとされ、厚生労",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）時の補正方法の取扱いを含めた説明が行われた",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計の 「賃金・労働時間指数のギャップ補正方法」 に係る審議結果報",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その中でも、 ベンチマーク（ウエイト） 更新時の補正方法は論",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "為標本調査を広く対象として検討を行い、 その結果、ギャップの接続方法に係",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ップ補正であることは明示されていないものの、 接続方法の変更について確認",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ップ補正であることは明示されていないものの、 従前の方法を改め、 新旧指数",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年８月の 「 「毎月勤労統計」 の接続方法及び情報提供に係る統計委員会の評価」",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 検討に際しては「 統計技術的に標準的な方法が用いられ ている」との観点から基幹統計調",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 以上の検討等を踏まえ、ワーキンググループでは各種統計調査の接続方法に係る 『 望ま",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 上記を補完するものとして『 特性に応じた対応が望ましい方法 』として次のとおり取りまと",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " サンプル替えの影響に係る計測方法についても併せて検討した が、短期間で は結論を 出",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査方法 郵送調査、オンライン調査",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以上の検討等を踏まえ、ワーキンググループでは各種統計調査の接続方法に係る『望ましい方法 』として次のとおり結論付けた",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "従前の方法を改め、新指数と旧指数をそのまま接続させるとともに、遡及改定も行わないこととしている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/good_poppy696/n/n4f00eca6d7e1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fuzai_no_ki/n/n2b941f5d64c8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/todobuono/n/n4500b9df68d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazucallnote/n/n7cc2677c8152",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazucallnote/n/naa673827f354",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.tottori.lg.jp/318250.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.yamaguchi.lg.jp/soshiki/22/15952.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450071&tstat=000001011791&second=1&cycle=0&tclass1=000001164706&tclass2=000001164766&tclass3=000001217221&layout=datalist&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/a0206/a031/2014sisukaitei2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/10700000/000877138.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&layout=dataset&toukei=00450071&stat_infid=000032189814",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.npis.jp/files/202505/20250527015.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/publication/financial_review/fr_list8/r159/r159_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202612-bls-benchmark-revisions-is-this-time-different",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/web/empsit/cesbmart.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/brp/ron_2026/data/ron260630a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://budgetlab.yale.edu/research/how-interpret-annual-jobs-revision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF12827.web.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everycrsreport.com/reports/IF13084.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120） site:note.com",
+   "results": [
+    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
+    "https://note.com/fuzai_no_ki/n/n2b941f5d64c8",
+    "https://note.com/todobuono/n/n4500b9df68d9",
+    "https://note.com/kazucallnote/n/n7cc2677c8152",
+    "https://note.com/todobuono/n/n74c5a63bfea5",
+    "https://note.com/kazucallnote/n/naa673827f354",
+    "https://note.com/data_pn/n/n3a33a9120a47"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120） note",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "https://note.com/todobuono/n/n74c5a63bfea5",
+    "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "https://www.pref.tottori.lg.jp/318250.htm",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15952.html",
+    "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2014sisukaitei2.html",
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120） やり方",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15952.html",
+    "https://www.pref.tottori.lg.jp/318250.htm",
+    "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450071&tstat=000001011791&second=1&cycle=0&tclass1=000001164706&tclass2=000001164766&tclass3=000001217221&layout=datalist&tclass4val=0",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2014sisukaitei2.html",
+    "https://www.mhlw.go.jp/content/10700000/000877138.pdf",
+    "https://www.soumu.go.jp/main_content/000605054.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120） 事例",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "https://www.pref.tottori.lg.jp/318250.htm",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15952.html",
+    "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450071&tstat=000001011791&second=1&cycle=0&tclass1=000001164706&tclass2=000001164766&tclass3=000001217221&layout=datalist&tclass4val=0",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2014sisukaitei2.html",
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Monthly Labour Survey Japan sample rotation benchmark revision gap",
+   "results": [
+    "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202612-bls-benchmark-revisions-is-this-time-different",
+    "https://www.bls.gov/web/empsit/cesbmart.htm",
+    "https://www.boj.or.jp/en/research/brp/ron_2026/data/ron260630a.pdf",
+    "https://budgetlab.yale.edu/research/how-interpret-annual-jobs-revision",
+    "https://www.congress.gov/crs_external_products/IF/HTML/IF12827.web.html",
+    "https://www.everycrsreport.com/reports/IF13084.html",
+    "https://mmgrea.com/january-2026-jobs-report-2025-benchmark-revisions/",
+    "https://www.nber.org/system/files/working_papers/w34924/w34924.pdf",
+    "https://realeconomy.rsmus.com/market-minute-the-upcoming-benchmark-revisions-to-jobs-data/",
+    "https://www.e-stat.go.jp/en/statistics/00450071"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）",
+   "results": [
+    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
+    "https://note.com/todobuono/n/n4500b9df68d9",
+    "https://note.com/fuzai_no_ki/n/n2b941f5d64c8",
+    "https://note.com/todobuono/n/n74c5a63bfea5",
+    "https://note.com/kazucallnote/n/n7cc2677c8152",
+    "https://note.com/kazucallnote/n/naa673827f354",
+    "https://note.com/data_pn/n/n3a33a9120a47"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）",
+   "results": [
+    "https://x.com/TMiyajima1115/status/2030803735782584651",
+    "https://x.com/Keiichizen/status/1090861380150816769",
+    "https://x.com/hashtag/ベンチマーク更新",
+    "https://x.com/hashtag/毎月勤労統計調査",
+    "https://x.com/yuki_endo0815/status/2074297048057466915",
+    "https://x.com/takaichi_sanae/status/2097145218655223975",
+    "https://x.com/TMiyajima1115/status/2097115794845102186"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）",
+   "results": [
+    "https://www.linkedin.com/news/story/勤労統計不適切調査の波紋-4616732/",
+    "https://jp.linkedin.com/posts/yuhei-asakura-95b77738_国の姿映す統計の劣化政府は直視を肥後雅博東大教授の危惧-日本経済新聞-activity-7473920714392092672-RmgO",
+    "https://jp.linkedin.com/pulse/what-key-statistics-matter-compensation-epflf?tl=ja",
+    "https://www.linkedin.com/posts/iwao-watanabe-b485a7163_ジルの評価-読みましたこれはdeepseek-v41-flash-の2026-activity-7517186686737518592-eUQY",
+    "https://jp.linkedin.com/posts/雄平-酒井-a877a822_デロイト人事制度報酬調査2025要員人件費の生産性に関するベンチマーク-activity-7354787057312915456--VUD",
+    "https://jp.linkedin.com/pulse/beyond-pricing-revenue-lift-statistics-case-studies-benchmarks-kakas-9mk3e?tl=ja",
+    "https://jp.linkedin.com/pulse/how-create-effective-benchmarking-alejandra-maría-cienfuegos-díaz?tl=ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120）",
+   "results": [
+    "https://www.facebook.com/yanoresearch/posts/毎月勤労統計調査標本入替え問題厚生労働省は標本誤差について丁寧な説明をhttpswwwyanocojphiramekishowid125/1660697134040254/",
+    "https://www.facebook.com/yajimasr/posts/毎月勤労統計調査問題について思う平成31年2月号更新-やじまのちょっとひとことhttpwwwyajima-srcom2185/1317907175025876/",
+    "https://www.facebook.com/nliresearch/posts/1056325512955525/",
+    "https://www.facebook.com/office.oshima/posts/毎月勤労統計調査2025年分結果確報-概況の全体を見たい場合は印刷用のpdfファイルをご覧ください-httpswwwmhlwgojptoukeiitiranro/1337358328432841/",
+    "https://www.facebook.com/story.php/?story_fbid=1308074064694601&id=100064760584269",
+    "https://www.facebook.com/nagatsumaakira/posts/衆議院予算委員会で質疑に立ち安倍晋三総理等に対して米朝会談毎月勤労統計のベンチマーク更新問題について質しました-詳しくはこちらをご覧くださいhttpsnagat/2376491172370521/",
+    "https://www.facebook.com/office.oshima/posts/毎月勤労統計調査2026年2月分結果確報-概況の全体を見たい場合は印刷用のpdfファイルをご覧ください-httpswwwmhlwgojptoukeiitiran/1384691677032839/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "https://note.com/todobuono/n/n74c5a63bfea5",
+    "https://www.pref.tottori.lg.jp/318250.htm",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15952.html",
+    "https://www.pref.saitama.lg.jp/a0206/a031/2014sisukaitei2.html",
+    "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "https://www.mhlw.go.jp/content/10700000/000877138.pdf",
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "毎月勤労統計の標本交替・ベンチマーク更新の断層の読み方（1月分の段差・ギャップの要因の分け方・統計委員会の評価・4-120） X 投稿",
+   "results": [
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "https://www.pref.tottori.lg.jp/318250.htm",
+    "https://www.pref.yamaguchi.lg.jp/soshiki/22/15952.html",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450071&tstat=000001011791&second=1&cycle=0&tclass1=000001164706&tclass2=000001164766&tclass3=000001217221&layout=datalist&tclass4val=0",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/workshops/stateng/statpaper2021/stat0507.pdf",
+    "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "https://www.soumu.go.jp/main_content/000605054.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Monthly Labour Survey Japan sample rotation benchmark revision gap site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/avyagrawal",
+    "https://www.linkedin.com/in/shivam12199715",
+    "https://www.linkedin.com/in/pawankumar-suresh",
+    "https://pt.linkedin.com/in/fonsecamiguel",
+    "https://www.linkedin.com/in/christopher-kruglik",
+    "https://www.linkedin.com/in/aiman-perween-afsar-mbbs-3b17511b0",
+    "https://uk.linkedin.com/in/dr-john-sebastian-pereira",
+    "https://uk.linkedin.com/in/simone-culurgioni-587bb424",
+    "https://www.linkedin.com/in/c-david-ko",
+    "https://ch.linkedin.com/in/guenter-grimm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "一番上の2024年１月の速報値では、資料で公表されている前年比と、当年と前年同月の指数の割り算で算出される前年比が一致しています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回のベンチマーク更新では、「2021年経済センサスー活動調査」に基づいて推計された母集団が用いられています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "５年経てば、産業・規模別の労働者の比率が変わっているのは無理もなく（もちろん、この間、変化を推計していますが）、結果として、日本全体の賃金、労働時間の集計結果が変わるのは当然でしょう",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数を更新し、実績と推計の乖離を是正 している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "④推計比率(Ｒ)を用いて、",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 毎月勤労統計調査は、産業・規模別に調査事業所の前月末労働者数の合計と母集団労働者数との比率（推計",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "比率）を用いて集計を行っている（前月末労働者数＝母集団労働者数となるように調査した数値に推計比率",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このため、母集団労働者数を適切に設定することが賃金・労働時間を適切に推計するため",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計調査の労働者数の増減等により本月末労働者数を推計し、翌月の母集団労働者数とする推計方式（リ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 上記のとおり、母集団労働者数は、毎月推計により更新していくため、年月がたつにつれて、推計と実績と",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用時期 バージョン モデル推計に使用する期間 先行き予測期間 後戻り予測期間 季節指数を求める期間 始期又は期間の固定の別",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団労働者数 平成28年経済センサス－活動調査等に基づき推計した母集団労働者数 令和３ 年経済センサス－活動調査に基づき推計（ベンチマーク更新）した母集団労働者数を使用",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "平成23年12月分までの「時系列比較のための推計値」から作成した母集団労働者数と整合するよう再推計して指数を作成してるため、Ｇ３はこの再推計した結果から算定する",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これを基に令和５年各月の集計調査票データ及び雇用保険データを用いて各月の労働者数を推計し、その労働者数を前提に再計算する",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ その後、新旧データ接続検討ワーキンググループにおいては、標本交替による新旧断層への対応、母集団情報の変更に伴う更新（比推定におけ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "①-2 当月末の推計労働者数には、事業所の新設・廃止などに伴って増減する労働者数",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "①-1 調査による事業所労働者の増減数の推計：毎月実施",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "前月末の母集団労働者数からの差し引きで、当月末労働者数を推計",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "①-2 雇用保険事業所データ等を用いた母集団労働者数の推計：毎月実施",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "伴い増減した労働者の割合を推計し、①-1で得られた当月末労働者数をこの割合で補正し",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 労働者数推計のベンチマークの更新による影響の公表",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今後、労働者数推計のベンチマークを更新する際は、その影響について、ホームページで公表",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※次回の労働者数推計のベンチマークの更新は、経済センサス-基礎調査の見直しが予定されている",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 精度の検証や所要の補正などに（ベンチマーク以外の）他の統計等を利用できるものに関しては、その活用を検討する",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "九 「雇用者報酬推計における「毎月勤労統計調査」データの調整方法について」（二〇一八年十月三十一日、内閣府経済社会総合研究所国民経済計算部）によれば、「二〇一七年十二月以前の毎勤の賃金データに対してギャップの要因に応じた調整を施した上で、推計に利用する」とされていますが、内閣府はなぜこのような対応をしたのですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 平成27年10月、経済財政諮問会議に おいて、麻生議員がＧＤＰ推計のもととな",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ウエイト更新・計算方法の変更、 ④母集団情報の変更に伴う更新（比推定に",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "合の断層調整、等について 検証し、次のような現状を 把握（別紙１参照）",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団全体の状態（例：売上総額）を推定する",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "査が実施されており、標本調査の推定の対象となっている、母集団全体の「売上総額」等が別途判明",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・精度の検証や所要の補正などに（ベンチマーク以外の）他の統計等を利用できるものに",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「旧ベンチマークを用いた推計結果」の乖離を対象期間中に",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "＞ ■実数原表・実数推計等 ＞ 実数原表 ＞ 月次 ＞ 2026 年 ＞ １月",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・国民経済計算の推計に際し、雇用者報酬の算定資料に利用",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数を更新し、実績と推計の乖離を是正 している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "④推計比率(Ｒ)を用いて、",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ その後、新旧データ接続検討ワーキンググループにおいては、標本交替による新旧断層への対応、母集団情報の変更に伴う更新（比推定におけ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "現時点で最新の結果である2024年2月の速報値でも同様です",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この比率は、「経済センサス」など全企業（母集団）を対象に行う調査の結果などが用いられています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "５年経てば、産業・規模別の労働者の比率が変わっているのは無理もなく（もちろん、この間、変化を推計していますが）、結果として、日本全体の賃金、労働時間の集計結果が変わるのは当然でしょう",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、２月速報の毎月勤労統計の「概況」のトップページには以下の表が出ています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ このため、地方調査の都道府県結果の平均をとっても、全国調査の全国平均とはならない",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 母集団労働者数は、事業所の全数調査である「経済センサス－基礎調査」等の結果を用いて設定し、毎月勤",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果を労働者数のベンチマーク（水準点）として、毎月勤労統計調査の集計に用いる母集団労働者数の実績",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "は選択結果 X-11パートのオプションの選択基準又は選択結果 頻度 時期",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【令和６年１月分調査結果の速報と確報の集計方式の違いの概要】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和６年１月分結果速報 令和６年１月分結果確報",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和４年12 月分までの結果から計算し",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和５年１～12 月分の結果を含めて計",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "平成23年12月分までの「時系列比較のための推計値」から作成した母集団労働者数と整合するよう再推計して指数を作成してるため、Ｇ３はこの再推計した結果から算定する",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 「毎月勤労統計調査の改善に関するワーキンググループ」における検討結果を踏まえ、ベンチマーク更新時の賃金、労働時間",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "に参考とした月次の基幹統計調査において結果を遡及改定していないことを踏まえ、毎月勤労統計調査の賃金指数における「ウエイト（ベンチ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "令和６年１月分調査の主な結果",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査では、毎月の集計結果を速報と確報の２回公表している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【令和６年１月分調査結果の対前年同月比】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（１）きまって支給する給与の入替え前後の集計結果の差",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査対象事業所を一定期間固定することは、集計結果の安定化のためには有益である",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回は、「平成26年経済センサス-基礎調査」の結果を用いて、平成26年６月末時点の",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのため、雇用保険事業所データの補正結果との",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " サンプル入替え前後の賃金の集計結果の差（今回：2,086円）は、「サンプル入替えによ",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（参考）きまって支給する給与の入替え前後の集計結果の差（調査産業計）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "きまって支給する給与の入替え前後の集計結果の差について",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（平成26年度統計法施行状況に関する審議結果報告書（未諮問基幹統計確認関連分））",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公表値と共通事業所の集計結果の実数の比較について",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "較すると、結果精度に大きな影響を与えて",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "四 厚生労働省資料の資料八−五にある「サンプル入替え」と「ベンチマーク更新」を行ったことに伴う遡及改定あるいは統計データの補正については、それぞれ行うべきと考えており、二月二十二日に厚生労働省が毎月勤労統計調査平成三十年十二月分結果確報及び平成三十年分結果確報を公表する際には、遡及改定あるいは補正した数値を公表すべきと考えるが、それぞれについて遡及改定等をするもしくは遡及改定等しないことは、いつ、どのような主体が、どのような議論、どのような手続きを経て、決定しますか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "十四 統計委員会の旧横断的課題検討部会新旧データ接続検討ワーキンググループの第三回会合（二〇一六年八月三十一日）で示された「『サンプル替えに伴い遡及改訂する際の過去サンプルとの整合性確保のあり方』に関する審議取りまとめ結果」では、「二．今後の方向性等」の中で、［母集団情報の変更に伴う更新］について、「・全数調査などベンチマークとなるものが存在する場合、それを利用して数値を確定する",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＷＧでは�Bを明示的には取り上げていないが、ＷＧにおいて考え方を整理する際に参考とした月次の九基幹統計調査において結果を遡及改定していない",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このため、賃金上昇率が実態を反映しないケースがしばしば見られる",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まま接続する」との諮問内容を、『ＷＧの審議結果（上記⑤）を踏まえたものであ",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "幹統計調査において結果を遡及改定していない",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計法施行状況に関する審議結果（未諮問基 幹統計確認関連分） 」において、",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計の 「賃金・労働時間指数のギャップ補正方法」 に係る審議結果報",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "為標本調査を広く対象として検討を行い、 その結果、ギャップの接続方法に係",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新ベンチマーク結果時点における「新ベンチマーク結果」と",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「旧ベンチマークを用いた推計結果」の乖離を対象期間中に",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "集計しており、2026（令和８）年１月分確報からは入替え後の集計結果による公表と",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "え前後の集計結果の差）を見ることが可能となっております",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年１月入替え前後の集計結果の差",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "入れ替えており、入替え前後の集計結果の差（新旧サンプルの断層（ギャップ））を、毎年４月（１月分確報公表時）に公",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 2026（令和８）年１月分の入替えによる集計結果の差は、現金給与総額では▲1,582円（ ▲ 0.5％）、きまって支給する給",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ このため、地方調査の都道府県結果の平均をとっても、全国調査の全国平均とはならない",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【2026年１月分調査結果の速報と確報における集計方式の違いの概要】",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2026年１月分結果速報 2026年１月分結果確報",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "季節調整値 前年12 月分までの結果から計算した本年１月分の予測季節要素を用いて作成",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これについては、横断的課題審議結果を踏まえた対応であることから、適当である",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "に参考とした月次の基幹統計調査において結果を遡及改定していないことを踏まえ、毎月勤労統計調査の賃金指数における「ウエイト（ベンチ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "サンプル入替え前後の集計結果の差 ～今回の結果及び過去の推移～",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "サンプル入替え前後の集計結果の差 ～規模別の要因分解～",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "入替え後の事業所の結果であり、新旧差は集計時点の",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査｜飯塚 信夫",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 賃上げや季節性の要因等もあるが、毎月勤労統計調査は、サンプルを継続的に調査していることから、生存者バイアス",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "すなわち、毎月勤労統計の賃金において、「生存者バイアス」が一定程度存在することを示している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査｜飯塚 信夫",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2024年以降の指数を使ってはダメ‼～毎月勤労統計調査",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月のように「毎月勤労統計調査」（厚生労働省）の速報値の動向を書かせていただいているのに、「こんな変なことが起きてるんかい」と今頃気が付きました",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "経済分析などで「毎月勤労統計調査」の賃金、労働時間関連の指数を使う際は、2024年１月以降の値は使ってはいけないというのが結論です",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計で調査・公表されている賃金、労働時間、労働者数のそれぞれ代表的な指数などを、厚生労働省の各時点の公表資料（概況と呼ばれます）から転記したものです",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただし、毎月勤労統計調査で最も注目されるのは賃金です",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査における賃金や労働時間は、産業・規模別の一人平均の賃金・労働時間を、その産業（規模別で）が日本全体に占める比率を用いて積み上げることで算出されています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そもそも、毎月勤労統計の各公表時点での実績値は、現金給与総額の金額、総労働時間の時間数、常用雇用の人数などです",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、２月速報の毎月勤労統計の「概況」のトップページには以下の表が出ています",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以上より、今回の厚生労働省の毎月勤労統計調査担当の対応には問題があると私は考えます",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計委員会は一体何をやっているのですかね？",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（統計・情報システム管理、労使関係担当）",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査におけるベンチマーク更新等",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１．毎月勤労統計調査の概要",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 毎月勤労統計調査の調査結果は、産業・規模別に母集団労働者数を用いた比推定により推計を行っている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査におけるベンチマークの更新について",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "• 毎月勤労統計調査は、産業・規模別に調査事業所の前月末労働者数の合計と母集団労働者数との比率（推計",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計調査の労働者数の増減等により本月末労働者数を推計し、翌月の母集団労働者数とする推計方式（リ",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果を労働者数のベンチマーク（水準点）として、毎月勤労統計調査の集計に用いる母集団労働者数の実績",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "〇 毎月勤労統計調査においては、雇用指数、賃金指数、労働時間指数及び入・離職率（月次及び四半期）の系列に",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "〇 毎月勤労統計調査の季節調整値は、１～ 12月までのデータが揃った時点で、過去に遡って改訂している",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【 毎月勤労統計調査における季節調整法の適用状況（令和５年４月１日現在）】資料出所：総務省HP",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "採用時期 バージョン モデル推計に使用する期間 先行き予測期間 後戻り予測期間 季節指数を求める期間 始期又は期間の固定の別",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 「毎月勤労統計調査の改善に関するワーキンググループ」における検討結果を踏まえ、ベンチマーク更新時の賃金、労働時間",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（参考）毎月勤労統計調査における遡及改訂の考え方について",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※ 平成 31 年２月 22 日 統計委員会委員長談話",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "厚生労働省政策統括官（統計・情報政策、政策評価担当）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（１）「毎月勤労統計」における賃金の水準・変化率の捉え方",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "〈参考〉毎月勤労統計を巡る経済財政諮問会議ならびに統計委員会における議論（抜粋）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計における標本には、第一種事業所（常時30人以上を雇用する事業所）と",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計のローテーション・サンプリングへの移行については、精度向上に",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ついての新たな情報提供も、できるだけ早く統計委員会へ報告してほしい",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（第124回統計委員会・西村委員長談）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 基礎統計が利用可能となったとき、母集団労働者数のベンチマーク更新を行う",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "雇用保険事業所や毎月勤労統計のデータを用いて、当月中に事業所の新設、廃止などに",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回は、ローテーション・サンプリングの採用により、「サンプル入替えの寄与」",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 「毎月勤労統計」では、標本交替やウエイト更新時に、新旧指数をそのまま接続してい",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "平成28年３月24日第４回経済財政諮問会議議事要旨（西村統計委員会委員長発言抜粋）",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ている継続サンプルによる指標であるので、景気を表わす統計としては、統一的に参考",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 厚生労働省では、統計委員会の考え方を踏まえて、前年ならびに当年において「継続して",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（注）確報公表後、政府統計の総合窓口（e-Stat）で公表予定",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計調査におけるベンチマーク更新に伴うギャップ補正の必要性等に関する質問主意書",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "政府は、一月十一日に「毎月勤労統計調査において全数調査するとしていたところを一部抽出調査で行っていたことについて」を公表し、これまでの毎月勤労統計が不正な調査に基づくものであること等を公表し、過去の確定したデータの再集計、公表を行うとともに、再集計値に基づく追加給付を実施することとしています",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、一月二十二日には、毎月勤労統計調査等に関する特別監察委員会により「毎月勤労統計調査を巡る不適切な取扱いに係る事実関係とその評価等に関する報告書」が厚生労働大臣に提出されました",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、一月三十日に開催された第百三十一回統計委員会では、毎月勤労統計の不正調査や再集計等に関する様々な資料が提出され、経緯等の説明が行われました",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一 第百三十一回統計委員会に厚生労働省から提出された資料八（以下、厚生労働省資料という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）のうち、資料八−五における「ベンチマーク更新」について、これは、二〇一八年一月から適用されていますが、その適用に伴い、第百二十六回統計委員会参考一として配布された第百二十五回統計委員会での「『毎月勤労統計』の接続方法及び情報提供に係る統計委員会の評価」（以下、「統計委員会の評価」という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）の二．（二）諮問・答申にある遡及改定をしないことについて、厚生労働省及び総務省統計委員会それぞれについて、いつ、どのような主体が、どのような議論、どのような手続きを経て決定したのですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二 「ベンチマーク更新」に伴う遡及改定などの対応を行わないことについて、統計委員会、総務省は是認していますか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "三 西村統計委員長は、二月十八日の衆議院予算委員会で、「ウェート変更の問題は非常に問題が複雑になっているために、この時期のときではまだ十分な資料がないという形で、これはまだ事実上ペンディングの状態になっているというふうに私は考えます",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計委員会で、この「ウェート変更」に関する議論が行われたのは、何月何日ですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "議論が行われていないのであれば、この「ウェート変更」は、厚生労働省が統計委員会の議論を経ずに、独断で行っていると理解してよろしいですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "四 厚生労働省資料の資料八−五にある「サンプル入替え」と「ベンチマーク更新」を行ったことに伴う遡及改定あるいは統計データの補正については、それぞれ行うべきと考えており、二月二十二日に厚生労働省が毎月勤労統計調査平成三十年十二月分結果確報及び平成三十年分結果確報を公表する際には、遡及改定あるいは補正した数値を公表すべきと考えるが、それぞれについて遡及改定等をするもしくは遡及改定等しないことは、いつ、どのような主体が、どのような議論、どのような手続きを経て、決定しますか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "五 毎月勤労統計調査における共通事業所による前年同月比の、実質賃金の変化率（伸び率）の公表は、「毎月勤労統計の『共通事業所』の賃金の実質化をめぐる論点に係る検討会」（以下、実質化検討会という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "六 毎月勤労統計調査では、二〇一八年一月分調査から常用労働者の定義の変更が行われ、「臨時又は日雇労働者で前二カ月の各月にそれぞれ十八日以上雇われた者」（日雇労働者）が定義から外れました",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この点について、統計委員会の諮問第九十七号の答申「毎月勤労統計調査の変更について」の中で、「定義変更に伴う賃金等への影響について、十分な情報提供を行う必要がある",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "求められる毎月勤労統計の再見直し |ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "求められる毎月勤労統計の再見直し | ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "賃金に対する注目度はこれまでにないほど高まっているが、厚生労働省の「毎月勤労統計」は様々な問題を抱えており、賃金動向を正確に把握する上で必ずしも適切な統計と言えない面がある",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "私が考える対応方法は、2023年の各月の指数の実績値に、公表される前年同月比を掛け合わせることで2024年の各月の指数を延長することです",
+    "url": "https://note.com/todobuono/n/n74c5a63bfea5",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20240408.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "見込まれるものの、それでも発生するギャップに対応した指数の作成方法については、本統計の意図しているもの",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " ワーキンググループでは、各種統計調査の接続方法に係る『望ましい方法』として次の通り結論付けた",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "『特性に応じた対応が望ましい方法』として次のとおり取りまとめた",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " サンプル替えの影響に係る計測方法についても併せて検討したが、短期間では結論を出すことができなかった",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "じめ定められている支給条件、算定方法によって支給される給与のこと",
+    "url": "https://www.soumu.go.jp/main_content/000576510.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）のうち、資料八−五における「ベンチマーク更新」について、これは、二〇一八年一月から適用されていますが、その適用に伴い、第百二十六回統計委員会参考一として配布された第百二十五回統計委員会での「『毎月勤労統計』の接続方法及び情報提供に係る統計委員会の評価」（以下、「統計委員会の評価」という",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "九 「雇用者報酬推計における「毎月勤労統計調査」データの調整方法について」（二〇一八年十月三十一日、内閣府経済社会総合研究所国民経済計算部）によれば、「二〇一七年十二月以前の毎勤の賃金データに対してギャップの要因に応じた調整を施した上で、推計に利用する」とされていますが、内閣府はなぜこのような対応をしたのですか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）の、第五回検討会で示された、「毎月勤労統計のサンプル入れ替え方法とギャップの補正方法の今後の方向」では、「ベンチマークの更新によるギャップは従来の三角修正をそれぞれ適用することとするが、過去の増減率については再計算せず変更しない方式が望ましいと考えられる",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一方、「統計委員会の評価」では、「今回の断層には、�D標本交替による断層に加えて、�B基準改定・ウエイト更新・計算方法の変更に伴う断層も含まれている",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しかし「統計委員会の評価」における「�B基準改定・ウエイト更新・計算方法の変更に伴う断層」は、［母集団情報の変更に伴う更新］に該当するものであり、それならば「断層を解消する」と結論付けられており、「統計委員会の評価」には事実誤認がありませんか",
+    "url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198054.htm",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計の作成方法を見直し、ベンチマーク更新やサンプル入れ替えによる断層を同一基準で調整した上で、過去に遡ってデータを改定すべきである",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・2024年1月のベンチマーク更新時の公表方法変更に問題",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Google検索「Preferred Sources（優先ソース）」設定方法",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※設定済みの方はステップ２でチェックがついています",
+    "url": "https://www.nli-research.co.jp/report/detail/id=80142?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「毎月勤労統計」の接続方法及び情報提供に係る統計委員会の評価",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "タ接続検討ＷＧを設置し、各種統計調査の接続方法に係る『望ましい方法』を 整",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ウエイト更新・計算方法の変更、 ④母集団情報の変更に伴う更新（比推定に",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " ＷＧでは、各種統計調査の接続方法に係る『望ましい方法』として次のとおり結",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "新・計算方法の変更に伴う断層も含 まれている",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "団情報の変更に伴う更新に関して、上記「望ましい方法」を適切に適用している",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 諮問97号の答申では『（接続方法を変更した新指数の）公表に当たっては、利用",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 毎月勤労統計の新旧指数の接続方法に関する情報提供はＷＧの例示を踏まえ",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "浸透するように、継続サンプル系列の利用方法や本系列との使い分けについて",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "続サンプル系列の利用方法、などに関する分かりやすい説明資料を作成し、次回",
+    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1 毎月勤労統計のギャップ補正方法等については、平成27 年 12 月 11 日の統",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "計を審議し、 「賃金・労働時間指数のギャップ補正方法等について、労働者数",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "の基準数値の更新時の補正方法についてどのような方法を検討しているか」",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "として、労働者数の基準数値の更新時の補正方法も論点の一つとされ、厚生労",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "）時の補正方法の取扱いを含めた説明が行われた",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "毎月勤労統計の 「賃金・労働時間指数のギャップ補正方法」 に係る審議結果報",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その中でも、 ベンチマーク（ウエイト） 更新時の補正方法は論",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "為標本調査を広く対象として検討を行い、 その結果、ギャップの接続方法に係",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ップ補正であることは明示されていないものの、 接続方法の変更について確認",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ップ補正であることは明示されていないものの、 従前の方法を改め、 新旧指数",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年８月の 「 「毎月勤労統計」 の接続方法及び情報提供に係る統計委員会の評価」",
+    "url": "https://www.soumu.go.jp/main_content/000605054.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 検討に際しては「 統計技術的に標準的な方法が用いられ ている」との観点から基幹統計調",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 以上の検討等を踏まえ、ワーキンググループでは各種統計調査の接続方法に係る 『 望ま",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 上記を補完するものとして『 特性に応じた対応が望ましい方法 』として次のとおり取りまと",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " サンプル替えの影響に係る計測方法についても併せて検討した が、短期間で は結論を 出",
+    "url": "https://www.soumu.go.jp/main_content/000438604.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査方法 郵送調査、オンライン調査",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以上の検討等を踏まえ、ワーキンググループでは各種統計調査の接続方法に係る『望ましい方法 』として次のとおり結論付けた",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "従前の方法を改め、新指数と旧指数をそのまま接続させるとともに、遡及改定も行わないこととしている",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した",
+    "url": "https://www.mhlw.go.jp/toukei/list/dl/maikin-kaisetsu-20260807.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T03:59:23.335604+00:00"
+}

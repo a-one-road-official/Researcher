@@ -1,0 +1,412 @@
+{
+ "name": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）",
+ "en": "verifying registered address virtual office PO box satellite imagery company OSINT",
+ "aliases": [
+  "登記住所 バーチャルオフィス 見分け方 調査",
+  "registered address verification OSINT satellite",
+  "本店所在地 工場所在地 違い 調べ方"
+ ],
+ "context": "推定",
+ "kind": "market",
+ "researched_at": "2026-11-09T03:56:45.367769+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/owlowl44/n/n8824be4673c2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_samasama/n/n967f732c15e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uehara_kaikei/n/nc8177bd82e96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/builnet_frontier/n/n939a1d4ee49a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fp_info/n/nfc8262875ad1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakuramachi-estate.com/blog/2025/09/17/%E7%99%BB%E8%A8%98%E7%B0%BF%E4%BD%8F%E6%89%80%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E9%81%95%E3%81%86%E7%90%86%E7%94%B1%EF%BC%81%E4%B8%8D%E5%8B%95%E7%94%A3%E7%99%BB%E8%A8%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E7%99%BB%E8%A8%98",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://souzoku.ss-igari.com/%E6%95%85%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98%E7%B0%BF%E4%B8%8A%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E5%8F%A4%E3%81%84%E5%A0%B4%E5%90%88%E3%81%AF%EF%BC%9F%E4%BD%8F%E6%89%80%E3%81%8C%E3%81%A4%E3%81%AA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wantle_support/n/nc864502dbe09",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/katsuragi_rina/n/n8432785bebfc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torus.co.jp/pages/columns/column-82.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www1.touki.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bito-tax.com/home-address-to-chiban/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iqrafudosan.com/channel/search-chiban",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suumo.jp/article/oyakudachi/oyaku/tochi/tochi_knowhow/kaoku_bangou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji05_00210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chester-tax.com/encyclopedia/15971.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trust-souzoku.com/example/example-3335/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legal-heart.com/souzokutoukikatagaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustart.co.jp/media/kaoku-bango-shirabekata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eastbank.jp/2017/09/04/residential-display-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toukishinsei.com/column/the-difference-between-location-and-address-in-registration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www1.touki.or.jp/operate/registered-use/real-estate-info/location/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eos.com/blog/free-satellite-imagery-sources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/OSINT/comments/vm46ua/how_to_find_location_of_an_organization_by_po_box/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.findaddressnow.com/en/blog/how-to-find-address-using-osint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shadowdragon.io/resources/osint-techniques/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planet.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neotas.com/osint-sources-geolocation-osint/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） site:note.com",
+   "results": [
+    "https://note.com/owlowl44/n/n8824be4673c2",
+    "https://note.com/ai_samasama/n/n967f732c15e6",
+    "https://note.com/uehara_kaikei/n/nc8177bd82e96",
+    "https://note.com/builnet_frontier/n/n939a1d4ee49a",
+    "https://note.com/fp_info/n/nfc8262875ad1",
+    "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
+    "https://note.com/fp_info/n/ne1fffc08ad88",
+    "https://note.com/ayu_gyousei/n/nd122475e444b",
+    "https://note.com/takumi_k_biz/n/nd4b689b6fdf6",
+    "https://note.com/high_city/n/nc599b930874f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） note",
+   "results": [
+    "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
+    "https://note.com/ai_samasama/n/n967f732c15e6",
+    "https://note.com/uehara_kaikei/n/nc8177bd82e96",
+    "https://www.sakuramachi-estate.com/blog/2025/09/17/%E7%99%BB%E8%A8%98%E7%B0%BF%E4%BD%8F%E6%89%80%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E9%81%95%E3%81%86%E7%90%86%E7%94%B1%EF%BC%81%E4%B8%8D%E5%8B%95%E7%94%A3%E7%99%BB%E8%A8%98/",
+    "https://note.com/tag/%E7%99%BB%E8%A8%98",
+    "https://www.instagram.com/p/DXC1SPxEhY5/",
+    "https://souzoku.ss-igari.com/%E6%95%85%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98%E7%B0%BF%E4%B8%8A%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E5%8F%A4%E3%81%84%E5%A0%B4%E5%90%88%E3%81%AF%EF%BC%9F%E4%BD%8F%E6%89%80%E3%81%8C%E3%81%A4%E3%81%AA/",
+    "https://note.com/wantle_support/n/nc864502dbe09",
+    "https://note.com/katsuragi_rina/n/n8432785bebfc",
+    "https://www.torus.co.jp/pages/columns/column-82.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） やり方",
+   "results": [
+    "https://www1.touki.or.jp/",
+    "https://bito-tax.com/home-address-to-chiban/",
+    "https://iqrafudosan.com/channel/search-chiban",
+    "https://suumo.jp/article/oyakudachi/oyaku/tochi/tochi_knowhow/kaoku_bangou/",
+    "https://www.moj.go.jp/MINJI/minji05_00210.html",
+    "https://www.sakuramachi-estate.com/blog/2025/09/17/%E7%99%BB%E8%A8%98%E7%B0%BF%E4%BD%8F%E6%89%80%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E9%81%95%E3%81%86%E7%90%86%E7%94%B1%EF%BC%81%E4%B8%8D%E5%8B%95%E7%94%A3%E7%99%BB%E8%A8%98/",
+    "https://chester-tax.com/encyclopedia/15971.html",
+    "https://www.home4u.jp/sell/juku/course/basic/sell-432-33017",
+    "https://kagetsu-gyousei.com/juushoganunagaranai/",
+    "https://kyoninka-labo.jp/2026/11/04/tochi-shoyusha-shirabekata/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） 事例",
+   "results": [
+    "https://trust-souzoku.com/example/example-3335/",
+    "https://legal-heart.com/souzokutoukikatagaki/",
+    "https://www.trustart.co.jp/media/kaoku-bango-shirabekata",
+    "https://eastbank.jp/2017/09/04/residential-display-2/",
+    "https://toukishinsei.com/column/the-difference-between-location-and-address-in-registration/",
+    "https://www1.touki.or.jp/operate/registered-use/real-estate-info/location/",
+    "https://www.moj.go.jp/MINJI/minji05_00694.html",
+    "https://www.e-souzok.com/report/archives/192",
+    "https://cocolocompany.co.jp/?p=5743",
+    "https://ishikawa-office.info/blog/estate-registration/2523/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "verifying registered address virtual office PO box satellite imagery company OSINT",
+   "results": [
+    "https://eos.com/blog/free-satellite-imagery-sources/",
+    "https://www.youtube.com/watch?v=LzlenNwJ-eI",
+    "https://www.reddit.com/r/OSINT/comments/vm46ua/how_to_find_location_of_an_organization_by_po_box/",
+    "https://www.findaddressnow.com/en/blog/how-to-find-address-using-osint",
+    "https://shadowdragon.io/resources/osint-techniques/",
+    "https://www.planet.com/",
+    "https://www.neotas.com/osint-sources-geolocation-osint/",
+    "https://nimbo.earth/stories/google-maps-satellite-imagery-osint-case-study/",
+    "https://www.cyberquizzer.com/blog/osint-geographic-information-systems",
+    "https://osintjet.com/en/company-address-osint/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）",
+   "results": [
+    "https://note.com/uehara_kaikei/n/nc8177bd82e96",
+    "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
+    "https://note.com/takumi_k_biz/n/nd4b689b6fdf6",
+    "https://note.com/lovely_moose206/n/n70a9c24ae3c3",
+    "https://note.com/tyousachuo/n/n2a9acfee3ed1",
+    "https://note.com/hitodeki/n/n3426839cb93f",
+    "https://note.com/cool_lilac6617/n/n545f2d56dac5",
+    "https://note.com/high_city/n/n167fb1c1f4ca",
+    "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
+    "https://note.com/wantle_support/n/nc864502dbe09"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）",
+   "results": [
+    "https://x.com/grok/status/1908611530712641745",
+    "https://x.com/Dutch_TIU/status/2118905602072264833",
+    "https://x.com/moraqualitas/status/1907997415849996375",
+    "https://x.com/takeuchi_gyosei",
+    "https://x.com/SuzukaBike",
+    "https://x.com/KagawaTomo/article/2112667220111401391",
+    "https://x.com/tkworks88",
+    "https://x.com/nipotan/status/2078813217678389635",
+    "https://x.com/enspire_co_jp/status/2039300622932205793",
+    "https://x.com/HolyTech_Inc/status/2115292024618582086"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%BE%B9%E9%9B%84-%E4%B8%AD-147758147",
+    "https://jp.linkedin.com/in/%E5%A4%A7%E8%BC%94-%E6%B8%A1%E9%82%89-a029aa305",
+    "https://jp.linkedin.com/in/office-yinui"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:facebook.com 登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）",
+   "results": [
+    "https://www.facebook.com/LegalOfficeShirokane/",
+    "https://ja-jp.facebook.com/government-nonprofits/resources/basics/facebook",
+    "https://www.facebook.com/GoodPartnersLawOffice/",
+    "https://www.facebook.com/groups/517222878457724/",
+    "https://www.facebook.com/61574100741079/videos/%E6%AD%A3%E4%BD%93%E3%82%92%E9%9A%A0%E3%81%97%E3%81%9F%E5%A6%BB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E4%BC%9A%E9%95%B7%E3%81%A7%E3%81%99/2167971837330607/",
+    "https://www.facebook.com/shin.yamada3/videos/引っ越しの荷物は全部運んだのに登記簿の住所だけ昔の家に残っていませんか2026年4月1日から不動産所有者の住所氏名の変更登記が義務化されています便利なのがスマー/1462943775717448/",
+    "https://www.facebook.com/odinfudousan/videos/2026年4月から義務化実家を相続した人は要注意住所氏名の変更登記を忘れると過料5万円以下の対象に/926230663859816/",
+    "https://www.facebook.com/shiba2003/videos/遺言書があるのに相続手続きができないその原因でいちばん多いのが財産の書き方です自宅を妻にでは法務局で登記ができないことがあります不動産預貯金株式を手続きに使える/1428543752725468/",
+    "https://www.facebook.com/4430.info/posts/抵当権の連帯債務者の住所変更に伴う抵当権の変更の登記の手続-要旨-抵当権の連帯債務者ａ及びｂが日を異にして同一の住所に移転した場合にする抵当権の変更の登記は一の/1740090606070268/",
+    "https://www.facebook.com/arima.office/posts/知ってる人には当たり前ですが意外と知らない人も多い住所の書き方について番号-それとも-番地例えば１２３という住所の場合私の事務所のある三鷹市は１丁目２番３号です/409163252515896/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） note 社長",
+   "results": [
+    "https://note.com/k_ikebe/n/n5c08a4b5da32",
+    "https://note.com/versaroc_ebuchi/n/n652f8e7ef58d",
+    "https://www.moj.go.jp/MINJI/minji06_00210.html",
+    "https://note.com/koshimizu_haruka/n/n829b9910bbf1",
+    "https://www.saitama-shihoshoshi.or.jp/law_qa/%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E4%BC%9A%E7%A4%BE%E6%B3%95%E5%8B%99vol-18%EF%BD%9E%E7%A4%BE%E9%95%B7%E3%81%AE%E4%BD%8F%E6%89%80%E3%82%92%E7%9F%A5%E3%82%89%E3%82%8C/",
+    "https://note.com/t_hayase/n/n7571a550e60a",
+    "https://www.nikkei.com/article/DGXZQOUA219G40R20C22A1000000/",
+    "https://corporate.ai-con.lawyer/articles/address-change/35",
+    "https://www.sgho.jp/blog/登記qa/住所非表示",
+    "https://higuchi-houmu.com/代表取締役の住所を登記簿から隠せる！「住所非/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119） X 投稿",
+   "results": [
+    "https://www1.touki.or.jp/",
+    "https://www.moj.go.jp/MINJI/minji05_00678.html",
+    "https://www.youtube.com/watch?v=iN9P7QvEN8M",
+    "https://yoshimulog.com/jyusyohikoukai/",
+    "https://legal-heart.com/souzokutoukikatagaki/",
+    "https://www.sakuramachi-estate.com/blog/2025/09/17/%E7%99%BB%E8%A8%98%E7%B0%BF%E4%BD%8F%E6%89%80%E3%81%A8%E5%AE%9F%E9%9A%9B%E3%81%AE%E4%BD%8F%E6%89%80%E3%81%8C%E9%81%95%E3%81%86%E7%90%86%E7%94%B1%EF%BC%81%E4%B8%8D%E5%8B%95%E7%94%A3%E7%99%BB%E8%A8%98/",
+    "https://corporate.ai-con.lawyer/articles/address-change/35",
+    "https://www.morita-shihou.jp/information/blog/n1649/",
+    "https://www.torus.co.jp/pages/columns/column-82.html",
+    "https://kyoninka-labo.jp/2026/11/04/tochi-shoyusha-shirabekata/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "verifying registered address virtual office PO box satellite imagery company OSINT site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/opensanctions_20-osint-tools-for-in-depth-investigations-activity-7450507143784382465-v4q_",
+    "https://www.linkedin.com/posts/gisela-perez-de-acha_i-wasnt-supposed-to-be-an-osint-journalist-activity-7517230486025388032-BMhI",
+    "https://www.linkedin.com/posts/craigjsilverman_tips-for-images-geolocation-and-visualization-activity-7465750462139502592-x9gD",
+    "https://www.linkedin.com/posts/edoardocamilli_osint-opensourceintelligence-intelligencecollection-activity-7416385913661882368-6U43",
+    "https://www.linkedin.com/pulse/solving-business-puzzle-open-source-intelligence-osint-tamara-erlij-nyetf",
+    "https://www.linkedin.com/in/andrewsrobertsphd",
+    "https://www.linkedin.com/posts/bowlerderek_osint-breakingnews-digitalforensics-activity-7500477621378441216-dnEa",
+    "https://www.linkedin.com/pulse/osint-vs-privacy-fine-line-between-investigation-invasion-defronix-pdmof",
+    "https://www.linkedin.com/posts/clemensdaniel_osint-activity-7317622705459998721-4vmp",
+    "https://www.linkedin.com/company/sycek-cyber-intelligence"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-09T03:56:45.367769+00:00"
+}
