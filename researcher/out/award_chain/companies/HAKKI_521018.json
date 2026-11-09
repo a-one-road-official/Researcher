@@ -1,0 +1,780 @@
+{
+ "name": "HAKKI",
+ "aliases": [],
+ "context": "東京都・資本金246980万円・はばたく中小企業・小規模事業者300社",
+ "researched_at": "2026-11-09T13:58:45.279403+00:00",
+ "official_url": "https://hakki-group.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2019年3月7日",
+    "url": "https://hakki-group.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "グループ従業員数",
+    "value": "135名（正社員のみ）",
+    "url": "https://hakki-group.com/company/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金等",
+    "value": "24億6,980万円（資本準備金・資本剰余金含む）",
+    "url": "https://hakki-group.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒105-0023 東京都港区芝浦1-13-10 第3東運ビル8F",
+    "url": "https://hakki-group.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "信用スコアリングの開発 / フリート管理CRM開発 / 子会社での金融・フリート管理事業",
+    "url": "https://hakki-group.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "表彰・認定の記録": [
+   {
+    "quote": "Youth Co:Lab ソーシャル・イノベーション・チャレンジ 日本大会2025 歴代受賞者グランプリで優秀賞を受賞しました",
+    "url": "https://hakki-group.com/",
+    "pass": 1
+   },
+   {
+    "quote": "東京ニュービジネス協議会が主催するグローバル大賞2025で、「海外アントレプレナー賞 最優秀賞」を受賞",
+    "url": "https://hakki-group.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FIN/SUM2021において、アワードを受賞",
+    "url": "https://hakki-group.com/company/history/",
+    "pass": 1
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "正式な信用履歴が残りにくい働き方は、伝統的な金融の枠からこぼれ落ちやすい",
+    "url": "https://hakki-group.com/about/business/",
+    "pass": 1
+   },
+   {
+    "quote": "累計顧客数1000名を突破",
+    "url": "https://hakki-group.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "累計顧客2000人突破",
+    "url": "https://hakki-group.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界には未だに多くの人々が金融サービスにアクセスできない現状があります",
+    "url": "https://hakki-group.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "信用スコアリングの開発 / フリート管理CRM開発 / 子会社での金融・フリート管理事業",
+    "url": "https://hakki-group.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金融サービスは人々の生活の中心であり、人々が経済に参加して苦境から脱却し、成功の機会をつかみ、夢を追求することを可能にします",
+    "url": "https://hakki-group.com/about/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "我々は、18億人いると言われる金融アクセスが無い新興国の方々に、“誠実に信用を築くことこそが、豊かな人生への近道だ”という世論の源流を作ります",
+    "url": "https://hakki-group.com/about/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "他社を圧倒するTechとスピードを武器に、信用スコアリングを始めとする上質な金融システムを届け、グローバルサウス初の日本人による銀行設立を通じて社会を革新します",
+    "url": "https://hakki-group.com/about/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "信用スコアリングをはじめ、上質な金融システムを現場へ",
+    "url": "https://hakki-group.com/about/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルサウス初の、日本人による銀行設立を目指す",
+    "url": "https://hakki-group.com/about/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客、パートナー、仲間、支えてくれるすべての人への感謝を忘れない",
+    "url": "https://hakki-group.com/about/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルサウスでは、働く意欲も能力もあるのに、信用履歴や担保がないという理由だけで金融にアクセスできず、稼ぐ手段である車両すら持てない人が少なくありません",
+    "url": "https://hakki-group.com/about/ceo/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫内物流自動化事例｜Hai Robotics",
+    "url": "https://www.hairobotics.com/jp/cases",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫保管密度と作業効率が上がるソリューションを提供するHAI ROBOTICSにお問合せ",
+    "url": "https://www.hairobotics.com/jp/cases",
+    "pass": 3
+   },
+   {
+    "quote": "【BEAMS導入事例】物流現場はどう変わった？自動倉庫型ロボット「HaiPick」のリアルな活用 - YouTube",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "【BEAMS導入事例】物流現場はどう変わった？自動倉庫型ロボット「HaiPick」のリアルな活用",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "「人が動かず、棚が動く物流倉庫」で、働く人を1/4以下に",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "【カメラ初潜入】無数のロボットが動く最新物流センター ここまで来た「自動化」にびっくり仰天 (2026年6月12日)",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "【関西最大のアマゾン巨大倉庫】物流拠点の新設から見える“物流危機”「ドライバー不足」「再配達で宅配ブルー」年間50億個超の荷物いかに捌くか…自動運転輸送は実現可能？（2026年9月10日）",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "【最新テクノロジー】あの物量をさばく巨大企業「Amazon」の物流拠点を覗いたら凄かった…!!",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "【連続起業家が挑む”物流革命”】いま物流業界が熱い 世界の1500兆円市場で勝つ／ロボットで変わる物流 2024年問題の解決策／元モルガン・スタンレー→連続起業家 物流に飛び込んだ理由",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカで最も先進的なロボット倉庫（AIロボット）の内部",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "【1日密着】アマゾンの物流拠点に潜入！お客様の購入機会創出のために効率を改善し続けるアマゾンプロセスアシスタントのしごと／アマゾンジャパン",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "早すぎる配送の謎が明らかに…Amazonの“最新物流拠点”に潜入 1日60万個以上出荷できる超効率的システムとは",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "世界初！“リニア式”で物流革命…巨大物流網まで!?【ブレイクスルー】",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビームスホールディングスの物流現場では、HAI ROBOTICSの自動倉庫型ロボット「HaiPick」を導入し、物流業務の自動化・効率化を進めています",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "本動画では、実際の物流現場でHaiPickがどのように活用されているのか、導入後の運用や現場で感じている効果について、ビームスホールディングスのご担当者様にお話を伺いました",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "アパレル物流ならではの多品種・多SKUへの対応や、限られたスペースの有効活用など、物流自動化を検討されている企業の皆様にも参考となる導入事例です",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ、実際の物流現場で稼働するHaiPickと、そのリアルな活用状況をご覧ください",
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "信用スコアリングの開発 / フリート管理CRM開発 / 子会社での金融・フリート管理事業",
+    "url": "https://hakki-group.com/company/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "倉庫内物流自動化 事例 - Hai Robotics — 倉庫内物流自動化 事例 - Hai Robotics Hai Robotics https://www.hairobotics.com > cases",
+    "url": "https://www.hairobotics.com/jp/cases",
+    "pass": 3
+   },
+   {
+    "quote": "レノボ武漢工場、 Hai Robotics 導入 で全工程スマート化！出庫 ... — レノボ武漢工場、 Hai Robotics 導入 で全工程スマート化！出庫 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=-WhZcEYMp1Q",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 HAI ROBOTICS JAPAN」とパートナーシップ契約を ... — 株式会社 HAI ROBOTICS JAPAN」とパートナーシップ契約を ... 株式会社ダイアログ https://www.dialog-inc.com > ダイアログ関連ニュース",
+    "url": "https://www.dialog-inc.com/dialog-news/press-hai-robotics-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY PROFILE 会社概要 - 広島アルミニウム工業 — COMPANY PROFILE 会社概要 - 広島アルミニウム工業 広島アルミニウム工業 https://www.hai.co.jp > company > company_profile",
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - Nam Hai Art — 会社情報 - Nam Hai Art Nam Hai Art https://namhaiart.com > about",
+    "url": "https://namhaiart.com/about/?lang=ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "How do you say \" Hai Yorokonde\" in English? [English ... - note How do you say \" Hai Yorokonde\" in English? [English ... - note note https://note.com > 音楽 > ポップス",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "How do you say \"Hai Yorokonde\" in English? [English Learning App Cake]｜【公式】Cake（ケーク）",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How do you say \"Hai Yorokonde\" in English? [English Learning App Cake]",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*The image was borrowed from a YouTube thumbnail.",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is Cake, the English app where you can have fun learning native English.🍰",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you all heard the super viral song",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I recently discovered this song for the first time on THE FIRST TAKE (YouTube), and I was captivated by the catchy yet somehow profound lyrics, so I've already been",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "listening to it on repeat every day",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I even watched his own YouTube video explaining the lyrics!👀 Also, I love that smile of his.💓",
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Hai - X Hai - X X https://x.com > Hai",
+    "url": "https://x.com/Hai",
+    "pass": 3
+   },
+   {
+    "quote": "Stanford HAI (@StanfordHAI) / X Stanford HAI (@StanfordHAI) / X X https://x.com > StanfordHAI",
+    "url": "https://x.com/StanfordHAI",
+    "pass": 3
+   },
+   {
+    "quote": "Kay Adams on X: \"@dieselchuck69 @KSlash10 Ha I need to ... Kay Adams on X: \"@dieselchuck69 @KSlash10 Ha I need to ... X https://x.com > @heykayadams",
+    "url": "https://x.com/heykayadams/status/2118791276883755036",
+    "pass": 3
+   },
+   {
+    "quote": "HumanAmyloidImaging (@HAIconference) / X HumanAmyloidImaging (@HAIconference) / X X https://x.com > HAIconference",
+    "url": "https://x.com/HAIconference",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hai Mag - Chair & CEO, Eva Commerce - LinkedIn Hai Mag - Chair & CEO, Eva Commerce - LinkedIn LinkedIn https://www.linkedin.com > growthjedi",
+    "url": "https://www.linkedin.com/in/growthjedi",
+    "pass": 3
+   },
+   {
+    "quote": "HA International, LLC - LinkedIn HA International, LLC - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/ha-international-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Stanford Institute for Human-Centered Artificial Intelligence ( HAI ) Stanford Institute for Human-Centered Artificial Intelligence ( HAI ) LinkedIn https://www.linkedin.com > stanfordhai",
+    "url": "https://www.linkedin.com/company/stanfordhai",
+    "pass": 3
+   },
+   {
+    "quote": "Hai Shalom - Wireless systems and standards professional Hai Shalom - Wireless systems and standards professional LinkedIn https://www.linkedin.com > haishalom",
+    "url": "https://www.linkedin.com/in/haishalom",
+    "pass": 3
+   },
+   {
+    "quote": "HAIX ® North America, Inc. | LinkedIn HAIX ® North America, Inc. | LinkedIn LinkedIn https://jp.linkedin.com > company > haix-north-america",
+    "url": "https://jp.linkedin.com/company/haix-north-america",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Một Hai Ba | Dallas TX - Facebook Một Hai Ba | Dallas TX - Facebook Facebook https://www.facebook.com > ... > Asian Fusion Restaurant",
+    "url": "https://www.facebook.com/mothaibadallas/",
+    "pass": 3
+   },
+   {
+    "quote": "HAI Group | Cheshire CT - Facebook HAI Group | Cheshire CT - Facebook Facebook https://www.facebook.com > ... > Insurance company",
+    "url": "https://www.facebook.com/HAIGroupCT/",
+    "pass": 3
+   },
+   {
+    "quote": "HAIX North America (@HaixNorthAmerica) - Facebook HAIX North America (@HaixNorthAmerica) - Facebook Facebook https://www.facebook.com > HaixNorthAmerica",
+    "url": "https://www.facebook.com/HaixNorthAmerica/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hakki-group.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakki-group.com/about/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakki-group.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakki-group.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakki-group.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakki-group.com/about/mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakki-group.com/about/team/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hakki-group.com/about/ceo/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.goodsill.com/japanese/hawaii-entity-formation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sue-tax.com/column/kaisyasetsuritsu-shihonkin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/companyinfo/contents/finance/004.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.kamagaya.chiba.jp/jigyosha/syoukoushinkou/chushokigyo/tsuikashitei-safty5.files/keisan.h-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.fuchu.tokyo.jp/jigyosha/keesha/kigyo/tyushokigyoshienn/safety.files/5goutenpu1201-ha-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kamakura.kanagawa.jp/shoukou/sien/documents/e5h-1p.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000147367.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-ARVCI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hairobotics.com/jp/cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujifilm.com/jp/ja/business/optical-devices/mvlens/cfha/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dialog-inc.com/dialog-news/press-hai-robotics-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hai.co.jp/company/company_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ha-holdings.co.jp/news.php?nw=TOPICS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Hai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/StanfordHAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/heykayadams/status/2118791276883755036",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HAIconference",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/growthjedi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ha-international-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/stanfordhai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/haishalom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mothaibadallas/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HAIGroupCT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/haix-north-america",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HaixNorthAmerica/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HA I 会社概要 資本金 設立",
+   "results": [
+    "https://www.goodsill.com/japanese/hawaii-entity-formation/",
+    "https://sue-tax.com/column/kaisyasetsuritsu-shihonkin/",
+    "https://doda.jp/companyinfo/contents/finance/004.html",
+    "https://www.ha-sys.co.jp/company/profile/",
+    "https://www.netbk.co.jp/contents/hojin/tips/2021/1206_001881.html",
+    "https://www.daiwahouse.co.jp/company/outline/index.html",
+    "https://www.aloha-road.com/company/inc23.html",
+    "https://www.freee.co.jp/kb/kb-launch/launch-capital/",
+    "https://www.smbc-card.com/hojin/magazine/tips/capital.jsp",
+    "https://hayami.co.jp/company/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HA I 事業内容 売上",
+   "results": [
+    "http://www.city.kamagaya.chiba.jp/jigyosha/syoukoushinkou/chushokigyo/tsuikashitei-safty5.files/keisan.h-1.pdf",
+    "https://www.city.fuchu.tokyo.jp/jigyosha/keesha/kigyo/tyushokigyoshienn/safety.files/5goutenpu1201-ha-2.pdf",
+    "https://www.city.kamakura.kanagawa.jp/shoukou/sien/documents/e5h-1p.pdf",
+    "https://www.city.ono.fukui.jp/sangyo/hojokin2/safetynet.files/SN5-ha-1.pdf",
+    "https://www.city.saitama.lg.jp/005/002/010/001/p078264_d/fil/kakunin5-ha.pdf",
+    "https://www.city.higashimatsushima.miyagi.jp/jigyosya/keizai-sangyo/kinyushien/safetynet5.files/kinyuurei.ha2.pdf",
+    "https://www.city.toride.ibaraki.jp/sanshin/jigyosha/shokogyo/oshirase/documents/07ninnteitennpuha-1.pdf",
+    "https://www.city.fukui.lg.jp/sigoto/syoukou/yusi/nethosyou_d/fil/5-ha-rei.pdf",
+    "https://newscast.jp/smart/news/8695764",
+    "https://www.7andi.com/company/profile.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HA I 資金調達 株主",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000005.000147367.html",
+    "https://initial.inc/companies/A-ARVCI",
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://hacarus.com/ja/press-release/20201116-series-b/",
+    "https://www.hacomono.co.jp/news/20250122/",
+    "https://www.ey.com/ja_jp/technical/ipo/ipo-insights/basic/ipo-insights-basic-2026-05",
+    "https://kepple.co.jp/articles/dtlvfgkfi",
+    "https://thebridge.jp/2024/10/ha-lu-seed-round-funding",
+    "https://www.hairobotics.com/jp/news/announces-d-financing-round",
+    "https://shikin-bank.com/shikinchotatsu/shikinchotatsu_kihon/a-thorough-explanation-of-the/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HA I 導入事例",
+   "results": [
+    "https://www.hairobotics.com/jp/cases",
+    "https://www.fujifilm.com/jp/ja/business/optical-devices/mvlens/cfha/case-studies",
+    "https://www.youtube.com/watch?v=-nsNgl2gTYY",
+    "https://118.sc/case/",
+    "https://www.youtube.com/watch?v=-WhZcEYMp1Q",
+    "https://www.gaipack.ai/column",
+    "https://www.hinemos.info/case",
+    "https://check.hacarus.com/ja/cobotta/casestudies/",
+    "https://aitip.jp/ai-business-cases/",
+    "https://japan-ai.co.jp/case-study/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HA I 主要取引先",
+   "results": [
+    "https://www.dialog-inc.com/dialog-news/press-hai-robotics-japan/",
+    "https://www.hai.co.jp/company/company_profile/",
+    "https://ha-holdings.co.jp/news.php?nw=TOPICS",
+    "https://namhaiart.com/about/?lang=ja",
+    "https://corporate.jp.sharp/ir/stock_bond/stockholder/",
+    "https://www.hairobotics.com/jp/company",
+    "https://cnavi.g-search.or.jp/detail/5040001125845.html",
+    "https://www.kak.co.jp/company_info/detail.html",
+    "https://www.ha-sys.co.jp/",
+    "https://www.snsoft.co.jp/company/partner/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com HA I",
+   "results": [
+    "https://note.com/migo0110/n/n9c1befab02db?hl=en",
+    "https://note.com/junasega/n/nb8b1a1c4c497?hl=en",
+    "https://note.com/theterakoya/n/n0d034e1d1d8d?hl=en",
+    "https://note.com/cakeapp/n/n77084d10149d?hl=en",
+    "https://note.com/takeenokimtg/n/n49f5ae006907?hl=en",
+    "https://note.com/cheeky_aster6604/n/n54f0b7fbfba3?hl=en",
+    "https://note.com/masa_iot/n/n2188de1aa4b3?hl=en",
+    "https://note.com/suberihiyu014",
+    "https://note.com/shi3zblog/n/n5b265813ebbb",
+    "https://note.com/n5course/n/nb64143788d74?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com HA I",
+   "results": [
+    "https://x.com/Hai",
+    "https://x.com/StanfordHAI",
+    "https://x.com/heykayadams/status/2118791276883755036",
+    "https://x.com/HAIconference",
+    "https://x.com/SalSports/status/2105734495907557790",
+    "https://x.com/SahilBloom/status/2119236225622032717",
+    "https://x.com/JimmyKempski/status/2118719008451015151",
+    "https://x.com/HaiTa",
+    "https://x.com/arvidkahl/status/2119449164492759331",
+    "https://x.com/vr_hai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com HA I",
+   "results": [
+    "https://www.linkedin.com/in/growthjedi",
+    "https://www.linkedin.com/company/ha-international-llc",
+    "https://www.linkedin.com/company/stanfordhai",
+    "https://www.linkedin.com/in/haishalom",
+    "https://www.linkedin.com/in/hai-guan-6b58a7a",
+    "https://www.linkedin.com/in/hai-li-1826b740",
+    "https://www.linkedin.com/in/diana-ha-79896540",
+    "https://www.linkedin.com/company/history-associates-incorporated",
+    "https://www.linkedin.com/company/hai-robotics",
+    "https://kr.linkedin.com/in/ha-oun-son-68530750"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com HA I",
+   "results": [
+    "https://www.facebook.com/groups/3016656065276568/posts/4072627283012769/",
+    "https://www.facebook.com/mothaibadallas/",
+    "https://www.facebook.com/officialaha/videos/our-new-single-im-in-is-out-today-and-you-can-watch-the-music-video-now-over-on-/644857470315725/",
+    "https://www.facebook.com/HAIGroupCT/",
+    "https://www.facebook.com/missyelliott/videos/i-cant-stand-the-rain-ha-i-was-looking-back-at-my-videos-realized-i-was-crazy-ve/10153435627677555/",
+    "https://www.facebook.com/HillofLife/",
+    "https://www.facebook.com/help/instagram/368191326593075",
+    "https://www.facebook.com/p/Hai-Asian-Cuisine-Chinese-Take-Away-61583054409529/",
+    "https://www.facebook.com/labelpantheon/videos/ill-tell-you-what-i-want-what-i-really-really-wantso-tell-me-what-you-want-what-/1663203398104546/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "HA I note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki",
+    "https://note.com/ai_shacho",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "HA I X 投稿",
+   "results": [
+    "https://jp.linkedin.com/company/haix-north-america",
+    "https://www.facebook.com/HaixNorthAmerica/",
+    "https://www.haix.com/us/",
+    "https://www.haixusa.com/fdic?srsltid=AYCX9vIvumJSApVZKkBT4O1Fcts8iy3AfDc5qNOO8o2lL96WthsioNhW",
+    "https://www.instagram.com/haix_america/",
+    "https://www.youtube.com/channel/UCg5NZz4WyCuudsxZgPC4R7w",
+    "https://www.hltv.org/forums/threads/2595953/haix",
+    "https://akao-co.com/products/422/",
+    "https://www.youtube.com/watch?v=QxFiNTkRo1c",
+    "https://x.com/aorkgk"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）",
+  "売上の柱（何で稼ぐか）": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）"
+ }
+}

@@ -1,0 +1,594 @@
+{
+ "name": "Canadian Additive Manufacturing Solutions",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;ceramics-3d-printer-reseller",
+ "researched_at": "2026-11-09T13:52:22.321777+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "3D printing and 3D scanning equipment, software, and consumables—selected, supplied, and supported as part of complete solutions.",
+    "url": "https://www.canadianadditive.ca/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Canadian Additive Manufacturing Solutions - LinkedIn — Canadian Additive Manufacturing Solutions - LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "pass": 3
+   },
+   {
+    "quote": "Canadian Additive Manufacturing Solutions — Canadian Additive Manufacturing Solutions canadianadditive.ca https://www.canadianadditive.ca",
+    "url": "https://www.canadianadditive.ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Canadian Additive Manufacturing Solutions - Facebook — Canadian Additive Manufacturing Solutions - Facebook Facebook https://www.facebook.com > ... > Consulting agency",
+    "url": "https://www.facebook.com/CanadianAdditive/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Canadian Additive Manufacturing Solutions - LinkedIn Canadian Additive Manufacturing Solutions - LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Canadian Additive Manufacturing Solutions - Facebook Canadian Additive Manufacturing Solutions - Facebook Facebook https://www.facebook.com > ... > Consulting agency",
+    "url": "https://www.facebook.com/CanadianAdditive/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Canadian Additive (@CanAdditive) / X Our Seminar, Connecting Traditional Manufacturing with Additive Solutions, will cover professional 3D Printing, 3D Scanning and 3D Design and is just over a week away.",
+    "url": "https://x.com/CanAdditive",
+    "pass": 3
+   },
+   {
+    "quote": "Check out SME's excellent Whitepaper on the rise of Additive ... Mar 3, 2018 · Check out SME's excellent Whitepaper on the rise of Additive Manufacturing, #3DPrinting, and Virtual Surgical Planning in healthcare. bit.ly/2FgBK9x To discuss the solutions discussed in this Whitepaper, contact us at Canadian Additive Manufacturing Solutions.",
+    "url": "https://x.com/CanAdditive/status/969934166413467648",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.canadianadditive.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goengineer.com/canadian-hardware-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/CanadianAdditive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stratasys.com/en/where-to-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/aon3d-3d-printing-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prusa3d.com/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/company/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.canadianadditive.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agile-manufacturing.com/additive-manufacturing-canada/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/renishaw-and-canada-makes-join-forces-to-advance-additive-manufacturing-in-canada--49535?srsltid=AYCX9vIRMNCC5VgwBKqEsrhKUwXb1rjX-g1qhxWwXGT0FoyFmRgeSIiF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canadianadditive.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/?srsltid=AYCX9vKSFEEEBma0ShB1vmshmoUl4SRnsvxt5qGiERU7NHqDCAuVt99J",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proto3000.com/service/additive-manufacturing-canada-united-states/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.treatstock.com/captcha/captcha/show?return=%2F3d-printing-services%3Flocation%3Dtoronto--on--ca%26technology%3Dsla&module=catalogps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.canadianadditive.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goengineer.com/canadian-hardware-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orion-am.com/en_GB/blog/technical-insights-use-cases-1/orion-am-announces-src-as-exclusive-canadian-distributor-24",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agile-manufacturing.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Engineering-Additive-Manufacturing-Data-Driven-Solutions/dp/3031321537",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Additive-Manufactured-Manufacturing-Materials-Technologies/dp/0323912044",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Additive-Manufacturing-High-Performance-Materials-Technologies-ebook/dp/B0CJF91WJX",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Additive-Manufacturing-Materials-Machining-Tribology/dp/3030427587",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/4226/9832/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01337287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5842/9436/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00167188/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://revenuebase.ai/companies/3d-printing-service-companies/canada",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hexagon.com/about/news-media/press-releases/2139410/hexagon-enhances-its-additive-manufacturing-solutions-with-the-acquisition-of-cads-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canadianadditive.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CanadianAdditive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/canadianadditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CanadianAdditive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CanAdditive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CanAdditive/status/969934166413467648",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Canadian Additive Manufacturing Solutions 代理店",
+   "results": [
+    "https://ca.linkedin.com/company/canadianadditive",
+    "https://www.canadianadditive.ca/",
+    "https://www.goengineer.com/canadian-hardware-solutions",
+    "https://www.facebook.com/CanadianAdditive/",
+    "https://orion-am.com/ja/blog/1/orion-amsrc-24",
+    "https://agile-manufacturing.com/additive-manufacturing-canada/",
+    "https://revenuebase.ai/companies/3d-printing-service-companies/canada",
+    "https://www.renishaw.com/en/renishaw-and-canada-makes-join-forces-to-advance-additive-manufacturing-in-canada--49535?srsltid=AYCX9vJ-OSlKSQ38LVYp54r6-NtuDLtS0qhbKdB4lDkL0925GMNjK8nc",
+    "https://precisionadm.com/services/additive-manufacturing-3d-printing/",
+    "https://shop.canadianadditive.ca/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.stratasys.com/en/where-to-buy/",
+    "https://news.sharelab.jp/3dp-news/ir/aon3d-3d-printing-corporation/",
+    "https://www.prusa3d.com/resellers/",
+    "https://formlabs.com/jp/company/partners/",
+    "https://prtimes.jp/main/html/rd/p/000000011.000032276.html",
+    "https://www.artec3d.com/ja/where-to-buy",
+    "https://www.mmts.co.jp/company/overseas.html",
+    "https://www.jbm.co.jp/company/business/",
+    "https://www.irc2026.com/exhibition/exhibitor_list.html",
+    "https://www.dnb.com/business-directory/company-profiles.canadian_additive_manufacturing_solutions_incorporated.5c7c9ae9c96ca6ea13634ae254f03c90.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions 日本 販売",
+   "results": [
+    "https://ca.linkedin.com/company/canadianadditive",
+    "https://www.canadianadditive.ca/",
+    "https://agile-manufacturing.com/additive-manufacturing-canada/",
+    "https://www.renishaw.com/en/renishaw-and-canada-makes-join-forces-to-advance-additive-manufacturing-in-canada--49535?srsltid=AYCX9vIRMNCC5VgwBKqEsrhKUwXb1rjX-g1qhxWwXGT0FoyFmRgeSIiF",
+    "https://canadamakes.ca/",
+    "https://www.innovation.ca/projects-results/current-topics-research-funding/advanced-manufacturing-technology",
+    "https://www.mmts.co.jp/en/business/products/am-3d.html",
+    "https://nrc.canada.ca/en/research-development/research-collaboration/advanced-materials-additive-manufacturing",
+    "https://www.hsi.ca/applications/additive-manufacturing",
+    "https://shop.canadianadditive.ca/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.canadianadditive.ca/",
+    "https://additiveplus.com/?srsltid=AYCX9vKSFEEEBma0ShB1vmshmoUl4SRnsvxt5qGiERU7NHqDCAuVt99J",
+    "https://proto3000.com/service/additive-manufacturing-canada-united-states/",
+    "https://www.treatstock.com/3d-printing-services?location=toronto--on--ca&technology=sla&ln=ja",
+    "https://shop.production-to-go.com/en/?srsltid=AYCX9vIYVkmZi_zHCO5PSDpET4KH6-qDxgCkf52N3ZsHKumZedfH1q_z",
+    "https://craftcloud3d.com/en/partner/country/canada",
+    "https://mechsolutions.com/",
+    "https://shop.canadianadditive.ca/",
+    "https://3dprint.com/225662/filaments-ca-releases-true-food-safe-filament/",
+    "https://www.tempus3d.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions Japan distributor",
+   "results": [
+    "https://ca.linkedin.com/company/canadianadditive",
+    "https://www.canadianadditive.ca/",
+    "https://www.goengineer.com/canadian-hardware-solutions",
+    "https://orion-am.com/en_GB/blog/technical-insights-use-cases-1/orion-am-announces-src-as-exclusive-canadian-distributor-24",
+    "https://agile-manufacturing.com/about-us/",
+    "https://www.renishaw.com/en/renishaw-and-canada-makes-join-forces-to-advance-additive-manufacturing-in-canada--49535?srsltid=AYCX9vIhS5AYh_Am5UJ3kcTSZZm61evepBXYBdjGwoGIRUNb_OtZAbAq",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/canada",
+    "https://www.facebook.com/CanadianAdditive/",
+    "https://www.stratasys.com/en/",
+    "https://shop.canadianadditive.ca/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions distributor Japan OR Japanese partner",
+   "results": [
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://agile-manufacturing.com/about-us/",
+    "https://ca.linkedin.com/company/canadianadditive",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.trade.gov/market-intelligence/japan-additive-manufacturing-and-3d-printing",
+    "https://www.goengineer.com/canadian-hardware-solutions",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.stratasys.com/en/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Canadian Additive Manufacturing Solutions",
+   "results": [
+    "https://www.amazon.co.jp/Engineering-Additive-Manufacturing-Data-Driven-Solutions/dp/3031321537",
+    "https://www.amazon.co.jp/Additive-Manufactured-Manufacturing-Materials-Technologies/dp/0323912044",
+    "https://www.amazon.co.jp/Additive-Manufacturing-High-Performance-Materials-Technologies-ebook/dp/B0CJF91WJX",
+    "https://www.amazon.co.jp/Additive-Manufacturing-Materials-Machining-Tribology/dp/3030427587",
+    "https://www.amazon.co.jp/-/en/QIDI-Acceleration-Construction-Automatic-Protection/dp/B0GSFJCVGF",
+    "https://www.amazon.co.jp/-/en/OVERTURE-Filament-Material-Upgraded-Printer/dp/B08LKTXLC8",
+    "https://www.amazon.co.jp/-/en/QIDI-Printer-auto-leveling-multi-material-compatible/dp/B0GSFJCVGF",
+    "https://www.amazon.co.jp/-/en/EPOLAs-Propolis-Additive-Solution-Flavonoids/dp/B08G8XQHFY",
+    "https://www.amazon.co.jp/-/en/OVERTURE-Filament-Dimensional-Compatible-Sedimentary/dp/B0BTS4YJKH",
+    "https://www.amazon.co.jp/amazonプライム会員-ログイン/s?k=amazonプライム会員+ログイン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:monotaro.com Canadian Additive Manufacturing Solutions",
+   "results": [
+    "https://www.monotaro.com/p/4226/9832/",
+    "https://www.monotaro.com/g/01337287/",
+    "https://www.monotaro.com/p/5842/9436/",
+    "https://www.monotaro.com/g/00167188/",
+    "https://www.monotaro.com/p/0821/1271/",
+    "https://www.monotaro.com/g/01404834/",
+    "https://www.monotaro.com/g/00018644/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions employees revenue parent company",
+   "results": [
+    "https://ca.linkedin.com/company/canadianadditive",
+    "https://revenuebase.ai/companies/3d-printing-service-companies/canada",
+    "https://hexagon.com/about/news-media/press-releases/2139410/hexagon-enhances-its-additive-manufacturing-solutions-with-the-acquisition-of-cads-additive",
+    "https://www.canadianadditive.ca/",
+    "https://growjo.com/company/3D_Systems",
+    "https://manufacturingdigital.com/top10/top-10-additive-manufacturing-companies",
+    "https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-equipment-market-report",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://www.facebook.com/3dprintcom/posts/according-to-its-latest-financial-update-6k-additive-generated-72-million-in-rev/1817712643728854/",
+    "https://rocketreach.co/canadian-additive-manufacturing-solutions-profile_b406bab4fc234645"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Canadian Additive Manufacturing Solutions",
+   "results": [
+    "https://note.com/_takumi_inoue_/n/nad866c4841ac?hl=en",
+    "https://note.com/travelingfoodlab/n/nf3bd484a0ab9?hl=en",
+    "https://note.com/better_equation/n/n9f627f5debef?hl=en",
+    "https://note.com/kokodake874/n/n7a15903eafe1?hl=en",
+    "https://note.com/qy_research/n/nf4e06d1539ac?hl=en",
+    "https://note.com/nekota_toure/n/n5f253cec72c8?hl=en",
+    "https://note.com/drneurosur/n/n358281a1df26?hl=en",
+    "https://note.com/qy_research/n/na024cbf69716?hl=en",
+    "https://note.com/masaki_arimoto/n/n015b6ce62c30",
+    "https://note.com/geodesicjapan/n/n5df2fd0656b2"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Canadian Additive Manufacturing Solutions",
+   "results": [
+    "https://x.com/ip_ontario/status/2090461354373030152",
+    "https://x.com/ScandiumCanada",
+    "https://x.com/TRUMPFinc",
+    "https://x.com/3DXIndustries",
+    "https://x.com/Nord_Space",
+    "https://x.com/ip_ontario",
+    "https://x.com/JunckerLab",
+    "https://x.com/3DSIndiaLab",
+    "https://x.com/Designs_MDPI",
+    "https://x.com/CanAdditive"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Canadian Additive Manufacturing Solutions",
+   "results": [
+    "https://ca.linkedin.com/company/canadianadditive",
+    "https://ca.linkedin.com/in/curtispastorius",
+    "https://ca.linkedin.com/in/jasonpodger",
+    "https://ca.linkedin.com/showcase/additive-manufacturing-solutions/",
+    "https://ca.linkedin.com/company/additive-metal-manufacturing",
+    "https://ca.linkedin.com/company/evolv3d-inc.",
+    "https://ca.linkedin.com/company/agile-manufacturing-inc",
+    "https://ca.linkedin.com/in/nickparkerprint",
+    "https://ca.linkedin.com/company/proto3000-3d-printing-rapid-prototyping-3d-scanning-cad-engineering",
+    "https://www.linkedin.com/in/conrad-scullion-smeenk-5b0a63218"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Canadian Additive Manufacturing Solutions",
+   "results": [
+    "https://www.facebook.com/CanadianAdditive/",
+    "https://www.facebook.com/3dprintingcanada/videos/3d-printing-is-the-right-answerfor-prototypes-custom-parts-and-small-production-/2294689837601585/",
+    "https://www.facebook.com/ngencanada/posts/additive-manufacturing-is-finding-a-place-in-production-environments-but-uptake-/122186111030714945/",
+    "https://www.facebook.com/Eplus3DTech/posts/another-step-forward-for-industrial-metal-additivemanufacturing-behind-every-shi/1543250081162862/",
+    "https://www.facebook.com/yorkuniversity/posts/lassondes-electronics-additive-manufacturing-lab-e-am-led-by-professor-gerd-grau/1172325471743362/",
+    "https://www.facebook.com/ALSTOM/videos/alstoms-prototype-centre-in-saint-bruno-de-montarville-a-hotbed-of-innovation/689814382082127/",
+    "https://www.facebook.com/ADPManufacturing/posts/meet-jonathan-part-of-the-adpm-teamphd-in-mechatronics-20-years-in-additive-manu/1548296453980508/",
+    "https://www.facebook.com/DiscoverRAPID/videos/formlabs-is-showcasing-accessible-high-performance-3d-printing-solutions-that-ar/805820802182005/",
+    "https://www.facebook.com/UP18NEWS/posts/millworks-technologies-establishes-a-centre-of-excellence-for-3d-printing-with-m/1822218323243538/",
+    "https://www.facebook.com/CanadianAdditive/posts/2120571424760593/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions note 社長",
+   "results": [
+    "https://ca.linkedin.com/company/canadianadditive",
+    "https://www.canadianadditive.ca/",
+    "https://www.facebook.com/CanadianAdditive/",
+    "https://agile-manufacturing.com/additive-manufacturing-canada/",
+    "https://www.voestalpine.com/highperformancemetals/canada/en-ca/services/additive-manufacturing/",
+    "https://www.renishaw.com/en/renishaw-and-canada-makes-join-forces-to-advance-additive-manufacturing-in-canada--49535?srsltid=AYCX9vIQAM6h9VY-PbTEma5QSb2bSHH-4-mpB3_G_vru8xp0Skiq4ozF",
+    "https://www.burloaktech.com/",
+    "https://www.youtube.com/watch?v=sRv16fw3FrM",
+    "https://ca.linkedin.com/in/jasonpodger",
+    "https://rocketreach.co/curtis-pastorius-email_34824563"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Canadian Additive Manufacturing Solutions X 投稿",
+   "results": [
+    "https://x.com/CanAdditive",
+    "https://x.com/CanAdditive/status/969934166413467648",
+    "https://www.canadianadditive.ca/",
+    "https://shop.canadianadditive.ca/",
+    "https://www.facebook.com/CanadianAdditive/",
+    "https://ictc-ctic.ca/media/731/download",
+    "https://www.cybo.com/CA-biz/canadian-additive-manufacturing"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）"
+ }
+}

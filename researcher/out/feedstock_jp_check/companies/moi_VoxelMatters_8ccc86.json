@@ -1,0 +1,531 @@
+{
+ "name": "moi — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T14:17:53.905468+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/moi/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "moi — VoxelMatters - The largest database of additive ... — moi is a Politecnico di Milano's spin-off startup launched to solve a problem: thermosetting composites are one of the best performing class of materials available, unfortunately, traditional manufacturing is still, in these days, expensive and requires a lot of time, especially for small series or unique objects.",
+    "url": "https://www.voxelmatters.directory/company/moi/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Davide Sher - Co-founder and CEO at VoxelMatters | LinkedIn#additivemanufacturing #compositeam #hybridfabrication # ...Francesco Pulimeni - Co-founder and CRO at VoxelMatters ...#jecworld #composites #3dprinting #additivemanufacturing # ...VoxelMatters Consumer AM Focus 2025 eBook | VoxelMattersWe’re pleased to be featured in the latest edition of ... Apr 26, 2022 · Co-founder and CEO at VoxelMatt",
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - Facebookmoi composites - Moi’s HFP Series is recognized as a ...moi composites - Moi Composites on VoxelMatters... | Facebookmoi composites - Moi’s HFP Series among key innovations ...VoxelMatters on Reels | FacebookVoxelMatters - For his final-year project at Central Saint ...Additive manufacturing is creating new solutions for hard-to ... VoxelMatters. 2,907 followers · 4 talking ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "moi composites - Moi’s HFP Series is recognized as a ... Feb 20, 2026 · 👉 Moi’s HFP Series is recognized as a leading innovator in the VoxelMatters 2026 AM Focus eBook! We’re delighted that VoxelMatters, in their latest AM Focus ebook, has highlighted Moi Composites and our #HFPSeries (recently showcased at Formnext 2025) as a leading innovator in the AM space this year. 📖 Read about on Voxelmatte",
+    "url": "https://www.facebook.com/moi.composites/posts/-mois-hfp-series-is-recognized-as-a-leading-innovator-in-the-voxelmatters-2026-a/1543761054420580/",
+    "pass": 3
+   },
+   {
+    "quote": "moi composites - Moi Composites on VoxelMatters... | Facebook Nov 5, 2025 · Moi Composites on VoxelMatters Voxelmatters featured the new Moi’s HFP Series - our modular, plug&play industrial robotic cell for Additive Manufacturing - which will be unveiled at #Formnext...",
+    "url": "https://www.facebook.com/moi.composites/posts/-moi-composites-on-voxelmattersvoxelmatters-featured-the-new-mois-hfp-series-our/1452429426887077/",
+    "pass": 3
+   },
+   {
+    "quote": "moi composites - Moi’s HFP Series among key innovations ... Dec 18, 2025 · We’re delighted that @voxelmatters featured our HFP Series, the plug-and-play industrial robotic cell for thermoset composite manufacturing powered by our SFM® (Short Fiber Manufacturing) technology, in their spotlight on the major advancements and transformative technologies showcased at Formnext 2025.",
+    "url": "https://www.facebook.com/moi.composites/posts/-mois-hfp-series-among-key-innovations-at-formnext-2025were-delighted-that-voxel/1488764079920278/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/moi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.am-teams.com/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.3ds.co.jp/products/moi_id-4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.3ds.co.jp/collections/moi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinofu.com/uvresin-guide2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Melange-Moi-Matters-Poetry-Thoughts/dp/1494881764",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Melange-Moi-Matters-Thoughts-English-ebook/dp/B00HOWSYIM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-23764/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00011144/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/voxelmatters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/moi.composites/posts/-mois-hfp-series-is-recognized-as-a-leading-innovator-in-the-voxelmatters-2026-a/1543761054420580/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/moi.composites/posts/-moi-composites-on-voxelmattersvoxelmatters-featured-the-new-mois-hfp-series-our/1452429426887077/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/moi.composites/posts/-mois-hfp-series-among-key-innovations-at-formnext-2025were-delighted-that-voxel/1488764079920278/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "moi — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.directory/company/moi/",
+    "https://www.am-teams.com/distribution/",
+    "https://china3dprint.com/archives/1235.html",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://mga-net.com/mga-partner/voxelmatters/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://shop.3ds.co.jp/products/moi_id-4",
+    "https://shop.3ds.co.jp/collections/moi",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://vion.inc/",
+    "https://www.instagram.com/p/DfbpJxEIAkv/",
+    "https://idolmaster-official.jp/news/01_20310"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://fantist.com/articles/1017",
+    "https://skhonpo.com/",
+    "https://fantist.com/articles/1092",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://eternalcollegest.com/books/100yen-resin"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.europesays.com/japan/79430/",
+    "https://www.voxelmatters.directory/",
+    "https://vion.inc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.tokyotimes.org/a-happy-and-content-young-couple/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp moi — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/Melange-Moi-Matters-Poetry-Thoughts/dp/1494881764",
+    "https://www.amazon.co.jp/Melange-Moi-Matters-Thoughts-English-ebook/dp/B00HOWSYIM",
+    "https://relay.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com moi — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/s/c-23764/",
+    "https://www.monotaro.com/g/00011144/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/0816/1133/",
+    "https://www.monotaro.com/g/01201596/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "https://www.northdata.com/Voxelmatters+Ltd·,+Farnham/Companies+House+10417555"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com moi — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com moi — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Sauce741/status/2101053542391759309",
+    "https://x.com/moi_pseudo/status/2115383199065092420",
+    "https://x.com/Sauce741/status/2109417790084100502",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com moi — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-compositeam-hybridfabrication-activity-7404104682731806722-rmo1",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/posts/voxelmatters_jecworld-composites-3dprinting-activity-7437090506670518272-W0PF",
+    "https://www.linkedin.com/posts/voxelmatters_voxelmatters-consumer-am-focus-2025-ebook-activity-7315029440747454465-lSW3",
+    "https://www.linkedin.com/posts/airtech-advanced-materials-group_were-pleased-to-be-featured-in-the-latest-activity-7426936789401276416-FkY1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com moi — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/moi.composites/posts/-mois-hfp-series-is-recognized-as-a-leading-innovator-in-the-voxelmatters-2026-a/1543761054420580/",
+    "https://www.facebook.com/moi.composites/posts/-moi-composites-on-voxelmattersvoxelmatters-featured-the-new-mois-hfp-series-our/1452429426887077/",
+    "https://www.facebook.com/moi.composites/posts/-mois-hfp-series-among-key-innovations-at-formnext-2025were-delighted-that-voxel/1488764079920278/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.voxelmatters.com/",
+    "https://note.jp/n/n4e78438f9cde",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "moi — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/poke_times_cp/status/2119667273384538618",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/consumer/",
+    "https://x.com/novol1117/status/2119402925994967102"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）"
+ }
+}

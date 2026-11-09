@@ -1,0 +1,1436 @@
+{
+ "name": "EOS",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T14:02:05.042996+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us | Get in Touch with eos",
+    "url": "https://evolutionofsmooth.com/pages/contact-us?srsltid=AYCX9vJ0h-k6xM-gmBCCB87ADeFG5em5gpS8oYAslndTocQiH87FSjfB",
+    "pass": 3
+   },
+   {
+    "quote": "If you need help or have questions, please fill out the contact us form below and submit. Please note that we will not respond to direct emails at any of our email addresses.",
+    "url": "https://evolutionofsmooth.com/pages/contact-us?srsltid=AYCX9vJ0h-k6xM-gmBCCB87ADeFG5em5gpS8oYAslndTocQiH87FSjfB",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "金属3Dプリンターの巨人EOSが日本のモノづくりにもたらすもの―EOS Electro Optical Systems Japan | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（前編）―EOS Electro Optical Systems Japan",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "それもそのはず、EOSは30年以上の業歴を誇る老舗企業ながら、日本法人が設立されたのは2017年になってのことだ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では総代理店の株式会社NTTデータエンジニアリングシステムズ社（以降、NDES）を通じて販売されてきた",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "日本リージョナルマネージャーである橋爪 康晃氏にお話を直接伺ってみた",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（後編）",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "―EOS Electro Optical Systems Japan",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "――EOSは金属3Dプリンターの分野で世界的に有名ですが、日本法人はまだ立ち上げ数年ということで、どんな会社かご存じない方も多いと思います",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "30年以上前から活動しており、日本ではNTTデータエンジニアリングシステムズ社（NDES社）に総代理店をお願いしております",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパンは2017年に設立しまして、総代理店のNDES社を支援するという形で運営しております",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも195件以上",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "――日本には総代理店があるにも関わらず、2017年に支社を作ったのは何が狙いなのでしょうか？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "機材の使い方やサポートは総代理店のNDESさんが対応できるので、私たちは一歩踏み込んだ教育とコンサルティングを行っています",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の場合、3年から5年をかけて検討を進めていらっしゃいます",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "――総代理店であるNDES社との棲み分けと言いますか、役割分担はどのようにお考えですか？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "補い合いながら、日本でのモノづくりにAMを根付かせていきたいと思っています",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "――EOS日本支社としては導入支援やコンサルを主体に行い、保守や装置の販売を総代理店であるNDES社が行うということですね",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみにコンサルに対する日本の企業の反応はいかがですか？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本ではコンサルは売れないんじゃないか」という声が、以前にあったのは事実です",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "――今回のTCTJapan2020のブースでも、そんな知見にも触れる機会があるでしょうか？",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "また全自動AM工場などの欧州での最新事例を動画でのご紹介、日本初公開となる造形サンプルのご紹介なども予定しています",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "――日本初、と聞くと胸が躍ります！最後に、日本の製造業関係者にメッセージがあればお願いします",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "最後にマテハンまで自動化された完全自動化AM工場の動画や日本初公開のサンプルもご用意しています",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2020 事前来場登録ページ",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2020 公式サイト",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪大学大学院工学研究科 様、ナカシマヘルスフォース株式会社 様",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "金属３Ｄプリンターでエキゾーストマニホールドを製造 (学生フォーミュラ日本大会2024)",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "XAMが見てきた日本の３Dプリンター市場",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会レポート：TCT Japan 2025 編",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "展示会レポート：TCT Japan 2…",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Assurance社と国内販売代理店契約を締結",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "＜出展報告＞3Dプリンターの展示会「TCT Japan 2026」に出展",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2026 – 3Dプリンティング & AM技術の総合展 – に出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース：日本軽金属と金属AM事業における戦略的パートナーシップ契約を締結",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS社：formnext ASIA TOKYO forumに出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DSEI Japan 2025 に出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "＜出展報告＞3Dプリンターの展示会「TCT Japan 2025」に出展",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS社のウェブサイトが日本語に対応しました",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025 – 3Dプリンティング & AM技術の総合展 – に出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "＜出展報告＞3Dプリンターの展示会「TCT Japan 2024」に出展",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2024 – 3Dプリンティング & AM技術の総合展 – に出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング・AM技術の展示会Formnext Forum Tokyoのご報告",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日経MOOKに帝人ナカシマメディカル株式会社様の導入事例の記事が掲載されました",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【乾式電解研磨DLyte】Medtec Japan 医療機器の製造・設計に関する展示会 に出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "＜出展報告＞3Dプリンターの展示会「TCT Japan 2023」に出展",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2023 -3Dプリンティング & AM技術の総合展-に出展します ※1/27情報追加あり",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TOKYO AUTO SALON 2023に出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "formnext forum TOKYO 2022に出展します",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "新聞への記事掲載のお知らせ：日本経済新聞Web版（3Dプリンターによる製造を担う新工場）",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンティング & AM技術の総合展「TCT Japan 2022」に出展しました！",
+    "url": "https://www.nttdata-xam.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと販売代理店契約を締結 〜樹脂3Dプリンター装置需要の新規開拓と買替需要発掘に着手〜 | トピックス | 3Dプリンター・鋳造・CTのJMC",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと販売代理店契約を締結",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社JMC（神奈川県横浜市 代表取締役社長兼CEO：渡邊 大知）は、 EOS GmbH Electro Optical Systems（本社：ドイツ バイエルン州 CEO：Marie Langer、",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下EOS社）と樹脂3Dプリンター装置及びその付属製品を日本国内で販売するための代理店契約を締結いたしました",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "JMCでは、 2020年5月に品質と生産性に優れた最新インダストリアル樹脂3Dプリンター（EOS P 396）を導入し、 EOS Electro Optical Systems Japan株式会社（神奈川県横浜市",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "八十島プロシード株式会社、 原田車両設計株式会社との協業プロジェクト「3D innovation HUB」を立ち上げ、 新領域のビジネスに関しては従来の枠にとらわれない、 実務面での協業を進めております",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、 通常代理店では実施が難しい、 装置ごとの特徴比較や造形相談、 工法提案をワンストップで行うサービスの提案を強化いたします",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "2. 販売代理店契約締結の内容",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ EOS社製 樹脂3Dプリンターの日本国内での販売",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS 金属３Dプリンターのバーチャルショールームツアー（株式会社NTTデータ ザムテクノロジーズ) - YouTube",
+    "url": "https://www.youtube.com/watch?v=a3iarQpf3DQ",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "2016年東京証券取引所マザーズに上場（2022年の東京証券取引所の市場区分見直しに際して「グロース市場」へ移行）",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "プロフェッショナル3Dプリンティングソリューション｜ EOS ... — プロフェッショナル3Dプリンティングソリューション｜ EOS ... EOS GmbH https://www.eos.info > ...",
+    "url": "https://www.eos.info/ja",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンターの巨人 EOS が日本のモノづくりにもたらす ... — 金属3Dプリンターの巨人 EOS が日本のモノづくりにもたらす ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター",
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS GmbH Electro Optical Systemと販売 代理店 契約を締結 — EOS GmbH Electro Optical Systemと販売 代理店 契約を締結 JMC Corporation https://www.jmc-rp.co.jp > topic_221031_3dih_EOS",
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "EOS 社製3Dプリンター造形プロセスと周辺機器について | 人と ... — EOS 社製3Dプリンター造形プロセスと周辺機器について | 人と ... 株式会社NTTデータエンジニアリングシステムズ https://www.nttd-es.co.jp > backnumber > no84-EOS",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no84/no84-EOS.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本 直営 店 良品   キヤノン Canon EOS 7 ， BP-300 #8137 — 日本 直営 店 良品   キヤノン Canon EOS 7 ， BP-300 #8137 The Ohio State University https://nisonger.osu.edu > sale > search > detail",
+    "url": "https://nisonger.osu.edu/?sale/search/detail/?ITMCODE=o0s2i4r1i7s135785",
+    "pass": 3
+   },
+   {
+    "quote": "EOS 金属3Dプリンターのバーチャルショールームツアー ... — EOS 金属3Dプリンターのバーチャルショールームツアー ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=a3iarQpf3DQ",
+    "pass": 3
+   },
+   {
+    "quote": "EOS ／PowerShot V series：キヤノンフォトハウス｜個人 — EOS ／PowerShot V series：キヤノンフォトハウス｜個人 キヤノン https://personal.canon.jp > photohouse > eos-ps-vseries",
+    "url": "https://personal.canon.jp/showroom/photohouse/eos-ps-vseries",
+    "pass": 3
+   },
+   {
+    "quote": "EOS オーガニック ハンドローション （日本 正規代理店 ） — EOS オーガニック ハンドローション （日本 正規代理店 ） アトリエレザン https://atelierraisin.cart.fc2.com > ...",
+    "url": "https://atelierraisin.cart.fc2.com/ca93/419/",
+    "pass": 3
+   },
+   {
+    "quote": "イオス 公式オンラインショップ｜ EOS Corporation通販サイト — イオス 公式オンラインショップ｜ EOS Corporation通販サイト イオス公式オンラインショップ https://ec.eosjwt.com > shop",
+    "url": "https://ec.eosjwt.com/shop/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Electro Optical Systems Japan 株式会社 — EOS Electro Optical Systems Japan 株式会社 sharelab.jp https://sharelab.jp > company > eos-japan",
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース - EOS GmbH — プレスリリース - EOS GmbH EOS GmbH https://www.eos.info > プレス＆メディア > プレスセンター ...",
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases",
+    "pass": 3
+   },
+   {
+    "quote": "Canon EOS 公式 (@eos_canonjp) - Instagram — Canon EOS 公式 (@eos_canonjp) - Instagram Instagram https://www.instagram.com > eos_canonjp",
+    "url": "https://www.instagram.com/eos_canonjp/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS 3Dプリンター / 樹脂 — EOS 3Dプリンター / 樹脂 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > eos-p",
+    "url": "https://www.nttdata-xam.com/eos-p/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Worldwide Global Sales & Service Offices — EOS Worldwide Global Sales & Service Offices EOS GmbH https://www.eos.info > about-us > loc...",
+    "url": "https://www.eos.info/about-us/locations-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Specialist - EOS Japan — Technical Specialist - EOS Japan Indeed https://jp.indeed.com > viewjob",
+    "url": "https://jp.indeed.com/viewjob?jk=84254238cbb38919",
+    "pass": 3
+   },
+   {
+    "quote": "EOSジャパン 設立でNDESと共にお客さまサポートをさらに ... — EOSジャパン 設立でNDESと共にお客さまサポートをさらに ... 株式会社NTTデータエンジニアリングシステムズ https://www.nttd-es.co.jp > magazine > no89-specialreport",
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no89/no89-specialreport.html",
+    "pass": 3
+   },
+   {
+    "quote": "eos Products - LinkedIn — eos Products - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/eosproducts",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us | Get in Touch with eos — Contact Us | Get in Touch with eos EOS https://evolutionofsmooth.com > pages",
+    "url": "https://evolutionofsmooth.com/pages/contact-us?srsltid=AYCX9vJ0h-k6xM-gmBCCB87ADeFG5em5gpS8oYAslndTocQiH87FSjfB",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Corporation — EOS Corporation eo-s.jp http://eo-s.jp > company",
+    "url": "http://eo-s.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "Technical Specialist - EOS Japan — Technical Specialist - EOS Japan Talent.com https://jp.talent.com > view",
+    "url": "https://jp.talent.com/en/view?id=622441739356276805",
+    "pass": 3
+   },
+   {
+    "quote": "eos Shea Better Body Lotion- Vanilla Cashmere, 24-Hour ... — eos Shea Better Body Lotion- Vanilla Cashmere, 24-Hour ... amazon.jp https://www.amazon.co.jp > eos-Cash...",
+    "url": "https://www.amazon.co.jp/-/en/eos-Cashmere-Moisture-Lightweight-Non-Greasy/dp/B08KT2Z93D",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: EOS LIP BALM sweet mint(2PACK) — Amazon.co.jp: EOS LIP BALM sweet mint(2PACK) amazon.jp https://www.amazon.co.jp > EOS-BALM-sweet-mint-2PA...",
+    "url": "https://www.amazon.co.jp/EOS-BALM-sweet-mint-2PACK/dp/B01MAV165F",
+    "pass": 3
+   },
+   {
+    "quote": "Canon ミラーレス一眼カメラ EOS R ボディー EOSR — Canon ミラーレス一眼カメラ EOS R ボディー EOSR amazon.jp https://www.amazon.co.jp > Canon-ミラーレス一眼-カメラ-...",
+    "url": "https://www.amazon.co.jp/Canon-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9%E4%B8%80%E7%9C%BC-%E3%82%AB%E3%83%A1%E3%83%A9-EOS-BODY/dp/B07H8WYM4Z",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Kiss X9i - Amazon.co.jp — EOS Kiss X9i - Amazon.co.jp amazon.jp https://www.amazon.co.jp > EOS-Kiss-X9i > k=EOS+Kiss...",
+    "url": "https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Worldwide: 洋書 - Amazon.co.jp — EOS Worldwide: 洋書 - Amazon.co.jp Amazon.jp https://www.amazon.co.jp > 洋書-EOS-Worldwide > rh=n...",
+    "url": "https://www.amazon.co.jp/%E6%B4%8B%E6%9B%B8-EOS-Worldwide/s?rh=n%3A52033011%2Cp_27%3AEOS%2BWorldwide",
+    "pass": 3
+   },
+   {
+    "quote": "EOSR8MK2-24105ISSTMLK ミラーレス一眼 EOS R8 Mark II ... — EOSR8MK2-24105ISSTMLK ミラーレス一眼 EOS R8 Mark II ... モノタロウ https://www.monotaro.com > ...",
+    "url": "https://www.monotaro.com/p/0580/2382/?srsltid=AYCX9vKi4gMPIv4uMyeY0LC11mtybcGChfhglY7_1cJEwtOdLFE9H6fH",
+    "pass": 3
+   },
+   {
+    "quote": "「 eos r50」の検索結果 - モノタロウ — 「 eos r50」の検索結果 - モノタロウ モノタロウ https://www.monotaro.com > q-eos r50",
+    "url": "https://www.monotaro.com/s/q-eos%20r50/?srsltid=AYCX9vK-yGDwctVTF6MAEjGjUyw1f6hEDILRoum2wh2isciaPGj9NCBF",
+    "pass": 3
+   },
+   {
+    "quote": "ミラーレスカメラ EOS R6MKⅢ・ボディー - モノタロウ — ミラーレスカメラ EOS R6MKⅢ・ボディー - モノタロウ モノタロウ https://www.monotaro.com > ... > ミラーレス一眼レフカメラ",
+    "url": "https://www.monotaro.com/g/07979995/?srsltid=AYCX9vLQ1EldQFP-_d0CC682bXOYahZH1CGR93ZW1Ts1FKNYMHy3F1Vr",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルカメラ フルサイズミラーレス一眼 EOS R - モノタロウ — デジタルカメラ フルサイズミラーレス一眼 EOS R - モノタロウ モノタロウ https://www.monotaro.com > ... > ミラーレス一眼レフカメラ",
+    "url": "https://www.monotaro.com/g/04209074/?srsltid=AYCX9vJF5WYoeUwI9Y5DHn2r9Ggq-wdxQUz3mHFpgsGA4s7r5_6pMqxD",
+    "pass": 3
+   },
+   {
+    "quote": "EOSR8MK2-4512STM ミラーレス一眼 EOS R8 Mark II 1個 ... — EOSR8MK2-4512STM ミラーレス一眼 EOS R8 Mark II 1個 ... モノタロウ https://www.monotaro.com > ...",
+    "url": "https://www.monotaro.com/p/0580/2357/?srsltid=AYCX9vLudUhxX27eSB4e35BKOYj7JKGNnlpAJp3A5qzb6EDK5pyNhQrU",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Values, Mission, Team & More | EōS Fitness — About Us - Values, Mission, Team & More | EōS Fitness EOS Fitness https://www.eosfitness.com > about-us",
+    "url": "https://www.eosfitness.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Fitness - Overview, News & Similar companies - ZoomInfo — EOS Fitness - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > eos-fitn...",
+    "url": "https://www.zoominfo.com/c/eos-fitness/368369833",
+    "pass": 3
+   },
+   {
+    "quote": "EOS INC. - SEC.gov — EOS INC. - SEC.gov SEC.gov https://www.sec.gov > eoss-20231231",
+    "url": "https://www.sec.gov/Archives/edgar/data/1651958/000157587225000278/eoss-20231231.htm",
+    "pass": 3
+   },
+   {
+    "quote": "I don't think EOS Fitness is going to last another 10 years — I don't think EOS Fitness is going to last another 10 years Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/EOSFitness/comments/1ru2zs0/i_dont_think_eos_fitness_is_going_to_last_another/",
+    "pass": 3
+   },
+   {
+    "quote": "EoS Fitness CEO Rich Drengberg on Scaling to $1.5B — EoS Fitness CEO Rich Drengberg on Scaling to $1.5B HALO Talks https://www.halotalks.com > Blog",
+    "url": "https://www.halotalks.com/blog/from-golds-gym-rebrand-to-a-15-billion-exit-eos-fitness-ceo-rich-drengberg-on-disciplined-growth/",
+    "pass": 3
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "キヤノンオンラインショップ （Canon Online Shop）",
+    "url": "https://store.canon.jp/online/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp : EOS Kiss X9i",
+    "url": "https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonは日本の中小企業のブランドの商品を応援しています",
+    "url": "https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i",
+    "pass": 3
+   },
+   {
+    "quote": "© 1996-2026, Amazon.com, Inc. またはその関連会社",
+    "url": "https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i",
+    "pass": 3
+   },
+   {
+    "quote": "Price on Amazon (as of 9/6)",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Includes affiliate links for Kaden Hihyo. As this is an ad-free monthly magazine, please forgive our use of Amazon Associates.",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The prices at the Canon Online Shop are as follows.",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon美容の総合1位、まさかの\"1,500円ボディローション\"！？ 高級コスメを押しのけた理由",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Using the EOS 8000D After All This Time｜花見川 - note Using the EOS 8000D After All This Time｜花見川 - note note https://note.com > ...",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "EOS 公式イベント情報 - note EOS 公式イベント情報 - note note https://note.com > eos_event_jp",
+    "url": "https://note.com/eos_event_jp",
+    "pass": 3
+   },
+   {
+    "quote": "[Canon EOS R100 Hands-on Review] A System Camera That ... [Canon EOS R100 Hands-on Review] A System Camera That ... note https://note.com > ホビー > カメラ・ビデオ",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "EOS R8 Mark II Concept Analysis—The Problem of the R6 II ... EOS R8 Mark II Concept Analysis—The Problem of the R6 II ... note https://note.com > photoratio",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "EOS の人気・新着記事まとめ - note EOS の人気・新着記事まとめ - note note https://note.com > tag > EOS",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Using the EOS 8000D After All This Time｜花見川",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Using the EOS 8000D After All This Time",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I believe the most popular article on my Note was about cameras, but the one with the most consistent traffic is actually the one about body pillows, which leaves me feeling a bit conflicted.",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, this time, I'm going back to basics and writing about cameras.",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have a camera I'm not using",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ever since I got the S9, I've been taking my camera out with me more often.",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even when I go out for work, if my bag feels empty, I think, 'I'll just throw the camera in,' and I find myself bringing it along more frequently.",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Because of that, I've been having a very fulfilling camera life lately, but before that, I never used to take my camera out so casually.",
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート・銀座】鉄道写真家・久保田敦『鉄道を撮る。』",
+    "url": "https://note.com/eos_event_jp",
+    "pass": 3
+   },
+   {
+    "quote": "カメラを持って銀座を歩こう。20代・30代で楽しむフォトウォークイベントを開催",
+    "url": "https://note.com/eos_event_jp",
+    "pass": 3
+   },
+   {
+    "quote": "【プロフォトグラファー向け】動画制作を仕事にするための“短期集中”講座",
+    "url": "https://note.com/eos_event_jp",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート・銀座/大阪】鉄道写真家・福島啓和『鉄道と、旅と、EOS R8 Mark II。』",
+    "url": "https://note.com/eos_event_jp",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート・銀座】魅せるコスプレ撮影と機材選び術（講師：井田達也)",
+    "url": "https://note.com/eos_event_jp",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート】茨城空港「空の日」イベント2026 航空機撮影会",
+    "url": "https://note.com/eos_event_jp",
+    "pass": 3
+   },
+   {
+    "quote": "[Canon EOS R100 Hands-on Review] A System Camera That Makes Photography Accessible - Including a Comparison with the EOS R50｜家電批評編集部",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Canon EOS R100 Hands-on Review] A System Camera That Makes Photography Accessible - Including a Comparison with the EOS R50",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The EOS R100, an entry-level APS-C format mirrorless camera, was released by Canon on June 22nd.",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Speaking of entry-level models for the EOS R system, the EOS R50, which we also reviewed in \"Kaden Hihyo,\" has already been released. However, as a camera positioned at the low end of the EOS R system, this model achieves further weight reduction and lower costs by simplifying the equipment and functions compared to the R50.",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While \"simplification\" might carry a slightly negative impression, it can be viewed positively if you consider that the functions were carefully selected to make it easy for beginners to handle.",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Differences from the EOS R50, which is 30,000 yen more expensive",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a result of this careful selection, the body weight, including the battery and recording media, is kept to approximately 356g, the lightest in the EOS R series. It is nothing short of impressive that it achieves a surprising lightness of approximately 490g even when combined with the kit lens, the RF-S18-45mm F4.5-6.3 IS STM.",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Price on Amazon (as of 9/6)",
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "EOS R8 Mark II Concept Analysis—The Problem of the R6 II Being Too Well-Balanced｜Photoratio",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "EOS R8 Mark II Concept Analysis—The Problem of the R6 II Being Too Well-Balanced",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Part 1] The Full Picture of the EOS R8 Mark II—Decoding a Legitimate Evolution",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Basic Specifications and Pricing",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 15, 2026, Canon officially announced the EOS R8 Mark II. It will be released on Thursday, October 29. Pre-orders begin at 10:00 AM on Friday, September 18.",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The prices at the Canon Online Shop are as follows.",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Body only: 275,000 yen",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RF24-105mm F4-7.1 IS STM lens kit: 324,500 yen",
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンのカメラ機材や、IT用語のサポート終了、経営システムなど、EOSという名称を持つ様々な分野を扱います。",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "機材のレビューや技術的な解説、ビジネス活用に関する記事が集まっています。",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "キヤノンのカメラ機材や、IT用語のサポート終了、経営システムなど、EOSという名…",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "【2027年度版】キヤノン 企業研究＆転職戦略ガイド｜業界分析・役割給と年収・フェーズVIIの将来性から選考対策まで徹底解説",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "Canon 新製品『EOS R8 Mark II』 実機チェック 購入前レビュー｜カメラと写真",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "Canon機にフィルムシミュレーションを搭載するカスタムファーム「M-Film」（概要編）",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜・関市のオフ会とモネの池、極上のうなぎを味わう休日♪",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "Canonのデジタル一眼レフにM42マウントレンズを付けてみよう",
+    "url": "https://note.com/tag/EOS",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Eos - X Eos - X X https://x.com > eos",
+    "url": "https://x.com/eos",
+    "pass": 3
+   },
+   {
+    "quote": "Eos Energy Enterprises, Inc.   (@PoweredByEos) / X Eos Energy Enterprises, Inc.   (@PoweredByEos) / X X https://x.com > PoweredByEos",
+    "url": "https://x.com/PoweredByEos",
+    "pass": 3
+   },
+   {
+    "quote": "# EOS - Search / X # EOS - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/EOS",
+    "pass": 3
+   },
+   {
+    "quote": "AGU's Eos (@AGU_Eos) / X AGU's Eos (@AGU_Eos) / X X https://x.com > AGU_Eos",
+    "url": "https://x.com/AGU_Eos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "eos Products - LinkedIn eos Products - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/eosproducts",
+    "pass": 3
+   },
+   {
+    "quote": "EOS - LinkedIn EOS - LinkedIn LinkedIn https://www.linkedin.com > eos",
+    "url": "https://www.linkedin.com/company/eos",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Worldwide - LinkedIn EOS Worldwide - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/eos-worldwide-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Eos Energy Enterprises, Inc. - LinkedIn Eos Energy Enterprises, Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/eos-energy-storage",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "eos - Facebook eos - Facebook Facebook https://www.facebook.com > ... > Brand > Health/beauty",
+    "url": "https://www.facebook.com/eos/",
+    "pass": 3
+   },
+   {
+    "quote": "EOS Worldwide | Ann Arbor MI - Facebook EOS Worldwide | Ann Arbor MI - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/eosworldwide/",
+    "pass": 3
+   },
+   {
+    "quote": "Eos 24H Moisture Body Lotion Review and Scent Guide Eos 24H Moisture Body Lotion Review and Scent Guide Facebook https://www.facebook.com > ... > DIMMA UMEH > Videos",
+    "url": "https://www.facebook.com/TheDimmaUmeh/videos/let-this-be-your-guide-eos-eosbodylotion-bodylotion-bodycare-skincarereview/1486564076011446/",
+    "pass": 3
+   },
+   {
+    "quote": "Gym questions EoS - Facebook Gym questions EoS - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/836604156453621/posts/28295714640115869/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.eos.info/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nisonger.osu.edu/?sale/search/detail/?ITMCODE=o0s2i4r1i7s135785",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=a3iarQpf3DQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://personal.canon.jp/showroom/photohouse/eos-ps-vseries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ec.eosjwt.com/shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.canon.jp/online/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharelab.jp/company/eos-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/press-media/press-center/press-releases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/eos-p/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/locations-worldwide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startup.jobs/life-cycle-solutions-sales-manager-japan-eos-gmbh-electro-optical-sys-10619480",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.indeed.com/viewjob?jk=84254238cbb38919",
+    "status": "http_401",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttd-es.co.jp/magazine/backnumber/no89/no89-specialreport.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/about-us/locations-worldwide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/eosproducts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://evolutionofsmooth.com/pages/contact-us?srsltid=AYCX9vJ0h-k6xM-gmBCCB87ADeFG5em5gpS8oYAslndTocQiH87FSjfB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://eo-s.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/eos-Cashmere-Moisture-Lightweight-Non-Greasy/dp/B08KT2Z93D",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/EOS-BALM-sweet-mint-2PACK/dp/B01MAV165F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Canon-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9%E4%B8%80%E7%9C%BC-%E3%82%AB%E3%83%A1%E3%83%A9-EOS-BODY/dp/B07H8WYM4Z",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0580/2382/?srsltid=AYCX9vKi4gMPIv4uMyeY0LC11mtybcGChfhglY7_1cJEwtOdLFE9H6fH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-eos%20r50/?srsltid=AYCX9vK-yGDwctVTF6MAEjGjUyw1f6hEDILRoum2wh2isciaPGj9NCBF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/07979995/?srsltid=AYCX9vLQ1EldQFP-_d0CC682bXOYahZH1CGR93ZW1Ts1FKNYMHy3F1Vr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04209074/?srsltid=AYCX9vJF5WYoeUwI9Y5DHn2r9Ggq-wdxQUz3mHFpgsGA4s7r5_6pMqxD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eosfitness.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/eos-fitness/368369833",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sec.gov/Archives/edgar/data/1651958/000157587225000278/eoss-20231231.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/EOSFitness/comments/1ru2zs0/i_dont_think_eos_fitness_is_going_to_last_another/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eos_event_jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/eos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PoweredByEos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/EOS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AGU_Eos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/eosproducts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/eos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/eos-worldwide-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/eos-energy-storage",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/eos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/eosworldwide/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheDimmaUmeh/videos/let-this-be-your-guide-eos-eosbodylotion-bodylotion-bodycare-skincarereview/1486564076011446/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/836604156453621/posts/28295714640115869/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/eos_event_jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/EOS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/eos",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "EOS 代理店",
+   "results": [
+    "https://www.eos.info/ja",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "https://www.nttdata-xam.com/",
+    "https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html",
+    "https://www.nttd-es.co.jp/magazine/backnumber/no84/no84-EOS.html",
+    "https://www.nttdata-xam.com/eos-m/",
+    "https://3dih.jp/topics/221031.html",
+    "https://www.city.yokohama.lg.jp/business/keizai/yuchi/gaikoku-yuchi/jirei.files/0016_20211108.pdf",
+    "https://www.eos.info/ja/about-us/locations-worldwide",
+    "http://3d.kinzoku-kakou-odec.com/column/column-634/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "EOS 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://nisonger.osu.edu/?sale/search/detail/?ITMCODE=o0s2i4r1i7s135785",
+    "https://www.youtube.com/watch?v=a3iarQpf3DQ",
+    "https://personal.canon.jp/showroom/photohouse/eos-ps-vseries",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/",
+    "https://atelierraisin.cart.fc2.com/ca93/419/",
+    "https://www.eosjwt.com/",
+    "https://search.rakuten.co.jp/search/mall/%E3%82%A4%E3%82%AA%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
+    "https://tilta.shop/?srsltid=AYCX9vLua-jNFYwHu6WVP0byQXKZeeOEl0Ewo976OXjsiMU2SgEvmB8a",
+    "https://www.amazon.co.jp/%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E8%B2%A9%E5%A3%B2%E5%BA%97%E3%80%91-LIMS-%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%AC%E3%82%B6%E3%83%BC-%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-CN-EOSR6BR/dp/B08P4HGHPW",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EOS 日本 販売",
+   "results": [
+    "https://ec.eosjwt.com/shop/",
+    "https://store.canon.jp/online/",
+    "https://sharelab.jp/company/eos-japan/",
+    "https://www.eos.info/ja/press-media/press-center/press-releases",
+    "https://www.instagram.com/eos_canonjp/",
+    "https://kakaku.com/camera/digital-slr-camera/itemlist.aspx?pdf_se=1",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3_EOS%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://eosworldwide.jp/blog/about/",
+    "https://www.amazon.co.jp/canon-eos/s?k=canon+eos",
+    "https://www.amazon.co.jp/デジタルカメラ-EOS-カメラ/s?rh=n:3371371,p_n_feature_twenty_browse-bin:2678625051"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "EOS フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.eos.info/ja",
+    "https://skhonpo.com/",
+    "https://www.nttdata-xam.com/eos-p/",
+    "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://news.sharelab.jp/cases/other-fields/light-saber-201110/",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vLAWDrXHm_S5Gyp1Qh9G5dHW9JdY9L1Scq9RqFJjZs0LWeu4xUb",
+    "https://www.poly-maker.jp/",
+    "https://www.eos.info/ja/polymer-solutions/polymer-materials",
+    "https://skhonpo.com/collections/filament"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "EOS Japan distributor",
+   "results": [
+    "https://www.eos.info/about-us/locations-worldwide",
+    "https://startup.jobs/life-cycle-solutions-sales-manager-japan-eos-gmbh-electro-optical-sys-10619480",
+    "https://jp.indeed.com/viewjob?jk=84254238cbb38919",
+    "https://www.nttd-es.co.jp/magazine/backnumber/no89/no89-specialreport.html",
+    "https://sharelab.jp/company/eos-japan/",
+    "https://eos-es.co.jp/en/company/",
+    "https://evolutionofsmooth.com/?srsltid=AYCX9vKNvA9Frv2jIQfddHJo56H3Gyt6GSFM_0Li-aheWP5vJL2VlTxI",
+    "http://eo-s.jp/company.html",
+    "https://www.etcconnect.com/About/News/The-New-National-Theatre-embraces-Japan-s-first-Eos-Apex-console.aspx",
+    "https://www.eos.info/ja/about-us/locations-worldwide"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "EOS distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.eos.info/about-us/locations-worldwide",
+    "https://www.linkedin.com/company/eosproducts",
+    "https://evolutionofsmooth.com/pages/contact-us?srsltid=AYCX9vJ0h-k6xM-gmBCCB87ADeFG5em5gpS8oYAslndTocQiH87FSjfB",
+    "http://eo-s.jp/company.html",
+    "https://jp.talent.com/en/view?id=622441739356276805",
+    "https://www.aestheticsbeautyconnect.com/find-beauty-distributors-in-japan",
+    "https://www.eose.com/",
+    "https://www.intel.com/content/www/us/en/partner/showcase/storefront/a5sho00000173yvmai/eos-it-management-solutions.html",
+    "https://japanesedistributors.com/top-japanese-cosmetics-beauty-distributors-importers/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp EOS",
+   "results": [
+    "https://www.amazon.co.jp/-/en/eos-Cashmere-Moisture-Lightweight-Non-Greasy/dp/B08KT2Z93D",
+    "https://www.amazon.co.jp/EOS-BALM-sweet-mint-2PACK/dp/B01MAV165F",
+    "https://www.amazon.co.jp/Canon-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B9%E4%B8%80%E7%9C%BC-%E3%82%AB%E3%83%A1%E3%83%A9-EOS-BODY/dp/B07H8WYM4Z",
+    "https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i",
+    "https://www.amazon.co.jp/%E6%B4%8B%E6%9B%B8-EOS-Worldwide/s?rh=n%3A52033011%2Cp_27%3AEOS%2BWorldwide",
+    "https://music.amazon.co.jp/user-playlists/11f07846b0124b30a40afbba6ec93325c2a0",
+    "https://music.amazon.co.jp/user-playlists/3321c3c04ec54f718c050aa716a1ba64sune",
+    "https://music.amazon.co.jp/artists/B007FQKA7U/yamane",
+    "https://www.amazon.co.jp/EOS-plus/e/B0H45D7PW5/ref=dp_byline_cont_book_1",
+    "https://www.amazon.co.jp/Canon-ミラーレス一眼-カメラ-EOS-BODY/dp/B07H8WYM4Z"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:monotaro.com EOS",
+   "results": [
+    "https://www.monotaro.com/p/0580/2382/?srsltid=AYCX9vKi4gMPIv4uMyeY0LC11mtybcGChfhglY7_1cJEwtOdLFE9H6fH",
+    "https://www.monotaro.com/s/q-eos%20r50/?srsltid=AYCX9vK-yGDwctVTF6MAEjGjUyw1f6hEDILRoum2wh2isciaPGj9NCBF",
+    "https://www.monotaro.com/g/07979995/?srsltid=AYCX9vLQ1EldQFP-_d0CC682bXOYahZH1CGR93ZW1Ts1FKNYMHy3F1Vr",
+    "https://www.monotaro.com/g/04209074/?srsltid=AYCX9vJF5WYoeUwI9Y5DHn2r9Ggq-wdxQUz3mHFpgsGA4s7r5_6pMqxD",
+    "https://www.monotaro.com/p/0580/2357/?srsltid=AYCX9vLudUhxX27eSB4e35BKOYj7JKGNnlpAJp3A5qzb6EDK5pyNhQrU",
+    "https://www.monotaro.com/s/q-canon%20eos%20r10/?fpu=1&srsltid=AYCX9vKws2E1hSuQGxJLw8rr4zDsVEEj289Cm6c96VesFl9efC25kzzW",
+    "https://www.monotaro.com/g/03751151/?srsltid=AYCX9vJqOsOM1Zoly4VKCPKBS5IoRNgXYTdeyUtR69xnxLEtVjhWsBfw",
+    "https://www.monotaro.com/s/q-eos%20r50/?attr_f4770=%E9%98%B2%E5%A1%B5&srsltid=AYCX9vKd92IziSgmQuJ9jyAWeArhM2__PPMmETefZukaI2g1GRtZU1WL",
+    "https://www.monotaro.com/p/1838/6351/?srsltid=AYCX9vK92-ahI_BeVYluqZuGd12RdlTK-mgtdwJ0_UYvHKGyrbzAUflj",
+    "https://www.monotaro.com/g/06020329/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EOS employees revenue parent company",
+   "results": [
+    "https://www.eosfitness.com/about-us",
+    "https://www.zoominfo.com/c/eos-fitness/368369833",
+    "https://www.sec.gov/Archives/edgar/data/1651958/000157587225000278/eoss-20231231.htm",
+    "https://www.reddit.com/r/EOSFitness/comments/1ru2zs0/i_dont_think_eos_fitness_is_going_to_last_another/",
+    "https://www.halotalks.com/blog/from-golds-gym-rebrand-to-a-15-billion-exit-eos-fitness-ceo-rich-drengberg-on-disciplined-growth/",
+    "https://www.zippia.com/eos-fitness-careers-1555883/revenue/",
+    "https://growjo.com/company/EOS_Worldwide",
+    "https://www.owler.com/company/eospartners",
+    "https://www.eosworldwide.com/eos-history-team",
+    "https://investors.eose.com/news-releases"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com EOS",
+   "results": [
+    "https://note.com/cafe577r/n/n8c79a2dd0b21?hl=en",
+    "https://note.com/eos_event_jp",
+    "https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en",
+    "https://note.com/photoratio/n/ndb02096c1b42?hl=en",
+    "https://note.com/maximum_aperture/n/nd266732b428a?hl=en",
+    "https://note.com/light_fox3746/n/nba0c0316a617?hl=en",
+    "https://note.com/maximum_aperture/n/n704268f229a0",
+    "https://note.com/xkamen/n/nf3364d759d55",
+    "https://note.com/light_fox3746/n/na1a0946f72ad?hl=en",
+    "https://note.com/bostoncareer/n/na9b10aeef89b?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com EOS",
+   "results": [
+    "https://x.com/eos",
+    "https://x.com/PoweredByEos",
+    "https://x.com/hashtag/EOS",
+    "https://x.com/AGU_Eos",
+    "https://x.com/PoweredByEos/status/2067697048216899770",
+    "https://x.com/PoweredByEos/status/2102489091287777659",
+    "https://x.com/eostrinidad",
+    "https://x.com/PoweredByEos/status/2095557600393794033",
+    "https://x.com/PoweredByEos/status/2046657144443772951",
+    "https://x.com/Eos"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com EOS",
+   "results": [
+    "https://www.linkedin.com/company/eosproducts",
+    "https://www.linkedin.com/company/eos",
+    "https://www.linkedin.com/company/eos-worldwide-llc",
+    "https://www.linkedin.com/company/eos-energy-storage",
+    "https://www.linkedin.com/company/eos-data-analytics",
+    "https://www.linkedin.com/in/jimcoylenexus",
+    "https://www.linkedin.com/company/eos-it-solutions",
+    "https://www.linkedin.com/company/eosproducts/jobs",
+    "https://www.linkedin.com/in/jonathanteller",
+    "https://www.linkedin.com/company/eos-com"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com EOS",
+   "results": [
+    "https://www.facebook.com/eos/",
+    "https://www.facebook.com/eosworldwide/",
+    "https://www.facebook.com/TheDimmaUmeh/videos/let-this-be-your-guide-eos-eosbodylotion-bodylotion-bodycare-skincarereview/1486564076011446/",
+    "https://www.facebook.com/groups/836604156453621/posts/28295714640115869/",
+    "https://www.facebook.com/eosenergy/",
+    "https://www.facebook.com/groups/2230570503/posts/10174325515880504/",
+    "https://www.facebook.com/groups/169726724873144/posts/1540976037748199/",
+    "https://www.facebook.com/EOSDA/",
+    "https://www.facebook.com/groups/beginnersphotographygroup/posts/10067896079924900/",
+    "https://www.facebook.com/eostheatre/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "EOS note 社長",
+   "results": [
+    "https://note.com/eos_event_jp",
+    "https://note.com/tag/EOS",
+    "https://note.com/bostoncareer/n/na9b10aeef89b",
+    "https://www.eosllp.com/about-eos/staff-list/",
+    "https://corporate.jp.canon/profile/communications/socialmedia",
+    "https://www.youtube.com/watch?v=S1BuGTaZ3Lw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://global.canon/ja/c-museum/history/eos30th-1.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "EOS X 投稿",
+   "results": [
+    "https://kakaku.com/item/00500211032/picture/",
+    "https://x.com/eos",
+    "https://www.youtube.com/watch?v=qJJOz5gnFPc",
+    "https://ganref.jp/items/camera/canon/5/photo",
+    "https://bbs.kakaku.com/bbs/-/SortID=25511268/",
+    "https://note.com/atmo/n/n934138551e45",
+    "https://www.kitamura.jp/shasha/canon/single-lens/eos-kiss-digital-x/",
+    "https://ryutao.main.jp/report_eoskiss.html",
+    "https://www.instagram.com/eos_canonjp/",
+    "https://x.com/eos20d200704/status/2118988238841159700"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）"
+ }
+}

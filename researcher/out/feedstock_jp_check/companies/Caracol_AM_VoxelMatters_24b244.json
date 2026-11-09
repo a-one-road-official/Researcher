@@ -1,0 +1,509 @@
+{
+ "name": "Caracol AM — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T14:00:23.869839+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Caracol AM — VoxelMatters - The largest database of additive ... — The evolution of AM starts from the most demanding manufacturing needs: large, complex, critical parts. Caracol was born from the idea of pushing the limits of AM, beyond what was possible. We brought that idea to life, evolving the possibilities of Additive Manufacturing on scale, shape, and materials. Heron AM is our Large-Format",
+    "url": "https://www.voxelmatters.directory/company/caracol-studio/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/on-the-wings-of-the-heron/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.caracol-am.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-printing-factory/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://am-futures.com/brands/caracol.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/caracol-studio/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/caracol-raises-impressive-40m-series-b-to-accelerate-global-scale-up/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/caracol-heron-am-advantages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/30936302/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaicatalog.com/column/caracol-heron-am-advantages/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/products/caracol-heron-am",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dpc.co.jp/articles/caracol-heron-am-advantages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/categories/5848171",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.caracol-am.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/on-the-wings-of-the-heron/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.caracol-am.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/FLiC-%E3%83%AF%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%84-%E5%BD%A2%E6%85%8B%E5%AE%89%E5%AE%9A-%E3%82%B7%E3%83%A3%E3%83%84-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/dp/B01FD0K722",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%AF%E3%83%B3%E3%83%87%E3%83%BC-%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%B9-%E3%80%90BC%E3%80%919-0%E3%80%90PWR%E3%80%91-1-50-90%E6%9E%9A%E5%85%A5/dp/B01I15BQ44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/OMKUY-%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97-%E3%83%8B%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97-%E3%82%B5%E3%82%A6%E3%83%8A%E3%83%8F%E3%83%83%E3%83%88-%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%83%BB%E4%BC%B8%E7%B8%AE%E6%80%A7%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%BB%E7%84%A1%E5%9C%B0%E3%83%BB%E6%9A%96%E3%81%8B%E3%81%84/dp/B0GFMS2HNJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00016743/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00511629/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/03445325/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/robotic-am-company-caracol-joins-america-makes/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/caracol-am/482279877",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caracol-am.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/caracol-am/__zrF_WyA28JVH8cujGwY8umVmZ5HtWce5AYLzm7PmYic",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Caracol AM — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/on-the-wings-of-the-heron/",
+    "https://www.caracol-am.com/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-factory/",
+    "http://am-futures.com/brands/caracol.html",
+    "https://www.youtube.com/watch?v=nanhOHmC7Hk",
+    "https://www.voxelmatters.com/caracol-software-capabilities-beyond-additive/",
+    "https://www.aerospacemanufacturinganddesign.com/news/caracol-additive-engineering-solutions-partner-am/",
+    "https://3dprintingcanada.com/pages/caracol?srsltid=AYCX9vILzHdSe1FRswfSyXvrlcVOcUkwOHMaR9QJyAOETRQwdfjkMsmJ",
+    "https://www.dynamism.com/3d-printing-by-industry/automotive/automotive-3d-printers.html?srsltid=AYCX9vJizbEg1AFdkcq_eFOuQ8MZjUES19jjc-5nxnhWQl0AfEBJ-MAk",
+    "https://www.caracol-am.com/solutions/am-network"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Caracol AM — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/caracol-studio/",
+    "https://www.voxelmatters.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.voxelmatters.com/caracol-raises-impressive-40m-series-b-to-accelerate-global-scale-up/",
+    "http://www.voxelmatters.report/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://jpn.mizuno.com/shop/mizunoshop_shinsaibashi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caracol AM — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.3dpc.co.jp/articles/caracol-heron-am-advantages",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://japan.zdnet.com/release/30936302/",
+    "https://kikaicatalog.com/column/caracol-heron-am-advantages/",
+    "https://prtimes.jp/main/html/rd/p/000000044.000032276.html",
+    "https://www.aperza.com/catalog/page/3316/77253/",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/3dpc-caracol-240207/",
+    "https://www.j-tic.co.jp/R80917w2.html",
+    "https://www.3dpc.co.jp/products/caracol-vipra-am",
+    "https://www.caracol-am.com/solutions/am-network"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Caracol AM — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.3dpc.co.jp/products/caracol-heron-am",
+    "https://www.3dpc.co.jp/articles/caracol-heron-am-advantages",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://shop.exmatelab.com/categories/5848171",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90-788000-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E9%80%A0%E5%BD%A2%E6%9D%90%E6%96%99/s?rh=n%3A3489859051%2Cp_123%3A788000",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://shop.sin.jp/?srsltid=AYCX9vIBU55_2yfIvj06-2M8UJAFH8PbyoYGWzs9gIM61O_xzLLft2K-",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vKaSzF47d_kpDndUebkAtowVLaZyPi8JHpqFRoobjGITxOGRESb",
+    "https://apple-tree.shop/?mode=grp&gid=2958647",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Caracol AM — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.caracol-am.com/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/on-the-wings-of-the-heron/",
+    "https://www.youtube.com/watch?v=nanhOHmC7Hk",
+    "https://www.solidprint3d.co.uk/introducing-caracol-am/?srsltid=AYCX9vLWMaOOtdnCzPnN13gp_kDeRZB3dI8Lejx_GontDRFLwNy7MYcH",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.caracol-am.com/solutions/am-technologies",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.caracol-am.com/solutions/am-network"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Caracol AM — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.caracol-am.com/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.solidprint3d.co.uk/introducing-caracol-am/?srsltid=AYCX9vIps-E6vzwwI-oUkoMWwGpICK4UO7ijl0ggUvWTlxOySIF_Ek81",
+    "https://www.aerospacemanufacturinganddesign.com/news/caracol-additive-engineering-solutions-partner-am/",
+    "https://www.youtube.com/watch?v=nanhOHmC7Hk",
+    "https://www.forbes.com/sites/carolynschwaar/2025/11/07/robotic-3d-printing-firm-caracol-gets-40m-for-made-in-america-push/",
+    "http://am-futures.com/brands/caracol.html",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Caracol AM — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/FLiC-ワイシャツ-形態安定-シャツ-ビジネス/dp/B01FD0K722",
+    "https://www.amazon.co.jp/ワンデー-アキュビュー-オアシス-【BC】9-0【PWR】-1-50-90枚入/dp/B01I15BQ44",
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://www.amazon.co.jp/OMKUY-ナイトキャップ-ニットキャップ-サウナハット-柔らかい・伸縮性・シンプル・無地・暖かい/dp/B0GFMS2HNJ",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/c5a2bdb5-49d6-4304-89f1-130aedcae64d/the-voxelmatters-podcast-the-present-and-future-of-paperless-am-production-workflows-with-am-flow-and-midwest-prototyping",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/0300eef6-4fa8-4f7a-b15c-bece92c5ae3e/voxelmatters-podcast-quintus-technologies'-chad-beamer-on-the-benefits-of-hip-for-am-parts"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Caracol AM — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/03445325/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/00368492/",
+    "https://www.monotaro.com/g/01495180/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Caracol AM — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/robotic-am-company-caracol-joins-america-makes/",
+    "https://www.zoominfo.com/c/caracol-am/482279877",
+    "https://www.caracol-am.com/",
+    "https://tracxn.com/d/companies/caracol-am/__zrF_WyA28JVH8cujGwY8umVmZ5HtWce5AYLzm7PmYic",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/caracol-raises-impressive-40m-series-b-to-accelerate-global-scale-up/",
+    "https://pitchbook.com/profiles/company/465629-32",
+    "https://3dprintingindustry.com/news/caracol-to-boost-its-global-expansion-with-40m-funding-245337/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-directory/",
+    "https://rocketreach.co/caracol-am-profile_b7957b47c2465611"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Caracol AM — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/kouga_yun/n/n228fbf8fcafc",
+    "https://note.com/haru_yuki_i/n/n4ec981874187",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Caracol AM — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/6AMCaracol",
+    "https://x.com/CaracolRadio",
+    "https://x.com/CaracolRadio/status/2118741814513406354",
+    "https://x.com/CaracolRadio/status/2118007832452948442",
+    "https://x.com/UltimaHoraCR",
+    "https://x.com/VoxelMatters/status/2036387917493416329"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Caracol AM — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/aldo-sollazzo_a-new-platform-for-large-additive-manufacturing-activity-7493310717920669696-YLQc",
+    "https://it.linkedin.com/in/violetta-nespolo/it",
+    "https://it.linkedin.com/in/mattiadesantis",
+    "https://www.linkedin.com/posts/designtech-milano_innovation-grows-faster-when-different-expertise-activity-7480540036950827008-sTvM",
+    "https://www.linkedin.com/in/josh-ellis",
+    "https://www.linkedin.com/posts/davide-sher_ai-marketresearch-additivemanufacturing-activity-7494791267604746240-KXp7",
+    "https://it.linkedin.com/in/daniele-vanerio",
+    "https://www.linkedin.com/posts/paul-croisetiere-a9042a3_beehive-industries-expands-large-format-metal-activity-7488249460309979136-nx7A",
+    "https://it.linkedin.com/in/federica-tiso-178524109"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Caracol AM — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/caracolAM/photos/510975061035179/",
+    "https://www.facebook.com/VoxelMatters/posts/a-cast-that-molds-to-your-arm-a-pharmacy-printing-your-childs-exact-dose-a-impla/1572703334860709/",
+    "https://www.facebook.com/formnext/posts/vdma-formnext-2026the-vdma-additive-manufacturing-network-brings-together-leadin/1595804705908014/",
+    "https://www.facebook.com/formnext/posts/-early-bird-ends-on-2-march-dont-miss-your-chance-planning-to-exhibit-at-formnex/1368768191945001/",
+    "https://www.facebook.com/61586841797753/videos/-expo-3dde-sizi-neler-bekliyoreklemeli-imalat-teknolojilerinden-end%C3%BCstriyel-3d-b/1087641217120352/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/caracolAM/",
+    "https://www.facebook.com/caracolAM/posts/𝗣𝗮𝗿𝘁𝗻𝗲𝗿-𝗦𝗽𝗼𝘁𝗹𝗶𝗴𝗵𝘁-𝗠𝗲𝗿𝗶𝘁𝟯𝗗-𝗴𝗼𝗶𝗻𝗴-𝗕𝗜𝗚-𝘄𝗶𝘁𝗵-𝗛𝗲𝗿𝗼𝗻-𝗔𝗠-we-love-seeing-our-partners-wo/1312182717581072/",
+    "https://www.facebook.com/caracolAM/posts/𝗤𝘂𝗮𝗹𝗶𝘁𝘆-𝗮𝗻𝗱-𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆-𝘁𝗵𝗲-𝗰𝗼𝗿𝗲-𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀-𝗼𝗳-𝗩𝗶𝗽𝗿𝗮-𝗔𝗠-our-vipra-robotic-platfo/1154460870019925/",
+    "https://www.facebook.com/caracolAM/posts/-what-is-the-real-challenge-with-waam-production-keeping-metal-deposition-stable/1657481869717820/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Caracol AM — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/on-the-wings-of-the-heron/",
+    "https://www.caracol-am.com/about",
+    "https://www.forbes.com/sites/carolynschwaar/2025/11/07/robotic-3d-printing-firm-caracol-gets-40m-for-made-in-america-push/",
+    "https://www.voxelmatters.com/caracol-software-capabilities-beyond-additive/",
+    "https://www.aerospacemanufacturinganddesign.com/news/caracol-additive-engineering-solutions-partner-am/",
+    "https://www.voxelmatters.report/",
+    "https://compositesweekly.com/beyond-prototypes-how-caracol-is-scaling-robotic-composite-3d-printing/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.com/robotic-am-company-caracol-joins-america-makes/",
+    "https://www.voxelmatters.com/company/caracol-am/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Caracol AM — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/on-the-wings-of-the-heron/",
+    "https://www.caracol-am.com/",
+    "https://www.youtube.com/watch?v=e_B5mGdXOO8",
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/shorts/aT6rHtbMKDQ",
+    "https://www.voxelmatters.report/",
+    "http://am-futures.com/brands/caracol.html",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

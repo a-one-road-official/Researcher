@@ -1,0 +1,514 @@
+{
+ "name": "3D Ever — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T13:56:47.015222+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/voxelmatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/elegoo-h1-ht-filament-dryer-2026-07",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%AB%E3%83%9F%E3%82%A8%E3%83%AB-%E4%B9%B3%E9%85%B8%E8%8F%8C-%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88-%E5%A6%8A%E6%B4%BB%E6%9C%9F%E3%81%AE%E8%91%89%E9%85%B8%E8%A3%9C%E7%B5%A6-30%E6%97%A5%E5%88%86/dp/B0F1CZ625G",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01443980/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01451330/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0951/7137/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/3D_Systems",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3D Ever — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/about/join/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.group/",
+    "https://www.voxelmatters.directory/companies/",
+    "https://www.youtube.com/watch?v=EffPB8N9Mj0",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D Ever — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://skhonpo.com/blogs/blog/elegoo-h1-ht-filament-dryer-2026-07",
+    "https://www.voxelmatters.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.threezerohk.com/",
+    "https://i-maker.jp/",
+    "https://marketiger3d.com/",
+    "https://mitsukaru.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "3D Ever — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://3dprinter.co.jp/",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.bmf3d.co.jp/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D Ever — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/filament",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://www.monotaro.com/s/c-121027/attr_f5139-%E3%82%A8%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%83%BC/?srsltid=AYCX9vIlCzVsAtBarGuHEd3z4J06VAOlussQcosva29h5jWwxYHqWNb4",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vLRjg2Ol8yacKHwXurCN1a7neIVaf2j6Mlnh7MLObLhV1ssnI08",
+    "https://www.3dpc.co.jp/articles/pellet-filament-3d-printer",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D Ever — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.exone.com/en/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://builder3dprinters.com/resellers/",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.voxelmatters.group/",
+    "https://www.linkedin.com/posts/voxelmatters_axtra3d-appoints-new-revenue-team-and-expands-activity-7196446214530256897-NM8d"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "3D Ever — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.facebook.com/fb-answers/3d-printing-companies-in-japan/?locale=ga_IE",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp 3D Ever — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/ルミエル-乳酸菌-サプリメント-妊活期の葉酸補給-30日分/dp/B0F1CZ625G",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://www.amazon.co.jp/兒玉遥写真集-You-will-see-兒玉遥/dp/4334111920",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com 3D Ever — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01443980/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/01451330/",
+    "https://www.monotaro.com/p/0951/7137/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/01411529/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3D Ever — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.directory/",
+    "https://en.wikipedia.org/wiki/3D_Systems",
+    "https://www.voxelmatters.report/database/",
+    "https://www.precedenceresearch.com/3d-printing-market",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/category/money/financials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 3D Ever — VoxelMatters",
+   "results": [
+    "https://note.com/mar810/n/n841f55f07d04",
+    "https://note.com/may_banana/n/n7fd66b368c8d",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/daisuke_bklyn/n/n492737b5263c?hl=ko",
+    "https://note.com/edgeworks_tokyo/n/ne4fb28a0cfa1",
+    "https://note.com/jack4manastalk/n/n46be4d6e1cd3",
+    "https://note.com/_takumi_inoue_/n/n32e12ae3216b",
+    "https://note.com/ccre1018/n/n77e6fbc62af0",
+    "https://note.com/viexp/n/ne4dee9ed5323",
+    "https://note.com/edgeworks_tokyo/n/nbf2e5fb6bdfe"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 3D Ever — VoxelMatters",
+   "results": [
+    "https://x.com/3dheals",
+    "https://x.com/VELO3DMetal",
+    "https://x.com/3DOSNetwork",
+    "https://x.com/BackflipAI",
+    "https://x.com/ageof3dp/status/2032288034813571280",
+    "https://x.com/AJeldi2",
+    "https://x.com/AirtechOfficial",
+    "https://x.com/52shinNaka",
+    "https://x.com/KagawaTomo/status/2065355815238963291",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 3D Ever — VoxelMatters",
+   "results": [
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://www.linkedin.com/posts/voxelmatters_3dprinting-additivemanufacturing-xometry-activity-7429836895540363264-dMgZ",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-metalam-activity-7518945366134898688-i2JO",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ceramicam-activity-7495110218633179136-e-_9",
+    "https://il.linkedin.com/company/3d-alliances-ltd",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-hypersonics-activity-7506241770603577345-Ocdw",
+    "https://www.linkedin.com/posts/sebastian-pattinson-09519010b_regularized-interpolation-in-4d-neural-fields-activity-7515729910435532800-Lh40",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 3D Ever — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/one-floor-up-more-than-three-times-the-production-space-in-this-weeks-am-in-focu/1149824424228782/",
+    "https://www.facebook.com/brent.goudie/posts/this-weeks-3d-printing-news-a-resin-printer-that-washes-and-dries-itself-1-milli/10244741739383633/",
+    "https://www.facebook.com/DiscoverRAPID/posts/one-floor-up-more-than-three-times-the-production-space-in-this-weeks-am-in-focu/1616402190534437/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/PrusaResearch/posts/a-functional-acoustic-guitar-printed-on-prusa-3d-printer-yes-it-is-possible-and-/874540225088042/",
+    "https://www.facebook.com/ANYCUBIC3dprinter/posts/-no-fuss-corexy-for-speed-and-reliabilityvoxelmatters-praises-the-anycubic-kobra/1023911836503131/",
+    "https://www.facebook.com/ArtYouHungry/posts/my-3d-printed-shoes-passed-the-test-i-love-when-tech-solves-problems-because-i-c/1499691428832893/",
+    "https://www.facebook.com/VoxelMatters/posts/first-ever-human-corneas-are-3d-printed-by-researchers-at-newcastle-university-w/929991677172958/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "3D Ever — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://x.com/VoxelMatters",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/tethon-3d-ceo-ceramics-3d-printing/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.com/category/marketing/interviews/",
+    "https://www.linkedin.com/pub/dir/davide/sher"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "3D Ever — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.com/category/construction-3d-printing/",
+    "https://www.voxelmatters.report/datasets/",
+    "https://www.reddit.com/r/3Dprinting/comments/1scvo5i/nothing_really_matters_in_3d_printing/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

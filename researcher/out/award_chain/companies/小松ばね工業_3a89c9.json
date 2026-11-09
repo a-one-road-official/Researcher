@@ -1,0 +1,1403 @@
+{
+ "name": "小松ばね工業",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都 ものづくり企業データベース;大田区 優工場",
+ "researched_at": "2026-11-09T13:54:51.792031+00:00",
+ "official_url": "https://www.komatsubane.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業年月日",
+    "value": "創業年月日：1941年（昭和16年）5月23日",
+    "url": "https://www.komatsubane.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "会社設立",
+    "value": "会社設立：1952年（昭和27年）12月1日",
+    "url": "https://www.komatsubane.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設　立",
+    "value": "設　立：1952年(創業1941年)",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：1952年12月",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1952年12月",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "label": "設立・設置年月",
+    "value": "設立・設置年月：昭和16年5月23日",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "東京都大田区大森南5丁目3番18号",
+    "url": "https://www.komatsubane.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "143-0013　東京都大田区大森南5-3-18",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "label": "本社住所",
+    "value": "〒143-0013 東京都大田区大森南5-3-18",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都福生市武蔵野台2-34-5",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都荒川区西尾久8-33-35",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都板橋区常盤台1-36-16",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都大田区城南島4-3-4",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都荒川区東日暮里2-13-5",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都墨田区立川1-3-2",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都練馬区上石神井4-10-39",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都大田区昭和島2-4-4",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都北区西ケ原1-19-19",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都新宿区市谷本村町2-1 クイーポビル7階",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒143-0013 東京都大田区大森南5-3-18",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "143-0013　東京都大田区大森南５－３－１８",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   },
+   {
+    "label": "工場所在地",
+    "value": "019-1611　秋田県大仙市太田町斉内字北開１８２－４",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "小松　万希子",
+    "url": "https://www.komatsubane.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　小松　万希子",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "label": "代表者氏名",
+    "value": "小松　万希子",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   },
+   {
+    "label": "代表者から一言",
+    "value": "お客様のご要望に誠心誠意対応します。",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "100百万円",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "10,000万円",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "10000万円",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年　商",
+    "value": "9.1億円(2026年3月期)",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "69人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "70人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "67人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "72人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "66人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "65人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "73人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "74人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "64人",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "78名",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "27人",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "アルプス電気、日本モレックス、ＴＩ　Ｗａｌｂｒｏ　Ｊａｐａｎ、日立Astemo、キャノン、ニコン、ペンタックス、㈱ミクニ、セイコーエプソン",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "加工技術、表面処理などが出展し、製造業の設計、開発、試作、製造、生産技術、",
+    "url": "https://www.komatsubane.com/",
+    "pass": 1
+   },
+   {
+    "quote": "12月27日 生産・販売の増加により法人化して、商号 有限会社小松製作所として発足",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品・電気機器等の業界の分野に進出し、関係メーカ各社に販売を開始",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "販路拡大に伴い別に販売会社として「新小松ばね工業株式社を設立し営業部門を独立",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "経営合理化のため販売会社新小松ばね工業株式会社を吸収合併",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "小松ばね工業株式会社が実施する「ばね」の製造活動において、「お客様に必要とされる」を経営理念とし、「お客様第一主義に徹する」と言う基本方針のもと、企業発展の原理「成長と拡大」「安定」を同時に遂行することを継続する",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容、事業を取り巻く状況、事業と環境のかかわりによって変化する課題とチャンスを必要に応じて見直しをする",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "5）原材料の効率的な使用による、製造廃棄物の削減",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "製造工程での端材や副産物は再資源化を推進し、事務作業ではペーパーレス化や節水にも配慮",
+    "url": "https://www.komatsubane.com/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "以来「精密ばね」の製造、販売を全て受注生産で対応しており、精密かつ正確な製品づくり、品質管理の徹底、納期の厳守、コストの低減化を実現してまいりました",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業株式会社 - 東京都・金属部品製造業界の企業情報 | Baseconnect",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "超精密スプリング専門メーカーとしてコイルばねやトーションばねを製造する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "超精密スプリング専門メーカーとして、コイルばね（圧縮・引張）、トーションばね、ワイヤーフォーミング加工を製造する",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "精密機械産業向けに設計・開発・製造・生産技術を提供する",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイル用鋼製巻きフランジや免震金具を製造する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "ドラム缶用口金や封緘器などを製造・販売する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ・亜鉛精密ダイカスト部品の製造・販売を行う会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "「空気調和用排気ダクト継手」やEV自転車用フレーム部材などを製造する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械や商用車向け螺子類を製造・販売する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "商用産業印刷機器部品や自動車部品などを製造する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "船舶のエンジン動力をスクリューに伝えるマリンギアやシャフトを製造する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "農林機械や船外機などの生産用部品の設計・製造・販売を行う会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "社名＝小松ばね工業株式会社、住所＝〒143-0013 東京都大田区大森南5-3-18、社長＝小松万希子、資本金＝1億円、事業内容＝精密ばね製造",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "中小の製造業が国内に多い中で、国も技術をもった企業を残すためにいろいろな施策を立てています",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "製造拠点は、東京都大田区、宮城県大河原町、秋田県太田町の3カ所にあり、海外ではインドネシアに子会社を持つ",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "「精密ばね」の製造に特化し、電子、光学、医療、通信機器部品、自動車部品、宝飾品等あらゆる分野に必要とされるばねを製造",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラのシャッター用ばねの製造に始まり、顧客の要望に応じて様々な精密機器のばねへと販路を広げてきた小松ばね工業は、国内有数の極小・精密ばねのメーカーである",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "女性経営者二代が、ばね製造の熟練技術者を活かす――part2",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "創業1941年、カメラのシャッターから電子部品を中心に幅広い分野に受注生産でばねを製造",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "「小さな世界の大きな驚き」をキャッチフレーズに、材料線径0.02㎜～ 2.5㎜前後の加工に挑戦し続け、肉眼ではコイル形状が見えない微細な「ばね」を製造",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "quote": "主要事業、および得意技術や自社製品のご紹介",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "quote": "・ 材料線径0.02 ～ 2.5㎜前後の「ばね」を製造",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "quote": "線径２０ミクロン～２ミリの精密ばねを製造",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "来場者数：ものづくりワールド東京、建設DX展プラス、物流DX展の来場者数合計",
+    "url": "https://www.komatsubane.com/",
+    "pass": 1
+   },
+   {
+    "quote": "加工技術、表面処理などが出展し、製造業の設計、開発、試作、製造、生産技術、",
+    "url": "https://www.komatsubane.com/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、仙台市外に工場を移転",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工場疎開より復帰、線ばねを主として生産開始",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "生産設備増強と需要の増加により、東京第二工場を新設",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "秋田県仙北郡（現：大仙市）太田町に秋田太田町工場新設",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "7月11日天皇陛下ご視察（本社工場）",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "9月船岡工場老朽化により、大河原工場に移転、工場新設",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成23年度大田区「優工場」認定「総合部門賞」",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の発祥は1941（昭和16）年、現在の本社（東京都大田区）において創業者小松謙一が、ばね工場「小松製作所」を創立いたしました",
+    "url": "https://www.komatsubane.com/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初は、主にカメラシャッタ用の精密ばねの専門工場として発展して参りました",
+    "url": "https://www.komatsubane.com/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "各業界の要望に応えて、光学機器・医療機器・時計・電気機器・通信機器・OA 機器・家電・自動車部品・宝飾品・文具・その他精密機器用ばねの部門に漸次販路を広め、また技術も一段と幅広くなり、特に超精密ばねの技術においては、他の追随を許さないものと誇りを持っております",
+    "url": "https://www.komatsubane.com/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2番（森26、森56系統）「森ヶ崎」（東京労災病院）行き",
+    "url": "https://www.komatsubane.com/company/office/",
+    "pass": 1
+   },
+   {
+    "quote": "1）電力、ガス、ガソリンの削減による、C02 の排出抑制",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "全社(東京本社、本社工場、大河原工場、秋田太田町工場）の電力を100％再生可能エネルギーへ切り替え完了",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "再エネ由来の電力を使用することで、工場の運用に伴うCO₂排出を大幅に削減しています",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "従来照明に比べ消費電力の少ないLEDを導入し、省エネ化を実現",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "古い空調機器を高効率の省エネタイプに交換し、使用電力の削減",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "・自治体等の推進活動に参加しつつ、引き続き取り組む",
+    "url": "https://www.komatsubane.com/csr2/",
+    "pass": 1
+   },
+   {
+    "quote": "地球温暖化の抑制に向けて、エネルギー使用の現状を可視化し、より効率的でムダのない運用を推進しています",
+    "url": "https://www.komatsubane.com/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした取り組みにより、持続的なエネルギー削減とCO₂排出抑制に取り組んでいます",
+    "url": "https://www.komatsubane.com/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs 7: エネルギーをみんなに そしてクリーンに、",
+    "url": "https://www.komatsubane.com/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "【工場・営業】柴田郡大河原町（宮城県）／大仙市太田町（秋田県）",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "用途は、電気機器部品用、通信機器用、家電機器用、医療機器用、車両（二輪）用、時計、カメラ、宝飾品用などあらゆる分野",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業株式会社 - 東京都・金属部品製造業界の企業情報 | Baseconnect",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "超精密スプリング専門メーカーとしてコイルばねやトーションばねを製造する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "超精密スプリング専門メーカーとして、コイルばね（圧縮・引張）、トーションばね、ワイヤーフォーミング加工を製造する",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "高圧電力ケーブル用付属品や特殊船舶の制御盤の加工を行う会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "建設機械や商用車向け螺子類を製造・販売する会社",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業は、東京都大田区の精密バネメーカーだ",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "大田区のほか宮城県、秋田県、インドネシアにも工場を持ち、経済産業省が選ぶ「地域未来牽引企業」に選ばれている",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "バブル経済の崩壊や、リーマン・ショックなどあったものの、携帯電話など情報家電、精密機械、医療機器に同社のバネは採用され、業績は順調に推移していった",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "過去には天皇陛下も視察に訪れたというほどの町工場",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "優れた技術力をもった日本のモノづくりについて、工場を率いる女性社長にお話を伺った",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "医療器具のカテーテルにも、",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "小松：お客様の業種は様々ですが、その中でも大きなシェアを占めているのは電子部品メーカーさんです",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用？医療でばねが使われるイメージってあまりなかったです",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "このあたりの職人技が国内で工場を操業する強みなのでしょうか",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "小松：いま、国内のメーカーさんはほとんど海外に工場をつくっています",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーさんは現地で部品調達する方針であることが多く、日本からばねを輸入する、ってことにはなりにくいんですね",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で当社もインドネシアに進出して工場もありますが、技術にはまだ大きな差があります",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "工場の方はみなさん、やはり日本で存続するのは大変だっておっしゃりますね",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "中小の製造業が国内に多い中で、国も技術をもった企業を残すためにいろいろな施策を立てています",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "「精密ばね」の製造に特化し、電子、光学、医療、通信機器部品、自動車部品、宝飾品等あらゆる分野に必要とされるばねを製造",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラのシャッター用ばねの製造に始まり、顧客の要望に応じて様々な精密機器のばねへと販路を広げてきた小松ばね工業は、国内有数の極小・精密ばねのメーカーである",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "節子さんは、子どもがいなかった小松家に養子に入ることが決まりながら、しばらくは実家を出ることもなく、学校に通いながら好きなバレエに打ち込む日々を過ごしていた",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "工場は整理も清掃もいい加減で、床のそこかしこに油がこびりついている",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "社員に声をかけてともに掃除し、工場内の埃をふき取り、床に堆積した油汚れを削り取った",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "八九年秋田太田町工場新設、九二年同第二工場増設に続き、九五年頃からはアジア各地を視察して回り、九七年にインドネシアに子会社を設立した",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "松下幸之助経営塾（第32期－第4回）が開催されました＜10/16～10/17＞",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業株式会社 | 医療機器開発のパートナーが探せるサイト「ものづくり中小企業技術シーズ」",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器用においてはカテーテル用治療器、内視鏡装置、生検用機器、電気メス、パルスオキシメータ、血圧計など「精密ばね」の多彩なニーズにお応えします",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "・国内医療展示会：MEDTEC、他",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "・使用想定医療機器：カテーテル機器、内視鏡装置、生検用機器、パルスオキシメータ、",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "血圧計、電気メス、歯科治療機器、血液分析装置",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "ガイドワイヤー用コイル（線径0.03ｍｍ～）、内視鏡挿入部用ばね（実績ベース：線径0.09ｍｍ～）、マーカ、電池ばね、「針」の可動力推進用、各種医療器具用ばね、クリップ形状、等",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "・ 電子機器、通信機器、医療機器、自動車、家電製品、宝飾品、その他広範囲にわたる部品用",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "quote": "大田区「優工場」認定 2012年取得",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業株式会社 秋田太田工場 - 公益財団法人あきた企業活性化センター",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業株式会社 秋田太田工場(コマツバネコウギョウ アキタオオタコウジョウ)",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "払込資本金 1億円",
+    "url": "https://www.komatsubane.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社に改組と同時に商号を変更（資本金400万円）",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "転換社債を株式に転換し資本金に繰入れ、払込資本金13,180万円となる",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "6月資本金減資 1億円",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2月子会社：PT.KOMATSUBANE INDONESIA 移転",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の社会的責任を果たすため、お客様、株主、従業員、取引先、地域社会など、すべてのステークホルダーとの対話を重視しています",
+    "url": "https://www.komatsubane.com/esg/",
+    "pass": 1
+   },
+   {
+    "quote": "【子会社】西ジャワ・プルワカルタ（インドネシア）",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "社名＝小松ばね工業株式会社、住所＝〒143-0013 東京都大田区大森南5-3-18、社長＝小松万希子、資本金＝1億円、事業内容＝精密ばね製造",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "製造拠点は、東京都大田区、宮城県大河原町、秋田県太田町の3カ所にあり、海外ではインドネシアに子会社を持つ",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "八九年秋田太田町工場新設、九二年同第二工場増設に続き、九五年頃からはアジア各地を視察して回り、九七年にインドネシアに子会社を設立した",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "資本金...1億円",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "（子会社）ＰＴ．ＫＯＭＡＴＳＵＢＡＮＥ ＩＮＤＯＮＥＳＩＡ、（宮城県）大河原工場",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "「第一回 元気なモノ作り中小企業300社」入選（経済産業省 中小企業庁 選定）",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "4月小松節子（会長）が中小企業振興功労として「旭日単光章」叙勲",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "小松ばね工業株式会社｜投資企業検索｜東京中小企業投資育成株式会社",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業投資育成が認定する2,666社の優良企業",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "小松：世間では、「日本のモノづくりは中小企業の技術が支えている」と言われていて、そういうイメージもあると思います",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業株式会社 | 医療機器開発のパートナーが探せるサイト「ものづくり中小企業技術シーズ」",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "pass": 3
+   },
+   {
+    "quote": "・第一回 「元気なモノ作り中小企業300 社」入選",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "「第一回 元気なモノ作り中小企業300社」入選（経済産業省 中小企業庁 選定）",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成23年度大田区「優工場」認定「総合部門賞」",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1月小松節子（会長）「第34回優秀経営者顕彰 女性経営者賞 受賞」日刊工業新聞社主催",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "7月地域未来索引企業(経済産業省)に選定される",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業投資育成が認定する2,666社の優良企業",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "国際規格などの取得状況／主な表彰履歴／開発実績 等",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "quote": "大田区「優工場」認定 2012年取得",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社 沿革 | 小松ばね工業 株式 会社 — 会社 沿革 | 小松ばね工業 株式 会社 小松ばね工業株式会社 https://www.komatsubane.com > 会社概要",
+    "url": "https://www.komatsubane.com/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式 会社 - 中小企業投資育成 — 小松ばね工業 株式 会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社の 会社概要 ・製品情報 - Metoree — 小松ばね工業 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/16964/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式 会社 - 東京カイシャハッケン伝 — 小松ばね工業 株式 会社 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > komatsubane",
+    "url": "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/komatsubane/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 | 企業情報 | イプロスものづくり — 小松ばね工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/344124/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社 - 東京都・金属部品製造業界の企業情報 — 小松ばね工業 株式会社 - 東京都・金属部品製造業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社 - 中小企業投資育成 — 小松ばね工業 株式会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 — 小松ばね工業 小松ばね工業株式会社 https://www.komatsubane.com",
+    "url": "https://www.komatsubane.com/",
+    "pass": 3
+   },
+   {
+    "quote": "超精密・高品質への挑戦～ 小松ばね工業 ・小松万希子社長（3） — 超精密・高品質への挑戦～ 小松ばね工業 ・小松万希子社長（3） 松下幸之助.com https://konosuke-matsushita.com > keieij > shimei-komatsu3",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu3.php",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社 東京都 大田区 — 小松ばね工業 株式会社 東京都 大田区 エミダス https://ja.nc-net.or.jp > company",
+    "url": "https://ja.nc-net.or.jp/company/46916/",
+    "pass": 3
+   },
+   {
+    "quote": "中小社長コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note — 中小社長コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 / インタビュー - INDUSTRIAL JP — 小松ばね工業 / インタビュー - INDUSTRIAL JP INDUSTRIAL JP https://idstr.jp > articles",
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "pass": 3
+   },
+   {
+    "quote": "超精密・高品質への挑戦～ 小松ばね工業 ・小松万希子社長（2） — 超精密・高品質への挑戦～ 小松ばね工業 ・小松万希子社長（2） 松下幸之助.com https://konosuke-matsushita.com > keieij > shimei-komatsu2",
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ 小松ばね工業 ・小松万希子社長「アリの眼で」 — 経営ひと言／ 小松ばね工業 ・小松万希子社長「アリの眼で」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/666637",
+    "pass": 3
+   },
+   {
+    "quote": "超精密技術で独自の地歩築く 小松ばね工業 【動画】 — 超精密技術で独自の地歩築く 小松ばね工業 【動画】 経済産業省 METI Journal ONLINE https://journal.meti.go.jp > 地域で輝く企業",
+    "url": "https://journal.meti.go.jp/future/12607/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社 | 医療機器開発のパートナーが探せる ... — 小松ばね工業 株式会社 | 医療機器開発のパートナーが探せる ... tokyo-monodukuri-seeds.jp https://tokyo-monodukuri-seeds.jp > corporate",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社 - 大田区研究開発型企業ガイド — 小松ばね工業 株式会社 - 大田区研究開発型企業ガイド 大田区研究開発型企業ガイド https://www.mirai-ota.net > company > detail",
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社 秋田太田工場 - あきた企業活性化センター — 小松ばね工業 株式会社 秋田太田工場 - あきた企業活性化センター bic-akita.or.jp https://www.bic-akita.or.jp > 秋田県企業データベース",
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業 株式会社 - 東京都中小企業振興公社 — 小松ばね工業 株式会社 - 東京都中小企業振興公社 東京都中小企業振興公社 PDF https://www.tokyo-kosha.or.jp > topics > tokyo_kirari",
+    "url": "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P37.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "中小社長コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note 中小社長コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "中小 社長 コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note 中小 社長 コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "中小社長コラム⑮株式散逸、母と娘の奮闘／小松ばね工業／小松節子会長 小松万希子社長｜経済記者／作家／鳥羽田継之（tsugiyuki toppada）",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "中小社長コラム⑮株式散逸、母と娘の奮闘／小松ばね工業／小松節子会長 小松万希子社長",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "経済記者／作家／鳥羽田継之（tsugiyuki toppada）",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "小松ばね工業は、東京都大田区の精密バネメーカーだ。同社製品は、パソコンやカメラ、携帯電話など、さまざまな電化製品に組み込まれている。大田区のほか宮城県、秋田県、インドネシアにも工場を持ち、経済産業省が選ぶ「地域未来牽引企業」に選ばれている。3000余の事業所が集積する大田区の中でも、トップクラスの優良企業だ。",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "立派な企業だから、かもしれない。小松ばね工業はかつて、株式の散逸という問題を抱えていた。それを解決したのが、小松節子会長、万希子社長だ。",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "現会長の小松節子は、小松ばね工業の創業者の姪だ。子宝に恵まれなかった創業者の頼みで、養子として小松家に入る。しかし、最初から会社の後継者だったわけではない。一家の一員、娘として、家事の手伝いや、住み込みで働く従業員の世話をするのみだった。",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "25歳で結婚すると、節子の夫が後継者候補として小松ばね工業に入社する。一男一女に恵まれ、主婦として平穏な生活を送っていたが、1980年に養父が亡くなり状況が一変する。会社の株式は養母と節子で相続したが、養母は3年後に亡くなると、遺言で、全財産を関わりのない公共高齢者施設に寄付してしまった。この財産は、施設の要望により節子が法定相続分を全て現金で買い取ったものの、残りの株式は、会社の支配をもくろむ小松ばね工業の役員が買い取ってしまった。",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   },
+   {
+    "quote": "同時期に社内でも争いが起きた。養父亡き後、節子の夫が社長に就いたが、夫と役員の間で争いが起き、夫は会社を辞め、節子とも離婚した。夫もまた、会社の株式を持ったまま疎遠になってしまった。この2つの株式流出が、小松ばね工業の課題として残った。",
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "試作、量産対応可能 スプリング全般 【 小松ばね工業 株式会社】 試作、量産対応可能 スプリング全般 【 小松ばね工業 株式会社】 Facebook https://www.facebook.com > ... > 商業・工業 > 製造業",
+    "url": "https://www.facebook.com/komatsubane/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.komatsubane.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/company/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/csr2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komatsubane.com/esg/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/16964/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idstr.jp/jp/articles/01_ko/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/115/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirai-ota.net/company/detail/61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/komatsubane/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小松ばね工業 会社概要 資本金 設立",
+   "results": [
+    "https://www.komatsubane.com/company/history/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "https://metoree.com/companies/16964/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/komatsubane/",
+    "https://mono.ipros.com/company/detail/344124/",
+    "https://mono-sozo.com/archives/2642",
+    "https://www.mirai-ota.net/company/detail/61",
+    "https://doda.jp/DodaFront/View/Company/j_id__10009579941/",
+    "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P37.pdf",
+    "https://www.komatsubane.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "小松ばね工業 事業内容 売上",
+   "results": [
+    "https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "https://www.komatsubane.com/",
+    "https://konosuke-matsushita.com/column/keieij/shimei-komatsu3.php",
+    "https://ja.nc-net.or.jp/company/46916/",
+    "https://syukatsu-kaigi.jp/companies/56385/post_items/6/word_mouths",
+    "https://www.mirai-ota.net/company/detail/61",
+    "https://journal.meti.go.jp/future/12607/",
+    "https://mono-sozo.com/archives/2642"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "小松ばね工業 資金調達 株主",
+   "results": [
+    "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "https://idstr.jp/jp/articles/01_ko/",
+    "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "https://www.nikkan.co.jp/articles/view/666637",
+    "https://journal.meti.go.jp/future/12607/",
+    "https://www.mssf.or.jp/info210/",
+    "https://ab.jcci.or.jp/article/28368/?page=4",
+    "https://mono-sozo.com/archives/2645",
+    "https://www.rinen-mg.co.jp/web-rinentokeiei/entry-5262.html",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=0282"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "小松ばね工業 導入事例",
+   "results": [
+    "https://www.komatsubane.com/",
+    "https://tokyo-monodukuri-seeds.jp/corporate/115",
+    "https://www.mirai-ota.net/company/detail/61",
+    "https://www.tokaibane.com/case/",
+    "https://ab.jcci.or.jp/article/28368/?page=4",
+    "https://www.youtube.com/watch?v=4vJxy0lH3zY",
+    "https://www.rinen-mg.co.jp/web-rinentokeiei/entry-5262.html",
+    "https://idstr.jp/jp/articles/01_ko/",
+    "https://gintora-consultation.com/【事例】小松ばね工業｜極小精密ばねと本気の/220/",
+    "https://global.komatsubane.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "小松ばね工業 主要取引先",
+   "results": [
+    "https://www.komatsubane.com/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=282",
+    "https://www.bic-akita.or.jp/guide/company/company_list/2955/",
+    "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P37.pdf",
+    "https://www.mirai-ota.net/company/detail/61",
+    "https://spring.or.jp/members/komatsu-spring-industrial-co-ltd/",
+    "https://www.facebook.com/komatsubane/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/komatsubane/",
+    "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "https://www.komatsubane.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 小松ばね工業",
+   "results": [
+    "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "https://note.com/seihatsu_spring/n/n1d42d6f67832",
+    "https://note.com/mobio_osaka/n/na7afe9cb10c7",
+    "https://note.com/kairieguchi/n/n80b2c14527da",
+    "https://note.com/bax36410/n/nf8ec55b4432c",
+    "https://note.com/tsugiyuki_toppa/n/n778a21fec88b",
+    "https://note.com/bax36410/n/nde2fff7a74bc",
+    "https://note.com/bax36410/n/na740ae230284",
+    "https://note.com/tag/%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%9A",
+    "https://note.com/just_ixora8135/n/nf84eaca183ea"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 小松ばね工業",
+   "results": [
+    "https://x.com/idstr_jp",
+    "https://x.com/pio_ota",
+    "https://x.com/hanedaPiO",
+    "https://x.com/Kyoto_Tachibana/reposts",
+    "https://x.com/Kyoto_Tachibana/all",
+    "https://x.com/YOSHIDA_SEIKO",
+    "https://x.com/SPOONSPORTSjp",
+    "https://x.com/uE8U0jKRZwKjrpC",
+    "https://x.com/wabiya_1901",
+    "https://x.com/pio_ota/status/2070039287094190494"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 小松ばね工業",
+   "results": [
+    "https://www.linkedin.com/pub/dir/Makiko/Komatsu",
+    "https://jp.linkedin.com/pub/dir/Makiko/Komatsu/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Daigo/Komatsu",
+    "https://jp.linkedin.com/in/yuko-inoue-821b7527a",
+    "https://jp.linkedin.com/in/takatosakuragi",
+    "https://jp.linkedin.com/in/yuta-yokoyama-b534a4232",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E3%81%84%E3%82%8F%E3%81%8D%E5%B8%82%EF%BC%9E%E7%86%B1%E5%87%A6%E7%90%86%E8%A3%BD%E5%93%81%E3%81%AE%E5%87%BA%E8%8D%B7%E4%BA%8B%E5%8B%99%E3%83%BB%E9%9B%BB%E8%A9%B1%E5%AF%BE%E5%BF%9C-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E7%B5%8C%E9%A8%93%E8%80%85%E5%90%91%E3%81%91%E3%83%9E%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%EF%BC%81%E3%80%91%E6%AE%8B%E6%A5%AD%E3%81%BB%E3%81%BC%E3%83%8A%E3%82%B7%E3%81%A7%E3%83%97%E3%83%A9%E5%85%85%EF%BC%81%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%8F%E5%B0%91%E4%BA%BA%E6%95%B0%E3%81%AE%E8%81%B7%E5%A0%B4%EF%BC%81-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4460182529",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82%EF%BC%9E%E3%82%AC%E3%82%B9%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E8%A3%85%E7%BD%AE%E3%81%AE%E7%B5%84%E7%AB%8B%E3%83%BB%E9%96%A2%E9%80%A3%E4%BD%9C%E6%A5%AD-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%A7%E3%82%82%E5%A4%A7%E4%B8%88%E5%A4%AB%E2%98%86%E3%80%91%E5%A5%B3%E6%80%A7%E3%82%82%E6%B4%BB%E8%BA%8D%E4%B8%AD%C3%97%E5%84%AA%E3%81%97%E3%81%84%E8%81%B7%E5%A0%B4%E2%98%86excel%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%B3%E3%82%B2%E3%82%A4%EF%BC%81-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4488104149",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%B9%96%E8%A5%BF%E5%B8%82%EF%BC%9E%E8%87%AA%E5%8B%95%E8%BB%8A%E5%A4%89%E9%80%9F%E6%A9%9F%E9%83%A8%E5%93%81%E3%81%AE%E7%94%9F%E7%94%A3%E7%AE%A1%E7%90%86%E3%83%BB%E7%B4%8D%E5%85%A5%E8%AA%BF%E6%95%B4-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E7%B5%8C%E9%A8%93%E4%B8%8D%E5%95%8F%EF%BC%81%E6%9C%AA%E7%B5%8C%E9%A8%93%E2%97%8E%E3%80%91%E9%AB%98%E5%8F%8E%E5%85%A5%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E7%A8%BC%E3%81%90%EF%BC%81%E6%AE%8B%E6%A5%AD%E3%81%A7%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E7%A8%BC%E3%81%90%EF%BC%81-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4485633742",
+    "https://jp.linkedin.com/in/komatsubane"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 小松ばね工業",
+   "results": [
+    "https://www.facebook.com/komatsubane/?locale=ja_JP",
+    "https://www.facebook.com/ohnoseiki/posts/%E6%97%A5%E6%9C%AC%E6%A9%9F%E6%A2%B0%E5%AD%A6%E4%BC%9A%E8%AA%8C2%E6%9C%88%E5%8F%B7%E3%81%AB%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%92%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%A7%E7%94%B0%E3%81%AE%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%81%8C%E6%8B%85%E3%81%86%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%AA%E3%82%A4%E3%83%AB%E3%83%9F%E3%82%B9%E3%83%88%E5%99%B4%E5%B0%84%E8%A3%85%E7%BD%AE%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC/903665031461474/",
+    "https://www.facebook.com/tedukurikagukoboakimotomokko/posts/%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%99trading-post%E3%82%92%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%81%AB%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%A1%93%E3%81%9D%E3%81%97%E3%81%A6%E8%A1%A3%E9%A3%9F%E4%BD%8F%E3%81%AE%E6%96%87%E5%8C%96%E3%82%92%E7%99%BA%E4%BF%A1%E3%81%99%E3%82%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88santass%C3%A9-at-kifune-2026-%E3%81%8C%E4%BA%AC%E9%83%BD%E8%B2%B4%E8%88%B9/1295467332566981/",
+    "https://www.facebook.com/kairi.eguchi/posts/%E5%80%8B%E5%B1%95%E3%82%92%E7%B5%82%E3%81%88%E3%81%A6%E5%B0%91%E3%81%97%E9%96%93%E3%81%8C%E7%A9%BA%E3%81%84%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C8%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%AE%E5%80%8B%E5%B1%95the-invisible-peoples%E3%81%8C1012%E3%81%AB%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9Fdesign-weekend-osaka/28612971408354300/",
+    "https://www.facebook.com/gofieldteam/posts/%E9%AB%98%E6%A0%A1%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E6%96%B0%E4%BA%BA%E6%88%A6%E6%B9%98%E5%8D%97%E5%9C%B0%E5%8C%BA%E5%A4%A7%E4%BC%9A%E3%81%84%E3%81%A4%E3%82%82%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E8%97%A4%E6%B2%A2%E7%BF%94%E9%99%B5%E9%AB%98%E6%A0%A1%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E9%83%A8%E6%A7%98%E3%81%AE%E5%BF%9C%E6%8F%B4%E8%97%A4%E6%B2%A2%E7%BF%94%E9%99%B5vs-%E3%82%A2%E3%83%AC%E3%82%BB%E3%82%A4%E3%82%A2%E6%B9%98%E5%8D%973%E5%AF%BE2%E3%81%AE%E6%BF%80%E6%88%A6%E3%81%AB%E8%A6%8B%E4%BA%8B%E5%8B%9D%E5%88%A9%E6%AC%A1%E3%81%AE%E8%A9%A6%E5%90%88%E3%82%82%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%A6%E3%81%BE%E3%81%99%E8%A5%BF%E6%97%A5/920276531937986/",
+    "https://www.facebook.com/100063543070037/posts/%E7%86%B1%E9%97%98%E3%81%AE%E8%BB%8C%E8%B7%A1fukuokasunsfootball-suns_cheer/1169382525189839/",
+    "https://www.facebook.com/100054490057982/posts/%E5%9C%92%E8%8A%B8%E9%83%A8%E3%81%AE%E5%B2%B8%E6%9C%AC%E3%81%A7%E3%81%99%E6%9C%AC%E6%97%A5%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC%E3%81%A7%E3%81%99%E3%81%8C%E6%95%A3%E9%AB%AA%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%9B%9E%E3%82%82%E7%8C%AB%E3%81%AE%E5%BD%A2%E3%81%A7%E3%82%AB%E3%83%83%E3%83%88%E3%81%97%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F-%E7%8C%AB%E5%A5%BD%E3%81%8D%E3%81%AA%E6%96%B9%E3%81%A9%E3%81%86%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E3%82%AB%E3%83%83%E3%83%88%E5%BE%8C%E3%81%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%AA%E3%83%BC%E3%81%AE%E9%A6%99%E3%82%8A%E3%81%8C%E5%91%A8%E3%82%8A%E3%81%AB%E5%BA%83%E3%81%8C%E3%81%A3/1263360858823571/",
+    "https://www.facebook.com/100054490057982/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E5%B2%B8%E6%9C%AC%E3%81%A7%E3%81%99%E5%B1%B1%E5%8F%A3%E5%B7%A5%E5%A0%B4%E9%96%80%E5%89%8D%E3%81%AB%E3%82%A4%E3%83%8E%E3%82%B7%E3%82%B7%E5%87%BA%E6%B2%A1%E3%81%82%E3%82%8C%E3%82%A6%E3%83%AA%E5%9D%8A%E5%90%9B%E3%81%A7%E3%81%99%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%AD%E3%81%8A%E3%81%84%E3%82%89%E3%81%8C%E8%BF%91%E3%81%A5%E3%81%84%E3%81%A6%E3%82%82%E9%80%83%E3%81%92%E3%81%BE%E3%81%9B%E3%82%93%E8%A6%AA%E3%81%8C%E6%9D%A5%E3%81%9F%E3%82%89%E6%80%96%E3%81%84%E3%81%AE%E3%81%A7%E9%80%80%E6%95%A3%E3%81%97%E3%81%BE%E3%83%BC%E3%81%99/819464903213171/",
+    "https://www.facebook.com/rifeez/posts/%E6%96%B0%E5%85%A5%E5%BA%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E3%82%B8%E3%83%A0%E3%83%8B%E3%83%BC%E3%82%B7%E3%82%A8%E3%83%A9-jc-5mt%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AF%E3%81%8A%E6%97%A9%E3%82%81%E3%81%AB/1962479478500946/",
+    "https://www.facebook.com/komatsubane/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "小松ばね工業 note 社長",
+   "results": [
+    "https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761",
+    "https://www.komatsubane.com/company/message/",
+    "https://note.com/seihatsu_spring/n/n1d42d6f67832",
+    "https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php",
+    "https://journal.meti.go.jp/future/12607/",
+    "https://www.mssf.or.jp/info210/",
+    "https://www.mirai-ota.net/company/detail/61",
+    "https://mono-sozo.com/archives/2642",
+    "https://www.komatsubane.com/company/",
+    "https://jp.linkedin.com/in/komatsubane"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "小松ばね工業 X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=fpjN_ZwiEvo",
+    "https://www.komatsubane.com/",
+    "https://www.mirai-ota.net/company/detail/61",
+    "https://journal.meti.go.jp/future/12607/",
+    "https://idstr.jp/jp/articles/01_ko/",
+    "https://www.youtube.com/watch?v=4vJxy0lH3zY",
+    "https://www.facebook.com/komatsubane/",
+    "https://syukatsu-kaigi.jp/companies/56385/word_mouths",
+    "https://global.komatsubane.com/",
+    "https://www.youtube.com/@komatsuspringindustrial8470"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索11回）"
+ }
+}

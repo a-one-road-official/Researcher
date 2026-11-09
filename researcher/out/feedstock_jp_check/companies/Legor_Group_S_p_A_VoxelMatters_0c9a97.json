@@ -1,0 +1,498 @@
+{
+ "name": "Legor Group S.p.A. — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T14:06:57.000804+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Legor Group S.p.A. — VoxelMatters - The largest database of additive manufacturing companies",
+    "url": "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "pass": 3
+   },
+   {
+    "quote": "Gianni Poliero, who was the teacher at that time, is now the Chairman of Legor Group, a multinational company based in Vicenza specializing in metallurgy.",
+    "url": "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Legor Group S.p.A. — VoxelMatters - The largest database of ... — Legor Group S.p.A. — VoxelMatters - The largest database of ... voxelmatters.directory https://www.voxelmatters.directory > ...",
+    "url": "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "pass": 3
+   },
+   {
+    "quote": "Legor Group S.p.A. | Società Benefit Information - RocketReachLegor Group Società Benefit - Precious Alloys and Plating ...Integrated Report: Legor's Sustainability and ImpactCompany Profile - Legor Group Spa - ChemDmartLegor Group S.p.A. — VoxelMatters - The largest database of ...LEGOR GROUP S.P.A., Partita IVA: 00844230284, Fatturato ... — Legor Group S.p.A. | Società Benefit is a Retail Luxury",
+    "url": "https://rocketreach.co/legor-group-spa-societa-benefit-profile_b5948689f84c7e54",
+    "pass": 3
+   },
+   {
+    "quote": "Legor Group S.p.A. — VoxelMatters - The largest database of ... — Gianni Poliero, who was the teacher at that time, is now the Chairman of Legor Group, a multinational company based in Vicenza specializing in metallurgy. Initially, Gianni’s wife, Teresa, and then their seven children were carried along by Gianni’s entrepreneurial flair.",
+    "url": "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/legor-and-hp-collaborate-on-precious-metal-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legor.com/en/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2022/hp-and-legor-group-collaborate-to-advance-metals-science.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AF%E3%83%AC%E3%83%B3%E5%95%86%E4%BA%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://australiahereandnow.com/sydney-light-rail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://eleshop.jp/shop/c/c66320201/?srsltid=AYCX9vLmbXnFW1LnZAL69msfcOm9h6ZKn0p_WzDQs-UP4vINRbn5Dbi5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.magforms.com/1_copy_index.html?chlang=&langid=3443",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/legor-3d-metal-hub-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legor.com/en/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2022/hp-and-legor-group-collaborate-to-advance-metals-science.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://legor.com/en/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/legor-and-hp-collaborate-on-precious-metal-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp.com/us-en/newsroom/press-releases/2022/hp-and-legor-group-collaborate-to-advance-metals-science.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6-piccomics-DUBU-REDICE-STUDIO-ebook/dp/B0H4LJTFST",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%BF%E3%82%AB%E3%83%A9%E3%83%88%E3%83%9F%E3%83%BC-SYNERGENEX-%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A02%E5%8F%B7%E6%A9%9F-TAKARA-TOMY/dp/B0HHMCZP7N",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01408514/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01408599/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00180136/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01442204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/legor-group-spa/62247095",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/legor-group-spa-societa-benefit-profile_b5948689f84c7e54",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://legor.com/en/integrated-report/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://chemdmart.com/company-profile/legor-group-spa",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/legor-and-hp-collaborate-on-precious-metal-development/",
+    "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "https://legor.com/en/",
+    "https://www.hp.com/us-en/newsroom/press-releases/2022/hp-and-legor-group-collaborate-to-advance-metals-science.html",
+    "https://legor.com/en/3d-metal-hub/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.matilogistics.com/supplier/legor-group-spa",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://legorindustrialcoatings.com/en/contacts/",
+    "https://legor.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ホクレン商事",
+    "https://australiahereandnow.com/sydney-light-rail/",
+    "https://www.msh-systems.com/partners/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.audemarspiguet.com/jp/ja/home",
+    "https://www.toyo-invx.com/company/location/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "https://eleshop.jp/shop/c/c66320201/?srsltid=AYCX9vLmbXnFW1LnZAL69msfcOm9h6ZKn0p_WzDQs-UP4vINRbn5Dbi5",
+    "https://www.magforms.com/1_copy_index.html?chlang=&langid=3443",
+    "https://shop.prc.jp/shop/g/g005587/?srsltid=AYCX9vInNBsN1jSTT4wZ8XXkvwBsfEKVkBHadsjXIG_YqVl9COEyPMcF",
+    "https://sustainablejapan.jp/2022/05/12/legor-hp-3d-metal-printing/73147",
+    "https://tokyoclass.com/Product/Detail/view/pid/646",
+    "https://www.gakunan-industries.com/3dprint",
+    "https://www.aichi-sangyo.co.jp/products/lpw/products.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://www.iguazu-phrozen.jp/material",
+    "https://shop.exmatelab.com/",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://www.voxelmatters.com/it/",
+    "https://metoree.com/categories/9346/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/legor-3d-metal-hub-service/",
+    "https://legor.com/en/",
+    "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "https://www.hp.com/us-en/newsroom/press-releases/2022/hp-and-legor-group-collaborate-to-advance-metals-science.html",
+    "https://www.tctmagazine.com/legor-hp-co-develop-precious-metals-fashion-jewellerly-3d-printing/",
+    "https://www.voxelmatters.com/legor-and-tritone-highlight-am-capabilities-at-jewellery-technology-forum-2026/",
+    "https://legor.com/en/3d-metal-hub/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.metal-am.com/legor-introduces-3d-metal-jet-printing-service-aimed-at-jewellery-fashion-and-industrial-sectors/",
+    "https://legor.com/en/around-the-world/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://legor.com/en/",
+    "https://www.voxelmatters.com/legor-and-hp-collaborate-on-precious-metal-development/",
+    "https://www.hp.com/us-en/newsroom/press-releases/2022/hp-and-legor-group-collaborate-to-advance-metals-science.html",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/legor-and-progold-take-center-stage-at-vicenzaoro-2026/",
+    "https://tritoneam.com/press-releases/legor-and-tritone-technologies-partnership/",
+    "https://legor.com/en/3d-metal-hub/",
+    "https://legorindustrialcoatings.com/en/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://ia902904.us.archive.org/24/items/in.ernet.dli.2015.461038/2015.461038.Brideshead-Revisited_text.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:amazon.co.jp Legor Group S.p.A. — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/俺だけレベルアップな件-piccomics-DUBU-REDICE-STUDIO-ebook/dp/B0H4LJTFST",
+    "https://business.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://www.amazon.co.jp/タカラトミー-SYNERGENEX-エヴァンゲリオンプライム2号機-TAKARA-TOMY/dp/B0HHMCZP7N",
+    "https://www.amazon.co.jp/KPLDOL-新開発1：9深型設計-取り外し式・丸洗いキャスター-ポリカーボネート-機内持ち込み対応キャリーバッグ/dp/B0H49VVMSF",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f6ef05cd-fea6-4e78-a535-855920d40c42/the-voxelmatters-podcast-tripo-ai’s-fast-track-to-an-ai-native-3d-future",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/6652632c-ebac-4416-8f80-eb558b7c4cb4/the-voxelmatters-podcast-launching-a-new-phase-for-aerospace-additive-manufacturing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Legor Group S.p.A. — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01408514/",
+    "https://www.monotaro.com/g/01408599/",
+    "https://www.monotaro.com/g/00180136/",
+    "https://www.monotaro.com/g/01442204/",
+    "https://www.monotaro.com/g/01249273/",
+    "https://www.monotaro.com/g/01876255/",
+    "https://www.monotaro.com/g/00369821/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.zoominfo.com/c/legor-group-spa/62247095",
+    "https://rocketreach.co/legor-group-spa-societa-benefit-profile_b5948689f84c7e54",
+    "https://legor.com/en/integrated-report/",
+    "https://chemdmart.com/company-profile/legor-group-spa",
+    "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "https://www.ufficiocamerale.it/1759/legor-group-spa",
+    "https://legor.com/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Legor Group S.p.A. — VoxelMatters",
+   "results": [
+    "https://note.com/oreillyjapan",
+    "https://note.com/tag/CVE-2026-109618",
+    "https://note.com/tag/GPT-6.1+Sol",
+    "https://note.com/rottary/n/n6beb4f310cf4",
+    "https://note.com/kouga_yun/n/n228fbf8fcafc",
+    "https://note.com/glossy_pika3109/n/n7c99eb8ee64d",
+    "https://note.com/nufua123/n/nf30612fa30ab"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Legor Group S.p.A. — VoxelMatters",
+   "results": [
+    "https://x.com/LegorGroup/with_replies",
+    "https://x.com/voxelmatters",
+    "https://jf.x.com/images/media-preview/2115714725048947144",
+    "https://jf.x.com/images/media-preview/2095828865230979258",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Legor Group S.p.A. — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Legor Group S.p.A. — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/LegorGroup/",
+    "https://www.facebook.com/LegorGroup/posts/𝗝𝗧𝗙-2026-𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿-7-2026-𝗩𝗶𝗰𝗲𝗻𝘇𝗮𝗼𝗿𝗼-𝗧𝗚𝗼𝗹𝗱-𝗦𝗠𝗔𝗥𝗧-𝗛𝗨𝗕-𝗛𝗮𝗹𝗹-41jtf-is-for-those-who/1633350662124107/",
+    "https://www.facebook.com/LegorGroup/posts/-𝗥𝗵𝗼𝗱𝗶𝗲𝗻𝘀-𝗯𝗿𝗶𝗹𝗹𝗮𝗻𝘁𝗲𝘇𝘇𝗮-𝗲𝘃𝗼𝗹𝘂𝘁𝗮-𝗽𝗲𝗿-𝗴𝗶𝗼𝗶𝗲𝗹𝗹𝗶-𝗲-𝗼𝗿𝗼𝗹𝗼𝗴𝗶il-processo-a-base-di-rodio/1495606839231824/",
+    "https://www.facebook.com/LegorGroup/posts/️-𝗟𝗲𝗴𝗼𝗿-𝗚𝗿𝗼𝘂𝗽-𝗽𝗿𝗼𝘁𝗮𝗴𝗼𝗻𝗶𝘀𝘁𝗮-𝗱𝗲𝗹-𝗽𝗼𝗱𝗰𝗮𝘀𝘁-𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲-𝗟𝗲-𝘀𝗳𝗶𝗱𝗲-𝗱𝗶-𝗼𝗴𝗴𝗶-𝗽𝗲𝗿-𝗹𝗶𝗺𝗽𝗿𝗲𝘀𝗮-𝗱/1603245831801257/",
+    "https://www.facebook.com/LegorGroup/photos/we-are-pleased-to-share-the-release-of-the-summer-2026-issue-of-metal-additive-m/1634208375371669/",
+    "https://www.facebook.com/LegorGroup/posts/we-are-pleased-to-share-the-release-of-the-summer-2026-issue-of-metal-additive-m/1634208412038332/",
+    "https://www.facebook.com/LegorGroup/photos/1578027969237000/",
+    "https://www.facebook.com/LegorGroup/photos/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Legor Group S.p.A. — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.directory/company/legor-group-s-p/",
+    "https://x.com/LegorGroup/with_replies",
+    "https://www.voxelmatters.com/legor-and-tritone-highlight-am-capabilities-at-jewellery-technology-forum-2026/",
+    "https://www.voxelmatters.com/legor-3d-metal-hub-service/",
+    "https://legor.com/en/",
+    "https://legor.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

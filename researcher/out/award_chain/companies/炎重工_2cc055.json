@@ -1,0 +1,1234 @@
+{
+ "name": "炎重工",
+ "aliases": [],
+ "context": "東京都・資本金22430万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T13:51:14.507296+00:00",
+ "official_url": "https://hmrc.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "古澤　洋将",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "古澤　洋将",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "岩手県滝沢市穴口57-9",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "岩手県滝沢市",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2016/02",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2016年2月",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり, 公的機関資金支援あり",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "224百万円 (資本準備金含む。2025年12月時点)",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "炎重工株式会社｜国産水上ドローン(USV/ASV)の開発・製造",
+    "url": "https://hmrc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "水上と水中ドローン (USV + ROV) の事例紹介を公開しました",
+    "url": "https://hmrc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "水上ドローン (USV/ASV)、受託造船、遠隔監視用水中カメラ、及び 生体群制御® など水域における「制御技術」を活用した屋外向け自動化製品 及び サービスの企画・開発・製造・販売・保守・輸出等",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "水上ドローン (USV / ASV) の製造体制",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "秋田伝統の漬物 いぶりがっこ狼煙の製造販売も行っています",
+    "url": "https://hmrc.co.jp/case/006/",
+    "pass": 1
+   },
+   {
+    "quote": "屋外専用のロボット会社というコンセプトのもと、1年計画で動くプロジェクトの受託業務を中心に行い、遠隔モニタリング用水中カメラや産業用CPUボード、船舶ロボット「Marine Drone」などの自社製品開発につなげた",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "ですから私は、1年に一度売り上げがあれば継続できるモデルの方が安全だと考え、1年計画で動くようなプロジェクトの受託を中心に行いました」",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "「逆に簡単な仕事は他の会社に紹介することもあって",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工の事業を大きく分けると、研究開発、製品開発、受託開発の3つになる",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "その上で、1年単位の屋外の開発案件を受託",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "・受託開発で収入を確保しながら実績を重ね、「難しいものこそ炎重工へ」という共通認識が顧客との間に生まれる",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、国産水上ドローン（USV（Unmanned Surface Vehicle）／ASV（Autonomous Surface Vehicle））の開発・製造を手掛ける炎重工株式会社（本社：岩手県滝沢市、代表取締役：古澤洋将、以下「炎重工」）の株式を取得し、グループ化を決定しましたのでお知らせいたします",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、長年にわたり無線通信技術、遠隔制御技術、産業用サーボ技術を核として、産業用ラジコン機器、国産産業用ドローン関連機器などの開発・製造を手掛けてまいりました",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   },
+   {
+    "quote": "世界初、魚の群れを誘導できる生体群制御付き水槽「アクトリウム」販売開始",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "quote": "中ドローン(ＵＡＶ)の開発・販売を行っております",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 事業内容 水上ドローン、無人船舶、水陸両用ドローン等の企画・開",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：「制御技術」をコアとした自動化製品やサービスの開発をハードもソフトも設計から製造まで行っている",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "【資金調達情報のスプレッドシート販売について】",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "STARTUP LOGでは、1年間の資金調達情報を一覧で見られるスプレッドシートを販売しています",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "【企業情報】所在地・業種・事業ジャンル・事業内容 など",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業ロゴの使用に関して、note記事上及びTwitterやFacebookなどの見出しとして使用しておりますが、STARTUP LOG運営上の使用においては、知的財産権者の権利を侵害する違法アップロードには当たらないと考えております",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、ご不快の念を与えることもありえますので、この場合に関しまして知的財産権者のお申し出により、note及び運営SNSより表示を削除致します",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "ラジコン機器やドローン関連機器を手がける双葉電子工業が、水上ドローンの開発・製造を行う炎重工を子会社にすることを決めました",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "適時開示では、事業内容を「水上ドローン、無人船舶、水陸両用ドローン等の企画・開発・製造・販売・保守」としています",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子は、ロボティクスソリューション事業として、ホビー用のラジコン機器、産業用サーボ、空中ドローン（UAV）の開発・販売を行っています",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "M&A Online「双葉電子工業＜6986＞、水上ドローン製造の炎重工を子会社化」（2026年10月23日）",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、約7億円という買収の数字と、その裏にある製造・事業の課題を見ます",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "水上ドローンの製品群を東北の工場で開発・生産してきました",
+    "url": "https://hmrc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "岩手県滝沢市出身、兼業農家",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "岩手県立盛岡北高等学校 卒業、筑波大学 第三学群 工学システム学類 卒業 及び 筑波大学大学院 システム情報工学研究科 博士前期課程を修了し、CYBERDYNE株式会社に入社",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットスーツHAL福祉用及び医療用の電装系設計に従事",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱東京UFJ銀行 CEO人材育成プログラム M-EIR 第1期生 (2017)",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "量産製品は、東北地域・特に岩手県を中心とした協力工場 (ISO9001) 様へ委託を行っています",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【事例】水辺を自由に動く床「海床ロボット」｜竹中工務店様｜炎重工株式会社",
+    "url": "https://hmrc.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "越谷レイクタウンウォーターサイドフェス「Lake and Peace 2022」にて、水上移動屋台による飲食を検証したシーン",
+    "url": "https://hmrc.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "その可能性を広げるために竹中工務店様が企画し、炎重工がロボット開発の主軸として参加して生まれたのが、",
+    "url": "https://hmrc.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "竹中工務店様は運用設計や実証環境の整備を担当し、炎重工はロボットの安定運用と技術提供を担いました",
+    "url": "https://hmrc.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "この取り組みは、竹中工務店様と炎重工だけで進められてきたわけではありません",
+    "url": "https://hmrc.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "構造設計、環境センシング、デジタルファブリケーション、安全性検証、保険設計、学術研究など、多様な専門領域のメンバーが協働することで、海床ロボットの社会実装に向けた体制が整えられています",
+    "url": "https://hmrc.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "農薬散布用の空中ドローンやヘリコプターは、導入にあたって 500 ～ 1000万円以上の費用がかかり、さらに操縦免許の取得や損害保険の加入が必要になります",
+    "url": "https://hmrc.co.jp/case/006/",
+    "pass": 1
+   },
+   {
+    "quote": "秋田名産のスイカや米、枝豆を生産する農業法人",
+    "url": "https://hmrc.co.jp/case/006/",
+    "pass": 1
+   },
+   {
+    "quote": "長野県安曇野市は、管理している橋梁の90％以上が「堰や用水路にかかる15ｍ未満の小規模橋梁」という自治体です",
+    "url": "https://hmrc.co.jp/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "将来は、小規模橋梁の点検を省力化したい全国の自治体・橋梁点検事業者などへ提供",
+    "url": "https://hmrc.co.jp/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "「安曇野モデル」実装後、同じように小規模橋梁の点検を省力化したい全国の自治体・橋梁点検事業者などへ提供を進めていくとのことでした",
+    "url": "https://hmrc.co.jp/case/001/",
+    "pass": 1
+   },
+   {
+    "quote": "2年間は育成プログラムで銀行やコンサルティング会社に在籍し、実質的な事業開始は2018年となる",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "「東京にあるロボットの会社は、フィールドが工場の中や商業施設の中など、基本的にはほとんどが屋内",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "「技術的に難しいものこそ炎重工へ」という共通認識も顧客との間に生まれた",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "「量産の部分は工場を持っている協力会社に外注していますが、それ以外は基本的に自社で、自分たちで解決するという方針",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔モニタリング用水中カメラは生体群制御のために開発したものだが、顧客から欲しいと言われて商品化したところ、ニーズの掘り起こしにつながり注文が相次いでいるという",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "「空飛ぶドローンがあって、工場向けなど陸上のロボットが増えている一方で、船のロボットを手がけているところは少ない",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年には、株式会社竹中工務店、東京海洋大学らから成るコンソーシアムの一員として、都市型自動運転船「海床（うみどこ）ロボット」の開発に参加",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "・空飛ぶドローン、工場向けなどの陸上ロボットの分野は先行する競合他社が多い",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "・受託開発で収入を確保しながら実績を重ね、「難しいものこそ炎重工へ」という共通認識が顧客との間に生まれる",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "また、防衛・自治体・インフラ関連",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の顧客基盤の拡充や各種シナジー効果も見込まれることから、 当社は同社株式を取得することといた",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・自治体・インフラ関連の顧客を増やせることも見込んでいます",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "第7章では、国や自治体の実証事業から、水上ドローン市場の現在地を読みます",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "「岩手県発明協会会長賞」を受賞いたしました",
+    "url": "https://hmrc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CEATEC Award2021 スタートアップ＆ユニバーシティ部門 準グランプリ 受賞",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都ベンチャー技術大賞 特別賞 受賞 (超小型水上ドローン Swimmy Eye)",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「CEATEC AWARD 2021」でスタートアップ＆ユニバーシティ部門準グランプリを受賞するなど、高い評価を得ている",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社 情報 - 炎重工株式会社 — 会社 情報 - 炎重工株式会社 炎重工株式会社 https://hmrc.co.jp > company",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式 会社 |最新事例 - 復興庁 — 炎重工 株式 会社 |最新事例 - 復興庁 復興庁 https://www.reconstruction.go.jp > HOME > 最新事例",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "国産水上ドローン開発の 炎重工 株式 会社 をグループ化を決定 — 国産水上ドローン開発の 炎重工 株式 会社 をグループ化を決定 双葉電子工業株式会社 https://www.futaba.co.jp > info",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式 会社 の株式の取得（子会社化）に関するお知らせ — 炎重工 株式 会社 の株式の取得（子会社化）に関するお知らせ finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社|最新事例 - 復興庁 — 炎重工 株式会社|最新事例 - 復興庁 復興庁 https://www.reconstruction.go.jp > HOME > 最新事例",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社 - スピーダ スタートアップ情報リサーチ — 炎重工 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "quote": "国産水上ドローン開発の 炎重工 株式会社をグループ化を決定 — 国産水上ドローン開発の 炎重工 株式会社をグループ化を決定 双葉電子工業株式会社 https://www.futaba.co.jp > info",
+    "url": "https://www.futaba.co.jp/info/3344",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 ｜STARTUP DB（スタートアップデータベース） — 炎重工 ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧",
+    "url": "https://startup-db.com/companies/PmW5plqUwyOZrdaq",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 炎重工株式会社 — 会社情報 - 炎重工株式会社 炎重工株式会社 https://hmrc.co.jp > company",
+    "url": "https://hmrc.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工株式 会社 - スピーダ スタートアップ情報リサーチ — 炎重工株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工株式 会社の 株式 の取得（子会社化）に関するお知らせ — 炎重工株式 会社の 株式 の取得（子会社化）に関するお知らせ finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転水上ドローンに大注目！ 炎重工 、 資金調達 で開発力強化 — 自動運転水上ドローンに大注目！ 炎重工 、 資金調達 で開発力強化 自動運転ラボ https://jidounten-lab.com > 国内ニュース",
+    "url": "https://jidounten-lab.com/u_40046",
+    "pass": 3
+   },
+   {
+    "quote": "水上ドローンの 炎重工 がDRONE FUNDから 資金調達 — 水上ドローンの 炎重工 がDRONE FUNDから 資金調達 日経クロステック https://xtech.nikkei.com > ニュース",
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/18/14773/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - 炎重工株式会社 — 導入事例 - 炎重工株式会社 炎重工株式会社 https://hmrc.co.jp > case",
+    "url": "https://hmrc.co.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社 (@hmrc_jp) / X — 炎重工 株式会社 (@hmrc_jp) / X X https://x.com > hmrc_jp",
+    "url": "https://x.com/hmrc_jp",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社|最新 事例 - 復興庁 — 炎重工 株式会社|最新 事例 - 復興庁 復興庁 https://www.reconstruction.go.jp > HOME > 最新事例",
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社の株式の取得（子会社化）に関するお知らせ — 炎重工 株式会社の株式の取得（子会社化）に関するお知らせ finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社 - Metoree — 炎重工 株式会社 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/11325/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "モリオカベンチャーキャピタル株式会社 / DRONE FUND株式会社 / アグリビジネス投資育成株式会社 / いわぎん事業創造キャピタル株式会社 / 株式会社IGPIグループ",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE FUNDが、自動運転船舶ロボット「Marine Drone」を開発する炎重工株式会社への出資を実行",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "quote": "岩手新事業創造ファンド、屋外環境型ロボット等開発の炎重工に出資",
+    "url": "https://initial.inc/companies/A-26549",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工株式会社の株式の取得（子会社化）に関するお知らせ",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の株式を取得し、子会社化することについて決議いたしましたので、お知らせいたします",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．異動する子会社の概要",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 資本金 114 百万円",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 大株主および持株数比率 株式会社雉 56.6％、その他個人株主等",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(8) 上場会社と",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3) 上場会社 と",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注)その他株主についても、記載すべき資本関係・人的関係・取引関係はありません",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転船舶ロボット「Marine Drone」を提供する炎重工株式会社が資金調達を実施｜STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転船舶ロボット「Marine Drone」を提供する炎重工株式会社が資金調達を実施",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：179,200千円（資本準備金含む）",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "【資金調達情報のスプレッドシート販売について】",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "STARTUP LOGでは、1年間の資金調達情報を一覧で見られるスプレッドシートを販売しています",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "このデータは、資金調達動向の調査やM&Aの営業リストなど幅広くお使いいただけます",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "【資金調達情報】調達額・ラウンド・増資の募集方式 ・調達先 など",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "※網羅的な情報収集を行っていますが、すべての資金調達情報を掲載するものではございません",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子、水上ドローンの炎重工を子会社化｜たがし屋",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子、水上ドローンの炎重工を子会社化",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業（千葉県茂原市、東証プライム）が、水上ドローンを開発する炎重工（岩手県滝沢市）の株式を取得し、子会社にすると2026年10月23日に発表した",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "ラジコン機器やドローン関連機器を手がける双葉電子工業が、水上ドローンの開発・製造を行う炎重工を子会社にすることを決めました",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子と雉、そのほかの株主との間に、記載すべき資本関係・人的関係・取引関係はないとしています",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業「炎重工株式会社の株式の取得（子会社化）に関するお知らせ」（2026年10月23日、適時開示・PDF）",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "M&A Online「双葉電子工業＜6986＞、水上ドローン製造の炎重工を子会社化」（2026年10月23日）",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月23日、千葉県茂原市の双葉電子工業は、岩手県滝沢市の炎重工（ほむらじゅうこう）を子会社にする方針を発表しました",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "自動運転船舶ロボット「Marine Drone」を提供する 炎重工 ... 自動運転船舶ロボット「Marine Drone」を提供する 炎重工 ... note.com https://note.com > startuplog",
+    "url": "https://note.com/startuplog/n/nd4f3dd9bbbee",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子、水上ドローンの 炎重工 を子会社化｜たがし屋 - note 双葉電子、水上ドローンの 炎重工 を子会社化｜たがし屋 - note note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "岩手・ 炎重工 が水陸両用ドローン開発 千葉市で実証実験 - note 岩手・ 炎重工 が水陸両用ドローン開発 千葉市で実証実験 - note note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ小舟の会社を買うのか。】双葉電子工業と 炎重工 をつなぐ ... なぜ小舟の会社を買うのか。】双葉電子工業と 炎重工 をつなぐ ... note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "自動運転船舶ロボット「Marine Drone」を提供する炎重工株式会社が資金調達を実施｜STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転船舶ロボット「Marine Drone」を提供する炎重工株式会社が資金調達を実施",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "調達先：DRONE FUND 3号投資事業有限責任組合",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：179,200千円（資本準備金含む）",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：「制御技術」をコアとした自動化製品やサービスの開発をハードもソフトも設計から製造まで行っている。天候や時間に関わらず、安全に水上作業を行うことができる自動運転船舶ロボット「Marine Drone」や魚群の遊泳方向を制御することで、養殖生産工程の自動化と効率化を実現する「生体群制御®」システムを提供する。",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "STARTUPLOGのLINE公式アカウントを登録！",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "毎週土曜日にオススメ記事を配信しています。その他お役立ち情報などもお届けしていきます！",
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子、水上ドローンの炎重工を子会社化｜たがし屋",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業（千葉県茂原市、東証プライム）が、水上ドローンを開発する炎重工（岩手県滝沢市）の株式を取得し、子会社にすると2026年10月23日に発表した",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "取得するのは4,388株で、取得後の所有割合は91.9%。取得価額は6億9,800万円（諸費用等の概算を含む）。株式の譲渡は10月30日の予定",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子は空中ドローン（UAV）、炎重工は水上ドローン（USV）を手がけており、両社の技術を組み合わせて事業の領域を広げるとしている",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "想定する分野は、橋梁・港湾・河川・ダム・下水道などの点検、防災、港湾や沿岸の監視など",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子の連結業績への影響は軽微としている",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "ラジコン機器やドローン関連機器を手がける双葉電子工業が、水上ドローンの開発・製造を行う炎重工を子会社にすることを決めました。2026年10月23日の取締役会で決議し、同じ日に契約を結んでいます。",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子が公表した適時開示によると、取得するのは炎重工の株式4,388株です。双葉電子はこれまで炎重工の株式を持っておらず、取得後の所有割合は91.9%になります。",
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "pass": 3
+   },
+   {
+    "quote": "岩手・炎重工が水陸両用ドローン開発 千葉市で実証実験｜海のイドバタ会議 ｜ 海の守り人 守 雅彦",
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "pass": 3
+   },
+   {
+    "quote": "岩手・炎重工が水陸両用ドローン開発 千葉市で実証実験",
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "pass": 3
+   },
+   {
+    "quote": "海のイドバタ会議 ｜ 海の守り人 守 雅彦",
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "pass": 3
+   },
+   {
+    "quote": "制御技術のスタートアップ、炎（ほむら）重工は「水陸両用走行型ドローン」を開発した。",
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "pass": 3
+   },
+   {
+    "quote": "16日に千葉市と共催した実証実験でプロトタイプ機を報道陣に公開した。",
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "pass": 3
+   },
+   {
+    "quote": "海のDX(デジタルトランフォーメーション）",
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "pass": 3
+   },
+   {
+    "quote": "【ラジコンの老舗は、なぜ小舟の会社を買うのか。】双葉電子工業と炎重工をつなぐ「点検を終える力」空は見える。でも、水の中は見えない──ラジコンの老舗が岩手の「無人の小舟」を買うと決めた理由 #水上ドローン｜ポス鳥（ビジネス＆投資NEWS解説）おそらく日本で１番「事業の失敗例を載せているnoteアカウント」",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   },
+   {
+    "quote": "【ラジコンの老舗は、なぜ小舟の会社を買うのか。】双葉電子工業と炎重工をつなぐ「点検を終える力」空は見える。でも、水の中は見えない──ラジコンの老舗が岩手の「無人の小舟」を買うと決めた理由 #水上ドローン #双葉電子工業 #炎重工 #防災 #インフラ点検 #国産技術 #企業買収 #岩手 #千葉 #ポス鳥のニュース解説",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   },
+   {
+    "quote": "ポス鳥（ビジネス＆投資NEWS解説）おそらく日本で１番「事業の失敗例を載せているnoteアカウント」",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   },
+   {
+    "quote": "橋全体がきれいに映っても、水面に近いところは、反射や岸の陰で見えないことがあります。",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   },
+   {
+    "quote": "では、上から見えない場所を、どうやって確かめればよいのでしょう。",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月23日、千葉県茂原市の双葉電子工業は、岩手県滝沢市の炎重工（ほむらじゅうこう）を子会社にする方針を発表しました。",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   },
+   {
+    "quote": "双葉電子工業は、ラジコンの送信機や機械を精密に動かす部品、産業用ドローンなどを手掛ける老舗企業です。",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   },
+   {
+    "quote": "買い手が手に入れる予定なのは、炎重工の株式の",
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "炎重工 株式会社 (@hmrc_jp) / X 炎重工 株式会社 (@hmrc_jp) / X X https://x.com > hmrc_jp",
+    "url": "https://x.com/hmrc_jp",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社 - X 炎重工 株式会社 - X X https://x.com > @hmrc_jp",
+    "url": "https://x.com/hmrc_jp/status/2113533856318124288",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社 on X: \"／ 2025年振り返り 炎重工 株式会社 on X: \"／ 2025年振り返り X https://x.com > @hmrc_jp",
+    "url": "https://x.com/hmrc_jp/status/2004470089027100896",
+    "pass": 3
+   },
+   {
+    "quote": "万博 炎重工 は、大阪・関西万博にて総務省･NICTのFLE期間 ... 万博 炎重工 は、大阪・関西万博にて総務省･NICTのFLE期間 ... X https://x.com > @hmrc_jp",
+    "url": "https://x.com/hmrc_jp/status/1960886466751684865",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "炎重工 株式会社 (@hmrc.jp) - Facebook 炎重工 株式会社 (@hmrc.jp) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/hmrc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "年間 炎重工 - Facebook 年間 炎重工 - Facebook Facebook https://www.facebook.com > hmrc.jp > posts > 年間-炎重...",
+    "url": "https://www.facebook.com/hmrc.jp/posts/%E5%B9%B4%E9%96%93-%E7%82%8E%E9%87%8D%E5%B7%A5-2024%E5%B9%B4%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E7%82%8E%E9%87%8D%E5%B7%A5%E3%81%A7%E3%81%99%E4%BB%8A%E5%B9%B4%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA1%E5%B9%B4%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8B%E5%BC%8A%E7%A4%BE%E3%81%AF%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%81%BE%E3%81%A7%E5%A4%9A%E3%81%8F%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%A8%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%9F%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A5%AD%E5%8B%99%E3%81%AE%E8%AA%B2%E9%A1%8C%E9%81%94%E6%88%90%E5%95%8F%E9%A1%8C/1077295680861553/",
+    "pass": 3
+   },
+   {
+    "quote": "【双葉電子工業】 国産水上ドローン開発の 炎重工 株式会社を ... 【双葉電子工業】 国産水上ドローン開発の 炎重工 株式会社を ... Facebook https://www.facebook.com > prtimes.tech > posts > 双葉...",
+    "url": "https://www.facebook.com/prtimes.tech/posts/%E5%8F%8C%E8%91%89%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%A5%AD-%E5%9B%BD%E7%94%A3%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AE%E7%82%8E%E9%87%8D%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%92%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%8C%96%E3%82%92%E6%B1%BA%E5%AE%9A/2103886327224770/",
+    "pass": 3
+   },
+   {
+    "quote": "炎重工 株式会社 (@hmrc.jp) - Facebook 炎重工 株式会社 (@hmrc.jp) - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/hmrc.jp/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hmrc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmrc.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmrc.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmrc.co.jp/case/007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmrc.co.jp/case/005/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmrc.co.jp/case/006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmrc.co.jp/case/001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hmrc.co.jp/case/003/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futaba.co.jp/info/3344",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-26549",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futaba.co.jp/info/3344",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-26549",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startup-db.com/companies/PmW5plqUwyOZrdaq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://x.com/hmrc_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hmrc_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hmrc_jp/status/2113533856318124288",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hmrc_jp/status/2004470089027100896",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hmrc_jp/status/1960886466751684865",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hmrc.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hmrc.jp/posts/%E5%B9%B4%E9%96%93-%E7%82%8E%E9%87%8D%E5%B7%A5-2024%E5%B9%B4%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E7%82%8E%E9%87%8D%E5%B7%A5%E3%81%A7%E3%81%99%E4%BB%8A%E5%B9%B4%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA1%E5%B9%B4%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8B%E5%BC%8A%E7%A4%BE%E3%81%AF%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%81%BE%E3%81%A7%E5%A4%9A%E3%81%8F%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%A8%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%9F%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A5%AD%E5%8B%99%E3%81%AE%E8%AA%B2%E9%A1%8C%E9%81%94%E6%88%90%E5%95%8F%E9%A1%8C/1077295680861553/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/prtimes.tech/posts/%E5%8F%8C%E8%91%89%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%A5%AD-%E5%9B%BD%E7%94%A3%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AE%E7%82%8E%E9%87%8D%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%92%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%8C%96%E3%82%92%E6%B1%BA%E5%AE%9A/2103886327224770/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tagashiya/n/n56e8827d43c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hmrc_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hmrc.jp/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "炎重工 会社概要 資本金 設立",
+   "results": [
+    "https://hmrc.co.jp/company/",
+    "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "https://www.futaba.co.jp/info/3344",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "https://www.startup-iwate.pref.iwate.jp/interview/furusawa/",
+    "https://metoree.com/companies/11325/",
+    "https://igjs-vc.co.jp/investee/fund/article.php?p=16",
+    "https://www.j-startup.go.jp/startups/182-homura.html",
+    "https://frontjour.com/companies/honoo-juko",
+    "https://houjin.goo.to/corporations/3400001013081"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "炎重工 事業内容 売上",
+   "results": [
+    "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "https://initial.inc/companies/A-26549",
+    "https://www.futaba.co.jp/info/3344",
+    "https://startup-db.com/companies/PmW5plqUwyOZrdaq",
+    "https://hmrc.co.jp/company/",
+    "https://baseconnect.in/companies/4a8a4a45-310a-41c7-9cb8-8ed39c22a458",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "https://j-net21.smrj.go.jp/special/unicorn/20250922.html",
+    "https://www.buffett-code.com/company/4ibhrlkpf8/",
+    "https://hmrc.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "炎重工 資金調達 株主",
+   "results": [
+    "https://initial.inc/companies/A-26549",
+    "https://startup-db.com/companies/PmW5plqUwyOZrdaq",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "https://jidounten-lab.com/u_40046",
+    "https://xtech.nikkei.com/atcl/nxt/news/18/14773/",
+    "https://www.agri-invest.co.jp/wp-content/uploads/2022/11/%E7%82%8E%E9%87%8D%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%B8%E3%81%AE%E5%87%BA%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf",
+    "https://www.nihon-ma.co.jp/news/20261023_6986-6/",
+    "https://shoukeinews.jp/media/news/futabadenshikogyo20261023/",
+    "https://x.com/i14n_inc/status/2114045790763319388",
+    "https://finance.protocol.ooo/equity/company/c-2cc05569/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "炎重工 導入事例",
+   "results": [
+    "https://hmrc.co.jp/case/",
+    "https://x.com/hmrc_jp",
+    "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "https://j-net21.smrj.go.jp/special/unicorn/20250922.html",
+    "https://initial.inc/companies/A-26549",
+    "https://hmrc.co.jp/information/",
+    "https://www.facebook.com/hmrc.jp/?locale=ja_JP",
+    "https://digital-is-green.jp/branding/human-centered/hmrc.html",
+    "https://metoree.com/guides/42902/",
+    "https://www.tokyobayesg.metro.tokyo.lg.jp/priorityprojects/r4project_homurajuukou_saishu.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "炎重工 主要取引先",
+   "results": [
+    "https://hmrc.co.jp/company/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf",
+    "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "https://www.futaba.co.jp/info/3344",
+    "https://metoree.com/companies/11325/",
+    "https://www.nihon-ma.co.jp/news/20261023_6986-6/",
+    "https://www.facebook.com/hmrc.jp/?locale=ja_JP",
+    "https://www.startup-iwate.pref.iwate.jp/interview/furusawa/",
+    "https://drone-journal.impress.co.jp/docs/news/1189010.html",
+    "https://finance.protocol.ooo/equity/company/c-2cc05569/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 炎重工",
+   "results": [
+    "https://note.com/startuplog/n/nd4f3dd9bbbee",
+    "https://note.com/tagashiya/n/n56e8827d43c9",
+    "https://note.com/kabu_times/n/nf07b181092ac",
+    "https://note.com/theruleofoceans/n/n50aa126223b2",
+    "https://note.com/tokyobayesg/n/n126cb8e93cf8",
+    "https://note.com/metastep/n/n109456e3a6f3",
+    "https://note.com/theruleofoceans/n/nc825d647dfc0",
+    "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "https://note.com/theruleofoceans/n/n061aa3143b73",
+    "https://note.com/vueloo_blog/n/n7fe26534e358"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 炎重工",
+   "results": [
+    "https://x.com/hmrc_jp",
+    "https://x.com/hmrc_jp/status/2113533856318124288",
+    "https://x.com/hmrc_jp/status/2004470089027100896",
+    "https://x.com/hmrc_jp/status/1960886466751684865",
+    "https://x.com/futaba6986/status/2113528407594291707",
+    "https://x.com/hmrc_jp/status/2024305358840442981",
+    "https://x.com/HK48077554/status/2113542980825154036",
+    "https://x.com/i14n_inc/status/2114045790763319388",
+    "https://x.com/hmrc_jp/status/1912723220849139961",
+    "https://x.com/tousika1/status/2113615477163667848"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 炎重工",
+   "results": [
+    "https://jp.linkedin.com/posts/daishiito-com_%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97-%E7%B5%8C%E5%96%B6-activity-7523678127647019008-iXA4",
+    "https://jp.linkedin.com/in/tanzilaraihan",
+    "https://jp.linkedin.com/in/%E6%95%AC-%E7%9F%B3%E7%94%B0-bb7b4128a",
+    "https://jp.linkedin.com/in/daishiito-com",
+    "https://www.linkedin.com/pub/dir/Weihong/Huang",
+    "https://jp.linkedin.com/pulse/%E7%82%8E%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0-market-size-overview-%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E6%A5%AD%E7%95%8C%E8%AA%AC%E6%98%8E%E3%81%A82026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%ACcagr-xji5e",
+    "https://jp.linkedin.com/in/tsutomu-sakurai-ab63ba90",
+    "https://www.linkedin.com/pub/dir/Yanjie/Long",
+    "https://jp.linkedin.com/in/yoshifumi-tsuji",
+    "https://jp.linkedin.com/in/敬-石田-bb7b4128a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 炎重工",
+   "results": [
+    "https://www.facebook.com/hmrc.jp/",
+    "https://www.facebook.com/hmrc.jp/posts/%E5%B9%B4%E9%96%93-%E7%82%8E%E9%87%8D%E5%B7%A5-2024%E5%B9%B4%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E7%82%8E%E9%87%8D%E5%B7%A5%E3%81%A7%E3%81%99%E4%BB%8A%E5%B9%B4%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA1%E5%B9%B4%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8B%E5%BC%8A%E7%A4%BE%E3%81%AF%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%81%BE%E3%81%A7%E5%A4%9A%E3%81%8F%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%A8%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E6%B0%B4%E5%9F%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A5%AD%E5%8B%99%E3%81%AE%E8%AA%B2%E9%A1%8C%E9%81%94%E6%88%90%E5%95%8F%E9%A1%8C/1077295680861553/",
+    "https://www.facebook.com/TokyoVentureAward/posts/%E6%98%A8%E5%B9%B4%E5%BA%A6%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%8F%97%E8%B3%9E%E4%BC%81%E6%A5%AD%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E7%89%B9%E5%88%A5%E8%B3%9E%E5%8F%97%E8%B3%9E%E7%82%8E%E9%87%8D%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E8%B6%85%E5%B0%8F%E5%9E%8B%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3-swimmy-eye%E6%B0%B4%E5%9F%9F%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A6%8B%E3%82%8B%E6%92%AE%E3%82%8B%E6%B8%AC%E3%82%8B%E3%81%AE%E5%AE%89%E5%85%A8%E6%80%A7%E3%81%A8%E5%8A%B9%E7%8E%87%E6%80%A7%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E8%88%B9%E3%81%A8%E5%90%8C%E3%81%98%E3%81%8F%E6%B0%B4%E3%81%AB%E6%B5%AE/988697650523121/",
+    "https://www.facebook.com/prtimes.tech/posts/%E5%8F%8C%E8%91%89%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%A5%AD-%E5%9B%BD%E7%94%A3%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E9%96%8B%E7%99%BA%E3%81%AE%E7%82%8E%E9%87%8D%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%92%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%8C%96%E3%82%92%E6%B1%BA%E5%AE%9A/2103886327224770/",
+    "https://www.facebook.com/hmrc.jp/photos/%E3%83%86%E3%82%A3%E3%83%A9%E3%83%94%E3%82%A2100%E5%8C%B9%E8%BF%BD%E5%8A%A0%E3%83%86%E3%82%A3%E3%83%A9%E3%83%94%E3%82%A2100%E5%8C%B9%E8%B6%85%E5%A2%97%E3%82%84%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BD%93%E9%95%B7%E7%B4%843cm6cm%E7%A8%8B%E5%BA%A6%E3%81%AE%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%A0%E5%B0%8F%E3%81%95%E3%81%AA%E7%A8%9A%E9%AD%9A%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E7%A0%94%E7%A9%B6%E6%89%80%E5%86%85%E3%81%AE%E5%B0%8F%E5%9E%8B%E6%B0%B4%E6%A7%BD%E3%81%AB%E7%A7%BB%E3%81%97%E3%81%9F%E5%BE%8C%E3%82%821%E5%8C%B9%E3%82%82%E6%AD%BB%E6%BB%85%E3%81%99%E3%82%8B%E4%BA%8B%E3%81%AA%E3%81%8F%E5%85%83%E6%B0%97/2415766238472447/",
+    "https://www.facebook.com/iwatenp/posts/%E7%82%8E%E9%87%8D%E5%B7%A5%E3%81%8C%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E9%87%8F%E7%94%A3-%E6%BB%9D%E6%B2%A2%E5%B8%82-%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3-%E7%82%8E%E9%87%8D%E5%B7%A5/865613112233869/",
+    "https://www.facebook.com/fishermanjapan/posts/%E4%B8%89%E9%99%B8%E6%B0%B4%E7%94%A3%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88-%E7%99%BB%E5%A3%87%E8%80%85%E7%B4%B9%E4%BB%8B3%E4%B8%89%E9%99%B8%E6%B0%B4%E7%94%A3%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88day1%E3%81%AE3%E4%BA%BA%E7%9B%AE%E3%81%AE%E7%99%BB%E5%A3%87%E8%80%85%E3%81%AF%E7%82%8E%E9%87%8D%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B2%A9%E6%89%8B%E7%9C%8C%E6%BB%9D%E6%B2%A2%E5%B8%82-%E5%8F%96%E7%B7%A0%E5%BD%B9-%E8%90%A9%E9%87%8E%E8%B0%B7%E5%BE%81%E8%A3%95%E6%B0%8F%E3%81%A7%E3%81%99%E5%90%8C%E7%A4%BE%E3%81%AF%E9%81%8E%E9%85%B7%E3%81%AA%E7%92%B0%E5%A2%83%E3%81%AB%E3%82%82%E5%AF%BE/2758406591095629/",
+    "https://www.facebook.com/tadashi.iwamoto.75/posts/%E6%80%96%E3%81%8F%E3%81%AA%E3%81%84%E6%A1%9F%E6%A9%8B%E3%81%AE%E5%85%88%E3%81%A3%E3%81%BD%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E7%82%8E%E9%87%8D%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/5885382448196016/",
+    "https://www.facebook.com/groups/evtoljapandrones/posts/1525299049635327/",
+    "https://www.facebook.com/surfacedrone.org/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "炎重工 note 社長",
+   "results": [
+    "https://note.com/tagashiya/n/n56e8827d43c9",
+    "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "https://hmrc.co.jp/company/",
+    "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "https://note.com/kabu_times/n/nf07b181092ac",
+    "https://takizawa-city.note.jp/n/n08f1e8292b0c",
+    "https://www.nikkei.com/article/DGXZQOCC058Y40V00C25A2000000/",
+    "https://www.startup-iwate.pref.iwate.jp/interview/furusawa/",
+    "https://ja.wikipedia.org/wiki/古澤洋将",
+    "https://www.facebook.com/hmrc.jp/posts/1015818383675950/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "炎重工 X 投稿",
+   "results": [
+    "https://x.com/hmrc_jp",
+    "https://hmrc.co.jp/",
+    "https://www.facebook.com/hmrc.jp/?locale=ja_JP",
+    "https://www.youtube.com/@hmrc_ch",
+    "https://www.ibank.co.jp/xtech2023/19",
+    "https://www.reconstruction.go.jp/jireishuu/2022jirei/04/",
+    "https://frontjour.com/companies/honoo-juko",
+    "https://www.futaba.co.jp/info/3344",
+    "https://x.com/hmrc_jp/status/2116004244704919904",
+    "https://x.com/SHIBUYA_SWAN/status/2113563816084828590"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）"
+ }
+}

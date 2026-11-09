@@ -1,0 +1,1214 @@
+{
+ "name": "エヴィクサー",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T13:51:42.148049+00:00",
+ "official_url": "https://www.evixar.com/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長CEO",
+    "value": "瀧川 淳 - 略歴",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "label": "代表者氏名",
+    "value": "瀧川　淳（2024/12現在）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "label": "代表者：",
+    "value": "代表取締役社長CEO 瀧川　淳",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "代表者：",
+    "value": "代表取締役 飯塚　健",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "【代表取締役社長CEO】",
+    "value": "瀧川淳",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "瀧川　淳",
+    "url": "https://initial.inc/companies/A-05170",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社住所",
+    "value": "東京都中央区新川１－１７－２２",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "東京都中央区",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "本社：",
+    "value": "東京都渋谷区渋谷二丁目10番15号",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒104-0033東京都中央区新川１－１７－２２松井ビル１階",
+    "url": "https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都中央区新川一丁目17 番22 号",
+    "url": "https://initial.inc/companies/A-05170",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2004年3月12日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "label": "設立：",
+    "value": "設立：：2004年３月",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "設立：",
+    "value": "設立：：2021年１月",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：2004年",
+    "url": "https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2004/03",
+    "url": "https://initial.inc/companies/A-05170",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "336 百万円（2024/12現在）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "label": "資本金：",
+    "value": "４億2,700万円（資本準備金１億8,350万円含む）",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "243百万円",
+    "url": "https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "21 人（2024/12現在）",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "label": "【社員数】",
+    "value": "13人(単体)",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容：",
+    "value": "音の信号処理に基づくソフトウェアの研究開発（ACR技術/音響通信等） 音響通信ソリューションの提供　など",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "事業内容：",
+    "value": "投資事業",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "label": "【事業内容】",
+    "value": "音の信号処理によるソフトウエアの研究開発と音響通信ソリューションの提供",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "98,214千円",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "経済安全保障対策会議・展示会「ECONOSEC JAPAN 2026」に出展、SIGNED SOUNDをご紹介しました（2026-11-05）",
+    "url": "https://www.evixar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "推し活未来研究所『ペンライトの進化史』で、エヴィクサーの音響連動ペンライトが紹介（2026-10-28）",
+    "url": "https://www.evixar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "総務省「平成30年度 競技会場におけるICT利活用に関する調査研究」の「競技会場におけるICT利活用に関する実証実験」において、武蔵野の森総合スポーツプラザ／味の素スタジアム（東京スタジアム運営）での実証実験「音響通信による避難誘導」を実施、非常用放送設備で音響通信Another Trackの機能提供を実現（10kHz以下の可聴透かしによる）（株式会社リコー、みずほ情報総研株式会社と連携）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "NTTコミュニケーションズ株式会社「Power Platformホスティングサービス」でLiveSupportのサーバモデル販売開始",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "(12)第三者の設備等⼜は本サービス⽤設備等の利⽤若しくは運営に⽀障を与える⾏為、⼜",
+    "url": "https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/20150401_IP-PBX%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_Evixar.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(8) 本サービス⽤設備のうち当社の製造に係らないソフトウェア(OS、ミドルウェア、",
+    "url": "https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/20150401_IP-PBX%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_Evixar.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(9) 本サービス⽤設備のうち、 当社の製造に係らないハードウェアに起因して発⽣した損害",
+    "url": "https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/20150401_IP-PBX%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_Evixar.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社のグループ会社で投資及びDeep Techの研究を行うＫｕｄａｎ Ｖｉｓｉｏｎ株式会社（本社：東京都渋谷区、代表取締役：飯塚 健、以下「Kudan Vision」）の出資先である音の信号処理に基づくソフトウェアの研究開発及び独自の音響通信ソリューションを提供しているエヴィクサー株式会社（本社：東京都中央区、代表取締役社長CEO：瀧川 淳、以下「エヴィクサー」）は、本日、株式会社東京証券取引所が運営するプロ向け株式市場TOKYO PRO Marketへの新規上場が承認されましたのでお知らせいたします",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "【事業内容】：音の信号処理によるソフトウエアの研究開発と音響通信ソリューションの提供",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：98,214千円",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "直前期である2020年12月期は、Withコロナの環境下で、4つの「新技術」（①Webブラウザ対応、②用途追究「収益型ペンライト・グッズ開発」、③パッケージ化によるサービスの輸出入展開、④SDGsに関連する官公庁系助成「専用ハードウェア開発」）に取り組んだ結果、売上高98,214千円（前年同期比31.1％減）、営業損失103,995千円でしたが、2021年6月中間期では、売上高72,440千円、営業損失19,939千円となっております",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "賃貸不動産・仲介・管理等を行われている株式会社中央都市管理 様に、octpathの導入背景と、現在のご利用状況についてお伺いしました",
+    "url": "https://octpath.com/customers/evixar/",
+    "pass": 3
+   },
+   {
+    "quote": "企画・設計から製造まで一貫して受託するビジネス形態です",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中し、受託側は専門的な技術力で開発・製造を担当することで、低コストかつ短期間での",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は「コスト」であり、収益を圧迫する",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「視聴率向上・売上貢献」のツールとして導入を促す",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 28年以降、売上の原価として",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 28年以降、売上に紐付かない開",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "主な講演は、一橋大学「管理会計」ゲストスピーカー（2019年）、北見工業大学「財務概論（技術経営論）」「技術経営論」非常勤講師（2021年〜2024年）、日本情報経営学会第80回全国大会特別講演（2020年）、首都大学東京システムデザイン学部「ヒューマン・コンピュータ・インタラクション」ゲストスピーカー（2018年）、慶應義塾大学理工学部「アントレプレナー育成寄付講座」特別講演（2012年）、一般社団法人コンテンツ海外流通促進機構セミナー「オンライン侵害に関するヨーロッパの最新情報と韓国における最新情報および技術的対応手段について」（2010年）、次世代デジタルコンテンツが拓く新ビジネス創出セミナー2015（2015年）など",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "在学中より東京電力社内ベンチャーにて経営企画業務に従事",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "学校法人電子学園日本電子専門学校コンピュータ総合技術科卒業",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "通信キャリア、大手清涼飲料水メーカーの全国キャンペーンにおいて音声認識技術を活用したCMコンテンツ連動型スマートフォンアプリに技術提供（テレビCMと連動した音声認識アプリの活用は国内初）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "宮城県、岩手県など地方自治体教育委員会でリモートASPがOEM導入",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/overview/en/",
+    "pass": 1
+   },
+   {
+    "quote": "直前期である2020年12月期は、Withコロナの環境下で、4つの「新技術」（①Webブラウザ対応、②用途追究「収益型ペンライト・グッズ開発」、③パッケージ化によるサービスの輸出入展開、④SDGsに関連する官公庁系助成「専用ハードウェア開発」）に取り組んだ結果、売上高98,214千円（前年同期比31.1％減）、営業損失103,995千円でしたが、2021年6月中間期では、売上高72,440千円、営業損失19,939千円となっております",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "【ご導入事例】音響信号処理に関わる各種ソリューションの提供を行うエヴィクサー株式会社様にoctpathを導入いただきました | octpath",
+    "url": "https://octpath.com/customers/evixar/",
+    "pass": 3
+   },
+   {
+    "quote": "【ご導入事例】音響信号処理に関わる各種ソリューションの提供を行うエヴィクサー株式会社様にoctpathを導入いただきました",
+    "url": "https://octpath.com/customers/evixar/",
+    "pass": 3
+   },
+   {
+    "quote": "賃貸不動産・仲介・管理等を行われている株式会社中央都市管理 様に、octpathの導入背景と、現在のご利用状況についてお伺いしました",
+    "url": "https://octpath.com/customers/evixar/",
+    "pass": 3
+   },
+   {
+    "quote": "対策は保険的なサービス、顧客事業の",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）クライアント(ソフトウェア)：サービスを利用する側の",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "示し、全国の自治体に先駆けた先進事例とした",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開発企業単独では困難な広範な顧客層への道を拓き、",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客へのパイロット導入 約5",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の業態やニーズに合わせ、「真正性保証」「詐欺対策」「マーケティング活用」の3つの切り口で導入を推進する",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング活用など、顧客ごとに異なる「攻め」のメ",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "欺対策モジュール」や、「改ざん検知レポートモジュール」など、顧客ニーズに合わせて個別最適化して提供",
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "第29回「中小企業優秀新技術・新製品賞」ソフトウエア部門（主催：りそな中小企業振興財団／日刊工業新聞社）で優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "「2017年 世界発信コンペティション」製品・技術（ベンチャー技術）部門で東京都ベンチャー技術優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "「名古屋グランパス × スタートアップピッチ 2021」で最優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "Tokyo Social Innovation Tech Award 2024で技術特別賞を受賞（2025年1月）",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都ベンチャー技術大賞で特別賞を受賞（2025年11月）",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "第5回 日本サービス大賞で優秀賞を受賞（2025年12月）",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ハロームービー株式会社、「第5回 日本サービス大賞」において、優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EAF（Evixar Audio Forensics）が「東京都ベンチャー技術大賞」（主催：東京都）で特別賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ハロームービー株式会社、「Tokyo Social Innovation Tech Award 2024」において、技術特別賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ハロームービー株式会社、第18回「ASPICクラウドアワード2024」において、ベンチャーグランプリ／社会業界特化系ASP・SaaS部門を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「Zero Project Award 2023」受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「名古屋グランパス × スタートアップピッチ 2021」（主催：中部ニュービジネス協議会、名古屋商工会議所）で『グランパスでひとつになる幸せ 音響連動ペンライト』が最優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "文化庁「平成30年度 戦略的芸術文化創造推進事業」の「劇場・音楽堂等の情報バリアフリー化に向けた最適システムの構築に関する調査・検証事業」において、実証実験にかかる障害者対応・外国人対応に活用できるアプリケーション（字幕サポート、音声サポート、多言語翻訳等）に選定",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「Another Track(R)」が「2017年 世界発信コンペティション」製品・技術（ベンチャー技術）部門（主催：東京都）で東京都ベンチャー技術優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「another track(r)」が「mcpc award 2017」サービス＆ソリューション部門（主催：モバイルコンピューティング推進コンソーシアム、後援：総務省／経済産業省／日本商工会議所／東京商工会議所等）で特別賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「Another Track(R)」が第29回「中小企業優秀新技術・新製品賞」ソフトウエア部門（主催：りそな中小企業振興財団／日刊工業新聞社、後援：経済産業省 中小企業庁）で優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省 関東経済産業局「新連携計画（異分野連携新事業分野開拓計画）」に認定を受ける（株式会社イヤホンガイド、株式会社檜書店と連携『伝統芸能における機動性の高い舞台解説サービスの開発・事業化』）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「バリアフリー能（ACR技術提供）」横浜能楽堂が「内閣府特命担当大臣優良賞」を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンアプリ「Rev Translator」（弊社より技術協力）が「IAC Award 2015」の「Best Advertising Interactive Application」部門にてカテゴリベストを受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "『貞子３Ｄ２』スマ４Ｄプロジェクト（弊社よりACR技術提供）、「Yahoo! JAPAN インターネット クリエイティブアワード 2014」企業の部 スマートデバイスアプリ部門 Goldを受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "『貞子３Ｄ２』スマ４Ｄプロジェクト（弊社よりACR技術提供）、コードアワード2014「グッド・ユーズ・オブ・メディア」受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Stac＊FMラジオ新潟、番組・イベント連動のO2O2O企画で「JFN賞2014地域賞」を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中央区ワーク・ライフ・バランス推進企業として認定を受ける",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/agreement/",
+    "pass": 1
+   },
+   {
+    "quote": "受賞歴、官公庁関連の事業・採択",
+    "url": "https://www.evixar.com/overview/en/",
+    "pass": 1
+   },
+   {
+    "quote": "いつでも映画館でバリアフリー上映を楽しめるHELLO! MOVIEアプリの他、音響制御型のペンライト、防災用途でも注目され、国内外で様々な賞を受賞されています",
+    "url": "https://octpath.com/customers/evixar/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "要素技術の事業化、シーズオリエンテッドのビジネスモデル、中小企業のオープンイノベーション等をテーマとした講演多数",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "第29回「中小企業優秀新技術・新製品賞」ソフトウエア部門（主催：りそな中小企業振興財団／日刊工業新聞社）で優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ハロームービー株式会社、第18回「ASPICクラウドアワード2024」において、ベンチャーグランプリ／社会業界特化系ASP・SaaS部門を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「Another Track(R)」が第29回「中小企業優秀新技術・新製品賞」ソフトウエア部門（主催：りそな中小企業振興財団／日刊工業新聞社、後援：経済産業省 中小企業庁）で優秀賞を受賞",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「中小企業総合展 2009 in Tokyo」にて、コミュニティリモート「Helpdove Lite（ヘルプダブ・ライト）」βバージョンを発表",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業向けSSL-VPNソリューション「Evixar VPN」をサービスメニュー化",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中堅・中小企業のIPO支援に特化した専門家集団です",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "→ 新規上場社長インタビュー「ストックボイス」出演",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "→ Voicy『藤沢久美の社長Talk』（上場社長インタビュー）出演",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所「TOKYO PRO Market」で上場廃止、株式を非公開化",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を1億円に減資",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金等6億1,360万円（資本準備金2億7,680万円を含む）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所「TOKYO PRO Market」へ株式上場（情報・通信業、証券コード 4257）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "→ 新規上場インタビュー「ストックボイス」",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年9月末の株主名簿に基づき、株主の所有普通株式1株を5,000株に分割",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金等4億2,700万円（資本準備金1億8,350万円を含む）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金等2億9,200万円（資本準備金1億1,600万円を含む）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金等2億4,200万円（資本準備金9,100万円を含む）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金等1億9,000万円（資本準備金6,500万円を含む）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金等1億7,000万円（資本準備金5,500万円を含む）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金等9,000万円（資本準備金1,500万円を含む）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金6,000万円",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金5,000万円",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当増資実施 資本金2,000万円",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "（資本金1,000万円、代表取締役：瀧川 淳、本店：東京都墨田区）",
+    "url": "https://www.evixar.com/overview/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Kudan Vision出資先であるエヴィクサー株式会社、TOKYO PRO Marketへの上場が承認されました！ | Kudan株式会社｜フィジカルAIの発展をリードする空間知覚テクノロジー",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "Kudan Vision出資先であるエヴィクサー株式会社、TOKYO PRO Marketへの上場が承認されました！",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "当社のグループ会社で投資及びDeep Techの研究を行うＫｕｄａｎ Ｖｉｓｉｏｎ株式会社（本社：東京都渋谷区、代表取締役：飯塚 健、以下「Kudan Vision」）の出資先である音の信号処理に基づくソフトウェアの研究開発及び独自の音響通信ソリューションを提供しているエヴィクサー株式会社（本社：東京都中央区、代表取締役社長CEO：瀧川 淳、以下「エヴィクサー」）は、本日、株式会社東京証券取引所が運営するプロ向け株式市場TOKYO PRO Marketへの新規上場が承認されましたのでお知らせいたします",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "なお、上場日は2021年12月22日を予定しております",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "（※Kudan Visionによる出資に関する内容は",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサーの新規上場に関する承認の詳細につきましては、東京証券取引所ウェブサイトの新規上場会社情報をご覧ください",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所TOKYO PRO Marketへの上場承認のお知らせ（エヴィクサー発表）",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場企業・詳細データ :企業業績・財務 :マーケット :日経電子版",
+    "url": "https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー株式会社 IPO（新規上場）承認",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー株式会社のTOKYO PRO Marketへの上場が、2021年11月17日に公表されましたので、概要などをまとめました",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "【上場公表日】：2021年11月17日",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "【上場予定日】：2021年12月22日",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "【上場市場】：TOKYO PRO Market",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "株主の状況としては、瀧川淳氏の個人資産管理会社である株式会社多喜川カンパニーが31.10％、代表取締役CEOである瀧川淳氏が16.37％、資本業務提携を締結している株式会社リコーが6.55%となっております",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "優先順位を明確にした支援で、確実な上場実現をサポートします",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "トグルホールディングス株式会社 IPO（新規上場）承認",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "クラサスケミカル株式会社 IPO（新規上場）承認",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "MabGenesis株式会社 IPO（新規上場）承認",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Evixar Inc. - 会社情報 エヴィクサー株式会社 — Evixar Inc. - 会社情報 エヴィクサー株式会社 エヴィクサー株式会社 https://www.evixar.com > overview",
+    "url": "https://www.evixar.com/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー : 企業 概要 : 日経 会社 情報DIGITAL : 日経電子版 — エヴィクサー : 企業 概要 : 日経 会社 情報DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "quote": "Kudan Vision出資先である エヴィクサー 株式 会社 、TOKYO ... — Kudan Vision出資先である エヴィクサー 株式 会社 、TOKYO ... Kudan Inc. https://www.kudan.io > TOP > News > プレスリリース",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー 株式 会社 （東京都） (旧 4257 上場 ... - Compalyze — エヴィクサー 株式 会社 （東京都） (旧 4257 上場 ... - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析",
+    "url": "https://compalyze.co.jp/company/5010001099860",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー 株式 会社 - 中央区 — エヴィクサー 株式 会社 - 中央区 中央区 https://www.city.chuo.lg.jp > jigyou > ichiran > nintei025",
+    "url": "https://www.city.chuo.lg.jp/bouquet21/jigyou/ninteikigyou/ichiran/nintei025.html",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー (証券コード：4257) - 日本経済新聞 — エヴィクサー (証券コード：4257) - 日本経済新聞 日本経済新聞 https://www.nikkei.com > ipo > money-scheduledetail",
+    "url": "https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー 株式会社 IPO（新規上場）承認 — エヴィクサー 株式会社 IPO（新規上場）承認 船井総合研究所 https://ipo.funaisoken.co.jp > IPO経営コラム一覧",
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー | TPM上場企業データベース — エヴィクサー | TPM上場企業データベース TPMナビ https://tpm.ipo-navi.jp > evixar",
+    "url": "https://tpm.ipo-navi.jp/db/evixar",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー : 業績・財務 : 日経会社情報DIGITAL : 日経電子版 — エヴィクサー : 業績・財務 : 日経会社情報DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー 株式会社 - スピーダ スタートアップ情報リサーチ — エヴィクサー 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-05170",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー --- 資金 の借入れを発表 - 株探 — エヴィクサー --- 資金 の借入れを発表 - 株探 株探 https://kabutan.jp > 市場ニュース",
+    "url": "https://kabutan.jp/news/marketnews/?b=n202312070697",
+    "pass": 3
+   },
+   {
+    "quote": "シヤチハタが提携 - 透かし音・音源特徴点技術により世界標準 ... — シヤチハタが提携 - 透かし音・音源特徴点技術により世界標準 ... エヴィクサー株式会社 https://www.evixar.com > news",
+    "url": "https://www.evixar.com/news/20260313_01/",
+    "pass": 3
+   },
+   {
+    "quote": "Kudan Vision出資先である エヴィクサー 株式会社、TOKYO ... — Kudan Vision出資先である エヴィクサー 株式会社、TOKYO ... Kudan Inc. https://www.kudan.io > TOP > News > プレスリリース",
+    "url": "https://www.kudan.io/jp/archives/896",
+    "pass": 3
+   },
+   {
+    "quote": "学術分野への取り組み エヴィクサー 株式会社 - Evixar Inc. — 学術分野への取り組み エヴィクサー 株式会社 - Evixar Inc. エヴィクサー株式会社 https://www.evixar.com > overview > research",
+    "url": "https://www.evixar.com/overview/research/",
+    "pass": 3
+   },
+   {
+    "quote": "「 エヴィクサー 株式会社」のプレスリリース — 「 エヴィクサー 株式会社」のプレスリリース アットプレス https://www.atpress.ne.jp > news > company",
+    "url": "https://www.atpress.ne.jp/news/company/14821",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー : 企業概要 : 日経会社情報DIGITAL : 日経電子版 — エヴィクサー : 企業概要 : 日経会社情報DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "pass": 3
+   },
+   {
+    "quote": "エヴィクサー 株式会社（東京都） (旧 4257 上場 ... - Compalyze — エヴィクサー 株式会社（東京都） (旧 4257 上場 ... - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析",
+    "url": "https://compalyze.co.jp/company/5010001099860",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "プレスリリース配信 @Press【公式】 on X: \" エヴィクサー ... プレスリリース配信 @Press【公式】 on X: \" エヴィクサー ... X https://x.com > @Press__official",
+    "url": "https://x.com/Press__official/status/2115618378429927586",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース配信 @Press【公式】 on X : \" エヴィクサー ... プレスリリース配信 @Press【公式】 on X : \" エヴィクサー ... X https://x.com > @Press__official",
+    "url": "https://x.com/Press__official/status/2115618378429927586",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Atsushi Takigawa - evixar # エヴィクサー - LinkedIn Atsushi Takigawa - evixar # エヴィクサー - LinkedIn LinkedIn https://jp.linkedin.com > posts > atsushi-takigawa-evixar_...",
+    "url": "https://jp.linkedin.com/posts/atsushi-takigawa-evixar_%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E8%A5%BF%E8%91%9B%E8%A5%BF%E3%82%B2%E3%82%B9%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A3%E3%82%AF%E3%82%B5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%80%A7%E5%B7%9D%E7%A4%BE%E9%95%B7%E7%B7%A8-activity-7000375014885654528-39jy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ハロームービー株式会社 is at エヴィクサー . - Facebook ハロームービー株式会社 is at エヴィクサー . - Facebook Facebook https://www.facebook.com > HelloMovieInc > posts",
+    "url": "https://www.facebook.com/HelloMovieInc/posts/122261298110132375/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.evixar.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evixar.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evixar.com/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evixar.com/overview/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evixar.com/agreement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evixar.com/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evixar.com/overview/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/20150401_IP-PBX%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_Evixar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/ippbxapplication-form.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kudan.io/jp/archives/896",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-05170",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/news/marketnews/?b=n202312070697",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://octpath.com/customers/evixar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kudan.io/jp/archives/896",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Press__official/status/2115618378429927586",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/atsushi-takigawa-evixar_%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E8%A5%BF%E8%91%9B%E8%A5%BF%E3%82%B2%E3%82%B9%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A3%E3%82%AF%E3%82%B5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%80%A7%E5%B7%9D%E7%A4%BE%E9%95%B7%E7%B7%A8-activity-7000375014885654528-39jy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HelloMovieInc/posts/122261298110132375/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Press__official/status/2115618378429927586",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エヴィクサー 会社概要 資本金 設立",
+   "results": [
+    "https://www.evixar.com/overview/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "https://www.kudan.io/jp/archives/896",
+    "https://compalyze.co.jp/company/5010001099860",
+    "https://www.city.chuo.lg.jp/bouquet21/jigyou/ninteikigyou/ichiran/nintei025.html",
+    "https://tpm.ipo-navi.jp/db/evixar",
+    "https://initial.inc/companies/A-05170",
+    "https://prtimes.jp/main/html/rd/p/000000078.000017676.html",
+    "https://leader-online.jp/2020/01/18/evixar/",
+    "https://www.evixar.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "エヴィクサー 事業内容 売上",
+   "results": [
+    "https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257",
+    "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "https://www.evixar.com/overview/",
+    "https://tpm.ipo-navi.jp/db/evixar",
+    "https://www.nikkei.com/nkd/company/kessan/?nik_code=0032783",
+    "https://www.kudan.io/jp/archives/896",
+    "https://www.47news.jp/8666795.html",
+    "https://www.buffett-code.com/company/brc45txifc/",
+    "https://startup-db.com/companies/vjwKJ2MUQPwZmQP1",
+    "https://www.evixar.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "エヴィクサー 資金調達 株主",
+   "results": [
+    "https://initial.inc/companies/A-05170",
+    "https://kabutan.jp/news/marketnews/?b=n202312070697",
+    "https://www.evixar.com/news/20260313_01/",
+    "https://www.kudan.io/jp/archives/896",
+    "https://zelojapan.com/lawsquare/37144",
+    "https://alivexis.com/ja/press_release/23-4%E5%84%84%E5%86%86%E3%81%AEseries-c%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E5%AE%8C%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "https://compalyze.co.jp/company/5010001099860",
+    "https://ipo.funaisoken.co.jp/blogs/column/post-0-195",
+    "https://www.nikkei.com/article/DGXZQOFD110NZ0R10C26A3000000/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "エヴィクサー 導入事例",
+   "results": [
+    "https://octpath.com/customers/evixar/",
+    "https://www.evixar.com/overview/research/",
+    "https://www.soumu.go.jp/main_content/001068724.pdf",
+    "https://www.atpress.ne.jp/news/company/14821",
+    "https://jp.yamaha.com/business/audio/case-studies/",
+    "https://www.wantedly.com/companies/evixar/about",
+    "https://octpath.com/customers/evixar-interview/",
+    "https://dalab.jp/archives/7098/",
+    "https://www.facebook.com/EvixarInc/?locale=ja_JP",
+    "https://www.evixar.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "エヴィクサー 主要取引先",
+   "results": [
+    "https://www.kudan.io/jp/archives/896",
+    "https://www.evixar.com/overview/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783",
+    "https://compalyze.co.jp/company/5010001099860",
+    "https://www.facebook.com/EvixarInc/?locale=ja_JP",
+    "https://www.atpress.ne.jp/news/company/14821",
+    "https://dalab.jp/archives/7098/",
+    "https://www.kudan.io/jp/archives/918",
+    "https://www.evixar.com/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20230517574612/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com エヴィクサー",
+   "results": [
+    "https://note.com/the_elements/n/n8d5e1a09d7d4",
+    "https://note.com/nftmarketing/n/na80b1cdd1357",
+    "https://note.com/screenless/n/nc1ee90b2b916",
+    "https://note.com/hellomovie/n/n0c9a4e139500",
+    "https://note.com/hellomovie/n/nca129a69a334",
+    "https://note.com/ebs/n/nc504205c0578",
+    "https://note.com/hellomovie/n/n7329d824991b",
+    "https://note.com/viexp/n/n12bc7e263557",
+    "https://note.com/hellomovie/n/nbaf95d4719c3",
+    "https://note.com/lyco_pene/n/n53811649d72e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com エヴィクサー",
+   "results": [
+    "https://x.com/Press__official/status/2115618378429927586",
+    "https://x.com/atakigawa/status/2115620387845546158",
+    "https://x.com/atakigawa",
+    "https://x.com/atakigawa/status/1569175153137041409?s=20&t=rf1Uz1NLyCETubb7XTpoTA",
+    "https://x.com/Press__official/status/1807596256078000415",
+    "https://x.com/linear_pcm0153/status/2086202239639839180",
+    "https://x.com/Cybertrust_JP",
+    "https://x.com/IPB_Innovation",
+    "https://x.com/chisakatakuya",
+    "https://x.com/schneehoppli/status/2069969312769855720"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com エヴィクサー",
+   "results": [
+    "https://jp.linkedin.com/posts/atsushi-takigawa-evixar_%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E8%A5%BF%E8%91%9B%E8%A5%BF%E3%82%B2%E3%82%B9%E3%83%88%E3%82%A8%E3%83%B4%E3%82%A3%E3%82%AF%E3%82%B5%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%80%A7%E5%B7%9D%E7%A4%BE%E9%95%B7%E7%B7%A8-activity-7000375014885654528-39jy",
+    "https://jp.linkedin.com/in/kazunori-tokunaga-bb67b41b0",
+    "https://jp.linkedin.com/in/atsushi-takigawa-evixar",
+    "https://jp.linkedin.com/posts/yokohamaconnect_yc-accessibilitytech-innovation-activity-7404097107865104384-bZn_",
+    "https://www.linkedin.com/posts/atsushi-takigawa-evixar_creok-and-shachihata-announce-trust-infrastructure-activity-7517807068637196288-i5DA",
+    "https://www.linkedin.com/company/alarmbox",
+    "https://www.linkedin.com/posts/jlopesmo_audioengineering-proav-audioeducation-activity-7512668718079074304-9tPZ",
+    "https://www.linkedin.com/posts/harufumi-fukumoto_%E3%83%86%E3%82%AF%E3%83%9E%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E5%AF%BE%E7%AD%96%E3%81%AB%E7%89%B9%E5%8C%96%E3%81%97%E3%81%9Fhalcyon%E3%83%8F%E3%83%AB%E3%82%B7%E3%82%AA%E3%83%B3-%E3%81%A8-activity-7515978345197539328-zQC_",
+    "https://sg.linkedin.com/in/joel-leong-aa395044"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com エヴィクサー",
+   "results": [
+    "https://www.facebook.com/EvixarInc/",
+    "https://www.facebook.com/HelloMovieInc/posts/122261298110132375/",
+    "https://www.facebook.com/EvixarInc/posts/1635029231745733/",
+    "https://www.facebook.com/EvixarInc/posts/2026-09-02%E3%82%B7%E3%83%A4%E3%83%81%E3%83%8F%E3%82%BF%E3%82%A8%E3%83%B4%E3%82%A3%E3%82%AF%E3%82%B5%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%82%B9%E3%83%88%E6%9D%A5%E6%AD%B4%E6%A4%9C%E8%A8%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9signed-sound%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B-c2pa-%E7%BD%B2%E5%90%8D%E4%B8%BB%E4%BD%93%E7%A2%BA%E8%AA%8D%E3%82%92%E5%AE%9F%E8%A3%85%E9%85%8D%E4%BF%A1%E6%94%BE%E9%80%81%E5%BE%8C%E3%81%AE%E9%9F%B3%E5%A3%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3/1588344846414172/",
+    "https://www.facebook.com/EvixarInc/posts/2024-11-03hello-movie%E8%81%B4%E8%A6%9A%E9%9A%9C%E5%AE%B3%E3%82%84%E6%89%8B%E8%A9%B1%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E7%90%86%E8%A7%A3%E3%82%92%E6%B7%B1%E3%82%81%E3%82%8B%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88tokyo%E3%81%BF%E3%81%BF%E3%82%AB%E3%83%AC%E3%83%83%E3%82%B82024%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/1059392125976116/",
+    "https://www.facebook.com/EvixarInc/posts/2026-10-05%E7%94%9F%E7%94%A3%E6%80%A7%E6%96%B0%E8%81%9E%E3%81%AB%E7%AC%AC5%E5%9B%9E%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%A4%A7%E8%B3%9E-%E5%84%AA%E7%A7%80%E8%B3%9E%E5%8F%97%E8%B3%9E%E4%BC%81%E6%A5%AD%E3%81%A8%E3%81%97%E3%81%A6%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7-%E7%80%A7%E5%B7%9D-%E6%B7%B3%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%81%8C%E6%8E%B2%E8%BC%89seisansei-shi/1618795420035781/",
+    "https://www.facebook.com/100063493929414/posts/%E7%AC%AC%E4%B8%89%E5%9B%9E%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%97%A5%E7%A8%8B%E3%81%8C%E7%A2%BA%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8A%E7%94%B3%E3%81%97%E8%BE%BC%E3%81%BF%E3%81%AFreforma%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%88%E3%82%8A%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%E6%A4%9C%E7%B4%A2reforma-%E6%9D%BE%E6%88%B8reforma%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%83%A6%E3%83%BC%E3%82%B9reforma%E3%82%B5%E3%83%83/882786690514454/",
+    "https://www.facebook.com/HelloMovieInc/posts/122258528210132375/",
+    "https://www.facebook.com/100063493929414/posts/trmvs%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AA%E3%83%83%E3%83%84%E7%99%BD%E4%BA%95%E9%AB%98%E6%A0%A1g%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88mf%E5%B2%A9%E7%94%B0%E6%96%B0%E7%94%9F2%E5%B9%B4%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%82%AD%E3%83%83%E3%82%AB%E3%83%BC%E3%82%BA%E4%BB%8A%E5%9B%9E%E3%81%AF%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9%E3%83%96%E3%83%AA%E3%83%83%E3%83%84%E3%81%95%E3%82%93%E3%81%A8%E7%B7%B4%E7%BF%92%E8%A9%A6%E5%90%88%E3%82%92%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BE%E3%81%9A2%E5%B9%B4%E7%94%9F%E3%82%92%E4%B8%BB%E4%BD%93%E3%81%A8%E3%81%97%E3%81%9F%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%A7%E8%A9%A6%E5%90%88/916070513100722/",
+    "https://www.facebook.com/EvixarInc/posts/2022-08-16エヴィクサー総務省令和3年度における高齢者障害者向けの新たなict機器サービスの研究開発に対する補助金採択に基づいたユーザー操作ゼロを目指し/555883972993603/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "エヴィクサー note 社長",
+   "results": [
+    "https://www.evixar.com/overview/",
+    "https://voicy.jp/channel/1714/280870",
+    "https://www.kudan.io/jp/archives/896",
+    "https://www.facebook.com/EvixarInc/?locale=ja_JP",
+    "https://leader-online.jp/2020/01/18/evixar/",
+    "https://newscast.jp/smart/news/7139231",
+    "https://www.youtube.com/watch?v=O-02WRzZPxw",
+    "https://www.nikkei.com/article/DGXZQOFD110NZ0R10C26A3000000/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.evixar.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "エヴィクサー X 投稿",
+   "results": [
+    "https://x.com/Press__official/status/2115618378429927586",
+    "https://www.evixar.com/",
+    "https://www.nikkei.com/article/DGXZQOFD110NZ0R10C26A3000000/",
+    "https://dalab.jp/archives/7098/",
+    "https://www.atpress.ne.jp/news/company/14821",
+    "https://newscast.jp/smart/news/7139231",
+    "https://www.facebook.com/EvixarInc/?locale=ja_JP",
+    "https://www.cybertrust.co.jp/pressrelease/2026/0902-c2pa.html",
+    "https://www.kudan.io/jp/archives/896",
+    "https://x.com/schneehoppli/status/2069969312769855720"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索11回）"
+ }
+}

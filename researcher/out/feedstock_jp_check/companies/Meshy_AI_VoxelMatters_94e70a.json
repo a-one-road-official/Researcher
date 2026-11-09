@@ -1,0 +1,490 @@
+{
+ "name": "Meshy AI — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T14:14:07.914005+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "#3dprinting #generativeai #meshy #3dmodeling #ai | VoxelMatters MeshyAI just pushed image-to-3D generation somewhere no other model has gone: 4096³ resolution. The new Ultra 4K mode in Meshy 7.1 generates raw meshes up to 80 million triangles, capturing ...",
+    "url": "https://www.linkedin.com/posts/voxelmatters_3dprinting-generativeai-meshy-activity-7505908744380334080-0BaL",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookMeshy AI Text to 3D Models: Features, Pricing, and Real User ...FacebookI tested Meshy, an AI tool that turns text and images into 3D ...Meshy 3D AI Community - FacebookMeshy | Santa Clara CA - FacebookWhats everyone's thoughts on meshy AI. I am new and want to ... Full breakdown, only on VoxelMatters 🍒 #AdditiveManufacturing #3DPrinting #FoodSafe #FoodGrade #Manufacturing 3",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.meshy.ai/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3ds.co.jp/meshyai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3ds.co.jp/meshyai/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meshy.ai/zh-Hant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshyai.online/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meshy-raises-400-million-series-b-at-1-5-billion-valuation/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://apps.shopify.com/meshy-3d?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3ds.co.jp/meshyai/news/2140/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3ds.co.jp/meshyai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000183253.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stucalc.com/2026/05/14/3d%E3%83%A2%E3%83%87%E3%83%AB%E7%94%9F%E6%88%90ai%E3%80%8Cmeshy-ai%E3%80%8D%E3%81%AE%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%8F%90%E4%BE%9B%E3%82%92%E9%96%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meshy.ai/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meshyai.online/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3ds.co.jp/meshyai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meshy.ai/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3ds.co.jp/meshyai/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Meshy_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SNIDEL-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%87%E3%83%AB-SWFJ261071-%E3%83%87%E3%82%BF%E3%83%83%E3%83%81%E3%83%A3%E3%83%96%E3%83%AB%E3%83%95%E3%83%AA%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%84%E3%82%A4%E3%83%BC%E3%83%89%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88SWFJ261071%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/dp/B0GC9M4NY7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%A2%E3%82%B9%E3%83%95%E3%82%A1%E3%83%AB%E3%83%88%E3%81%AB%E8%B2%BC%E3%82%8C%E3%82%8B%E3%83%86%E3%83%BC%E3%83%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01373042/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00345856/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meshy-stands-out-as-the-only-ai-3d-company-in-a16zs-top-50-consumer-ai-apps-by-revenue/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/meshy/6f5a1f20d7d547a18",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.lounge.ai/arr/meshy-ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/meshy/__iJd8EZ6tFhN-8VMLbTtjqZaCeWONKfPT1QNk7YpTpV8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxelmatters_3dprinting-generativeai-meshy-activity-7505908744380334080-0BaL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Meshy AI — VoxelMatters 代理店",
+   "results": [
+    "https://www.meshy.ai/",
+    "https://3ds.co.jp/meshyai/",
+    "https://3ds.co.jp/meshyai/overview/",
+    "https://www.meshy.ai/zh-Hant",
+    "https://www.voxelmatters.com/meshy-raises-400-million-series-b-at-1-5-billion-valuation/",
+    "https://www.voxelmatters.com/",
+    "https://meshy-ai.pro/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meshy AI — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://meshyai.online/",
+    "https://www.voxelmatters.com/meshy-raises-400-million-series-b-at-1-5-billion-valuation/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://apps.shopify.com/meshy-3d",
+    "https://www.meshy.ai/pricing",
+    "https://github.com/meshy-dev/",
+    "https://www.instagram.com/antenna_ts/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meshy AI — VoxelMatters 日本 販売",
+   "results": [
+    "https://3ds.co.jp/meshyai/news/2140/",
+    "https://3ds.co.jp/meshyai/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000183253.html",
+    "https://stucalc.com/2026/05/14/3dモデル生成ai「meshy-ai」の日本国内サービス提供を開/",
+    "https://hub-conne.kanakei.jp/article/ybo3b9_141i1",
+    "https://adv.tokyo-np.co.jp/prtimes/article153459/",
+    "https://oproduct.ai/articles/2925547"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meshy AI — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.meshy.ai/",
+    "https://meshyai.online/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://shop-green-ocean.com/",
+    "https://www.voxelmatters.com/",
+    "https://craft-dream.com/shopbrand/ct54/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meshy AI — VoxelMatters Japan distributor",
+   "results": [
+    "https://3ds.co.jp/meshyai/",
+    "https://www.meshy.ai/",
+    "https://3ds.co.jp/meshyai/overview/",
+    "https://x.com/Meshy_jp",
+    "https://www.voxelmatters.com/meshy-raises-400-million-series-b-at-1-5-billion-valuation/",
+    "https://meshy-ai.pro/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000183253.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meshy AI — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "https://www.meshy.ai/developers",
+    "https://japanesedistributors.com/",
+    "https://www.japan-partner.com/check-manufacture-year.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Meshy AI — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://relay.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWFJ261071-デタッチャブルフリルカラーツイードジャケットSWFJ261071レディース/dp/B0GC9M4NY7",
+    "https://business.amazon.co.jp/ja/login",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f6ef05cd-fea6-4e78-a535-855920d40c42/the-voxelmatters-podcast-tripo-ai’s-fast-track-to-an-ai-native-3d-future",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Meshy AI — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/k/store/アスファルトに貼れるテープ/",
+    "https://www.monotaro.com/g/01373042/",
+    "https://www.monotaro.com/g/00345856/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/g/01398396/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meshy AI — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/meshy-stands-out-as-the-only-ai-3d-company-in-a16zs-top-50-consumer-ai-apps-by-revenue/",
+    "https://www.thecompanycheck.com/company/b/meshy/6f5a1f20d7d547a18",
+    "https://ai.lounge.ai/arr/meshy-ai",
+    "https://tracxn.com/d/companies/meshy/__iJd8EZ6tFhN-8VMLbTtjqZaCeWONKfPT1QNk7YpTpV8",
+    "https://siliconvalleyinvestclub.com/id/companies/meshy-ai/tear-sheet.pdf",
+    "https://pitchbook.com/profiles/company/532823-68",
+    "https://siliconvalleyinvestclub.com/companies/meshy-ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Meshy AI — VoxelMatters",
+   "results": [
+    "https://note.com/saycheese22/n/n3f40b70f05a2?hl=en",
+    "https://note.com/humble_swift9606/n/n1aa8b8c4c8fb?hl=en",
+    "https://note.com/th1980/n/ne055a10fae77?hl=en",
+    "https://note.com/saycheese22/n/nc714226d6e66?hl=en",
+    "https://note.com/teruemon/n/n6caa15166291?hl=en",
+    "https://note.com/saycheese22/n/n8e62c6738599?hl=en",
+    "https://note.com/th1980/n/n5cf93ff07ffc?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Meshy AI — VoxelMatters",
+   "results": [
+    "https://x.com/MeshyAI",
+    "https://x.com/fal/status/2102088697885671674",
+    "https://x.com/MeshyAI/article/2089299645025648767",
+    "https://x.com/voxelmatters",
+    "https://x.com/fal/status/2087298756844630229",
+    "https://x.com/MeshyAI/status/2105969646340071829",
+    "https://x.com/hashtag/Meshy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Meshy AI — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/voxelmatters_3dprinting-generativeai-meshy-activity-7505908744380334080-0BaL",
+    "https://www.linkedin.com/company/meshyai",
+    "https://www.linkedin.com/products/meshy-llc-meshy/",
+    "https://www.linkedin.com/pulse/meshy-ai-new-frontier-generative-3d-modelling-pariton-langpoklakpam-hbicc",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pulse/meshy-ai-review-turning-text-photos-3d-printable-models-macsources-qashc",
+    "https://www.linkedin.com/posts/voxelmatters_3dprinting-additivemanufacturing-ai-activity-7511352822991306752-xKr4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Meshy AI — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/fb-answers/meshy-ai-text-to-3d-models/",
+    "https://www.facebook.com/61562501931323/videos/28637396815881130/",
+    "https://www.facebook.com/groups/meshy/",
+    "https://www.facebook.com/p/Meshy-61562501931323/",
+    "https://www.facebook.com/groups/482533505156388/posts/28011571821825852/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meshy AI — VoxelMatters note 社長",
+   "results": [
+    "https://www.meshy.ai/about",
+    "https://theorg.com/org/meshy/person/ethan-hu",
+    "https://www.linkedin.com/in/ethan-yuanming-hu",
+    "https://siliconvalleyinvestclub.com/companies/meshy-ai/",
+    "https://siliconvalleyinvestclub.com/id/companies/meshy-ai/team/ethan-yuanming-hu/",
+    "https://www.linkedin.com/pulse/future-3d-generative-ai-meshys-ceo-ethan-hu-gabriele-romagnoli-jy9we",
+    "https://www.toutiao.com/article/7633657967523316264/",
+    "https://www.thecompanycheck.com/company/b/meshy/6f5a1f20d7d547a18"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Meshy AI — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/MeshyAI/status/2110285892749541475",
+    "https://www.meshy.ai/",
+    "https://www.voxelmatters.com/category/software/ai/",
+    "https://www.meshy.ai/supa/login",
+    "https://www.voxelmatters.com/?cat=449",
+    "https://help.meshy.ai/en/articles/10615378-how-to-get-my-models-featured-in-the-community",
+    "https://x.com/MeshyAI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

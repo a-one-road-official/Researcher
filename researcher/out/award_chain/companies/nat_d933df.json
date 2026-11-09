@@ -1,0 +1,1605 @@
+{
+ "name": "nat",
+ "aliases": [],
+ "context": "東京都・資本金38000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T14:02:19.369235+00:00",
+ "official_url": "https://www.natincs.com/",
+ "identified_by": "given",
+ "profile": {
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3.8億円（資本剰余金含む） 会社設立日 2019年5月20日​",
+    "url": "https://www.natincs.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "50,000万円",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "900万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "300百万円",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "Scanat事業、空間設計事業、アカデミー事業",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "Scanat事業、空間設計事業、アカデミー事業",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "職業紹介",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2019年5月",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019/05",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年05月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年5月20日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年05月20日",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2019年05月",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "劉 栄駿",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "劉　栄駿",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "Bruce Liu",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "劉 栄駿（Bruce Liu）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "劉　栄駿",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 劉 栄駿",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒150-0001 \n東京都渋谷区神宮前2-34-17 住友不動産原宿ビル3F",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都渋谷区神宮前2-34-17 住友不動産原宿ビル 3F",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区神宮前2丁目34-17\n住友不動産原宿ビル3F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "nat株式会社（本社",
+    "value": "東京都港区、代表取締役：劉 栄駿、以下 nat）は、DEEPCOREをリードインベスターとして、TOPPANホールディングス株式会社、Dual Bridge Capitalおよび松岡広隆等を引受先とする総額5億円の第三者割当増資を実施しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒105-0001 東京都港区虎ノ門2丁目2-1 住友不動産虎ノ門タワー5F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "150-0001東京都渋谷区神宮前２－３４－１７",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒100-6640 東京都千代田区丸の内1-9-2 グラントウキョウサウスタワー",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都 渋谷区 神宮前2-34-17 住友不動産原宿ビル3F",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒150-0001 東京都渋谷区 神宮前２－３４－１７ 住友不動産原宿ビル3F",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "40人",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "世界で初めてmm単位の計測や曲面の計測が可能なスマホアプリとして、ネットワークがない環境でも使用可能で、建設や不動産、設備メンテナンス、消防、警察など多様な業界での現地調査や図面作成の効率化に貢献しています",
+    "url": "https://www.natincs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "インテリアコーディネーターのパイオニアとして、ホテルや旅館（全客室数8769室）、オフィス、店舗デザインの実績に加え、150㎡を越える高級マンションのインテリアコーディネート経験を活かした豊かな空間づくりをご提案します",
+    "url": "https://www.natincs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "〒150-0001 東京都渋谷区神宮前2-34-17 住友不動産原宿ビル3F",
+    "url": "https://www.natincs.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "③工数1/5を実現！3Dスキャンの導入事例",
+    "url": "https://www.natincs.com/event/seminar-vectorworks-design/",
+    "pass": 1
+   },
+   {
+    "quote": "「Scanat」は、建設・建築・リフォーム業界を中心に累計1,000社以上に導入いただき、現場のDX化と生産性向上に貢献しています",
+    "url": "https://www.natincs.com/event/seminar-vectorworks-design/",
+    "pass": 1
+   },
+   {
+    "quote": "【8/26-28】関西最大級の建築・建設・不動産展！「JAPAN BUILD OSAKA」に出展",
+    "url": "https://www.natincs.com/event/seminar-vectorworks-design/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用機器及びレーザー応用機器の開発・販売",
+    "url": "https://nat-web.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業許可 茨城県知事許可（特－02第31200号）",
+    "url": "https://nat-web.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "事業部を開設し、建設施工保守業務を開始",
+    "url": "https://nat-web.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区神宮前2-34-17 住友不動産原宿ビル3F",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "quote": "電通大ら、高エネルギーX線の偏光を実証し原子物理の常識に挑戦",
+    "url": "https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b",
+    "pass": 3
+   },
+   {
+    "quote": "茨城県水戸市に本社を置く建設・機械メンテナンスを行う会社",
+    "url": "https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b",
+    "pass": 3
+   },
+   {
+    "quote": "建設・不動産・設備メンテナンス3Dスキャンアプリ「Scanat」の開発・提供",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "寿建設株式会社との協働による土木・インフラ分野向け製品「Scanat-D」、空間設計事業「青山スタイル」、アカデミー事業「町田ひろ子アカデミー」を展開",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区神宮前2-34-17 住友不動産原宿ビル 3F",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "nat、TOPPANホールディングスと資本業務提携 建設業界向け空間シミュレーション事業で協業",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社小泉中央、高精度AI測量アプリ「Scanat」導入により取引先工務店様のDXを強力に支援",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "「Scanat」がリリースされてから多くの企業や自治体に導入され、皆さまからのフィードバックで度重なる機能の追加と改善を実現してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "建設や住宅関連などの産業では、現場の進捗可視化のため、精密かつ適時の計測・記録が求められています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "当プロダクトの高い計測精度と、ユーザ・関係者の負担・ストレスを徹底的に低減したUIは、これまでBruceさんを中心としたTeam natが顧客に誠実に向き合ってきた結晶であり、ご支援できることを大変光栄に思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "Scanatは、確かな技術力と深い顧客課題に根差したプロダクトです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスは、現場の課題やニーズを的確に捉えた画期的なソリューションであり、建設業界をはじめとする幅広い分野だけでなく、新たに創設される予定の防災省の活動や災害の現場対応等といった行政の働きにも大きな影響をもたらすと確信しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：〒105-0001 東京都港区虎ノ門2丁目2-1 住友不動産虎ノ門タワー5F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "住友不動産原宿ビル3F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスでは、NATを利用して、複数のクライアントが同じサーバーにアクセスできるようにしています",
+    "url": "https://infrastructure-engineer.com/nat-explanation-001/",
+    "pass": 3
+   },
+   {
+    "quote": "静的NATと異なり、グローバルIPアドレスを複数で共有することができますが、アドレスプールを使い切ると以降のクライアントは接続できずアドレスが返却されるまで待つ必要があります",
+    "url": "https://baremetal.jp/blog/2023/09/08/1298/",
+    "pass": 3
+   },
+   {
+    "quote": "nat株式会社／【東京・営業職】原宿の新オフィス勤務/AI×SaaSで建設業界のDXを推進 Webサービス法人営業の中途採用・転職・求人情報｜求人・転職エージェントならリクルートエージェント",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京・営業職】原宿の新オフィス勤務/AI×SaaSで建設業界のDXを推進 Webサービス法人営業",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京・営業職】原宿の新オフィス勤務/AI×SaaSで建設業界のDXを推進",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発のAI測量アプリ「Scanat」を展開する当社にて建設・不動産業界向けのセールスをご担当",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "iPhoneのLiDAR技術を活用した革新的なプロダクトを武器に、顧客の業務効率化を実現するコンサルティング営業です",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■建設・不動産・工務店等への「Scanat」導入提案営業 ■展示会や問合せからのリードに対する課題ヒアリング ■実機を用いたデモンストレーションおよびROI検証 ■導入後の定着支援・カスタマーサクセス業務 ■市場分析に基づいた営業戦略の策定および新規開拓",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■法人営業経験3年以上（新規開拓経験）■建設・不動産業界への折衝経験またはIT製品の営業経験 有形営業の経験を武器に、市場価値の高い無形SaaSセールスへとステップアップしたい熱意ある方を求めています",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーゼネコン含む800社以上の導入実績があり、プロダクト力は折り紙付き",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "学歴：大学院 大学 高専 短大 専修学校 高校",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区神宮前2-34-17住友不動産原宿ビル3F",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都 渋谷区 神宮前2-34-17 住友不動産原宿ビル3F",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "その他（リフレッシュ休暇5日/看護・介護）",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "社会保険：健康保険 厚生年金保険 雇用保険 労災保険",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■建材や不動産などの有形商材営業から、市場価値の高い無形SaaS営業へ挑戦したい方",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【導入企業さま】※順不同 大林組 大成建設 鹿島建設 竹中工務店 清水建設 凸版 クボタ パナソニック 大阪ガス 三機工業 等",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "本社所在地：〒150-0001 東京都渋谷区 神宮前２－３４－１７ 住友不動産原宿ビル3F",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "この革新は建設業界をはじめ、不動産業、製造業、官公庁など多岐にわたる業界で導入されており、リリースから数年で累計800社以上、スーパーゼネコンとの取引実績を誇ります",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■2025年「すごいベンチャー100」選出！AI測量アプリで建設業界の常識を覆す◎ ■原宿駅近のスタイリッシュな新オフィス！ 少数精鋭でM&Aも手掛け多角的に急成長を遂げる注目のスタートアップ企業です！",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "主な取引先は 国土交通省/中央官庁/地方公共団体/独立行政法人/建設会社等となります",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "業務内容は1次選考の際に詳細ご説明します！【調査研究】建設資材価格や工事費、需給状況等の調査",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "資機材や建設業者等を訪問・ヒアリングし、情報結果を刊行物に公表【出版・制作】出版版物や掲載記事の企画立案/進行管理/編集【情報開発】各種データベース維持管理等",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "当社営業活動において、生活者動向やニーズを迅速に捉え顧客課題を解決するために、販売活動に止まらない営業をお任せいたします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■勤怠管理および給与/賞与計算■社会保険手続およびそれに付帯する業務■公租公課対応,福利厚生対応■就業規則作成および管理■職場環境/業務改善【魅力】第二の創業に伴う変革期にあり、従業員満足度を上げることで会社が将来目指すビジネスに”人”の観点からコミットできます",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "・見積書、提案資料の作成補助 ・受発注処理 ・売上、請求関連業務 ・納期確認、調整 ・営業担当者のスケジュール管理 ・顧客情報や案件情報の管理 ・社内関係部署との連携 募集職種 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】 ■伝票起票業務 ■伝票審査承認業務 ■出納業務（銀行対応、現預金管理） ■証憑整理・保管 ■相談対応 ■資料作成 ■マニュアル類の整備・補完作業 ■業務の標準化及び効率化 募集職種 【経理担当(伝票起票及び審査、出納業務)】転勤無/長期就業可/福利厚生充実",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "nat team KCMG、KYOJO CUP第4戦でダブル表彰台！",
+    "url": "https://www.natincs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年度 インフラDX大賞 「スタートアップ奨励賞」受賞のお知らせ",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "■音楽市場に関する統計・認定データの集計・分析、調査実施 ■ウェブサイト、機関誌、公式SNS、プレスリリース等による情報発信 ■会員社、関係団体等で構成する委員会・ワーキングチームの運営 ■音楽流通に関する制度・規格の管理、業界課題への対応 ■著作権に関する啓発・教育活動 ■日本音楽の海外展開に関する事業の企画・運営 募集職種 【音楽業界団体の事務局スタッフ(第二新卒歓迎)】データ集計・各種会議運営等",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日 採用人事",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社ディープコム 求人名 浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日 仕事の内容 開発会社の採用担当として新卒・中途採用の求人掲載・応募者対応・面接調整などを担当いただきます",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "＜具体的な業務内容＞ ■取締役会、株主総会運営 ■朝会、締会、（Ｑ毎開催）戦略共有会準備運営 ■サプライヤー選定から支払いまでの調達オペレーションの整備並びに監査 ■ファシリティ関連 ■接待贈答、インシデント報告のとりまとめ ■許認可手続き ■上記業務に関するマニュアルやオペレーションの整備 募集職種 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "建築・インテリア・ランドスケープ・エンタテインメントの幅広い分野で活用されるCAD・BIMソフトウェア「Vectorworks」の国内販売・マーケティング・技術サポートを展開しています",
+    "url": "https://www.natincs.com/event/seminar-vectorworks-design/",
+    "pass": 1
+   },
+   {
+    "quote": "iPhone /iPadで誰でも簡単に高精度3D計測ができる「Scanat」アプリの開発・運営事業を中心に、「コンサルティング事業」「空間設計事業」「アカデミー事業」の4つを展開しています",
+    "url": "https://www.natincs.com/event/seminar-vectorworks-design/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用機器及びレーザー応用機器の開発・販売",
+    "url": "https://nat-web.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "労働者派遣事業（派08-019001）",
+    "url": "https://nat-web.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用のインセンティブ制度（1名紹介につき50万円支給）※別途規定あり",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "quote": "第43回（2013年度）信頼性・保全性シンポジウム 推奨報文賞・奨励報文賞・特別賞の紹介",
+    "url": "https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b",
+    "pass": 3
+   },
+   {
+    "quote": "本事業内容を拝見した際、劉社長の卓越した問題解決力とビジョンに深く感銘を受けました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "以下に、NATの利用例をいくつか紹介します",
+    "url": "https://infrastructure-engineer.com/nat-explanation-001/",
+    "pass": 3
+   },
+   {
+    "quote": "・リファラル採用のインセンティブ制度（1名紹介：50万円支給、別途規定あり）",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：Scanat事業、空間設計事業、アカデミー事業",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "この革新は建設業界をはじめ、不動産業、製造業、官公庁など多岐にわたる業界で導入されており、リリースから数年で累計800社以上、スーパーゼネコンとの取引実績を誇ります",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップでありながら、売上も数億円規模を見込んでおります",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "決算情報：決算期 売上高 非公開 経常利益 非公開",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "この求人はリクルートエージェント（株式会社インディードリクルートパートナーズ運営）が掲載する求人情報の一部のみの転載です",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "この求人は職業紹介事業者による紹介案件です",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "当社営業活動において、生活者動向やニーズを迅速に捉え顧客課題を解決するために、販売活動に止まらない営業をお任せいたします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "・経験を積み実力をつけ基幹職となり、組織運営、人財育成等、将来は営業部門におけるマネジメンに携わっていただきます",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 三菱重工業株式会社 求人名 【東京（田町)】部門専属プロジェクト庶務・アシスタント/未経験者歓迎 仕事の内容 ■世界規模のプラントや交通システムを手掛けるプロジェクト部にて、部内運営を支える一般庶務およびプロジェクトマネージャー(PM)の業務支援を担当します",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "組織の円滑な運営を支える重要ポジションです",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【一般庶務業務】部内会議の運営支援、連絡事項の取りまとめ、電子決裁・システム利用申請、派遣契約や請求処理、備品管理、固定資産管理、監査対応資料の整備",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【プロジェクト支援業務】立ち上げ支援(システム・フォルダ設定)、図書管理、出張者のビザ取得・切符手配・経費精算、現地サイトへの物品発送、審査会議の運営支援、発注・支払い手続きなど、PMや関係部署と連携して推進します",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 一般社団法人日本ＤＩＹ・ホームセンター協会 求人名 東京都千代田区【事務】土日祝休/残業超過分は別途支給 仕事の内容 DIY・ホームセンター業界の発展を推進している一般社団法人にて、協会の円滑な運営を支える事務業務全般をお任せいたします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■協会事業の企画運営サポートおよびデータ入力等を含む各種会員管理業務 ■各種委員会運営の補助業務や広報活動に関連する資料作成などの事務全般 ■関係省庁や全国の会員企業等との円滑な連携を図るための各種連絡や調整 ■その他、組織の安定的な運営に必要となる各種事務処理や庶務業務の遂行 社内外の関係各所と密に連携を取りながら円滑に事業を推進していただきます",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "・見積書、提案資料の作成補助 ・受発注処理 ・売上、請求関連業務 ・納期確認、調整 ・営業担当者のスケジュール管理 ・顧客情報や案件情報の管理 ・社内関係部署との連携 募集職種 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "各種チケット手配や手紙対応、社用車連絡のほか健康診断・保養所管理等の総務実務を兼任し、会社運営を円滑に支える大切なお仕事です",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社大阪合人社 求人名 【大阪/転勤無】マンション管理事務/年休123日/働き方◎【経験を武器に！】 仕事の内容 ■マンション管理組合の運営サポート及び管理員の指導 ■担当物件における修繕工事等受注業務 ■事務所内での事務業務等 ★異業界からの転職者が多数活躍しています 【年収補足】504万円 ＋賞与・別途インセンティヴで平均約100万円/年（昨年度実績） ＋管理業務主任者資格手当50,000円/月 ★親会社である株式会社合人社計画研究所社のグループ会社として、質の高いサービスと適性価格を武器に約20年受託戸数増加中です",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【音楽業界団体の事務局スタッフ(第二新卒歓迎)】データ集計・各種会議運営等 広報/PR",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 一般社団法人日本レコード協会 求人名 【音楽業界団体の事務局スタッフ(第二新卒歓迎)】データ集計・各種会議運営等 仕事の内容 まずは音楽市場に関する統計データの集計・分析からお任せ",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■音楽市場に関する統計・認定データの集計・分析、調査実施 ■ウェブサイト、機関誌、公式SNS、プレスリリース等による情報発信 ■会員社、関係団体等で構成する委員会・ワーキングチームの運営 ■音楽流通に関する制度・規格の管理、業界課題への対応 ■著作権に関する啓発・教育活動 ■日本音楽の海外展開に関する事業の企画・運営 募集職種 【音楽業界団体の事務局スタッフ(第二新卒歓迎)】データ集計・各種会議運営等",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "求人票の作成・更新、応募者対応、面接日程の調整、人材紹介会社との連絡、選考状況の管理、内定者の入社フォローなどをお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【総務・人事】未経験歓迎/日立グループ/組織運営を支えるゼネラリストをめざす 総務",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社日立医薬情報ソリューションズ 求人名 【総務・人事】未経験歓迎/日立グループ/組織運営を支えるゼネラリストをめざす 仕事の内容 入社直後は労務（労務管理・給与計算・安全衛生・福利厚生等）からお任せいたします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "将来は総務・採用・教育業務へ守備範囲を広げ、組織運営を支えるゼネラリストをめざせます",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "COMPANY - nat Inc. — COMPANY - nat Inc. nat Inc. https://www.natincs.com > company",
+    "url": "https://www.natincs.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 情報 - 株式会社NAT — 会社 情報 - 株式会社NAT 株式会社NAT https://nat-web.com > company",
+    "url": "https://nat-web.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "nat 株式会社の 会社概要 - マイナビ転職 — nat 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "pass": 3
+   },
+   {
+    "quote": "nat 株式会社 の求人・採用情報/ 会社概要 - HERP Career — nat 株式会社 の求人・採用情報/ 会社概要 - HERP Career herp.careers https://herp.careers > careers > companies > nat2025",
+    "url": "https://herp.careers/careers/companies/nat2025",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NAT （茨城県）の 会社概要 ・役員 | Compalyze — 株式会社 NAT （茨城県）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > その他専門サービス",
+    "url": "https://compalyze.co.jp/company/6050001004683",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 - 株式会社NAT — 事業内容 - 株式会社NAT 株式会社NAT https://nat-web.com > business-content",
+    "url": "https://nat-web.com/business-content/",
+    "pass": 3
+   },
+   {
+    "quote": "nat 株式会社の転職・企業概要 - doda — nat 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10193869576",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10193869576/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NAT - 茨城県・プラント設備工事業界の企業情報 — 株式会社 NAT - 茨城県・プラント設備工事業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NAT （旧: 日本アドバンストテクノロジー株式会社） — 株式会社 NAT （旧: 日本アドバンストテクノロジー株式会社） 転職会議 https://jobtalk.jp > companies",
+    "url": "https://jobtalk.jp/companies/25564",
+    "pass": 3
+   },
+   {
+    "quote": "Scanatの累計導入社数が300社を超え、総額約1.2億円の 資金 ... — Scanatの累計導入社数が300社を超え、総額約1.2億円の 資金 ... nat Inc. https://www.natincs.com > news > pre-a-round",
+    "url": "https://www.natincs.com/news/pre-a-round/",
+    "pass": 3
+   },
+   {
+    "quote": "nat株式 会社 - スピーダ スタートアップ情報リサーチ — nat株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "nat 、5億円のシリーズAラウンド 資金調達 を実施 - PR TIMES — nat 、5億円のシリーズAラウンド 資金調達 を実施 - PR TIMES PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "nat株式 会社、5億円のシリーズAラウンド 資金調達 を実施 — nat株式 会社、5億円のシリーズAラウンド 資金調達 を実施 ANOBAKA https://anobaka.jp > 投資先",
+    "url": "https://anobaka.jp/%E6%8A%95%E8%B3%87%E5%85%88/8915/",
+    "pass": 3
+   },
+   {
+    "quote": "nat株式 会社の 資金調達 ・出資した投資家（2件の発表） — nat株式 会社の 資金調達 ・出資した投資家（2件の発表） finance.protocol.ooo https://finance.protocol.ooo > ... > 投資家・調達先図鑑",
+    "url": "https://finance.protocol.ooo/equity/company/nat/",
+    "pass": 3
+   },
+   {
+    "quote": "事例 | nat Inc. — 事例 | nat Inc. nat Inc. https://www.natincs.com > category > 事例",
+    "url": "https://www.natincs.com/category/%E4%BA%8B%E4%BE%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "NAT (Network Address Translation)とは | アドレス変換の概要 ... — NAT (Network Address Translation)とは | アドレス変換の概要 ... ネットワークエンジニアのガイドマップ https://infrastructure-engineer.com > ... > NAT",
+    "url": "https://infrastructure-engineer.com/nat-explanation-001/",
+    "pass": 3
+   },
+   {
+    "quote": "NAT とは？アドレス変換の仕組みや必要性、NAPTとの違いを ... — NAT とは？アドレス変換の仕組みや必要性、NAPTとの違いを ... リンクベアメタルクラウド https://baremetal.jp > ホーム > 2023 > September > 8",
+    "url": "https://baremetal.jp/blog/2023/09/08/1298/",
+    "pass": 3
+   },
+   {
+    "quote": "NAT ・Webフィルタリング機能とは？ | ネットワーク機器の ... — NAT ・Webフィルタリング機能とは？ | ネットワーク機器の ... 日立ソリューションズ https://www.hitachi-solutions.co.jp > firewall-support",
+    "url": "https://www.hitachi-solutions.co.jp/juniperproducts/recommend/check/firewall-support.html",
+    "pass": 3
+   },
+   {
+    "quote": "NAT 技術の使われる場面の違いについて - 侍テラコヤ — NAT 技術の使われる場面の違いについて - 侍テラコヤ 侍テラコヤ https://terakoya.sejuku.net > question > detail",
+    "url": "https://terakoya.sejuku.net/question/detail/55196",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社NAT — 会社情報 - 株式会社NAT 株式会社NAT https://nat-web.com > company",
+    "url": "https://nat-web.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Nordic American Tankers Limited - Reuters — Nordic American Tankers Limited - Reuters Reuters https://www.reuters.com > companies > nat",
+    "url": "https://www.reuters.com/jp/companies/nat",
+    "pass": 3
+   },
+   {
+    "quote": "nat 株式会社 - スピーダ スタートアップ情報リサーチ — nat 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "nat、TOPPANホールディングスと資本業務提携 建設業界向け空間シミュレーション事業で協業",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発のAI測量アプリ「Scanat」を展開する当社にて建設・不動産業界向けのセールスをご担当",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "nat、第三者割当増資を実施 シリーズAラウンドで5億円を調達",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "nat、第三者割当増資を実施 PRE-A ROUNDにて総額約1.2億円を調達",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "nat、第三者割当増資を実施 8,000万円を調達",
+    "url": "https://initial.inc/companies/A-41895",
+    "pass": 3
+   },
+   {
+    "quote": "nat、5億円のシリーズAラウンド資金調達を実施 | nat株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "nat、5億円のシリーズAラウンド資金調達を実施",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "nat株式会社（本社：東京都港区、代表取締役：劉 栄駿、以下 nat）は、DEEPCOREをリードインベスターとして、TOPPANホールディングス株式会社、Dual Bridge Capitalおよび松岡広隆等を引受先とする総額5億円の第三者割当増資を実施しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "この度、当社「Scanat」が状況を劇的に改善する解決策と確信し、ご出資させていただきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は東証一部上場企業等の顧問も兼任しながら、エンジェル投資家としてスタートアップの支援に注力しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：300百万円",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【大阪】営業事務 日立製作所100%出資/年休126日/安定基盤で長く働く 機械/電気/電子製品法人営業",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 関西日立株式会社 求人名 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く 仕事の内容 営業担当者のサポート業務を中心に、受発注管理や見積書作成などの事務業務をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "・見積書、提案資料の作成補助 ・受発注処理 ・売上、請求関連業務 ・納期確認、調整 ・営業担当者のスケジュール管理 ・顧客情報や案件情報の管理 ・社内関係部署との連携 募集職種 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "1月入社【大学図書館利用支援業務(課長補佐)】立命館100%出資/年間休日134日 学校事務/大学事務/教務事務",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社クレオテック 求人名 1月入社【大学図書館利用支援業務（課長補佐）】立命館100%出資/年間休日134日 仕事の内容 立命館大学図書館の利用支援業務全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 1月入社【大学図書館利用支援業務（課長補佐）】立命館100%出資/年間休日134日",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 楽天グループ株式会社 求人名 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240 仕事の内容 会社として必要な取締役会・株主総会の運営、ならびに職務権限表の改訂などグループのルールを遵守するための準備と、それを組織内に周知・展開する役割を担う、総務並びにガバナンス関連業務全般をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "＜具体的な業務内容＞ ■取締役会、株主総会運営 ■朝会、締会、（Ｑ毎開催）戦略共有会準備運営 ■サプライヤー選定から支払いまでの調達オペレーションの整備並びに監査 ■ファシリティ関連 ■接待贈答、インシデント報告のとりまとめ ■許認可手続き ■上記業務に関するマニュアルやオペレーションの整備 募集職種 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■人事総務:採用・人財育成・労務・総務 ■広報IR:株主や投資家対応・広報活動 ■財務経理:予算編成・管理・決算業務 ■経営企画:経営戦略や事業計画策定・推進・事業分析 ■法務コンプライアンス:契約審査・法務相談・コンプライアンス推進 【育成】基礎から着実に業務を修得し、将来は部門横断の課題解決や業務改善を主導する存在へ成長できます",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■日常経理業務:売掛金・買掛金管理、入出金確認、請求書発行・送付・管理、経費精算チェック・清算、ネットバンキングでの振込・支払対応■月次決算業務:月次試算表作成サポート、決算整理仕訳入力、棚卸資産データ確認、顧問税理士事務所とのやり取り・提出資料作成補助■その他:各事業部の売上データ照合・管理、電話業務 【業務内容の変更範囲】当社の指定する業務 募集職種 【経理担当】残業なし/完全週休二日/賞与年2回/AI・DX事業拡大中",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "品川区【人事総務】在宅可・年休126日・完全週休2日制・上場グループ 福利厚生/労務/給与管理人事",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社桐原書店 求人名 品川区【人事総務】在宅可・年休126日・完全週休2日制・上場グループ 仕事の内容 高等学校を中心に教材や学習参考書などの出版をはじめ、デジタル教材やオンライン英語学習サービス等を幅広く展開している当社にて、これまでのご経験を活かし、人事総務業務をお任せいたします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "■給与計算、各種社会保険手続きの顧問社労士への依頼・チェック等の労務実務 ■新卒や中途採用活動の実務全般、社員研修の企画補助および運営サポート ■人事評価、労働関連法規に基づく社内制度の適切な運用と見直し ■衛生委員会の運営等安全衛生業務、グループ会社との連携 ■備品管理や各種発注対応等の総務関連業務全般 【業務内容の変更範囲】当社の指定する業務 募集職種 品川区【人事総務】在宅可・年休126日・完全週休2日制・上場グループ",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有 商品企画",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 株式会社ミルボン 求人名 【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有 仕事の内容 オーガニック事業部にて、美容室向けの新たなオーガニック・ナチュラル系ブランド（20～30代向け）の立ち上げに伴う商品企画をお任せします",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【商品企画】新規オーガニックブランド立ち上げ/上場企業/在宅・フレックス有",
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What are NAT /NAPT｜mitzru - note What are NAT /NAPT｜mitzru - note note https://note.com > ... > ネットワーク",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Diagram] What is NAT ? A thorough explanation from ... - note [Diagram] What is NAT ? A thorough explanation from ... - note note https://note.com > ... > ネットワーク",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are NAT masquerade and SNAT?｜toshi - note What are NAT masquerade and SNAT?｜toshi - note note https://note.com > ... > ネットワーク",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NAT : A mechanism to connect many devices to the outside ... NAT : A mechanism to connect many devices to the outside ... note https://note.com > コンピュータ・IT > ネットワーク",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "年次総会を開催しました｜ nat 株式会社 - note 年次総会を開催しました｜ nat 株式会社 - note note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "What are NAT/NAPT｜mitzru",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(Network Address Translation) and",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(Network Address and Port Translation), focusing specifically on",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "home internet connections",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", to make them more concrete and easy to understand.",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "💻 Hierarchical structure of NAT/NAPT",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(Network Address Translation)",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "operates at the network layer (Layer 3) and rewrites the packet's IP address",
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Diagram] What is NAT? A thorough explanation from the mechanism of connecting to the Internet with private IPs to Yamaha router IP masquerade and VPN｜IP実践道場",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Diagram] What is NAT? A thorough explanation from the mechanism of connecting to the Internet with private IPs to Yamaha router IP masquerade and VPN",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever seen an IP address like this on your home or office computer?",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is what is called a private IP address.",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, you can open Google, watch YouTube, and use the Internet normally from a computer with this IP address.",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Doesn't that seem a little strange?",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is because a private IP address is not supposed to be an address for direct communication on the Internet.",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even so, why can you access the Internet?",
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are NAT masquerade and SNAT?｜toshi",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are NAT masquerade and SNAT?",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NAT (Network Address Translation) is one of the technologies that supports the internet communication we use every day behind the scenes. Among them, masquerade and SNAT are important mechanisms for translating source IP addresses. Although they are similar, they are used in different situations and have different characteristics.",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will explain masquerade and SNAT in an easy-to-understand way using analogies!",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Masquerade is a type of NAT that performs communication by \"disguising\" the source IP address. It is particularly useful in environments that use dynamic IP addresses. By converting private IPs in an internal network to an external public IP, multiple devices can share a single public IP.",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Analogy: Communication while wearing a mask",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Communication using masquerade is like a \"participant in a masquerade ball.\"",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When all family members (devices with private IPs) send a letter, they send it under the \"family representative's name\" (the router's public IP) instead of their own names.",
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NAT: A mechanism to connect many devices to the outside using a single global IP｜まことのこと研究所(まこと)",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NAT: A mechanism to connect many devices to the outside using a single global IP",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "IPv4 can only have a maximum of",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In an era where not only PCs and smartphones, but also cameras, home appliances, and IoT devices are connected to the internet,",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "exhaustion was inevitable",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NAT (Network Address Translation)",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The basic idea of NAT",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Using a single global IP address",
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。nat note編集部の瀧宮です。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは、「働く場所としてのnat」を知っていただくために、社内の様子を発信しています。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   },
+   {
+    "quote": "natでは毎年3月に、全社員が集まる年次総会を開催しています。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の振り返りとして、会社としての成長や組織の変化が共有されました。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   },
+   {
+    "quote": "数値だけでなく、「どんな挑戦をしてきたか」「どんな姿勢で仕事に向き合ってきたか」といった価値観についても、改めて振り返る時間となっていました。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   },
+   {
+    "quote": "総会では部署を超えたグループに分かれ、この一年で取り組んできたことや今後挑戦したいことについて話し合いました。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   },
+   {
+    "quote": "代表者が発表する場面では、個人の経験が組織全体に共有される時間となっていました。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   },
+   {
+    "quote": "成果だけでなく、「どのような姿勢で仕事に向き合っていたか」「周囲にどのような影響を与えていたか」といった点も評価されているのが特徴です。",
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Nat Friedman (@natfriedman) / X Nat Friedman (@natfriedman) / X X https://x.com > natfriedman",
+    "url": "https://x.com/natfriedman",
+    "pass": 3
+   },
+   {
+    "quote": "Nat McAleese on X Nat McAleese on X X https://x.com > @__nmca__",
+    "url": "https://x.com/__nmca__/status/2102460995381969365",
+    "pass": 3
+   },
+   {
+    "quote": "nat (@natwithaheart) / X nat (@natwithaheart) / X X https://x.com > natwithaheart",
+    "url": "https://x.com/natwithaheart",
+    "pass": 3
+   },
+   {
+    "quote": "Nat Friedman on X Nat Friedman on X X https://x.com > @natfriedman",
+    "url": "https://x.com/natfriedman/status/2102103707936768130",
+    "pass": 3
+   },
+   {
+    "quote": "NAT ( ナット ) on X NAT ( ナット ) on X X https://x.com > @nat0468",
+    "url": "https://x.com/nat0468/status/2117459864528273530",
+    "pass": 3
+   },
+   {
+    "quote": "Nat . (@nat_latework) / X Nat . (@nat_latework) / X X https://x.com > nat_latework",
+    "url": "https://x.com/nat_latework",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Palo Alto Networks - Network Address Translation ( NAT ) Part ... Palo Alto Networks - Network Address Translation ( NAT ) Part ... LinkedIn https://www.linkedin.com > pulse > p...",
+    "url": "https://www.linkedin.com/pulse/palo-alto-networks-network-address-translation-nat-part-rivai",
+    "pass": 3
+   },
+   {
+    "quote": "The Main Types of Network Address Translation ( NAT ) are: The Main Types of Network Address Translation ( NAT ) are: LinkedIn https://www.linkedin.com > pulse > m...",
+    "url": "https://www.linkedin.com/pulse/main-types-network-address-translation-nat-hector-cardenas-ncbfc",
+    "pass": 3
+   },
+   {
+    "quote": "How NAT (Network Address Translation) works | Dan Nanni How NAT (Network Address Translation) works | Dan Nanni LinkedIn https://www.linkedin.com > posts > x...",
+    "url": "https://www.linkedin.com/posts/xmodulo_how-nat-network-address-translation-works-activity-7374412469731074048-bjsr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "How to set nat type to open? - Facebook How to set nat type to open? - Facebook Facebook https://www.facebook.com > groups > starlinkrv > posts",
+    "url": "https://www.facebook.com/groups/starlinkrv/posts/1206711950864707/",
+    "pass": 3
+   },
+   {
+    "quote": "Is NAT type 2 sufficient ? Just about to change with my provider Is NAT type 2 sufficient ? Just about to change with my provider Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1592920787750818/posts/2675889472787272/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Network Address Translation ( NAT ) and how does it ... What is Network Address Translation ( NAT ) and how does it ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/435258026591146/posts/25987401157616815/",
+    "pass": 3
+   },
+   {
+    "quote": "Troubleshooting NAT type issue for online gaming? - Facebook Troubleshooting NAT type issue for online gaming? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1675594809369195/posts/4086300018298650/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.natincs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.natincs.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.natincs.com/event/seminar-vectorworks-design/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nat-web.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/425429/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nat-web.com/business-content/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10193869576/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-41895",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infrastructure-engineer.com/nat-explanation-001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baremetal.jp/blog/2023/09/08/1298/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nat-web.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/natfriedman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/__nmca__/status/2102460995381969365",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/natwithaheart",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/natfriedman/status/2102103707936768130",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/palo-alto-networks-network-address-translation-nat-part-rivai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/main-types-network-address-translation-nat-hector-cardenas-ncbfc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/xmodulo_how-nat-network-address-translation-works-activity-7374412469731074048-bjsr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/starlinkrv/posts/1206711950864707/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1592920787750818/posts/2675889472787272/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/435258026591146/posts/25987401157616815/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1675594809369195/posts/4086300018298650/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/nat0468/status/2117459864528273530",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nat_latework",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "nat 会社概要 資本金 設立",
+   "results": [
+    "https://www.natincs.com/company/",
+    "https://nat-web.com/company/",
+    "https://tenshoku.mynavi.jp/company/425429/",
+    "https://herp.careers/careers/companies/nat2025",
+    "https://compalyze.co.jp/company/6050001004683",
+    "https://doda.jp/DodaFront/View/Company/j_id__10193869576/",
+    "https://initial.inc/companies/A-41895",
+    "https://mono.ipros.com/product/detail/2000699140/",
+    "https://prtimes.jp/main/html/rd/p/000000015.000046540.html",
+    "https://natcorp.jp/会社概要/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "nat 事業内容 売上",
+   "results": [
+    "https://nat-web.com/business-content/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10193869576/",
+    "https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b",
+    "https://www.natincs.com/company/",
+    "https://jobtalk.jp/companies/25564",
+    "https://tenshoku.mynavi.jp/company/425429/",
+    "https://sendaidehatarakitai.jp/company/company-7268",
+    "https://compalyze.co.jp/company/6050001004683",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=4120901046076",
+    "https://nat-web.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "nat 資金調達 株主",
+   "results": [
+    "https://www.natincs.com/news/pre-a-round/",
+    "https://initial.inc/companies/A-41895",
+    "https://prtimes.jp/main/html/rd/p/000000030.000046540.html",
+    "https://anobaka.jp/%E6%8A%95%E8%B3%87%E5%85%88/8915/",
+    "https://finance.protocol.ooo/equity/company/nat/",
+    "https://www.natincs.com/news/5%E5%84%84%E5%86%86%E3%81%AE%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BAa%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "https://nature.global/press/release/20904/",
+    "https://www.se-digital.net/pressrelease_260525_funding-series-a-1st-close/",
+    "https://www.preferred.jp/ja/news/pr20241223",
+    "https://www.natincs.com/news/5億円のシリーズaラウンド資金調達を実施/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "nat 導入事例",
+   "results": [
+    "https://www.natincs.com/category/%E4%BA%8B%E4%BE%8B/",
+    "https://infrastructure-engineer.com/nat-explanation-001/",
+    "https://baremetal.jp/blog/2023/09/08/1298/",
+    "https://www.hitachi-solutions.co.jp/juniperproducts/recommend/check/firewall-support.html",
+    "https://terakoya.sejuku.net/question/detail/55196",
+    "https://www.silex.jp/library/blog/20230728-1",
+    "https://www.1nce.com/ja-jp/resources/iot-knowledge-base/what-is-nat",
+    "https://biz.cresco-dt.co.jp/blog/c99"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "nat 主要取引先",
+   "results": [
+    "https://www.natincs.com/company/",
+    "https://nat-web.com/company/",
+    "https://www.r-agent.com/viewjob/jk559b793b61298de5/",
+    "https://www.reuters.com/jp/companies/nat",
+    "https://initial.inc/companies/A-41895",
+    "https://compalyze.co.jp/company/4120901046076",
+    "https://nat-web.com/business-content/",
+    "https://www.kurihalant.co.jp/company/client.html",
+    "https://jp.reuters.com/companies/NAT.N",
+    "https://www.sankyo-dnk.co.jp/syuyou.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com nat",
+   "results": [
+    "https://note.com/tmitz7654/n/nb4af2d5ab8ac?hl=en",
+    "https://note.com/noblehero0521/n/n5954c89852a6?hl=en",
+    "https://note.com/minato_kame/n/n1d9776e39f52?hl=en",
+    "https://note.com/macccoto_lab/n/n877fa1851cc9?hl=en",
+    "https://note.com/goodbye_cg/n/n310fac878218",
+    "https://note.com/cair_n/n/n930d8a520d6b",
+    "https://note.com/minato_kame/n/n9e0f53aa1289?hl=en",
+    "https://note.com/cair_n/n/nc7cc48af3734",
+    "https://note.com/minato_kame/n/na06f517941f9?hl=en",
+    "https://note.com/hanaviye/n/n3db32cb44200?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com nat",
+   "results": [
+    "https://x.com/natfriedman",
+    "https://x.com/__nmca__/status/2102460995381969365",
+    "https://x.com/natwithaheart",
+    "https://x.com/natfriedman/status/2102103707936768130",
+    "https://x.com/natmiletic",
+    "https://x.com/natandalex",
+    "https://x.com/artbooksNat",
+    "https://x.com/nateliason",
+    "https://x.com/TheSunVanished",
+    "https://x.com/NatPurser"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com nat",
+   "results": [
+    "https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7264682204692201472-mXmS",
+    "https://www.linkedin.com/pulse/palo-alto-networks-network-address-translation-nat-part-rivai",
+    "https://www.linkedin.com/pulse/main-types-network-address-translation-nat-hector-cardenas-ncbfc",
+    "https://www.linkedin.com/posts/xmodulo_how-nat-network-address-translation-works-activity-7374412469731074048-bjsr",
+    "https://www.linkedin.com/in/nathanielberman",
+    "https://www.linkedin.com/in/nat-harrison",
+    "https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7423063051337232384--FOv",
+    "https://www.linkedin.com/learning/windows-server-2019-remote-access-solutions/implementing-nat-on-windows-routing-and-remote-access-role",
+    "https://www.linkedin.com/pulse/nat-explained-like-never-before-what-how-works-types-chakraborty-uknbc",
+    "https://www.linkedin.com/pulse/how-nat-works-simple-guide-network-address-translation-serveravatar-p3z4f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com nat",
+   "results": [
+    "https://www.facebook.com/groups/starlinkrv/posts/1206711950864707/",
+    "https://www.facebook.com/groups/1592920787750818/posts/2675889472787272/",
+    "https://www.facebook.com/groups/435258026591146/posts/25987401157616815/",
+    "https://www.facebook.com/groups/1675594809369195/posts/4086300018298650/",
+    "https://www.facebook.com/groups/177859700191023/posts/1057539505556367/",
+    "https://www.facebook.com/groups/1073126727485389/posts/1697509335047122/",
+    "https://www.facebook.com/groups/1675594809369195/posts/4285050208423629/",
+    "https://www.facebook.com/thenatroute66/",
+    "https://www.facebook.com/Networksbaseline/videos/nat-basics/1517041332763660/",
+    "https://www.facebook.com/NATwczasy/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "nat note 社長",
+   "results": [
+    "https://thenatnote.com/",
+    "https://mestizanewyork.com/blogs/the-mestiza-blog/meet-natalie-steen-founder-of-the-nat-note?srsltid=AYCX9vLovx5pyZrYAMa9D_ttPNJnWnZZGtNcjPukqXlb6hJ8_xBn8i8d",
+    "https://www.fenimorelane.com/fenimore-lane/talk-shop-natalie-steen",
+    "https://note.com/nat_2026grhr/n/n25d36d3a8fc7",
+    "https://www.facebook.com/thenatnote/",
+    "https://note.com/nat_2026grhr/n/n362a3b3d1c1d",
+    "https://thenatnote.com/nathosts",
+    "https://www.natsnotes.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "nat X 投稿",
+   "results": [
+    "https://x.com/nat0468/status/2117459864528273530",
+    "https://www.nature.com/ncomms/submit",
+    "https://snlarchives.net/Characters/?Chris_Rock_as_Nat_X",
+    "https://x.com/nat_latework",
+    "https://www.instagram.com/nat.x.stitches/",
+    "https://techdocs.broadcom.com/us/en/vmware-cis/nsx/vmware-nsx/4-2/administration-guide/network-address-translation.html",
+    "https://www.reddit.com/r/xbox/comments/15yvmhl/how_do_i_fix_my_nat_type/?tl=ja",
+    "https://lumberjackwizard.com/2024/01/08/nat-in-nsx-introduction/",
+    "https://x.com/0xNTTheshy/status/2110563775225180278",
+    "https://x.com/nat0468/status/2117446967383273731"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）"
+ }
+}

@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・300品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・303品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -6088,7 +6088,7 @@
   - 「Example use case: Identifying potential fraud cases where missing a fraudulent transaction is worse than flagging a legitimate one for review」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Example use case: Automated merging of patient medical records where incorrect matches could cause serious problems」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
   - 「Using our previous example: With precision = 89% and recall = 80%:」（https://tilores.io/content/precision-and-recall-in-entity-identity-resolution/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
 
 ## 情報源の伝達の段数と主観の分解（前提・事実・推論・評価）（source hops chain of custody intelligence information decomposition assumptions facts inferences）
 - 文脈：出どころ
@@ -8220,6 +8220,10 @@
   - 「Kirkham JJ, Dwan KM, Altman DG, Gamble C, Dodd S, Smyth R, Williamson PR. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ. 2010.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「バイアスを最小限に抑えるよう，頑健かつ再現性が」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
 - 実例：
+  - 「ナラティブレビューとシステマティックレビューの違い｜選び方・報告ガイドライン・実例」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「交絡因子とは｜調整の方法と論文・査読での書き方【R実例つき】」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「交絡因子（confounder）とは、曝露（要因）とアウトカム（結果）の両方に関連し、その結果、曝露とアウトカ…」（https://japan.editverse.com/rayyan-screening-guide/）
+  - 「論文の方法（Methods）の役割は、読者が「どのように、なぜその方法で研究が行われたか」を理解し、結果を判断…」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「同論文は、指針の作成グループらが検討の背景や作成の過程、指針の内容、準拠事例などを解説する内容です」（https://current.ndl.go.jp/car/43342）
   - 「文献検索手順を記録するための指針として、検索対象としたデータベース名・臨床試験登録レジストリ・オンライン情報源等に関わる「情報源・方法」、検索式・制約や限界・検索フィルター・先行研究の手法の活用状況・検索の実施日等に関わる「検索手段」、検索プロセスの「ピアレビュー」、検索結果の合計レコード数・複数の情報源を用いた場合の重複処理に関わる「検索結果の管理」の4セクション・16項目のチェックリストで構成されています」（https://current.ndl.go.jp/car/43342）
   - 「全国学校図書館協議会（全国SLA）、「第71回学校読書調査（2026年）」の結果を公表」（https://current.ndl.go.jp/car/43342）
@@ -8231,10 +8235,6 @@
   - 「回帰分析の種類と選び方｜結果変数で決めるモデル選択と論文記載例」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「回帰分析のモデルは、ソフトウェアのメニューではなく、測定した結果変数（アウトカム）の型で選びます」（https://japan.editverse.com/rayyan-screening-guide/）
   - 「Search Strategy Example」（https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting）
-  - 「Here is a simplified example of a documented search for a systematic review on mindfulness-based interventions for anxiety disorders:」（https://prismaflowdiagramgenerator.com/blog/prisma-s-search-reporting）
-  - 「PRISMA-S emerged from health information practice, and its examples are clinical, but its design scope is explicit: the checklist was built」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
-  - 「A type of database or database function that enables searchers to analyze relationships between publications through citations, including what publications have cited, and which publications are citing the publication(s) you are interested in. Common examples include Science Citation Index, Scopus, and Google Scholar.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
-  - 「Within PRISMA-S, this refers to a literature database designed to search journal literature. Databases may be multidisciplinary or specialized. Many include specialized search features, subject headings, and structured data designed to facilitate easy and comprehensive searching. Examples include MEDLINE, EconLit, and PsycInfo.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
 
 ## OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）（osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration）
 - 文脈：一次情報の探し方
@@ -15351,11 +15351,15 @@
 
 ## 数字の誤りの元の分類と訂正の調査（聞き違い・出どころの誤り・意図的な誇張・計算の誤り・他媒体の写し・Craig Silverman・Regret the Error・新聞の訂正の研究・4-118）（Craig Silverman Regret the Error numerical errors causes newspaper corrections study）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「How to Request a Correction 326」（https://external.dandelon.com/download/attachments/dandelon/ids/CH0016A01D7C2B59E7BBEC1257CE100494840.pdf）
+- 失敗・落とし穴：
+  - 「How Media Mistakes Pollute the Press」（https://external.dandelon.com/download/attachments/dandelon/ids/CH0016A01D7C2B59E7BBEC1257CE100494840.pdf）
+  - 「Chapter 8 Mistakes and the Mistaken 186」（https://external.dandelon.com/download/attachments/dandelon/ids/CH0016A01D7C2B59E7BBEC1257CE100494840.pdf）
+  - 「Updates and Mistakes 317」（https://external.dandelon.com/download/attachments/dandelon/ids/CH0016A01D7C2B59E7BBEC1257CE100494840.pdf）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## 登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）（verifying registered address virtual office PO box satellite imagery company OSINT）
 - 文脈：推定
@@ -16815,6 +16819,155 @@
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務（entity resolution survivorship rules golden record blocking practical guide）
+- 文脈：手順・やり方
+- 手順・やり方：
+  - 「データガバナンス側は「方針を作って終わり」ではなく、データマネジメント側とすり合わせしながら、方針に準拠した具体的な運用フロー（簡単な手順書や申請フォーム）の作成まで踏み込むこと」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「データ抽出の依頼手順が決まっており、特定のIT担当者が対応している」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「DMOの役割をどこに実装するかには、次の2つの進め方がある」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「したがって、データ基盤の構築や保守は既存情シスが担い、データ活用の推進や利害調整は専任のDMOが担うという役割分担が、確実な方法である」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「クラウド型データ基盤の費用は、利用量（クエリ量やデータ保存量）に応じて変動する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「データ分類はアクセス可能範囲の制御には有効だが、使用方法に関する制約を表現できない」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「そのため、使用方法に関する制約には、データ分類とは別軸のフラグをメタデータとして付与することを推奨する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「特定を防ぐ最も確実な方法は「最初から持たないこと」である」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「物理名, 型, 制約, 最終更新日 など」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「「物理名」「論理名」「型」「PK」「外部キー」「NOT NULL」「パーティションキー」など」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「二次利用側のパイプラインを停止させる可能性がある破壊的変更（カラムの追加・削除、型変更、マスタコードの体系変更など）を加える際は、原則〇ヶ月前までに事前通知する義務を負う」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「ステップ2を継続的に適用することで、業務上必要なレベルのマスタ統制は十分に達成される」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「中央集権から分散型の統制へ変化させ、中央組織のボトルネックを解消すること」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「practical Entity Resolution / Deduplication framework on Databricks」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
+  - 「show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.」（https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885）
+- 突き合わせ・推定：
+  - 「競合よりも早く、より多くの仮説検証を試行することで、成功率を高められる」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「例（1）複数部門間での「データ連携ニーズ」と「定義の矛盾」が発生した時」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「他と照合されることで強力な間接識別子となる空間情報」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「データの民主化を進めるためには、利用者の想像力を刺激するショーケース的な呼び水が必要だという仮説がある」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「この仮説に立つと、企業のバリューチェインの根幹を成す主要なトランザクションや全社共通マスタに限り、明確な分析ユースケースが顕在化していなくても経営・DMO主導で例外的に連携を考えたい場面が多い」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「したがって、「データ基盤におけるマスタデータ生成の是非」節と矛盾しない」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「データカタログに登録されているオーナー・スチュワードのメールアドレスと、最新の人事マスタを定期的に突き合わせるスクリプトをDMO側で用意する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「AIモデルの特性に合わせたデータ連携仕様の評価と、新モデルへの切り替えに伴うデータ検証」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「Most organizations underestimate how much time survivorship rule design requires. Before building any technical infrastructure, invest time in understanding which source systems are most reliable for each data attribute. That knowledge is the foundation everything else is built on.」（https://www.latentview.com/blog/mdm-golden-record/）
+- 一次情報の探し方：
+  - 「: 顧客から預かったデータや、特定の目的で契約・購入した外部データ（SaaSの統計情報や外部調査データなど）を、元の契約範囲を超えて二次利用したり、別プロジェクトに流用したりすることを禁止する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「: 分析目的であっても、個人を特定できる情報（氏名、詳細な住所等）をそのまま扱うことは原則禁止とし、適切なマスキングや統計化処理を必須とする」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「非構造化データ（テキスト文書、メール、議事録、PDF等）は、個人情報がテキスト中の任意の箇所に出現し得るため、同じアプローチでは対応できない」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「顧客から受領したPDFをデータ基盤に連携したい」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「ガバナンスチーム自らが、カタログの利用ログやメタデータの統計情報を集計し、それを元にアクションを提示することで、データ駆動組織としてあるべき背中を見せる必要がある」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「カタログの利用ログやメタデータの統計情報を集計し、ダッシュボード化して公開する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「このタイムラグがビジネス上許容できるかを事前に定義し、リアルタイム性が不可欠な場合は、データ基盤を経由しない「基幹系同士の直接連携」を採用する方針とする」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「3の帰結として、具体的な技術トレンド（データメッシュアーキテクチャ）を採用する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「Before writing survivorship rules or configuring matching logic, conduct a thorough data profiling exercise across all source systems. Understand the actual quality, completeness, and reliability of each field in each system. Rules designed without this knowledge are guesses. Rules designed with it are grounded in evidence.」（https://www.latentview.com/blog/mdm-golden-record/）
+- 失敗・落とし穴：
+  - 「: 何がダメかだけではなく、どうすれば安全に使えるかの道筋を示す」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「各国の商習慣や法規制（GDPR等）が異なるため、ローカルの取引データまでグローバルで統一しようとすると失敗しやすい」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「運用にあたっての、推奨や注意点は以下の通り」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「データカタログの「最終更新日」という表記には注意が必要である」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「高機能なツールは運用に乗せるまでの設定が重く、立ち上げ期にはオーバースペックとなり「導入しただけで使われない」失敗に陥りやすい」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「テストに失敗した場合は、不完全なデータを下流のダッシュボードへ連携させないようパイプラインを自動停止させ、品質低下を未然に防ぐ」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「トレンドに振り回されないように注意すること」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「事実の正しさに加え、データのバイアスの監視や、AIが処理しやすいデータ分布・形式への変換精度の担保」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「生成AIサービスの利用に関する注意喚起（個人情報保護委員会）」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「AIの回答精度やバイアスを定期モニタリングし、源泉データの不備をカタログへフィードバックする」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+- 実例：
+  - 「ガバナンスチームが方針だけを提示し、具体的な運用を現場（各事業部など）に一任した場合、現場の実態と合わず「ルールが無視される」か「対応優先度を極端に下げられる」結果に終わる」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「なぜなら、初期段階では具体的なユースケースが不明確であり、正確なリスク評価ができないためである」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「結果として理想的に作られたルールは、実態と乖離が大きくなり利活用の停滞やルールの形骸化を招いてしまう」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「リスクを潰そうと守りばかりを強化した結果、現場がデータにアクセスするまでに何重もの承認が必要となり、面倒だと思われてフェードアウト」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「その下に具体的な法律（運用ルールやマニュアル）があり、日々の業務における判例（ユースケースやFAQ）が積み重なっていく、という階層構造をイメージすると良い」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「⚖️ 【判例】個別ユースケース・適用例・FAQ」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「先行企業の事例：三菱電機グループの「データ活用宣言」」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「優れた先行事例として、三菱電機グループが制定している「」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「現場から上がる具体的なユースケース（要望・要求）に都度応えながら、実務を阻害しない範囲で「安全と再利用性のためのルール」を組み込んでいく」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「「すべてのデータを統制する」という幻想を捨て、ガバナンスの適用範囲は摩擦の少ない領域で成功体験（ショーケース）を作ることから始める」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「また、結果としてデータのアクセス数、BIダッシュボードがどれくらい増えたかが重要である」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「例えば「データ健全性はレベル3を維持しつつ、データアクセシビリティとビジネス価値創出をレベル4へ引き上げる」といった目標設定が、競争優位性を生む近道とされる」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「立ち上げ期: 特定事業部のユースケース主導」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「ガバナンスを緩めに設定し、特定のユースケース実現に直結するデータ整備のみに集中する」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+  - 「成功事例を横展開するタイミングで、全社共通のルールをコーポレート主導で敷いていく」（https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html）
+
+## 統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外）（statistical revisions analysis mean revision mean absolute revision revision policy methodological change exclusion）
+- 文脈：突き合わせ・推定
+- 手順・やり方：
+  - 「Google検索「Preferred Sources（優先ソース）」設定方法」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「※設定済みの方はステップ２でチェックがついています」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「1－3．指数の計算方法 .................................................... 27」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2－4．指数の計算方法 .................................................... 28」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2．公表方法 .................................................................... 32」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2．調査事項と調査方法 .......................................................... 36」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「5．価格調査方法の種類 .......................................................... 42」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「5－4．料率型調査 ........................................................ 48」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「6．報告者負担軽減を企図した調査先調査以外の方法による価格調査 .................. 55」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「1－2．品質調整時の指数の計算方法 ........................................ 65」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2．品質調整方法 ................................................................ 67」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「3．品質調整方法の選択手順 ...................................................... 72」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「3－1．欠測価格の補完方法 ................................................ 80」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「・①銘柄指定調査、②平均価格調査、③モデル価格調査、④料率型調査、⑤労働時」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+- 突き合わせ・推定：
+  - 「成長率への影響は限定的だが、実質GDP成長率は小幅に上方改定され、それに伴い内閣府が推計する潜在成長率も0.2～0.3％程度引き上げられた」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「2－1．小類別の企業間取引額の推計 ........................................ 22」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2－2．各サービスの企業間取引額の推計 .................................... 23」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「BOX 3．指数の改訂幅（2015年基準での検証） ..................................... 83」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「の推計が可能であり、かつ、②品質一定の下で継続的な価格調査が可能であるサービ」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「②（品目レベルの詳細な区分での）各サービスの企業間取引額の推計」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2－1．小類別の企業間取引額の推計」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「まず、 小類別毎の企業間取引額を推計する」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「このため、国内取引額を別途推計し、加算している」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「＜サードパーティーロジスティクスにおける取引額推計＞」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「2－2．各サービスの企業間取引額の推計」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「用商品および非採用商品）の企業間取引額を推計する」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「る内訳サービス（品目）毎に、企業向けサービス生産額（売上高）を推計している33」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「企業の決算データなど代替的なデータを用いて、品目別の企業間取引額を推計してい」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「指数から、非公表品目の指数が逆算できないようにするための措置である」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+- 一次情報の探し方：
+  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する |ニッセイ基礎研究所」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する | ニッセイ基礎研究所」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「GDP統計（国民経済計算）は2025年12月に基準改定（2015年基準→2020年基準）が実施され、2024年度の名目GDPは26.9兆円（GDP比4.4％）上方改定された」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「・ 2018年～ 統計委員会専門委員」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「【ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する】【シンクタンク】ニッセイ基礎研究所は、保険・年金・社会保障、経済・金融・不動産、暮らし・高齢社会、経営・ビジネスなどの各専門領域の研究員を抱え、様々な情報提供を行っています」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検するのレポート Topへ」（https://www.nli-research.co.jp/report/detail/id=84399?site=nli）
+  - 「第 5章 採用品目 ....................................................... 16」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「3．採用品目数 .................................................................. 18」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「5．採用商品カバレッジ .......................................................... 18」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「5－1．採用商品と採用商品カバレッジ ...................................... 18」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「5－2．採用商品カバレッジと指数精度 ...................................... 19」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「6－1．外部データの採用 .................................................. 55」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「BOX 2．報告者負担軽減と指数精度向上を両立したオルタナティブ・データの採用 ...... 58」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「間当たり単価調査、⑥マージン調査等を採用」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+- 失敗・落とし穴：
+  - 「一方、労働生産性が安定していなければ、物価指数にバイアスをもたらすと」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「・労働生産性が変化した場合、次のように指数にバイアスが発生するため、 「労働時間当」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま」（https://nira.or.jp/paper/report0810.pdf）
+  - 「で、時系列的に連続させるには注意が必要である」（https://nira.or.jp/paper/report0810.pdf）
+  - 「これら低回収率がもたらすバイアスならびにその補正については」（https://nira.or.jp/paper/report0810.pdf）
+  - 「correcting for unit nonresponse bias in surveys," Journal of Econometrics, vol. 136(1), pages」（https://nira.or.jp/paper/report0810.pdf）
+  - 「or understate ‘final’ estimates, that is, whether they are biased.」（https://www.rba.gov.au/publications/bulletin/2013/mar/2.html）
+- 実例：
+  - 「2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「例えば、輸入貨物の輸」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「例えば、ある卸売業者が、衣服と飲食料品など複数の種類の商品を扱って」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「例えば、金融・」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「この結果、『産業連関表』の企業間取引額には広告料収入が二重計上されているため、「新」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「これは、例えば、2015～2019 年の「総平均」の接続指数は、2015年」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「以下のようなケースにおいては、品目指数を非公表としている41」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「上記①のケースでは、当該品目の価格データが存在しないため、品目指数の算出自」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「②のケースでは、非公表とする品目についても指数は計算可能であり、当該品目の」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「※例えば、月次指数の 7月速報公表時は、4月から 6月までが訂正の対象」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「43 例えば、類別 「不動産賃貸」 では、 不動産を借りる側の企業から賃料を調査するケースがある」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「例えば、属性条件として 「サービス種類 （3種類） 」」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「にサービスの品質が大きく異なる）ケースでは、 「銘柄指定調査」や「平均価格調査」」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「例えば、労働生産性（労働投入1 単位当たりのアウトプット）が上」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+  - 「値決めが労働時間当たり単価をベースに行われる事例が多い「建物サービス・警備」」（https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf）
+
+## 非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）（private company revenue reported vs estimated discrepancy group-wide headcount observation date benchmark industry）
+- 文脈：推定
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）

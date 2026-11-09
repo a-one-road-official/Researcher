@@ -1,0 +1,526 @@
+{
+ "name": "Axtra3D — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T13:55:21.174274+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - Revolutionising mold inserts with Axtra3D’s ... Jun 19, 2024 · Revolutionising mold inserts with Axtra3D’s Lumia X1 and BASF Forward AM’s Ultracur3D RG3280 material! Leveraging Hybrid PhotoSynthesis and TruLayer...",
+    "url": "https://www.facebook.com/VoxelMatters/posts/revolutionising-mold-inserts-with-axtra3ds-lumia-x1-and-basf-forward-ams-ultracu/977777041020011/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - Axtra3D is taking another next step ahead... Axtra3D is taking another next step ahead by appointing 3D printing veterans Greg Elfering, Andreas Tulaj and Steffen Reinfurth to its revenue and growth team, as well as entering the Japanese market.",
+    "url": "https://www.facebook.com/VoxelMatters/posts/axtra3d-is-taking-another-next-step-ahead-by-appointing-3d-printing-veterans-gre/953034840160898/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/axtra3d-names-dynamism-as-north-american-reseller-in-channel-push/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axtra3d.com/press-media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/axtra3d-fully-integrates-workflow-hps-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/axtra3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://axtra3d.com/articles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nota3d-chosen-as-full-access-demo-reseller-for-axtra3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/axtra3d-validates-keystones-keysplint-hard-clear-on-the-lumia-x1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axtra3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2405/31/news006.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axtra3d.com/axtra3d-announces-the-next-phase-of-its-global-revenue-and-growth-team-along-with-its-entry-into-the-japanese-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/axtra3d-expands-north-america-market-offer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=wiQiW6wt9Lw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://axtra3d.com/axtra3d-announces-the-next-phase-of-its-global-revenue-and-growth-team-along-with-its-entry-into-the-japanese-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/axtra3d-names-dynamism-as-north-american-reseller-in-channel-push/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=wiQiW6wt9Lw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%A8%E3%82%BE%E3%83%9C%E3%83%AA%E3%83%83%E3%82%AF-%E3%81%8B%E3%81%BC%E3%81%99%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E5%91%B3-%E3%83%9B%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3-%E3%83%97%E3%83%AD%E3%83%86%E3%82%A4%E3%83%B3%E5%B0%82%E9%96%80%E5%BA%97-EZOBOLIC/dp/B0FPD2LRKY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/foveitaa-%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA/dp/B0HDT3JXGV",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E8%B3%BC%E5%85%A5%E5%B1%A5%E6%AD%B4-%E7%A2%BA%E8%AA%8D-amazon%E6%B3%A8%E6%96%87%E5%B1%A5%E6%AD%B4/s?k=%E8%B3%BC%E5%85%A5%E5%B1%A5%E6%AD%B4+%E7%A2%BA%E8%AA%8D+amazon%E6%B3%A8%E6%96%87%E5%B1%A5%E6%AD%B4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Atzone-Ginza-USB%E3%83%9D%E3%83%BC%E3%83%88%E4%BB%98%E3%81%8D-%E9%9D%99%E9%9F%B3%E3%83%80%E3%83%96%E3%83%AB%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC-TSA%E3%83%AD%E3%83%83%E3%82%AF%E6%90%AD%E8%BC%89/dp/B0HMCDGH5W",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%AD%E3%82%AC%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E6%A3%9A%E7%94%A8+%E3%83%8D%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://axtra3d.com/axtra3d-achieves-record-breaking-quarter-demonstrating-strong-growth-and-business-stability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/axtra3d-expands-north-america-market-offer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Axtra3D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/axtra3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/revolutionising-mold-inserts-with-axtra3ds-lumia-x1-and-basf-forward-ams-ultracu/977777041020011/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/axtra3d-is-taking-another-next-step-ahead-by-appointing-3d-printing-veterans-gre/953034840160898/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Axtra3D — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/axtra3d-names-dynamism-as-north-american-reseller-in-channel-push/",
+    "https://axtra3d.com/press-media/",
+    "https://www.voxelmatters.com/axtra3d-fully-integrates-workflow-hps-3d-printing/",
+    "https://www.linkedin.com/company/axtra3d",
+    "https://www.voxelmatters.directory/",
+    "https://nota3d.com/axtra3d/",
+    "https://www.addmangroup.com/advancing-micro-3d-printing-with-axtra3ds-lumia-x1-at-dinsmore/",
+    "https://www.3dmaquinser.com/en/maquinser-y-axtra3d/",
+    "https://3dprintingindustry.com/news/axtra3d-announces-new-materials-and-industry-alliances-234679/",
+    "https://axtra3d.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Axtra3D — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://axtra3d.com/articles/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.voxelmatters.com/nota3d-chosen-as-full-access-demo-reseller-for-axtra3d/",
+    "https://www.voxelmatters.com/axtra3d-validates-keystones-keysplint-hard-clear-on-the-lumia-x1/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://axtra3d.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Axtra3D — VoxelMatters 日本 販売",
+   "results": [
+    "https://axtra3d.com/",
+    "https://monoist.itmedia.co.jp/mn/articles/2405/31/news006.html",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.rakunew.com/items/88762",
+    "https://ja.aliexpress.com/item/1005008866748262.html",
+    "https://www.youtube.com/watch?v=JDVFr_Q90OA",
+    "https://s.nanolab.jp/",
+    "https://www.youtube.com/watch?v=JGyWEE4Cgo4",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Axtra3D — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.poly-maker.jp/",
+    "https://skhonpo.com/collections/filament",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vIe1nUL5748X2lJFpCeJcNO0J-UG1ZTO6V9U-7U5b_1PEUzZNiX",
+    "https://www.askul.co.jp/l/02/0205/",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vKCXn1GIvuc6-Z4is2j3uJWaYUSxUSG6KTNm0sF4aID8hv1ATxv",
+    "https://shop.exmatelab.com/",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Axtra3D — VoxelMatters Japan distributor",
+   "results": [
+    "https://axtra3d.com/axtra3d-announces-the-next-phase-of-its-global-revenue-and-growth-team-along-with-its-entry-into-the-japanese-market/",
+    "https://www.voxelmatters.com/axtra3d-expands-north-america-market-offer/",
+    "https://www.youtube.com/watch?v=wiQiW6wt9Lw",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.linkedin.com/company/axtra3d",
+    "https://www.voxelmatters.com/axtra3d-fully-integrates-workflow-hps-3d-printing/",
+    "https://www.tctmagazine.com/axtra3d-guide/",
+    "https://www.3dmaquinser.com/en/maquinser-y-axtra3d/",
+    "https://www.facebook.com/3dPrintingIndustry/posts/axtra3d-expands-north-american-portfolio-with-elastomer-materials-and-axtraworkf/1347699070723675/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Axtra3D — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://axtra3d.com/axtra3d-announces-the-next-phase-of-its-global-revenue-and-growth-team-along-with-its-entry-into-the-japanese-market/",
+    "https://www.voxelmatters.com/axtra3d-names-dynamism-as-north-american-reseller-in-channel-push/",
+    "https://www.youtube.com/watch?v=wiQiW6wt9Lw",
+    "https://www.voxelmatters.directory/",
+    "https://www.linkedin.com/company/axtra3d",
+    "https://nota3d.com/axtra3d/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.tctmagazine.com/axtra3d-guide/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-axtra3d-added-two-functional-3d-systems-corporation-ma/918512790315515/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Axtra3D — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/エゾボリック-かぼすオレンジ味-ホエイプロテイン-プロテイン専門店-EZOBOLIC/dp/B0FPD2LRKY",
+    "https://www.amazon.co.jp/foveitaa-ジャケット-レディース-大きいサイズ/dp/B0HDT3JXGV",
+    "https://www.amazon.co.jp/購入履歴-確認-amazon注文履歴/s?k=購入履歴+確認+amazon注文履歴",
+    "https://www.amazon.co.jp/Atzone-Ginza-USBポート付き-静音ダブルキャスター-TSAロック搭載/dp/B0HMCDGH5W",
+    "https://www.amazon.co.jp/STAR-マンダロリアンとグローグー-いっぱい貼れる！-マルチなふせんセット-宝島社ブランドムック/dp/4299083547",
+    "https://www.amazon.co.jp/出口夏希2nd写真集『タイトル未定』-出口-夏希/dp/4344046854",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Axtra3D — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/データロガー/",
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/棚用+ネームプレート/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/g/04188176/",
+    "https://www.monotaro.com/g/01447493/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axtra3D — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://axtra3d.com/axtra3d-achieves-record-breaking-quarter-demonstrating-strong-growth-and-business-stability/",
+    "https://www.voxelmatters.com/axtra3d-expands-north-america-market-offer/",
+    "https://growjo.com/company/Axtra3D",
+    "https://www.linkedin.com/company/axtra3d",
+    "https://pitchbook.com/profiles/company/483566-23",
+    "https://axtra3d.com/axtra3d-announces-the-next-phase-of-its-global-revenue-and-growth-team-along-with-its-entry-into-the-japanese-market/",
+    "https://fineeng.eu/driving-industrial-innovation-how-do-axtra3ds-solutions-create-real-impact-for-customers/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/database/",
+    "https://compworth.com/company/axtra3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Axtra3D — VoxelMatters",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/npaka/n/nde5589d13536?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/natty_toucan386/n/n77decdd6e10f",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Axtra3D — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Axtra_3D",
+    "https://x.com/3DPrint_com/status/2064066548910711179",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/3DPrint_com/status/2098161397507014745",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Axtra3D — VoxelMatters",
+   "results": [
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/axtra3d_revolutionizing-mold-inserts-with-axtra3ds-activity-7208454005641887744-xu-R",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://www.linkedin.com/posts/anson-ma-b4134b25_development-of-a-vibration-assisted-direct-activity-7466094710365802499-U8ga",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://nl.linkedin.com/in/marion-timmermans-413b922",
+    "https://it.linkedin.com/in/federico-iacovella-bbabb39",
+    "https://de.linkedin.com/in/dr-hans-j-langer-976873421",
+    "https://www.linkedin.com/company/axtra3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Axtra3D — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/nota3d/",
+    "https://www.facebook.com/VoxelMatters/posts/revolutionising-mold-inserts-with-axtra3ds-lumia-x1-and-basf-forward-ams-ultracu/977777041020011/",
+    "https://www.facebook.com/VoxelMatters/posts/axtra3d-is-taking-another-next-step-ahead-by-appointing-3d-printing-veterans-gre/953034840160898/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/VoxelMatters/posts/3d-printing-in-education-is-the-future-singapore-launches-new-program-for-3d-pri/959918167513642/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/videos/not-every-opening-gets-an-electric-unicycle-entrance-this-one-didvoxelmatters-tr/4418310308426998/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Axtra3D — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/revolutionizing-mold-inserts-with-axtra3ds-lumia-x1-and-basf-forward-ams-ultracur3d-rg3280-material/",
+    "https://axtra3d.com/axtra-3d-about-us/",
+    "https://www.voxelmatters.com/axtra3d-hybrid-photosynthesis-scale-speed-resolution/",
+    "https://www.voxelmatters.report/",
+    "https://axtra3d.com/",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://fineeng.eu/driving-industrial-innovation-how-do-axtra3ds-solutions-create-real-impact-for-customers/",
+    "https://note.com/super_lupine5235/n/n429b10630349",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Axtra3D — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/axtra3d-hybrid-photosynthesis-scale-speed-resolution/",
+    "https://axtra3d.com/press-media/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/axtra3d-taking-silicone-am-into-production/",
+    "https://www.youtube.com/watch?v=-sWs72dQ8eo",
+    "https://www.tctmagazine.com/axtra3d-guide/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://3dprint.com/311422/axtra3d-revolutionizes-am-with-no-tradeoffs-photopolymerization-solutions-and-technologies/",
+    "https://axtra3d.com/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

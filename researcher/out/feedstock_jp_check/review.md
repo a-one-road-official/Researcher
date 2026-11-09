@@ -15,3 +15,13 @@
 ## Wuxi Ubest New Materials Technology（https://www.wxubest.com）
 - 「It meets food safety standards in the U. S., Europe, and Japan, and is increasingly replacing traditional materials like paper, glass, and metal.」（https://www.made-in-china.com/showroom/ubest-resin/）
 - 「Japan, and Southeast Asia.」（https://img03.71360.com/w3/q1z3gm/20250630/65fc345e89a7e8517de6cc33923cd740.pdf?dl=1&dlf=UBEST+PETG+LMPET+TDS.pdf）
+
+## Additive Manufacturing Systems（https://bit.ly/3zUkyBr）
+- 「Since the acquisition, Nikon has expanded SLM’s manufacturing and support capabilities, including U.S.-based production of NXG systems and new technology centers in California and Japan.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/）
+- 「U.S.; Canada; Mexico; Germany; UK; France; Spain; Italy; China; Japan; India; South Korea; Singapore; Australia; Brazil; KSA; UAE; South Africa」（https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market）
+
+## Inframotion 3D（https://bit.ly/3zUkyBr）
+- 「ZEN Global is a Kobe-based additive manufacturing technology partner and reseller, providing 3D printing solutions across polymer, composite, metal, and ceramic AM for manufacturing, medical, and research applications in Japan.」（https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/）
+
+## Jeol — VoxelMatters（https://bit.ly/3zUkyBr）
+- 「3-1-2 Musashino, Akishima, Tokyo, Japan」（https://www.voxelmatters.directory/company/jeol/）

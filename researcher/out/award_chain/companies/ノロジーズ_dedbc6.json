@@ -1,0 +1,1477 @@
+{
+ "name": "ノロジーズ",
+ "aliases": [],
+ "context": "東京都・資本金63030万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T14:04:27.818668+00:00",
+ "official_url": "https://technologies-group.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2014年8月5日",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：2014年8月5日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "6億3,030万円",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "630(百万円) \n                                            (2026/1現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "163人",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "14 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社　〒108-0072 東京都港区白金1-27-6 白金高輪ステーションビル9F",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "本社住所",
+    "value": "〒108-0072 東京都港区白金１－２７－６　白金高輪ステーションビル 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "クラウドサービスカスタマ",
+    "value": "AWS」",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者氏名",
+    "value": "良原　広樹",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "テクノロジーズグループが提供しているサービスをご紹介します",
+    "url": "https://technologies-group.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "登録範囲「派遣管理システム、及び、営業管理システムの",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで弊社は、様々な分野の製品開発に携わり、また同時に自社プロダクトも開発、運営してまいりましたが、創業時の私達の想いは一度もブレておりません",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS事業におきましては、弊社が開発＆運営する中小の派遣会社様に向けて展開しているシステム「jobs（ジョブス）」の販売事業を中心に行っており、他のシステムとは一風違ったサービスとして、多くの企業様に大変好評を頂いております",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "当システムは、派遣会社をサポートする多くの機能を搭載していることに加え、LINEとの連携したり、システムの使い方を学ぶ為の時間的猶予がないであろう中小の派遣会社様へのユーザビリティー（UI/UX）にも徹底的にこだわりました",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーラーテクノロジー事業（再生可能エネルギー事業）におきましては、ドローン（無人航空機）や３D（3次元）画像データ等の最先端技術を駆使し、太陽光発電設備の施工販売事業を行っております",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣シスステム「jobs」プロジェクト始動",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "人材派遣シスステム「jobs」本格リリース",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "シリコンウェーハの再生、販売",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体材料・パーツ、電子材料、電子機器部品等の販売",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体シリコンウェーハ製造の技術コンサルティング",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーズ【5248】の事業内容 - キタイシホン",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、「テクノロジーでより面白く、より便利な世の中を創造する」というビジョンのもと、映像ソフトウェア開発・AIといった技術領域や企業向けSaaS、太陽光発電設備の施工販売といったビジネス領域において、お客様にとって最大限の価値を創造できるようなサービスの提供に取り組んでおります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "人材派遣会社向け業務管理システム「jobs」の提供",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "産業用太陽光発電設備、家庭用太陽光発電設備の施工・販売・保守",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．当社は事業持株会社として、グループ全体の事業戦略策定・実行の他、子会社に対して経理、与信管理等の業務受託を含む経営管理業務を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．当社はSaaS事業及びITソリューション事業の資産運用システム「SAZANAMI SYSTEM」の提供を行っており、株式会社CotoriではITソリューション事業の受託開発サービス、株式会社エコ革及び合同会社小美玉パワー1号では再エネソリューション事業の太陽光発電設備の施工・販売・保守、株式会社マーシャルアーツテクノロジーズ及び株式会社ファンクラブテクノロジーズではスポーツDX事業の格闘技ビジネスにおける企画・興行・DX化を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "主に、①エンターテイメントに関連する映像ソフトウェア開発、②AI等のデジタル技術を利用したシステム・アプリケーション開発の領域における受託開発、及び③資産運用システムの販売を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本事業では、主として顧客企業又は一次請け企業との請負契約に基づき、成果物の対価として収益を得ております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "エンターテイメントに関連する映像ソフトウェア開発（遊技機向け）に関しましては、遊技機メーカー様等からの１次請けを中心に受託開発をしておりますが、他の開発会社を介した２次請けでの受託も行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、エンターテイメントに関連する映像ソフトウェア開発（遊技機向け）の顧客企業のリピート率（注１）は2026年１月末現在95.7％を達成しており、当社グループの安定的な収益獲得源となっております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．リピート率は、売上高に占めるリピート売上の割合であり、ITソリューション事業における受託開発のうち、過去に取引実績がある顧客企業に係る売上高により算定しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社開発の資産運用システム「SAZANAMI SYSTEM」を販売しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "売切り型の製品となるため、販売後のシステム更新等は行っておりません",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "企業経営オーナー等の富裕層を中心とした顧客向けに販売を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、上記のような技術を利用した受託開発を継続的に行うことで、その開発力を維持・向上させる他、PoCのような一過性の案件であったとしても、それが顧客接点を増やすことに繋がると考え、積極的に受注しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループでは、自社プロダクトとして、SaaS（※５）の開発・提供を行っており、当社が販売及びカスタマーサポート業務を、株式会社Cotoriが開発・保守・メンテナンス等の業務を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "売切り型ではなく、継続的なサービスの提供を前提としていることから、継続的に収益が積み上がっていくストック型のビジネスモデルであり、同時に新規契約数の増加により高い成長を目指せるビジネスモデルでもあります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "① 人材派遣会社向け業務管理システム「jobs」",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "中小の人材派遣会社向けに開発したクラウド型の業務管理システムで、人材派遣業務に関する業務全般を、同製品内で一元的に管理することができます",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "数多くの中小の人材派遣会社が業務効率化を図るために業務管理システムを導入する際に、既存のシステムは初期費用がかかり、月額利用料も数十万円程度であったり、利用者にとって使いづらい設計になっていたりすることが大きな負担になっておりました",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業にとってのソリューションツールとなるべく、価格は初期費用なし・月額３万円とし、また、LINEとの連携機能を除き定額で利用可能であり、利用制限がなく直感的に使えるUI/UX（※６）となるよう設計しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "「jobs」を導入することにより、人材派遣会社が派遣社員を管理する上で必要な「スタッフ情報管理」「仕事情報管理」「顧客情報管理」「マッチング」「勤怠報告」「経費精算」「給与計算」「請求書等の書類作成」等の様々な機能が掲載されており業務の効率化が期待できることになります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、直接販売する契約の他、代理店経由での上記月額利用料を収益としております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、月額利用料（毎月定額の基本料金及びチャット配信数等の利用量による従量課金）を収益としております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、資金調達の概要、創業からシリーズAまでの歩み、資金を組織体制へ活用する意味を、2025年3月の公式発表に沿ってご紹介します",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "ごうぎん Skyland Next 1号投資事業有限責任組合は株式会社山陰合同銀行とSkyland Venturesによる共同運営、KCAPベンチャー1号投資事業有限責任組合は京都キャピタルパートナーズ株式会社による運営です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "公式発表によると、ドライバーテクノロジーズは2021年、Z Venture Capitalとイーストベンチャーズが運営するアクセラレーションプロジェクトを発端として、両者からの共同出資で創業しました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "人が持つ業界知見とテクノロジーを組み合わせ、利用者と企業を支える運営の仕組みを整える",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月の公式発表では、ドライバー領域での成長に加え、直近約2年でインフラ、建設、製造など新たな業界への展開を進めてきたと説明しています",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "iVENUS（自動販売機販売管理システム）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "iLibra（自動販売機オンラインシステム）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "NextNavinity（販売管理システム）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "iLibra（自動販売機オンラインシステム）（4）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "iVENUS（自動販売機販売管理システム）（3）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "NextNavinity（販売管理システム）（2）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "# iVENUS（自動販売機販売管理システム）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "# iLibra（自動販売機オンラインシステム）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場のデジタル化をどう進める？ー後編ー",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場のデジタル化をどう進める？ー前編ー",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "# NextNavinity（販売管理システム）",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、公的資料が示す物流の進化と、当社が事業を通じて取り組む三つの領域をご紹介します",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通白書2025は、適正な運賃、納品リードタイムの確保、中継輸送、モーダルシフト、省人化・省力化技術など、多様な取り組みを紹介しています",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "公式noteの社員インタビューでは、候補者と対話を重ね、考えを一緒に言葉にしながら転職活動を支える仕事が紹介されています",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、一般貨物自動車運送事業者の事業承継を通じて貨物運送事業を運営する「クラウドロジスティクス事業」に取り組んでいます",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月24日公表の国土交通白書は、官民の取り組みによる前進を紹介しています",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "目の前の基本を誰よりも丁寧に積み重ね、事業と組織を着実に前へ進める吉岡の公開ストーリーをご紹介します",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズAで語った「凡事徹底」の仕事観を軸に、現場の声を事業運営へつなぎ、組織の実行力を支えています",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "会社運用のWantedlyと本人公開プロフィールでも、ドライバーテクノロジーズの取締役として紹介されています",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "また機能面と使いやすさにも加えて、中小企業の真のソリューションとなるべく価格も業界最安値水準で提供している事もあり、導入企業数も順調に伸びております",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業にとってのソリューションツールとなるべく、価格は初期費用なし・月額３万円とし、また、LINEとの連携機能を除き定額で利用可能であり、利用制限がなく直感的に使えるUI/UX（※６）となるよう設計しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "現在弊社は、「ITソリューション事業」、「SaaS事業」、「ソーラーテクノロジー事業（再生可能エネルギー事業）」の３事業を主軸に展開しております",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "開発実績としましては、AI領域におきましては、大手自動車メーカー向け自動運転アプリ、子供向けAI学習教材ロボ、AR（拡張現実）試着アプリ等があり、エンタメソフトウェア領域におきましては、LIVE配信アプリ、プロジェクションマッピング、ゲーム、遊技機、3Dデジタルサイネージ等多岐に渡り、クライアント企業様からのリピート率も80％以上と製品クオリティについてもご満足頂いております",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "また機能面と使いやすさにも加えて、中小企業の真のソリューションとなるべく価格も業界最安値水準で提供している事もあり、導入企業数も順調に伸びております",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーラーテクノロジー事業（再生可能エネルギー事業）におきましては、ドローン（無人航空機）や３D（3次元）画像データ等の最先端技術を駆使し、太陽光発電設備の施工販売事業を行っております",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "日系メーカー企業にて中国、シンガポール、東南アジア、UAE、南アフリカの担当を歴任",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "アメリカン・ライフ・インシュアランス・カンパニー（現メットライフ生命保険株式会社）入社を経て、川合史郎公認会計士事務所の代表就任（現任）",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学卒業後、株式会社角川書店（現：株式会社 KADOKAWA）に入社",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "金融自動売買システム「SAZANAMI」プロジェクト始動",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "金融自動売買システム「SAZANAMI」運用スタート",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "建設業許可（特定建設業）、一級建築士事務所登録、無線局登録検査等事業者（点検のみ）、",
+    "url": "https://www.nhk-tech.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "1 建設業許可",
+    "url": "https://www.nhk-tech.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "建設業経理士（1級～2級）",
+    "url": "https://www.nhk-tech.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "上野 善晴 （元 財務省理財局次長、元 株式会社日本政策金融公庫 代表取締役、元 株式会社ビックカメラ 取締役）",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "小野 貴樹 （元 三井住友銀行株式会社 常務執行役員）",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "仁井 敦 （三井住友信託銀行株式会社 専門理事）",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "丸山 進 （エネルギー資源開発連盟 専務理事、元 経済産業省大臣官房政策評価審議官）",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本事業では、主として顧客企業又は一次請け企業との請負契約に基づき、成果物の対価として収益を得ております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "エンターテイメントに関連する映像ソフトウェア開発（遊技機向け）に関しましては、遊技機メーカー様等からの１次請けを中心に受託開発をしておりますが、他の開発会社を介した２次請けでの受託も行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "こうした映像ソフトウェア開発において顧客の満足度を高めるにはデザイン力と企画力が重要であるため、当社は長年の経験に加え、CMやPVなど様々な業界のデザインを取り入れた提案を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "結果として、エンターテイメントに関連する映像ソフトウェア開発（遊技機向け）の顧客企業のリピート率（注１）は2026年１月末現在95.7％を達成しており、当社グループの安定的な収益獲得源となっております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．リピート率は、売上高に占めるリピート売上の割合であり、ITソリューション事業における受託開発のうち、過去に取引実績がある顧客企業に係る売上高により算定しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "AI等のデジタル技術を利用した、顧客企業のサービスや業務システム等の開発を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "大手自動車メーカーから、2021年東京オリンピック・パラリンピック開催に向けた自動運転（ADAS）のプロトタイプ（試作品としての位置付けであり、世の中に正式にリリースされるものではありません）のアプリ開発を請け負いました",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "自動車ローンで自動車を購入した顧客のローン返済が滞り、かつその顧客と音信不通の状態に陥った際に、遠隔にて強制的に自動車のエンジンが掛からなくする遠隔制御システムです",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "企業経営オーナー等の富裕層を中心とした顧客向けに販売を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、上記のような技術を利用した受託開発を継続的に行うことで、その開発力を維持・向上させる他、PoCのような一過性の案件であったとしても、それが顧客接点を増やすことに繋がると考え、積極的に受注しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "上記のような開発力や顧客接点の蓄積は、今後の当社グループの事業展開及び事業拡大に繋がると考えております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "本事業では、主として顧客企業から、クラウドで提供するサービスの対価を利用期間に応じて受領しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "「jobs」を導入することにより、人材派遣会社が派遣社員を管理する上で必要な「スタッフ情報管理」「仕事情報管理」「顧客情報管理」「マッチング」「勤怠報告」「経費精算」「給与計算」「請求書等の書類作成」等の様々な機能が掲載されており業務の効率化が期待できることになります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "「Circle」を導入することで、「LINE WORKS」でつながる「LINE」の友だち（=顧客）の情報を自動取得し、管理画面から顧客データを出力するといった顧客管理機能や、１：n（複数）の配信機能が利用可能となります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、エンターテインメント映像ソフトウェアのみならず、将来的には販売予約管理システム、デジタル電子チケット、会場での飲食の受発注システム等、当社の DX 化に対する見識と技術力を活かすことが可能であり、「テクノロジーでより面白く、より便利な世の中を創造する」という経営ビジョンを実現できると考えています",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な物価高騰等の影響下において多くの人材派遣会社がコスト削減を強いられる中、当社システムは価格体系において月額３万円である事から、時代の流れやお客様のニーズに合う製品となっており、新規顧客を獲得することができております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、事業運営上必要な資金を安定的に確保するために、必要な資金は自己資金、金融機関からの借入等でバランスよく調達していくことを基本方針としております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、棚卸資産の評価基準を除き、「連結財務諸表作成のための基本となる重要な事項」における記載と概ね同一であります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "棚卸資産の評価については、収益性の低下に基づく簿価切下げ前の価額で評価しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．「その他の収益」は、不動産賃貸収入等であります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦以外の外部顧客への売上高がないため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "ごうぎん Skyland Next 1号投資事業有限責任組合は株式会社山陰合同銀行とSkyland Venturesによる共同運営、KCAPベンチャー1号投資事業有限責任組合は京都キャピタルパートナーズ株式会社による運営です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社、ベンチャーキャピタル、金融グループなどとのつながりを、現場に新しい価値を届ける力へ変えていく考え方です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーテクノロジーズは2022年1月から、全国の物流・輸送事業者へ向け、AIとDXを活用した保有車両の稼働率向上のためのマッチングソリューションを提供してきました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "物流・輸送の現場には、車両、拠点、人材、仕事の情報など、多くのリソースがあります",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "公式発表によると、この資金調達を通じて、AIを活用したアルゴリズムモジュールの開発・実装、マッチングオペレーションの効率化、導入企業へ提供するDX支援プロダクトの拡充を進めました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月の公式発表では、ドライバー領域での成長に加え、直近約2年でインフラ、建設、製造など新たな業界への展開を進めてきたと説明しています",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "その資本を組織の力へ変え、サービスを利用する方、物流・輸送をはじめとする企業、現場で働く方へ価値として届けることが、ドライバーテクノロジーズの役割です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "候補者、顧客、パートナーが来訪しやすい立地です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "ITソリューション導入事例一覧 | 株式会社KIS",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "老舗企業の成長を支えるスムーズなアップグレード：Microsoft Dynamics 365導入事例",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "変化を続ける老舗工場が取り組む「稼働率の見える化」",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "効率化で生まれる時間のゆとりが、新たな事業のエネルギーを生み出す",
+    "url": "https://www.kis.co.jp/project/",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先 | 会社情報 | ネットワールド",
+    "url": "https://www.networld.co.jp/company/supplier.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先（社名五十音順、敬称略）",
+    "url": "https://www.networld.co.jp/company/supplier.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先 | ティービーケー・システムズ株式会社",
+    "url": "https://www.tbk-sys.co.jp/company/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "導入実績・主要取引先一覧 - HPCシステムズ株式会社",
+    "url": "https://www.hpc.co.jp/company/mainclient/",
+    "pass": 3
+   },
+   {
+    "quote": "大学共同利用機関法人高エネルギー加速器研究機構",
+    "url": "https://www.hpc.co.jp/company/mainclient/",
+    "pass": 3
+   },
+   {
+    "quote": "物流の未来へ——ドライバーテクノロジーズが進める三つの事業｜株式会社ドライバーテクノロジーズ【公式】",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "物流の未来へ——ドライバーテクノロジーズが進める三つの事業",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズは、物流の未来を支えるため、三つの事業を通じて人と企業、地域をつないでいます",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "毎日の食事、衣服、医薬品、店舗の商品、工場で使う部品",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "物流は、生活と経済を支える社会インフラです",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "上場企業にて決算・開示・監査対応等の経理業務全般に従事し、2007年4月に株式会社エディアに入社",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役CFOとして2016年に同社を東証マザーズに上場させる",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "【テクノロジーズ】[5248]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   },
+   {
+    "quote": "当社は事業持株会社であり、当連結会計年度末における当社の企業集団は、当社、当社子会社９社（うち、非連結子会社４社）、並びに関連会社１社（持分法非適用関連会社）によって構成されております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社及び連結子会社の位置付け並びにセグメントとの関連は、以下のとおりであります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．当社は事業持株会社として、グループ全体の事業戦略策定・実行の他、子会社に対して経理、与信管理等の業務受託を含む経営管理業務を行っております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、2023年７月27日付で太陽光発電設備の施工・販売を行う再エネソリューション事業を主たる事業とする株式会社エコ革を子会社化したことに伴い、2024年１月期第２四半期連結会計期間より、当社グループが営む事業として再エネソリューション事業が新たに加わりました",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、2025年５月29日付で格闘技ビジネスにおける企画・興行・DX化を行うスポーツDX事業を主たる事業とする株式会社マーシャルアーツテクノロジーズを合弁の形により設立、子会社化しました",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループ(当社、連結子会社)の財政状態、経営成績及びキャッシュ・フロー(以下、「経営成績等」という",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当連結会計年度における当社グループの業績は、売上高が、10,149,087千円（前年増減率△26.99％）、営業利益は、1,872,225千円（前年増減率7.67％）、経常利益は、1,708,830千円（前年増減率4.82％）、親会社株主に帰属する当期純利益は、266,883千円（前年増減率0.35％）となりました",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に、利益余剰金が266,883千円増加したこと及び非支配株主持分が644,520千円増加したことによるものであります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "（経常利益、親会社株主に帰属する当期純利益）",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における親会社株主に帰属する当期純利益は、前連結会計年度に比べ935千円増加し、266,883千円（前連結会計年度比100.35％）となりました",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、これらの資金調達方法の優先順位については、調達時期における資金需要の額、用途、市場環境、調達コスト等を勘案し、最適な方法を選択する方針であります",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度より株式会社マーシャルアーツテクノロジーズを連結子会社として設立したことに伴い、主に格闘技ビジネスにおける企画・興行を行う「格闘エンタメDX事業」を新たに報告セグメントとして追加しております",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズは2025年3月28日、シリーズAラウンドとして5.5億円の資金調達を実施し、累計資金調達額が約7億円になったことを発表しました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "新たに四つの投資事業有限責任組合が株主として参画し、既存株主からも追加出資を受けたラウンドです",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、資金調達の概要、創業からシリーズAまでの歩み、資金を組織体制へ活用する意味を、2025年3月の公式発表に沿ってご紹介します",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーテクノロジーズは、2025年3月にシリーズAラウンドとして5.5億円の資金調達を実施しました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月28日の公式発表時点で、累計資金調達額は約7億円です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "発表では、既存株主からの追加出資に加え、新しい株主の参画も公表されています",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "これまで会社を支えてきたパートナーとの関係を深めながら、新たな知見やネットワークとの接点を持つ資金調達です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "本ラウンドで新たに株主として参画したのは、次の四つの投資事業有限責任組合です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "ブーストキャピタル1号投資事業有限責任組合、イーストベンチャーズ5号投資事業有限責任組合も、新たな株主として名を連ねました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "異なる背景を持つ株主を迎えたことは、会社が多様な視点を取り入れながら成長していくための基盤になります",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "資本を託してくださった株主の皆さまへの感謝と責任を胸に、事業と組織を磨き続けていきます",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "公式発表によると、ドライバーテクノロジーズは2021年、Z Venture Capitalとイーストベンチャーズが運営するアクセラレーションプロジェクトを発端として、両者からの共同出資で創業しました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップの機動力と、ファンドや事業会社が株主である資本力を両立する「Hybrid Startup」を掲げ、AIとDXを活用した事業づくりを進めてきました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社、ベンチャーキャピタル、金融グループなどとのつながりを、現場に新しい価値を届ける力へ変えていく考え方です",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の資金調達で整えた事業基盤",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズAに先立つ2023年、ドライバーテクノロジーズは1億円超の第三者割当増資を実施しました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "公式発表によると、この資金調達を通じて、AIを活用したアルゴリズムモジュールの開発・実装、マッチングオペレーションの効率化、導入企業へ提供するDX支援プロダクトの拡充を進めました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "5.5億円のシリーズA、累計約7億円という数字は、2025年3月発表時点までに株主から託された資本を表しています",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "創業から続くパートナーとのつながり、新たに参画した株主の知見、社内で積み重ねてきた業界理解を掛け合わせ、次の成長を支える組織をつくる",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "採用候補者、サービスを利用する企業、株主や事業パートナーと対面で話し合い、多様な専門性をつないで次の事業づくりを進めています",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーテクノロジーズは2025年3月、シリーズAで5.5億円を調達し、同月の発表時点で累計資金調達額は約7億円となりました",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "新たに四つの投資事業有限責任組合が株主として参画し、既存株主からも追加出資を受けています",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "本記事の調達額、発表日、新規株主名、資金使途は、2025年3月28日の公式発表に基づいています",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月のシリーズA資金調達では、経営陣として「凡事徹底」を軸にした仕事観をコメントしました",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "サービス利用者、株主、会社に関わる人々への感謝を述べたうえで、代表の川島を「凡事徹底」という言葉で表現しました",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月、ドライバーテクノロジーズはシリーズAで5.5億円を調達し、累計資金調達額が約7億円になったことを発表しました",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "吉岡はコメントで、日頃から会社を支える利用者、株主、関係者へ感謝を伝えています",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "新しい株主を迎え、組織体制をさらに強化し、事業を次の段階へ進める大きな節目です",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "デロイトトーマツグループ テクノロジー企業成長率ランキング「2021年 日本テクノロジー Fast 50」1位受賞",
+    "url": "https://technologies-group.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度認定くるみんマーク",
+    "url": "https://www.nhk-tech.co.jp/company/outline/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【 テクノロジーズ 】[5248]企業 概要 社員数や役員報酬・ 資本金 — 【 テクノロジーズ 】[5248]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - NHK テクノロジーズ — 会社概要 - NHK テクノロジーズ NHK テクノロジーズ https://www.nhk-tech.co.jp > company > outline",
+    "url": "https://www.nhk-tech.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 - 株式会社 RSテクノロジーズ — 会社概要 | 会社情報 - 株式会社 RSテクノロジーズ 株式会社 RSテクノロジーズ https://www.rs-tec.jp > 会社情報",
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | 株式会社GA technologies — 会社概要 | 企業情報 | 株式会社GA technologies 株式会社GA technologies - ジーエーテクノロジーズ https://www.ga-tech.co.jp > company > outline",
+    "url": "https://www.ga-tech.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "デル・ テクノロジーズ (株)の 会社概要 | マイナビ2028 — デル・ テクノロジーズ (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp77451 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーズ 【5248】の 事業内容 - キタイシホン — テクノロジーズ 【5248】の 事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5248/business",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーズ (5248) の企業概要・業績・財務・IR資料 — テクノロジーズ (5248) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/5248",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 テクノロジーズ （5248）— 企業情報 | ENVALITH — 株式会社 テクノロジーズ （5248）— 企業情報 | ENVALITH ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/5248/overview",
+    "pass": 3
+   },
+   {
+    "quote": "経営成績 | TECHNOLOGIES — 経営成績 | TECHNOLOGIES 株式会社テクノロジーズ https://technologies-group.co.jp > IR",
+    "url": "https://technologies-group.co.jp/ir/performance/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバー テクノロジーズ がシリーズAで5.5億円 - note — ドライバー テクノロジーズ がシリーズAで5.5億円 - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先 - TBグローバルテクノロジーズ株式会社 — 主要取引先 - TBグローバルテクノロジーズ株式会社 TBグローバルテクノロジーズ株式会社 https://www.tbgtech.co.jp > about > customers",
+    "url": "https://www.tbgtech.co.jp/about/customers/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "物流の未来へ——ドライバー テクノロジーズ が進める三つの事業 物流の未来へ——ドライバー テクノロジーズ が進める三つの事業 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバー テクノロジーズ の取締役副社長・吉岡武流 株式会社ドライバー テクノロジーズ の取締役副社長・吉岡武流 note https://note.com > ビジネス > 経営・マネジメント",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバー テクノロジーズ の執行役員・丹生花凛 - note 株式会社ドライバー テクノロジーズ の執行役員・丹生花凛 - note note https://note.com > キャリア > 昇進・キャリアアップ",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "物流の未来へ——ドライバーテクノロジーズが進める三つの事業｜株式会社ドライバーテクノロジーズ【公式】",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "物流の未来へ——ドライバーテクノロジーズが進める三つの事業",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズは、物流の未来を支えるため、三つの事業を通じて人と企業、地域をつないでいます。",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "毎日の食事、衣服、医薬品、店舗の商品、工場で使う部品。私たちの暮らしと企業活動は、誰かが必要なものを運ぶことで成り立っています。物流は、生活と経済を支える社会インフラです。",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "その中心を担うドライバーが、より良い環境で力を発揮し、地域の運送会社が事業を続けていける仕組みをつくることは、社会全体の未来につながる大切なテーマです。",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、創業前に将来予測データから物流・輸送領域の可能性に着目し、2022年1月からマッチングソリューションを提供してきました。この記事では、公的資料が示す物流の進化と、当社が事業を通じて取り組む三つの領域をご紹介します。",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "国土交通省は、物流を国民生活や経済活動に不可欠な社会インフラと位置付けています。トラックは、工場から倉庫、倉庫から店舗、地域の拠点から家庭まで、さまざまな区間で物を運びます。",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "運送会社の事業は、車両、ドライバー、配送案件がつながることで動きます。必要な免許と経験を持つ人と、その力を求める企業を結ぶことで、車両の稼働と地域の物流を支えられます。",
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズの取締役副社長・吉岡武流——「凡事徹底」で事業と組織を前へ｜株式会社ドライバーテクノロジーズ【公式】",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズの取締役副社長・吉岡武流——「凡事徹底」で事業と組織を前へ",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズの公式会社ページでは、吉岡武流を「取締役副社長 執行役員」として掲載しています。",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月のシリーズA資金調達では、経営陣として「凡事徹底」を軸にした仕事観をコメントしました。目の前の基本を誰よりも丁寧に積み重ね、事業と組織を着実に前へ進める吉岡の公開ストーリーをご紹介します。",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "吉岡武流は、株式会社ドライバーテクノロジーズの取締役副社長 執行役員です。シリーズAで語った「凡事徹底」の仕事観を軸に、現場の声を事業運営へつなぎ、組織の実行力を支えています。",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "ドライバーテクノロジーズでどの役職に就いているか",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月26日時点で、ドライバーテクノロジーズの公式会社ページは、吉岡武流の役職を「取締役副社長 執行役員」と記載しています。同ページでは、代表取締役社長 執行役員CEOの川島康平、執行役員 VP of Matching Operationsの丹生花凛とともに、経営陣・シェアホルダー等の欄に掲載されています。",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "会社運用のWantedlyと本人公開プロフィールでも、ドライバーテクノロジーズの取締役として紹介されています。慶應義塾大学法学部政治学科で学び、現在は経営チームの一員として事業と組織の成長に取り組んでいます。",
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズの執行役員・丹生花凛——現場と経営をつなぐ成長の歩み｜株式会社ドライバーテクノロジーズ【公式】",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズの執行役員・丹生花凛——現場と経営をつなぐ成長の歩み",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドライバーテクノロジーズの公式会社ページでは、丹生花凛を「執行役員 VP of Matching Operations」として掲載しています。",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月に公開した公式noteでは、大学卒業後に新卒で入社し、ドライバーマッチングの現場を経験した後、教育・育成や採用、現場と経営をつなぐ仕事へ役割を広げた過程を本人が語りました。",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、公式会社ページと本人インタビューで公開済みの事実・発言だけをもとに、丹生がどのように仕事を選び、現場で学び、組織づくりへ関わってきたのかを紹介します。",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月26日に確認したドライバーテクノロジーズの公式会社ページは、丹生花凛を「執行役員 VP of Matching Operations」として経営陣に掲載しています。",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月9日公開の公式noteでは、大分県出身で、大学在学中に役者やインターンなど複数の経験を重ね、大学卒業後の2024年4月に新卒で入社したと紹介しています。",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   },
+   {
+    "quote": "丹生が川島康平と最初に会ったのは、大学生のときにIVSの学生スタッフへ参加した際でした。その後、大学在学中にさまざまな業界の人と接し、働き方やキャリアを考える中で、就職先を選ぶ際に「どんな人と働くか」を重視するようになったと話しています。",
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "チェック・ポイント・ソフトウェア・ テクノロジーズ 株式会社 チェック・ポイント・ソフトウェア・ テクノロジーズ 株式会社 Facebook https://www.facebook.com > ... > インターネット関連企業",
+    "url": "https://www.facebook.com/checkpointjapan/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "免税システム国内大手のスマート テクノロジーズ ... - Facebook 免税システム国内大手のスマート テクノロジーズ ... - Facebook Facebook https://www.facebook.com > itochu.corp > posts > 免税シ...",
+    "url": "https://www.facebook.com/itochu.corp/posts/%E5%85%8D%E7%A8%8E%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%9B%BD%E5%86%85%E5%A4%A7%E6%89%8B%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%81%B8%E3%81%AE%E5%87%BA%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E6%A5%AD%E6%A9%9F%E4%BC%9A%E3%81%AE%E5%89%B5%E5%87%BA%E3%82%92%E6%8E%A8%E9%80%B2%E4%BC%8A%E8%97%A4%E5%BF%A0%E5%95%86%E4%BA%8B%E3%81%A8%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3/1628364345750623/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://technologies-group.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://technologies-group.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://technologies-group.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhk-tech.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rs-tec.jp/corporate/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5248/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/5248",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lt-s.jp/news/pressrelease/2021-12-14",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.istellartech.com/news/releases/11034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundoor.com/newsletters/31",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/drtc/n/n88ad9801c8fc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.et-x.jp/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ascentech.co.jp/case/ca_index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kis.co.jp/project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.networld.co.jp/company/supplier.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tbk-sys.co.jp/company/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpc.co.jp/company/mainclient/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/drtc/n/nbfda6ed0325c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/drtc/n/ndd98828e7e43",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/drtc/n/n652b6b6e8a78",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/checkpointjapan/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itochu.corp/posts/%E5%85%8D%E7%A8%8E%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%9B%BD%E5%86%85%E5%A4%A7%E6%89%8B%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%81%B8%E3%81%AE%E5%87%BA%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E6%A5%AD%E6%A9%9F%E4%BC%9A%E3%81%AE%E5%89%B5%E5%87%BA%E3%82%92%E6%8E%A8%E9%80%B2%E4%BC%8A%E8%97%A4%E5%BF%A0%E5%95%86%E4%BA%8B%E3%81%A8%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3/1628364345750623/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ノロジーズ 会社概要 資本金 設立",
+   "results": [
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5248",
+    "https://www.nhk-tech.co.jp/company/outline/",
+    "https://www.rs-tec.jp/corporate/company/",
+    "https://www.ga-tech.co.jp/company/outline/",
+    "https://job.mynavi.jp/28/pc/search/corp77451/outline.html",
+    "https://www.fsastech.com/ja-jp/company/about/",
+    "https://technologies-group.co.jp/about-us/",
+    "https://www.kawada.jp/corporate/overview/",
+    "https://enehub.jp/companies/3010901034654/",
+    "https://ja.wikipedia.org/wiki/テクノロジーズ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ノロジーズ 事業内容 売上",
+   "results": [
+    "https://kitaishihon.com/company/5248/business",
+    "https://www.crex-data.com/company/5248",
+    "https://lt-s.jp/news/pressrelease/2021-12-14",
+    "https://envalith.com/ja/companies/5248/overview",
+    "https://technologies-group.co.jp/ir/performance/",
+    "https://www.nhk-tech.co.jp/company/outline/",
+    "https://www.rs-tec.jp/ir/performance/result/",
+    "https://www.youtube.com/watch?v=xrn6IA1D02M",
+    "https://www.sinfo-t.jp/company/",
+    "https://ja.wikipedia.org/wiki/テクノロジーズ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ノロジーズ 資金調達 株主",
+   "results": [
+    "https://www.istellartech.com/news/releases/11034",
+    "https://fundoor.com/newsletters/31",
+    "https://note.com/drtc/n/n88ad9801c8fc",
+    "https://initial.inc/tags/fundraising-articles",
+    "https://www.nikkei.com/article/DGXZQOUC129680S6A310C2000000/",
+    "https://startup-db.com/companies/tags/fundraise",
+    "https://qunasys.com/news/posts/fundraising2024jp",
+    "https://prtimes.jp/main/html/rd/p/000000014.000088922.html",
+    "https://digipara.comix.co.jp/media/strategy/714/",
+    "https://ja.wikipedia.org/wiki/テクノロジーズ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ノロジーズ 導入事例",
+   "results": [
+    "https://product.et-x.jp/casestudy/",
+    "https://www.ascentech.co.jp/case/ca_index.html",
+    "https://www.kis.co.jp/project/",
+    "https://legalontech.jp/product/case-study/",
+    "https://o9solutions.com/ja/resources/demand-forecasting-case-studies",
+    "https://www.tomorrow-net.co.jp/case-list/",
+    "https://geot.jp/casestudy/casecategory/case_study/",
+    "https://www.hpc.co.jp/casestudy/",
+    "https://it-infra.techmatrix.jp/casestudy",
+    "https://www.fsastech.com/ja-jp/customer-stories/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ノロジーズ 主要取引先",
+   "results": [
+    "https://www.networld.co.jp/company/supplier.html",
+    "https://www.tbk-sys.co.jp/company/customers/",
+    "https://www.hpc.co.jp/company/mainclient/",
+    "https://www.fractal.co.jp/company/partner/",
+    "https://www.tbgtech.co.jp/about/customers/",
+    "https://apasys.co.jp/jp/clients.html",
+    "https://www.jtc-i.co.jp/company/user.html",
+    "https://www.rand.co.jp/corporate/biz_connection.php",
+    "https://www.hulinks.co.jp/corporate/partner/",
+    "https://ja.wikipedia.org/wiki/テクノロジーズ"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ノロジーズ",
+   "results": [
+    "https://note.com/drtc/n/nbfda6ed0325c",
+    "https://note.com/drtc/n/ndd98828e7e43",
+    "https://note.com/drtc/n/n88e3608ef618",
+    "https://note.com/drtc/n/n652b6b6e8a78",
+    "https://note.com/drtc/n/nd200a2cf59dd",
+    "https://note.com/drtc/m/m61ac97147f51/hashtag/%E7%99%BB%E9%8C%B2%E5%95%86%E6%A8%99",
+    "https://note.com/drtc/n/n5562c8f50a57",
+    "https://note.com/ibmj_csm/n/n151fefe54781",
+    "https://note.com/suzumaro/n/na5b75ac3d2fb?hl=en",
+    "https://note.com/nobusanchamame/n/n5f1662ff2e18"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com ノロジーズ",
+   "results": [
+    "https://x.com/ukcpo",
+    "https://x.com/shin1_1207/status/1945021842315465021",
+    "https://x.com/Ginsaku",
+    "https://x.com/sakatsuku20xx/status/2102973017760674067",
+    "https://x.com/tanakayoshikazu",
+    "https://x.com/i/trending/2096757696435191824",
+    "https://x.com/inomsk/status/2112530029875974577",
+    "https://x.com/tsukasa_hiraga",
+    "https://x.com/les_deux_mondes",
+    "https://x.com/NHKTechnologies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com ノロジーズ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ノロジーズ",
+   "results": [
+    "https://www.facebook.com/checkpointjapan/posts/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84ceo%E3%83%8A%E3%83%80%E3%83%96%E3%82%B6%E3%83%95%E3%83%AA%E3%83%BC%E3%83%ABnadav-zafrir%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E3%83%8A%E3%83%80%E3%83%96%E3%81%AF%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%A7%E3%81%AE%E7%AC%AC%E4%B8%80%E6%AD%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%AC%A1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E8%BF%B0%E3%81%B9%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E5%BD%B9%E5%89%B2%E3%82%92%E6%8B%85%E3%81%86%E3%81%93/1117940477008352/",
+    "https://www.facebook.com/checkpointjapan/?locale=ja_JP",
+    "https://www.facebook.com/itochu.corp/posts/%E5%85%8D%E7%A8%8E%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%9B%BD%E5%86%85%E5%A4%A7%E6%89%8B%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%81%B8%E3%81%AE%E5%87%BA%E8%B3%87%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%8B%A1%E5%A4%A7%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%8B%E6%A5%AD%E6%A9%9F%E4%BC%9A%E3%81%AE%E5%89%B5%E5%87%BA%E3%82%92%E6%8E%A8%E9%80%B2%E4%BC%8A%E8%97%A4%E5%BF%A0%E5%95%86%E4%BA%8B%E3%81%A8%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3/1628364345750623/",
+    "https://www.facebook.com/auba.eiicon.net/posts/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E8%90%BD%E5%90%88%E9%99%BD%E4%B8%80%E6%B0%8F%E3%81%8C%E7%8E%87%E3%81%84%E3%82%8B%E3%83%94%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%81%A8%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E3%81%AF%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%99%BA%E3%81%AE%E5%85%88%E7%AB%AF%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%92%E7%A4%BE%E4%BC%9A%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E3%81%AB%E7%B9%8B%E3%81%92%E3%81%A6%E3%81%84%E3%81%8F%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E6%96%B0%E3%81%9F%E3%81%AA%E6%8A%80%E8%A1%93%E7%A7%BB%E8%BB%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A0%E3%81%AB%E3%82%88%E3%82%8B/1214509408755363/",
+    "https://www.facebook.com/itoigawasouseijyuku/posts/-%E5%8D%92%E6%A5%AD%E7%94%9F%E3%81%AE%E5%89%B5%E6%A5%AD%E4%BA%8B%E4%BE%8B%E3%82%92%E7%B4%B9%E4%BB%8B-%E7%B3%B8%E9%AD%9A%E5%B7%9D%E5%89%B5%E6%88%90%E5%A1%BE%E3%81%AE%E5%8D%92%E6%A5%AD%E7%94%9F%E3%81%8C%E5%89%B5%E6%A5%AD%E3%81%97%E3%81%9F%E3%83%AA%E3%83%90%E3%82%A4%E3%82%BF%E3%83%AB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%81%95%E3%82%93%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%B8%AC%E9%87%8F%E8%AA%BF%E6%9F%BB%E7%81%BD%E5%AE%B3%E6%94%AF%E6%8F%B4%E3%81%AA%E3%81%A9%E3%82%92%E8%A1%8C%E3%81%84%E5%B0%86%E6%9D%A5%E7%9A%84%E3%81%AB%E3%81%AF%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%89%A9%E6%B5%81%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E3%83%86%E3%83%83%E3%82%AF/1305675488230783/",
+    "https://www.facebook.com/DellTechJapan/posts/dell-technologies-forum-2025%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88%E9%96%8B%E5%82%AC%EF%B8%8F%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E4%BA%8B%E6%A5%AD%E6%88%A6%E7%95%A5%E3%81%AE%E3%81%94%E8%AA%AC%E6%98%8E%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E8%B4%88%E5%91%88%E5%BC%8F%E3%81%AB%E5%8A%A0%E3%81%88%E3%83%91%E3%83%8D%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92/1179957204167066/",
+    "https://www.facebook.com/ayatoshi.yoshidumi/posts/%E4%BD%95%E5%BA%A6%E3%82%82%E3%81%8A%E9%A1%98%E3%81%84%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%A7%E5%A4%A7%E5%A4%89%E6%81%90%E7%B8%AE%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E4%B8%89%E7%B2%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A8%E3%81%84%E3%81%86%E4%BC%9A%E7%A4%BE%E3%82%92%E7%B4%B9%E4%BB%8B%E9%A0%82%E3%81%91%E3%82%8B%E6%96%B9%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E3%83%86%E3%83%BC%E3%83%9E%E3%83%91%E3%83%BC%E3%82%AF%E6%96%87%E8%84%88%E3%81%A7%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E5%87%BA%E6%9D%A5%E3%81%AA%E3%81%84%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E7%9B%B8/28714817408146943/",
+    "https://www.facebook.com/Little.eArth.Corp/posts/lac-watch%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BA%BA%E6%9D%90%E3%82%92%E3%81%A9%E3%81%86%E8%82%B2%E3%81%A6%E3%82%8Bnri%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E3%81%A8%E8%AA%9E%E3%82%8B%E8%B3%87%E6%A0%BC%E3%82%84%E7%A0%94%E4%BF%AE%E3%82%92%E5%AE%9F%E5%8B%99%E3%81%AB%E3%81%A4%E3%81%AA%E3%81%92%E3%82%8B%E8%80%83%E3%81%88%E6%96%B9-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E4%BA%BA%E6%9D%90%E3%82%92%E8%82%B2%E6%88%90%E3%81%97%E3%81%9F%E3%81%84%E3%81%91%E3%82%8C%E3%81%A9%E3%81%A9%E3%82%93%E3%81%AA%E4%BA%BA%E6%9D%90%E3%82%92/1552770473321502/",
+    "https://www.facebook.com/hidemichi.sato.7/posts/%E8%96%84%E3%81%8F%E3%81%A6%E8%BB%BD%E9%87%8F%E6%8A%98%E3%82%8A%E6%9B%B2%E3%81%92%E3%82%82%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%9A%E3%83%AD%E3%83%96%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%88%E5%A4%AA%E9%99%BD%E9%9B%BB%E6%B1%A0%E5%8C%97%E6%B5%B7%E9%81%93%E5%88%9D%E3%81%AE%E5%AE%9F%E8%A8%BC%E5%AE%9F%E9%A8%93%E3%81%8C%E6%97%A5%E6%8F%AE%E3%82%A8%E3%83%8D%E3%82%B3%E3%83%BC%E3%83%88%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%9F%A0%E9%A0%AD%E3%81%AE3%E7%A4%BE%E3%81%8C%E5%85%B1%E5%90%8C%E3%81%97%E3%81%A6%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E5%86%85%E3%81%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BD%8E%E6%B8%A9%E7%A9%8D%E9%9B%AA%E5%A1%A9/3277293479111784/",
+    "https://www.facebook.com/people/Growth-JAPAN-Technologiesグロウスジャパンテクノロジーズ/100084200256574/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ノロジーズ note 社長",
+   "results": [
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ノロジーズ X 投稿",
+   "results": [
+    "https://x.com/?lang=ja",
+    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
+    "https://www.youtube.com/watch?v=4mYmH5IHzUs",
+    "https://ledge.ai/articles/x_revises_privacy_policy",
+    "https://note.com/igs_ai/n/n567a8ae43392",
+    "https://insights.spovisor.com/x-articles-long-form-guide/",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902026%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E3%81%AE%E8%A8%98%E4%BA%8B%E6%A9%9F%E8%83%BD%E3%81%A8%E3%81%AF%EF%BC%9F%E7%89%B9%E5%BE%B4%E3%83%BB%E4%BD%BF/",
+    "https://zenn.dev/nakurei/articles/cloudflare-workers-rss-summary-x-post",
+    "https://baike.baidu.com/ja/item/X/1107274",
+    "https://x.com/noroshiro_x/status/1970870434326524136"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索11回）"
+ }
+}

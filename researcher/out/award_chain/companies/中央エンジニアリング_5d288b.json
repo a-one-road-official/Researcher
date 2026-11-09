@@ -1,0 +1,1203 @@
+{
+ "name": "中央エンジニアリング",
+ "aliases": [],
+ "context": "神奈川県・資本金11600万円・東京都 ものづくり企業データベース",
+ "researched_at": "2026-11-09T14:04:43.537450+00:00",
+ "official_url": "https://www.chuo-eng.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "創業",
+    "value": "創業：1954年(昭和29年)9月",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1955年(昭和30年)9月",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "11,600万円(含 資本準備金)",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "81億円(2026年3月)",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "557名(2026年4月)",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社/神奈川県横浜市港北区新横浜2-13-13　TPR新横浜ビル 3F 事業所については事業拠点を参照 所在地一覧",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒222-0033 神奈川県横浜市港北区新横浜2-13-13 TPR新横浜ビル 3F Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒222-0033 神奈川県横浜市港北区新横浜2-7-19 竹生第2ビル 7F Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒321-0953 栃木県宇都宮市東宿郷2-4-3 宇都宮大塚ビル 9F Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒450-0003 愛知県名古屋市中村区名駅南1-17-23 ニッタビル 5F Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒455-0024 愛知県名古屋市港区大江町6-16 菱興ビル 1F Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒455-0813 愛知県名古屋市港区善進本町556 Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒480-0202 愛知県西春日井郡豊山町豊場新田町17-1 菱重F&P小牧南ビル 2F Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒485-0023 愛知県小牧市北外山780-1 Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒485-0829 愛知県小牧市小牧原2-338 Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒486-0807 愛知県春日井市大手町1348 Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒814-0001 福岡県福岡市早良区百道浜2-1-22 福岡SRPセンタービル 3F Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒856-0816 長崎県大村市箕島町593 長崎空港ビル3F coto Nagasaki Airport内 Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "2530 Meridian Parkway, Suite 300, Durham, North Carolina 27713 Google map",
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "航空宇宙・防衛・自動車・産業機械・情報通信分野における設計開発、モノづくり、ソフトウェア開発を中心としたワンストップエンジニアリングサービスの提供 解析・設計支援ツールの代理販売および技術サポートを通じた開発現場の課題解決支援",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要 取引先",
+    "value": "(株)IHI/インターステラテクノロジズ(株)/(国研)宇宙航空研究開発機構/ エアバス・ヘリコプターズ・ジャパン(株)/(株)NTTデータMHIシステムズ/ MHIエアロエンジンサービス(株)/(株)MHIロジテック/川崎重工業(株)/ (株)三進製作所/新明和工業(株)/新明工業(株)/(株)SkyDrive/ (株)SUBARU/SpaceBD(株)/(株)ゼネラル/ソニーグローバルM&O(株)/ ソニーセミコンダクタソリューションズ(株)/(株)ダイフク/ 東京エレクトロン宮城(株)/(株)豊田自動織機/(株)ニコン/ 富士通(株)/富士通ネットワークソリューションズ(株)/ 本田技研工業(株)/(株)本田技術研究所(株)ホンダ・レーシング/ 三菱重工業(株)/三菱重工航空エンジン(株)三菱ロジスネクスト(株)/村田機械(株) (五十音順)",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "1954年創業以来、機械設計のパイオニアとして長年培ってきた高い技術力で受託開発・派遣開発等、事業形態を問わず技術サービスを提供しています",
+    "url": "https://www.chuo-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生産技術においては、製造方法の設計・評価や製造技術の構築、新規製造技術の開発など図面を製品化する際のサポートが可能です",
+    "url": "https://www.chuo-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "故齋田重行が東京都大田区東六郷にて機械設計請負業を個人創業",
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1954年、東京大田区で機械設計請負業を創業して以来、機械設計のパイオニアとして、無限の資源である「創造力」と、社員一丸となって先進技術に取り組む「挑戦心」をもって、我が国の産業の発展に貢献してまいりました",
+    "url": "https://www.chuo-eng.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "解析・設計支援ツールの代理販売および技術サポートを通じた開発現場の課題解決支援",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "取得適用：インダストリアルソリューションセグメント（請負作業のみ）",
+    "url": "https://www.chuo-eng.co.jp/company/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "取得適用：エアロスペースセグメント・マニュファクチャリングソリューションセンター・CAEセンター・ソフトウェアソリューション部（請負作業のみ）、経営戦略本部（総務部/人事部）",
+    "url": "https://www.chuo-eng.co.jp/company/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "生産設備からプラントまで、製造現場の効率化を叶える設計・製作",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "★前期比14億円増の125％成長！！4期連続増収で過去最高売上を達成！！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "故斎田重行が東京都大田区にて機械設計請負業を個人創業",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在も機械系が主力ですが、電気電子系や情報通信、ソフトウェア分野にも展開しています",
+    "url": "https://dx-consulting.cocoo.co.jp/case/chuo-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、供試体や試験機などを製造して納めさせていただくモノづくりも行っています",
+    "url": "https://dx-consulting.cocoo.co.jp/case/chuo-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "実際に ご利用製品（Movable Type）で運営されて使い勝手などはいかがですか？:",
+    "url": "https://www.sixapart.jp/business/chuoeng.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は第3四半期において、売上高、粗利益率、1株当たり利益がガイダンスを上回る堅調な結果を達成しました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "これは、主力市場における基礎的な成長と、会社再建に向けた着実な前進によって実行力が向上し続けた4四半期連続の成果を示すものです",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "財務基盤を強化するために講じた施策により、事業運営の柔軟性が高まり、自信を持って戦略を継続的に遂行できる体制が整いました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "彼らの支援は、最先端ロジックの研究開発と製造を有する米国唯一の半導体企業としてのインテルの戦略的役割を際立たせるものです",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "電力、性能、歩留まり、コスト、スケジュールといったあらゆるニーズを満たすウエハーの製造を当社に求める顧客を満足させる術を、私たちは身につける必要があります",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期は、主力市場の継続的な堅調さに支えられ、ガイダンスを上回る売上高を4四半期連続で達成しました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "第3四半期の売上高は137億ドルで、ガイダンスレンジの上限を上回り、前四半期比で6%増となりました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Non-GAAPベースの粗利益率は40%で、売上増、有利なミックス、在庫評価引当の減少によりガイダンスを4ポイント上回りました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "1株当たり利益は0.23ドルとなり、売上増、粗利率改善、継続的なコスト規律により、横ばいを見込んでいたガイダンスを上回りました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Productsの売上高は127億ドルで、前四半期比7%増、クライアントとサーバーの双方で想定を上回りました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "CCGの売上高は85億ドルで前四半期比8%増となり、季節的にTAMが強かったこと、Windows 11によるリフレッシュ、Lunar LakeおよびArrow Lakeの立ち上がりに伴う価格ミックスの改善により、当社の想定を上回りました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "PC AIの売上高は41億ドルで前四半期比5%増となり、製品ミックスの改善とエンタープライズ需要の高まりにより、想定を上回りました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "この動向に、ここ数年の従来型インフラへの投資不足が重なり、今後サーバーCPUの売上TAMは堅調に拡大していくと見ています",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Productsの営業利益は37億ドルで売上比29%、前四半期比9億7,200万ドル増となりました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Foundryの売上高は42億ドルで、前四半期比4%減となりました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "平成不動産販売株式会社 ｜ 三重県津市豊が丘１丁目６４番４号",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "一般建設業の許可(国土交通大臣許可(般-23)第24191号)を取得",
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋市中村区名駅南に名古屋事務所を開設し、名古屋事業本部および教育センターを移転",
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "スケジュールとリスク管理の徹底による納期厳守と顧客満足度向上",
+    "url": "https://www.chuo-eng.co.jp/company/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の要求事項を的確に理解し、顧客満⾜の向上を⽬指す",
+    "url": "https://www.chuo-eng.co.jp/company/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "1. エネルギー効率の良い製品を産み出す設計技術",
+    "url": "https://www.chuo-eng.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のコンセプトづくりからメーカーとともに行い、機械設計・電気電子設計・ソフトウェア設計、その先の製作まで、「モノづくり」のすべてを手掛けています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "国家的な宇宙機器開発プロジェクトや、大手メーカー・研究機関との取引実績は、私たちの確かな技術力の証です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2ヶ月間の充実した新人研修に加え、 キャリアアップを支援する教育制度が整っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新エネルギー、医療機器といった未来の社会課題を解決する分野への挑戦",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "専門技術研修やビジネススキルアップ研修、TOEIC対策講座などの社外研修や通信教育の受講を助成",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "旭川工業高等専門学校、阿南工業高等専門学校、有明工業高等専門学校、石川工業高等専門学校、一関工業高等専門学校、茨城工業高等専門学校、宇部工業高等専門学校、大分工業高等専門学校、大阪公立大学工業高等専門学校、沖縄工業高等専門学校、香川高等専門学校、鹿児島工業高等専門学校、北九州工業高等専門学校、岐阜工業高等専門学校、釧路工業高等専門学校、久留米工業高等専門学校、呉工業高等専門学校、高知工業高等専門学校、仙台高等専門学校、津山工業高等専門学校、鶴岡工業高等専門学校、東京工業高等専門学校、東京都立産業技術高等専門学校、苫小牧工業高等専門学校、長野工業高等専門学校、名古屋工学院専門学校、奈良工業高等専門学校、新居浜工業高等専門学校、沼津工業高等専門学校、函館工業高等専門学校、八戸工業高等専門学校、福井工業高等専門学校、福島工業高等専門学校、松江工業高等専門学校、都城工業高等専門学校",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜株式会社中央エンジニアリング様｜コクー株式会社",
+    "url": "https://dx-consulting.cocoo.co.jp/case/chuo-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "創業者はメーカーにて機械設計を行っていましたが、「設計業務のみで身を立てたい」との思いで独立・起業し、設計用のドラフターと製図板１つだけで、機械系の図面を１枚１枚書き起こすことから始めました",
+    "url": "https://dx-consulting.cocoo.co.jp/case/chuo-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング株式会社 - Movable Type 導入事例 - 導入事例 | シックス・アパート - CMSソフトウェア、サービスを提供",
+    "url": "https://www.sixapart.jp/business/chuoeng.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング株式会社 - Movable Type 導入事例",
+    "url": "https://www.sixapart.jp/business/chuoeng.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は近年、顧客の多様なセキュリティ要件や運用体制に応えるため、新たなサイト構築基盤として「Movable Type クラウド版（MTクラウド）」を導入、制作会社としての強みを活かしながら、より柔軟で安全なウェブサイト提供モデルを確立している",
+    "url": "https://www.sixapart.jp/business/chuoeng.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに同様に重要なこととして、この部門は新たなASICおよび設計サービス事業の立ち上げを主導し、幅広い外部顧客に特化型シリコンを提供します",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント分野では、年末までに最初のPanther LakeのSKUを投入し、来年前半には追加のSKUを順次投入する計画通りに進んでいます",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "従来型サーバーでは、トークナイゼーションの急速な拡大、データの保存・処理需要の増加、電力・スペース制約の改善ニーズを背景に、AIワークロードが設置済み基盤の更新と能力拡張の双方を牽引しています",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Intel 18Aファミリーは、少なくとも次の3世代のクライアントおよびサーバー製品の基盤となります",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "私は、安全なエンクレーブ内で米国政府や他のコミット済み顧客と連携していきます",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "潜在的な外部顧客との積極的な関与を継続しており、意思決定を後押しし方向付ける初期フィードバックに勇気づけられています",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "ファウンドリーとして、当社のプロセスが、製品の作り方がそれぞれ異なる多様な顧客にとって容易に利用できるものであることを保証しなければなりません",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "電力、性能、歩留まり、コスト、スケジュールといったあらゆるニーズを満たすウエハーの製造を当社に求める顧客を満足させる術を、私たちは身につける必要があります",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "それによって初めて、顧客は自らの成功を保証する真の長期パートナーとして当社を信頼できるのです",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "マクロの変動には引き続き警戒していますが、顧客の購買行動や在庫水準は健全で、業界の供給は大幅に逼迫しています",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "クライアント分野では、COVIDによる前倒し需要から5年が経過し、より大きな設置ベースのリフレッシュの恩恵を受けています",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "特にIntel 10およびIntel 7における能力制約により、第3四半期はデータセンター製品とクライアント製品の双方で需要を完全には満たせませんでした",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Productsの売上高は127億ドルで、前四半期比7%増、クライアントとサーバーの双方で想定を上回りました",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "当社が供給可能で、かつ顧客の需要がある製品へ需要をシフトさせるための価格やミックス調整を含め、利用可能な生産量を最大化するべく顧客と緊密に連携しています",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントの消費TAMは2025年に2億9,000万台に近づくと見込んでおり、2023年のパンデミック後の底を起点とした2年連続の成長となります",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "三重県の主要な建設業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "三重農林建設株式会社 ｜ 三重県津市一身田中野２７５番地の１",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "藪建設株式会社 ｜ 三重県津市大里睦合町２５２２番地",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "織田建設株式会社 ｜ 三重県津市牧町４５９番地の１",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "向川建設株式会社 ｜ 三重県津市美杉町竹原３９９番地",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社山口建設 ｜ 三重県南牟婁郡紀宝町北檜杖６１４番地",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "七宝建設株式会社 ｜ 三重県尾鷲市野地町１２番３１号",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社山本工務店 ｜ 三重県鈴鹿市若松北３丁目９番３４号",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社荻田建設 ｜ 三重県伊勢市前山町字宮出河内１３８５番地",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社西邦建設 ｜ 三重県伊勢市下野町６００番地の１３",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社山口工務店 ｜ 三重県伊勢市浦口２丁目９番２５号",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社谷口建設 ｜ 三重県度会郡南伊勢町切原１０３番地１",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "山王建設株式会社 ｜ 三重県伊賀市甲野２６３３番地の１",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "大同建設工業株式会社 ｜ 三重県伊賀市上野丸之内１１７番地",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社中勢建設 ｜ 三重県松阪市立田町４１１番地１",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金60万円で「株式会社中央設計所」を設立",
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "米国子会社「Chuo USA Inc.」を設立",
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金60万円で「(株) 中央設計所」を設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジャパンエレベーターサービスホールディングス(株)【東証プライム上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)ソフトウェア・サービス【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アプライドグループ＜アプライド(株)【東証スタンダード市場上場】他＞",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "まだ道のりは長いものの、持続的な株主価値の創出に向けて正しい一歩を踏み出しています",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "これには、米国政府からの加速された資金供給、NVIDIAおよびソフトバンクグループからの重要な出資、そしてAlteraとMobileyeの一部持分の資金化が含まれます",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAによる50億ドルの出資は第4四半期末までにクローズする見込みです",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "当社の管理下にある事柄を厳格にマネジメントし、環境の変化に迅速に対応し、長期的な株主価値の創造に注力します",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "こうした協業の発表や出資は、その自信の高まりに寄与しているのでしょうか",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対するOpEx比率に規律を持ち、レバレッジを効かせたいと考えていますが、株主に大きなリターンをもたらし得る投資機会も見出しており、その実行をためらうことはありません",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "経済産業省 健康経営優良法人2022認定取得",
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「健康経営優良法人2026（大規模法人部門）」に認定",
+    "url": "https://www.chuo-eng.co.jp/company/health/",
+    "pass": 1
+   },
+   {
+    "quote": "「健康経営優良法人2026（大規模法人部門）」認定を取得いたしました",
+    "url": "https://www.chuo-eng.co.jp/company/health/",
+    "pass": 1
+   },
+   {
+    "quote": "「健康経営優良法人2026(大規模法人部門)」に認定",
+    "url": "https://www.chuo-eng.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2022認定取得",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業 概要 ｜株式 会社 中央エンジニアリング — 企業 概要 ｜株式 会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > profile",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 中央エンジニアリング の 会社概要 | マイナビ2028 — (株) 中央エンジニアリング の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp77304 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング 株式 会社 — 中央エンジニアリング 株式 会社 chuo-eg.co.jp http://chuo-eg.co.jp > profile > profile",
+    "url": "http://chuo-eg.co.jp/profile/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社中央エンジニアリング の企業 情報 - キャリタス就活 — 株式 会社中央エンジニアリング の企業 情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp > detail-uc",
+    "url": "https://job.career-tasu.jp/corp/00036828/detail-uc/",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング の企業データ - 高専プラス — 中央エンジニアリング の企業データ - 高専プラス 高専プラス https://kosen-plus.com > ... > 中央エンジニアリング",
+    "url": "https://kosen-plus.com/company/20faca1a-270f-439c-828b-938e8ebe5409/info/",
+    "pass": 3
+   },
+   {
+    "quote": "企業 概要 ｜株式会社 中央エンジニアリング — 企業 概要 ｜株式会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > profile",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 中央エンジニアリング の会社 概要 | マイナビ2028 — (株) 中央エンジニアリング の会社 概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp77304 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング の 事業 ｜技術のブレインパートナー — 中央エンジニアリング の 事業 ｜技術のブレインパートナー 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > business",
+    "url": "https://www.chuo-eng.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "#3092 決算分析 : 株式会社 中央エンジニアリング 第71期決算 ... — #3092 決算分析 : 株式会社 中央エンジニアリング 第71期決算 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2025/09/10",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/10/180000_2",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング の 将来性・業績・ 売上 に関する評判 ... — 中央エンジニアリング の 将来性・業績・ 売上 に関する評判 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths",
+    "url": "https://syukatsu-kaigi.jp/companies/104306/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要｜株式会社 中央エンジニアリング — 企業概要｜株式会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > profile",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "沿革｜株式会社 中央エンジニアリング — 沿革｜株式会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > history",
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜中央エンジニアリング様｜コクー株式会社 — お話を伺った方 株式会社中央エンジニアリング常務取締役 CSO＆CIO 間嶋 栄氏 株式会社中央エンジニアリング 事業戦略本部 情報システム課 課長鈴木 快和氏 株式会社中央エンジニアリング 事業戦略本部 情報システム課 杉本 啓太氏",
+    "url": "https://dx-consulting.cocoo.co.jp/case/chuo-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社中央エンジニアリング｜技術のブレインパートナー — Sep 1, 2026 · 1954年の創業以来、たしかな技術をご提供し続けてきたモノづくり企業、株式会社中央エンジニアリング。 設計開発から解析、製作までをワンストップで対応。 航空宇宙をはじめ自動車、産業機械、情報通信等幅広い分野に技術提供しています。",
+    "url": "https://www.chuo-eng.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング株式会社 - Movable Type 導入事例 - 導入事例 |... — 技術資料制作の中央エンジニアリング株式会社 ProNet のアデジナーレは、Movable Type を利用して、中央エンジニアリング株式会社のコーポレートサイトを構築しました。",
+    "url": "https://www.sixapart.jp/business/chuoeng.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社中央エンジニアリング様のインタビュー記事を掲載しました！ — 導入事例に、新たに「株式会社中央エンジニアリング様」を掲載しました。実際に導入いただいた企業様の活用事例を ...",
+    "url": "https://itinfra.cocoo.co.jp/news/241025",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリングの事業｜技術のブレインパートナー — 60年以上の実績を誇る航空機開発 航空分野は当社創業期の1958年3月に航空機の治工具設計から始まり、今では官需機・民間機それぞれにおける機体およびエンジンの設計・開発を行っています。また試験機材等の設計・製作も承っています。",
+    "url": "https://www.chuo-eng.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要｜株式会社 中央エンジニアリング中央エンジニアリング株式会社の主な契約先機関一覧 | 入札情報速報サ...株式会社中央エンジニアリング（大阪府）の会社概要・役員 | Compalyz...株式会社中央エンジニアリング｜技術のブレインパートナー株式会社 中央エンジニアリング 三重県鈴鹿市会社概要 | セントラルエンジニアリング株式会社 — 1954年設立、航空宇宙分野を中心に産業の発展に貢献してきた株式会社中央エンジニアリングの会社概要を掲載しています。 国内最大級の入札情報速報サービスNJSS（エヌジェス）が提供する、中央エンジニアリング株式会社に関する契約先機関の一覧です。まずは8日間の無料版をお試しください。 主要取引先には中外炉工業株式会社や中外プラント株式会社など、日本の主要な産業炉・プラント関連企業が名を連ね、発電、鉄鋼、石油化学といった基幹産業を支える企業群を顧客として",
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング株式会社の主な契約先機関一覧 | 入札情報速報サ... — 国内最大級の入札情報速報サービスNJSS（エヌジェス）が提供する、中央エンジニアリング株式会社に関する契約先機関の一覧です。まずは8日間の無料版をお試しください。",
+    "url": "https://www2.njss.info/competitors/view/c3ktkfi9ll3s36h7fma0/search/contract",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社中央エンジニアリング（大阪府）の会社概要・役員 | Compalyz... — 主要取引先には中外炉工業株式会社や中外プラント株式会社など、日本の主要な産業炉・プラント関連企業が名を連ね、発電、鉄鋼、石油化学といった基幹産業を支える企業群を顧客としています。 2026年6月5日 時点。",
+    "url": "https://compalyze.co.jp/company/9120101047969",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 中央エンジニアリング 三重県鈴鹿市 — 主要取引先 住友電装（株） NTN（株）桑名製作所 NTNテクニカルサービス（株） （株）NTN三重製作所 （株）NTN三雲製作所 日東電工（株）亀山事業所 取引銀行 三重銀行白子支店 ・百五銀行鈴鹿支店 従業員数 社員 16名",
+    "url": "https://www.chuo-eng.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【ChatGPTによる和訳】Intel Corporation (INTC) Q3 2025 Earnings Ca... Oct 23, 2025 · この取り組みを加速するため、基盤IP開発、テストチップ設計、EDAツール、設計プラットフォームといった横断的なエンジニアリング機能を統合し、レバレッジを高める「Central Engineering Group（中央エンジニアリング部門）」を最近設立しました。",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "三重県の主要な建設業関連企業一覧｜企業クリップ Jun 3, 2025 · 株式会社中央エンジニアリング ｜ 三重県鈴鹿市池田町字櫛引1111番地の2 中京消毒株式会社 ｜ 三重県鈴鹿市西条4丁目104番地 ハヤシ住宅株式会社 ｜ 三重県鈴鹿市西条4丁目50番地 株式会社古川組 ｜ 三重県鈴鹿市須賀3丁目13番36号",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【ChatGPTによる和訳】Intel Corporation (INTC) Q3 2025 Earnings Call Transcript｜SG",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "【ChatGPTによる和訳】Intel Corporation (INTC) Q3 2025 Earnings Call Transcript",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Corporation (NASDAQ:",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": ") Q3 2025 Earnings Call October 23, 2025 5:00 PM EDT",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you, John, and let me add my welcome this afternoon.",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "ジョン、ありがとうございます。本日午後にご参加の皆さまにも私から歓迎の意を表します。",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "we delivered a solid Q3 with revenue, gross margin, earnings per share above guidance.",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "当社は第3四半期において、売上高、粗利益率、1株当たり利益がガイダンスを上回る堅調な結果を達成しました。",
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "pass": 3
+   },
+   {
+    "quote": "三重県の主要な建設業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "シンキ配送株式会社 ｜ 三重県名張市西田原２０８０番地",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社藤一商事 ｜ 三重県四日市市日永西５丁目７番２５号",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フクマサ ｜ 三重県三重郡菰野町大字潤田３２３８番地３",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アートテックエンジニア ｜ 三重県津市島崎町１３５番地６",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "旭建材株式会社 ｜ 三重県津市高茶屋小森上野町２７９３番地の８",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "鍛冶清水道株式会社 ｜ 三重県津市垂水２６１２番地１３５",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社モリタ東海 ｜ 三重県津市島崎町１３７番地１２２",
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#中央エンジニアリング\" - Results on X | Live Posts & Updates Results for \"#中央エンジニアリング\" on X (Twitter). Find the latest posts, discussions, and updates about #中央エンジニアリング. 3 results found.",
+    "url": "https://x.com/hashtag/中央エンジニアリング",
+    "pass": 3
+   },
+   {
+    "quote": "官報決算データベース on X: \"株式会社中央エンジニアリング 第68期決... 株式会社中央エンジニアリング 第68期決算公告 東京都千代田区 純利益：5997万2000円 (前期比+23.84%) 利益剰余金：29億1840万9000円 (前期比+1.78%) 総資産：42億7977万8000円 (前期比+3.74%) catr.jp/settlements/d3…",
+    "url": "https://x.com/kessan_db/status/1561396554073681920",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング2026/7/3発表。同社は京都産業大学と宇宙ビジネ... 京都産業大学と連携協定を締結 ― 宇宙ビジネス分野の人材育成を強化｜お知らせ｜中央エンジニアリング｜ 弊社代表取締役社長石田（左）と京都産業大学在間敬子学長（右）株式会社中央エンジニアリングは、京都産業大学と宇宙ビジネス分野における人材育成を目的とした連携協定を締結し ...",
+    "url": "https://x.com/miya_space/status/2074360540466716769",
+    "pass": 3
+   },
+   {
+    "quote": "中央エンジニアリング様のブースにお邪魔いたしました。 #ものづくり... 中央エンジニアリング様のブースにお邪魔いたしました。 #ものづくりワールド2024 #中央エンジニアリング 💬0 🔄2 🤍13 📊609 📎",
+    "url": "https://x.com/yaoki_space/status/1804021639996412005",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社中央エンジニアリング | LinkedIn 株式会社中央エンジニアリング | LinkedInのフォロワー数21人。中央エンジニアリングは、機械、電気・電子、ソフトウェアなど多様な技術分野を結集し、エンジニアリングの課題解決に取り組む企業です。開発型のモノづくりに強みを持ち、仕様が固まっていない段階からでも最適な方向性を ...",
+    "url": "https://jp.linkedin.com/company/chuo-eng",
+    "pass": 3
+   },
+   {
+    "quote": "（株）中央エンジニアリング - LinkedIn （株）中央エンジニアリング | 3 followers on LinkedIn. 池田町 1111－2 鈴鹿市, 三重県 5130032, jp",
+    "url": "https://www.linkedin.com/company/（株）中央エンジニアリング",
+    "pass": 3
+   },
+   {
+    "quote": "川浦 佑介 - （株）中央エンジニアリング - 設計エンジニア | LinkedI...10 （株）中央エンジニアリング jobs - LinkedIn大矢 秀行 - 株式会社中央エンジニアリング - 取締役 | LinkedIn永見 正行 - 中央エンジニアリング - 次長 | LinkedIn渡邊 篤 - 株式会社中央エンジニアリング - 機械設計技術者 | LinkedI... （株）中央エンジニアリング - 設計エンジニア · 業務経歴： AM技術開発グループ 2020年7月〜継続中 飛行試験関連の派遣業務終了後、金属AM（3Dプリンター、積層造形）設計に従事 ・積層造形（AM、3Dプリンター）用設計ツール、nTop(nTopology)及びCADツール（Creo）の操作習熟。 ・nTopは技術コラムの ... Today’s top 10 （株）中央エンジニアリング jobs. ",
+    "url": "https://jp.linkedin.com/in/佑介-川浦-b620a2266",
+    "pass": 3
+   },
+   {
+    "quote": "10 （株）中央エンジニアリング jobs - LinkedIn Today’s top 10 （株）中央エンジニアリング jobs. Leverage your professional network, and get hired. New （株）中央エンジニアリング jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/（株）中央エンジニアリング-jobs-worldwide?f_C=64363760",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.chuo-eng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/location/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/health/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chuo-eng.co.jp/company/sustainability/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.chuo-eng.co.jp/assets/img/company/img_company2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://chuo-eg.co.jp/profile/profile.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mujin.co.jp/news/10444/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyotofusioneering.com/news/2023/05/17/1459",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dx-consulting.cocoo.co.jp/case/chuo-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixapart.jp/business/chuoeng.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www2.njss.info/competitors/view/c3ktkfi9ll3s36h7fma0/search/contract",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/9120101047969",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/american_stock/n/nc9940d43a9ea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/中央エンジニアリング",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kessan_db/status/1561396554073681920",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/miya_space/status/2074360540466716769",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yaoki_space/status/1804021639996412005",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/chuo-eng",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/（株）中央エンジニアリング",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/佑介-川浦-b620a2266",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/（株）中央エンジニアリング-jobs-worldwide?f_C=64363760",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/中央エンジニアリング",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中央エンジニアリング 会社概要 資本金 設立",
+   "results": [
+    "https://www.chuo-eng.co.jp/company/profile/",
+    "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "http://chuo-eg.co.jp/profile/profile.html",
+    "https://job.career-tasu.jp/corp/00036828/detail-uc/",
+    "https://kosen-plus.com/company/20faca1a-270f-439c-828b-938e8ebe5409/info/",
+    "https://www.chuo-eng.co.jp/company/history/",
+    "https://chuo-engineering.com/company/profile",
+    "https://www.chuo-e.jp/company/",
+    "https://www.kogyokai.com/member/chubu/chuo-eng.html",
+    "https://www.chuo-eng.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "中央エンジニアリング 事業内容 売上",
+   "results": [
+    "https://www.chuo-eng.co.jp/company/profile/",
+    "https://job.mynavi.jp/28/pc/search/corp77304/outline.html",
+    "https://www.chuo-eng.co.jp/business/",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2025/09/10/180000_2",
+    "https://syukatsu-kaigi.jp/companies/104306/post_items/6/word_mouths",
+    "https://kosen-plus.com/company/20faca1a-270f-439c-828b-938e8ebe5409/info/",
+    "https://mono.ipros.com/en/company/detail/2070117/",
+    "https://baseconnect.in/companies/37162825-cee3-470f-9ac8-aed0fdaa45a2",
+    "https://job.mynavi.jp/27/pc/search/corp77304/outline.html",
+    "https://kaijiwire.jp/companies/7010001050177"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "中央エンジニアリング 資金調達 株主",
+   "results": [
+    "https://www.chuo-eng.co.jp/company/profile/",
+    "https://www.mujin.co.jp/news/10444/",
+    "https://kyotofusioneering.com/news/2023/05/17/1459",
+    "https://www.chuo-eng.co.jp/company/history/",
+    "https://www.space-bd.com/ja/news/news20260123-001.html",
+    "https://port.creww.me/startup/100531",
+    "https://initial.inc/companies/A-QSANU",
+    "https://cinnamon.ai/news/20200423_series-c/",
+    "https://www.r-agent.com/viewjob/jk8be59cb90d9e3b02/",
+    "https://catr.jp/companies/041de/20299"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "中央エンジニアリング 導入事例",
+   "results": [
+    "https://dx-consulting.cocoo.co.jp/case/chuo-engineering",
+    "https://www.chuo-eng.co.jp/",
+    "https://www.sixapart.jp/business/chuoeng.html",
+    "https://itinfra.cocoo.co.jp/news/241025",
+    "https://www.chuo-eng.co.jp/business/",
+    "http://chuo-eg.co.jp/results/",
+    "https://chuo-engineering.com/result"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "中央エンジニアリング 主要取引先",
+   "results": [
+    "https://www.chuo-eng.co.jp/company/profile/",
+    "https://www2.njss.info/competitors/view/c3ktkfi9ll3s36h7fma0/search/contract",
+    "https://compalyze.co.jp/company/9120101047969",
+    "https://www.chuo-eng.co.jp/",
+    "https://www.chuo-eng.jp/",
+    "https://chuo-engineering.com/company/client",
+    "https://central-eng.co.jp/company/profile"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 中央エンジニアリング",
+   "results": [
+    "https://note.com/american_stock/n/nc9940d43a9ea",
+    "https://note.com/clipcorporation/n/n4f9d0d6f0d84",
+    "https://note.com/light_lilac3724/n/n6d16b23d7adb",
+    "https://note.com/orgdesignlab/n/nba3cdfc96eca",
+    "https://note.com/syotyo_builmen/n/n4052216c7d96",
+    "https://note.com/hidetoshiiwasaki/n/n2da12dd239f3",
+    "https://note.com/daikidomon/n/n238268ba8967"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 中央エンジニアリング",
+   "results": [
+    "https://x.com/hashtag/中央エンジニアリング",
+    "https://x.com/kessan_db/status/1561396554073681920",
+    "https://x.com/miya_space/status/2074360540466716769",
+    "https://x.com/yaoki_space/status/1804021639996412005",
+    "https://x.com/spacebd_inc/status/2062475160918335925",
+    "https://x.com/u_presscenter/status/2074328815917244667",
+    "https://x.com/central_eng_"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 中央エンジニアリング",
+   "results": [
+    "https://jp.linkedin.com/company/chuo-eng",
+    "https://www.linkedin.com/company/（株）中央エンジニアリング",
+    "https://jp.linkedin.com/in/佑介-川浦-b620a2266",
+    "https://www.linkedin.com/jobs/（株）中央エンジニアリング-jobs-worldwide?f_C=64363760",
+    "https://jp.linkedin.com/in/秀行-大矢-771705b9",
+    "https://jp.linkedin.com/in/正行-永見-359b26130",
+    "https://jp.linkedin.com/in/篤-渡邊-b4428b1a1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 中央エンジニアリング",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中央エンジニアリング note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中央エンジニアリング X 投稿",
+   "results": [
+    "https://x.com/hashtag/中央エンジニアリング",
+    "https://www.chuo-eng.co.jp/",
+    "https://en-hyouban.com/company/10004214595/user_kuchikomi/9802820/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000155923.html",
+    "https://www.chuo-eng.co.jp/info/2025/",
+    "https://prtimes.jp/main/html/rd/p/000000012.000155923.html",
+    "https://x.com/central_eng_"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部20頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部20頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部20頁・検索11回）"
+ }
+}

@@ -1,0 +1,2420 @@
+{
+ "name": "統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外）",
+ "en": "statistical revisions analysis mean revision mean absolute revision revision policy methodological change exclusion",
+ "aliases": [
+  "統計 改定 平均改定 平均絶対改定 分析",
+  "GDP 速報 改定 評価 方法 内閣府",
+  "revisions triangle analysis ONS guide",
+  "OECD revisions analysis database methodology"
+ ],
+ "context": "突き合わせ・推定",
+ "kind": "market",
+ "researched_at": "2026-11-09T14:04:02.809872+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "一方、労働生産性が安定していなければ、物価指数にバイアスをもたらすと",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・労働生産性が変化した場合、次のように指数にバイアスが発生するため、 「労働時間当",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "で、時系列的に連続させるには注意が必要である",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これら低回収率がもたらすバイアスならびにその補正については",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "correcting for unit nonresponse bias in surveys,\" Journal of Econometrics, vol. 136(1), pages",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "or understate ‘final’ estimates, that is, whether they are biased.",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する |ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する | ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP統計（国民経済計算）は2025年12月に基準改定（2015年基準→2020年基準）が実施され、2024年度の名目GDPは26.9兆円（GDP比4.4％）上方改定された",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・ 2018年～ 統計委員会専門委員",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する】【シンクタンク】ニッセイ基礎研究所は、保険・年金・社会保障、経済・金融・不動産、暮らし・高齢社会、経営・ビジネスなどの各専門領域の研究員を抱え、様々な情報提供を行っています",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検するのレポート Topへ",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第 5章 採用品目 ....................................................... 16",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3．採用品目数 .................................................................. 18",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5．採用商品カバレッジ .......................................................... 18",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5－1．採用商品と採用商品カバレッジ ...................................... 18",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5－2．採用商品カバレッジと指数精度 ...................................... 19",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6－1．外部データの採用 .................................................. 55",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "BOX 2．報告者負担軽減と指数精度向上を両立したオルタナティブ・データの採用 ...... 58",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "間当たり単価調査、⑥マージン調査等を採用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公的統計や、業界統計等を利用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "価格指数は、内閣府『国民経済計算』 （SNA：GDP 統計） 、経済産業省『第3 次産業活",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "動指数』などの統計において、デフレーターとして利用されている",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "体系、分類編成、採用品目、ウエイト、指数の計算、接続指数、指数の公表）につい",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "たがって、総務省『消費者物価指数』において個人向けサービスとして採用されてい",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、企業には、民間企業のほか、公的企業や官公庁等を含む",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "動向を近似しうる採用品目等が存在するか、の 2 点を勘案している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "わしい統計の構築に向けた幕開けといえるものである",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本年秋には、 「公的統計の整備",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "われわれは、統計利用者の立場から、現在の統計の諸",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. 統計の役割と最近の統計制度見直しの経緯",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(1) 統計の目的",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(2) 統計制度見直しの経緯",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "成長率への影響は限定的だが、実質GDP成長率は小幅に上方改定され、それに伴い内閣府が推計する潜在成長率も0.2～0.3％程度引き上げられた",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－1．小類別の企業間取引額の推計 ........................................ 22",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－2．各サービスの企業間取引額の推計 .................................... 23",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "BOX 3．指数の改訂幅（2015年基準での検証） ..................................... 83",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "の推計が可能であり、かつ、②品質一定の下で継続的な価格調査が可能であるサービ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "②（品目レベルの詳細な区分での）各サービスの企業間取引額の推計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－1．小類別の企業間取引額の推計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まず、 小類別毎の企業間取引額を推計する",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このため、国内取引額を別途推計し、加算している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "＜サードパーティーロジスティクスにおける取引額推計＞",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－2．各サービスの企業間取引額の推計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "用商品および非採用商品）の企業間取引額を推計する",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "る内訳サービス（品目）毎に、企業向けサービス生産額（売上高）を推計している33",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "企業の決算データなど代替的なデータを用いて、品目別の企業間取引額を推計してい",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "指数から、非公表品目の指数が逆算できないようにするための措置である",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検証などを実施したうえで、必要に応じて見直していく方針",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計期間 1970、1973-2003年 1960-1995年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1960-1992年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1955-92年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "『昭和45年国富調査』より推計",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "在まで 2つのヴァージョンがあり、データベースの延長推計を行っている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報サービス産業の動向や受注ソフトウエア投資の推計は、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（1） 2002年推計見直しから積み残された“宿題”",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP速報は2002年 8月に推計方法の抜本的な見直しを行った",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ているため、推計方法の見直しは確報との整合性も高めると考えられた",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現行推計では、供給",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "or so. Revisions to early estimates of GDP can be large and, over the past",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the feasibility of adjusting real-time estimates of GDP for apparent patterns",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "around the historical data. The uncertainty around real-time GDP estimates",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and reliability and so, in order to produce timely estimates, statistical",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "early estimates of many economic aggregates may differ from subsequent, more",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "informed estimates. Gross domestic product (GDP) is one important economic",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimate of final output, in part because independent errors in the underlying",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of initial quarterly growth estimates over the past two decades has averaged",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "whereas initial GDP estimates are published around nine weeks after the end",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "regular re-estimation of seasonal patterns, and the rebasing of volume estimates,",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This article examines the extent to which early estimates of GDP are revised, and",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Analysis of revisions is complicated by the fact that ‘final’ estimates",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "is necessary, therefore, to make a judgement about when estimates",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "value for GDP growth in a given quarter is assumed to be the estimate four",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP(A) growth is treated as the best estimate of GDP growth. The analysis",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、輸入貨物の輸",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある卸売業者が、衣服と飲食料品など複数の種類の商品を扱って",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、金融・",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この結果、『産業連関表』の企業間取引額には広告料収入が二重計上されているため、「新",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは、例えば、2015～2019 年の「総平均」の接続指数は、2015年",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以下のようなケースにおいては、品目指数を非公表としている41",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "上記①のケースでは、当該品目の価格データが存在しないため、品目指数の算出自",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "②のケースでは、非公表とする品目についても指数は計算可能であり、当該品目の",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※例えば、月次指数の 7月速報公表時は、4月から 6月までが訂正の対象",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "43 例えば、類別 「不動産賃貸」 では、 不動産を借りる側の企業から賃料を調査するケースがある",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、属性条件として 「サービス種類 （3種類） 」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "にサービスの品質が大きく異なる）ケースでは、 「銘柄指定調査」や「平均価格調査」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、労働生産性（労働投入1 単位当たりのアウトプット）が上",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "値決めが労働時間当たり単価をベースに行われる事例が多い「建物サービス・警備」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "アンケートの結果から日本の統計の問題点が浮き彫りになった",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "図表 1 景気動向指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "図表 2 構造把握指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば米国商務省の Bureau of Labor Statisticsでは、労働生",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただこうした研究でも、企業行動が市場構造に影響されるケース",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "複数の異業種をかかえる事例が増える可能性がある",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "between them was small. However, typically this is not the case; the range",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "are not available in a timely fashion; for example, some taxation data are",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "preferred measure (although this is not the case for initial estimates of",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "points may not be fully apparent in real time. For example, during a downturn",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, the household saving ratio – which is the residual of household",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "to GDP growth. For example, an upward revision to imports in a quarter may",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in coming years. For example, the impact of the sharp increase in the terms",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP is defined as the latest published vintage. For an example of the use",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Google検索「Preferred Sources（優先ソース）」設定方法",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※設定済みの方はステップ２でチェックがついています",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1－3．指数の計算方法 .................................................... 27",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－4．指数の計算方法 .................................................... 28",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2．公表方法 .................................................................... 32",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2．調査事項と調査方法 .......................................................... 36",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5．価格調査方法の種類 .......................................................... 42",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5－4．料率型調査 ........................................................ 48",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6．報告者負担軽減を企図した調査先調査以外の方法による価格調査 .................. 55",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1－2．品質調整時の指数の計算方法 ........................................ 65",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2．品質調整方法 ................................................................ 67",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3．品質調整方法の選択手順 ...................................................... 72",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3－1．欠測価格の補完方法 ................................................ 80",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・①銘柄指定調査、②平均価格調査、③モデル価格調査、④料率型調査、⑤労働時",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4 後述する対象範囲や価格調査方法の設計にあたっては、IMFや OECD 等の国際機関が公表して",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Theory and Practice\" (2004) 、Eurostat-OECD, \"Eurostat-OECD Methodological Guide for Developing",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "つまり、日本では、中央レベルでは分散型の統計機構",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "集中型機構ともいえる＊2",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一性を図るため、調査方法、分類基準、定義などについての調査を実施している",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データベースは、共通の計測方法の下での国際比較が可能となっている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しているが、各物価指数が共通の方法で計測されているわけではない",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "常に有機的な活用方法を想定して統計を整備しているかどうか、という点である",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "can also lead to revisions. Finally, revisions can result from methodological",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This method identifies five peaks and four troughs in the business cycle between",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "share of household consumption in GDP. This method of weighting revisions",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that such a tendency will persist in the future. In particular, methodological",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "construction methods, see ABS (2007, 2011, 2012). The ABS is one of only",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ABS (2012), ‘Australian System of National Accounts: Concepts Sources and Methods’,",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Harding D and A Pagan (2002), ‘Dissecting the Cycle: A Methodological Investigation’,",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/n5cbaf70a8af2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_flea8708/n/nf3264b862676",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_flea8708/n/nf1a50a77bbea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taituna/n/n44d52e324ffd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.world-economic-review.jp/impact/article4135.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/todobuono/n/nd3a52dd79974",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/guide/public/cpi/pdf/250730_4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO89653480X20C25A6KE8000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.world-economic-review.jp/impact/article4135.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%BA%96%E6%94%B9%E5%AE%9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jma.go.jp/jma/kishou/know/stats/shishin/shishin_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://qiqumo.jp/contents/dictionary/2549",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/12400000/001252076.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-viz-lab.com/statistical-data-cleansing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.msci.com/documents/1296102/34424357/MSCI+ESG+Ratings+Methodology_JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E7%A2%BA%E5%BA%A6%E3%81%A8%E7%B2%BE%E5%BA%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bea.gov/sites/default/files/papers/WP2003-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.ropensci.org/reviser/articles/efficient-release.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://unstats.un.org/unsd/nationalaccount/docs/KS-GQ-18-012-EN-N.pdf",
+    "status": "network_error:ConnectionError",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外） site:note.com",
+   "results": [
+    "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://note.com/kagawatomo/n/n5cbaf70a8af2",
+    "https://note.com/modern_flea8708/n/nf3264b862676",
+    "https://note.com/modern_flea8708/n/nf1a50a77bbea",
+    "https://note.com/taituna/n/n44d52e324ffd",
+    "https://note.com/zenkok/n/n866418d067c8",
+    "https://note.com/zenkok/n/ncb8411ddfcd8",
+    "https://note.com/horizon_it00/n/nfb770f8be88a",
+    "https://note.com/modern_flea8708/n/n988bc31b2e1f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外） note",
+   "results": [
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.world-economic-review.jp/impact/article4135.html",
+    "https://note.com/todobuono/n/nd3a52dd79974",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.stat.go.jp/info/guide/public/cpi/pdf/250730_4.pdf",
+    "https://www.nikkei.com/article/DGKKZO89653480X20C25A6KE8000/",
+    "https://www.npo-homepage.go.jp/npoportal/document/1020",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://www.enecho.meti.go.jp/appli/public_offer/2024/data/0203_01_04.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外） やり方",
+   "results": [
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "http://www.world-economic-review.jp/impact/article4135.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
+    "https://note.com/todobuono/n/nd3a52dd79974",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%BA%96%E6%94%B9%E5%AE%9A",
+    "https://www.jma.go.jp/jma/kishou/know/stats/shishin/shishin_all.pdf",
+    "https://www.nikkei.com/article/DGKKZO89653480X20C25A6KE8000/",
+    "https://qiqumo.jp/contents/dictionary/2549"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外） 事例",
+   "results": [
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "https://www.world-economic-review.jp/impact/article4135.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.stat.go.jp/info/guide/public/cpi/pdf/250730_4.pdf",
+    "https://www.mhlw.go.jp/content/12400000/001252076.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "https://data-viz-lab.com/statistical-data-cleansing",
+    "https://nira.or.jp/paper/report0810.pdf",
+    "https://www.msci.com/documents/1296102/34424357/MSCI+ESG+Ratings+Methodology_JP.pdf",
+    "https://ja.wikipedia.org/wiki/正確度と精度"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "statistical revisions analysis mean revision mean absolute revision revision policy methodological change exclusion",
+   "results": [
+    "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-01",
+    "https://www.bea.gov/sites/default/files/papers/WP2003-1.pdf",
+    "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "https://docs.ropensci.org/reviser/articles/efficient-release.html",
+    "https://www.suerf.org/wp-content/uploads/2024/02/SUERF-Policy-Brief-807_Asimakopoulos-et-al.pdf",
+    "https://unstats.un.org/unsd/nationalaccount/docs/KS-GQ-18-012-EN-N.pdf",
+    "https://www.abs.gov.au/statistics/research/analysis-revisions-gross-domestic-product",
+    "https://www.amstat.org/docs/default-source/files/pdfs/cos-asa-revisions-economic-indicators.pdf",
+    "https://www.researchgate.net/publication/375139180_GDP_Revisions_are_Not_Cool_The_Impact_of_Statistical_Agencies'_Trade-Off",
+    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外）",
+   "results": [
+    "https://note.com/hatankokka/n/ne30fff7cfedc",
+    "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "https://note.com/kagawatomo/n/n5cbaf70a8af2",
+    "https://note.com/modern_flea8708/n/nf3264b862676",
+    "https://note.com/modern_flea8708/n/n988bc31b2e1f",
+    "https://note.com/zenkok/n/n866418d067c8",
+    "https://note.com/modern_flea8708/n/nf1a50a77bbea",
+    "https://note.com/sohtanagasaka/n/n4e209489f0aa",
+    "https://note.com/pachipach/n/n9eb2cf272611",
+    "https://note.com/jack4manastalk/n/n880406135053"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外）",
+   "results": [
+    "https://x.com/genkuroki/status/2059420520643547145",
+    "https://x.com/sug100foroba/status/2034941120170672461",
+    "https://x.com/genkuroki/status/2106291089032548421",
+    "https://x.com/joggingnyanko/status/2058059819802927117",
+    "https://x.com/morihiroaki/article/2089490968110325766",
+    "https://x.com/8pq3aioo/status/2086178193791410401",
+    "https://x.com/BBiostatistics/status/2033327351476695409"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外）",
+   "results": [
+    "https://jp.linkedin.com/pulse/accuracy-vs-precision-jarod-graham-myxgc?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-project-budget-accuracy-precision-bob-mcgannon?tl=ja",
+    "https://www.linkedin.com/posts/katsuhiro-t-92101720a_人だから公正な評価はムリ-それはそうだでも精度は上げられる少しでも納得感を上-activity-7109874768086016000-fB1M",
+    "https://jp.linkedin.com/posts/小山恵斗_情報の精度にこだわることで成長速度は爆上げする-先日の投稿で-報連相において-activity-7412811376001265664-8N-r",
+    "https://jp.linkedin.com/pulse/difference-between-accuracy-precision-its-impact-hasan?tl=ja",
+    "https://jp.linkedin.com/pulse/rmsleで誤差指標を制す-回帰モデル精度を3段階アップさせる5分講座-web5-terakoya-bhsac",
+    "https://jp.linkedin.com/learning/learning-data-science-understanding-the-basics-4/2415983"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外）",
+   "results": [
+    "https://www.facebook.com/takao.komine/posts/私の読書日記46西村清彦肥後雅博gdp統計年末に大幅改定-it投資大幅に上振れも日本経済新聞経済教室2025年6月30日この論文によると年末にはgdp統計の見直/24004518159235919/",
+    "https://www.facebook.com/masashi.hagihara/posts/日経朝刊国勢調査に行政情報の活用がようやく動き始める現在住民基本台帳で調査自体を代替することはできないとあるが都市部の多くの自治体が未回収でも聞き取りぜず住民基/10243997374491051/",
+    "https://www.facebook.com/medwatch.jp/posts/947321672044020/",
+    "https://www.facebook.com/mdv.medicaldatavision/photos/2026年度診療報酬改定webセミナーを12月16日火開催-2040年に向けた診療報酬が動き出すvol1-メディカルデータビジョン株式会社東京都千代田区代表取締/1372228588023438/",
+    "https://www.facebook.com/reel/1745923492701033/",
+    "https://www.facebook.com/YamanakaClinic/photos/診療報酬改定2026について2026年6月1日月診療報酬が改定され窓口でのお支払いいただく診療料金が一部変更されます公費適応の場合を除く何卒ご理解のほどよろしく/1536130261538464/",
+    "https://www.facebook.com/ibaraki.tokei/photos/茨城県統計課ホームページの市町村のデータを更新しました茨城県内の市町村のデータを更新しましたぜひご活用ください令和8年2月1日までに公表されているデータに更新茨/1339462671559755/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外） note 社長",
+   "results": [
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "http://www.world-economic-review.jp/impact/article4135.html",
+    "https://note.com/todobuono/n/nd3a52dd79974",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.nikkei.com/article/DGXZQOUA2320A0T21C25A0000000/",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/siryou/siryou_top.html",
+    "https://www.stat.go.jp/info/guide/public/cpi/pdf/250730_4.pdf",
+    "https://www.nier.go.jp/06_jigyou/symposium/i_sympo24/pdf/report_03_discussion.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+    "https://ja.wikipedia.org/wiki/正確度と精度"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の改定の小ささと精度を分ける読み方（改定方針・平均改定・平均絶対改定・方法変更の除外） X 投稿",
+   "results": [
+    "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "http://www.world-economic-review.jp/impact/article4135.html",
+    "https://www.boj.or.jp/research/brp/ron_2026/ron260430a.htm",
+    "https://www.nikkei.com/article/DGXZQOCD167AL0W5A610C2000000/",
+    "https://www.maxmouse.co.jp/tips/changelog_twitter/",
+    "https://www.reuters.com/article/opinion/198600-idUSKCN11L0UL/",
+    "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a198106.htm",
+    "https://note.com/todobuono/n/nd3a52dd79974",
+    "https://ja.wikipedia.org/wiki/正確度と精度",
+    "https://ja.wikipedia.org/wiki/基準改定"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "statistical revisions analysis mean revision mean absolute revision revision policy methodological change exclusion site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/kelseyoflaherty",
+    "https://be.linkedin.com/in/francipapa",
+    "https://in.linkedin.com/in/sourish-cmi",
+    "https://ng.linkedin.com/in/adaeze-oreh-8a66604",
+    "https://www.linkedin.com/in/lynn-shafer-willner-90025a9",
+    "https://in.linkedin.com/in/rounak-raman",
+    "https://ca.linkedin.com/in/lilit-aramyan",
+    "https://be.linkedin.com/in/lasse-simon-stoetzer",
+    "https://na.linkedin.com/in/alina-mbango-80504575",
+    "https://ie.linkedin.com/in/maryhausfeld"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "一方、労働生産性が安定していなければ、物価指数にバイアスをもたらすと",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・労働生産性が変化した場合、次のように指数にバイアスが発生するため、 「労働時間当",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "で、時系列的に連続させるには注意が必要である",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これら低回収率がもたらすバイアスならびにその補正については",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "correcting for unit nonresponse bias in surveys,\" Journal of Econometrics, vol. 136(1), pages",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "or understate ‘final’ estimates, that is, whether they are biased.",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する |ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する | ニッセイ基礎研究所",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP統計（国民経済計算）は2025年12月に基準改定（2015年基準→2020年基準）が実施され、2024年度の名目GDPは26.9兆円（GDP比4.4％）上方改定された",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・ 2018年～ 統計委員会専門委員",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検する】【シンクタンク】ニッセイ基礎研究所は、保険・年金・社会保障、経済・金融・不動産、暮らし・高齢社会、経営・ビジネスなどの各専門領域の研究員を抱え、様々な情報提供を行っています",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ＧＤＰ統計の基準改定で何が変わったのか－日本経済の姿を再点検するのレポート Topへ",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第 5章 採用品目 ....................................................... 16",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3．採用品目数 .................................................................. 18",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5．採用商品カバレッジ .......................................................... 18",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5－1．採用商品と採用商品カバレッジ ...................................... 18",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5－2．採用商品カバレッジと指数精度 ...................................... 19",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6－1．外部データの採用 .................................................. 55",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "BOX 2．報告者負担軽減と指数精度向上を両立したオルタナティブ・データの採用 ...... 58",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "間当たり単価調査、⑥マージン調査等を採用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公的統計や、業界統計等を利用",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "価格指数は、内閣府『国民経済計算』 （SNA：GDP 統計） 、経済産業省『第3 次産業活",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "動指数』などの統計において、デフレーターとして利用されている",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "体系、分類編成、採用品目、ウエイト、指数の計算、接続指数、指数の公表）につい",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "たがって、総務省『消費者物価指数』において個人向けサービスとして採用されてい",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、企業には、民間企業のほか、公的企業や官公庁等を含む",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "動向を近似しうる採用品目等が存在するか、の 2 点を勘案している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現在の統計体系は、戦後の混乱した日本経済を建て直し、国民生活の安定を確保する",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "こうした中で実施された 60年ぶりの今回の統計法の全面改訂は、 新たな時代にふさ",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "わしい統計の構築に向けた幕開けといえるものである",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本年秋には、 「公的統計の整備",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "われわれは、統計利用者の立場から、現在の統計の諸",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1. 統計の役割と最近の統計制度見直しの経緯",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(1) 統計の目的",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(2) 統計制度見直しの経緯",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "洋氏（東京大学大学院経済学研究科教授）が、日本の抱える統計の問題を経済財政諮",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "は、行政改革の一つとして、農林水産統計に偏った要員配置等を含めて、既存の統計",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "成長率への影響は限定的だが、実質GDP成長率は小幅に上方改定され、それに伴い内閣府が推計する潜在成長率も0.2～0.3％程度引き上げられた",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－1．小類別の企業間取引額の推計 ........................................ 22",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－2．各サービスの企業間取引額の推計 .................................... 23",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "BOX 3．指数の改訂幅（2015年基準での検証） ..................................... 83",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "の推計が可能であり、かつ、②品質一定の下で継続的な価格調査が可能であるサービ",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "②（品目レベルの詳細な区分での）各サービスの企業間取引額の推計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－1．小類別の企業間取引額の推計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まず、 小類別毎の企業間取引額を推計する",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このため、国内取引額を別途推計し、加算している",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "＜サードパーティーロジスティクスにおける取引額推計＞",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－2．各サービスの企業間取引額の推計",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "用商品および非採用商品）の企業間取引額を推計する",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "る内訳サービス（品目）毎に、企業向けサービス生産額（売上高）を推計している33",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "企業の決算データなど代替的なデータを用いて、品目別の企業間取引額を推計してい",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "指数から、非公表品目の指数が逆算できないようにするための措置である",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "検証などを実施したうえで、必要に応じて見直していく方針",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計期間 1970、1973-2003年 1960-1995年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1960-1992年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1955-92年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "『昭和45年国富調査』より推計",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "在まで 2つのヴァージョンがあり、データベースの延長推計を行っている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "情報サービス産業の動向や受注ソフトウエア投資の推計は、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（1） 2002年推計見直しから積み残された“宿題”",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP速報は2002年 8月に推計方法の抜本的な見直しを行った",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ているため、推計方法の見直しは確報との整合性も高めると考えられた",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現行推計では、供給",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "or so. Revisions to early estimates of GDP can be large and, over the past",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the feasibility of adjusting real-time estimates of GDP for apparent patterns",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "around the historical data. The uncertainty around real-time GDP estimates",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and reliability and so, in order to produce timely estimates, statistical",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "early estimates of many economic aggregates may differ from subsequent, more",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "informed estimates. Gross domestic product (GDP) is one important economic",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "estimate of final output, in part because independent errors in the underlying",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of initial quarterly growth estimates over the past two decades has averaged",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "whereas initial GDP estimates are published around nine weeks after the end",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "regular re-estimation of seasonal patterns, and the rebasing of volume estimates,",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This article examines the extent to which early estimates of GDP are revised, and",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Analysis of revisions is complicated by the fact that ‘final’ estimates",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "is necessary, therefore, to make a judgement about when estimates",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "value for GDP growth in a given quarter is assumed to be the estimate four",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP(A) growth is treated as the best estimate of GDP growth. The analysis",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、輸入貨物の輸",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、ある卸売業者が、衣服と飲食料品など複数の種類の商品を扱って",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、金融・",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この結果、『産業連関表』の企業間取引額には広告料収入が二重計上されているため、「新",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "これは、例えば、2015～2019 年の「総平均」の接続指数は、2015年",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "以下のようなケースにおいては、品目指数を非公表としている41",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "上記①のケースでは、当該品目の価格データが存在しないため、品目指数の算出自",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "②のケースでは、非公表とする品目についても指数は計算可能であり、当該品目の",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※例えば、月次指数の 7月速報公表時は、4月から 6月までが訂正の対象",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "43 例えば、類別 「不動産賃貸」 では、 不動産を借りる側の企業から賃料を調査するケースがある",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、属性条件として 「サービス種類 （3種類） 」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "にサービスの品質が大きく異なる）ケースでは、 「銘柄指定調査」や「平均価格調査」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、労働生産性（労働投入1 単位当たりのアウトプット）が上",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "値決めが労働時間当たり単価をベースに行われる事例が多い「建物サービス・警備」",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "や結果が異なることから、ともすれば論者が自分の主張にあう都合のよいデータを使",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "より投入された資源とその結果得られる政策の成果との因果関係について厳密に分析",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "我々が実施したアンケート調査結果でも、グローバル化の進展に伴い、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査結果に影響を及ぼし、厳密にいうと前回の調査との比較は困難となっているはず",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一次統計は、一般に、統計調査の結果から直接得られる統計で、調査の企",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "は、入札の結果委託先が変更されることによる統計の継続性、質の確保という観点か",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "＜参考＞ESPフォーキャスター＊3に対するアンケート調査結果（詳細は資料編を参照）",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "アンケートの結果から日本の統計の問題点が浮き彫りになった",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "図表 1 景気動向指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "図表 2 構造把握指標としての統計調査の評価結果",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば米国商務省の Bureau of Labor Statisticsでは、労働生",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ただこうした研究でも、企業行動が市場構造に影響されるケース",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "複数の異業種をかかえる事例が増える可能性がある",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "社のアンケート結果に基づくロジット・モデル分析」内閣府経済社会総合研究所『経済分析』",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "な経済変動、景気動向を把握するための統計指標」という観点から3段階評価した結果＊２",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "between them was small. However, typically this is not the case; the range",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "are not available in a timely fashion; for example, some taxation data are",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "preferred measure (although this is not the case for initial estimates of",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "points may not be fully apparent in real time. For example, during a downturn",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, the household saving ratio – which is the residual of household",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "to GDP growth. For example, an upward revision to imports in a quarter may",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "in coming years. For example, the impact of the sharp increase in the terms",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "GDP is defined as the latest published vintage. For an example of the use",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Google検索「Preferred Sources（優先ソース）」設定方法",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "※設定済みの方はステップ２でチェックがついています",
+    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1－3．指数の計算方法 .................................................... 27",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－4．指数の計算方法 .................................................... 28",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2．公表方法 .................................................................... 32",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2．調査事項と調査方法 .......................................................... 36",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5．価格調査方法の種類 .......................................................... 42",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5－4．料率型調査 ........................................................ 48",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6．報告者負担軽減を企図した調査先調査以外の方法による価格調査 .................. 55",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1－2．品質調整時の指数の計算方法 ........................................ 65",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2．品質調整方法 ................................................................ 67",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2－6．その他の調整方法： 「純粋な価格変動分」を利用可能なケース ........... 72",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3．品質調整方法の選択手順 ...................................................... 72",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3－1．欠測価格の補完方法 ................................................ 80",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "・①銘柄指定調査、②平均価格調査、③モデル価格調査、④料率型調査、⑤労働時",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4 後述する対象範囲や価格調査方法の設計にあたっては、IMFや OECD 等の国際機関が公表して",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Theory and Practice\" (2004) 、Eurostat-OECD, \"Eurostat-OECD Methodological Guide for Developing",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/sppi_2020/exsppi20a.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その趣旨は、いわゆる分散型の統計機構の下で各省が独自に統計調",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、現行の統計行政は、よく知られているように分散型であり、各府省の統計部",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、各論の永濱利廣氏の論文にあるように、いわゆる分散型の統計行政で",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "つまり、日本では、中央レベルでは分散型の統計機構",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "集中型機構ともいえる＊2",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一性を図るため、調査方法、分類基準、定義などについての調査を実施している",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "②加工統計の加工方法が公表されていること、③第三者が再現可能であること等が挙",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "がない、統計間で重複がみられるなど、分散型統計行政の弊害が大きくなっているた",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "JIPデータベースの作成方法は、深尾・宮川（2008）第 2章に詳しく書かれているので、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データベースは、共通の計測方法の下での国際比較が可能となっている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "方法が考えられるが、大きく粗資本ストックと純資本ストックに分けることができる",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "しているが、各物価指数が共通の方法で計測されているわけではない",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "常に有機的な活用方法を想定して統計を整備しているかどうか、という点である",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "can also lead to revisions. Finally, revisions can result from methodological",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This method identifies five peaks and four troughs in the business cycle between",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "share of household consumption in GDP. This method of weighting revisions",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that such a tendency will persist in the future. In particular, methodological",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "construction methods, see ABS (2007, 2011, 2012). The ABS is one of only",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ABS (2012), ‘Australian System of National Accounts: Concepts Sources and Methods’,",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Harding D and A Pagan (2002), ‘Dissecting the Cycle: A Methodological Investigation’,",
+    "url": "https://www.rba.gov.au/publications/bulletin/2013/mar/2.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T14:04:02.809872+00:00"
+}

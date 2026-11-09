@@ -1,0 +1,1797 @@
+{
+ "name": "テックタッチ",
+ "aliases": [],
+ "context": "東京都・資本金240000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T14:12:47.775509+00:00",
+ "official_url": "https://techtouch.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2018年3月1日",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：2018年3月1日",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年3月1日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018/03",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年3月1日",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "井無田 仲",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "井無田 仲",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "井無田　仲",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "井無田　仲",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 佐別當 宏友",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "デジタルアダプションプラットフォーム「テックタッチ」およびVoC分析AIエージェント「AI Central Voice」の開発・提供",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "デジタルアダプションプラットフォーム「テックタッチ」およびデータ戦略AIエージェント「AI Central Voice」の開発・提供",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "デジタルアダプションプラットフォーム「テックタッチ」およびデータ戦略AIエージェント「AI Central Voice」の開発・提供",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "システム構築サービス、システム運用管理サービス、業務受託サービス",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒104-0061 東京都中央区銀座8丁目17-1\n\t\t\t\t\tPMO銀座II 5F・8F（総合受付 5F） GoogleMaps",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都中央区 銀座 8-17-1 PMO銀座Ⅱ5F・8F（総合受付 5F）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区芝浦3-1-21msb Tamachi 田町ステーションタワーS 21F",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区六本木3丁目2-1住友不動産六本木グランドタワー",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "京都府京都市上京区御所八幡町110-16かわもとビル5階",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒104-0061 東京都中央区銀座8丁目17-1 PMO銀座II 5F・8F（総合受付 5F）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区銀座8丁目17-1\nPMO銀座Ⅱ5F・8F（総合受付 5F）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒104-0061 東京都中央区銀座8丁目17-1 PMO銀座Ⅱ 5F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都中央区銀座8-17-1 PMO銀座Ⅱ5F",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒104-0061 東京都中央区銀座8丁目17-1 PMO銀座Ⅱ5F・8F（総合受付5F）",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都中央区日本橋箱崎町24番1号",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "244名 （\n\t\t\t\t\t2026年10月\t\t\t\t\t\t\t\t\t\t\t時点）※正社員のみ",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "244名 （ 2026年09月時点）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "6億3,000万円",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "4億円（東証プライム上場 株式会社CAC Holdingsの100%子会社）",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "出所：株式会社アイ・ティ・アール「ITR Market View：コラボレーション／ナレッジ共有市場2025」デジタル・アダプション・プラットフォーム市場－従業員10,000人以上：ベンダー別売上金額シェア（2021～2025年度予測）",
+    "url": "https://techtouch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチをご導入いただき改善した事例をご紹介します",
+    "url": "https://techtouch.jp/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "問い合わせの大幅削減や操作時間の短縮、入力精度の向上など、業界・部門ごとの課題と効果を紹介します",
+    "url": "https://techtouch.jp/resources/techtouch-cases",
+    "pass": 1
+   },
+   {
+    "quote": "TIS、SAP Japan、Slack Japan、セールスフォース・ジャパンにて、エンタープライズ企業向けの人事SaaSやSlackの販売責任者に従事",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー・プラットフォーム事業の責任者として戦略立案・事業運営を担い、新領域の市場開拓やM&A製品の日本展開をリードし、成長に寄与",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチをご導入いただき改善した事例をご紹介します",
+    "url": "https://techtouch.jp/cases/?solution=cx",
+    "pass": 1
+   },
+   {
+    "quote": "TIS、SAP Japan、Slack Japan、セールスフォース・ジャパンにて、エンタープライズ企業向けの人事SaaSやSlackの販売責任者に従事",
+    "url": "https://techtouch.jp/event/seminarinfo-archive/",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチとは？「テックタッチ」にしか作れない価値や想いをご紹介",
+    "url": "https://techtouch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチとは？「テックタッチ」にしか作れない価値や想いをご紹介",
+    "url": "https://techtouch.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチをご導入いただき改善した事例をご紹介します",
+    "url": "https://techtouch.jp/cases/?solution=ex",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチをご導入いただき改善した事例をご紹介します",
+    "url": "https://techtouch.jp/cases/?solution=public",
+    "pass": 1
+   },
+   {
+    "quote": "問い合わせの大幅削減や操作時間の短縮、入力精度の向上など、業界・部門ごとの課題と効果を紹介します",
+    "url": "https://techtouch.jp/resources/techtouch-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆるWebシステム上にリアルタイムで操作ガイドを表示するデジタル・アダプション・プラットフォーム「テックタッチ」が主力",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットを通じて、個人や法人向けに月額課金制の家具・家電レンタルを提供",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、DAP市場で売上高5年連続No.1を獲得 市場シェア52.4%、あらゆる企業規模で導入が拡大 | テックタッチ株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、DAP市場で売上高5年連続No.1を獲得 市場シェア52.4%、あらゆる企業規模�で導入が拡大",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI型次世代DAP「テックタッチ」を開発・提供するテックタッチ株式会社は、株式会社アイ・ティ・アール（以下、ITR）が2025年10月に発行した市場調査レポート「ITR Market View：コラボレーション／ナレッジ共有市場2025」において、デジタル・アダプション・プラットフォーム（以下、DAP）市場ベンダー別売上金額シェアにおいて、5年連続で1位を獲得しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度のDAP市場は前年度比66.0%増の65億9,000万円と急成長を続けており、当社は市場全体の売上金額シェア52.4%を占め、中心的プレイヤーとして市場拡大を牽引しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は製造業・サービス業など主要産業領域で高いシェアを獲得するだけでなく、中堅・中小企業を含むあらゆる企業規模で導入が拡大しました（2023年度から2024年度）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "出典：株式会社アイ・ティ・アール「ITR Market View：コラボレーション／ナレッジ共有市場2025」デジタル・アダプション・プラットフォーム市場：ベンダー別売上金額シェア（2021～2025年度予測）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ：デジタルアダプションプラットフォーム「テックタッチ」およびデータ戦略AIエージェント「AI Central Voice」の開発・提供",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆるソフトウェアの画面上に操作ガイドを追加し、ユーザーの “わからない”を解消するサービス「Techtouch」の企画、開発、運営、販売",
+    "url": "https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業をやって●億円新しく作りますという事業計画を作ったり、今後はマーケティングを踏むので、●億円売上があがると思っています",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS事業者様向けの事業ドメインは全体の30%ぐらいの売上を占める程度まで成長し、公共セクターでは、官公庁様でのご利用実績がいくつか立ち上がり",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "そして2は、冒頭紹介した事業で決まるので、資金調達のタイミングでは手遅れで、できる事は相当限られている様に思います",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "できた事は今後の事業運営を支える大きな基盤になったと思います",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "米国では当たり前のように、ベンチャーデットを活用しているので、日本もようやく事業運営がしやすくなった環境が揃ったなと思っていると共に、まだまだベンチャーデットは黎明期で、",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "VoC分析AIエージェント「AI Central Voice 」紹介動画",
+    "url": "https://www.wantedly.com/companies/company_4388704",
+    "pass": 3
+   },
+   {
+    "quote": "当社プロダクト「テックタッチ」の紹介動画です",
+    "url": "https://www.wantedly.com/companies/company_4388704",
+    "pass": 3
+   },
+   {
+    "quote": "※1 出典：テックタッチ社プレスリリース「テックタッチ、DAP市場で売上高5年連続No.1を獲得 市場シェア52.4%、あらゆる企業規模で導入が拡大」（2025年11月13日）",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：デジタルアダプションプラットフォーム「テックタッチ」およびデータ戦略AIエージェント「AI Central Voice」の開発・提供",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：システム構築サービス、システム運用管理サービス、業務受託サービス",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "quote": "データ戦略AIエージェント「AI Central Voice 」紹介動画（テックタッチ株式会社）",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "松永勇樹｜株式会社AI Docks コミュニティ運営ラボ",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "あえて「凄くない事例」を賞賛する 〜社内AI活用を加速させた「再現性」を評価するコンテスト企画・運営〜",
+    "url": "https://note.techtouch.jp/m/m7e16c1fdd610?gs=d6bcd1ad3a7efb2e59f87d049c389697",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "これにより、サポート工数を削減し、ユーザーの自己解決能力を高めることで、顧客満足度の大幅な向上を実現します",
+    "url": "https://techtouch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「テックタッチ」は、官公庁、自治体、大学等の団体におけるシステムの使いやすさを根本から変革します",
+    "url": "https://techtouch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「コラボフロー」、新規顧客の早期効果創出や、 既存顧客の満足度のさらなる向上のために「テックタッチ」を採用",
+    "url": "https://techtouch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金融DXの新基準｜システム改修を抑え、投資対効果を最大化するCX戦略【大手事例公開】",
+    "url": "https://techtouch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体DXとは？5つの課題から推進ポイント・先進事例まで解説",
+    "url": "https://techtouch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 | テックタッチ | 問い合わせを90%削減",
+    "url": "https://techtouch.jp/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです",
+    "url": "https://techtouch.jp/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです",
+    "url": "https://techtouch.jp/cases/",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチ 導入事例集 - テックタッチ",
+    "url": "https://techtouch.jp/resources/techtouch-cases",
+    "pass": 1
+   },
+   {
+    "quote": "複数システムの全社利用、経費精算、基幹、営業、人事、購買、ワークフロー、PLM、顧客向けシステム、コンタクトセンター、公共領域、AI活用まで幅広いカテゴリを網羅",
+    "url": "https://techtouch.jp/resources/techtouch-cases",
+    "pass": 1
+   },
+   {
+    "quote": "自社の業界や部門に近い導入事例を探している方",
+    "url": "https://techtouch.jp/resources/techtouch-cases",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学法学部、コロンビア大学MBA卒",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "新生銀行、ドイツ証券などで投資銀行業務に従事、上場企業の資金調達/M&A案件を数多く手がける",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "素材エネルギーセクターのM&A案件を数多く手掛ける",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "顧客にプロダクトの価値を届けつつ、日本のエンタープライズ向けカスタマーサクセス領域の高度化に少しでも貢献するのが目標",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "日本IBMのグループ会社にて生命保険会社に対する情報システムの企画・開発・保守にかかわる技術支援を経験",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "金融部門に異動し、大手外資系銀行、大手地方銀行、証券会社などの監査業務、J-Sox導入支援業務、IFRS導入支援業務（プロジェクトマネジャー）などを経験",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチのプロダクトは、社員と顧客の思いが重なり合流した先にあるもの",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 | テックタッチ | 問い合わせを90%削減",
+    "url": "https://techtouch.jp/cases/?solution=cx",
+    "pass": 1
+   },
+   {
+    "quote": "自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです",
+    "url": "https://techtouch.jp/cases/?solution=cx",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです",
+    "url": "https://techtouch.jp/cases/?solution=cx",
+    "pass": 1
+   },
+   {
+    "quote": "自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです",
+    "url": "https://techtouch.jp/cases/customers",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです",
+    "url": "https://techtouch.jp/cases/customers",
+    "pass": 1
+   },
+   {
+    "quote": "金融DXの新基準｜システム改修を抑え、投資対効果を最大化するCX戦略【大手事例公開】 - テックタッチ",
+    "url": "https://techtouch.jp/event/seminarinfo-archive/",
+    "pass": 1
+   },
+   {
+    "quote": "金融機関のデジタル接点においてUX改善は喫緊の課題ですが、大規模なシステム刷新に伴う「高額投資」「年単位の実装期間」「セキュリティ担保」が事業成長の壁となっています",
+    "url": "https://techtouch.jp/event/seminarinfo-archive/",
+    "pass": 1
+   },
+   {
+    "quote": "大手金融機関はいかにして既存のセキュリティ水準を担保しつつ、住宅ローンの成約率向上やサポート工数削減を早期に実現したのか",
+    "url": "https://techtouch.jp/event/seminarinfo-archive/",
+    "pass": 1
+   },
+   {
+    "quote": "※停止時間：Player が全顧客に渡り使えなくなった時間",
+    "url": "https://techtouch.jp/service-level-objective",
+    "pass": 1
+   },
+   {
+    "quote": "自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです",
+    "url": "https://techtouch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです",
+    "url": "https://techtouch.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです",
+    "url": "https://techtouch.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです",
+    "url": "https://techtouch.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーの自己解決率が向上、問い合わせ数を50％削減し、教育現場のDX実現へ",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "従来、サービスの改善にはシステムの開発工数を必要としていましたが、非エンジニアでも簡単にシステム上での顧客体験を改善でき、ユーザーのオンボーディングに貢献できます",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "システム利用ユーザーへのNPSアンケート集計によって、システムの顧客ロイヤルティやユーザー満足度を計測できます",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "顧客向けサービスの事例や導入効果についてもっと知りたい方へ",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "NPSアンケートを活用し、顧客ロイヤルティやユーザー満足度を可視化",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "操作ガイドやツールチップで即対策を施し、利用率と顧客満足度を高めます",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "Webページ/システム上でシームレスに生成AIを呼び出し、顧客体験向上を支援します",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "一度の返信でユーザーが納得できる回答を作成でき、オペレーターの業務効率化と顧客満足度の向上を支援します",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の課題を深く理解し、システム設計全体をサポートします",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "運用プロセスの改善を提案し、顧客の業務全般をサポートします",
+    "url": "https://techtouch.jp/solution/cx",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 | テックタッチ | 問い合わせを90%削減",
+    "url": "https://techtouch.jp/cases/?solution=ex",
+    "pass": 1
+   },
+   {
+    "quote": "自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです",
+    "url": "https://techtouch.jp/cases/?solution=ex",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです",
+    "url": "https://techtouch.jp/cases/?solution=ex",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例 | テックタッチ | 問い合わせを90%削減",
+    "url": "https://techtouch.jp/cases/?solution=public",
+    "pass": 1
+   },
+   {
+    "quote": "自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです",
+    "url": "https://techtouch.jp/cases/?solution=public",
+    "pass": 1
+   },
+   {
+    "quote": "中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです",
+    "url": "https://techtouch.jp/cases/?solution=public",
+    "pass": 1
+   },
+   {
+    "quote": "テックタッチ 導入事例集 - テックタッチ",
+    "url": "https://techtouch.jp/resources/techtouch-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "複数システムの全社利用、経費精算、基幹、営業、人事、購買、ワークフロー、PLM、顧客向けシステム、コンタクトセンター、公共領域、AI活用まで幅広いカテゴリを網羅",
+    "url": "https://techtouch.jp/resources/techtouch-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "自社の業界や部門に近い導入事例を探している方",
+    "url": "https://techtouch.jp/resources/techtouch-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "※厚生年金の被保険者のデータを使用しています",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "空き家対策や自治体向けDXサービスも展開し、建設・不動産業界の透明性向上と街の循環再生を目指す",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "Webプラットフォームを活用し、厳選された工事会社ネットワークと専門スタッフによる顧客サポートを提供",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "中高生向けIT・プログラミング教育を展開する EdTech 企業",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "自治体・学校・企業向けデジタル人材育成研修も実施",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "自社サービス・製品あり、ベンチャー企業、女性管理職実績あり、シェアトップクラス、2年連続売り上げ10％以上UP、年間休日120日以上、産休・育休取得実績あり、教育・研修制度充実、資格支援制度充実",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "設立8期目のスタートアップでありながら、エンタープライズ企業・官公庁のAXを牽引しています",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "通話ログ、アンケート、SNSなど、企業内に散在する様々な顧客の声（VoC）である定性データを、AIが自動で構造化・可視化します",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズ企業や官公庁への導入実績をもとに、企業のAXを牽引します",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "◎優秀な仲間たちと挑む世界基準のプロダクト開発 グローバルIT企業、メガベンチャー、戦略コンサル、投資顧問企業などの出身者が揃い、互いに刺激し合いながら「世界に通用するプロダクト作り」に純度高く集中できる環境です",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "「デジタルアダプションプラットフォーム部門」「カスタマーサクセスツール部門」「マニュアル作成ツール部門」の3部門で最高位「Leader」を受賞",
+    "url": "https://techtouch.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP AWARD OF EXCELLENCE2023 Partner Innovationアワード 受賞",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "ITreview 「ITreview Grid Award」3部門にて「Leaders」受賞",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "日本DX大賞支援機関部門 ファイナリスト選出",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "総務省後援 ASPIC IoT･AI･クラウドアワード 基幹業務系ASP・SaaS部門 準グランプリ 受賞",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "・日本DX大賞支援機関部門 ファイナリスト選出（2022年）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "・グッドデザイン賞 受賞（2022年度）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "・総務省後援 ASPIC IoT･AI･クラウドアワード 基幹業務系ASP・SaaS部門 準グランプリ 受賞（2022年）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "・SAP AWARD OF EXCELLENCE2023 Partner Innovationアワード 受賞（2023年）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "・「ITreview Grid Award 2024 Fall」最高位である「Leader」を2部門で7期連続受賞（2024年）",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "■2025年の受賞実績",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "・「ITreview Grid Award 2025 Fall」「Leader」2部門・11期連続受賞（2025年10月）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ドクタートラスト社「ストレスチェック」職場環境優良法人（2025年7月）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "グッドデザイン賞、経済産業省が選ぶJ-Startup認定など、受賞多数",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、「ITreview Grid Award 2026 Fall」最高位の「Leader」を3部門で受賞、うち2部門は15期連続",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "「テックタッチ パートナーアワード 2026」受賞企業を発表",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、「働きがいのある会社」に3年連続認定、アジア地域ランキング44位に選出",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、「ITreview Grid Award 2026 Summer」最高位の「Leader」を3部門で受賞、うち2部門で14期連続の最高評価",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "グッドデザイン賞や経済産業省「J-Startup」認定など、受賞・認定実績も多数",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "エンタープライズ事業部門のリーダーとして、大手企業、公共部門および関東圏以外の地域における事業を統括",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "大手企業・有名企業などで続々と導入されています",
+    "url": "https://techtouch.jp/cases/customers",
+    "pass": 1
+   },
+   {
+    "quote": "インターネットを通じて、個人や法人向けに月額課金制の家具・家電レンタルを提供",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "当社は製造業・サービス業など主要産業領域で高いシェアを獲得するだけでなく、中堅・中小企業を含むあらゆる企業規模で導入が拡大しました（2023年度から2024年度）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数1,000人未満の中堅・中小企業でも過半数のシェアを獲得し、従業員数10,000人以上の大企業でも6割を超えるシェアを維持するなど、全ての企業規模での導入拡大を実現しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "800万人（2025年5月時点）を超えるユーザーに利用され、大手企業や官公庁などに導入されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | 一人当たりの事前準備時間を40時間削減、大手企業のアポイント目標達成にも大きく貢献 | Sales Retriever",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの事前準備時間を40時間削減、大手企業のアポイント目標達成にも大きく貢献",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "BDR組織における大手企業に対するアプローチ前の事前準備",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "架電数を2倍に増やすことができ、大手企業との商談目標数に対して大きく貢献した",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "主なお客様は従業員が2000名以上の大手企業様となっており、社内システム向け・自社プロダクト向けとあらゆる業務システムの定着を「テックタッチ」を通じて支援しています",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "主な活動としては大手企業に対してアウトバウンド活動を中心としてアプローチを行い社内のAccount Executive(以下、AE)にアポイントを供給し、会社全体のパイプライン創出に貢献しています",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のお客様は大手企業がメインですので、狙ってアポイントを供給するにはイベントなどを起点としたマーケティングよりも効果的だったということが検証を通じてわかったためです",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業向けのBDRはとても難易度は高いのですが、その分スキルも身につくのと会社に対する貢献度も高いためとてもやりがいを感じています",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "我々がアプローチする大手企業のお客様は自身の業務でとても忙しく、いろいろな会社から日々提案を受けるような方々です",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業は決して多くはないので、",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "ご提案部署の特定をAIで劇的改善、大手企業の商談件数を2倍に",
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "pass": 3
+   },
+   {
+    "quote": "AI型DAP「テックタッチ」、VoC分析AIエージェント「AI Central Voice」を展開し、1,000万人超の実績で大手企業・官公庁のAI活用変革を牽引",
+    "url": "https://www.wantedly.com/companies/company_4388704",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業や官公庁など幅広い組織で導入され、システムやAIの定着・活用を支援しています",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "quote": "【イベントレポート】エンタープライズBDR Night #2〜1部署で終わらないBDR、大手企業の複数部署攻略〜",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "新生銀行、ドイツ証券などで投資銀行業務に従事、上場企業の資金調達/M&A案件を数多く手がける",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "その後入社したユナイテッド社では、アプリ事業責任者、米国子会社代表としてアプリサービスのグロース/スケールを経験",
+    "url": "https://techtouch.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "※ 登記簿に掲載されていない資金調達情報は除く",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：6億3,000万円",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズB資金調達の裏側： テックタッチはスタートアップ冬の時代になぜ20億円強を調達できたのか？｜Masaya Nakade / テックタッチ株式会社",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズB資金調達の裏側： テックタッチはスタートアップ冬の時代になぜ20億円強を調達できたのか？",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "17.8億円の資金調達",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "その後デットでの調達も合わせると、20億円強の資金調達になります",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "しっかりしたバリュエーション・資金調達金額",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "ぐらいの時間は事業に割きながら資金調達をしました（これは使いすぎ感は逆にあって、もう少し違う事をするべきな気もしますが、、ここはバックオフィスを見てくれている飯沼（ぬまぴーさん）のお陰なので彼には本当に感謝です）",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "新規のフォロー投資家様として、誰もが知っているであろう、大企業様のCVCやVC・出資アームの皆様にご出資頂きました",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達後に、シンガポールまで（自費で（笑））行き、海外投資家と話をしましたが、意外と興味を持ってもらい、それならもっと前に話しておいてもよかったかなとも感じましたが、結果は大満足のファイナンスだったので、今後のファイナンスでご一緒できればと今は考えています",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "そうすると、今5億円出資してもらった場合、最低、15億円でIPOができないと判断すると投資はしないという意思決定になります",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "そして2は、冒頭紹介した事業で決まるので、資金調達のタイミングでは手遅れで、できる事は相当限られている様に思います",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "昔の金融の場だと、既存株主のため・長期的な会社の成長のためにかなり長く・激しい交渉をする事が多いのと、僕自身もゴリゴリ交渉をする人なので（笑）、そのスタンスでいたのですが、",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "ファイナンスバックグラウンドの方・今後資金調達を考えているCEO/CFOの方で、もう少し資金調達について詳細に話しを聞きたい！という方がいましたら、いつでも遠慮なくご連絡ください",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズB資金調達の裏側： テックタッチはスタートアップ冬の時代になぜ20億円強を調達できたのか？（後編：銀行借入ver）",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズB資金調達に寄せて：前編 これまでのキーとなった意思決定を振り返る",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達スライドのタイトルだけでも載せてほしいというご要望を頂いたので、、、一つの参考として以下に載せさせて頂きます",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本政策金融公庫 / SDFキャピタル株式会社 / THE CREATIVE FUND有限責任事業組合 / ソニーグループ株式会社 / SMBCベンチャーキャピタル株式会社",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、資金調達を実施 17.8億円を調達",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、資金調達を実施 転換社債型新株予約権付社債スキームにより1.5億円を調達",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、第三者割当増資を実施 5億円を調達",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ、資金調達を実施 総額1.2億円を調達",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "資本金：4億円（東証プライム上場 株式会社CAC Holdingsの100%子会社）",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズB資金調達の裏側： テックタッチはスタートアップ冬の時代になぜ20億円強を調達できたのか？（後編：銀行借入ver）",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズB資金調達の裏側： テックタッチはスタートアップ冬の時代になぜ20億円強を調達できたのか？",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "良いサービスなのに、なぜ資金調達が難しいのだろう",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ｜DAPとAI関連サービスを提供 - テックタッチ — 会社概要 ｜DAPとAI関連サービスを提供 - テックタッチ テックタッチ https://techtouch.jp > company",
+    "url": "https://techtouch.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式 会社 の企業 情報 - HERP Career — テックタッチ 株式 会社 の企業 情報 - HERP Career herp.careers https://herp.careers > careers > companies > techtouch",
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式 会社 の求人・採用 情報 - ビズリーチ — テックタッチ 株式 会社 の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式 会社 の求人 - ReDesigner — テックタッチ 株式 会社 の求人 - ReDesigner ReDesigner https://redesigner.jp > companies",
+    "url": "https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式 会社 の転職・企業 概要 - doda — テックタッチ 株式 会社 の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10185755261",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10185755261/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 、DAP市場で 売上 高5年連続No.1を ... - PR TIMES — テックタッチ 、DAP市場で 売上 高5年連続No.1を ... - PR TIMES PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜DAPとAI関連サービスを提供 - テックタッチ — 会社概要｜DAPとAI関連サービスを提供 - テックタッチ テックタッチ https://techtouch.jp > company",
+    "url": "https://techtouch.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式会社の求人 - ReDesigner — テックタッチ 株式会社の求人 - ReDesigner ReDesigner https://redesigner.jp > companies",
+    "url": "https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ の年収は？平均年収や役職別年収を徹底解説 — テックタッチ の年収は？平均年収や役職別年収を徹底解説 リメディ株式会社 https://remedy-tokyo.co.jp > media",
+    "url": "https://remedy-tokyo.co.jp/media/8733/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式会社 - スピーダ スタートアップ情報リサーチ — テックタッチ 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-33095",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ はスタートアップ冬の時代になぜ20億円強を 調達 ... — テックタッチ はスタートアップ冬の時代になぜ20億円強を 調達 ... note https://note.com > 投資・マネー > 投資・マネー全般",
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップ、SaaSで合従連衡 テックタッチ は10社出資へ — スタートアップ、SaaSで合従連衡 テックタッチ は10社出資へ 日本経済新聞 https://www.nikkei.com > ビジネス > スタートアップ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC224XD0S2A221C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | テックタッチ | 問い合わせを90%削減 — 導入事例 | テックタッチ | 問い合わせを90%削減 テックタッチ https://techtouch.jp > cases",
+    "url": "https://techtouch.jp/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "チュートリアル作成ツールの 導入事例 10選をご紹介 — チュートリアル作成ツールの 導入事例 10選をご紹介 テックタッチ https://techtouch.jp > ... > オンボーディング",
+    "url": "https://techtouch.jp/media/onboarding/tutorial-tool-example",
+    "pass": 3
+   },
+   {
+    "quote": "事例 - テックタッチ - アシスト — 事例 - テックタッチ - アシスト Ashisuto https://www.ashisuto.co.jp > knowledge > techtouch > case",
+    "url": "https://www.ashisuto.co.jp/product/category/knowledge/techtouch/case/",
+    "pass": 3
+   },
+   {
+    "quote": "【 テックタッチ事例 】 効果的な施策や企業の 事例 をご紹介！ — 【 テックタッチ事例 】 効果的な施策や企業の 事例 をご紹介！ onboarding.co.jp https://onboarding.co.jp > blog > テックタッチ事例",
+    "url": "https://onboarding.co.jp/blog/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E4%BA%8B%E4%BE%8B",
+    "pass": 3
+   },
+   {
+    "quote": "導入企業一覧 - テックタッチ — 導入企業一覧 - テックタッチ テックタッチ https://techtouch.jp > cases > customers",
+    "url": "https://techtouch.jp/cases/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式会社の会社情報 - Wantedly — テックタッチ 株式会社の会社情報 - Wantedly Wantedly https://www.wantedly.com > company_4388704",
+    "url": "https://www.wantedly.com/companies/company_4388704",
+    "pass": 3
+   },
+   {
+    "quote": "CAC、 テックタッチ 社とパートナー契約を締結し、DAP ... — CAC、 テックタッチ 社とパートナー契約を締結し、DAP ... 株式会社シーエーシー（CAC） https://www.cac.co.jp > ニュース",
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式会社の会社情報 - Forkwell Jobs — テックタッチ 株式会社の会社情報 - Forkwell Jobs Forkwell Jobs https://jobs.forkwell.com > techtouch",
+    "url": "https://jobs.forkwell.com/techtouch",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "テックタッチ 株式会社 テックタッチ 株式会社 note.com https://note.com > techtouch",
+    "url": "https://note.com/techtouch",
+    "pass": 3
+   },
+   {
+    "quote": "Masaya Nakade / テックタッチ 株式会社 - note Masaya Nakade / テックタッチ 株式会社 - note note https://note.com > masaya_nakade",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ の人気・新着記事まとめ - note テックタッチ の人気・新着記事まとめ - note note https://note.com > tag > テックタッチ",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの仕事 - テックタッチ株式会社 私たちの仕事 - テックタッチ株式会社 note.com https://note.com > techtouch",
+    "url": "https://note.com/techtouch/m/m7e16c1fdd610",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Great Place To Work Japan調査「働きがいのある会社」5位（2026年）",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "Techtouch Developers Blog",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトチームによる情報発信はこちらから！",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "TBS系全国28局ネット「がっちりマンデー!!(2025/5/25放送)」 U-NEXTで配信中",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "データ戦略AIエージェント「AI Central Voice 」紹介動画（テックタッチ株式会社）",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "VoC分析AI「AI Central Voice」でビールマップを描き直したら、口コミだけで新商品の企画が生まれた",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代に編集者は何をすべきか。「テックタッチって何の会社？」から始まった採用広報への挑戦",
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "pass": 3
+   },
+   {
+    "quote": "Masaya Nakade / テックタッチ株式会社｜note",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "勝てる事業とは？AI時代の事業とプロダクトのつくり方（後編）",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "Masaya Nakade / テックタッチ株式会社",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "勝てる事業とは？AI時代の事業とプロダクトのつくり方（前編）",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略の考え方、プロダクトと経営戦略の結び付け方",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "成長し続けている会社の経営陣10の特徴と僕が意識していること",
+    "url": "https://note.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーを活用して顧客の自走や製品定着を支援する手法や、その戦略について解説しています。",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサクセスの効率化や、AIを用いた新しい顧客体験の構築に関する記事が集まっています。",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーを活用して顧客の自走や製品定着を支援する手法や、その戦略について…",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代に編集者は何をすべきか。「テックタッチって何の会社？」から始まった採用広報への挑戦",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "【BDR実践ノウハウ】エンタープライズ開拓で月12件トスアップを生むリサーチと組織連携",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "「製品の機能を良くするだけでは不十分」と痛感した。10年半を営業で過ごした新任GMが、jinjerでScaled CSの立ち上げに挑む理由",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "担当・案件の引き継ぎ確認を、約5分で見渡せるダッシュボードをAIと作った｜航海日誌#01",
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサクセス（CS）や開発をはじめ、営業・マーケティング・経営・コーポレートなど、あらゆる現場で得た実践ナレッジをまとめたマガジン。",
+    "url": "https://note.techtouch.jp/m/m7e16c1fdd610?gs=d6bcd1ad3a7efb2e59f87d049c389697",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチの「仕事の取り組み方」や「現場…",
+    "url": "https://note.techtouch.jp/m/m7e16c1fdd610?gs=d6bcd1ad3a7efb2e59f87d049c389697",
+    "pass": 3
+   },
+   {
+    "quote": "VoC分析AI「AI Central Voice」でビールマップを描き直したら、口コミだけで新商品の企画が生まれた",
+    "url": "https://note.techtouch.jp/m/m7e16c1fdd610?gs=d6bcd1ad3a7efb2e59f87d049c389697",
+    "pass": 3
+   },
+   {
+    "quote": "VoC分析AI「AI Central Voice」が暴く沼落ちルート。ラーメン初心者が食すべき一杯とは？",
+    "url": "https://note.techtouch.jp/m/m7e16c1fdd610?gs=d6bcd1ad3a7efb2e59f87d049c389697",
+    "pass": 3
+   },
+   {
+    "quote": "【BDR実践ノウハウ】エンタープライズ開拓で月12件トスアップを生むリサーチと組織連携",
+    "url": "https://note.techtouch.jp/m/m7e16c1fdd610?gs=d6bcd1ad3a7efb2e59f87d049c389697",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "テックタッチ 株式会社 (@techtouch_inc) / X テックタッチ 株式会社 (@techtouch_inc) / X X https://x.com > techtouch_inc",
+    "url": "https://x.com/techtouch_inc",
+    "pass": 3
+   },
+   {
+    "quote": "MasayaNakade@ ﾃｯｸﾀｯﾁ CPO/CFO (@masaya_nakade) / X MasayaNakade@ ﾃｯｸﾀｯﾁ CPO/CFO (@masaya_nakade) / X X https://x.com > masaya_nakade",
+    "url": "https://x.com/masaya_nakade",
+    "pass": 3
+   },
+   {
+    "quote": "日比野 淳. テックタッチ CTO (@zun1100) / X 日比野 淳. テックタッチ CTO (@zun1100) / X X https://x.com > zun1100",
+    "url": "https://x.com/zun1100",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式会社 on X: \"【  イベントレポート】 #テック ... テックタッチ 株式会社 on X: \"【  イベントレポート】 #テック ... X https://x.com > @techtouch_inc",
+    "url": "https://x.com/techtouch_inc/status/2105236219039027596",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AI型DAP「 テックタッチ 」 - LinkedIn AI型DAP「 テックタッチ 」 - LinkedIn LinkedIn https://www.linkedin.com > techtouch-inc-テックタッチ",
+    "url": "https://www.linkedin.com/products/techtouch-inc-%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式会社 - LinkedIn テックタッチ 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > techtouch-inc",
+    "url": "https://jp.linkedin.com/company/techtouch-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Masaya Nakade - テックタッチ 株式会社 - CFO/CPO - LinkedIn Masaya Nakade - テックタッチ 株式会社 - CFO/CPO - LinkedIn LinkedIn https://jp.linkedin.com > masaya-nakade",
+    "url": "https://jp.linkedin.com/in/masaya-nakade",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "テックタッチ 株式会社 | Chuo-ku Tokyo - Facebook テックタッチ 株式会社 | Chuo-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/techtouch.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【お知らせ】 「 テックタッチ 」の国内外ユーザー ... - Facebook 【お知らせ】 「 テックタッチ 」の国内外ユーザー ... - Facebook Facebook https://www.facebook.com > techtouch.co.jp > posts > お...",
+    "url": "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%AE%E5%9B%BD%E5%86%85%E5%A4%96%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E6%95%B0%E3%81%8C1600%E4%B8%87%E4%BA%BA%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E5%B9%B41%E6%9C%88%E3%81%AE1000%E4%B8%87%E4%BA%BA%E5%88%B0%E9%81%94%E3%81%8B%E3%82%89%E3%82%8F%E3%81%9A%E3%81%8B9%E3%83%B6%E6%9C%88%E3%81%A716%E5%80%8D%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E5%9B%BD%E5%86%85%E3%82%B7%E3%82%A7%E3%82%A2no1%E3%81%AEdap%E3%81%A8%E3%81%97%E3%81%A6%E5%AE%98/1656000899552968/",
+    "pass": 3
+   },
+   {
+    "quote": "テックタッチ 株式会社 - Facebook テックタッチ 株式会社 - Facebook Facebook https://www.facebook.com > techtouch.co.jp > posts > お...",
+    "url": "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9Bphp%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7cve-2026-109618cve-2026-109619%E3%81%AB%E3%82%88%E3%82%8B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81ai-hub%E3%82%92%E5%90%AB%E3%82%80%E3%81%8A%E3%82%88%E3%81%B3ai-central-voice%E3%81%B8%E3%81%AE/1661404042345987/",
+    "pass": 3
+   },
+   {
+    "quote": "【レポート公開】 磐田市と テックタッチ による、行政事務に ... 【レポート公開】 磐田市と テックタッチ による、行政事務に ... Facebook https://www.facebook.com > techtouch.co.jp > posts > レ...",
+    "url": "https://www.facebook.com/techtouch.co.jp/posts/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E5%85%AC%E9%96%8B%E7%A3%90%E7%94%B0%E5%B8%82%E3%81%A8%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%AB%E3%82%88%E3%82%8B%E8%A1%8C%E6%94%BF%E4%BA%8B%E5%8B%99%E3%81%AB%E7%94%9F%E6%88%90ai%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E5%AE%9F%E8%A8%BC%E7%B5%90%E6%9E%9C%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81-ai-hub%E3%82%92%E9%80%A3%E6%90%BA%E3%81%95%E3%81%9B%E5%B9%B4%E9%96%93%E7%B4%84590%E6%99%82%E9%96%93%E7%9B%B8/1660722569080801/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://techtouch.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/resources/techtouch-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/cases/?solution=cx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/cases/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/event/seminarinfo-archive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/service-level-objective",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/solution/cx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/cases/?solution=ex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/cases/?solution=public",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtouch.jp/resources/techtouch-cases/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://herp.careers/careers/companies/techtouch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/9400/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-33095",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sales-retriever.jp/cases/techtouch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_4388704",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cac.co.jp/news/topics_260805/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.techtouch.jp/?gs=94417856580d39e28ab3ce5e447b37cb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masaya_nakade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.techtouch.jp/m/m7e16c1fdd610?gs=d6bcd1ad3a7efb2e59f87d049c389697",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/techtouch_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/masaya_nakade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zun1100",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/techtouch_inc/status/2105236219039027596",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/techtouch-inc-%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/techtouch-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/masaya-nakade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/techtouch.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%AE%E5%9B%BD%E5%86%85%E5%A4%96%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E6%95%B0%E3%81%8C1600%E4%B8%87%E4%BA%BA%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E5%B9%B41%E6%9C%88%E3%81%AE1000%E4%B8%87%E4%BA%BA%E5%88%B0%E9%81%94%E3%81%8B%E3%82%89%E3%82%8F%E3%81%9A%E3%81%8B9%E3%83%B6%E6%9C%88%E3%81%A716%E5%80%8D%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E5%9B%BD%E5%86%85%E3%82%B7%E3%82%A7%E3%82%A2no1%E3%81%AEdap%E3%81%A8%E3%81%97%E3%81%A6%E5%AE%98/1656000899552968/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9Bphp%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7cve-2026-109618cve-2026-109619%E3%81%AB%E3%82%88%E3%82%8B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81ai-hub%E3%82%92%E5%90%AB%E3%82%80%E3%81%8A%E3%82%88%E3%81%B3ai-central-voice%E3%81%B8%E3%81%AE/1661404042345987/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/techtouch.co.jp/posts/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E5%85%AC%E9%96%8B%E7%A3%90%E7%94%B0%E5%B8%82%E3%81%A8%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%AB%E3%82%88%E3%82%8B%E8%A1%8C%E6%94%BF%E4%BA%8B%E5%8B%99%E3%81%AB%E7%94%9F%E6%88%90ai%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E5%AE%9F%E8%A8%BC%E7%B5%90%E6%9E%9C%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81-ai-hub%E3%82%92%E9%80%A3%E6%90%BA%E3%81%95%E3%81%9B%E5%B9%B4%E9%96%93%E7%B4%84590%E6%99%82%E9%96%93%E7%9B%B8/1660722569080801/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/masaya_nakade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/techtouch_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/techtouch-inc-%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "テックタッチ 会社概要 資本金 設立",
+   "results": [
+    "https://techtouch.jp/company/",
+    "https://herp.careers/careers/companies/techtouch",
+    "https://www.bizreach.jp/companies/9400/",
+    "https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1",
+    "https://doda.jp/DodaFront/View/Company/j_id__10185755261/",
+    "https://www.wantedly.com/companies/company_4388704",
+    "https://jobs.forkwell.com/techtouch",
+    "https://compalyze.co.jp/company/2010401137025",
+    "https://initial.inc/companies/A-33095",
+    "https://ja.wikipedia.org/wiki/テックタッチ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "テックタッチ 事業内容 売上",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000366.000048939.html",
+    "https://techtouch.jp/company/",
+    "https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1",
+    "https://remedy-tokyo.co.jp/media/8733/",
+    "https://initial.inc/companies/A-33095",
+    "https://www.fastgrow.jp/articles/great-ventures-01-techtouch",
+    "https://mirai-cross.ventures/alumni/alumni-4194/",
+    "https://baseconnect.in/companies/fcda2fca-534f-40fb-a616-cf4bc8427e57",
+    "https://www.wantedly.com/companies/company_4388704/post_articles/401805",
+    "https://techtouch.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "テックタッチ 資金調達 株主",
+   "results": [
+    "https://note.com/masaya_nakade/n/ne8518bb6aeac",
+    "https://initial.inc/companies/A-33095",
+    "https://techtouch.jp/company/",
+    "https://codezine.jp/news/detail/17182",
+    "https://www.nikkei.com/article/DGXZQOUC224XD0S2A221C2000000/",
+    "https://www.startup-kyokai.org/News/20230622techtouch",
+    "https://www.firstcvc.jp/company/techtouch.jp",
+    "https://blog.allstarsaas.com/posts/techtouch-cfo",
+    "https://www.buffett-code.com/company/2q7rjiykz4/",
+    "https://ja.wikipedia.org/wiki/テックタッチ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "テックタッチ 導入事例",
+   "results": [
+    "https://techtouch.jp/cases/",
+    "https://techtouch.jp/media/onboarding/tutorial-tool-example",
+    "https://www.sales-retriever.jp/cases/techtouch",
+    "https://www.ashisuto.co.jp/product/category/knowledge/techtouch/case/",
+    "https://onboarding.co.jp/blog/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E4%BA%8B%E4%BE%8B",
+    "https://www.hitachi-solutions.co.jp/techtouch/case01/",
+    "https://techtouch.jp/resources/techtouch-cases/",
+    "https://ems.ttsystems.com/example/tt01/",
+    "https://ems.ttsystems.com/example/?taxonomy=example-category&term=テックタッチ",
+    "https://event.is-c.panasonic.co.jp/public/file/document/download/8985"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "テックタッチ 主要取引先",
+   "results": [
+    "https://techtouch.jp/cases/customers/",
+    "https://www.wantedly.com/companies/company_4388704",
+    "https://www.cac.co.jp/news/topics_260805/",
+    "https://initial.inc/companies/A-33095",
+    "https://jobs.forkwell.com/techtouch",
+    "https://x.com/techtouch_inc",
+    "https://www.r-agent.com/viewjob/jk093f35c5fb524ca9/",
+    "https://herp.careers/v1/techtouch",
+    "https://www.green-japan.com/company/6256"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com テックタッチ",
+   "results": [
+    "https://note.com/techtouch",
+    "https://note.com/masaya_nakade",
+    "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "https://note.com/techtouch/m/m7e16c1fdd610",
+    "https://note.com/dnx_vc/n/n3870d33ee0a4",
+    "https://note.com/soushi_nishino/n/n64834727cca3",
+    "https://note.com/masaya_nakade/n/n30485e3523bf",
+    "https://note.com/techtouch/n/n1f5ecf6033e1",
+    "https://note.com/yo_kakihata",
+    "https://note.com/openpage/n/n08319ad5e3cf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com テックタッチ",
+   "results": [
+    "https://x.com/techtouch_inc",
+    "https://x.com/masaya_nakade",
+    "https://x.com/zun1100",
+    "https://x.com/techtouch_inc/status/2105236219039027596",
+    "https://x.com/Avalonhill1",
+    "https://x.com/YTechtouch",
+    "https://x.com/tt_nishino",
+    "https://x.com/techtouch_inc/reposts",
+    "https://x.com/techtouch_inc/status/2116092764635218171",
+    "https://x.com/hashtag/テックタッチ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com テックタッチ",
+   "results": [
+    "https://www.linkedin.com/products/techtouch-inc-%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81/",
+    "https://jp.linkedin.com/company/techtouch-inc",
+    "https://jp.linkedin.com/in/masaya-nakade",
+    "https://jp.linkedin.com/in/%E9%9B%85%E5%85%B8-%E7%B6%BE%E5%B0%8F%E8%B7%AF-a180a772",
+    "https://jp.linkedin.com/in/komuro-yoshitaka-b903b7174",
+    "https://jp.linkedin.com/in/hibino-jun-5b3b37b0",
+    "https://jp.linkedin.com/in/tsuyoshi-nakamura-b61b7169",
+    "https://jp.linkedin.com/in/naka-imuta-7b20a44",
+    "https://jp.linkedin.com/in/tshiina1993",
+    "https://www.linkedin.com/pub/dir/Naka/Imuta"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com テックタッチ",
+   "results": [
+    "https://www.facebook.com/techtouch.co.jp/",
+    "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%AE%E5%9B%BD%E5%86%85%E5%A4%96%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E6%95%B0%E3%81%8C1600%E4%B8%87%E4%BA%BA%E3%82%92%E7%AA%81%E7%A0%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E5%B9%B41%E6%9C%88%E3%81%AE1000%E4%B8%87%E4%BA%BA%E5%88%B0%E9%81%94%E3%81%8B%E3%82%89%E3%82%8F%E3%81%9A%E3%81%8B9%E3%83%B6%E6%9C%88%E3%81%A716%E5%80%8D%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E9%81%82%E3%81%92%E5%9B%BD%E5%86%85%E3%82%B7%E3%82%A7%E3%82%A2no1%E3%81%AEdap%E3%81%A8%E3%81%97%E3%81%A6%E5%AE%98/1656000899552968/",
+    "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9Bphp%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7cve-2026-109618cve-2026-109619%E3%81%AB%E3%82%88%E3%82%8B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81ai-hub%E3%82%92%E5%90%AB%E3%82%80%E3%81%8A%E3%82%88%E3%81%B3ai-central-voice%E3%81%B8%E3%81%AE/1661404042345987/",
+    "https://www.facebook.com/techtouch.co.jp/posts/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E5%85%AC%E9%96%8B%E7%A3%90%E7%94%B0%E5%B8%82%E3%81%A8%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%AB%E3%82%88%E3%82%8B%E8%A1%8C%E6%94%BF%E4%BA%8B%E5%8B%99%E3%81%AB%E7%94%9F%E6%88%90ai%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E5%AE%9F%E8%A8%BC%E7%B5%90%E6%9E%9C%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81-ai-hub%E3%82%92%E9%80%A3%E6%90%BA%E3%81%95%E3%81%9B%E5%B9%B4%E9%96%93%E7%B4%84590%E6%99%82%E9%96%93%E7%9B%B8/1660722569080801/",
+    "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E5%AE%AE%E5%B4%8E%E7%9C%8C%E9%83%BD%E5%9F%8E%E5%B8%82%E3%82%B7%E3%83%95%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A8%E5%85%B1%E5%90%8C%E3%81%A7%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81-ai-hub%E3%81%A8%E3%82%B7%E3%83%95%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E8%A1%8C%E6%94%BF%E5%90%91%E3%81%91%E7%94%9F%E6%88%90ai%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E8%87%AA%E6%B2%BB%E4%BD%93a/1668437324975992/",
+    "https://www.facebook.com/PTC.JPN/posts/ptc%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%AF%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%80%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0dap%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A8%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%95%E3%82%89%E3%81%AB%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%AE%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/1610963654374600/",
+    "https://www.facebook.com/techtouch.co.jp/posts/%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E5%8F%97%E8%B3%9E%E5%BD%93%E7%A4%BE%E3%81%8C%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%8Citreview-grid-award-2026-fall%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E6%9C%80%E9%AB%98%E4%BD%8D%E3%81%A7%E3%81%82%E3%82%8Bleader%E3%82%923%E9%83%A8%E9%96%80%E3%81%A7%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB/1665479691938422/",
+    "https://www.facebook.com/techtouch.co.jp/posts/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AFai-central%E3%81%AE%E6%96%B0%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%81%A8%E3%81%97%E3%81%A6%E4%BA%8B%E6%A5%ADkpi%E3%81%AE%E8%A6%81%E5%9B%A0%E5%88%86%E6%9E%90ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88ai-central-metrics%E3%81%AE%E6%8F%90%E4%BE%9B%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97/1669456084874116/",
+    "https://www.facebook.com/techtouch.co.jp/posts/%E4%BA%8B%E4%BE%8B%E5%85%AC%E9%96%8B%E5%AE%9D%E5%8D%B0%E5%88%B7%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%AE%E6%B1%BA%E7%AE%97%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E8%87%AA%E5%8B%95%E5%8C%96%E3%83%84%E3%83%BC%E3%83%ABwizlabo%E3%81%AB%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E3%81%8C%E5%B0%8E%E5%85%A5%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9Ffaq%E3%82%92%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%82%82%E6%93%8D%E4%BD%9C%E3%81%AE%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%81%8C%E9%9B%BB%E8%A9%B1%E3%81%AB%E9%9B%86%E4%B8%AD%E3%81%97%E3%81%8C%E3%81%A1%E3%81%A7%E3%81%97%E3%81%9F%E7%94%BB%E9%9D%A2%E4%B8%8A%E3%81%AB/1656068186212906/",
+    "https://www.facebook.com/techtouch.co.jp/posts/お知らせテックタッチの国内外ユーザー数が1600万人を突破しました本年1月の1000万人到達からわずか9ヶ月で16倍の成長を遂げ国内シェアno1のdapとして官/1656000899552968/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "テックタッチ note 社長",
+   "results": [
+    "https://note.techtouch.jp/all",
+    "https://note.com/masaya_nakade",
+    "https://note.com/masaya_nakade/n/n30485e3523bf",
+    "https://note.com/techtouch_imuta/n/n29d3171b3b07",
+    "https://x.com/Avalonhill1",
+    "https://note.com/tag/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81",
+    "https://note.techtouch.jp/",
+    "https://note.com/techtouch_imuta",
+    "https://note.com/yo_kakihata",
+    "https://ja.wikipedia.org/wiki/テックタッチ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "テックタッチ X 投稿",
+   "results": [
+    "https://x.com/techtouch_inc",
+    "https://techtouch.jp/",
+    "https://www.linkedin.com/products/techtouch-inc-%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81/",
+    "https://prtimes.jp/main/html/rd/p/000000460.000048939.html",
+    "https://www.ptc.com/ja/news/2026/techtouch-partnership?srsltid=AYCX9vIiLOtwEjSBpntH89vUQUT4ePFSiKmuQ0R28tDgjofsdAwZIZW5",
+    "https://www.ceatec.com/nj/exhibitor_detail_ja?id=158",
+    "https://www.facebook.com/techtouch.co.jp/?locale=ja_JP",
+    "https://venture.jp/business/%E3%83%86%E3%83%83%E3%82%AF%E3%82%BF%E3%83%83%E3%83%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://it.impress.co.jp/articles/-/27995",
+    "https://x.com/hashtag/テックタッチ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部27頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部27頁・検索11回）"
+ }
+}

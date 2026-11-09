@@ -8,7 +8,7 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-09T02:46:59.473779+00:00",
+ "researched_at": "2026-11-09T14:06:17.633240+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -372,214 +372,6 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "take place as new methods of calculating figures are",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "revision results from changes in the methodology used to compile",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The first step in constructing a real-time database is deciding",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "is that revisions due to methodological changes are likely to",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "is not a bad method of estimating \", but it’s not as efficient a method as Strategy 1. The proof of",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "hand side). Strategy 3 performs poorly in comparison with the other methods.",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Thus, a naive evaluation methodology (which relies entirely on current-vintage data) predicts fairly",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "McNees, Stephen K. (1987) “Consensus Forecasts: Tyranny of the Majority,” New England",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "9. The exception is when revisions to the government’s methodology for calculating y(t) are so",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "great as to shift \". Ideally, the analyst would apply the government’s latest methodology",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "retroactively, using real-time vintage source data to obtain methodologically-consistent series for",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "methodological revisions and–if necessary–introduce one or more dummy variables on the right-",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "technical conditions are also met. Among them is the requirement that the methodology used to",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the second step in which they place the real-time (1992)",
-    "url": "https://d-nb.info/1166858995/34",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "most-recent-vintage data come from the first step in which",
-    "url": "https://d-nb.info/1166858995/34",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "status quo methods of data selection. Such a conclusion, how-",
-    "url": "https://d-nb.info/1166858995/34",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "quium participants at the Chair for Quantitative Methods in the",
-    "url": "https://d-nb.info/1166858995/34",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and coordinated way. These changes can take place beyond the three-year production cycle. Our",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This looks at the revisions in each Blue Book and relates to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication that was open to revision. It is one indicator of the trade-off between timeliness and accuracy, and also captures methodological improvements that come through our annual Blue Books.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The main methodological and data improvements in Blue Book 2026 are the incorporation of the Annual Survey of Goods and Services (ASGS), which gives us more information on products that are produced by the services industries, and changes to our estimates of actual and imputed rentals. For quarterly changes in volume GDP, the MAR for Blue Book 2026 was 0.04 percentage points.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", specifically the Annual Survey of Goods and Services, led to a revision to this historical data and now reflects a latest estimate of 1.7% for annual GDP in 2012. This is a consequence of a change in methods to bring in an entirely new data source that shed greater light on goods production in the service sector.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "However, there have been a series of methodological revisions over the last six years, which have had a particular impact for the change in 2017. For instance,",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "the enhancement in the quality of price deflators, including new methods to account for changes in the quality of computer hardware",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "introducing new weighting methods for market output deflators",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "bringing in method improvements to trade in services travel deflators",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "One likely explanation is that these revisions reflect the impact of balancing our full range of information in a SUT framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate. However, the MAR is smaller in recent decades, although again with the partial exception of the pandemic period.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Communicating the UK Economic Cycle methodology article",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimates of business investment were updated in Blue Book 2026 because of revised and newly available data, methodological improvements and the annual review of our seasonal adjustment models. More information on the revisions can be found in Section 3 of our",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "GDP quality and methodology information (QMI)",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "実例": [
    {
     "quote": "For example, the United States releases initial estimates of GDP",
@@ -822,6 +614,214 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "Revisions in quarterly GDP of OECD and key partner countries update (PDF, 5.2MB)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "take place as new methods of calculating figures are",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "revision results from changes in the methodology used to compile",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The first step in constructing a real-time database is deciding",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "is that revisions due to methodological changes are likely to",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "is not a bad method of estimating \", but it’s not as efficient a method as Strategy 1. The proof of",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "hand side). Strategy 3 performs poorly in comparison with the other methods.",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thus, a naive evaluation methodology (which relies entirely on current-vintage data) predicts fairly",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "McNees, Stephen K. (1987) “Consensus Forecasts: Tyranny of the Majority,” New England",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "9. The exception is when revisions to the government’s methodology for calculating y(t) are so",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "great as to shift \". Ideally, the analyst would apply the government’s latest methodology",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "retroactively, using real-time vintage source data to obtain methodologically-consistent series for",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "methodological revisions and–if necessary–introduce one or more dummy variables on the right-",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "technical conditions are also met. Among them is the requirement that the methodology used to",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the second step in which they place the real-time (1992)",
+    "url": "https://d-nb.info/1166858995/34",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "most-recent-vintage data come from the first step in which",
+    "url": "https://d-nb.info/1166858995/34",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "status quo methods of data selection. Such a conclusion, how-",
+    "url": "https://d-nb.info/1166858995/34",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "quium participants at the Chair for Quantitative Methods in the",
+    "url": "https://d-nb.info/1166858995/34",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We also introduce major methodological improvements during the annual Blue Book process to ensure that changes are implemented in a consistent and coordinated way. These changes can take place beyond the three-year production cycle. Our",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This looks at the revisions in each Blue Book and relates to the period from Quarter 1 (Jan to Mar) 1997 to the latest quarter available in that publication that was open to revision. It is one indicator of the trade-off between timeliness and accuracy, and also captures methodological improvements that come through our annual Blue Books.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The main methodological and data improvements in Blue Book 2026 are the incorporation of the Annual Survey of Goods and Services (ASGS), which gives us more information on products that are produced by the services industries, and changes to our estimates of actual and imputed rentals. For quarterly changes in volume GDP, the MAR for Blue Book 2026 was 0.04 percentage points.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "There will be some periods where revisions are larger, where this likely reflects higher levels of uncertainty in early estimates (for example, the coronavirus (COVID-19) pandemic) and/or where methodological and data changes have had more pronounced impacts in specific years. This can help to show what drives larger revisions to gross domestic product (GDP).",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Two examples of years that have seen larger annual GDP revisions over a number of subsequent Blue Books are 2012 and 2017. In this section, we explore how the level of GDP has been revised up in these years because of methodological and data improvements across subsequent Blue Books.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ", specifically the Annual Survey of Goods and Services, led to a revision to this historical data and now reflects a latest estimate of 1.7% for annual GDP in 2012. This is a consequence of a change in methods to bring in an entirely new data source that shed greater light on goods production in the service sector.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "However, there have been a series of methodological revisions over the last six years, which have had a particular impact for the change in 2017. For instance,",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "the enhancement in the quality of price deflators, including new methods to account for changes in the quality of computer hardware",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "introducing new weighting methods for market output deflators",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "bringing in method improvements to trade in services travel deflators",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "These case studies show how revisions not only reflect data revisions within the production cycle, but also methodological improvements that can take place beyond the three-year period of the first estimate.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "One likely explanation is that these revisions reflect the impact of balancing our full range of information in a SUT framework for the first time, and methodological improvements, which cannot be anticipated at the time of the first estimate. However, the MAR is smaller in recent decades, although again with the partial exception of the pandemic period.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Communicating the UK Economic Cycle methodology article",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimates of business investment were updated in Blue Book 2026 because of revised and newly available data, methodological improvements and the annual review of our seasonal adjustment models. More information on the revisions can be found in Section 3 of our",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "GDP quality and methodology information (QMI)",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "statistically significant positive bias to revisions for GDP growth.",
@@ -937,119 +937,306 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://media.raxus.inc/manabiz/magazine/sokuhouchi-kakuhouchi-hikaku",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
+    "url": "https://www.amed.go.jp/content/000034153.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://n-trend.com/trade-stats-preliminary-final/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&query=annual+GDP&layout=dataset&stat_infid=000007735474",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "url": "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://president.jp/articles/-/34196?page=3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minpo.online/article/online-1945-2025.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/err/l1/nhc_d/?kmwrjpfKypI%2Bvd3EOTRPWYTWjc9eT4bm40pMQ4ocW%2Bcf6J3vwAH89rUWp5PL4guvZRw5%2BxOfwIoY%0D%0ABdBMRCsI0X1i23OWslX76T1t5DYdODM%3D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nhs.uk/conditions/actinic-keratoses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kingstonandrichmond.nhs.uk/patients-and-families/patient-leaflets/actinic-keratoses-sun-damaged-skin-patches",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bad.org.uk/pils/actinic-keratoses",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Department_store",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_department_stores_of_the_United_States",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/department+store",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dillards.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.departmentstorehistory.net/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.retailmba.com/list-of-department-stores-in-the-usa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodnetwork.com/recipes/photos/spinach-recipes",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodnetwork.com/recipes/katie-lee/spinach-and-three-cheese-phyllo-pie-7967463",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodnetwork.com/recipes/ree-drummond/spinach-phyllo-hand-pie-5296694",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodnetwork.com/recipes/giada-de-laurentiis/cheese-and-spinach-puff-pastry-pockets-recipe-1943740",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodnetwork.com/recipes/jeff-mauro/spinach-artichoke-dip-stuffed-grilled-chicken-5257078",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foodnetwork.com/recipes/katie-lee/spinach-salad-with-pickled-strawberries-and-poppy-seed-dressing-3363517",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://d-nb.info/1166858995/34",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5270768/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://facultystaff.richmond.edu/~dcrousho/docs/Croushore%20Oxford%20Handbook%20paper.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
  "search_log": [
   {
    "query": "統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://president.jp/articles/-/34196?page=3",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://minpo.online/article/online-1945-2025.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://minpo.online/article/online-1945-2025.html",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "https://president.jp/articles/-/34196?page=3",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.nhs.uk/conditions/actinic-keratoses/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 28
   },
   {
    "query": "統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手） やり方",
    "results": [
-    "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku",
-    "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
-    "https://n-trend.com/trade-stats-preliminary-final/",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&query=annual+GDP&layout=dataset&stat_infid=000007735474",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6"
+    "https://minpo.online/article/online-1945-2025.html",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "https://president.jp/articles/-/34196?page=3",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://en.m.wikipedia.org/wiki/Department_store"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 29
   },
   {
    "query": "統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手） 事例",
    "results": [
-    "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku",
-    "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
-    "https://n-trend.com/trade-stats-preliminary-final/",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&query=annual+GDP&layout=dataset&stat_infid=000007735474",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6"
+    "https://minpo.online/article/online-1945-2025.html",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "https://president.jp/articles/-/34196?page=3",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://www.foodnetwork.com/recipes/photos/spinach-recipes"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 29
   },
   {
    "query": "relative mean absolute revision first estimate vintage comparison statistics journalism",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "https://d-nb.info/1166858995/34",
+    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5270768/",
+    "https://facultystaff.richmond.edu/~dcrousho/docs/Croushore%20Oxford%20Handbook%20paper.pdf",
+    "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "https://www.sciencedirect.com/science/article/pii/S0169207024000621",
+    "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2008/wp08-4.pdf",
+    "https://en.m.wikipedia.org/wiki/Relative"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
   },
   {
    "query": "site:note.com 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）",
    "results": [
     "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
     "https://note.com/good_poppy696/n/n5a548ce40e91",
-    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
     "https://note.com/mitarashi_info/n/n226acbc9d3cc",
-    "https://note.com/atlasstudio/n/nd337c8737bf9",
+    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
     "https://note.com/kyou_no_1pon/n/nf7dc56aba1cd",
-    "https://note.com/akiyoshitakumori/n/n5ad8b42d74d4"
+    "https://note.com/atlasstudio/n/nd337c8737bf9",
+    "https://note.com/good_poppy696/n/n51c7e41d15ce"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）",
    "results": [
-    "https://x.com/yuyawatase/status/2081070485648101771",
-    "https://x.com/Twit1020taro/status/2053459645784818170",
-    "https://x.com/yuyawatase/status/2081069660104208808",
-    "https://x.com/suzugen1995/status/2081254134586744904",
-    "https://x.com/BBiostatistics/status/2114504537956606443",
-    "https://x.com/9qmqsa/status/2117435972023734513",
-    "https://x.com/genkuroki/status/1260402105841410050"
+    "https://x.com/KagawaTomo/status/2110523688902873223",
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
+    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
+    "https://note.com/kyou_no_1pon/n/nf7dc56aba1cd",
+    "https://note.com/atlasstudio/n/nd337c8737bf9",
+    "https://note.com/good_poppy696/n/n51c7e41d15ce"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）",
+   "results": [
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
+    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
+    "https://note.com/kyou_no_1pon/n/nf7dc56aba1cd",
+    "https://note.com/atlasstudio/n/nd337c8737bf9",
+    "https://note.com/good_poppy696/n/n51c7e41d15ce"
    ],
    "engines": [
     "ddgs:google"
@@ -1057,78 +1244,82 @@
    "n_hits": 7
   },
   {
-   "query": "site:linkedin.com 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
    "query": "site:facebook.com 統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手）",
    "results": [
-    "https://www.facebook.com/stat.japan/",
-    "https://www.facebook.com/maffjapan/posts/統計情報2025年農林業センサス結果の概要概数値令和7年2月1日現在を公表しましたので概要をお知らせします1-農林業経営体全国の農林業経営体数は83万9千経営体/1299391365560406/",
-    "https://www.facebook.com/groups/335876377687020/permalink/1669633487644629/",
-    "https://www.facebook.com/office.oshima/posts/人口動態統計速報令和７年７月分-速報全体版を見たい場合は印刷用資料のpdfファイルをご覧ください-httpswwwmhlwgojptoukeisaikinhwj/1209752114526797/",
-    "https://www.facebook.com/stat.japan/posts/9月29日総務省統計局からお知らせします令和7年国勢調査-人口等基本集計結果-2025年令和7年10月1日現在の我が国の人口は1億2297万3千人2020年に比/1530830449080978/",
-    "https://www.facebook.com/stat.japan/posts/総務省統計局からのお知らせ明日への統計2026を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1418693596961331/",
-    "https://www.facebook.com/naganokentokei/posts/長野市の消費者物価指数2020年基準2025年令和７年１月分確報値公表のお知らせこんにちは統計第二係ですいつも各種統計調査にご理解ご協力またご回答をいただきあり/598222369778120/"
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "https://note.com/good_poppy696/n/n5a548ce40e91",
+    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
+    "https://note.com/ai_soubashi_gin/n/n097532021b7a",
+    "https://note.com/kyou_no_1pon/n/nf7dc56aba1cd",
+    "https://note.com/atlasstudio/n/nd337c8737bf9",
+    "https://note.com/good_poppy696/n/n51c7e41d15ce"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手） note 社長",
    "results": [
-    "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://n-trend.com/trade-stats-preliminary-final/",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&query=annual+GDP&layout=dataset&stat_infid=000007735474"
+    "https://minpo.online/article/online-1945-2025.html",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "https://president.jp/articles/-/34196?page=3",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "統計の速報から確報への直しを最初の値の大きさと並べて読む（相対の平均絶対改訂・時点ごとの版の比較・調査報道の書き手） X 投稿",
    "results": [
-    "https://manabi-biz.com/magazine/sokuhouchi-kakuhouchi-hikaku",
-    "https://blog.kurashiq.com/preliminary-vs-final-statistics/",
-    "https://www.bizstats-dashboard.com/glossary/preliminary-final-estimates/",
-    "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/dl/maikin-sokukakukeikou.pdf",
-    "https://www.e-stat.go.jp/stat-search/files?page=1&query=annual+GDP&layout=dataset&stat_infid=000007735474",
-    "https://n-trend.com/trade-stats-preliminary-final/",
-    "https://www.customs.go.jp/toukei/sankou/teisei/index.htm"
+    "https://www.amed.go.jp/content/000034153.pdf",
+    "https://www.inter-bee.com/2012/common/book/review2012ja/m/textindex/index.html",
+    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://president.jp/articles/-/34196?page=3",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://minpo.online/article/online-1945-2025.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://canireturn.com/blog/beauty-return-policy-comparison"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 19
   },
   {
    "query": "relative mean absolute revision first estimate vintage comparison statistics journalism site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/relative-vs-absolute-estimation-unpacking-two-approaches-manan-behal-dod3c",
-    "https://www.linkedin.com/pulse/absolute-estimation-vs-relative-usha-rani-pmp-csm--mflkc",
-    "https://www.linkedin.com/advice/0/what-difference-between-relative-absolute-estimation-cmsie",
-    "https://www.linkedin.com/pulse/how-use-relative-absolute-estimates-agile-projects-tiago-palhoto",
-    "https://www.linkedin.com/pulse/relative-vs-absolute-estimation-scrum-sujith-ramachandran-jrtwc/",
-    "https://www.linkedin.com/pulse/understanding-relative-estimation-agile-streamlining-software-shah-zfxlf",
-    "https://www.linkedin.com/pulse/what-estimation-agile-how-different-from-traditional-methods-singh-4cwec"
+    "https://www.linkedin.com/posts/jason-miller-32110325_supplychain-freight-trucking-activity-7402330982802235393-BdHe",
+    "https://www.linkedin.com/pulse/who-actually-losing-factory-jobs-china-richard-baldwin-mwztf",
+    "https://www.linkedin.com/posts/review-of-finance_reviewoffinance-finance-activity-7510262018197782528-na0A",
+    "https://www.linkedin.com/in/cecl-alll",
+    "https://www.linkedin.com/posts/jason-miller-32110325_supplychain-supplychainmanagement-manufacturing-activity-7424798941990432768-X0zC",
+    "https://www.linkedin.com/in/edakpalu",
+    "https://uk.linkedin.com/in/lemmy-emasit-3b1195282",
+    "https://www.linkedin.com/posts/ducoulombier_shareholderrights-investmentstewardship-activity-7513956439212781568-cJLn",
+    "https://www.linkedin.com/in/stephen-omukoko-okoth-a4a5b7188",
+    "https://www.linkedin.com/posts/brunellalupano_fastest-cities-miami-activity-7516135567890231296-cuY7"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 20
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T22:00:43.820697+00:00"
 }

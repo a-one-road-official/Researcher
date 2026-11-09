@@ -1,0 +1,530 @@
+{
+ "name": "Formnext — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T13:58:49.184794+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Don’t miss tomorrow’s Formnext Technology Talk: Aerospace ... Don’t miss tomorrow’s Formnext Technology Talk: Aerospace & Aviation! 🗓️ July 9 | 🕓 4–5 PM CEST VoxelMatters will present key AM market data and moderate the session. 🎟️ Free registration: https://t.co/E08v3F7VKw #AerospaceAM #Formnext #3DPrinting #AdditiveManufacturing",
+    "url": "https://x.com/VoxelMatters/status/1942552660735058382",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters on X: \"We visited @Creality3dP’s HQ in Shenzhen ... We visited @Creality3dP’s HQ in Shenzhen to preview what the company is taking to Formnext 2026. 6 million printers shipped, 140 countries, 957 patents, and a new lineup.",
+    "url": "https://x.com/VoxelMatters/status/2117922030947614944",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/category/events/formnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/expanding-the-foundations-for-the-next-decade-of-am-growth-at-formnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Formlabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/stratasys-acquires-markforged-from-nano-dimension-for-42-5-million/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globaldeal.io/finder/ja/articles/formnext-2026-exhibition-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.messefrankfurt.com/tokyo/ja/events/manufacturing-technologies-components-outgoing/formnext.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additive-manufacturing.or.jp/2025/08/18/formnext-asia-tokyo%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/products/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/WevolverApp/videos/chinas-additive-manufacturing-industry-is-evolving-rapidly-with-technological-ad/4441471476069183/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/formnext-for-dummies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/WevolverApp/videos/chinas-additive-manufacturing-industry-is-evolving-rapidly-with-technological-ad/4441471476069183/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/formnext-for-dummies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=358-7358162-2134958&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E5%85%85%E9%9B%BB%E5%BC%8F%E7%99%BA%E9%9B%BB%E6%A9%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E7%B5%B6%E7%B8%81%E3%83%91%E3%83%83%E3%82%AD%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04262384/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/events/formnext/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/formnext/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/VoxelMatters/status/1942552660735058382",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VoxelMatters/status/2117922030947614944",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Formnext — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/category/events/formnext/",
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.voxelmatters.com/expanding-the-foundations-for-the-next-decade-of-am-growth-at-formnext/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://formnext-sz.hk.messefrankfurt.com/shenzhen/en.html",
+    "https://www.youtube.com/watch?v=qEzEaotiNRM",
+    "https://www.3dnatives.com/en/lp/formnext/formnext-exhibitors-list/",
+    "https://www.facebook.com/formnext/videos/everything-starts-at-formnext-episode-iiiwhen-innovators-manufacturers-and-solut/1089866123633558/",
+    "https://www.voxelmatters.com/snapmaker-to-bring-its-u1-toolchanger-ecosystem-to-formnext/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Formnext — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Formlabs",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.html",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.instagram.com/antenna_ts/",
+    "https://formlabs.com/company/",
+    "https://now.formlabs.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formnext — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/stratasys-acquires-markforged-from-nano-dimension-for-42-5-million/",
+    "https://globaldeal.io/finder/ja/articles/formnext-2026-exhibition-guide",
+    "https://jp.messefrankfurt.com/tokyo/ja/events/manufacturing-technologies-components-outgoing/formnext.html",
+    "https://additive-manufacturing.or.jp/2025/08/18/formnext-asia-tokyo%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99/",
+    "https://www.jwes.or.jp/committees/am/54468/",
+    "https://jsam.or.jp/document/2025-10-27-5603/",
+    "https://www.intermold.jp/formnext/inspection/",
+    "https://news.sharelab.jp/interviews/formnext-report-231101/",
+    "https://ji-am.jp/2024/08/formnexttokyo2024/",
+    "https://www.jp.messefrankfurt.com/tokyo/ja/events/manufacturing-technologies-components-outgoing/formnext.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Formnext — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://formlabs.com/jp/products/materials/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://prtimes.jp/main/html/rd/p/000000141.000140772.html",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E5%B0%82%E9%96%80%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%91%E3%83%8D%E3%83%AB%EF%BC%9A%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%A5%AD%E7%95%8C%E3%81%8C%E4%B8%96%E7%95%8C/",
+    "https://nextshapes.com/ja/accessories/",
+    "https://www.form2.shop/formlabs-materials?srsltid=AYCX9vJn8TAslfzR6D1eKaECEfykcPzlKqrHrCen_54AVPLJvbsWCfiY",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Formnext — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.facebook.com/WevolverApp/videos/chinas-additive-manufacturing-industry-is-evolving-rapidly-with-technological-ad/4441471476069183/",
+    "https://www.voxelmatters.com/formnext-for-dummies/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.evonik.com/en/events/2026/formnext.html",
+    "https://formnextforum.jp.messefrankfurt.com/tokyo/en.html",
+    "https://www.youtube.com/watch?v=alyPg2SdC2U",
+    "https://www.stratasys.com/en/resources/",
+    "https://www.voxelmatters.com/events/formnext-asia-tokyo-forum/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Formnext — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.facebook.com/WevolverApp/videos/chinas-additive-manufacturing-industry-is-evolving-rapidly-with-technological-ad/4441471476069183/",
+    "https://www.voxelmatters.com/formnext-for-dummies/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://formnextforum.jp.messefrankfurt.com/tokyo/en.html",
+    "https://www.youtube.com/watch?v=PZZchmK0g2I",
+    "https://3dprint.com/319043/formlabs-teams-up-with-dmg-mori-in-japan/",
+    "https://formlabs.com/eu/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:amazon.co.jp Formnext — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Formnext — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/充電式発電機/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/k/store/絶縁パッキン/",
+    "https://www.monotaro.com/g/04262384/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/03001937/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formnext — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/category/events/formnext/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.linkedin.com/company/formnext/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/key-insights/",
+    "https://en.wikipedia.org/wiki/Formlabs",
+    "https://www.facebook.com/formnext/posts/exciting-insights-from-industry-leadersdiscover-how-formnext-becomes-the-ultimat/814262697395556/",
+    "https://www.polyformnext.de/additive-manufacturing/industrial-3d-printing-formnext-2026-showcases-growth-markets-and-scalable-business-models.htm",
+    "https://en.wikipedia.org/wiki/Bambu_Lab"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Formnext — VoxelMatters",
+   "results": [
+    "https://note.com/mar810/n/n841f55f07d04",
+    "https://note.com/viexp/n/ne4dee9ed5323",
+    "https://note.com/tokyomakers/n/na246304d6b96",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/seigo77",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Formnext — VoxelMatters",
+   "results": [
+    "https://x.com/AirtechOfficial",
+    "https://x.com/voxelmatters",
+    "https://x.com/VoxelMatters/status/1942552660735058382",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/FormnextForum",
+    "https://x.com/WevolverApp/status/2113593445906346411",
+    "https://x.com/WevolverApp",
+    "https://x.com/isaiahrmartin/status/2117871814625972663"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Formnext — VoxelMatters",
+   "results": [
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.linkedin.com/posts/activity-7521897467366285312-f2OV",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://cn.linkedin.com/showcase/formnext-shenzhen/",
+    "https://www.linkedin.com/pulse/21-everything-we-couldnt-see-formnext-pawel-slusarczyk-quy8f",
+    "https://www.linkedin.com/pulse/inside-mois-hybrid-fabrication-platform-lfam-fiber-cfm-%C3%B6zkisaoglu-i8wrf",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ceramicam-activity-7495110218633179136-e-_9",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Formnext — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/WevolverApp/videos/chinas-additive-manufacturing-industry-is-evolving-rapidly-with-technological-ad/4441471476069183/",
+    "https://www.facebook.com/formnext/posts/formnext-2026-more-than-an-expoa-comprehensive-supporting-program-allows-visitor/1572360594919092/",
+    "https://www.facebook.com/oqtonai/posts/formnext-is-three-weeks-away-bring-your-toughest-am-problem-to-hall-120-booth-b7/1530989359050236/",
+    "https://www.facebook.com/WevolverApp/posts/formnext-2026-takes-place-in-frankfurt-from-november-1720-bringing-together-the-/1539621764858595/",
+    "https://www.facebook.com/formnext/posts/vdma-formnext-2026the-vdma-additive-manufacturing-network-brings-together-leadin/1595804705908014/",
+    "https://www.facebook.com/WevolverApp/videos/formnext-asia-shenzhen-2026-brings-together-manufacturers-engineers-technology-p/867625712752958/",
+    "https://www.facebook.com/formnext/posts/formnext-to-go-exclusive-merchandise-celebrate-10-years-of-formnext-and-show-you/1282830010538820/",
+    "https://www.facebook.com/WevolverApp/posts/chinas-additive-manufacturing-industry-is-evolving-rapidly-with-technological-ad/1548409487313156/",
+    "https://www.facebook.com/3dlaserprinter/videos/-formnext-asia-shenzhen-2026-is-in-full-swingour-conversations-at-the-show-are-p/857119440700724/",
+    "https://www.facebook.com/VoxelMatters/posts/formnext-will-be-taking-place-on-both-sides-of-the-atlantic-this-year/781819395323521/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Formnext — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/category/events/formnext/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles_new/laying-the-foundations-for-the-next-decade-of-am-growth-at-formnext-2025.html",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://note.com/tokyomakers/n/na246304d6b96",
+    "https://www.linkedin.com/pulse/inside-mois-hybrid-fabrication-platform-lfam-fiber-cfm-%C3%B6zkisaoglu-i8wrf",
+    "https://www.youtube.com/watch?v=J7uYjohWi0Q",
+    "https://www.voxelmatters.group/about/",
+    "https://formnext.mesago.com/frankfurt/en.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Formnext — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/category/events/formnext/",
+    "https://formnext.mesago.com/frankfurt/en.html",
+    "https://www.voxelmatters.com/category/marketing/webinar/",
+    "https://www.youtube.com/watch?v=qEzEaotiNRM",
+    "https://www.facebook.com/formnext/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/formnext/",
+    "https://formnextforum.jp.messefrankfurt.com/tokyo/ja.html",
+    "https://www.arkema.com/global/en/media/shows/event/global/EMEA/formnext-1/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

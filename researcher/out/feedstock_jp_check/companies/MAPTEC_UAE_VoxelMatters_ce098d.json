@@ -1,0 +1,457 @@
+{
+ "name": "MAPTEC UAE — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T14:15:08.603277+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MAPTEC UAE — VoxelMatters - The largest database of additive ... — MAPTEC is a leading Additive Manufacturing, 3D printing, and reverse engineering solution provider in the Middle East region. Started in 2006 in Dubai, United Arab Emirates, with highly skilled engineers to deliver best value of solutions. In 2013 we expanded our operation by opening a branch office in Riyadh, Saudi Arabia to exten",
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "pass": 3
+   },
+   {
+    "quote": "Maptec - Crunchbase Company Profile & FundingMAPTEC - 3D Printer & Scanner Suppliers in UAEMAPTEC UAE — VoxelMatters - The largest database of additive ...MAPTEC - LinkedIn — Maptec manufactures and distributes 3D printers. Where is Maptec's headquarters? Maptec is located in Dubai, Dubai, United Arab Emirates. Who are Maptec's competitors? Alternatives and possible competitors to Maptec may inclu",
+    "url": "https://www.crunchbase.com/organization/maptec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MAPTEC | Dubai - FacebookMaptec | Dubai - FacebookMaptec Technology Systems - FacebookMaptec Middle East - FacebookVoxelMatters - FacebookMAPTEC | Facebook3d modelling, scanning and... - Maptec Technology Systems Jan 1, 2026 · MAPTEC, Dubai. 242 followers · 6 were here. Accelerate Additive & Digital Manufacturing across Middle East. حلول التصنيع الرقمية #Maptec3D #3Dprinter #3DScanner #ReverseEng ",
+    "url": "https://www.facebook.com/MaptecME/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.ae/s?i=merchant-items&me=A2PFRBGCXY2U15",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yellowpages-uae.com/maptec-technology-systems-157441",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maptec.ae/bambulab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.ae/s?i=merchant-items&me=A2PFRBGCXY2U15",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/maptec-profile_b5fa7720f9a09617",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investindubai.gov.ae:443/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investindubai.gov.ae:443/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/maptec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/signin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E9%89%84%E6%9D%BF+%E6%8A%98%E3%82%8A%E6%9B%B2%E3%81%92%E6%A9%9F/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3741/2794/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00490275/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/maptec-profile_b5fa7720f9a09617",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maptec.ae/about/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/maptec/430064372",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/maptec",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/MaptecME/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MAPTEC UAE — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/maptec/",
+    "https://www.amazon.ae/s?i=merchant-items&me=A2PFRBGCXY2U15",
+    "https://www.yellowpages-uae.com/maptec-technology-systems-157441",
+    "https://www.maptec.ae/bambulab",
+    "https://www.maptec.ae/",
+    "https://www.mattermaps.com/",
+    "https://www.toyo.co.jp/material/maker/detail/matesy.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.directory/company/maptec/",
+    "https://www.voxelmatters.com/",
+    "https://www.amazon.ae/s?i=merchant-items&me=A2PFRBGCXY2U15",
+    "https://rocketreach.co/maptec-profile_b5fa7720f9a09617",
+    "https://www.maptec.ae/",
+    "https://www.maptec.ae/3d-printers",
+    "https://maptec.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.directory/company/maptec/",
+    "https://skhonpo.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "https://www.kitetsu.biz/",
+    "https://www.zyltech.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.directory/company/maptec/",
+    "https://www.hidubai.com/businesses/maptec-b2b-services-distributors-wholesalers-umm-ramool-dubai",
+    "https://www.voxelmatters.com/",
+    "https://www.hidubai.com/businesses/maptec-technology-b2b-services-distributors-wholesalers-port-saeed-dubai-2",
+    "https://ae.kompass.com/c/maptec-computer-systems/ae804225/",
+    "https://www.maptec.ae/",
+    "https://www.maptec.ae/3d-printers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.voxelmatters.directory/company/maptec/",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "https://www.maptec.ae/3d-printers",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:amazon.co.jp MAPTEC UAE — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://pay.amazon.co.jp/signin",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/出口夏希2nd写真集『タイトル未定』-出口-夏希/dp/4344046854",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com MAPTEC UAE — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/鉄板+折り曲げ機/",
+    "https://www.monotaro.com/p/3741/2794/",
+    "https://www.monotaro.com/g/00490275/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/p/5137/2424/",
+    "https://www.monotaro.com/g/00361631/",
+    "https://www.monotaro.com/p/0146/1066/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://rocketreach.co/maptec-profile_b5fa7720f9a09617",
+    "https://www.maptec.ae/about/company",
+    "https://www.zoominfo.com/c/maptec/430064372",
+    "https://www.crunchbase.com/organization/maptec",
+    "https://www.voxelmatters.directory/company/maptec/",
+    "https://www.linkedin.com/company/maptec3d",
+    "https://www.maptec.ae/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MAPTEC UAE — VoxelMatters",
+   "results": [
+    "https://note.com/tag/積読美術館",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/guaran/n/ne1da1b216a7a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MAPTEC UAE — VoxelMatters",
+   "results": [
+    "https://x.com/Maptec3D",
+    "https://x.com/voxelmatters",
+    "https://x.com/Maptec3D/status/1627425842883076096",
+    "https://x.com/maptec_ict",
+    "https://x.com/Maptecsurveys",
+    "https://x.com/MapTec_IT",
+    "https://x.com/Maptec3D/status/1443467681961693185"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MAPTEC UAE — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/maptec3d",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://ae.linkedin.com/in/maptec-marketing-bb2801387",
+    "https://ae.linkedin.com/in/jafar-o-55653214",
+    "https://sa.linkedin.com/company/maptec3d",
+    "https://www.linkedin.com/posts/maptec3d_additivemanufacturing-maptec-blt-activity-7226127764070776832-k8Ke",
+    "https://www.linkedin.com/posts/maptec3d_3dscanning-3dprinting-maptec-activity-7213522021995970560-TIHs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MAPTEC UAE — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/MaptecME/",
+    "https://www.facebook.com/maptec3d/",
+    "https://www.facebook.com/maptec3dprinting/",
+    "https://www.facebook.com/MaptecAdmin/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/MaptecME/posts/3034277603486962/",
+    "https://www.facebook.com/maptec3dprinting/posts/3d-modelling-scanning-and-printing-solution-in-uae/1632558656993972/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MAPTEC UAE — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）"
+ }
+}

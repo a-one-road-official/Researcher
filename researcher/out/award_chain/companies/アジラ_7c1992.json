@@ -1,0 +1,1535 @@
+{
+ "name": "アジラ",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T13:58:33.306686+00:00",
+ "official_url": "https://jp.asilla.com/",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "行動認識AIを中核とした映像解析事業",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "世界トップクラスの「姿勢推定」および独自開発の「行動認識AI」をコアテクノロジーとした、次世代AI警備システム「AI Security asilla」の提供、施設向け人流解析、介護現場向けAI見守りシステムの企画・開発・設計および運用保守業務",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "行動認識AI及び姿勢推定AIを活用した警備システム「AI Security asilla」、介護施設向け見守りシステム「asilla care」、施設向け人流解析「asilla BIZ」等の研究・企画・開発・設計・販売および保守運用",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "AI警備システム『AI Security asilla』開発と販売",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2015年6月1日",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015/06",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015年6月1日",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015年06月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 木村 大介",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "尾上　剛",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役CEO 尾上 剛",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "尾上剛",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役CEO 木村 大介",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "56,125千円",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都町田市中町一丁目４－２",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "東京都町田市中町1-4-2",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒194-0021 東京都町田市中町1丁目4-2",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都町田市中町一丁目４－２",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "label": "株式会社アジラ（本社",
+    "value": "東京都町田市、代表取締役CEO：木村大介、以下「当社」）は、シリーズC ラウンドで約4.6億円の資金調達を実施しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都町田市中町一丁目4-2",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "68名",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社ニコン\nYKK株式会社\nセコム株式会社\n株式会社オンザウェイ\n兵庫県立大学\nパナソニック ネットソリューションズ株式会社\n経済産業省\n全国農業協同組合連合会\nアイシン精機株式会社\nNECネッツエスアイ株式会社\nキヤノンマーケティングジャパン株式会社\n三菱総研DCS株式会社\n東急不動産株式会社\n株式会社本田技術研究所\n日本信号株式会社\n富士通コミュニケーションサービス株式会社\nKDDI株式会社\n株式会社NTTデータ\n日産自動車株式会社\n富士通株式会社\nNTTエレクトロニクステクノ株式会社\n京セラコミュニケーションシステム株式会社\n株式会社ナカバヤシ\n株式会社ぐるなび (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "感覚に頼らない施設運営で、売上アップや顧客体験向上を支援",
+    "url": "https://jp.asilla.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AIに関する研究、企画、開発、設計、販売、賃貸借及び運用、保守",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア・ハードウェアの企画、開発、設計、販売、賃貸借及び運用、保守",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "2013年に株式会社ザッパラスに入社し、データマーケティング、CRM、月間1,000万PV超の複数メディア運営を統括",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "防犯カメラ × AI解析で、施設全体の人流データを取得し、運営の可能性を拡げる",
+    "url": "https://jp.asilla.com/services/biz",
+    "pass": 1
+   },
+   {
+    "quote": "混雑の傾向やピーク時間を把握し、より効率的な施設運営を実現します",
+    "url": "https://jp.asilla.com/services/biz",
+    "pass": 1
+   },
+   {
+    "quote": "同施設の施設管理を受託する株式会社東急コミュニティー（以下、「東急コミュニティー」）は、2024年10月よりアジラとの実証実験を開始し、警備品質の向上に向けてAI警備システム「AI Security asilla」の本格運用を進めています",
+    "url": "https://jp.asilla.com/post/casestudy-jptowernagoya-20261006",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、施設管理を担う東急コミュニティーのJPタワー名古屋運営センター、マネージャーの宮﨑様と、現場の警備業務を担うALSOK愛知株式会社のJPタワー名古屋警備隊、隊長の佐野様のお二方に、導入の背景から活用、今後の展望についてお話を伺いました",
+    "url": "https://jp.asilla.com/post/casestudy-jptowernagoya-20261006",
+    "pass": 1
+   },
+   {
+    "quote": "ーー 東急コミュニティー様はJPタワー名古屋の建物総合管理を受託されていますが、警備体制においてどのような課題を感じていらっしゃいましたか",
+    "url": "https://jp.asilla.com/post/casestudy-jptowernagoya-20261006",
+    "pass": 1
+   },
+   {
+    "quote": "そうした課題感を持っていた中で、asillaのAI警備システムをご紹介いただきました",
+    "url": "https://jp.asilla.com/post/casestudy-jptowernagoya-20261006",
+    "pass": 1
+   },
+   {
+    "quote": "AI Security asilla （販売版） SLA",
+    "url": "https://jp.asilla.com/termsofservice",
+    "pass": 1
+   },
+   {
+    "quote": "特に警備部門よりも、ザイマックスグループ内の商業施設の運営をしている部署からは非常に興味が高いですね",
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "pass": 1
+   },
+   {
+    "quote": "これは施設運営の最適化において非常に有用なデータとなり得ます",
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "pass": 1
+   },
+   {
+    "quote": "同じカメラで「警備」のみならず、運営に役立つ「人流」データの取得も可能",
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "pass": 1
+   },
+   {
+    "quote": "「ヒトとキカイが得意分野で融合する」という我々の未来の警備像を実現するため、アジラの技術力と、ザイマックスグループの不動産・施設運営の知見を融合させ、警備以外の分野も含め、グループ全体のDXをアジラ様と一緒に進めていくことに、強く期待しています",
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "pass": 1
+   },
+   {
+    "quote": "また次世代型施設運営モデルを体現するべく警備、清掃、運搬等幅広い分野でロボット活用やカメラシステムの導入を進めてまいりました",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "それら取り組みの一環として、施設の安全性向上と効率的な管理運営を実現するため「AI Seciruty asilla」を2022年10月より運用をしております",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "今回は丸の内エリアを中心とした大規模物件において、最前線で施設DXを推進してきた丸の内運営事業部 管理企画ユニット ユニットリーダーの花岡様に「AI Security asilla」の導入の経緯や実際の導入効果についてインタビューをさせていただきました",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "丸の内運営事業部 管理企画ユニット ユニットリーダー 花岡様",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、警備員の負担軽減や迅速な対応が可能になるだけでなく、これまで気付くことのできなかった不審な行動も検知できるため、より安全な施設運営が実現できると考え、asillaを含む複数の映像解析AIの実証実験を実施しました",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "【AI画像解析を活用した新たな施設運営管理】",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "次世代型施設運営モデルを深化・拡大、Society5.0実現へ -執務室内へのロボットフードデリバリー・ロボットによるIoT設備点検・AI画像解析による施設運営-",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "人数カウントや混雑状況可視化といった人流解析機能も備えており、警備業務の効率化だけでなく、施設運営全体の最適化にも貢献すると考えました",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "asillaで取得可能な人数カウントや混雑・滞留検知等の人流データを活用することで、より顧客満足度の高い施設運営が可能になったと感じています",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "こうした異変にすぐに気づき、対応することが運営の課題でした",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "X-PITCHとはスタートアップ企業が世界から集まった投資家に向けて自社の技術・事業を紹介するために作られたピッチイベントです",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：行動認識AIを中核とした映像解析事業",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向け情報検索サイト イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、日鉄興和不動産と資本業務提携 オフィスビル・商業施設・複合施設等における施設運営DXを推進",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、西鉄ビルマネージメントと業務提携 警備や施設管理を始めとしたビルにまつわる様々なサービスを受託している施設へ導入することを目指す",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、アプライドと業務提携 AI-OCR『ジジラ』の文教向けパッケージを協同販売",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、高度なディープラーニング技術や独自の行動認識アルゴリズムを社会実装し、持続可能な収益基盤へと昇華させるプロセスには、巨額の先行投資という大きな壁が立ちはだかります",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 世界トップクラスの「姿勢推定」および独自開発の「行動認識AI」をコアテクノロジーとした、次世代AI警備システム「AI Security asilla」の提供、施設向け人流解析、介護現場向けAI見守りシステムの企画・開発・設計および運用保守業務",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "追加のカメラ工事やハードウェア購入の初期費用を実質的にゼロに抑え、月額のサブスクリプション料金のみで運用が可能な革新的なビジネスモデルを提示しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、これだけの高度な組織と複数のオフィス、そして世界最高水準のR&D体制を維持するための固定費負担は非常に重く、第11期において436百万円の当期純損失を計上している事実は、現在の売上高が未だ投資回収の損益分岐点に達していないという内部の厳しい現実を示しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、厚みのある固定負債の返済や、Jカーブ効果による黒字化フェーズへの早期移行に向け、次なる大規模な資金調達やMRR（月次経常収益）の爆発的な積み上げが絶対に必要とされる状況です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "最新の第11期において436百万円という巨額の当期純損失を計上しており、いまだ先行投資が収益を大きく上回るキャッシュアウト型のフェーズを脱し切れていない点が最大の弱みです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "足元の薄い純資産（35百万円）と5.1%という危機的な自己資本比率を早急に補強し、財務の不確実性を払拭するため、短期的には最もマネタイズのリードタイムが短い既存の「AI Security asilla」および介護向けの「asilla care」のMRR（月次経常収益）を最大スピードで拡大する攻めの戦略を展開すべきです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "初期費用ゼロで月額のみという導入のハードルの低さを前面に押し出し、すでに全国に展開している販売パートナーのネットワークをフル稼働させて、地方の商業施設や中堅の介護施設、学校キャンパスへの横展開を一気に加速する傾向が見て取れます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 行動認識AI及び姿勢推定AIを活用した警備システム「AI Security asilla」、介護施設向け見守りシステム「asilla care」、施設向け人流解析「asilla BIZ」等の研究・企画・開発・設計・販売および保守運用",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "また現在、製品ラインナップの充実を実現しており、販売網の拡大とasillaの従来の主要市場外での製品展開を通じて、売上のさらなる増加を目指しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達を機に、asillaの販売体制を強化し、行動認識AI技術の進化とコーポレートガバナンスの充実に取り組むことで、成長性の高い事業基盤を構築し、当社のミッションである「あらゆる空間価値を高める社会インフラとなる」ことの実現に向け、より一層邁進してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "「AI Security asilla」は既存の防犯カメラをAIで高度化させるソリューションで、人手不足や高齢化などの施設運営の監視におけるペインに対応するものです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：AI警備システム『AI Security asilla』開発と販売",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "ディープラーニングを活用した独自の行動認識AIを強みに、AIを軸とした自社プロダクトの開発および受託開発を手がけています",
+    "url": "https://incidentlake.com/case/asilla",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクト開発チームと受託開発チームそれぞれに、独自の運用ノウハウが蓄積される一方で、それらの情報がチーム間で円滑に共有されず、ナレッジの再利用や品質の標準化に課題が生じていました",
+    "url": "https://incidentlake.com/case/asilla",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、受託開発チームはAI運用に強みを持ち、プロダクトチームは死活監視のノウハウに強みを持っていましたが、両者の間の情報共有は十分ではなかったといいます",
+    "url": "https://incidentlake.com/case/asilla",
+    "pass": 3
+   },
+   {
+    "quote": "本プロジェクトでは、はたらく女性スクエアに防犯カメラを5台設置し、日常の施設運営上で発生する転倒事案などの異常行動検知と、転倒・滞留・ふらつき・喧嘩暴力などを発生させるデモ実証による検知精度の検証と共に、施設職員へのインタビュー調査を行いました",
+    "url": "https://kingsalmon.metro.tokyo.lg.jp/progress/experiment06/asilla.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上や市場の話は、ほとんどしない",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "初対面で売上の話をしなかったのも、当然だったのです",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "日鉄興和不動産・アジラ・JDSC、オフィスビルの省エネに向け人流データを活用した空調最適化の実証実験を実施",
+    "url": "https://jp.asilla.com/",
+    "pass": 1
+   },
+   {
+    "quote": "感覚に頼らない施設運営で、売上アップや顧客体験向上を支援",
+    "url": "https://jp.asilla.com/",
+    "pass": 1
+   },
+   {
+    "quote": "既存カメラで異常行動を検知し、介護現場の「気づけなかった」をなくす",
+    "url": "https://jp.asilla.com/",
+    "pass": 1
+   },
+   {
+    "quote": "人とAIの連携で月間100時間の巡回削減を実現 〜渋谷スクランブルスクエアが実践するAI警備とは〜 ｜東急セキュリティ様導入事例",
+    "url": "https://jp.asilla.com/",
+    "pass": 1
+   },
+   {
+    "quote": "人とAIの連携で月間100時間の巡回削減を実現 〜渋谷スクランブルスクエアが実践するAI警備とは〜 ｜東急セキュリティ様導入事例",
+    "url": "https://jp.asilla.com/category/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "福岡・天神の新ランドマークが開業と同時に選んだAI警備——ONE FUKUOKA BLDG.における警備の高度化への取り組み｜西鉄ビルマネージメント様導入事例",
+    "url": "https://jp.asilla.com/category/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "AI警備システム「AI Security asilla」実証事例 介護施設×asillaで「見守り」課題をAIで解決",
+    "url": "https://jp.asilla.com/category/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "「AI Security asilla」導入事例：三菱地所が語る大規模不動産管理における施設DX",
+    "url": "https://jp.asilla.com/category/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "不動産テック協会主催 \"不動産テックピッチコンテスト・2021\"",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "大手証券会社で投資銀行部門を含む様々な業務に従事後、上場企業やスタートアップにて経営企画部門を統括",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "クウェート国建設現場駐在、プラント設計IT業務に従事",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学卒業後、東京三菱銀行（現三菱東京UFJ銀行）、ドイツ証券株式会社などでデリバティブ取引や不動産投資銀行業務に従事",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学卒業後、第一勧業銀行に入社し、米国・英国で投資銀行業務に従事",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "人とAIの連携で月間100時間の巡回削減を実現 〜渋谷スクランブルスクエアが実践するAI警備とは〜 ｜東急セキュリティ様導入事例",
+    "url": "https://jp.asilla.com/post/introduction-tokyu-security-interview-20260713",
+    "pass": 1
+   },
+   {
+    "quote": "【asilla care】介護施設向けAI見守りシステム｜既設カメラで転倒・徘徊を即時検知｜株式会社アジラ",
+    "url": "https://jp.asilla.com/services/asilla-care",
+    "pass": 1
+   },
+   {
+    "quote": "総合不動産サービスのリーディングカンパニーとして1,000棟を超える不動産管理や8,000施設以上のファシリティマネジメント実績を誇るザイマックスグループ",
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "pass": 1
+   },
+   {
+    "quote": "マックスセキュリティサービスとしてはもちろん、ザイマックスグループ全体で不動産分野のDXを数多く進める中で、警備においてもテクノロジーを活用し、警備のレベル底上げを行うことで、お客様の大切な資産である施設の安全と安心をさらに高めていきたいという思いがありました",
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "pass": 1
+   },
+   {
+    "quote": "「ヒトとキカイが得意分野で融合する」という我々の未来の警備像を実現するため、アジラの技術力と、ザイマックスグループの不動産・施設運営の知見を融合させ、警備以外の分野も含め、グループ全体のDXをアジラ様と一緒に進めていくことに、強く期待しています",
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "pass": 1
+   },
+   {
+    "quote": "「AI Security asilla」導入事例：三菱地所が語る大規模不動産管理における施設DX",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "丸の内エリアをはじめとする都市開発や不動産管理を手がける三菱地所では、2021年6月に「三菱地所デジタルビジョン」を策定しDX（デジタルトランスフォーメーション）を積極的に推進しながら、社会課題の解決に取り組んでいます",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "asillaで取得可能な人数カウントや混雑・滞留検知等の人流データを活用することで、より顧客満足度の高い施設運営が可能になったと感じています",
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "pass": 1
+   },
+   {
+    "quote": "AI警備システム「AI Security asilla」実証事例 介護施設×asillaで「見守り」課題をAIで解決",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "超高齢社会を迎え、介護業界では慢性的な人手不足やスタッフの業務負担増大が課題となっています",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "そんな中、株式会社チャーム・ケア・コーポレーション（以下チャーム・ケア・コーポレーション）では、介護スタッフによる夜間巡回の生産性向上に加えて対応の迅速化、ご入居者の日々の安心・安全を守ることを目的に最新のAI警備システム「AI Security asilla（以下asilla）」の実証実験を行っております",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、事業構想室の各和 貴幸様に、介護施設ならではのasillaの活用法についてお話を伺いました",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "介護業界では人手不足が深刻で、特に夜間帯はスタッフの人数が限られており、巡視が手薄になることがありました",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "「介護人材確保の現状について」厚生労働省社会・援護局（https://www.mhlw.go.jp/content/12000000/001485589.pdf）",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、それと同時に転倒、など、介護施設特有のさまざまな「見守り」に対応できる拡張性も求めておりました",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "アジラ社としても、介護施設での運用は不慣れな中で、介護施設特有の、例えば通常の転倒ではなく「ゆっくりとしゃがみこむような転倒」に関しても、当初は検知できませんでしたが、当社側の要望を汲み取ったうえでモデル開発にもご協力いただき、最終的には問題なく検出できるようになりました",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "今後も介護業界全体が抱える人手不足という課題に対し、AIの力を借りて、持続可能なケアサービスを提供していく所存です",
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "pass": 1
+   },
+   {
+    "quote": "今回は公共サービス、サプライチェーン、ライフスタイル、モビリティー、金融の5つの分野を中心に、DX（デジタルトランスフォーメーション）を実現する製品・サービスにフォーカスしています",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "不動産テックピッチコンテスト2021 3位入賞",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "福岡・天神の新ランドマークが開業と同時に選んだAI警備——ONE FUKUOKA BLDG.における警備の高度化への取り組み｜西鉄ビルマネージメント様導入事例",
+    "url": "https://jp.asilla.com/post/casestudy-onefukuoka-20260630",
+    "pass": 1
+   },
+   {
+    "quote": "商業、オフィス、ホテル、カンファレンスホールが一体となった地上19階建ての大型複合施設で、日々多くの人が訪れています",
+    "url": "https://jp.asilla.com/post/casestudy-onefukuoka-20260630",
+    "pass": 1
+   },
+   {
+    "quote": "製造業向け情報検索サイト イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄興和不動産株式会社 / 株式会社チャーム・ケア・コーポレーション / ダイビル株式会社 / 株式会社NTTドコモ・ベンチャーズ / 株式会社ザイマックスグループ",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、チャーム・ケア・コーポレーションと資本業務提携 介護現場向けAI見守り「asilla care」の共同開発を進め、見守りDXを推進",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、日鉄興和不動産と資本業務提携 オフィスビル・商業施設・複合施設等における施設運営DXを推進",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、丸文と業務提携 ロボティクスソリューションとAIの眼が連携し医療・福祉現場のスマート見守りを実現へ",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、和田電機と業務提携 asillaの導入によりリアルタイムで労務災害の発生を検知し、工場で働く人へ安心と安全を届けることを目指す",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、阪急阪神不動産と事業提携 AIを用いた映像解析・人間の行動認識技術を活用して、安心・安全な社会の実現へ",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "日鉄興和不動産・アジラ・JDSC、オフィスビルの省エネに向け人流データを活用した空調最適化の実証実験を実施",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "#16415 決算分析 : 株式会社アジラ 第11期決算 当期純損失 436百万円（赤字） - 決算公告データ倉庫",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、独自の「行動認識AI」を武器に大型不動産やインフラ施設での導入を急速に進める気鋭のハイテク企業の決算公告を基に、ベンチャー特有の財務構造のリアルと未来に向けた成長戦略について深掘りしていきましょう",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容: 世界トップクラスの「姿勢推定」および独自開発の「行動認識AI」をコアテクノロジーとした、次世代AI警備システム「AI Security asilla」の提供、施設向け人流解析、介護現場向けAI見守りシステムの企画・開発・設計および運用保守業務",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "三菱地所が管理する大規模不動産や、JR札幌駅直結の巨大複合施設、熊本国際空港といった日本屈指の重要インフラへの導入実績を次々と積み上げており、施設DXを強力に牽引しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "✔介護施設向けAI見守りシステム「asilla care」・施設人流解析「asilla BIZ」事業",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "「asilla care」は、少子高齢化によって深刻な人手不足にあえぐ介護現場をターゲットとし、入居者の転倒やバランスの崩れによるふらつき、夜間の徘徊や離設リスクを24時間体制で自律的にカバーするシステムです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "福祉用具情報システム（TAIS）への登録を既に完了しており、自治体の各種補助金を活用したスムーズな導入をサポートしています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "情報セキュリティマネジメントシステム（ISMS）の国際認証であるISO 27001も本店やビジネスオフィスでいち早く取得しており、スタートアップでありながらも大企業や官公庁が安心して導入できる世界水準の品質管理と開発スピードを両立させています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業界を覆う労働力不足の深刻化は、特に警備業界や介護業界といったエッセンシャルワークの現場において危機的な状況を迎えています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、太陽光発電所のような広大で死角の多い重要インフラにおける「Solar AI asilla」の導入事例に代表されるように、無人環境における自律的なセキュリティと遠隔監視のニーズも急速に拡大しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役CEO兼COOの尾上剛氏をはじめ、大手証券会社の投資銀行部門や上場企業の経営企画を統括してきたファイナンスと経営戦略のプロフェッショナルがボードメンバーの舵取りを担っています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "三菱地所やJR札幌駅直結施設といった日本を代表する超大型不動産での確かな導入・実証実績は、他社の追随を許さない巨大な社会的信用とブランドバリューを構築しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金や剰余金に表れる過去の豊富な資金調達実績や、ベトナムの優秀なエリートエンジニア集団を直轄する Asilla Vietnam による超高速開発体制、さらには公認会計士や金融出身者で固められた一線級のボードメンバーによる経営ガバナンスも、社内の強固なプラス要因として機能しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "累積赤字の積み上がりによって純資産が35百万円まで圧縮され、自己資本比率が5.1%という極めて薄い資本基盤に晒されている財務上の脆弱性は、大企業や官公庁との長期にわたる超大型インフラ契約を締結する際の信用上のハードルとなる懸念があります",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "450百万円の固定負債による外部調達に大きく依存しているため、金利動向やマクロな金融環境の引き締めに対して、財務的なレジリエンス（耐性）が構造的に低い点も課題です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国のあらゆる産業界で限界を迎えつつある深刻な人手不足と、それに伴う警備業務・介護見守り業務の自動化・省人化（施設DX）への歴史的な需要の爆発です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "同社のプロダクトは、高額な新規ハードウェアの追加が不要で「既設の防犯カメラをそのまま流用できる」という圧倒的な導入のしやすさを持っているため、予算の限られた地方自治体や中規模の介護施設、さらには広大な太陽光発電所の死角監視（Solar AI asilla）にいたるまで、応用展開のフロンティアが全方位に広がっています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "大手証券会社で投資銀行部門を含む様々な業務に従事後、上場企業やスタートアップにて経営企画部門を統括",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "その後、監査法人に入所し、監査業務・上場支援等の業務に従事",
+    "url": "https://jp.asilla.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "3000を超える企業の中から上位15社が3分間のピッチと投資家とのQ&Aの機会を手にすることができ、さらに上位3社には最大で1,000,000ドルの出資を受けることができます",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "Taiwan Acceleratorは、上場企業、政府、学界、投資コミュニティの支援を行うアジア初のシードアクセラレータです",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "資本金：56,125千円",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "アジラ、第三者割当増資を実施(調達額は非公開)",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、資金調達を実施 シリーズDラウンドにて調達（調達額は非公開）",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、第三者割当増資を実施 シリーズCラウンドにてベンチャーデットとあわせて3億円を調達",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、資金調達を実施 シリーズCラウンドにて約4.6億円を調達",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、第三者割当増資を実施 シリーズBラウンド2nd Closingにて調達（調達額は非公開）",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、第三者割当増資を実施 シリーズBラウンドにて約5.4億円を調達",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ、第三者割当増資を実施（調達額 非公開）",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナムのハノイに100%出資の現地法人である「Asilla Vietnam」を構えており、ハノイ工科大学出身のエリートエンジニアを中心とした高度な開発組織を構築しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役CEO兼COOの尾上剛氏をはじめ、大手証券会社の投資銀行部門や上場企業の経営企画を統括してきたファイナンスと経営戦略のプロフェッショナルがボードメンバーの舵取りを担っています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "株主資本の部を見ると、資本金100百万円に対し、資本剰余金が384百万円（384,282千円）も計上されており、これは過去においてベンチャーキャピタルなどから多額のエクイティファイナンスによる出資を募ることに成功した輝かしい足跡を物語っています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、先行する莫大な研究開発費と人件費により、累積の利益剰余金は△436百万円（△436,450千円）のマイナスにまで膨らんでおり、株主資本（純資産合計）は35百万円（35,232千円）にまで大きく目減りしています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、厚みのある固定負債の返済や、Jカーブ効果による黒字化フェーズへの早期移行に向け、次なる大規模な資金調達やMRR（月次経常収益）の爆発的な積み上げが絶対に必要とされる状況です",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "また、資本金や剰余金に表れる過去の豊富な資金調達実績や、ベトナムの優秀なエリートエンジニア集団を直轄する Asilla Vietnam による超高速開発体制、さらには公認会計士や金融出身者で固められた一線級のボードメンバーによる経営ガバナンスも、社内の強固なプラス要因として機能しています",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "また、同時に財務の安全性を客観的に担保するため、取締役陣の強力な金融ネットワークを活かした「シリーズC以降の次なる大規模なエクイティファイナンス」の年内実施、または親会社・大手提携先との資本業務提携の締結による資本金・剰余金の増強を最優先で進めるべきです",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "開発面においては、100%子会社のAsilla Vietnamを東南アジアにおける「AIの民主化ハブ」としてさらにスケールアップさせ、現地発のローカルな施設DXやセキュリティ需要を取り込むことで、グローバルなストック収入とロイヤリティによる爆発的な成長ストーリーを描く必要があります",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "資本金: 1億円",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "行動認識AIで安全で快適な世界を目指すアジラ、シリーズCで約4.6億円の資金調達を実施、累計調達金額は約12億円に | 株式会社アジラのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "行動認識AIで安全で快適な世界を目指すアジラ、シリーズCで約4.6億円の資金調達を実施、累計調達金額は約12億円に",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アジラ（本社：東京都町田市、代表取締役CEO：木村大介、以下「当社」）は、シリーズC ラウンドで約4.6億円の資金調達を実施しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、今後デットファイナンスについても予定しており、資金調達額は更に増加する見込みです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達を機に、asillaの販売体制を強化し、行動認識AI技術の進化とコーポレートガバナンスの充実に取り組むことで、成長性の高い事業基盤を構築し、当社のミッションである「あらゆる空間価値を高める社会インフラとなる」ことの実現に向け、より一層邁進してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "る」という同社のミッションに賛同し、株主として同社を積極的にサポートしていきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達を機に、MUFG一体でアジラ社の更なる成長のご支援をして参ります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "なアジラチームの皆様の情熱にも共感させていただき、今回出資をさせていただきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "このような厳しい市場環境の中、アジラの今後のポテンシャルを信じ、出資のご決断を頂いた投資家の皆さまに心より感謝いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "『X-PITCH 2021』にてアジラがPublic Service / Healthcare 部門でBest Startupを受賞",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "この度、Taiwan Accelerator Inc.主催の『X-PITCH 2021』にて当社の「公共サービスにおける防犯セキュリティソリューションの提案」がPublic Service / Healthcare 部門でBest Startupを受賞しました",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "42カ国 3,000社超のスタートアップが参加した今回の台湾主催グローバルピッチコンテストにおいて、Grand-Final Top15まで残り、Public Service / Healthcare 部門で受賞できたこと大変光栄に思います",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   },
+   {
+    "quote": "Plug and Play Japan Summer/Fall 2019 EXPO Domestic Winner受賞",
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "pass": 1
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   },
+   {
+    "quote": "国や省庁による中小企業のDX補助金や介護テクノロジー導入助成金の拡充も、同社の契約獲得スピードを劇的に加速させる絶好の機会と言えます",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "は、主に警備業界向けのAIプロダクトを展開するスタートアップ企業です",
+    "url": "https://incidentlake.com/case/asilla",
+    "pass": 3
+   },
+   {
+    "quote": "同社が展開する事業の一つが、警備業界向けAIプロダクト「",
+    "url": "https://incidentlake.com/case/asilla",
+    "pass": 3
+   },
+   {
+    "quote": "警備業界向けプロダクトという性質上、高い信頼性が求められる一方で、エッジAIサーバーの運用には、独自の複雑性が存在します",
+    "url": "https://incidentlake.com/case/asilla",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社 アジラ — 会社概要 | 株式会社 アジラ 株式会社アジラ https://jp.asilla.com > about",
+    "url": "https://jp.asilla.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ （東京都）の 会社概要 ・役員 | Compalyze — 株式会社 アジラ （東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析",
+    "url": "https://compalyze.co.jp/company/9012301010123",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ | 企業情報 | イプロスものづくり — アジラ | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信",
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ 、資金調達及び事業進展のお知らせ - PR TIMES — アジラ 、資金調達及び事業進展のお知らせ - PR TIMES PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000355.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ 社と業務提携 - 株式 会社 アイビックス北陸 — アジラ 社と業務提携 - 株式 会社 アイビックス北陸 株式会社アイビックス北陸 https://aivix-hokuriku.co.jp > アジラ社と業務提携",
+    "url": "https://aivix-hokuriku.co.jp/%E3%82%A2%E3%82%B8%E3%83%A9%E7%A4%BE%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ - スピーダ スタートアップ情報リサーチ — 株式会社 アジラ - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-27536",
+    "pass": 3
+   },
+   {
+    "quote": "行動認識AIで安全で快適な世界を目指す アジラ 、シリーズCで ... — 行動認識AIで安全で快適な世界を目指す アジラ 、シリーズCで ... 株式会社アジラ https://jp.asilla.com > post",
+    "url": "https://jp.asilla.com/post/c-20240118",
+    "pass": 3
+   },
+   {
+    "quote": "#16415 決算分析 : 株式会社 アジラ 第11期決算 当期純損失 436 ... — #16415 決算分析 : 株式会社 アジラ 第11期決算 当期純損失 436 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/06/04",
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ | 採択スタートアップ企業 — 株式会社 アジラ | 採択スタートアップ企業 KING SALMON PROJECT https://kingsalmon.metro.tokyo.lg.jp > company06 > asilla",
+    "url": "https://kingsalmon.metro.tokyo.lg.jp/company06/asilla.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ ｜STARTUP DB（スタートアップデータベース） — アジラ ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧",
+    "url": "https://startup-db.com/companies/rE5aJP5Ugk7GmVbw",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ 、 資金調達 及び事業進展のお知らせ〜来期黒字化を視野に — アジラ 、 資金調達 及び事業進展のお知らせ〜来期黒字化を視野に 株式会社アジラ https://jp.asilla.com > post > news-funding-20260805",
+    "url": "https://jp.asilla.com/post/news-funding-20260805",
+    "pass": 3
+   },
+   {
+    "quote": "累計 調達 金額は約12億円に | 株式会社 アジラ のプレスリリース — 累計 調達 金額は約12億円に | 株式会社 アジラ のプレスリリース PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ 、 資金調達 及び事業進展のお知らせ - ASCII — アジラ 、 資金調達 及び事業進展のお知らせ - ASCII ASCII.jp https://ascii.jp > elem",
+    "url": "https://ascii.jp/elem/000/004/424/4424978/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ - STORIUM — 株式会社 アジラ - STORIUM storium.jp https://storium.jp > 組織 > AI",
+    "url": "https://storium.jp/organization/119ec18ebfcc7720eec9a238bffe12e8",
+    "pass": 3
+   },
+   {
+    "quote": "事例 紹介 - アジラ — 事例 紹介 - アジラ 株式会社アジラ https://jp.asilla.com > category > case-study",
+    "url": "https://jp.asilla.com/category/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "資料ダウンロード | 株式会社 アジラ — 資料ダウンロード | 株式会社 アジラ 株式会社アジラ https://jp.asilla.com > downloads",
+    "url": "https://jp.asilla.com/downloads",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ - Incident Lake — 株式会社 アジラ - Incident Lake Incident Lake https://incidentlake.com > 導入事例",
+    "url": "https://incidentlake.com/case/asilla",
+    "pass": 3
+   },
+   {
+    "quote": "アジラ の 導入事例 ｜画像検査・写真整理｜施設警備A社（大型 ... — アジラ の 導入事例 ｜画像検査・写真整理｜施設警備A社（大型 ... ai-pathway.ai https://ai-pathway.ai > 事例DB",
+    "url": "https://ai-pathway.ai/cases/security-w1-001/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ | AI警備システム【公式】 (@asilla_inc) / X — 株式会社 アジラ | AI警備システム【公式】 (@asilla_inc) / X X https://x.com > asilla_inc",
+    "url": "https://x.com/asilla_inc",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ | 実証実験進捗状況 - KING SALMON PROJECT — 株式会社 アジラ | 実証実験進捗状況 - KING SALMON PROJECT KING SALMON PROJECT https://kingsalmon.metro.tokyo.lg.jp > progress > asilla",
+    "url": "https://kingsalmon.metro.tokyo.lg.jp/progress/experiment06/asilla.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務提携先の アジラ とAI警備システムを活用した警備業務を ... — 業務提携先の アジラ とAI警備システムを活用した警備業務を ... Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース https://jp.investing.com > news > article-799698",
+    "url": "https://jp.investing.com/news/stock-market-news/article-799698",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ - スピーダ スタートアップ情報リサーチ — 株式会社 アジラ - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > investors",
+    "url": "https://initial.inc/investors/V14177",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 アジラ | AI警備システム【公式】 (@asilla_inc) / X 株式会社 アジラ | AI警備システム【公式】 (@asilla_inc) / X X https://x.com > asilla_inc",
+    "url": "https://x.com/asilla_inc",
+    "pass": 3
+   },
+   {
+    "quote": "若狭 政啓 | アジラ CTO (@MasaWakasa) / X 若狭 政啓 | アジラ CTO (@MasaWakasa) / X X https://x.com > MasaWakasa",
+    "url": "https://x.com/MasaWakasa",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アジラ | AI警備システム【公式】 - X 株式会社 アジラ | AI警備システム【公式】 - X X https://x.com > @asilla_inc",
+    "url": "https://x.com/asilla_inc/status/2062374351471878261",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "アジラ 、HANEDA INNOVATION CITY®に「AI Security asilla ... アジラ 、HANEDA INNOVATION CITY®に「AI Security asilla ... LinkedIn https://www.linkedin.com > posts > go-onoue-2b8185319...",
+    "url": "https://www.linkedin.com/posts/go-onoue-2b8185319_%E3%82%A2%E3%82%B8%E3%83%A9haneda-innovation-city%E3%81%ABai-security-activity-7356146601775546368-aQyU",
+    "pass": 3
+   },
+   {
+    "quote": "行動認識AIシステム「asilla」紹介【株式会社 アジラ 】 - LinkedIn 行動認識AIシステム「asilla」紹介【株式会社 アジラ 】 - LinkedIn LinkedIn https://jp.linkedin.com > posts > kmrdai_行動認識aiシス...",
+    "url": "https://jp.linkedin.com/posts/kmrdai_%E8%A1%8C%E5%8B%95%E8%AA%8D%E8%AD%98ai%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0asilla%E7%B4%B9%E4%BB%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B8%E3%83%A9-activity-7095175747568369665-1Dj4",
+    "pass": 3
+   },
+   {
+    "quote": "猪股 英治 - 株式会社 アジラ - LinkedIn 猪股 英治 - 株式会社 アジラ - LinkedIn LinkedIn https://jp.linkedin.com > 英治-猪股-99164a216",
+    "url": "https://jp.linkedin.com/in/%E8%8B%B1%E6%B2%BB-%E7%8C%AA%E8%82%A1-99164a216",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 アジラ (@asillajp) - Facebook 株式会社 アジラ (@asillajp) - Facebook Facebook https://www.facebook.com > ... > IT企業",
+    "url": "https://www.facebook.com/asillajp/?locale=ja_JP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "尾上剛｜ アジラ CEO - 社名の由来は、アジア＋ゴジラでした 尾上剛｜ アジラ CEO - 社名の由来は、アジア＋ゴジラでした note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "社名の由来は、アジア＋ゴジラでした｜尾上剛｜アジラCEO",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "社名の由来を、社外できちんとお話しするのは、これが初めてです。",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "社内では、入社するとまず聞くことになる話でした。",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "4年半ほど前、初めて、アジラ創業者の木村と会ったとき、彼はそう言いました。",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "投資銀行の仕事で、たくさんの会社の事業計画を見てきましたし、社長ともお会いする中で「世界一を目指します」という言葉も、数えきれないほど聞いてきました。",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "でも、木村の話は少し違いました。売上や市場の話は、ほとんどしない。最初から最後まで、技術やその技術がもたらす社会的意義の話をしていたのです。人の骨格をとらえて、動きから行動を読み取る。その仕組みを、身ぶり手ぶりで説明する。あとで特許の一覧を見せてもらうと、発明者の欄には、ほとんど木村の名前が並んでいました。",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "アジラのWebサイトを開くと、最初に大きな文字で「TECHNOLOGY DRIVEN FUTURE」と書かれています。創業のときから掲げてきた言葉です。",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   },
+   {
+    "quote": "木村がつくった社内資料には、こんな一文があります。",
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jp.asilla.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/category/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/post/introduction-tokyu-security-interview-20260713",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/services/biz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/services/asilla-care",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/services/solar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/post/casestudy-jptowernagoya-20261006",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/termsofservice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/post/casestudy-maxsecurity-20251114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/post/casestudies-mitsubishiestate-20250804",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/post/casestudy-charmcc-20251118",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/post/xpitch-award-2021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.asilla.com/post/casestudy-onefukuoka-20260630",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://compalyze.co.jp/company/9012301010123",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2089553/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-27536",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-27536",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://incidentlake.com/case/asilla",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kingsalmon.metro.tokyo.lg.jp/progress/experiment06/asilla.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.investing.com/news/stock-market-news/article-799698",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/asilla_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MasaWakasa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asilla_inc/status/2062374351471878261",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/go-onoue-2b8185319_%E3%82%A2%E3%82%B8%E3%83%A9haneda-innovation-city%E3%81%ABai-security-activity-7356146601775546368-aQyU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/kmrdai_%E8%A1%8C%E5%8B%95%E8%AA%8D%E8%AD%98ai%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0asilla%E7%B4%B9%E4%BB%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B8%E3%83%A9-activity-7095175747568369665-1Dj4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E8%8B%B1%E6%B2%BB-%E7%8C%AA%E8%82%A1-99164a216",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/asillajp/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/go_onoue/n/n8e6089c30e35",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/asilla_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/asillajp/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アジラ 会社概要 資本金 設立",
+   "results": [
+    "https://jp.asilla.com/about",
+    "https://compalyze.co.jp/company/9012301010123",
+    "https://mono.ipros.com/company/detail/2089553/",
+    "https://prtimes.jp/main/html/rd/p/000000355.000043312.html",
+    "https://aivix-hokuriku.co.jp/%E3%82%A2%E3%82%B8%E3%83%A9%E7%A4%BE%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA/",
+    "https://kingsalmon.metro.tokyo.lg.jp/company06/asilla.html",
+    "https://www.r-agent.com/company/c9960/",
+    "https://deeppoint.remixpoint.co.jp/startups/asilla",
+    "https://www.taisei-bm.co.jp/topics/taisei_asilla/",
+    "https://alarmbox.jp/companyinfo/entities/9012301010123"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "アジラ 事業内容 売上",
+   "results": [
+    "https://initial.inc/companies/A-27536",
+    "https://jp.asilla.com/post/c-20240118",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000",
+    "https://kingsalmon.metro.tokyo.lg.jp/company06/asilla.html",
+    "https://startup-db.com/companies/rE5aJP5Ugk7GmVbw",
+    "https://prtimes.jp/main/html/rd/p/000000355.000043312.html",
+    "https://compalyze.co.jp/company/9012301010123",
+    "https://ascii.jp/elem/000/004/424/4424978/",
+    "https://storium.jp/organization/119ec18ebfcc7720eec9a238bffe12e8",
+    "https://jp.asilla.com/post/news-funding-20260805"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アジラ 資金調達 株主",
+   "results": [
+    "https://jp.asilla.com/post/news-funding-20260805",
+    "https://initial.inc/companies/A-27536",
+    "https://prtimes.jp/main/html/rd/p/000000229.000043312.html",
+    "https://ascii.jp/elem/000/004/424/4424978/",
+    "https://storium.jp/organization/119ec18ebfcc7720eec9a238bffe12e8",
+    "https://startuplog.com/n/nf37f681d163e",
+    "https://jp.asilla.com/post/asilla-press-release-2022",
+    "https://voix.jp/credit-cards/asilla-fundraising-business-expansion/",
+    "https://deeppoint.remixpoint.co.jp/startups/asilla"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "アジラ 導入事例",
+   "results": [
+    "https://jp.asilla.com/category/case-study",
+    "https://jp.asilla.com/downloads",
+    "https://incidentlake.com/case/asilla",
+    "https://ai-pathway.ai/cases/security-w1-001/",
+    "https://x.com/asilla_inc",
+    "https://aismiley.co.jp/ai_news/jr-hakata-city-asilla-ai-security-camera/",
+    "https://i-pro.com/products_and_solutions/ja/surveillance/newsroom/20260423",
+    "https://prtimes.jp/main/html/rd/p/000000347.000043312.html",
+    "https://soracom.jp/support_partners/certified/asilla/",
+    "https://jp.asilla.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アジラ 主要取引先",
+   "results": [
+    "https://jp.asilla.com/about",
+    "https://kingsalmon.metro.tokyo.lg.jp/progress/experiment06/asilla.html",
+    "https://jp.investing.com/news/stock-market-news/article-799698",
+    "https://mono.ipros.com/company/detail/2089553/",
+    "https://initial.inc/investors/V14177",
+    "https://prtimes.jp/main/html/rd/p/000000355.000043312.html",
+    "https://storium.jp/organization/119ec18ebfcc7720eec9a238bffe12e8",
+    "https://www.youtube.com/watch?v=kK9zlLuLNRk",
+    "https://aivix-hokuriku.co.jp/%E3%82%A2%E3%82%B8%E3%83%A9%E7%A4%BE%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA/",
+    "https://jp.asilla.com/post/taisei-20250131"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com アジラ",
+   "results": [
+    "https://note.com/startuplog/n/nf37f681d163e",
+    "https://note.com/startuplog/n/na44b38d9e7e7",
+    "https://note.com/showcase/n/ne22055e09bb5",
+    "https://note.com/preventure/n/n22ac481e7136",
+    "https://note.com/docomo_v/n/n5ebf08fdb429",
+    "https://note.com/startuplog/n/nc5526fc8812c",
+    "https://note.com/go_onoue/n/n8e6089c30e35",
+    "https://note.com/yocchiamo/n/n5f81293c4f03",
+    "https://note.com/go_onoue/n/nf750bd27f2d4",
+    "https://note.com/startuplog/m/m1f90b5c7341a/hashtag/AI"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com アジラ",
+   "results": [
+    "https://x.com/asilla_inc",
+    "https://x.com/MasaWakasa",
+    "https://x.com/asilla_inc/status/2062374351471878261",
+    "https://x.com/asilla_GO",
+    "https://x.com/value_press/status/1909144431409967380",
+    "https://x.com/asilla_inc/status/2062370089408852056",
+    "https://x.com/mimukan",
+    "https://x.com/JDSC_PR/status/2117796290881065123",
+    "https://x.com/PRTIMES_TECH/status/2115249942612832521",
+    "https://x.com/asilla_inc/status/2106920510118621327"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com アジラ",
+   "results": [
+    "https://www.linkedin.com/posts/go-onoue-2b8185319_%E3%82%A2%E3%82%B8%E3%83%A9haneda-innovation-city%E3%81%ABai-security-activity-7356146601775546368-aQyU",
+    "https://jp.linkedin.com/posts/kmrdai_%E8%A1%8C%E5%8B%95%E8%AA%8D%E8%AD%98ai%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0asilla%E7%B4%B9%E4%BB%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B8%E3%83%A9-activity-7095175747568369665-1Dj4",
+    "https://jp.linkedin.com/in/%E8%8B%B1%E6%B2%BB-%E7%8C%AA%E8%82%A1-99164a216",
+    "https://jp.linkedin.com/in/go-onoue-2b8185319",
+    "https://www.linkedin.com/posts/go-onoue-2b8185319_%E3%82%A2%E3%82%B8%E3%83%A9%E7%8B%AC%E8%87%AA%E3%81%AE%E8%A1%8C%E5%8B%95%E8%AA%8D%E8%AD%98ai%E3%81%A7%E6%B8%8B%E8%B0%B7%E5%8C%BA%E3%81%AE%E8%B7%AF%E4%B8%8A%E9%A3%B2%E9%85%92%E5%95%8F%E9%A1%8C%E3%81%AE%E8%A7%A3%E6%B1%BA%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99-activity-7399288542176301056-4LVx",
+    "https://jp.linkedin.com/in/kan-mimura-01329135",
+    "https://jp.linkedin.com/in/yuka-suzuki-27583825b",
+    "https://www.linkedin.com/posts/go-onoue-2b8185319_%E3%82%A2%E3%82%B8%E3%83%A9%E3%82%B5%E3%83%B3%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E4%B8%8D%E5%8B%95%E7%94%A3%E3%81%AE%E6%96%B0%E7%AF%89%E3%83%95%E3%83%AB%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9shift-%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%A1%9C%E9%80%9A-activity-7462018091649114112-8FbU",
+    "https://jp.linkedin.com/in/katsuya-yamashita-07833112b",
+    "https://jp.linkedin.com/in/kmrdai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com アジラ",
+   "results": [
+    "https://www.facebook.com/asillajp/?locale=ja_JP",
+    "https://www.facebook.com/TokyoVentureAward/posts/%E6%98%A8%E5%B9%B4%E5%BA%A6%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%8F%97%E8%B3%9E%E4%BC%81%E6%A5%AD%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E5%84%AA%E7%A7%80%E8%B3%9E%E5%8F%97%E8%B3%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B8%E3%83%A9ai-security-asilla%E4%B8%8D%E5%AF%A9%E3%82%84%E7%95%B0%E5%B8%B8%E3%82%92%E5%8D%B3%E5%BA%A7%E3%81%AB%E6%A4%9C%E7%9F%A5%E3%82%92%E3%81%99%E3%82%8B%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AE%E8%AD%A6%E5%82%99%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%8B%AC%E8%87%AA%E9%96%8B%E7%99%BA%E3%81%AE%E8%A1%8C%E5%8B%95%E8%AA%8D/948530014539885/",
+    "https://www.facebook.com/NaPuaIlimaHulaStudio/",
+    "https://www.facebook.com/NaPuaIlimaHulaStudio/posts/jst-nagoya-hawaii-festival2025%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%82%A2%E3%82%B8%E3%83%A9%E3%81%A7%E3%81%995%E6%9C%8825%E6%97%A51420%E3%82%A8%E3%83%87%E3%82%A3%E3%82%AA%E3%83%B3%E5%BA%83%E5%A0%B4%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%A7%E8%B8%8A%E3%82%89%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%99%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%A2%E3%82%B8%E3%83%A9%E3%81%AE%E7%94%9F%E6%BC%94%E5%A5%8F%E7%94%B7/998551145780860/",
+    "https://www.facebook.com/azieranadieya/?locale=fo_FO",
+    "https://www.facebook.com/cbre.co.jp/posts/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%B8%8D%E5%8B%95%E7%94%A3%E6%83%85%E5%A0%B1%E8%AA%8C-bz%E7%A9%BA%E9%96%93%E7%89%A9%E4%BB%B6%E6%A4%9C%E7%B4%A2%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E8%A8%98%E4%BA%8B%E3%82%92up%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%B8%96%E7%95%8C%E3%83%88%E3%83%83%E3%83%97%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E8%A1%8C%E5%8B%95%E8%AA%8D%E8%AD%98-ai-%E6%8A%80%E8%A1%93%E3%82%92%E8%BB%B8%E3%81%AB%E7%94%BB%E6%9C%9F%E7%9A%84%E3%81%AA%E8%AD%A6%E5%82%99%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%AD%89%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B-%E3%82%A2%E3%82%B8%E3%83%A9%E6%97%A5%E6%9C%AC%E3%81%AE%E3%81%BF%E3%81%AA%E3%82%89/941384938002264/",
+    "https://www.facebook.com/manabu.nakashima.5/",
+    "https://www.facebook.com/TokyuAP/posts/%E7%94%BB%E5%83%8F%E8%A7%A3%E6%9E%90%E8%AD%A6%E5%82%99%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9ts-zero%E3%81%AE%E5%AE%9F%E8%A8%BC%E5%AE%9F%E9%A8%93%E3%82%92%E9%A7%85%E6%A7%8B%E5%86%85%E3%81%A7%E5%AE%9F%E6%96%BDtap2022demo-day%E6%B8%8B%E8%B0%B7%E8%B3%9E%E6%BA%96%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E3%82%A2%E3%82%B8%E3%83%A9%E3%81%95%E3%82%93%E3%81%A8%E6%9D%B1%E6%80%A5%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AF%E3%82%A2%E3%82%B8%E3%83%A9%E3%81%95%E3%82%93%E3%81%AEai%E7%94%BB%E5%83%8F%E8%A7%A3%E6%9E%90/654261190069985/",
+    "https://www.facebook.com/JFOU.official/posts/%E7%94%BA%E7%94%B0%E5%88%9D%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91ai%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E6%9C%AC%E5%AD%A6%E3%81%AE%E6%A3%AE%E5%8E%9A%E6%95%99%E6%8E%88%E3%81%8C%E7%99%BB%E5%A3%87-%E7%94%BA%E7%94%B0%E3%81%AB%E3%81%82%E3%82%8B%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E4%BC%81%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%82%B8%E3%83%A9%E9%98%B2%E7%8A%AF%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E3%81%BF%E3%81%AA%E3%82%89%E3%81%9A%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E8%BE%B2%E6%A5%ADfa%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86/798548104163831/",
+    "https://www.facebook.com/asillajp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アジラ note 社長",
+   "results": [
+    "https://note.com/go_onoue/n/nf750bd27f2d4",
+    "https://note.com/go_onoue/n/n8e6089c30e35",
+    "https://jp.asilla.com/post/aivix-20250225",
+    "https://aivix-hokuriku.co.jp/%E3%82%A2%E3%82%B8%E3%83%A9%E7%A4%BE%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA/",
+    "https://kingsalmon.metro.tokyo.lg.jp/company06/asilla.html",
+    "https://www.nttdocomo-v.com/activities/kognb5w6cz/",
+    "https://note.com/preventure/n/n22ac481e7136",
+    "https://jp.linkedin.com/in/go-onoue-2b8185319",
+    "https://note.com/go_onoue",
+    "https://no-maps.jp/speakers/onouegou/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "アジラ X 投稿",
+   "results": [
+    "https://x.com/asilla_inc",
+    "https://jp.asilla.com/post/news-godzilla-collaboration-20261023",
+    "https://koubo.jp/article/134091",
+    "https://www.facebook.com/asillajp/?locale=ja_JP",
+    "https://www.linkedin.com/posts/asilla_%E3%82%A2%E3%82%B8%E3%83%A9%E6%9C%80%E5%85%88%E7%AB%AF%E3%81%AEai%E8%AD%A6%E5%82%99%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0ai-security-asilla%E3%82%92%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97-activity-7156571475284557824-Pe50",
+    "https://ascii.jp/elem/000/004/445/4445372/",
+    "https://kingsalmon.metro.tokyo.lg.jp/progress/experiment06/asilla.html",
+    "https://aivix-hokuriku.co.jp/%E3%82%A2%E3%82%B8%E3%83%A9%E7%A4%BE%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA/",
+    "https://x.com/asilla_inc/status/2113491020809977959",
+    "https://news.livedoor.com/pr_topics/detail/32638836/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索11回）"
+ }
+}

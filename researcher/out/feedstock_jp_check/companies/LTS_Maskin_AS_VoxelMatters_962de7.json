@@ -1,0 +1,430 @@
+{
+ "name": "LTS Maskin AS — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T14:04:56.098642+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LTS Maskin AS — VoxelMatters - The largest database of ... — LTS Maskin AS wholeseller of machines and tools for metal processing industries and wood working industries.",
+    "url": "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookLTS Maskin As Reels - FacebookLTS Maskin As - FacebookLTS Maskin As - LTS maskin utfører alle service oppdrag...LTS AS - FacebookVoxelMatters - As an approved supplier for maritime and...VoxelMatters - As we enter 2022, some 40 years on from the... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign fo",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/datasets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ltsmaskin.no/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nukumori-pellet.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitetsu.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ltsmaskin.no/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.volza.com/company-profile/lts-maskin-as-57254360/contacts/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00023019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01996387/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2383/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biztrac.no/en/company/983436978",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sokfirma.no/selskap/983436978/lts-maskin-as",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proff.no/selskap/lts-maskin-as/lonev%C3%A5g/maskiner-og-utstyr/IG9IGTU10PO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/lts-maskin-as",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LTS Maskin AS — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "https://www.voxelmatters.report/datasets/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "http://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/cheer-up-the-metal-am-market-as-a-whole-is-doing-fine/",
+    "https://www.jacquard-japan.com/en/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.ltsmaskin.no/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.volza.com/company-profile/lts-maskin-as-57254360/contacts/",
+    "https://www.metal-am.com/category/company/lts-maskin/",
+    "https://www.voxelmatters.report/database/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "http://www.nukumori-pellet.com/",
+    "https://www.kitetsu.biz/",
+    "https://www.brule.co.jp/",
+    "https://i-maker.jp/",
+    "https://www.youtube.com/@nyandako",
+    "https://www.zyltech.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.ltsmaskin.no/",
+    "https://www.voxelmatters.com/category/industry-2/",
+    "https://www.volza.com/company-profile/lts-maskin-as-57254360/contacts/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:amazon.co.jp LTS Maskin AS — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://affiliate.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2481-しいたけ．カラー心理学2026／浜辺美波＆目黒蓮/dp/B0G8Y74P77"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com LTS Maskin AS — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00023019/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/01996387/",
+    "https://www.monotaro.com/p/1766/2383/",
+    "https://www.monotaro.com/p/3506/7076/",
+    "https://www.monotaro.com/p/4952/3136/",
+    "https://www.monotaro.com/p/6830/1652/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://biztrac.no/en/company/983436978",
+    "https://sokfirma.no/selskap/983436978/lts-maskin-as",
+    "https://www.proff.no/selskap/lts-maskin-as/lonevåg/maskiner-og-utstyr/IG9IGTU10PO",
+    "https://www.cbinsights.com/company/lts-maskin-as",
+    "https://rati.no/bedrift/lts-maskin-as-983436978",
+    "https://21st.ai/no/selskaper/720340/no/lonevaag/agentur-og-engroshandel-unntatt-med-motorvogner/org-nummer-983436978-lts-maskin-as/sammendrag",
+    "https://flowfirma.no/firma/lts-maskin-as-983436978"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com LTS Maskin AS — VoxelMatters",
+   "results": [
+    "https://note.com/royal_vole835",
+    "https://note.com/piamy_/n/na26c866d2274",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/chokuzen_note/n/n446b6ac7d01d",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com LTS Maskin AS — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Prusa3D/status/2031054780668252591",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/RepJeffries/status/2117800972810330242",
+    "https://x.com/Broncos/status/2118467918904131624",
+    "https://x.com/oldhhabits/status/2115045812573016574",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com LTS Maskin AS — VoxelMatters",
+   "results": [
+    "https://je.linkedin.com/company/lts-maskin-as",
+    "https://www.linkedin.com/company/lts-as",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://no.linkedin.com/posts/lts-maskin-as_fagdag-på-lts-maskin-i-dag-var-en-activity-7467934513839505408-XuRm",
+    "https://no.linkedin.com/posts/lts-maskin-as_produktkatalog-lts-maskin-activity-7508812550097170432-dhot",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://dk.linkedin.com/posts/lts-maskin-as_the-world-turns-on-colchester-machines-stay-activity-7042222875499466752-zAX0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com LTS Maskin AS — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/ltsmaskin.no/reels/",
+    "https://www.facebook.com/ltsmaskin.no/menu/",
+    "https://www.facebook.com/ltsmaskin.no/posts/lts-maskin-utfører-alle-service-oppdrag-med-et-glimt-i-øyet-ta-gjerne-kontakt-de/1592193724265176/",
+    "https://www.facebook.com/p/LTS-AS-100066643055667/",
+    "https://www.facebook.com/VoxelMatters/posts/as-an-approved-supplier-for-maritime-and-general-industrial-3d-printed-component/1258231511015638/",
+    "https://www.facebook.com/VoxelMatters/posts/as-we-enter-2022-some-40-years-on-from-the-beginnings-of-3d-printing-we-are-star/1987520744753374/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "LTS Maskin AS — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.ltsmaskin.no/",
+    "https://www.voxelmatters.directory/company/lts-maskin-as/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）"
+ }
+}

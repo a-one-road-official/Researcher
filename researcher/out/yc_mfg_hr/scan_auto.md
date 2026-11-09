@@ -203,7 +203,7 @@
   - www.ycombinator.com と www.smartbugmedia.com：品目の重なり 1/6（17%）
   - www.ycombinator.com と www.shrm.org：品目の重なり 1/6（17%）
   - www.ycombinator.com と growthlist.co：品目の重なり 1/6（17%）
-  - www.ycombinator.com と www.deloitte.com：品目の重なり 0/7（0%）
+  - www.ycombinator.com と wonderlic.com：品目の重なり 0/7（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - YC出身の現場人材・製造業の採用スタートアップ｜再販・ホワイトラベル［不明］

@@ -1,0 +1,1042 @@
+{
+ "name": "サンアロー",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都 ものづくり企業データベース",
+ "researched_at": "2026-11-09T14:07:18.367423+00:00",
+ "official_url": "https://www.sunarrow.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒104-0032 東京都中央区八丁堀4-10-4 オーキッドプレイス八丁堀ビル TEL:03-3552-5981(代表) FAX:03-3552-5989",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区八丁堀4-10-4",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1959年(昭和34年)12月21日",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "156名、グループ467名",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "100名",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "取引先",
+    "value": "アイコム株式会社 味の素冷凍食品株式会社 岩崎通信機株式会社 SMC株式会社 NECプラットフォームズ株式会社 沖電気工業株式会社 カシオ計算機株式会社 サクサテクノ株式会社 JSR株式会社 象印マホービン株式会社 第一屋製パン株式会社 タイガースポリマー株式会社 長瀬産業株式会社 株式会社ナカヨ ニッパツ・メック株式会社 日本ゼオン株式会社 ニデックモビリティ株式会社 パイオニア株式会社 パイオニアファインテック株式会社 株式会社ファソテック 株式会社FAMS フコク物産株式会社 古野電気株式会社 Continental Automotive Group MATSUI EASTERN(Thailand)Co.,Ltd MI Technologies Pte Ltd. MURAMOTO ELECTRON(Thailand)Public Co.,Ltd Panasonic Automotive Systems Asia Pacific (Thailand) Co.,Ltd. THAI NIPPON SEIKI CO., LTD. UNION ZOJIRUSHI Co.,Ltd（以上、五十",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "時宗 裕二",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "当社が製造した製品事例についてカテゴリー別にご紹介します",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の内装部分における、ボタンやラバーコンタクトスイッチといった車載部品を製造しております",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "携帯電話のキーシートなどの電子機器部品や、食品関連容器といった身の周りにある様々な製品を製造しています",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療現場における手術用トレーニングモデルを製造しています",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり企業としての経験やスキルを武器に、省力化のための設備や機器を製造・開発しています",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多様なナノ材料の、樹脂・ゴム・溶媒へのコンパウンディング技術を活かして、様々な材料を製造しております",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり企業としてのサンアローの強みをご紹介します",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用ゴム製品、時計部品などを製造販売",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シリコーンゴム関係及び精密部品の製造販売に注力",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "生体質感模擬臓器などの手術トレーニング用製品の販売を開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロサージャリートレーニング用血管の販売を開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＥＳＤ/ＰＯＥＭトレーニング用モデル「ＥｎｄｏGｅｌ」の販売を開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＳＧＯＩＮＴ”カーボンナノチューブ配合Ｏ－ｒｉｎｇ”の販売を開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＳＡＲＰＬＵＳ”カーボンナノチューブ配合樹脂”の販売を開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＳｕｎＺｅｒｏ”高機能性断熱ペースト”の販売を開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ＥｎｄｏＦｌｏｗｅｒ”内視鏡アタッチメントフード”の販売を開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※医療機器の為、直接販売はしておりません",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノサド株式会社の製造関連事業を統合し、当社佐渡工場として事業開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "以来、時計用防水パッキンの製造を手掛け、1970年には世界最初の導電シリコーンゴムの加工技術の開発に着手しました",
+    "url": "https://www.sunarrow.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "『樹脂とゴムの一体部品製造』樹脂成形、ゴム成形",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け情報検索サイト イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は2003年にシリコーンゴムとPC（ポリカーボネート）樹脂のインサート成形技術を確立し、さまざまな一体成形品を製造してきました",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "SGOINTでは、コンパウンド（配合済みのゴム材料）の販売に加え、Oリングや平板などへの加工にも対応しています",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンゴム成形メーカーをお探しの企業に向けて、作りたい部品別におすすめのメーカーをご紹介します",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "（※2025年1月30日調査時点）の在庫を即納販売",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "オススメする方法ではありませんが、一応こういうやり方もあるということで紹介します",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな塩化ビニル用接着液が販売されていますので、試してみてください",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "例えばセメダインから販売されているこちらの商品",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "ぬいぐるみの修理を行っている会社はたくさんあるが、せっかくなのでまずは製造元に問い合わせることにした",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "どうやらこのぬいぐるみは「くまのマック」というシリーズらしいのだが、サンアロー社内で治療中だったふるくまが、当時「くまのマック」の製造に関わっていた方々の目に留まったらしく、直接会ってみたいというお話をいただいた",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "当時、クマのマックシリーズの製作、販売に携わっておりました",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "ゆりかごから墓場まで、製造販売から修理まで一貫して担っていきたい",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "医療現場における手術用トレーニングモデルを製造しています",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トレーニングは勿論の事、医療機器の開発ツールとしても活用可能です",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サンアローモバイルデバイス株式会社 (現新潟工場)操業",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サンアローモバイルデバイス株式会社 (現新潟工場)合併",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※医療機器の為、直接販売はしておりません",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノサド株式会社の製造関連事業を統合し、当社佐渡工場として事業開始",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴム・樹脂の成型加工を得意とするメーカーです",
+    "url": "https://www.sunarrow.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、1959年に工業用ゴム製品の加工メーカーとして発足しました",
+    "url": "https://www.sunarrow.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "自社で設計から金型製作、成形、加飾および組み立てまでの一貫生産ができ、お客様の高度化・多様化するニーズに対応できる部品メーカーとして、管理面、品質面でも強化を図っております",
+    "url": "https://www.sunarrow.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "近年は手術トレーニング用として、人体の質感・構造を忠実に再現した模擬臓器を開発し、医療ヘルスケア分野で高い評価を頂いております",
+    "url": "https://www.sunarrow.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "社会へ貢献する企業をめざし、工夫された技術を積み重ねて顧客満足度を高め",
+    "url": "https://www.sunarrow.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴム・樹脂の成型加工を得意とするメーカーです",
+    "url": "https://www.sunarrow.co.jp/company/network/",
+    "pass": 1
+   },
+   {
+    "quote": "海外工場 Sunarrow Citi Co.,Ltd （タイ）",
+    "url": "https://www.sunarrow.co.jp/company/network/",
+    "pass": 1
+   },
+   {
+    "quote": "医療ヘルスケア製品 - サンアロー株式会社",
+    "url": "https://www.sunarrow.co.jp/works_category/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴム・樹脂の成型加工を得意とするメーカーです",
+    "url": "https://www.sunarrow.co.jp/works_category/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴム・樹脂の成型加工を得意とするメーカーです",
+    "url": "https://www.sunarrow.co.jp/works_category/material/",
+    "pass": 1
+   },
+   {
+    "quote": "サンアローは、自動車・電子機器・医療などの様々な分野における樹脂とゴムを中心とした複合素材の成形、加工、接着技術を強みとしています",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け情報検索サイト イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー株式会社新潟工場の省エネルギー化事業｜SII省エネ補助金の採択事例｜補助金採択事例ナビ",
+    "url": "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー株式会社新潟工場の省エネルギー化事業",
+    "url": "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "pass": 3
+   },
+   {
+    "quote": "採択された事業計画は「サンアロー株式会社新潟工場の省エネルギー化事業」です",
+    "url": "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンス工業有限会社の省エネルギー化事業",
+    "url": "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "pass": 3
+   },
+   {
+    "quote": "オレカテクニックイデアルビルの省エネルギー化事業",
+    "url": "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "pass": 3
+   },
+   {
+    "quote": "微弱電流によって薬剤や美容成分の浸透加速、しわ取り、制汗、疼痛や眼精疲労の緩和などの効果が認められる「イオントフォレシス」の発生が期待される",
+    "url": "https://www.t-technoarch.co.jp/content/licence_1067.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、サンアロー株式会社様からBIPP🄬の標準モデルを購入できますので、BIPP🄬の利用が期待される医療・健康・美容・ペット・畜産・食品・農業など多岐にわたる分野の企業様（ユーザー企業様）と協力して多様な製品化を目指します（詳細は",
+    "url": "https://www.t-technoarch.co.jp/content/licence_1067.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社にあったゴム成形メーカーがみつかる│ゴム創庫",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンアローは、シリコーンゴムと樹脂の一体成形、合成ゴムの配合開発を手がけるゴム成形メーカーです",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "PP樹脂とシリコーンゴムを一体化した水筒のせんでは、部品点数を減らし、メーカー側の組立工数削減につなげています",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、同じ材種でもメーカーやグレードによって密着性は変わります",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "不具合が生じた際には原因を分析し、顧客へのフィードバックにつなげます",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンアローは合成ゴムの配合技術を用いて、顧客のニーズに合うゴム材料を開発します",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "開発の進め方は、顧客が抱える課題を試作段階から一緒に検討し、",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "同じ材種でもメーカー・グレードで密着性が変わるため、材料、表面状態、前処理、寸法を個別に確認",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "パッキンが外れない一体構造に変更し、部品点数とメーカー側の組立工数を削減",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの組付工程と、使用者の再装着という二つの課題に関わる事例です",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンゴム成形メーカーをお探しの企業に向けて、作りたい部品別におすすめのメーカーをご紹介します",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "各社で対応技術や得意とする部品が異なるため、自社で作りたい部品にあったメーカーを選ぶ参考にしてください",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "シリコンゴム成形メーカー3選",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "１歳の誕生日に祖母が買い与えてくれて以来、小学校に上がるくらいまではどこに行くときも肌身離さず連れ回っていた",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、肝心のメーカー名がわからない",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "現在、クリニックが混雑しておりまして待機用のベッドに空きがございません",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "クリニックに、ふるくま君が到着し目に触れた瞬間、",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ・沿革 - サンアロー 株式会社 — 会社概要 ・沿革 - サンアロー 株式会社 サンアロー株式会社 - https://www.sunarrow.co.jp > 会社情報",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー | 企業 情報 | イプロスものづくり — サンアロー | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 樹脂・プラスチック",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー 株式 会社 新潟工場 | 企業 情報 — サンアロー 株式 会社 新潟工場 | 企業 情報 企業情報ナビ https://www.niigata-kigyo-navi.jp > 企業情報",
+    "url": "https://www.niigata-kigyo-navi.jp/search/company/664",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー | 企業情報 | イプロスものづくり — サンアロー | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 樹脂・プラスチック",
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 - サンアロー 株式会社 — 会社概要・沿革 - サンアロー 株式会社 サンアロー株式会社 - https://www.sunarrow.co.jp > 会社情報",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー 株式会社 の企業情報 - バフェット・コード — サンアロー 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/drwzf7g6eh/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー 株式会社の業績・将来性・強み・弱み — サンアロー 株式会社の業績・将来性・強み・弱み エン カイシャの評判 https://en-hyouban.com > company",
+    "url": "https://en-hyouban.com/company/10004660497/23/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー株式会社新潟工場の省エネルギー化事業｜SII省エネ補助金の... — Aug 8, 2026 · サンアロー株式会社がSII省エネ補助金に採択された事例「サンアロー株式会社新潟工場の省エネルギー化事業」。新潟県／令和4年度 (指定設備導入事業・第2次)／交付額104万円。",
+    "url": "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー株式会社様 | 製品化事例 | 株式会社東北テクノアーチ — 発明から生まれた製品・サービスの事例 バイオ発電スキンパッチBIPP® 東北大学大学院工学研究科の西澤松彦教授らは、サンアロー株式会社様との共同研究成果として、酵素によるバイオ発電の機能を搭載したスキンパッチBIPP🄬（Bio Iontophoresis Patch）の標準モデルを完成させました。このパッチ ...",
+    "url": "https://www.t-technoarch.co.jp/content/licence_1067.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンアローのゴム成形の特徴や事例について解説 — サンアローは独自の合成ゴム配合技術と一貫生産体制を提供しており、シリコンゴムと樹脂の接着技術で高い技術力を持つゴム成形メーカーです。ここでは、サンアローの特徴や対応可能な成形技術・ゴム素材、製品事例などについてご紹介します。 こんな業界におすすめ サンアローは ...",
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー株式会社 - — 製品紹介 Our Products 当社が製造した製品事例についてカテゴリー別にご紹介します 自動車部品から手術用トレーニング ...",
+    "url": "http://www.sunarrow.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "省力化装置 - サンアロー株式会社 — それ以外にも 累計で1000台を超える設備を自社の生産ラインに投入している実績 があるため、省力化設備の導入を検討しているが、知見が無い…というお客様でも安心してご相談頂くことが出来ます。",
+    "url": "https://www.sunarrow.co.jp/feature-mechatronics/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 - サンアロー株式会社企業理念・会社紹介 | ぬいぐるみの企画・製造会社 | 株式会社サン・...サンアロー株式会社 -株式会社サン・アロー（東京都）の会社概要・役員 | Compalyze主要取引先サン・アロー - Wikipedia — 会社概要 会社名 サンアロー株式会社 本社 〒104-0032 東京都中央区八丁堀4-10-4 オーキッドプレ THE HISTORY サン・アローの品質・安全管理 最新情報 NEWCOMER NEWS 企業理念・会社紹介 会社概要 沿革 アクセス CSR 採用情報 プライバシーポリシー お問い合わせ 法人のお客さまへ 伊豆テディベアミュージアム 那須テディベアミュージアム ONLINE SHOP テディズ ... 製品紹介 Our Products 当社が製造した製品事例についてカテゴリー別にご紹介します 自動車部品から手術用トレーニ",
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー株式会社 - — 製品紹介 Our Products 当社が製造した製品事例についてカテゴリー別にご紹介します 自動車部品から手術用トレーニング ...",
+    "url": "https://www.sunarrow.co.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "3Dプリンターとサンアロー接着液｜gake Dec 4, 2025 · 強固！ まとめ サンアロー接着液の方がアクリサンデー接着剤より断然安いです。 3倍以上容量増えて、お値段なお安い。 接着力が強いならおススメできそうと検証してみたのですが、結果は前述の通りです。",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "イレクターパイプ④：組み立てパーツの接着も簡単なDIYアイテム Jan 25, 2025 · サンアロー接着液の影響でイレクターパイプが溶けているのがわかります。 （すぐ溶けるほどに強力ということ） 接着したい場所全体にサンアロー接着液がいきわたったら、あとは放置。 公式の推奨は24時間放置ですが、12時間もあればだいたい固まって ...",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "相棒のぬいぐるみが入院手術した話｜けつぷり Apr 10, 2020 · 調べてみると、このサンアローという会社は現存しているうえに、去年の4月から自社製品に限りぬいぐるみの修理受付をスタートしたとのこと。 なんというタイミング。 これはお願いするしかない。",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "3Dプリンターとサンアロー接着液｜gake",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "1歳の子供がネジを回せるようになりました。",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "水筒の蓋を開けたり、ボールペンを分解したり。",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "ネジのおもちゃを作ったら遊んでくれるかな？と作ってみました。",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "https://makerworld.com/ja/models/1252509-the-swirl-tower-toy#profileId-1275248",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "このおもちゃ、土台部分が3つの部品で出来ています。",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "黄色の受け皿、ベージュの棒受け、灰色の棒。",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "バラバラだと遊べないので接着する必要がありました。",
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "pass": 3
+   },
+   {
+    "quote": "イレクターパイプ④：組み立てパーツの接着も簡単なDIYアイテム｜不器用DIY",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "イレクターパイプ④：組み立てパーツの接着も簡単なDIYアイテム",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "そんなイレクターパイプの加工と切断もできました。",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "いよいよイレクターパイプと組み立てパーツを接着していきます。",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "これにはイレクターパイプ外側のプラスチック樹脂部分を溶かす作用があります。",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "「いやいや溶かしたらダメだろ！くっつけたいんだよ！」",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "少し溶かして、再びプラスチック樹脂部分が固まることで接着させます。",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "「接」着液というより「溶」着液、ですかね。",
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "pass": 3
+   },
+   {
+    "quote": "相棒のぬいぐるみが入院手術した話｜けつぷり",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんには長年大切にしている物はあるだろうか？",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "黒く薄汚れ、毛はほとんど抜け落ち、いたるところの布地が破れ、中綿が飛び出し、限界までくたびれたクマのぬいぐるみ。",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "「不気味だ！」と思われた方もいるだろうが、何を隠そうこれは私が27年ほど大切にしているぬいぐるみだ。",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "１歳の誕生日に祖母が買い与えてくれて以来、小学校に上がるくらいまではどこに行くときも肌身離さず連れ回っていた。そんなことをしているとすぐにボロボロになるため、何度も何度も縫っては破れ、縫っては破れを繰り返してきた。",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "いよいよ縫える箇所も無くなってきて、見兼ねた祖母が何度か新しく似たようなクマのぬいぐるみを買い与えてくれたが、一向に乗り換える気配はなかったそうだ。",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "成長するにつれて触れ合う時間は減っていったが、それでも空気にさらしているだけで自然と素材が劣化してくる。画像の通り今にも首が取れそうで、引越しなどで少し移動させるのも怖いような状態になってしまった。",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   },
+   {
+    "quote": "一度持った愛着を消し去ることは難しく、私が死んだ時にはこのぬいぐるみを一緒に墓に入れて欲しいとすら思っているので、こんな早々にくたばってもらっちゃ困る。プロに修理してもらうことを決意した。",
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "サンアロー株式会社 (@Sunarrow_Ltd) / X #樹脂 #ラバー成形 加工メーカ、サンアロー株式会社の公式Twitterです。 新製品や会社情報等、社内広報担当が色々な情報を発信します！！ 質問や問い合わせにつきましては、公式HPお問い合わせフォームよりお願いします。#企業公式アカウント",
+    "url": "https://x.com/Sunarrow_Ltd",
+    "pass": 3
+   },
+   {
+    "quote": "\"#サンアロー\" - Results on X | Live Posts & Updates Results for \"#サンアロー\" on X (Twitter). Find the latest posts, discussions, and updates about #サンアロー. 19 results found.",
+    "url": "https://x.com/hashtag/サンアロー",
+    "pass": 3
+   },
+   {
+    "quote": "サン・アロー公式オンラインショップ (@teddys_shop) / X ぬいぐるみのサン・アロー公式オンラインショップのアカウントです。 新商品・再入荷情報等をお届けします！ #私とサンアロー ご質問やお問い合わせはこちら⇒ sun-arrow-onlineshop.com/contacts ※Xでの個別のお問い合わせへの回答は致しかねます。",
+    "url": "https://x.com/teddys_shop",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "サンアロー株式会社 - Facebook Jul 9, 2026 · サンアロー株式会社. 13 likes. サンアロー株式会社の公式アカウントです。 私たちは唯一無二のものづくり企業として≠MADE INSUNARROW製品を お客様へ届けます。 お問合せはURLの公式HPよりお願いします。",
+    "url": "https://www.facebook.com/people/サンアロー株式会社/100090491784157/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サン・アロー | Chiyoda-ku Tokyo - Facebook株式会社 サンアロー | Ube-shi Yamaguchi - Facebookサンアロー化成株式会社 - Facebook株式会社サン・アロー - 【お知らせ】... - Facebook株式会社サン・アロー - PERFECT PIGGY 新登場ピギーちゃんベアーくん...有限会社サンアロー - Facebook 株式会社サン・アロー, Chiyoda. 421 followers · 9 were here. ＜基本情報＞ Facebook上では個別のご質問はご対応できかねます。お問い合 Jul 4, 2021 · 株式会社 サンアロー, Ube-shi. 237 likes. きくらげの菌床製造、契約農家様に菌床を提供するとともに、生産指導を Dec 13, 2020 · サンアロー化成㈱は、Amaz",
+    "url": "https://www.facebook.com/sunarrow1918/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 サンアロー | Ube-shi Yamaguchi - Facebook Jul 4, 2021 · 株式会社 サンアロー, Ube-shi. 237 likes. きくらげの菌床製造、契約農家様に菌床を提供するとともに、生産指導を",
+    "url": "https://www.facebook.com/p/株式会社-サンアロー-100057287865849/",
+    "pass": 3
+   },
+   {
+    "quote": "サンアロー化成株式会社 - Facebook株式会社サン・アロー - 【お知らせ】... - Facebook株式会社サン・アロー - PERFECT PIGGY 新登場ピギーちゃんベアーくん...有限会社サンアロー - Facebook Dec 13, 2020 · サンアロー化成㈱は、Amazonでフェイスシールドを 販売しております。 それぞれ、 ・2個入り ・6個入り ・10個入り ・60個入り とバリエーションを豊富に展開しております。 【お知らせ】 この度サン・アロー公式オンラインショップは、2024年1月19日（金）12：00に新ショップサイトとして、リニューアルオープンをさせていただくこととなりました。 詳しくは以下の「案内ページ」をご確認ください。 公式オンラインショップ リニューアルのお知らせ https://sun-arrow ... Nov 6, 2025 · 🐷 ",
+    "url": "https://www.facebook.com/sunarrow.kasei/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sunarrow.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunarrow.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunarrow.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunarrow.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunarrow.co.jp/company/network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunarrow.co.jp/works_category/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunarrow.co.jp/works_category/material/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sun-arrow.co.jp/company/overview/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2043275/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/drwzf7g6eh/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://initial.inc/tags/fundraising-articles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shippio.io/news/press-release/series-c/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC129680S6A310C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-technoarch.co.jp/content/licence_1067.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rubber-soko.com/list/sunarrow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AD%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankyo-dnk.co.jp/syuyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gakenoma/n/na74888b0795c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Sunarrow_Ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/サンアロー",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/teddys_shop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/サンアロー株式会社/100090491784157/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sunarrow1918/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/株式会社-サンアロー-100057287865849/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sunarrow.kasei/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サンアロー 会社概要 資本金 設立",
+   "results": [
+    "https://www.sunarrow.co.jp/company/history/",
+    "https://mono.ipros.com/company/detail/2043275/",
+    "https://www.sun-arrow.co.jp/company/overview/history.html",
+    "https://www.niigata-kigyo-navi.jp/search/company/664",
+    "https://tenshoku.mynavi.jp/company/159460/",
+    "http://www.sanarrow.co.jp/company/",
+    "https://sun-arrow-b.com/info.html",
+    "https://sado-compass.com/company/sunarrow/",
+    "https://www.3-sanarrow.com/",
+    "https://ja.wikipedia.org/wiki/サン・アロー"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "サンアロー 事業内容 売上",
+   "results": [
+    "https://mono.ipros.com/company/detail/2043275/",
+    "https://www.sunarrow.co.jp/company/history/",
+    "https://www.buffett-code.com/company/drwzf7g6eh/",
+    "https://en-hyouban.com/company/10004660497/23/",
+    "https://www.sun-arrow.com/",
+    "https://tenshoku.mynavi.jp/company/159460/",
+    "https://baseconnect.in/companies/21cd0de4-6b4d-46a6-9398-7b329aac0ed5",
+    "https://www.3-sanarrow.com/",
+    "https://www.sunarrow.co.jp/",
+    "https://catr.jp/companies/5557e/308664"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "サンアロー 資金調達 株主",
+   "results": [
+    "https://initial.inc/tags/fundraising-articles",
+    "https://www.shippio.io/news/press-release/series-c/",
+    "https://www.nikkei.com/article/DGXZQOUC129680S6A310C2000000/",
+    "https://jp.ub-speeda.com/document/260127wp/",
+    "https://www.forstartups.com/news/financing-ranking-20210114",
+    "https://coralcap.co/2017/06/deal-terms/",
+    "https://prtimes.jp/main/html/rd/p/000000076.000042542.html",
+    "https://lp.startup-db.com/media/articles/funding-ranking-202109",
+    "https://jp.smartround.com/voc",
+    "https://www.sunarrow.co.jp/en/company/history/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "サンアロー 導入事例",
+   "results": [
+    "https://hojokin-jirei.com/jirei/bf32bed105e9bd70/",
+    "https://www.t-technoarch.co.jp/content/licence_1067.html",
+    "https://www.rubber-soko.com/list/sunarrow.html",
+    "http://www.sunarrow.co.jp/",
+    "https://www.sunarrow.co.jp/feature-mechatronics/",
+    "https://www.osstech.co.jp/case/page/2/",
+    "https://mono.ipros.com/product/detail/2000836299/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サンアロー 主要取引先",
+   "results": [
+    "https://ja.wikipedia.org/wiki/サン・アロー",
+    "https://www.sunarrow.co.jp/company/history/",
+    "https://www.sankyo-dnk.co.jp/syuyou.html",
+    "https://www.sunarrow.co.jp/",
+    "https://www.sun-arrow.com/company/profile/",
+    "https://www.sun-arrow.com/company/",
+    "https://compalyze.co.jp/company/6010501025852"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com サンアロー",
+   "results": [
+    "https://note.com/gakenoma/n/na74888b0795c",
+    "https://note.com/shinichiro_diy/n/nef18bd40200c",
+    "https://note.com/ketsupuri/n/n0d1a471c8933",
+    "https://note.com/chic_crab6427/n/n378626daeb25",
+    "https://note.com/azumakazan/n/nca7442c8b281",
+    "https://note.com/kuroi_tea/n/n677e7089257c",
+    "https://note.com/sakuratoys/n/n6bca9417a779"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com サンアロー",
+   "results": [
+    "https://x.com/Sunarrow_Ltd",
+    "https://x.com/hashtag/サンアロー",
+    "https://x.com/sunarrow1918",
+    "https://x.com/teddys_shop",
+    "https://x.com/teddys_shop/status/2119244764742852647",
+    "https://x.com/teddys_shop/status/2076584677759197539",
+    "https://x.com/sunarrow1918/with_replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com サンアロー",
+   "results": [
+    "https://jp.linkedin.com/in/太嗣-agc関口-56100242",
+    "https://www.linkedin.com/check/en",
+    "https://www.linkedin.com/pulse/12-months-free-linkedin-premium-microsoft-365-3sswe/",
+    "https://jp.linkedin.com/in/正志-水谷-98913a120",
+    "https://de.linkedin.com/in/andreas-schneck-0250093",
+    "https://pl.linkedin.com/in/asia-popławska",
+    "https://uk.linkedin.com/in/bulent-sackiran-12503614"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com サンアロー",
+   "results": [
+    "https://www.facebook.com/people/サンアロー株式会社/100090491784157/",
+    "https://www.facebook.com/sunarrow1918/",
+    "https://www.facebook.com/p/株式会社-サンアロー-100057287865849/",
+    "https://www.facebook.com/sunarrow.kasei/",
+    "https://www.facebook.com/p/有限会社サンアロー-100057546486141/",
+    "https://www.facebook.com/sunarrow1918/posts/お知らせこの度サンアロー公式オンラインショップは2024年1月19日金1200に新ショップサイトとしてリニューアルオープンをさせていただくこととなりました詳しく/868302508629776/",
+    "https://www.facebook.com/sunarrow1918/posts/perfect-piggy新登場ピギーちゃんベアーくんぬいぐるみ117金-12001118火-2359サンアローオンラインショップ先行予約受付中先着100名様限/1422597519866936/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サンアロー note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "サンアロー X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）",
+  "表彰・認定の記録": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）"
+ }
+}

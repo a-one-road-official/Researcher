@@ -1,0 +1,494 @@
+{
+ "name": "Knowhow Wilhelms — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T14:08:31.633637+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Frank Wilhelms – 3D DED Gießerei QM Berater CEO Knowhow ...VoxelMatters - LinkedInDavide Sher - Co-founder and CEO at VoxelMatters | LinkedInFrank Wilhelms auf LinkedIn: Meltio Robot Cell: Plug&Play ...5 \"Frank Wilhelms\" profiles | LinkedInFrank Wilhelms on LinkedIn: #3dmetalldrucker 3D DED Gießerei QM Berater CEO Knowhow Wilhelms GmbH - info@k-wilhelms.de · Laserschweißen zur Gussteilinstandsetzu",
+    "url": "https://de.linkedin.com/in/frank-wilhelms-88299772",
+    "pass": 3
+   },
+   {
+    "quote": "Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInFrank Wilhelms auf LinkedIn: Meltio Robot Cell: Plug&Play ...5 \"Frank Wilhelms\" profiles | LinkedInFrank Wilhelms on LinkedIn: #3dmetalldrucker Apr 26, 2022 · Co-founder and CEO at VoxelMatters · As a journalist and entrepreneur with a passion for additive manufacturing (AM) and its potential to transform the world, I co-founded VoxelMatte",
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookKnowhow Wilhelms GmbH | Berlin - FacebookKnowhow Wilhelms GmbH | Berlin - FacebookMeltio - We are very proud to introduce Knowhow Wilhelms GmbH ...We are very proud to announce that our official sales partner ...FacebookHS Automation GmbH | Vöhringen - Facebook Full breakdown, only on VoxelMatters 🍒 #AdditiveManufacturing #3DPrinting #FoodSafe #FoodGrade #Manufacturing 3DPri",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/voxelmatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/HANIDOLL/dp/B08KGB6LMM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eleshop.jp/shop/c/c66320102/?srsltid=AYCX9vKaCYkczrJCnE1FyOXzcmmWwFIFaDgnNAu8nZw4FWIG9VOYxseN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vKA0fVQg1VO437KHc7uKbP12m4gPhknpJq1FrFTHRtpvQaFjtxX",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/join/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vIgrKSVmcLIfILfD4aW211YvWNrj4jtQrcKWy60TxR7JQuKS_Cv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products/modular",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0919/9906/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/KITZ+600+WOG/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04119141/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/knowhow-wilhelms",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.knowhow_wilhelms_gmbh.0747992c4d94539dfe5c4303befc0b62.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/en/companies/knowhow-wilhelms-gmbh-koenigs-wusterhausen--DEHCROZVE482",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.northdata.com/Knowhow+Wilhelms+GmbH,+K%C3%B6nigs+Wusterhausen/Amtsgericht+Cottbus+HRB+11299",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/in/frank-wilhelms-88299772",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.youtube.com/watch?v=EffPB8N9Mj0",
+    "https://www.voxelmatters.directory/privacy-center/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://www.instagram.com/antenna_ts/",
+    "https://www.amazon.co.jp/-/en/HANIDOLL/dp/B08KGB6LMM",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://gomexus.jp/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://eleshop.jp/shop/c/c66320102/?srsltid=AYCX9vKaCYkczrJCnE1FyOXzcmmWwFIFaDgnNAu8nZw4FWIG9VOYxseN",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vKA0fVQg1VO437KHc7uKbP12m4gPhknpJq1FrFTHRtpvQaFjtxX",
+    "https://ja.aliexpress.com/item/1005008750227593.html",
+    "https://store.head-spring.co.jp/products/detail/4293.html",
+    "https://tokyoclass.com/Product/Detail/view/pid/9798",
+    "https://rtrp.jp/items/24894352/",
+    "https://flexp.expertarium.net/jp/products/13007408"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.voxelmatters.com/about/join/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vIgrKSVmcLIfILfD4aW211YvWNrj4jtQrcKWy60TxR7JQuKS_Cv",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://skhonpo.com/collections/all",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://3dfs.idarts.co.jp/",
+    "https://ja.aliexpress.com/item/1005004657293430.html",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.voxelmatters.group/",
+    "https://www.youtube.com/watch?v=EffPB8N9Mj0",
+    "https://www.kmkogyo.co.jp/en/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.voxelmatters.group/",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Knowhow Wilhelms — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.amazon.co.jp/【デジタル限定】岸明日香-Trajectory-ANOTHER-ワニブックス-デジタル写真集-ebook/dp/B0HKVGY6H1",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Knowhow Wilhelms — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/p/0919/9906/",
+    "https://www.monotaro.com/k/store/KITZ+600+WOG/",
+    "https://www.monotaro.com/g/04119141/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/01401058/",
+    "https://www.monotaro.com/g/01601656/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.crunchbase.com/organization/knowhow-wilhelms",
+    "https://www.dnb.com/business-directory/company-profiles.knowhow_wilhelms_gmbh.0747992c4d94539dfe5c4303befc0b62.html",
+    "https://implisense.com/en/companies/knowhow-wilhelms-gmbh-koenigs-wusterhausen-DEHCROZVE482",
+    "https://www.northdata.com/Knowhow+Wilhelms+GmbH,+Königs+Wusterhausen/Amtsgericht+Cottbus+HRB+11299",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.voxelmatters.com/",
+    "https://www.zoominfo.com/c/knowhow-wilhelms-gmbh/1202168944"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Knowhow Wilhelms — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Knowhow Wilhelms — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/PopBase/status/2116494180054909027",
+    "https://x.com/RepJeffries/status/2117800972810330242"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Knowhow Wilhelms — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/knowhow-wilhelms-gmbh",
+    "https://de.linkedin.com/in/frank-wilhelms-88299772",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://de.linkedin.com/posts/frank-wilhelms-88299772_meltio-robot-cell-plugplay-roboterlösung-activity-7112473171991089152-zjV0",
+    "https://www.linkedin.com/pub/dir/frank/wilhelms",
+    "https://www.linkedin.com/posts/frank-wilhelms-88299772_3dmetalldrucker-activity-6911785867992793088-rkVZ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Knowhow Wilhelms — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/people/Knowhow-Wilhelms-GmbH/100064153536814/",
+    "https://www.facebook.com/p/Knowhow-Wilhelms-GmbH-100064153536814/",
+    "https://www.facebook.com/meltio3d/photos/695606821819335/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/HSAutomationgmbh/mentions/",
+    "https://www.facebook.com/watch/?v=615404546737580"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Knowhow Wilhelms — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

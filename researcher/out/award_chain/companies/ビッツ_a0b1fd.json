@@ -1,0 +1,1383 @@
+{
+ "name": "ビッツ",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T14:00:31.803072+00:00",
+ "official_url": "https://www.bits.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1971年（昭和46年）7月29日",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1971(昭和46)年7月",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1971(昭和46)年7月",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "287人（2026年4月1日現在）",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "287人（2026年4月1日現在）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "社員数",
+    "value": "287人（2026年4月1日現在）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 アクセスマップ 〒141-0001 東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F TEL：03-6842-5050 FAX：03-6842-5056 東北事業所 アクセスマップ 〒980-6016 宮城県仙台市青葉区中央4-6-1 SS30 16F TEL：022-224-5540 FAX：022-224-5541 関西事業所 アクセスマップ 〒541-0047 大阪府大阪市中央区淡路町3-6-3 御堂筋MTRビル 12F TEL：06-7664-0101 FAX：06-7664-0102",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "管理本部 総務人事部・経理部・業務プロセス改革部 TEL：03-6842-5050 経営企画本部 事業推進室 TEL：03-6842-5050 営業統括部 リレーション営業部・新規開拓営業部 TEL：03-6842-5051 東京事業部 第1開発部・第2開発部・第3開発部 TEL：03-6842-5052",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "｜ 住所 ｜",
+    "value": "〒141-0001 東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F TEL：03-6842-5050 ／ FAX：03-6842-5056",
+    "url": "https://www.bits.co.jp/company/access.html/",
+    "pass": 1
+   },
+   {
+    "label": "｜ 住所 ｜",
+    "value": "〒980-6016 宮城県仙台市青葉区中央4-6-1 SS30 16F TEL：022-224-5540 ／ FAX：022-224-5541",
+    "url": "https://www.bits.co.jp/company/access.html/",
+    "pass": 1
+   },
+   {
+    "label": "｜ 住所 ｜",
+    "value": "〒541-0047 大阪府大阪市中央区淡路町3-6-3 御堂筋MTRビル 12F TEL：06-7664-0101 ／ FAX：06-7664-0102",
+    "url": "https://www.bits.co.jp/company/access.html/",
+    "pass": 1
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "141-0001",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都品川区北品川5-1-18　住友不動産大崎ツインビル東館9F",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-6842-5050",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "高知県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "滋賀県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "和歌山県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、福岡県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "141-0001",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都品川区北品川5-1-18　住友不動産大崎ツインビル東館9F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-6842-5050",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "埼玉県、東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "奈良県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ソフトウェア受託開発、自社ソフトウェア製品開発/販売",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "■事業内容 ビッツは【よりそえる　やさしい未来へ】をスローガンに、4つの分野をさらに磨き、社会に貢献する卓越したIT企業を目指します。 ＜ソフトウェア受託開発／ITインフラ構築＞ 01　ICT基盤分野 --------------------- 創業当初から蓄積された、通信・制御技術により、 様々なネットワークや社会インフラのICTに貢献しています。 ┣ 公共系システム（交通、空港、放送） ┣ 金融系システム（サーバー構築、ゲートウェイ） ┗ 通信系システム（光、マイクロ波、基地局、暗号化） 02　先端IT技術分野 --------------------- イノベーションをもたらす次世代の技術にチャレンジし、 社会に新たな価値を創りあげていきます。 ┣ IoT系システム（物流制御、屋内位置情報） ┣ ロボティクス系システム（自動運転、自立移動） ┗ モバイル系システム（秘匿通話、アプリ、5G） 03　DX推進分野 --------------------- 企業のIT導入やシステム開発をはじめ、様々な先進分野で ソリューションを提供し、ビジネスや社会のDXを推進します。 ┣ エンター",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容 受託開発",
+    "value": "■事業内容 ビッツは【よりそえる　やさしい未来へ】をスローガンに、4つの分野をさらに磨き、社会に貢献する卓越したIT企業を目指します。 ＜ソフトウェア受託開発／ITインフラ構築＞ 01　ICT基盤分野 --------------------- 創業当初から蓄積された、通信・制御技術により、 様々なネットワークや社会インフラのICTに貢献しています。 ┣ 公共系システム（交通、空港、放送） ┣ 金融系システム（サーバー構築、ゲートウェイ） ┗ 通信系システム（光、マイクロ波、基地局、暗号化） 02　先端IT技術分野 --------------------- イノベーションをもたらす次世代の技術にチャレンジし、 社会に新たな価値を創りあげていきます。 ┣ IoT系システム（物流制御、屋内位置情報） ┣ ロボティクス系システム（自動運転、自立移動） ┗ モバイル系システム（秘匿通話、アプリ、5G） 03　DX推進分野 --------------------- 企業のIT導入やシステム開発をはじめ、様々な先進分野で ソリューションを提供し、ビジネスや社会のDXを推進します。 ┣ エンター",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "取引先企業",
+    "value": "株式会社アイネット アイリスオーヤマ株式会社 アルプスシステムインテグレーション株式会社 アンリツ株式会社 株式会社エクサ NECソリューションイノベータ株式会社 NECネッツエスアイ株式会社 NECプラットフォームズ株式会社 株式会社NTTデータNJK 株式会社クボタ 株式会社クレオ 株式会社光電製作所 コムチュア株式会社 株式会社コムニック 株式会社コンピュータシステム研究所 株式会社サイバーリンクス 株式会社GSユアサ JFEスチール株式会社 株式会社ジョイフル本田 住友電気工業株式会社 住友電工システムソリューション株式会社 星和電機株式会社 株式会社セック 株式会社テルミック 株式会社デンソーテン 東海エレクトロニクス株式会社 東京水道株式会社 株式会社東芝 トヨタ自動車株式会社 日本アイ・ビー・エム株式会社 日本アビオニクス株式会社 独立行政法人日本スポーツ振興センター 日本電気株式会社 日本電気航空宇宙システム株式会社 日本電気通信システム株式会社 公益財団法人日本盲導犬協会 パシフィックコンサルタンツ株式会社 パナソニック株式会社 日立建機株式会社 富士フイルムイメージ",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先(五十音順)",
+    "value": "アイリスオーヤマ株式会社／アルプスシステムインテグレーション株式会社／アンリツ株式会社／株式会社エクサ／株式会社 NTTデータNJK／株式会社光電製作所／コムチュア株式会社／株式会社コムニック／株式会社コンピュータシステム研究所／株式会社サイバーリンクス／株式会社GSユアサ／JFEスチール株式会社／株式会社ジョイフル本田／住友電気工業株式会社／住友電工システムソリューション株式会社／株式会社セック／株式会社テルミック／株式会社デンソーテン／株式会社東芝／トヨタ自動車株式会社／独立行政法人日本スポーツ振興センター／日本電気株式会社／NECソリューションイノベータ株式会社／NECプラットフォームズ株式会社／日本電気航空宇宙システム株式会社／日本電気通信システム株式会社／公益財団法人日本盲導犬協会／日立建機株式会社／富士フイルムイメージングプロテック株式会社／株式会社堀場製作所／三井E&Sシステム技研株式会社／三菱電機株式会社／株式会社村田製作所",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "主要取引先(五十音順)",
+    "value": "アイリスオーヤマ株式会社／アルプスシステムインテグレーション株式会社／アンリツ株式会社／株式会社エクサ／株式会社 NTTデータNJK／株式会社光電製作所／コムチュア株式会社／株式会社コムニック／株式会社コンピュータシステム研究所／株式会社サイバーリンクス／株式会社GSユアサ／JFEスチール株式会社／株式会社ジョイフル本田／住友電気工業株式会社／住友電工システムソリューション株式会社／株式会社セック／株式会社テルミック／株式会社デンソーテン／株式会社東芝／トヨタ自動車株式会社／独立行政法人日本スポーツ振興センター／日本電気株式会社／NECソリューションイノベータ株式会社／NECプラットフォームズ株式会社／日本電気航空宇宙システム株式会社／日本電気通信システム株式会社／公益財団法人日本盲導犬協会／日立建機株式会社／富士フイルムイメージングプロテック株式会社／株式会社堀場製作所／三井E&Sシステム技研株式会社／三菱電機株式会社／株式会社村田製作所",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "43億7,488万円（2026年3月・55期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "43億7,488万円（2026年3月・55期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "2026年3月（55期）売上高 43億7,488万円",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア受託開発、自社ソフトウェア製品開発/販売",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "かんたんWEB受発注システム「みえぞう楽市」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "写真から個人情報自動消去「キャラメル」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "米国LORD社製無線センシング製品販売開始",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "Web型在庫管理システム「みえぞう」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232/422/485/530モニタ「HM-R1」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232C/422/485モニタ「HM-2G」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232C/422モニタ「HM-2F」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "部品在庫管理システム（Windows版）開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232C/422モニタ「HM-3E」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "ISDNモニタ「HM－IN60」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232Cモニタ「HM-10」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232Cモニタ「HM-3」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232Cモニタ「HM-2」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "RS-232Cモニタ「HM-1」開発販売",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "受注、出荷、売上、請求、売掛の各業務および発注、仕入、支払、買掛、在庫管理まで対応した販売管理...",
+    "url": "https://www.bits.co.jp/development/",
+    "pass": 1
+   },
+   {
+    "quote": "（製品およびサービスの紹介や展示会の案内等に使用することがあります）",
+    "url": "https://www.bits.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "主力事業の内容は維持し本流を変えない（不易）ためにも、新たな要素を取り入れていく努力（流行）が必要です",
+    "url": "https://www.bits.co.jp/company/message.html/",
+    "pass": 1
+   },
+   {
+    "quote": "設計、開発、製造するソフトウェアを製品として提供する「システム開発」",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア技術者を紹介する「技術支援サービス」",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、ＩＴ関連事業を展開し、お客様にシステム開発や商品開発販売サービスを提供していく中で、情報セキュリティを確保することは必須であると考えております",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "このサイトは、株式会社ビッツ（以下「当社」という）が運営するウェブサイト（以下「本サイト」という）です",
+    "url": "https://www.bits.co.jp/terms/",
+    "pass": 1
+   },
+   {
+    "quote": "営利、非営利、イントラネットを問わず、本サイトのコンテンツを許可無く複製、転用、販売等をすることは、事前に当社の文書による許諾がない限り、禁止します",
+    "url": "https://www.bits.co.jp/terms/",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトから、もしくは本サイトにリンクしている当社以外の第三者のウェブサイトは、それぞれ各社の責任で運営されているものであり、当社の管理下にあるものではありません",
+    "url": "https://www.bits.co.jp/terms/",
+    "pass": 1
+   },
+   {
+    "quote": "その他、本サイトの運営を中断、または中止させて頂く事がございます",
+    "url": "https://www.bits.co.jp/terms/",
+    "pass": 1
+   },
+   {
+    "quote": "半世紀にわたり独立系のソフトウェア受託開発として【制御】が必要なミドルウェア、ファームウェア、ICTに必要な【通信】に関する豊富な経験とノウハウを蓄積してきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、受託開発やITインフラ構築だけでなく、自社製品の開発にも力を注ぎ、新たな価値と次世代の当たり前を創りあげていきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜ソフトウェア受託開発／ITインフラ構築＞",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "半世紀にわたり独立系のソフトウェア受託開発として【制御】が必要なミドルウェア、ファームウェア、ICTに必要な【通信】に関する豊富な経験とノウハウを蓄積してきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、受託開発やITインフラ構築だけでなく、自社製品の開発にも力を注ぎ、新たな価値と次世代の当たり前を創りあげていきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "＜ソフトウェア受託開発／ITインフラ構築＞",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトクリエイトの製品・サービスにより課題を解決されたお客さまの声や、取り組みをご紹介します",
+    "url": "https://www.softcreate.co.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "地方創生・製造業 DX を牽引する水島機工がMicrosoft 365 ＋ SCCloud 365 を選択した理由とは",
+    "url": "https://www.softcreate.co.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "なおこれは視聴者側から見た意見が強く、収益を得る側から見たらまた違う意見も出てくると思います",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchをもっと楽しむための収益化ツールガイド",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchゲーム配信で収益化する完全ロードマップ【2026年版】",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ゲーム配信で稼ぐには？YouTube・TikTok・Twitch・ニコ生の収益化条件を全部まとめた",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "【Twitch配信者・VTuber必見】ゲームの\"サーバー参加権\"を売る？ 配信の副産物で収益を生む新しい方法",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "【Twitch収益化】同接5人の壁を壊して「月1万円」を稼ぐための全戦略",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "Twitch攻略編「ステップ0：戦略設計と基礎理解 Part2 ～収益の仕組みを知る：アフィリエイトとパートナー制度のリアル～」",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "あなたのSNSを収益化するにはどうすればいいか",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度Twitch収益報告",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都情報サービス産業健康保険組合（TJK）",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "本社移転 住友不動産大崎ツインビル東館 9階（東京都品川区）（7月1日）",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "金融系中継HUBシステム２",
+    "url": "https://www.bits.co.jp/development/",
+    "pass": 1
+   },
+   {
+    "quote": "DPC包括評価方法に基づいたシステムと医療事務システムへのレセプト情報の連携システム開発システム全...",
+    "url": "https://www.bits.co.jp/development/",
+    "pass": 1
+   },
+   {
+    "quote": "金融系中継HUBシステム１",
+    "url": "https://www.bits.co.jp/development/",
+    "pass": 1
+   },
+   {
+    "quote": "某金融機関のシステムやDB間のデータ通信を各々のシステムに合わせてメッセージ変換し実行するシステ...",
+    "url": "https://www.bits.co.jp/development/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F",
+    "url": "https://www.bits.co.jp/company/access.html/",
+    "pass": 1
+   },
+   {
+    "quote": "〒141-0001 東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F",
+    "url": "https://www.bits.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "また、企業が飛躍していくには、経営者と社員それぞれが、顧客と市場を創造する力「商才」を備えていることが必須条件だといえます",
+    "url": "https://www.bits.co.jp/company/message.html/",
+    "pass": 1
+   },
+   {
+    "quote": "・電気エネルギーを大切に利用し、省エネルギー化に努める",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "環境教育、社内広報活動等により、社員の環境保護への理解と意識の共有化を図る",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、顧客情報や営業情報、技術情報、製品情報、個人情報等を重要な情報と考え、これらの情報を漏えい、紛失、破壊及び改ざん等のリスクから保護するための適切なセキュリティ対策を行う",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "情報セキュリティに関する適切な教育を行い、意識の向上を図る",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "著作権等の知的財産権や個人情報の保護及び自社が展開する事業に関する関連法規、顧客や取引先との契約上の要求事項を順守する",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "労働時間短縮、年休取得促進、育児・介護支援等、仕事と家庭の両立への取り組みを推進する",
+    "url": "https://www.bits.co.jp/company/csr.html/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ビッツは、すべての役員及び従業員が当方針を理解し、実践できるよう、人権尊重に関する教育・啓発を適切に行います",
+    "url": "https://www.bits.co.jp/company/humanrights.html/",
+    "pass": 1
+   },
+   {
+    "quote": "福利厚生が充実、教育・研修制度に自信があります",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社会性・公共性の高い案件と、クライアント様との長期取引も多く安定しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビッツは創立50年以上になる独立系のIT企業です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■着実にスキルアップできる充実の教育サポート",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビッツは【よりそえる やさしい未来へ】をスローガンに、4つの分野をさらに磨き、社会に貢献する卓越したIT企業を目指します",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "┣ 金融系システム（サーバー構築、ゲートウェイ）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "┣ IoT系システム（物流制御、屋内位置情報）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館9F",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都情報サービス産業健康保険組合（TJK）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・通信教育支援：会社指定の通信講座を受講可能（受講料は会社負担）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会津大学短期大学部、秋田コアビジネスカレッジ、専門学校アレック情報ビジネス学院、岩手県立産業技術短期大学校、宇都宮ビジネス電子専門学校、ＭＣＬ盛岡情報ビジネス＆デザイン専門学校、大阪ＩＴプログラミング＆会計専門学校、大阪情報専門学校、京都コンピュータ学院京都駅前校、京都コンピュータ学院洛北校、ＫＣＳ福岡情報専門学校、専修学校国際電子ビジネス専門学校、専門学校駿台ＩＴビジネスカレッジ、聖和学園短期大学、仙台大原簿記情報公務員専門学校、仙台高等専門学校、仙台青葉学院短期大学、鶴岡工業高等専門学校、東海学院大学短期大学部、東京ＩＴプログラミング＆会計専門学校仙台校、東京情報クリエイター工学院専門学校、東京電子専門学校、東北電子専門学校、常磐短期大学、日本工学院専門学校、日本工学院八王子専門学校、日本電子専門学校、ＨＡＬ東京、北海道情報専門学校、宮城県立白石高等技術専門校",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "福利厚生が充実、教育・研修制度に自信があります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "社会性・公共性の高い案件と、クライアント様との長期取引も多く安定しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビッツは創立50年以上になる独立系のIT企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■着実にスキルアップできる充実の教育サポート",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビッツは【よりそえる やさしい未来へ】をスローガンに、4つの分野をさらに磨き、社会に貢献する卓越したIT企業を目指します",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "┣ 金融系システム（サーバー構築、ゲートウェイ）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "┣ IoT系システム（物流制御、屋内位置情報）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館9F",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都情報サービス産業健康保険組合（TJK）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・通信教育支援：会社指定の通信講座を受講可能（受講料は会社負担）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会津大学短期大学部、秋田コアビジネスカレッジ、専門学校アレック情報ビジネス学院、岩手県立産業技術短期大学校、宇都宮ビジネス電子専門学校、ＭＣＬ盛岡情報ビジネス＆デザイン専門学校、大阪ＩＴプログラミング＆会計専門学校、大阪情報専門学校、京都コンピュータ学院京都駅前校、京都コンピュータ学院洛北校、ＫＣＳ福岡情報専門学校、専修学校国際電子ビジネス専門学校、専門学校駿台ＩＴビジネスカレッジ、聖和学園短期大学、仙台大原簿記情報公務員専門学校、仙台高等専門学校、仙台青葉学院短期大学、鶴岡工業高等専門学校、東海学院大学短期大学部、東京ＩＴプログラミング＆会計専門学校仙台校、東京情報クリエイター工学院専門学校、東京電子専門学校、東北電子専門学校、常磐短期大学、日本工学院専門学校、日本工学院八王子専門学校、日本電子専門学校、ＨＡＬ東京、北海道情報専門学校、宮城県立白石高等技術専門校",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人労働者健康安全機構(労災病院グループ)",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "地方創生・製造業 DX を牽引する水島機工がMicrosoft 365 ＋ SCCloud 365 を選択した理由とは",
+    "url": "https://www.softcreate.co.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "多様な働き方を実現する保険見直しラボが600台のPC情報管理を低コストで実現！",
+    "url": "https://www.softcreate.co.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "静岡県教育委員会が実現した、教育現場に負担をかけないセキュリティ運用とは?",
+    "url": "https://www.softcreate.co.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "美容室「Agu.」を展開する AB&Company、急成長を支える情シス部門とは",
+    "url": "https://www.softcreate.co.jp/case",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "第34回中小企業優秀技術・新技術賞ソフトウェア部門優良賞受賞",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金1億円に減資",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1億2,500万円に増資",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1億円に増資",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金5,000万円に増資",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "設立、資本金300万円（港区三田）",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "これもひとえにお取引先様、株主様をはじめ、日頃よりビッツを応援して下さった皆様に支えていただいた賜物と感謝しております",
+    "url": "https://www.bits.co.jp/company/message.html/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)アドバンスト・メディア【東証グロース市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "テクマトリックス(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "第34回中小企業優秀技術・新技術賞ソフトウェア部門優良賞受賞",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "ASPIC IoT・AI・クラウドアワード 先進技術賞受賞",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "東京メトロオープンデータ活用コンテスト 10thメトロ賞受賞",
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2020年6月30日より、一般財団法人日本情報経済社会推進協会（JIPDEC）から、プライバシーマーク付与事業者に認定されています",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、皆様よりお預かりしている個人情報の保護を重要な責務と認識し、今後もプライバシーマーク認定事業者として、個人情報保護管理の徹底に努めてまいります",
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業 概要 ｜株式 会社ビッツ 【 BITS 】 — 企業 概要 ｜株式 会社ビッツ 【 BITS 】 株式会社ビッツ【BITS】 https://www.bits.co.jp > company",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ビッツ の 会社概要 | マイナビ2028 — (株) ビッツ の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp70974 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ビッツ - 伊達なICT-WORK — 株式 会社ビッツ - 伊達なICT-WORK 伊達なICT-WORK https://date.ict.miyagi.jp > 求人情報2027卒",
+    "url": "https://date.ict.miyagi.jp/recruit/bits/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ビッツ の求人・企業 情報 - Daijob.com — 株式 会社ビッツ の求人・企業 情報 - Daijob.com Daijob.com https://www.daijob.com > jobs > company",
+    "url": "https://www.daijob.com/jobs/company/8003",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要｜株式会社 ビッツ 【 BITS 】 — 企業概要｜株式会社 ビッツ 【 BITS 】 株式会社ビッツ【BITS】 https://www.bits.co.jp > company",
+    "url": "https://www.bits.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ビッツ の新卒採用・会社概要 | マイナビ2027 — (株) ビッツ の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp70974 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Twitchでの ビッツ （ bits ）が高くなっているから、支援者側は ... Twitchでの ビッツ （ bits ）が高くなっているから、支援者側は ... note https://note.com > レビュー > レビュー全般",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "Cheer( ビッツ )のやり方｜migi7me - note Cheer( ビッツ )のやり方｜migi7me - note note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "ビッツ の人気・新着記事まとめ - note ビッツ の人気・新着記事まとめ - note note https://note.com > tag > ビッツ",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Twitchでのビッツ（bits）が高くなっているから、支援者側は思い切ってサブスクしてみてはって話。｜YohSay3",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchでのビッツ（bits）が高くなっているから、支援者側は思い切ってサブスクしてみてはって話。",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は当時の情報のまま記事を残しており、現在は情報が古くなっております。",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "Tier1のサブスクは、2024年7月11日より700円となります。",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "Twitterでも書いたのですが、流れると思うので、忘備録として書いておきたいと思います。",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchでは投げ銭機能として独自のビッツが存在しますが、この値段に驚愕しました。",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "PC（ブラウザ）版かつボリュームディスカウントを考えない前提での話ですが、",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "となっており、値段を見ると以前のように気軽にビッツを投げるということができなくなっております。",
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "pass": 3
+   },
+   {
+    "quote": "Cheer(ビッツ)のやり方｜migi7me",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "cheerはメッセージ欄横のダイヤマークから送れます。",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "メッセージと送りたい場合はメッセージを入力後ダイヤをタップ",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "お好きなCheeringスタンプを選びます。",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "(スタンプ欄左上のダイヤマークはビッツの残高です。)",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "ユニコーン(uni)を選びました。送りたいビッツを選びタップします。",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "現在は配信者の設定で最低ビッツが1000の為、100ビッツを選ぶと注意書が表示されます。",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "これで良ければメッセージ欄右横の紙ヒコーキをタップして送信します。",
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "pass": 3
+   },
+   {
+    "quote": "【妄想ツアー】香川県高松、恋も生まれそうな喫茶店めぐり",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "第92話 マリー・アントワネットと間に合わない兵士",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchの応援で効いたのは金額じゃなかった",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchをもっと楽しむための収益化ツールガイド",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "TwitchのBits規約改定と、「自分の言葉」で配信するということ",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "［4月26日］「人生逆転」か「退場」か：韓国の若者を呑み込む「借金投資（ビッツ）」の深淵",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchゲーム配信で収益化する完全ロードマップ【2026年版】",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】ゲーム配信で稼ぐには？YouTube・TikTok・Twitch・ニコ生の収益化条件を全部まとめた",
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "littlebits ビッツ (@littlebitsfff) / X littlebits ビッツ (@littlebitsfff) / X X https://x.com > littlebitsfff",
+    "url": "https://x.com/littlebitsfff",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by スポーツカード ビッツ ! (@SC_BITS) / X Replies by スポーツカード ビッツ ! (@SC_BITS) / X X https://x.com > SC_BITS > with_replies",
+    "url": "https://x.com/SC_BITS/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Twitchの ビッツ 利用規定が更新されギャンブル利用が禁止に - X Twitchの ビッツ 利用規定が更新されギャンブル利用が禁止に - X X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2052324050060423278",
+    "pass": 3
+   },
+   {
+    "quote": "ペ天使こるろ   on X: \"Twitchの ビッツ 利用規約、ざっくり ... ペ天使こるろ   on X: \"Twitchの ビッツ 利用規約、ざっくり ... X https://x.com > @Magician_Coulro",
+    "url": "https://x.com/Magician_Coulro/status/2052195529774551518",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bits.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/company/history.html/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/development/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/company/access.html/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bits.co.jp/company/message.html/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/company/iso.html/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/company/csr.html/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/company/humanrights.html/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bits.co.jp/terms/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.witz-inc.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4440/top/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/stock/4440/ipo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=4440",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ipojp.com/schedule/details?id=4440",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.witz-inc.co.jp/ir/investor/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softcreate.co.jp/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jip.co.jp/case/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.witz-inc.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyota.jp/pages/contents/vitz/003_p_017/pdf/spec/vitz_spec_201701.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/news/0/658307",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/laelayss/n/nda1c0971c122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/migi7me/n/naec8dc3f1b18",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/littlebitsfff",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SC_BITS/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2052324050060423278",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Magician_Coulro/status/2052195529774551518",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ビッツ 会社概要 資本金 設立",
+   "results": [
+    "https://www.bits.co.jp/company/",
+    "https://www.witz-inc.co.jp/company/overview/",
+    "https://job.mynavi.jp/28/pc/search/corp70974/outline.html",
+    "https://date.ict.miyagi.jp/recruit/bits/",
+    "https://www.daijob.com/jobs/company/8003",
+    "https://metoree.com/companies/42200/",
+    "http://www.bits.cc/company/index.html",
+    "https://www.sbigroup.co.jp/news/2015/0727_9492.html.SBI",
+    "https://www.careermap.jp/corporations/92042",
+    "http://www.bits-inc.co.jp/aboutus/aboutus.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ビッツ 事業内容 売上",
+   "results": [
+    "https://www.bits.co.jp/company/",
+    "https://job.mynavi.jp/27/pc/search/corp70974/outline.html",
+    "https://kitaishihon.com/company/4440/top",
+    "https://www.witz-inc.co.jp/ir/highlight/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4440",
+    "https://www.youtube.com/watch?v=DJCyxQCHPag",
+    "https://biz-maps.com/item/D3YbwMrO1z",
+    "https://web.fisco.jp/platform/companies/0444000?fm=mj",
+    "https://the-shashi.com/tse/4440/financials/summary/",
+    "https://zukaikeizai.com/kaisha/4440/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ビッツ 資金調達 株主",
+   "results": [
+    "https://minkabu.jp/stock/4440/ipo",
+    "https://kabutan.jp/stock/holder?code=4440",
+    "https://ipojp.com/schedule/details?id=4440",
+    "https://note.com/atsuokshr0925/n/n2c04c48b551e",
+    "https://initial.inc/articles/crowdcredit-funding",
+    "https://www.youtube.com/watch?v=GP_XTIQgLNQ",
+    "https://www.jsmeweb.org/ja/annual/pdf/17f/17f-103uekatsuya.pdf",
+    "https://datafluct.com/news/tcbau9pc3734/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "ビッツ 導入事例",
+   "results": [
+    "https://www.witz-inc.co.jp/ir/investor/technology/",
+    "https://www.softcreate.co.jp/case",
+    "https://www.jip.co.jp/case/",
+    "https://www.datadoghq.com/ja/case-studies/jcb/",
+    "https://bits.tumblr.com/post/148290066621/bt0062",
+    "https://jp.vcube.com/case",
+    "https://cloudpack.jp/casestudy/",
+    "https://www.biz-integral.com/showcase/",
+    "https://voyt.com/case/",
+    "https://www.bits.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ビッツ 主要取引先",
+   "results": [
+    "https://www.witz-inc.co.jp/company/overview/",
+    "https://toyota.jp/pages/contents/vitz/003_p_017/pdf/spec/vitz_spec_201701.pdf",
+    "https://shikiho.toyokeizai.net/news/0/658307",
+    "https://www.bits.co.jp/company/",
+    "https://edinetdb.jp/company/E34739/main-customers",
+    "https://metoree.com/companies/42200/",
+    "https://job.mynavi.jp/28/pc/search/corp249295/outline.html",
+    "https://www.vits.co.jp/company",
+    "https://www.goo-net.com/catalog/TOYOTA/VITZ/",
+    "http://www.bits.cc/company/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com ビッツ",
+   "results": [
+    "https://note.com/laelayss/n/nda1c0971c122",
+    "https://note.com/tototempura_10/n/n588b0fc5957b",
+    "https://note.com/migi7me/n/naec8dc3f1b18",
+    "https://note.com/tag/%E3%83%93%E3%83%83%E3%83%84",
+    "https://note.com/hanenoriko/n/n0dad7f74cf25",
+    "https://note.com/mayoi_max/n/na877a9f6ea49",
+    "https://note.com/togarashi73/n/nf2ab376c5939",
+    "https://note.com/bluepuddle_liver/n/na0229d8c0196",
+    "https://note.com/elis_ragina/n/nbea15261d0e6",
+    "https://note.com/shishi_house/n/nfea6077592ba"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com ビッツ",
+   "results": [
+    "https://x.com/littlebitsfff",
+    "https://x.com/SC_BITS/with_replies",
+    "https://x.com/i/trending/2052324050060423278",
+    "https://x.com/Magician_Coulro/status/2052195529774551518",
+    "https://x.com/contami999/status/1510956986342703108",
+    "https://x.com/SC_BITS",
+    "https://x.com/DaiDesign/status/1770133406833336338",
+    "https://blog.x.com/engineering/en_us/topics/infrastructure/2016/omnisearch-index-formats",
+    "https://x.com/SC_BITS/status/2115682436411740506",
+    "https://x.com/bits__ltd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com ビッツ",
+   "results": [
+    "https://www.linkedin.com/company/bitsandpretzels/",
+    "https://www.linkedin.com/company/analog-bits",
+    "https://www.linkedin.com/company/bits-in-bio",
+    "https://www.linkedin.com/company/gtbitsofgood",
+    "https://www.linkedin.com/newsletters/atoms-bits-6955165547302928384",
+    "https://www.linkedin.com/in/jbitz",
+    "https://www.linkedin.com/company/bits-bolder-it-solutions-inc",
+    "https://www.linkedin.com/company/bits-n-bytes-cybersecurity-education",
+    "https://www.linkedin.com/showcase/bits-banks/",
+    "https://jp.linkedin.com/in/理-新井-245516149"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com ビッツ",
+   "results": [
+    "https://www.facebook.com/p/Little-Bits-Coffee-Roasters-61572853035911/",
+    "https://www.facebook.com/nibblesandbitsscranton/",
+    "https://www.facebook.com/p/Bits-Pieces-100092630831086/",
+    "https://www.facebook.com/p/Bits-and-Pieces-and-More-Thrift-Store-100057192261002/",
+    "https://www.facebook.com/groups/436147796395609/",
+    "https://www.facebook.com/bitsplate/",
+    "https://www.facebook.com/groups/woodworkingforbeginner/posts/3723359551151976/",
+    "https://www.facebook.com/p/Bits-Pieces-61572571740580/",
+    "https://www.facebook.com/groups/987588108004246/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ビッツ note 社長",
+   "results": [
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ビッツ X 投稿",
+   "results": [
+    "https://publish.x.com/",
+    "https://help.twitch.tv/s/article/custom-bit-badges-guide?language=ja",
+    "https://legal.twitch.com/ja-jp/legal/bits-acceptable-use",
+    "https://www.reddit.com/r/Twitch/comments/1lgjrdx/i_want_to_talk_bits/?tl=ja",
+    "https://www.twitch.tv/creatorcamp/ja-jp/level2/monetize-your-content/bits-and-subscriptions/",
+    "https://info.bitfan.id/contents/1492",
+    "https://ja.wordpress.org/plugins/custom-twitter-feeds/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部20頁・検索11回）",
+  "代表者": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部20頁・検索11回）"
+ }
+}

@@ -1,0 +1,435 @@
+{
+ "name": "Grupo Hi-Tec — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T13:55:35.249581+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 3D Printer Reseller",
+    "url": "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Grupo Hi-Tec — VoxelMatters - The largest database of ... — Grupo Hi-Tec is a company committed to the industrial development of Mexico, offering its clients the latest technology equipment to boost the growth of their companies.",
+    "url": "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "pass": 3
+   },
+   {
+    "quote": "Grupo HITEC Information - RocketReachGrupo Hi-Tec — VoxelMatters - The largest database of ...Grupo Hi-Tec Company Profile - Office Locations, Competitors ...Grupo Hi-tec: Employee Directory | ZoomInfo.comGrupo HITEC | LinkedIn — Grupo HITEC is a Machinery Manufacturing company located in MX with $50 million in revenue and 357 employees. Find top employees, contact details and business statistics ",
+    "url": "https://rocketreach.co/grupo-hitec-profile_b5e426d4f42e64ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookGrupo Hi-Tec Máquinas Herramienta CNC | TlalnepantlaGrupo Hi-Tec | Estado de México - Facebook¿ACABAS DE SALIR... - Grupo Hi-Tec Máquinas ... - FacebookGrupo Hi-Tec - Conoce todas nuestras soluciones integrales ...Grupo - Conoce todas nuestras soluciones integrales en un ...Grupo Hi-Tec Máquinas Herramienta CNC - Facebook Unlock the Future of Metal Additive Manufacturing wit",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/TOYO%E3%82%A4%E3%83%8E%E3%83%99%E3%83%83%E3%82%AF%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%9F%E3%83%8D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://d-hub.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grupohitec.com/es/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://i-maker.jp/ic/3d-resin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://advisor.morganstanley.com/the-shadden-group",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://advisor.morganstanley.com/paul.cox",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ia803102.us.archive.org/12/items/in.ernet.dli.2015.461038/2015.461038.Brideshead-Revisited_text.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ia803205.us.archive.org/10/items/in.ernet.dli.2015.215851/2015.215851.Tender-Is_text.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/HI-TEC/page/667671AB-A378-4062-AC75-8476635E7CF6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HI-TEC-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-HT-CMU13-WOLK/dp/B0F21ZD9MB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01407752/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0718/5577/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/IZUMI6.3V1W/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akta.pro/company-profiles/000j8i1/grupo-hi-tec",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/grupo-hi-tec/372554497",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/grupo-hitec-profile_b5e426d4f42e64ee",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TOYOイノベックス",
+    "https://ja.wikipedia.org/wiki/ルミネ",
+    "https://www.msh-systems.com/partners/",
+    "https://d-hub.jp/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://valorholdings.co.jp/corporate/officers.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.voxelmatters.com/",
+    "https://www.grupohitec.com/es/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.nishinippon.co.jp/item/1524345/",
+    "https://www.grupohitec.com/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://skhonpo.com/collections/all",
+    "https://i-maker.jp/ic/3d-resin",
+    "https://3d-printer-house.com/shop/3dprinter-genryou/",
+    "https://www.hotty.co.jp/3d_service/resin/",
+    "https://www.form2.shop/buy-now",
+    "https://make.dmm.com/print/material/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters Japan distributor",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://advisor.morganstanley.com/the-shadden-group",
+    "https://advisor.morganstanley.com/paul.cox",
+    "https://ia902904.us.archive.org/24/items/in.ernet.dli.2015.461038/2015.461038.Brideshead-Revisited_text.pdf",
+    "https://ia802905.us.archive.org/22/items/in.ernet.dli.2015.215851/2015.215851.Tender-Is_text.pdf",
+    "https://evergreenfallhomeshow.com/",
+    "https://ia802904.us.archive.org/3/items/paulfostercasethetarotakeytothewisdomoftheagesebookpdf/Paul+Foster+Case+-+The+Tarot+(A+key+to+the+Wisdom+of+the+Ages)[ebook+pdf].pdf",
+    "https://ia802909.us.archive.org/31/items/in.ernet.dli.2015.93386/2015.93386.Lost-Illusions_text.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Grupo Hi-Tec — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/stores/HI-TEC/page/667671AB-A378-4062-AC75-8476635E7CF6",
+    "https://www.amazon.co.jp/HI-TEC-アウトドアスニーカー-HT-CMU13-WOLK/dp/B0F21ZD9MB",
+    "https://shigoto.amazon.co.jp/",
+    "https://pay.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://pay.amazon.co.jp/signin",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Grupo Hi-Tec — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/01407752/",
+    "https://www.monotaro.com/p/0718/5577/",
+    "https://www.monotaro.com/k/store/IZUMI6.3V1W/",
+    "https://www.monotaro.com/p/0758/5987/",
+    "https://www.monotaro.com/p/1112/1442/",
+    "https://www.monotaro.com/p/3506/7076/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://akta.pro/company-profiles/000j8i1/grupo-hi-tec",
+    "https://www.zoominfo.com/c/grupo-hi-tec/372554497",
+    "https://rocketreach.co/grupo-hitec-profile_b5e426d4f42e64ee",
+    "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "https://craft.co/grupo-hi-tec",
+    "https://www.zoominfo.com/pic/grupo-hi-tec/372554497",
+    "https://is.linkedin.com/company/grupo-hitec"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Grupo Hi-Tec — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/on_consul/n/n2e1165fffbb0",
+    "https://note.com/tajii999/n/nf5e361db55a2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Grupo Hi-Tec — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/GrupoHi_Tech/with_replies",
+    "https://x.com/index_nacional/status/2068121162366726658",
+    "https://x.com/hi_tecmedical",
+    "https://help.x.com/zh-tw/using-x",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Grupo Hi-Tec — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Grupo Hi-Tec — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/GrupoHitecMX/",
+    "https://www.facebook.com/nexttecmachinery/",
+    "https://www.facebook.com/GrupoHitecMX/posts/-acabas-de-salir-de-la-carrera-y-quieres-arrancar-tu-futuro-en-el-área-comercial/1481941373977309/",
+    "https://www.facebook.com/nexttecmachinery/posts/conoce-todas-nuestras-soluciones-integrales-en-un-solo-lugar-nos-vemos-en-grupo-/1020913153414532/",
+    "https://www.facebook.com/GrupoHitecInyeccion/photos/conoce-todas-nuestras-soluciones-integrales-en-un-solo-lugar-nos-vemos-en-grupo-/1027320576089688/",
+    "https://www.facebook.com/GrupoHitecMX/posts/los-fabricantes-más-competitivos-tienen-algo-en-común-hacen-bien-las-cosas-desde/1491807606324019/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "https://www.voxelmatters.com/",
+    "https://www.grupohitec.com/en/nosotros",
+    "https://www.grupohitec.com/es/",
+    "https://vanguardia-industrial.net/grupo-hi-tec-cumplio-30-anos-y-no-tenemos-limite/",
+    "https://hn.linkedin.com/company/grupo-hitec",
+    "https://vanguardia-industrial.net/estos-tiempos-son-de-incertidumbre-y-todo-el-mundo-anda-en-jaque-pero-nos-toca-ser-serenos-andreas-lenoir/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupo Hi-Tec — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.directory/company/grupo-hi-tec/",
+    "https://www.instagram.com/grupo.hitec/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117637105631326304",
+    "https://x.com/Greasemaster_H/status/2119114280457105753"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）"
+ }
+}

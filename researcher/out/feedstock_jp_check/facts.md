@@ -1,4 +1,34 @@
-# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・57社）
+# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・89社）
+
+## 3DCeram-Sinto — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
+## 3D Ever — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 
 ## AF-COLOR
 - 公式URL：https://www.af-color.com（given）
@@ -27,6 +57,51 @@
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
+## AITA
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 日本の担い手：
+  - 「【20％OFFクーポン＋P10倍★11日1:59マデ】公式【送料無料】SNSで大バズり中！美容液 サーモンDNA-Na ビタミンE レチノール PUNERA ピュネラ PDRN +E グロウセラム 30mL ハリ ツヤ 弾力 韓国コスメ スキンケア 日本製 OZIO オージオ」（https://search.rakuten.co.jp/search/mall/aita/?p=2・3回目）
+  - 「【5％OFFクーポン＋お試しサイズが10％OFF！11/4 20:00〜11/11 1:59】 【日本一売れている毛穴クレンジングゲル】【マナラ公式】 クレンジング ホットクレンジングゲル マッサージプラス 200g 1本 2本セット 3本セットMANARA 温感クレンジング ジェル メイク落とし 洗顔」（https://search.rakuten.co.jp/search/mall/aita/?p=2・3回目）
+  - 「Anime Japan Collection」（https://www.aitaikuji.com/・3回目）
+  - 「Every item comes from the original makers in Japan. We」（https://www.aitaikuji.com/・3回目）
+  - 「Aitai☆Kuji was started by blogger Aitaikimochi to help fans abroad get the goods she loved in Japan. That is still our heart today: bringing」（https://www.aitaikuji.com/・3回目）
+  - 「Japan’s best hobby goods」（https://www.aitaikuji.com/・3回目）
+  - 「(宝くじ), meaning “lottery.” In Japan, many goods are only won by random draw. Try your luck with our」（https://www.aitaikuji.com/・3回目）
+  - 「Closed on weekends & Japanese holidays」（https://www.aitaikuji.com/・3回目）
+  - 「日本国内でのご購入は、」（https://www.aitaikuji.com/・3回目）
+  - 「Shopping from Japan? Please visit our Japan store,」（https://www.aitaikuji.com/・3回目）
+- 直送・ネット販売：
+  - 「Shopping from Japan? Please visit our Japan store,」（https://www.aitaikuji.com/・3回目）
+  - 「Amazon.co.jp: Danila Aita: 本、バイオグラフィー、最新アップデート」（https://www.amazon.co.jp/stores/Danila-Aita/author/B0744JGD2N?ref=ap_rdr&shoppingPortalEnabled=true・3回目）
+  - 「© 1996-2026, Amazon.com, Inc. またはその関連会社」（https://www.amazon.co.jp/stores/Danila-Aita/author/B0744JGD2N?ref=ap_rdr&shoppingPortalEnabled=true・3回目）
+  - 「© 1996-2026, Amazon.com, Inc. またはその関連会社」（https://www.amazon.co.jp/stores/Aita/page/9967987B-16E6-4A4A-9F91-FA5011D1AD08・3回目）
+  - 「Mikel Markez feat. Maddalen Arzallus, Xabier Sukia, Esti Markez, Iker Lauroba & Eneritz AulestiaのGezurrari zorからの楽曲Aita espektakularraをAmazon Musicで」（https://music.amazon.co.jp/tracks/B0GNPSW15W・3回目）
+  - 「Amazon Musicで、音楽やポッドキャストを無料でストリーミング再生しよう」（https://music.amazon.co.jp/tracks/B0GNPSW15W・3回目）
+- 規模・親会社：
+  - 「For a while now I’ve loved reading the AITA (Am I The Asshole) posts on Reddit and various Facebook groups. Most of them, I find, are people who are making a stand about something and being gaslighted by people who have been getting away with the misbehavior for a while. In the case above, one person is making the rest of the office (including her boss) uncomfortable.」（https://thoughtsfromthemountaintop.com/2024/04/20/aita-office-conflict/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Terms and Conditions — Terms and Conditions America's Independent Truckers' Association https://www.aitaonline.com > about-aita」（https://www.aitaonline.com/about-aita/terms-and-conditions・3回目）
+  - 「Partnership — Aita — Partnership — Aita aita.world https://www.aita.world > partners」（https://www.aita.world/en/partners・3回目）
+  - 「AITA : HOME — AITA : HOME aita.media https://www.aita.media」（https://www.aita.media/・3回目）
+  - 「Contact Us - AITA Global - Perth WA — Contact Us - AITA Global - Perth WA AITA Global https://aita.global > contact-us」（https://aita.global/contact-us/・3回目）
+  - 「AITA Consulting Services Inc. - LinkedIn — AITA Consulting Services Inc. - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/aitaconsulting・3回目）
+  - 「2026年2月期7月度 直営店売上速報についてのお知らせ — 2026年2月期7月度 直営店売上速報についてのお知らせ IRポケット PDF https://pdf.irpocket.com > bffO > gFhF > aIta」（https://pdf.irpocket.com/C274A/bffO/gFhF/aIta.pdf・3回目）
+  - 「AITA ? A Modern Fairy Tale (Special Edition Hard Cover) — AITA ? A Modern Fairy Tale (Special Edition Hard Cover) Cassie Alexander https://www.cassiealexander.com > products > aita-a-mod...」（https://www.cassiealexander.com/ja/products/aita-a-modern-fairy-tale-special-edition-hard-cover?srsltid=AYCX9vLtECSkIFGIgZboVnd6Ss0GA1LK8xLaEkl-vNvHQJ5Hq0bt3w8W・3回目）
+  - 「アイタ材木店のこと — アイタ材木店のこと アイタ材木店 https://aita-zaimoku.jp > about」（https://aita-zaimoku.jp/about.php・3回目）
+  - 「【楽天市場】 aita の通販 — 【楽天市場】 aita の通販 楽天市場 https://search.rakuten.co.jp > search > mall > aita」（https://search.rakuten.co.jp/search/mall/aita/?p=2・3回目）
+  - 「AITA Brand ACE Tokyo wholesale (@ace.tokyo123) - Instagram — AITA Brand ACE Tokyo wholesale (@ace.tokyo123) - Instagram Instagram https://www.instagram.com > ace.tok...」（https://www.instagram.com/ace.tokyo123/・3回目）
+  - 「株式会社相田商会 | プラスチックの再生 | Japan, 山形県 — 株式会社相田商会 | プラスチックの再生 | Japan, 山形県 株式会社 相田商会 https://www.aita-s.co.jp」（https://www.aita-s.co.jp/・3回目）
+  - 「Aitai Kuji Home Page — Aitai Kuji Home Page Aitai☆Kuji https://www.aitaikuji.com」（https://www.aitaikuji.com/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部50頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部50頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部50頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部50頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部50頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部50頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部50頁・検索15回）
 
 ## AKRO-PLASTIC GmbH
 - 公式URL：https://www.akro-plastic.com（given）
@@ -204,6 +279,68 @@
 - 連絡先：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部34頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式13頁／PDF・画像1件／外部34頁・検索15回）
 
+## Additive Australia — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+
+## Additive Industries — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Additive Industries — VoxelMatters - The largest database of ... — Additive Industries — VoxelMatters - The largest database of ... voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/additive-industries/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
+## Additive Manufacturing Systems
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 日本の担い手：
+  - 「Since the acquisition, Nikon has expanded SLM’s manufacturing and support capabilities, including U.S.-based production of NXG systems and new technology centers in California and Japan.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「U.S.; Canada; Mexico; Germany; UK; France; Spain; Italy; China; Japan; India; South Korea; Singapore; Australia; Brazil; KSA; UAE; South Africa」（https://www.grandviewresearch.com/industry-analysis/additive-manufacturing-market・3回目）
+- 規模・親会社：
+  - 「According to VoxelMatters’ new annual Additive Manufacturing Market 2025 report, the global AM industry generated nearly $12.3 billion in revenue in 2024. We forecast that this figure will grow significantly to $108 billion by 2034, supported by a strong compound annual growth rate of 24.4%.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「In 2024, the core AM market—encompassing hardware, materials, and services—generated $12.3 billion in revenue, with hardware accounting for $5.5 billion, services for $4.3 billion, and materials for $ 2.4 billion.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「Most leading AM companies continue to generate the majority of their revenue from machine sales. While many also supply first-party (and in some cases third-party) materials or offer production services, hardware remains the cornerstone of the industry.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「listed in random order」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「, having introduced the first commercial stereolithography (SLA) printer—the SL-1—in 1988. Currently, it ranks as the second-largest AM company by revenue, although its financial performance has declined in recent years. In 2024, 3D Systems reported revenue of $440 million, reflecting a 10% year-over-year drop and marking its weakest performance since 2012.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「GE Additive, Colibrium Additive was formed in 2016 after GE acquired two established metal AM companies: Concept Laser (L-PBF) and Arcam (EB-PBF)」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「, acquired in 2009, develops high-performance composite selective laser sintering (SLS) powders—including carbon fiber- and flame-retardant-filled nylons—designed for demanding aerospace and defense applications.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「, produces large-format, multi-laser DMLS systems such as the M 4K and M 8K, which are used to manufacture copper alloy combustion chambers for spaceflight companies like Launcher, ArianeGroup, and Sintavia.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「, a startup focused on making powder-bed fusion systems more accessible. The company now offers a comprehensive polymer AM ecosystem, complete with materials, software, and automation tools. It generates substantial recurring revenue through resin and powder sales for applications in dental, jewelry, prototyping, and small-batch production.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「Materialise went public in 2014 and reported total revenue of €266.8 million in 2024」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「$57.8 million in revenue for 2024, reflecting a 2.6% year-over-year increase」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+  - 「The technologies acquired, particularly from Markforged and Desktop Metal, remain crucial to Nano Dimension’s strategy. The company is working towards a unified software ecosystem, likely based on Markforged’s Eiger platform, while」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+  - 「Your email address will not be published.」（https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
 ## Airtech Europe Sarl
 - 公式URL：https://www.airtech.lu（given）
 - 規模・親会社：
@@ -317,6 +454,21 @@
 - 売上高：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部42頁・検索15回）
 - 所在地：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部42頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部42頁・検索15回）
+
+## Axtra3D — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 
 ## AzureFilm d.o.o.
 - 公式URL：https://www.azurefilm.com（given）
@@ -438,6 +590,92 @@
 - 代理店網：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索15回）
 
+## CMS
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 日本の担い手：
+  - 「制作会社・広告代理店の方へ | CMS構築ならRCMS - あらゆる要望に応える最強のCMS」（https://www.r-cms.jp/partner/・3回目）
+  - 「私たち、株式会社コレボは、東京に営業拠点／沖縄に制作事務所を置くワークスタイルで活動している制作会社です」（https://www.r-cms.jp/partner/・3回目）
+  - 「現在の主な商流と受注先は、東京／大阪の大手広告代理店および企業インフラの支援会社で、 柔軟なフットワークと素早いレスポンスをモットーにクライアント様のご要望にお答え致します」（https://www.r-cms.jp/partner/・3回目）
+  - 「販売パートナー・代理店販売｜Webサイト制作 / CMS・MAツール｜LeadGrid（リードグリッド）」（https://goleadgrid.com/lp/partner・3回目）
+  - 「LeadGridは、日本の運営会社が開発から運用保守を行う純国産のCMSです」（https://goleadgrid.com/lp/partner・3回目）
+  - 「パートナーズダイレクトマーケティング株式会社 様」（https://goleadgrid.com/lp/partner・3回目）
+  - 「契約締結後、販売代理店としてのご活動をスタートいただきます」（https://goleadgrid.com/lp/partner・3回目）
+  - 「お客様のライセンスについてサポートサイトをご利用いただく場合は、そのライセンスについてサポートを受けられる販売代理店またはご契約者様のメールアドレスをご登録ください」（https://www.powercms.jp/faq/partner/・3回目）
+  - 「代理店とはなんですか、パートナーや契約者とは違うのでしょうか？」（https://www.powercms.jp/faq/partner/・3回目）
+  - 「今回は弊社が総代理店として取り扱っているKentico社のHeadless CMSのKentico Kontentについてご紹介したいと思います」（https://blog.nextscape.net/archives/2021/12/21/075140・3回目）
+  - 「そして弊社はこのKentico社の日本総代理店としてCMSのライセンス販売・CMS導入・運用保守までと一貫したサービス提供を行っています」（https://blog.nextscape.net/archives/2021/12/21/075140・3回目）
+  - 「CMS (Crystalline Mirror Solutions) - 日本レーザー」（https://www.japanlaser.co.jp/maker/cms-crystalline-mirror-solutions/・3回目）
+- 代理店網：
+  - 「Sysob is one of our subsidiaries located in Schorndorf in the Bavarian Forest and is one of the largest owner-managed value-added Distributor in the German-speaking region.」（https://www.cmsdistribution.com/subsidiaries・3回目）
+  - 「Our business represents 200+ manufacturers and we sell to a “glocal” customer base made up of corporate resellers, managed service providers, high street and online retailers ranging from large multi-nationals to smaller, independent IT companies.」（https://www.cmsdistribution.com/en/blog/cms-fujitsu-partnership・3回目）
+- 直送・ネット販売：
+  - 「たとえば、「futureshop」「Wix」など」（https://www.aspicjapan.org/asu/article/7814・3回目）
+  - 「1. Shopify」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「Shopifyは2004年にカナダで創業されたECサイト向けCMSで、日本へは2017年に参入しました」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「Shopifyプラン：月額10,100円」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「※Basic、Shopify、Advanced、各プランの価格は年払いの場合」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「https://www.shopify.com/jp」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「3. Makeshop」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「Makeshopは、GMOメイクショップ株式会社が提供するECサイト向けCMSです」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「https://www.makeshop.jp/」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+  - 「また、日本では Color Me Shop、EC-Cube、Studio、a-blog cms など、国内で開発・提供されている CMS や EC プラットフォームが上位に入り、地域特性に合わせたサービスのニーズが根強いことがうかがえます」（https://www.appleple.com/blog/cms/japanese-cms-share202507.html・3回目）
+  - 「The RockJam brand is one of the largest providers of complete entry level packages for electrical musical instruments across the globe. The keyboards and electric guitars are consistently best sellers on the Amazon platform in mainland Europe and America.」（https://www.cmsdistribution.com/subsidiaries・3回目）
+  - 「Amazon.co.jp: Medicare Program Integrity: Cms Continues Efforts to Strengthen the Screening of Providers and Suppliers : Us Government Accountability Office: 洋書」（https://www.amazon.co.jp/Medicare-Program-Integrity-Continues-Strengthen/dp/1491284110・3回目）
+- 規模・親会社：
+  - 「事業の変化により複雑化していたコーポレートサイトを、上場を見据え情報設計から再構築した事例」（https://goleadgrid.com/lp/partner・3回目）
+  - 「当社は、2020年12月24日に東京証券取引所へ上場いたしました（東証スタンダード市場：4171）」（https://www.atpress.ne.jp/news/4057394・3回目）
+  - 「さらに実際に上場企業が導入しているCMSを比較して、」（https://ferret-one.com/blog/cms-comparison・3回目）
+  - 「日本の上場企業が導入しているCMSを参考にみてみましょう」（https://ferret-one.com/blog/cms-comparison・3回目）
+  - 「ferret One編集部ではこれら上場企業が導入しているCMSを比較して、運用体制や予算、用途から、企業におすすめのCMSを10サービス厳選して紹介します」（https://ferret-one.com/blog/cms-comparison・3回目）
+  - 「で、多くの国内上場企業が導入しています」（https://ferret-one.com/blog/cms-comparison・3回目）
+  - 「上場企業の45.5%」（https://www.aspicjapan.org/asu/article/7814・3回目）
+  - 「月額14万8,000円〜/10ID、初期費用100万円〜（スタンダードプラン・非上場企業の場合）」（https://www.aspicjapan.org/asu/article/7814・3回目）
+  - 「1994年からHP作成支援サービスをスタートし、現在は上場企業を含む500社以上への導入実績を持つ」（https://www.aspicjapan.org/asu/article/7814・3回目）
+  - 「料金：月額14万8,000円〜/10ID、初期費用100万円〜（スタンダードプラン・非上場企業の場合）」（https://www.aspicjapan.org/asu/article/7814・3回目）
+  - 「金融機関・商社・メーカー・IT関連など、上場企業から中小企業に至るまで、シリーズ合計6,000社以上での導入実績を持つヘッドレスCMS」（https://www.aspicjapan.org/asu/article/7814・3回目）
+  - 「上場企業はじめ中堅大手企業のDX支援として、500社以上に採用されているSEO効果抜群のCMS「フリーコード」」（https://www.aspicjapan.org/asu/article/7814・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「制作会社・広告 代理店 の方へ | CMS 構築ならRCMS — 制作会社・広告 代理店 の方へ | CMS 構築ならRCMS r-cms.jp https://www.r-cms.jp > partner」（https://www.r-cms.jp/partner/・3回目）
+  - 「Webサイト制作 / CMS ・MAツール - LeadGrid — Webサイト制作 / CMS ・MAツール - LeadGrid goleadgrid.com https://goleadgrid.com > partner」（https://goleadgrid.com/lp/partner・3回目）
+  - 「パートナー制度について | よくあるご質問 - PowerCMS — パートナー制度について | よくあるご質問 - PowerCMS PowerCMS https://www.powercms.jp > faq > partner」（https://www.powercms.jp/faq/partner/・3回目）
+  - 「CMS メーカー16社 注目ランキング&製品価格【2026年】 — CMS メーカー16社 注目ランキング&製品価格【2026年】 Metoree https://metoree.com > categories」（https://metoree.com/categories/9179/・3回目）
+  - 「もっともセキュアなかんたん導入 CMS - パートナー一覧 — もっともセキュアなかんたん導入 CMS - パートナー一覧 WEB SPIRAL https://webspiral.jp > partner」（https://webspiral.jp/partner.html・3回目）
+  - 「CMS S.p.A (イタリア CMS 社) - Correns Corporation — CMS S.p.A (イタリア CMS 社) - Correns Corporation Correns Corporation https://www.correns.co.jp > supplier > cms」（https://www.correns.co.jp/supplier/cms/・3回目）
+  - 「Kentico社のHeadless CMS "Kentico Kontent"について — Kentico社のHeadless CMS "Kentico Kontent"について 株式会社ネクストスケープ https://blog.nextscape.net > archives > 2021/12/21」（https://blog.nextscape.net/archives/2021/12/21/075140・3回目）
+  - 「CMS (Crystalline Mirror Solutions) - 日本レーザー — CMS (Crystalline Mirror Solutions) - 日本レーザー 日本レーザー https://www.japanlaser.co.jp > maker > cms-crystalline-mi...」（https://www.japanlaser.co.jp/maker/cms-crystalline-mirror-solutions/・3回目）
+  - 「カジノ管理システム（ CMS ）の世界市場 - アットプレス — カジノ管理システム（ CMS ）の世界市場 - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4057394・3回目）
+  - 「【2026年】 CMS おすすめ10選を徹底比較｜企業向けの選び方 ... — 【2026年】 CMS おすすめ10選を徹底比較｜企業向けの選び方 ... ferret One https://ferret-one.com > blog > cms-comparison」（https://ferret-one.com/blog/cms-comparison・3回目）
+  - 「CMS の比較17選。用途・目的別にタイプ分けして紹介 - ASPIC — CMS の比較17選。用途・目的別にタイプ分けして紹介 - ASPIC aspicjapan.org https://www.aspicjapan.org > asu > article」（https://www.aspicjapan.org/asu/article/7814・3回目）
+  - 「ECサイト向けのおすすめCMS10選｜選び方のポイントや導入 ... — ECサイト向けのおすすめCMS10選｜選び方のポイントや導入 ... HubSpot（ハブスポット） https://www.hubspot.jp > ... > 無料のCMSツール」（https://www.hubspot.jp/products/cms/cms-ec・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部51頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部51頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部51頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部51頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部51頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部51頁・検索15回）
+
+## Canadian Additive Manufacturing Solutions
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 規模・親会社：
+  - 「3D printing and 3D scanning equipment, software, and consumables—selected, supplied, and supported as part of complete solutions.」（https://www.canadianadditive.ca/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Canadian Additive Manufacturing Solutions - LinkedIn — Canadian Additive Manufacturing Solutions - LinkedIn LinkedIn https://ca.linkedin.com > company」（https://ca.linkedin.com/company/canadianadditive・3回目）
+  - 「Canadian Additive Manufacturing Solutions — Canadian Additive Manufacturing Solutions canadianadditive.ca https://www.canadianadditive.ca」（https://www.canadianadditive.ca/・3回目）
+  - 「Canadian Additive Manufacturing Solutions - Facebook — Canadian Additive Manufacturing Solutions - Facebook Facebook https://www.facebook.com > ... > Consulting agency」（https://www.facebook.com/CanadianAdditive/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+
 ## Capamotion Inc
 - 公式URL：https://capamotion.com（given）
 - 規模・親会社：
@@ -454,6 +692,93 @@
 - 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
+## Caracol AM — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Caracol AM — VoxelMatters - The largest database of additive ... — The evolution of AM starts from the most demanding manufacturing needs: large, complex, critical parts. Caracol was born from the idea of pushing the limits of AM, beyond what was possible. We brought that idea to life, evolving the possibilities of Additive Manufacturing on scale, shape, and materials. Heron AM is our Large-Format」（https://www.voxelmatters.directory/company/caracol-studio/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
+## Carbon — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 規模・親会社：
+  - 「Carbon has customers in 14 countries and is continuing to expand globally in Europe and Asia. The company has more than 500 employees globally and is growing rapidly.」（https://www.voxelmatters.directory/company/carbon3d/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Carbon — VoxelMatters - The largest database of additive ... — Carbon — VoxelMatters - The largest database of additive ... voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/carbon3d/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+
+## ChanhonTech — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
+## Continuum Powders (formerly Molyworks) — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/molyworks/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Continuum Powders (formerly Molyworks) — VoxelMatters - The ... — Continuum Powders is the leader in sustainable metal powder and the creator of the Greyhound M2PTM Platform. We’re the only company that can combine industry-leading quality with extreme alloy flexibility, local supply reliability, cost competitiveness, and up to 80% less carbon intensity than traditional powder suppliers.」（https://www.voxelmatters.directory/company/molyworks/・3回目）
+  - 「Continuum Powders (formerly Molyworks) — VoxelMatters - The ... — We’re the only company that can combine industry-leading quality with extreme alloy flexibility, local supply reliability, cost competitiveness, and up to 80% less carbon intensity than traditional powder suppliers. We are Continuum Powders.」（https://www.voxelmatters.directory/company/molyworks/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）
+
+## Creality — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/creality-3d/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Creality — VoxelMatters - The largest database of additive ... — Creality — VoxelMatters - The largest database of additive ... voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/creality-3d/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
@@ -484,6 +809,57 @@
 - 代理店網：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
 - 規模・親会社：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+
+## EOS
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 日本の担い手：
+  - 「金属3Dプリンターの巨人EOSが日本のモノづくりにもたらすもの―EOS Electro Optical Systems Japan | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（前編）―EOS Electro Optical Systems Japan」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「それもそのはず、EOSは30年以上の業歴を誇る老舗企業ながら、日本法人が設立されたのは2017年になってのことだ」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「日本では総代理店の株式会社NTTデータエンジニアリングシステムズ社（以降、NDES）を通じて販売されてきた」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「日本リージョナルマネージャーである橋爪 康晃氏にお話を直接伺ってみた」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「金属3Dプリンターの巨人が日本のモノづくりにもたらすもの（後編）」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「―EOS Electro Optical Systems Japan」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「――EOSは金属3Dプリンターの分野で世界的に有名ですが、日本法人はまだ立ち上げ数年ということで、どんな会社かご存じない方も多いと思います」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「30年以上前から活動しており、日本ではNTTデータエンジニアリングシステムズ社（NDES社）に総代理店をお願いしております」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「EOSジャパンは2017年に設立しまして、総代理店のNDES社を支援するという形で運営しております」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「日本でも195件以上」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「――日本には総代理店があるにも関わらず、2017年に支社を作ったのは何が狙いなのでしょうか？」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+- 直送・ネット販売：
+  - 「キヤノンオンラインショップ （Canon Online Shop）」（https://store.canon.jp/online/・3回目）
+  - 「Amazon.co.jp : EOS Kiss X9i」（https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i・3回目）
+  - 「Amazonは日本の中小企業のブランドの商品を応援しています」（https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i・3回目）
+  - 「© 1996-2026, Amazon.com, Inc. またはその関連会社」（https://www.amazon.co.jp/EOS-Kiss-X9i/s?k=EOS+Kiss+X9i・3回目）
+  - 「Price on Amazon (as of 9/6)」（https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en・3回目）
+  - 「Includes affiliate links for Kaden Hihyo. As this is an ad-free monthly magazine, please forgive our use of Amazon Associates.」（https://note.com/kadenhihyo/n/n29ac0e513de3?hl=en・3回目）
+  - 「The prices at the Canon Online Shop are as follows.」（https://note.com/photoratio/n/ndb02096c1b42?hl=en・3回目）
+  - 「Amazon美容の総合1位、まさかの"1,500円ボディローション"！？ 高級コスメを押しのけた理由」（https://note.com/tag/EOS・3回目）
+- 規模・親会社：
+  - 「2016年東京証券取引所マザーズに上場（2022年の東京証券取引所の市場区分見直しに際して「グロース市場」へ移行）」（https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+  - 「Contact Us | Get in Touch with eos」（https://evolutionofsmooth.com/pages/contact-us?srsltid=AYCX9vJ0h-k6xM-gmBCCB87ADeFG5em5gpS8oYAslndTocQiH87FSjfB・3回目）
+  - 「If you need help or have questions, please fill out the contact us form below and submit. Please note that we will not respond to direct emails at any of our email addresses.」（https://evolutionofsmooth.com/pages/contact-us?srsltid=AYCX9vJ0h-k6xM-gmBCCB87ADeFG5em5gpS8oYAslndTocQiH87FSjfB・3回目）
+- 検索結果の抜粋：
+  - 「プロフェッショナル3Dプリンティングソリューション｜ EOS ... — プロフェッショナル3Dプリンティングソリューション｜ EOS ... EOS GmbH https://www.eos.info > ...」（https://www.eos.info/ja・3回目）
+  - 「金属3Dプリンターの巨人 EOS が日本のモノづくりにもたらす ... — 金属3Dプリンターの巨人 EOS が日本のモノづくりにもたらす ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 金属3Dプリンター」（https://news.sharelab.jp/3dp-news/metal-3dprinter/eos-before-tct/・3回目）
+  - 「EOS GmbH Electro Optical Systemと販売 代理店 契約を締結 — EOS GmbH Electro Optical Systemと販売 代理店 契約を締結 JMC Corporation https://www.jmc-rp.co.jp > topic_221031_3dih_EOS」（https://www.jmc-rp.co.jp/topic/press/topic_221031_3dih_EOS.html・3回目）
+  - 「EOS 社製3Dプリンター造形プロセスと周辺機器について | 人と ... — EOS 社製3Dプリンター造形プロセスと周辺機器について | 人と ... 株式会社NTTデータエンジニアリングシステムズ https://www.nttd-es.co.jp > backnumber > no84-EOS」（https://www.nttd-es.co.jp/magazine/backnumber/no84/no84-EOS.html・3回目）
+  - 「日本 直営 店 良品   キヤノン Canon EOS 7 ， BP-300 #8137 — 日本 直営 店 良品   キヤノン Canon EOS 7 ， BP-300 #8137 The Ohio State University https://nisonger.osu.edu > sale > search > detail」（https://nisonger.osu.edu/?sale/search/detail/?ITMCODE=o0s2i4r1i7s135785・3回目）
+  - 「EOS 金属3Dプリンターのバーチャルショールームツアー ... — EOS 金属3Dプリンターのバーチャルショールームツアー ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=a3iarQpf3DQ・3回目）
+  - 「EOS ／PowerShot V series：キヤノンフォトハウス｜個人 — EOS ／PowerShot V series：キヤノンフォトハウス｜個人 キヤノン https://personal.canon.jp > photohouse > eos-ps-vseries」（https://personal.canon.jp/showroom/photohouse/eos-ps-vseries・3回目）
+  - 「EOS オーガニック ハンドローション （日本 正規代理店 ） — EOS オーガニック ハンドローション （日本 正規代理店 ） アトリエレザン https://atelierraisin.cart.fc2.com > ...」（https://atelierraisin.cart.fc2.com/ca93/419/・3回目）
+  - 「イオス 公式オンラインショップ｜ EOS Corporation通販サイト — イオス 公式オンラインショップ｜ EOS Corporation通販サイト イオス公式オンラインショップ https://ec.eosjwt.com > shop」（https://ec.eosjwt.com/shop/・3回目）
+  - 「EOS Electro Optical Systems Japan 株式会社 — EOS Electro Optical Systems Japan 株式会社 sharelab.jp https://sharelab.jp > company > eos-japan」（https://sharelab.jp/company/eos-japan/・3回目）
+  - 「プレスリリース - EOS GmbH — プレスリリース - EOS GmbH EOS GmbH https://www.eos.info > プレス＆メディア > プレスセンター ...」（https://www.eos.info/ja/press-media/press-center/press-releases・3回目）
+  - 「Canon EOS 公式 (@eos_canonjp) - Instagram — Canon EOS 公式 (@eos_canonjp) - Instagram Instagram https://www.instagram.com > eos_canonjp」（https://www.instagram.com/eos_canonjp/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
 
 ## Filkemp S.A.
 - 公式URL：https://www.filkemp.com（given）
@@ -579,6 +955,21 @@
 - 所在地：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部37頁・検索15回）
 
+## Formnext — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+
 ## GRAFE GmbH & Co. KG
 - 公式URL：https://www.grafe.com（given）
 - 連絡先：grafe@grafe.com（https://plasticker.de/supplier_profile_1841_GRAFE_Polymer_Solutions_GmbH・3回目）
@@ -647,6 +1038,27 @@
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部46頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部46頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部46頁・検索15回）
+
+## Grupo Hi-Tec — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 代理店網：
+  - 「3D Printer Reseller」（https://www.voxelmatters.directory/company/grupo-hi-tec/・3回目）
+  - 「Metal 3D Printer Reseller」（https://www.voxelmatters.directory/company/grupo-hi-tec/・3回目）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/grupo-hi-tec/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Grupo Hi-Tec — VoxelMatters - The largest database of ... — Grupo Hi-Tec is a company committed to the industrial development of Mexico, offering its clients the latest technology equipment to boost the growth of their companies.」（https://www.voxelmatters.directory/company/grupo-hi-tec/・3回目）
+  - 「Grupo HITEC Information - RocketReachGrupo Hi-Tec — VoxelMatters - The largest database of ...Grupo Hi-Tec Company Profile - Office Locations, Competitors ...Grupo Hi-tec: Employee Directory | ZoomInfo.comGrupo HITEC | LinkedIn — Grupo HITEC is a Machinery Manufacturing company located in MX with $50 million in revenue and 357 employees. Find top employees, contact details and business statistics 」（https://rocketreach.co/grupo-hitec-profile_b5e426d4f42e64ee・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
 
 ## Hangzhou Polyful Advanced Material
 - 公式URL：https://www.polyful.cn（given）
@@ -765,6 +1177,56 @@
 - 直送・ネット販売：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
 - 規模・親会社：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
 
+## IAM3DHUB — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
+## Inframotion 3D
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 日本の担い手：
+  - 「ZEN Global is a Kobe-based additive manufacturing technology partner and reseller, providing 3D printing solutions across polymer, composite, metal, and ceramic AM for manufacturing, medical, and research applications in Japan.」（https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/・3回目）
+- 代理店網：
+  - 「Everything journalists, partners and resellers need to write about IM3D, logos, boilerplate, fast facts and a direct media contact.」（https://im3d.shop/press-kit・3回目）
+  - 「Not an ordinary powder dealer」（https://im3d.shop/・3回目）
+  - 「Metal 3D Printer Reseller — VoxelMatters - The largest database of additive manufacturing companies」（https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/・3回目）
+  - 「ZEN Global is a Kobe-based additive manufacturing technology partner and reseller, providing 3D printing solutions across polymer, composite, metal, and ceramic AM for manufacturing, medical, and research applications in Japan.」（https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/・3回目）
+- 直送・ネット販売：
+  - 「Synergy Additive Manufacturing LLC is ISO 9001:2015 certified company specializing in high power laser-based solutions for complex manufacturing challenges related to wear, corrosion and tool life. We provide laser systems and job shop services for laser heat treating, metal based additive manufacturing, and laser welding.」（https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+  - 「Contact us for a free consultation and discover how much you can save.」（https://inframotion3d.com/・3回目）
+  - 「sales@inframotion3d.com」（https://im3d.shop/press-kit・3回目）
+  - 「AI assistant, for binding quotes contact sales@inframotion3d.com」（https://im3d.shop/press-kit・3回目）
+  - 「sales@inframotion3d.com」（https://im3d.shop/・3回目）
+  - 「AI assistant, for binding quotes contact sales@inframotion3d.com」（https://im3d.shop/・3回目）
+- 検索結果の抜粋：
+  - 「Homepage Inframotion3d - IM3D — Homepage Inframotion3d - IM3D Inframotion3d https://inframotion3d.com」（https://inframotion3d.com/・3回目）
+  - 「Press kit - IM3D, inframotion3d — Press kit - IM3D, inframotion3d im3d.shop https://im3d.shop > press-kit」（https://im3d.shop/press-kit・3回目）
+  - 「Inframotion 3D - LinkedIn — Inframotion 3D | 595 followers on LinkedIn. Power your SLS production with IM3D | Inframotion3D offers high-quality pre-owned EOS SLS and DMLS 3D printers, along with consumables and expert ...」（https://www.linkedin.com/company/inframotion3d/・3回目）
+  - 「Homepage Inframotion3d - IM3D — Run EOS printers Without the Premium Price Complete solutions for EOS equipment owners. From expert maintenance and repairs to serviced machines and compatible materials – all at significantly lower costs. Get Started Comprehensive Service Solutions End-to-end support for your EOS equipment with industry-leading expertise and response times. Maintenance Regular prev」（https://inframotion3d.com/・3回目）
+  - 「SLS Experts, Materials & Formlabs Machines | IM3D, inframotion3d — IM3D develops SLS materials, validates them in-house and supports industrial SLS production as an official Formlabs partner.」（https://im3d.shop/・3回目）
+  - 「Inframotion 3D | Additive Manufacturing Company - AMPulse — Dutch 3D printing service bureau and technology partner providing industrial… Specializes in Service. Based in Wassenaar, Netherlands. Founded 2015.」（https://www.ampulse.online/company/inframotion-3d-bv・3回目）
+  - 「Lucas van Beers - Co-founder & CTO at Inframotion 3D | IM3D — Lucas van Beers - Co-founder & CTO at Inframotion 3D | IM3D LinkedIn https://nl.linkedin.com > lucasvanbeers」（https://nl.linkedin.com/in/lucasvanbeers・3回目）
+  - 「Homepage Inframotion3d - IM3D — Inframotion 3D B.V. is fully independent and not affiliated with or endorsed by EOS GmbH Electro Optical Systems. All referenced trademarks remain the property of their respective owners.」（https://inframotion3d.com/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+
 ## Ipcon Polymer Material (Suzhou)
 - 公式URL：https://www.ipconpolymer.com（given）
 - 代理店網：
@@ -816,6 +1278,25 @@
 - 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部39頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部39頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部39頁・検索15回）
+
+## Jeol — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 日本の担い手：
+  - 「3-1-2 Musashino, Akishima, Tokyo, Japan」（https://www.voxelmatters.directory/company/jeol/・3回目）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/jeol/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Jeol — VoxelMatters - The largest database of additive ... — Jeol — VoxelMatters - The largest database of additive ... voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/jeol/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
 
 ## Jiangyin Film-Maker Plastic
 - 公式URL：https://www.film-maker.cn（given）
@@ -890,6 +1371,21 @@
 - 拠点：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索23回）
 - 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索23回）
 - 代理店網：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索23回）
+
+## Knowhow Wilhelms — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
 
 ## LANDU INNOVATIONS
 - 公式URL：https://landu3d.com（given）
@@ -1009,6 +1505,58 @@
 - 連絡先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
 
+## LTS Maskin AS — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 代理店網：
+  - 「3D Printer Reseller」（https://www.voxelmatters.directory/company/lts-maskin-as/・3回目）
+  - 「Metal 3D Printer Reseller」（https://www.voxelmatters.directory/company/lts-maskin-as/・3回目）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/lts-maskin-as/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「LTS Maskin AS — VoxelMatters - The largest database of ... — LTS Maskin AS wholeseller of machines and tools for metal processing industries and wood working industries.」（https://www.voxelmatters.directory/company/lts-maskin-as/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）
+
+## LVL-Tech — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「LVL-Tech — VoxelMatters - The largest database of additive ... — As an authorized sales representative of GE Additive, Materialise, CEAD, and Kings. We offer our clients in the GCC access to the latest and most advanced 3D printing solutions available. LVLTech technical support team is a highly trained and experienced group of professionals who are dedicated to providing our clients with the best 」（https://www.voxelmatters.directory/company/lvl-tech/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
+## Laser Fusion Solutions — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
 ## Lattice Medical SAS
 - 公式URL：https://www.lattice-medical.com（given）
 - 直送・ネット販売：
@@ -1089,6 +1637,117 @@
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+
+## Legor Group S.p.A. — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 規模・親会社：
+  - 「Legor Group S.p.A. — VoxelMatters - The largest database of additive manufacturing companies」（https://www.voxelmatters.directory/company/legor-group-s-p/・3回目）
+  - 「Gianni Poliero, who was the teacher at that time, is now the Chairman of Legor Group, a multinational company based in Vicenza specializing in metallurgy.」（https://www.voxelmatters.directory/company/legor-group-s-p/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/legor-group-s-p/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Legor Group S.p.A. — VoxelMatters - The largest database of ... — Legor Group S.p.A. — VoxelMatters - The largest database of ... voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/legor-group-s-p/・3回目）
+  - 「Legor Group S.p.A. | Società Benefit Information - RocketReachLegor Group Società Benefit - Precious Alloys and Plating ...Integrated Report: Legor's Sustainability and ImpactCompany Profile - Legor Group Spa - ChemDmartLegor Group S.p.A. — VoxelMatters - The largest database of ...LEGOR GROUP S.P.A., Partita IVA: 00844230284, Fatturato ... — Legor Group S.p.A. | Società Benefit is a Retail Luxury」（https://rocketreach.co/legor-group-spa-societa-benefit-profile_b5948689f84c7e54・3回目）
+  - 「Legor Group S.p.A. — VoxelMatters - The largest database of ... — Gianni Poliero, who was the teacher at that time, is now the Chairman of Legor Group, a multinational company based in Vicenza specializing in metallurgy. Initially, Gianni’s wife, Teresa, and then their seven children were carried along by Gianni’s entrepreneurial flair.」（https://www.voxelmatters.directory/company/legor-group-s-p/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
+## Lithoz — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Lithoz GmbH Information - RocketReachLithoz - Overview, News & Similar companies | ZoomInfo.comLithoz - 2026 Company Profile, Team, Funding & Competitors ...Lithoz — VoxelMatters - The largest database of additive ...Lithoz 2026 Company Profile: Valuation, Funding & Investors ... — Lithoz GmbH is a Manufacturing, Glass, Ceramics and Concrete Manufacturing, and Building Materials company located in」（https://rocketreach.co/lithoz-gmbh-profile_b4551706fc912fc9・3回目）
+  - 「Lithoz - 2026 Company Profile, Team, Funding & Competitors ...Lithoz — VoxelMatters - The largest database of additive ...Lithoz 2026 Company Profile: Valuation, Funding & Investors ... — Jan 21, 2026 · Lithoz is a seed company based in Vienna (Austria), founded in 2011 by Johannes Homa. It operates as a 3D printers and materials for various applications. Lithoz has raised an undisclosed amount in」（https://tracxn.com/d/companies/lithoz/__TOjZHjITulWq5Bn6CzAOvCKJASOdY7sdnIO3SePaVWk・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
+
+## MAPTEC UAE — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 代理店網：
+  - 「3D Printer Reseller」（https://www.voxelmatters.directory/company/maptec/・3回目）
+  - 「Metal 3D Printer Reseller」（https://www.voxelmatters.directory/company/maptec/・3回目）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/maptec/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「MAPTEC UAE — VoxelMatters - The largest database of additive ... — MAPTEC is a leading Additive Manufacturing, 3D printing, and reverse engineering solution provider in the Middle East region. Started in 2006 in Dubai, United Arab Emirates, with highly skilled engineers to deliver best value of solutions. In 2013 we expanded our operation by opening a branch office in Riyadh, Saudi Arabia to exten」（https://www.voxelmatters.directory/company/maptec/・3回目）
+  - 「Maptec - Crunchbase Company Profile & FundingMAPTEC - 3D Printer & Scanner Suppliers in UAEMAPTEC UAE — VoxelMatters - The largest database of additive ...MAPTEC - LinkedIn — Maptec manufactures and distributes 3D printers. Where is Maptec's headquarters? Maptec is located in Dubai, Dubai, United Arab Emirates. Who are Maptec's competitors? Alternatives and possible competitors to Maptec may inclu」（https://www.crunchbase.com/organization/maptec・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+
+## MIMETE S.r.l. — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 規模・親会社：
+  - 「FOMAS Group, alongside the manufacturing of forgings and rings, is at the forefront of innovation with the production of gas-atomized metal powders under the name MIMETE®. Our iron, nickel, and cobalt-based powders are designed for a wide range of applications, from additive manufacturing to HIP technology.」（https://www.voxelmatters.directory/company/mimete/・3回目）
+  - 「Sales & distribution: based in northern Italy, we also have a worldwide presence thanks to our FOMAS Group network」（https://www.voxelmatters.directory/company/mimete/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/mimete/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「MIMETE S.r.l. — VoxelMatters - The largest database of ... — FOMAS Group, alongside the manufacturing of forgings and rings, is at the forefront of innovation with the production of gas-atomized metal powders under the name MIMETE®.」（https://www.voxelmatters.directory/company/mimete/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+
+## Materialise — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
+## Meshy AI — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 
 ## NANOE SAS
 - 公式URL：https://www.nanoe.com（given）
@@ -2576,3 +3235,93 @@
 - 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部45頁・検索15回）
 - 所在地：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部45頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部45頁・検索15回）
+
+## moi — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/moi/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「moi — VoxelMatters - The largest database of additive ... — moi is a Politecnico di Milano's spin-off startup launched to solve a problem: thermosetting composites are one of the best performing class of materials available, unfortunately, traditional manufacturing is still, in these days, expensive and requires a lot of time, especially for small series or unique objects.」（https://www.voxelmatters.directory/company/moi/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+
+## voxelmatters
+- 公式URL：特定できず（not_found）
+- 日本の担い手：
+  - 「「日本の製造業革新に不可欠な金属積層造形技術の未来」レポート公開 ― みずほ銀行」（https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/・3回目）
+  - 「Japanese additive manufacturing is rising | 3dpbm」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising.md」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「Japanese additive manufacturing is rising」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「The Great Wave off Kanagawa, also known as The Great Wave or simply The Wave. The original work is a woodblock print by the Japanese ukiyo-e artist Hokusai. It was published sometime between 1829 and 1833 in the late Edo period in Hokusai's series Thirty-six Views of Mount Fuji.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「[for the manufacturing of a 22N rocket thruster utilizing hydrazine]” is what prompted us to connect some dots. Until recently all these industries did not seem to see Japanese additive manufacturing companies as capable of offering truly practical production solutions. Companies like Solize, 3DCeram, IHI, Mitsubishi and nTopology are proving otherwise.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「Has that time really come? If it has, it’s not that clear-cut yet. The Nikkei estimates the Japanese 3D printing market compound annual growth rate (CAGR) to be 9.1% between 2017 and 2022, when the market is expected to be worth about $430 million. This is, however, just a tiny percentage (0.1%) of the overall Japanese manufacturing industry, which generates about $400 billion yearly.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「First, let’s be clear. Japan was and still is one of the first adopters of AM for prototyping purposes. Italian stereolithography hardware manufacturer」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「Two more Japanese machine tool firms,」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「For many years, it almost seemed as if the only company to do additive manufacturing in Japan was Matsuura. The consumer AM craze only marginally touched Japan, with a number of FabLabs emerging and online AM service provider」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「More recently, certain new initiatives and companies seemed to indicate that Japanese companies were more seriously looking at AM for manufacturing. Not every one of them met with success.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「The company then began looking into metal binder jetting materials (mainly aluminum) and hardware but these projects remain very much developmental at this time. Another Japanese printing technology giant and early 3D printing patent holder, Canon, announced plans to enter the market with internally developed 3D printing hardware—first with a polymer and subsequently with a」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+- 代理店網：
+  - 「Polymaker adds Rapid Fusion to its PolyCore hardware partner network」（https://www.voxelmatters.com/・3回目）
+  - 「Polymaker has brought UK-based Rapid Fusion into its PolyCore Hardware Partner network, pairing the materials maker’s pellet feedstocks with Rapid Fusion’s robotic large-format additive manufacturing systems. The partnership took effect at the start of 2026,…」（https://www.voxelmatters.com/・3回目）
+  - 「VoxTech3D, Inc., a micro-precision 3D printing service bureau and equipment distributor based in Agoura Hills, California, has been appointed exclusive…」（https://www.voxelmatters.com/・3回目）
+  - 「- 3D Printer Reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- - Ceramics 3D Printer Reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- - Construction 3D Printer Reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- - Electronics 3D Printer Reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- - Metal 3D Printer Reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- - Used 3D printer reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- 3D Scanner Reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- 3D Software Reseller」（https://www.voxelmatters.directory/・3回目）
+  - 「- Accessories/Spare Parts Reseller」（https://www.voxelmatters.directory/・3回目）
+- 直送・ネット販売：
+  - 「- - 3D Print eShop」（https://www.voxelmatters.directory/・3回目）
+  - 「- - 3D Print Shop」（https://www.voxelmatters.directory/・3回目）
+- 規模・親会社：
+  - 「The Additive Manufacturing Users Group (AMUG) has selected Professor Neil Hopkinson, Vice President of SAF Technology at Stratasys Ltd., for its Innovators Award. Hopkinson conceived High Speed Sintering, a process that uses printheads to deposit…」（https://www.voxelmatters.com/・3回目）
+  - 「Xometry posts record Q3 revenue of $252 million and raises 2026 outlook」（https://www.voxelmatters.com/・3回目）
+  - 「Xometry has reported record revenue of $252.4 million for the third quarter ended September 30, 2026, up 40% from $180.7m a year earlier. The North…」（https://www.voxelmatters.com/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/・3回目）
+  - 「Our database includes 351 unique AM hardware companies ranging from startups and SMEs all the way to the largest hardware OEMSs . The overall unit sale and revenue data for each single product is available for each material segment (polymers, composites, metals, ceramics), as well as for every AM technology family and sub-family.」（https://www.voxelmatters.report/database/・3回目）
+  - 「Our database includes 303 unique AM material companies, including large and small suppliers of polymers, composites, metals, and ceramics. These are intended as manufacturers of materials in 3D printable form. Data on global and national material shipments and revenues is available for each material type and material form.」（https://www.voxelmatters.report/database/・3回目）
+  - 「Material revenues / current and 10-year forecast」（https://www.voxelmatters.report/database/・3回目）
+  - 「Our database includes 710 unique AM service bureaus that represent the first step in our analysis of end-user segments. AM services are both end users of AM technologies and providers of AM parts to vertical adopters. In the database, AM services parts demand, revenues and material consumption are accurately quantified.」（https://www.voxelmatters.report/database/・3回目）
+  - 「Data on AM services parts units, revenues and volume」（https://www.voxelmatters.report/database/・3回目）
+  - 「Part demand and revenue data for each material」（https://www.voxelmatters.report/database/・3回目）
+  - 「Part demand and revenue data for each AM technology」（https://www.voxelmatters.report/database/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.report/database/・3回目）
+- 連絡先：
+  - 「info@voxelmatters.com」（https://www.voxelmatters.report/database/・3回目）
+  - 「info@voxelmatters.com」（https://www.voxelmatters.com/about/contact/・3回目）
+  - 「Your email address will not be published.」（https://www.voxelmatters.com/stratasys-acquires-markforged-from-nano-dimension-for-42-5-million/・3回目）
+  - 「Your email address will not be published.」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「info@voxelmatters.com」（https://www.voxelmatters.report/methodology/・3回目）
+  - 「Your email address will not be published.」（https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/・3回目）
+  - 「Your email address will not be published.」（https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/・3回目）
+- 検索結果の抜粋：
+  - 「The heart of additive manufacturing - VoxelMatters News — The heart of additive manufacturing - VoxelMatters News VoxelMatters https://www.voxelmatters.com」（https://www.voxelmatters.com/・3回目）
+  - 「The largest database of AM companies and products — The largest database of AM companies and products VoxelMatters Research https://www.voxelmatters.report > dat...」（https://www.voxelmatters.report/database/・3回目）
+  - 「VoxelMatters directory — VoxelMatters directory voxelmatters.directory https://www.voxelmatters.directory」（https://www.voxelmatters.directory/・3回目）
+  - 「Contact | VoxelMatters - The heart of additive manufacturing — Contact | VoxelMatters - The heart of additive manufacturing VoxelMatters https://www.voxelmatters.com > contact」（https://www.voxelmatters.com/about/contact/・3回目）
+  - 「VoxelMatters Group: Your partner for additive manufacturing — VoxelMatters Group: Your partner for additive manufacturing voxelmatters.group https://www.voxelmatters.group」（https://www.voxelmatters.group/・3回目）
+  - 「Stratasys acquires Markforged from Nano Dimension for $42.5 ... — Stratasys acquires Markforged from Nano Dimension for $42.5 ... VoxelMatters https://www.voxelmatters.com > strata...」（https://www.voxelmatters.com/stratasys-acquires-markforged-from-nano-dimension-for-42-5-million/・3回目）
+  - 「金属AM市場、2034年に9兆円規模へ！ VoxelMatters が最新 ... — 金属AM市場、2034年に9兆円規模へ！ VoxelMatters が最新 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > 市場レポート」（https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/・3回目）
+  - 「Japanese additive manufacturing is rising - VoxelMatters — Japanese additive manufacturing is rising - VoxelMatters VoxelMatters https://www.voxelmatters.com > japa...」（https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/・3回目）
+  - 「The first & largest directory of 3D printing companies ... — The first & largest directory of 3D printing companies ... voxelmatters.directory https://www.voxelmatters.directory」（https://www.voxelmatters.directory/・3回目）
+  - 「Deep additive manufacturing insights and the data that matters — Deep additive manufacturing insights and the data that matters VoxelMatters Research https://www.voxelmatters.report > me...」（https://www.voxelmatters.report/methodology/・3回目）
+  - 「Japan Content - The heart of additive manufacturing — Japan Content - The heart of additive manufacturing VoxelMatters https://www.voxelmatters.com > japan」（https://www.voxelmatters.com/category/global-am-hubs/japan/・3回目）
+  - 「VoxelMatters — VoxelMatters X https://x.com > VoxelMatters」（https://x.com/VoxelMatters・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索22回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索22回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索22回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索22回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索22回）
+- 拠点：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部41頁・検索22回）

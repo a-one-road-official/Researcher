@@ -1,0 +1,510 @@
+{
+ "name": "ChanhonTech — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor",
+ "researched_at": "2026-11-09T14:01:31.128001+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookChanHonTech - FacebookChanHonTech SLA Resin 3D Printing - FacebookChanhontech - Facebook3D Printing Solutions for the... - Chanhontech 3D Printing ...Vỏ nhựa thiết bị gia dụng &... - Chanhontech 3D Printing ... VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter ChanHonTech is on Facebook. Join Facebook to connect with ChanHo",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chanhontech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toha.fromation.co.jp/archives/36733",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/80758/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/7219",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256806350437236.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chanhontech.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chanhontech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chanhontech.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/RESIONE-%E5%85%89%E9%80%A0%E5%BD%A23-D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E2%80%94%E3%83%AC%E3%82%B8%E3%83%B3%EF%BC%9ATH-Tought74-ABS%E3%83%AC%E3%82%B8%E3%83%B3-%E8%80%90%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E5%85%89%E7%A1%AC%E5%8C%96%E6%A8%99%E6%BA%96%E6%A8%B9%E8%84%82/dp/B0DPQCP98J",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%A8%E3%82%A2%E3%83%99%E3%83%B3%E3%83%88%E3%83%95%E3%83%83%E3%82%AF%E3%80%91-%E8%BB%8A%E8%BC%89%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB-360%C2%B0%E5%9B%9E%E8%BB%A2%E3%81%AA%E5%8F%B0%E5%BA%A7-S25%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E5%AF%BE%E5%BF%9C-GuMosh/dp/B0DT5ST8MX",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3%E3%82%BA-%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E5%AD%97%E5%B9%95-Pierre-Coffin/dp/B0HJ582G9W",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/2351/6788/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/4896/8053/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0639/3283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/03001937/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/eos-and-blt-lead-list-of-top-10-metal-am-companies-2025-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chanhontech.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ChanhonTech — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://chanhontech.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://chanhontech.com/contact-us/",
+    "https://www.youtube.com/watch?v=D7cxgFRZ5lo",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.exone.com/en/about-us/locations/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://toha.fromation.co.jp/archives/36733",
+    "https://eikaiwa.dmm.com/uknow/questions/80758/",
+    "https://www.kentex-jp.com/store_finder/dealer-2/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://partner-prop.com/lab/partner-business/agency/91/",
+    "https://chanhontech.com/about-us/",
+    "https://www.voxelmatters.directory/company/chanhon-tech/",
+    "https://www.voxelmatters.com/farsoon-partners-with-chanhontech-to-reach-footwear-market-in-southeast-asia/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "https://creator.holoearth.com/shop/products/7219",
+    "https://ja.aliexpress.com/item/1005006536751988.html",
+    "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja",
+    "https://eleshop.jp/shop/c/c66320806/?srsltid=AYCX9vIyDQwFnDFdsRx1HXUTYCiP3rJujYhU8bu5D_l4__3SIOQ9Jd3j",
+    "https://www.youtube.com/watch?v=Fl2KYPCV3q4&vl=ja",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://develop.success-corp.co.jp/products/detail/68516/",
+    "https://chanhontech.com/ja/home-日本語/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://shop.exmatelab.com/",
+    "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.monotaro.com/s/attr_f5139-%E3%82%A8%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%83%BC/q-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%20pla/?fpu=0&srsltid=AYCX9vJ_LyDYlWphRLkrjqxkYE25sewbAK1HW_e4gorVnBr0pfF8xHvl",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJUm1hnTC_d0EV3eOPA0_YCJLJmeV-oQzBphoL7tfiWtk_EE0vu",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://chanhontech.com/about-us/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://chanhontech.com/",
+    "https://www.upnano.com/distributors/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.voxelmatters.com/",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://chanhontech.com/contact-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://chanhontech.com/about-us/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.upnano.com/distributors/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp ChanhonTech — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/RESIONE-光造形3-Dプリンタ—レジン：TH-Tought74-ABSレジン-耐スクラッチ光硬化標準樹脂/dp/B0DPQCP98J",
+    "https://www.amazon.co.jp/エアベントフック】-車載ワイヤレス充電-360°回転な台座-S25シリーズ対応-GuMosh/dp/B0DT5ST8MX",
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://www.amazon.co.jp/ミニオンズ-モンスターズ-字幕-Pierre-Coffin/dp/B0HJ582G9W",
+    "https://www.amazon.co.jp/STAR-マンダロリアンとグローグー-いっぱい貼れる！-マルチなふせんセット-宝島社ブランドムック/dp/4299083547",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://www.amazon.co.jp/会社の「辞めどき」（プレジデント2026年10-16号）-プレジデント社/dp/B0HH8SKH17"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com ChanhonTech — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/p/4896/8053/",
+    "https://www.monotaro.com/p/0639/3283/",
+    "https://www.monotaro.com/g/03001937/",
+    "https://www.monotaro.com/p/8967/2581/",
+    "https://www.monotaro.com/p/6734/9187/",
+    "https://www.monotaro.com/s/c-124371/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/eos-and-blt-lead-list-of-top-10-metal-am-companies-2025-by-revenue/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://chanhontech.com/about-us/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.northdata.com/Voxelmatters+Ltd·,+Farnham/Companies+House+10417555"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ChanhonTech — VoxelMatters",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://tales.note.com/",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/asaimitsunori/n/n06d60e0533cc",
+    "https://note.com/aatoku/n/ne645d02ac443",
+    "https://note.com/sekasu/n/n985d4263a09c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ChanhonTech — VoxelMatters",
+   "results": [
+    "https://x.com/chanhontech3",
+    "https://x.com/voxelmatters",
+    "https://x.com/spencerpratt/status/2117629972919542039",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/PopBase/status/2116494180054909027",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ChanhonTech — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/chanhontech",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://cn.linkedin.com/company/chanhontech",
+    "https://vn.linkedin.com/in/vinci-wei-319782169",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://www.linkedin.com/posts/chanhontech_additivemanufacturing-metal3dprinting-activity-7493997396650012672-Ciow"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ChanhonTech — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/p/Chanhontech-3D-Printing-61577619577875/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/chanhontech/",
+    "https://www.facebook.com/reel/665248036602568/",
+    "https://www.facebook.com/Chanhontech-109717975189370/",
+    "https://www.facebook.com/61577619577875/posts/-3d-printing-solutions-for-the-automotive-industryfrom-design-validation-to-low-/122169760772920652/",
+    "https://www.facebook.com/61577619577875/posts/122175931658920652/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.youtube.com/watch?v=4kUEW98sw_Y",
+    "https://note.com/ptcjapan/n/n1199578f209b",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ChanhonTech — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.directory/privacy-center/",
+    "https://www.voxelmatters.com/category/events/formnext/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://www.youtube.com/watch?v=joELUCw9Ejw",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

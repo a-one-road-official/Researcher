@@ -1,0 +1,1479 @@
+{
+ "name": "名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務",
+ "en": "entity resolution survivorship rules golden record blocking practical guide",
+ "aliases": [
+  "名寄せ ゴールデンレコード 残す値 ルール",
+  "データクレンジング 名寄せ ブロッキング 手順",
+  "survivorship rules master data management most recent most frequent",
+  "Fellegi-Sunter record linkage practical"
+ ],
+ "context": "手順・やり方",
+ "kind": "market",
+ "researched_at": "2026-11-09T14:01:55.550182+00:00",
+ "evidence": {
+  "実例": [
+   {
+    "quote": "ガバナンスチームが方針だけを提示し、具体的な運用を現場（各事業部など）に一任した場合、現場の実態と合わず「ルールが無視される」か「対応優先度を極端に下げられる」結果に終わる",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なぜなら、初期段階では具体的なユースケースが不明確であり、正確なリスク評価ができないためである",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果として理想的に作られたルールは、実態と乖離が大きくなり利活用の停滞やルールの形骸化を招いてしまう",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "リスクを潰そうと守りばかりを強化した結果、現場がデータにアクセスするまでに何重もの承認が必要となり、面倒だと思われてフェードアウト",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その下に具体的な法律（運用ルールやマニュアル）があり、日々の業務における判例（ユースケースやFAQ）が積み重なっていく、という階層構造をイメージすると良い",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "⚖️ 【判例】個別ユースケース・適用例・FAQ",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "先行企業の事例：三菱電機グループの「データ活用宣言」",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "優れた先行事例として、三菱電機グループが制定している「",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現場から上がる具体的なユースケース（要望・要求）に都度応えながら、実務を阻害しない範囲で「安全と再利用性のためのルール」を組み込んでいく",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「すべてのデータを統制する」という幻想を捨て、ガバナンスの適用範囲は摩擦の少ない領域で成功体験（ショーケース）を作ることから始める",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、結果としてデータのアクセス数、BIダッシュボードがどれくらい増えたかが重要である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば「データ健全性はレベル3を維持しつつ、データアクセシビリティとビジネス価値創出をレベル4へ引き上げる」といった目標設定が、競争優位性を生む近道とされる",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "立ち上げ期: 特定事業部のユースケース主導",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ガバナンスを緩めに設定し、特定のユースケース実現に直結するデータ整備のみに集中する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "成功事例を横展開するタイミングで、全社共通のルールをコーポレート主導で敷いていく",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The use case is fairly common across",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "--> Each accelerator includes examples of deterministic survivorship rules (recency, completeness, source priority) to pick the best record per cluster.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Explore Real-world Case Studies",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Learn how companies like yours leverage the Profisee Platform to achieve business goals in our case study library.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Source system priority defines a hierarchy of data sources as the most trustworthy for any given attribute. For example, a source system priority rule may declare that the customer contact name attribute should come from the CRM, while supply chain management software provides location information for all vendors.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Some examples of conditional rules include populating different tax numbers based on location or even different data sources for different business sizes. Conditional rules can also extend to business processes by relying on procurement data for the first 90 days the customer is active and then switching to a recency-based rule as the customer and their data populate to more systems.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "MDM Golden Record: Use Cases, Customer 360 & Best Practices",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden Record in MDM: How It Works, Examples & Best Practices",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden Record Use Cases Across Industries",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI also reduces the burden on data stewards by handling a greater proportion of match and merge decisions automatically, surfacing only the genuinely ambiguous cases for human review. Over time, as models learn from steward decisions, the proportion of records requiring manual intervention decreases.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "競合よりも早く、より多くの仮説検証を試行することで、成功率を高められる",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例（1）複数部門間での「データ連携ニーズ」と「定義の矛盾」が発生した時",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "他と照合されることで強力な間接識別子となる空間情報",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データの民主化を進めるためには、利用者の想像力を刺激するショーケース的な呼び水が必要だという仮説がある",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この仮説に立つと、企業のバリューチェインの根幹を成す主要なトランザクションや全社共通マスタに限り、明確な分析ユースケースが顕在化していなくても経営・DMO主導で例外的に連携を考えたい場面が多い",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "したがって、「データ基盤におけるマスタデータ生成の是非」節と矛盾しない",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データカタログに登録されているオーナー・スチュワードのメールアドレスと、最新の人事マスタを定期的に突き合わせるスクリプトをDMO側で用意する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIモデルの特性に合わせたデータ連携仕様の評価と、新モデルへの切り替えに伴うデータ検証",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Most organizations underestimate how much time survivorship rule design requires. Before building any technical infrastructure, invest time in understanding which source systems are most reliable for each data attribute. That knowledge is the foundation everything else is built on.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": ": 顧客から預かったデータや、特定の目的で契約・購入した外部データ（SaaSの統計情報や外部調査データなど）を、元の契約範囲を超えて二次利用したり、別プロジェクトに流用したりすることを禁止する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ": 分析目的であっても、個人を特定できる情報（氏名、詳細な住所等）をそのまま扱うことは原則禁止とし、適切なマスキングや統計化処理を必須とする",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "非構造化データ（テキスト文書、メール、議事録、PDF等）は、個人情報がテキスト中の任意の箇所に出現し得るため、同じアプローチでは対応できない",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "顧客から受領したPDFをデータ基盤に連携したい",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ガバナンスチーム自らが、カタログの利用ログやメタデータの統計情報を集計し、それを元にアクションを提示することで、データ駆動組織としてあるべき背中を見せる必要がある",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "カタログの利用ログやメタデータの統計情報を集計し、ダッシュボード化して公開する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このタイムラグがビジネス上許容できるかを事前に定義し、リアルタイム性が不可欠な場合は、データ基盤を経由しない「基幹系同士の直接連携」を採用する方針とする",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3の帰結として、具体的な技術トレンド（データメッシュアーキテクチャ）を採用する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Before writing survivorship rules or configuring matching logic, conduct a thorough data profiling exercise across all source systems. Understand the actual quality, completeness, and reliability of each field in each system. Rules designed without this knowledge are guesses. Rules designed with it are grounded in evidence.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "データガバナンス側は「方針を作って終わり」ではなく、データマネジメント側とすり合わせしながら、方針に準拠した具体的な運用フロー（簡単な手順書や申請フォーム）の作成まで踏み込むこと",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データ抽出の依頼手順が決まっており、特定のIT担当者が対応している",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "DMOの役割をどこに実装するかには、次の2つの進め方がある",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "したがって、データ基盤の構築や保守は既存情シスが担い、データ活用の推進や利害調整は専任のDMOが担うという役割分担が、確実な方法である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "クラウド型データ基盤の費用は、利用量（クエリ量やデータ保存量）に応じて変動する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データ分類はアクセス可能範囲の制御には有効だが、使用方法に関する制約を表現できない",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのため、使用方法に関する制約には、データ分類とは別軸のフラグをメタデータとして付与することを推奨する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "特定を防ぐ最も確実な方法は「最初から持たないこと」である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "物理名, 型, 制約, 最終更新日 など",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「物理名」「論理名」「型」「PK」「外部キー」「NOT NULL」「パーティションキー」など",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二次利用側のパイプラインを停止させる可能性がある破壊的変更（カラムの追加・削除、型変更、マスタコードの体系変更など）を加える際は、原則〇ヶ月前までに事前通知する義務を負う",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2を継続的に適用することで、業務上必要なレベルのマスタ統制は十分に達成される",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中央集権から分散型の統制へ変化させ、中央組織のボトルネックを解消すること",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "practical Entity Resolution / Deduplication framework on Databricks",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "tart with multiple composite keys (e.g. phonetic last name + postcode, email username + domain, etc.), plus a semantic/vector‑based candidate retrieval step for messy text.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and then adapting each notebook step to your domain instead of rebuilding the framework from scratch.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "MDM Survivorship: How to Choose the Right Record - Profisee",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Accelerate every step of your MDM workflow with an AI assistant",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "MDM Survivorship: How to Choose the Right Record",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Get your copy of Connecting the Dots and learn how to ground enterprise GenAI in trusted master data your business can actually act on.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What Is a Unified Customer View? Definition and How to Create It",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Create a Single Source of Truth for Your Enterprise",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden records are built through a structured five step process: ingestion, matching, survivorship, validation, and ongoing maintenance.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 1: Data Ingestion",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 2: Data Matching and Deduplication",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 3: Survivorship Rules",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 4: Validation and Enrichment",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 5: Publication and Maintenance",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden record maintenance requires the company to adhere to data governance frameworks, survivorship and validation rules as set up within a data governance or MDM program. Enforcing these rules across the organization will contribute to continued accuracy, and periodic evaluation and validation of golden records will check for accuracy.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A golden record that is accurate at launch will degrade without sustained governance. Source systems continue to create new records, update existing ones, and introduce new data quality issues. Without a governance framework that enforces data standards at the point of entry and continuously monitors quality downstream, the golden record layer erodes over time.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Every data domain included in your golden record program needs a clearly designated owner. This is the person or team accountable for the quality, completeness, and currency of that data. Without clear ownership, quality issues have no one to resolve them and governance frameworks have no one to enforce them.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Rapidly Scale a Payments GCC Without a Legal Entity in India",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Take to the Next Step",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": ": 何がダメかだけではなく、どうすれば安全に使えるかの道筋を示す",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "各国の商習慣や法規制（GDPR等）が異なるため、ローカルの取引データまでグローバルで統一しようとすると失敗しやすい",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "運用にあたっての、推奨や注意点は以下の通り",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データカタログの「最終更新日」という表記には注意が必要である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "高機能なツールは運用に乗せるまでの設定が重く、立ち上げ期にはオーバースペックとなり「導入しただけで使われない」失敗に陥りやすい",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "テストに失敗した場合は、不完全なデータを下流のダッシュボードへ連携させないようパイプラインを自動停止させ、品質低下を未然に防ぐ",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トレンドに振り回されないように注意すること",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "事実の正しさに加え、データのバイアスの監視や、AIが処理しやすいデータ分布・形式への変換精度の担保",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "生成AIサービスの利用に関する注意喚起（個人情報保護委員会）",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIの回答精度やバイアスを定期モニタリングし、源泉データの不備をカタログへフィードバックする",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/aozora7kumo7kaze/n/n468270fb1d6a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xnxx.com/todays-selection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xnxx.es/todays-selection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xnxx.health/todays-selection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m-xnxx.com/todays-selection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m-xnxx.com/todays-selection/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usonar.co.jp/blog/6256.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/18983/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cdp.com/ja/glossary/identity-resolution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-design-operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/yujmatsu/articles/20260406_dmbok_ch9_10_mdm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14797",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cdp.com/ja/glossary/single-customer-view-scv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7099",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.storytellersvault.com/ja/browse?productType=45634&src=fid45634",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/daimonji-bucket/items/47f806624a5924f2d47b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://da.library.ryukoku.ac.jp/iiif/200440/1/manifest.json",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cdp.com/ja/glossary/customer-360/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techplay.jp/community/isid/blog?page=8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/it_policy/privacy/5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://huggingface.co/api/resolve-cache/models/rinna/bilingual-gpt-neox-4b-instruction-ppo/86b9caf688a9be20e09b324f7e6be96ed0166984/spiece.vocab?download=true&etag=%22a672fa072a98da02a6dcdad08b8f6a5b45444fe5%22",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/manabian/scraps/d8c18a21917d13",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataladder.com/guide-to-data-survivorship-how-to-build-the-golden-record/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tamr.com/what-are-golden-records",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marionoioso.com/master-data-management-golden-record/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務 site:note.com",
+   "results": [
+    "https://note.com/aozora7kumo7kaze/n/n468270fb1d6a",
+    "https://www.xnxx.com/todays-selection/",
+    "https://www.xnxx.es/todays-selection",
+    "https://xnxx.health/todays-selection/",
+    "https://m-xnxx.com/todays-selection",
+    "https://m-xnxx.com/todays-selection/en/",
+    "https://www.xvideos.com/tags/xnxx",
+    "https://www.xnxx20.com/search/new",
+    "https://www.xnxx.net/",
+    "https://www.xnxx.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務 note",
+   "results": [
+    "https://usonar.co.jp/blog/6256.html",
+    "https://www.issoh.co.jp/column/details/18983/",
+    "https://cdp.com/ja/glossary/identity-resolution/",
+    "https://start-link.jp/hubspot-ai/btob-marketing/crm-basics/crm-data-cleansing-design-operations",
+    "https://zenn.dev/yujmatsu/articles/20260406_dmbok_ch9_10_mdm",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14797",
+    "https://data-viz-lab.com/statistical-data-cleansing",
+    "https://editor.note.com/notes/n3ae4aa20cf3a"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務 やり方",
+   "results": [
+    "https://www.issoh.co.jp/column/details/18983/",
+    "https://cdp.com/ja/glossary/single-customer-view-scv/",
+    "https://ehm-yuge-h.esnet.ed.jp/json/blogs/saveLikeJson/1/108/7099",
+    "https://samegawa.fcs.ed.jp/json/bbses/saveLikeJson/2/4/755",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14797",
+    "https://www.storytellersvault.com/ja/browse?productType=45634&src=fid45634",
+    "https://qiita.com/daimonji-bucket/items/47f806624a5924f2d47b",
+    "https://da.library.ryukoku.ac.jp/iiif/200440/1/manifest.json",
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務 事例",
+   "results": [
+    "https://cdp.com/ja/glossary/single-customer-view-scv/",
+    "https://cdp.com/ja/glossary/customer-360/",
+    "https://techplay.jp/community/isid/blog?page=8",
+    "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "https://www.meti.go.jp/policy/it_policy/privacy/5.pdf",
+    "https://huggingface.co/rinna/bilingual-gpt-neox-4b-instruction-ppo/resolve/86b9caf688a9be20e09b324f7e6be96ed0166984/spiece.vocab?download=true",
+    "https://zenn.dev/manabian/scraps/d8c18a21917d13",
+    "https://www.itc.u-tokyo.ac.jp/Annual_Report/no19/AnnualReportNo19.pdf",
+    "https://jigyou-saikouchiku.go.jp/pdf/result/tokubetsu_all10.pdf",
+    "https://en.wikipedia.org/wiki/Lamotrigine"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "entity resolution survivorship rules golden record blocking practical guide",
+   "results": [
+    "https://dataladder.com/guide-to-data-survivorship-how-to-build-the-golden-record/",
+    "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "https://www.tamr.com/what-are-golden-records",
+    "https://profisee.com/blog/mdm-survivorship/",
+    "https://marionoioso.com/2026/01/29/master-data-management-golden-record/",
+    "https://www.latentview.com/blog/mdm-golden-record/",
+    "https://datawalk.com/entity-resolution-in-financial-crime-a-practical-guide-to-uncover-hidden-risks/",
+    "https://aerospike.com/blog/entity-resolution-golden-record/",
+    "https://flur.ee/solutions/golden-records",
+    "https://en.wikipedia.org/wiki/Entity"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com 名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務",
+   "results": [
+    "https://note.com/aozora7kumo7kaze/n/n468270fb1d6a",
+    "https://bojangles.res-cuisine.com/menu",
+    "https://bojangles.com/menu/",
+    "https://www.bojangles.com/order/",
+    "https://bojanglesngf.com/menu/",
+    "https://usafoodmenu.com/menu/bojangles-menu/",
+    "https://menu-info.com/menu/bojangles-menu/",
+    "https://www.becajun.com/menu/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務",
+   "results": [
+    "https://www.reddit.com/r/artificial/comments/17dbvj5/experimented_with_fully_automating_tiktok_video/",
+    "https://www.reddit.com/r/Daniellarson/comments/n6mlkj/nsfw_on_his_tiktok_live_daniel_nude/",
+    "https://www.reddit.com/r/networking/comments/fx5q6m/please_help_blocking_tiktok/",
+    "https://www.zhihu.com/tardis/zm/art/589109129",
+    "https://www.zhihu.com/question/388374181",
+    "https://www.reddit.com/r/tiktokgossip/",
+    "https://www.zhihu.com/tardis/zm/art/573476219",
+    "https://www.reddit.com/r/pihole/comments/hi4g08/tiktok_list/",
+    "https://www.zhihu.com/topic/21190111/hot",
+    "https://www.reddit.com/r/NameThatSong/comments/9w9c24/what_is_this_japanese_song_used_on_tiktok_anime/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務",
+   "results": [
+    "https://thesandtrap.com/forums/topic/64098-woo-new-clubs-adams-a5os-hybridirons-set/",
+    "https://thesandtrap.com/forums/topic/47724-ping-eye-2s-are-the-best-irons-ever-created/",
+    "https://thesandtrap.com/forums/topic/69096-ping-eye2-questions/",
+    "https://accessassistant.becu.org/username",
+    "https://accessassistant.becu.org/Contact",
+    "https://accessassistant.becu.org/questions",
+    "https://accessassistant.becu.org/Reset/Locked",
+    "https://accessassistant.becu.org/",
+    "https://accessassistant.becu.org/Reset/Questions",
+    "https://accessassistant.becu.org/Questions/CodeWord"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務",
+   "results": [
+    "https://en.wikipedia.org/wiki/2024_Indian_Premier_League",
+    "https://www.cricbuzz.com/cricket-series/7607/indian-premier-league-2024/stats",
+    "https://www.ipl-stats.com/season/2024",
+    "https://www.ipl-stats.com/season/2024/stats",
+    "https://iplrecords.com/ipl-seasons/2024",
+    "https://iplt20stats.com/ipl-2024",
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/stats",
+    "https://www.crictracker.com/t20/ipl-indian-premier-league/archives-ipl-2024/stats/",
+    "https://cric-ref.com/seasons/2024",
+    "https://sports.ndtv.com/ipl-2024/stats"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務 note 社長",
+   "results": [
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14797",
+    "https://note.com/gold_lab_jp/archives",
+    "https://researchmap.jp/blogs/blog_entries/view/76981/a81221bd843574c2c857b180b7e39858",
+    "https://norudakeset-ishikawa.net/wp-content/uploads/9.pdf",
+    "https://engineweb.jp/article/detail/3354447?page=1",
+    "https://www.murc.jp/wp-json/wp/v2/column_reports/93218/revisions",
+    "https://www.meti.go.jp/policy/it_policy/privacy/5.pdf",
+    "https://p.keibabook.co.jp/chihou/syutuba/2026173706111106",
+    "https://plus.chunichi.co.jp/entry/EmjYFjQvbO4bGPlhcI6r3A%3D%3D/20657/654/0/",
+    "https://answers.microsoft.com/?dg=microsoft.public.office.developer.com.add_ins&tid=a2b03383-8be8-40b8-98b2-192a3192f888&cat=en_US_fd2c131b-df16-48e2-99f7-c5bc7172f2d7&lang=en&cr=US"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "名寄せで1つの値に絞る規則（ゴールデンレコード・残す値の規則・ブロッキング）の実務 X 投稿",
+   "results": [
+    "https://innovatopia.jp/ai/ai-news/116186/",
+    "https://sma.jaxa.jp/TechDoc/Docs/JAXA-JERG-2-400-HB201H.pdf",
+    "https://note.com/pokemimi/n/n6306c1aff751",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14797",
+    "https://x.com/shiki_jp/article/2113899278422950242/media/2113542443622887424",
+    "https://www.audiokinetic.com/ja/public-library/2025.1.10_9233/?source=Unity&id=unity_known_issues_limitations.html",
+    "https://da.library.ryukoku.ac.jp/iiif/200819/1/manifest.json",
+    "https://en.gakuseishinbun.jp/zh-CN/category/column/page/3/",
+    "https://ameblo.jp/thethejp/page-1552.html",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 39
+  },
+  {
+   "query": "entity resolution survivorship rules golden record blocking practical guide site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/master-data-hub-golden-record-sap-mdginformatica-question-karidi-cgxac",
+    "https://www.linkedin.com/pulse/mdm-renaissance-why-master-data-just-became-ai-athmaraman-jambunathan-q6c9e",
+    "https://in.linkedin.com/in/jatin-maheshwari-62863912",
+    "https://ca.linkedin.com/in/gunjan-tauklee-b2b86892",
+    "https://www.linkedin.com/pulse/life-insurance-domain-architecture-detailed-practical-choudhury-uj78c",
+    "https://www.linkedin.com/in/orrin",
+    "https://www.linkedin.com/in/aarongagnon",
+    "https://in.linkedin.com/in/utkarsh-singh-597830169",
+    "https://www.linkedin.com/in/lokvamsi",
+    "https://www.linkedin.com/in/harithasama"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "ガバナンスチームが方針だけを提示し、具体的な運用を現場（各事業部など）に一任した場合、現場の実態と合わず「ルールが無視される」か「対応優先度を極端に下げられる」結果に終わる",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なぜなら、初期段階では具体的なユースケースが不明確であり、正確なリスク評価ができないためである",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "結果として理想的に作られたルールは、実態と乖離が大きくなり利活用の停滞やルールの形骸化を招いてしまう",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "リスクを潰そうと守りばかりを強化した結果、現場がデータにアクセスするまでに何重もの承認が必要となり、面倒だと思われてフェードアウト",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "その下に具体的な法律（運用ルールやマニュアル）があり、日々の業務における判例（ユースケースやFAQ）が積み重なっていく、という階層構造をイメージすると良い",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "⚖️ 【判例】個別ユースケース・適用例・FAQ",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "先行企業の事例：三菱電機グループの「データ活用宣言」",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "優れた先行事例として、三菱電機グループが制定している「",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "現場から上がる具体的なユースケース（要望・要求）に都度応えながら、実務を阻害しない範囲で「安全と再利用性のためのルール」を組み込んでいく",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「すべてのデータを統制する」という幻想を捨て、ガバナンスの適用範囲は摩擦の少ない領域で成功体験（ショーケース）を作ることから始める",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、結果としてデータのアクセス数、BIダッシュボードがどれくらい増えたかが重要である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば「データ健全性はレベル3を維持しつつ、データアクセシビリティとビジネス価値創出をレベル4へ引き上げる」といった目標設定が、競争優位性を生む近道とされる",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "立ち上げ期: 特定事業部のユースケース主導",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ガバナンスを緩めに設定し、特定のユースケース実現に直結するデータ整備のみに集中する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "成功事例を横展開するタイミングで、全社共通のルールをコーポレート主導で敷いていく",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The use case is fairly common across",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "--> Each accelerator includes examples of deterministic survivorship rules (recency, completeness, source priority) to pick the best record per cluster.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Explore Real-world Case Studies",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Learn how companies like yours leverage the Profisee Platform to achieve business goals in our case study library.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Source system priority defines a hierarchy of data sources as the most trustworthy for any given attribute. For example, a source system priority rule may declare that the customer contact name attribute should come from the CRM, while supply chain management software provides location information for all vendors.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Some examples of conditional rules include populating different tax numbers based on location or even different data sources for different business sizes. Conditional rules can also extend to business processes by relying on procurement data for the first 90 days the customer is active and then switching to a recency-based rule as the customer and their data populate to more systems.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "MDM Golden Record: Use Cases, Customer 360 & Best Practices",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden Record in MDM: How It Works, Examples & Best Practices",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden Record Use Cases Across Industries",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AI also reduces the burden on data stewards by handling a greater proportion of match and merge decisions automatically, surfacing only the genuinely ambiguous cases for human review. Over time, as models learn from steward decisions, the proportion of records requiring manual intervention decreases.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "競合よりも早く、より多くの仮説検証を試行することで、成功率を高められる",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例（1）複数部門間での「データ連携ニーズ」と「定義の矛盾」が発生した時",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "他と照合されることで強力な間接識別子となる空間情報",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データの民主化を進めるためには、利用者の想像力を刺激するショーケース的な呼び水が必要だという仮説がある",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この仮説に立つと、企業のバリューチェインの根幹を成す主要なトランザクションや全社共通マスタに限り、明確な分析ユースケースが顕在化していなくても経営・DMO主導で例外的に連携を考えたい場面が多い",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "したがって、「データ基盤におけるマスタデータ生成の是非」節と矛盾しない",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データカタログに登録されているオーナー・スチュワードのメールアドレスと、最新の人事マスタを定期的に突き合わせるスクリプトをDMO側で用意する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIモデルの特性に合わせたデータ連携仕様の評価と、新モデルへの切り替えに伴うデータ検証",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Most organizations underestimate how much time survivorship rule design requires. Before building any technical infrastructure, invest time in understanding which source systems are most reliable for each data attribute. That knowledge is the foundation everything else is built on.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": ": 顧客から預かったデータや、特定の目的で契約・購入した外部データ（SaaSの統計情報や外部調査データなど）を、元の契約範囲を超えて二次利用したり、別プロジェクトに流用したりすることを禁止する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ": 分析目的であっても、個人を特定できる情報（氏名、詳細な住所等）をそのまま扱うことは原則禁止とし、適切なマスキングや統計化処理を必須とする",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "非構造化データ（テキスト文書、メール、議事録、PDF等）は、個人情報がテキスト中の任意の箇所に出現し得るため、同じアプローチでは対応できない",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "顧客から受領したPDFをデータ基盤に連携したい",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ガバナンスチーム自らが、カタログの利用ログやメタデータの統計情報を集計し、それを元にアクションを提示することで、データ駆動組織としてあるべき背中を見せる必要がある",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "カタログの利用ログやメタデータの統計情報を集計し、ダッシュボード化して公開する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このタイムラグがビジネス上許容できるかを事前に定義し、リアルタイム性が不可欠な場合は、データ基盤を経由しない「基幹系同士の直接連携」を採用する方針とする",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "3の帰結として、具体的な技術トレンド（データメッシュアーキテクチャ）を採用する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Before writing survivorship rules or configuring matching logic, conduct a thorough data profiling exercise across all source systems. Understand the actual quality, completeness, and reliability of each field in each system. Rules designed without this knowledge are guesses. Rules designed with it are grounded in evidence.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "データガバナンス側は「方針を作って終わり」ではなく、データマネジメント側とすり合わせしながら、方針に準拠した具体的な運用フロー（簡単な手順書や申請フォーム）の作成まで踏み込むこと",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データ抽出の依頼手順が決まっており、特定のIT担当者が対応している",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "DMOの役割をどこに実装するかには、次の2つの進め方がある",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "したがって、データ基盤の構築や保守は既存情シスが担い、データ活用の推進や利害調整は専任のDMOが担うという役割分担が、確実な方法である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "クラウド型データ基盤の費用は、利用量（クエリ量やデータ保存量）に応じて変動する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データ分類はアクセス可能範囲の制御には有効だが、使用方法に関する制約を表現できない",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "そのため、使用方法に関する制約には、データ分類とは別軸のフラグをメタデータとして付与することを推奨する",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "特定を防ぐ最も確実な方法は「最初から持たないこと」である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "物理名, 型, 制約, 最終更新日 など",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「物理名」「論理名」「型」「PK」「外部キー」「NOT NULL」「パーティションキー」など",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "二次利用側のパイプラインを停止させる可能性がある破壊的変更（カラムの追加・削除、型変更、マスタコードの体系変更など）を加える際は、原則〇ヶ月前までに事前通知する義務を負う",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ステップ2を継続的に適用することで、業務上必要なレベルのマスタ統制は十分に達成される",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "中央集権から分散型の統制へ変化させ、中央組織のボトルネックを解消すること",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "practical Entity Resolution / Deduplication framework on Databricks",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "show how to compute multi‑field similarity scores (string distance, embeddings, etc.) and assemble a single match score per pair.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "tart with multiple composite keys (e.g. phonetic last name + postcode, email username + domain, etc.), plus a semantic/vector‑based candidate retrieval step for messy text.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and then adapting each notebook step to your domain instead of rebuilding the framework from scratch.",
+    "url": "https://community.databricks.com/t5/get-started-discussions/blueprint-entity-resolution-dedup-amp-golden-records-on/td-p/150885",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "MDM Survivorship: How to Choose the Right Record - Profisee",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Accelerate every step of your MDM workflow with an AI assistant",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "MDM Survivorship: How to Choose the Right Record",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Get your copy of Connecting the Dots and learn how to ground enterprise GenAI in trusted master data your business can actually act on.",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What Is a Unified Customer View? Definition and How to Create It",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Create a Single Source of Truth for Your Enterprise",
+    "url": "https://profisee.com/blog/mdm-survivorship/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden records are built through a structured five step process: ingestion, matching, survivorship, validation, and ongoing maintenance.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 1: Data Ingestion",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 2: Data Matching and Deduplication",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 3: Survivorship Rules",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 4: Validation and Enrichment",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Step 5: Publication and Maintenance",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Golden record maintenance requires the company to adhere to data governance frameworks, survivorship and validation rules as set up within a data governance or MDM program. Enforcing these rules across the organization will contribute to continued accuracy, and periodic evaluation and validation of golden records will check for accuracy.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A golden record that is accurate at launch will degrade without sustained governance. Source systems continue to create new records, update existing ones, and introduce new data quality issues. Without a governance framework that enforces data standards at the point of entry and continuously monitors quality downstream, the golden record layer erodes over time.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Every data domain included in your golden record program needs a clearly designated owner. This is the person or team accountable for the quality, completeness, and currency of that data. Without clear ownership, quality issues have no one to resolve them and governance frameworks have no one to enforce them.",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to Rapidly Scale a Payments GCC Without a Legal Entity in India",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Take to the Next Step",
+    "url": "https://www.latentview.com/blog/mdm-golden-record/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": ": 何がダメかだけではなく、どうすれば安全に使えるかの道筋を示す",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "各国の商習慣や法規制（GDPR等）が異なるため、ローカルの取引データまでグローバルで統一しようとすると失敗しやすい",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "運用にあたっての、推奨や注意点は以下の通り",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データカタログの「最終更新日」という表記には注意が必要である",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "高機能なツールは運用に乗せるまでの設定が重く、立ち上げ期にはオーバースペックとなり「導入しただけで使われない」失敗に陥りやすい",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "テストに失敗した場合は、不完全なデータを下流のダッシュボードへ連携させないようパイプラインを自動停止させ、品質低下を未然に防ぐ",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "トレンドに振り回されないように注意すること",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "事実の正しさに加え、データのバイアスの監視や、AIが処理しやすいデータ分布・形式への変換精度の担保",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "生成AIサービスの利用に関する注意喚起（個人情報保護委員会）",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "AIの回答精度やバイアスを定期モニタリングし、源泉データの不備をカタログへフィードバックする",
+    "url": "https://future-architect.github.io/arch-guidelines/documents/forDataGovernance/data_governance_guidelines.html",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T14:01:55.550182+00:00"
+}

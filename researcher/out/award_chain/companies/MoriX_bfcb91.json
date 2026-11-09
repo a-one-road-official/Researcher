@@ -1,0 +1,1001 @@
+{
+ "name": "MoriX",
+ "aliases": [],
+ "context": "東京都・資本金39000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T14:01:17.571083+00:00",
+ "official_url": "https://morixjp.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 東京都千代田区岩本町1-7-6 KITEN岩本町2F MAP",
+    "url": "https://morixjp.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区有楽町2丁目2番1号\nX-PRESS有楽町9F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都千代田区有楽町2丁目2番1号 X-PRESS有楽町9階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2005年8月24日",
+    "url": "https://morixjp.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2005年08月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2005年8月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3億9000万円",
+    "url": "https://morixjp.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3億7000万円",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "久保田守彦",
+    "url": "https://morixjp.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "久保田守彦",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 久保田 守彦",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "生体認証システムの開発・製造・販売 ICカード関連機器の開発・製造・販売 半導体製品の開発・製造・販売 上記に付随する諸般業務",
+    "url": "https://morixjp.com/about/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "生体認証システムの開発・製造・販売、ICカード関連機器の開発・製造・販売、半導体製品の開発・製造・販売、上記に付随する諸般業務",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "2021年より日本で販売を開始しております",
+    "url": "https://morixjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証IC カード「MoriX カード」を彌栄精機株式会社様（販売：株式会社イヤサカ様）の製品にご採用いただきました",
+    "url": "https://morixjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞にVISAカードの製造販売権取得が掲載されました",
+    "url": "https://morixjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証IC カード「MoriX カード」を彌栄精機株式会社様（販売：株式会社イヤサカ様）の製品にご採用いただきました",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞にVISAカードの製造販売権取得が掲載されました",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証IC カード「MoriX カード」を彌栄精機株式会社様（販売：株式会社イヤサカ様）の製品にご採用いただきました",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報 | モリックス株式会社 MORIX | 中小製造業向け生産管理システム WorkGear",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "モリックス株式会社は、1997年の設立以来、製造業向け生産管理システムの分野において、",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "長年培ってきた業務ノウハウと現場視点を活かし、製造現場の課題解決に取り組んでいます",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "現在では様々な業種の製造業のお客様にご利用いただいております",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け生産管理パッケージソフトの開発および販売",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "指紋認証システムを開発・販売する株式会社MoriX（モリックス）（本社：東京都千代田区、代表取締役：久保田 守彦、以下「MoriX」）は、株式会社村田製作所（本社：京都府長岡京市、代表取締役社長：中島 規巨）と、非接触型の指紋認証付きICカードの新技術を共同開発しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "quote": "モリックスでは、非接触型の指紋認証付きICカードの販売を進めており、東芝インフラシステムズ株式会社（本社：神奈川県川崎市、代表取締役：今野 貴之）には指紋認証USBドングル「BISCADE™ドングル」（ビスケードドングル）に採用されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "quote": "すでに昨年10月にはMastercard（本社：米国ニューヨーク州パーチェス CEO:Ajay Banga）と次世代決済カードの製造、販売のライセンス契約を結んでおり、国内での接触・非接触型の指紋認証付き決済カードの販売を開始しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：生体認証システムの開発・製造・販売、ICカード関連機器の開発・製造・販売、半導体製品の開発・製造・販売、上記に付随する諸般業務",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました",
+    "url": "https://morixjp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました",
+    "url": "https://morixjp.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報 | モリックス株式会社 MORIX | 中小製造業向け生産管理システム WorkGear",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "モリックス株式会社は、1997年の設立以来、製造業向け生産管理システムの分野において、",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "現在では様々な業種の製造業のお客様にご利用いただいております",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け生産管理パッケージソフトの開発および販売",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "このほか、ホテルやマンションなどの入退室カード、商業施設における会員証のほか、電力会社など重要施設における個人認証など多様な用途での利用を見込んでいます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存のリーダー端末から従来よりも多くの電力を得て、カード内の電子回路を動作させることができます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "quote": "本技術は、リーダー端末から電力を得る非接触カードや電子機器などに広く展開できます」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "quote": "2 決済カード→クレジットカードのほか、銀行カードなどとして活用",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都ベンチャー技術大賞で、技術奨励賞を頂きました",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都ベンチャー技術大賞で、技術奨励賞を頂きました",
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社 MoriX — 会社概要 - 株式会社 MoriX 株式会社MoriX https://morixjp.com > about",
+    "url": "https://morixjp.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 中小製造業向け生産管理システム WorkGear — 企業情報 | 中小製造業向け生産管理システム WorkGear モリックス株式会社 https://morix.co.jp > company",
+    "url": "https://morix.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社MORIX ｜法人番号 3290001106938 — 株式 会社MORIX ｜法人番号 3290001106938 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/3290001106938",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MoriX の 会社概要 ・製品情報 - Metoree — 株式会社 MoriX の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/76406/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MoriX （東京都）の会社概要・役員 | Compalyze — 株式会社 MoriX （東京都）の会社概要・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 電気・電子機器",
+    "url": "https://compalyze.co.jp/company/2010001095094",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MORIX （福岡県福岡市城南区）の企業情報 — 株式会社 MORIX （福岡県福岡市城南区）の企業情報 企業クリップ https://clip-corporation.com > ... > 企業詳細",
+    "url": "https://clip-corporation.com/company-matching/company-details/?corporate_number=3290001106938",
+    "pass": 3
+   },
+   {
+    "quote": "MoriX 社長・久保田守彦氏 半導体の進化に合わせ 調達 ・設計 — MoriX 社長・久保田守彦氏 半導体の進化に合わせ 調達 ・設計 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/720152",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MoriX : トップ — 株式会社 MoriX : トップ 株式会社MoriX https://morixjp.com",
+    "url": "https://morixjp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MoriX ｜STARTUP DB（スタートアップデータベース） — MoriX ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧",
+    "url": "https://startup-db.com/companies/M6r0Ge9UBzEGn3v5",
+    "pass": 3
+   },
+   {
+    "quote": "日刊工業新聞に旅客船への指紋認証ICカードの 導入事例 が掲載 ... — 日刊工業新聞に旅客船への指紋認証ICカードの 導入事例 が掲載 ... 株式会社MoriX https://morixjp.com > お知らせ・更新情報",
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "MoriX 、村田製作所と認証精度高める新技術を共同開発「非 ... — MoriX 、村田製作所と認証精度高める新技術を共同開発「非 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "pass": 3
+   },
+   {
+    "quote": "モリックス のDX推進 - モリックス 株式会社 MORIX — モリックス のDX推進 - モリックス 株式会社 MORIX モリックス株式会社 https://morix.co.jp > ...",
+    "url": "https://morix.co.jp/dx/",
+    "pass": 3
+   },
+   {
+    "quote": "MoriX 社長・久保田守彦氏 半導体の進化に合わせ調達・設計 — MoriX 社長・久保田守彦氏 半導体の進化に合わせ調達・設計 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/720152",
+    "pass": 3
+   },
+   {
+    "quote": "求人情報 | 中小製造業向け生産管理システム WorkGear — 求人情報 | 中小製造業向け生産管理システム WorkGear モリックス株式会社 https://morix.co.jp > recruit",
+    "url": "https://morix.co.jp/recruit/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MoriX ｜法人番号 2010001095094 — 株式会社 MoriX ｜法人番号 2010001095094 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/2010001095094",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Street Fighter 6 Play Log 2024-04-13｜ Morix - note Street Fighter 6 Play Log 2024-04-13｜ Morix - note note https://note.com > Morix > スト6プレイ記 2024-04-13",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SF6 Play Log 2024-03-24｜ Morix - note SF6 Play Log 2024-03-24｜ Morix - note note https://note.com > Morix > スト6プレイ記 2024-03-24",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "スト6プレイ記 2024-03-16｜ Morix - note スト6プレイ記 2024-03-16｜ Morix - note note https://note.com > ゲーム > 格闘ゲーム (格ゲー)",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "スト6プレイ記 2024-05-04｜ Morix - note スト6プレイ記 2024-05-04｜ Morix - note note https://note.com > Morix",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Street Fighter 6 Play Log 2024-04-13｜Morix",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Street Fighter 6 Play Log 2024-04-13",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I created a practice menu for Ken and worked through it. I'll be updating it as needed.",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are a lot of combos I need to memorize and hit confirming is also necessary, so it's tough...!",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I've gotten much better at hit confirming! I'm not sure if I can pull it off properly in a real match, though.",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, since I'm not good at playing against Ken, I thought about how to counter Tatsumaki Senpukyaku, which I've always struggled with.",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For Modern Ken, there's only the Heavy version of Tatsumaki, so it seems like Drive Impact is a guaranteed punish. I can also knock it out of the air with Shoryuken. I forgot to look up Classic Ken, so I'll check that tomorrow.",
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SF6 Play Log 2024-03-24｜Morix",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SF6 Play Log 2024-03-24",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Continuing to practice Classic Marisa and the leverless controller.",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After practicing Dimachaerus-based setplay and jump attack combos, I went to Arcade Mode on Hardest difficulty.",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually, I had never cleared Hardest all the way to the end before, but today I defeated everyone for the first time!",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Maybe it's because I decided yesterday to list my tasks and focus on tackling them one by one.",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Next, I went to the Battle Hub. I think I managed to get my win rate close to 50%.",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My command accuracy is better than yesterday, and I can feel myself improving...!!",
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "スト6プレイ記 2024-03-16｜Morix",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "まずは中タゲコンからディマカイルスに繋げられなかったこと。",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "この練習はダミーのガードをランダムにし、中タゲコンをしてガードされたらグラディウス、ヒットしてたらディマカイルスを出す練習をした。慣れてきたらディマカイルスをod版に変えてみる練習。",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "モダンだとワンボタンで必殺技が出せるのでヒット確認から技を出すまでの猶予が結構あるけどクラシックはコマンド入力が必要なので猶予があまりなく難しい。",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "あとガード時は通常グラディウス、ヒット時はodディマカイルスは押すボタンが異なるのでさらに難しかった。",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "モダンのときはodディマカイルスで対空していた。クラシックだとかなり難しい。対空待ちしてる間、竜巻コマンドを作っておけばいいのだけど、ディマカイルスの派生を出すタイミングでSA2が高確率で出てしかも外れてしまう。これを安定して派生出すのが無理だったので諦めた。",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "じゃあ弱グラディウスで対空しようと思ったのだがこれも即反応しないと難しい。",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "ということで2強Pで対空することに決めた。これはこれで難しいけどいまのところ1番安定するのがこれなので頑張るしかない！",
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "pass": 3
+   },
+   {
+    "quote": "スト6プレイ記 2024-05-04｜Morix",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   },
+   {
+    "quote": "以前からマノン興味あって昨日ちょっと触って面白そうだったので今日はマノンを本格的に触ってみることにした。キャラ変すぐしがちだけど、キャラ知識がつくので問題ないと思ってる。",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   },
+   {
+    "quote": "コマンド表見る限り苦手な昇龍拳コマンドがないので行けそうだなと思ってクラシックにすることに。",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   },
+   {
+    "quote": "マノン講座の動画やブログを読んで基本的なコンボや立ち回りを学習。",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   },
+   {
+    "quote": "コンボチュートリアルをやってひたすらコンボ練習！",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   },
+   {
+    "quote": "基本的なコンボが少なくて覚えるのが苦手な自分には良さそう。",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   },
+   {
+    "quote": "中P→ラッシュ→2中P→4強P→中ランヴェルセのコンボを使ってヒット確認の練習をした。",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   },
+   {
+    "quote": "あとはダミーにインパクト・ラッシュ攻撃・ジャンプ攻撃・波動拳を仕込んでそれぞれ対応する練習。",
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "MORIX (@morix082) / X MORIX (@morix082) / X X https://x.com > morix082",
+    "url": "https://x.com/morix082",
+    "pass": 3
+   },
+   {
+    "quote": "Morix (@morix1500) / X Morix (@morix1500) / X X https://x.com > morix1500",
+    "url": "https://x.com/morix1500",
+    "pass": 3
+   },
+   {
+    "quote": "Morix on X: \"11月からVPoEになりました！引き続きがんばり ... Morix on X: \"11月からVPoEになりました！引き続きがんばり ... X https://x.com > @morix1500",
+    "url": "https://x.com/morix1500/status/2116783165440467409",
+    "pass": 3
+   },
+   {
+    "quote": "MORIX on X: \"カマツカ\" / X MORIX on X: \"カマツカ\" / X X https://x.com > @morix082",
+    "url": "https://x.com/morix082/status/2116849325812896161",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Morix - LinkedIn Albania Morix - LinkedIn Albania LinkedIn Albania https://al.linkedin.com > morix",
+    "url": "https://al.linkedin.com/company/morix",
+    "pass": 3
+   },
+   {
+    "quote": "Morix Worldwide (East Africa) - LinkedIn Morix Worldwide (East Africa) - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/oqata-wellness-solutions-east-africa",
+    "pass": 3
+   },
+   {
+    "quote": "Morix Innovations Private Limited - LinkedIn Morix Innovations Private Limited - LinkedIn LinkedIn India https://in.linkedin.com > company",
+    "url": "https://in.linkedin.com/company/morixinnovations",
+    "pass": 3
+   },
+   {
+    "quote": "Vinod Vaviya - Founder and Director @ Morix Innovations | Law Vinod Vaviya - Founder and Director @ Morix Innovations | Law LinkedIn India https://in.linkedin.com > vinodvaviya",
+    "url": "https://in.linkedin.com/in/vinodvaviya",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Morix Minerals | Lusaka - Facebook Morix Minerals | Lusaka - Facebook Facebook https://www.facebook.com > ... > Mining Company",
+    "url": "https://www.facebook.com/MorixMinerals/",
+    "pass": 3
+   },
+   {
+    "quote": "Pizingers Morix | Prague - Facebook Pizingers Morix | Prague - Facebook Facebook https://www.facebook.com > ... > Interior Design Studio",
+    "url": "https://www.facebook.com/pizingersmorix/",
+    "pass": 3
+   },
+   {
+    "quote": "Morix (@MorixAL) - Photos | Facebook Morix (@MorixAL) - Photos | Facebook Facebook https://www.facebook.com > ... > Morix",
+    "url": "https://www.facebook.com/MorixAL/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "MORIX (@ morix .led) - Facebook MORIX (@ morix .led) - Facebook Facebook https://www.facebook.com > ... > Entrepreneur",
+    "url": "https://www.facebook.com/morix.led/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://morixjp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morixjp.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://morix.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp233585/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp233585/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morix.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/720152",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260602/20260601557981.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/2010001095094",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/720152",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/morix1500/n/n6349a3321a75",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/morix082",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morix1500",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morix1500/status/2116783165440467409",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morix082/status/2116849325812896161",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://al.linkedin.com/company/morix",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/oqata-wellness-solutions-east-africa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/morixinnovations",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/vinodvaviya",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MorixMinerals/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pizingersmorix/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MorixAL/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/morix.led/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morix082",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morix1500",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MoriX 会社概要 資本金 設立",
+   "results": [
+    "https://morixjp.com/about/",
+    "https://morix.co.jp/company/",
+    "https://job.mynavi.jp/27/pc/search/corp233585/outline.html",
+    "https://lawplayer.com/jp/company/3290001106938",
+    "https://metoree.com/companies/76406/",
+    "https://compalyze.co.jp/company/2010001095094",
+    "https://salesnow.jp/db/companies/jcb3whwcb5ggx5mh",
+    "https://www.moriroku.co.jp/company/profile.html",
+    "https://biz-maps.com/item/v91JdOWPZK",
+    "https://morixjp.com/en/about-en/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MoriX 事業内容 売上",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp233585/outline.html",
+    "https://morixjp.com/about/",
+    "https://morix.co.jp/company/",
+    "https://compalyze.co.jp/company/2010001095094",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=3290001106938",
+    "https://salesnow.jp/db/companies/jcb3whwcb5ggx5mh",
+    "https://www.nikkan.co.jp/articles/view/720152",
+    "https://biz-maps.com/item/v91JdOWPZK",
+    "https://evort.jp/presenters/morix",
+    "https://catr.jp/companies/49aa2/158140"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MoriX 資金調達 株主",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/720152",
+    "https://morixjp.com/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260602/20260601557981.pdf",
+    "https://gojo.co/gojo-raised-a-total-of-jpy-33-4-billion-usd-233-million-in-equity-series-f-and-debt-to-support-its-growth-jp",
+    "https://startup-db.com/companies/M6r0Ge9UBzEGn3v5",
+    "https://provigate.com/news/a-total-of-jpy-910-million-in-funding-was-raised-from-sparx-group-anri-and-coral-capital-this-brings-the-total-amount-of-equity-funding-raised-since-the-companys-inception-to-jpy-1-75-billion/",
+    "https://www.nikkei.com/article/DGXZQOUC125M20S6A810C2000000/",
+    "https://compalyze.co.jp/company/2010001095094",
+    "https://info-box.jp/corp/news/press/series_a/",
+    "https://catr.jp/companies/49aa2/158140"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "MoriX 導入事例",
+   "results": [
+    "https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/",
+    "https://morixjp.com/",
+    "https://prtimes.jp/main/html/rd/p/000000006.000039944.html",
+    "https://compalyze.co.jp/company/2010001095094",
+    "https://morix.co.jp/dx/",
+    "https://digi-mado.jp/products/fdbfc698-890b-49f4-969f-11a6c0b1da9e/cases/",
+    "https://www.youtube.com/watch?v=LsvWj17k7Cs",
+    "https://www.nikkan.co.jp/articles/view/720152",
+    "https://www.runexy-dlp.com/category/casestudy/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "MoriX 主要取引先",
+   "results": [
+    "https://morixjp.com/",
+    "https://compalyze.co.jp/company/2010001095094",
+    "https://www.nikkan.co.jp/articles/view/720152",
+    "https://morix.co.jp/recruit/",
+    "https://lawplayer.com/jp/company/2010001095094",
+    "https://biz-maps.com/item/v91JdOWPZK",
+    "https://metoree.com/companies/76406/",
+    "https://www.youtube.com/watch?v=LsvWj17k7Cs",
+    "http://www.morix-pd.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com MoriX",
+   "results": [
+    "https://note.com/morix1500/n/n55b6078b3413?hl=en",
+    "https://note.com/morix1500/n/nece8df031efd?hl=en",
+    "https://note.com/morix1500/n/n6349a3321a75",
+    "https://note.com/morix1500/n/n0dd5be01ba4a",
+    "https://note.com/morix1500/n/n08c84f05fe99",
+    "https://note.com/morix1500/n/n9b74ae551c77",
+    "https://note.com/morix1500/n/nfa6deae3bd88",
+    "https://note.com/morix1500/n/n430aa3374c16",
+    "https://note.com/morix1500/n/nc41079f21df6",
+    "https://note.com/morix1500/n/n1f3670fea133?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com MoriX",
+   "results": [
+    "https://x.com/morix082",
+    "https://x.com/morix1500",
+    "https://x.com/morix1500/status/2116783165440467409",
+    "https://x.com/morix082/status/2116849325812896161",
+    "https://x.com/morix082/status/2105631629784035683/photo/1",
+    "https://x.com/MoriXjp",
+    "https://x.com/morix082/status/2113942158147489986?lang=bg",
+    "https://x.com/morix082/status/2116473910309114210/photo/1",
+    "https://x.com/superpaperslap/status/2118523545223590070",
+    "https://x.com/morix082/status/2108528850695258531/photo/1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com MoriX",
+   "results": [
+    "https://al.linkedin.com/company/morix",
+    "https://www.linkedin.com/company/oqata-wellness-solutions-east-africa",
+    "https://in.linkedin.com/company/morixinnovations",
+    "https://in.linkedin.com/in/vinodvaviya",
+    "https://de.linkedin.com/in/mentor-shevroja-4b104739",
+    "https://jp.linkedin.com/company/morix",
+    "https://al.linkedin.com/in/afrimkamberi",
+    "https://gh.linkedin.com/in/morix-clever-4b5388258",
+    "https://pg.linkedin.com/in/morix-mailam-5a20143b0",
+    "https://www.linkedin.com/posts/morixminerals_company-overview-morix-minerals-is-a-licensed-activity-7358238148188897280-NVDE"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com MoriX",
+   "results": [
+    "https://www.facebook.com/MorixMinerals/",
+    "https://www.facebook.com/pizingersmorix/",
+    "https://www.facebook.com/MorixAL/photos/",
+    "https://www.facebook.com/morix.led/",
+    "https://www.facebook.com/HjcHelmetsPhilippines/posts/redefine-your-ride-with-the-hjc-c71-morix-engineered-for-the-urban-jungle-these-/1186993443637084/",
+    "https://www.facebook.com/p/Morix-Morix-61581833025810/",
+    "https://www.facebook.com/p/Qya-Morix-61594211708658/",
+    "https://www.facebook.com/ashiraf.magash/posts/morix-world-wide-new-opportunity-has-brought-an-amazing-news-wawwwww-i-cant-beli/2936661293335782/",
+    "https://www.facebook.com/MorixAL/",
+    "https://www.facebook.com/p/MoRix-61585629775517/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MoriX note 社長",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/720152",
+    "https://morixjp.com/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki",
+    "https://note.com/marimo_group",
+    "https://morix.co.jp/dx/",
+    "https://note.com/aomorio",
+    "https://note.mori.co.jp/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://morixjp.com/about/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MoriX X 投稿",
+   "results": [
+    "https://x.com/morix082",
+    "https://morixjp.com/privacy/",
+    "https://www.youtube.com/post/UgkxMwBxnFOzWz_ElasKHw86NEIVLlcgYZJ5",
+    "https://x.com/morix1500",
+    "https://www.morix.com/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001X5ztq",
+    "https://jobtalk.jp/companies/4172865",
+    "https://www.nikkan.co.jp/articles/view/720152",
+    "https://prtimes.jp/main/html/rd/p/000000003.000039944.html",
+    "https://x.com/MORIX"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）"
+ }
+}

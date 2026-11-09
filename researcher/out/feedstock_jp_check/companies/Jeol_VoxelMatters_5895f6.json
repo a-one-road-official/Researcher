@@ -1,0 +1,525 @@
+{
+ "name": "Jeol — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T14:07:32.110548+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "3-1-2 Musashino, Akishima, Tokyo, Japan",
+    "url": "https://www.voxelmatters.directory/company/jeol/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/jeol/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Jeol — VoxelMatters - The largest database of additive ... — Jeol — VoxelMatters - The largest database of additive ... voxelmatters.directory https://www.voxelmatters.directory > ...",
+    "url": "https://www.voxelmatters.directory/company/jeol/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "JEOL's Dr. Bähr on Quality Control in Metal AM | VoxelMatters ... Preparing for our September 10th session with JEOL (Germany) GMBH, we learned that backscattered electron imaging in metal AM can see sub-beam-size contamination, flaws smaller than the beam ...",
+    "url": "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7497646988125974528-ig3T",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookJEOL USA - FacebookFacebookJEOL USA - JEOL Annual Image Contest Winners We’re ...JEOL USA - Filament change is as easy as 1-2-3 while ...JEOL Europe - FacebookVoxelMatters spent two months... - Prusa Research 3D printers ... VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter Oct 15, 2026 · JEOL USA. 2,594 followers · 36 talk",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "JEOL USA - FacebookFacebookJEOL USA - JEOL Annual Image Contest Winners We’re ...JEOL USA - Filament change is as easy as 1-2-3 while ...JEOL Europe - FacebookVoxelMatters spent two months... - Prusa Research 3D printers ... Oct 15, 2026 · JEOL USA. 2,594 followers · 36 talking about this · 1 was here. JEOL is the world leader in Electron Microscopy (SEM, TEM, EPMA), E-Beam Lithography, and in inn",
+    "url": "https://www.facebook.com/jeolusa/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/marketing/webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/products/industrial/am/JAM-5200EBM.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/products/technology_cases/story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jeol.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeoluk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/JEOL_Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y7sFC0X7Txo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/supplies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/jeol-finally-releases-new-jam-5200ebm-electron-beam-pbf-system-for-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/products/industrial/am/JAM-5200EBM.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/events_seminars/events/20230328.10022.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00017541/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/JEOL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/ir/financial_report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.com/ir/financial_results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/jeol-ltd/20676685",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7497646988125974528-ig3T",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jeolusa/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Jeol — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company/jeol/",
+    "https://www.voxelmatters.com/category/marketing/webinar/",
+    "https://www.jeol.com/products/industrial/am/JAM-5200EBM.php",
+    "https://www.jeol.com/products/technology_cases/story/",
+    "https://www.jeolusa.com/CONTACT-US/Find-a-Local-Sales-Rep/Additive-Manufacturing",
+    "https://www.jeoladditive.com/",
+    "https://www.jeol.com/products/science/3d.php",
+    "https://www.jeol.com/",
+    "https://www.jeol.co.jp/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Jeol — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.jeol.co.jp/corporate/",
+    "https://www.jeoluk.com/",
+    "https://www.jeol.com/download_catalogues.php",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://www.toyo.co.jp/material/maker/detail/matesy.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jeol — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "https://x.com/JEOL_Japan",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.atpress.ne.jp/news/company/40684",
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://www.youtube.com/watch?v=3tTh80fOumA",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.yaso.jp/items/19609402",
+    "https://www.jeol.co.jp/products/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Jeol — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://www.youtube.com/watch?v=Y7sFC0X7Txo",
+    "https://www.jeol.co.jp/products/supplies/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.solidyard.jp/",
+    "https://shop.exmatelab.com/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jeol — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/jeol-finally-releases-new-jam-5200ebm-electron-beam-pbf-system-for-production/",
+    "https://www.jeol.com/products/industrial/am/JAM-5200EBM.php",
+    "https://www.voxelmatters.directory/company/jeol/",
+    "https://www.jeol.com/",
+    "https://www.jeolusa.com/",
+    "https://www.additivemanufacturing.media/articles/jeol-brings-electron-beam-melting-and-a-taste-of-japan",
+    "https://www.jeol.com/products/technology_cases/story/07.php",
+    "https://www.jeoladditive.com/",
+    "https://directory.imts.com/8_0/exhibitor/00089713/JEOL-USA-INC",
+    "https://www.jeol.co.jp/corporate/outline/overseas_relative/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Jeol — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.jeol.com/",
+    "https://www.voxelmatters.directory/company/jeol/",
+    "https://www.jeol.com/events_seminars/events/20230328.10022.php",
+    "https://www.additivemanufacturing.media/articles/jeol-brings-electron-beam-melting-and-a-taste-of-japan",
+    "https://www.jeol.com/products/technology_cases/story/",
+    "https://www.voxelmatters.com/jeol-finally-releases-new-jam-5200ebm-electron-beam-pbf-system-for-production/",
+    "https://www.jeoladditive.com/",
+    "https://www.jeol.com/products/technology_cases/interviews/10.php"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:amazon.co.jp Jeol — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://shigoto.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWFJ261071-デタッチャブルフリルカラーツイードジャケットSWFJ261071レディース/dp/B0GC9M4NY7",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Jeol — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/00017541/",
+    "https://www.monotaro.com/g/02787800/",
+    "https://www.monotaro.com/k/store/チェーンブロック/",
+    "https://www.monotaro.com/g/02888691/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jeol — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://en.wikipedia.org/wiki/JEOL",
+    "https://www.jeol.com/ir/financial_report/",
+    "https://www.jeol.com/ir/financial_results/",
+    "https://www.zoominfo.com/c/jeol-ltd/20676685",
+    "https://www.zoominfo.com/c/jeol-ltd/1125100135",
+    "https://www.thecompanycheck.com/company/b/jeol/duxg9ja2lkfr35xcl",
+    "https://stockanalysis.com/quote/tyo/6951/revenue/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Jeol — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Jeol — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/jeolusa",
+    "https://x.com/JEOLEUROPE",
+    "https://x.com/CMAA_HQ/status/2079982367515533735",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/chillestwoman/status/2116669325868400644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Jeol — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7497646988125974528-ig3T",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7485600435391668224-E4Yo",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-electronbeammelting-activity-7503729507091083264-Jtl0",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-electronbeammelting-activity-7501183613548392448-RDOX"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Jeol — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/jeolusa/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/jeolusa/posts/jeol-annual-image-contest-winners-were-excited-to-announce-the-winners-of-the-je/1632441468403519/",
+    "https://www.facebook.com/jeolusa/posts/filament-change-is-as-easy-as-1-2-3-while-seated-at-the-jeol-neoscope-tabletop-s/10158113377220812/",
+    "https://www.facebook.com/JEOLEUROPE/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jeol — VoxelMatters note 社長",
+   "results": [
+    "https://www.jeolusa.com/ABOUT-US/Management-Team",
+    "https://www.jeol.com/corporate/outline/message.php",
+    "https://www.accretech.com/en/news/executive_interview20250207.html",
+    "https://www.jeol.co.jp/corporate/outline/message.html",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.jeol.co.jp/ir/conversation/",
+    "https://open-keieisha-db.com/executives/ooi-izumi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jeol — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/the-intersection-of-real-time-quality-control-and-ai-assisted-bse-imaging-join-jeol-in-our-upcoming-webinar/",
+    "https://linktr.ee/jeolmangx",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7485600435391668224-E4Yo",
+    "https://x.com/jeolmoz2/status/2119453930874687515"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

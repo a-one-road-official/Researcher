@@ -1,0 +1,1237 @@
+{
+ "name": "Xenoma",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T13:53:05.722322+00:00",
+ "official_url": "https://xenoma.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2015年11月",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015年11月",
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：平成２７年１１月２日",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2015/11",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：2015年11月",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "東京都大田区大森南4-6-15",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都大田区",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都大田区大森南4-6-15",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都大田区大森南4-6-15",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円（2021年10月時点）",
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "2億9,265万円（資本準備金を含む）",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "スマートアパレルe-skinを用いたヘルスケアサービスの提供",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "次世代スマートアパレル「e-skin」の開発・製造・販売及び関連サービスの提供",
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "スマートアパレルの開発・製造・販売",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "次世代スマートアパレル「e-skin」の開発",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "網盛 一郎",
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "網盛 一郎",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "網盛　一郎",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "46名（正社員：43名　パート：3名　2021/1/4現在）",
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり, 公的機関資金支援あり",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "医療機器製造業（登録番号13BZ201261）",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "第二種医療機器製造販売業（許可番号13B2X10384）",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "富士フイルム（株）にて新規事業開発に従事、網盛が責任者を務めたプロジェクトに中心メンバーとして携わり、製造化技術開発および商品化に貢献",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "各種e-skinの試作から製造技術開発、量産体制整備を先導し、品質の安定や継続的な改良、安定的な供給体制の確立、更なる新技術の開発に尽力している",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大学3年次に公認会計士論文式試験合格、あらた監査法人（現・PwCあらた有限責任監査法人）に入社し製造・流通・小売・サービス業のクライアントに対する監査業務を担当",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "臨床医が紹介する日本のスタートアップ技術・いつもの生活が予防医療になる、Xenoma：[LSMIP]",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代スマートアパレル「e-skin」の開発・製造・販売及び関連サービスの提供",
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "pass": 3
+   },
+   {
+    "quote": "の引き受けを東京大学協創プラットフォーム開発株式会社（本社：東京都文京区、代表取締役社長 大泉 克彦）が運営する協創プラットフォーム開発１号投資事業有限責任組合およびＢｅｙｏｎｄ Ｎｅｘｔ Ｖｅｎｔｕｒｅｓ株式会社（本社：東京都中央区、代表取締役社長 伊藤 毅）が運営するＢｅｙｏｎｄ Ｎｅｘｔ Ｖｅｎｔｕｒｅｓ １号投資事業有限責任組合（以下「ＢＮＶ」という）と共同で実施しました",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ｘｅｎｏｍａが開発した人の動きをモニタリング・認識するｅ－ｓｋｉｎ Ｄｅｖｅｌｏｐｅｒ’ｓ Ｋｉｔは、平成２９年１月に「ＣＥＳ２０１７ Ｉｎｎｏｖａｔｉｏｎ Ａｗａｒｄｓ」を受賞し、同年２月より法人向けに販売を開始しました",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ｘｅｎｏｍａは、今回の資金調達を通じて、プロトタイピングから量産までの一貫した開発力を生かし、様々なセンサーを搭載したカスタマイズｅ－ｓｋｉｎの法人向け受託開発に対応するための体制を強化します",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊島とXenomaが協業開発した日本発のEMSスーツ“e-skin EMStyle” GROUP CYCLEから『EMS FIT DUNAMIS』として、9月1日（火）より全国に向けて販売・リース開始",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma（ゼノマ)株式会社の決算/売上/経常利益を調べ、世間の評判を徹底調査 - 起業LOG",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma（ゼノマ)株式会社の決算/売上/経常利益を調べ、世間の評判を徹底調査",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "「e-skin」は2017年2月に法人向けに販売開始",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "セ・リーグに所属する球団運営会社とその親会社の決算をまとめてみました！",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益は創業以来で過去最高！「エードット」の第2四半期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "『バンドリ！』と新日本プロレスが牽引！過去最高の売上・利益を達成した「ブシロード」の第2四半期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "売上高1.5倍！今期最大8億7,000万円の最終赤字に転落見込みとなった「ラクスル」の第2四半期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューリック(株)の100％出資により2011年4月に設立された企業でホテルの” 経営 ・運営 ”を行う「ヒューリックホテルマネジメント」の第9期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "”ムヒ” でおなじみの虫さされ、虫よけ、かゆみ止めなどの薬を製造、販売する「池田模範堂」の第72期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "4月の挨拶で使う季語と時候とは？例文をシーン別で紹介",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "恵比寿駅西口から徒歩2分、Xenomaさん運営のジム「",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "その後（株）ネクストイノベーションにて中小企業向けハンズオン支援に携わり、経理、労務、法務などの実務を経験",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大田区中小企業 新製品・新技術コンクール・最優秀賞 ホルター心電図検査e-skin ECG | 公益財団法人大田区産業振興協会",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｘｅｎｏｍａが開発した人の動きをモニタリング・認識するｅ－ｓｋｉｎ Ｄｅｖｅｌｏｐｅｒ’ｓ Ｋｉｔは、平成２９年１月に「ＣＥＳ２０１７ Ｉｎｎｏｖａｔｉｏｎ Ａｗａｒｄｓ」を受賞し、同年２月より法人向けに販売を開始しました",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、同年９月には個人向けに米クラウドファンディングＫｉｃｋｓｔａｒｔｅｒキャンペーンにて、目標額＄５０，０００を超える支援を受けました",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ｘｅｎｏｍａは、今回の資金調達を通じて、プロトタイピングから量産までの一貫した開発力を生かし、様々なセンサーを搭載したカスタマイズｅ－ｓｋｉｎの法人向け受託開発に対応するための体制を強化します",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "「e-skin」は2017年2月に法人向けに販売開始",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "2019年にBtoB向けの計測器製品の発売、2020年に一般消費者向けの発売を目指しています",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "BtoB/SaaSベンチャー投資家 湊 雅之",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "自宅でできる医療検査の普及を牽引し、循環器をはじめとする疾病予防に貢献するとともに、将来はデータ解析技術を活かし、予兆を捉えることで発症を未然に防ぐ究極の予防医療を実現することを目指します",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業（登録番号13BZ201261）",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "第二種医療機器製造販売業（許可番号13B2X10384）",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "高度管理医療機器等貸与業（保生薬第2296号）",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大学3年次に公認会計士論文式試験合格、あらた監査法人（現・PwCあらた有限責任監査法人）に入社し製造・流通・小売・サービス業のクライアントに対する監査業務を担当",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学病院と共同で有用性の検証をおこない、Xenomaにて開発した着衣型の心電図計測システムによって、医療従事者を介せず受検者自身で着脱できるようになりました",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスは、医療機関様への機器の導入は不要で、お申込を受けるとXenomaから患者様のご自宅に検査キットを送付します",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "患者様による計測・返却後、Xenomaは心電データを解析し、医療機関にレポートを提出します",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "医療従事者が装着を行うために従来必要とされていた計測開始時・終了時の来院が不要になります",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "装着や取り外しに医療従事者の関与が不要になります",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "音響センサとの共創で予防医療に挑戦する | 株式会社村田製作所",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "ホルター心電図の郵送検査 e-skin ECG、慶應義塾大学病院 予防医療センターに導入 | PR TIMES",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "特集 スマートホスピタルってなに？岐阜大学病院の取り組み「着衣型ホルター心電計で患者さんの来院負担を軽減する」 | 岐阜大学医学部附属病院 広報誌「うぶね」",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "臨床医が紹介する日本のスタートアップ技術・いつもの生活が予防医療になる、Xenoma：[LSMIP]",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "患者自ら装着可能な着衣型心電計測システムによる長時間心電検査を実用化－医療機器の保険適用開始－：[慶應義塾]",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "この先のコンテンツは、医療従事者（医師、看護師、医療機関にお勤めの方）を対象に提供することを目的としております",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "ホルター心電図検査サービス e-skin ECG 導入事例 | 株式会社Xenoma",
+    "url": "https://xenoma.com/medical/eskin-ecg/case-report.php",
+    "pass": 1
+   },
+   {
+    "quote": "慶應義塾大学病院におけるe-skin ECG活用事例：ホルター心電図検査の利用機会拡大",
+    "url": "https://xenoma.com/medical/eskin-ecg/case-report.php",
+    "pass": 1
+   },
+   {
+    "quote": "この先のコンテンツは、医療従事者（医師、看護師、医療機関にお勤めの方）を対象に提供することを目的としております",
+    "url": "https://xenoma.com/medical/eskin-ecg/case-report.php",
+    "pass": 1
+   },
+   {
+    "quote": "臨床検査技師のコメント付きの解析レポートがXenomaから医療機関に送られます",
+    "url": "https://xenoma.com/medical/eskin-ecg/service.php",
+    "pass": 1
+   },
+   {
+    "quote": "この先のコンテンツは、医療従事者（医師、看護師、医療機関にお勤めの方）を対象に提供することを目的としております",
+    "url": "https://xenoma.com/medical/eskin-ecg/service.php",
+    "pass": 1
+   },
+   {
+    "quote": "医療関係の皆さまへ | 株式会社Xenoma",
+    "url": "https://xenoma.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "e-skin ECGは、これまでのように何度も病院に行く必要なしに、患者様がご自宅にてご自身で検査ができるホルター心電図検査サービスです",
+    "url": "https://xenoma.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "病院はホルター心電計を購入する必要がなく、お申込みいただくだけで患者様が自ら検査を行い、検査結果レポートを受け取ることができます",
+    "url": "https://xenoma.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "この先のコンテンツは、医療従事者（医師、看護師、医療機関にお勤めの方）を対象に提供することを目的としております",
+    "url": "https://xenoma.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "このＰＣＦを活用したｅ－ｓｋｉｎによって、いつでもどこでも着るだけで人の情報をモニタリングすることができるようになり、将来的には人の生体情報ビッグデータから予防医療や安心・安全な社会の実現に貢献することを目指しています",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホルター心電図の郵送検査 e-skin ECG、慶應義塾大学病院 予防医療センターに導入",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "quote": "また、2018年5月に繊維商社の豊島株式会社を引受先として第三者割当増資を実施",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル・旅館特化型J-REITである星野リゾート・リート投資法人の資産運用を行う星野リゾート・アセットマネジメント」の第10期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "AIGグループ保険会社の委託を受け債券運用を行っている会社「AIGアセットマネジメント」の第10期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "アサヒビールが北海道・余市町に農地を取得し、設立した農業生産法人「サントネージュ・ニッカ余市ヴィンヤード」の第3期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューリック(株)の100％出資により2011年4月に設立された企業でホテルの” 経営 ・運営 ”を行う「ヒューリックホテルマネジメント」の第9期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "同社が開発する心電計（医療機器として保険収載）を活用した協業",
+    "url": "https://www.onodigitalhealth.com/ja/portfolio/xenoma",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "Xenoma創業時よりCFOとして参画し半年後にフルコミットに移行、資金調達のほかコーポレート業務全般を所管する",
+    "url": "https://xenoma.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "機構報 第1279号：出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）における株式会社Ｘｅｎｏｍａへの出資決定について",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）における",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＳＴ（理事長 濵口 道成）は、出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）において、スマートアパレルｅ－ｓｋｉｎを展開する株式会社Ｘｅｎｏｍａ（本社：東京都大田区、代表取締役ＣＥＯ 網盛 一郎、以下「Ｘｅｎｏｍａ」という）からの",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成２８年４月にはＳＵＣＣＥＳＳにて、ＢＮＶと共同でＳＵＣＣＥＳＳにおいて第三者割当増資の引き受けを実施し、支援を開始しています",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "平成２６年４月より、ＪＳＴでは「出資型新事業創出支援プログラム」（略称：ＳＵＣＣＥＳＳ",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "本事業は、ＪＳＴの研究開発成果の実用化を目指すベンチャー企業に対しＪＳＴが出資並びに人的および技術的援助を行うことでその創出および成長を促進し、当該ベンチャー企業が行う事業活動を通じてＪＳＴの研究開発成果の実用化・社会還元を促進することを目的とした事業です",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "出資を通じてＪＳＴがベンチャー企業の株主になることで、民間の資金を誘引する「呼び水効果」を狙っています",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ｘｅｎｏｍａは、今回の資金調達を通じて、プロトタイピングから量産までの一貫した開発力を生かし、様々なセンサーを搭載したカスタマイズｅ－ｓｋｉｎの法人向け受託開発に対応するための体制を強化します",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社の資金調達の方法の１つで、会社の自己資本を充実させ、財務内容を強化することができる",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "：出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）の事業概要",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma、資金調達を実施（調達額は非公開）",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma、第三者割当増資を実施 総額2億円を調達",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "quote": "スマートアパレル「e-skin」展開のXenoma、小野薬品工業<4528>とEPSホールディングス<4282>から資金調達を実施",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "quote": "この資金調達を受けて生産技術や量産体制の確立を目指します",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "また、2018年5月に繊維商社の豊島株式会社を引受先として第三者割当増資を実施",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "祝上場！CPAエージェンシー業界成長率No.1「株式会社Macbee Planet」の第4期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューリック(株)の100％出資により2011年4月に設立された企業でホテルの” 経営 ・運営 ”を行う「ヒューリックホテルマネジメント」の第9期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "上場廃止危機は回避できるか？アサイーブーム終焉で債務超過に陥った「フルッタフルッタ」の第3四半期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "決算、M&A、出資情報の最新記事",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "マザーズ上場へ！電子マネー決済やQRコード決済等、消費者ニーズに合わせた決済手段を提供「GMOフィナンシャルゲート」の第21期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "マザーズ上場へ!「ヒト.モノ.コト」の正しさを認証、セキュリティシステムで証明、サービスの信頼性を支える「サイバートラスト株式会社」の第19期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "LINEがグループで300億円出資を決定！巣ごもり消費で需要拡大が期待される「出前館」の第2四半期決算",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "決算、M&A、出資情報の記事一覧を見る",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "注目の決算、M&A、出資情報",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "IPO支援専門家のEY藤原選パートナーに聞く、 IPOの最新トレンドと、上場成功のポイントとは【中編】",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業株式会社及びEPSホールディングス株式会社から資金調達を実施",
+    "url": "https://www.onodigitalhealth.com/ja/portfolio/xenoma",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "株式会社Xenoma、株式会社村田製作所が主催する「KUMIHIMO Tech Camp with Murata」にて最優秀賞を受賞 | 株式会社村田製作所",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都ベンチャー技術大賞・令和5年度 受賞企業 | 東京都",
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｘｅｎｏｍａが開発した人の動きをモニタリング・認識するｅ－ｓｋｉｎ Ｄｅｖｅｌｏｐｅｒ’ｓ Ｋｉｔは、平成２９年１月に「ＣＥＳ２０１７ Ｉｎｎｏｖａｔｉｏｎ Ａｗａｒｄｓ」を受賞し、同年２月より法人向けに販売を開始しました",
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "e-skin ECG ホルター心電図検査、東京都ベンチャー技術大賞にて奨励賞を受賞",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社村田製作所が主催する「KUMIHIMO Tech Camp with Murata」にて最優秀賞を受賞",
+    "url": "https://www.onodigitalhealth.com/ja/portfolio/xenoma",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社 情報 | 株式 会社Xenoma — 会社 情報 | 株式 会社Xenoma 株式会社Xenoma https://xenoma.com > company",
+    "url": "https://xenoma.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Xenoma - ミドルの転職 — 株式 会社Xenoma - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Xenoma の求人・企業情報 - Daijob.com — 株式 会社Xenoma の求人・企業情報 - Daijob.com Daijob.com https://www.daijob.com > jobs > company",
+    "url": "https://www.daijob.com/jobs/company/9602",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社Xenoma への出資を決定 | NEWS | 東大IPC−東京大学 ... — 株式 会社Xenoma への出資を決定 | NEWS | 東大IPC−東京大学 ... utokyo-ipc.co.jp https://www.utokyo-ipc.co.jp > News",
+    "url": "https://www.utokyo-ipc.co.jp/ja/news/2017/09/xenoma/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 株式会社 Xenoma — 会社情報 | 株式会社 Xenoma 株式会社Xenoma https://xenoma.com > company",
+    "url": "https://xenoma.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Xenoma - スピーダ スタートアップ情報リサーチ — 株式会社 Xenoma - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-17126",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma （ゼノマ)株式会社の決算/ 売上 /経常利益を調べ — Xenoma （ゼノマ)株式会社の決算/ 売上 /経常利益を調べ 起業LOG https://kigyolog.com > 決算公告",
+    "url": "https://kigyolog.com/company.php?id=63",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Xenoma の企業情報 - バフェット・コード — 株式会社 Xenoma の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/2rwnd0x7i2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Xenoma （ぜのま） - 大田区研究開発型企業ガイド — 株式会社 Xenoma （ぜのま） - 大田区研究開発型企業ガイド 大田区研究開発型企業ガイド https://www.mirai-ota.net > company > detail",
+    "url": "https://www.mirai-ota.net/company/detail/215",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma 、小野薬品工業株式会社及びEPSホールディングス ... — Xenoma 、小野薬品工業株式会社及びEPSホールディングス ... 株式会社Xenoma https://xenoma.com > news > article",
+    "url": "https://xenoma.com/news/article/200911/",
+    "pass": 3
+   },
+   {
+    "quote": "東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 — 東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 日刊工業新聞 https://www.nikkan.co.jp > releases > view",
+    "url": "https://www.nikkan.co.jp/releases/view/1928",
+    "pass": 3
+   },
+   {
+    "quote": "東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 — 東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000026802.html",
+    "pass": 3
+   },
+   {
+    "quote": "【無料閲覧可】株式会社 Xenoma / e-skinの 資金調達 推移 ... — 【無料閲覧可】株式会社 Xenoma / e-skinの 資金調達 推移 ... FIRST CVC https://www.firstcvc.jp > company > xenoma",
+    "url": "https://www.firstcvc.jp/company/xenoma.com",
+    "pass": 3
+   },
+   {
+    "quote": "e-skin MEVA 導入事例 | ビジネスのお客さまへ - Xenoma — e-skin MEVA 導入事例 | ビジネスのお客さまへ - Xenoma 株式会社Xenoma https://xenoma.com > business > eskin-meva > case-studies",
+    "url": "https://xenoma.com/business/eskin-meva/case-studies.php",
+    "pass": 3
+   },
+   {
+    "quote": "ホルター心電図検査サービス e-skin ECG 導入事例 - Xenoma — ホルター心電図検査サービス e-skin ECG 導入事例 - Xenoma 株式会社Xenoma https://xenoma.com > eskin-ecg > case-report-002",
+    "url": "https://xenoma.com/medical/eskin-ecg/case-report-002.php",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma Inc. - Facebook — Xenoma Inc. - Facebook Facebook https://www.facebook.com > xenoma",
+    "url": "https://www.facebook.com/xenoma.inc/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Xenoma | Xenoma は着心地が良く洗濯も可能な ... — 株式会社 Xenoma | Xenoma は着心地が良く洗濯も可能な ... 株式会社Xenoma https://xenoma.com",
+    "url": "https://xenoma.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma | ONO CVC - 小野デジタルヘルス投資合同会社 — Xenoma | ONO CVC - 小野デジタルヘルス投資合同会社 小野デジタルヘルス投資合同会社 https://www.onodigitalhealth.com > portfolio > xenoma",
+    "url": "https://www.onodigitalhealth.com/ja/portfolio/xenoma",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma Inc. - LinkedIn — Xenoma Inc. - LinkedIn LinkedIn https://jp.linkedin.com > company > xenoma",
+    "url": "https://jp.linkedin.com/company/xenoma",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Xenoma - テクノFRONT森ヶ崎 — 株式会社 Xenoma - テクノFRONT森ヶ崎 株式会社リオ・ホールディングス https://www.rio-corp.co.jp > techno_front > tenant",
+    "url": "https://www.rio-corp.co.jp/techno_front/tenant/128/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Xenoma e-skin EMStyle 体験レポート｜aisan_akiba - note Xenoma e-skin EMStyle 体験レポート｜aisan_akiba - note note https://note.com > スポーツ > フィットネス・トレーニング",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Xenoma e-skin EMStyle 体験レポート｜aisan_akiba",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma e-skin EMStyle 体験レポート",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   },
+   {
+    "quote": "先日、Xenomaさんの「e-skin EMStyle」を体験しに、恵比寿にあるジム「EMStyle On」にお邪魔させて頂きました。",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   },
+   {
+    "quote": "着て5分エクササイズをするだけで汗がドバドバ！『",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   },
+   {
+    "quote": "「e-skin」とはXenomaさんが開発した",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   },
+   {
+    "quote": "服に組み込まれたセンサーによって身体の動きやバイタルデータを「",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   },
+   {
+    "quote": "モーションキャプチャーを「服を着るだけ」でどこでも手軽に計測",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   },
+   {
+    "quote": "そんな革命的なアイテムでありながら、普通の服と変わらない着心地で、",
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Xenoma Inc. (@Xenoma_Inc) / X Xenoma Inc. (@Xenoma_Inc) / X X https://x.com > Xenoma_Inc",
+    "url": "https://x.com/Xenoma_Inc",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma Inc. on X: \"#九工大 柴田先生がいつものごとく超 ... Xenoma Inc. on X: \"#九工大 柴田先生がいつものごとく超 ... X https://x.com > @Xenoma_Inc",
+    "url": "https://x.com/Xenoma_Inc/status/2054480014012555561",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma on X: \"Pneuma\" / X Xenoma on X: \"Pneuma\" / X X https://x.com > @XenoMods",
+    "url": "https://x.com/XenoMods/status/1457127777283584003/photo/1",
+    "pass": 3
+   },
+   {
+    "quote": "愛三電機 【商品紹介(公式)】 on X: \" Xenoma の慣性センサー ... 愛三電機 【商品紹介(公式)】 on X: \" Xenoma の慣性センサー ... X https://x.com > @AISAN_info",
+    "url": "https://x.com/AISAN_info/status/2109909503856841079",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma on X : \"Pneuma\" / X Xenoma on X : \"Pneuma\" / X X https://x.com > @XenoMods",
+    "url": "https://x.com/XenoMods/status/1457127777283584003/photo/1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Xenoma Inc. - LinkedIn Xenoma Inc. - LinkedIn LinkedIn https://tw.linkedin.com > company > xenoma",
+    "url": "https://tw.linkedin.com/company/xenoma",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma Inc. - LinkedIn Xenoma Inc. - LinkedIn LinkedIn https://jp.linkedin.com > company > xenoma",
+    "url": "https://jp.linkedin.com/company/xenoma",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma Inc. | LinkedIn Xenoma Inc. | LinkedIn LinkedIn Norge https://no.linkedin.com > company > xenoma",
+    "url": "https://no.linkedin.com/company/xenoma",
+    "pass": 3
+   },
+   {
+    "quote": "Ichiro Amimori - Xenoma Inc. - CEO - LinkedIn Ichiro Amimori - Xenoma Inc. - CEO - LinkedIn LinkedIn https://jp.linkedin.com > ichiro-amimori",
+    "url": "https://jp.linkedin.com/in/ichiro-amimori",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Xenoma Inc. - Facebook Xenoma Inc. - Facebook Facebook https://www.facebook.com > xenoma",
+    "url": "https://www.facebook.com/xenoma.inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma の「e-skin ECG」がWBSで紹介されました ... Xenoma の「e-skin ECG」がWBSで紹介されました ... Facebook https://www.facebook.com > xenoma.inc > posts",
+    "url": "https://www.facebook.com/xenoma.inc/posts/-xenoma%E3%81%AEe-skin-ecg%E3%81%8Cwbs%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%83%9B%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%92%E5%A2%97%E3%82%84%E3%81%97%E3%81%9F%E3%81%84%E3%81%8C%E8%A3%85%E7%9D%80%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%81%9D%E3%82%93%E3%81%AA%E5%8C%BB%E7%99%82%E7%8F%BE%E5%A0%B4%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BExe/1475793027668646/",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma Inc. - Facebook Xenoma Inc. - Facebook Facebook https://www.facebook.com > xenoma.inc > posts > 株式会...",
+    "url": "https://www.facebook.com/xenoma.inc/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BExenoma%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9D%91%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bkumihimo-tech-camp-with-murata%E3%81%AB%E3%81%A6%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E8%A1%A8%E5%BD%B0%E5%BC%8F%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E-%E5%BF%83/968907815023839/",
+    "pass": 3
+   },
+   {
+    "quote": "Xenoma Inc. - Facebook Xenoma Inc. - Facebook Facebook https://www.facebook.com > xenoma",
+    "url": "https://www.facebook.com/xenoma.inc/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://xenoma.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xenoma.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xenoma.com/medical/eskin-ecg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xenoma.com/medical/eskin-ecg/case-report.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xenoma.com/medical/eskin-ecg/service.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xenoma.com/medical/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mid-tenshoku.com/agency/a-4601/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-17126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kigyolog.com/company.php?id=63",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-17126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/releases/view/1928",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://initial.inc/companies/A-17126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onodigitalhealth.com/ja/portfolio/xenoma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/xenoma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Xenoma_Inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Xenoma_Inc/status/2054480014012555561",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XenoMods/status/1457127777283584003/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AISAN_info/status/2109909503856841079",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/company/xenoma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/xenoma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://no.linkedin.com/company/xenoma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ichiro-amimori",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xenoma.inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xenoma.inc/posts/-xenoma%E3%81%AEe-skin-ecg%E3%81%8Cwbs%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%83%9B%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%92%E5%A2%97%E3%82%84%E3%81%97%E3%81%9F%E3%81%84%E3%81%8C%E8%A3%85%E7%9D%80%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%81%9D%E3%82%93%E3%81%AA%E5%8C%BB%E7%99%82%E7%8F%BE%E5%A0%B4%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BExe/1475793027668646/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xenoma.inc/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BExenoma%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9D%91%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bkumihimo-tech-camp-with-murata%E3%81%AB%E3%81%A6%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E8%A1%A8%E5%BD%B0%E5%BC%8F%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E-%E5%BF%83/968907815023839/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/xenoma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xenoma.inc/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XenoMods/status/1457127777283584003/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Xenoma 会社概要 資本金 設立",
+   "results": [
+    "https://xenoma.com/company/",
+    "https://mid-tenshoku.com/agency/a-4601/",
+    "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "https://www.daijob.com/jobs/company/9602",
+    "https://www.utokyo-ipc.co.jp/ja/news/2017/09/xenoma/",
+    "https://frontjour.com/companies/xenoma",
+    "https://jp.linkedin.com/company/xenoma",
+    "https://prtimes.jp/main/html/rd/p/000000003.000026802.html",
+    "https://paiza.jp/recruiters/1718",
+    "https://xenoma.com/en/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Xenoma 事業内容 売上",
+   "results": [
+    "https://xenoma.com/company/",
+    "https://initial.inc/companies/A-17126",
+    "https://kigyolog.com/company.php?id=63",
+    "https://www.buffett-code.com/company/2rwnd0x7i2/",
+    "https://www.mirai-ota.net/company/detail/215",
+    "https://prtimes.jp/main/html/rd/p/000000003.000026802.html",
+    "https://www.shibashin.jp/business_support/detail/xenoma/",
+    "https://catr.jp/companies/b9d76/4753",
+    "https://www.facebook.com/xenoma.inc/?locale=ja_JP",
+    "https://jobcatalog.yahoo.co.jp/company/2000025828/information/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Xenoma 資金調達 株主",
+   "results": [
+    "https://initial.inc/companies/A-17126",
+    "https://xenoma.com/news/article/200911/",
+    "https://www.nikkan.co.jp/releases/view/1928",
+    "https://prtimes.jp/main/html/rd/p/000000003.000026802.html",
+    "https://www.firstcvc.jp/company/xenoma.com",
+    "https://www.buffett-code.com/company/2rwnd0x7i2/",
+    "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "https://www.moguravr.com/xenoma-e-skin/",
+    "https://www.utokyo-ipc.co.jp/ja/news/2017/09/xenoma/",
+    "https://deeppoint.remixpoint.co.jp/startups/xenoma"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Xenoma 導入事例",
+   "results": [
+    "https://xenoma.com/business/eskin-meva/case-studies.php",
+    "https://initial.inc/companies/A-17126",
+    "https://xenoma.com/medical/eskin-ecg/case-report-002.php",
+    "https://www.facebook.com/xenoma.inc/?locale=ja_JP",
+    "https://prtimes.jp/main/html/rd/p/000000013.000026802.html",
+    "https://www.quadcept.com/ja/case/xenoma/index.html",
+    "https://x.com/Xenoma_Inc",
+    "https://www.wantedly.com/companies/xenoma"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Xenoma 主要取引先",
+   "results": [
+    "https://xenoma.com/",
+    "https://www.onodigitalhealth.com/ja/portfolio/xenoma",
+    "https://jp.linkedin.com/company/xenoma",
+    "https://www.rio-corp.co.jp/techno_front/tenant/128/",
+    "https://www.jst.go.jp/pr/info/info1279/index.html",
+    "https://www.mirai-ota.net/company/detail/215",
+    "https://www.nedo.go.jp/media/startups/20211209.html",
+    "https://www.shibashin.jp/business_support/detail/xenoma/",
+    "https://www.eps-holdings.co.jp/news/news_file/file/20200911.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Xenoma",
+   "results": [
+    "https://note.com/831mo917/n/nb6c61bdde77e",
+    "https://note.com/aisan_akiba/n/n344bd9685ae3",
+    "https://note.com/zenschool/n/n0ac2ef6c43f9",
+    "https://note.com/asratec/n/nbaa07af51e58",
+    "https://note.com/lodge/n/n9c76c6c13efb",
+    "https://note.com/831mo917/n/n88ef30557b74",
+    "https://note.com/oasisnr/n/nbf91802e6166",
+    "https://note.com/h_srdi/n/n329de42e3373?hl=en",
+    "https://note.com/lodge/n/nccb1031b48da",
+    "https://note.com/deeptech_japan/n/nb637b01eeb5e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Xenoma",
+   "results": [
+    "https://x.com/Xenoma_Inc",
+    "https://x.com/Xenoma_Inc/status/2054480014012555561",
+    "https://x.com/XenoMods/status/1457127777283584003/photo/1",
+    "https://x.com/AISAN_info/status/2109909503856841079",
+    "https://x.com/XenoMods/status/1372691249036156934",
+    "https://x.com/XenoMods/status/1508534625655832581/photo/1",
+    "https://x.com/scaledoperator",
+    "https://x.com/SanidadeXunta/status/2113545742103036322",
+    "https://x.com/Diario_Pontev/status/2117307432749715681",
+    "https://x.com/XenoMods"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Xenoma",
+   "results": [
+    "https://tw.linkedin.com/company/xenoma",
+    "https://jp.linkedin.com/company/xenoma",
+    "https://no.linkedin.com/company/xenoma",
+    "https://jp.linkedin.com/in/ichiro-amimori",
+    "https://jp.linkedin.com/in/yuka-tomitori-b22130107",
+    "https://jp.linkedin.com/in/masao-nakajima-4503b899",
+    "https://jp.linkedin.com/in/osamu-sawanobori-b5504a132",
+    "https://cn.linkedin.com/in/%E8%88%92%E8%88%AA-%E9%AD%8F-221601a7",
+    "https://jp.linkedin.com/in/kaori-makifuji-859043251",
+    "https://www.linkedin.com/company/xenoma"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Xenoma",
+   "results": [
+    "https://www.facebook.com/xenoma.inc/",
+    "https://www.facebook.com/xenoma.inc/posts/-xenoma%E3%81%AEe-skin-ecg%E3%81%8Cwbs%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%83%9B%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%92%E5%A2%97%E3%82%84%E3%81%97%E3%81%9F%E3%81%84%E3%81%8C%E8%A3%85%E7%9D%80%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%81%9D%E3%82%93%E3%81%AA%E5%8C%BB%E7%99%82%E7%8F%BE%E5%A0%B4%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BExe/1475793027668646/",
+    "https://www.facebook.com/media/set/?set=a.1255133624506056.1073742288.251250481561047&type=1&l=5ba29b7658",
+    "https://www.facebook.com/xenoma.inc/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BExenoma%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9D%91%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%8C%E4%B8%BB%E5%82%AC%E3%81%99%E3%82%8Bkumihimo-tech-camp-with-murata%E3%81%AB%E3%81%A6%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E8%A1%A8%E5%BD%B0%E5%BC%8F%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E-%E5%BF%83/968907815023839/",
+    "https://www.facebook.com/xenoma.inc/posts/g-city%E3%82%B5%E3%83%9F%E3%83%83%E3%83%882026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99%E6%9C%AC%E6%97%A510%E6%9C%8830%E6%97%A5%E9%87%91%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8Bg-city%E3%82%B5%E3%83%9F%E3%83%83%E3%83%882026%E3%81%AB%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BExenoma%E3%81%8C%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E3%83%95%E3%82%A3%E3%82%B8/1691354532779160/",
+    "https://www.facebook.com/xenoma.inc/posts/2022-mrs-spring-meetingexhibitceo%E7%B6%B2%E7%9B%9B%E3%81%8Cmrs-spring-meetingexhibit%E3%81%AB%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E7%99%BB%E5%A3%87%E3%81%97%E3%81%BE%E3%81%99%E8%AC%9B%E6%BC%94%E3%82%BF%E3%82%A4%E3%83%88%E3%83%ABne/2223867811093504/",
+    "https://www.facebook.com/xenoma.inc/photos/927834714030160/",
+    "https://www.facebook.com/yuka.tomitori/",
+    "https://www.facebook.com/xenoma.inc/posts/high-school-students-from-morioka-visited-our-lab-yesterday-we-hope-some-of-you/1269253106554984/",
+    "https://www.facebook.com/xenoma.inc/posts/1929423503871271/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Xenoma note 社長",
+   "results": [
+    "https://xenoma.com/company/",
+    "https://note.com/zenschool/n/n0ac2ef6c43f9",
+    "https://jp.linkedin.com/company/xenoma",
+    "https://www.facebook.com/xenoma.inc/?locale=ja_JP",
+    "https://www.cyberdyne.jp/news/12661.html",
+    "https://www.projectdesign.jp/202004/venture-co-creation2/007642.php",
+    "https://thebridge.jp/2017/06/real-reason-japan-cant-innovate-xenoma",
+    "https://www.nikkei.com/article/DGXLRSP451588_Z10C17A7000000/",
+    "https://foundx.jp/interview/ichiro_amimori",
+    "https://compalyze.co.jp/company/1010001171540"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Xenoma X 投稿",
+   "results": [
+    "https://xenoma.com/",
+    "https://x.com/XenoMods/status/1457127777283584003/photo/1",
+    "https://thebridge.jp/2017/06/real-reason-japan-cant-innovate-xenoma",
+    "https://xenoma.com/en/inquiry/",
+    "https://www.shibashin.jp/business_support/detail/xenoma/",
+    "https://www.disruptingjapan.com/real-reason-japan-cant-innovate-xenoma/",
+    "https://jp.linkedin.com/in/yuka-tomitori-b22130107",
+    "https://qiita.com/official-columns/interview/202105-hitachi/",
+    "https://x.com/XenoMods",
+    "https://x.com/i/status/1533734523862515714"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部24頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部24頁・検索11回）"
+ }
+}

@@ -1,0 +1,2022 @@
+{
+ "name": "国分",
+ "aliases": [],
+ "context": "東京都・資本金350000万円・地域未来牽引企業",
+ "researched_at": "2026-11-09T14:04:09.027251+00:00",
+ "official_url": "https://www.kokubu.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒103-8241 東京都中央区日本橋1-1-1 地図 TEL：03-3276-4000（代表）／FAX：03-3271-6523",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 103-8241 東京都 中央区 日本橋 1丁目1番1号",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 103-0027 国分グループ本社に同じ",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都中央区日本橋1-1-1",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役会長 兼 CEO 國分 勘兵衛",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "12代目國分勘兵衛（ 代表取締役 会長 兼 CEO ） 國分晃（代表取締役 社長 執行役員 COO ）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "12代目國分勘兵衛（代表取締役社長）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "代　表　者",
+    "value": "代表取締役会長兼社長　國分 勘兵衛",
+    "url": "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1947年11月21日",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1947年（ 昭和 22年）11月21日 創業は1712年（ 正徳 2年）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2011年（平成23年）1月4日",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "設　立",
+    "value": "設　立：1947 年 11 月 21 日",
+    "url": "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "35億円",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "35億円 （2024年12月31日） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "35億円",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "資　本　金",
+    "value": "35 億円",
+    "url": "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "35億円",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業　ほか",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "酒類・食品卸売業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "物流業務（酒類・飲料水・食品の配達・倉庫内業務）",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ワイン・洋酒の輸入・販売",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "水産物の調達",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "冷凍食品、一般食品卸売事業及び物流事業、並びに付帯する一切の事業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "青果物の調達",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "惣菜店、飲食店、給食会社、弁当メーカー向け業務用食品の卸売業、米穀取扱業者としての精米炊飯米等の製造販売",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "不動産賃貸、事業所サービス",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "酒類食品卸売事業、ネット通販事業、物流事業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "物流事業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "牛乳、乳製品、並びに飲料他関連食品の卸売、販売業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "弁当等製造業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "パン粉製造・販売業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "国分グループの経理財務業務および売掛金管理、買掛金管理、リベート管理、直送データ処理の業務受託",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "オフィスサプライ、保険代理業、総合広告代理業、情報企画編集、研修・講演会企画運営、営業代行業務受託、経理・給与関連シェアードサービス",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "貿易業、食品卸売業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "業務用食材卸売業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "グループ会社管理",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食品卸売業、小売業（惣菜店・精肉店）",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "アセアン各国における提携企業との連携強化・統括業務",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "シンガポール卸売の管理・統括業務",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食品卸売業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "牛乳・乳製品製造業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "外食・中食向け食品卸売業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "情報処理・提供サービス業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "業務用食品等の飲食店向通信販売等",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ペットフード・ペット用品の販売",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "菓子食品を主体とする卸売業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食品・酒類等の商品に関する卸売業等を行う会社の経営管理及びこれに附帯関連する一切の業務",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "残留農薬検査・栄養成分検査・放射性物質検査・異物検査 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "椎茸等の農海産乾物の加工・販売",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "物流事業・食品卸売事業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "中国EC事業全般",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "卸売事業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "卸売業 、 製造業 、 貿易業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "純粋持株会社（国分グループの経営管理等）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "酒類・食品・関連消費材にわたる卸売業及びそれらに関する資材の販売業、貿易業、パン粉の製造業、貸室業",
+    "url": "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業　ほか",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   },
+   {
+    "label": "ソリューション・サービス:",
+    "value": "働き方改革",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "2,243,180百万円（連結：2025年12月期）",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "連結：2兆1573億7500万円 （2024年12月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "7億5,600万円 （2025年12月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "2,068,417百万円（連結:2023年12月期）",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5,696名（連結：2025年12月31日現在）",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結：5127名 （2024年12月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "4,698 名（連結：2011年12 月31日現在）",
+    "url": "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "5,051名（連結:2023年12月31日現在）",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "親会社株主に帰属する当期純利益",
+    "value": "19,341 0.86％ 110.8％",
+    "url": "https://www.kokubu.co.jp/company/results/",
+    "pass": 1
+   },
+   {
+    "label": "主要 株主",
+    "value": "国分ホールディングス 100.0%",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "持続可能な社会の実現に向けたメッセージをご紹介します",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "環境方針や気候変動に対する取り組み、食品廃棄物の発生を最小限に抑える取り組みなどをご紹介します",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人権の尊重や持続可能なサプライチェーンの構築、また食を通じたウェルビーイングの実現について紹介しています",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループのコーポレート・ガバナンスに対する考え方とスタンスについてご紹介します",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループが行う環境や地域、社会に関わるサステナビリティ活動をご紹介します",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループが取り組んできた数々の活動の中から、特に大きな気づきや変化が生まれた事例を特集記事としてご紹介します",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "食のバリューチェーンを全方位で支え、進化し続ける国分グループの多角的なビジネスをご紹介します",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国分は、食品卸売業としてメーカー商品を取り扱うとともに「K&K」をはじめとする国分ブランド商品の開発、販売を行っています",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地酒の美味しさ、楽しさをご紹介",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループが歩んできた300年以上の歴史を、社会の出来事とともにご紹介します",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、アジア、ヨーロッパ、北米を中心に海外62か国へ食品・酒類を販売しています",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループの2025年12月期の連結売上高は2兆2431億円です",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その後は食品卸売業としてメーカー商品を取り扱うとともに「K&K」をはじめとする国分ブランド商品の開発、販売を行っています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした変化を脅威ではなく変革の契機と捉え、私たちは「データ×現場力」を核に、生産・製造・物流・販売・生活者の声を有機的に結び、付加価値をつけて、無駄なく各層へ還元する持続可能な流通を目指します",
+    "url": "https://www.kokubu.co.jp/company/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "五代國分勘兵衛が、土浦で醸造した醤油に「亀甲大」のマークをつけ販売",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "醤油醸造業を廃止し、広く食品販売を主とする卸売業を開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "以降「カルピス」（1919年）、日本初の合成清酒「利休」（1928年）の販売開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品を世に広め、業界の動向や販売技術などを全国の取引先に伝える『国分商報』を発刊",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1.8リットルの醤油瓶詰の販売開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "単体売上高1兆円を達成",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本橋本社ビル1階にオリジナル商品を販売する",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ連結売上高が2兆円を達成",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "惣菜店、飲食店、給食会社、弁当メーカー向け業務用食品の卸売業、米穀取扱業者としての精米炊飯米等の製造販売",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "牛乳、乳製品、並びに飲料他関連食品の卸売、販売業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループの経理財務業務および売掛金管理、買掛金管理、リベート管理、直送データ処理の業務受託",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスサプライ、保険代理業、総合広告代理業、情報企画編集、研修・講演会企画運営、営業代行業務受託、経理・給与関連シェアードサービス",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "現場で紡がれた「物語」を紐解き、特集記事としてご紹介します",
+    "url": "https://www.kokubu.co.jp/sustainability/impact-story/",
+    "pass": 1
+   },
+   {
+    "quote": "物流事業｜事業内容｜国分グループ本社株式会社",
+    "url": "https://www.kokubu.co.jp/business/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "物流を企画・設計・提案し運営管理するだけでなく、倉庫内の荷役業務や配送業務の物流実務を行う物流事業会社（3PL）をグループに有しており、拡大・展開しています",
+    "url": "https://www.kokubu.co.jp/business/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "また、採用HPでは国分についてあらゆる角度から紹介していますので、",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1712年創業、資本金35億円、従業員5,127名、売上高2兆1,573億円の安定した企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーから60万の商品を仕入れ、小売・外食産業に販売しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品流通の中心となり、10,000社のメーカーから60万の商品を仕入れ、スーパーやコンビニといった小売店・外食産業35,000社に対して商品を販売しながら、食生活を支え、そこに込められた想いを紡いでまいりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "加工食品、酒類、チルド、デリカ、生鮮食品、菓子など60万種にのぼる商品を小売業（百貨店、スーパー、コンビニ）、外食産業など35,000件のお客様に販売",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 2兆684億1,700万円（連結:2023年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・事業内容 酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 909億1,900万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 1,058億8300万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 1,848億8,000万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 3,660億100万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 1,653億2,000万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 3,123億7,300万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 1,334億2,800万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高 827億6,800万円（2022年12月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・事業内容 食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "醤油醸造業を廃止し、広く食品販売を業とする問屋として発足させる",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)百瀬と菓子・食料品のオリジナル商品の共同開発及び販売を目的とする、合弁会社日本橋菓房(株)を設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のワイン輸入販売会社 「ASC ファインワインズ ホールディング」に出資",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "の製造・卸売業者であったが、",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月現在、売上高面では",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "①同年11月をめどに、国分子会社の国分フードクリエイトが森永乳業子会社のデイリーフーズ（現・森永乳業販売）の家庭用冷凍食品の卸売事業を吸収分割で承継",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "センターの運営は、国分とSPAグループの合弁会社のKOSPA LTD.（2014年10月営業開始）が担う",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "専門商社の売上・年収ランキング！転職にお勧めの大手企業一覧【2025年】",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "「国分グループ本社、深セン市一番食品を子会社化 輸入販売事業拡大」『日本食糧新聞』第11508号、日本食糧新聞社、2017年4月7日、デイリー版、02面",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "国分 / ワイン輸入・販売「ヌーヴェル・セレクション」子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "米国最大級の日本酒ECを運営するTippsy、国分グループ本社と出資契約を締結しシリーズAラウンドのファーストクローズを完了 | Palate Holdings Inc.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国最大級の日本酒ECを運営するTippsy、国分グループ本社と出資契約を締結しシリーズAラウ�ンドのファーストクローズを完了",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "国分グループ本社との協業により、米国市場の消費者に向けた日本酒の販売マーケティングを強化",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国ロサンゼルスを拠点に、米国最大級の日本酒Eコマース「tippsysake.com」を運営するTippsy, Inc.（CEO：伊藤元気、以下「Tippsy」）は、国分グループ本社株式会社（本社：東京都中央区、代表取締役会長兼CEO：國分勘兵衛、以下「国分グループ本社」）と出資契約を締結し、資金調達を実施しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "単なる商品販売に留まらず、日本酒の背景にあるストーリーや文化を丁寧に解説するコンテンツを通して、米国最大級の日本酒ECプラットフォームへと成長しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "食品「卸売業」として、日本全国に「食」を届けています",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "卸売業という流通での立ち位置を最大限に活かし、さまざまなパートナーと手を携え共通の目標に向かって進んでいきます",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「卸売」を軸に、物流・海外・商品開発、そして価値共創へ",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国分は、食品卸売業としてメーカー商品を取り扱うとともに「K&K」をはじめとする国分ブランド商品の開発、販売を行っています",
+    "url": "https://www.kokubu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "酒類・食品卸売業として、日本全国に「食」を届けています",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "食のインフラを担う卸売業として、",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "明治初期には醤油醸造業から撤退し、食品卸売業に転換しています",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "328か所の物流センターによって国内全域をカバーをする物流ネットワークを形成しています",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、中国、アセアン地域での物流機能も発揮しています",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "約10,000社のメーカーさまとのお取引を通じて、お客さまのニーズにお応えしています",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地、世界各国から厳選して調達した食品・飲料を、小売業や飲食店に安定的に供給しています",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の物流網と情報システムを活用し、効率的な配送や徹底した品質管理、商品提案を通じてお取引先のニーズに応えるとともに、食を通じて幸せと笑顔をお届けします",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーンの最適化で、持続可能な物流体制を構築",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "全国の物流拠点で常温・冷蔵・冷凍に対応した高品質な物流サービスを展開",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "安定した商品供給に加え、お取引先の物流課題の解決や事業の効率化をサポートし、サプライチェーンの全体最適を実現します",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "中国・ASEANエリアでは卸・物流事業を展開することで、海外における食の流通の最適化に取り組んでいます",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "卸ならではの商品開発で食の未来をより豊かに",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "卸の強みを生かし、独自の商品開発に取り組んでいます",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生活者ニーズを捉え、卸ならではの商品をお届けします",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループが培ってきた地域密着 全国卸のネットワークと共創圏をより拡大し、新たな未来事業を切り拓きます",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、1880（明治13）年に醤油醸造業から撤退して食品卸売業に転換し、現在を迎えています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "食品「卸売業」として、日本全国に「食」を届けています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "日本は小売店数が多く、食品のメーカー数もとても多いことで、地域性・四季の変化と言った、生活者の多様なニーズにお応えしています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "食品卸売業はメーカーと小売業の中間に位置し、国内外の商品や自社開発商品を豊富に品揃えし、お得意先のニーズに対応した商品を安定的にお届けしています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "食品卸売業は、正確、迅速に商品をお届けする物流、企画提案による売場サポート、情報を駆使し商品を適切に品揃えすることなど、多様な機能を持ち、食品流通の合理化、最適化の一翼を担っています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "その後は食品卸売業としてメーカー商品を取り扱うとともに「K&K」をはじめとする国分ブランド商品の開発、販売を行っています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "また、メーカーとのコラボレーションや地域文化の伝承、素材を生かした商品開発を進めています",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 1
+   },
+   {
+    "quote": "人口減少、食の安全保障という現実が突きつけられる今、食のインフラを担う卸売業として、生産者と生活者をつなぎ、人々のくらしを支え続けることが、私たちの責務と認識しています",
+    "url": "https://www.kokubu.co.jp/company/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした変化を脅威ではなく変革の契機と捉え、私たちは「データ×現場力」を核に、生産・製造・物流・販売・生活者の声を有機的に結び、付加価値をつけて、無駄なく各層へ還元する持続可能な流通を目指します",
+    "url": "https://www.kokubu.co.jp/company/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "人口減少下でも需要を精緻に捉え、世界の食糧市場における購買力の低下に対しては調達力と連携力を強化し、食の安全保障に多元的な調達と物流のレジリエンスで応えます",
+    "url": "https://www.kokubu.co.jp/company/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "温室効果ガス排出量削減、持続可能なサプライチェーン、食の安全保障、フードロス削減、安定した物流インフラ構築、安全・安心な食の提供、地域との共創、食を通じたウェルビーイング、人材育成と労働環境整備・・・これらを重点テーマに据え、新しい食品流通を構築してまいります",
+    "url": "https://www.kokubu.co.jp/company/greetings/",
+    "pass": 1
+   },
+   {
+    "quote": "国分グループは流通の中核を担う「問屋」の立場から、メーカー、小売業、生活者のニーズを真摯に見つめてきました",
+    "url": "https://www.kokubu.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカーと小売業の中間に位置する私たち卸は、その結節点として、サプライチェーン全体を俯瞰し、双方を繋ぎ、共創することで、付加価値を生み出す最適流通を構築してまいりました",
+    "url": "https://www.kokubu.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "執行役員 営業戦略統括部長 兼 戦略推進室長 兼 卸統括部長",
+    "url": "https://www.kokubu.co.jp/company/tree/",
+    "pass": 1
+   },
+   {
+    "quote": "醤油醸造業を廃止し、広く食品販売を主とする卸売業を開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "一括受注、一括配送の物流を担う「3ODシステム」が稼働",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "フルライン体制構築を目指し、菓子卸事業を開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "食品・医薬品・化粧品・日用品事業に関する中間流通基盤の強化に向け、医薬品卸の(株)大木、東邦薬品(株)と業務提携",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "水産加工食品分野の強化を目的に、水産物卸売業の大都魚類(株)と業務提携",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国での物流事業・卸事業の合弁会社三通国分商貿（青島）有限公司を設立",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "農産物分野の強化を目的に、国内最大手の青果物卸売会社の東京青果(株)と業務提携",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Huong Thuy Manufacture Service Trading Corporationをグループ化し、ベトナムで卸ビジネスを開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "潍坊三慧物流有限公司（中華人民共和国山東省）をグループ化し、中国で卸ビジネス開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Texchem Restaurant Systems （マレーシア）とマレーシアにおける低温食品物流事業を展開する合弁会社Kokubu Food Logistics Malaysia Sdn. Bhd.を設立",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Focal Marketing Sdn.Bhd.をグループ化し、マレーシアで卸ビジネスを開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "りゅうきゅう低温流通(株)（旧・りゅうせき低温流通）をグループ化し、沖縄で低温物流を開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国分フレッシュリンク(株)を発足し、生鮮卸ビジネスを強化",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Commonwealth KOKUBU Logistics Pte Ltd.を設立し、シンガポールで物流事業を開始",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "関西総合センターを開設し、全国の三温度帯物流ネットワークが完成",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "目まぐるしく変化し続ける社会の中でも、俊敏に多様な可能性を見つけ出し、顧客の想像を超えた価値を提供し、新しい食のサプライチェーン構築をリードしてまいります",
+    "url": "https://www.kokubu.co.jp/company/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "物流業務（酒類・飲料水・食品の配達・倉庫内業務）",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "冷凍食品、一般食品卸売事業及び物流事業、並びに付帯する一切の事業",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "惣菜店、飲食店、給食会社、弁当メーカー向け業務用食品の卸売業、米穀取扱業者としての精米炊飯米等の製造販売",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産賃貸、事業所サービス",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "酒類食品卸売事業、ネット通販事業、物流事業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "牛乳、乳製品、並びに飲料他関連食品の卸売、販売業 ほか",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィスサプライ、保険代理業、総合広告代理業、情報企画編集、研修・講演会企画運営、営業代行業務受託、経理・給与関連シェアードサービス",
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "国内外37のグループ子会社と21の関連会社により国分グループを形成しています",
+    "url": "https://www.kokubu.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を35億円に増資",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "食品専門分析機関のユーロフィンQKEN(株)（旧(株)キューサイ分析研究所）へ出資",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1712年創業、資本金35億円、従業員5,127名、売上高2兆1,573億円の安定した企業です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・資本金 35億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・資本金 14億5,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・資本金 5億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・資本金 11億1,000万円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国のワイン輸入販売会社 「ASC ファインワインズ ホールディング」に出資",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "イボウ三慧物流有限公司（中華人民共和国山東省）を子会社化",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "①同年11月をめどに、国分子会社の国分フードクリエイトが森永乳業子会社のデイリーフーズ（現・森永乳業販売）の家庭用冷凍食品の卸売事業を吸収分割で承継",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "“非上場の親会社等の決算に関するお知らせ”",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "国分(株)、(株)キューサイ分析研究所に出資",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "「国分、豊田通商と業務提携 中部食糧の子会社化も」『日本食糧新聞』第10933号、日本食糧新聞社、2013年12月4日、デイリー版、01面",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "国分、森永乳業子会社の卸売り事業を買収 11月に",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "「国分グループ本社、深セン市一番食品を子会社化 輸入販売事業拡大」『日本食糧新聞』第11508号、日本食糧新聞社、2017年4月7日、デイリー版、02面",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "国分、マレーシアの日本食卸に2割出資",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "国分 / ワイン輸入・販売「ヌーヴェル・セレクション」子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "国分グループ本社、中国の物流会社の上海恒孚物流有限公司を完全子会社化",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "Tippsy、資金調達を実施 シリーズAラウンドのファーストクローズにて調達（調達額は非公開）",
+    "url": "https://initial.inc/investors/V06070/finance-news",
+    "pass": 3
+   },
+   {
+    "quote": "DATAFLUCT、第三者割当増資を実施 シリーズBラウンドにて融資と合わせ総額11億円を調達",
+    "url": "https://initial.inc/investors/V06070/finance-news",
+    "pass": 3
+   },
+   {
+    "quote": "DATAFLUCT、資金調達を実施（調達額は非公開）",
+    "url": "https://initial.inc/investors/V06070/finance-news",
+    "pass": 3
+   },
+   {
+    "quote": "米国最大級の日本酒ECを運営するTippsy、国分グループ本社と出資契約を締結しシリーズAラウンドのファーストクローズを完了 | Palate Holdings Inc.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国最大級の日本酒ECを運営するTippsy、国分グループ本社と出資契約を締結しシリーズAラウ�ンドのファーストクローズを完了",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国ロサンゼルスを拠点に、米国最大級の日本酒Eコマース「tippsysake.com」を運営するTippsy, Inc.（CEO：伊藤元気、以下「Tippsy」）は、国分グループ本社株式会社（本社：東京都中央区、代表取締役会長兼CEO：國分勘兵衛、以下「国分グループ本社」）と出資契約を締結し、資金調達を実施しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "国分グループ本社との出資契約締結および協業の背景と目的",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "「食を通じて世界の人々の幸せと笑顔を創造します」という同社の企業理念がTippsyのミッションと合致し、両社の目指す世界の実現を加速させるため、この度の出資契約の締結と協業に至りました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "「健康経営優良法人2023」に認定",
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "各エリアにおいて、地域の食文化に精通し、地域に根差した商品を発掘・選定",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「VPortについては貿易部の担当者たちが、貿易業務のパッケージ選定を行い、最終的に決定しました",
+    "url": "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "pass": 3
+   },
+   {
+    "quote": "つのエリアカンパニーを拠点に、各地域のお客様に寄り添った地域密着型の商品の発掘・選定と提案を行っています」と同社 執行役員 業務改革推進部長の酒井宏高氏は語ります",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "が選定された際、最後まで候補として残っていた",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ｜ 会社情報 ｜ 国分 グループ本社株式会社 — 会社概要 ｜ 会社情報 ｜ 国分 グループ本社株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > 会社情報 > 会社概要",
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループの新卒採用・ 会社概要 | マイナビ2027 — 国分 グループの新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp201052 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ｜ 会社情報 ｜ 国分 九州株式会社 — 会社概要 ｜ 会社情報 ｜ 国分 九州株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > ホーム > 会社情報 > 会社概要",
+    "url": "https://www.kokubu.co.jp/kyushu/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループ本社 - Wikipedia — 国分 グループ本社 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 国分グループ本社",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "業績｜会社情報｜ 国分 グループ本社株式会社 — 業績｜会社情報｜ 国分 グループ本社株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > 会社情報 > 業績",
+    "url": "https://www.kokubu.co.jp/company/results/",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループの新卒採用・会社概要 | マイナビ2027 — 国分 グループの新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp201052 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "国分 の特長｜会社情報｜ 国分 グループ本社株式会社 — 国分 の特長｜会社情報｜ 国分 グループ本社株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > 会社情報 > 国分の特長",
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "pass": 3
+   },
+   {
+    "quote": "国分 news｜2025年度 売上 高2兆2432億円4.0%増･経常利益296 ... — 国分 news｜2025年度 売上 高2兆2432億円4.0%増･経常利益296 ... 流通スーパーニュース https://news.shoninsha.co.jp > financial",
+    "url": "https://news.shoninsha.co.jp/financial/300116",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループ本社 株式 会社との資本業務提携ならびに第三者 ... — 国分 グループ本社 株式 会社との資本業務提携ならびに第三者 ... 大和インベスター・リレーションズ PDF https://www.daiwair.co.jp > td_download",
+    "url": "https://www.daiwair.co.jp/td_download.cgi?c=2884&i=2184672",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループ本社 株式 会社 — 国分 グループ本社 株式 会社 スピーダ スタートアップ情報リサーチ https://initial.inc > investors > finance-news",
+    "url": "https://initial.inc/investors/V06070/finance-news",
+    "pass": 3
+   },
+   {
+    "quote": "米国最大級の日本酒ECを運営するTippsy、 国分 グループ本社 ... — 米国最大級の日本酒ECを運営するTippsy、 国分 グループ本社 ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループ本社株式会社様: 導入事例 - NEC — 国分 グループ本社株式会社様: 導入事例 - NEC NEC https://jpn.nec.com > ... > 導入事例",
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【RPA】卸売・小売業界 導入事例 ｜ 国分 グループ本社株式会社様 — 【RPA】卸売・小売業界 導入事例 ｜ 国分 グループ本社株式会社様 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ahR2FBj1D_U",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜ 国分 グループ本社株式会社 — 事業内容｜ 国分 グループ本社株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > 事業内容",
+    "url": "https://www.kokubu.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "10分企業研究】#0025 10分でわかる 国分 グループ本社株式会社 — 10分企業研究】#0025 10分でわかる 国分 グループ本社株式会社 note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループの会社概要 | マイナビ2028 — 国分 グループの会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp201052 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp201052/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "国分 株式会社と丸紅株式会社による 国分 首都圏株式会社 — 国分 株式会社と丸紅株式会社による 国分 首都圏株式会社 Marubeni Corporation PDF https://www.marubeni.com > news > release",
+    "url": "https://www.marubeni.com/jp/news/2015/release/20151028a.pdf",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "専門商社の売上・年収ランキング！転職にお勧めの大手企業一覧【2025年】",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "pass": 3
+   },
+   {
+    "quote": "最近よく聞くホールディングス化！なぜ多くの中小企業が実施しているのか？",
+    "url": "https://www.youtube.com/watch?v=ahR2FBj1D_U",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "国分 真央 - note 国分 真央 - note note https://note.com > maokokubu",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "10分企業研究】#0025 10分でわかる 国分 グループ本社株式会社 10分企業研究】#0025 10分でわかる 国分 グループ本社株式会社 note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "国分 太一の交番に感じた“時代の終わり”と、アイドルの過酷さ ... 国分 太一の交番に感じた“時代の終わり”と、アイドルの過酷さ ... note https://note.com > エンタメ > アイドル",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "国分 酒造株式会社「焼酎イノベーションの系譜」｜Folk Wisdom 国分 酒造株式会社「焼酎イノベーションの系譜」｜Folk Wisdom note https://note.com > hiro1945",
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "pass": 3
+   },
+   {
+    "quote": "国分 太一氏とフリーランスの共通項。媒体仕事なくなったら ... 国分 太一氏とフリーランスの共通項。媒体仕事なくなったら ... note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "CP＋2026登壇にて。私は木なのかもしれない。",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "約1年に渡る展示が終わりました。後日談と皆さんに会えるまで。",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの人生に、もう私が関わっている【夏】",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "私が考えるフィルムシミュレーション「ETERNA」についての補足と現像内容",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "CP＋初参加&初登壇と他メーカーさんのレポート",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "毎回テーマを決めて写真だけを載せる場所です。",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "フィルムカメラで撮った写真を載せる場所です。",
+    "url": "https://note.com/maokokubu",
+    "pass": 3
+   },
+   {
+    "quote": "【連載｜10分企業研究】#0025 10分でわかる国分グループ本社株式会社｜元農大生",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "【連載｜10分企業研究】#0025 10分でわかる国分グループ本社株式会社",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "▼質問やお悩みがあればマシュマロにどうぞ！▼",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：この企業が農-大生に注目される理由",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "「国分（こくぶ）」という社名を聞いて、具体的な商品を思い浮かべる人は少ないかもしれません。しかし、皆さんが日々スーパーマーケットやコンビニエンスストアで手にする食品の多くは、国分グループが関わっています。",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "国分グループは、1712年（正徳2年）創業という300年以上の圧倒的な歴史を持つ、日本の「食」を支える卸売業のリーディングカンパニーです。同社は、単にメーカーから小売店へ商品を届けるだけでなく、食のサプライチェーン全体の最適化、地域産品の全国展開、食文化の創造、そしてフードロスや環境問題といった社会課題の解決にも取り組んでいます。",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "フードシステム論、農業経済学、食品流通学、アグリビジネス、地域創生――農大で学ぶ皆さんにとって、その俯瞰的な視点と専門知識を活かし、日本の食の未来を川中からデザインできる、非常にダイナミックで社会貢献性の高いフィールドがここにあります。",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "国分グループってどんな会社？：基本情報と事業の全体像",
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "pass": 3
+   },
+   {
+    "quote": "国分太一の交番に感じた“時代の終わり”と、アイドルの過酷さについて考えた日｜さくた",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "国分太一の交番に感じた“時代の終わり”と、アイドルの過酷さについて考えた日",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "「あの国分太一が…」降板のニュースに、ただただ驚いた",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "国分太一さんが全番組を降板、というニュースが飛び込んできました。",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "詳しいことは分からないし、あれこれ推測しても仕方がないのですが、それでも「まさか彼が…」という衝撃は否めません。爽やかで、真面目で、なんとなく“クリーンな時代”を象徴していたTOKIO。あのグループが、気づけばあと２人しか残っていないなんて――20年前の自分に教えても、絶対信じなかったと思います。",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "SMAP解散と「世界に一つだけの花」乱用の思い出",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "私はジャニーズにそこまで詳しいわけではありません。ファンでもないし、アイドルの誰が何をしたとか、深い事情は分かりません。それでもSMAPの解散のときは、やっぱりショックでした。",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "特に思い出すのは、「世界に一つだけの花」が小中学校の行事で乱用されていたこと。準備体操ですら、あの曲に合わせてストレッチ。歌詞の意味というより「流しとけばいいでしょ？」的な空気が嫌で嫌で…。結果、名曲なのに嫌いになりそうだった思い出があります。",
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "pass": 3
+   },
+   {
+    "quote": "国分酒造株式会社「焼酎イノベーションの系譜」",
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "pass": 3
+   },
+   {
+    "quote": "いま本格焼酎業界を席巻している「フレーバー焼酎」。それを生み出した国分酒造株式会社について企業と商品開発の軌跡を追ったレポート。同社社長・笹山 護氏と「現代の名工」安田宣久杜氏の証…",
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "pass": 3
+   },
+   {
+    "quote": "国分酒造 焼酎イノベーションの系譜（15） -『安田 ハマコマチ』",
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "pass": 3
+   },
+   {
+    "quote": "国分酒造 焼酎イノベーションの系譜（1）-笹山＆安田コンビ結成前夜",
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "pass": 3
+   },
+   {
+    "quote": "国分酒造 焼酎イノベーションの系譜（2） -笹山＆安田コンビ Personal History",
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "pass": 3
+   },
+   {
+    "quote": "国分太一氏とフリーランスの共通項。媒体仕事なくなったら人生終わりみたいな時代錯誤感｜かさこ／フリーランス働き方コンサル",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   },
+   {
+    "quote": "国分太一氏とフリーランスの共通項。媒体仕事なくなったら人生終わりみたいな時代錯誤感",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   },
+   {
+    "quote": "犯罪者として実刑受けたわけでもないのだから",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   },
+   {
+    "quote": "むしろテレビなんかでない方が稼げるかもしれない。",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   },
+   {
+    "quote": "すべてできないみたいな話になってしまうのか",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ以外で自分で稼げばいいだけの話なのに",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   },
+   {
+    "quote": "テレビに出れなくなった＝すべて失われたなんて",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   },
+   {
+    "quote": "事務所に所属するリスクの方が大きいよねとか",
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "国分 太一 (@kokubun0902) / X 国分 太一 (@kokubun0902) / X X https://x.com > kokubun0902",
+    "url": "https://x.com/kokubun0902",
+    "pass": 3
+   },
+   {
+    "quote": "陸上自衛隊 国分 駐屯地 (@CampKokubu) / X 陸上自衛隊 国分 駐屯地 (@CampKokubu) / X X https://x.com > CampKokubu",
+    "url": "https://x.com/CampKokubu",
+    "pass": 3
+   },
+   {
+    "quote": "K&K tabete公式 | 国分 グループ オリジナル食品 (@kk_tabete) / X K&K tabete公式 | 国分 グループ オリジナル食品 (@kk_tabete) / X X https://x.com > kk_tabete",
+    "url": "https://x.com/kk_tabete",
+    "pass": 3
+   },
+   {
+    "quote": "国分 太一 on X: \"いまの想いです\" / X 国分 太一 on X: \"いまの想いです\" / X X https://x.com > @kokubun0902",
+    "url": "https://x.com/kokubun0902/status/1377269532612390918",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "国分 グループ本社（株） - LinkedIn 国分 グループ本社（株） - LinkedIn LinkedIn https://www.linkedin.com > 国分グループ本社（株）",
+    "url": "https://www.linkedin.com/company/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "国分 グループ本社（株） | LinkedIn 国分 グループ本社（株） | LinkedIn LinkedIn https://id.linkedin.com > 国分グループ本社（株）",
+    "url": "https://id.linkedin.com/company/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "国分 一恵 - Consulting Sales - NX WANBISHI ARCHIVES CO ... 国分 一恵 - Consulting Sales - NX WANBISHI ARCHIVES CO ... LinkedIn https://jp.linkedin.com > kazuekokubu",
+    "url": "https://jp.linkedin.com/in/kazuekokubu",
+    "pass": 3
+   },
+   {
+    "quote": "Hiroto Seko - KOKUBU Group Corp ( 国分 グループ本社株式 ... Hiroto Seko - KOKUBU Group Corp ( 国分 グループ本社株式 ... LinkedIn Singapore https://sg.linkedin.com > ...",
+    "url": "https://sg.linkedin.com/in/hiroto-seko-585a04283/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "陸上自衛隊 国分 駐屯地 (@campkokubu) - Facebook 陸上自衛隊 国分 駐屯地 (@campkokubu) - Facebook Facebook https://www.facebook.com > campkokubu",
+    "url": "https://www.facebook.com/campkokubu/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "国分 智 - Facebook 国分 智 - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/p/%E5%9B%BD%E5%88%86%E6%99%BA-100025968914279/",
+    "pass": 3
+   },
+   {
+    "quote": "国分 中央通り会 | Kokubu Chiyuuou Kagoshima - Facebook 国分 中央通り会 | Kokubu Chiyuuou Kagoshima - Facebook Facebook https://www.facebook.com > ... > Community Organization",
+    "url": "https://www.facebook.com/chuotorikai/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kokubu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/characteristic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/greetings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/tree/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/sustainability/impact-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokubu.co.jp/business/logistics/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiwair.co.jp/td_download.cgi?c=2884&i=2184672",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/investors/V06070/finance-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ahR2FBj1D_U",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maokokubu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/motonoudai/n/n027a85b6517a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kokubun0902",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CampKokubu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kk_tabete",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kokubun0902/status/1377269532612390918",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://id.linkedin.com/company/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kazuekokubu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/in/hiroto-seko-585a04283/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/campkokubu/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E5%9B%BD%E5%88%86%E6%99%BA-100025968914279/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/chuotorikai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hiro1945/m/m44772631a14f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kasako/n/n6d3469cb18bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kokubun0902",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "国分 会社概要 資本金 設立",
+   "results": [
+    "https://www.kokubu.co.jp/company/outline/",
+    "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "https://www.kokubu.co.jp/kyushu/company/outline/",
+    "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "https://www.maff.go.jp/j/kokusai/kokkyo/food_value_chain/pdf/3_kokubu-1.pdf",
+    "https://bunnabi.jp/2027/s/cn_recruit.php?ccd2=70209",
+    "https://job.mynavi.jp/28/pc/search/corp201052/outline.html",
+    "https://compalyze.co.jp/company/5010001054931",
+    "https://www.kokubu.co.jp/nishinihon/company/outline/",
+    "https://ja.wikipedia.org/wiki/国分グループ本社"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "国分 事業内容 売上",
+   "results": [
+    "https://www.kokubu.co.jp/company/results/",
+    "https://job.mynavi.jp/27/pc/search/corp201052/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "https://www.kokubu.co.jp/company/characteristic/",
+    "https://news.shoninsha.co.jp/financial/300116",
+    "https://www.ryutsuu.biz/accounts/r022716.html",
+    "https://job.mynavi.jp/28/pc/search/corp201052/outline.html",
+    "https://compalyze.co.jp/company/1010001137401",
+    "https://note.com/seodoa_academy/n/nab00b65c729c",
+    "https://shousha.net/kokubu-group/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "国分 資金調達 株主",
+   "results": [
+    "https://www.daiwair.co.jp/td_download.cgi?c=2884&i=2184672",
+    "https://initial.inc/investors/V06070/finance-news",
+    "https://prtimes.jp/main/html/rd/p/000000007.000039087.html",
+    "https://pale-blue.co.jp/jpn_news/734/",
+    "https://datafluct.com/news/tcbau9pc3734/",
+    "https://jp.ub-speeda.com/news/20250128/",
+    "https://www.ryutsuu.biz/strategy/o031817.html",
+    "https://lp.startup-db.com/media/articles/20230320-0326",
+    "https://www.minato-yamaguchi.co.jp/minato/e-minato/articles/121398",
+    "https://www.yuhodb.com/shareholders/国分グループ本社"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "国分 導入事例",
+   "results": [
+    "https://www.uchida.co.jp/system/cocktail/jirei/0057/",
+    "https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html",
+    "https://www.youtube.com/watch?v=ahR2FBj1D_U",
+    "https://www.usknet.com/jirei/kbe/",
+    "https://www.vinx.co.jp/rpa/case/case01.html",
+    "https://product.strap.app/magazine/post/kokubu",
+    "https://www.internetacademy.co.jp/case/case134.html",
+    "https://www.fastaccounting.jp/case/kokubu/",
+    "https://bi.nttdata-with.com/dl/remota_movie",
+    "https://rpa-technologies.com/resources/case-study-case067/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "国分 主要取引先",
+   "results": [
+    "https://www.kokubu.co.jp/business/",
+    "https://www.kokubu.co.jp/company/characteristic/",
+    "https://note.com/motonoudai/n/n027a85b6517a",
+    "https://job.mynavi.jp/28/pc/search/corp201052/outline.html",
+    "https://www.marubeni.com/jp/news/2015/release/20151028a.pdf",
+    "https://chikapa.smrj.go.jp/project/ool3bn000000djpd-att/a1690991038137.pdf",
+    "https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE",
+    "https://tsunashu.com/shoku/kokubu/",
+    "https://www.nomuraholdings.com/jp/sustainability/sustainable/services/fabc/event/event20231227103046/main/00/teaserItems1/00/linkList/02/link/20240207_kokubu.pdf",
+    "https://ja.wikipedia.org/wiki/国分グループ本社"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 国分",
+   "results": [
+    "https://note.com/maokokubu",
+    "https://note.com/motonoudai/n/n027a85b6517a",
+    "https://note.com/_sa_ku_ta_/n/nae1084e1972a",
+    "https://note.com/hiro1945/m/m44772631a14f",
+    "https://note.com/dei_ryuken/n/n2f6add74fa9b",
+    "https://note.com/osake_5/n/n3d13c08a125e",
+    "https://note.com/codeex55",
+    "https://note.com/yama_shu19/n/n0b61ffdcae67",
+    "https://note.com/base_campus/n/n6b0e3f88c8b0",
+    "https://note.com/lofty_toad7848/n/n81df6f0e02bd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 国分",
+   "results": [
+    "https://x.com/kokubun0902",
+    "https://x.com/CampKokubu",
+    "https://x.com/kk_tabete",
+    "https://x.com/kokubun0902/status/1377269532612390918",
+    "https://x.com/kokubu_tohoku",
+    "https://x.com/tkq12/status/1935857310037110882",
+    "https://x.com/kunikiyo",
+    "https://x.com/kokubun0902/status/1640642809169596417",
+    "https://x.com/kokubun0902/status/1421758635856728068",
+    "https://x.com/dongming2431/article/2049443314307576056"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 国分",
+   "results": [
+    "https://www.linkedin.com/company/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://id.linkedin.com/company/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/kazuekokubu",
+    "https://sg.linkedin.com/in/hiroto-seko-585a04283/ja",
+    "https://www.linkedin.com/pub/dir/%E5%92%8C%E5%BD%A6/%E5%9B%BD%E5%88%86?trk=public_profile_samename-see-all",
+    "https://jp.linkedin.com/in/%E6%B6%BC%E5%A4%AA-%E8%A5%BF%E5%B0%BE-07232043b",
+    "https://jp.linkedin.com/in/%E7%9C%81%E4%B8%89-%E5%9B%BD%E5%88%86-b50a11197",
+    "https://jp.linkedin.com/in/%E7%B4%98%E4%B8%80%E9%83%8E-%E5%9B%BD%E5%88%86-a91776ab",
+    "https://jp.linkedin.com/in/%E7%A7%80%E6%96%97-%E4%B8%AD%E5%B3%B6-6bba2b1a6",
+    "https://www.linkedin.com/company/国分グループ本社（株）"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 国分",
+   "results": [
+    "https://www.facebook.com/campkokubu/?locale=ja_JP",
+    "https://www.facebook.com/p/%E5%9B%BD%E5%88%86%E6%99%BA-100025968914279/",
+    "https://www.facebook.com/chuotorikai/",
+    "https://www.facebook.com/hidetoshi.kokubun.1/",
+    "https://www.facebook.com/media/set/?set=a.372217539503675.84939.183950798330351&type=3&locale=ja_JP",
+    "https://www.facebook.com/yumeshi/?locale=ja_JP",
+    "https://www.facebook.com/p/%E5%9B%BD%E5%88%86%E5%8F%8B%E7%BE%8E-100003349881462/",
+    "https://www.facebook.com/ggkkski/",
+    "https://www.facebook.com/jameshavensdj/videos/%E5%9B%BD%E5%88%86%E5%A4%AA%E4%B8%80%E3%81%8C%E4%BD%95%E3%82%92%E3%81%97%E3%81%9F%E3%81%8B%E3%81%AF%E7%9F%A5%E3%82%89%E3%82%93%E3%81%8C-%E6%9C%AC%E4%BA%BA%E3%82%82%E5%85%B7%E4%BD%93%E7%9A%84%E3%81%AB%E4%BD%95%E3%81%8C%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E9%81%95%E5%8F%8D%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B%E3%82%82%E8%81%9E%E3%81%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E7%9B%B8%E8%AB%87%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E7%B5%90%E8%AB%96%E3%81%82%E3%82%8A%E3%81%8D%E3%81%AE%E4%BC%9A%E3%81%AB%E5%87%BA%E5%90%91%E3%81%84%E3%81%9F%E3%82%89%E8%87%AA%E5%88%86%E3%81%AE%E6%84%8F%E5%90%91%E3%82%92%E8%81%9E%E3%81%8D%E5%85%A5%E3%82%8C%E3%82%89/1722541525107908/",
+    "https://www.facebook.com/kokubunmokuzai.products/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "国分 note 社長",
+   "results": [
+    "https://www.kokubu.co.jp/kokubunote/",
+    "https://note.com/hiro1945/m/m44772631a14f",
+    "https://note.com/kasako/n/n6d3469cb18bd",
+    "https://www.nikkei.com/article/DGXZQODZ00008_Z00C26A3000000/",
+    "https://sakumaga.sakura.ad.jp/entry/2021/06/07/120000",
+    "https://note.com/sjpress/n/n157c727c821b",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://wp.allylogistics.com/Oshigotop/2303573/image00",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "国分 X 投稿",
+   "results": [
+    "https://x.com/kokubun0902",
+    "https://www.zakzak.co.jp/article/20250620-5HLJA5PAMRCRPCSOF4SW2YKPDA/",
+    "https://www.nikkansports.com/entertainment/news/202506200000302.html",
+    "https://www.j-cast.com/2025/06/20505335.html?p=all",
+    "https://nishispo.nishinippon.co.jp/article/924806",
+    "https://x.com/kk_tabete",
+    "https://www.env.go.jp/info/sns/twitter.html",
+    "https://x.com/kunibu",
+    "https://x.com/emptiness_noth/status/2045037382232346827",
+    "https://search.yahoo.co.jp/realtime/search/国分太一/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部28頁・検索11回）"
+ }
+}

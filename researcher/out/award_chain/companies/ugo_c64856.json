@@ -1,0 +1,1490 @@
+{
+ "name": "ugo",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・東京都ベンチャー技術大賞",
+ "researched_at": "2026-11-09T14:04:29.067017+00:00",
+ "official_url": "https://corp.ugo.plus/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "松井　健",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "東京都千代田区東神田1-7-8",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都千代田区東神田１−７−８",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2018/02",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ugoソリューションの提供・運用、RaaSフレームワークの開発・提供・運用",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "ｕｇｏ、「AI×サービスロボット」領域の製造業(4分野)・点検保守用途市場で売上シェアNo.1を獲得",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "【TechLIVE by ITmedia】「フィジカルAI Summit」において当社の取り組みが紹介されました",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "【ugo Robotics Specialist】認定試験の様子をご紹介ーパーソルビジネスプロセスデザイン株式会社様の例ー",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "案内ロボットugo、ついに始動！エキュート秋葉原の ugo Pro をご紹介",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代型アバターロボットの開発・製造・販売",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・中途採用プラットフォームや質問箱サービス「mond」を運営し、採用代行も提供",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "そして、昨今の人手不足の深刻化や省人化ニーズの高まりにより、当社の売上高は、直近３年間で連続して前年比およそ２倍の成長を実現",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：ugoソリューションの提供・運用、RaaSフレームワークの開発・提供・運用",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくりワールド」は製造業向けイベントなので、松井氏は今回は点検ソリューションについて紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "松井氏は動画で、ugoの点検DXソリューションを紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "のほか、各種センサーも色々なものを追加できるようにしているので、様々な点検項目が追加可能だと紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "「非常に拡張性の高いロボットだ」と松井氏は紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、データセンターやプラント点検で活用",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターやプラントへの導入事例が増えていると紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 32.3%、",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、たとえば部品工場で使われている",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "部品工場では毎日部品を生産するが、顧客に出荷するのは製造時よりも数ヶ月先になることもある",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "松井氏はいったん「製造現場における予防保全は不可欠な取り組み",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "松井氏は、ugoを創業した（当時の社名はMira Robotics）頃の2019年当時、家事ロボットを目指していた時期の動画を紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "百貨店「阪急うめだ本店」に追加導入された事例をご紹介いたします",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け情報検索サイト イプロスものづくり",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "また、株式会社NTTデータ（以下、NTTデータ）は自社データセンターに導入すると共に、ugo社と販売パートナー契約を締結し、設備点検業務を行うお客さまに対しロボットの導入から用途拡大までをワンストップで提供するサービスの外販を開始※1しています",
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ugoソリューションの提供・運用など",
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "pass": 3
+   },
+   {
+    "quote": "ugoで働くメンバーの入社理由、仕事内容、キャリア、働き方を紹介します",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "では早速なんですけども、まずは松井さんの自己紹介をお願いできればと思います",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "音楽配信だけではなかなか食べていけなかったので、ソフトウェアの技術を活用した受託開発をやっていました",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "【2社目：Makers MovementからIoTデバイス受託開発へ】",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "Bluetooth通信による暗号化や、ハードウェア、ファームウェア、スマホアプリまで全てワンセットで受託しました",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "2019年末の国際ロボット展の撤収日、株主の知り合いから紹介いただいたビル設備管理会社である大成株式会社の当時の専務にデモを見ていただきました",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "当社CEOの松井は、もともとIoT受託開発を手がける「株式会社ミラ」の創業者です",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "ｕｇｏ、みずほ銀行・横浜銀行・日本政策金融公庫から総額10億円のデットファイナンスを実施",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "ｕｇｏ、「AI×サービスロボット」領域の製造業(4分野)・点検保守用途市場で売上シェアNo.1を獲得",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "コンセ プト設計から海外工場での量産立ち上げに携わる",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療搬送システムの設計開発に携わった後、技術営業・現場導入に従事",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "以降約20年、医療・ヘルスケア領域で事業開発やロボット導入を主導し、大規模医療機関での自律走行ロボット導入を通じて業務変革を実現",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "提携工場としてJENESIS株式会社と業務提携",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "介護業界大手のツクイグループ、ハードウェア・スタートアップに特化したMonozukuri Ventures、人工知覚（AP)の研究開発企業であるKudan株式会社と協業、ならびに提携強化",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "警備や点検を担う国産AIロボットのugo、みずほ銀行などからデットファイナンスで10億円を調達",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "ブレインパッド、売場を巡回して欠品を検知する「売場巡回AI」（仮称）を発表小売店舗のPoCパートナーの募集を開始",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "物流、警備、医療・介護・福祉などの分野",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "※厚生年金の被保険者のデータを使用しています",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "教育とテクノロジーを融合させたEdTech企業",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "社会人教育、企業研修、高等教育機関のDX支援、地方創生を主軸とする",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "ｕｇｏ（ユーゴー）株式会社（代表取締役CEO：松井 健、以下、ｕｇｏ）は、NTT西日本株式会社（代表取締役社長：北村 亮太）をリード投資家とし、通信・鉄道・エネルギー・不動産・小売・物流など社会インフラを支える事業各社を引受先として第三者割当増資を実施し、シリーズB3ラウンドの資金調達を完了いたしました",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "この度、NTT西日本様をリード投資家として、通信・鉄道・エネルギー・不動産・小売・物流といった社会インフラを支える事業各社の皆様にご出資いただきましたこと、心より感謝申し上げます",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "建設・物流・小売など多様な業界において、労働力不足が一層深刻化する中、ロボットに寄せられる期待は極めて大きいものと認識しています",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "既に当社グループでは清原スマートエネルギーセンターでの概念実証等を進めており、本出資を機に、東京ガスグループの施設での導入検討と、現場管理業務の省力化・高度化ソリューションの提供を通じた社会実装を加速していきます",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "ugoではロボットをスマホやPCのように簡単に業務のなかで使っていく時代が来ると考えており、ロボット設計から量産まで自社のオフィス内にある工場で行っている",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくりワールド」は製造業向けイベントなので、松井氏は今回は点検ソリューションについて紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "時間が取れなくなって技能継承や教育もできなくなる",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "屋内設備の自動点検を対象としており、データセンター、電気ガス水道などのインフラ施設のほか、工場の生産設備や空調設備や熱源設備の点検に活用されている",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業、データセンターやプラント点検で活用",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターやプラントへの導入事例が増えていると紹介した",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 32.3%、",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー22.6%、",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、たとえば部品工場で使われている",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "部品工場では毎日部品を生産するが、顧客に出荷するのは製造時よりも数ヶ月先になることもある",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "松井氏はアメリカのFigure社が公開している、物流倉庫でヒューマノイドが作業する動画を示し「ヒューマノイドは米中で競争が進んでいる",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "【ugo導入事例】阪急うめだ本店 大成 | イプロス",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "中心としたビルメンテナンス専門業から、ホテル客室清掃業務、",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "リニューアル工事事業、不動産ソリューション事業が加わり、",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "「ugo Pro」を活用した自治体窓口・警備業務の実証実験に参画",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け情報検索サイト イプロスものづくり",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業特化の用途別課題解決 | イプロスものづくり業界別専門サイト",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "一方でロボットは、サイズも大きく、モーターを使うので電力消費も激しい",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "沿革、受賞歴",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "【ugo Robotics Specialist】認定試験の様子をご紹介ーパーソルビジネスプロセスデザイン株式会社様の例ー",
+    "url": "https://corp.ugo.plus/",
+    "pass": 1
+   },
+   {
+    "quote": "第５次選定企業",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "第11回ロボット大賞 優秀賞",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "第8回インフラメンテナンス大賞",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "かわさき起業家オーディション 計４賞を受賞（かわさきビジネス・アイデアシーズ賞、かわしんビジネスチャレンジ賞、KSP賞、はまぎん賞）",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ACC Innovation Award Silver 受賞",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都『東京都ベンチャー技術大賞』奨励賞 受賞",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "第11回ロボット大賞 – 優秀賞(ビジネス・社会実装部門) 受賞",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "第8回インフラメンテナンス大賞 総務大臣賞 受賞",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "コンペティションでの評価基準をクリアし、最終的な「データ収集用ロボット」としての選定を目指します",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "警備・点検・案内など、現場ごとに異なる設備や業務に柔軟に対応できる設計で、ロボットの選定や運用もカスタマイズ可能",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "ugoは第８回インフラメンテナンス大賞 総務大臣賞を獲得している",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "経理実務支援や財務デューデリジェンス、事業計画策定、資金調達支援等に従事した他、上場支援プロジェクトを統率し2015年にマザーズ上場",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社安川電機・川崎重工業株式会社より資金調達、ならびに協業",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ugo、第三者割当増資を実施 シリーズB3ラウンドにて調達（調達額は非公開）",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "ugo、第三者割当増資を実施（調達額は非公開）",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "ugo、第三者割当増資を実施 8.5億円を調達",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "ugo、資金調達を実施（調達額は非公開）",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "Mira Robotics、第三者割当を実施 シリーズAにて総額2.25億円を調達",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "Mira Robotics、第三者割当増資を実施 シードラウンドにて総額1.2億円を調達",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "Mira Robotics、資金調達を実施（調達額は非公開）",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "※ 登記簿に掲載されていない資金調達情報は除く",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "独自技術で日本全国の道路データ化を進め、北米子会社を通じ海外進出も図る",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ｜ｕｇｏ、NTT西日本をリードに社会インフラ事業各社から資金調達 ─ 累計40億円突破でフィジカルAIの社会実装を加速 - ugo",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "ｕｇｏ、NTT西日本をリードに社会インフラ事業各社から資金調達 ─ 累計40億円突破でフィジカルAIの社会実装を加速",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "ｕｇｏ（ユーゴー）株式会社（代表取締役CEO：松井 健、以下、ｕｇｏ）は、NTT西日本株式会社（代表取締役社長：北村 亮太）をリード投資家とし、通信・鉄道・エネルギー・不動産・小売・物流など社会インフラを支える事業各社を引受先として第三者割当増資を実施し、シリーズB3ラウンドの資金調達を完了いたしました",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、累計資金調達額は約40億円となります",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "この度、NTT西日本様をリード投資家として、通信・鉄道・エネルギー・不動産・小売・物流といった社会インフラを支える事業各社の皆様にご出資いただきましたこと、心より感謝申し上げます",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "ｕｇｏ社に於いては、以前よりNTTグループのCVCを介して協業をしておりましたが、同社とNTT西日本との協業の本格化に際しNTT西日本からの出資も必要と判断し今回の発表となりました",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の資金調達に参加できたことを大変光栄に感じております",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "ugoが開発する業務DXロボットは、さまざまな現場を支える有効なソリューションとなり得ると考えており、今回の出資を通じて、ロボットの社会実装を多様な現場で推進してまいります",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社グループのパーパス「毎日をもっと、もっと、ここちよく」の実現に向けて掲げるビジョン「まだ気づかない、その先へ」との親和性も高いことから、今般の出資を契機として、微力ながら弊社も新たな市場創造に向けて貢献して参りたいと考えております",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、ｕｇｏ社の資金調達に参画できたことを嬉しく思います",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "既に当社グループでは清原スマートエネルギーセンターでの概念実証等を進めており、本出資を機に、東京ガスグループの施設での導入検討と、現場管理業務の省力化・高度化ソリューションの提供を通じた社会実装を加速していきます",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "業務のDXを実現するロボット「ugo」を提供するugo株式会社へ出資 | 株式会社NTTドコモ・ベンチャーズ",
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "pass": 3
+   },
+   {
+    "quote": "業務のDXを実現するロボット「ugo」を提供するugo株式会社へ出資",
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTドコモ・ベンチャーズ（本社：東京都港区、代表取締役社長：安元 淳、以下、NDV）は、同社が運用するファンドを通じて、業務のデジタルフォーメーション（DX）を実現するロボット「ugo（ユーゴー）」を提供するugo株式会社（本社：東京都千代田区、代表取締役CEO：松井 健、以下、ugo社）への出資を決定しました",
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "pass": 3
+   },
+   {
+    "quote": "本出資を契機に、NTTグループとugo社のさらなる連携を深め、新たな価値創造をめざしてまいります",
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーも見つからず、出資も集まらず、本当に潰れかけてた状況だったんです",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "2019年末の国際ロボット展の撤収日、株主の知り合いから紹介いただいたビル設備管理会社である大成株式会社の当時の専務にデモを見ていただきました",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔操作でボタンを押すのは簡単にできたので、「じゃあこれちょっと警備ロボットとして実証実験始めよう」となり、実証実験先を用意していただき、大成さんから出資もいただいて、生き残ったという経緯がありました",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "として注目を集め、巨額の資金調達にも成功していたあるプロジェクトが、惜しくも事業継続を断念",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業情報 - ugo株式会社 — 企業情報 - ugo株式会社 corp.ugo.plus https://corp.ugo.plus > company",
+    "url": "https://corp.ugo.plus/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式 会社 - スピーダ スタートアップ情報リサーチ — ugo 株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式 会社 の企業情報 - HERP Career — ugo 株式 会社 の企業情報 - HERP Career herp.careers https://herp.careers > careers > companies > ugo0220",
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式 会社 - キャリアクロス — ugo 株式 会社 - キャリアクロス キャリアクロス https://www.careercross.com > company > detail-567910",
+    "url": "https://www.careercross.com/company/detail-567910",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式 会社 - 埼玉県 — ugo 株式 会社 - 埼玉県 埼玉県 https://www.pref.saitama.lg.jp > robotics > database",
+    "url": "https://www.pref.saitama.lg.jp/robotics/database/625.html",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 、NTT西日本をリードに社会インフラ 事業 各社から資金 ... — ugo 、NTT西日本をリードに社会インフラ 事業 各社から資金 ... ugo.plus https://ugo.plus > お知らせ > PRESS RELEASE",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式会社 - スピーダ スタートアップ情報リサーチ — ugo 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-30640",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式会社の第6期決算公告の決算・財務情報 - PR TIMES — ugo 株式会社の第6期決算公告の決算・財務情報 - PR TIMES prtimes.com https://prtimes.com > finance > settlement",
+    "url": "https://prtimes.com/finance/2020001125230/settlement",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式会社 の企業情報 - バフェット・コード — ugo 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/5xc7nvtf05/",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 、「AI×サービスロボット」領域の製造業(4分野)・点検 ... — ugo 、「AI×サービスロボット」領域の製造業(4分野)・点検 ... tv-tokyo.co.jp https://www.tv-tokyo.co.jp > テレ東プラス > 外部リリース",
+    "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/275615.html",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 、NTT西日本をリードに社会インフラ事業各社から 資金 ... — ugo 、NTT西日本をリードに社会インフラ事業各社から 資金 ... ugo.plus https://ugo.plus > お知らせ > PRESS RELEASE",
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "pass": 3
+   },
+   {
+    "quote": "業務DXロボット開発の ugo が 資金調達 不動産や製造 — 業務DXロボット開発の ugo が 資金調達 不動産や製造 BRIDGE（ブリッジ） https://thebridge.jp > 2025/05 > ugo-developer-of-busines...",
+    "url": "https://thebridge.jp/2025/05/ugo-developer-of-business-dx-robots-raises-funding",
+    "pass": 3
+   },
+   {
+    "quote": "片山幹健（Tomotake Katayama) on X: \"投資担当先の ugo が ... — 片山幹健（Tomotake Katayama) on X: \"投資担当先の ugo が ... X https://x.com > @tomotake94",
+    "url": "https://x.com/tomotake94/status/2044304077610463468",
+    "pass": 3
+   },
+   {
+    "quote": "第三者割当増資にて 資金調達 を実施。 | ugo 株式会社の ... — 第三者割当増資にて 資金調達 を実施。 | ugo 株式会社の ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000131.000034305.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - ugo — 導入事例 - ugo ugo.plus https://ugo.plus > case-study",
+    "url": "https://ugo.plus/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット活用で人の点検業務時間を半減可能 ugo の点検DX ... — ロボット活用で人の点検業務時間を半減可能 ugo の点検DX ... note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "pass": 3
+   },
+   {
+    "quote": "【 ugo導入事例 】阪急うめだ本店 大成 - イプロス — 【 ugo導入事例 】阪急うめだ本店 大成 - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > ... > 保安警備・入退場管理",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   },
+   {
+    "quote": "社会インフラサービスを支える業務DXロボット ugo （ユーゴー） — 社会インフラサービスを支える業務DXロボット ugo （ユーゴー） ロボット大賞 https://robotaward.jp > award-winning > 社会インフラサ...",
+    "url": "https://robotaward.jp/award-winning/%E7%A4%BE%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%A5%AD%E5%8B%99dx%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88ugo%EF%BC%88/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社ニップン様】 事例 紹介ホワイトペーパーを公開しま ... — 【株式会社ニップン様】 事例 紹介ホワイトペーパーを公開しま ... ugo.plus https://ugo.plus > ホワイトペーパー",
+    "url": "https://ugo.plus/whitepaper/wp06/",
+    "pass": 3
+   },
+   {
+    "quote": "業務のDXを実現するロボット「 ugo 」を提供する ugo 株式会社 ... — 業務のDXを実現するロボット「 ugo 」を提供する ugo 株式会社 ... nttdocomo-v.com https://www.nttdocomo-v.com > News",
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式会社｜事業内容・特徴・採用・求人 - スタクラ — ugo 株式会社｜事業内容・特徴・採用・求人 - スタクラ スタクラ https://startupclass.co.jp > 企業を探す > ロボティクス",
+    "url": "https://startupclass.co.jp/online/companies/893/",
+    "pass": 3
+   },
+   {
+    "quote": "ugo 株式会社との自律移動型 AI ロボット「 ugo 」の 活用 ... — ugo 株式会社との自律移動型 AI ロボット「 ugo 」の 活用 ... 阪急阪神ホールディングス株式会社 PDF https://www.hankyu-hanshin.co.jp > release > 2026/09",
+    "url": "https://www.hankyu-hanshin.co.jp/release/2026/09/72a696c4dc3808ec1c2629c40e565aed635f176f.pdf",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト",
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ugo （ユーゴー）＜公式＞｜note ugo （ユーゴー）＜公式＞｜note note https://note.com > ugo_robot",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ugo no Tsuki? A thorough guide to its characteristics ... What is Ugo no Tsuki? A thorough guide to its characteristics ... note https://note.com > ... > ワイン・お酒",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ugo Announces \" ugo Nova,\" a 10kg Payload Semi-Humanoid ... ugo Announces \" ugo Nova,\" a 10kg Payload Semi-Humanoid ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Unlocking the Future of Education from Ugo , Akita - note Unlocking the Future of Education from Ugo , Akita - note note https://note.com > ... > 小中高教育",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ugo （ユーゴー）＜公式＞｜ note ugo （ユーゴー）＜公式＞｜ note note https://note.com > ugo_robot",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "前編】 ugo CEO松井が語る「ロボット社会実装」への挑戦と ... 前編】 ugo CEO松井が語る「ロボット社会実装」への挑戦と ... note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "ugo はこうして生まれた〜開発の舞台裏と描く未来 - note ugo はこうして生まれた〜開発の舞台裏と描く未来 - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フィジカルAIはとにかく必死に学ぶしかない",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "家事支援もアバターも業務DXも、ぜんぶフィジカルAIだった",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIを検討している企業がやるべきこと10",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "第14回ロボット議員連盟総会にて、代表・松井が登壇しました！",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "国内唯一のヒューマノイドロボット専門展で、なぜugoだけが国産だったのか？",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の携帯は世界一」と言った私が、日本はPhysical AIロボットで世界に挑むべきと考える理由",
+    "url": "https://note.com/ugo_robot",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ugo no Tsuki? A thorough guide to its characteristics, types, prices, recommended labels, and how to enjoy it｜Tasterr（テイスター）",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ugo no Tsuki? A thorough guide to its characteristics, types, prices, recommended labels, and how to enjoy it",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ugo no Tsuki is a sake that has been brewed by Aihara Shuzo in Kure City, Hiroshima Prefecture, since 1875. Its hallmark is a soft, gentle flavor achieved through brewing with ultra-soft water. The name is taken from an essay by Roka Tokutomi.",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A clear, brilliantly shining moon in the sky after the rain. The wish to brew sake that reflects such a clear scene is the origin of the name.",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ugo no Tsuki Gekko\" served at a sake event",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, as a Sake Diploma, I have summarized where the softness of Ugo no Tsuki comes from, the history of the technology that made Hiroshima a famous region for Ginjo sake, recommended labels you can buy on Amazon, and even its pairing with oysters. Knowing the background of this brewery will change the taste of a single glass, so please stay with me until the end.",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What kind of sake is Ugo no Tsuki?",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The brewer is a Hiroshima-based brewery that focuses on Ginjo brewing. The flavor characteristics derived from the origin of its name, as well as the nature of the brewing water, are major features of Ugo no Tsuki.",
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ugo Announces \"ugo Nova,\" a 10kg Payload Semi-Humanoid, and the \"ugo Physical AI Fabric\" Suite of Physical AI Services [PR]｜森山和道 ライター、書評屋",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ugo Announces \"ugo Nova,\" a 10kg Payload Semi-Humanoid, and the \"ugo Physical AI Fabric\" Suite of Physical AI Services [PR]",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Semi-humanoid robot \"ugo Nova\"",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"ugo Nova.\" A wheeled, 7-axis dual-arm semi-humanoid robot",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 16, 2026, robot startup",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "announced \"ugo Nova,\" a wheeled, 7-axis dual-arm semi-humanoid robot. It is a domestically produced robot designed and manufactured entirely in-house by ugo, with mass production scheduled to begin in 2027.",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Robot Association (AIRoA)",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "unveiled it as part of the \"",
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Unlocking the Future of Education from Ugo, Akita: Atsuki Yamamoto's Process and Potential for Building 'Diagonal Relationships'｜KamoTalk カモトーク",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Unlocking the Future of Education from Ugo, Akita: Atsuki Yamamoto's Process and Potential for Building 'Diagonal Relationships'",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we feature fourth-year student",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "He is currently researching the \"potential of diagonal relationships\" at SFC, based on his practice of community-rooted education. In particular, he has long been involved in a project to revitalize high schools in Ugo Town, Akita Prefecture.",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At first glance, he seems full of vitality, but his origins lie in his experience of \"school non-attendance\" and a high school life where he hid his true age.",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We unravel the story of why he became awakened to education, why he travels to Akita, and why he is moving on to graduate school.",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#Education #DiagonalRelationships #ChangingLivesThroughEncounters",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"hardest time of my life\" in junior high, and the three years I kept it a secret",
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー：前編】ugo CEO松井が語る「ロボット社会実装」への挑戦とこれから【創業と起死回生のピボット】｜ ugo（ユーゴー）＜公式＞",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー：前編】ugo CEO松井が語る「ロボット社会実装」への挑戦とこれから【創業と起死回生のピボット】",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "業務DXロボットを展開するｕｇｏ株式会社 代表取締役CEO 松井 健氏へのインタビュー。ソフトウェアエンジニアからIoT、そしてロボットへと至るまでの3度の起業経験、資金難からのピボット、そして点検ロボット「ugo mini」誕生の裏側を深掘りします。",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "＜本記事はPodcastの文字起こしをnote向けに再編したものです＞",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "1. ソフトウェアからIoTへ：松井CEOがたどった3度の起業経験",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "本日は、ｕｇｏ株式会社 代表取締役CEO 松井さんをお招きして、ugoの過去・現在・未来みたいなことをですね、色とお話を伺っていければと思いますので、よろしくお願いいたします。",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "では早速なんですけども、まずは松井さんの自己紹介をお願いできればと思います。",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "私は元々、大学ではソフトウェア工学を学んでいて、卒業後はSIerに入って、大企業のシステム開発などをしていました。今はロボットを開発するスタートアップをやっていますが、それまでいろんな紆余曲折を経ながら今のugoという会社をやっているという状況です。",
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "pass": 3
+   },
+   {
+    "quote": "ugoはこうして生まれた〜開発の舞台裏と描く未来〜｜ ugo（ユーゴー）＜公式＞",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   },
+   {
+    "quote": "ugoはこうして生まれた〜開発の舞台裏と描く未来〜",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットと聞くと、産業用ロボットの開発やお掃除ロボットや家庭用ペットロボット、最近はアメリカや中国のヒューマノイドロボットがイメージされますかね。",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   },
+   {
+    "quote": "そこからイメージするロボット開発は最先端でスマートな世界が想像されるかもしれません。",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   },
+   {
+    "quote": "でも実際の開発現場は、泥臭くて、地道で、うまくいかないことの連続です。",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   },
+   {
+    "quote": "ugoというロボットが、どうやって生まれ、どんな進化をしてきたのか。",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、その軌跡と、今も変わらず大切にしている原点をお伝えします。",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   },
+   {
+    "quote": "創業〜開発のはじまり：IoTの先に見えた“リアルな課題”",
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ugo Lord (@UgoLord) / X Ugo Lord (@UgoLord) / X X https://x.com > UgoLord",
+    "url": "https://x.com/UgoLord",
+    "pass": 3
+   },
+   {
+    "quote": "Jackson Ugo (@Jacksonugo_) / X Jackson Ugo (@Jacksonugo_) / X X https://x.com > Jacksonugo_",
+    "url": "https://x.com/Jacksonugo_",
+    "pass": 3
+   },
+   {
+    "quote": "Ugo Panizza (@upanizza) / X Ugo Panizza (@upanizza) / X X https://x.com > upanizza",
+    "url": "https://x.com/upanizza",
+    "pass": 3
+   },
+   {
+    "quote": "justice ugo (@justiceugo21) / X justice ugo (@justiceugo21) / X X https://x.com > justiceugo21",
+    "url": "https://x.com/justiceugo21",
+    "pass": 3
+   },
+   {
+    "quote": "ugo ＜ユーゴー＞@フィジカルAIスタートアップ - X ugo ＜ユーゴー＞@フィジカルAIスタートアップ - X X https://x.com > @ugo_robot",
+    "url": "https://x.com/ugo_robot/status/2013851764110340444",
+    "pass": 3
+   },
+   {
+    "quote": "ugo ＜ユーゴー＞@フィジカルAIスタートアップ - X ugo ＜ユーゴー＞@フィジカルAIスタートアップ - X X https://x.com > ugo_robot",
+    "url": "https://x.com/ugo_robot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ugo | LinkedIn ugo | LinkedIn LinkedIn https://www.linkedin.com > ugo-inc",
+    "url": "https://www.linkedin.com/company/ugo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ugo Udeogu - AI for Security and Life Safety || Wharton MBA Ugo Udeogu - AI for Security and Life Safety || Wharton MBA LinkedIn https://www.linkedin.com > ugo",
+    "url": "https://www.linkedin.com/in/ugo",
+    "pass": 3
+   },
+   {
+    "quote": "Ugo Nwasike - Corporate Attorney | Investor | Author - LinkedIn Ugo Nwasike - Corporate Attorney | Investor | Author - LinkedIn LinkedIn https://www.linkedin.com > ugo-nwas...",
+    "url": "https://www.linkedin.com/in/ugo-nwasike-08a02b106",
+    "pass": 3
+   },
+   {
+    "quote": "Ugo - LinkedIn Ugo - LinkedIn LinkedIn https://www.linkedin.com > ugo",
+    "url": "https://www.linkedin.com/company/ugo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ugo (@CafeUgo) - Facebook Ugo (@CafeUgo) - Facebook Facebook https://www.facebook.com > CafeUgo",
+    "url": "https://www.facebook.com/CafeUgo/",
+    "pass": 3
+   },
+   {
+    "quote": "Three Ugo locations. One love for Italian food Join us in ... Three Ugo locations. One love for Italian food Join us in ... Facebook https://www.facebook.com > ... > Ugo > Videos",
+    "url": "https://www.facebook.com/CafeUgo/videos/three-ugo-locations-one-love-for-italian-food-join-us-in-culver-city-at-our-long/1339363448113176/",
+    "pass": 3
+   },
+   {
+    "quote": "Ugo | Los Angeles CA - Facebook Ugo | Los Angeles CA - Facebook Facebook https://www.facebook.com > ... > Italian Restaurant",
+    "url": "https://www.facebook.com/ugodowntownla/",
+    "pass": 3
+   },
+   {
+    "quote": "uGo Apparel (@uGocyclingapparel) - Facebook uGo Apparel (@uGocyclingapparel) - Facebook Facebook https://www.facebook.com > ... > Brand > Clothing (Brand)",
+    "url": "https://www.facebook.com/uGocyclingapparel/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://corp.ugo.plus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.ugo.plus/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.ugo.plus/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://initial.inc/companies/A-30640",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://herp.careers/careers/companies/ugo0220",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-30640",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.com/finance/2020001125230/settlement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-30640",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ugo.plus/information/2026/04/15/financing_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thebridge.jp/2025/05/ugo-developer-of-business-dx-robots-raises-funding",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ugo.plus/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/product/detail/2001521924/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-30640",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ugo_robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/UgoLord",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Jacksonugo_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/upanizza",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/justiceugo21",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ugo-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ugo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ugo-nwasike-08a02b106",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ugo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CafeUgo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CafeUgo/videos/three-ugo-locations-one-love-for-italian-food-join-us-in-culver-city-at-our-long/1339363448113176/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ugodowntownla/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/uGocyclingapparel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ugo_robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ugo_robot/status/2013851764110340444",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ugo_robot/n/n82e439c5c181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ugo_robot",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ugo 会社概要 資本金 設立",
+   "results": [
+    "https://corp.ugo.plus/company/",
+    "https://initial.inc/companies/A-30640",
+    "https://herp.careers/careers/companies/ugo0220",
+    "https://www.careercross.com/company/detail-567910",
+    "https://www.pref.saitama.lg.jp/robotics/database/625.html",
+    "https://www.kudan.io/jp/archives/856",
+    "https://startupclass.co.jp/online/companies/893/",
+    "https://compalyze.co.jp/company/2020001125230",
+    "https://www.u-go.co.jp/corporate/overview",
+    "https://corp.ugo.plus/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ugo 事業内容 売上",
+   "results": [
+    "https://ugo.plus/information/2026/04/15/financing_news/",
+    "https://initial.inc/companies/A-30640",
+    "https://prtimes.com/finance/2020001125230/settlement",
+    "https://www.buffett-code.com/company/5xc7nvtf05/",
+    "https://www.tv-tokyo.co.jp/plus/external-pr/entry/275615.html",
+    "https://www.openwork.jp/a0C2x00000aKHeS/recruit?j=a098926ed5882fff",
+    "https://startup-db.com/companies/O24mpqBUWL3Znx3a",
+    "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "https://startupclass.co.jp/online/companies/893/",
+    "https://corp.ugo.plus/ir/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ugo 資金調達 株主",
+   "results": [
+    "https://initial.inc/companies/A-30640",
+    "https://ugo.plus/information/2026/04/15/financing_news/",
+    "https://thebridge.jp/2025/05/ugo-developer-of-business-dx-robots-raises-funding",
+    "https://x.com/tomotake94/status/2044304077610463468",
+    "https://prtimes.jp/main/html/rd/p/000000131.000034305.html",
+    "https://www.buffett-code.com/company/5xc7nvtf05/",
+    "https://finance.protocol.ooo/equity/company/c-82c7d655/",
+    "https://www.logi-today.com/1013264",
+    "https://dempa-digital.com/article/713189",
+    "https://ugo.plus/information/2026/10/21/debtfinance/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ugo 導入事例",
+   "results": [
+    "https://ugo.plus/case-study/",
+    "https://note.com/kmoriyama/n/nd3223dea41dd",
+    "https://www.ipros.com/product/detail/2001521924/",
+    "https://robotaward.jp/award-winning/%E7%A4%BE%E4%BC%9A%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%A5%AD%E5%8B%99dx%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88ugo%EF%BC%88/",
+    "https://ugo.plus/whitepaper/wp06/",
+    "https://www.jdcc.or.jp/members/3226/",
+    "https://t-spider.jp/success-stories/",
+    "https://dx.nsw.co.jp/solution/smart-maintenance/ugo/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "ugo 主要取引先",
+   "results": [
+    "https://corp.ugo.plus/company/",
+    "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "https://initial.inc/companies/A-30640",
+    "https://startupclass.co.jp/online/companies/893/",
+    "https://www.hankyu-hanshin.co.jp/release/2026/09/72a696c4dc3808ec1c2629c40e565aed635f176f.pdf",
+    "https://herp.careers/v1/ugo0220",
+    "https://www.kudan.io/jp/archives/856",
+    "https://shachomeikan.jp/corporations/26127",
+    "https://www.facebook.com/ugo.plus/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com ugo",
+   "results": [
+    "https://note.com/ugo_robot",
+    "https://note.com/tasterr/n/n55ee6e1c5ae2?hl=en",
+    "https://note.com/kmoriyama/n/nc6bde0f3d035?hl=en",
+    "https://note.com/kamotalk/n/n094190654850?hl=en",
+    "https://note.com/kmoriyama/n/n8d4aa5aee0f6?hl=en",
+    "https://note.com/ugo_robot/n/n1e0026d16142",
+    "https://note.com/lush_macaw9968/n/n6f9861f1b47f?hl=en",
+    "https://note.com/ugo_robot/m/m230133360cf7/hashtag",
+    "https://note.com/kaneyan_akita/n/nc60e2beedba5?hl=en",
+    "https://note.com/ugo_robot/n/nc3a9c4ac2e25?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com ugo",
+   "results": [
+    "https://x.com/UgoLord",
+    "https://x.com/Jacksonugo_",
+    "https://x.com/upanizza",
+    "https://x.com/justiceugo21",
+    "https://x.com/ugotroiano",
+    "https://x.com/hashtag/Ugo?src=hashtag_click",
+    "https://x.com/heyitsugo",
+    "https://x.com/HumbertUgo",
+    "https://x.com/UgoAstuto",
+    "https://x.com/UgoJustrealugo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com ugo",
+   "results": [
+    "https://www.linkedin.com/company/ugo-inc",
+    "https://www.linkedin.com/in/ugo",
+    "https://www.linkedin.com/in/ugo-nwasike-08a02b106",
+    "https://www.linkedin.com/company/ugo",
+    "https://it.linkedin.com/in/ugo-rosolia",
+    "https://www.linkedin.com/in/ugo-ude-14970425",
+    "https://www.linkedin.com/in/ugocatry",
+    "https://www.linkedin.com/company/preway",
+    "https://www.linkedin.com/company/ugo-llc",
+    "https://www.linkedin.com/company/ugouniversity"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ugo",
+   "results": [
+    "https://www.facebook.com/CafeUgo/",
+    "https://www.facebook.com/CafeUgo/videos/three-ugo-locations-one-love-for-italian-food-join-us-in-culver-city-at-our-long/1339363448113176/",
+    "https://www.facebook.com/ugodowntownla/",
+    "https://www.facebook.com/uGocyclingapparel/",
+    "https://www.facebook.com/UGOTheArtist/",
+    "https://www.facebook.com/UGOGlobalLogistics/photos/",
+    "https://www.facebook.com/ugoseating/",
+    "https://www.facebook.com/UGOImpact/",
+    "https://www.facebook.com/UgoSpeakers/",
+    "https://www.facebook.com/ugolifestyle/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ugo note 社長",
+   "results": [
+    "https://note.com/ugo_robot",
+    "https://note.com/ugo_robot/n/n8e754f29bfe0",
+    "https://x.com/ugo_robot/status/2013851764110340444",
+    "https://note.com/ugo_robot/n/n82e439c5c181",
+    "https://ugo.plus/information/2026/09/17/note/",
+    "https://note.com/ugo_robot/m/m230133360cf7/hashtag/podcast%E9%85%8D%E4%BF%A1%E4%B8%AD",
+    "https://www.nttdocomo-v.com/news/pnz89v3hzk/",
+    "https://note.com/ugo_robot/n/nc3a9c4ac2e25",
+    "https://shachomeikan.jp/industry_article/5983",
+    "https://corp.ugo.plus/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ugo X 投稿",
+   "results": [
+    "https://x.com/ugo_robot",
+    "https://github.com/Ugo-X",
+    "https://www.youtube.com/watch?v=IB8MRXLw0m0",
+    "https://www.town.ugo.lg.jp/sitepolicy/detail.html?id=9",
+    "https://www.instagram.com/ugo.x_/",
+    "https://ugo.plus/",
+    "https://www.ugo.monster/30drawings_data/",
+    "https://note.com/ugo_robot",
+    "https://x.com/UGO_information",
+    "https://x.com/UGO_information/with_replies"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "資本金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）"
+ }
+}

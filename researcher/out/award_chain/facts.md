@@ -1,4 +1,95 @@
-# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・27社）
+# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・58社）
+
+## Ashirase
+- 公式URL：https://www.ashirase.com/（given）
+- 事業内容：投資事業、インキュベーション事業（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 事業内容：歩行ナビゲーションシステム「あしらせ」の開発、販売、運用（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 事業内容：歩行ナビゲーションシステム「あしらせ」の開発、販売、運用（https://untrod.inc/news/951/・3回目）
+- 資本金：1億2,499万円（https://www.ashirase.com/company・1回目）
+- 資本金：9754万円（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 資本金：2,500,000円（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 創業年度：設立：2021年4月（https://www.ashirase.com/company・1回目）
+- 創業年度：設立：2021年04月（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 創業年度：・設立：1948年（昭和23年）9月（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 従業員数：11名 (2024年10月現在)（https://www.ashirase.com/company・1回目）
+- 株主：2024年2月（https://untrod.inc/news/951/・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-39587・3回目）
+- 所在地：〒101-0047 東京都千代田区内神田１丁目９−５ SF内神田ビル６階（https://www.ashirase.com/company・1回目）
+- 所在地：東京都千代田区内神田１丁目９−５
+SF内神田ビル６階（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 所在地：東京都港区南青山2-1-1（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 代表者：代表取締役CEO　千野 歩（https://www.ashirase.com/company・1回目）
+- 代表者：千野　歩（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 代表者：代表取締役社長 三部敏宏（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「・2018年12月 経産省主催「始動」プログラムにてシリコンバレー派遣メンバーに選抜」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「・運営会社 ：合同会社リアルテックジャパン」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「・事業内容 ：投資事業、インキュベーション事業」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「・事業内容 ：歩行ナビゲーションシステム「あしらせ」の開発、販売、運用」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「リアルテックホールディングス株式会社（所在地：東京都墨田区、代表：丸幸弘、永田 暁彦）が運営するリアルテックファンド*は、視覚障がい者向け歩行ナビゲーションを開発するベンチャーである株式会社Ashirase（本社：東京都港区、代表取締役社長：千野歩、以下「Ashirase」）へ追加投資を実施したことをお知らせ致します」（https://untrod.inc/news/951/・3回目）
+  - 「Ashiraseはクラウドファンディングによって先行販売モデルを販売し、120名の方々からのフィードバックを頂き、よりスムーズなユーザーの移動を実現する一般販売モデルを開発しました」（https://untrod.inc/news/951/・3回目）
+  - 「2022年にリアルテックファンドとQBキャピタル等との協調投資を行い、クラウドファンディングで120名への販売を実現しましました」（https://untrod.inc/news/951/・3回目）
+  - 「今回の資金調達ではつけ心地などのユーザビリティー改善、GNSS測位の高精度化、サイズの小型化を進め、24年夏頃の一般販売を実施し歩行に課題を抱える方々にあしらせを提供いたします」（https://untrod.inc/news/951/・3回目）
+  - 「事業内容：歩行ナビゲーションシステム「あしらせ」の開発、販売、運用」（https://untrod.inc/news/951/・3回目）
+  - 「同社が運営するベンチャーキャピタル「リアルテックファンド」は、ディープテック・スタートアップを成功に導いた経験のある株式会社ユーグレナの代表執行役員CEO 永田暁彦と、ディープテック・スタートアップを創業前から支援する豊富な実績を有する株式会社リバネスの代表取締役CEO 丸幸弘によって創設されました」（https://untrod.inc/news/951/・3回目）
+  - 「2021年には、ディープテック領域に投資するファンドとしては日本で初めてのインパクト投資ファンドを設立する他、インパクト志向金融宣言*の署名機関・運営委員として、インパクト投資の促進に積極的に取り組んでおります」（https://untrod.inc/news/951/・3回目）
+  - 「取材を通して見えてきた起業から量産化実現までの取り組みを紹介します」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+- 客は誰か：
+  - 「今後、2024年夏ごろに新モデルによる一般販売をスタートさせると共に、引き続きBtoB、海外展開についてもPoCを実施し、社会実装を進めていくことで視覚障がい者の生活の豊かさを拡げて参ります」（https://prtimes.jp/main/html/rd/p/000000021.000080967.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「また、ガイドヘルパーは自治体ごとに利用制限が設けられているとともに、歩行支援では腕を掴むなど必ず密になることから、[MS(実4] コロナウィルスの影響でヘルパーを辞める方が増えていると言われています」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「所在地：東京都港区虎ノ門2-2-1住友不動産虎ノ門タワー5階グロース虎ノ門room3」（https://untrod.inc/news/951/・3回目）
+  - 「2021年には、ディープテック領域に投資するファンドとしては日本で初めてのインパクト投資ファンドを設立する他、インパクト志向金融宣言*の署名機関・運営委員として、インパクト投資の促進に積極的に取り組んでおります」（https://untrod.inc/news/951/・3回目）
+  - 「IGNITIONではHondaとの事業連携や協業に加え、独立系VCや金融機関、CVCなど、さまざまな領域の投資家から支援を受けて事業を育成できます」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「実際、僕がIGNITIONを利用して立ち上げた株式会社Ashiraseは、Honda第1号案件となれたことで金融機関や部品メーカーとのやり取りもスムーズでした」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「ですがそれまで得ていた高い満足度の正体は、体験会という安全な場所で、メーカー側によって完璧に設定されたデバイスを装着して歩く程度の「この製品は使える」に過ぎなかったんだと次第にわかってきました」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「次モデルの無償提供を約束し、顧客の声を引き出す」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「でも千野さんは顧客ファーストできちんと課題に向き合った」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「このソリューションはどうすれば顧客に便利に使ってもらえるのかについて真摯に向き合った3年だと思います」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「【解決のヒント3】量産化を急ぐ前に、目の前の顧客の課題に真摯に向き合う」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「製品開発は投資家や工場など多くの人を巻き込んでいるので、もともとのスケジュール、ストーリーを遵守したくなりますが、顧客の価値を上げられていない状態であれば、売り上げ目標を抑えてスケジュールを引き直す勇気も必要だと思いますね」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「また、スタートアップはPMF（Product Market Fit）といってプロダクトがマーケットにフィットすることを性急に目指してしまいがちですが、その前段にはちゃんと顧客の課題を解決できているかを考える段階・PSF（Problem Solution Fit）があり、ここがおろそかだとその後もうまくいかないと思っています」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+- 資本金・株主：
+  - 「Honda発 第1号スタートアップとして「株式会社Ashirase」を設立し、総額5,000万円の資金調達を実施 | 株式会社 Ashiraseのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「Honda発 第1号スタートアップとして「株式会社Ashirase」を設立し、総�額5,000万円の資金調達を実施」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「株式会社Ashirase（代表取締役：千野 歩、以下当社）は、本田技研工業株式会社（以下、Honda）の新事業創出プログラムIGINITION発第1号スタートアップとして設立され、Honda及びリアルテックファンドからシードラウンドにて5,000万円 の資金調達を行いました」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「今回の資金調達により、靴装着型IoTデバイス及びナビゲーションアプリを開発、2021年中に実証試験を実施します」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「そこで、視覚障がい者の方に実際の生活で使って頂くことが可能な、より最終仕様に近い試作を本年度に製作することを目的に、今回資金調達を行いました」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「・資本金 ：2,500,000円」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「リアルテックホールディングス、直感的な歩行を実現する歩行ナビゲーションスタートアップのAshiraseへの追加出資を実施 | UntroD」（https://untrod.inc/news/951/・3回目）
+  - 「リアルテックホールディングス、直感的な歩行を実現する歩行ナビゲーションスタートアップのAshiraseへの追加出資を実施」（https://untrod.inc/news/951/・3回目）
+  - 「今回の資金調達ではつけ心地などのユーザビリティー改善、GNSS測位の高精度化、サイズの小型化を進め、24年夏頃の一般販売を実施し歩行に課題を抱える方々にあしらせを提供いたします」（https://untrod.inc/news/951/・3回目）
+  - 「資本金：5000万円」（https://untrod.inc/news/951/・3回目）
+  - 「出資時期：2024年2月」（https://untrod.inc/news/951/・3回目）
+  - 「同社が運営するベンチャーキャピタル「リアルテックファンド」は、ディープテック・スタートアップを成功に導いた経験のある株式会社ユーグレナの代表執行役員CEO 永田暁彦と、ディープテック・スタートアップを創業前から支援する豊富な実績を有する株式会社リバネスの代表取締役CEO 丸幸弘によって創設されました」（https://untrod.inc/news/951/・3回目）
+- 表彰・認定の記録：
+  - 「・2019年11月 S-Booster2019にて最優秀賞（賞金1000万円）を受賞」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「・2021年2月 Asics Accelerator Programにて優秀賞を受賞」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「屋内ナビゲーション「IndoorFlow」、入札によらない随意契約での導入が可能に― 全国30自治体が参画する東京都「ファーストカスタマー・アライアンス」認定事例カタログに掲載 ―」（https://initial.inc/companies/A-39587・3回目）
+  - 「屋内ナビゲーション「IndoorFlow」、入札によらない随意契約での導入が可能に― 全国30自治体が参画する東京都「ファーストカスタマー・アライアンス」認定事例カタログに掲載 ―」（https://prtimes.jp/main/html/searchrlp/company_id/80967・3回目）
+  - 「視覚障がい者向け歩行ナビゲーションデバイス「あしらせ」、東京都ベンチャー技術大賞にて優秀賞を受賞」（https://prtimes.jp/main/html/searchrlp/company_id/80967・3回目）
+  - 「Ashirase、経済産業省が推進する「J-Startup」認定企業に選出」（https://prtimes.jp/main/html/searchrlp/company_id/80967・3回目）
+  - 「視覚障がい者を補助する歩行ナビゲーションシステム「あしらせ」、世界の最先端テクノロジーが集結する『CES2023』にて、Innovation Awardを受賞(※1)」（https://prtimes.jp/main/html/searchrlp/company_id/80967・3回目）
+  - 「歩行ナビゲーションシステム 「 あしらせ 」 が 「 2022年度グッドデザイン賞 金賞 」 を受賞」（https://prtimes.jp/main/html/searchrlp/company_id/80967・3回目）
+  - 「Ashirase、ディープテックグランプリ2021でダブル受賞！」（https://prtimes.jp/main/html/searchrlp/company_id/80967・3回目）
+  - 「2026年3月にはオーストラリアで販売を開始し、欧州でも医療機器認定を取得して今秋の発売を予定するなど、海外展開も進めている」（https://www.projectdesign.jp/articles/news/c8478e98-3f26-4022-84b2-e5849e3654d5・3回目）
+  - 「東京都庁本庁舎では東京都のスタートアップ支援策「キングサーモンプロジェクト」に採択され、本庁舎への実装と公共調達認定を取得」（https://www.projectdesign.jp/articles/news/c8478e98-3f26-4022-84b2-e5849e3654d5・3回目）
+  - 「公益財団法人日本デザイン振興会「2022年度グッドデザイン賞 金賞」受賞」（https://kingsalmon.metro.tokyo.lg.jp/company06/ashirase.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | Ashirase (あしらせ) — 会社概要 | Ashirase (あしらせ) Ashirase(あしらせ) https://www.ashirase.com > company」（https://www.ashirase.com/company・3回目）
+  - 「Honda発 第1号スタートアップとして「株式 会社Ashirase 」を ... — Honda発 第1号スタートアップとして「株式 会社Ashirase 」を ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000001.000080967.html・3回目）
+  - 「Honda発第1号スタートアップとして「株式 会社Ashirase 」を ... — Honda発第1号スタートアップとして「株式 会社Ashirase 」を ... TOMORUBA https://tomoruba.eiicon.net > ニュース」（https://tomoruba.eiicon.net/articles/2771・3回目）
+  - 「誰の責任か。 Ashirase が突きつける社会設計の課題 - ZEROICHI — 誰の責任か。 Ashirase が突きつける社会設計の課題 - ZEROICHI ZEROICHI https://zeroichi.media > medical」（https://zeroichi.media/medical/39313・3回目）
+  - 「視覚障害者向け歩行ナビゲーションデバイスを開発・提供する ... — 視覚障害者向け歩行ナビゲーションデバイスを開発・提供する ... Ashirase(あしらせ) https://www.ashirase.com > news > news_202507」（https://www.ashirase.com/news/news_202507・3回目）
+  - 「Honda発のベンチャー「 Ashirase 」が 量産化実現に向けて ... — Honda発のベンチャー「 Ashirase 」が 量産化実現に向けて ... Honda Global https://global.honda > stories > 147-2411-startup-tips」（https://global.honda/jp/stories/147-2411-startup-tips.html・3回目）
+  - 「株式会社 Ashirase - スピーダ スタートアップ情報リサーチ — 株式会社 Ashirase - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-39587・3回目）
+  - 「Ashirase 、シリーズAで3.4億円を調達 屋内空間データ基盤の ... — Ashirase 、シリーズAで3.4億円を調達 屋内空間データ基盤の ... 月刊「事業構想」オンライン https://www.projectdesign.jp > ニュース」（https://www.projectdesign.jp/articles/news/c8478e98-3f26-4022-84b2-e5849e3654d5・3回目）
+  - 「既存投資家より1.75億円の 資金調達 を実施 | 株式会社 Ashirase ... — 既存投資家より1.75億円の 資金調達 を実施 | 株式会社 Ashirase ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000021.000080967.html・3回目）
+  - 「Ashirase 、シリーズAで3.4億円を 調達 屋内空間データ基盤の ... — Ashirase 、シリーズAで3.4億円を 調達 屋内空間データ基盤の ... 月刊「事業構想」オンライン https://www.projectdesign.jp > ニュース」（https://www.projectdesign.jp/articles/news/c8478e98-3f26-4022-84b2-e5849e3654d5・3回目）
+  - 「株式会社 Ashirase 、シリーズAラウンドにて 資金調達 を実施し ... — 株式会社 Ashirase 、シリーズAラウンドにて 資金調達 を実施し ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000041.000080967.html・3回目）
+  - 「株式会社 Ashirase - KOBASHI ROBOTICS — 株式会社 Ashirase - KOBASHI ROBOTICS KOBASHI ROBOTICS株式会社 https://www.kobashirobotics.com > case > ashirase」（https://www.kobashirobotics.com/case/ashirase/・3回目）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索11回）
 
 ## Crane&I
 - 公式URL：https://crane-i.co.jp/（given）
@@ -81,6 +172,87 @@
   - 「会社情報 – 株式 会社 Crane＆I — 会社情報 – 株式 会社 Crane＆I 株式会社Crane＆I https://crane-i.co.jp > company」（https://crane-i.co.jp/company/・3回目）
   - 「( 株 ) Crane＆I の新卒採用・会社概要 | マイナビ2027 — ( 株 ) Crane＆I の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp286444 > outline」（https://job.mynavi.jp/27/pc/search/corp286444/outline.html・3回目）
 - 株主：記載なし（3回確認済み：公式6頁／PDF・画像1件／外部20頁・検索11回）
+
+## Cuebus
+- 公式URL：https://cuebus.jp/（given）
+- 事業内容：“加速する時間に応える“をミッションに、全方位に走行可能な独自開発リニアモータをコア技術とする、都市型立体ロボット倉庫「CUEBUS（キューバス）」を開発・提供しています。 （1）超収納効率 通路不要・天井ギリギリまで収納可能 （2）超スループット すべての棚を同時かつ即座に動かせる （3）超柔軟性 誰でもどこにでも短期間で簡単に設置可能なシンプル構成 これら３つの特徴を兼ね備えたソリューションであるCUEBUSを軸に、物流現場の生産性向上や空間利用の最適化など、業界が抱える課題を解決に導きます。（https://tenshoku.mynavi.jp/company/440203/・3回目）
+- 事業内容：リニア駆動型ロボット倉庫CUEBUSのハード/ソフトウェア開発・販売（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 事業内容：リニア駆動型ロボット倉庫Cuebusのハード/ソフトウェア開発・販売（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+- 資本金：6億8690万7300円（https://tenshoku.mynavi.jp/company/440203/・3回目）
+- 資本金：6億8000万円（2024年12月23日現在、資本準備金を含む）（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 資本金：9450万円（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 創業年度：設立：2015年2月（https://tenshoku.mynavi.jp/company/440203/・3回目）
+- 創業年度：設立：2015年2月（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 創業年度：設立：2015年02月（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-39109・3回目）
+- 株主：三菱倉庫株式会社（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+- 所在地：東京都台東区蔵前1-3-16  蔵前JPテラス物流棟7F（https://tenshoku.mynavi.jp/company/440203/・3回目）
+- 所在地：東京都台東区蔵前1丁目3番地16号 蔵前JPテラス物流棟7階（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 所在地：東京都練馬区北町8丁目1-5（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 代表者：大久保勝広（https://tenshoku.mynavi.jp/company/440203/・3回目）
+- 代表者：大久保 勝広（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 代表者：大久保勝広（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「同時に業務アプリや倉庫管理システムを含めた自社での全システムの開発と販売も行います」（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+  - 「リニア駆動型ロボット倉庫CUEBUSのハード/ソフトウェア開発・販売」（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+  - 「Cuebus、日本IBMの製造業向け統合AIソリューション「ORION」開発に共創パートナーとして参画」（https://initial.inc/companies/A-39109・3回目）
+  - 「同時に業務アプリや倉庫管理システムを含めた自社での全システムの開発と販売も行います」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「事業内容： リニア駆動型ロボット倉庫Cuebusのハード/ソフトウェア開発・販売」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「事業内容： ディープテック・スタートアップを支援する投資事業会社」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「トヨタ紡織は、自動車産業をリードするトヨタグループの一員として、自動車用のシートやドアトリムなどの内装品、バンパーなどの外装品、エアフィルターといったユニット部品など、自動車関連部品を製造・販売しています」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「内装システムサプライヤー事業と内装製品の製造および販売」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「自動車用フィルターおよびパワートレーン機器部品の製造および販売」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「ビームスグループは、アパレルをはじめ、雑貨、家具、アートなどを扱う国内外約175店におよぶセレクトショップ運営のほか、オリジナル商品の海外向け卸事業や企業・自治体とのBtoB（企業間取引）を伴う協業などの業容拡大を進めています」（https://logi.toyota-lf.com/case/case047/・3回目）
+  - 「このサイトでは、多数の自動倉庫メーカーと業界別・荷姿別の導入事例などを紹介しています」（https://www.warehouse-automatic.net/manufacturer/cuebus.html・3回目）
+  - 「点検・修理ロボットが常に走行し点検していますが、大きなトラブルは技術者を現場に派遣して修理しています」（https://www.warehouse-automatic.net/manufacturer/cuebus.html・3回目）
+- 客は誰か：
+  - 「2021 03 – 東京都中小企業振興公社次世代イノベーションプロジェクト採択」（https://cuebus.jp/company/・1回目）
+  - 「必要最小限の規模から導入できるので初期投資も最小限に抑えられ、自社で倉庫を持つことができなかった中小企業に対しても導入しやすく、圧倒的な利便性とコストパフォーマンスで物流倉庫の生産性向上と人手不足などの課題を解決します」（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+  - 「必要最小限の規模から導入できるので初期投資も最小限に抑えられ、自社で倉庫を持つ事ができなかった中小企業に対しても導入しやすく、圧倒的な利便性とコストパフォーマンスで物流倉庫の生産性向上と人手不足などの課題を解決します」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「ビームスグループは、アパレルをはじめ、雑貨、家具、アートなどを扱う国内外約175店におよぶセレクトショップ運営のほか、オリジナル商品の海外向け卸事業や企業・自治体とのBtoB（企業間取引）を伴う協業などの業容拡大を進めています」（https://logi.toyota-lf.com/case/case047/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「Cuebus（キューバス）は リニアモーターによるロボット倉庫」（https://cuebus.jp/・1回目）
+  - 「国際物流総合展2024」（https://cuebus.jp/・1回目）
+  - 「世界初！3階層のリニアモータ式ロボット倉庫「CUEBUS Pallet 200kg」―世界的フットウェアアパレルブランドA社の物流拠点導入」（https://cuebus.jp/・1回目）
+  - 「食品物流＆3PL総合展2026 出展のお知らせ」（https://cuebus.jp/・1回目）
+  - 「矢崎総業・山善と「リニアモータ式ロボット倉庫」実証実験を開始」（https://cuebus.jp/・1回目）
+  - 「国土交通省「令和８年度自動物流道路の社会実装に向けた実証実験」に採択」（https://cuebus.jp/・1回目）
+  - 「空間効率を最大化する多階層・高密度立体自動倉庫「CUEBUS Pallet 200kg」を発表」（https://cuebus.jp/・1回目）
+  - 「Cuebus株式会社「自動物流道路」実証実験レポート 100m連続搬送・最大積載1tの自動搬送に成功」（https://cuebus.jp/・1回目）
+  - 「2025/9 国土交通省が主導する自動物流道路 搬送機器の実証実験としてCuebus株式会社の都市型立体ロボット倉庫CUEBUSを採択」（https://cuebus.jp/・1回目）
+  - 「世界初！新物流拠点「ビームス ウエアステーション」に当社CUEBUSの導入が発表」（https://cuebus.jp/・1回目）
+  - 「インターネットをリアルにするモノ、”物流”」（https://cuebus.jp/・1回目）
+  - 「大規模倉庫だけでなくコインロッカーのような小規模倉庫まで自動化された物流拠点に変える」（https://cuebus.jp/・1回目）
+- 資本金・株主：
+  - 「2025 12 – 第三者割当増資実施 (資本金 4億9345万)」（https://cuebus.jp/company/・1回目）
+  - 「2024 12 – 第三者割当増資実施 (資本金 6億8690万7300円 準備金含む)」（https://cuebus.jp/company/・1回目）
+  - 「2024 01 – 第三者割当増資実施 (資本金 5億2598万8500円 準備金含む)」（https://cuebus.jp/company/・1回目）
+  - 「2023 08 – 第三者割当増資実施 (資本金 3億598万9700円 準備金含む)」（https://cuebus.jp/company/・1回目）
+  - 「2021 10 – 第三者割当増資実施 (資本金 1億9,950万円 準備金含む)」（https://cuebus.jp/company/・1回目）
+  - 「2017 06 – 第三者割当増資実施 (資本金 1,000万円 準備金含む)」（https://cuebus.jp/company/・1回目）
+  - 「Cuebus、第三者割当増資を実施 シリーズBエクステンションラウンドにて調達（調達額は非公開）」（https://initial.inc/companies/A-39109・3回目）
+  - 「Cuebus、第三者割当増資を実施 シリーズBラウンドにて調達（調達額は非公開）」（https://initial.inc/companies/A-39109・3回目）
+  - 「Cuebus、第三者割当増資を実施 シリーズAラウンドにて調達（調達額は非公開）」（https://initial.inc/companies/A-39109・3回目）
+  - 「Cuebus株式会社、日本政策金融公庫から資本性ローンによる資金調達を実施」（https://initial.inc/companies/A-39109・3回目）
+  - 「都市型立体ロボット倉庫「CUEBUS」を提供する、Cuebus株式会社は、シリーズBで第三者割当増資を実施 | Ｃｕｅｂｕｓ株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「リニアモータを活用した世界初の都市型立体ロボット倉庫システム「CUEBUS（キューバス）」を提供する、Ｃｕｅｂｕｓ株式会社（本社：東京都江東区、代表取締役：大久保勝広）は、三菱倉庫グループMLCベンチャーズ株式会社（本社：東京都中央区、代表取締役：越智史朗）、AbiesVentures株式会社（本社：東京都港区、代表取締役マネージング・パートナー：山口冬樹）、トヨタ紡織株式会社（本社：愛知県刈谷市、代表取締役社長：白柳正義（順不同）を引受先とする第三者割当増資を実施し、シリーズBの資金調達を行なったことをお知らせします」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+- 検索結果の抜粋：
+  - 「Company - CUEBUS — Company - CUEBUS CUEBUS https://cuebus.jp > company」（https://cuebus.jp/company/・3回目）
+  - 「Cuebus 株式会社の 会社概要 - マイナビ転職 — Cuebus 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/440203/・3回目）
+  - 「Cuebus - 自動物流道路の実装に向けたコンソーシアムに参加 — Cuebus - 自動物流道路の実装に向けたコンソーシアムに参加 PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000005.000137383.html・3回目）
+  - 「Cuebus 株式 会社 - スピーダ スタートアップ情報リサーチ — Cuebus 株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-39109・3回目）
+  - 「Cuebus 株式会社（東京都）の 会社概要 ・役員 | Compalyze — Cuebus 株式会社（東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備」（https://compalyze.co.jp/company/6010401116603・3回目）
+  - 「Cuebus 株式会社 - スピーダ スタートアップ情報リサーチ — Cuebus 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-39109・3回目）
+  - 「2024/12 第三者割当増資（シリーズB ... - CUEBUS — 2024/12 第三者割当増資（シリーズB ... - CUEBUS CUEBUS https://cuebus.jp > プレスリリース」（https://cuebus.jp/pick-4/・3回目）
+  - 「Cuebus 株式会社の会社情報/転職・求人情報 — Cuebus 株式会社の会社情報/転職・求人情報 Geekly https://www.geekly.co.jp > ... > エンタメ > エンタメ」（https://www.geekly.co.jp/companys/data/6435/・3回目）
+  - 「Cuebus 株式会社の会社概要 - マイナビ転職 — Cuebus 株式会社の会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/440203/・3回目）
+  - 「都市型立体ロボット倉庫「 CUEBUS 」を提供する - PR TIMES — 都市型立体ロボット倉庫「 CUEBUS 」を提供する - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000002.000137383.html・3回目）
+  - 「Cuebus 株式会社、日本政策金融公庫から 資本性ローンによる ... — Cuebus 株式会社、日本政策金融公庫から 資本性ローンによる ... アットプレス https://www.atpress.ne.jp > ... > Cuebus株式会社」（https://www.atpress.ne.jp/news/575309・3回目）
+  - 「Cuebus 株式会社 - Facebook — Cuebus 株式会社 - Facebook Facebook https://www.facebook.com > CUEBUS.official > posts」（https://www.facebook.com/CUEBUS.official/posts/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E4%B8%96%E7%95%8C%E5%88%9D%E3%81%AE%E9%83%BD%E5%B8%82%E5%9E%8B%E7%AB%8B%E4%BD%93%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%80%89%E5%BA%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0cuebus%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90%E3%82%B9%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%EF%BD%83%EF%BD%95%EF%BD%85%EF%BD%82%EF%BD%95%EF%BD%93%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%9C%AC%E7%A4%BE%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%B7%B4%E9%A6%AC%E5%8C%BA%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E5%A4%A7/909164954685786/・3回目）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部20頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部20頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部20頁・検索11回）
+- 表彰・認定の記録：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部20頁・検索11回）
 
 ## DRAFT
 - 公式URL：https://draft.co.jp/（given）
@@ -229,6 +401,45 @@
 - 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）
 - 表彰・認定の記録：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）
 
+## HAKKI
+- 公式URL：https://hakki-group.com/（given）
+- 事業内容：信用スコアリングの開発 / フリート管理CRM開発 / 子会社での金融・フリート管理事業（https://hakki-group.com/company/・1回目）
+- 資本金：24億6,980万円（資本準備金・資本剰余金含む）（https://hakki-group.com/company/・1回目）
+- 創業年度：設立：2019年3月7日（https://hakki-group.com/company/・1回目）
+- 従業員数：135名（正社員のみ）（https://hakki-group.com/company/・1回目）
+- 所在地：〒105-0023 東京都港区芝浦1-13-10 第3東運ビル8F（https://hakki-group.com/company/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「正式な信用履歴が残りにくい働き方は、伝統的な金融の枠からこぼれ落ちやすい」（https://hakki-group.com/about/business/・1回目）
+  - 「累計顧客数1000名を突破」（https://hakki-group.com/company/history/・1回目）
+  - 「累計顧客2000人突破」（https://hakki-group.com/company/history/・1回目）
+  - 「世界には未だに多くの人々が金融サービスにアクセスできない現状があります」（https://hakki-group.com/about/・1回目）
+  - 「信用スコアリングの開発 / フリート管理CRM開発 / 子会社での金融・フリート管理事業」（https://hakki-group.com/company/・1回目）
+  - 「金融サービスは人々の生活の中心であり、人々が経済に参加して苦境から脱却し、成功の機会をつかみ、夢を追求することを可能にします」（https://hakki-group.com/about/mission/・1回目）
+  - 「我々は、18億人いると言われる金融アクセスが無い新興国の方々に、“誠実に信用を築くことこそが、豊かな人生への近道だ”という世論の源流を作ります」（https://hakki-group.com/about/mission/・1回目）
+  - 「他社を圧倒するTechとスピードを武器に、信用スコアリングを始めとする上質な金融システムを届け、グローバルサウス初の日本人による銀行設立を通じて社会を革新します」（https://hakki-group.com/about/mission/・1回目）
+  - 「信用スコアリングをはじめ、上質な金融システムを現場へ」（https://hakki-group.com/about/mission/・1回目）
+  - 「グローバルサウス初の、日本人による銀行設立を目指す」（https://hakki-group.com/about/mission/・1回目）
+  - 「顧客、パートナー、仲間、支えてくれるすべての人への感謝を忘れない」（https://hakki-group.com/about/mission/・1回目）
+  - 「グローバルサウスでは、働く意欲も能力もあるのに、信用履歴や担保がないという理由だけで金融にアクセスできず、稼ぐ手段である車両すら持てない人が少なくありません」（https://hakki-group.com/about/ceo/・1回目）
+- 資本金・株主：
+  - 「信用スコアリングの開発 / フリート管理CRM開発 / 子会社での金融・フリート管理事業」（https://hakki-group.com/company/・1回目）
+- 表彰・認定の記録：
+  - 「Youth Co:Lab ソーシャル・イノベーション・チャレンジ 日本大会2025 歴代受賞者グランプリで優秀賞を受賞しました」（https://hakki-group.com/・1回目）
+  - 「東京ニュービジネス協議会が主催するグローバル大賞2025で、「海外アントレプレナー賞 最優秀賞」を受賞」（https://hakki-group.com/・1回目）
+  - 「FIN/SUM2021において、アワードを受賞」（https://hakki-group.com/company/history/・1回目）
+- 検索結果の抜粋：
+  - 「倉庫内物流自動化 事例 - Hai Robotics — 倉庫内物流自動化 事例 - Hai Robotics Hai Robotics https://www.hairobotics.com > cases」（https://www.hairobotics.com/jp/cases・3回目）
+  - 「レノボ武漢工場、 Hai Robotics 導入 で全工程スマート化！出庫 ... — レノボ武漢工場、 Hai Robotics 導入 で全工程スマート化！出庫 ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=-WhZcEYMp1Q・3回目）
+  - 「株式会社 HAI ROBOTICS JAPAN」とパートナーシップ契約を ... — 株式会社 HAI ROBOTICS JAPAN」とパートナーシップ契約を ... 株式会社ダイアログ https://www.dialog-inc.com > ダイアログ関連ニュース」（https://www.dialog-inc.com/dialog-news/press-hai-robotics-japan/・3回目）
+  - 「COMPANY PROFILE 会社概要 - 広島アルミニウム工業 — COMPANY PROFILE 会社概要 - 広島アルミニウム工業 広島アルミニウム工業 https://www.hai.co.jp > company > company_profile」（https://www.hai.co.jp/company/company_profile/・3回目）
+  - 「会社情報 - Nam Hai Art — 会社情報 - Nam Hai Art Nam Hai Art https://namhaiart.com > about」（https://namhaiart.com/about/?lang=ja・3回目）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）
+- 売上の柱（何で稼ぐか）：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索11回）
+
 ## H&
 - 公式URL：https://www.hugp.com/（given）
 - 事業内容：持株会社としてのグループ全体の戦略立案、IR・広報、経営執行の監督等（https://www.hugp.com/company/profile.html・1回目）
@@ -307,6 +518,358 @@
 - 売上高：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索11回）
 - 株主：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部32頁・検索11回）
+
+## Holoeyes
+- 公式URL：https://holoeyes.jp/（given）
+- 事業内容：医療用画像処理ソフトウエアの開発・販売（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 事業内容：VR技術を使った医療向けビジュアライゼーション・コミュニケーションサービスとして、CTスキャンやMRIから生成した3DデータをVR化するアプリケーションおよびクラウドサービスを提供（https://kingsalmon.metro.tokyo.lg.jp/company/holoeyes.html・3回目）
+- 事業内容：CTスキャンやMRIから生成した3DデータをVR化して、手術の検討、トレーニング、教育等へ活用可能なサービスを提供しています。
+                3DデータからVR化する際に、利用者側ではエンジニアを必要とせずに簡単にVRアプリ化が可能できることが特徴となっています。（https://kingsalmon.metro.tokyo.lg.jp/company/holoeyes.html・3回目）
+- 資本金：1億円（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 資本金：2億8300万円（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 資本金：1億円（https://prtimes.jp/main/html/rd/p/000000056.000026916.html・3回目）
+- 創業年度：設立：2016年10 月（https://jp.asteria.com/news/2023082911303/・3回目）
+- 創業年度：設立：2016年10月（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 創業年度：設立：2016 年 10 月（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 株主：約6千万円（https://jp.asteria.com/news/2023082911303/・3回目）
+- 株主：（株）メディパルホールディングス、日本ベンチャーキャピタル（株）、（株）Carbon Ventures、（株）QRインベストメント、 三井住友海上キャピタル（株）、SOLIZE（株）（https://jp.asteria.com/news/2023082911303/・3回目）
+- 株主：VCあり, 事業会社あり, 公的機関資金支援あり（https://initial.inc/companies/A-27168・3回目）
+- 所在地：東京都港区（https://jp.asteria.com/news/2023082911303/・3回目）
+- 所在地：東京都渋谷区、代表取締役社長：平野洋一郎、証券コード：3853、以下 アステリア）は、医療分野に特化したVRソフトウェアを開発・提供するスタートアップ企業のHoloeyes株式会社（本社：東京都港区、代表取締役：杉本 真樹（医師, 医学博士）、以下Holoeyes）への出資を実施したことを発表します（https://jp.asteria.com/news/2023082911303/・3回目）
+- 所在地：東京都港区南青山2−17−3
+モーリンビル303（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 代表者：杉本 真樹（https://jp.asteria.com/news/2023082911303/・3回目）
+- 代表者：杉本 真樹（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 代表者：代表取締役 杉本 真樹（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「令和8年度東京都トライアル発注認定制度「認定事業者及び認定商品紹介動画」が公開」（https://holoeyes.jp/・1回目）
+  - 「Holoeyesは全国の販売パートナーと連携のもと、医療従事者の方を対象とした、デモ体験を提供しています」（https://holoeyes.jp/・1回目）
+  - 「Holoeyes Eduを中心に、教育機関や研修医に向けたサービスの教育活用事例をご紹介します」（https://holoeyes.jp/・1回目）
+  - 「サービスの導入事例・ユースケースをご紹介しています」（https://holoeyes.jp/voices/・1回目）
+  - 「新製品を学会や展示会で紹介する際、パネル・動画では差別化が難しく、立ち止まってもらえない」（https://holoeyes.jp/service/biz/・1回目）
+  - 「サービスの導入事例・ユースケースをご紹介しています」（https://holoeyes.jp/voices/cases/・1回目）
+  - 「・販売名：医療用画像処理ソフトウェア Holoeyes MD」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「事業内容：医療用画像処理ソフトウエアの開発・販売」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「XRコンテンツの受託制作・運用サポート「Holoeyes Biz」、診療放射線技師による3Dモデル作成支援「イメージングアシストサービス」の提供」（https://initial.inc/companies/A-27168・3回目）
+  - 「Holoeyes、ジャミール商事と業務提携 事業開発と販売・マーケティングに関する事業連携開始」（https://initial.inc/companies/A-27168・3回目）
+  - 「※ 販売名：医療用画像処理ソフトウェア Holoeyes MD、一般的名称：汎用画像診断装置ワークステーション用プログラム、クラスⅡ（管理医療機器）、認証番号：302ADBZX00011000、認証日：令和2年2月28日」（https://prtimes.jp/main/html/rd/p/000000056.000026916.html・3回目）
+  - 「事業内容：医療用画像処理ソフトウエアの開発・販売」（https://prtimes.jp/main/html/rd/p/000000056.000026916.html・3回目）
+- 客は誰か：
+  - 「法人向け医療VRプロダクト制作/監修ソリューション」（https://holoeyes.jp/service/・1回目）
+  - 「東京都トライアル発注認定制度は、都内の中小企業者が開発した新規性の高い優れた新商品等の普及を支援する制度です」（https://holoeyes.jp/service/md/・1回目）
+  - 「の各認定等を受けた府内中小企業を紹介するページです」（https://www.pref.kyoto.jp/sangyo-sien/company/holoeyes.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「Holoeyes株式会社 - 医用画像と医療知見を空間的に再現・共有し医療の最適化を実現する」（https://holoeyes.jp/・1回目）
+  - 「臨床医療、医療教育のための」（https://holoeyes.jp/・1回目）
+  - 「Holoeyes AIとXRを核に医療事業を拡充」（https://holoeyes.jp/・1回目）
+  - 「医学部生・看護学部生をはじめ、研修医・若手医師等に向けたVR医療教育プラットフォーム「Holoeyes Edu」を使えば、スマートフォンと数百円のVRゴーグルがあれば、いつでも・どこでも・誰でも、最先端の解剖学・外科手術の術式を学べます」（https://holoeyes.jp/・1回目）
+  - 「Holoeyesは全国の販売パートナーと連携のもと、医療従事者の方を対象とした、デモ体験を提供しています」（https://holoeyes.jp/・1回目）
+  - 「医療従事者の方がHoloeyesを活用している臨床事例や、論文リストを閲覧いただく際は、下記リンクのフォームより資料の閲覧希望を送信してください」（https://holoeyes.jp/・1回目）
+  - 「Holoeyes Eduを中心に、教育機関や研修医に向けたサービスの教育活用事例をご紹介します」（https://holoeyes.jp/・1回目）
+  - 「1.医療領域における、臨床・トレーニング・教育向けVRアプリ等開発及びサービス事業」（https://holoeyes.jp/company/overview/・1回目）
+  - 「2.医療領域における、臨床・トレーニング・教育向けデータ提供サービス事業」（https://holoeyes.jp/company/overview/・1回目）
+  - 「医用画像と医療知見を空間的に再現・共有し医療の最適化を実現する」（https://holoeyes.jp/company/・1回目）
+  - 「医療の暗黙知解消と個別化を推進するソフトウェアサービスを提供する」（https://holoeyes.jp/company/・1回目）
+  - 「命に関わる医療者として責任を持ち 医療技術と医療者と患者を繋げる」（https://holoeyes.jp/company/・1回目）
+- 資本金・株主：
+  - 「医療VRの先端スタートアップ Holoeyes(ホロアイズ)社 に出資 外科手術と医療教育を進化させるメディカル仮想現実（VR）技術のパイオニア | プレスリリース | ニュース | アステリア株式会社」（https://jp.asteria.com/news/2023082911303/・3回目）
+  - 「アステリア株式会社（本社：東京都渋谷区、代表取締役社長：平野洋一郎、証券コード：3853、以下 アステリア）は、医療分野に特化したVRソフトウェアを開発・提供するスタートアップ企業のHoloeyes株式会社（本社：東京都港区、代表取締役：杉本 真樹（医師, 医学博士）、以下Holoeyes）への出資を実施したことを発表します」（https://jp.asteria.com/news/2023082911303/・3回目）
+  - 「アステリアが「Holoeyes」に出資する背景」（https://jp.asteria.com/news/2023082911303/・3回目）
+  - 「さらに、AI専業子会社のAsteria ART社とのAI技術を活用した医療データベース構築など、事業シナジーも追求できることから、同社への出資を決定しました」（https://jp.asteria.com/news/2023082911303/・3回目）
+  - 「（株）メディパルホールディングス、日本ベンチャーキャピタル（株）、（株）Carbon Ventures、（株）QRインベストメント、」（https://jp.asteria.com/news/2023082911303/・3回目）
+  - 「この度、Holoeyes株式会社として、アステリア株式会社様からの大変貴重な資金調達の機会を賜り、深く感謝申し上げます」（https://jp.asteria.com/news/2023082911303/・3回目）
+  - 「医療機器ソフトウェア開発を行うHoloeyes 約４億円の資金調達を実施 | Holoeyes株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「医療機器ソフトウェア開発を行うHoloeyes 約４億円の資金調達を実施」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「この資金調達により、更なる技術革新を目指して、人材の拡充や技術開発の強化を進めます」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「資本金：2億8300万円」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「Holoeyes、資金調達を実施 シリーズBエクステンションラウンドにて約2.3億円を調達」（https://initial.inc/companies/A-27168・3回目）
+  - 「Holoeyes、第三者割当増資を実施 シリーズBエクステンションラウンドにて総額約4億円を調達」（https://initial.inc/companies/A-27168・3回目）
+- 表彰・認定の記録：
+  - 「認定番号 R802 ｜ 認定期間 令和8年4月8日〜令和11年3月31日」（https://holoeyes.jp/・1回目）
+  - 「令和8年度東京都トライアル発注認定制度「認定事業者及び認定商品紹介動画」が公開」（https://holoeyes.jp/・1回目）
+  - 「認定番号 R802」（https://holoeyes.jp/service/md/・1回目）
+  - 「東京都トライアル発注認定制度は、都内の中小企業者が開発した新規性の高い優れた新商品等の普及を支援する制度です」（https://holoeyes.jp/service/md/・1回目）
+  - 「Holoeyes MDは本制度の認定を受けています」（https://holoeyes.jp/service/md/・1回目）
+  - 「認定期間 令和8年4月8日〜令和11年3月31日」（https://holoeyes.jp/service/md/・1回目）
+  - 「Holoeyes株式会社は、J-Startup選定企業です」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「「J-Startup」として選定された企業は、海外・国内大規模イベントへの出展支援、海外現地支援、研究開発支援、規制改革対応、入札機会拡大、民間企業「J-Startup Supporters」との連携支援など、様々な支援を受けることができます」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「Holoeyesのソリューションが、Tokyo Social Innovation Tech Award 2024 の大賞を受賞しました」（https://initial.inc/companies/A-27168・3回目）
+  - 「帝京大学発ベンチャー認定・事業会社との連携強化・海外展開・社会実装をさらに加速」（https://prtimes.jp/main/html/rd/p/000000056.000026916.html・3回目）
+  - 「さらに、Holoeyesは帝京大学発ベンチャーとしての認定も取得しました」（https://prtimes.jp/main/html/rd/p/000000056.000026916.html・3回目）
+  - 「この度の資金調達、帝京大学発ベンチャー認定を機に、これまで以上に事業会社と医療・製薬・教育・医療機器企業との協業による国内外での価値創出を推進し、資本業務提携を含む戦略的資金調達を継続してまいります」（https://prtimes.jp/main/html/rd/p/000000056.000026916.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - Holoeyes 株式会社 — 会社概要 - Holoeyes 株式会社 Holoeyes株式会社 https://holoeyes.jp > 企業理念」（https://holoeyes.jp/company/overview/・3回目）
+  - 「医療VRの先端スタートアップ Holoeyes (ホロアイズ)社 に出資 ... — 医療VRの先端スタートアップ Holoeyes (ホロアイズ)社 に出資 ... アステリア株式会社 https://jp.asteria.com > ニュース > プレスリリース」（https://jp.asteria.com/news/2023082911303/・3回目）
+  - 「医療機器ソフトウェア開発を行う Holoeyes 約4億円の資金 ... — 医療機器ソフトウェア開発を行う Holoeyes 約4億円の資金 ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000044.000026916.html・3回目）
+  - 「Holoeyes 株式会社（東京都）の 会社概要 ・役員 — Holoeyes 株式会社（東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > SaaS」（https://compalyze.co.jp/company/1010001179195・3回目）
+  - 「Holoeyes 株式 会社 （京都企業紹介） — Holoeyes 株式 会社 （京都企業紹介） 京都府 https://www.pref.kyoto.jp > company > holoeyes」（https://www.pref.kyoto.jp/sangyo-sien/company/holoeyes.html・3回目）
+  - 「Holoeyes 株式会社 - スピーダ スタートアップ情報リサーチ — Holoeyes 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-27168・3回目）
+  - 「Holoeyes 株式会社 - 医用画像と医療知見を空間的に再現・共有 ... — Holoeyes 株式会社 - 医用画像と医療知見を空間的に再現・共有 ... Holoeyes株式会社 https://holoeyes.jp > 未分類」（https://holoeyes.jp/・3回目）
+  - 「Holoeyes 株式会社 | 採択スタートアップ企業 — Holoeyes 株式会社 | 採択スタートアップ企業 KING SALMON PROJECT https://kingsalmon.metro.tokyo.lg.jp > company > holoeyes」（https://kingsalmon.metro.tokyo.lg.jp/company/holoeyes.html・3回目）
+  - 「Holoeyes ｜STARTUP DB（スタートアップデータベース） — Holoeyes ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/L6QnJMjUv69GeaAO・3回目）
+  - 「Holoeyes のプレスリリース - PR TIMES — Holoeyes のプレスリリース - PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id」（https://prtimes.jp/main/html/searchrlp/company_id/26916・3回目）
+  - 「Holoeyes株式 会社 - スピーダ スタートアップ情報リサーチ — Holoeyes株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-27168・3回目）
+  - 「約4億円の 資金調達 を実施しました。 - Holoeyes株式 会社 — 約4億円の 資金調達 を実施しました。 - Holoeyes株式 会社 Holoeyes株式会社 https://holoeyes.jp > NEWS > ニュース」（https://holoeyes.jp/topics/series-b-funding/・3回目）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索11回）
+
+## MoriX
+- 公式URL：https://morixjp.com/（given）
+- 事業内容：生体認証システムの開発・製造・販売 ICカード関連機器の開発・製造・販売 半導体製品の開発・製造・販売 上記に付随する諸般業務（https://morixjp.com/about/・1回目）
+- 事業内容：生体認証システムの開発・製造・販売、ICカード関連機器の開発・製造・販売、半導体製品の開発・製造・販売、上記に付随する諸般業務（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 資本金：3億9000万円（https://morixjp.com/about/・1回目）
+- 資本金：3億7000万円（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 創業年度：設立：2005年8月24日（https://morixjp.com/about/・1回目）
+- 創業年度：設立：2005年08月（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 創業年度：設立：2005年8月（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 所在地：本社 東京都千代田区岩本町1-7-6 KITEN岩本町2F MAP（https://morixjp.com/about/・1回目）
+- 所在地：東京都千代田区有楽町2丁目2番1号
+X-PRESS有楽町9F（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 所在地：東京都千代田区有楽町2丁目2番1号 X-PRESS有楽町9階（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 代表者：久保田守彦（https://morixjp.com/about/・1回目）
+- 代表者：久保田守彦（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 代表者：代表取締役 久保田 守彦（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「2021年より日本で販売を開始しております」（https://morixjp.com/・1回目）
+  - 「指紋認証IC カード「MoriX カード」を彌栄精機株式会社様（販売：株式会社イヤサカ様）の製品にご採用いただきました」（https://morixjp.com/・1回目）
+  - 「日刊工業新聞にVISAカードの製造販売権取得が掲載されました」（https://morixjp.com/・1回目）
+  - 「指紋認証IC カード「MoriX カード」を彌栄精機株式会社様（販売：株式会社イヤサカ様）の製品にご採用いただきました」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・1回目）
+  - 「Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・1回目）
+  - 「指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・1回目）
+  - 「日刊工業新聞にVISAカードの製造販売権取得が掲載されました」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+  - 「指紋認証IC カード「MoriX カード」を彌栄精機株式会社様（販売：株式会社イヤサカ様）の製品にご採用いただきました」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+  - 「Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+  - 「指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+  - 「企業情報 | モリックス株式会社 MORIX | 中小製造業向け生産管理システム WorkGear」（https://morix.co.jp/company/・3回目）
+  - 「モリックス株式会社は、1997年の設立以来、製造業向け生産管理システムの分野において、」（https://morix.co.jp/company/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました」（https://morixjp.com/・1回目）
+  - 「日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました」（https://morixjp.com/about/・1回目）
+  - 「日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・1回目）
+  - 「日刊工業新聞に旅客船への指紋認証ICカードの導入事例が掲載されました」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+  - 「企業情報 | モリックス株式会社 MORIX | 中小製造業向け生産管理システム WorkGear」（https://morix.co.jp/company/・3回目）
+  - 「モリックス株式会社は、1997年の設立以来、製造業向け生産管理システムの分野において、」（https://morix.co.jp/company/・3回目）
+  - 「現在では様々な業種の製造業のお客様にご利用いただいております」（https://morix.co.jp/company/・3回目）
+  - 「製造業向け生産管理パッケージソフトの開発および販売」（https://morix.co.jp/company/・3回目）
+  - 「このほか、ホテルやマンションなどの入退室カード、商業施設における会員証のほか、電力会社など重要施設における個人認証など多様な用途での利用を見込んでいます」（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+  - 「既存のリーダー端末から従来よりも多くの電力を得て、カード内の電子回路を動作させることができます」（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+  - 「本技術は、リーダー端末から電力を得る非接触カードや電子機器などに広く展開できます」」（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+  - 「2 決済カード→クレジットカードのほか、銀行カードなどとして活用」（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+- 表彰・認定の記録：
+  - 「Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・1回目）
+  - 「指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・1回目）
+  - 「東京都ベンチャー技術大賞で、技術奨励賞を頂きました」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・1回目）
+  - 「Mastercard® 2024年度最新規定に合格したカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+  - 「指紋認証カードでVISAカードの製造販売権(製品認定L.O.A)を取得」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+  - 「東京都ベンチャー技術大賞で、技術奨励賞を頂きました」（https://morixjp.com/morix-wallet-card-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 株式会社 MoriX — 会社概要 - 株式会社 MoriX 株式会社MoriX https://morixjp.com > about」（https://morixjp.com/about/・3回目）
+  - 「企業情報 | 中小製造業向け生産管理システム WorkGear — 企業情報 | 中小製造業向け生産管理システム WorkGear モリックス株式会社 https://morix.co.jp > company」（https://morix.co.jp/company/・3回目）
+  - 「株式 会社MORIX ｜法人番号 3290001106938 — 株式 会社MORIX ｜法人番号 3290001106938 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報」（https://lawplayer.com/jp/company/3290001106938・3回目）
+  - 「株式会社 MoriX の 会社概要 ・製品情報 - Metoree — 株式会社 MoriX の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/76406/・3回目）
+  - 「株式会社 MoriX （東京都）の会社概要・役員 | Compalyze — 株式会社 MoriX （東京都）の会社概要・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 電気・電子機器」（https://compalyze.co.jp/company/2010001095094・3回目）
+  - 「株式会社 MORIX （福岡県福岡市城南区）の企業情報 — 株式会社 MORIX （福岡県福岡市城南区）の企業情報 企業クリップ https://clip-corporation.com > ... > 企業詳細」（https://clip-corporation.com/company-matching/company-details/?corporate_number=3290001106938・3回目）
+  - 「MoriX 社長・久保田守彦氏 半導体の進化に合わせ 調達 ・設計 — MoriX 社長・久保田守彦氏 半導体の進化に合わせ 調達 ・設計 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/720152・3回目）
+  - 「株式会社 MoriX : トップ — 株式会社 MoriX : トップ 株式会社MoriX https://morixjp.com」（https://morixjp.com/・3回目）
+  - 「MoriX ｜STARTUP DB（スタートアップデータベース） — MoriX ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/M6r0Ge9UBzEGn3v5・3回目）
+  - 「日刊工業新聞に旅客船への指紋認証ICカードの 導入事例 が掲載 ... — 日刊工業新聞に旅客船への指紋認証ICカードの 導入事例 が掲載 ... 株式会社MoriX https://morixjp.com > お知らせ・更新情報」（https://morixjp.com/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E%E3%81%AB%E6%97%85%E5%AE%A2%E8%88%B9%E3%81%A7%E3%81%AE%E6%8C%87%E7%B4%8B%E8%AA%8D%E8%A8%BCic%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%B0%8E%E5%85%A5/・3回目）
+  - 「MoriX 、村田製作所と認証精度高める新技術を共同開発「非 ... — MoriX 、村田製作所と認証精度高める新技術を共同開発「非 ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000006.000039944.html・3回目）
+  - 「モリックス のDX推進 - モリックス 株式会社 MORIX — モリックス のDX推進 - モリックス 株式会社 MORIX モリックス株式会社 https://morix.co.jp > ...」（https://morix.co.jp/dx/・3回目）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索11回）
+
+## Preferred
+- 公式URL：https://www.preferred.jp/（given）
+- 事業内容：各種地理空間情報を収集、管理し、各種地図、地図データベース、コンテンツとして提供（https://www.preferred.jp/ja/news/pr20261029・1回目）
+- 事業内容：地図・位置情報を活用した法人向けソリューションや、個人向けナビゲーションサービスの企画・開発・提供を行う（https://www.preferred.jp/ja/news/pr20261029・1回目）
+- 事業内容：IoTにフォーカスしたコンピュータソフトウェア・ハードウェア・ネットワークの研究・開発・販売（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+- 資本金：80億1500万円（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+- 資本金：3,000万円（2025年11月10日時点）（https://compalyze.co.jp/journal/pfn-fy2025-17month・3回目）
+- 創業年度：設立：2014年3月26日（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+- 創業年度：設立：2006年3月（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+- 創業年度：設立：2014年3月26日（https://compalyze.co.jp/journal/pfn-fy2025-17month・3回目）
+- 従業員数：452人（2026年7月・社会保険被保険者数）（https://compalyze.co.jp/journal/pfn-fy2025-17month・3回目）
+- 売上高：76億5500万円 （2023年1月期） [ 1 ]（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-15875・3回目）
+- 所在地：福岡県北九州市、代表取締役社長：竹川道郎、以下ゼンリン）、株式会社ゼンリンデータコム（本社：東京都港区、代表取締役社長：清水辰彦、以下ゼンリンデータコム）および株式会社（https://www.preferred.jp/ja/news/pr20261029・1回目）
+- 所在地：東京都千代田区、代表取締役社長：岡野原大輔、以下（https://www.preferred.jp/ja/news/pr20261029・1回目）
+- 所在地：福岡県北九州市戸畑区中原新町（https://www.preferred.jp/ja/news/pr20261029・1回目）
+- 代表者：西川徹（代表取締役 最高経営責任者） 岡野原大輔（代表取締役 最高研究責任者）（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+- 代表者：西川徹（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+- 代表者：西川　徹、　岡野原　大輔（https://initial.inc/companies/A-15875・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「2024年10月21日、都内でPFN創業10周年記念イベントを開催し、PFNのこれまでの10年とこの先の取り組みをご紹介しました」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「PFNとENEOSが共同開発した汎用原子レベルシミュレータの販売を行うMatlantis株式会社の代表取締役社長を兼任」（https://www.preferred.jp/ja/company/cofounders・1回目）
+  - 「その後も資源エネルギー庁省エネ・新エネ部政策課長、内閣府参事官、製造産業局次長、資源エネルギー庁次長、近畿経済産業局長などを経て、2009年7月に製造産業局長に就任」（https://www.preferred.jp/ja/company/leadership・1回目）
+  - 「事業内容｜株式会社Preferred Networks」（https://www.preferred.jp/ja/business・1回目）
+  - 「事業内容：各種地理空間情報を収集、管理し、各種地図、地図データベース、コンテンツとして提供」（https://www.preferred.jp/ja/news/pr20261029・1回目）
+  - 「事業内容：地図・位置情報を活用した法人向けソリューションや、個人向けナビゲーションサービスの企画・開発・提供を行う」（https://www.preferred.jp/ja/news/pr20261029・1回目）
+  - 「事業内容 AI 半導体、計算基盤、生成 AI 基盤モデルなどの AI 関連技術を活用したプロダクト・ソリ」（https://static.preferred.jp/downloads/PFN_Company_Factsheet_ja.pdf・2回目）
+  - 「Preferred Networksの公式の会社概要には、事業内容として「半導体・計算インフラからソリューション・アプリケーションまで計算機科学の要素技術を広く垂直統合」と書かれています」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「事業内容は4つの領域に分かれています」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「非上場のため有価証券報告書もなく、売上高や損益も公開されていません」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「**3つ目は収益の構造です」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「**非上場のため売上高も損益も公開されていません」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+- 客は誰か：
+  - 「PFNは自社が持つ計算基盤や最先端技術を応用し、各業界のドメイン知識をかけ合わせたAIプロダクト・ソリューションを様々な業界向けに提供しています」（https://www.preferred.jp/ja・1回目）
+  - 「また、国産AI構築プラットフォームmiibo、法人向け生成AIサービスTachyon 生成AI、約800の自治体が導入するQommonsAIなどのサービスに標準搭載されています」（https://www.preferred.jp/ja/industries/public・1回目）
+  - 「また、国産AI構築プラットフォームmiibo、法人向け生成AIサービスTachyon 生成AI、約800の自治体が導入するQommonsAIなどのサービスに標準搭載されています」（https://www.preferred.jp/ja/industries/public/781・1回目）
+  - 「事業内容：地図・位置情報を活用した法人向けソリューションや、個人向けナビゲーションサービスの企画・開発・提供を行う」（https://www.preferred.jp/ja/news/pr20261029・1回目）
+  - 「法人向けには、地図」（https://www.preferred.jp/ja/news/pr20261029・1回目）
+  - 「2024年2月、法人向けに特化した「カチャカプロ」を発売」（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+  - 「医療業界向け COVID-19（新型コロナウイルス感染症）ソリューション」（https://cloud.google.com/customers/preferrednetworks?hl=ja・3回目）
+  - 「その中でPFNが勝つには、PLaMo、オンプレミス、国内運用、業界特化、行政・大企業対応を組み合わせる必要があります」（https://note.com/kagawatomo/n/ndd12ded20946・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「AIとロボットで小売・流通の現場を さらに自動化・効率化」（https://www.preferred.jp/ja・1回目）
+  - 「最先端のAI技術・研究成果を 金融領域の複雑な課題解決にいち早く適用」（https://www.preferred.jp/ja・1回目）
+  - 「プログラミング教育で課題解決をより楽しく AIの適切な活用で教育・研究活動をより高度に」（https://www.preferred.jp/ja・1回目）
+  - 「国産の金融特化型小規模言語モデルPLaMo 3.0 Finをオープンウェイトで公開」（https://www.preferred.jp/ja・1回目）
+  - 「・自社開発のスパコンMN-3がGreen500で電力効率世界1位を3度獲得」（https://www.preferred.jp/ja/company・1回目）
+  - 「*Green500: 世界のスーパーコンピュータの性能上位500(TOP500)のうち、電力効率を評価するランキング」（https://www.preferred.jp/ja/company・1回目）
+  - 「・産業ロボット、製薬、エネルギー等のリーディング企業との共同研究実績」（https://www.preferred.jp/ja/company・1回目）
+  - 「それは衝突ではなく、より良い成果へ向かうための建設的な対話です」（https://www.preferred.jp/ja/company・1回目）
+  - 「SBIグループ NTT株式会社 ENEOSイノベーションパートナーズ合同会社 株式会社講談社 GMOインターネットグループ株式会社 信越化学工業株式会社 SUMISEI INNOVATION FUND 積水ハウス投資事業有限責任組合 株式会社ゼンリン 株式会社ゼンリンデータコム 中外製薬株式会社 TBSイノベーション・パートナーズ3号投資事業組合 TEL Venture Capital, Inc. 東映アニメーション株式会社 トヨタ自動車株式会社 株式会社日本政策投資銀行 株式会社博報堂DYホールディングス 株式会社日立製作所 ファナック株式会社 株式会社みずほ銀行 三井住友信託銀行株式会社 三井物産株式会社 三菱重工業株式会社 三菱商事株式会社 三菱UFJ信託銀行株式会社 株式会社ワコム 他 （五十音順）」（https://www.preferred.jp/ja/company・1回目）
+  - 「講談社、積水ハウス、TBS、東映アニメーション、三井住友信託銀行、三菱UFJ信託銀行他と資本提携」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「SBIグループ、積水ハウス、日本政策投資銀行、三菱商事、ワコムと資本提携」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「博報堂DYHD、三井物産、みずほ銀行、日立製作所と資本業務提携」（https://www.preferred.jp/ja/company/milestones・1回目）
+- 資本金・株主：
+  - 「創業から10年が経過し、この節目の年を迎えることができましたのも、ひとえに株主様、共同研究・共同事業を行うパートナー企業様、お客様のご支援、ご愛顧の賜物であり、また、それを支えてくれた社員、家族にも心から感謝申し上げます」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「以降、GMOインターネットグループ取締役監査等委員、野村證券取締役監査等委員、auフィナンシャルホールディングス社外監査役など多数の上場企業・法人で役職を務める」（https://www.preferred.jp/ja/company/leadership・1回目）
+  - 「子会社取締役、エンジニアリング担当VP（VPoE）として開発に従事」（https://www.preferred.jp/ja/company/leadership・1回目）
+  - 「による第三者割当増資を引き受け、サービスの企画・開発から事業化まで中長期的な協業を推進します」（https://www.preferred.jp/ja/news/pr20261029・1回目）
+  - 「主要子会社 株式会社 Preferred Robotics（PFRobotics）、Matlantis 株式会社、株式会社 Preferred」（https://static.preferred.jp/downloads/PFN_Company_Factsheet_ja.pdf・2回目）
+  - 「出資企業（50 音順）」（https://static.preferred.jp/downloads/PFN_Company_Factsheet_ja.pdf・2回目）
+  - 「株主にはSBIグループ、NTT株式会社、トヨタ自動車株式会社、日立製作所などが並びます」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「なお資本金と従業員数は公式の会社概要に記載されていません」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「非上場のため有価証券報告書もなく、売上高や損益も公開されていません」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「公式の会社概要には、株主としてSBIグループ、NTT株式会社、トヨタ自動車株式会社、日立製作所などが挙げられています（五十音順、多数の株主のうちの一部）」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「トヨタ自動車と日立製作所はいずれも東証プライム市場の上場企業で、有価証券報告書で事業の中身が確認できます」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「株主にこうした事業会社が並ぶ意味は2つあります」（https://jobs.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+- 表彰・認定の記録：
+  - 「PLaMo-VLがGENIAC（第3期） モデル賞を受賞」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「PLaMoがGENIAC（第2期） 社会実装賞、コミュニティ賞（事業者部門）を受賞」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「PLaMoがGENIAC（第1期）技術モデル賞、ナレッジ賞を受賞」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「CEATEC Award 2023 アドバンステクロノロジー部門準グランプリを深層学習用プロセッサーMN-Core™シリーズが受賞」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「コンピュータサイエンス教材Playgram™が2023年オリコン顧客満足度調査 子ども向けプログラミング教室 第2位を受賞」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「沿革・受賞歴｜企業情報｜株式会社Preferred Networks」（https://www.preferred.jp/ja/company/milestones・1回目）
+  - 「2012年度ソフトウエアジャパンアワード受賞」（https://www.preferred.jp/ja/company/cofounders・1回目）
+  - 「未踏ソフト創造事業 スーパークリエイタ認定、東京大学総長賞、言語処理学会優秀発表賞、情報処理学会山下記念研究賞、KDDI Foundation Award本賞、厚生労働省 現代の名工 データサイエンティスト等、受賞多数」（https://www.preferred.jp/ja/company/cofounders・1回目）
+  - 「公共、不動産、小売・流通などの分野を初期の重点領域と位置付け、地域の変化や施設需要の予測、店舗出店計画・適地選定、都市計画・防災・物流分野におけるシミュレーションなどのユースケースを検討していきます」（https://www.preferred.jp/ja/news/pr20261029・1回目）
+  - 「2017年2月 第3回日本ベンチャー大賞において経済産業大臣賞（ベンチャー企業・大企業等連携賞）を受賞」（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+  - 「2017年7月 2017 Japan-U.S. Innovation Awardsにて「Emerging Leader Award」を受賞」（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+  - 「Preferred Networksが提供するAI面接サービス「タレスカAI面接」が「第15回 日本HRチャレンジ大賞」にて「人材サービス優秀賞（採用部門）」を受賞」（https://initial.inc/companies/A-15875・3回目）
+- 検索結果の抜粋：
+  - 「企業 情報 - 株式会社Preferred Networks — 企業 情報 - 株式会社Preferred Networks 株式会社Preferred Networks https://www.preferred.jp > company」（https://www.preferred.jp/ja/company・3回目）
+  - 「Preferred Networksの評判｜年収・働き方・選考対策まで解説 — Preferred Networksの評判｜年収・働き方・選考対策まで解説 株式会社エージェントベスト https://www.agent-best.net > ... > スタートアップ・IT」（https://www.agent-best.net/media/company-preferred-networks-reputation/・3回目）
+  - 「Preferred Networks - Wikipedia — Preferred Networks - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > Preferred_Networks」（https://ja.wikipedia.org/wiki/Preferred_Networks・3回目）
+  - 「会社情報 ｜株式会社プリファード｜ Preferred Inc. — 会社情報 ｜株式会社プリファード｜ Preferred Inc. 株式会社プリファード https://www.pref.co.jp > about > company」（https://www.pref.co.jp/about/company・3回目）
+  - 「株式 会社Preferred Robotics - Compalyze — 株式 会社Preferred Robotics - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備」（https://compalyze.co.jp/company/8010001222262・3回目）
+  - 「企業情報 - 株式会社Preferred Networks — 企業情報 - 株式会社Preferred Networks 株式会社Preferred Networks https://www.preferred.jp > company」（https://www.preferred.jp/ja/company・3回目）
+  - 「Preferred Networksの資金調達と今後の戦略について - note — Preferred Networksの資金調達と今後の戦略について - note note https://note.com > 科学・テクノロジー > AI・機械学習」（https://note.com/y_katayama/n/n9655a05e082d・3回目）
+  - 「株式会社 Preferred Networks の企業情報 - バフェット・コード — 株式会社 Preferred Networks の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/chuub0x7i2/・3回目）
+  - 「総額190億円の 資金調達 を実施 - 株式会社 Preferred Networks — 総額190億円の 資金調達 を実施 - 株式会社 Preferred Networks 株式会社Preferred Networks https://www.preferred.jp > news」（https://www.preferred.jp/ja/news/pr20241223・3回目）
+  - 「株式会社 Preferred Networks — 株式会社 Preferred Networks スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-15875・3回目）
+  - 「株式会社 Preferred Networksへの出資に関するお知らせ — 株式会社 Preferred Networksへの出資に関するお知らせ SBIホールディングス https://www.sbigroup.co.jp > news」（https://www.sbigroup.co.jp/news/2024/1223_15132.html・3回目）
+  - 「【 導入事例 】株式会社 Preferred Networks - コンプル — 【 導入事例 】株式会社 Preferred Networks - コンプル コンプル https://cmpl.jp > cases > preferred」（https://cmpl.jp/cases/preferred・3回目）
+- 主要取引先：記載なし（3回確認済み：公式11頁／PDF・画像1件／外部24頁・検索11回）
+
+## Robotics
+- 公式URL：https://salesrobotics.co.jp/（given）
+- 事業内容：顧客データベースとパイプラインを構築する営業支援クラウドサービス「SALES BASE」の提供 インサイドセールス運用支援、インサイドセールス立ち上げ構築支援、SaaS定着支援事業 マルチコンタクトBPOセンターの運用および品質改善に向けたアセスメント支援事業 カスタマーサクセス支援事業（https://salesrobotics.co.jp/company/company-info/・1回目）
+- 事業内容：クラウドインテグレーション事業
+・クラウドサービス事業
+・ライセンス & プロダクツ事業（https://salesrobotics.co.jp/case/5272/・1回目）
+- 事業内容：東日本地域における地域電気通信業務及びこれに附帯する業務、目的達成業務、活用業務（https://salesrobotics.co.jp/case/4891/・1回目）
+- 資本金：1億円（https://salesrobotics.co.jp/company/company-info/・1回目）
+- 創業年度：設立：2004年11月25日（https://salesrobotics.co.jp/company/company-info/・1回目）
+- 創業年度：設立：1990年10月（https://salesrobotics.co.jp/case/5272/・1回目）
+- 創業年度：設立：1999年7月1日（https://salesrobotics.co.jp/case/4891/・1回目）
+- 従業員数：2,831名（2026年3月31日現在）（https://salesrobotics.co.jp/case/5272/・1回目）
+- 従業員数：4,708名（https://salesrobotics.co.jp/case/4891/・1回目）
+- 従業員数：345名（2023年12月末現在）（https://salesrobotics.co.jp/case/3585/・1回目）
+- 所在地：〒103-0026　東京都中央区日本橋兜町5番1号兜町第1平和ビル2階 TEL. 03-4405-7653 または 050-5893-9187 FAX. 03-5547-9030（https://salesrobotics.co.jp/company/company-info/・1回目）
+- 代表者：代表取締役社長CEO　有馬 康平（https://salesrobotics.co.jp/company/company-info/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「株式会社LANYより公開されたイベントレポートにて、当社三原が登壇したセッションが紹介されました」（https://salesrobotics.co.jp/・1回目）
+  - 「人材派遣許可番号：派13-317488」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「派遣法第23条第5項に基づき弊社の労働者派遣事業の状況に関する情報をご提供しております」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「中国赴任者のためのクラウド型 「中国語学習サービス」 販売開始」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「中国上海にて営業支援及び語学eラーニングの販売を展開」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「自動的にアポが追加される営業支援SFA「超速アポハンター」販売開始」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「製品の故障に対する保証対応コールセンターを自社運営していましたが、応答率が低く店舗への直接問い合わせや2次クレームが発生していました」（https://salesrobotics.co.jp/bpo/・1回目）
+  - 「15年の長期にわたって運用を続けながら教育体制を強化し、店舗の社員が販売業務に注力できるように」（https://salesrobotics.co.jp/bpo/・1回目）
+  - 「お客さまのご要望に適したサービスをご紹介いたします」（https://salesrobotics.co.jp/bpo/・1回目）
+  - 「受付や販売支援などさまざまなお客さま接点をオンラインで創出します」（https://salesrobotics.co.jp/bpo/online-customer-service/・1回目）
+  - 「販売接客サービス（SALES AVATAR）」（https://salesrobotics.co.jp/bpo/online-customer-service/・1回目）
+  - 「役員紹介 | SALES ROBOTICS株式会社」（https://salesrobotics.co.jp/company/company-board-member/・1回目）
+- 客は誰か：
+  - 「「GenAI HR Awards 2025」中小企業セクターにてグランプリを受賞」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「NTT東日本グループが新たに挑む、中小企業向け課題解決サポートのブランディング「Nにおまかせ！」」（https://salesrobotics.co.jp/case/4891/・1回目）
+  - 「通信領域での強みを活かした隣地でのビジネスに対して、経営課題の解決という切り口で、中小企業のお客様にいかにアプローチしていくかが課題であり、最大の壁となったのは「顧客解像度」の低さでした」（https://salesrobotics.co.jp/case/4891/・1回目）
+  - 「400万件の企業データベースの中からターゲットを絞り込む際、SALES ROBOTICSには過去にアプローチ実績のある中小企業リストが約30万件もありました」（https://salesrobotics.co.jp/case/4891/・1回目）
+  - 「しかし、リードタイムが1〜2年に及ぶ「EBISUMART」「EBISUMART BtoB」の展開において、単なる「アポイントの量産」は本来の目的ではありません」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「私たちが扱う「EBISUMART」「EBISUMART BtoB」は、高単価・長期案件ですので、リードを獲得してから有効商談になるまで180日〜360日、そこから受注までにさらに半年から1年を要する、非常にリードタイムの長い商材です」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「『EBISUMART』『EBISUMART BtoB』の」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「「EBISUMART」「EBISUMART BtoB」」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「クラウドコマースプラットフォーム「EBISUMART」およびBtoB特化型ECシステム「EBISUMART BtoB」の企画・開発・運営など」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「どの業界向けに誰がロボットセルを構築しているか」（https://kurationai.com/ja/solutions/industries/robotics・3回目）
+  - 「Kurationがこの業界向けに構築した公開データベース」（https://kurationai.com/ja/solutions/industries/robotics・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「オンボーディングから、活用促進や定着、アップセル・クロスセルまで一括して対応し、顧客との関係構築を支援します」（https://salesrobotics.co.jp/・1回目）
+  - 「AIの技術で「目の前の顧客に向き合う時間を増やす」取り組み」（https://salesrobotics.co.jp/・1回目）
+  - 「当社は顧客価値を創出する機会をさらに増やすために、生成AIの活用を進めています」（https://salesrobotics.co.jp/・1回目）
+  - 「ビジネスにおいて最も価値のある「顧客に向き合う時間」を強化し、社会・顧客・パートナーの課題解決と、企業理念の実現にまい進します」（https://salesrobotics.co.jp/・1回目）
+  - 「顧客に寄り添い続ける仕組みが新たな提案機会を創出」（https://salesrobotics.co.jp/・1回目）
+  - 「インサイドセールスの教育スキルを持った社員がいない」（https://salesrobotics.co.jp/・1回目）
+  - 「顧客に寄り添い続ける仕組みが新たな提案機会を創出」（https://salesrobotics.co.jp/case/・1回目）
+  - 「顧客ニーズを発掘し、商談獲得率30%を実現」（https://salesrobotics.co.jp/case/・1回目）
+  - 「市場調査から見えた顧客ニーズと、潜在顧客への訴求の課題」（https://salesrobotics.co.jp/case/・1回目）
+  - 「正確な顧客ヒアリングで質の高いアポイントを獲得」（https://salesrobotics.co.jp/case/・1回目）
+  - 「詳細な顧客情報を提供しリード獲得率が2倍にアップ」（https://salesrobotics.co.jp/case/・1回目）
+  - 「新規顧客開拓を促進しリード獲得率15.6%へ改善」（https://salesrobotics.co.jp/case/・1回目）
+- 資本金・株主：
+  - 「上場企業からベンチャー企業まで数多くのお客さまを支援」（https://salesrobotics.co.jp/・1回目）
+  - 「早稲田大学出資 （起業準備資金支援制度による出資）」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「新生銀行並びにSBIインベストメントより資金調達を実施」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「モバイル・インターネットキャピタル並びにカスタマーリレーションテレマーケティングより資金調達を実施」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「SBIインベストメントとモバイル・インターネットキャピタルより資金調達を実施」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「東証一部（現東証プライム）上場ヒト・コミュニケーションズ・ホールディングスグループへ合流」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「シリーズB 資金調達特設サイト | コネクテッドロボティクス株式会社」（https://connected-robotics.com/series-b/・3回目）
+  - 「私たちのミッションビジョンに賛同していただき、今回の資金調達ラウンドでは金融機関からのスタートアップ融資も受けています」（https://connected-robotics.com/series-b/・3回目）
+  - 「社会インフラのDXを実現するセンシンロボティクス、総額約22.5億円の資金調達を実施」（https://www.sensyn-robotics.com/news/announcement-39・3回目）
+  - 「社会インフラDXのリーディングカンパニーである株式会社センシンロボティクス（本社：東京都品川区、代表取締役社長：北村卓也、以下「当社」）は、Nabtesco Technology Ventures L.P.*、株式会社三菱UFJ銀行、株式会社みずほ銀行と、既存株主（ＥＮＥＯＳイノベーションパートナーズ合同会社、株式会社ブイキューブ）を引受先とした第三者割当増資と日本政策金融公庫、株式会社商工組合中央金庫からのデットファイナンスを合わせ、合計約22.5億円の資金調達が完了したことをお知らせいたします」（https://www.sensyn-robotics.com/news/announcement-39・3回目）
+  - 「当社はこれまでに約36億円の資金調達を実施しており、今回の資金調達により累計資金調達額は約58.5億円となります」（https://www.sensyn-robotics.com/news/announcement-39・3回目）
+  - 「今般、センシンロボティクスへの出資を契機に、同社のドローン他各種デバイスを活かした検査DXプラットフォームに、弊社の風力発電故障予知ソリューションを加えることで、風力発電事業者の皆様へより良いソリューションをご提供する等、同社と協働して様々な産業機器OEMのお客様へ、より良い予防保全サービスをご案内できるよう努めて参ります」（https://www.sensyn-robotics.com/news/announcement-39・3回目）
+- 表彰・認定の記録：
+  - 「「GenAI HR Awards 2025」中小企業セクターにてグランプリを受賞」（https://salesrobotics.co.jp/company/company-info/・1回目）
+  - 「そのため、「品質の担保」をパートナー選定において重視していました」（https://salesrobotics.co.jp/case/5272/・1回目）
+  - 「ターゲットとなる経営層やキーマンへの接点がなく、有効な訴求ポイントも見えない中、同社はSALES ROBOTICSをパートナーに選定」（https://salesrobotics.co.jp/case/4891/・1回目）
+  - 「そこで同社は、コール数（量）を重視する部分的な架電代行からの脱却を目指し、SALES ROBOTICSをパートナーに選定」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「――SALES ROBOTICSをパートナーに選定されるまでには、どのような経緯があったのでしょうか」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「最初は私たちが準備したハウスリストから開始しましたが、検証のコントロール性を高めるため、SALES ROBOTICS独自のデータベース（SALES BASE）を活用した選定へと移行しました」（https://salesrobotics.co.jp/case/5271/・1回目）
+  - 「全米最大級のテックイベント「CES2023」でも3つのイノベーションアワードを受賞した、フランスのACWA Roboticsが製造している「Clean Water Pathfinder」は、断水することなく配水管内を自律的に状態検査することを可能にしたロボットです」（https://openhub.ntt.com/journal/6059.html・3回目）
+  - 「OEMとODMの違い、自社と同様のブランド向けにすでに製造している企業の見つけ方、そして実績、知的財産の条件、品質管理体制に基づく選定方法」（https://kurationai.com/ja/solutions/industries/robotics・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - リモートロボティクス — 会社概要 - リモートロボティクス リモートロボティクス https://www.remoterobotics.net > about」（https://www.remoterobotics.net/about/・3回目）
+  - 「会社概要 ｜NUWA ロボティクス JAPAN 株式会社 — 会社概要 ｜NUWA ロボティクス JAPAN 株式会社 NUWA Robotics https://www.nuwarobotics.com > company」（https://www.nuwarobotics.com/ja/company・3回目）
+  - 「COMPANY｜Ai ロボティクス 株式 会社 — COMPANY｜Ai ロボティクス 株式 会社 Aiロボティクス株式会社 https://ai-robotics.co.jp > company」（https://ai-robotics.co.jp/company/・3回目）
+  - 「企業 情報 - 株式会社アイリスロボティクス — 企業 情報 - 株式会社アイリスロボティクス 株式会社アイリスロボティクス http://www.irisrobotics.co.jp > company」（http://www.irisrobotics.co.jp/company/・3回目）
+  - 「企業 情報 企業 概要 | Yamaha Robotics Co., Ltd. — 企業 情報 企業 概要 | Yamaha Robotics Co., Ltd. ヤマハロボティクス https://www.yamaha-robotics.com > corporate > outline」（https://www.yamaha-robotics.com/corporate/outline・3回目）
+  - 「ソフトバンク ロボティクス 、業務用屋内サービスロボットで ... — ソフトバンク ロボティクス 、業務用屋内サービスロボットで ... SoftBank Robotics Group Corp. https://www.softbankrobotics.com > news」（https://www.softbankrobotics.com/ja/news/20261027/・3回目）
+  - 「FINANCIAL HIGHLIGHTS業績・財務情報 - Aiロボティクス — FINANCIAL HIGHLIGHTS業績・財務情報 - Aiロボティクス Aiロボティクス株式会社 https://ai-robotics.co.jp > finance > highlight」（https://ai-robotics.co.jp/ir/finance/highlight/・3回目）
+  - 「シリーズB 資金調達 特設サイト | コネクテッド ロボティクス ... — シリーズB 資金調達 特設サイト | コネクテッド ロボティクス ... コネクテッドロボティクス株式会社 https://connected-robotics.com > series-b」（https://connected-robotics.com/series-b/・3回目）
+  - 「Pudu Robotics が約1億5000万ドルを 調達 、 企業価値は15億 ... — Pudu Robotics が約1億5000万ドルを 調達 、 企業価値は15億 ... Pudu Robotics https://www.pudurobotics.com > news > pudu-robotics-rai...」（https://www.pudurobotics.com/jp/news/pudu-robotics-raises-150-million-exceeds-1-5-billion-valuation・3回目）
+  - 「総額約22.5億円の 資金調達 を実施 - センシンロボティクス — 総額約22.5億円の 資金調達 を実施 - センシンロボティクス SENSYN ROBOTICS https://www.sensyn-robotics.com > announcement-39」（https://www.sensyn-robotics.com/news/announcement-39・3回目）
+  - 「Tag: 資金調達 - ラピュタ ロボティクス - Rapyuta Robotics — Tag: 資金調達 - ラピュタ ロボティクス - Rapyuta Robotics Rapyuta Robotics https://www.rapyuta-robotics.com > tag > 資金調達」（https://www.rapyuta-robotics.com/ja/tag/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/・3回目）
+  - 「RENATUS ROBOTICS Inc. — RENATUS ROBOTICS Inc. スピーダ スタートアップ情報リサーチ https://initial.inc > companies > A-IZVEQ」（https://initial.inc/companies/A-IZVEQ・3回目）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部30頁・検索11回）
 
 ## SHO-SAN
 - 公式URL：https://www.sho-san.co.jp/（given）
@@ -394,6 +957,93 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索11回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部15頁・検索11回）
+
+## SPACECOOL
+- 公式URL：https://spacecool.jp/（given）
+- 事業内容：放射冷却素材「（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+- 事業内容：放射冷却素材「SPACECOOL」の開発・販売（https://www.jpo.go.jp/news/jpo-international-forum/document/expo2025_jpo-wipo-award/award_01.pdf・3回目）
+- 資本金：1億円（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+- 創業年度：設立：2021/04（https://initial.inc/companies/A-39469・3回目）
+- 創業年度：設立年月：2021年4月（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+- 創業年度：設立：2021 Etet Bre -（https://www.jpo.go.jp/news/jpo-international-forum/document/expo2025_jpo-wipo-award/award_01.pdf・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-39469・3回目）
+- 所在地：東京都港区虎ノ門1-17-1 虎ノ門ヒルズビジネスタワー 4階 ARCH内（https://initial.inc/companies/A-39469・3回目）
+- 所在地：東京都港区虎ノ門1-17-1 虎ノ門ヒルズビジネスタワー4階（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+- 所在地：東京都港区虎ノ門 1-17-1 虎ノ門ヒしルズビジネスタワー 4階 ARCH 内 ee aN（https://www.jpo.go.jp/news/jpo-international-forum/document/expo2025_jpo-wipo-award/award_01.pdf・3回目）
+- 代表者：末光 真大（https://spacecool.jp/profile/・1回目）
+- 代表者：末光　真大（https://initial.inc/companies/A-39469・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「東京都が運営するWEBサイト「TOKYO UPDATES」にCEO末光真大のインタビ...」（https://spacecool.jp/・1回目）
+  - 「東京都が運営するWEBサイト「TOKYO UPDATES...」（https://spacecool.jp/・1回目）
+  - 「製造現場で、屋根からの熱や製造機械の輻射熱による暑さに悩んでいたバイホロン株式会社様」（https://spacecool.jp/・1回目）
+  - 「今回は、バイホロン株式会社製造部の高野健成様に、建物屋根にSPACECOOLルーフシェードを導入した経緯やご感想について伺いました」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「それでも暑い製造現場を快適な環境に改善したい」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「当社は、健康食品の受託製造を行っているメーカーです」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「夏季には、屋根から伝わる熱に加え、製造機械から発生する輻射熱の影響により、空調を稼働していても製造現場の暑さに悩む状況が続いていました」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「近年ではクリーンルーム用空調ウェアを導入し、作業者への暑熱対策も行いましたが、製造現場全体の暑さの改善にはつながらず、より効果的な対策がないか、検討していました」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「そのような中、当社会長よりSPACECOOLを紹介され、導入検討を始めました」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「導入前に懸念していた室温や体感温度の改善効果、製造現場の環境に適した施工は可能か、降雪や強風への影響についても問題がないことが分かりました」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「使用製品：SPACECOOLルーフシェード（販売元：日本ワイドクロス株式会社、株式会社ルーフシェードプロダクツ）」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「当社では、安定した品質の製品をお客様に提供するために、製造現場の改善や省エネルギー化、従業員が働きやすい環境づくりを重要な経営課題の一つと位置づけています」（https://spacecool.jp/blog/20261005/・1回目）
+- 客は誰か：
+  - 「日経クロストレンド BtoBマーケティング大賞2025で年商1000億円未満の「ブランディング部門」で部門賞に選ばれたのはSPACECOOLだ」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「BtoBマーケティング大賞2025」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「発表「BtoBマーケ大賞2025」 激戦を勝ち抜いた受賞企業6社は？」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「JTBのBtoB事業が営業利益1.2倍 営業とマーケ、協力体制実現の舞台裏」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「その取り組みが「日経クロストレンド BtoBマーケティング大賞2025」で評価され、年商1000億円未満の「ブランディング部門」で部門賞に選ばれた」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「「第一想起の獲得」と「あやしさの払拭」、目的も規模も異なるBtoB企業のコミュニケーション戦略とは？」（https://initial.inc/companies/A-39469・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「SPACECOOL株式会社（スペースクール） | 世界に木陰の涼しさを、「ゼロエネルギー」の冷却で世界に安全で快適な涼しさを届ける」（https://spacecool.jp/・1回目）
+  - 「倉庫、工場、事務所など」（https://spacecool.jp/・1回目）
+  - 「【導入先インタビュー】約4℃の温度低下で快適な作業ができる工場へ―バイホロン株式会社様－」（https://spacecool.jp/・1回目）
+  - 「既存の暑熱対策だけでは十分な改善が得られず、作業環境の改善と省エネルギー化を目指してSPAC…」（https://spacecool.jp/・1回目）
+  - 「みずほ銀行、三井住友銀行、三菱UFJ銀行、りそな銀行、京都銀行」（https://spacecool.jp/profile/・1回目）
+  - 「【導入先インタビュー】約4℃の温度低下で快適な作業ができる工場へ―バイホロン株式会社様－ | SPACECOOL株式会社（スペースクール）」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「放射冷却素材「SPACECOOL（スペースクール）」の導入を検討する際、「実施している既存の暑熱対策を超える結果が得られるのか」「工場内で大型の設備を稼働していても効果が出るのか」と気になる方も多いのではないでしょうか」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「当社は、健康食品の受託製造を行っているメーカーです」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「作業環境の改善と省エネルギー化を両立できる点に期待し、導入を決めました」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「大がかりな設備更新ではなく既存建物を活用しながら対策できたことに加え、施工期間も短く、工場も稼働したまま施工できたため、非常に満足しています」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「当社では、安定した品質の製品をお客様に提供するために、製造現場の改善や省エネルギー化、従業員が働きやすい環境づくりを重要な経営課題の一つと位置づけています」（https://spacecool.jp/blog/20261005/・1回目）
+  - 「今回のSPACECOOL導入は、夏季の暑熱対策を通じて、快適な作業環境づくりと省エネルギー化の両立を目指す取り組みです」（https://spacecool.jp/blog/20261005/・1回目）
+- 資本金・株主：
+  - 「SPACECOOLは社員、家族、株主そしてお客様、いろんな人に信じていただいたうえで成り立っているなと思うんです」（https://spacecool.jp/message/・1回目）
+  - 「国内外に大きく受け入れられそうな中、社長を引き受けるのは少し大変な気もしましたが、宝珠山さんから、経営はチームで行うものだと学びましたし、お客様、社員、販売店、株主などステークホルダーの声をしっかりと受け止めて、周りの協力を得れば、着実に進められると信じています」（https://spacecool.jp/message/・1回目）
+  - 「事業化のために2021年4月に(株)WiLと大阪ガスの出資を受けスタートアップSPACECOOLを設立し、出向する形でCTOに就任」（https://spacecool.jp/members/・1回目）
+  - 「途中、英国（ロンドン）拠点への出向も経験しながら、企業間買収や売却、経営統合、非上場化、資本業務提携等、M&A案件を中心とした多数の企業価値向上支援や財務アドバイザリーを遂行」（https://spacecool.jp/members/・1回目）
+  - 「SPACECOOL（東京・港）は、2021年に大阪ガスとベンチャーキャピタルWiL（ウィル）の共同出資で設立された、放射冷却素材「SPACECOOL（スペースクール）」の研究開発、製造、販売を行うスタートアップだ」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「SPACECOOL、J-KISS型新株予約権の発行並びに第三者割当増資を実施 プレシリーズAラウンド及びシリーズAラウンドにて総額9億円を調達」（https://initial.inc/companies/A-39469・3回目）
+  - 「SPACECOOL、資金調達を実施（調達額は非公開）」（https://initial.inc/companies/A-39469・3回目）
+  - 「放射冷却素材「SPACECOOL」を開発・販売するSPACECOOL株式会社がプレシリーズAラウンドおよびシリーズAラウンドで総額9億円の資金調達を実施｜STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜」（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+  - 「放射冷却素材「SPACECOOL」を開発・販売するSPACECOOL株式会社がプレシリーズAラウンドおよびシリーズAラウンドで総額9億円の資金調達を実施」（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+  - 「資本金：1億円」（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+  - 「2024年12月の資金調達ランキングを更新しました👏💐」（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+  - 「資金調達情報のスプレッドシート販売について」（https://startuplog.com/n/n8c5201f1391a?gs=7d1ba454cd22699910c0bae00568ba52・3回目）
+- 表彰・認定の記録：
+  - 「受賞歴：SPIE Green Photonics Award (2016), 応用物理学会奨励賞(2019), Forbes JAPAN『日本の起業家ランキング2026 BEST 10』選出（2025）、Japan Venture Awards 『経済産業大臣賞』（2025）、省エネ大賞（2025）など」（https://spacecool.jp/members/・1回目）
+  - 「さらに、一般社団法人日本建築材料協会（JBMA）が主催する「優良製品・技術表彰2025」で優秀賞を受賞しています」（https://spacecool.jp/blog/20260728-2/・1回目）
+  - 「この表彰制度は日本で唯一、経済産業省および国土交通省が認めた、建築材料、住宅設備に関するものです」（https://spacecool.jp/blog/20260728-2/・1回目）
+  - 「日経クロストレンド BtoBマーケティング大賞2025で年商1000億円未満の「ブランディング部門」で部門賞に選ばれたのはSPACECOOLだ」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「BtoBマーケティング大賞2025」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「発表「BtoBマーケ大賞2025」 激戦を勝ち抜いた受賞企業6社は？」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「その取り組みが「日経クロストレンド BtoBマーケティング大賞2025」で評価され、年商1000億円未満の「ブランディング部門」で部門賞に選ばれた」（https://xtrend.nikkei.com/atcl/contents/18/01174/00007/・3回目）
+  - 「SPACECOOL、「JAアクセラレータープログラム第8期」にて優秀賞を受賞」（https://initial.inc/companies/A-39469・3回目）
+  - 「受賞のポイント / Award Highlights」（https://www.jpo.go.jp/news/jpo-international-forum/document/expo2025_jpo-wipo-award/award_01.pdf・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | SPACECOOL 株式会社（スペースクール） — 会社概要 | SPACECOOL 株式会社（スペースクール） SPACECOOL株式会社 https://spacecool.jp > profile」（https://spacecool.jp/profile/・3回目）
+  - 「ゼロエネルギーで冷却できる放射冷却素材『 SPACECOOL ... — ゼロエネルギーで冷却できる放射冷却素材『 SPACECOOL ... SPACECOOL株式会社 https://spacecool.jp > news > post-255」（https://spacecool.jp/news/post-255/・3回目）
+  - 「SPACECOOL 社による新商材「放射冷却素材」の ... - 大阪ガス — SPACECOOL 社による新商材「放射冷却素材」の ... - 大阪ガス 大阪ガス PDF https://www.osakagas.co.jp > afieldfile > 2021/04/27」（https://www.osakagas.co.jp/sp/company/press/pr_2021/__icsFiles/afieldfile/2021/04/27/210426_1.pdf・3回目）
+  - 「SPACECOOL 株式 会社 （スペースクール） — SPACECOOL 株式 会社 （スペースクール） SPACECOOL株式会社 https://spacecool.jp」（https://spacecool.jp/・3回目）
+  - 「放射冷却素材『 SPACECOOL 』を活用した膜材料の正式販売 ... — 放射冷却素材『 SPACECOOL 』を活用した膜材料の正式販売 ... SPACECOOL株式会社 https://spacecool.jp > news > post-395」（https://spacecool.jp/news/post-395/・3回目）
+  - 「CEOメッセージ | SPACECOOL 株式会社（スペースクール） — CEOメッセージ | SPACECOOL 株式会社（スペースクール） SPACECOOL株式会社 https://spacecool.jp > message」（https://spacecool.jp/message/・3回目）
+  - 「SPACECOOL 株式会社 - スピーダ スタートアップ情報リサーチ — SPACECOOL 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-39469・3回目）
+  - 「総額9億円の 資金調達 を完了したことを ... - SPACECOOL — 総額9億円の 資金調達 を完了したことを ... - SPACECOOL SPACECOOL株式会社 https://spacecool.jp > news」（https://spacecool.jp/news/20250114/・3回目）
+  - 「SPACECOOL株式 会社 - スピーダ スタートアップ情報リサーチ — SPACECOOL株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-39469・3回目）
+  - 「放射冷却素材「 SPACECOOL 」を開発・販売 ... - STARTUP LOG — 放射冷却素材「 SPACECOOL 」を開発・販売 ... - STARTUP LOG STARTUP LOG https://startuplog.com > ...」（https://startuplog.com/n/n8c5201f1391a・3回目）
+  - 「建築物 | SPACECOOL 株式会社（スペースクール） — 建築物 | SPACECOOL 株式会社（スペースクール） SPACECOOL株式会社 https://spacecool.jp > solution > buildings」（https://spacecool.jp/solution/buildings/・3回目）
+  - 「本田技研工業のタイ拠点で放射冷却素材 SPACECOOL ルーフ ... — 本田技研工業のタイ拠点で放射冷却素材 SPACECOOL ルーフ ... SPACECOOL株式会社 https://spacecool.jp > news」（https://spacecool.jp/news/20250425/・3回目）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部18頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部18頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部18頁・検索11回）
 
 ## TAPP
 - 公式URL：https://tapp-co.jp/（given）
@@ -550,6 +1200,262 @@
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索11回）
 - 客は誰か：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索11回）
 
+## Xenoma
+- 公式URL：https://xenoma.com/（given）
+- 事業内容：スマートアパレルe-skinを用いたヘルスケアサービスの提供（https://xenoma.com/company/・1回目）
+- 事業内容：次世代スマートアパレル「e-skin」の開発・製造・販売及び関連サービスの提供（https://mid-tenshoku.com/agency/a-4601/・3回目）
+- 事業内容：スマートアパレルの開発・製造・販売（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+- 資本金：1億円（https://xenoma.com/company/・1回目）
+- 資本金：1億円（2021年10月時点）（https://mid-tenshoku.com/agency/a-4601/・3回目）
+- 資本金：2億9,265万円（資本準備金を含む）（https://kigyolog.com/company.php?id=63・3回目）
+- 創業年度：設立：2015年11月（https://xenoma.com/company/・1回目）
+- 創業年度：設立：2015年11月（https://mid-tenshoku.com/agency/a-4601/・3回目）
+- 創業年度：設立日：平成２７年１１月２日（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+- 従業員数：46名（正社員：43名　パート：3名　2021/1/4現在）（https://mid-tenshoku.com/agency/a-4601/・3回目）
+- 株主：VCあり, 事業会社あり, 公的機関資金支援あり（https://initial.inc/companies/A-17126・3回目）
+- 所在地：東京都大田区大森南4-6-15（https://xenoma.com/company/・1回目）
+- 所在地：東京都大田区（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+- 所在地：東京都大田区大森南4-6-15（https://initial.inc/companies/A-17126・3回目）
+- 代表者：網盛 一郎（https://mid-tenshoku.com/agency/a-4601/・3回目）
+- 代表者：網盛 一郎（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+- 代表者：網盛　一郎（https://initial.inc/companies/A-17126・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「医療機器製造業（登録番号13BZ201261）」（https://xenoma.com/company/・1回目）
+  - 「第二種医療機器製造販売業（許可番号13B2X10384）」（https://xenoma.com/company/・1回目）
+  - 「富士フイルム（株）にて新規事業開発に従事、網盛が責任者を務めたプロジェクトに中心メンバーとして携わり、製造化技術開発および商品化に貢献」（https://xenoma.com/company/・1回目）
+  - 「各種e-skinの試作から製造技術開発、量産体制整備を先導し、品質の安定や継続的な改良、安定的な供給体制の確立、更なる新技術の開発に尽力している」（https://xenoma.com/company/・1回目）
+  - 「大学3年次に公認会計士論文式試験合格、あらた監査法人（現・PwCあらた有限責任監査法人）に入社し製造・流通・小売・サービス業のクライアントに対する監査業務を担当」（https://xenoma.com/company/・1回目）
+  - 「臨床医が紹介する日本のスタートアップ技術・いつもの生活が予防医療になる、Xenoma：[LSMIP]」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「次世代スマートアパレル「e-skin」の開発・製造・販売及び関連サービスの提供」（https://mid-tenshoku.com/agency/a-4601/・3回目）
+  - 「の引き受けを東京大学協創プラットフォーム開発株式会社（本社：東京都文京区、代表取締役社長 大泉 克彦）が運営する協創プラットフォーム開発１号投資事業有限責任組合およびＢｅｙｏｎｄ Ｎｅｘｔ Ｖｅｎｔｕｒｅｓ株式会社（本社：東京都中央区、代表取締役社長 伊藤 毅）が運営するＢｅｙｏｎｄ Ｎｅｘｔ Ｖｅｎｔｕｒｅｓ １号投資事業有限責任組合（以下「ＢＮＶ」という）と共同で実施しました」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「Ｘｅｎｏｍａが開発した人の動きをモニタリング・認識するｅ－ｓｋｉｎ Ｄｅｖｅｌｏｐｅｒ’ｓ Ｋｉｔは、平成２９年１月に「ＣＥＳ２０１７ Ｉｎｎｏｖａｔｉｏｎ Ａｗａｒｄｓ」を受賞し、同年２月より法人向けに販売を開始しました」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「Ｘｅｎｏｍａは、今回の資金調達を通じて、プロトタイピングから量産までの一貫した開発力を生かし、様々なセンサーを搭載したカスタマイズｅ－ｓｋｉｎの法人向け受託開発に対応するための体制を強化します」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「豊島とXenomaが協業開発した日本発のEMSスーツ“e-skin EMStyle” GROUP CYCLEから『EMS FIT DUNAMIS』として、9月1日（火）より全国に向けて販売・リース開始」（https://initial.inc/companies/A-17126・3回目）
+  - 「Xenoma（ゼノマ)株式会社の決算/売上/経常利益を調べ、世間の評判を徹底調査 - 起業LOG」（https://kigyolog.com/company.php?id=63・3回目）
+- 客は誰か：
+  - 「その後（株）ネクストイノベーションにて中小企業向けハンズオン支援に携わり、経理、労務、法務などの実務を経験」（https://xenoma.com/company/・1回目）
+  - 「大田区中小企業 新製品・新技術コンクール・最優秀賞 ホルター心電図検査e-skin ECG | 公益財団法人大田区産業振興協会」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「Ｘｅｎｏｍａが開発した人の動きをモニタリング・認識するｅ－ｓｋｉｎ Ｄｅｖｅｌｏｐｅｒ’ｓ Ｋｉｔは、平成２９年１月に「ＣＥＳ２０１７ Ｉｎｎｏｖａｔｉｏｎ Ａｗａｒｄｓ」を受賞し、同年２月より法人向けに販売を開始しました」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「また、同年９月には個人向けに米クラウドファンディングＫｉｃｋｓｔａｒｔｅｒキャンペーンにて、目標額＄５０，０００を超える支援を受けました」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「Ｘｅｎｏｍａは、今回の資金調達を通じて、プロトタイピングから量産までの一貫した開発力を生かし、様々なセンサーを搭載したカスタマイズｅ－ｓｋｉｎの法人向け受託開発に対応するための体制を強化します」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「「e-skin」は2017年2月に法人向けに販売開始」（https://kigyolog.com/company.php?id=63・3回目）
+  - 「2019年にBtoB向けの計測器製品の発売、2020年に一般消費者向けの発売を目指しています」（https://kigyolog.com/company.php?id=63・3回目）
+  - 「BtoB/SaaSベンチャー投資家 湊 雅之」（https://kigyolog.com/company.php?id=63・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「自宅でできる医療検査の普及を牽引し、循環器をはじめとする疾病予防に貢献するとともに、将来はデータ解析技術を活かし、予兆を捉えることで発症を未然に防ぐ究極の予防医療を実現することを目指します」（https://xenoma.com/company/・1回目）
+  - 「医療機器製造業（登録番号13BZ201261）」（https://xenoma.com/company/・1回目）
+  - 「第二種医療機器製造販売業（許可番号13B2X10384）」（https://xenoma.com/company/・1回目）
+  - 「高度管理医療機器等貸与業（保生薬第2296号）」（https://xenoma.com/company/・1回目）
+  - 「大学3年次に公認会計士論文式試験合格、あらた監査法人（現・PwCあらた有限責任監査法人）に入社し製造・流通・小売・サービス業のクライアントに対する監査業務を担当」（https://xenoma.com/company/・1回目）
+  - 「慶應義塾大学病院と共同で有用性の検証をおこない、Xenomaにて開発した着衣型の心電図計測システムによって、医療従事者を介せず受検者自身で着脱できるようになりました」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「本サービスは、医療機関様への機器の導入は不要で、お申込を受けるとXenomaから患者様のご自宅に検査キットを送付します」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「患者様による計測・返却後、Xenomaは心電データを解析し、医療機関にレポートを提出します」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「医療従事者が装着を行うために従来必要とされていた計測開始時・終了時の来院が不要になります」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「装着や取り外しに医療従事者の関与が不要になります」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「音響センサとの共創で予防医療に挑戦する | 株式会社村田製作所」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「ホルター心電図の郵送検査 e-skin ECG、慶應義塾大学病院 予防医療センターに導入 | PR TIMES」（https://xenoma.com/medical/eskin-ecg/・1回目）
+- 資本金・株主：
+  - 「Xenoma創業時よりCFOとして参画し半年後にフルコミットに移行、資金調達のほかコーポレート業務全般を所管する」（https://xenoma.com/company/・1回目）
+  - 「機構報 第1279号：出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）における株式会社Ｘｅｎｏｍａへの出資決定について」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）における」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「ＪＳＴ（理事長 濵口 道成）は、出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）において、スマートアパレルｅ－ｓｋｉｎを展開する株式会社Ｘｅｎｏｍａ（本社：東京都大田区、代表取締役ＣＥＯ 網盛 一郎、以下「Ｘｅｎｏｍａ」という）からの」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「平成２８年４月にはＳＵＣＣＥＳＳにて、ＢＮＶと共同でＳＵＣＣＥＳＳにおいて第三者割当増資の引き受けを実施し、支援を開始しています」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「平成２６年４月より、ＪＳＴでは「出資型新事業創出支援プログラム」（略称：ＳＵＣＣＥＳＳ」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「本事業は、ＪＳＴの研究開発成果の実用化を目指すベンチャー企業に対しＪＳＴが出資並びに人的および技術的援助を行うことでその創出および成長を促進し、当該ベンチャー企業が行う事業活動を通じてＪＳＴの研究開発成果の実用化・社会還元を促進することを目的とした事業です」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「出資を通じてＪＳＴがベンチャー企業の株主になることで、民間の資金を誘引する「呼び水効果」を狙っています」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「Ｘｅｎｏｍａは、今回の資金調達を通じて、プロトタイピングから量産までの一貫した開発力を生かし、様々なセンサーを搭載したカスタマイズｅ－ｓｋｉｎの法人向け受託開発に対応するための体制を強化します」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「会社の資金調達の方法の１つで、会社の自己資本を充実させ、財務内容を強化することができる」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「：出資型新事業創出支援プログラム（ＳＵＣＣＥＳＳ）の事業概要」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「Xenoma、資金調達を実施（調達額は非公開）」（https://initial.inc/companies/A-17126・3回目）
+- 表彰・認定の記録：
+  - 「株式会社Xenoma、株式会社村田製作所が主催する「KUMIHIMO Tech Camp with Murata」にて最優秀賞を受賞 | 株式会社村田製作所」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「東京都ベンチャー技術大賞・令和5年度 受賞企業 | 東京都」（https://xenoma.com/medical/eskin-ecg/・1回目）
+  - 「Ｘｅｎｏｍａが開発した人の動きをモニタリング・認識するｅ－ｓｋｉｎ Ｄｅｖｅｌｏｐｅｒ’ｓ Ｋｉｔは、平成２９年１月に「ＣＥＳ２０１７ Ｉｎｎｏｖａｔｉｏｎ Ａｗａｒｄｓ」を受賞し、同年２月より法人向けに販売を開始しました」（https://www.jst.go.jp/pr/info/info1279/index.html・3回目）
+  - 「e-skin ECG ホルター心電図検査、東京都ベンチャー技術大賞にて奨励賞を受賞」（https://initial.inc/companies/A-17126・3回目）
+  - 「株式会社村田製作所が主催する「KUMIHIMO Tech Camp with Murata」にて最優秀賞を受賞」（https://www.onodigitalhealth.com/ja/portfolio/xenoma・3回目）
+- 検索結果の抜粋：
+  - 「会社 情報 | 株式 会社Xenoma — 会社 情報 | 株式 会社Xenoma 株式会社Xenoma https://xenoma.com > company」（https://xenoma.com/company/・3回目）
+  - 「株式 会社Xenoma - ミドルの転職 — 株式 会社Xenoma - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-4601/・3回目）
+  - 「株式 会社Xenoma の求人・企業情報 - Daijob.com — 株式 会社Xenoma の求人・企業情報 - Daijob.com Daijob.com https://www.daijob.com > jobs > company」（https://www.daijob.com/jobs/company/9602・3回目）
+  - 「株式 会社Xenoma への出資を決定 | NEWS | 東大IPC−東京大学 ... — 株式 会社Xenoma への出資を決定 | NEWS | 東大IPC−東京大学 ... utokyo-ipc.co.jp https://www.utokyo-ipc.co.jp > News」（https://www.utokyo-ipc.co.jp/ja/news/2017/09/xenoma/・3回目）
+  - 「会社情報 | 株式会社 Xenoma — 会社情報 | 株式会社 Xenoma 株式会社Xenoma https://xenoma.com > company」（https://xenoma.com/company/・3回目）
+  - 「株式会社 Xenoma - スピーダ スタートアップ情報リサーチ — 株式会社 Xenoma - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-17126・3回目）
+  - 「Xenoma （ゼノマ)株式会社の決算/ 売上 /経常利益を調べ — Xenoma （ゼノマ)株式会社の決算/ 売上 /経常利益を調べ 起業LOG https://kigyolog.com > 決算公告」（https://kigyolog.com/company.php?id=63・3回目）
+  - 「株式会社 Xenoma の企業情報 - バフェット・コード — 株式会社 Xenoma の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/2rwnd0x7i2/・3回目）
+  - 「株式会社 Xenoma （ぜのま） - 大田区研究開発型企業ガイド — 株式会社 Xenoma （ぜのま） - 大田区研究開発型企業ガイド 大田区研究開発型企業ガイド https://www.mirai-ota.net > company > detail」（https://www.mirai-ota.net/company/detail/215・3回目）
+  - 「Xenoma 、小野薬品工業株式会社及びEPSホールディングス ... — Xenoma 、小野薬品工業株式会社及びEPSホールディングス ... 株式会社Xenoma https://xenoma.com > news > article」（https://xenoma.com/news/article/200911/・3回目）
+  - 「東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 — 東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 日刊工業新聞 https://www.nikkan.co.jp > releases > view」（https://www.nikkan.co.jp/releases/view/1928・3回目）
+  - 「東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 — 東大発ベンチャー Xenoma 、総額2億円の 資金調達 を実施 PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000003.000026802.html・3回目）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部24頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部24頁・検索11回）
+
+## nat
+- 公式URL：https://www.natincs.com/（given）
+- 事業内容：Scanat事業、空間設計事業、アカデミー事業（https://tenshoku.mynavi.jp/company/425429/・3回目）
+- 事業内容：Scanat事業、空間設計事業、アカデミー事業（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+- 事業内容：職業紹介（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+- 資本金：3.8億円（資本剰余金含む） 会社設立日 2019年5月20日​（https://www.natincs.com/company/・1回目）
+- 資本金：50,000万円（https://tenshoku.mynavi.jp/company/425429/・3回目）
+- 資本金：900万円（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+- 創業年度：設立：2019年5月（https://tenshoku.mynavi.jp/company/425429/・3回目）
+- 創業年度：設立：2019/05（https://initial.inc/companies/A-41895・3回目）
+- 創業年度：設立：2019年05月（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+- 従業員数：40人（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-41895・3回目）
+- 所在地：〒150-0001 
+東京都渋谷区神宮前2-34-17 住友不動産原宿ビル3F（https://tenshoku.mynavi.jp/company/425429/・3回目）
+- 所在地：東京都渋谷区神宮前2-34-17 住友不動産原宿ビル 3F（https://initial.inc/companies/A-41895・3回目）
+- 所在地：東京都渋谷区神宮前2丁目34-17
+住友不動産原宿ビル3F（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+- 代表者：劉 栄駿（https://tenshoku.mynavi.jp/company/425429/・3回目）
+- 代表者：劉　栄駿（https://initial.inc/companies/A-41895・3回目）
+- 代表者：Bruce Liu（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「建築・インテリア・ランドスケープ・エンタテインメントの幅広い分野で活用されるCAD・BIMソフトウェア「Vectorworks」の国内販売・マーケティング・技術サポートを展開しています」（https://www.natincs.com/event/seminar-vectorworks-design/・1回目）
+  - 「iPhone /iPadで誰でも簡単に高精度3D計測ができる「Scanat」アプリの開発・運営事業を中心に、「コンサルティング事業」「空間設計事業」「アカデミー事業」の4つを展開しています」（https://www.natincs.com/event/seminar-vectorworks-design/・1回目）
+  - 「医療用機器及びレーザー応用機器の開発・販売」（https://nat-web.com/company/・3回目）
+  - 「労働者派遣事業（派08-019001）」（https://nat-web.com/company/・3回目）
+  - 「リファラル採用のインセンティブ制度（1名紹介につき50万円支給）※別途規定あり」（https://tenshoku.mynavi.jp/company/425429/・3回目）
+  - 「第43回（2013年度）信頼性・保全性シンポジウム 推奨報文賞・奨励報文賞・特別賞の紹介」（https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b・3回目）
+  - 「本事業内容を拝見した際、劉社長の卓越した問題解決力とビジョンに深く感銘を受けました」（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+  - 「以下に、NATの利用例をいくつか紹介します」（https://infrastructure-engineer.com/nat-explanation-001/・3回目）
+  - 「・リファラル採用のインセンティブ制度（1名紹介：50万円支給、別途規定あり）」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「事業内容：Scanat事業、空間設計事業、アカデミー事業」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「この革新は建設業界をはじめ、不動産業、製造業、官公庁など多岐にわたる業界で導入されており、リリースから数年で累計800社以上、スーパーゼネコンとの取引実績を誇ります」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「スタートアップでありながら、売上も数億円規模を見込んでおります」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+- 客は誰か：
+  - 「nat、TOPPANホールディングスと資本業務提携 建設業界向け空間シミュレーション事業で協業」（https://initial.inc/companies/A-41895・3回目）
+  - 「自社開発のAI測量アプリ「Scanat」を展開する当社にて建設・不動産業界向けのセールスをご担当」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「世界で初めてmm単位の計測や曲面の計測が可能なスマホアプリとして、ネットワークがない環境でも使用可能で、建設や不動産、設備メンテナンス、消防、警察など多様な業界での現地調査や図面作成の効率化に貢献しています」（https://www.natincs.com/・1回目）
+  - 「インテリアコーディネーターのパイオニアとして、ホテルや旅館（全客室数8769室）、オフィス、店舗デザインの実績に加え、150㎡を越える高級マンションのインテリアコーディネート経験を活かした豊かな空間づくりをご提案します」（https://www.natincs.com/・1回目）
+  - 「〒150-0001 東京都渋谷区神宮前2-34-17 住友不動産原宿ビル3F」（https://www.natincs.com/company/・1回目）
+  - 「③工数1/5を実現！3Dスキャンの導入事例」（https://www.natincs.com/event/seminar-vectorworks-design/・1回目）
+  - 「「Scanat」は、建設・建築・リフォーム業界を中心に累計1,000社以上に導入いただき、現場のDX化と生産性向上に貢献しています」（https://www.natincs.com/event/seminar-vectorworks-design/・1回目）
+  - 「【8/26-28】関西最大級の建築・建設・不動産展！「JAPAN BUILD OSAKA」に出展」（https://www.natincs.com/event/seminar-vectorworks-design/・1回目）
+  - 「医療用機器及びレーザー応用機器の開発・販売」（https://nat-web.com/company/・3回目）
+  - 「建設業許可 茨城県知事許可（特－02第31200号）」（https://nat-web.com/company/・3回目）
+  - 「事業部を開設し、建設施工保守業務を開始」（https://nat-web.com/company/・3回目）
+  - 「東京都渋谷区神宮前2-34-17 住友不動産原宿ビル3F」（https://tenshoku.mynavi.jp/company/425429/・3回目）
+  - 「電通大ら、高エネルギーX線の偏光を実証し原子物理の常識に挑戦」（https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b・3回目）
+  - 「茨城県水戸市に本社を置く建設・機械メンテナンスを行う会社」（https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b・3回目）
+- 資本金・株主：
+  - 「nat、第三者割当増資を実施 シリーズAラウンドで5億円を調達」（https://initial.inc/companies/A-41895・3回目）
+  - 「nat、第三者割当増資を実施 PRE-A ROUNDにて総額約1.2億円を調達」（https://initial.inc/companies/A-41895・3回目）
+  - 「nat、第三者割当増資を実施 8,000万円を調達」（https://initial.inc/companies/A-41895・3回目）
+  - 「nat、5億円のシリーズAラウンド資金調達を実施 | nat株式会社のプレスリリース」（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+  - 「nat、5億円のシリーズAラウンド資金調達を実施」（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+  - 「nat株式会社（本社：東京都港区、代表取締役：劉 栄駿、以下 nat）は、DEEPCOREをリードインベスターとして、TOPPANホールディングス株式会社、Dual Bridge Capitalおよび松岡広隆等を引受先とする総額5億円の第三者割当増資を実施しました」（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+  - 「この度、当社「Scanat」が状況を劇的に改善する解決策と確信し、ご出資させていただきました」（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+  - 「現在は東証一部上場企業等の顧問も兼任しながら、エンジェル投資家としてスタートアップの支援に注力しています」（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+  - 「資本金：300百万円」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「【大阪】営業事務 日立製作所100%出資/年休126日/安定基盤で長く働く 機械/電気/電子製品法人営業」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「企業名 関西日立株式会社 求人名 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く 仕事の内容 営業担当者のサポート業務を中心に、受発注管理や見積書作成などの事務業務をお任せします」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「・見積書、提案資料の作成補助 ・受発注処理 ・売上、請求関連業務 ・納期確認、調整 ・営業担当者のスケジュール管理 ・顧客情報や案件情報の管理 ・社内関係部署との連携 募集職種 【大阪】営業事務◆日立製作所100％出資/年休126日/安定基盤で長く働く」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+- 表彰・認定の記録：
+  - 「nat team KCMG、KYOJO CUP第4戦でダブル表彰台！」（https://www.natincs.com/・1回目）
+  - 「令和7年度 インフラDX大賞 「スタートアップ奨励賞」受賞のお知らせ」（https://initial.inc/companies/A-41895・3回目）
+  - 「■音楽市場に関する統計・認定データの集計・分析、調査実施 ■ウェブサイト、機関誌、公式SNS、プレスリリース等による情報発信 ■会員社、関係団体等で構成する委員会・ワーキングチームの運営 ■音楽流通に関する制度・規格の管理、業界課題への対応 ■著作権に関する啓発・教育活動 ■日本音楽の海外展開に関する事業の企画・運営 募集職種 【音楽業界団体の事務局スタッフ(第二新卒歓迎)】データ集計・各種会議運営等」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日 採用人事」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「企業名 株式会社ディープコム 求人名 浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日 仕事の内容 開発会社の採用担当として新卒・中途採用の求人掲載・応募者対応・面接調整などを担当いただきます」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「募集職種 浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+  - 「＜具体的な業務内容＞ ■取締役会、株主総会運営 ■朝会、締会、（Ｑ毎開催）戦略共有会準備運営 ■サプライヤー選定から支払いまでの調達オペレーションの整備並びに監査 ■ファシリティ関連 ■接待贈答、インシデント報告のとりまとめ ■許認可手続き ■上記業務に関するマニュアルやオペレーションの整備 募集職種 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240」（https://www.r-agent.com/viewjob/jk559b793b61298de5/・3回目）
+- 検索結果の抜粋：
+  - 「COMPANY - nat Inc. — COMPANY - nat Inc. nat Inc. https://www.natincs.com > company」（https://www.natincs.com/company/・3回目）
+  - 「会社 情報 - 株式会社NAT — 会社 情報 - 株式会社NAT 株式会社NAT https://nat-web.com > company」（https://nat-web.com/company/・3回目）
+  - 「nat 株式会社の 会社概要 - マイナビ転職 — nat 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/425429/・3回目）
+  - 「nat 株式会社 の求人・採用情報/ 会社概要 - HERP Career — nat 株式会社 の求人・採用情報/ 会社概要 - HERP Career herp.careers https://herp.careers > careers > companies > nat2025」（https://herp.careers/careers/companies/nat2025・3回目）
+  - 「株式会社 NAT （茨城県）の 会社概要 ・役員 | Compalyze — 株式会社 NAT （茨城県）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > その他専門サービス」（https://compalyze.co.jp/company/6050001004683・3回目）
+  - 「事業内容 - 株式会社NAT — 事業内容 - 株式会社NAT 株式会社NAT https://nat-web.com > business-content」（https://nat-web.com/business-content/・3回目）
+  - 「nat 株式会社の転職・企業概要 - doda — nat 株式会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10193869576」（https://doda.jp/DodaFront/View/Company/j_id__10193869576/・3回目）
+  - 「株式会社 NAT - 茨城県・プラント設備工事業界の企業情報 — 株式会社 NAT - 茨城県・プラント設備工事業界の企業情報 Baseconnect https://baseconnect.in > companies」（https://baseconnect.in/companies/24fbec7e-9eb4-4944-af89-dd62b35efc6b・3回目）
+  - 「株式会社 NAT （旧: 日本アドバンストテクノロジー株式会社） — 株式会社 NAT （旧: 日本アドバンストテクノロジー株式会社） 転職会議 https://jobtalk.jp > companies」（https://jobtalk.jp/companies/25564・3回目）
+  - 「Scanatの累計導入社数が300社を超え、総額約1.2億円の 資金 ... — Scanatの累計導入社数が300社を超え、総額約1.2億円の 資金 ... nat Inc. https://www.natincs.com > news > pre-a-round」（https://www.natincs.com/news/pre-a-round/・3回目）
+  - 「nat株式 会社 - スピーダ スタートアップ情報リサーチ — nat株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-41895・3回目）
+  - 「nat 、5億円のシリーズAラウンド 資金調達 を実施 - PR TIMES — nat 、5億円のシリーズAラウンド 資金調達 を実施 - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000030.000046540.html・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索11回）
+
+## ugo
+- 公式URL：https://corp.ugo.plus/（given）
+- 事業内容：ugoソリューションの提供・運用、RaaSフレームワークの開発・提供・運用（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+- 創業年度：設立：2018/02（https://initial.inc/companies/A-30640・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-30640・3回目）
+- 所在地：東京都千代田区東神田1-7-8（https://initial.inc/companies/A-30640・3回目）
+- 所在地：東京都千代田区東神田１−７−８（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+- 代表者：松井　健（https://initial.inc/companies/A-30640・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「ｕｇｏ、「AI×サービスロボット」領域の製造業(4分野)・点検保守用途市場で売上シェアNo.1を獲得」（https://corp.ugo.plus/・1回目）
+  - 「【TechLIVE by ITmedia】「フィジカルAI Summit」において当社の取り組みが紹介されました」（https://corp.ugo.plus/・1回目）
+  - 「【ugo Robotics Specialist】認定試験の様子をご紹介ーパーソルビジネスプロセスデザイン株式会社様の例ー」（https://corp.ugo.plus/・1回目）
+  - 「案内ロボットugo、ついに始動！エキュート秋葉原の ugo Pro をご紹介」（https://corp.ugo.plus/・1回目）
+  - 「次世代型アバターロボットの開発・製造・販売」（https://herp.careers/careers/companies/ugo0220・3回目）
+  - 「新卒・中途採用プラットフォームや質問箱サービス「mond」を運営し、採用代行も提供」（https://herp.careers/careers/companies/ugo0220・3回目）
+  - 「そして、昨今の人手不足の深刻化や省人化ニーズの高まりにより、当社の売上高は、直近３年間で連続して前年比およそ２倍の成長を実現」（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+  - 「事業内容：ugoソリューションの提供・運用、RaaSフレームワークの開発・提供・運用」（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+  - 「「ものづくりワールド」は製造業向けイベントなので、松井氏は今回は点検ソリューションについて紹介した」（https://note.com/kmoriyama/n/nd3223dea41dd・3回目）
+  - 「松井氏は動画で、ugoの点検DXソリューションを紹介した」（https://note.com/kmoriyama/n/nd3223dea41dd・3回目）
+  - 「のほか、各種センサーも色々なものを追加できるようにしているので、様々な点検項目が追加可能だと紹介した」（https://note.com/kmoriyama/n/nd3223dea41dd・3回目）
+  - 「「非常に拡張性の高いロボットだ」と松井氏は紹介した」（https://note.com/kmoriyama/n/nd3223dea41dd・3回目）
+- 客は誰か：
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://www.ipros.com/product/detail/2001521924/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「ｕｇｏ、みずほ銀行・横浜銀行・日本政策金融公庫から総額10億円のデットファイナンスを実施」（https://corp.ugo.plus/・1回目）
+  - 「ｕｇｏ、「AI×サービスロボット」領域の製造業(4分野)・点検保守用途市場で売上シェアNo.1を獲得」（https://corp.ugo.plus/・1回目）
+  - 「コンセ プト設計から海外工場での量産立ち上げに携わる」（https://corp.ugo.plus/company/・1回目）
+  - 「医療搬送システムの設計開発に携わった後、技術営業・現場導入に従事」（https://corp.ugo.plus/company/・1回目）
+  - 「以降約20年、医療・ヘルスケア領域で事業開発やロボット導入を主導し、大規模医療機関での自律走行ロボット導入を通じて業務変革を実現」（https://corp.ugo.plus/company/・1回目）
+  - 「提携工場としてJENESIS株式会社と業務提携」（https://corp.ugo.plus/company/・1回目）
+  - 「介護業界大手のツクイグループ、ハードウェア・スタートアップに特化したMonozukuri Ventures、人工知覚（AP)の研究開発企業であるKudan株式会社と協業、ならびに提携強化」（https://corp.ugo.plus/company/・1回目）
+  - 「警備や点検を担う国産AIロボットのugo、みずほ銀行などからデットファイナンスで10億円を調達」（https://initial.inc/companies/A-30640・3回目）
+  - 「ブレインパッド、売場を巡回して欠品を検知する「売場巡回AI」（仮称）を発表小売店舗のPoCパートナーの募集を開始」（https://initial.inc/companies/A-30640・3回目）
+  - 「物流、警備、医療・介護・福祉などの分野」（https://herp.careers/careers/companies/ugo0220・3回目）
+  - 「※厚生年金の被保険者のデータを使用しています」（https://herp.careers/careers/companies/ugo0220・3回目）
+  - 「教育とテクノロジーを融合させたEdTech企業」（https://herp.careers/careers/companies/ugo0220・3回目）
+- 資本金・株主：
+  - 「経理実務支援や財務デューデリジェンス、事業計画策定、資金調達支援等に従事した他、上場支援プロジェクトを統率し2015年にマザーズ上場」（https://corp.ugo.plus/company/・1回目）
+  - 「株式会社安川電機・川崎重工業株式会社より資金調達、ならびに協業」（https://corp.ugo.plus/company/・1回目）
+  - 「ugo、第三者割当増資を実施 シリーズB3ラウンドにて調達（調達額は非公開）」（https://initial.inc/companies/A-30640・3回目）
+  - 「ugo、第三者割当増資を実施（調達額は非公開）」（https://initial.inc/companies/A-30640・3回目）
+  - 「ugo、第三者割当増資を実施 8.5億円を調達」（https://initial.inc/companies/A-30640・3回目）
+  - 「ugo、資金調達を実施（調達額は非公開）」（https://initial.inc/companies/A-30640・3回目）
+  - 「Mira Robotics、第三者割当を実施 シリーズAにて総額2.25億円を調達」（https://initial.inc/companies/A-30640・3回目）
+  - 「Mira Robotics、第三者割当増資を実施 シードラウンドにて総額1.2億円を調達」（https://initial.inc/companies/A-30640・3回目）
+  - 「Mira Robotics、資金調達を実施（調達額は非公開）」（https://initial.inc/companies/A-30640・3回目）
+  - 「※ 登記簿に掲載されていない資金調達情報は除く」（https://herp.careers/careers/companies/ugo0220・3回目）
+  - 「独自技術で日本全国の道路データ化を進め、北米子会社を通じ海外進出も図る」（https://herp.careers/careers/companies/ugo0220・3回目）
+  - 「お知らせ｜ｕｇｏ、NTT西日本をリードに社会インフラ事業各社から資金調達 ─ 累計40億円突破でフィジカルAIの社会実装を加速 - ugo」（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+- 表彰・認定の記録：
+  - 「沿革、受賞歴」（https://corp.ugo.plus/・1回目）
+  - 「【ugo Robotics Specialist】認定試験の様子をご紹介ーパーソルビジネスプロセスデザイン株式会社様の例ー」（https://corp.ugo.plus/・1回目）
+  - 「第５次選定企業」（https://corp.ugo.plus/company/・1回目）
+  - 「第11回ロボット大賞 優秀賞」（https://corp.ugo.plus/company/・1回目）
+  - 「第8回インフラメンテナンス大賞」（https://corp.ugo.plus/company/・1回目）
+  - 「かわさき起業家オーディション 計４賞を受賞（かわさきビジネス・アイデアシーズ賞、かわしんビジネスチャレンジ賞、KSP賞、はまぎん賞）」（https://corp.ugo.plus/company/・1回目）
+  - 「ACC Innovation Award Silver 受賞」（https://corp.ugo.plus/company/・1回目）
+  - 「東京都『東京都ベンチャー技術大賞』奨励賞 受賞」（https://corp.ugo.plus/company/・1回目）
+  - 「第11回ロボット大賞 – 優秀賞(ビジネス・社会実装部門) 受賞」（https://corp.ugo.plus/company/・1回目）
+  - 「第8回インフラメンテナンス大賞 総務大臣賞 受賞」（https://corp.ugo.plus/company/・1回目）
+  - 「コンペティションでの評価基準をクリアし、最終的な「データ収集用ロボット」としての選定を目指します」（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+  - 「警備・点検・案内など、現場ごとに異なる設備や業務に柔軟に対応できる設計で、ロボットの選定や運用もカスタマイズ可能」（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+- 検索結果の抜粋：
+  - 「企業情報 - ugo株式会社 — 企業情報 - ugo株式会社 corp.ugo.plus https://corp.ugo.plus > company」（https://corp.ugo.plus/company/・3回目）
+  - 「ugo 株式 会社 - スピーダ スタートアップ情報リサーチ — ugo 株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-30640・3回目）
+  - 「ugo 株式 会社 の企業情報 - HERP Career — ugo 株式 会社 の企業情報 - HERP Career herp.careers https://herp.careers > careers > companies > ugo0220」（https://herp.careers/careers/companies/ugo0220・3回目）
+  - 「ugo 株式 会社 - キャリアクロス — ugo 株式 会社 - キャリアクロス キャリアクロス https://www.careercross.com > company > detail-567910」（https://www.careercross.com/company/detail-567910・3回目）
+  - 「ugo 株式 会社 - 埼玉県 — ugo 株式 会社 - 埼玉県 埼玉県 https://www.pref.saitama.lg.jp > robotics > database」（https://www.pref.saitama.lg.jp/robotics/database/625.html・3回目）
+  - 「ugo 、NTT西日本をリードに社会インフラ 事業 各社から資金 ... — ugo 、NTT西日本をリードに社会インフラ 事業 各社から資金 ... ugo.plus https://ugo.plus > お知らせ > PRESS RELEASE」（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+  - 「ugo 株式会社 - スピーダ スタートアップ情報リサーチ — ugo 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-30640・3回目）
+  - 「ugo 株式会社の第6期決算公告の決算・財務情報 - PR TIMES — ugo 株式会社の第6期決算公告の決算・財務情報 - PR TIMES prtimes.com https://prtimes.com > finance > settlement」（https://prtimes.com/finance/2020001125230/settlement・3回目）
+  - 「ugo 株式会社 の企業情報 - バフェット・コード — ugo 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/5xc7nvtf05/・3回目）
+  - 「ugo 、「AI×サービスロボット」領域の製造業(4分野)・点検 ... — ugo 、「AI×サービスロボット」領域の製造業(4分野)・点検 ... tv-tokyo.co.jp https://www.tv-tokyo.co.jp > テレ東プラス > 外部リリース」（https://www.tv-tokyo.co.jp/plus/external-pr/entry/275615.html・3回目）
+  - 「ugo 、NTT西日本をリードに社会インフラ事業各社から 資金 ... — ugo 、NTT西日本をリードに社会インフラ事業各社から 資金 ... ugo.plus https://ugo.plus > お知らせ > PRESS RELEASE」（https://ugo.plus/information/2026/04/15/financing_news/・3回目）
+  - 「業務DXロボット開発の ugo が 資金調達 不動産や製造 — 業務DXロボット開発の ugo が 資金調達 不動産や製造 BRIDGE（ブリッジ） https://thebridge.jp > 2025/05 > ugo-developer-of-busines...」（https://thebridge.jp/2025/05/ugo-developer-of-business-dx-robots-raises-funding・3回目）
+- 資本金：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索11回）
+
 ## アイメックス
 - 公式URL：https://www.imecs.co.jp/（given）
 - 資本金：262,257,600円（https://www.imecs.co.jp/company/profile/・1回目）
@@ -621,6 +1527,193 @@
 - 売上高：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部20頁・検索11回）
 - 株主：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部20頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部20頁・検索11回）
+
+## アジラ
+- 公式URL：https://jp.asilla.com/（given）
+- 事業内容：行動認識AIを中核とした映像解析事業（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+- 事業内容：世界トップクラスの「姿勢推定」および独自開発の「行動認識AI」をコアテクノロジーとした、次世代AI警備システム「AI Security asilla」の提供、施設向け人流解析、介護現場向けAI見守りシステムの企画・開発・設計および運用保守業務（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+- 事業内容：行動認識AI及び姿勢推定AIを活用した警備システム「AI Security asilla」、介護施設向け見守りシステム「asilla care」、施設向け人流解析「asilla BIZ」等の研究・企画・開発・設計・販売および保守運用（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+- 資本金：56,125千円（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+- 資本金：1億円（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+- 資本金：1億円（https://prtimes.jp/main/html/rd/p/000000229.000043312.html・3回目）
+- 創業年度：設立：2015年6月1日（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+- 創業年度：設立：2015/06（https://initial.inc/companies/A-27536・3回目）
+- 創業年度：設立：2015年6月1日（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+- 従業員数：68名（https://mono.ipros.com/company/detail/2089553/・3回目）
+- 株主：VCあり, 事業会社あり（https://initial.inc/companies/A-27536・3回目）
+- 所在地：東京都町田市中町一丁目４－２（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+- 所在地：東京都町田市中町1-4-2（https://initial.inc/companies/A-27536・3回目）
+- 所在地：〒194-0021 東京都町田市中町1丁目4-2（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+- 代表者：代表取締役 木村 大介（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+- 代表者：尾上　剛（https://initial.inc/companies/A-27536・3回目）
+- 代表者：代表取締役CEO 尾上 剛（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+- 主要取引先：株式会社ニコン
+YKK株式会社
+セコム株式会社
+株式会社オンザウェイ
+兵庫県立大学
+パナソニック ネットソリューションズ株式会社
+経済産業省
+全国農業協同組合連合会
+アイシン精機株式会社
+NECネッツエスアイ株式会社
+キヤノンマーケティングジャパン株式会社
+三菱総研DCS株式会社
+東急不動産株式会社
+株式会社本田技術研究所
+日本信号株式会社
+富士通コミュニケーションサービス株式会社
+KDDI株式会社
+株式会社NTTデータ
+日産自動車株式会社
+富士通株式会社
+NTTエレクトロニクステクノ株式会社
+京セラコミュニケーションシステム株式会社
+株式会社ナカバヤシ
+株式会社ぐるなび (順不同・敬称略)（https://mono.ipros.com/company/detail/2089553/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「感覚に頼らない施設運営で、売上アップや顧客体験向上を支援」（https://jp.asilla.com/・1回目）
+  - 「AIに関する研究、企画、開発、設計、販売、賃貸借及び運用、保守」（https://jp.asilla.com/about・1回目）
+  - 「ソフトウェア・ハードウェアの企画、開発、設計、販売、賃貸借及び運用、保守」（https://jp.asilla.com/about・1回目）
+  - 「2013年に株式会社ザッパラスに入社し、データマーケティング、CRM、月間1,000万PV超の複数メディア運営を統括」（https://jp.asilla.com/about・1回目）
+  - 「防犯カメラ × AI解析で、施設全体の人流データを取得し、運営の可能性を拡げる」（https://jp.asilla.com/services/biz・1回目）
+  - 「混雑の傾向やピーク時間を把握し、より効率的な施設運営を実現します」（https://jp.asilla.com/services/biz・1回目）
+  - 「同施設の施設管理を受託する株式会社東急コミュニティー（以下、「東急コミュニティー」）は、2024年10月よりアジラとの実証実験を開始し、警備品質の向上に向けてAI警備システム「AI Security asilla」の本格運用を進めています」（https://jp.asilla.com/post/casestudy-jptowernagoya-20261006・1回目）
+  - 「今回は、施設管理を担う東急コミュニティーのJPタワー名古屋運営センター、マネージャーの宮﨑様と、現場の警備業務を担うALSOK愛知株式会社のJPタワー名古屋警備隊、隊長の佐野様のお二方に、導入の背景から活用、今後の展望についてお話を伺いました」（https://jp.asilla.com/post/casestudy-jptowernagoya-20261006・1回目）
+  - 「ーー 東急コミュニティー様はJPタワー名古屋の建物総合管理を受託されていますが、警備体制においてどのような課題を感じていらっしゃいましたか」（https://jp.asilla.com/post/casestudy-jptowernagoya-20261006・1回目）
+  - 「そうした課題感を持っていた中で、asillaのAI警備システムをご紹介いただきました」（https://jp.asilla.com/post/casestudy-jptowernagoya-20261006・1回目）
+  - 「AI Security asilla （販売版） SLA」（https://jp.asilla.com/termsofservice・1回目）
+  - 「特に警備部門よりも、ザイマックスグループ内の商業施設の運営をしている部署からは非常に興味が高いですね」（https://jp.asilla.com/post/casestudy-maxsecurity-20251114・1回目）
+- 客は誰か：
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/company/detail/2089553/・3回目）
+  - 「国や省庁による中小企業のDX補助金や介護テクノロジー導入助成金の拡充も、同社の契約獲得スピードを劇的に加速させる絶好の機会と言えます」（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+  - 「は、主に警備業界向けのAIプロダクトを展開するスタートアップ企業です」（https://incidentlake.com/case/asilla・3回目）
+  - 「同社が展開する事業の一つが、警備業界向けAIプロダクト「」（https://incidentlake.com/case/asilla・3回目）
+  - 「警備業界向けプロダクトという性質上、高い信頼性が求められる一方で、エッジAIサーバーの運用には、独自の複雑性が存在します」（https://incidentlake.com/case/asilla・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「日鉄興和不動産・アジラ・JDSC、オフィスビルの省エネに向け人流データを活用した空調最適化の実証実験を実施」（https://jp.asilla.com/・1回目）
+  - 「感覚に頼らない施設運営で、売上アップや顧客体験向上を支援」（https://jp.asilla.com/・1回目）
+  - 「既存カメラで異常行動を検知し、介護現場の「気づけなかった」をなくす」（https://jp.asilla.com/・1回目）
+  - 「人とAIの連携で月間100時間の巡回削減を実現 〜渋谷スクランブルスクエアが実践するAI警備とは〜 ｜東急セキュリティ様導入事例」（https://jp.asilla.com/・1回目）
+  - 「人とAIの連携で月間100時間の巡回削減を実現 〜渋谷スクランブルスクエアが実践するAI警備とは〜 ｜東急セキュリティ様導入事例」（https://jp.asilla.com/category/case-study・1回目）
+  - 「福岡・天神の新ランドマークが開業と同時に選んだAI警備——ONE FUKUOKA BLDG.における警備の高度化への取り組み｜西鉄ビルマネージメント様導入事例」（https://jp.asilla.com/category/case-study・1回目）
+  - 「AI警備システム「AI Security asilla」実証事例 介護施設×asillaで「見守り」課題をAIで解決」（https://jp.asilla.com/category/case-study・1回目）
+  - 「「AI Security asilla」導入事例：三菱地所が語る大規模不動産管理における施設DX」（https://jp.asilla.com/category/case-study・1回目）
+  - 「不動産テック協会主催 "不動産テックピッチコンテスト・2021"」（https://jp.asilla.com/about・1回目）
+  - 「大手証券会社で投資銀行部門を含む様々な業務に従事後、上場企業やスタートアップにて経営企画部門を統括」（https://jp.asilla.com/about・1回目）
+  - 「クウェート国建設現場駐在、プラント設計IT業務に従事」（https://jp.asilla.com/about・1回目）
+  - 「慶應義塾大学卒業後、東京三菱銀行（現三菱東京UFJ銀行）、ドイツ証券株式会社などでデリバティブ取引や不動産投資銀行業務に従事」（https://jp.asilla.com/about・1回目）
+- 資本金・株主：
+  - 「大手証券会社で投資銀行部門を含む様々な業務に従事後、上場企業やスタートアップにて経営企画部門を統括」（https://jp.asilla.com/about・1回目）
+  - 「その後、監査法人に入所し、監査業務・上場支援等の業務に従事」（https://jp.asilla.com/about・1回目）
+  - 「3000を超える企業の中から上位15社が3分間のピッチと投資家とのQ&Aの機会を手にすることができ、さらに上位3社には最大で1,000,000ドルの出資を受けることができます」（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+  - 「Taiwan Acceleratorは、上場企業、政府、学界、投資コミュニティの支援を行うアジア初のシードアクセラレータです」（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+  - 「資本金：56,125千円」（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+  - 「アジラ、第三者割当増資を実施(調達額は非公開)」（https://initial.inc/companies/A-27536・3回目）
+  - 「アジラ、資金調達を実施 シリーズDラウンドにて調達（調達額は非公開）」（https://initial.inc/companies/A-27536・3回目）
+  - 「アジラ、第三者割当増資を実施 シリーズCラウンドにてベンチャーデットとあわせて3億円を調達」（https://initial.inc/companies/A-27536・3回目）
+  - 「アジラ、資金調達を実施 シリーズCラウンドにて約4.6億円を調達」（https://initial.inc/companies/A-27536・3回目）
+  - 「アジラ、第三者割当増資を実施 シリーズBラウンド2nd Closingにて調達（調達額は非公開）」（https://initial.inc/companies/A-27536・3回目）
+  - 「アジラ、第三者割当増資を実施 シリーズBラウンドにて約5.4億円を調達」（https://initial.inc/companies/A-27536・3回目）
+  - 「アジラ、第三者割当増資を実施（調達額 非公開）」（https://initial.inc/companies/A-27536・3回目）
+- 表彰・認定の記録：
+  - 「『X-PITCH 2021』にてアジラがPublic Service / Healthcare 部門でBest Startupを受賞」（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+  - 「この度、Taiwan Accelerator Inc.主催の『X-PITCH 2021』にて当社の「公共サービスにおける防犯セキュリティソリューションの提案」がPublic Service / Healthcare 部門でBest Startupを受賞しました」（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+  - 「42カ国 3,000社超のスタートアップが参加した今回の台湾主催グローバルピッチコンテストにおいて、Grand-Final Top15まで残り、Public Service / Healthcare 部門で受賞できたこと大変光栄に思います」（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+  - 「Plug and Play Japan Summer/Fall 2019 EXPO Domestic Winner受賞」（https://jp.asilla.com/post/xpitch-award-2021・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 株式会社 アジラ — 会社概要 | 株式会社 アジラ 株式会社アジラ https://jp.asilla.com > about」（https://jp.asilla.com/about・3回目）
+  - 「株式会社 アジラ （東京都）の 会社概要 ・役員 | Compalyze — 株式会社 アジラ （東京都）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析」（https://compalyze.co.jp/company/9012301010123・3回目）
+  - 「アジラ | 企業情報 | イプロスものづくり — アジラ | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信」（https://mono.ipros.com/company/detail/2089553/・3回目）
+  - 「アジラ 、資金調達及び事業進展のお知らせ - PR TIMES — アジラ 、資金調達及び事業進展のお知らせ - PR TIMES PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000355.000043312.html・3回目）
+  - 「アジラ 社と業務提携 - 株式 会社 アイビックス北陸 — アジラ 社と業務提携 - 株式 会社 アイビックス北陸 株式会社アイビックス北陸 https://aivix-hokuriku.co.jp > アジラ社と業務提携」（https://aivix-hokuriku.co.jp/%E3%82%A2%E3%82%B8%E3%83%A9%E7%A4%BE%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA/・3回目）
+  - 「株式会社 アジラ - スピーダ スタートアップ情報リサーチ — 株式会社 アジラ - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-27536・3回目）
+  - 「行動認識AIで安全で快適な世界を目指す アジラ 、シリーズCで ... — 行動認識AIで安全で快適な世界を目指す アジラ 、シリーズCで ... 株式会社アジラ https://jp.asilla.com > post」（https://jp.asilla.com/post/c-20240118・3回目）
+  - 「#16415 決算分析 : 株式会社 アジラ 第11期決算 当期純損失 436 ... — #16415 決算分析 : 株式会社 アジラ 第11期決算 当期純損失 436 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/06/04」（https://ryo-nakamura1.hatenablog.jp/entry/2026/06/04/110000・3回目）
+  - 「株式会社 アジラ | 採択スタートアップ企業 — 株式会社 アジラ | 採択スタートアップ企業 KING SALMON PROJECT https://kingsalmon.metro.tokyo.lg.jp > company06 > asilla」（https://kingsalmon.metro.tokyo.lg.jp/company06/asilla.html・3回目）
+  - 「アジラ ｜STARTUP DB（スタートアップデータベース） — アジラ ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/rE5aJP5Ugk7GmVbw・3回目）
+  - 「アジラ 、 資金調達 及び事業進展のお知らせ〜来期黒字化を視野に — アジラ 、 資金調達 及び事業進展のお知らせ〜来期黒字化を視野に 株式会社アジラ https://jp.asilla.com > post > news-funding-20260805」（https://jp.asilla.com/post/news-funding-20260805・3回目）
+  - 「累計 調達 金額は約12億円に | 株式会社 アジラ のプレスリリース — 累計 調達 金額は約12億円に | 株式会社 アジラ のプレスリリース PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000229.000043312.html・3回目）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部19頁・検索11回）
+
+## アルカディアソフト開発
+- 公式URL：https://www.arcadia-soft.co.jp/（given）
+- 事業内容：１.貿易システム　"HarborWrite ® " の開発・販売・保守 ２.在庫管理システムの開発・販売・保守 ３.販売管理システムの開発・販売・保守 ４.自社パッケージソフトウェアのクラウドサービス ５.システムの受託開発 ６.海外オフショア開発の受託 ７.海外日系企業向けシステム開発及びサポート ８.その他全各号に付帯する一切の業務（https://www.arcadia-soft.co.jp/about/・1回目）
+- 事業内容：人材調達総合支援システム 【スクラッチ開発】 多種多様な雇用形態の人材発注から契約、派遣社員の勤怠登録を同一プラットフォーム上で管理できるシステムを開発。PLとして超上流フェーズから参画し、ユーザ様のご要望をもとにシステム化する機能や課題を抽出する。システム化方針を策定後は計画に沿って開発し、安定した本番稼働に至っている。 Linux Apache Oracle PHP、Java 要件定義～リリース（https://www.arcadia-soft.co.jp/ses/・1回目）
+- 事業内容：貿易システム　"HarborWrite" の開発・販売・保守 在庫管理システムの開発・販売・保守 販売管理システムの開発・販売・保守 自社パッケージソフトウェアのクラウドサービス システムの受託開発 海外オフショア開発の受託 海外日系企業向けシステム開発及びサポート その他上記に付帯する一切の業務 労働者派遣事業（派13-309637）（https://tenshoku.mynavi.jp/company/423583/・3回目）
+- 資本金：1億円（払込資本金）（https://www.arcadia-soft.co.jp/about/・1回目）
+- 資本金：10,000万円（https://tenshoku.mynavi.jp/company/423583/・3回目）
+- 資本金：100,000,000円（https://www.careermap.jp/corporations/24352・3回目）
+- 創業年度：設立：1987年（昭和62年）8月28日（https://www.arcadia-soft.co.jp/about/・1回目）
+- 創業年度：設立：1987年（昭和62年）8月28日（https://tenshoku.mynavi.jp/company/423583/・3回目）
+- 創業年度：設立：1987-08（https://www.careermap.jp/corporations/24352・3回目）
+- 従業員数：50人 (2023年7月期)（https://www.careermap.jp/corporations/24352・3回目）
+- 売上高：466百万円 (2023年7月期)（https://www.careermap.jp/corporations/24352・3回目）
+- 株主：有限会社髙島商事 代表取締役及び社員持株会 株式会社吉野家（吉野家ホールディングスグループ）　他（https://www.arcadia-soft.co.jp/about/・1回目）
+- 株主：有限会社髙島商事 代表取締役及び社員持株会 株式会社吉野家（https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BD%E3%83%95%E3%83%88%E9%96%8B%E7%99%BA・3回目）
+- 所在地：＜本社＞ 〒101-0044 東京都千代田区鍛冶町一丁目９番９号　石川LKビル5階 MAP ＜分室＞ 東京都千代田区鍛冶町一丁目９番１１号　石川COビル7階 ＜海外拠点＞ Arcadia Soft (Thailand) Co., Ltd.　（タイ王国・バンコク）（https://www.arcadia-soft.co.jp/about/・1回目）
+- 所在地：住所：東京都千代田区鍛冶町一丁目9番9号　石川LKビル5階 TEL：03（3257）0136 （代） FAX：03（3257）0138（https://www.arcadia-soft.co.jp/about/・1回目）
+- 所在地：東京都千代田区鍛冶町一丁目9番9号 石川LKビル5階（https://www.arcadia-soft.co.jp/about/・1回目）
+- 代表者：代表取締役　高島 晉（https://tenshoku.mynavi.jp/company/423583/・3回目）
+- 代表者：代表取締役 高島 晉 フリガナ / タカシマ　ススム（https://www.careermap.jp/corporations/24352・3回目）
+- 代表者：代表取締役 髙島晉（https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BD%E3%83%95%E3%83%88%E9%96%8B%E7%99%BA・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「２.在庫管理システムの開発・販売・保守」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「３.販売管理システムの開発・販売・保守」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「５.システムの受託開発」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「６.海外オフショア開発の受託」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「労働者派遣事業（派13-309637）」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「【Thailand】 ASEAN 日系企業販売在庫管理システム APSS」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「今ではタイ国を中心としたASEAN諸国向けの「多言語の販売管理システム」や「洋上を含めた在庫管理システム」などの現地ニーズを取り入れた製品をマーケットに提供するなど、オフショア開発以外のサービスも展開し、アジアでの活躍の場を広げています」（https://www.arcadia-soft.co.jp/strength/・1回目）
+  - 「これまでのシステム開発実績の一部をご紹介します」（https://www.arcadia-soft.co.jp/ses/・1回目）
+  - 「【代理店管理、代理店に支払う手数料の計算、および代理店への提供データの作成など】」（https://www.arcadia-soft.co.jp/ses/・1回目）
+  - 「新商品対応や各種業法改正対応に対する開発および代理店手数料システムの保守、運用」（https://www.arcadia-soft.co.jp/ses/・1回目）
+  - 「代理店手数料業務のユーザ要件に対する、調査分析を実施し、要件定義～運用保守までを担当」（https://www.arcadia-soft.co.jp/ses/・1回目）
+  - 「・乗換対応に伴う、代理店手数料システムの開発作業」（https://www.arcadia-soft.co.jp/ses/・1回目）
+- 客は誰か：
+  - 「◇ワンキャリア限定◇ 早期選考受付中｜文系・IT未経験からプロへ｜未経験入社8割以上 × 1年間研修 × 自社パッケージ開発 × 大手企業との直接取引」（https://www.onecareer.jp/companies/84799・3回目）
+  - 「◇自社ソフトを保有し、それを活かして大手企業との直接取引もあります」（https://www.careermap.jp/corporations/24352・3回目）
+  - 「製造業や小売・卸売業の中堅〜大手企業を中心に、輸出入および三国間貿易における見積作成から受発注、船積、通関、入出金管理までを一元化し、属人化や二重入力の解消を支援します」（https://logishift.net/tool/harborwrite/・3回目）
+  - 「海外拠点やグループ会社を含めた貿易データの一元管理とガバナンス強化を進めたい中堅・大手企業」（https://logishift.net/tool/harborwrite/・3回目）
+  - 「外為・通関・原価管理を含めて自社およびグループ全体の貿易実務を一元化したい中堅〜大手企業」（https://logishift.net/tool/harborwrite/・3回目）
+  - 「豊富な導入実績や業界特有の商慣習に合わせた高度なカスタマイズ・多機能性を重視する中堅・大手企業」（https://logishift.net/tool/harborwrite/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「国土交通省 CyberPort（港湾物流手続の電子化）の実証実験ソフトにHarborWriteが採択される」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「国土交通省 CyberPort（港湾物流手続の電子化）接続モジュールを完成させ、納品する」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「貿易金融EDIの取り組みに積極的に参加したり、メガバンクが提供する外為サービスや、損保会社の保険証書発行サービスなどとの提携、為替管理に特化したシステムの開発など、様々な貿易関連システムの開発に携わることで、知識と経験を積み重ね、ソリューション力を強めてまいりました」（https://www.arcadia-soft.co.jp/strength/・1回目）
+  - 「特に銀行系、生保系には経験豊富な人材が数多く在籍しておりますので、貴社プロジェクトにおいても、即戦力として活躍いたします」（https://www.arcadia-soft.co.jp/ses/・1回目）
+  - 「保険商品毎、顧客属性毎、ターゲットに対する獲得率、前年同月比、BUDGET等のデータがリアルタイムで参照する」（https://www.arcadia-soft.co.jp/ses/・1回目）
+  - 「健保保養所利用可（東京都情報サービス産業健康保険組合）」（https://tenshoku.mynavi.jp/company/423583/・3回目）
+  - 「【3年で一生働けるスキルが身に付く】貿易システムに特化したIT企業」（https://www.onecareer.jp/companies/84799・3回目）
+  - 「当社は、貿易業務を支える各種システムの開発・提供を中心としたIT企業です」（https://www.onecareer.jp/companies/84799・3回目）
+  - 「貿易業務は、輸出入に関わる書類作成や在庫・物流管理など、専門性が高く複雑な領域です」（https://www.onecareer.jp/companies/84799・3回目）
+  - 「株式会社アルカディアソフト開発 | 専門学校の就活No.1サイト キャリアマップ」（https://www.careermap.jp/corporations/24352・3回目）
+  - 「貿易金融EDIの取り組みに積極的に参加したり、メガバンクが提供する外為サ」（https://www.careermap.jp/corporations/24352・3回目）
+  - 「・国際物流の業務系システムエンジニア集団で結成された会社である」（https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BD%E3%83%95%E3%83%88%E9%96%8B%E7%99%BA・3回目）
+- 資本金・株主：
+  - 「1億円（払込資本金）」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「会社設立 資本金３００万円 東京都千代田区岩本町１－２－６」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「資本金 3,500万円に増資」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「資本金 10,000 万円に増資」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「資本金：1億円」（https://www.onecareer.jp/companies/84799・3回目）
+- 表彰・認定の記録：
+  - 「えるぼし認定企業（女性活躍推進法に基づく認定企業）」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「JIPDECよりプライバシーマーク制度貢献事業者として表彰される」（https://www.arcadia-soft.co.jp/about/・1回目）
+  - 「東京労働局より女性活躍推進法「えるぼし認定（3つ星）」最高位を取得する」（https://www.arcadia-soft.co.jp/about/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 | 貿易管理システム - アルカディアソフト開発 — 会社概要 | 貿易管理システム - アルカディアソフト開発 アルカディアソフト開発 https://www.arcadia-soft.co.jp > about」（https://www.arcadia-soft.co.jp/about/・3回目）
+  - 「株式会社 アルカディアソフト開発 の 会社概要 - マイナビ転職 — 株式会社 アルカディアソフト開発 の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/423583/・3回目）
+  - 「アルカディアソフト開発 の新卒採用・就職・ 会社概要 とクチコミ — アルカディアソフト開発 の新卒採用・就職・ 会社概要 とクチコミ ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/84799・3回目）
+  - 「株式 会社アルカディアソフト開発 | キャリアマップ — 株式 会社アルカディアソフト開発 | キャリアマップ Careermap https://www.careermap.jp > corporations」（https://www.careermap.jp/corporations/24352・3回目）
+  - 「企業 情報 株式 会社アルカディアソフト開発 IT 新卒・既卒3年以内 — 企業 情報 株式 会社アルカディアソフト開発 IT 新卒・既卒3年以内 東京しごとセンターヤングコーナースペシャルサイト https://tokyoshigoto-young.jp > company_data > detail」（https://tokyoshigoto-young.jp/company_data/detail/43886・3回目）
+  - 「株式会社 アルカディアソフト開発 の中途採用・転職・求人情報 — 株式会社 アルカディアソフト開発 の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company」（https://www.r-agent.com/company/42868/・3回目）
+  - 「募集要項（新卒） | 貿易管理システム｜ アルカディアソフト開発 — 募集要項（新卒） | 貿易管理システム｜ アルカディアソフト開発 アルカディアソフト開発 https://www.arcadia-soft.co.jp > new」（https://www.arcadia-soft.co.jp/new/・3回目）
+  - 「アルカディアソフト開発 の新卒採用・就職・会社概要とクチコミ — アルカディアソフト開発 の新卒採用・就職・会社概要とクチコミ ワンキャリア https://www.onecareer.jp > companies」（https://www.onecareer.jp/companies/84799・3回目）
+  - 「アルカディアソフト開発 の業績/ 売上 / 事業 の将来性と成長性(全 ... — アルカディアソフト開発 の業績/ 売上 / 事業 の将来性と成長性(全 ... 転職会議 https://jobtalk.jp > ... > 株式会社アルカディアソフト開発」（https://jobtalk.jp/companies/6733/answers?question_codes=sales・3回目）
+  - 「株式会社 アルカディアソフト開発 の採用・求人情報-engage — 株式会社 アルカディアソフト開発 の採用・求人情報-engage エンゲージ https://en-gage.net > arcadia-soft」（https://en-gage.net/arcadia-soft/・3回目）
+  - 「株式 会社 アルカディアソフト開発 | キャリアマップ — 株式 会社 アルカディアソフト開発 | キャリアマップ Careermap https://www.careermap.jp > corporations」（https://www.careermap.jp/corporations/24352・3回目）
+  - 「株式 会社 アルカディアソフト開発 （東京都）の会社概要・役員 — 株式 会社 アルカディアソフト開発 （東京都）の会社概要・役員 Compalyze https://compalyze.co.jp > 企業検索 > パッケージソフトウェア」（https://compalyze.co.jp/company/6010001010322・3回目）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部12頁・検索11回）
 
 ## インターワイヤード
 - 公式URL：https://www.interwired.co.jp/（given）
@@ -698,6 +1791,247 @@
   - 「インターワイヤード株式 会社（東京都）の会社概要・役員 — インターワイヤード株式 会社（東京都）の会社概要・役員 Compalyze https://compalyze.co.jp > 企業検索 > リサーチ・調査」（https://compalyze.co.jp/company/8010701003672・3回目）
 - 売上高：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部10頁・検索11回）
 - 株主：記載なし（3回確認済み：公式7頁／PDF・画像1件／外部10頁・検索11回）
+
+## エム・ケー
+- 公式URL：https://mk-corp.co.jp/（given）
+- 事業内容：産業用地開発事業 ヘッドリース事業 分譲事業 仲介/企画･設計･施工/その他 賃貸管理業務（https://mk-corp.co.jp/・1回目）
+- 事業内容：産業用地開発事業 ヘッドリース事業 分譲事業 仲介/企画･設計･施工/その他 賃貸管理業務（https://mk-corp.co.jp/company・1回目）
+- 事業内容：ヘッドリース事業（寮・住宅・倉庫一括借り上げシステム）、産業用地分譲開発事業、宅地造成請負業務、開発許認可業務、土地区画整理事業、建築設計、施工請負業務、中高層住宅販売、戸建分譲、不動産物件仲介業務、倉庫業務、不動産賃貸業、太陽光発電事業、航空機リース業、シェアサイクル事業（https://mk-corp.co.jp/company/outline・1回目）
+- 資本金：1億円（https://mk-corp.co.jp/company/outline・1回目）
+- 創業年度：設立：1988年（昭和63年）11月1日（https://mk-corp.co.jp/company/outline・1回目）
+- 従業員数：50名（2024年4月現在）（https://mk-corp.co.jp/company/outline・1回目）
+- 売上高：120億円（38期 2026年1月決算）（https://mk-corp.co.jp/company/outline・1回目）
+- 所在地：東京都小平市（https://mk-corp.co.jp/works・1回目）
+- 所在地：東京都日野市（https://mk-corp.co.jp/works・1回目）
+- 所在地：神奈川県海老名市（https://mk-corp.co.jp/works・1回目）
+- 代表者：小林　勁（https://mk-corp.co.jp/company/outline・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「エム・ケー株式会社 ～ともにまちづくりを～ - ヘッドリース事業｜開発分譲｜不動産仲介｜建設設計｜開発許認可」（https://mk-corp.co.jp/・1回目）
+  - 「エム・ケーについての紹介movieやテレビ広告などを」（https://mk-corp.co.jp/・1回目）
+  - 「エム・ケーが取り組む「まちづくり」産業用地開発事業をご紹介いたします」（https://mk-corp.co.jp/・1回目）
+  - 「エム・ケーの土地活用ヘッドリース事業をご紹介いたします」（https://mk-corp.co.jp/・1回目）
+  - 「住まいを中心とした「まちづくり」分譲事業をご紹介いたします」（https://mk-corp.co.jp/・1回目）
+  - 「仲介や設計・施工など、エム・ケーの幅広い業務をご紹介いたします」（https://mk-corp.co.jp/・1回目）
+  - 「優良企業としても紹介され、」（https://mk-corp.co.jp/・1回目）
+  - 「ヘッドリース事業（寮・住宅・倉庫一括借り上げシステム）、産業用地分譲開発事業、宅地造成請負業務、開発許認可業務、土地区画整理事業、建築設計、施工請負業務、中高層住宅販売、戸建分譲、不動産物件仲介業務、倉庫業務、不動産賃貸業、太陽光発電事業、航空機リース業、シェアサイクル事業」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「業務内容 賃貸ビル業務業・不動産仲介及び売買業務・リース業務」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「そこで企業の拡大ばかりを望むのではなく、安定経営を心がけ企業を運営してきました」（https://mk-corp.co.jp/company/greeting・1回目）
+  - 「それはヘッドリース事業のみならず、区画整理事業・大規模開発事業、分譲事業、そして仲介、設計、許認可といった各種業務など、かたちは色々ありますが、エム・ケーならではの新しい企画と柔軟な発想で提案していきたいと考えております」（https://mk-corp.co.jp/company/greeting・1回目）
+  - 「大規模開発という5年10年かかる事業を責任をもって遂行していく為にも、ヘッドリース、仲介など短いものから長いもの迄を総合的にみて、常に5年先の事業計画が予測できる会社にしたいと思っています」（https://mk-corp.co.jp/company/greeting・1回目）
+- 客は誰か：
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://www.ipros.com/product/detail/2000667158/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「エム・ケー株式会社 ～ともにまちづくりを～ - ヘッドリース事業｜開発分譲｜不動産仲介｜建設設計｜開発許認可」（https://mk-corp.co.jp/・1回目）
+  - 「ヘッドリース事業（寮・住宅・倉庫一括借り上げシステム）、産業用地分譲開発事業、宅地造成請負業務、開発許認可業務、土地区画整理事業、建築設計、施工請負業務、中高層住宅販売、戸建分譲、不動産物件仲介業務、倉庫業務、不動産賃貸業、太陽光発電事業、航空機リース業、シェアサイクル事業」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「建設業 東京都知事許可（特-7）第80417号」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「倉庫業 関運倉第124号第1008号」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「業務内容 賃貸ビル業務業・不動産仲介及び売買業務・リース業務」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「業務内容 青梅市今井土地区画整理事業に関わる不動産開発事業ならびにそれに付随する業務」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「業務内容 蓮田市高虫土地区画整理事業に関わる不動産開発事業ならびにそれに付随する業務」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「業務内容 秦野市戸川土地区画整理事業に関わる不動産開発事業ならびにそれに付随する業務」（https://mk-corp.co.jp/company/outline・1回目）
+  - 「都計法34-14（物流総合効率化法）」（https://mk-corp.co.jp/works・1回目）
+  - 「佐々木化学(株)狭山工場（資生ケミカル株式会社 狭山工場）」（https://mk-corp.co.jp/works・1回目）
+  - 「通所介護、短期入所生活介護、訪問介護、居宅介護支援、訪問看護」（https://mk-corp.co.jp/works・1回目）
+  - 「医療法人財団立川中央病院介護老人保健施設アルカディア」（https://mk-corp.co.jp/works・1回目）
+- 表彰・認定の記録：
+  - 「多摩グリーン賞【経営部門】で最優秀賞受賞（多摩信用金庫主催）」（https://mk-corp.co.jp/company/history・1回目）
+  - 「優秀経営者顕彰 地域社会貢献者賞受賞（日刊工業新聞主催）」（https://mk-corp.co.jp/company/history・1回目）
+  - 「しんきんゆめづくり大賞受賞（東京都信用金庫協会、しんきん協議会連合会、東京事業経営者会主催）」（https://mk-corp.co.jp/company/history・1回目）
+  - 「平成30年度東京都まちづくり功労者受賞」（https://mk-corp.co.jp/company/history・1回目）
+  - 「平成30年度まちづくり月間まちづくり功労者国土交通大臣表彰受賞」（https://mk-corp.co.jp/company/history・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 ｜ 企業情報 - エム・ケー株式会社 — 会社概要 ｜ 企業情報 - エム・ケー株式会社 エム・ケー株式会社 https://mk-corp.co.jp > company > outline」（https://mk-corp.co.jp/company/outline・3回目）
+  - 「株式会社 エム ・ ケー ・ケー（小売業） - 100億宣言 — 株式会社 エム ・ ケー ・ケー（小売業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/00147-00.pdf・3回目）
+  - 「エム ・ ケー 株式会社 ～ともにまちづくりを～ - ヘッドリース ... — エム ・ ケー 株式会社 ～ともにまちづくりを～ - ヘッドリース ... エム・ケー株式会社 https://mk-corp.co.jp」（https://mk-corp.co.jp/・3回目）
+  - 「会社概要 ｜ 企業情報 ｜ エム・ケー株式会社エムケー精工株式会社の主要販売先 | EDINET DBエム・ケー株式会社 ～ともにまちづくりを～ - ヘッドリース事業｜開...会社概要｜株式会社エムケー会社概要 | おしゃれ洗面台、シャワーユニットならMKクリエーションへ会社概要 - 株式会社エム・ケー・ロジテック主要取引先 - MTK株式会社 異形シャフトのトップメーカー — エム・ケーの「会社概要」のページです。エム・ケー株式会社は産業用地開発事業、ヘッドリース事業、分譲事業、仲介,設計,施工、賃貸管理でまちづくりに貢献し続けます。 Home / エムケー精工株式会社 / 主要販売先 エムケー精工株式会社 の主要販売先 有価証券報告書「主要な顧客ごとの情報」セクションから ZGX vLLM (Qwen3-VL-32B) で構造化した販売先一覧。 売上高の 10% 以上を占める販売先が開」（https://mk-corp.co.jp/company/outline・3回目）
+  - 「会社概要｜株式会社エムケー会社概要 | おしゃれ洗面台、シャワーユニットならMKクリエーションへ会社概要 - 株式会社エム・ケー・ロジテック主要取引先 - MTK株式会社 異形シャフトのトップメーカー — 商 号 株式会社 エムケー 代表取締役 松川 慎 役員 取締役 木原稔之 取締役 松川友哉 取締役 松川和樹 本社 〒739-2502東広島市黒瀬町国近クリエイトパーク8-1 他15拠点 詳しくは拠点一覧へ TEL 0823-36-3300 FAX 0823-82-0055 公式サイト https://www.kk-mk.co.jp 創業年月 平成7年3月 設立年月 平成9年1月 資本金 1,000 ... MKクリエーションからお客様へ 機能性とデザイン性。バランスの取れた製品が弊社の売りです。 長寿命で水漏れしない高性能シャワーユニット、アンティーク家具のような強化ガラス洗面台が自慢」（https://www.kk-mk.co.jp/outline.html・3回目）
+  - 「エム・ケー株式会社 ～ともにまちづくりを～ - ヘッドリース事業｜開... — Watch on 産業用地開発事業 エム・ケーが取り組む「まちづくり」産業用地開発事業をご紹介いたします。 ヘッドリース事業（長期一括借上げ） エム・ケーの土地活用ヘッドリース事業をご紹介いたします。」（https://mk-corp.co.jp/・3回目）
+- 株主：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式9頁／PDF・画像1件／外部16頁・検索11回）
+
+## エヴィクサー
+- 公式URL：https://www.evixar.com/（given）
+- 事業内容：音の信号処理に基づくソフトウェアの研究開発（ACR技術/音響通信等） 音響通信ソリューションの提供　など（https://www.kudan.io/jp/archives/896・3回目）
+- 事業内容：投資事業（https://www.kudan.io/jp/archives/896・3回目）
+- 事業内容：音の信号処理によるソフトウエアの研究開発と音響通信ソリューションの提供（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+- 資本金：336 百万円（2024/12現在）（https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783・3回目）
+- 資本金：４億2,700万円（資本準備金１億8,350万円含む）（https://www.kudan.io/jp/archives/896・3回目）
+- 資本金：243百万円（https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257・3回目）
+- 創業年度：設立年月日：2004年3月12日（https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783・3回目）
+- 創業年度：設立：：2004年３月（https://www.kudan.io/jp/archives/896・3回目）
+- 創業年度：設立：：2021年１月（https://www.kudan.io/jp/archives/896・3回目）
+- 従業員数：21 人（2024/12現在）（https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783・3回目）
+- 従業員数：13人(単体)（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+- 売上高：98,214千円（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+- 所在地：東京都中央区新川１－１７－２２（https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783・3回目）
+- 所在地：東京都中央区（https://www.kudan.io/jp/archives/896・3回目）
+- 所在地：東京都渋谷区渋谷二丁目10番15号（https://www.kudan.io/jp/archives/896・3回目）
+- 代表者：瀧川 淳 - 略歴（https://www.evixar.com/overview/・1回目）
+- 代表者：瀧川　淳（2024/12現在）（https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783・3回目）
+- 代表者：代表取締役社長CEO 瀧川　淳（https://www.kudan.io/jp/archives/896・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「経済安全保障対策会議・展示会「ECONOSEC JAPAN 2026」に出展、SIGNED SOUNDをご紹介しました（2026-11-05）」（https://www.evixar.com/・1回目）
+  - 「推し活未来研究所『ペンライトの進化史』で、エヴィクサーの音響連動ペンライトが紹介（2026-10-28）」（https://www.evixar.com/・1回目）
+  - 「総務省「平成30年度 競技会場におけるICT利活用に関する調査研究」の「競技会場におけるICT利活用に関する実証実験」において、武蔵野の森総合スポーツプラザ／味の素スタジアム（東京スタジアム運営）での実証実験「音響通信による避難誘導」を実施、非常用放送設備で音響通信Another Trackの機能提供を実現（10kHz以下の可聴透かしによる）（株式会社リコー、みずほ情報総研株式会社と連携）」（https://www.evixar.com/overview/history/・1回目）
+  - 「NTTコミュニケーションズ株式会社「Power Platformホスティングサービス」でLiveSupportのサーバモデル販売開始」（https://www.evixar.com/overview/history/・1回目）
+  - 「(12)第三者の設備等⼜は本サービス⽤設備等の利⽤若しくは運営に⽀障を与える⾏為、⼜」（https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/20150401_IP-PBX%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_Evixar.pdf・2回目）
+  - 「(8) 本サービス⽤設備のうち当社の製造に係らないソフトウェア(OS、ミドルウェア、」（https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/20150401_IP-PBX%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_Evixar.pdf・2回目）
+  - 「(9) 本サービス⽤設備のうち、 当社の製造に係らないハードウェアに起因して発⽣した損害」（https://www.evixar.com/images/hubfs/%E6%B3%95%E4%BA%BAWEB/%E7%B4%84%E6%AC%BE/20150401_IP-PBX%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84_Evixar.pdf・2回目）
+  - 「当社のグループ会社で投資及びDeep Techの研究を行うＫｕｄａｎ Ｖｉｓｉｏｎ株式会社（本社：東京都渋谷区、代表取締役：飯塚 健、以下「Kudan Vision」）の出資先である音の信号処理に基づくソフトウェアの研究開発及び独自の音響通信ソリューションを提供しているエヴィクサー株式会社（本社：東京都中央区、代表取締役社長CEO：瀧川 淳、以下「エヴィクサー」）は、本日、株式会社東京証券取引所が運営するプロ向け株式市場TOKYO PRO Marketへの新規上場が承認されましたのでお知らせいたします」（https://www.kudan.io/jp/archives/896・3回目）
+  - 「【事業内容】：音の信号処理によるソフトウエアの研究開発と音響通信ソリューションの提供」（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+  - 「売上高：98,214千円」（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+  - 「直前期である2020年12月期は、Withコロナの環境下で、4つの「新技術」（①Webブラウザ対応、②用途追究「収益型ペンライト・グッズ開発」、③パッケージ化によるサービスの輸出入展開、④SDGsに関連する官公庁系助成「専用ハードウェア開発」）に取り組んだ結果、売上高98,214千円（前年同期比31.1％減）、営業損失103,995千円でしたが、2021年6月中間期では、売上高72,440千円、営業損失19,939千円となっております」（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+  - 「賃貸不動産・仲介・管理等を行われている株式会社中央都市管理 様に、octpathの導入背景と、現在のご利用状況についてお伺いしました」（https://octpath.com/customers/evixar/・3回目）
+- 客は誰か：
+  - 「要素技術の事業化、シーズオリエンテッドのビジネスモデル、中小企業のオープンイノベーション等をテーマとした講演多数」（https://www.evixar.com/overview/・1回目）
+  - 「第29回「中小企業優秀新技術・新製品賞」ソフトウエア部門（主催：りそな中小企業振興財団／日刊工業新聞社）で優秀賞を受賞」（https://www.evixar.com/overview/・1回目）
+  - 「ハロームービー株式会社、第18回「ASPICクラウドアワード2024」において、ベンチャーグランプリ／社会業界特化系ASP・SaaS部門を受賞」（https://www.evixar.com/overview/history/・1回目）
+  - 「「Another Track(R)」が第29回「中小企業優秀新技術・新製品賞」ソフトウエア部門（主催：りそな中小企業振興財団／日刊工業新聞社、後援：経済産業省 中小企業庁）で優秀賞を受賞」（https://www.evixar.com/overview/history/・1回目）
+  - 「「中小企業総合展 2009 in Tokyo」にて、コミュニティリモート「Helpdove Lite（ヘルプダブ・ライト）」βバージョンを発表」（https://www.evixar.com/overview/history/・1回目）
+  - 「中小企業向けSSL-VPNソリューション「Evixar VPN」をサービスメニュー化」（https://www.evixar.com/overview/history/・1回目）
+  - 「中堅・中小企業のIPO支援に特化した専門家集団です」（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/・1回目）
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/products/・1回目）
+  - 「主な講演は、一橋大学「管理会計」ゲストスピーカー（2019年）、北見工業大学「財務概論（技術経営論）」「技術経営論」非常勤講師（2021年〜2024年）、日本情報経営学会第80回全国大会特別講演（2020年）、首都大学東京システムデザイン学部「ヒューマン・コンピュータ・インタラクション」ゲストスピーカー（2018年）、慶應義塾大学理工学部「アントレプレナー育成寄付講座」特別講演（2012年）、一般社団法人コンテンツ海外流通促進機構セミナー「オンライン侵害に関するヨーロッパの最新情報と韓国における最新情報および技術的対応手段について」（2010年）、次世代デジタルコンテンツが拓く新ビジネス創出セミナー2015（2015年）など」（https://www.evixar.com/overview/・1回目）
+  - 「在学中より東京電力社内ベンチャーにて経営企画業務に従事」（https://www.evixar.com/overview/・1回目）
+  - 「学校法人電子学園日本電子専門学校コンピュータ総合技術科卒業」（https://www.evixar.com/overview/・1回目）
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/overview/・1回目）
+  - 「通信キャリア、大手清涼飲料水メーカーの全国キャンペーンにおいて音声認識技術を活用したCMコンテンツ連動型スマートフォンアプリに技術提供（テレビCMと連動した音声認識アプリの活用は国内初）」（https://www.evixar.com/overview/history/・1回目）
+  - 「宮城県、岩手県など地方自治体教育委員会でリモートASPがOEM導入」（https://www.evixar.com/overview/history/・1回目）
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/overview/history/・1回目）
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/agreement/・1回目）
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/overview/en/・1回目）
+  - 「直前期である2020年12月期は、Withコロナの環境下で、4つの「新技術」（①Webブラウザ対応、②用途追究「収益型ペンライト・グッズ開発」、③パッケージ化によるサービスの輸出入展開、④SDGsに関連する官公庁系助成「専用ハードウェア開発」）に取り組んだ結果、売上高98,214千円（前年同期比31.1％減）、営業損失103,995千円でしたが、2021年6月中間期では、売上高72,440千円、営業損失19,939千円となっております」（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+- 資本金・株主：
+  - 「→ 新規上場社長インタビュー「ストックボイス」出演」（https://www.evixar.com/overview/・1回目）
+  - 「→ Voicy『藤沢久美の社長Talk』（上場社長インタビュー）出演」（https://www.evixar.com/overview/・1回目）
+  - 「東京証券取引所「TOKYO PRO Market」で上場廃止、株式を非公開化」（https://www.evixar.com/overview/history/・1回目）
+  - 「資本金を1億円に減資」（https://www.evixar.com/overview/history/・1回目）
+  - 「第三者割当増資実施 資本金等6億1,360万円（資本準備金2億7,680万円を含む）」（https://www.evixar.com/overview/history/・1回目）
+  - 「東京証券取引所「TOKYO PRO Market」へ株式上場（情報・通信業、証券コード 4257）」（https://www.evixar.com/overview/history/・1回目）
+  - 「→ 新規上場インタビュー「ストックボイス」」（https://www.evixar.com/overview/history/・1回目）
+  - 「2021年9月末の株主名簿に基づき、株主の所有普通株式1株を5,000株に分割」（https://www.evixar.com/overview/history/・1回目）
+  - 「第三者割当増資実施 資本金等4億2,700万円（資本準備金1億8,350万円を含む）」（https://www.evixar.com/overview/history/・1回目）
+  - 「第三者割当増資実施 資本金等2億9,200万円（資本準備金1億1,600万円を含む）」（https://www.evixar.com/overview/history/・1回目）
+  - 「第三者割当増資実施 資本金等2億4,200万円（資本準備金9,100万円を含む）」（https://www.evixar.com/overview/history/・1回目）
+  - 「第三者割当増資実施 資本金等1億9,000万円（資本準備金6,500万円を含む）」（https://www.evixar.com/overview/history/・1回目）
+- 表彰・認定の記録：
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/・1回目）
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/products/・1回目）
+  - 「第29回「中小企業優秀新技術・新製品賞」ソフトウエア部門（主催：りそな中小企業振興財団／日刊工業新聞社）で優秀賞を受賞」（https://www.evixar.com/overview/・1回目）
+  - 「「2017年 世界発信コンペティション」製品・技術（ベンチャー技術）部門で東京都ベンチャー技術優秀賞を受賞」（https://www.evixar.com/overview/・1回目）
+  - 「「名古屋グランパス × スタートアップピッチ 2021」で最優秀賞を受賞」（https://www.evixar.com/overview/・1回目）
+  - 「Tokyo Social Innovation Tech Award 2024で技術特別賞を受賞（2025年1月）」（https://www.evixar.com/overview/・1回目）
+  - 「東京都ベンチャー技術大賞で特別賞を受賞（2025年11月）」（https://www.evixar.com/overview/・1回目）
+  - 「第5回 日本サービス大賞で優秀賞を受賞（2025年12月）」（https://www.evixar.com/overview/・1回目）
+  - 「受賞歴、官公庁関連の事業・採択」（https://www.evixar.com/overview/・1回目）
+  - 「ハロームービー株式会社、「第5回 日本サービス大賞」において、優秀賞を受賞」（https://www.evixar.com/overview/history/・1回目）
+  - 「EAF（Evixar Audio Forensics）が「東京都ベンチャー技術大賞」（主催：東京都）で特別賞を受賞」（https://www.evixar.com/overview/history/・1回目）
+  - 「ハロームービー株式会社、「Tokyo Social Innovation Tech Award 2024」において、技術特別賞を受賞」（https://www.evixar.com/overview/history/・1回目）
+- 検索結果の抜粋：
+  - 「Evixar Inc. - 会社情報 エヴィクサー株式会社 — Evixar Inc. - 会社情報 エヴィクサー株式会社 エヴィクサー株式会社 https://www.evixar.com > overview」（https://www.evixar.com/overview/・3回目）
+  - 「エヴィクサー : 企業 概要 : 日経 会社 情報DIGITAL : 日経電子版 — エヴィクサー : 企業 概要 : 日経 会社 情報DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0032783・3回目）
+  - 「Kudan Vision出資先である エヴィクサー 株式 会社 、TOKYO ... — Kudan Vision出資先である エヴィクサー 株式 会社 、TOKYO ... Kudan Inc. https://www.kudan.io > TOP > News > プレスリリース」（https://www.kudan.io/jp/archives/896・3回目）
+  - 「エヴィクサー 株式 会社 （東京都） (旧 4257 上場 ... - Compalyze — エヴィクサー 株式 会社 （東京都） (旧 4257 上場 ... - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > AI・データ分析」（https://compalyze.co.jp/company/5010001099860・3回目）
+  - 「エヴィクサー 株式 会社 - 中央区 — エヴィクサー 株式 会社 - 中央区 中央区 https://www.city.chuo.lg.jp > jigyou > ichiran > nintei025」（https://www.city.chuo.lg.jp/bouquet21/jigyou/ninteikigyou/ichiran/nintei025.html・3回目）
+  - 「エヴィクサー (証券コード：4257) - 日本経済新聞 — エヴィクサー (証券コード：4257) - 日本経済新聞 日本経済新聞 https://www.nikkei.com > ipo > money-scheduledetail」（https://www.nikkei.com/markets/kigyo/ipo/money-scheduledetail/?scode=4257・3回目）
+  - 「エヴィクサー 株式会社 IPO（新規上場）承認 — エヴィクサー 株式会社 IPO（新規上場）承認 船井総合研究所 https://ipo.funaisoken.co.jp > IPO経営コラム一覧」（https://ipo.funaisoken.co.jp/blogs/column/post-0-195・3回目）
+  - 「エヴィクサー | TPM上場企業データベース — エヴィクサー | TPM上場企業データベース TPMナビ https://tpm.ipo-navi.jp > evixar」（https://tpm.ipo-navi.jp/db/evixar・3回目）
+  - 「エヴィクサー : 業績・財務 : 日経会社情報DIGITAL : 日経電子版 — エヴィクサー : 業績・財務 : 日経会社情報DIGITAL : 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?nik_code=0032783・3回目）
+  - 「エヴィクサー 株式会社 - スピーダ スタートアップ情報リサーチ — エヴィクサー 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-05170・3回目）
+  - 「エヴィクサー --- 資金 の借入れを発表 - 株探 — エヴィクサー --- 資金 の借入れを発表 - 株探 株探 https://kabutan.jp > 市場ニュース」（https://kabutan.jp/news/marketnews/?b=n202312070697・3回目）
+  - 「シヤチハタが提携 - 透かし音・音源特徴点技術により世界標準 ... — シヤチハタが提携 - 透かし音・音源特徴点技術により世界標準 ... エヴィクサー株式会社 https://www.evixar.com > news」（https://www.evixar.com/news/20260313_01/・3回目）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像2件／外部14頁・検索11回）
+
+## オムニア・コンチェルト
+- 公式URL：https://www.omcon.co.jp/（given）
+- 事業内容：農林業用 環境制御盤の開発・製造・販売（https://www.omcon.co.jp/company/access/・1回目）
+- 事業内容：農林業用 環境制御盤の開発・製造・販売（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 事業内容：職業紹介（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 資本金：150,445,000円（2026年1月21日現在）（https://www.omcon.co.jp/company/access/・1回目）
+- 資本金：130百万円（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 創業年度：設立：2021年3月5日（https://www.omcon.co.jp/company/access/・1回目）
+- 創業年度：設立：2021年03月（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 創業年度：設立：2021/03（https://initial.inc/companies/A-45315・3回目）
+- 従業員数：15人（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 株主：VC不明, 事業会社あり（https://initial.inc/companies/A-45315・3回目）
+- 所在地：【本社】 〒108-0074 東京都港区高輪3-11-3 イハラ高輪ビル6階（https://www.omcon.co.jp/company/access/・1回目）
+- 所在地：〒108-0074 東京都港区高輪3-11-3 イハラ高輪ビル6階（https://www.omcon.co.jp/company/access/・1回目）
+- 所在地：108-0074東京都港区高輪３丁目１１番３号（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 代表者：藤原慶太（https://www.omcon.co.jp/company/access/・1回目）
+- 代表者：藤原　慶太（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 代表者：代表取締役 藤原 慶太（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 主要取引先：りそな銀行（https://www.omcon.co.jp/company/access/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「株式会社オムニア・コンチェルト - 農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/・1回目）
+  - 「農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/company/access/・1回目）
+  - 「農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/company/・1回目）
+  - 「※木製ハウスを含む環境統合制御システム専門として一部請負」（https://www.omcon.co.jp/company/・1回目）
+  - 「農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/company/vision/・1回目）
+  - 「農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/company/our-business/・1回目）
+  - 「制御盤開発・製造・販売事業 - 株式会社オムニア・コンチェルト」（https://www.omcon.co.jp/company/our-business/controller-development/・1回目）
+  - 「農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/company/our-business/controller-development/・1回目）
+  - 「農林水産業の技術開発受託事業 - 株式会社オムニア・コンチェルト」（https://www.omcon.co.jp/company/our-business/product-development/・1回目）
+  - 「農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/company/our-business/product-development/・1回目）
+  - 「企業や団体等から受託した課題に取り組み、」（https://www.omcon.co.jp/company/our-business/product-development/・1回目）
+  - 「農林業用環境統合制御盤の開発、製造企業です」（https://www.omcon.co.jp/company/%E5%8B%95%E7%94%BB%E3%81%A7%E8%A6%8B%E3%82%8B%E3%82%AA%E3%83%A0%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88/・1回目）
+- 客は誰か：
+  - 「第38回 中小企業優秀新技術・新製品賞」（https://www.omcon.co.jp/company/・1回目）
+  - 「東京都ベンチャー技術大賞特別賞や中小企業優秀新技術・新製品賞を受賞している」（https://www.firstcvc.jp/company/omcon.co.jp・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「【展示会出展】AGTS農業展 in 群馬に出展します」（https://www.omcon.co.jp/・1回目）
+  - 「秋田県種苗交換会「スマート農業セミナー・技術展示」に出展します」（https://www.omcon.co.jp/・1回目）
+  - 「長年にわたり農業現場や研究機関と協力して培った高い研究開発力を基盤とし、」（https://www.omcon.co.jp/company/・1回目）
+  - 「農業・林業・水産業を中心とした一次産業において、生産性向上を図るソリューションを提供しています」（https://www.omcon.co.jp/company/・1回目）
+  - 「近年では、木質バイオマス発電などの再生可能エネルギー事業を実現するビジネスモデルを提唱」（https://www.omcon.co.jp/company/・1回目）
+  - 「林木育苗から始まる森林資材の循環に着目し、エネルギーの地産地消とCO₂排出を削減する持続可能なエネルギーソリューションを構想しています」（https://www.omcon.co.jp/company/・1回目）
+  - 「「特定農業振興ゾーン」として農業の振興を図り、」（https://www.omcon.co.jp/company/・1回目）
+  - 「東京都内の清掃工場等から排出されるCO₂の回収・利活用モデルの実現可能性を調査」（https://www.omcon.co.jp/company/・1回目）
+  - 「脱炭素をはじめとしたエネルギー転換に加え、」（https://www.omcon.co.jp/company/vision/・1回目）
+  - 「弊社ではエネルギーの地産地消や、地元高齢者の雇用と農福連携に携わり、」（https://www.omcon.co.jp/company/vision/・1回目）
+  - 「IoT化、スマート農業化を実現します」（https://www.omcon.co.jp/company/our-business/controller-development/・1回目）
+  - 「バイオマス発電やソーラーシェアリングで得た電力を用いて、林木育苗（無花粉スギ等のエリートツリー）や植林、伐採、間伐材の加工を行ったり、その周辺には、バイオマス発電によって得た電力をレストラン、カフェなどの施設に活用するなど、ゼロエミッションを目指した、地産地消型のエネルギーシステムを確立したビジネスモデルを提案、導入サポートをしております」（https://www.omcon.co.jp/company/our-business/product-development/・1回目）
+- 資本金・株主：
+  - 「資本金：130百万円」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「1月入社【大学図書館利用支援業務(課長補佐)】立命館100%出資/年間休日134日 学校事務/大学事務/教務事務」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「企業名 株式会社クレオテック 求人名 1月入社【大学図書館利用支援業務（課長補佐）】立命館100%出資/年間休日134日 仕事の内容 立命館大学図書館の利用支援業務全般をお任せします」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「募集職種 1月入社【大学図書館利用支援業務（課長補佐）】立命館100%出資/年間休日134日」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「企業名 楽天グループ株式会社 求人名 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240 仕事の内容 会社として必要な取締役会・株主総会の運営、ならびに職務権限表の改訂などグループのルールを遵守するための準備と、それを組織内に周知・展開する役割を担う、総務並びにガバナンス関連業務全般をお任せします」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「＜具体的な業務内容＞ ■取締役会、株主総会運営 ■朝会、締会、（Ｑ毎開催）戦略共有会準備運営 ■サプライヤー選定から支払いまでの調達オペレーションの整備並びに監査 ■ファシリティ関連 ■接待贈答、インシデント報告のとりまとめ ■許認可手続き ■上記業務に関するマニュアルやオペレーションの整備 募集職種 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「●総務／株主総会、秘書業務、広報、サステナビリティ推進、リスク・コンプライアンスなど●経理／決算、会計・税務業務など ●経営企画／経営企画関連業務、予算管理、所有物件の再開発業務など●人事／採用、労務、給与、人財育成など●営業／オフィス・倉庫の新規テナント誘致、契約更新、月極駐車場管理業務など●運営管理／所有物件のAM・PM業務など●イベント事業／展示場・貸し会議室の運営、時間貸し駐車場管理業務など●PM事業／他社物件のPM業務 募集職種 第2新卒歓迎【三菱地所Gr/総合職】転勤無/新卒大手入社者の次のキャリアに」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「■人事総務:採用・人財育成・労務・総務 ■広報IR:株主や投資家対応・広報活動 ■財務経理:予算編成・管理・決算業務 ■経営企画:経営戦略や事業計画策定・推進・事業分析 ■法務コンプライアンス:契約審査・法務相談・コンプライアンス推進 【育成】基礎から着実に業務を修得し、将来は部門横断の課題解決や業務改善を主導する存在へ成長できます」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「【愛知】総務職/未経験からキャリアチェンジ可能/プライム上場タイヤメーカー 総務」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「企業名 ＴＯＹＯ ＴＩＲＥ株式会社 求人名 【愛知】総務職/未経験からキャリアチェンジ可能/プライム上場タイヤメーカー 仕事の内容 主な業務として、拠点に関わる総務/人事/経理/庶務/安全環境衛生などの業務を幅広くお任せします」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「募集職種 【愛知】総務職/未経験からキャリアチェンジ可能/プライム上場タイヤメーカー」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「【大阪】営業事務 日立製作所100%出資/年休126日/安定基盤で長く働く 機械/電気/電子製品法人営業」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+- 表彰・認定の記録：
+  - 「令和5年度東京都ベンチャー技術大賞」（https://www.omcon.co.jp/company/・1回目）
+  - 「第22回 勇気ある経営大賞」（https://www.omcon.co.jp/company/・1回目）
+  - 「東京都ベンチャー技術大賞『特別賞』を受賞し、スマート農業界で技術力、社会貢献性共に注目をを集めております」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「＜具体的な業務内容＞ ■取締役会、株主総会運営 ■朝会、締会、（Ｑ毎開催）戦略共有会準備運営 ■サプライヤー選定から支払いまでの調達オペレーションの整備並びに監査 ■ファシリティ関連 ■接待贈答、インシデント報告のとりまとめ ■許認可手続き ■上記業務に関するマニュアルやオペレーションの整備 募集職種 【総務・ガバナンス】職種未経験大歓迎★バックオフィスへの転身可能 1039240」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日 採用人事」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「企業名 株式会社ディープコム 求人名 浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日 仕事の内容 開発会社の採用担当として新卒・中途採用の求人掲載・応募者対応・面接調整などを担当いただきます」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「募集職種 浅草橋【採用担当】リモート60%/ホワイト企業認定/年間休日127日」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「・設備管理：オフィスビルの設備改修計画の立案、協力会社の選定・発注、工事の進捗・安全管理、竣工後の運用フォロー ・安全衛生・環境：労働災害防止活動、廃棄物管理、環境関連法令対応 ・防災対応：消防法に基づく各種対応、防災訓練の企画、災害時の初動体制整備 将来的には大規模なオフィス移転等のプロジェクトに参画する可能性もあります」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「■音楽市場に関する統計・認定データの集計・分析、調査実施 ■ウェブサイト、機関誌、公式SNS、プレスリリース等による情報発信 ■会員社、関係団体等で構成する委員会・ワーキングチームの運営 ■音楽流通に関する制度・規格の管理、業界課題への対応 ■著作権に関する啓発・教育活動 ■日本音楽の海外展開に関する事業の企画・運営 募集職種 【音楽業界団体の事務局スタッフ(第二新卒歓迎)】データ集計・各種会議運営等」（https://www.r-agent.com/viewjob/jka96a5ebf4064531e/・3回目）
+  - 「東京都ベンチャー技術大賞特別賞や中小企業優秀新技術・新製品賞を受賞している」（https://www.firstcvc.jp/company/omcon.co.jp・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 株式会社 オムニア ・ コンチェルト — 会社概要 - 株式会社 オムニア ・ コンチェルト 株式会社オムニア・コンチェルト https://www.omcon.co.jp > 会社案内」（https://www.omcon.co.jp/company/access/・3回目）
+  - 「株式会社 オムニア ・ コンチェルト （東京都）の 会社概要 ・役員 — 株式会社 オムニア ・ コンチェルト （東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備」（https://compalyze.co.jp/company/9010601058931・3回目）
+  - 「株式 会社オムニア ・ コンチェルト の転職・企業 概要 - doda — 株式 会社オムニア ・ コンチェルト の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10208791153」（https://doda.jp/DodaFront/View/Company/j_id__10208791153/・3回目）
+  - 「株式 会社オムニア ・ コンチェルト - ファーマーズサポートネット — 株式 会社オムニア ・ コンチェルト - ファーマーズサポートネット ファーマーズサポートネット https://farmers-support.net > rec_offerings-tag > omcon」（https://farmers-support.net/rec_offerings-tag/omcon/・3回目）
+  - 「株式会社 オムニア ・ コンチェルト の企業情報 — 株式会社 オムニア ・ コンチェルト の企業情報 バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/esmrl2wvcm/・3回目）
+  - 「株式会社 オムニア ・ コンチェルト — 株式会社 オムニア ・ コンチェルト スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-45315・3回目）
+  - 「株式会社 オムニア ・ コンチェルト 事業内容 Ver. - YouTube — 株式会社 オムニア ・ コンチェルト 事業内容 Ver. - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ZOE1ICQ9q6c・3回目）
+  - 「株式会社 オムニア ・ コンチェルト - FIRST CVC — 株式会社 オムニア ・ コンチェルト - FIRST CVC FIRST CVC https://www.firstcvc.jp > company > omcon.co.jp」（https://www.firstcvc.jp/company/omcon.co.jp・3回目）
+  - 「株式会社 オムニア ・ コンチェルト - 農林業用環境統合制御盤の ... — 株式会社 オムニア ・ コンチェルト - 農林業用環境統合制御盤の ... 株式会社オムニア・コンチェルト https://www.omcon.co.jp」（https://www.omcon.co.jp/・3回目）
+  - 「株式会社 オムニア ・ コンチェルト - STARTUP DB — 株式会社 オムニア ・ コンチェルト - STARTUP DB STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/vNOKZXOUKy7p185L・3回目）
+  - 「弊社の取り組み - 株式会社 オムニア ・ コンチェルト — 弊社の取り組み - 株式会社 オムニア ・ コンチェルト 株式会社オムニア・コンチェルト https://www.omcon.co.jp > our_efforts」（https://www.omcon.co.jp/our_efforts/・3回目）
+  - 「（株） オムニア ・ コンチェルト (@omnia_concerto) - Instagram — （株） オムニア ・ コンチェルト (@omnia_concerto) - Instagram Instagram https://www.instagram.com > omnia_concerto」（https://www.instagram.com/omnia_concerto/・3回目）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部14頁・検索11回）
 
 ## オンリーストーリー
 - 公式URL：https://onlystory.co.jp/（given）
@@ -793,6 +2127,179 @@
 - 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部21頁・検索11回）
+
+## キヤノンファインテック
+- 公式URL：https://ftn.canon/（given）
+- 事業内容：事務機周辺機器（PHD）の開発・製造、ならびに各種特殊印刷プリンター（ラベル、カード、ID、ケーブルID）の提供（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+- 事業内容：事務機周辺機器、プリンター（ラベル、カード、IDカード、ケーブルID）、化成品等の開発、製造、販売（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+- 事業内容：デジタル複合機、レーザープリンターなどプリンター関連製品の開発・生産・販売（https://www.dipro.co.jp/news/detail?id=366・3回目）
+- 資本金：3,451,396,000円（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 資本金：3,451百万円（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+- 資本金：34億51,396千円（https://www.dipro.co.jp/news/detail?id=366・3回目）
+- 創業年度：設立年月日：1953年12月14日（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 創業年度：設立：1953年12月14日（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+- 創業年度：会社設立：1953年12月14日（https://www.dipro.co.jp/news/detail?id=366・3回目）
+- 従業員数：1,372名（2025年12月31日時点）（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 従業員数：（単独）1,570名 （連結）5,160名 （2011年12月31日現在）（https://www.dipro.co.jp/news/detail?id=366・3回目）
+- 従業員数：1,402人（https://www.r-agent.com/company/b7868/・3回目）
+- 売上高：433億円（2025年度）（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 売上高：600億円（https://ftn.canon/ja/corporate/greeting.html・1回目）
+- 株主：キヤノン株式会社（100%）（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+- 所在地：〒341-8527 埼玉県三郷市中央一丁目14番地1（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 所在地：〒400-0593 山梨県南巨摩郡富士川町小林430-1（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 所在地：〒303-8503 茨城県常総市坂手町5540-11（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 代表者：代表取締役社長　楠元 俊彦（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 代表者：楠元 俊彦（https://ftn.canon/ja/corporate/profile.html・1回目）
+- 代表者：代表取締役社長 楠元 俊彦（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「キヤノンファインテックニスカで開発・生産している製品をご紹介しております」（https://ftn.canon/・1回目）
+  - 「“高生産”と“高精度”を両立する多彩な技術をご紹介いたします」（https://ftn.canon/・1回目）
+  - 「キヤノンファインテックニスカの企業理念や求める人物像、働き方、事業内容などをご説明いたします」（https://ftn.canon/・1回目）
+  - 「マイクロフィルムの自動現像機の開発・製造を開始」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「複写機用ペーパーハンドリング機器の製造開始」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「IJインク、IJカートリッジの製造を開始」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「キヤノンファインテックニスカはキヤノンの100％子会社ですが、その中でも開発から生産、企画販売までメーカーとしての全ての機能を備えており、自主事業を展開しています」（https://ftn.canon/ja/job/company/about.html・1回目）
+  - 「業務用プリンター事業では、インクジェット方式やサーマル方式によりラベルやカード、ケーブルなどのさまざまな媒体への印字を行う製品の企画・開発・生産・販売を行っています」（https://ftn.canon/ja/job/company/business.html・1回目）
+  - 「会社紹介 | キヤノンファインテックニスカ」（https://ftn.canon/ja/corporate/・1回目）
+  - 「サステナビリティを経営の基盤に据え、開発から生産・販売を一貫して担う強みを活かし、社会価値と顧客価値の創造を続けてまいります」（https://ftn.canon/ja/corporate/greeting.html・1回目）
+  - 「各地区の健康支援担当者は、本社の健康支援担当者と連携し、当該地区の健康管理業務の運営管理、健康保持増進を目的とした運営・推進を行っています」（https://ftn.canon/ja/corporate/safety.html・1回目）
+  - 「本社の健康支援担当者は、全社健康管理方針および基本計画や年間計画の策定、企画運営、各種統計の取りまとめなどの役割を担っています」（https://ftn.canon/ja/corporate/safety.html・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「キヤノンファインテック（深圳）有限公司新工場稼動」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「キヤノンファインテックニスカは、長い歴史ある3社の精密機器メーカーが二度の合併を経た会社ですが、刻々と変わる社会環境や技術革新にも柔軟に適応して変貌を遂げてきたからこそ、現在の当社があるのです」（https://ftn.canon/ja/job/company/about.html・1回目）
+  - 「キヤノンファインテックニスカはキヤノンの100％子会社ですが、その中でも開発から生産、企画販売までメーカーとしての全ての機能を備えており、自主事業を展開しています」（https://ftn.canon/ja/job/company/about.html・1回目）
+  - 「背景には休暇制度、育児・介護との両立支援、長期的に力を発揮できる役割給制度など、制度や運用の積み重ねがあります」（https://ftn.canon/ja/job/company/about.html・1回目）
+  - 「サステナビリティを経営の基盤に据え、開発から生産・販売を一貫して担う強みを活かし、社会価値と顧客価値の創造を続けてまいります」（https://ftn.canon/ja/corporate/greeting.html・1回目）
+  - 「真のグローバル企業には、顧客、地域社会に対してはもちろん、国や地域、地球や自然に対してもよい関係をつくり、社会的な責任を全うすることが求められます」（https://ftn.canon/ja/corporate/greeting.html・1回目）
+  - 「特定保健指導はキヤノン健康保険組合と連携し、社員が受けやすい環境を整えます」（https://ftn.canon/ja/corporate/safety.html・1回目）
+  - 「休職防止を図るため、セルフケアと管理職教育によるラインケアを強化します」（https://ftn.canon/ja/corporate/safety.html・1回目）
+  - 「健康診断産業医判定結果に基づき、要受診判定対象者には看護師・保健師より受診勧奨を行い、医療機関の受診結果も看護師・保健師・産業医にて確認しています」（https://ftn.canon/ja/corporate/safety.html・1回目）
+  - 「生活習慣病未然防止の視点からキヤノン健康保険組合と連携してメタボリック症候群に着目した特定保健指導を徹底しています」（https://ftn.canon/ja/corporate/safety.html・1回目）
+  - 「またキヤノン健康保険組合と2019年度よりICT（ Information and Communication Technology ）を活用した「禁煙プログラム」による卒煙応援を実施しています」（https://ftn.canon/ja/corporate/safety.html・1回目）
+  - 「また、年齢別の健康支援として対象者には健康情報のメールやe-learningを実施し、健康増進の教育を継続的に行っています」（https://ftn.canon/ja/corporate/safety.html・1回目）
+- 資本金・株主：
+  - 「キヤノンアプテックス（株）がニスカ（株）を連結子会社化」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「キヤノンファインテック㈱の完全子会社となる」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「キヤノンファインテック（株）の化成品事業部を分社化（キヤノン（株）の完全子会社「福井キヤノンマテリアル（株）」として独立」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「キヤノンファインテックニスカはキヤノンの100％子会社ですが、その中でも開発から生産、企画販売までメーカーとしての全ての機能を備えており、自主事業を展開しています」（https://ftn.canon/ja/job/company/about.html・1回目）
+  - 「資本金 3,451,396,000 円」（https://ftn.canon/ja/corporate/img/corporateprofile_j.pdf・2回目）
+  - 「当社は、企業経営において、株主にとどまらず、従業員、取引先、顧客、債権者、地域社」（https://ftn.canon/ja/corporate/img/multistakeholder.pdf・2回目）
+  - 「流動資産14,927百万円に対し流動負債が6,419百万円と、短期的な支払能力においても約2.3倍の余裕を有しており、親会社であるキヤノン株式会社の完全子会社として、極めて安定した、かつ「筋肉質」な経営を継続していることが財務諸表から如実に伝わります」（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+  - 「株主: キヤノン株式会社（100%）」（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+  - 「特筆すべきは、資本金3,451百万円に対し、利益剰余金が7,792百万円まで積み上がっている点です」（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+  - 「利益剰余金が資本金の2倍以上に積み上がっている点からも、不況期においてさえ事業を継続し、かつ技術開発を止めることのない「体力の蓄え」が十分にあることが分かります」（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+  - 「蓄積された膨大な利益剰余金を活用し、特定の制御技術を持つスタートアップへの出資や業務提携を強化することで、独自の「新産業ポートフォリオ」を構築するはずです」（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+  - 「資本金: 3,451百万円」（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+- 表彰・認定の記録：
+  - 「スポーツ庁が認定する「スポーツエールカンパニー2026」に認定されました」（https://ftn.canon/・1回目）
+  - 「「健康経営優良法人2026」に認定されました」（https://ftn.canon/・1回目）
+  - 「令和7年度関東地方発明表彰で「山梨県知事賞」を受賞」（https://ftn.canon/・1回目）
+  - 「「スポーツエールカンパニー2026」に認定」（https://ftn.canon/・1回目）
+  - 「キヤノンファインテックニスカ株式会社は、スポーツ庁が認定する「スポーツエールカンパニー2026」に認定されました」（https://ftn.canon/・1回目）
+  - 「「健康経営優良法人2026」に認定」（https://ftn.canon/・1回目）
+  - 「経済産業省と日本健康会議が実施する「健康経営優良法人2026」に認定されました」（https://ftn.canon/・1回目）
+  - 「キヤノンブランド製品として認定を受けたIDカードプリンターを発売」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「三郷本社が埼玉県環境保全連絡協議会より「環境保全優良事業所」表彰を受賞」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「増穂事業所が環境活動の功績として環境省より「地域環境美化功績者（団体）」表彰を受賞」（https://ftn.canon/ja/corporate/history.html・1回目）
+  - 「男性の取得促進にも積極的に取り組んでおり、その実績が評価され、厚生労働省より子育てサポート企業として「くるみん認定」を受けています」（https://ftn.canon/ja/job/company/about.html・1回目）
+  - 「DX戦略における各業務プロセスの変革を全社のうねりとすべくDX推進に向けたビジョンを掲げ、組織体制の強化を図るとともにDX認定を取得いたしました」（https://ftn.canon/ja/corporate/dx.html・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 - キヤノンファインテックニスカ — 会社概要 - キヤノンファインテックニスカ キヤノンファインテックニスカ https://ftn.canon > corporate > profile」（https://ftn.canon/ja/corporate/profile.html・3回目）
+  - 「キヤノンファインテック ニスカ(株)の 会社概要 | マイナビ2028 — キヤノンファインテック ニスカ(株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp243389 > outline」（https://job.mynavi.jp/28/pc/search/corp243389/outline.html・3回目）
+  - 「キヤノンファインテック ニスカ株式 会社 の企業情報・財務データ — キヤノンファインテック ニスカ株式 会社 の企業情報・財務データ FUMA（フーマ） https://fumadata.com > 企業検索」（https://fumadata.com/search/detail/1574105・3回目）
+  - 「会社 概要 - キヤノンファインテックニスカ — 会社 概要 - キヤノンファインテックニスカ キヤノンファインテックニスカ https://ftn.canon > corporate > profile」（https://ftn.canon/ja/corporate/profile.html・3回目）
+  - 「キヤノンファインテック ニスカ株式会社 - 決算情報 - PR TIMES — キヤノンファインテック ニスカ株式会社 - 決算情報 - PR TIMES prtimes.com https://prtimes.com > finance > settlement」（https://prtimes.com/finance/3030001039412/settlement・3回目）
+  - 「#14002 決算分析 : キヤノンファインテック ニスカ株式会社 第 ... — #14002 決算分析 : キヤノンファインテック ニスカ株式会社 第 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2026/04/09」（https://ryo-nakamura1.hatenablog.jp/entry/2026/04/09/073000・3回目）
+  - 「キヤノンファインテック ニスカ - Wikipedia — キヤノンファインテック ニスカ - Wikipedia Wikipedia https://ja.wikipedia.org > キヤノンファインテックニスカ」（https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%83%8B%E3%82%B9%E3%82%AB・3回目）
+  - 「キヤノンファインテック ニスカの業績・将来性・強み・弱み — キヤノンファインテック ニスカの業績・将来性・強み・弱み エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/00001225848/23/・3回目）
+  - 「キヤノンファインテック ニスカ — キヤノンファインテック ニスカ キヤノンファインテックニスカ https://ftn.canon」（https://ftn.canon/・3回目）
+  - 「人事、 キヤノンファインテック ニスカ - 日本経済新聞 — 人事、 キヤノンファインテック ニスカ - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZTSJD30401_S3A320C2000000/・3回目）
+  - 「キヤノンファインテック (6421) : 株価/予想・目標 ... - みんかぶ — キヤノンファインテック (6421) : 株価/予想・目標 ... - みんかぶ みんかぶ https://minkabu.jp > 株価検索」（https://minkabu.jp/stock/6421・3回目）
+  - 「VPSお客様 導入事例 PartⅠ キヤノンファインテック 株式会社様 — VPSお客様 導入事例 PartⅠ キヤノンファインテック 株式会社様 デジタルプロセス株式会社 https://www.dipro.co.jp > news > detail」（https://www.dipro.co.jp/news/detail?id=366・3回目）
+- 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部14頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式12頁／PDF・画像3件／外部14頁・検索11回）
+
+## グレースイメージング
+- 公式URL：https://www.gr-img.com/（given）
+- 事業内容：汗乳酸センサを用いた最先端疲労分析・評価サービスの開発・提供（https://www.gr-img.com/・1回目）
+- 事業内容：汗乳酸センサを用いた最先端疲労分析・評価サービスの開発・提供（https://mid-tenshoku.com/agency/a-6278/・3回目）
+- 事業内容：汗乳酸センサを用いた最先端疲労分析・評価サービスの開発・提供（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+- 資本金：100,000,000円（資本準備金除く）（https://www.gr-img.com/・1回目）
+- 資本金：123,150,000円（https://mid-tenshoku.com/agency/a-6278/・3回目）
+- 資本金：1億円（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+- 創業年度：設立：2018年7月2日（https://www.gr-img.com/・1回目）
+- 創業年度：設立：2018年7月2日（https://mid-tenshoku.com/agency/a-6278/・3回目）
+- 創業年度：設立：2018/07（https://initial.inc/companies/A-32607・3回目）
+- 従業員数：12名（https://www.gr-img.com/・1回目）
+- 従業員数：7名（https://mid-tenshoku.com/agency/a-6278/・3回目）
+- 株主：VCあり（https://initial.inc/companies/A-32607・3回目）
+- 所在地：【本社】 〒160-8582 東京都新宿区信濃町35番地 慶應義塾大学信濃町キャンパス2号館9F　CRIK信濃町 【事務所】 〒160-0015 東京都新宿区大京町12-9　アートコンプレックスセンター302（https://www.gr-img.com/・1回目）
+- 所在地：東京都新宿区信濃町35 慶應義塾大学信濃町キャンパス2号館 9階 CRIK信濃町 N7（https://initial.inc/companies/A-32607・3回目）
+- 所在地：東京都新宿区信濃町35番地（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+- 代表者：中島大輔（https://mid-tenshoku.com/agency/a-6278/・3回目）
+- 代表者：中島　大輔（https://initial.inc/companies/A-32607・3回目）
+- 代表者：代表取締役　中島大輔（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「第二種医療機器製造販売業（許可番号 13B2X10566）」（https://www.gr-img.com/・1回目）
+  - 「医療機器製造業（登録番号 13BZ201775）」（https://www.gr-img.com/・1回目）
+  - 「高度管理医療機器等販売業貸与業（許可番号 6新保衛薬第349号）」（https://www.gr-img.com/・1回目）
+  - 「医療ヘルスケア分野での汗乳酸センサ販売体制構築に加え、運動支援SaMDの開発を目指す」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「我々は今回の調達により、汗乳酸センサの量産、販売体制構築を行うとともに、同センサのスポーツ・ヘルスケア展開を進めていきます」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「今後、販売承認取得、そして販売のフェーズに入って参りますが、グレースイメージングのメンバーは、それらハードルを乗り越え、製品の普及にも成功されるものと確信しており、心臓リハビリテーションを革新されると信じています」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「医療機器は上市してから市場浸透・販売が最大のチャレンジ・勝負で、苦戦することが多いです」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「直面する様々な問題をグレースイメージングがどう乗り越えてきたのか、ソニーの持つ経験とノウハウを大いに活用し、SSAPがどのようにサポートさせて頂いたのか等を、連載にてご紹介いたします」（https://sony-acceleration-platform.com/article140.html・3回目）
+  - 「部品や製造のパートナーも揃っていて、これほどスピーディに進む環境はないと思います」（https://sony-acceleration-platform.com/article140.html・3回目）
+  - 「今回の資金調達（シリーズ B）により、医療機器としての販売承認や業許可の申請を行い、製造販売の開始を目指します」（https://qbc.co.jp/2023/07/05/news_230705/・3回目）
+  - 「QB キャピタルは、今回の出資で社外取締役を派遣し、グレースイメージングへの支援を強化してまいります」（https://qbc.co.jp/2023/07/05/news_230705/・3回目）
+- 客は誰か：
+  - 「法人向けサービスに関するご相談・お問い合わせは以下のボタンからお願いします（外部サイトにジャンプします）」（https://sony-acceleration-platform.com/article140.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「この技術を通して、私たちは科学的なデータに基づいた新たな医療、スポーツのあり方を提案し、」（https://www.gr-img.com/・1回目）
+  - 「汗乳酸モニタリングシステム（管理医療機器）」（https://www.gr-img.com/・1回目）
+  - 「提供するサービスが、医療はもちろん、人間の行動、意思決定に変化を起こすまで」（https://www.gr-img.com/・1回目）
+  - 「慶應義塾大学信濃町キャンパス2号館9F CRIK信濃町」（https://www.gr-img.com/・1回目）
+  - 「第二種医療機器製造販売業（許可番号 13B2X10566）」（https://www.gr-img.com/・1回目）
+  - 「医療機器製造業（登録番号 13BZ201775）」（https://www.gr-img.com/・1回目）
+  - 「高度管理医療機器等販売業貸与業（許可番号 6新保衛薬第349号）」（https://www.gr-img.com/・1回目）
+  - 「こちらは国内の医療従事者の方を対象に製品等の情報を提供することを目的としたサイトです」（https://www.gr-img.com/・1回目）
+  - 「〒160-8582 東京都新宿区信濃町35番地 慶應義塾大学医学部整形外科 臨床研究棟2F」（https://mid-tenshoku.com/agency/a-6278/・3回目）
+  - 「東京都新宿区信濃町35番地慶應義塾大学信濃町キャンパス2号館9階CRIK信濃町N7」（https://prtimes.com/finance/6011101084693・3回目）
+  - 「心不全患者向けに適切な運動量や運動強度を提案するアプリ「運動支援アプリ」を、慶應義塾大学医学部と共同で開発」（https://initial.inc/companies/A-32607・3回目）
+  - 「東京都新宿区信濃町35 慶應義塾大学信濃町キャンパス2号館 9階 CRIK信濃町 N7」（https://initial.inc/companies/A-32607・3回目）
+- 資本金・株主：
+  - 「グレースイメージング、第三者割当増資を実施 5.1億円を調達」（https://initial.inc/companies/A-32607・3回目）
+  - 「グレースイメージング、第三者割当増資を実施 総額約2億円を調達」（https://initial.inc/companies/A-32607・3回目）
+  - 「「汗乳酸センサ」を用いた最先端疲労分析・評価サービスを開発・提供する株式会社グレースイメージングに追加出資」（https://initial.inc/companies/A-32607・3回目）
+  - 「株式会社グレースイメージング、第三者割当増資による5.1億円の資金調達を実施 | 株式会社グレースイメージングのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「株式会社グレースイメージング、第三者割当増資に�よる5.1億円の資金調達を実施」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「慶應義塾大学医学部発のベンチャー企業である株式会社グレースイメージング（本社：東京都新宿区、以下 グレースイメージング）は、株式会社慶應イノベーション・イニシアティブ（本社：東京都港区、以下KII）、QBキャピタル合同会社（本社：福岡県福岡市）、三菱UFJキャピタル株式会社（本社：東京都中央区）、D3 LLC（本社：東京都渋谷区）、株式会社メディパルホールディングス（本社：東京都中央区）のコーポレートベンチャー�キャピタルファンドMEDIPAL Innovation投資事業有限責任組合（無限責任組合員：SBIインベストメント株式会社）を引受先とする5.1億円の資金調達を実施いたしました」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「今回の第三者割当増資により、これまでの増資を含めたグレースイメージングの調達額の合計は約7.4億円となります」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「◆資金調達の背景、目的」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「我々は前回の資金調達以後に、簡便かつ安価な汗乳酸センサを用い、CPX検査で測定される運動負荷の指標（ATポイント）を測定可能であることを医師主導治験にて示しています（※1）」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「初回投資以降、メンバーの皆様が遺憾なく力を発揮し、力強く事業を進める様子に大きな安心感を覚えると共に更に期待感が増し、今回追加出資させて頂きました」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「前回ラウンドからのフォローオン出資として本ラウンドにも参加機会を頂きました」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「さらにその成果を受け、2019年9月にSSAP支援先に対する出資第1号として、新規出資を行いました」（https://sony-acceleration-platform.com/article140.html・3回目）
+- 表彰・認定の記録：
+  - 「2019年 3月 IBM BlueHub 第5期 最優秀賞受賞」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「2019年 12月 第4回健康医療ベンチャー大賞 社会人部門優勝」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「2020年 11月 総務省「異能vationプログラム」 異能ジェネレーションアワード分野賞受賞」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「2021年 3月 AMDAP補助事業対象者に選定」（https://prtimes.jp/main/html/rd/p/000000007.000054709.html・3回目）
+  - 「』社会人部門において最優秀賞を受賞するなど、評価が高まるグレースイメージングのモノづくりの裏側に迫ります」（https://sony-acceleration-platform.com/article140.html・3回目）
+- 検索結果の抜粋：
+  - 「株式 会社グレースイメージング — 株式 会社グレースイメージング 株式会社グレースイメージング https://www.gr-img.com」（https://www.gr-img.com/・3回目）
+  - 「株式 会社グレースイメージング - ミドルの転職 — 株式 会社グレースイメージング - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-6278/・3回目）
+  - 「株式会社 グレースイメージング の 会社概要 - PR TIMES — 株式会社 グレースイメージング の 会社概要 - PR TIMES prtimes.com https://prtimes.com > finance」（https://prtimes.com/finance/6011101084693・3回目）
+  - 「株式 会社グレースイメージング — 株式 会社グレースイメージング スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-32607・3回目）
+  - 「株式会社 グレースイメージング （東京都）の 会社概要 ・役員 — 株式会社 グレースイメージング （東京都）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > 医薬品・医療機器」（https://compalyze.co.jp/company/6011101084693・3回目）
+  - 「株式会社 グレースイメージング — 株式会社 グレースイメージング 株式会社グレースイメージング https://www.gr-img.com」（https://www.gr-img.com/・3回目）
+  - 「株式会社 グレースイメージング — 株式会社 グレースイメージング スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-32607・3回目）
+  - 「株式会社 グレースイメージング の第6期決算公告の ... - PR TIMES — 株式会社 グレースイメージング の第6期決算公告の ... - PR TIMES prtimes.com https://prtimes.com > finance > settlement」（https://prtimes.com/finance/6011101084693/settlement・3回目）
+  - 「株式会社 グレースイメージング | Portfolio — 株式会社 グレースイメージング | Portfolio 慶應イノベーション・イニシアティブ / KII https://www.keio-innovation.co.jp > portfolio」（https://www.keio-innovation.co.jp/portfolio/43/・3回目）
+  - 「グレースイメージング ｜STARTUP DB（スタートアップ ... — グレースイメージング ｜STARTUP DB（スタートアップ ... STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/bzgwJ67UQEmGrjY6・3回目）
+  - 「株式 会社 グレースイメージング — 株式 会社 グレースイメージング スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-32607・3回目）
+  - 「資金調達 のお知らせ - 株式 会社 グレースイメージング — 資金調達 のお知らせ - 株式 会社 グレースイメージング 株式会社グレースイメージング https://www.gr-img.com > News > 経営情報」（https://www.gr-img.com/news/27/・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索11回）
 
 ## コスモバンク
 - 公式URL：https://cosmobank.co.jp/（given）
@@ -961,6 +2468,155 @@
   - 「サイデン化学 (株)の会社概要 | マイナビ2028 — サイデン化学 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp206266 > outline」（https://job.mynavi.jp/28/pc/search/corp206266/outline.html・3回目）
   - 「サイデン化学 株式会社（東京都）の会社概要・役員 | Compalyze — サイデン化学 株式会社（東京都）の会社概要・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 化学・素材」（https://compalyze.co.jp/company/3010001044819・3回目）
 - 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部21頁・検索11回）
+
+## サイフューズ
+- 公式URL：https://www.cyfusebio.com/（given）
+- 事業内容：再生医療等製品の開発・製造・販売（https://www.cyfusebio.com/about/company・1回目）
+- 事業内容：再生医療等製品の開発・製造・販売（https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/kinyu/fund/katsuyou_ichiran/cyfuse・3回目）
+- 事業内容：よく利用される手続き・サービス（https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/kinyu/fund/katsuyou_ichiran/cyfuse・3回目）
+- 資本金：18億円（2025年12月末）（https://www.cyfusebio.com/about/company・1回目）
+- 資本金：1,828(百万円) 
+                                            (2025/12現在) 
+                                            日本基準（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+- 資本金：12億円（https://www.bizreach.jp/companies/2899/・3回目）
+- 創業年度：設立日：2010年8月11日（https://www.cyfusebio.com/about/company・1回目）
+- 創業年度：設立年月日：2010年8月11日（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+- 従業員数：23 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+- 従業員数：２１名（2023年12月期）（https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/kinyu/fund/katsuyou_ichiran/cyfuse・3回目）
+- 所在地：〒108-6301 東京都港区三田3-5-27 住友不動産東京三田サウスタワー（https://www.cyfusebio.com/about/company・1回目）
+- 所在地：〒108-6301 東京都港区三田３－５－２７　住友不動産東京三田サウスタワー 地図（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+- 所在地：東京都港区三田3-5-27住友不動産東京三田サウスタワー 1階（https://www.bizreach.jp/companies/2899/・3回目）
+- 代表者：代表取締役　秋枝 静香（https://www.cyfusebio.com/about/company・1回目）
+- 代表者：秋枝　静香（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+- 代表者：秋枝 静香（https://www.bizreach.jp/companies/2899/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「本動画は、2026年8月26日（水）に実施した当社主催（運営協力：株式会社SBI証券）によるオンライン決算説明会を収録したものです」（https://www.cyfusebio.com/・1回目）
+  - 「バイオ3Dプリンタ「Regenova ®」（製品名：レジェノバ®）の販売開始」（https://www.cyfusebio.com/about/company・1回目）
+  - 「国立研究開発法人日本医療研究開発機構（AMED）の委託事業「立体造形による機能的な生体組織製造技術の開発／細胞を用いた機能的な立体組織作成技術の研究開発に採択」（https://www.cyfusebio.com/about/company・1回目）
+  - 「バイオ3Dプリンタ「S-PIKE ®」（製品名：スパイク®）の販売開始」（https://www.cyfusebio.com/about/company・1回目）
+  - 「創薬支援新製品「ヒト３Dミニ肝臓」の販売開始」（https://www.cyfusebio.com/about/company・1回目）
+  - 「事業内容｜会社情報 ｜ 株式会社サイフューズ」（https://www.cyfusebio.com/about/business・1回目）
+  - 「再生医療領域において、再生医療等製品の開発、細胞製品の開発・販売」（https://www.cyfusebio.com/about/business・1回目）
+  - 「創薬支援領域において、研究用細胞製品の受託や新たな臓器モデルなどの細胞製品の開発・販売」（https://www.cyfusebio.com/about/business・1回目）
+  - 「デバイス領域において、バイオ3Dプリンタ等のデバイス機器の開発・販売及び細胞製品開発に必要となる技術応用や新技術開発等」（https://www.cyfusebio.com/about/business・1回目）
+  - 「役員紹介｜会社情報 ｜ 株式会社サイフューズ」（https://www.cyfusebio.com/about/introduction・1回目）
+  - 「【事業内容】再生医療等製品の研究・開発・製造・販売」（https://www.bizreach.jp/companies/2899/・3回目）
+  - 「サイフューズ【4892】の事業内容 - キタイシホン」（https://kitaishihon.com/company/4892/business・3回目）
+- 客は誰か：
+  - 「公益財団法人東京都中小企業振興公社が実施する「次世代イノベーション創出プロジェクト2020助成事業」に採択」（https://www.cyfusebio.com/about/company・1回目）
+  - 「加えて、「ものづくり・商業・サービス生産性向上促進補助金」（全国中小企業団体中央会／中小企業庁／経済産業省）の支援のもと開発を進めてきた『バイオ3Dプリンタ用資材製造・保守レポート管理システムの構築』に関して、デバイス製品の生産性・品質向上に取り組み、新たに開発した周辺機器類の製品販売を開始いたしました」（https://kitaishihon.com/company/4892/business・3回目）
+  - 「⚫ 経済産業省 成長型中小企業等研究開発支援事業（第２回）に分担機関として参画（代表機関：ハインツテック株式会社、早稲田大学）」（https://f.irbank.net/pdf/20260225/140120260224568155.pdf・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「〒108-6301 東京都港区三田3-5-27 住友不動産東京三田サウスタワー」（https://www.cyfusebio.com/about/company・1回目）
+  - 「国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の「橋渡し推進技術開発」に九州大学と共同で採択」（https://www.cyfusebio.com/about/company・1回目）
+  - 「国立研究開発法人日本医療研究開発機構（AMED）の委託事業「立体造形による機能的な生体組織製造技術の開発／細胞を用いた機能的な立体組織作成技術の研究開発に採択」（https://www.cyfusebio.com/about/company・1回目）
+  - 「AMEDの委託事業「革新的医療シーズ実用化研究事業/バイオ3D プリンタにより作製した三次元神経導管（Bio 3D Conduit）を用いた革新的末梢神経再生法の臨床開発」（代表：京都大学）へ参画」（https://www.cyfusebio.com/about/company・1回目）
+  - 「京都大学医学部附属病院とバイオ3Dプリンタを用いた末梢神経損傷に対する三次元神経導管の医師主導治験を開始」（https://www.cyfusebio.com/about/company・1回目）
+  - 「京都大学医学部附属病院と「バイオ3Dプリンタを用いた末梢神経損傷に対する三次元神経導管の医師主導治験」を完了」（https://www.cyfusebio.com/about/company・1回目）
+  - 「AMED 橋渡し研究プログラム「バイオ３Dプリンター技術を用いた膝関節特発性骨壊死に対する骨軟骨再生治療」（代表：慶應義塾大学）へ参画」（https://www.cyfusebio.com/about/company・1回目）
+  - 「2025年日本国際博覧会（大阪・関西万博）への参加等による情報発信、技術普及、新たな医療の啓蒙」（https://www.cyfusebio.com/about/company・1回目）
+  - 「再生医療の産業化及び社会実装に向け、株式会社クラレと業務資本提携締結」（https://www.cyfusebio.com/about/company・1回目）
+  - 「サイフューズは、独自の基盤技術を基軸として多面的な事業を展開し、新たな再生医療等製品の開発を中心に、次世代の新技術開発にも取り組んでいます」（https://www.cyfusebio.com/about/business・1回目）
+  - 「現在、サイフューズでは、「革新的なバイオ３Dプリンティング技術の実用化を通じて医療の飛躍的な進歩に貢献する」という理念に基づいて、」（https://www.cyfusebio.com/about/business・1回目）
+  - 「再生医療領域において、再生医療等製品の開発、細胞製品の開発・販売」（https://www.cyfusebio.com/about/business・1回目）
+- 資本金・株主：
+  - 「上場バイオベンチャーで新薬の上市や証券取引所への新規上場等を経験」（https://www.cyfusebio.com/about/introduction・1回目）
+  - 「サイフューズ参画後は、組織・制度・体制構築等に従事し、経営管理全般を統括するとともに、CFOとして様々なファイナンスや証券取引所への新規上場を達成」（https://www.cyfusebio.com/about/introduction・1回目）
+  - 「日本電気システム建設株式会社（現 NECネッツエスアイ株式会社）等でのエンジニア経験を経て、2012年にあらた監査法人（現 PwC Japan有限責任監査法人）に入所し、上場・未上場企業の会計監査や内部統制監査、システム監査等に幅広く携わる」（https://www.cyfusebio.com/about/introduction・1回目）
+  - 「1997年の友常木村見富法律事務所（現アンダーソン・毛利・友常法律事務所外国法共同事業）入所後、長年にわたり、国際弁護士として国際金融取引、企業買収等の渉外事案から資金調達や株式公開まで、国内外の企業法務全般にて幅広く活躍」（https://www.cyfusebio.com/about/introduction・1回目）
+  - 「【サイフューズ】[4892]企業概要 社員数や役員報酬・資本金 | 日経電子版」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+  - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+  - 「【資本金】12億円」（https://www.bizreach.jp/companies/2899/・3回目）
+  - 「パートナー企業との連携に関しては、細胞製品の製造に関する包括的パートナーシップ契約を締結している太陽ホールディングス株式会社及びその子会社である太陽ファルマテック株式会社とともに、将来の再生医療等製品の実用化を見据えた、製造販売体制構築に向けて準備を進めました」（https://kitaishihon.com/company/4892/business・3回目）
+  - 「当事業年度においては、PHCホールディングス株式会社及びその子会社であるPHC株式会社と、第24回日本再生医療学会総会（2025年３月）において学術セミナーを共催するとともに、再生医療等製品の商業生産へ向けた共同開発の成果として、3D細胞製品の商業化へ向けた新生産技術についての成果発表及びプレスリリースを行いました」（https://kitaishihon.com/company/4892/business・3回目）
+  - 「具体的には、日立グローバルライフソリューションズ株式会社、MetaTech (AP) Inc.及びTaiwan Hitachi Asia Pacific Co., Ltd.との台湾地域での協業展開や、Centre for Immunology & Infection Limited（C2i）の子会社であるC2iTech Limited（香港）、及び日立グローバルライフソリューションズ株式会社との間で、当社独自の基盤技術「バイオ3Dプリンティング」を活用した今後のアジア地域における戦略的協業に向けた交渉を進める等、バイオ3Dプリンティング技術をはじめとする当社の基盤技術のアジア展開が進展いたしました」（https://kitaishihon.com/company/4892/business・3回目）
+  - 「主な要因は、資本金及び資本剰余金の増加927,631千円並びに当期純損失の計上763,843千円であります」（https://kitaishihon.com/company/4892/business・3回目）
+  - 「【株主資本】 2,493,095 2,656,882」（https://f.irbank.net/pdf/20260225/140120260224568155.pdf・3回目）
+- 表彰・認定の記録：
+  - 「大学発ベンチャー表彰にて科学技術振興機構理事長賞を受賞 産学官連携功労者表彰にて日本学術会議会長賞を受賞」（https://www.cyfusebio.com/about/company・1回目）
+  - 「JAPAN VENTURE AWARDSにて中小機構理事長賞を受賞」（https://www.cyfusebio.com/about/company・1回目）
+  - 「東京都の「TOKYO働き方改革宣言企業」に認定」（https://www.cyfusebio.com/about/company・1回目）
+  - 「経済産業省のスタートアップ支援プログラム「J-Startup」企業に選定」（https://www.cyfusebio.com/about/company・1回目）
+  - 「経済産業省・特許庁が表彰する令和６年度「知財功労賞」において「経済産業大臣表彰」を受賞」（https://www.cyfusebio.com/about/company・1回目）
+  - 「東京都が表彰する東京都ベンチャー技術大賞において「ヒト3Dミニ肝臓」が奨励賞を受賞」（https://www.cyfusebio.com/about/company・1回目）
+  - 「法律事務所及び弁護士を表彰するChambers Global “Best Lawyers and Law Farms”において、所属事務所とともに、Capital Markets分野におけるLeading Individualを受賞（2012年度～2023年度）」（https://www.cyfusebio.com/about/introduction・1回目）
+  - 「「EY Winning Women 2025」ファイナリスト受賞」（https://f.irbank.net/pdf/20260225/140120260224568155.pdf・3回目）
+  - 「2019年2月には、JAPAN VENTURE AWARDS 2019で中小機構理事長賞を受賞」（https://www.wanbishi.co.jp/datasolution/case/cyfuse.html・3回目）
+  - 「【3Dプリンター導入①】機種の検討・選定時のポイント」（https://news.sharelab.jp/cases/medical/cyfuse-screen-250107/・3回目）
+  - 「この技術が評価され、2024年11月には東京都ベンチャー技術大賞で奨励賞も受賞した」（https://www.sangyo-rodo.metro.tokyo.lg.jp/chushou/kinyu/fund/katsuyou_ichiran/cyfuse・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ・沿革｜会社情報 - 株式会社サイフューズ — 会社概要 ・沿革｜会社情報 - 株式会社サイフューズ 株式会社サイフューズ https://www.cyfusebio.com > about > company」（https://www.cyfusebio.com/about/company・3回目）
+  - 「【 サイフューズ 】[4892]企業 概要 社員数や役員報酬・ 資本金 — 【 サイフューズ 】[4892]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=4892・3回目）
+  - 「株式 会社サイフューズ の求人・採用情報 - ビズリーチ — 株式 会社サイフューズ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/2899/・3回目）
+  - 「株式 会社サイフューズ - ミドルの転職 — 株式 会社サイフューズ - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧」（https://mid-tenshoku.com/agency/a-11431/・3回目）
+  - 「OUR BUSINESS 事業内容 - 株式会社サイフューズ — OUR BUSINESS 事業内容 - 株式会社サイフューズ 株式会社サイフューズ https://www.cyfusebio.com > about > business」（https://www.cyfusebio.com/about/business・3回目）
+  - 「サイフューズ 【4892】の 事業内容 - キタイシホン — サイフューズ 【4892】の 事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/4892/business・3回目）
+  - 「【 サイフューズ 】[4892]決算発表や業務・財務情報 | 日経電子版 — 【 サイフューズ 】[4892]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=4892・3回目）
+  - 「サイフューズ の最新の会社情報（ 資金調達 に関するお知らせ ... — サイフューズ の最新の会社情報（ 資金調達 に関するお知らせ ... 株式会社サイフューズ https://www.cyfusebio.com > archives」（https://www.cyfusebio.com/archives/1717・3回目）
+  - 「【 サイフューズ 】[4892]適時開示情報 株主 総会や定款関連 — 【 サイフューズ 】[4892]適時開示情報 株主 総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose」（https://www.nikkei.com/nkd/company/disclose/?scode=4892・3回目）
+  - 「株式会社 サイフューズ 主催 個人投資家向け ... - YouTube — 株式会社 サイフューズ 主催 個人投資家向け ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=v3ek0JqPUnM・3回目）
+  - 「サイフューズ 【4892】の大 株主 情報 - 株探 — サイフューズ 【4892】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=4892・3回目）
+  - 「株式会社 サイフューズ 様｜ 導入事例 - NXワンビシアーカイブズ — 株式会社 サイフューズ 様｜ 導入事例 - NXワンビシアーカイブズ 株式会社ＮＸワンビシアーカイブズ https://www.wanbishi.co.jp > datasolution > case > cyfuse」（https://www.wanbishi.co.jp/datasolution/case/cyfuse.html・3回目）
+- 売上高：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索11回）
+- 株主：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索11回）
+
+## サンアロー
+- 公式URL：https://www.sunarrow.co.jp/（given）
+- 資本金：1億円（https://www.sunarrow.co.jp/company/history/・1回目）
+- 創業年度：設立：1959年(昭和34年)12月21日（https://www.sunarrow.co.jp/company/history/・1回目）
+- 従業員数：156名、グループ467名（https://www.sunarrow.co.jp/company/history/・1回目）
+- 従業員数：100名（https://mono.ipros.com/company/detail/2043275/・3回目）
+- 所在地：〒104-0032 東京都中央区八丁堀4-10-4 オーキッドプレイス八丁堀ビル TEL:03-3552-5981(代表) FAX:03-3552-5989（https://www.sunarrow.co.jp/company/history/・1回目）
+- 所在地：東京都中央区八丁堀4-10-4（https://www.rubber-soko.com/list/sunarrow.html・3回目）
+- 代表者：時宗 裕二（https://www.sunarrow.co.jp/company/history/・1回目）
+- 主要取引先：アイコム株式会社 味の素冷凍食品株式会社 岩崎通信機株式会社 SMC株式会社 NECプラットフォームズ株式会社 沖電気工業株式会社 カシオ計算機株式会社 サクサテクノ株式会社 JSR株式会社 象印マホービン株式会社 第一屋製パン株式会社 タイガースポリマー株式会社 長瀬産業株式会社 株式会社ナカヨ ニッパツ・メック株式会社 日本ゼオン株式会社 ニデックモビリティ株式会社 パイオニア株式会社 パイオニアファインテック株式会社 株式会社ファソテック 株式会社FAMS フコク物産株式会社 古野電気株式会社 Continental Automotive Group MATSUI EASTERN(Thailand)Co.,Ltd MI Technologies Pte Ltd. MURAMOTO ELECTRON(Thailand)Public Co.,Ltd Panasonic Automotive Systems Asia Pacific (Thailand) Co.,Ltd. THAI NIPPON SEIKI CO., LTD. UNION ZOJIRUSHI Co.,Ltd（以上、五十（https://www.sunarrow.co.jp/company/history/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「当社が製造した製品事例についてカテゴリー別にご紹介します」（https://www.sunarrow.co.jp/・1回目）
+  - 「自動車の内装部分における、ボタンやラバーコンタクトスイッチといった車載部品を製造しております」（https://www.sunarrow.co.jp/・1回目）
+  - 「携帯電話のキーシートなどの電子機器部品や、食品関連容器といった身の周りにある様々な製品を製造しています」（https://www.sunarrow.co.jp/・1回目）
+  - 「医療現場における手術用トレーニングモデルを製造しています」（https://www.sunarrow.co.jp/・1回目）
+  - 「ものづくり企業としての経験やスキルを武器に、省力化のための設備や機器を製造・開発しています」（https://www.sunarrow.co.jp/・1回目）
+  - 「多様なナノ材料の、樹脂・ゴム・溶媒へのコンパウンディング技術を活かして、様々な材料を製造しております」（https://www.sunarrow.co.jp/・1回目）
+  - 「ものづくり企業としてのサンアローの強みをご紹介します」（https://www.sunarrow.co.jp/・1回目）
+  - 「工業用ゴム製品、時計部品などを製造販売」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「シリコーンゴム関係及び精密部品の製造販売に注力」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「生体質感模擬臓器などの手術トレーニング用製品の販売を開始」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「マイクロサージャリートレーニング用血管の販売を開始」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「ＥＳＤ/ＰＯＥＭトレーニング用モデル「ＥｎｄｏGｅｌ」の販売を開始」（https://www.sunarrow.co.jp/company/history/・1回目）
+- 客は誰か：
+  - 「BtoB向け | 目的・用途起点で課題解決を支援 | イプロス業界別専門サイト」（https://mono.ipros.com/company/detail/2043275/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「医療現場における手術用トレーニングモデルを製造しています」（https://www.sunarrow.co.jp/・1回目）
+  - 「トレーニングは勿論の事、医療機器の開発ツールとしても活用可能です」（https://www.sunarrow.co.jp/・1回目）
+  - 「サンアローモバイルデバイス株式会社 (現新潟工場)操業」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「サンアローモバイルデバイス株式会社 (現新潟工場)合併」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「※医療機器の為、直接販売はしておりません」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「テクノサド株式会社の製造関連事業を統合し、当社佐渡工場として事業開始」（https://www.sunarrow.co.jp/company/history/・1回目）
+  - 「ゴム・樹脂の成型加工を得意とするメーカーです」（https://www.sunarrow.co.jp/company/・1回目）
+  - 「当社は、1959年に工業用ゴム製品の加工メーカーとして発足しました」（https://www.sunarrow.co.jp/company/greeting/・1回目）
+  - 「自社で設計から金型製作、成形、加飾および組み立てまでの一貫生産ができ、お客様の高度化・多様化するニーズに対応できる部品メーカーとして、管理面、品質面でも強化を図っております」（https://www.sunarrow.co.jp/company/greeting/・1回目）
+  - 「近年は手術トレーニング用として、人体の質感・構造を忠実に再現した模擬臓器を開発し、医療ヘルスケア分野で高い評価を頂いております」（https://www.sunarrow.co.jp/company/greeting/・1回目）
+  - 「社会へ貢献する企業をめざし、工夫された技術を積み重ねて顧客満足度を高め」（https://www.sunarrow.co.jp/company/greeting/・1回目）
+  - 「ゴム・樹脂の成型加工を得意とするメーカーです」（https://www.sunarrow.co.jp/company/network/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 ・沿革 - サンアロー 株式会社 — 会社概要 ・沿革 - サンアロー 株式会社 サンアロー株式会社 - https://www.sunarrow.co.jp > 会社情報」（https://www.sunarrow.co.jp/company/history/・3回目）
+  - 「サンアロー | 企業 情報 | イプロスものづくり — サンアロー | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 樹脂・プラスチック」（https://mono.ipros.com/company/detail/2043275/・3回目）
+  - 「サンアロー 株式 会社 新潟工場 | 企業 情報 — サンアロー 株式 会社 新潟工場 | 企業 情報 企業情報ナビ https://www.niigata-kigyo-navi.jp > 企業情報」（https://www.niigata-kigyo-navi.jp/search/company/664・3回目）
+  - 「サンアロー | 企業情報 | イプロスものづくり — サンアロー | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 樹脂・プラスチック」（https://mono.ipros.com/company/detail/2043275/・3回目）
+  - 「会社概要・沿革 - サンアロー 株式会社 — 会社概要・沿革 - サンアロー 株式会社 サンアロー株式会社 - https://www.sunarrow.co.jp > 会社情報」（https://www.sunarrow.co.jp/company/history/・3回目）
+  - 「サンアロー 株式会社 の企業情報 - バフェット・コード — サンアロー 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/drwzf7g6eh/・3回目）
+  - 「サンアロー 株式会社の業績・将来性・強み・弱み — サンアロー 株式会社の業績・将来性・強み・弱み エン カイシャの評判 https://en-hyouban.com > company」（https://en-hyouban.com/company/10004660497/23/・3回目）
+  - 「サンアロー株式会社新潟工場の省エネルギー化事業｜SII省エネ補助金の... — Aug 8, 2026 · サンアロー株式会社がSII省エネ補助金に採択された事例「サンアロー株式会社新潟工場の省エネルギー化事業」。新潟県／令和4年度 (指定設備導入事業・第2次)／交付額104万円。」（https://hojokin-jirei.com/jirei/bf32bed105e9bd70/・3回目）
+  - 「サンアロー株式会社様 | 製品化事例 | 株式会社東北テクノアーチ — 発明から生まれた製品・サービスの事例 バイオ発電スキンパッチBIPP® 東北大学大学院工学研究科の西澤松彦教授らは、サンアロー株式会社様との共同研究成果として、酵素によるバイオ発電の機能を搭載したスキンパッチBIPP🄬（Bio Iontophoresis Patch）の標準モデルを完成させました。このパッチ ...」（https://www.t-technoarch.co.jp/content/licence_1067.html・3回目）
+  - 「サンアローのゴム成形の特徴や事例について解説 — サンアローは独自の合成ゴム配合技術と一貫生産体制を提供しており、シリコンゴムと樹脂の接着技術で高い技術力を持つゴム成形メーカーです。ここでは、サンアローの特徴や対応可能な成形技術・ゴム素材、製品事例などについてご紹介します。 こんな業界におすすめ サンアローは ...」（https://www.rubber-soko.com/list/sunarrow.html・3回目）
+  - 「サンアロー株式会社 - — 製品紹介 Our Products 当社が製造した製品事例についてカテゴリー別にご紹介します 自動車部品から手術用トレーニング ...」（http://www.sunarrow.co.jp/・3回目）
+  - 「省力化装置 - サンアロー株式会社 — それ以外にも 累計で1000台を超える設備を自社の生産ラインに投入している実績 があるため、省力化設備の導入を検討しているが、知見が無い…というお客様でも安心してご相談頂くことが出来ます。」（https://www.sunarrow.co.jp/feature-mechatronics/・3回目）
+- 事業内容：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
+- 資本金・株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
+- 表彰・認定の記録：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
 
 ## ザインエレクトロニクス
 - 公式URL：https://www.thine.co.jp/（given）
@@ -1280,6 +2936,109 @@
 - 株主：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索11回）
 
+## テックタッチ
+- 公式URL：https://techtouch.jp/（given）
+- 事業内容：デジタルアダプションプラットフォーム「テックタッチ」およびVoC分析AIエージェント「AI Central Voice」の開発・提供（https://techtouch.jp/company・1回目）
+- 事業内容：デジタルアダプションプラットフォーム「テックタッチ」およびデータ戦略AIエージェント「AI Central Voice」の開発・提供（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+- 事業内容：デジタルアダプションプラットフォーム「テックタッチ」およびデータ戦略AIエージェント「AI Central Voice」の開発・提供（https://www.cac.co.jp/news/topics_260805/・3回目）
+- 資本金：6億3,000万円（https://www.bizreach.jp/companies/9400/・3回目）
+- 資本金：1億円（https://www.bizreach.jp/companies/9400/・3回目）
+- 資本金：1億円（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+- 創業年度：設立：2018年3月1日（https://techtouch.jp/company・1回目）
+- 創業年度：設立年月：2018年3月1日（https://www.bizreach.jp/companies/9400/・3回目）
+- 創業年度：設立：2018年03月（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+- 従業員数：244名 （
+					2026年10月											時点）※正社員のみ（https://techtouch.jp/company・1回目）
+- 従業員数：244名 （ 2026年09月時点）（https://www.bizreach.jp/companies/9400/・3回目）
+- 株主：VCあり（https://initial.inc/companies/A-33095・3回目）
+- 所在地：〒104-0061 東京都中央区銀座8丁目17-1
+					PMO銀座II 5F・8F（総合受付 5F） GoogleMaps（https://techtouch.jp/company・1回目）
+- 所在地：東京都中央区 銀座 8-17-1 PMO銀座Ⅱ5F・8F（総合受付 5F）（https://www.bizreach.jp/companies/9400/・3回目）
+- 所在地：東京都港区芝浦3-1-21msb Tamachi 田町ステーションタワーS 21F（https://www.bizreach.jp/companies/9400/・3回目）
+- 代表者：井無田 仲（https://techtouch.jp/company・1回目）
+- 代表者：井無田 仲（https://www.bizreach.jp/companies/9400/・3回目）
+- 代表者：井無田　仲（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「出所：株式会社アイ・ティ・アール「ITR Market View：コラボレーション／ナレッジ共有市場2025」デジタル・アダプション・プラットフォーム市場－従業員10,000人以上：ベンダー別売上金額シェア（2021～2025年度予測）」（https://techtouch.jp/・1回目）
+  - 「テックタッチをご導入いただき改善した事例をご紹介します」（https://techtouch.jp/cases/・1回目）
+  - 「問い合わせの大幅削減や操作時間の短縮、入力精度の向上など、業界・部門ごとの課題と効果を紹介します」（https://techtouch.jp/resources/techtouch-cases・1回目）
+  - 「TIS、SAP Japan、Slack Japan、セールスフォース・ジャパンにて、エンタープライズ企業向けの人事SaaSやSlackの販売責任者に従事」（https://techtouch.jp/company・1回目）
+  - 「テクノロジー・プラットフォーム事業の責任者として戦略立案・事業運営を担い、新領域の市場開拓やM&A製品の日本展開をリードし、成長に寄与」（https://techtouch.jp/company・1回目）
+  - 「テックタッチをご導入いただき改善した事例をご紹介します」（https://techtouch.jp/cases/?solution=cx・1回目）
+  - 「TIS、SAP Japan、Slack Japan、セールスフォース・ジャパンにて、エンタープライズ企業向けの人事SaaSやSlackの販売責任者に従事」（https://techtouch.jp/event/seminarinfo-archive/・1回目）
+  - 「テックタッチとは？「テックタッチ」にしか作れない価値や想いをご紹介」（https://techtouch.jp/about・1回目）
+  - 「テックタッチとは？「テックタッチ」にしか作れない価値や想いをご紹介」（https://techtouch.jp/about/・1回目）
+  - 「テックタッチをご導入いただき改善した事例をご紹介します」（https://techtouch.jp/cases/?solution=ex・1回目）
+  - 「テックタッチをご導入いただき改善した事例をご紹介します」（https://techtouch.jp/cases/?solution=public・1回目）
+  - 「問い合わせの大幅削減や操作時間の短縮、入力精度の向上など、業界・部門ごとの課題と効果を紹介します」（https://techtouch.jp/resources/techtouch-cases/・1回目）
+- 客は誰か：
+  - 「エンタープライズ事業部門のリーダーとして、大手企業、公共部門および関東圏以外の地域における事業を統括」（https://techtouch.jp/company・1回目）
+  - 「大手企業・有名企業などで続々と導入されています」（https://techtouch.jp/cases/customers・1回目）
+  - 「インターネットを通じて、個人や法人向けに月額課金制の家具・家電レンタルを提供」（https://herp.careers/careers/companies/techtouch・3回目）
+  - 「当社は製造業・サービス業など主要産業領域で高いシェアを獲得するだけでなく、中堅・中小企業を含むあらゆる企業規模で導入が拡大しました（2023年度から2024年度）」（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+  - 「従業員数1,000人未満の中堅・中小企業でも過半数のシェアを獲得し、従業員数10,000人以上の大企業でも6割を超えるシェアを維持するなど、全ての企業規模での導入拡大を実現しています」（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+  - 「800万人（2025年5月時点）を超えるユーザーに利用され、大手企業や官公庁などに導入されています」（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+  - 「導入事例 | 一人当たりの事前準備時間を40時間削減、大手企業のアポイント目標達成にも大きく貢献 | Sales Retriever」（https://www.sales-retriever.jp/cases/techtouch/・3回目）
+  - 「一人当たりの事前準備時間を40時間削減、大手企業のアポイント目標達成にも大きく貢献」（https://www.sales-retriever.jp/cases/techtouch/・3回目）
+  - 「BDR組織における大手企業に対するアプローチ前の事前準備」（https://www.sales-retriever.jp/cases/techtouch/・3回目）
+  - 「架電数を2倍に増やすことができ、大手企業との商談目標数に対して大きく貢献した」（https://www.sales-retriever.jp/cases/techtouch/・3回目）
+  - 「主なお客様は従業員が2000名以上の大手企業様となっており、社内システム向け・自社プロダクト向けとあらゆる業務システムの定着を「テックタッチ」を通じて支援しています」（https://www.sales-retriever.jp/cases/techtouch/・3回目）
+  - 「主な活動としては大手企業に対してアウトバウンド活動を中心としてアプローチを行い社内のAccount Executive(以下、AE)にアポイントを供給し、会社全体のパイプライン創出に貢献しています」（https://www.sales-retriever.jp/cases/techtouch/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「これにより、サポート工数を削減し、ユーザーの自己解決能力を高めることで、顧客満足度の大幅な向上を実現します」（https://techtouch.jp/・1回目）
+  - 「「テックタッチ」は、官公庁、自治体、大学等の団体におけるシステムの使いやすさを根本から変革します」（https://techtouch.jp/・1回目）
+  - 「「コラボフロー」、新規顧客の早期効果創出や、 既存顧客の満足度のさらなる向上のために「テックタッチ」を採用」（https://techtouch.jp/・1回目）
+  - 「金融DXの新基準｜システム改修を抑え、投資対効果を最大化するCX戦略【大手事例公開】」（https://techtouch.jp/・1回目）
+  - 「自治体DXとは？5つの課題から推進ポイント・先進事例まで解説」（https://techtouch.jp/・1回目）
+  - 「導入事例 | テックタッチ | 問い合わせを90%削減」（https://techtouch.jp/cases/・1回目）
+  - 「自社で開発・提供しているサービスに実装することで、サポート工数削減や顧客体験向上を実現したい企業向けのソリューションです」（https://techtouch.jp/cases/・1回目）
+  - 「中央省庁 / 自治体/ 独立行政法人/ 大学などの、公共機関や文教領域におけるシステムのユーザビリティ向上を実現できるソリューションです」（https://techtouch.jp/cases/・1回目）
+  - 「テックタッチ 導入事例集 - テックタッチ」（https://techtouch.jp/resources/techtouch-cases・1回目）
+  - 「複数システムの全社利用、経費精算、基幹、営業、人事、購買、ワークフロー、PLM、顧客向けシステム、コンタクトセンター、公共領域、AI活用まで幅広いカテゴリを網羅」（https://techtouch.jp/resources/techtouch-cases・1回目）
+  - 「自社の業界や部門に近い導入事例を探している方」（https://techtouch.jp/resources/techtouch-cases・1回目）
+  - 「慶應義塾大学法学部、コロンビア大学MBA卒」（https://techtouch.jp/company・1回目）
+- 資本金・株主：
+  - 「新生銀行、ドイツ証券などで投資銀行業務に従事、上場企業の資金調達/M&A案件を数多く手がける」（https://techtouch.jp/company・1回目）
+  - 「その後入社したユナイテッド社では、アプリ事業責任者、米国子会社代表としてアプリサービスのグロース/スケールを経験」（https://techtouch.jp/company・1回目）
+  - 「※ 登記簿に掲載されていない資金調達情報は除く」（https://herp.careers/careers/companies/techtouch・3回目）
+  - 「資本金：6億3,000万円」（https://www.bizreach.jp/companies/9400/・3回目）
+  - 「シリーズB資金調達の裏側： テックタッチはスタートアップ冬の時代になぜ20億円強を調達できたのか？｜Masaya Nakade / テックタッチ株式会社」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「シリーズB資金調達の裏側： テックタッチはスタートアップ冬の時代になぜ20億円強を調達できたのか？」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「17.8億円の資金調達」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「その後デットでの調達も合わせると、20億円強の資金調達になります」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「しっかりしたバリュエーション・資金調達金額」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「ぐらいの時間は事業に割きながら資金調達をしました（これは使いすぎ感は逆にあって、もう少し違う事をするべきな気もしますが、、ここはバックオフィスを見てくれている飯沼（ぬまぴーさん）のお陰なので彼には本当に感謝です）」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「新規のフォロー投資家様として、誰もが知っているであろう、大企業様のCVCやVC・出資アームの皆様にご出資頂きました」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「資金調達後に、シンガポールまで（自費で（笑））行き、海外投資家と話をしましたが、意外と興味を持ってもらい、それならもっと前に話しておいてもよかったかなとも感じましたが、結果は大満足のファイナンスだったので、今後のファイナンスでご一緒できればと今は考えています」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+- 表彰・認定の記録：
+  - 「「デジタルアダプションプラットフォーム部門」「カスタマーサクセスツール部門」「マニュアル作成ツール部門」の3部門で最高位「Leader」を受賞」（https://techtouch.jp/・1回目）
+  - 「SAP AWARD OF EXCELLENCE2023 Partner Innovationアワード 受賞」（https://techtouch.jp/company・1回目）
+  - 「ITreview 「ITreview Grid Award」3部門にて「Leaders」受賞」（https://techtouch.jp/company・1回目）
+  - 「日本DX大賞支援機関部門 ファイナリスト選出」（https://techtouch.jp/company・1回目）
+  - 「総務省後援 ASPIC IoT･AI･クラウドアワード 基幹業務系ASP・SaaS部門 準グランプリ 受賞」（https://techtouch.jp/company・1回目）
+  - 「・日本DX大賞支援機関部門 ファイナリスト選出（2022年）」（https://www.bizreach.jp/companies/9400/・3回目）
+  - 「・グッドデザイン賞 受賞（2022年度）」（https://www.bizreach.jp/companies/9400/・3回目）
+  - 「・総務省後援 ASPIC IoT･AI･クラウドアワード 基幹業務系ASP・SaaS部門 準グランプリ 受賞（2022年）」（https://www.bizreach.jp/companies/9400/・3回目）
+  - 「・SAP AWARD OF EXCELLENCE2023 Partner Innovationアワード 受賞（2023年）」（https://www.bizreach.jp/companies/9400/・3回目）
+  - 「・「ITreview Grid Award 2024 Fall」最高位である「Leader」を2部門で7期連続受賞（2024年）」（https://www.bizreach.jp/companies/9400/・3回目）
+  - 「■2025年の受賞実績」（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+  - 「・「ITreview Grid Award 2025 Fall」「Leader」2部門・11期連続受賞（2025年10月）」（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ｜DAPとAI関連サービスを提供 - テックタッチ — 会社概要 ｜DAPとAI関連サービスを提供 - テックタッチ テックタッチ https://techtouch.jp > company」（https://techtouch.jp/company/・3回目）
+  - 「テックタッチ 株式 会社 の企業 情報 - HERP Career — テックタッチ 株式 会社 の企業 情報 - HERP Career herp.careers https://herp.careers > careers > companies > techtouch」（https://herp.careers/careers/companies/techtouch・3回目）
+  - 「テックタッチ 株式 会社 の求人・採用 情報 - ビズリーチ — テックタッチ 株式 会社 の求人・採用 情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies」（https://www.bizreach.jp/companies/9400/・3回目）
+  - 「テックタッチ 株式 会社 の求人 - ReDesigner — テックタッチ 株式 会社 の求人 - ReDesigner ReDesigner https://redesigner.jp > companies」（https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1・3回目）
+  - 「テックタッチ 株式 会社 の転職・企業 概要 - doda — テックタッチ 株式 会社 の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10185755261」（https://doda.jp/DodaFront/View/Company/j_id__10185755261/・3回目）
+  - 「テックタッチ 、DAP市場で 売上 高5年連続No.1を ... - PR TIMES — テックタッチ 、DAP市場で 売上 高5年連続No.1を ... - PR TIMES PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000366.000048939.html・3回目）
+  - 「会社概要｜DAPとAI関連サービスを提供 - テックタッチ — 会社概要｜DAPとAI関連サービスを提供 - テックタッチ テックタッチ https://techtouch.jp > company」（https://techtouch.jp/company/・3回目）
+  - 「テックタッチ 株式会社の求人 - ReDesigner — テックタッチ 株式会社の求人 - ReDesigner ReDesigner https://redesigner.jp > companies」（https://redesigner.jp/companies/C85ef37e852eaa6225a2711c7e9c7c7f1・3回目）
+  - 「テックタッチ の年収は？平均年収や役職別年収を徹底解説 — テックタッチ の年収は？平均年収や役職別年収を徹底解説 リメディ株式会社 https://remedy-tokyo.co.jp > media」（https://remedy-tokyo.co.jp/media/8733/・3回目）
+  - 「テックタッチ 株式会社 - スピーダ スタートアップ情報リサーチ — テックタッチ 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-33095・3回目）
+  - 「テックタッチ はスタートアップ冬の時代になぜ20億円強を 調達 ... — テックタッチ はスタートアップ冬の時代になぜ20億円強を 調達 ... note https://note.com > 投資・マネー > 投資・マネー全般」（https://note.com/masaya_nakade/n/ne8518bb6aeac・3回目）
+  - 「スタートアップ、SaaSで合従連衡 テックタッチ は10社出資へ — スタートアップ、SaaSで合従連衡 テックタッチ は10社出資へ 日本経済新聞 https://www.nikkei.com > ビジネス > スタートアップ」（https://www.nikkei.com/article/DGXZQOUC224XD0S2A221C2000000/・3回目）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部27頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部27頁・検索11回）
+
 ## ネクサス・プラウド・インベストメント
 - 公式URL：https://nexas-proud-investment.com/（given）
 - 事業内容：・働く30代の資産形成に役立つ情報発信メディア「マニマニくん」の運営 ・自社ブランドREGOLITHシリーズの開発 ・不動産コンサルティング（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
@@ -1339,6 +3098,156 @@
 - 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索11回）
 - 客は誰か：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索11回）
+
+## ノロジーズ
+- 公式URL：https://technologies-group.co.jp/（given）
+- 事業内容：AWS」（https://technologies-group.co.jp/about-us/・1回目）
+- 資本金：6億3,030万円（https://technologies-group.co.jp/about-us/・1回目）
+- 資本金：630(百万円) 
+                                            (2026/1現在) 
+                                            日本基準（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+- 創業年度：設立：2014年8月5日（https://technologies-group.co.jp/about-us/・1回目）
+- 創業年度：設立年月日：2014年8月5日（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+- 従業員数：163人（https://technologies-group.co.jp/about-us/・1回目）
+- 従業員数：14 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+- 所在地：本社　〒108-0072 東京都港区白金1-27-6 白金高輪ステーションビル9F（https://technologies-group.co.jp/about-us/・1回目）
+- 所在地：〒108-0072 東京都港区白金１－２７－６　白金高輪ステーションビル 地図（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+- 代表者：良原　広樹（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「テクノロジーズグループが提供しているサービスをご紹介します」（https://technologies-group.co.jp/・1回目）
+  - 「登録範囲「派遣管理システム、及び、営業管理システムの」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「これまで弊社は、様々な分野の製品開発に携わり、また同時に自社プロダクトも開発、運営してまいりましたが、創業時の私達の想いは一度もブレておりません」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「SaaS事業におきましては、弊社が開発＆運営する中小の派遣会社様に向けて展開しているシステム「jobs（ジョブス）」の販売事業を中心に行っており、他のシステムとは一風違ったサービスとして、多くの企業様に大変好評を頂いております」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「当システムは、派遣会社をサポートする多くの機能を搭載していることに加え、LINEとの連携したり、システムの使い方を学ぶ為の時間的猶予がないであろう中小の派遣会社様へのユーザビリティー（UI/UX）にも徹底的にこだわりました」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「ソーラーテクノロジー事業（再生可能エネルギー事業）におきましては、ドローン（無人航空機）や３D（3次元）画像データ等の最先端技術を駆使し、太陽光発電設備の施工販売事業を行っております」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「人材派遣シスステム「jobs」プロジェクト始動」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「人材派遣シスステム「jobs」本格リリース」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「シリコンウェーハの再生、販売」（https://www.rs-tec.jp/corporate/company/・3回目）
+  - 「半導体材料・パーツ、電子材料、電子機器部品等の販売」（https://www.rs-tec.jp/corporate/company/・3回目）
+  - 「半導体シリコンウェーハ製造の技術コンサルティング」（https://www.rs-tec.jp/corporate/company/・3回目）
+  - 「テクノロジーズ【5248】の事業内容 - キタイシホン」（https://kitaishihon.com/company/5248/business・3回目）
+- 客は誰か：
+  - 「また機能面と使いやすさにも加えて、中小企業の真のソリューションとなるべく価格も業界最安値水準で提供している事もあり、導入企業数も順調に伸びております」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「中小企業にとってのソリューションツールとなるべく、価格は初期費用なし・月額３万円とし、また、LINEとの連携機能を除き定額で利用可能であり、利用制限がなく直感的に使えるUI/UX（※６）となるよう設計しております」（https://kitaishihon.com/company/5248/business・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「現在弊社は、「ITソリューション事業」、「SaaS事業」、「ソーラーテクノロジー事業（再生可能エネルギー事業）」の３事業を主軸に展開しております」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「開発実績としましては、AI領域におきましては、大手自動車メーカー向け自動運転アプリ、子供向けAI学習教材ロボ、AR（拡張現実）試着アプリ等があり、エンタメソフトウェア領域におきましては、LIVE配信アプリ、プロジェクションマッピング、ゲーム、遊技機、3Dデジタルサイネージ等多岐に渡り、クライアント企業様からのリピート率も80％以上と製品クオリティについてもご満足頂いております」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「また機能面と使いやすさにも加えて、中小企業の真のソリューションとなるべく価格も業界最安値水準で提供している事もあり、導入企業数も順調に伸びております」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「ソーラーテクノロジー事業（再生可能エネルギー事業）におきましては、ドローン（無人航空機）や３D（3次元）画像データ等の最先端技術を駆使し、太陽光発電設備の施工販売事業を行っております」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「日系メーカー企業にて中国、シンガポール、東南アジア、UAE、南アフリカの担当を歴任」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「アメリカン・ライフ・インシュアランス・カンパニー（現メットライフ生命保険株式会社）入社を経て、川合史郎公認会計士事務所の代表就任（現任）」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「慶應義塾大学卒業後、株式会社角川書店（現：株式会社 KADOKAWA）に入社」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「金融自動売買システム「SAZANAMI」プロジェクト始動」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「金融自動売買システム「SAZANAMI」運用スタート」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「建設業許可（特定建設業）、一級建築士事務所登録、無線局登録検査等事業者（点検のみ）、」（https://www.nhk-tech.co.jp/company/outline/・3回目）
+  - 「1 建設業許可」（https://www.nhk-tech.co.jp/company/outline/・3回目）
+  - 「建設業経理士（1級～2級）」（https://www.nhk-tech.co.jp/company/outline/・3回目）
+- 資本金・株主：
+  - 「上場企業にて決算・開示・監査対応等の経理業務全般に従事し、2007年4月に株式会社エディアに入社」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「取締役CFOとして2016年に同社を東証マザーズに上場させる」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「【テクノロジーズ】[5248]企業概要 社員数や役員報酬・資本金 | 日経電子版」（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+  - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+  - 「当社は事業持株会社であり、当連結会計年度末における当社の企業集団は、当社、当社子会社９社（うち、非連結子会社４社）、並びに関連会社１社（持分法非適用関連会社）によって構成されております」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「当社及び連結子会社の位置付け並びにセグメントとの関連は、以下のとおりであります」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「(注) １．当社は事業持株会社として、グループ全体の事業戦略策定・実行の他、子会社に対して経理、与信管理等の業務受託を含む経営管理業務を行っております」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「当社は、2023年７月27日付で太陽光発電設備の施工・販売を行う再エネソリューション事業を主たる事業とする株式会社エコ革を子会社化したことに伴い、2024年１月期第２四半期連結会計期間より、当社グループが営む事業として再エネソリューション事業が新たに加わりました」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「当社は、2025年５月29日付で格闘技ビジネスにおける企画・興行・DX化を行うスポーツDX事業を主たる事業とする株式会社マーシャルアーツテクノロジーズを合弁の形により設立、子会社化しました」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「当社グループ(当社、連結子会社)の財政状態、経営成績及びキャッシュ・フロー(以下、「経営成績等」という」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「以上の結果、当連結会計年度における当社グループの業績は、売上高が、10,149,087千円（前年増減率△26.99％）、営業利益は、1,872,225千円（前年増減率7.67％）、経常利益は、1,708,830千円（前年増減率4.82％）、親会社株主に帰属する当期純利益は、266,883千円（前年増減率0.35％）となりました」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「これは主に、利益余剰金が266,883千円増加したこと及び非支配株主持分が644,520千円増加したことによるものであります」（https://kitaishihon.com/company/5248/business・3回目）
+- 表彰・認定の記録：
+  - 「デロイトトーマツグループ テクノロジー企業成長率ランキング「2021年 日本テクノロジー Fast 50」1位受賞」（https://technologies-group.co.jp/about-us/・1回目）
+  - 「2024年度認定くるみんマーク」（https://www.nhk-tech.co.jp/company/outline/・3回目）
+- 検索結果の抜粋：
+  - 「【 テクノロジーズ 】[5248]企業 概要 社員数や役員報酬・ 資本金 — 【 テクノロジーズ 】[5248]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=5248・3回目）
+  - 「会社概要 - NHK テクノロジーズ — 会社概要 - NHK テクノロジーズ NHK テクノロジーズ https://www.nhk-tech.co.jp > company > outline」（https://www.nhk-tech.co.jp/company/outline/・3回目）
+  - 「会社概要 | 会社情報 - 株式会社 RSテクノロジーズ — 会社概要 | 会社情報 - 株式会社 RSテクノロジーズ 株式会社 RSテクノロジーズ https://www.rs-tec.jp > 会社情報」（https://www.rs-tec.jp/corporate/company/・3回目）
+  - 「会社概要 | 企業情報 | 株式会社GA technologies — 会社概要 | 企業情報 | 株式会社GA technologies 株式会社GA technologies - ジーエーテクノロジーズ https://www.ga-tech.co.jp > company > outline」（https://www.ga-tech.co.jp/company/outline/・3回目）
+  - 「デル・ テクノロジーズ (株)の 会社概要 | マイナビ2028 — デル・ テクノロジーズ (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp77451 > outline」（https://job.mynavi.jp/28/pc/search/corp77451/outline.html・3回目）
+  - 「テクノロジーズ 【5248】の 事業内容 - キタイシホン — テクノロジーズ 【5248】の 事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/5248/business・3回目）
+  - 「テクノロジーズ (5248) の企業概要・業績・財務・IR資料 — テクノロジーズ (5248) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/5248・3回目）
+  - 「株式会社 テクノロジーズ （5248）— 企業情報 | ENVALITH — 株式会社 テクノロジーズ （5248）— 企業情報 | ENVALITH ENVALITH https://envalith.com > companies > overview」（https://envalith.com/ja/companies/5248/overview・3回目）
+  - 「経営成績 | TECHNOLOGIES — 経営成績 | TECHNOLOGIES 株式会社テクノロジーズ https://technologies-group.co.jp > IR」（https://technologies-group.co.jp/ir/performance/・3回目）
+  - 「ドライバー テクノロジーズ がシリーズAで5.5億円 - note — ドライバー テクノロジーズ がシリーズAで5.5億円 - note note https://note.com > ビジネス > スタートアップ・VC」（https://note.com/drtc/n/n88ad9801c8fc・3回目）
+  - 「主要取引先 - TBグローバルテクノロジーズ株式会社 — 主要取引先 - TBグローバルテクノロジーズ株式会社 TBグローバルテクノロジーズ株式会社 https://www.tbgtech.co.jp > about > customers」（https://www.tbgtech.co.jp/about/customers/・3回目）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索11回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部20頁・検索11回）
+
+## ビッツ
+- 公式URL：https://www.bits.co.jp/（given）
+- 事業内容：ソフトウェア受託開発、自社ソフトウェア製品開発/販売（https://www.bits.co.jp/company/・1回目）
+- 事業内容：■事業内容 ビッツは【よりそえる　やさしい未来へ】をスローガンに、4つの分野をさらに磨き、社会に貢献する卓越したIT企業を目指します。 ＜ソフトウェア受託開発／ITインフラ構築＞ 01　ICT基盤分野 --------------------- 創業当初から蓄積された、通信・制御技術により、 様々なネットワークや社会インフラのICTに貢献しています。 ┣ 公共系システム（交通、空港、放送） ┣ 金融系システム（サーバー構築、ゲートウェイ） ┗ 通信系システム（光、マイクロ波、基地局、暗号化） 02　先端IT技術分野 --------------------- イノベーションをもたらす次世代の技術にチャレンジし、 社会に新たな価値を創りあげていきます。 ┣ IoT系システム（物流制御、屋内位置情報） ┣ ロボティクス系システム（自動運転、自立移動） ┗ モバイル系システム（秘匿通話、アプリ、5G） 03　DX推進分野 --------------------- 企業のIT導入やシステム開発をはじめ、様々な先進分野で ソリューションを提供し、ビジネスや社会のDXを推進します。 ┣ エンター（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+- 事業内容：■事業内容 ビッツは【よりそえる　やさしい未来へ】をスローガンに、4つの分野をさらに磨き、社会に貢献する卓越したIT企業を目指します。 ＜ソフトウェア受託開発／ITインフラ構築＞ 01　ICT基盤分野 --------------------- 創業当初から蓄積された、通信・制御技術により、 様々なネットワークや社会インフラのICTに貢献しています。 ┣ 公共系システム（交通、空港、放送） ┣ 金融系システム（サーバー構築、ゲートウェイ） ┗ 通信系システム（光、マイクロ波、基地局、暗号化） 02　先端IT技術分野 --------------------- イノベーションをもたらす次世代の技術にチャレンジし、 社会に新たな価値を創りあげていきます。 ┣ IoT系システム（物流制御、屋内位置情報） ┣ ロボティクス系システム（自動運転、自立移動） ┗ モバイル系システム（秘匿通話、アプリ、5G） 03　DX推進分野 --------------------- 企業のIT導入やシステム開発をはじめ、様々な先進分野で ソリューションを提供し、ビジネスや社会のDXを推進します。 ┣ エンター（https://job.mynavi.jp/27/pc/search/corp70974/outline.html・3回目）
+- 資本金：1億円（https://www.bits.co.jp/company/・1回目）
+- 資本金：1億円（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+- 資本金：1億円（https://job.mynavi.jp/27/pc/search/corp70974/outline.html・3回目）
+- 創業年度：設立：1971年（昭和46年）7月29日（https://www.bits.co.jp/company/・1回目）
+- 創業年度：設立：1971(昭和46)年7月（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+- 創業年度：設立：1971(昭和46)年7月（https://job.mynavi.jp/27/pc/search/corp70974/outline.html・3回目）
+- 従業員数：287人（2026年4月1日現在）（https://www.bits.co.jp/company/・1回目）
+- 従業員数：287人（2026年4月1日現在）（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+- 従業員数：287人（2026年4月1日現在）（https://job.mynavi.jp/27/pc/search/corp70974/outline.html・3回目）
+- 売上高：43億7,488万円（2026年3月・55期）（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+- 売上高：43億7,488万円（2026年3月・55期）（https://job.mynavi.jp/27/pc/search/corp70974/outline.html・3回目）
+- 所在地：本社 アクセスマップ 〒141-0001 東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F TEL：03-6842-5050 FAX：03-6842-5056 東北事業所 アクセスマップ 〒980-6016 宮城県仙台市青葉区中央4-6-1 SS30 16F TEL：022-224-5540 FAX：022-224-5541 関西事業所 アクセスマップ 〒541-0047 大阪府大阪市中央区淡路町3-6-3 御堂筋MTRビル 12F TEL：06-7664-0101 FAX：06-7664-0102（https://www.bits.co.jp/company/・1回目）
+- 所在地：管理本部 総務人事部・経理部・業務プロセス改革部 TEL：03-6842-5050 経営企画本部 事業推進室 TEL：03-6842-5050 営業統括部 リレーション営業部・新規開拓営業部 TEL：03-6842-5051 東京事業部 第1開発部・第2開発部・第3開発部 TEL：03-6842-5052（https://www.bits.co.jp/company/・1回目）
+- 所在地：〒141-0001 東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F TEL：03-6842-5050 ／ FAX：03-6842-5056（https://www.bits.co.jp/company/access.html/・1回目）
+- 主要取引先：株式会社アイネット アイリスオーヤマ株式会社 アルプスシステムインテグレーション株式会社 アンリツ株式会社 株式会社エクサ NECソリューションイノベータ株式会社 NECネッツエスアイ株式会社 NECプラットフォームズ株式会社 株式会社NTTデータNJK 株式会社クボタ 株式会社クレオ 株式会社光電製作所 コムチュア株式会社 株式会社コムニック 株式会社コンピュータシステム研究所 株式会社サイバーリンクス 株式会社GSユアサ JFEスチール株式会社 株式会社ジョイフル本田 住友電気工業株式会社 住友電工システムソリューション株式会社 星和電機株式会社 株式会社セック 株式会社テルミック 株式会社デンソーテン 東海エレクトロニクス株式会社 東京水道株式会社 株式会社東芝 トヨタ自動車株式会社 日本アイ・ビー・エム株式会社 日本アビオニクス株式会社 独立行政法人日本スポーツ振興センター 日本電気株式会社 日本電気航空宇宙システム株式会社 日本電気通信システム株式会社 公益財団法人日本盲導犬協会 パシフィックコンサルタンツ株式会社 パナソニック株式会社 日立建機株式会社 富士フイルムイメージ（https://www.bits.co.jp/company/・1回目）
+- 主要取引先：アイリスオーヤマ株式会社／アルプスシステムインテグレーション株式会社／アンリツ株式会社／株式会社エクサ／株式会社 NTTデータNJK／株式会社光電製作所／コムチュア株式会社／株式会社コムニック／株式会社コンピュータシステム研究所／株式会社サイバーリンクス／株式会社GSユアサ／JFEスチール株式会社／株式会社ジョイフル本田／住友電気工業株式会社／住友電工システムソリューション株式会社／株式会社セック／株式会社テルミック／株式会社デンソーテン／株式会社東芝／トヨタ自動車株式会社／独立行政法人日本スポーツ振興センター／日本電気株式会社／NECソリューションイノベータ株式会社／NECプラットフォームズ株式会社／日本電気航空宇宙システム株式会社／日本電気通信システム株式会社／公益財団法人日本盲導犬協会／日立建機株式会社／富士フイルムイメージングプロテック株式会社／株式会社堀場製作所／三井E&Sシステム技研株式会社／三菱電機株式会社／株式会社村田製作所（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+- 主要取引先：アイリスオーヤマ株式会社／アルプスシステムインテグレーション株式会社／アンリツ株式会社／株式会社エクサ／株式会社 NTTデータNJK／株式会社光電製作所／コムチュア株式会社／株式会社コムニック／株式会社コンピュータシステム研究所／株式会社サイバーリンクス／株式会社GSユアサ／JFEスチール株式会社／株式会社ジョイフル本田／住友電気工業株式会社／住友電工システムソリューション株式会社／株式会社セック／株式会社テルミック／株式会社デンソーテン／株式会社東芝／トヨタ自動車株式会社／独立行政法人日本スポーツ振興センター／日本電気株式会社／NECソリューションイノベータ株式会社／NECプラットフォームズ株式会社／日本電気航空宇宙システム株式会社／日本電気通信システム株式会社／公益財団法人日本盲導犬協会／日立建機株式会社／富士フイルムイメージングプロテック株式会社／株式会社堀場製作所／三井E&Sシステム技研株式会社／三菱電機株式会社／株式会社村田製作所（https://job.mynavi.jp/27/pc/search/corp70974/outline.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「2026年3月（55期）売上高 43億7,488万円」（https://www.bits.co.jp/company/・1回目）
+  - 「ソフトウェア受託開発、自社ソフトウェア製品開発/販売」（https://www.bits.co.jp/company/・1回目）
+  - 「かんたんWEB受発注システム「みえぞう楽市」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「写真から個人情報自動消去「キャラメル」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「米国LORD社製無線センシング製品販売開始」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「Web型在庫管理システム「みえぞう」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「RS-232/422/485/530モニタ「HM-R1」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「RS-232C/422/485モニタ「HM-2G」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「RS-232C/422モニタ「HM-2F」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「部品在庫管理システム（Windows版）開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「RS-232C/422モニタ「HM-3E」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「ISDNモニタ「HM－IN60」開発販売」（https://www.bits.co.jp/company/history.html/・1回目）
+- 客は誰か：
+  - 「第34回中小企業優秀技術・新技術賞ソフトウェア部門優良賞受賞」（https://www.bits.co.jp/company/history.html/・1回目）
+- 客の産業（導入事例・取引先）：
+  - 「東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F」（https://www.bits.co.jp/company/・1回目）
+  - 「東京都情報サービス産業健康保険組合（TJK）」（https://www.bits.co.jp/company/・1回目）
+  - 「本社移転 住友不動産大崎ツインビル東館 9階（東京都品川区）（7月1日）」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「金融系中継HUBシステム２」（https://www.bits.co.jp/development/・1回目）
+  - 「DPC包括評価方法に基づいたシステムと医療事務システムへのレセプト情報の連携システム開発システム全...」（https://www.bits.co.jp/development/・1回目）
+  - 「金融系中継HUBシステム１」（https://www.bits.co.jp/development/・1回目）
+  - 「某金融機関のシステムやDB間のデータ通信を各々のシステムに合わせてメッセージ変換し実行するシステ...」（https://www.bits.co.jp/development/・1回目）
+  - 「東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F」（https://www.bits.co.jp/company/access.html/・1回目）
+  - 「〒141-0001 東京都品川区北品川5-1-18 住友不動産大崎ツインビル東館 9F」（https://www.bits.co.jp/recruit/・1回目）
+  - 「また、企業が飛躍していくには、経営者と社員それぞれが、顧客と市場を創造する力「商才」を備えていることが必須条件だといえます」（https://www.bits.co.jp/company/message.html/・1回目）
+  - 「・電気エネルギーを大切に利用し、省エネルギー化に努める」（https://www.bits.co.jp/company/iso.html/・1回目）
+  - 「環境教育、社内広報活動等により、社員の環境保護への理解と意識の共有化を図る」（https://www.bits.co.jp/company/iso.html/・1回目）
+- 資本金・株主：
+  - 「資本金1億円に減資」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「資本金1億2,500万円に増資」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「資本金1億円に増資」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「資本金5,000万円に増資」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「設立、資本金300万円（港区三田）」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「これもひとえにお取引先様、株主様をはじめ、日頃よりビッツを応援して下さった皆様に支えていただいた賜物と感謝しております」（https://www.bits.co.jp/company/message.html/・1回目）
+  - 「(株)アドバンスト・メディア【東証グロース市場上場】」（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+  - 「テクマトリックス(株)【東証プライム市場上場】」（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+- 表彰・認定の記録：
+  - 「第34回中小企業優秀技術・新技術賞ソフトウェア部門優良賞受賞」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「ASPIC IoT・AI・クラウドアワード 先進技術賞受賞」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「東京メトロオープンデータ活用コンテスト 10thメトロ賞受賞」（https://www.bits.co.jp/company/history.html/・1回目）
+  - 「当社は、2020年6月30日より、一般財団法人日本情報経済社会推進協会（JIPDEC）から、プライバシーマーク付与事業者に認定されています」（https://www.bits.co.jp/company/iso.html/・1回目）
+  - 「当社では、皆様よりお預かりしている個人情報の保護を重要な責務と認識し、今後もプライバシーマーク認定事業者として、個人情報保護管理の徹底に努めてまいります」（https://www.bits.co.jp/company/iso.html/・1回目）
+- 検索結果の抜粋：
+  - 「企業 概要 ｜株式 会社ビッツ 【 BITS 】 — 企業 概要 ｜株式 会社ビッツ 【 BITS 】 株式会社ビッツ【BITS】 https://www.bits.co.jp > company」（https://www.bits.co.jp/company/・3回目）
+  - 「(株) ビッツ の 会社概要 | マイナビ2028 — (株) ビッツ の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp70974 > outline」（https://job.mynavi.jp/28/pc/search/corp70974/outline.html・3回目）
+  - 「株式 会社ビッツ - 伊達なICT-WORK — 株式 会社ビッツ - 伊達なICT-WORK 伊達なICT-WORK https://date.ict.miyagi.jp > 求人情報2027卒」（https://date.ict.miyagi.jp/recruit/bits/・3回目）
+  - 「株式 会社ビッツ の求人・企業 情報 - Daijob.com — 株式 会社ビッツ の求人・企業 情報 - Daijob.com Daijob.com https://www.daijob.com > jobs > company」（https://www.daijob.com/jobs/company/8003・3回目）
+  - 「企業概要｜株式会社 ビッツ 【 BITS 】 — 企業概要｜株式会社 ビッツ 【 BITS 】 株式会社ビッツ【BITS】 https://www.bits.co.jp > company」（https://www.bits.co.jp/company/・3回目）
+  - 「(株) ビッツ の新卒採用・会社概要 | マイナビ2027 — (株) ビッツ の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp70974 > outline」（https://job.mynavi.jp/27/pc/search/corp70974/outline.html・3回目）
+- 株主：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部20頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部20頁・検索11回）
 
 ## マテリアルエコリファイン
 - 公式URL：https://www.mmtc.co.jp/（given）
@@ -1408,6 +3317,92 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部10頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部10頁・検索11回）
 - 客は誰か：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部10頁・検索11回）
+
+## ムラオ
+- 公式URL：https://www.murao.com/（given）
+- 事業内容：貴金属の製造及び販売、宝飾品類の仕入及び販売（https://www.murao.com/aboutus/company.php・1回目）
+- 事業内容：◆創業の精神とメーカーとしての使命 株式会社ムラオは1972年の創業以来、ジュエリーの製造・卸を核とした事業を展開してきました。創業から50年以上が経過した今もなお、「消費者に永く愛される美しい商品、信頼できる商品を提供することで、お客様に喜んでいただく」という企業理念のもと、ものづくりと誠実なビジネスを続けています。ジュエリーという文化の源流から河口まで、すべての工程に深く関わることができるのが株式会社ムラオの最大の特長です。 ◆お客様のニーズに応える、二つのものづくりスタイル 株式会社ムラオのものづくりには、二つのスタイルがあります。一つは、株式会社ムラオが企画・デザインから製造まで一貫して手がけ、お客様のブランドを彩るオリジナル商品を生み出すスタイル。もう一つは、お客様がすでにお持ちのアイデアやデザインをもとに、株式会社ムラオの技術で形にするスタイルです。どちらも、株式会社ムラオの高い技術ときめ細かな品質管理体制が、お客様の期待に応える商品づくりを支えています。 ◆自社一貫生産体制と設備 株式会社ムラオの強みは、「モノづくりのすべてを自社でできること」です。つまり、商品を考えると（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 事業内容：・貴金属の製造及び販売 ・宝飾品類の仕入及び販売（https://syukatsu-kaigi.jp/companies/93232・3回目）
+- 資本金：1億円（https://www.murao.com/aboutus/company.php・1回目）
+- 資本金：1億円（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 資本金：100百万円（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+- 創業年度：創業：昭和47年（1972年）4月（https://www.murao.com/aboutus/company.php・1回目）
+- 創業年度：法人設立：昭和51年（1976年）3月（https://www.murao.com/aboutus/company.php・1回目）
+- 創業年度：創業/設立：1976年3月（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 従業員数：252名(臨時従業員含む)（https://www.murao.com/aboutus/company.php・1回目）
+- 従業員数：246名（2026年10月現在）（正社員、契約社員、嘱託社員およびパート社員を含む）（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 従業員数：191人 ※臨時従業員含む（https://syukatsu-kaigi.jp/companies/93232・3回目）
+- 売上高：222億6,016万円（2026年3月期）（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 売上高：222.6億円(2026年3月期)（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+- 売上高：72億2990万円 ※平成30年3月（https://syukatsu-kaigi.jp/companies/93232・3回目）
+- 株主：東京中小企業投資育成(株) ムラオ従業員持株会 (株)三井住友銀行 (株)三菱UFJ銀行 (株)りそな銀行 (株)みずほ銀行（https://www.murao.com/aboutus/company.php・1回目）
+- 所在地：〒101-0063 東京都千代田区神田淡路町1-23 TEL：03-3251-2428 FAX：03-5296-9235（https://www.murao.com/aboutus/company.php・1回目）
+- 所在地：東京都千代田区神田淡路町１丁目２３番地（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 所在地：101-0063　東京都千代田区神田淡路町1-23（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+- 代表者：村尾 嘉章（https://www.murao.com/aboutus/company.php・1回目）
+- 代表者：村尾　嘉章（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 代表者：村尾 嘉章（https://syukatsu-kaigi.jp/companies/93232・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「ムラオでは、企画やデザインから製造までを一貫して行うODM、」（https://www.murao.com/・1回目）
+  - 「お客様の企画に準じて設計・製造を行うOEM を承っております」（https://www.murao.com/・1回目）
+  - 「貴金属の製造及び販売、宝飾品類の仕入及び販売」（https://www.murao.com/aboutus/company.php・1回目）
+  - 「関西、中国、九州方面の販売網強化とサービス向上のため、大阪営業所開設」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「台東区上野に、販売網強化を目的に、子会社オーラム燦設立」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「ムラオでは、企画やデザインから製造までを一貫して行うODM、お客様の企画に準じて設計・製造を行うOEM を承っております」（https://www.murao.com/product.php・1回目）
+  - 「“海外販売の窓口は香港オフィスが担当します”」（https://www.murao.com/aboutus/offices.php・1回目）
+  - 「1991年10月、香港に子会社香港村尾を設立し、メイドインジャパンのチェーン・金具パーツ類の販売をスタートしました」（https://www.murao.com/aboutus/offices.php・1回目）
+  - 「株式会社ムラオは1972年の創業以来、ジュエリーの製造・卸を核とした事業を展開してきました」（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+  - 「一つは、株式会社ムラオが企画・デザインから製造まで一貫して手がけ、お客様のブランドを彩るオリジナル商品を生み出すスタイル」（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+  - 「チェーンを一から製造できる企業は国内に数社だけです」（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+  - 「チェーン製造には、素材の調達から精密な加工・品質管理まで、幅広い専門知識と経験が求められますが、株式会社ムラオはそのすべてを自社内で完結させることができます」（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+- 客は誰か：
+  - 「2016年にはアイランドシティーに拠点を移し、福岡都市圏という土地柄を生かして、大手企業や洋菓子店とも提携して業務を拡張し続けています」（https://www.murao.ne.jp/company・3回目）
+  - 「株式会社ムラオ｜投資企業検索｜東京中小企業投資育成株式会社」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+  - 「中小企業投資育成が認定する2,666社の優良企業」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+  - 「BtoBクラウドサービスのプロダクトデザインに関わる情報を発信します」（https://note.com/m_rakus/all・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「ムラオはジュエリーメーカーとして、長年培ってきた技術を駆使し、」（https://www.murao.com/・1回目）
+  - 「1972 年創業、千葉に自社工場をもつジュエリーメーカーです」（https://www.murao.com/・1回目）
+  - 「私たちはジュエリーメーカーとして責務を果たすべく、常に高品質な製品」（https://www.murao.com/・1回目）
+  - 「ムラオは、国内に工場をもつジュエリーメーカーです」（https://www.murao.com/・1回目）
+  - 「りそな銀行のカーボンオフセット付融資を受けたことにより、排出量100％オフセットを実現し、」（https://www.murao.com/・1回目）
+  - 「台東区上野に貴金属製品の部品卸を目的に子会社、樹絵里パーツ株式会社設立」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「ムラオはジュエリーメーカーとして、長年培ってきた技術を駆使し、高品質な製品をお客様にご提供していきます」（https://www.murao.com/product.php・1回目）
+  - 「メーカーであること、それはものづくりの根幹に関わっているということです」（https://www.murao.com/aboutus/ceo.php・1回目）
+  - 「本社営業部は常にお客様の視点を忘れずに大手小売店や卸問屋を中心に営業を行っています」（https://www.murao.com/aboutus/offices.php・1回目）
+  - 「外商課では主に卸屋や各地の百貨店を中心に、ダイヤモンドを中心とした製品を、現物商売をメインに行っております」（https://www.murao.com/aboutus/offices.php・1回目）
+  - 「会社案内 | 福岡の業務用野菜・果物卸業者 株式会社ムラオ商事」（https://www.murao.ne.jp/company・3回目）
+  - 「九州地方のお客様だけでなく、関東や関西の商社、さらには海外のお客様からも継続してご注文を承っております」（https://www.murao.ne.jp/company・3回目）
+- 資本金・株主：
+  - 「資本金1,000万円をもって株式会社ムラオ商店設立」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「資本金を4,000万円に増資」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「資本金を6,000万円に増資」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「台東区上野にショールームを目的に子会社、株式会社燦（サン）設立」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「台東区上野に貴金属製品の部品卸を目的に子会社、樹絵里パーツ株式会社設立」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「資本金を9,000万円に増資」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「資本金を1億5,000万円に増資」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「台東区上野に、販売網強化を目的に、子会社オーラム燦設立」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「資本金を1億9,200万円に増資」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「資本金を5億9,200万円に増資」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「香港に子会社、村尾珠賓配件有限公司設立」（https://www.murao.com/aboutus/history.php・1回目）
+  - 「香港の子会社を吸収合併するとともに、香港営業所開設」（https://www.murao.com/aboutus/history.php・1回目）
+- 表彰・認定の記録：
+  - 「】で21⁺金工部会賞を受賞致しました」（https://www.murao.com/・1回目）
+  - 「中小企業投資育成が認定する2,666社の優良企業」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+- 検索結果の抜粋：
+  - 「沿革 - ムラオ — 沿革 - ムラオ ムラオ https://www.murao.com > aboutus > history」（https://www.murao.com/aboutus/history.php・3回目）
+  - 「会社 案内 | 福岡の業務用野菜・果物卸業者 株式 会社ムラオ 商事 — 会社 案内 | 福岡の業務用野菜・果物卸業者 株式 会社ムラオ 商事 株式会社ムラオ商事 https://www.murao.ne.jp > company」（https://www.murao.ne.jp/company・3回目）
+  - 「株式 会社ムラオ - 東京カイシャハッケン伝 — 株式 会社ムラオ - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > murao」（https://www.kaisyahakken.metro.tokyo.lg.jp/company/murao・3回目）
+  - 「株式 会社ムラオ - 東京中小企業投資育成株式会社 — 株式 会社ムラオ - 東京中小企業投資育成株式会社 東京中小企業投資育成株式会社 https://www.sbic.co.jp > investeecompany > detail」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+  - 「株式会社 ムラオ の企業情報 - キャリタス就活 — 株式会社 ムラオ の企業情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp > detail-uc」（https://job.career-tasu.jp/corp/00213155/detail-uc/・3回目）
+  - 「株式会社 ムラオ - 東京中小企業投資育成株式会社 — 株式会社 ムラオ - 東京中小企業投資育成株式会社 東京中小企業投資育成株式会社 https://www.sbic.co.jp > investeecompany > detail」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+  - 「ムラオ の 新卒採用・就職・企業情報 - 就活会議 — ムラオ の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > ... > その他業界の企業一覧」（https://syukatsu-kaigi.jp/companies/93232・3回目）
+  - 「株式会社 ムラオ の企業情報 - バフェット・コード — 株式会社 ムラオ の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/cyhwd9vkfc/・3回目）
+  - 「ジュエリーメーカーの ムラオ 売上 高100億円へ - 繊研新聞 — ジュエリーメーカーの ムラオ 売上 高100億円へ - 繊研新聞 繊研新聞 https://senken.co.jp > posts > murao-230113」（https://senken.co.jp/posts/murao-230113・3回目）
+  - 「【株式会社ムラオ】ダイヤモンドジュエリー、ネックレス、チェーン、... — 東京中小企業投資育成 (株) ムラオ従業員持株会 (株)三井住友銀行 (株)三菱UFJ銀行 (株)りそな銀行 (株)みずほ銀行 取引銀行 (株)三井住友銀行神田支店 (株)三菱UFJ銀行堀留支店 (株)りそな銀行室町支店 (株)みずほ銀行丸の内中央支店 (株)商工組合中央金庫 押上 ...」（https://www.murao.com/aboutus/company.php・3回目）
+  - 「株式会社ムラオ｜投資企業検索｜東京中小企業投資育成株式会社【株式会社ムラオ】ダイヤモンドジュエリー、ネックレス、チェーン、...会社案内 | MORI PLANNING投資先 - 株式会社ムラオ - IR BANK株式会社ムロオ | 運ぶのは「鮮度」という価値。 — ワンストップサービスを心がけており、当社のショップで一通りの事が賄えるように商材の拡充とスタッフの接客、知識の習得に力を入れております。 主要取引先 全国卸商・専門店・百貨店 ムラオは、国内に工場をもつジュエリーメーカーです。 長年培ってきた技術を駆使し、内製化の技術開発を積極的に行い、「ものづくり」を常に進化させています。 幅広いご要望にお応えできる製品をお客様にご提供しています。 Apr 1, 2022 · 主要取引銀行 みずほ銀行 亀戸支店 三井住友銀行 錦糸町支店 東日本銀行 平井支店 東京東信用金庫 亀戸支店 主要取」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=567・3回目）
+  - 「【株式会社ムラオ】ダイヤモンドジュエリー、ネックレス、チェーン、... — ムラオは、国内に工場をもつジュエリーメーカーです。 長年培ってきた技術を駆使し、内製化の技術開発を積極的に行い、「ものづくり」を常に進化させています。 幅広いご要望にお応えできる製品をお客様にご提供しています。」（https://www.murao.com/・3回目）
+- 主要取引先：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部28頁・検索11回）
 
 ## ヤマップ
 - 公式URL：https://corporate.yamap.co.jp/（given）
@@ -1493,6 +3488,173 @@
   - 「株式会社 ヤマップ - スピーダ スタートアップ情報リサーチ — 株式会社 ヤマップ - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-11928・3回目）
   - 「株式会社 ヤマップ / YAMAP | 沿革 — 株式会社 ヤマップ / YAMAP | 沿革 株式会社ヤマップ / YAMAP https://corporate.yamap.co.jp > history」（https://corporate.yamap.co.jp/history・3回目）
 - 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索11回）
+
+## 中央エンジニアリング
+- 公式URL：https://www.chuo-eng.co.jp/（given）
+- 事業内容：航空宇宙・防衛・自動車・産業機械・情報通信分野における設計開発、モノづくり、ソフトウェア開発を中心としたワンストップエンジニアリングサービスの提供 解析・設計支援ツールの代理販売および技術サポートを通じた開発現場の課題解決支援（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 資本金：11,600万円(含 資本準備金)（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 創業年度：創業：1954年(昭和29年)9月（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 創業年度：設立：1955年(昭和30年)9月（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 従業員数：557名(2026年4月)（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 売上高：81億円(2026年3月)（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 所在地：本社/神奈川県横浜市港北区新横浜2-13-13　TPR新横浜ビル 3F 事業所については事業拠点を参照 所在地一覧（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 所在地：〒222-0033 神奈川県横浜市港北区新横浜2-13-13 TPR新横浜ビル 3F Google map（https://www.chuo-eng.co.jp/company/location/・1回目）
+- 所在地：〒222-0033 神奈川県横浜市港北区新横浜2-7-19 竹生第2ビル 7F Google map（https://www.chuo-eng.co.jp/company/location/・1回目）
+- 主要取引先：(株)IHI/インターステラテクノロジズ(株)/(国研)宇宙航空研究開発機構/ エアバス・ヘリコプターズ・ジャパン(株)/(株)NTTデータMHIシステムズ/ MHIエアロエンジンサービス(株)/(株)MHIロジテック/川崎重工業(株)/ (株)三進製作所/新明和工業(株)/新明工業(株)/(株)SkyDrive/ (株)SUBARU/SpaceBD(株)/(株)ゼネラル/ソニーグローバルM&O(株)/ ソニーセミコンダクタソリューションズ(株)/(株)ダイフク/ 東京エレクトロン宮城(株)/(株)豊田自動織機/(株)ニコン/ 富士通(株)/富士通ネットワークソリューションズ(株)/ 本田技研工業(株)/(株)本田技術研究所(株)ホンダ・レーシング/ 三菱重工業(株)/三菱重工航空エンジン(株)三菱ロジスネクスト(株)/村田機械(株) (五十音順)（https://www.chuo-eng.co.jp/company/profile/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「1954年創業以来、機械設計のパイオニアとして長年培ってきた高い技術力で受託開発・派遣開発等、事業形態を問わず技術サービスを提供しています」（https://www.chuo-eng.co.jp/・1回目）
+  - 「生産技術においては、製造方法の設計・評価や製造技術の構築、新規製造技術の開発など図面を製品化する際のサポートが可能です」（https://www.chuo-eng.co.jp/・1回目）
+  - 「故齋田重行が東京都大田区東六郷にて機械設計請負業を個人創業」（https://www.chuo-eng.co.jp/company/history/・1回目）
+  - 「1954年、東京大田区で機械設計請負業を創業して以来、機械設計のパイオニアとして、無限の資源である「創造力」と、社員一丸となって先進技術に取り組む「挑戦心」をもって、我が国の産業の発展に貢献してまいりました」（https://www.chuo-eng.co.jp/company/message/・1回目）
+  - 「解析・設計支援ツールの代理販売および技術サポートを通じた開発現場の課題解決支援」（https://www.chuo-eng.co.jp/company/profile/・1回目）
+  - 「取得適用：インダストリアルソリューションセグメント（請負作業のみ）」（https://www.chuo-eng.co.jp/company/quality/・1回目）
+  - 「取得適用：エアロスペースセグメント・マニュファクチャリングソリューションセンター・CAEセンター・ソフトウェアソリューション部（請負作業のみ）、経営戦略本部（総務部/人事部）」（https://www.chuo-eng.co.jp/company/quality/・1回目）
+  - 「生産設備からプラントまで、製造現場の効率化を叶える設計・製作」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「★前期比14億円増の125％成長！！4期連続増収で過去最高売上を達成！！」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「故斎田重行が東京都大田区にて機械設計請負業を個人創業」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「現在も機械系が主力ですが、電気電子系や情報通信、ソフトウェア分野にも展開しています」（https://dx-consulting.cocoo.co.jp/case/chuo-engineering・3回目）
+  - 「さらに、供試体や試験機などを製造して納めさせていただくモノづくりも行っています」（https://dx-consulting.cocoo.co.jp/case/chuo-engineering・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「一般建設業の許可(国土交通大臣許可(般-23)第24191号)を取得」（https://www.chuo-eng.co.jp/company/history/・1回目）
+  - 「名古屋市中村区名駅南に名古屋事務所を開設し、名古屋事業本部および教育センターを移転」（https://www.chuo-eng.co.jp/company/history/・1回目）
+  - 「スケジュールとリスク管理の徹底による納期厳守と顧客満足度向上」（https://www.chuo-eng.co.jp/company/quality/・1回目）
+  - 「顧客の要求事項を的確に理解し、顧客満⾜の向上を⽬指す」（https://www.chuo-eng.co.jp/company/quality/・1回目）
+  - 「1. エネルギー効率の良い製品を産み出す設計技術」（https://www.chuo-eng.co.jp/company/sustainability/・1回目）
+  - 「製品のコンセプトづくりからメーカーとともに行い、機械設計・電気電子設計・ソフトウェア設計、その先の製作まで、「モノづくり」のすべてを手掛けています」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「国家的な宇宙機器開発プロジェクトや、大手メーカー・研究機関との取引実績は、私たちの確かな技術力の証です」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「2ヶ月間の充実した新人研修に加え、 キャリアアップを支援する教育制度が整っています」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「新エネルギー、医療機器といった未来の社会課題を解決する分野への挑戦」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「専門技術研修やビジネススキルアップ研修、TOEIC対策講座などの社外研修や通信教育の受講を助成」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「旭川工業高等専門学校、阿南工業高等専門学校、有明工業高等専門学校、石川工業高等専門学校、一関工業高等専門学校、茨城工業高等専門学校、宇部工業高等専門学校、大分工業高等専門学校、大阪公立大学工業高等専門学校、沖縄工業高等専門学校、香川高等専門学校、鹿児島工業高等専門学校、北九州工業高等専門学校、岐阜工業高等専門学校、釧路工業高等専門学校、久留米工業高等専門学校、呉工業高等専門学校、高知工業高等専門学校、仙台高等専門学校、津山工業高等専門学校、鶴岡工業高等専門学校、東京工業高等専門学校、東京都立産業技術高等専門学校、苫小牧工業高等専門学校、長野工業高等専門学校、名古屋工学院専門学校、奈良工業高等専門学校、新居浜工業高等専門学校、沼津工業高等専門学校、函館工業高等専門学校、八戸工業高等専門学校、福井工業高等専門学校、福島工業高等専門学校、松江工業高等専門学校、都城工業高等専門学校」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「導入事例｜株式会社中央エンジニアリング様｜コクー株式会社」（https://dx-consulting.cocoo.co.jp/case/chuo-engineering・3回目）
+- 資本金・株主：
+  - 「資本金60万円で「株式会社中央設計所」を設立」（https://www.chuo-eng.co.jp/company/history/・1回目）
+  - 「米国子会社「Chuo USA Inc.」を設立」（https://www.chuo-eng.co.jp/company/history/・1回目）
+  - 「資本金60万円で「(株) 中央設計所」を設立」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「ジャパンエレベーターサービスホールディングス(株)【東証プライム上場】」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「(株)ソフトウェア・サービス【東証スタンダード上場】」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「アプライドグループ＜アプライド(株)【東証スタンダード市場上場】他＞」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「まだ道のりは長いものの、持続的な株主価値の創出に向けて正しい一歩を踏み出しています」（https://note.com/american_stock/n/nc9940d43a9ea・3回目）
+  - 「これには、米国政府からの加速された資金供給、NVIDIAおよびソフトバンクグループからの重要な出資、そしてAlteraとMobileyeの一部持分の資金化が含まれます」（https://note.com/american_stock/n/nc9940d43a9ea・3回目）
+  - 「NVIDIAによる50億ドルの出資は第4四半期末までにクローズする見込みです」（https://note.com/american_stock/n/nc9940d43a9ea・3回目）
+  - 「当社の管理下にある事柄を厳格にマネジメントし、環境の変化に迅速に対応し、長期的な株主価値の創造に注力します」（https://note.com/american_stock/n/nc9940d43a9ea・3回目）
+  - 「こうした協業の発表や出資は、その自信の高まりに寄与しているのでしょうか」（https://note.com/american_stock/n/nc9940d43a9ea・3回目）
+  - 「売上に対するOpEx比率に規律を持ち、レバレッジを効かせたいと考えていますが、株主に大きなリターンをもたらし得る投資機会も見出しており、その実行をためらうことはありません」（https://note.com/american_stock/n/nc9940d43a9ea・3回目）
+- 表彰・認定の記録：
+  - 「経済産業省 健康経営優良法人2022認定取得」（https://www.chuo-eng.co.jp/company/history/・1回目）
+  - 「「健康経営優良法人2026（大規模法人部門）」に認定」（https://www.chuo-eng.co.jp/company/health/・1回目）
+  - 「「健康経営優良法人2026（大規模法人部門）」認定を取得いたしました」（https://www.chuo-eng.co.jp/company/health/・1回目）
+  - 「「健康経営優良法人2026(大規模法人部門)」に認定」（https://www.chuo-eng.co.jp/company/sustainability/・1回目）
+  - 「健康経営優良法人2022認定取得」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「企業 概要 ｜株式 会社 中央エンジニアリング — 企業 概要 ｜株式 会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > profile」（https://www.chuo-eng.co.jp/company/profile/・3回目）
+  - 「(株) 中央エンジニアリング の 会社概要 | マイナビ2028 — (株) 中央エンジニアリング の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp77304 > outline」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「中央エンジニアリング 株式 会社 — 中央エンジニアリング 株式 会社 chuo-eg.co.jp http://chuo-eg.co.jp > profile > profile」（http://chuo-eg.co.jp/profile/profile.html・3回目）
+  - 「株式 会社中央エンジニアリング の企業 情報 - キャリタス就活 — 株式 会社中央エンジニアリング の企業 情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp > detail-uc」（https://job.career-tasu.jp/corp/00036828/detail-uc/・3回目）
+  - 「中央エンジニアリング の企業データ - 高専プラス — 中央エンジニアリング の企業データ - 高専プラス 高専プラス https://kosen-plus.com > ... > 中央エンジニアリング」（https://kosen-plus.com/company/20faca1a-270f-439c-828b-938e8ebe5409/info/・3回目）
+  - 「企業 概要 ｜株式会社 中央エンジニアリング — 企業 概要 ｜株式会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > profile」（https://www.chuo-eng.co.jp/company/profile/・3回目）
+  - 「(株) 中央エンジニアリング の会社 概要 | マイナビ2028 — (株) 中央エンジニアリング の会社 概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp77304 > outline」（https://job.mynavi.jp/28/pc/search/corp77304/outline.html・3回目）
+  - 「中央エンジニアリング の 事業 ｜技術のブレインパートナー — 中央エンジニアリング の 事業 ｜技術のブレインパートナー 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > business」（https://www.chuo-eng.co.jp/business/・3回目）
+  - 「#3092 決算分析 : 株式会社 中央エンジニアリング 第71期決算 ... — #3092 決算分析 : 株式会社 中央エンジニアリング 第71期決算 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2025/09/10」（https://ryo-nakamura1.hatenablog.jp/entry/2025/09/10/180000_2・3回目）
+  - 「中央エンジニアリング の 将来性・業績・ 売上 に関する評判 ... — 中央エンジニアリング の 将来性・業績・ 売上 に関する評判 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths」（https://syukatsu-kaigi.jp/companies/104306/post_items/6/word_mouths・3回目）
+  - 「企業概要｜株式会社 中央エンジニアリング — 企業概要｜株式会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > profile」（https://www.chuo-eng.co.jp/company/profile/・3回目）
+  - 「沿革｜株式会社 中央エンジニアリング — 沿革｜株式会社 中央エンジニアリング 株式会社中央エンジニアリング https://www.chuo-eng.co.jp > company > history」（https://www.chuo-eng.co.jp/company/history/・3回目）
+- 株主：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部20頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部20頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式10頁／PDF・画像1件／外部20頁・検索11回）
+
+## 協和合金
+- 公式URL：https://kyowagokin.co.jp/（given）
+- 事業内容：金属部品の開発、製造、販売（https://kyowagokin.co.jp/company/・1回目）
+- 事業内容：2D/3D外観検査装置の開発 3Dスキャナ開発/製造/販売 3Dアプリケーション開発 Windows・Linux・Androidアプリ開発（https://kyowagokin.co.jp/company/・1回目）
+- 事業内容：電子機器開発/製造（https://kyowagokin.co.jp/company/・1回目）
+- 資本金：4億1,187万円（https://kyowagokin.co.jp/company/・1回目）
+- 資本金：21億円（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+- 資本金：4億1187万円（https://syukatsu-kaigi.jp/companies/80303・3回目）
+- 創業年度：創立：1947年（昭和22年）1月13日（https://kyowagokin.co.jp/company/・1回目）
+- 創業年度：創立：1995年（平成7年）（https://kyowagokin.co.jp/company/・1回目）
+- 創業年度：創立：2005年（平成17年）（https://kyowagokin.co.jp/company/・1回目）
+- 従業員数：105名（2026年4月現在）（https://kyowagokin.co.jp/company/・1回目）
+- 従業員数：223名（2025年4月現在）（https://kyowagokin.co.jp/company/・1回目）
+- 従業員数：2名（2025年4月現在）（https://kyowagokin.co.jp/company/・1回目）
+- 売上高：30億円 ※2019年3月（https://syukatsu-kaigi.jp/companies/80303・3回目）
+- 売上高：43億6,000万円（https://www.navida.ne.jp/snavi/mk043.html・3回目）
+- 所在地：本社 / 本社工場 〒236-0002 神奈川県横浜市金沢区鳥浜町17-4 TEL: 045-772-1331 FAX:045-772-1338 福浦工場 〒236-0004 神奈川県横浜市金沢区福浦1-7-2 TEL: 045-784-7800 FAX:045-784-7801（https://kyowagokin.co.jp/company/・1回目）
+- 所在地：〒300-1234 茨城県牛久市中央3-22-1 土曜館ビル202号（https://kyowagokin.co.jp/company/・1回目）
+- 所在地：〒216-0022 神奈川県川崎市宮前区平5-3-9 NTJビル（https://kyowagokin.co.jp/company/・1回目）
+- 代表者：代表取締役社長　　髙島 眞吾（https://kyowagokin.co.jp/company/・1回目）
+- 代表者：髙島 眞澄（https://syukatsu-kaigi.jp/companies/80303・3回目）
+- 代表者：髙島　眞吾（https://prtimes.jp/main/html/searchrlp/company_id/188179・3回目）
+- 主要取引先：日野自動車株式会社 いすゞ自動車株式会社 日産自動車株式会社 株式会社ＳＵＢＡＲＵ 株式会社アイシン 株式会社クボタ 株式会社小松製作所（https://kyowagokin.co.jp/company/・1回目）
+- 主要取引先：爱信中国投资（Aisin (China) Investment）、東安動力（Harbin Dongan Auto Engine）、重慶青山（Chongqing Tsingshan Industrial）、比亜迪（BYD）（https://kyowagokin.co.jp/company/・1回目）
+- 主要取引先：Renault（https://kyowagokin.co.jp/company/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「金属部品の開発、製造、販売」（https://kyowagokin.co.jp/company/・1回目）
+  - 「の株式配当金を主な財源として、奨学金事業を運営しております」（https://kyowagokin.co.jp/company/・1回目）
+  - 「3Dスキャナ開発/製造/販売」（https://kyowagokin.co.jp/company/・1回目）
+  - 「中国・武漢に武漢泛洲機械製造有限公司との合弁会社、武漢協和歯環有限公司を設立」（https://kyowagokin.co.jp/company/・1回目）
+  - 「技術紹介｜協和合金株式会社｜設計から検査まで一貫生産体制の横浜市の金属加工」（https://kyowagokin.co.jp/technology/・1回目）
+  - 「また、金型などの準備がいらないため、初期投資が少なく済むことや、多品種少量生産に向いていることから、1個でも多量でも個数に比例した費用で製造することが可能です」（https://kyowagokin.co.jp/technology/・1回目）
+  - 「電気を通す素材であれば、硬くても問題なく加工できるので、金型など、高い強度が求められる部品の製造に使用されます」（https://kyowagokin.co.jp/technology/・1回目）
+  - 「金属部品の開発、製造、販売を主力事業とする」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「温間鍛造、切削加工、放電加工、樹脂射出成型、アルミダイカストといった多様な製造技術を有し、特に自動車部品分野では、マニュアルトランスミッション用のシンクロナイザーやシフトフォークの開発・製造に長年携わってきた」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「これらの製品は、熱間鍛造、冷間プレス、切削加工、放電加工、樹脂射出成型、アルミダイカストといった複数の製造技術を組み合わせることで生産される」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「協和合金株式会社はマニュアルトランスミッション(MT)車に搭載される、シンクロナイザーリングの製造販売を主力とする研究開発型企業です」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+  - 「私たちの主力製品が搭載されているMT車は、一部のスポーツタイプの車のための特殊な仕様という印象もあるかもしれませんが、世界基準で見るとむしろスタンダードと言えます」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+- 客は誰か：
+  - 「経済産業省・中小企業庁「元気なモノ作り中小企業300社 2008」に選出」（https://kyowagokin.co.jp/company/・1回目）
+  - 「主要取引先は、日野自動車、いすゞ自動車、日産自動車、SUBARU、アイシン、クボタ、小松製作所など、自動車および建設機械業界の大手企業が名を連ねる」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「潤沢な自己資金を活用した、異業種の技術系中小企業の」（https://ryo-nakamura1.hatenablog.jp/entry/2025/08/18/080000・3回目）
+  - 「金融業と製造業の文化の違いを体感し、中小企業経営の根本たるものとは何なのかと模索していました」（https://tgnr.jp/company/kyowagokin/・3回目）
+  - 「また、これまで弊社の主な取引先は完成車メーカーやミッションメーカーといった大手企業や海外企業が中心で、地元企業との商取引はほとんどありませんでした」（https://tgnr.jp/company/kyowagokin/・3回目）
+  - 「経済産業省・中小企業庁「元気なモノ作り中小企業300社 2008」に選出」（https://tgnr.jp/company/kyowagokin/・3回目）
+  - 「中小企業様向け福利厚生サービス グリーンカード」（https://www.navida.ne.jp/snavi/mk043.html・3回目）
+  - 「【PR】中小企業とその従業員を応援する共済制度」（https://www.navida.ne.jp/snavi/mk043.html・3回目）
+  - 「【新規掲載！】SCI総合研究所株式会社（横浜市）：DXを何から始めるか迷う中小企業へ」（https://www.navida.ne.jp/snavi/mk043.html・3回目）
+  - 「【リニューアル】株式会社Ringing（横浜市）：クラウドPBX・Asterisk対応のソフトフォン&チャット統合型の法人向けIP電話アプリ」（https://www.navida.ne.jp/snavi/mk043.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「シンクロナイザー専用工場建設（横浜市磯子区）」（https://kyowagokin.co.jp/company/・1回目）
+  - 「本社を横浜市に移し鍛造工場新設（横浜市鶴見区）」（https://kyowagokin.co.jp/company/・1回目）
+  - 「富士重工業（株）、海外自動車メーカーへ納入開始」（https://kyowagokin.co.jp/company/・1回目）
+  - 「大型自動車メーカーへ 鉄・樹脂複合型シンクロリング納入開始」（https://kyowagokin.co.jp/company/・1回目）
+  - 「建設機械用構成部品｜協和合金株式会社｜設計から検査まで一貫生産体制の横浜市の金属加工」（https://kyowagokin.co.jp/works/%E5%BB%BA%E8%A8%AD%E6%A9%9F%E6%A2%B0%E7%94%A8%E6%A7%8B%E6%88%90%E9%83%A8%E5%93%81/・1回目）
+  - 「アルミ鋳造・ダイカストの総合メーカーとして、」（https://www.kgoukin.co.jp/about/・3回目）
+  - 「主要取引先は、日野自動車、いすゞ自動車、日産自動車、SUBARU、アイシン、クボタ、小松製作所など、自動車および建設機械業界の大手企業が名を連ねる」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「国内に本社工場と福浦工場を有し、従業員数は105名（2025年4月現在）」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「ブランドの垣根を越えた国内外の幅広い自動車メーカー、トラックメーカー、トランスミッションメーカーと直接取引ができているのは、独立企業としてどの企業グループにも属さずに事業を行っているからです」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+  - 「商社を通すことなく各社に携わることができ、モデルチェンジなどの開発段階から関わっています」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+  - 「スキルアップ、教育体制」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+  - 「以前は、カーメーカーとの繋がりが太く、技術交流もあったが、次第にそれが薄れてゆき、開発力が低下・技術継承上手くでき...」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+- 資本金・株主：
+  - 「お客様よりご評価を頂くと共に、協力会社様・株主様・従業員に恵まれ2022年には創業75周年を迎える事が出来ました」（https://kyowagokin.co.jp/company/・1回目）
+  - 「私たちはこれまでの年月で培った技術力やノウハウを活かし、自動車業界にとどまらず、あらゆる物事を前向きにかつ楽しみながら挑戦し、お客様・協力会社様・株主様・従業員の夢や期待に応えられる企業であり続けたいと考えております」（https://kyowagokin.co.jp/company/・1回目）
+  - 「インドネシア・ブカシに子会社 PT.Kyowa Synchro Technology Indonesiaを設立」（https://kyowagokin.co.jp/company/・1回目）
+  - 「1947年（昭和22年）1月に創業し、資本金は4億1,187万円」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「・PT. Kyowa Synchro Technology Indonesia(インドネシアにおける子会社)」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+  - 「資本金約4.1億円に対し、利益剰余金が約15.3億円と潤沢に積み上がっていることからも、長年にわたり着実に利益を蓄積してきた優良企業であることが分かります」（https://ryo-nakamura1.hatenablog.jp/entry/2025/08/18/080000・3回目）
+  - 「資本金: 411,870千円」（https://ryo-nakamura1.hatenablog.jp/entry/2025/08/18/080000・3回目）
+  - 「創業時の社名は栗原工業株式会社で、創業者である栗原義潤は第二次大戦後に中国から帰国し、出資者から資金を募って会社を立ち上げたと聞いています」（https://tgnr.jp/company/kyowagokin/・3回目）
+  - 「出資者は主に親族が中心で、髙島家も出資者の中に名を連ねていました」（https://tgnr.jp/company/kyowagokin/・3回目）
+  - 「また海外にも事業を展開しており、中国、フランス、インド、インドネシアに合弁会社や子会社を設立しています」（https://tgnr.jp/company/kyowagokin/・3回目）
+  - 「そうして取締役会及び株主総会の承認を経て、4代目の代表取締役社長に就任しました」（https://tgnr.jp/company/kyowagokin/・3回目）
+  - 「父はかつて「海外展開を進める」「トヨタと取引をする」「上場を目指す」という3つの目標を掲げていました」（https://tgnr.jp/company/kyowagokin/・3回目）
+- 表彰・認定の記録：
+  - 「鉄・樹脂複合型シンクロナイザーリング開発により神奈川工業技術開発大賞受賞」（https://kyowagokin.co.jp/company/・1回目）
+  - 「鉄・樹脂複合型シンクロナイザーリング開発により神奈川工業技術開発大賞受賞」（https://tgnr.jp/company/kyowagokin/・3回目）
+- 検索結果の抜粋：
+  - 「会社 案内｜ 協和合金 株式 会社 — 会社 案内｜ 協和合金 株式 会社 協和合金 https://kyowagokin.co.jp > company」（https://kyowagokin.co.jp/company/・3回目）
+  - 「会社概要 - 協和合金工業株式会社 — 会社概要 - 協和合金工業株式会社 協和合金工業株式会社 https://www.kgoukin.co.jp > about」（https://www.kgoukin.co.jp/about/・3回目）
+  - 「協和合金 株式 会社 | 加工 会社 ナビ - 営業製作所 — 協和合金 株式 会社 | 加工 会社 ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 神奈川県の加工会社」（https://eigyo-mfg.com/service/navi/company/aUQ3CzvPCNxI・3回目）
+  - 「協和合金 株式 会社 | 一般社団法人 横浜金沢産連協 — 協和合金 株式 会社 | 一般社団法人 横浜金沢産連協 sanrenkyo.jp https://www.sanrenkyo.jp > location-co」（https://www.sanrenkyo.jp/location-co/co311/・3回目）
+  - 「協和合金 株式 会社 — 協和合金 株式 会社 全国企業データベース https://companydata.tsujigawa.com > company2」（https://companydata.tsujigawa.com/company2/3020001006108/・3回目）
+  - 「協和合金 の 新卒採用・就職・企業情報 - 就活会議 — 協和合金 の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies」（https://syukatsu-kaigi.jp/companies/80303・3回目）
+  - 「#1879 決算分析 : 協和合金 株式会社 第85期決算 当期純利益 75 ... — #1879 決算分析 : 協和合金 株式会社 第85期決算 当期純利益 75 ... 決算公告データ倉庫 https://ryo-nakamura1.hatenablog.jp > entry > 2025/08/18」（https://ryo-nakamura1.hatenablog.jp/entry/2025/08/18/080000・3回目）
+  - 「会社案内｜ 協和合金 株式会社 — 会社案内｜ 協和合金 株式会社 協和合金 https://kyowagokin.co.jp > company」（https://kyowagokin.co.jp/company/・3回目）
+  - 「協和合金 株式会社 - 横浜ものづくり・製造業マッチングサイト — 協和合金 株式会社 - 横浜ものづくり・製造業マッチングサイト 公益財団法人横浜企業経営支援財団 https://matching.idec.or.jp > 協和合金株式会社」（https://matching.idec.or.jp/%E5%8D%94%E5%92%8C%E5%90%88%E9%87%91%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE・3回目）
+  - 「協和合金 株式会社 の企業情報 | バフェット・コード — 協和合金 株式会社 の企業情報 | バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/bruve2lrh7/・3回目）
+  - 「協和合金 株式会社のプレスリリース｜PR TIMES — 協和合金 株式会社のプレスリリース｜PR TIMES PR TIMES https://prtimes.jp > main > html > searchrlp > company_id」（https://prtimes.jp/main/html/searchrlp/company_id/188179・3回目）
+  - 「協和合金 株式会社(神奈川県 横浜市金沢区) - ツグナラ — 協和合金 株式会社(神奈川県 横浜市金沢区) - ツグナラ tgnr.jp https://tgnr.jp > company > kyowagokin」（https://tgnr.jp/company/kyowagokin/・3回目）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部17頁・検索11回）
 
 ## 協栄プリント技研
 - 公式URL：https://www.kpg.jp/（given）
@@ -1652,6 +3814,94 @@
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索11回）
 - 客は誰か：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部20頁・検索11回）
 
+## 国分
+- 公式URL：https://www.kokubu.co.jp/（given）
+- 事業内容：酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業　ほか（https://www.kokubu.co.jp/company/outline/・1回目）
+- 事業内容：酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか（https://www.kokubu.co.jp/company/group/・1回目）
+- 事業内容：酒類・食品卸売業（https://www.kokubu.co.jp/company/group/・1回目）
+- 資本金：35億円（https://www.kokubu.co.jp/company/outline/・1回目）
+- 資本金：35億円 （2024年12月31日） [ 1 ]（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 資本金：35億円（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 創業年度：設立：1947年11月21日（https://www.kokubu.co.jp/company/outline/・1回目）
+- 創業年度：設立：1947年（ 昭和 22年）11月21日 創業は1712年（ 正徳 2年）（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 創業年度：設立：2011年（平成23年）1月4日（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 従業員数：5,696名（連結：2025年12月31日現在）（https://www.kokubu.co.jp/company/outline/・1回目）
+- 従業員数：連結：5127名 （2024年12月31日現在）（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 従業員数：4,698 名（連結：2011年12 月31日現在）（https://www.uchida.co.jp/system/cocktail/jirei/0057/・3回目）
+- 売上高：2,243,180百万円（連結：2025年12月期）（https://www.kokubu.co.jp/company/outline/・1回目）
+- 売上高：連結：2兆1573億7500万円 （2024年12月期） [ 1 ]（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 売上高：7億5,600万円 （2025年12月期） [ 2 ]（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 株主：19,341 0.86％ 110.8％（https://www.kokubu.co.jp/company/results/・1回目）
+- 株主：国分ホールディングス 100.0%（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 所在地：〒103-8241 東京都中央区日本橋1-1-1 地図 TEL：03-3276-4000（代表）／FAX：03-3271-6523（https://www.kokubu.co.jp/company/outline/・1回目）
+- 所在地：日本 〒 103-8241 東京都 中央区 日本橋 1丁目1番1号（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 所在地：日本 〒 103-0027 国分グループ本社に同じ（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 代表者：代表取締役会長 兼 CEO 國分 勘兵衛（https://www.kokubu.co.jp/company/outline/・1回目）
+- 代表者：12代目國分勘兵衛（ 代表取締役 会長 兼 CEO ） 國分晃（代表取締役 社長 執行役員 COO ）（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 代表者：12代目國分勘兵衛（代表取締役社長）（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「持続可能な社会の実現に向けたメッセージをご紹介します」（https://www.kokubu.co.jp/・1回目）
+  - 「環境方針や気候変動に対する取り組み、食品廃棄物の発生を最小限に抑える取り組みなどをご紹介します」（https://www.kokubu.co.jp/・1回目）
+  - 「人権の尊重や持続可能なサプライチェーンの構築、また食を通じたウェルビーイングの実現について紹介しています」（https://www.kokubu.co.jp/・1回目）
+  - 「国分グループのコーポレート・ガバナンスに対する考え方とスタンスについてご紹介します」（https://www.kokubu.co.jp/・1回目）
+  - 「国分グループが行う環境や地域、社会に関わるサステナビリティ活動をご紹介します」（https://www.kokubu.co.jp/・1回目）
+  - 「国分グループが取り組んできた数々の活動の中から、特に大きな気づきや変化が生まれた事例を特集記事としてご紹介します」（https://www.kokubu.co.jp/・1回目）
+  - 「食のバリューチェーンを全方位で支え、進化し続ける国分グループの多角的なビジネスをご紹介します」（https://www.kokubu.co.jp/・1回目）
+  - 「国分は、食品卸売業としてメーカー商品を取り扱うとともに「K&K」をはじめとする国分ブランド商品の開発、販売を行っています」（https://www.kokubu.co.jp/・1回目）
+  - 「地酒の美味しさ、楽しさをご紹介」（https://www.kokubu.co.jp/・1回目）
+  - 「国分グループが歩んできた300年以上の歴史を、社会の出来事とともにご紹介します」（https://www.kokubu.co.jp/company/・1回目）
+  - 「現在、アジア、ヨーロッパ、北米を中心に海外62か国へ食品・酒類を販売しています」（https://www.kokubu.co.jp/company/・1回目）
+  - 「国分グループの2025年12月期の連結売上高は2兆2431億円です」（https://www.kokubu.co.jp/company/・1回目）
+- 客は誰か：
+  - 「専門商社の売上・年収ランキング！転職にお勧めの大手企業一覧【2025年】」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+  - 「最近よく聞くホールディングス化！なぜ多くの中小企業が実施しているのか？」（https://www.youtube.com/watch?v=ahR2FBj1D_U・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「食品「卸売業」として、日本全国に「食」を届けています」（https://www.kokubu.co.jp/・1回目）
+  - 「卸売業という流通での立ち位置を最大限に活かし、さまざまなパートナーと手を携え共通の目標に向かって進んでいきます」（https://www.kokubu.co.jp/・1回目）
+  - 「「卸売」を軸に、物流・海外・商品開発、そして価値共創へ」（https://www.kokubu.co.jp/・1回目）
+  - 「国分は、食品卸売業としてメーカー商品を取り扱うとともに「K&K」をはじめとする国分ブランド商品の開発、販売を行っています」（https://www.kokubu.co.jp/・1回目）
+  - 「酒類・食品卸売業として、日本全国に「食」を届けています」（https://www.kokubu.co.jp/company/・1回目）
+  - 「食のインフラを担う卸売業として、」（https://www.kokubu.co.jp/company/・1回目）
+  - 「明治初期には醤油醸造業から撤退し、食品卸売業に転換しています」（https://www.kokubu.co.jp/company/・1回目）
+  - 「328か所の物流センターによって国内全域をカバーをする物流ネットワークを形成しています」（https://www.kokubu.co.jp/company/・1回目）
+  - 「また、中国、アセアン地域での物流機能も発揮しています」（https://www.kokubu.co.jp/company/・1回目）
+  - 「約10,000社のメーカーさまとのお取引を通じて、お客さまのニーズにお応えしています」（https://www.kokubu.co.jp/company/・1回目）
+  - 「酒類・食品・関連消費財にわたる卸売業及び流通加工、配送業務、貿易業、不動産賃貸借業 ほか」（https://www.kokubu.co.jp/company/outline/・1回目）
+  - 「全国各地、世界各国から厳選して調達した食品・飲料を、小売業や飲食店に安定的に供給しています」（https://www.kokubu.co.jp/business/・1回目）
+- 資本金・株主：
+  - 「国内外37のグループ子会社と21の関連会社により国分グループを形成しています」（https://www.kokubu.co.jp/company/・1回目）
+  - 「資本金を35億円に増資」（https://www.kokubu.co.jp/company/history/・1回目）
+  - 「食品専門分析機関のユーロフィンQKEN(株)（旧(株)キューサイ分析研究所）へ出資」（https://www.kokubu.co.jp/company/history/・1回目）
+  - 「1712年創業、資本金35億円、従業員5,127名、売上高2兆1,573億円の安定した企業です」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「・資本金 35億円」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「・資本金 14億5,000万円」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「・資本金 5億円」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「・資本金 11億1,000万円」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「中国のワイン輸入販売会社 「ASC ファインワインズ ホールディング」に出資」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「イボウ三慧物流有限公司（中華人民共和国山東省）を子会社化」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「①同年11月をめどに、国分子会社の国分フードクリエイトが森永乳業子会社のデイリーフーズ（現・森永乳業販売）の家庭用冷凍食品の卸売事業を吸収分割で承継」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+  - 「“非上場の親会社等の決算に関するお知らせ”」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+- 表彰・認定の記録：
+  - 「「健康経営優良法人2023」に認定」（https://www.kokubu.co.jp/company/history/・1回目）
+  - 「各エリアにおいて、地域の食文化に精通し、地域に根差した商品を発掘・選定」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「「VPortについては貿易部の担当者たちが、貿易業務のパッケージ選定を行い、最終的に決定しました」（https://www.uchida.co.jp/system/cocktail/jirei/0057/・3回目）
+  - 「つのエリアカンパニーを拠点に、各地域のお客様に寄り添った地域密着型の商品の発掘・選定と提案を行っています」と同社 執行役員 業務改革推進部長の酒井宏高氏は語ります」（https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html・3回目）
+  - 「が選定された際、最後まで候補として残っていた」（https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ｜ 会社情報 ｜ 国分 グループ本社株式会社 — 会社概要 ｜ 会社情報 ｜ 国分 グループ本社株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > 会社情報 > 会社概要」（https://www.kokubu.co.jp/company/outline/・3回目）
+  - 「国分 グループの新卒採用・ 会社概要 | マイナビ2027 — 国分 グループの新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp201052 > outline」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「会社概要 ｜ 会社情報 ｜ 国分 九州株式会社 — 会社概要 ｜ 会社情報 ｜ 国分 九州株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > ホーム > 会社情報 > 会社概要」（https://www.kokubu.co.jp/kyushu/company/outline/・3回目）
+  - 「国分 グループ本社 - Wikipedia — 国分 グループ本社 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 国分グループ本社」（https://ja.wikipedia.org/wiki/%E5%9B%BD%E5%88%86%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%9C%AC%E7%A4%BE・3回目）
+  - 「業績｜会社情報｜ 国分 グループ本社株式会社 — 業績｜会社情報｜ 国分 グループ本社株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > 会社情報 > 業績」（https://www.kokubu.co.jp/company/results/・3回目）
+  - 「国分 グループの新卒採用・会社概要 | マイナビ2027 — 国分 グループの新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp201052 > outline」（https://job.mynavi.jp/27/pc/search/corp201052/outline.html・3回目）
+  - 「国分 の特長｜会社情報｜ 国分 グループ本社株式会社 — 国分 の特長｜会社情報｜ 国分 グループ本社株式会社 国分グループ本社株式会社 https://www.kokubu.co.jp > 会社情報 > 国分の特長」（https://www.kokubu.co.jp/company/characteristic/・3回目）
+  - 「国分 news｜2025年度 売上 高2兆2432億円4.0%増･経常利益296 ... — 国分 news｜2025年度 売上 高2兆2432億円4.0%増･経常利益296 ... 流通スーパーニュース https://news.shoninsha.co.jp > financial」（https://news.shoninsha.co.jp/financial/300116・3回目）
+  - 「国分 グループ本社 株式 会社との資本業務提携ならびに第三者 ... — 国分 グループ本社 株式 会社との資本業務提携ならびに第三者 ... 大和インベスター・リレーションズ PDF https://www.daiwair.co.jp > td_download」（https://www.daiwair.co.jp/td_download.cgi?c=2884&i=2184672・3回目）
+  - 「国分 グループ本社 株式 会社 — 国分 グループ本社 株式 会社 スピーダ スタートアップ情報リサーチ https://initial.inc > investors > finance-news」（https://initial.inc/investors/V06070/finance-news・3回目）
+  - 「米国最大級の日本酒ECを運営するTippsy、 国分 グループ本社 ... — 米国最大級の日本酒ECを運営するTippsy、 国分 グループ本社 ... PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000007.000039087.html・3回目）
+  - 「国分 グループ本社株式会社様: 導入事例 - NEC — 国分 グループ本社株式会社様: 導入事例 - NEC NEC https://jpn.nec.com > ... > 導入事例」（https://jpn.nec.com/softwarerobotsolution/case/kokubu/index.html・3回目）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部28頁・検索11回）
+
 ## 大東建託リーシング
 - 公式URL：https://www.kentaku-leasing.co.jp/（given）
 - 事業内容：不動産賃貸仲介事業 不動産仲介関連サービス事業 不動産売買事業 保険代理店業務（https://www.kentaku-leasing.co.jp/company/・1回目）
@@ -1735,6 +3985,96 @@
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部16頁・検索11回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部16頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部16頁・検索11回）
+
+## 小松ばね工業
+- 公式URL：https://www.komatsubane.com/（given）
+- 資本金：100百万円（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+- 資本金：1億円（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+- 資本金：10,000万円（https://www.mirai-ota.net/company/detail/61・3回目）
+- 創業年度：創業年月日：1941年（昭和16年）5月23日（https://www.komatsubane.com/company/・1回目）
+- 創業年度：会社設立：1952年（昭和27年）12月1日（https://www.komatsubane.com/company/・1回目）
+- 創業年度：設　立：1952年(創業1941年)（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+- 従業員数：69人（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+- 従業員数：70人（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+- 従業員数：67人（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+- 売上高：9.1億円(2026年3月期)（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+- 所在地：東京都大田区大森南5丁目3番18号（https://www.komatsubane.com/company/・1回目）
+- 所在地：143-0013　東京都大田区大森南5-3-18（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+- 所在地：〒143-0013 東京都大田区大森南5-3-18（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+- 代表者：小松　万希子（https://www.komatsubane.com/company/・1回目）
+- 代表者：代表取締役社長　小松　万希子（https://www.mirai-ota.net/company/detail/61・3回目）
+- 代表者：小松　万希子（https://www.bic-akita.or.jp/guide/company/company_list/2955/・3回目）
+- 主要取引先：アルプス電気、日本モレックス、ＴＩ　Ｗａｌｂｒｏ　Ｊａｐａｎ、日立Astemo、キャノン、ニコン、ペンタックス、㈱ミクニ、セイコーエプソン（https://www.bic-akita.or.jp/guide/company/company_list/2955/・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「加工技術、表面処理などが出展し、製造業の設計、開発、試作、製造、生産技術、」（https://www.komatsubane.com/・1回目）
+  - 「12月27日 生産・販売の増加により法人化して、商号 有限会社小松製作所として発足」（https://www.komatsubane.com/company/history/・1回目）
+  - 「自動車部品・電気機器等の業界の分野に進出し、関係メーカ各社に販売を開始」（https://www.komatsubane.com/company/history/・1回目）
+  - 「販路拡大に伴い別に販売会社として「新小松ばね工業株式社を設立し営業部門を独立」（https://www.komatsubane.com/company/history/・1回目）
+  - 「経営合理化のため販売会社新小松ばね工業株式会社を吸収合併」（https://www.komatsubane.com/company/history/・1回目）
+  - 「小松ばね工業株式会社が実施する「ばね」の製造活動において、「お客様に必要とされる」を経営理念とし、「お客様第一主義に徹する」と言う基本方針のもと、企業発展の原理「成長と拡大」「安定」を同時に遂行することを継続する」（https://www.komatsubane.com/csr2/・1回目）
+  - 「事業内容、事業を取り巻く状況、事業と環境のかかわりによって変化する課題とチャンスを必要に応じて見直しをする」（https://www.komatsubane.com/csr2/・1回目）
+  - 「5）原材料の効率的な使用による、製造廃棄物の削減」（https://www.komatsubane.com/csr2/・1回目）
+  - 「製造工程での端材や副産物は再資源化を推進し、事務作業ではペーパーレス化や節水にも配慮」（https://www.komatsubane.com/esg/・1回目）
+  - 「以来「精密ばね」の製造、販売を全て受注生産で対応しており、精密かつ正確な製品づくり、品質管理の徹底、納期の厳守、コストの低減化を実現してまいりました」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+  - 「小松ばね工業株式会社 - 東京都・金属部品製造業界の企業情報 | Baseconnect」（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+  - 「超精密スプリング専門メーカーとしてコイルばねやトーションばねを製造する会社」（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+- 客は誰か：
+  - 「「第一回 元気なモノ作り中小企業300社」入選（経済産業省 中小企業庁 選定）」（https://www.komatsubane.com/company/history/・1回目）
+  - 「4月小松節子（会長）が中小企業振興功労として「旭日単光章」叙勲」（https://www.komatsubane.com/company/history/・1回目）
+  - 「小松ばね工業株式会社｜投資企業検索｜東京中小企業投資育成株式会社」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+  - 「中小企業投資育成が認定する2,666社の優良企業」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+  - 「小松：世間では、「日本のモノづくりは中小企業の技術が支えている」と言われていて、そういうイメージもあると思います」（https://idstr.jp/jp/articles/01_ko/・3回目）
+  - 「小松ばね工業株式会社 | 医療機器開発のパートナーが探せるサイト「ものづくり中小企業技術シーズ」」（https://tokyo-monodukuri-seeds.jp/corporate/115/・3回目）
+  - 「・第一回 「元気なモノ作り中小企業300 社」入選」（https://www.mirai-ota.net/company/detail/61・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「来場者数：ものづくりワールド東京、建設DX展プラス、物流DX展の来場者数合計」（https://www.komatsubane.com/・1回目）
+  - 「加工技術、表面処理などが出展し、製造業の設計、開発、試作、製造、生産技術、」（https://www.komatsubane.com/・1回目）
+  - 「その後、仙台市外に工場を移転」（https://www.komatsubane.com/company/history/・1回目）
+  - 「工場疎開より復帰、線ばねを主として生産開始」（https://www.komatsubane.com/company/history/・1回目）
+  - 「生産設備増強と需要の増加により、東京第二工場を新設」（https://www.komatsubane.com/company/history/・1回目）
+  - 「秋田県仙北郡（現：大仙市）太田町に秋田太田町工場新設」（https://www.komatsubane.com/company/history/・1回目）
+  - 「7月11日天皇陛下ご視察（本社工場）」（https://www.komatsubane.com/company/history/・1回目）
+  - 「9月船岡工場老朽化により、大河原工場に移転、工場新設」（https://www.komatsubane.com/company/history/・1回目）
+  - 「平成23年度大田区「優工場」認定「総合部門賞」」（https://www.komatsubane.com/company/history/・1回目）
+  - 「当社の発祥は1941（昭和16）年、現在の本社（東京都大田区）において創業者小松謙一が、ばね工場「小松製作所」を創立いたしました」（https://www.komatsubane.com/company/message/・1回目）
+  - 「創業当初は、主にカメラシャッタ用の精密ばねの専門工場として発展して参りました」（https://www.komatsubane.com/company/message/・1回目）
+  - 「各業界の要望に応えて、光学機器・医療機器・時計・電気機器・通信機器・OA 機器・家電・自動車部品・宝飾品・文具・その他精密機器用ばねの部門に漸次販路を広め、また技術も一段と幅広くなり、特に超精密ばねの技術においては、他の追随を許さないものと誇りを持っております」（https://www.komatsubane.com/company/message/・1回目）
+- 資本金・株主：
+  - 「払込資本金 1億円」（https://www.komatsubane.com/company/・1回目）
+  - 「株式会社に改組と同時に商号を変更（資本金400万円）」（https://www.komatsubane.com/company/history/・1回目）
+  - 「転換社債を株式に転換し資本金に繰入れ、払込資本金13,180万円となる」（https://www.komatsubane.com/company/history/・1回目）
+  - 「6月資本金減資 1億円」（https://www.komatsubane.com/company/history/・1回目）
+  - 「2月子会社：PT.KOMATSUBANE INDONESIA 移転」（https://www.komatsubane.com/company/history/・1回目）
+  - 「企業の社会的責任を果たすため、お客様、株主、従業員、取引先、地域社会など、すべてのステークホルダーとの対話を重視しています」（https://www.komatsubane.com/esg/・1回目）
+  - 「【子会社】西ジャワ・プルワカルタ（インドネシア）」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+  - 「社名＝小松ばね工業株式会社、住所＝〒143-0013 東京都大田区大森南5-3-18、社長＝小松万希子、資本金＝1億円、事業内容＝精密ばね製造」（https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761・3回目）
+  - 「製造拠点は、東京都大田区、宮城県大河原町、秋田県太田町の3カ所にあり、海外ではインドネシアに子会社を持つ」（https://idstr.jp/jp/articles/01_ko/・3回目）
+  - 「八九年秋田太田町工場新設、九二年同第二工場増設に続き、九五年頃からはアジア各地を視察して回り、九七年にインドネシアに子会社を設立した」（https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php・3回目）
+  - 「資本金...1億円」（https://konosuke-matsushita.com/column/keieij/shimei-komatsu2.php・3回目）
+  - 「（子会社）ＰＴ．ＫＯＭＡＴＳＵＢＡＮＥ ＩＮＤＯＮＥＳＩＡ、（宮城県）大河原工場」（https://www.bic-akita.or.jp/guide/company/company_list/2955/・3回目）
+- 表彰・認定の記録：
+  - 「「第一回 元気なモノ作り中小企業300社」入選（経済産業省 中小企業庁 選定）」（https://www.komatsubane.com/company/history/・1回目）
+  - 「平成23年度大田区「優工場」認定「総合部門賞」」（https://www.komatsubane.com/company/history/・1回目）
+  - 「1月小松節子（会長）「第34回優秀経営者顕彰 女性経営者賞 受賞」日刊工業新聞社主催」（https://www.komatsubane.com/company/history/・1回目）
+  - 「7月地域未来索引企業(経済産業省)に選定される」（https://www.komatsubane.com/company/history/・1回目）
+  - 「中小企業投資育成が認定する2,666社の優良企業」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+  - 「国際規格などの取得状況／主な表彰履歴／開発実績 等」（https://www.mirai-ota.net/company/detail/61・3回目）
+  - 「大田区「優工場」認定 2012年取得」（https://www.mirai-ota.net/company/detail/61・3回目）
+- 検索結果の抜粋：
+  - 「会社 沿革 | 小松ばね工業 株式 会社 — 会社 沿革 | 小松ばね工業 株式 会社 小松ばね工業株式会社 https://www.komatsubane.com > 会社概要」（https://www.komatsubane.com/company/history/・3回目）
+  - 「小松ばね工業 株式 会社 - 中小企業投資育成 — 小松ばね工業 株式 会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+  - 「小松ばね工業 株式会社の 会社概要 ・製品情報 - Metoree — 小松ばね工業 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/16964/・3回目）
+  - 「小松ばね工業 株式 会社 - 東京カイシャハッケン伝 — 小松ばね工業 株式 会社 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > komatsubane」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/komatsubane/・3回目）
+  - 「小松ばね工業 | 企業情報 | イプロスものづくり — 小松ばね工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託」（https://mono.ipros.com/company/detail/344124/・3回目）
+  - 「小松ばね工業 株式会社 - 東京都・金属部品製造業界の企業情報 — 小松ばね工業 株式会社 - 東京都・金属部品製造業界の企業情報 Baseconnect https://baseconnect.in > companies」（https://baseconnect.in/companies/32628846-3c96-4710-85cf-aa933f530aad・3回目）
+  - 「小松ばね工業 株式会社 - 中小企業投資育成 — 小松ばね工業 株式会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=282・3回目）
+  - 「小松ばね工業 — 小松ばね工業 小松ばね工業株式会社 https://www.komatsubane.com」（https://www.komatsubane.com/・3回目）
+  - 「超精密・高品質への挑戦～ 小松ばね工業 ・小松万希子社長（3） — 超精密・高品質への挑戦～ 小松ばね工業 ・小松万希子社長（3） 松下幸之助.com https://konosuke-matsushita.com > keieij > shimei-komatsu3」（https://konosuke-matsushita.com/column/keieij/shimei-komatsu3.php・3回目）
+  - 「小松ばね工業 株式会社 東京都 大田区 — 小松ばね工業 株式会社 東京都 大田区 エミダス https://ja.nc-net.or.jp > company」（https://ja.nc-net.or.jp/company/46916/・3回目）
+  - 「中小社長コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note — 中小社長コラム⑮株式散逸、母と娘の奮闘／ 小松ばね工業 - note note https://note.com > ビジネス > キャリア・働き方」（https://note.com/tsugiyuki_toppa/n/n6dd7ea88d761・3回目）
+  - 「小松ばね工業 / インタビュー - INDUSTRIAL JP — 小松ばね工業 / インタビュー - INDUSTRIAL JP INDUSTRIAL JP https://idstr.jp > articles」（https://idstr.jp/jp/articles/01_ko/・3回目）
+- 事業内容：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索11回）
+- 株主：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部14頁・検索11回）
 
 ## 日本空港ビルデング
 - 公式URL：https://www.tokyo-airport-bldg.co.jp/（given）
@@ -2068,6 +4408,79 @@
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部15頁・検索11回）
 
+## 炎重工
+- 公式URL：https://hmrc.co.jp/（given）
+- 資本金：224百万円 (資本準備金含む。2025年12月時点)（https://www.futaba.co.jp/info/3344・3回目）
+- 創業年度：設立：2016/02（https://initial.inc/companies/A-26549・3回目）
+- 創業年度：設立：2016年2月（https://www.futaba.co.jp/info/3344・3回目）
+- 株主：VCあり, 事業会社あり, 公的機関資金支援あり（https://initial.inc/companies/A-26549・3回目）
+- 所在地：岩手県滝沢市穴口57-9（https://initial.inc/companies/A-26549・3回目）
+- 所在地：岩手県滝沢市（https://www.futaba.co.jp/info/3344・3回目）
+- 代表者：古澤　洋将（https://initial.inc/companies/A-26549・3回目）
+- 代表者：古澤　洋将（https://www.futaba.co.jp/info/3344・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「炎重工株式会社｜国産水上ドローン(USV/ASV)の開発・製造」（https://hmrc.co.jp/・1回目）
+  - 「水上と水中ドローン (USV + ROV) の事例紹介を公開しました」（https://hmrc.co.jp/・1回目）
+  - 「水上ドローン (USV/ASV)、受託造船、遠隔監視用水中カメラ、及び 生体群制御® など水域における「制御技術」を活用した屋外向け自動化製品 及び サービスの企画・開発・製造・販売・保守・輸出等」（https://hmrc.co.jp/company/・1回目）
+  - 「水上ドローン (USV / ASV) の製造体制」（https://hmrc.co.jp/company/・1回目）
+  - 「秋田伝統の漬物 いぶりがっこ狼煙の製造販売も行っています」（https://hmrc.co.jp/case/006/・1回目）
+  - 「屋外専用のロボット会社というコンセプトのもと、1年計画で動くプロジェクトの受託業務を中心に行い、遠隔モニタリング用水中カメラや産業用CPUボード、船舶ロボット「Marine Drone」などの自社製品開発につなげた」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「ですから私は、1年に一度売り上げがあれば継続できるモデルの方が安全だと考え、1年計画で動くようなプロジェクトの受託を中心に行いました」」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「「逆に簡単な仕事は他の会社に紹介することもあって」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「炎重工の事業を大きく分けると、研究開発、製品開発、受託開発の3つになる」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「その上で、1年単位の屋外の開発案件を受託」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「・受託開発で収入を確保しながら実績を重ね、「難しいものこそ炎重工へ」という共通認識が顧客との間に生まれる」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「当社は、国産水上ドローン（USV（Unmanned Surface Vehicle）／ASV（Autonomous Surface Vehicle））の開発・製造を手掛ける炎重工株式会社（本社：岩手県滝沢市、代表取締役：古澤洋将、以下「炎重工」）の株式を取得し、グループ化を決定しましたのでお知らせいたします」（https://www.futaba.co.jp/info/3344・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「水上ドローンの製品群を東北の工場で開発・生産してきました」（https://hmrc.co.jp/・1回目）
+  - 「岩手県滝沢市出身、兼業農家」（https://hmrc.co.jp/company/・1回目）
+  - 「岩手県立盛岡北高等学校 卒業、筑波大学 第三学群 工学システム学類 卒業 及び 筑波大学大学院 システム情報工学研究科 博士前期課程を修了し、CYBERDYNE株式会社に入社」（https://hmrc.co.jp/company/・1回目）
+  - 「ロボットスーツHAL福祉用及び医療用の電装系設計に従事」（https://hmrc.co.jp/company/・1回目）
+  - 「三菱東京UFJ銀行 CEO人材育成プログラム M-EIR 第1期生 (2017)」（https://hmrc.co.jp/company/・1回目）
+  - 「量産製品は、東北地域・特に岩手県を中心とした協力工場 (ISO9001) 様へ委託を行っています」（https://hmrc.co.jp/company/・1回目）
+  - 「【事例】水辺を自由に動く床「海床ロボット」｜竹中工務店様｜炎重工株式会社」（https://hmrc.co.jp/case/005/・1回目）
+  - 「越谷レイクタウンウォーターサイドフェス「Lake and Peace 2022」にて、水上移動屋台による飲食を検証したシーン」（https://hmrc.co.jp/case/005/・1回目）
+  - 「その可能性を広げるために竹中工務店様が企画し、炎重工がロボット開発の主軸として参加して生まれたのが、」（https://hmrc.co.jp/case/005/・1回目）
+  - 「竹中工務店様は運用設計や実証環境の整備を担当し、炎重工はロボットの安定運用と技術提供を担いました」（https://hmrc.co.jp/case/005/・1回目）
+  - 「この取り組みは、竹中工務店様と炎重工だけで進められてきたわけではありません」（https://hmrc.co.jp/case/005/・1回目）
+  - 「構造設計、環境センシング、デジタルファブリケーション、安全性検証、保険設計、学術研究など、多様な専門領域のメンバーが協働することで、海床ロボットの社会実装に向けた体制が整えられています」（https://hmrc.co.jp/case/005/・1回目）
+- 資本金・株主：
+  - 「モリオカベンチャーキャピタル株式会社 / DRONE FUND株式会社 / アグリビジネス投資育成株式会社 / いわぎん事業創造キャピタル株式会社 / 株式会社IGPIグループ」（https://initial.inc/companies/A-26549・3回目）
+  - 「DRONE FUNDが、自動運転船舶ロボット「Marine Drone」を開発する炎重工株式会社への出資を実行」（https://initial.inc/companies/A-26549・3回目）
+  - 「岩手新事業創造ファンド、屋外環境型ロボット等開発の炎重工に出資」（https://initial.inc/companies/A-26549・3回目）
+  - 「炎重工株式会社の株式の取得（子会社化）に関するお知らせ」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「の株式を取得し、子会社化することについて決議いたしましたので、お知らせいたします」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「２．異動する子会社の概要」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「(5) 資本金 114 百万円」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「(7) 大株主および持株数比率 株式会社雉 56.6％、その他個人株主等」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「(8) 上場会社と」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「(3) 上場会社 と」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「(注)その他株主についても、記載すべき資本関係・人的関係・取引関係はありません」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「自動運転船舶ロボット「Marine Drone」を提供する炎重工株式会社が資金調達を実施｜STARTUP LOG｜スタートアップの挑戦を、もっと身近に｜スタログ｜STALOG｜」（https://startuplog.com/n/nd4f3dd9bbbee?gs=757ad99ec55fd003aff9b5bae1482faa・3回目）
+- 表彰・認定の記録：
+  - 「「岩手県発明協会会長賞」を受賞いたしました」（https://hmrc.co.jp/・1回目）
+  - 「CEATEC Award2021 スタートアップ＆ユニバーシティ部門 準グランプリ 受賞」（https://hmrc.co.jp/company/・1回目）
+  - 「東京都ベンチャー技術大賞 特別賞 受賞 (超小型水上ドローン Swimmy Eye)」（https://hmrc.co.jp/company/・1回目）
+  - 「「CEATEC AWARD 2021」でスタートアップ＆ユニバーシティ部門準グランプリを受賞するなど、高い評価を得ている」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+- 検索結果の抜粋：
+  - 「会社 情報 - 炎重工株式会社 — 会社 情報 - 炎重工株式会社 炎重工株式会社 https://hmrc.co.jp > company」（https://hmrc.co.jp/company/・3回目）
+  - 「炎重工 株式 会社 |最新事例 - 復興庁 — 炎重工 株式 会社 |最新事例 - 復興庁 復興庁 https://www.reconstruction.go.jp > HOME > 最新事例」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「国産水上ドローン開発の 炎重工 株式 会社 をグループ化を決定 — 国産水上ドローン開発の 炎重工 株式 会社 をグループ化を決定 双葉電子工業株式会社 https://www.futaba.co.jp > info」（https://www.futaba.co.jp/info/3344・3回目）
+  - 「炎重工 株式 会社 の株式の取得（子会社化）に関するお知らせ — 炎重工 株式 会社 の株式の取得（子会社化）に関するお知らせ finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「炎重工 株式会社|最新事例 - 復興庁 — 炎重工 株式会社|最新事例 - 復興庁 復興庁 https://www.reconstruction.go.jp > HOME > 最新事例」（https://www.reconstruction.go.jp/jireishuu/2022jirei/04/・3回目）
+  - 「炎重工 株式会社 - スピーダ スタートアップ情報リサーチ — 炎重工 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-26549・3回目）
+  - 「国産水上ドローン開発の 炎重工 株式会社をグループ化を決定 — 国産水上ドローン開発の 炎重工 株式会社をグループ化を決定 双葉電子工業株式会社 https://www.futaba.co.jp > info」（https://www.futaba.co.jp/info/3344・3回目）
+  - 「炎重工 ｜STARTUP DB（スタートアップデータベース） — 炎重工 ｜STARTUP DB（スタートアップデータベース） STARTUP DB｜スタートアップデータベース https://startup-db.com > スタートアップ一覧」（https://startup-db.com/companies/PmW5plqUwyOZrdaq・3回目）
+  - 「会社情報 - 炎重工株式会社 — 会社情報 - 炎重工株式会社 炎重工株式会社 https://hmrc.co.jp > company」（https://hmrc.co.jp/company/・3回目）
+  - 「炎重工株式 会社 - スピーダ スタートアップ情報リサーチ — 炎重工株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies」（https://initial.inc/companies/A-26549・3回目）
+  - 「炎重工株式 会社の 株式 の取得（子会社化）に関するお知らせ — 炎重工株式 会社の 株式 の取得（子会社化）に関するお知らせ finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...」（https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20261023/20261023555357.pdf・3回目）
+  - 「自動運転水上ドローンに大注目！ 炎重工 、 資金調達 で開発力強化 — 自動運転水上ドローンに大注目！ 炎重工 、 資金調達 で開発力強化 自動運転ラボ https://jidounten-lab.com > 国内ニュース」（https://jidounten-lab.com/u_40046・3回目）
+- 事業内容：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）
+- 客は誰か：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索11回）
+
 ## 神奈川県とWOTA
 - 公式URL：https://wota.co.jp/（given）
 - 売上の柱（何で稼ぐか）：
@@ -2105,3 +4518,170 @@
 - 主要取引先：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部12頁・検索11回）
 - 客は誰か：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部12頁・検索11回）
 - 表彰・認定の記録：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部12頁・検索11回）
+
+## 秋山精鋼
+- 公式URL：https://www.ask-akiyama.co.jp/（given）
+- 事業内容：精密機器、電子機器の構成部品に使用される特殊鋼（快削ステンレス鋼、快削鋼、中炭素鋼、高炭素鋼など）2次加工丸棒メーカー（https://www.ask-akiyama.co.jp/company/・1回目）
+- 事業内容：精密機械、電子機器の構成部品に使用される特殊鋼（快削ステンレス鋼、快削鋼、中炭素鋼、高炭素鋼など）の2次加工品メーカー（https://houjinmap.hanashinotane.jp/company/4010001036393・3回目）
+- 資本金：1億円（2025年4月現在）（https://www.ask-akiyama.co.jp/company/・1回目）
+- 資本金：1億円（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+- 資本金：1億円（https://syukatsu-kaigi.jp/companies/117050・3回目）
+- 創業年度：創業：1927（昭和2）年4月10日（https://www.ask-akiyama.co.jp/company/・1回目）
+- 創業年度：設立：1952（昭和27）年6月3日（https://www.ask-akiyama.co.jp/company/・1回目）
+- 創業年度：設立年月：1952年6月（創業：1927年4月）（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+- 従業員数：207名（https://www.ask-akiyama.co.jp/company/・1回目）
+- 従業員数：204名（2013年4月現在）（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+- 従業員数：204人（https://syukatsu-kaigi.jp/companies/117050・3回目）
+- 売上高：101億円（2025年3月期）（https://www.ask-akiyama.co.jp/company/・1回目）
+- 売上高：85億円（https://syukatsu-kaigi.jp/companies/117050・3回目）
+- 所在地：〒103-0001東京都中央区日本橋小伝馬町15-17 ASK日本橋ビル（https://www.ask-akiyama.co.jp/company/・1回目）
+- 所在地：東京都中央区日本橋小伝馬町15-17 ASK日本橋ビル（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+- 所在地：〒103-0001 東京都中央区日本橋小伝馬町15番17号（https://syukatsu-kaigi.jp/companies/117050・3回目）
+- 代表者：代表取締役　秋山 繁（https://www.ask-akiyama.co.jp/company/・1回目）
+- 代表者：代表取締役社長 秋山 繁（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+- 代表者：秋山繁（https://syukatsu-kaigi.jp/companies/117050・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「わが国初の快削鋼線材を輸入、生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「国産快削鋼の再圧延加工を実施、線材を製造」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「高級快削鋼素材輸入、生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「超快削鋼「ASK-2600」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「超々快削鋼「ASK-2600S」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「快削ステンレス鋼「ASK-3200」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「超々快削鋼「ASK-2800」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「快削ステンレス鋼「3300T・3500T」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「地球環境を配慮した「ASK-8000」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「快削ステンレス鋼「ASK-3400T・3500A」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「快削ステンレス鋼「ASK-3000T」生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「高炭素Pbフリー快削鋼 ASK-1100B生産販売開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+- 客は誰か：
+  - 「中小企業庁より合理化モデル工場に指定（第2回目）」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「中小企業の中では、大きな規模の会社だと思います」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「自動車、医療、家電、ホビー用品、精密機器など様々な製品にASKが採用されています」（https://www.ask-akiyama.co.jp/・1回目）
+  - 「精密機器、電子機器の構成部品に使用される特殊鋼（快削ステンレス鋼、快削鋼、中炭素鋼、高炭素鋼など）2次加工丸棒メーカー」（https://www.ask-akiyama.co.jp/company/・1回目）
+  - 「石岡工場、埼玉工場」（https://www.ask-akiyama.co.jp/company/・1回目）
+  - 「本社5階建社屋建設」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「中小企業庁より合理化モデル工場に指定（第2回目）」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「埼玉県八潮市に埼玉工場開設、製品管理業務開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「大阪府守口市に4階建社屋建設」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「茨城県石岡市に石岡工場開設、操業開始」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「ISO14001認証取得（石岡工場）」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「ISO9001認証取得（本社、大阪支店、名古屋営業所、諏訪営業所、足立工場、石岡工場、埼玉工場）」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「生産効率化の為、足立工場での生産を終了し、生産設備を石岡工場へ移設・統合」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「近年は環境意識の高まりから、快削成分である鉛を代替成分に置き換えた製品の開発や、医療分野や各種機械などで求められる高硬度・高耐食鋼の開発を続けております」（https://www.ask-akiyama.co.jp/company/president/・1回目）
+- 資本金・株主：
+  - 「秋山産業株式会社に組織変更、資本金100万円」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「精密特殊鋼部門を分離し秋山精鋼株式会社を設立、資本金200万円」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「資本金2,500万円となる」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「資本金5,000万円となる」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「資本金1億1,437万円となる」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「資本金2億2,000万円となる」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「資本金1億円となる」（https://www.ask-akiyama.co.jp/company/history/・1回目）
+  - 「資本金：1億円」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+  - 「当社には海外子会社なども含めて約200人の社員がいます」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+  - 「資本金・従業員数は国税庁・gBizINFO・公式サイトから取得したものです」（https://houjinmap.hanashinotane.jp/company/4010001036393・3回目）
+- 表彰・認定の記録：
+  - 「最適な鋼種を、用途や特性から選定可能です」（https://www.ask-akiyama.co.jp/・1回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 秋山精鋼株式会社 — 会社概要 - 秋山精鋼株式会社 秋山精鋼株式会社 https://www.ask-akiyama.co.jp > company」（https://www.ask-akiyama.co.jp/company/・3回目）
+  - 「秋山精鋼 株式 会社 | 輝く技術 光る企業 - 東京カイシャハッケン伝 — 秋山精鋼 株式 会社 | 輝く技術 光る企業 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > ask-akiyama」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+  - 「沿革 - 秋山精鋼株式会社 — 沿革 - 秋山精鋼株式会社 秋山精鋼株式会社 https://www.ask-akiyama.co.jp > 会社概要」（https://www.ask-akiyama.co.jp/company/history/・3回目）
+  - 「秋山精鋼 株式会社の 会社概要 ・製品情報 - Metoree — 秋山精鋼 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/41861/・3回目）
+  - 「秋山精鋼 株式 会社 - リクナビ — 秋山精鋼 株式 会社 - リクナビ 就活ならリクナビ https://job.rikunabi.com > company_jobs」（https://job.rikunabi.com/company_jobs/1598194165/・3回目）
+  - 「秋山精鋼 の 新卒採用・就職・企業情報 - 就活会議 — 秋山精鋼 の 新卒採用・就職・企業情報 - 就活会議 就活会議 https://syukatsu-kaigi.jp > companies」（https://syukatsu-kaigi.jp/companies/117050・3回目）
+  - 「募集要項 | 秋山精鋼 株式会社 — 募集要項 | 秋山精鋼 株式会社 秋山精鋼株式会社 https://www.ask-akiyama.co.jp > 採用情報」（https://www.ask-akiyama.co.jp/recruit/information/・3回目）
+  - 「秋山精鋼 株式会社 | 輝く技術 光る企業 - 東京カイシャハッケン伝 — 秋山精鋼 株式会社 | 輝く技術 光る企業 - 東京カイシャハッケン伝 東京カイシャハッケン伝 https://www.kaisyahakken.metro.tokyo.lg.jp > ask-akiyama」（https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/ask-akiyama/・3回目）
+  - 「秋山精鋼 株式会社 石岡工場 | 就職応援メディア — 秋山精鋼 株式会社 石岡工場 | 就職応援メディア course-ibaraki.jp https://course-ibaraki.jp > company > ask-akiyama」（https://course-ibaraki.jp/company/ask-akiyama/・3回目）
+  - 「秋山精鋼 株式会社 - リクナビ — 秋山精鋼 株式会社 - リクナビ 就活ならリクナビ https://job.rikunabi.com > company_jobs」（https://job.rikunabi.com/company_jobs/1598194165/・3回目）
+  - 「秋山精鋼 株式会社 の企業情報 | バフェット・コード — 秋山精鋼 株式会社 の企業情報 | バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/0in1ml67y9/・3回目）
+  - 「秋山精鋼 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 秋山精鋼 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属」（https://www.openwork.jp/company.php?m_id=a0C3000000FPdrN・3回目）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+
+## 菱華産業
+- 公式URL：https://www.ryokasangyo.co.jp/（given）
+- 事業内容：プラスチック射出成形品、マグネット等、産業用素材、電池、メンブレンフィルター、自動機器の販売、環境素材(MIRAIWOODⓇ)の技術開発、受託生産・製品販売（https://www.ryokasangyo.co.jp/company/profile/・1回目）
+- 事業内容：プラスチック射出成形品製造、販売（https://www.ryokasangyo.co.jp/company/group/・1回目）
+- 事業内容：各種自動制御機器製造、販売（https://www.ryokasangyo.co.jp/company/group/・1回目）
+- 資本金：1億円（https://www.ryokasangyo.co.jp/company/profile/・1回目）
+- 資本金：1億円（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+- 資本金：1億円 （2026年3月期の官報決算公告）（https://kaijiwire.jp/companies/1010001063127・3回目）
+- 創業年度：設　立：1946年2月28日（https://www.ryokasangyo.co.jp/company/profile/・1回目）
+- 創業年度：創立：1960年12月20日（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+- 従業員数：30名（https://www.ryokasangyo.co.jp/company/profile/・1回目）
+- 従業員数：65名（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+- 所在地：〒103-0022　東京都中央区日本橋室町4丁目6番2号（https://www.ryokasangyo.co.jp/company/profile/・1回目）
+- 所在地：〒103-0022　東京都中央区日本橋室町4丁目6番2号 TEL：03-5962-3901　FAX：03-3527-2116（https://www.ryokasangyo.co.jp/company/group/・1回目）
+- 所在地：〒251-0013　神奈川県藤沢市小塚126番地 TEL：0466-22-8151（代表）　FAX：0466-22-8169（https://www.ryokasangyo.co.jp/company/group/・1回目）
+- 主要取引先：三菱商事パッケージング株式会社 伊藤忠プラスチックス株式会社 日本ベクトン・ディッキンソン株式会社 極東製薬工業株式会社 ソニーグループ 菱華産業株式会社 ※敬称略、順不同（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「プラスチック射出成形品、マグネット等、産業用素材、電池、メンブレンフィルター、自動機器の販売、環境素材(MIRAIWOODⓇ)の技術開発、受託生産・製品販売」（https://www.ryokasangyo.co.jp/company/profile/・1回目）
+  - 「バイオマス材料での試作〜受託生産もワンストップ対応します」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「微細な不純物を確実に除去する卓越したろ過技術により、製造プロセスの品質向上から環境保護まで多様な産業ニーズに応える製品を提供します」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「空調機器の販売から設備の設計施工、および保守メンテナンスまで一貫して展開」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「空調機器販売/空調設備設計施工/保守メンテナンス」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「4.スピードを第一に行動し、生産性を高め、収益向上を図ります」（https://www.ryokasangyo.co.jp/company/philosophy/・1回目）
+  - 「プラスチック射出成形品製造、販売」（https://www.ryokasangyo.co.jp/company/group/・1回目）
+  - 「各種自動制御機器製造、販売」（https://www.ryokasangyo.co.jp/company/group/・1回目）
+  - 「空調機器の販売、空調設備設計施工及び保守メンテナンス」（https://www.ryokasangyo.co.jp/company/group/・1回目）
+  - 「プラスチック射出成形品製造、販売」（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+  - 「各種自動制御機器製造、販売」（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+  - 「空調機器の販売、」（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+- 客は誰か：
+  - 「この信頼の創造という実績により、三菱グループ各社をはじめ、ソニーグループ、キヤノングループ、明電舎グループなどといった日本を代表する大手企業とも、安定した取引関係を構築しています」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「グループ、信越化学グループ、キヤノングループなど大手企業との取引関係を構築している」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「菱華産業株式会社 | 医療機器開発のパートナーが探せるサイト「ものづくり中小企業技術シーズ」」（https://tokyo-monodukuri-seeds.jp/corporate/335/・3回目）
+  - 「弊社には永年の自社成形技術の蓄積と、信頼できる自社工場、確かな協力工場との生産ネットワークと大手企業への採用実績があります」（https://coki.jp/sustainable/esg/41310/・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「プラスチック・産業用素材など、様々な分野において、子会社にメーカー機能を持つ商社として、お客様のニーズにフレキシブルに対応します」（https://www.ryokasangyo.co.jp/・1回目）
+  - 「商社としての調整力と、メーカーとしての知見を強みに、これからもより良い製品と価値を提供し続けます」（https://www.ryokasangyo.co.jp/・1回目）
+  - 「三菱UFJ銀行、三井住友銀行、あいち銀行、宮崎銀行」（https://www.ryokasangyo.co.jp/company/profile/・1回目）
+  - 「1946年の創業以来、専門商社である菱華産業を中核に、高い技術力と開発力を持つメーカー子会社や国内外の提携企業との連携を深め、菱華グループは成長して参りました」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「また、食品業界や医療現場などに向けた衛生管理が求められる超薄肉プラスチック製品」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「食品用ではインモールド（IML）成形による高い美粧性と付加価値を提供、医療用でも確かな品質の製品を安定提供します」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「冷凍空調・自動車燃料・医療・環境緑化分野などで精密な流体制御を実現する自動制御機器」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「食品・工業・医療・浄排水など、多方面で高度な分離・精製性能を発揮する株式会社GSユアサ メンブレンのフィルター」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「オフィスビルや工場などのあらゆる空間において、最適な空気環境の構築と、省エネルギーで安定した設備運用をサポートします」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「菱華グループは、専門商社である菱華産業株式会社を中核に、高い技術力と開発力を持つメーカー子会社や、国内外の提携企業との連携を深め成長して参りました」（https://www.ryokasangyo.co.jp/company/message/・1回目）
+  - 「私達は、顧客価値の創造的活動を通じて、事業の発展を図り、企業価値を高め、地球環境に配慮しながら、しなやかで活力に満ちた社会に貢献できるグループを目指します」（https://www.ryokasangyo.co.jp/company/philosophy/・1回目）
+  - 「Ryokaの独自性、それは、傘下に抱えるメーカーの生産力と商品開発力です」（https://www.ryokasangyo.co.jp/company/group/・1回目）
+- 資本金・株主：
+  - 「プラスチック・産業用素材など、様々な分野において、子会社にメーカー機能を持つ商社として、お客様のニーズにフレキシブルに対応します」（https://www.ryokasangyo.co.jp/・1回目）
+  - 「設立資本金15万円にて発足」（https://www.ryokasangyo.co.jp/company/history/・1回目）
+  - 「1946年の創業以来、専門商社である菱華産業を中核に、高い技術力と開発力を持つメーカー子会社や国内外の提携企業との連携を深め、菱華グループは成長して参りました」（https://www.ryokasangyo.co.jp/business/about/・1回目）
+  - 「菱華グループは、専門商社である菱華産業株式会社を中核に、高い技術力と開発力を持つメーカー子会社や、国内外の提携企業との連携を深め成長して参りました」（https://www.ryokasangyo.co.jp/company/message/・1回目）
+  - 「大手ではないからこその軽いフットワークで、時代の流れやお取引先様のニーズを敏感にキャッチし、取り扱う製品も変化してきましたが、タイムリー且つ的確なご提案を心がけると同時に、子会社においてお取引先様のニーズをダイレクトに生産に取り入れることが出来るメリットを最大限に活かした製品の開発・提供を行って参りました」（https://www.ryokasangyo.co.jp/company/message/・1回目）
+  - 「これもひとえに、菱華グループをご愛顧頂いているお取引先様をはじめ、協力企業様や提携企業様、株主様他ステークホルダーの皆様のおかげであると心より感謝申し上げ、この場をお借りして厚く御礼申し上げます」（https://www.ryokasangyo.co.jp/company/message/・1回目）
+  - 「資本金4,000万円」（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+  - 「資本金1億円となる」（https://ryokakogyo.co.jp/message/description/index.html・3回目）
+  - 「菱華産業株式会社は、プラスチック・産業用素材などの分野で、子会社にメーカー機能を持つ専門商社である」（https://kaijiwire.jp/companies/1010001063127・3回目）
+  - 「セカンドオピニオンは、企業等が環境保全および社会貢献等を目的とする資金調達のために策定するフレームワークについての公的機関または民間団体等が策定する当該資金調達」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「商品開発を行う日電工業などメーカー子会社を傘下に持つ」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+- 表彰・認定の記録：
+  - 「(2)プロジェクトの評価と選定のプロセス」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「計画段階より環境への配慮や感染症対策に重点を置き、 確実な環境改善効果が見込めるよう 評価・選定」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「評価と選定のプロセスは明確かつ合理的である」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「2.プロジェクトの評価と選定のプロセス」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「(2) プロジェクトの評価・選定の判断規準」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「実な環境改善効果が見込めるよう評価・選定されている」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「(3) プロジェクトの評価・選定の判断を行う際のプロセス」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「 対象プロジェクトの評価・選定は、当社の取締役会が上記のグループ基本理念に基づき行った」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「植物由来のバイオマス成分は73.3%以上で、バイオマス70認定も取得している」（https://coki.jp/sustainable/esg/41310/・3回目）
+  - 「樹脂成形業以外の企業にも参入しやすいよう、材料開発から製品企画、デザイン、CO2削減量の公的エビデンスの獲得、バイオマス認定、環境対応のPR方法など幅広いコンサルティングを行っている」（https://coki.jp/sustainable/esg/41310/・3回目）
+  - 「廃食用油を未来の燃料に 岐阜・恵那のケイナンクリーンがモルディブ展開で「はばたく300社」受賞」（https://coki.jp/sustainable/esg/41310/・3回目）
+- 検索結果の抜粋：
+  - 「沿革 | 会社 案内 - 菱華産業株式会社 — 沿革 | 会社 案内 - 菱華産業株式会社 菱華産業株式会社 https://www.ryokasangyo.co.jp > 会社案内」（https://www.ryokasangyo.co.jp/company/history/・3回目）
+  - 「菱華産業 株式会社の 会社概要 ・製品情報 - Metoree — 菱華産業 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/17964/・3回目）
+  - 「菱華産業 株式会社の 会社概要 - マイナビ転職 — 菱華産業 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company」（https://tenshoku.mynavi.jp/company/481135/・3回目）
+  - 「菱華産業 株式会社 の企業情報 | バフェット・コード — 菱華産業 株式会社 の企業情報 | バフェット・コード バフェット・コード https://www.buffett-code.com > company」（https://www.buffett-code.com/company/fgcexzw7i2/・3回目）
+  - 「事業 概要 - 菱華産業株式会社 — 事業 概要 - 菱華産業株式会社 菱華産業株式会社 https://www.ryokasangyo.co.jp > 事業案内」（https://www.ryokasangyo.co.jp/business/about/・3回目）
+  - 「菱華産業 株式会社の決算公告・財務情報 - 開示ワイヤー — 菱華産業 株式会社の決算公告・財務情報 - 開示ワイヤー kaijiwire.jp https://kaijiwire.jp > 東京都の企業」（https://kaijiwire.jp/companies/1010001063127・3回目）
+  - 「菱華産業 株式会社の求人情報／営業経験があればOK ... — 菱華産業 株式会社の求人情報／営業経験があればOK ... マイナビ転職 https://tenshoku.mynavi.jp > ... > 菱華産業株式会社」（https://tenshoku.mynavi.jp/jobinfo-481135-1-2-1/・3回目）
+  - 「菱華産業 株式会社 - BIZMAPS（ビズマップ） — 菱華産業 株式会社 - BIZMAPS（ビズマップ） BIZMAPS（ビズマップ） https://biz-maps.com > item」（https://biz-maps.com/item/5XY48jkzYE・3回目）
+  - 「セカンドオピニオン 菱華産業株式 会社 グリーンローン — セカンドオピニオン 菱華産業株式 会社 グリーンローン 格付投資情報センター PDF https://www.r-i.co.jp > news_release_gf > 2023/12」（https://www.r-i.co.jp/news_release_gf/2023/12/news_release_gf_20231228_jpn.pdf・3回目）
+  - 「Ryoka - 菱華産業株式会社 — 様々な分野で技術から品質まで総合的にサポートする専門商社。 菱華産業では、プラスチック、産業用素材（マグネット・プリント基板等）、電池・電源装置、自動機器（各種電磁弁等）、空調などを取り扱っております。」（https://www.ryokasangyo.co.jp/・3回目）
+  - 「菱華産業株式会社 | 医療機器開発のパートナーが探せるサイト「ものづ...廃木材をアップサイクルして作る木質バイオマス成形素材「MIRAIWOOD®︎...廃木材が循環素材へ 菱華産業、新素材「MIRAIWOOD®︎」開発 - coki (公...MIRAIWOOD®︎ の環境技術で漆器の廃木粉をアップサイクルした、サステ...【ハイメ研究室】多摩の廃木材を新素材へ！循環型ものづくりプロジェ... — 菱華産業株式会社 クラス100,000のクリーンルーム内に射出成形機23台保有。 徹底した衛生環境、品質管理の下、医療関連器材や食品用、ドリンク、デザート用の容器などを自動化設備を導入し省人化にてクリーンルーム内で生産しています。 Oct 11, 2024 · すでに有名大企業様からの開発依頼をはじめ、伝統工芸や地域産業、林業や食品産業など、成形素材が本業ではない業界からも、木材不足や環境対」（https://tokyo-monodukuri-seeds.jp/corporate/335/・3回目）
+  - 「廃木材が循環素材へ 菱華産業、新素材「MIRAIWOOD®︎」開発 - coki (公... — Oct 15, 2024 · 菱華産業株式会社（東京・中央）は、廃木材をアップサイクルした木質バイオマス成形素材「MIRAIWOOD®︎（ミライウッド）」を開発した。 明治や伝統工芸の山中漆器などと連携し、サステナビリティに貢献できる事業として展開していく。」（https://coki.jp/sustainable/esg/41310/・3回目）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部18頁・検索11回）
+- 株主：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部18頁・検索11回）
+- 代表者：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部18頁・検索11回）

@@ -1,0 +1,372 @@
+{
+ "name": "Continuum Powders (formerly Molyworks) — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:3d-metal-printer-distributor;advanced-materials-manufacturer;binder-jetting;bioink-manufacturer;bound-metal-printing;ceramic-filament;ceramics-3d-printer-reseller;ceramics-3d-printing-service;ceramics-material-manufacturer;filament-extruder;materials;powder-manufacturer",
+ "researched_at": "2026-11-09T14:09:59.940864+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/molyworks/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Continuum Powders (formerly Molyworks) — VoxelMatters - The ... — Continuum Powders is the leader in sustainable metal powder and the creator of the Greyhound M2PTM Platform. We’re the only company that can combine industry-leading quality with extreme alloy flexibility, local supply reliability, cost competitiveness, and up to 80% less carbon intensity than traditional powder suppliers.",
+    "url": "https://www.voxelmatters.directory/company/molyworks/",
+    "pass": 3
+   },
+   {
+    "quote": "Continuum Powders (formerly Molyworks) — VoxelMatters - The ... — We’re the only company that can combine industry-leading quality with extreme alloy flexibility, local supply reliability, cost competitiveness, and up to 80% less carbon intensity than traditional powder suppliers. We are Continuum Powders.",
+    "url": "https://www.voxelmatters.directory/company/molyworks/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.continuumpowders.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/molyworks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arapartners.com/news/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/molyworks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sayakobo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dfilamentprofiles.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.continuumpowders.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/molyworks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/news/molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/molyworks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additivemanufacturing.media/news/molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/4902/0413/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00404483/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/8931/2142/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0872/9271/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/180871-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/continuum/__qqaIxXdLQfhiwUXw_HgJtvm-j1kFkdJ9ozJXSmgiZn0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.continuumpowders.com/continuum-secures-36-million-led-by-ara-partners/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.continuumpowders.com/",
+    "https://www.voxelmatters.directory/company/molyworks/",
+    "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "https://www.arapartners.com/news/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "https://pitchbook.com/profiles/company/180871-84",
+    "https://www.metal-powder.tech/continuum-powders-completes-rebrand-from-molyworks-names-higby-as-ceo/",
+    "https://www.additivemanufacturing.media/news/molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters 日本 販売",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.directory/company/molyworks/",
+    "https://skhonpo.com/",
+    "https://sayakobo.com/",
+    "https://3dfilamentprofiles.com/",
+    "https://www.nexpointmaterials.com/",
+    "https://axiommaterials.com/products/",
+    "https://www.layerhub3d.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "https://www.continuumpowders.com/",
+    "https://www.voxelmatters.directory/company/molyworks/",
+    "https://www.additivemanufacturing.media/news/molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo",
+    "https://www.agreenearthandme.com/article/718165654-announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo",
+    "https://www.arapartners.com/news/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "https://www.voxelmatters.directory/company/molyworks/",
+    "https://www.additivemanufacturing.media/news/molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo",
+    "https://www.japan-partner.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://japanesedistributors.com/",
+    "https://www.imoa.info/IMOA/membership/members_complete_list.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Continuum Powders (formerly Molyworks) — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:monotaro.com Continuum Powders (formerly Molyworks) — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/4902/0413/",
+    "https://www.monotaro.com/g/00404483/",
+    "https://www.monotaro.com/p/8931/2142/",
+    "https://www.monotaro.com/p/0872/9271/",
+    "https://www.monotaro.com/g/00010501/",
+    "https://www.monotaro.com/g/01444006/",
+    "https://www.monotaro.com/g/00492268/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/180871-84",
+    "https://www.continuumpowders.com/announcing-continuum-powders-molyworks-officially-rebrands-as-continuum-powders-and-appoints-new-ceo/",
+    "https://tracxn.com/d/companies/continuum/__qqaIxXdLQfhiwUXw_HgJtvm-j1kFkdJ9ozJXSmgiZn0",
+    "https://www.continuumpowders.com/continuum-secures-36-million-led-by-ara-partners/",
+    "https://connexy.co/us-company/continuum-powders/8988656/",
+    "https://craft.co/continuum-powders",
+    "https://ensun.io/company/molyworks-materials-corporation-67b59533f17ddea584880957"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Continuum Powders (formerly Molyworks) — VoxelMatters",
+   "results": [
+    "https://note.com/kbtfn744/n/n609ff885cfd8?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/pei_umapro",
+    "https://note.com/kbtfn744/n/n609ff885cfd8",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Continuum Powders (formerly Molyworks) — VoxelMatters",
+   "results": [
+    "https://x.com/VoxelMatters/status/2110656132385575001",
+    "https://x.com/voxelmatters",
+    "https://x.com/AmericaInvests/status/2036412718840975732",
+    "https://x.com/3DPrint_com/status/1933616478290374933",
+    "https://x.com/3DPrint_com/status/2083251692544417975",
+    "https://x.com/Vanlenciacf/status/2115571969827668368",
+    "https://x.com/DSA_Watch/status/2117650338127786063"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Continuum Powders (formerly Molyworks) — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/continuum-powders",
+    "https://sg.linkedin.com/company/continuum-powders",
+    "https://www.linkedin.com/posts/continuum-powders_continuumpowders-sustainableinnovation-activity-7206261218867646465-J2wg",
+    "https://az.linkedin.com/company/molyworks?trk=organization-update_share-update_actor-image",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://in.linkedin.com/posts/albert-sutiono-张自盛-661a843b_molyworks-adds-3d-systems-dmp-flex-350-additive-activity-7059366778593841152-RATd",
+    "https://de.linkedin.com/posts/marc-lee-b05b9834_continuum-powders-unveils-pioneering-metal-activity-7127620583936184320-v7eF"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Continuum Powders (formerly Molyworks) — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/3dprintcom/posts/formerly-known-as-molyworks-continuum-powders-is-launching-its-latest-innovation/748600397306756/",
+    "https://www.facebook.com/3dPrintingIndustry/posts/continuum-powders-unveils-pioneering-metal-atomization-platform-at-formnext-cont/723887296438192/",
+    "https://www.facebook.com/3DComponents/posts/continuum-raises-36m-to-fund-recycled-metal-3d-printing-powder-growth-opportunit/2572970346177287/",
+    "https://www.facebook.com/3dPrintingIndustry/posts/continuum-powders-unveils-pioneering-metal-atomization-platform-at-formnext-cont/723886306438291/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/3dprintcom/posts/1014892044010922/",
+    "https://www.facebook.com/theMAKERSMOVEMENT/posts/3dpod-episode-60-am-metal-powder-production-with-molyworks-ceo-chris-eonta-this-/3625918684179988/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Continuum Powders (formerly Molyworks) — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索15回）"
+ }
+}
