@@ -20,12 +20,11 @@ permissions:
   actions: write
   models: read
 
-concurrency:
-  group: researcher
-  cancel-in-progress: false
+# 2026-11-09 名簿づくり（build）が長い（最大5時間）と、次の回の調査まで止まっていた。build と調査を別々の列にして、調査は待たせない
 
 jobs:
   build:
+    concurrency: { group: researcher-build, cancel-in-progress: false }
     # list-building step of switched-on topics (e.g. IR1000: screen all listed companies by margin)
     runs-on: ubuntu-latest
     timeout-minutes: 300
@@ -99,6 +98,7 @@ jobs:
           retention-days: 3
 
   collect:
+    concurrency: { group: researcher-collect, cancel-in-progress: false }
     needs: [plan, research]
     if: always() && needs.plan.outputs.remaining != '0'
     runs-on: ubuntu-latest
