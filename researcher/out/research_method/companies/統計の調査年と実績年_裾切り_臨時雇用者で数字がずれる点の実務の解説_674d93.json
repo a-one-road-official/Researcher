@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-08T19:57:37.622303+00:00",
+ "researched_at": "2026-11-09T04:29:48.767987+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -24,12 +24,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/good_poppy696/n/n4f00eca6d7e1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "url": "https://note.com/yoshi993/n/n95e654ef41d0",
     "status": "ok",
     "method": "http"
    },
@@ -39,12 +44,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yoshi993/n/n23319afbc4e7",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "url": "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -64,14 +64,19 @@
     "method": "http"
    },
    {
+    "url": "https://www.stat.go.jp/data/roudou/sokuhou/nen/dt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.e-stat.go.jp/stat-search/files?tclass=000001226532",
+    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
@@ -79,14 +84,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.jil.go.jp/kokunai/statistics/kako/index.html",
+    "url": "https://www.e-stat.go.jp/stat-search/database?toukei=00200531",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://www.stat.go.jp/english/data/kokusei/index.html",
@@ -104,14 +104,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.japantimes.co.jp/news/2026/05/29/japan/japan-population-largest-decline/",
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&lid=000001283420",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&lid=000001283420",
+    "url": "https://unstats.un.org/unsd/demographic-social/meetings/2026/ws-20260928/docs/d05-s11-p02.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.e-stat.go.jp/en/stat-search?toukei=00200521",
@@ -126,30 +126,30 @@
    "results": [
     "https://note.com/yoshi993/n/n24c3dbc880aa",
     "https://note.com/data_pn/n/n3a33a9120a47",
-    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
     "https://note.com/good_poppy696/n/nab4cdc77186d",
+    "https://note.com/good_poppy696/n/n4f00eca6d7e1",
+    "https://note.com/yoshi993/n/n95e654ef41d0",
     "https://note.com/furu_kaggle/n/ne5ef243c586a",
-    "https://note.com/yoshi993/n/n23319afbc4e7",
-    "https://note.com/yoshi993/n/n95e654ef41d0"
+    "https://note.com/yoshi993/n/n23319afbc4e7"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 note",
    "results": [
-    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
     "https://www.soumu.go.jp/main_content/000928642.pdf",
     "https://www.soumu.go.jp/main_content/000623516.pdf",
     "https://www.stat.go.jp/data/roudou/10.html",
+    "https://www.stat.go.jp/data/roudou/sokuhou/nen/dt/index.html",
     "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
-    "https://www.e-stat.go.jp/stat-search/files?tclass=000001226532",
     "https://www.mhlw.go.jp/toukei/list/9-23-1.html"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -161,29 +161,19 @@
     "https://www.soumu.go.jp/main_content/000623516.pdf",
     "https://www.stat.go.jp/data/roudou/10.html",
     "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
-    "https://www.jil.go.jp/kokunai/statistics/kako/index.html",
-    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf"
+    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?toukei=00200531"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 事例",
-   "results": [
-    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
-    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
-    "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.stat.go.jp/data/roudou/10.html",
-    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
-    "https://www.mhlw.go.jp/toukei/list/9-23-1.html"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "survey year vs reference year statistics pitfalls Japan census",
@@ -191,13 +181,13 @@
     "https://www.stat.go.jp/english/data/kokusei/index.html",
     "https://www.stat.go.jp/english/",
     "https://d-infra.ier.hit-u.ac.jp/English/census-survey/b001.html",
-    "https://www.japantimes.co.jp/news/2026/05/29/japan/japan-population-largest-decline/",
     "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&lid=000001283420",
+    "https://unstats.un.org/unsd/demographic-social/meetings/2026/ws-20260928/docs/d05-s11-p02.pdf",
     "https://www.e-stat.go.jp/en/stat-search?toukei=00200521",
-    "https://unstats.un.org/unsd/demographic-social/meetings/2026/ws-20260928/docs/d05-s11-p02.pdf"
+    "https://www.nstac.go.jp/en/about/guide/timeline/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -209,24 +199,24 @@
     "https://note.com/data_pn/n/n3a33a9120a47",
     "https://note.com/good_poppy696/n/nab4cdc77186d",
     "https://note.com/furu_kaggle/n/ne5ef243c586a",
-    "https://note.com/aitoshi/n/n95fbc7e00baf",
-    "https://note.com/yoshi993/n/n95e654ef41d0"
+    "https://note.com/yoshi993/n/n23319afbc4e7",
+    "https://note.com/aitoshi/n/n95fbc7e00baf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
    "results": [
-    "https://x.com/nineKan821/status/2091011604200759444",
     "https://x.com/DAKURAblog/status/2029919305320780283",
+    "https://x.com/nineKan821/status/2091011604200759444",
     "https://x.com/rkakui/status/2114876378038538487",
     "https://x.com/kyookine/status/2095837126394871999",
     "https://x.com/hujimari/status/2028425278494818581",
     "https://x.com/jilpt_PR2023/status/2049735812712181834",
-    "https://x.com/fukachin_warks/status/2085882148679200836"
+    "https://x.com/OldBlurman/status/2117753505352130846"
    ],
    "engines": [
     "ddgs:google"
@@ -235,19 +225,9 @@
   },
   {
    "query": "site:linkedin.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
-   "results": [
-    "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG",
-    "https://jp.linkedin.com/posts/nobuakitanaka_表面的な雇用統計の数字だけを見ていると現代の労働市場の本当の変化を見誤るかもしれません-activity-7501775286707888128-m9Bv",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7377298388138029056/",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7467172911100055552/",
-    "https://jp.linkedin.com/posts/leverages-us_米国経済-雇用統計-bls-activity-7432944798162124800-5iQJ",
-    "https://jp.linkedin.com/pulse/2025-pivotal-year-contingent-workforce-market-sajjad-husain-rizvi-octkc?tl=ja",
-    "https://jp.linkedin.com/posts/katsushi-tamagawa_国はなぜ数えるのか-戸籍度量衡統計で読む数字の出所-activity-7505103851054886912-NW7k"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説",
@@ -255,10 +235,10 @@
     "https://www.facebook.com/mhlw.japan/posts/令和7年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1315096163987107/",
     "https://www.facebook.com/mhlw.japan/posts/令和7年上半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします入職者票離/1159409019555823/",
     "https://www.facebook.com/mhlw.japan/posts/令和6年下半期-雇用動向調査を実施中主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします回答はオン/1019527123544014/",
+    "https://www.facebook.com/mhlw.japan/posts/調査票が届いた方へ雇用動向調査上半期を実施しています入職者票は上半期に入職された方にお願いしています離職者票は事業所内の離職状況などを調査しています抽出調査とな/1465888648907857/",
     "https://www.facebook.com/mhlw.japan/posts/雇用動向調査上半期を実施しています主要産業における入職離職や未充足求人の状況などを調査していますお手元に調査票が届いている事業所でまだ回答がお済みでない場合はご/1435509178612471/",
     "https://www.facebook.com/worksinstitute/posts/民間企業の正規社員の中途採用の見通しと実績を調査しました2026年度の中途採用数が前年より増える197が減る59を上回り中途採用diは5年連続のプラスとなりまし/1479524270626425/",
-    "https://www.facebook.com/mhlw.japan/posts/調査票が届いた方へ雇用動向調査上半期を実施しています入職者票は上半期に入職された方にお願いしています離職者票は事業所内の離職状況などを調査しています抽出調査とな/1465888648907857/",
-    "https://www.facebook.com/mhlw.japan/posts/令和6年下半期雇用動向調査にご協力ください主要産業における入職離職や未充足求人の状況などを調査しています調査票がお手元に届きましたらぜひご協力をお願いします事業/984165253746868/"
+    "https://www.facebook.com/stat.japan/posts/総務省統計局からのお知らせ明日への統計2025を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1111615271002500/"
    ],
    "engines": [
     "ddgs:bing"
@@ -269,12 +249,12 @@
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 note 社長",
    "results": [
     "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
-    "https://www.pref.oita.jp/uploaded/life/119744_141193_misc.pdf",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
     "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.stat.go.jp/data/seigo/roudou/index.html",
     "https://www.soumu.go.jp/main_content/000928642.pdf",
-    "https://www.mhlw.go.jp/toukei/list/9-23-1.html"
+    "https://www.stat.go.jp/data/roudou/10.html",
+    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf",
+    "https://www.mhlw.go.jp/toukei/list/5-22c.html"
    ],
    "engines": [
     "ddgs:bing"
@@ -284,16 +264,16 @@
   {
    "query": "統計の調査年と実績年・裾切り・臨時雇用者で数字がずれる点の実務の解説 X 投稿",
    "results": [
-    "https://www.soumu.go.jp/main_content/000623516.pdf",
-    "https://www.pref.oita.jp/uploaded/life/119744_141193_misc.pdf",
+    "https://www.pref.oita.jp/uploaded/life/7491_9770_misc.pdf",
     "https://www.stat.go.jp/info/kenkyu/kkj/pdf/bunkagiji02-1.pdf",
+    "https://www.soumu.go.jp/main_content/000623516.pdf",
     "https://www.soumu.go.jp/main_content/000928642.pdf",
     "https://www.stat.go.jp/data/roudou/10.html",
     "https://www.mhlw.go.jp/toukei/list/9-23-1.html",
-    "https://www.e-stat.go.jp/stat-search/files?tclass=000001226532"
+    "https://www.maff.go.jp/j/study/2018_gyocen/1/attach/pdf/index-10.pdf"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -301,15 +281,15 @@
    "query": "survey year vs reference year statistics pitfalls Japan census site:linkedin.com",
    "results": [
     "https://www.linkedin.com/pulse/understanding-avoiding-common-statistical-pitfalls-yashica-sharma-yzxme",
-    "https://www.linkedin.com/pulse/numbers-out-insights-from-japans-post-covid-census-nakajima-magen-unuwc",
+    "https://www.linkedin.com/pulse/ai-survey-research-valid-uses-pitfalls-jennifer-tonti-vs3lc",
     "https://pe.linkedin.com/advice/1/how-can-you-avoid-pitfalls-dimensionality-reduction",
     "https://pe.linkedin.com/pulse/navigating-end-of-year-performance-review-avoiding-common-pitfalls-yrrac",
-    "https://www.linkedin.com/pulse/ai-survey-research-valid-uses-pitfalls-jennifer-tonti-vs3lc",
-    "https://www.linkedin.com/pulse/survey-design-gone-wrongcommon-pitfalls-how-avoid-them-arora-ymd6f",
-    "https://www.linkedin.com/pulse/avoiding-pitfalls-survey-development-doctoral-working-dr-harold"
+    "https://www.linkedin.com/pulse/numbers-out-insights-from-japans-post-covid-census-nakajima-magen-unuwc",
+    "https://www.linkedin.com/pulse/avoiding-pitfalls-survey-development-doctoral-working-dr-harold",
+    "https://www.linkedin.com/pulse/survey-design-gone-wrongcommon-pitfalls-how-avoid-them-arora-ymd6f"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   }
@@ -322,6 +302,6 @@
   "実例": "記載なし（読んだ21頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 18,
+ "runs": 19,
  "first_researched_at": "2026-11-05T11:30:04.763256+00:00"
 }

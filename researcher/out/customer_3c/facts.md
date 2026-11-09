@@ -522,6 +522,8 @@
   - 「取締役を委員長とするコンプライアンス推進委員会を置き、「FUJIKURA COMPOSITES 行動規範」に基づいて、グループ横断的なコンプライアンス体制の整備と問題点の把握、コンプライアンス上のリスクの分析・評価、再発防止策の立案にあたっております」（https://www.fujikuracomposites.jp/ir/governance/・1回目）
   - 「2026年3月期（2025年度実績）の決算につきましては、世界的な地政学リスクやサプライチェーンへの影響、インフレなど不確実性の高い事業環境のもとでありましたが、売上高は402億38百万円（前期比0.9%減）、営業利益は48億38百万円（同4.7%増）と、利益面で増益を達成することができました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
 - これから関心を持つこと：
+  - 「かつて電線大手フジクラが株式の約20％を保有していたが、政策保有株が処分される流れで株主構成が変わり、中小型株への投資を主軸に据えるシンガポールのひびき・パース・アドバイザーズが約12％を保有する筆頭株主となった」（https://business.nikkei.com/atcl/gen/19/00611/110600059/・3回目）
+  - 「資本効率の改善を求める投資家の圧力は日増しに強まっている」（https://business.nikkei.com/atcl/gen/19/00611/110600059/・3回目）
   - 「シヤチハタ、化粧品に参入 来年４月から化粧水など」（https://chemicaldaily.com/single?news_code=OK0000021012700401_03&serialization_id=409・3回目）
   - 「住友精化、新Ｒ＆Ｄセンター稼働 新規事業創出へ」（https://chemicaldaily.com/single?news_code=OK0000021012700401_03&serialization_id=409・3回目）
   - 「森田健司社長に23年度の業績を振り返りつつ、スポーツ用品部門、新成長戦略の投資、新年の抱負などを聞いた」（https://www.gomutimes.co.jp/?p=190802・3回目）
@@ -532,9 +534,8 @@
   - 「当社は、人材育成を重要な課題と捉え、人的資本投資を強化しておりますが、少子高齢化に伴う労働人口の不足や専門性の高い特定分野の人材不足など、適時に人材を確保することが年々厳しくなっております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
   - 「）は、「FUJIKURA COMPOSITES行動規範」の理念に基づき、株主・投資家の皆様に経営や財務状況等の企業情報を、適時性・公平性・正確性・継続性に配慮して発信します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
   - 「これにより経営の透明性を高め、株主・投資家の皆様の当社に対する信頼と適切な評価を得たいと考えております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
-  - 「これらに該当しない場合でも、株主・投資家の皆様に当社への理解を深めていただく上で必要と当社が考える情報について開示します」（https://www.fujikuracomposites.jp/ir/management/・1回目）
-  - 「当社では、東京証券取引所に提出する業績予想の他、株主や投資家の皆様がご自身で当社の将来の価値についてご検討いただけるように、当社の計画・戦略、目標、予想に関する資料等を書面またはウェブサイト上で提供する場合があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
 - 顧客の顧客（主要取引先・発注元）：
+  - 「■ 仕事内容 ◎ 業務概要 ・お客様からの問い合わせ対応（電話・メール・チャット） ・予約管理システムの操作・運用 ・ゲストや設備に関するトラブルの対応および問題解決 ・クレーム対応 ・顧客満足度向上に向けた提案・改善活動 ・ゲスト、清掃スタッフ、物件オーナーへの対応 ・予約画面の編集・管理 （Airbnb／Booking.com／楽天トラベル／Trip.com などをBeds24で一括管理）」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「入間川ゴム、新中計では売上高の高位安定に取り組む」（https://gomuhouchi.com/business/72919/・3回目）
   - 「【応募資格】 [必須] 【必須条件】 ・大学を卒業、もしくは大学院を修了 【歓迎条件】 ■不動産業界での実務経験 ■金融機関または財務会計、管理会計等の会計業務の経験 ■行政や地方公共団体等での就業経験 ■営業やサービス職での顧客対応・交渉業務の実務経験 ■語学力を活かした顧客対応経験 【下記のような方が入社しています】 ・不動産会社で賃貸管理や売買仲介をされていた方 ・デベロッパーや東京都や地方自治体などで都市開発に携わっていた方 ・メガバンクや信託銀行などで営業をしていた方 【職種名】 公務員に近い環境/賃貸住宅を維持管理/幅広いキャリア形成/500～700万/テレワーク・時間休有り」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「売上高や規模の拡大のみを追い求めることなく、グループが一体となって、顧客重視の経営姿勢を今後も貫いていきます」（https://www.fujikuracomposites.jp/company/・1回目）
@@ -546,7 +547,6 @@
   - 「前職では医療機器メーカーで、既存顧客向けの製品のフォローを担当する営業職として働いていました」（https://www.fujikuracomposites.jp/recruit/member/15/・1回目）
   - 「入社して約１年たった頃には、新規顧客獲得の重要な機会である展示会の責任者まで任せていただきました」（https://www.fujikuracomposites.jp/recruit/member/15/・1回目）
   - 「（２）当社連結売上高の2％以上の重要な取引が当社グループとの間にある企業の業務執行取締役・執行役・執行役員でないこと」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
-  - 「d 上場会社を主要な取引先とする者又はその業務執行者」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
 - 顧客の顧客が求めること（調達方針・要求）：
   - 「リクエスト元 IP アドレス・User-Agent・リクエストパス・ステータスコード等を保存し、AI クローラー（ClaudeBot, GPTBot 等）と人間のアクセスの比率把握、不正アクセスの検知、配信品質の改善のために利用しています」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「サイトの品質改善と不正な送信の防止のために利用し、本文の要約には外部の AI サービスを利用する場合があります」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
@@ -561,6 +561,10 @@
   - 「さらに、近年特に強化が求められる情報セキュリティリスクについては情報統合室と連携し、BCP（事業継続計画）への展開など、統合した機能を通じて幅広いリスクへの対応力を高めています」（https://www.fujikuracomposites.jp/focus/general-manager-message/・1回目）
   - 「そしてバリューチェーン全体を通じて脱炭素化を推進し、社会の持続可能な発展を目指します」（https://www.fujikuracomposites.jp/focus/environment-management/・1回目）
 - 顧客の競合：
+  - 「株式会社ワークソーシング スキルシェア事業部」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「京都府京都市伏見区の【在宅勤務可能】ＰＣを使った事務作業 など (パート) | 株式会社ワークソーシング スキルシェア事業部 ▼仕事内容 ◯Ｅｘｃｅｌ、Ｗｏｒｄを用いたデータ入力や編集業務〇架電業務（電話営業）◯案内文やマニュアルなどの書類作成業務◯ＨＴＭＬ ・ｃｓｓのコーディング業務〇画像 ・動画の編集、加工作業〇名刺、ＦＡＸＤＭのデザインなど※職種の変更範囲：変更あり（案件や業務状況に応じて） ・勤務中はＺＯＯＭにて先輩スタッフに相談しながら作業を進めることができ、安心できる環境で働くことが出来ます」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「「課題」「競争」「協力」～アント・フィナンシャルの成長の軌跡～（2021年 新年のご挨拶 Part2）」（https://www.hibiki-path-advisors.com/category/engagement/5121/・3回目）
+  - 「2022年11月22日 ー 株式会社東京証券取引所 日本の金融・資本市場の競争力強化に向けて経営陣と面談」（https://www.hibiki-path-advisors.com/category/engagement/5121/・3回目）
   - 「同業9社の給料を見る」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「当社の店舗は、シェアラウンジや公共施設などの中にも展開していて、その場所に合ったアイデアを企画していけます」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「同社は航空機用救命設備も手掛けており、安全保障需要にも応えています（競合が限られるニッチ分野）」（https://note.com/kakuka0904/n/necd52462518f・3回目）
@@ -569,11 +573,10 @@
   - 「中国浙江省杭州市に杭州藤倉橡膠有限公司（現連結子会社）を設立」（https://www.fujikuracomposites.jp/company/history/・1回目）
   - 「中国浙江省安吉経済開発区に安吉藤倉橡膠有限公司」（https://www.fujikuracomposites.jp/company/history/・1回目）
   - 「中国市場の拡大など、国内製造業の事業環境は急変しています」（https://www.fujikuracomposites.jp/company/network/・1回目）
-  - 「当社グループは、中国を始めとして米国、ベトナム等海外に生産拠点を有し、積極的に海外への事業拡大を行っておりますが、進出した当該国の固有の事情や体制、法律の変化等により事業計画に影響を及ぼす可能性を有しております」（https://www.fujikuracomposites.jp/ir/management/・1回目）
-  - 「また、沈黙期間以外の時点においても、同業他社との競争上不利となる、あるいは守秘義務契約を締結している等の理由により、特定の情報に関してご質問等にお答えできない場合があります」（https://www.fujikuracomposites.jp/ir/management/・1回目）
-  - 「他社との協業を含め、新規開発製品の強化」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
-  - 「当社にしかできない複雑な素材の複合化技術が評価され、国内外のプロツアーでの圧倒的な使用率を背景に、グローバル市場における藤倉ブランドのシャフトシェアは50％を超えるまでに成長しています」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
 - 自社の競合（すでに入っている売り手）：
+  - 「now integrated into 3D Investment Partners Pte. Ltd.」（https://www.hibiki-path-advisors.com/category/engagement/5121/・3回目）
+  - 「2025年11月28日 ー 3D Investment Partnersへの事業統合に関するお知らせ」（https://www.hibiki-path-advisors.com/category/engagement/5121/・3回目）
+  - 「2025年6月17日 ー IGポートのサンリオとの資本業務提携について」（https://www.hibiki-path-advisors.com/category/engagement/5121/・3回目）
   - 「収集データは、上記の目的の範囲で、業務を委託する外部サービス（アクセス解析・配信など）に取り扱わせる場合があります」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「他社との協業を含め、新規開発製品の強化」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
   - 「加えて、スタートアップ企業である株式会社テクサーとの資本業務提携を通じ、当社のセンサ技術を活かしたスマートビルディング市場への参入も果たしました」（https://www.fujikuracomposites.jp/focus/top-message/・1回目）
@@ -583,9 +586,6 @@
   - 「税理士法人、法律事務所等（社員、パートナー、従業員等を含む）でない」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2026/06/corporate-governance-report.pdf・2回目）
   - 「第 20 条 第 17条の単元未満株式買取請求に係る手数料は、株式の売買の委託に係る手数料相当額として」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2025/06/stock.pdf・2回目）
   - 「株主名簿および新株予約権原簿に関する事務は株主名簿管理人に委託し、当会社」（https://www.fujikuracomposites.jp/main/wp-content/uploads/2025/06/teikan2025520.pdf・2回目）
-  - 「収集データは、上記の目的の範囲で、業務を委託する外部サービス（アクセス解析・配信など）に取り扱わせる場合があります」（https://the-shashi.com/tse/5121/ceo/・3回目）
-  - 「藤倉コンポジット社長・森田健司氏/摺動装置部品を共同開発」（https://newswitch.jp/keyword/detail/68239・3回目）
-  - 「業務提携を「資本」にした理由：共創のスピードと“共創のパートナー”」（https://sbro.co.jp/ourworks/case-489174/・3回目）
 - 採用（足りない人・職種）：
   - 「「今春に向けて数十名採用予定」／40／50代も活躍／世界的ラグジュアリーグループ／ハイジュエリー販売」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「【応募資格】 [必須] 【必須条件】 ・国内外資ブランド問わず時計宝飾販売経験もしくは外資ラグジュアリーファッションブランド販売経験 [歓迎] 【尚可条件】外商販売経験 【フィットする人物像】 ・起業家精神・キャッチアップの早さ・スピード感・チャレンジ精神 【弊社からの直近の採用実績】 ・ラグジュアリーファッション(アウトレットのみ)・20代男性 ・アフォータプルブランド・30代女性 ・国内ジュエリーブランド・30代女性 ・外資時計ブランド・30代男性 ・外資シューズブランド・40代女性 ・外資化粧品・40代女性 ・ラグジュアリーファッションブランド・30代男性 等、外資ジュエリーブラ」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
@@ -600,6 +600,8 @@
   - 「藤倉コンポジット株式会社の中途採用・転職・求人情報｜転職エージェントならリクルートエージェント」（https://www.r-agent.com/company/46090/・3回目）
   - 「藤倉コンポジット株式会社の中途採用・転職・求人情報」（https://www.r-agent.com/company/46090/・3回目）
 - 発言（社長・役員）：
+  - 「アクティビスト群がる藤倉コンポに試練 社長「自己資本比率70％以下に」：日経ビジネス電子版」（https://business.nikkei.com/atcl/gen/19/00611/110600059/・3回目）
+  - 「アクティビスト群がる藤倉コンポに試練 社長「自己資本比率70％以下に」」（https://business.nikkei.com/atcl/gen/19/00611/110600059/・3回目）
   - 「【新年トップインタビュー】日本ゼオン社長 田中公章氏」（https://gomuhouchi.com/business/72919/・3回目）
   - 「藤倉コンポジット・森田健司社長（展望２０２１トップインタビュー） : 化学工業日報 電子版」（https://chemicaldaily.com/single?news_code=OK0000021012700401_03&serialization_id=409・3回目）
   - 「藤倉コンポジット・森田健司社長（展望２０２１トップインタビュー）」（https://chemicaldaily.com/single?news_code=OK0000021012700401_03&serialization_id=409・3回目）
@@ -610,8 +612,6 @@
   - 「森田健司社長に23年度の業績を振り返りつつ、スポーツ用品部門、新成長戦略の投資、新年の抱負などを聞いた」（https://www.gomutimes.co.jp/?p=190802・3回目）
   - 「藤倉コンポジットの歴代社長 1名」（https://the-shashi.com/tse/5121/ceo/・3回目）
   - 「当社は明治34年に藤倉善八翁の意を受け継いだ末弟の松本留吉が、初代社長として事業を立ち上げて以来、120年という長い月日を経て、更に未来へ羽ばたこうとしております」（https://www.fujikuracomposites.jp/company/message/・1回目）
-  - 「Fujikura Composite America, Inc. CEO」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
-  - 「FUJIKURA COMPOSITES HAIPHONG,INC.取締役社長」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・1回目）
 - 政治（法・補助・規制）：
   - 「2022年度以降、新たな化学物質規制として労働安全衛生法の関係政省令が改正され、ラベル表示・SDS通知・リスクアセスメント実施の対象物質が順次追加されています」（https://www.fujikuracomposites.jp/focus/environment-coexistence-with-nature/・1回目）
   - 「法令に基づく各種測定値では規制基準を遵守していることも説明し、環境負荷低減や地域の環境保全の活動状況を確認いただきました」（https://www.fujikuracomposites.jp/focus/environment-coexistence-with-nature/・1回目）
@@ -626,6 +626,10 @@
   - 「高齢者医療運営円滑化等補助金（財政基盤の強化が必要な健康保険組合が行う保健事業等に要する費用に対して行う助成事業）」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
   - 「補助金を繰り返し取れている会社には、「制度の探し方」と「事業計画の書き方」が社内に残っています」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
 - 経済（売上・利益・投資額）：
+  - 「東京インキ、通期予想を上方修正 営業益３６億円に」（https://chemicaldaily.com/single?news_code=OK0000021012700401_03&serialization_id=409・3回目）
+  - 「ソーダニッカ４～９月期、営業利益４１％増」（https://chemicaldaily.com/single?news_code=OK0000021012700401_03&serialization_id=409・3回目）
+  - 「2025年12月25日、私どもの主要投資先の一社である、藤倉コンポジット株式会社（以下、「当社」）が、自己株式取得に係る事項の決定に関するお知らせにて、自己株式を除く発行済株式総数に対する6.48％（20億円）を上限とする自己株取得を公表さ...」（https://www.hibiki-path-advisors.com/category/engagement/5121/・3回目）
+  - 「2024年3月期には、スポーツ用品部門が営業利益約40億円規模と全社の利益の大部分を稼ぎ出し、産業用資材は数億円の黒字、引布加工品はわずかな赤字という構造でした」（https://note.com/kakuka0904/n/necd52462518f・3回目）
   - 「入間川ゴム、新中計では売上高の高位安定に取り組む」（https://gomuhouchi.com/business/72919/・3回目）
   - 「藤倉コンポジットの設備投資額32億円・推移11カ年」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「ゴム製品・ベルト・ホース：設備投資額ランキング」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
@@ -634,11 +638,11 @@
   - 「31.8億円」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「14.8億円」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「14.3億円」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
-  - 「15.1億円」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
-  - 「15.2億円」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
-  - 「14.1億円」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
-  - 「13.7億円」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
 - 技術（特許・開発）：
+  - 「■ 仕事内容 ◎ 業務概要 ・お客様からの問い合わせ対応（電話・メール・チャット） ・予約管理システムの操作・運用 ・ゲストや設備に関するトラブルの対応および問題解決 ・クレーム対応 ・顧客満足度向上に向けた提案・改善活動 ・ゲスト、清掃スタッフ、物件オーナーへの対応 ・予約画面の編集・管理 （Airbnb／Booking.com／楽天トラベル／Trip.com などをBeds24で一括管理）」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「国立研究開発法人科学技術振興機構の補助金・交付金の採択実績｜51件」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
+  - 「国立研究開発法人理化学研究所の補助金・交付金の採択実績｜90件」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
+  - 「中小企業のAI導入事例に学ぶ、失敗しない進め方」（https://media.keieishindan.co.jp/s/6700150017916・3回目）
   - 「リクエスト元 IP アドレス・User-Agent・リクエストパス・ステータスコード等を保存し、AI クローラー（ClaudeBot, GPTBot 等）と人間のアクセスの比率把握、不正アクセスの検知、配信品質の改善のために利用しています」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「サイトの品質改善と不正な送信の防止のために利用し、本文の要約には外部の AI サービスを利用する場合があります」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
   - 「素材開発力と加工ノウハウにおける高い専門性」（https://note.com/fisco_jp/n/n8ac8c65362c1・3回目）
@@ -647,11 +651,11 @@
   - 「【応募資格】 [必須] 【必須条件】 ・大学を卒業、もしくは大学院を修了 【歓迎条件】 ■不動産業界での実務経験 ■金融機関または財務会計、管理会計等の会計業務の経験 ■行政や地方公共団体等での就業経験 ■営業やサービス職での顧客対応・交渉業務の実務経験 ■語学力を活かした顧客対応経験 【下記のような方が入社しています】 ・不動産会社で賃貸管理や売買仲介をされていた方 ・デベロッパーや東京都や地方自治体などで都市開発に携わっていた方 ・メガバンクや信託銀行などで営業をしていた方 【職種名】 公務員に近い環境/賃貸住宅を維持管理/幅広いキャリア形成/500～700万/テレワーク・時間休有り」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「オフセット印刷用ブランケット開発、販売」（https://www.fujikuracomposites.jp/company/history/・1回目）
   - 「船舶垂直降下式乗込装置（シューター）を開発」（https://www.fujikuracomposites.jp/company/history/・1回目）
-  - 「ベトナム・ハイフォン市にFUJIKURA COMPOSITES HAIPHONG,INC.」（https://www.fujikuracomposites.jp/company/history/・1回目）
-  - 「中国浙江省安吉経済開発区に安吉藤倉橡膠有限公司」（https://www.fujikuracomposites.jp/company/history/・1回目）
-  - 「非常用マグネシウム空気電池「Watt Satt」を開発、販売」（https://www.fujikuracomposites.jp/company/history/・1回目）
-  - 「「バッテリーレス液体検知センサ」を開発、販売開始」（https://www.fujikuracomposites.jp/company/history/・1回目）
 - 検索結果の抜粋：
+  - 「【 藤倉コンポジット 】[5121]有価証券報告書 | 日経電子版 — 【 藤倉コンポジット 】[5121]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr」（https://www.nikkei.com/nkd/company/ednr/?scode=5121・3回目）
+  - 「藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,683,453件） — 藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,683,453件） スタンバイ」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
+  - 「コーポレート・ガバナンス｜IR情報｜ 藤倉コンポジット 株式会社 — コーポレート・ガバナンス｜IR情報｜ 藤倉コンポジット 株式会社 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > corporate-governance」（https://www.fujikuracomposites.jp/ir/governance/corporate-governance/・3回目）
+  - 「藤倉コンポジット の 大株主 — 藤倉コンポジット の 大株主 The社史 https://the-shashi.com > 藤倉コンポジットの歴史」（https://the-shashi.com/tse/5121/shareholders/・3回目）
   - 「サポート ｜ 藤倉コンポジット 株式会社制御機器事業部 — サポート ｜ 藤倉コンポジット 株式会社制御機器事業部 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > control > support」（https://www.fujikuracomposites.jp/control/support/・3回目）
   - 「藤倉コンポジット ・森田健司 社長 （展望2021トップ ... — 藤倉コンポジット ・森田健司 社長 （展望2021トップ ... 化学工業日報 電子版 https://chemicaldaily.com > single」（https://chemicaldaily.com/single?news_code=OK0000021012700401_03&serialization_id=409・3回目）
   - 「藤倉コンポジット の 設備投資 額32億円・推移11カ年 - The社史 — 藤倉コンポジット の 設備投資 額32億円・推移11カ年 - The社史 The社史 https://the-shashi.com > 藤倉コンポジットの歴史」（https://the-shashi.com/tse/5121/financials/capex/・3回目）
@@ -660,10 +664,6 @@
   - 「FUJIKURA COMPOSITES Sustainability Report — FUJIKURA COMPOSITES Sustainability Report 藤倉コンポジット株式会社 PDF https://fujikuracomposites.jp > assets > pdf > report01」（https://fujikuracomposites.jp/focus/assets/pdf/report01.pdf・3回目）
   - 「工業 用品事業について - 藤倉コンポジット — 工業 用品事業について - 藤倉コンポジット 藤倉コンポジット株式会社 https://fujikuracomposites.jp > satellite > industrial > about」（https://fujikuracomposites.jp/fjk/satellite/industrial/about/・3回目）
   - 「藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,779,546件） — 藤倉コンポジット 募集職種 キャリアの求人情報をすべて見る （10,779,546件） スタンバイ」（https://jp.stanby.com/search?q=%E8%97%A4%E5%80%89%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
-  - 「自動車関連製品｜工業用品 - 藤倉コンポジット — 自動車関連製品｜工業用品 - 藤倉コンポジット 藤倉コンポジット株式会社 https://fujikuracomposites.jp > fjk > industrial > automotive」（https://fujikuracomposites.jp/fjk/satellite/industrial/automotive/・3回目）
-  - 「藤倉コンポジット ×不二ラテックス AIも追い風に？ゴム製品を ... — 藤倉コンポジット ×不二ラテックス AIも追い風に？ゴム製品を ... 日刊ゲンダイDIGITAL https://www.nikkan-gendai.com > ... > トピックスニュース」（https://www.nikkan-gendai.com/articles/view/money/380461・3回目）
-  - 「[ 情報統合室 ] 社員 インタビュー ｜人を知る - 藤倉コンポジット — [ 情報統合室 ] 社員 インタビュー ｜人を知る - 藤倉コンポジット 藤倉コンポジット株式会社 https://www.fujikuracomposites.jp > ... > 入社」（https://www.fujikuracomposites.jp/recruit/member/130/・3回目）
-  - 「【新年 インタビュー 】 藤倉コンポジット 森田健司 社長 — 【新年 インタビュー 】 藤倉コンポジット 森田健司 社長 ゴムタイムス https://www.gomutimes.co.jp > ...」（https://www.gomutimes.co.jp/?p=150199・3回目）
 - 設立：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部43頁・検索22回）
 - 売上高：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部43頁・検索22回）
 - 取引先：記載なし（3回確認済み：公式38頁／PDF・画像18件／外部43頁・検索22回）

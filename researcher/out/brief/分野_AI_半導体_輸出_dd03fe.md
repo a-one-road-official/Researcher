@@ -144,7 +144,7 @@
 - SNS・note（Facebook・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 - SNS・note（LinkedIn・検索結果の抜粋）：未完（まだ取れていない・掘る対象）
 ### 日本→海外（輸出）｜生成AI半導体（AI accelerator chip）
-- 取得：2026-11-08T03:59・調査5回目・読んだ頁62
+- 取得：2026-11-09T04:21・調査6回目・読んだ頁63
 - 痛み・損（深さの印）（2件）：
   - ［記事］2026-11-06「AI半導体が依然好調で2027年までの受注残が1兆ドル（約159兆円）に達したことも明らかにした」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
   - ［SNS］2026-11-06「半導体株のようにSOX指数に振り回されることなく、受注残という形で数年先の売上が見える」https://note.com/tatsuya_sabato/n/na37816fa37c3
@@ -166,50 +166,50 @@
   - ［一次］2026-11-06「現在、HBMの量産で十分な供給能力を有するのは、韓国のSKハイニックスおよびサムスン電子（以下、サムスン）、米国のマイクロン・テクノロジー（以下、マイクロン）の3社だ」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-06「TSMCは台湾を最先端のロジック量産およびパッケージング拠点として維持・拡大しつつ、米国アリゾナ州にもその機能を振り向けつつある」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「中国政府は、国内の半導体メーカーに対し、新工場の建」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
-- 自社の競合（商社・代理店・仲介）（28件）：
+- 自社の競合（商社・代理店・仲介）（29件）：
   - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-09「AI総合研究所のAI Agent Hubは、Teamsから呼び出せる業務特化Agent群を1つのダッシュボードで統合管理し、補助金活用と業務Agent導入を一気通貫で進める運用基盤として機能します」https://www.ai-souken.com/article/japan-ai-semiconductor-policy-2026
   - ［記事］2026-11-06「各商品等への投資に際してご負担いただく手数料等及びリスクは商品毎に異なりますので、詳細につきましては、SBI証券WEBサイトの当該商品等のページ、」https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_251226.html
   - ［記事］2026-11-05「AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era :: Advanced Micro Devices, Inc. (AMD)」https://aimultiple.com/ai-chip-makers
   - ［記事］2026-11-05「Alibaba Unveils New AI Chip, Flagship Model, and Rebuilt Cloud Stack AI for Agentic Era-Alibaba Group」https://aimultiple.com/ai-chip-makers
-  - ［記事］2026-11-05「Cem's work at AIMultiple has been cited by leading global publications including Business Insider, Forbes, Morning Brew, and Washington Post, global firms like Deloitte and HPE, NGOs like World Economic Forum, and supran」https://aimultiple.com/ai-chip-makers
 - 政治（法・予算・規制）（63件）：
   - ［一次］2026-11-05「⚫ 生成AIや自動運転等に不可欠であり経済安全保障上も重要な戦略物資であることから、我が国半導体産業復活に向け、」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
   - ［一次］2026-11-05「(※)供給サイドに直接働きかける措置のみならず、戦略的投資促進に繋がる規制改革や国際標準化･海外市場開拓等の需要サイドからの政策も」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
   - ［一次］2026-11-04「年以降は、米国政府による先端半導体を巡る輸出」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
   - ［一次］2026-11-04「中国政府が 成熟（非先端）領域を中心に 、半導体」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
   - ［一次］2026-11-04「中国政府は、国内の半導体メーカーに対し、新工場の建」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
-- 経済（規模・価格・為替）（50件）：
+- 経済（規模・価格・為替）（51件）：
   - ［一次］2026-11-04「世界半導体出荷額は 約 8,000 億米ドルと前年比＋」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
+  - ［記事］2026-11-09「マスク氏が｢米国版TSMC｣構想、総投資2000兆円試算 AI半導体で賭け」https://www.nikkei.com/article/DGXZQOUC3144V0R30C26A3000000/
   - ［記事］2026-11-06「グローバルインフォメーションによると、世界のHBMの市場規模は2024年で25億ドルでしたが、年平均成長率24.2％で拡大し、2030年には92億ドルに達する見込みです」https://www.ichiyoshi.co.jp/topic/kabuto474
   - ［記事］2026-11-06「AI半導体が依然好調で2027年までの受注残が1兆ドル（約159兆円）に達したことも明らかにした」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
   - ［記事］2026-11-06「主要な半導体メーカーで構成する世界半導体市場統計（WSTS）は3日、2025年の半導体市場が24年予想に比べて11%増の6971億ドル（約104兆円）になりそうだと発表した」https://www.nikkei.com/article/DGXZQOUC037ZX0T01C24A2000000/
-  - ［記事］2026-11-06「AIの学習や推論に使う画像処理半導体（GPU）などが伸び、演算用半導体の成長率は17%増と、10%増を見込んでいた24年6月の従来予想から引き上げた」https://www.nikkei.com/article/DGXZQOUC037ZX0T01C24A2000000/
-- 社会（人・担い手）（32件）：
+- 社会（人・担い手）（33件）：
   - ［一次］2026-11-04「となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「半導体分野におけるキャリアパスやロールモデルの提示により、女性も含めた半導体人材の活躍促進を図」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
+  - ［記事］2026-11-09「大企業向けの半導体量産補助金と直接繋がる制度ではありませんが、「AI導入で人手不足を解消する」政策方針を中小企業レベルで支える設計です」https://www.ai-souken.com/article/japan-ai-semiconductor-policy-2026
   - ［記事］2026-11-06「旺盛な求人に対して、半導体人材の不足は深刻だ」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
   - ［記事］2026-11-06「政府の積極的な財政支援に加えて、海外人材の呼び込み、イノベーションを起こすような「突出した人材」を育てられる環境づくりが急務である（」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
-  - ［記事］2026-11-06「実際、記者が半導体業界を取材してきた中で、「人材が足りている」という声を聞いたことは一度もない」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
 - 技術（新しい技術・実証）（71件）：
   - ［一次］2026-11-04「世界では、半導体を筆頭に AI 関連需要が急拡大しているが、これまで日本の輸出への恩恵は限られていた」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
   - ［一次］2026-11-04「は、①AI 関連需要が高性能 GPU や HBM など一部の先端半導体に集中していたこと、②日本の AI 関連輸出に」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
   - ［一次］2026-11-04「半導体を筆頭に世界的な AI 関連需要が拡大」https://www.itochu-research.com/ja/uploads/em20260610_2026-052_J_AIExport.pdf
   - ［記事］2026-11-06「自動運転や、人工知能（AI）、高度医療といった用途の広がりから、今後も半導体市場は拡大していく」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
   - ［記事］2026-11-06「次世代技術とされる半導体の3次元実装技術でも「人材はいない」（Rapidus〔ラピダス〕 専務執行役員 3Dアセンブリ本部長の折井靖光氏）」https://xtech.nikkei.com/atcl/nxt/column/18/00138/040701260/
+- SNS・note（X・検索結果の抜粋）（1件）：
+  - ［SNS］2026-11-06「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Mar 10, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
+- SNS・note（LinkedIn・検索結果の抜粋）（2件）：
+  - ［SNS］2026-11-06「From GPUs to Purpose-Built Chips: The AI Accelerator Landscape The WSE-3 contains 900,000 AI cores across the entire wafer surface, with 44GB of on-chip SRAM memory delivering 21 petabytes per second of bandwidth. Why do」https://www.linkedin.com/pulse/from-gpus-purpose-built-chips-ai-accelerator-landscape-fred-ingham-rs25e
+  - ［SNS］2026-11-06「When the AI Chip is a System: Does Your Patent Portfolio Protect the ... The AI infrastructure race is changing not only what semiconductor companies design, but where the patentable, novel, innovation occurs. A modern A」https://jp.linkedin.com/pulse/when-ai-chip-system-does-your-patent-portfolio-protect-roberta-young-uhpdc?tl=ja
+- SNS・note（Facebook・検索結果の抜粋）（2件）：
+  - ［SNS］2026-11-06「大分デバイステクノロジー株式会社 - FacebookKeisuke Taki - Facebook国土強靭化で伸びる AI・半導体関連注目株 7選 2026年、生成AIの波は...フェローテック、中国光通信大手とAI分野で協業――半導体部材会社を約3...Takashi Yunogami - Facebook Mar 16, 2026 · 大分デバイステクノロジー（ODT）の最新情報を掲... 業界トレンド情報 第53弾『半導体市場・」https://www.facebook.com/odtcorp/
+  - ［SNS］2026-11-06「Takashi Yunogami - Facebook Oct 8, 2026 · 生成AIの爆発的な普及によって、NVIDIAのGPUや、そ れに搭載する広帯域メモリHBMの価格が高騰している のは理解できます。 ところが、これらとは全く関係が無い（と思われる） 液晶パネルや積層セラミックコンデンサ（MLCC）など の価格までも上昇しています。」https://www.facebook.com/yunogami/
 - 検索結果の抜粋（12件）：
   - ［記事］2026-11-06「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — May 14, 2026 · The Asia Pacific AI accelerator chips market will likely witness the highest regional CAGR between 2026 and 2035, owing to the efforts made by 」https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899
   - ［記事］2026-11-06「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — May 14, 2026 · AI Accelerator Chips Market size was valued at USD 45.8 billion in 2025 and is expected to grow at 32.18% CAGR to reach USD 746.2 billion by 20」https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899
   - ［記事］2026-11-06「AI Accelerator Market Size, Share & Forecast Report 2025 to ... — Jul 26, 2023 · The AI accelerator market reached $235.0 billion in 2025 and grows at a 15.0% CAGR to $826.7 billion by 2034, led by data center GPUs and c」https://dataintelo.com/report/global-ai-accelerator-market
   - ［記事］2026-11-06「Global AI Accelerator Chip Market Size, Industry Share ... — May 24, 2026 · AI Accelerator Chip Market Overview 2026-2033 The AI Accelerator Chip Market constitutes a specialized segment within the broader semiconductor 」https://www.verifiedmarketreports.com/product/ai-accelerator-chip-market/
   - ［記事］2026-11-06「AI Accelerator Chip Market Size, Share & Forecast Report 2025 ...AI Accelerator Chip Market Share Outlook Highlights USD 74.34 ...AI Accelerator Chips Market Size & Share 2026-2035AI Accelerator Market Size, Share, Trend」https://dataintelo.com/report/ai-accelerator-chip-market
-- SNS・note（X・検索結果の抜粋）（1件）：
-  - ［SNS］2026-11-06「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Mar 10, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
-- SNS・note（Facebook・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-06「大分デバイステクノロジー株式会社 - FacebookKeisuke Taki - Facebook国土強靭化で伸びる AI・半導体関連注目株 7選 2026年、生成AIの波は...フェローテック、中国光通信大手とAI分野で協業――半導体部材会社を約3...Takashi Yunogami - Facebook Mar 16, 2026 · 大分デバイステクノロジー（ODT）の最新情報を掲... 業界トレンド情報 第53弾『半導体市場・」https://www.facebook.com/odtcorp/
-  - ［SNS］2026-11-06「Takashi Yunogami - Facebook Oct 8, 2026 · 生成AIの爆発的な普及によって、NVIDIAのGPUや、そ れに搭載する広帯域メモリHBMの価格が高騰している のは理解できます。 ところが、これらとは全く関係が無い（と思われる） 液晶パネルや積層セラミックコンデンサ（MLCC）など の価格までも上昇しています。」https://www.facebook.com/yunogami/
-- SNS・note（LinkedIn・検索結果の抜粋）（2件）：
-  - ［SNS］2026-11-06「From GPUs to Purpose-Built Chips: The AI Accelerator Landscape The WSE-3 contains 900,000 AI cores across the entire wafer surface, with 44GB of on-chip SRAM memory delivering 21 petabytes per second of bandwidth. Why do」https://www.linkedin.com/pulse/from-gpus-purpose-built-chips-ai-accelerator-landscape-fred-ingham-rs25e
-  - ［SNS］2026-11-06「When the AI Chip is a System: Does Your Patent Portfolio Protect the ... The AI infrastructure race is changing not only what semiconductor companies design, but where the patentable, novel, innovation occurs. A modern A」https://jp.linkedin.com/pulse/when-ai-chip-system-does-your-patent-portfolio-protect-roberta-young-uhpdc?tl=ja
 ### 日本→海外（輸出）｜バーティカルAI（vertical AI）
 - 取得：2026-11-08T05:25・調査5回目・読んだ頁83
 - 痛み・損（深さの印）（1件）：

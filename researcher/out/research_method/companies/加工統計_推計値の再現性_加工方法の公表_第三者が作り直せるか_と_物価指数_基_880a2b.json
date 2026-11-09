@@ -8,7 +8,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T20:38:25.613176+00:00",
+ "researched_at": "2026-11-09T04:31:30.548627+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -139,104 +139,6 @@
    },
    {
     "quote": "調整済指数の系列で前月比が横ばいになるよう推計を行います",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "は以下のとおりでした（ただし、比較する月ごとにこれらの影響の大きさは異なりますので御注意ください",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "G-5 日本の消費者物価指数には上方バイアスがあると言われていますが本当ですか",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "消費者物価指数の上方バイアスは、価格の大きく下落した品目が、（1）需要も増えて相対的な支出割合も拡大した場合、（2）時間の経過とともに指数の水準が著しく低下した場合、などに生じることが指摘されています",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "G-7 消費者物価指数と企業物価指数（日本銀行）の動きを対比させて見る際の注意点はありますか",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、GDPデフレーターはできるだけ指数算出に伴うバイアスを軽減することができるようにウエイトを毎年更新する連鎖方式により作成されています",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "注2）消費税調整済指数は、課税扱いとなる品目について一律に消費税率引上げの直接的な影響があるとみなした調整をしており、品目別に見た一律の調整による指数が実際の課税措置に完全には適合しておらず、過剰な調整（又は調整不足）となる場合があるため、利用には注意が必要です",
-    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "接続指数では、過去基準の指数を新基準の分類編成に組み替えた上で接続していますが、各基準において採用品目や品目ウエイトなどが異なるため、利用にあたって、性格が異なる各基準の指数を機械的に接続したものである点には、注意する必要があります",
-    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "いるからその品目の上昇が適正に評価されず、総合指数が下方にバイアスを持ってい",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "いがどれだけあるかによりバイアスが生じるのです",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "大に、停滞品は過小に評価され、総合指数に上方のバイアスを持ち込むことになりま",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "の方のバイアスが少ないということではなく、ラスパイレス算式と全く正反対のバイ",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "固定された基準時から遠ざかるにしたがって指数のバイアスが大きくなるならば、",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかしながら、あまり長く基準時を固定しておくとバイアスが大きくなりま",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "基準改定を行うのは、算式のバイアスをなくすためだけではなく、もう１つ大きな",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "過去の鉱工業生産指数を見る限り、指数にバイアスが生じる原因は、経済的に不安",
-    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なお、注意しなければならないのは、新規事業所が立地した場合による繰り入れで",
     "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -1003,6 +905,104 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "は以下のとおりでした（ただし、比較する月ごとにこれらの影響の大きさは異なりますので御注意ください",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "G-5 日本の消費者物価指数には上方バイアスがあると言われていますが本当ですか",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "消費者物価指数の上方バイアスは、価格の大きく下落した品目が、（1）需要も増えて相対的な支出割合も拡大した場合、（2）時間の経過とともに指数の水準が著しく低下した場合、などに生じることが指摘されています",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "G-7 消費者物価指数と企業物価指数（日本銀行）の動きを対比させて見る際の注意点はありますか",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、GDPデフレーターはできるだけ指数算出に伴うバイアスを軽減することができるようにウエイトを毎年更新する連鎖方式により作成されています",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "注2）消費税調整済指数は、課税扱いとなる品目について一律に消費税率引上げの直接的な影響があるとみなした調整をしており、品目別に見た一律の調整による指数が実際の課税措置に完全には適合しておらず、過剰な調整（又は調整不足）となる場合があるため、利用には注意が必要です",
+    "url": "https://www.stat.go.jp/data/cpi/4-1.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "接続指数では、過去基準の指数を新基準の分類編成に組み替えた上で接続していますが、各基準において採用品目や品目ウエイトなどが異なるため、利用にあたって、性格が異なる各基準の指数を機械的に接続したものである点には、注意する必要があります",
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "いるからその品目の上昇が適正に評価されず、総合指数が下方にバイアスを持ってい",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "いがどれだけあるかによりバイアスが生じるのです",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "大に、停滞品は過小に評価され、総合指数に上方のバイアスを持ち込むことになりま",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "の方のバイアスが少ないということではなく、ラスパイレス算式と全く正反対のバイ",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "固定された基準時から遠ざかるにしたがって指数のバイアスが大きくなるならば、",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかしながら、あまり長く基準時を固定しておくとバイアスが大きくなりま",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "基準改定を行うのは、算式のバイアスをなくすためだけではなく、もう１つ大きな",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "過去の鉱工業生産指数を見る限り、指数にバイアスが生じる原因は、経済的に不安",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なお、注意しなければならないのは、新規事業所が立地した場合による繰り入れで",
+    "url": "https://www.meti.go.jp/statistics/tyo/iip/riyou-3.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
   ]
  },
  "figures": {},
@@ -1014,12 +1014,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/stats47/n/naf04e81afb7b",
+    "url": "https://note.com/hide_sekihara/n/nc406738de242",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hide_sekihara/n/nc406738de242",
+    "url": "https://note.com/stats47/n/naf04e81afb7b",
     "status": "ok",
     "method": "http"
    },
@@ -1070,13 +1070,8 @@
    },
    {
     "url": "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja",
-    "status": "http_502",
-    "method": "http"
-   },
-   {
-    "url": "https://www.academia.edu/27814496/Technical_Note_GDP_Deflator_Converting_From_One_Base_Year_to_Another_Paper_Prepared_for_the_Ministry_of_National_Planning_November_2012",
-    "status": "robots_disallowed",
-    "method": ""
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://ageconsearch.umn.edu/record/356736/files/Lewis_Bird_Lewis+Bird+-+How+does+deflator+choice+and+base+year+preference+impact+the+conversion+of+nominal+to+real+agricultural+prices.pdf",
@@ -1089,14 +1084,19 @@
     "method": "http"
    },
    {
+    "url": "https://www.academia.edu/27814496/Technical_Note_GDP_Deflator_Converting_From_One_Base_Year_to_Another_Paper_Prepared_for_the_Ministry_of_National_Planning_November_2012",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
     "url": "https://maseconomics.com/ap-macro-2-6-real-vs-nominal-gdp/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://fastercapital.com/content/Base-Year--Back-to-Basics--The-Role-of-Base-Year-in-GDP-Deflator-Calculations.html",
-    "status": "http_403",
-    "method": "http"
+    "url": "https://economics.stackexchange.com/questions/5025/how-do-i-change-the-base-year-of-real-gdp-using-the-gdp-deflator-and-nominal-gdp",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.elibrary.imf.org/view/journals/001/2016/133/article-A001-en.xml",
@@ -1110,15 +1110,15 @@
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） site:note.com",
    "results": [
     "https://note.com/great_chimp5478/n/n6f109b868684",
-    "https://note.com/stats47/n/naf04e81afb7b",
     "https://note.com/hide_sekihara/n/nc406738de242",
+    "https://note.com/stats47/n/naf04e81afb7b",
     "https://note.com/bright_lupine143/n/ne5d924f91172",
     "https://note.com/bca_m/n/n4aef9ce22c89",
     "https://note.com/chuosogolpc/n/n6a29ef8287ef",
-    "https://note.com/kamokita/n/nbd413520ba4e"
+    "https://note.com/kamokita/n/n28ab3d315df7"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1134,7 +1134,7 @@
     "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1150,7 +1150,7 @@
     "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1166,45 +1166,55 @@
     "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "reproducibility of derived statistics deflator base year linking real series pitfalls",
    "results": [
-    "https://www.academia.edu/27814496/Technical_Note_GDP_Deflator_Converting_From_One_Base_Year_to_Another_Paper_Prepared_for_the_Ministry_of_National_Planning_November_2012",
     "https://ageconsearch.umn.edu/record/356736/files/Lewis_Bird_Lewis+Bird+-+How+does+deflator+choice+and+base+year+preference+impact+the+conversion+of+nominal+to+real+agricultural+prices.pdf",
     "https://book.rleripio.com/deflating-values",
+    "https://www.academia.edu/27814496/Technical_Note_GDP_Deflator_Converting_From_One_Base_Year_to_Another_Paper_Prepared_for_the_Ministry_of_National_Planning_November_2012",
     "https://maseconomics.com/ap-macro-2-6-real-vs-nominal-gdp/",
-    "https://fastercapital.com/content/Base-Year--Back-to-Basics--The-Role-of-Base-Year-in-GDP-Deflator-Calculations.html",
+    "https://economics.stackexchange.com/questions/5025/how-do-i-change-the-base-year-of-real-gdp-using-the-gdp-deflator-and-nominal-gdp",
     "https://www.elibrary.imf.org/view/journals/001/2016/133/article-A001-en.xml",
     "https://datahelpdesk.worldbank.org/knowledgebase/articles/680284-why-do-countries-revise-their-national-accounts"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "site:note.com 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/stats47/n/naf04e81afb7b",
+    "https://note.com/hide_sekihara/n/nc406738de242",
+    "https://note.com/chuosogolpc/n/n6a29ef8287ef",
+    "https://note.com/apt_daisy823/n/nb6c486c51eff",
+    "https://note.com/great_chimp5478/n/n6f109b868684",
+    "https://note.com/kamokita/n/n716c2b1df7ea",
+    "https://note.com/kamokita/n/nbd413520ba4e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）",
    "results": [
+    "https://x.com/kataokagoushi/status/2068502116935794982",
     "https://x.com/toushitsuuyaku/status/2107306404621029732",
     "https://x.com/the_last_leaf/status/2040301622165917975",
     "https://x.com/Zoukers/status/2094749354544558260",
-    "https://x.com/shinjukuacc/status/1938462294314262937",
     "https://x.com/Nagapiii/status/2100396398277730466",
-    "https://x.com/jibun_no_tweets/status/2099989618343240141",
+    "https://x.com/shinjukuacc/status/1938462294314262937",
     "https://x.com/genkuroki/status/2059924018304786534"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1212,8 +1222,8 @@
    "query": "site:linkedin.com 加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手）",
    "results": [
     "https://jp.linkedin.com/pulse/repeatability-vs-reproducibility-key-differences-baoqc?tl=ja",
-    "https://jp.linkedin.com/pulse/statistical-analysis-formal-problem-solving-tools-enhancing-chopra-bgxkc?tl=ja",
     "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
+    "https://jp.linkedin.com/pulse/statistical-analysis-formal-problem-solving-tools-enhancing-chopra-bgxkc?tl=ja",
     "https://jp.linkedin.com/in/謙人-坂井-a01629342",
     "https://jp.linkedin.com/pulse/reproducibility-replicability-robustness-research-why-schweinberger-iwhie?tl=ja",
     "https://jp.linkedin.com/pulse/reproducibility-biomedical-research-traceability-systems-francis-osei-kvtee?tl=ja",
@@ -1242,9 +1252,19 @@
   },
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.stat.go.jp/naruhodo/7_shurui/chousatoukei.html",
+    "https://www.esri.cao.go.jp/jp/sna/data/sna_ronbun/pdf/sna_ronbun021.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000102.pdf",
+    "https://www.soumu.go.jp/main_content/000480850.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/guideline.pdf",
+    "https://www.esri.cao.go.jp/jp/sna/data/reference1/sakusei_top.html",
+    "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "加工統計・推計値の再現性（加工方法の公表・第三者が作り直せるか）と、物価指数・基準年の違う実質系列をつなぐときの注意（統計の利用者・エコノミストの書き手） X 投稿",
@@ -1258,15 +1278,15 @@
     "https://www.jstage.jst.go.jp/article/papaios/30/1/30_21/_pdf/-char/ja"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "reproducibility of derived statistics deflator base year linking real series pitfalls site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/getting-real-gdp-why-india-must-fix-its-deflator-problem-ganguly-m6h9c",
     "https://www.linkedin.com/pulse/when-real-growth-outruns-nominal-why-indias-gdp-deflator-ganguly-7fdtc",
+    "https://www.linkedin.com/pulse/getting-real-gdp-why-india-must-fix-its-deflator-problem-ganguly-m6h9c",
     "https://pe.linkedin.com/posts/standard-a-097125a5_today-i-analyze-nigerias-gdp-deflator-for-activity-6729666361703849984-4jAo",
     "https://pe.linkedin.com/pulse/reproducibility-problem-sciencewhats-scientist-do-part-stout/",
     "https://www.linkedin.com/advice/3/what-most-common-pitfalls-avoid-when-ensuring-reproducibility-ovlie",
@@ -1274,13 +1294,13 @@
     "https://www.linkedin.com/advice/3/how-do-you-adjust-nominal-variables-inflation-deflation"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T06:00:31.289687+00:00"
 }
