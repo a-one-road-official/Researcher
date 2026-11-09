@@ -71,6 +71,8 @@ topics:
   feedstock_makers_world: {run: true, shards: 8, per_run: 2}  # 2026-11-09 最優先：Formnextに限らず世界中のリストからAM原料メーカーを形態別・地域別に洗う（樹脂ペレット・エンプラ/スーパーエンプラのフィラメント・レジン・樹脂粉末・セラミック・複合材・金属粉・ワイヤ・フィードストック）25品目。大手も既知も載せる
   feedstock_jp_check: {run: true, shards: 8, per_run: 4}  # 2026-11-09 最優先：海外AM原料メーカーの日本の担い手（日本法人・代理店・取扱い商社・国内通販の正規販売店）と窓口。第1弾＝Formnext出展の樹脂材料57社。世界一覧で見つかった会社を inputs に足して続ける
 
+  yc_mfg_hr: {run: true, shards: 4, per_run: 2}  # 2026-11-09 海外で製造業の採用・ブランディングに実績があり日本で未定着のサービス（YC周り優先）8品目：提供企業・YCの期・製造業の実績・日本展開・再販条件
+
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
 # 2026-11-06 本人「深さが重要」「APIで抜き出す」。1回の読み取り上限・深い声として出す最低点（5点満点）
 x_pain: {run: true, max_posts_per_run: 300, min_score: 2}

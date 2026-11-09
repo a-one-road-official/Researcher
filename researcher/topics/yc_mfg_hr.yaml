@@ -1,0 +1,29 @@
+# 本人の指示（2026-11-09）：A1の式＝「Banklessで実証した、海外のサービスを日本に持ち込んで根づかせる力」×製造業。
+# 探すのは「海外で、製造業の採用やブランディングにすでに使われて実績があり、日本ではまだ根づいていないサービス」。YC（Y Combinator）周りを優先し、YC以外も載せる。
+# 提供企業名・YCの期・製造業の顧客の実績・日本での展開の有無・再販/ホワイトラベルの条件・価格・売上/調達をそのまま引用する。要約・解釈しない。
+kind: market
+title: 海外で製造業の採用・ブランディングに実績があり日本で未定着のサービス（YC周り優先）— 提供企業・実績・日本展開・再販条件
+input: researcher/inputs/yc_mfg_hr.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  提供企業: [startup, company, platform, founded, providers, vendors, alternatives, competitors, companies like, such as, launched, backed by]
+  YC・出資: [Y Combinator, YC, (W2, (S2, (F2, (X2, batch, seed, Series A, Series B, raised, funding, investors, backed]
+  製造業の実績: [manufacturing, manufacturer, factory, plant, warehouse, skilled trades, technicians, machinists, welders, frontline, hourly, blue-collar, blue collar, customers include, case study, used by, trusted by]
+  日本での展開: [Japan, Japanese, Tokyo, 日本, 日本法人, 代理店, APAC, Asia-Pacific]
+  再販・ホワイトラベル: [white label, white-label, reseller, partner program, channel partner, agency partner, rebrand, OEM, API, integration partner, 代理店, 再販]
+  価格: [per month, /month, per user, per seat, per hire, per job, pricing, plans start, starting at, free trial]
+  売上・規模: [revenue, ARR, customers, employers, hires, million, 売上]
+
+numeric: [価格, 売上・規模]
+
+external_queries:
+  - "{en} Y Combinator"
+  - "{en} YC startup"
+  - "site:ycombinator.com/companies {en}"
+  - "{en} manufacturing customers case study"
+  - "{en} startup raises funding"
+  - "{en} white label OR reseller OR partner program"
+  - "{en} Japan"
+
+limits: {pages: 60, external_per_query: 5, per_cat: 15}
