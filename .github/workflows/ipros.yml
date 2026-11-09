@@ -1,0 +1,89 @@
+name: IPROS list
+
+# 2026-11-10 本人：イプロス掲載企業（ドライブの ipros_all.csv）から、採用・広告の営業先の名簿を作る。
+# 80本（20台×4本）で同時に確かめる。種→20台で確認→合流、を全部終わるまで自分で繰り返す。Claude は触らない。
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/ipros.yml"
+      - "researcher/build_ipros.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency: { group: ipros-list, cancel-in-progress: false }
+
+jobs:
+  seeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m pip install -q -r researcher/requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python -m researcher.build_ipros seeds
+      - run: |
+          git config user.name "a1-researcher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add researcher/out/ipros_hr
+          git diff --cached --quiet && exit 0
+          git commit -q -m "ipros: seeds $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 10 + 3)); done
+
+  shard:
+    needs: seeds
+    runs-on: ubuntu-latest
+    timeout-minutes: 100
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    env:
+      IPROS_SHARDS: "20"
+      IPROS_SHARD: ${{ matrix.shard }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m pip install -q -r researcher/requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python -m researcher.build_ipros shard
+      - if: always()
+        run: |
+          git config user.name "a1-researcher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add researcher/out/ipros_hr/checked_*.csv || true
+          git diff --cached --quiet && exit 0
+          git commit -q -m "ipros: shard ${{ matrix.shard }} $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5 6 7 8 9 10; do git pull -q --rebase && git push -q && break; sleep $((RANDOM % 15 + 3)); done
+
+  merge:
+    needs: shard
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python -m pip install -q pyyaml requests
+      - id: m
+        run: |
+          set +e
+          python -m researcher.build_ipros merge
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+      - run: |
+          git config user.name "a1-researcher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A researcher/out/ipros_hr researcher/inputs/ipros_hr.csv
+          git diff --cached --quiet || git commit -q -m "ipros: merge $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5 6 7 8; do git pull -q --rebase && git push -q && break; sleep 5; done
+      - if: steps.m.outputs.code == '0'
+        env: { GH_TOKEN: "${{ github.token }}" }
+        run: gh workflow run ipros.yml --ref main

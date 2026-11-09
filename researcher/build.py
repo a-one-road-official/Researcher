@@ -26,7 +26,7 @@ def main() -> int:
     # 2026-11-09 本人の最優先（表彰リスト起点の芋づる）を先に回す。他の名簿づくりは止めずに後ろで続ける
     # 2026-11-09 本人：世界のAM原料メーカー名簿を最優先。1回90分で区切り、残りは次の回に続ける（award_chain を止めない）
     # 2026-11-10 本人：イプロスの営業先名簿が最優先。各90分で区切り、1回の上限（300分）に収める
-    order = {"researcher.build_ipros": 0, "researcher.build_award_chain": 1, "researcher.build_feedstock_dir": 2}
+    order = {"researcher.build_award_chain": 1, "researcher.build_feedstock_dir": 2}  # イプロスは専用の流れ（ipros.yml・80本）
     for b in sorted(pending(), key=lambda b: order.get(b, 2)):
         print(f"build {b}", flush=True)
         m = importlib.import_module(b)

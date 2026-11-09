@@ -168,7 +168,11 @@ def judge(r: dict) -> str:
     return ("対象（" if len(met) >= 2 else "外す（") + f"{len(met)}/3：" + ("・".join(met) or "なし") + "）"
 
 
-WORKERS = 4  # 2026-11-10 本人：4本同時並行。並べた会社を 1234,1234… と交互に割り振り、同じ会社を2本が触らない
+import os
+WORKERS = 4  # 1台の中の本数
+SHARDS = int(os.environ.get("IPROS_SHARDS", "1"))  # 2026-11-10 本人：80本（20台×4本）。.github/workflows/ipros.yml が台数と台番号を渡す
+SHARD = int(os.environ.get("IPROS_SHARD", "0"))
+# 2026-11-10 本人：4本同時並行。並べた会社を 1234,1234… と交互に割り振り、同じ会社を2本が触らない
 
 
 def _worker(k: int, end_epoch: float) -> None:
@@ -177,9 +181,10 @@ def _worker(k: int, end_epoch: float) -> None:
     seeds = _read(SEEDS)
     seeds.sort(key=lambda s: (0 if MFG_FIRST.search(s.get("class_name", "")) else 1, s["ipros_id"]))
     done_all = {r["ipros_id"] for r in _read(CHECKED)}
-    mine_p = OUT / f"checked_{k}.csv"
+    g, stride = SHARD * WORKERS + k, SHARDS * WORKERS  # 全体で g 番目の本。g, g+stride, … 番目の会社だけを触る（重複なし）
+    mine_p = OUT / f"checked_{g}.csv"
     mine = {r["ipros_id"]: r for r in _read(mine_p)}
-    for s in seeds[k::WORKERS]:
+    for s in seeds[g::stride]:
         if s["ipros_id"] in done_all or s["ipros_id"] in mine:
             continue
         if time.time() > end_epoch:
@@ -202,12 +207,13 @@ def _worker(k: int, end_epoch: float) -> None:
 
 def _merge() -> dict:
     done = {r["ipros_id"]: r for r in _read(CHECKED)}
-    for k in range(WORKERS):
-        for r in _read(OUT / f"checked_{k}.csv"):
+    parts = sorted(OUT.glob("checked_*.csv"))
+    for p in parts:
+        for r in _read(p):
             done[r["ipros_id"]] = r
     _write(CHECKED, list(done.values()), FIELDS)
-    for k in range(WORKERS):
-        (OUT / f"checked_{k}.csv").unlink(missing_ok=True)
+    for p in parts:
+        p.unlink(missing_ok=True)
     return done
 
 
@@ -266,9 +272,40 @@ def main(deadline_s: float = 90 * 60) -> int:
     return 0
 
 
+def run_shard(minutes: float = 80) -> int:
+    """専用の流れ（ipros.yml）の1台分：自分の台の4本だけを回し、checked_<g>.csv に残す（合流は merge_all）。"""
+    import multiprocessing as mp
+    end_epoch = time.time() + minutes * 60
+    ctx = mp.get_context("spawn")
+    procs = [ctx.Process(target=_worker, args=(k, end_epoch)) for k in range(WORKERS)]
+    for p in procs:
+        p.start()
+    for p in procs:
+        p.join(timeout=minutes * 60 + 600)
+        if p.is_alive():
+            p.terminate()
+    return 0
+
+
+def merge_all() -> int:
+    done = _merge()
+    seeds = _read(SEEDS)
+    write_outputs(len(done) >= len(seeds) > 0)
+    print(f"ipros: seeds {len(seeds)} checked {len(done)}", flush=True)
+    return 0 if len(done) < len(seeds) else 3  # 3＝全部終わった（次の回を呼ばない）
+
+
 def is_done() -> bool:
     return (OUT / "BUILD_DONE").exists()
 
 
 if __name__ == "__main__":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else ""
+    if cmd == "seeds":
+        OUT.mkdir(parents=True, exist_ok=True)
+        sys.exit(0 if seeds_from_drive() or collect_seeds(time.monotonic() + 80 * 60) else 1)
+    if cmd == "shard":
+        sys.exit(run_shard())
+    if cmd == "merge":
+        sys.exit(merge_all())
     sys.exit(main())

@@ -1,7 +1,6 @@
 # 本人の指示（2026-11-10）：イプロス掲載の製造業・売上1億円以上・自動車除く・有料の求人を出している会社を全部。採用・広告の支援を売る営業先。
 # 判定と門番は build_ipros.py（GitHub）で回す。Claude は1社ずつ読まない。
 title: イプロス 製造業・売上1億円以上・自動車除く・有料求人あり — 営業先の名簿（第2段：創業年度・株主・取引先）
-build: researcher.build_ipros
 input: researcher/inputs/ipros_hr.csv
 columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
 
