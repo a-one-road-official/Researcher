@@ -1,0 +1,38 @@
+# 本人の指示（2026-11-09）：海外のAM原料メーカー（樹脂ペレット・エンプラ/スーパーエンプラのフィラメント・レジン・樹脂粉末）を、日本に誰かいるかで判定する材料を取る。
+# 除外の基準（本人）：日本に誰かいる会社（日本法人・日本拠点・日本の代理店・取扱い商社・日本の通販の正規販売店）と、常識的に一人の会社と組まない大手。
+# 前提：一人・手持ち約20万円・業界の実績なし・1か月・借入なし・在庫を持たない。引用のまま取る。判定はしない（本人がする）。
+title: 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口
+input: researcher/inputs/feedstock_jp_check.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+profile_keys:
+  創業年度: [Founded, Established, founded in, year founded, 設立, 創業]
+  株主: [Shareholders, Ownership, Owner, Parent company, Investors, part of, member of, Group, 親会社, 株主]
+  従業員数: [Employees, employees, staff, team, Mitarbeiter, 従業員]
+  売上高: [Revenue, Turnover, Umsatz, sales, 売上]
+  所在地: [Address, Headquarters, HQ, Adresse, 所在地]
+  拠点: [Offices, Locations, Subsidiaries, Distributors, Dealers, Resellers, Partners, Where to buy, 代理店, 販売店]
+  連絡先: [E-mail, Email, email, Mail, Contact, Kontakt, sales@, info@, 問い合わせ]
+
+evidence:
+  日本の担い手: [Japan, Japanese, 日本, 日本法人, K.K., 株式会社, 合同会社, 代理店, 正規代理店, 総代理店, 正規販売店, 輸入元, 販売元, 国内正規品, distributor in Japan, Japan distributor, Japan office, Tokyo, Osaka]
+  代理店網: [distributor, distributors, reseller, resellers, dealer, dealers, where to buy, partner network, become a distributor, become a reseller, Vertriebspartner, Händler, distributeur, 代理商, 经销商]
+  直送・ネット販売: [webshop, online shop, shop, ships worldwide, international shipping, worldwide shipping, Amazon, AliExpress, Alibaba]
+  規模・親会社: [employees, staff, revenue, turnover, part of, subsidiary of, owned by, group, acquired, listed, 上場, 子会社]
+  連絡先: [sales@, info@, export@, contact@, E-mail, Email, Kontakt, Contact us]
+
+subpage_keywords: [about, company, contact, kontakt, distributor, distributors, reseller, dealers, where-to-buy, partners, japan, global, worldwide, shop, impressum, imprint, 关于, 联系]
+image_keywords: [distributor, map, global, partner]
+
+external_queries:
+  - "{name} 代理店"
+  - "{name} 正規代理店 OR 総代理店 OR 正規販売店"
+  - "{name} 日本 販売"
+  - "{name} フィラメント OR レジン OR ペレット 通販"
+  - "{name} Japan distributor"
+  - "{name} distributor Japan OR Japanese partner"
+  - "site:amazon.co.jp {name}"
+  - "site:monotaro.com {name}"
+  - "{name} employees revenue parent company"
+
+limits: {pages: 25, subpages: 20, pdfs: 4, images: 6, external_per_query: 4}

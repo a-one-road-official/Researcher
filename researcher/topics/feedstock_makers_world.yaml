@@ -1,0 +1,44 @@
+# 本人の指示（2026-11-09）：Formnextだけでなく、世界中のあらゆるリストからAM原料（樹脂ペレット・エンプラ/スーパーエンプラのフィラメント・レジン・樹脂粉末・セラミック・複合材・金属粉・ワイヤ・フィードストック）のメーカーを洗い出す。大手から無名まで全部。
+# 既知・大手も除外せず載せる（判定は後工程 feedstock_jp_check で日本の担い手を確かめる）。英語以外（独・蘭・仏・伊・中・韓・トルコ・波・チェコ）まで当たる。
+# 前提（絞り込み条件）：一人・手持ち約20万円（別に11月中に使い切る70万円）・業界の実績なし・1か月・借入なし・在庫を持たない。引用のまま取る。
+kind: market
+title: 世界のAM原料メーカー一覧（形態別・地域別）— 社名・国・製品・日本の担い手
+input: researcher/inputs/feedstock_makers_world.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+evidence:
+  会社名・一覧: [manufacturer, manufacturers, brands, brand, suppliers, supplier, producer, makers, companies such as, including, list of, top 10, best, exhibitors, Hersteller, Anbieter, fabricant, fabbricante, fabricante, producent, výrobce, üretici, 厂家, 品牌, 企业, 제조사, メーカー, ブランド]
+  創業年: [founded in, established in, since 20, 設立, 創業, gegründet, fondée en, fondata nel, 成立于, 설립]
+  資金調達・株主: [raised, funding, seed, Series A, Series B, investors, led by, backed by, venture, Finanzierungsrunde, levée de fonds, 融资, 투자, 資金調達, 出資, 株主]
+  年商・規模: [revenue, turnover, employees, staff, Umsatz, Mitarbeiter, chiffre d'affaires, 营收, 売上, 従業員]
+  日本の担い手: [Japan, Japanese, 日本, 国内, 代理店, distributor in Japan, Japanese partner, Japan office, K.K., 株式会社]
+  代理店募集・売り方: [distributor, reseller, become a partner, partner program, dealer, direct sales, online shop, webshop, ships worldwide, international shipping, Vertriebspartner, distributeur, 代理商, 代理店募集]
+  技術支援: [application engineering, technical support, parameters, print profiles, training, qualification, 技術支援, 造形条件]
+  展示会: [Formnext, Start-up Area, Start-up Challenge, Young Innovators, Pitchnext, TCT, RAPID, AMUG, booth, stand, hall]
+  価格: [per kg, /kg, price, pricing, €, $, USD, EUR, 価格]
+
+numeric: [資金調達・株主, 年商・規模]
+
+figure_patterns:
+  創業年: '創業年|(?:founded|established|gegründet|fondée|設立|創業)[^0-9]{0,20}?((?:19|20)\d{2})'
+  調達額: '資金調達・株主|(?:raised|funding|round of)[^0-9$€]{0,30}?(?:USD|US\$|\$|€|EUR)\s*(\d{1,4}(?:[.,]\d{1,3})?)\s*(?:million|mn|m\b|M\b|billion)'
+
+external_queries:
+  - "{en}"
+  - "{en} list"
+  - "top {en}"
+  - "{en} distributor reseller program"
+  - "{en} exhibitors"
+  - "{name}"
+  - "site:metal-am.com {en}"
+  - "site:3dprintingindustry.com {en}"
+  - "site:voxelmatters.com {en}"
+  - "site:3dnatives.com {en}"
+  - "site:3printr.com {en}"
+  - "site:3druck.com {en}"
+  - "site:3dadept.com {en}"
+  - "site:alibaba.com {en}"
+  - "site:all3dp.com {en}"
+  - "{en} brands comparison"
+
+limits: {pages: 60, external_per_query: 6, per_cat: 20}

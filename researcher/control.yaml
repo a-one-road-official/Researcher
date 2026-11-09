@@ -68,6 +68,9 @@ topics:
   feedstock_startups: {run: true, shards: 8, per_run: 2}  # 2026-11-09 最優先：原料の形態別スタートアップ14品目（独・蘭・仏・伊・中・韓まで）：社名・創業年・調達と株主・日本の担い手の有無・代理店募集・直送・Formnext Start-up Area
   award_chain: {run: true, shards: 8, per_run: 4}  # 2026-11-09 最優先：一都三県の表彰・認定リスト（健康経営優良法人・地域未来牽引企業・GNT100選・大田の優工場・彩の国工場ほか）を種に、会社概要・取引先・子会社から芋づる式（深さ2）。資本金1億円以上・一都三県・自動車除外で判定。第1段で名簿、第2段で創業年度・株主
 
+  feedstock_makers_world: {run: true, shards: 8, per_run: 2}  # 2026-11-09 最優先：Formnextに限らず世界中のリストからAM原料メーカーを形態別・地域別に洗う（樹脂ペレット・エンプラ/スーパーエンプラのフィラメント・レジン・樹脂粉末・セラミック・複合材・金属粉・ワイヤ・フィードストック）25品目。大手も既知も載せる
+  feedstock_jp_check: {run: true, shards: 8, per_run: 4}  # 2026-11-09 最優先：海外AM原料メーカーの日本の担い手（日本法人・代理店・取扱い商社・国内通販の正規販売店）と窓口。第1弾＝Formnext出展の樹脂材料57社。世界一覧で見つかった会社を inputs に足して続ける
+
 # X の困りごと（有料API・1投稿ごとに課金）。topics とは別の仕組み（.github/workflows/x_pain.yml）。
 # 2026-11-06 本人「深さが重要」「APIで抜き出す」。1回の読み取り上限・深い声として出す最低点（5点満点）
 x_pain: {run: true, max_posts_per_run: 300, min_score: 2}
