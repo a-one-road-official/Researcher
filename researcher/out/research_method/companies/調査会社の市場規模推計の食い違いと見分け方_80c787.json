@@ -8,8 +8,328 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T16:25:21.853819+00:00",
+ "researched_at": "2026-11-09T00:17:54.604132+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "次に、公的統計から母集団、支出、販売額を取り、同じ年次・単位・範囲へそろえます",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "この記事では、市場規模の推計に必要な基礎数値を無料の公的統計からどう探し、どうそろえ、2つの経路で計算して差を検証するところまでを追います",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の算定方法は、大きな統計から対象分を絞るトップダウンと、顧客数・購入頻度・単価を積み上げるボトムアップの2系統です",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "トップダウンが大きすぎるなら、上位統計に対象外の用途が混ざっている可能性があります",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "無料データの起点は、官公庁が公表する統計です",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場名から探すのではなく、必要な変数が企業数なのか、世帯支出なのか、販売額なのかを決めてから統計を選びます",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計ごとの公表周期、対象年、確報・速報を確認",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "年齢、世帯類型、地域など統計表ごと",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "為替、分類、名目・実質、暦年・年度を国内統計と揃える必要がある",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "医療、介護、建設、教育、エネルギーなどは、e-Statで所管機関の統計を探し、作成機関の原典へ戻ります",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "法人企業統計調査を使う場合も、資本金規模や業種区分が顧客条件と合うかを見ます",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "広い品目の総額を自社市場と置かず、商業動態統計調査を併用するなら、世帯支出と小売販売額が同じ取引段階を見ているかを確かめます",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公開統計で埋まらない導入率、利用頻度、支払意思は、顧客候補への聞き取りや販売検証へ渡します",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "市場規模の調べ方｜公的統計を式へつなぐ7工程",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "日本貿易振興機構（JETRO）の輸出品目別レポート（しょうゆ、2025年7月更新）は、しょうゆ情報センターの統計資料を引く",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "出荷量を数えたのは、しょうゆ情報センターの統計資料である",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界団体の日本醤油協会が明らかにした数字だという",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "JETROが引く統計資料と、共同通信が伝える協会の数字は、どちらも集計の手順を書いていない",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "調査主体、調査時期、母数を添えるという、統計を引くときの定石を、検査の書式にしたものだ",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社で計った数字について、本稿で示せる一次情報はない",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://gfi.org/wp-content/uploads/2022/04/2021-Fermentation-State-of-the-Industry-Report.pdf",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://gfi.org/wp-content/uploads/2025/04/2024-Executive-summary-Fermentation-for-meat-seafood-eggs-dairy-and-ingredients.pdf",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.jetro.go.jp/ext_images/industry/foods/item/19.pdf",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、その標準化がどこまで進んだのかを数えた統計は、確認できた資料の中にない",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、同記事は、この傾きを示す統計を挙げていない",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界団体Kombucha Brewers International（KBI）の、2020年のオンライン会議KombuchaKonでの報告だと、同誌は伝える",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社の売上や市場での位置は、本稿で示せる一次情報がない",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://gfi.org/wp-content/uploads/2022/04/2021-Fermentation-State-of-the-Industry-Report.pdf",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "事業計画の基準線として採用するには楽観的すぎる、という点は押さえておきたい",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "、Grand Viewのような狭いスコープ・保守的CAGRの数字を採用する",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "総務省統計局、統計研究研修所の共同運営",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "自社の調査目的に合致した統計を選択すること",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "代表的な業界団体・協会の調査データを下表にまとめました",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生産統計（数字でわかる！見て学ぶ！2026",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "bmjopen-2023-076264supp001.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(1MB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "bmjopen-2023-076264.reviewer_comments.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(295.9KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "bmjopen-2023-076264.draft_revisions.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(5MB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "PDF (1.5 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "実例": [
    {
     "quote": "Data tidying involves manipulating the way that data is set up to make it easier to interpret. For example, changing birth dates into age categories, or removing ‘don’t know’ categories.",
@@ -662,6 +982,314 @@
     "first_seen": "2026-11-05"
    }
   ],
+  "失敗・落とし穴": [
+   {
+    "quote": "顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "企業が見落としがちな“データの落とし穴”と解決策",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "In much the same way that some meals are great while others are inedible, some data files are great and some are unusable. The quality of a data file is perhaps the biggest cause of problems experienced by people when learning how to analyze surveys, as a common mistake is to put insufficient effort into obtaining ‘good’ data which results in the analysis being much harder than it needs to be.",
+    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "questions. This is generally caused by the data collection software exporting the data incorrectly (unfortunately, most data collection programs make this mistake). Some programs, such as Q and Displayr, attempt to automatically correct this problem by looking for patterns in the data (e.g., if there are 10 variables, each of which has the same prefix of",
+    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The data needs to be weighted or otherwise any analyses will be misleading (as they will be biased by the misrepresentation of gender).",
+    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PSM分析とは？具体的な方法やメリット・注意点などを紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "定点調査とは？基本からメリット・デメリットや活用事例、注意点をご紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "セグメンテーションとは？重要なポイントや失敗事例を紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です",
+    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Identifying Bias in Market Research Reports",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "? Identifying Bias in Market Research Reports",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Triangulation involves comparing multiple data sources or methods to validate findings, helping to identify consistent patterns and reduce bias.",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.",
+    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これは、数字を誤りと断ずるものではない",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "では、総説の予測は誤りだったのか",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注記がないことと、誤りであることは、別の話である",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ある人気ブランドのラベルには、発酵のために微量のアルコールを含むことがあり、その量は0.5%未満、という注意書きがあった",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もう一つ、注意がある",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年をまたぐ比較には、もう一つ落とし穴がある",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "注意したいのは、数えた範囲である",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一方で、CBDそのものの売上を知りたい場合には数字が過大に見える点に注意が必要だ",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "重要なのは、ひとつの数字を「市場規模の真実」として鵜呑みにしないことだ",
+    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この手法で最も注意すべきは、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "もう一つの落とし穴は、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ブランドリフトとは？質問テンプレートやメリット、注意点について解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ホームユーステスト（HUT）とは？メリットとデメリット、注意点を解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "定量調査の事例紹介！企業が抱える課題や調査結果、失敗例とその留意点とは？",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "オンラインインタビューに向いている調査とは？注意点やメリットなど紹介",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "学術調査におけるアンケート調査の注意点5選｜マーケティングリサーチとの違いや回答負担軽減など解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In 2000, ClinicalTrials.gov and the ISRCTN Registry were launched with several aims, including aiding participant recruitment, facilitating knowledge synthesis and reducing duplication, publication bias and selective reporting.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We coded 10 types of outcome discrepancies and 10 types of non-outcome discrepancies. The degree to which the information in a registration is discrepant with the information in a publication can range widely. The associated concern about risk of bias can also range widely and often requires domain expertise to assess. We present two examples verbatim from the study by Calméjane",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Whereas we did not perform a formal risk of bias assessment—because our review differed substantially from the purpose these tools were built for—we shed light on a few potential sources of bias with additional analyses that consider the funding source, statistical significance and the timing of registration of included",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Dwan K, Gamble C, Williamson PR, et al. Systematic review of the empirical evidence of study publication bias and outcome reporting bias an updated review. PLOS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Howard B, Scott JT, Blubaugh M, et al. Systematic review: outcome reporting bias is a problem in high impact factor neurology journals. PLoS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Huić M, Marušić M, Marušić A. Completeness and changes in registered data and reporting bias of randomized controlled trials in ICMJE journals after trial registration policy. PLoS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Nankervis H, Baibergenova A, Williams HC, et al. Prospective registration and outcome-reporting bias in randomized controlled trials of Eczema treatments: a systematic review. J Invest Dermatol",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chan A-W, Krleza-Jerić K, Schmid I, et al. Outcome reporting bias in randomized trials funded by the Canadian institutes of health research. CMAJ",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Su C-X, Han M, Ren J, et al. Empirical evidence for outcome reporting bias in randomized clinical trials of Acupuncture: comparison of registered records and subsequent publications. TRIALS",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Krsticevic M, Saric D, Saric F, et al. Selective reporting bias due to discrepancies between registered and published outcomes in osteoarthritis trials. J Comp Eff Res",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Rising K, Bacchetti P, Bero L. Reporting bias in drug trials submitted to the food and drug administration: review of publication and presentation. PLoS Med",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Wayant C, Scheckel C, Hicks C, et al. Evidence of selective reporting bias in hematology journals: a systematic review. PLOS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Wiebe J, Detten G, Scheckel C, et al. The heart of the matter: outcome reporting bias and registration status in Cardio-Thoracic surgery. Int J Cardiol",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Won J, Kim S, Bae I, et al. Trial registration as a safeguard against outcome reporting bias and spin? A case study of randomized controlled trials of Acupuncture. PLoS ONE",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Vera-Badillo FE, Shapiro R, Ocana A, et al. Bias in reporting of end points of efficacy and toxicity in randomized, clinical trials for women with breast cancer. Ann Oncol",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "These steps are also sometimes referred to as data processing",
@@ -1143,661 +1771,58 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "次に、公的統計から母集団、支出、販売額を取り、同じ年次・単位・範囲へそろえます",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "この記事では、市場規模の推計に必要な基礎数値を無料の公的統計からどう探し、どうそろえ、2つの経路で計算して差を検証するところまでを追います",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の算定方法は、大きな統計から対象分を絞るトップダウンと、顧客数・購入頻度・単価を積み上げるボトムアップの2系統です",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "トップダウンが大きすぎるなら、上位統計に対象外の用途が混ざっている可能性があります",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "無料データの起点は、官公庁が公表する統計です",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場名から探すのではなく、必要な変数が企業数なのか、世帯支出なのか、販売額なのかを決めてから統計を選びます",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計ごとの公表周期、対象年、確報・速報を確認",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "年齢、世帯類型、地域など統計表ごと",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "為替、分類、名目・実質、暦年・年度を国内統計と揃える必要がある",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "医療、介護、建設、教育、エネルギーなどは、e-Statで所管機関の統計を探し、作成機関の原典へ戻ります",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "法人企業統計調査を使う場合も、資本金規模や業種区分が顧客条件と合うかを見ます",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "広い品目の総額を自社市場と置かず、商業動態統計調査を併用するなら、世帯支出と小売販売額が同じ取引段階を見ているかを確かめます",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公開統計で埋まらない導入率、利用頻度、支払意思は、顧客候補への聞き取りや販売検証へ渡します",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "市場規模の調べ方｜公的統計を式へつなぐ7工程",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "日本貿易振興機構（JETRO）の輸出品目別レポート（しょうゆ、2025年7月更新）は、しょうゆ情報センターの統計資料を引く",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "出荷量を数えたのは、しょうゆ情報センターの統計資料である",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界団体の日本醤油協会が明らかにした数字だという",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "JETROが引く統計資料と、共同通信が伝える協会の数字は、どちらも集計の手順を書いていない",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "調査主体、調査時期、母数を添えるという、統計を引くときの定石を、検査の書式にしたものだ",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社で計った数字について、本稿で示せる一次情報はない",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://gfi.org/wp-content/uploads/2022/04/2021-Fermentation-State-of-the-Industry-Report.pdf",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://gfi.org/wp-content/uploads/2025/04/2024-Executive-summary-Fermentation-for-meat-seafood-eggs-dairy-and-ingredients.pdf",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.jetro.go.jp/ext_images/industry/foods/item/19.pdf",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、その標準化がどこまで進んだのかを数えた統計は、確認できた資料の中にない",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、同記事は、この傾きを示す統計を挙げていない",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界団体Kombucha Brewers International（KBI）の、2020年のオンライン会議KombuchaKonでの報告だと、同誌は伝える",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社の売上や市場での位置は、本稿で示せる一次情報がない",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://gfi.org/wp-content/uploads/2022/04/2021-Fermentation-State-of-the-Industry-Report.pdf",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "事業計画の基準線として採用するには楽観的すぎる、という点は押さえておきたい",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "、Grand Viewのような狭いスコープ・保守的CAGRの数字を採用する",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "総務省統計局、統計研究研修所の共同運営",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "自社の調査目的に合致した統計を選択すること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "代表的な業界団体・協会の調査データを下表にまとめました",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産統計（数字でわかる！見て学ぶ！2026",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "bmjopen-2023-076264supp001.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(1MB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "bmjopen-2023-076264.reviewer_comments.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(295.9KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "bmjopen-2023-076264.draft_revisions.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(5MB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "PDF (1.5 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "企業が見落としがちな“データの落とし穴”と解決策",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In much the same way that some meals are great while others are inedible, some data files are great and some are unusable. The quality of a data file is perhaps the biggest cause of problems experienced by people when learning how to analyze surveys, as a common mistake is to put insufficient effort into obtaining ‘good’ data which results in the analysis being much harder than it needs to be.",
-    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "questions. This is generally caused by the data collection software exporting the data incorrectly (unfortunately, most data collection programs make this mistake). Some programs, such as Q and Displayr, attempt to automatically correct this problem by looking for patterns in the data (e.g., if there are 10 variables, each of which has the same prefix of",
-    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The data needs to be weighted or otherwise any analyses will be misleading (as they will be biased by the misrepresentation of gender).",
-    "url": "https://www.qresearchsoftware.com/market-research-guide-data-preparation",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PSM分析とは？具体的な方法やメリット・注意点などを紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "定点調査とは？基本からメリット・デメリットや活用事例、注意点をご紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "セグメンテーションとは？重要なポイントや失敗事例を紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "全体の桁を見誤りにくい反面、掛ける比率の出典が弱いと、計算を重ねるほど根拠が薄くなります",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "BtoCでは、利用者が個人でも支出主体が世帯である商品に注意が必要です",
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Identifying Bias in Market Research Reports",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "? Identifying Bias in Market Research Reports",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Triangulation involves comparing multiple data sources or methods to validate findings, helping to identify consistent patterns and reduce bias.",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.",
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これは、数字を誤りと断ずるものではない",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "では、総説の予測は誤りだったのか",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注記がないことと、誤りであることは、別の話である",
-    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ある人気ブランドのラベルには、発酵のために微量のアルコールを含むことがあり、その量は0.5%未満、という注意書きがあった",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もう一つ、注意がある",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年をまたぐ比較には、もう一つ落とし穴がある",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "注意したいのは、数えた範囲である",
-    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一方で、CBDそのものの売上を知りたい場合には数字が過大に見える点に注意が必要だ",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "重要なのは、ひとつの数字を「市場規模の真実」として鵜呑みにしないことだ",
-    "url": "https://note.com/tomohironakagawa/n/n66a9824ad706",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この手法で最も注意すべきは、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "もう一つの落とし穴は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ブランドリフトとは？質問テンプレートやメリット、注意点について解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "インタビューフローの作り方｜基礎からグループ/デプスインタビューの注意点まで解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ホームユーステスト（HUT）とは？メリットとデメリット、注意点を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "定量調査の事例紹介！企業が抱える課題や調査結果、失敗例とその留意点とは？",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "オンラインインタビューに向いている調査とは？注意点やメリットなど紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "学術調査におけるアンケート調査の注意点5選｜マーケティングリサーチとの違いや回答負担軽減など解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In 2000, ClinicalTrials.gov and the ISRCTN Registry were launched with several aims, including aiding participant recruitment, facilitating knowledge synthesis and reducing duplication, publication bias and selective reporting.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We coded 10 types of outcome discrepancies and 10 types of non-outcome discrepancies. The degree to which the information in a registration is discrepant with the information in a publication can range widely. The associated concern about risk of bias can also range widely and often requires domain expertise to assess. We present two examples verbatim from the study by Calméjane",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Whereas we did not perform a formal risk of bias assessment—because our review differed substantially from the purpose these tools were built for—we shed light on a few potential sources of bias with additional analyses that consider the funding source, statistical significance and the timing of registration of included",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Dwan K, Gamble C, Williamson PR, et al. Systematic review of the empirical evidence of study publication bias and outcome reporting bias an updated review. PLOS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Howard B, Scott JT, Blubaugh M, et al. Systematic review: outcome reporting bias is a problem in high impact factor neurology journals. PLoS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Huić M, Marušić M, Marušić A. Completeness and changes in registered data and reporting bias of randomized controlled trials in ICMJE journals after trial registration policy. PLoS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Nankervis H, Baibergenova A, Williams HC, et al. Prospective registration and outcome-reporting bias in randomized controlled trials of Eczema treatments: a systematic review. J Invest Dermatol",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Chan A-W, Krleza-Jerić K, Schmid I, et al. Outcome reporting bias in randomized trials funded by the Canadian institutes of health research. CMAJ",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Su C-X, Han M, Ren J, et al. Empirical evidence for outcome reporting bias in randomized clinical trials of Acupuncture: comparison of registered records and subsequent publications. TRIALS",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Krsticevic M, Saric D, Saric F, et al. Selective reporting bias due to discrepancies between registered and published outcomes in osteoarthritis trials. J Comp Eff Res",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Rising K, Bacchetti P, Bero L. Reporting bias in drug trials submitted to the food and drug administration: review of publication and presentation. PLoS Med",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Wayant C, Scheckel C, Hicks C, et al. Evidence of selective reporting bias in hematology journals: a systematic review. PLOS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Wiebe J, Detten G, Scheckel C, et al. The heart of the matter: outcome reporting bias and registration status in Cardio-Thoracic surgery. Int J Cardiol",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Won J, Kim S, Bae I, et al. Trial registration as a safeguard against outcome reporting bias and spin? A case study of randomized controlled trials of Acupuncture. PLoS ONE",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Vera-Badillo FE, Shapiro R, Ocana A, et al. Bias in reporting of end points of efficacy and toxicity in randomized, clinical trials for women with breast cancer. Ann Oncol",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10551944/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/jpreportocean/n/n9ad285aab3dc",
+    "url": "https://note.com/sun_r_lab/n/n495b9a988be5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
+    "url": "https://note.com/sun_r_lab/n/n46a73223c4d4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shijochosa_labo/n/n7648b1cfab60",
+    "url": "https://note.com/hasegawashojiro/n/n6c9b9ae9095c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shijochosa_labo/n/n8cac054490c1",
+    "url": "https://note.com/tsunobuchi/n/n3656d445a626",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/oh1ta/n/nbe59fdb76e4f",
+    "url": "https://note.com/tomiryu2025/n/na03f14b75cf3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tango_lab/n/nfd3d2e70c3c1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_datamimi/n/nb5ed46476574",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_datamimi/n/na7eff46a487c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=8581cc9fb2adacf69266229eb45f80d2",
     "status": "ok",
     "method": "http"
    },
@@ -1807,12 +1832,42 @@
     "method": "http"
    },
    {
+    "url": "https://axiamark.com/knowledge/5050/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prizma-link.com/press/blog/RI6bTgZm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.dm-insight.jp/column/market-size/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=e1c76795cafab51204722ee563f5098c",
+    "url": "https://www.macromill.com/service/column/entry-003/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mdb-biz.jmar.co.jp/column/57",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intage.co.jp/gallery/marketsize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proffit.jp/column/1/4FNysU9V",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cyber-synapse.com/consulting/features/whatismarketresearch/",
     "status": "ok",
     "method": "http"
    },
@@ -1822,19 +1877,14 @@
     "method": "http"
    },
    {
+    "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.crex-data.com/column/market-research-company-comparison",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://crexgroup.com/ja/data/column/research-methods/market-size-research-basics-methods/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.rjc.co.jp/column/262",
@@ -1842,44 +1892,34 @@
     "method": "http"
    },
    {
-    "url": "https://media.spready.co.jp/how-to-estimate-market-size/",
+    "url": "https://www.lexisnexis.com/en-us/glossary/market-research.page",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.kentleyinsights.com/how-to-evaluate-market-research-reports-2026/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fastercapital.com/content/Discrepancy-in-data--Bridging-the-Gap-in-Reporting-Accuracy.html",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sciencedirect.com/science/article/pii/S0165176524006360",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://tier2systems.com/en/blog/data-discrepancy-reports-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.linkedin.com/advice/3/your-primary-research-contradicts-industry-reports-csucf",
+    "url": "https://www.sogolytics.com/blog/how-to-write-market-research-analysis-report/",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://www.appinio.com/en-gb/blog/market-research/understanding-market-research-ultimate-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qresearchsoftware.com/market-research-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/blog/how-market-research-report-is-built-methodology?srsltid=AYCX9vLSawRqw4S427fDzF_xHGyPO_xCSdN4oZDDoHW6l28yxWkXu52Q",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hbs.edu/ris/Publication%20Files/23-062_1f58623a-ee21-44b9-a262-276047bc5543.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -1887,120 +1927,147 @@
   {
    "query": "調査会社の市場規模推計の食い違いと見分け方 site:note.com",
    "results": [
-    "https://note.com/jpreportocean/n/n9ad285aab3dc",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "https://note.com/shijochosa_labo/n/n8cac054490c1",
-    "https://note.com/oh1ta/n/nbe59fdb76e4f",
-    "https://note.com/ai_datamimi/n/ndb66cfb9d566",
-    "https://note.com/ote_walk/n/n84135dbb9b34"
+    "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "https://note.com/hasegawashojiro/n/n6c9b9ae9095c",
+    "https://note.com/tsunobuchi/n/n3656d445a626",
+    "https://note.com/tomiryu2025/n/na03f14b75cf3",
+    "https://note.com/tango_lab/n/nfd3d2e70c3c1",
+    "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "https://note.com/ny_bird/n/n9c4061f2dda0",
+    "https://note.com/keitaro_aigc/n/n46c2f27e94b5",
+    "https://note.com/hirokimiyano/n/n2a152e9a56ae"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "調査会社の市場規模推計の食い違いと見分け方 note",
    "results": [
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "https://note.com/jpreportocean/n/n9ad285aab3dc",
-    "https://insight.rakuten.co.jp/knowledge/column/column034/",
-    "https://www.dm-insight.jp/column/market-size/",
+    "https://note.com/ai_datamimi/n/nb5ed46476574",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "https://note.com/ai_datamimi/n/na7eff46a487c",
     "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
-    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
-    "https://www.crex-data.com/column/market-research-company-comparison"
+    "https://note.com/ai_datamimi/n/ndb66cfb9d566",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://axiamark.com/knowledge/5050/",
+    "https://note.com/oh1ta/n/nbe59fdb76e4f",
+    "https://www.macromill.com/service/column/entry-003/",
+    "https://note.com/jpreportocean/n/n9ad285aab3dc"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "調査会社の市場規模推計の食い違いと見分け方 やり方",
    "results": [
-    "https://crexgroup.com/ja/data/column/research-methods/market-size-research-basics-methods/",
-    "https://www.dm-insight.jp/column/market-size/",
-    "https://insight.rakuten.co.jp/knowledge/column/column034/",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://www.rjc.co.jp/column/262",
-    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
-    "https://media.spready.co.jp/how-to-estimate-market-size/"
+    "https://www.prizma-link.com/press/blog/RI6bTgZm",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://www.dm-insight.jp/column/market-size/",
+    "https://www.macromill.com/service/column/entry-003/",
+    "https://mdb-biz.jmar.co.jp/column/57",
+    "https://www.intage.co.jp/gallery/marketsize/",
+    "https://www.youtube.com/watch?v=J8jE60kgKyg",
+    "https://proffit.jp/column/1/4FNysU9V",
+    "https://crexgroup.com/ja/data/column/research-methods/market-size-research-basics-methods/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "調査会社の市場規模推計の食い違いと見分け方 事例",
    "results": [
-    "https://www.dm-insight.jp/column/market-size/",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "https://www.prizma-link.com/press/blog/RI6bTgZm",
+    "https://proffit.jp/column/1/4FNysU9V",
     "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://mdb-biz.jmar.co.jp/column/57",
+    "https://www.dm-insight.jp/column/market-size/",
+    "https://www.macromill.com/service/column/entry-003/",
+    "https://cyber-synapse.com/consulting/features/whatismarketresearch/",
     "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
-    "https://www.crex-data.com/column/market-research-company-comparison",
-    "https://timewell.jp/columns/market-sizing-tam-sam-som",
-    "https://www.rjc.co.jp/column/262"
+    "https://timewell.jp/columns/market-sizing-tam-sam-som"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 12
   },
   {
    "query": "market research report estimates discrepancy how to evaluate",
    "results": [
-    "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html",
-    "https://www.kentleyinsights.com/how-to-evaluate-market-research-reports-2026/",
-    "https://fastercapital.com/content/Discrepancy-in-data--Bridging-the-Gap-in-Reporting-Accuracy.html",
-    "https://www.sciencedirect.com/science/article/pii/S0165176524006360",
-    "https://tier2systems.com/en/blog/data-discrepancy-reports-guide/",
-    "https://www.linkedin.com/advice/3/your-primary-research-contradicts-industry-reports-csucf",
-    "https://research-rebels.com/blogs/rebelsblog/facing-the-unexpected-dealing-with-data-that-contradicts-your-hypothesis"
+    "https://www.lexisnexis.com/en-us/glossary/market-research.page",
+    "https://www.sogolytics.com/blog/how-to-write-market-research-analysis-report/",
+    "https://www.appinio.com/en-gb/blog/market-research/understanding-market-research-ultimate-guide",
+    "https://www.qresearchsoftware.com/market-research-guide",
+    "https://www.marketresearchreports.com/blog/how-market-research-report-is-built-methodology?srsltid=AYCX9vLSawRqw4S427fDzF_xHGyPO_xCSdN4oZDDoHW6l28yxWkXu52Q",
+    "https://www.hbs.edu/ris/Publication%20Files/23-062_1f58623a-ee21-44b9-a262-276047bc5543.pdf",
+    "https://www.kidwelltax.com/blog/7-effective-ways-to-evaluate-a-market/",
+    "https://link.springer.com/article/10.1007/s11408-026-00497-w",
+    "https://cleverx.com/blog/essential-research-strategies-for-effective-market-analysis-a-smart-research-approach/",
+    "https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com 調査会社の市場規模推計の食い違いと見分け方",
    "results": [
-    "https://note.com/jpreportocean/n/n9ad285aab3dc",
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "https://note.com/shijochosa_labo/n/n8cac054490c1",
-    "https://note.com/oh1ta/n/nbe59fdb76e4f",
-    "https://note.com/ai_datamimi/n/ndb66cfb9d566",
-    "https://note.com/ote_walk/n/n84135dbb9b34"
+    "https://note.com/sun_r_lab/n/n495b9a988be5",
+    "https://note.com/sun_r_lab/n/n46a73223c4d4",
+    "https://note.com/hasegawashojiro/n/n6c9b9ae9095c",
+    "https://note.com/tomiryu2025/n/na03f14b75cf3",
+    "https://note.com/ny_bird/n/n9c4061f2dda0",
+    "https://note.com/tomohironakagawa/n/n66a9824ad706",
+    "https://note.com/tango_lab/n/nfd3d2e70c3c1",
+    "https://note.com/honda_crosscom/n/n144a440ea402",
+    "https://note.com/hirokimiyano/n/n2a152e9a56ae",
+    "https://note.com/ny_bird/n/n9a71b7681e8d"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 調査会社の市場規模推計の食い違いと見分け方",
    "results": [
+    "https://x.com/PERAGARU1/status/2119278082817437907",
+    "https://x.com/KagawaTomo/article/2080578592044724258",
+    "https://x.com/KagawaTomo/status/2117390282467787057",
     "https://x.com/morihiroaki/status/2107944535900954805",
     "https://x.com/misaki_hennyu/status/2107062620717305986",
     "https://x.com/aiwalk_walker/article/2112799196621488530",
     "https://x.com/research98492/status/2091056461296336943",
     "https://x.com/jitasoku_ai/status/2114711043599659486",
     "https://x.com/kate_sekkei/status/2110687130943156228",
-    "https://x.com/kate_sekkei/status/2112861464360882368",
-    "https://x.com/kogagami17/status/2097303941839196530"
+    "https://x.com/kate_sekkei/status/2112861464360882368"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com 調査会社の市場規模推計の食い違いと見分け方",
    "results": [
+    "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
     "https://www.linkedin.com/news/story/食い違いの解消にはまず傾聴-5538530/",
     "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
     "https://jp.linkedin.com/posts/祐太-惠良-恵良祐太331b_市場規模の数字を作るたびに推計の但し書きが増えていませんか-調査会社のレポート-activity-7522492645907193856-B69A",
@@ -2010,79 +2077,86 @@
     "https://de.linkedin.com/in/beatrix-becker"
    ],
    "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 調査会社の市場規模推計の食い違いと見分け方",
-   "results": [
-    "https://www.facebook.com/office.mikata/posts/働き方改革のしわ寄せは管理職へ現場の管理職と人事の間で起こっている課題の食い違いhttpsofficenomikatajpnews10793/1298177150362569/",
-    "https://www.facebook.com/KankyoJpn.gov/posts/環境省は環境産業の市場規模雇用規模等の推計結果をまとめた環境産業の市場規模雇用規模等に関する報告書を毎年公表していますこの度令和７年度報告書2024年調査結果を/1348211457402361/",
-    "https://www.facebook.com/adic.corporation/posts/食違い仕口ずれの計測器最新版katohゲージ-ミニを販売開始しました使いやすい手頃なサイズです/886861173134791/",
-    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー靴履物市場に関する調査を実施2026年2024年度の国内靴履物小売市場規模は前年度比1008の1兆2367億円と推計スポーツスニーカー需要の/1301459578662805/",
-    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリー惣菜中食米飯市場に関する調査を実施2026年2025年度の日配惣菜米飯市場は前年度比1026の10兆5218億円加工惣菜米飯市場は前年度比1/1592051452936948/",
-    "https://www.facebook.com/yanoresearch/posts/市場調査結果サマリーインターネット広告市場に関する調査を実施2025年2024年度の国内インターネット広告市場規模は3兆5834億円2029年度には5兆6768/1301249212017175/",
-    "https://www.facebook.com/euromonitor.japan/posts/市場調査会社ユーロモニターの推計では来年は米国だけでモバイル電子商取引市場の規模が４００億ドルに達するという/673114026033716/"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "調査会社の市場規模推計の食い違いと見分け方 note 社長",
-   "results": [
-    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed",
-    "https://note.com/shijochosa_labo/n/n7648b1cfab60",
-    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
-    "https://www.dm-insight.jp/column/market-size/",
-    "https://insight.rakuten.co.jp/knowledge/column/column034/",
-    "https://www.rjc.co.jp/column/262",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/"
-   ],
-   "engines": [
     "ddgs:bing",
-    "ddgs:google"
+    "yahoo_jp"
    ],
    "n_hits": 8
   },
   {
-   "query": "調査会社の市場規模推計の食い違いと見分け方 X 投稿",
+   "query": "site:facebook.com 調査会社の市場規模推計の食い違いと見分け方",
    "results": [
-    "https://www.crex-data.com/column/market-research-company-comparison",
-    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
-    "https://www.dm-insight.jp/column/market-size/",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://insight.rakuten.co.jp/knowledge/column/column034/",
-    "https://crexgroup.com/ja/data/column/research-bpo/market-size-research-companies-comparison/",
-    "https://crex-consulting.com/column/research/market-research-firms-japan-ranking/"
+    "https://www.facebook.com/yamauchi.seiji/posts/28950908844518743/",
+    "https://www.facebook.com/yamauchi.seiji/posts/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E4%B8%96%E7%95%8C%E5%A4%A7%E6%89%8B-binance-%E3%81%AF%E5%8C%97%E6%9C%9D%E9%AE%AE%E6%94%BF%E5%BA%9C%E3%81%8C%E9%96%A2%E4%B8%8E%E3%81%99%E3%82%8B%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E9%9B%86%E5%9B%A3tradertraitor%E3%81%AE%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6-%E7%B4%8463%E5%84%84%E3%83%89%E3%83%AB%E7%B4%841%E5%85%86%E5%86%86%E7%9B%B8%E5%BD%93%E3%81%AE%E8%B3%87%E7%94%A3%E3%81%8C%E7%9B%97%E3%81%BE/28961779816764979/",
+    "https://www.facebook.com/groups/8519336068142510/"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 3
+  },
+  {
+   "query": "調査会社の市場規模推計の食い違いと見分け方 note 社長",
+   "results": [
+    "https://note.com/ai_datamimi/n/nb5ed46476574",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "https://note.intimatemerger.com/n/n8e62c0d1f2ed",
+    "https://note.com/ai_datamimi/n/na7eff46a487c",
+    "https://insight.rakuten.co.jp/knowledge/column/column034/",
+    "https://www.macromill.com/service/column/entry-003/",
+    "https://note.com/ai_datamimi/n/ndb66cfb9d566",
+    "https://www.dm-insight.jp/column/market-size/",
+    "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
+    "https://note.com/jgiajfid_5293/n/nfff6807ef5ed"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "調査会社の市場規模推計の食い違いと見分け方 X 投稿",
+   "results": [
+    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "https://www.dm-insight.jp/column/market-size/",
+    "https://prtimes.com/magazine/market-size/",
+    "https://www.macromill.com/service/column/entry-003/",
+    "https://mdb-biz.jmar.co.jp/column/57",
+    "https://proffit.jp/column/1/4FNysU9V",
+    "https://www.research-company-100.com/marketing-types/market-size.html",
+    "https://www.cross-m.co.jp/column/marketing/util51",
+    "https://corp.neo-m.jp/column/marketing-research_145_marketing-size",
+    "https://www.crex-data.com/column/market-research-company-comparison"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
   },
   {
    "query": "market research report estimates discrepancy how to evaluate site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/advice/0/how-do-you-address-discrepancies-between-qualitative-dy73e",
-    "https://www.linkedin.com/advice/3/your-primary-research-contradicts-industry-reports-csucf",
-    "https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/b2b-institute/b2b-research/LIN_B2B-Marketing-Report-Digital-v02.pdf",
-    "https://in.linkedin.com/in/abhinav-yadav-b5725017",
-    "https://uk.linkedin.com/in/gioedid",
-    "https://br.linkedin.com/in/tamiressduarte/en",
-    "https://in.linkedin.com/in/arijeet-kumar"
+    "https://www.linkedin.com/pulse/how-use-market-research-survey-validate-your-aukye",
+    "https://www.linkedin.com/pulse/market-research-dead-what-replaces-much-harder-dr-elena-zhukovskaya-qgo5f",
+    "https://www.linkedin.com/pulse/market-research-vs-user-whats-real-difference-glow-team-sl08e",
+    "https://www.linkedin.com/top-content/sales/market-research-for-sales/how-to-measure-market-demand-accurately/",
+    "https://www.linkedin.com/top-content/marketing/understanding-marketing-funnel-stages/market-research-and-analysis/",
+    "https://www.linkedin.com/pulse/significant-difference-between-meanings-terms-market-survey-andi",
+    "https://www.linkedin.com/posts/clement-de-chaisemartin-b076135_which-difference-in-differences-estimator-activity-7518682461539577856-xhzQ",
+    "https://www.linkedin.com/posts/lumarie-guth-76702b14_i-rebuilt-my-international-market-research-activity-7508559149832638464-soUB",
+    "https://www.linkedin.com/pulse/data-analysis-market-research-faster-way-decide-bhgie",
+    "https://www.linkedin.com/advice/0/what-advantages-disadvantages-using-top-down"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 22,
+ "runs": 23,
  "first_researched_at": "2026-11-05T00:49:22.795751+00:00"
 }

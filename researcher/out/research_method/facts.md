@@ -1042,6 +1042,9 @@
 ## 非上場企業の売上・従業員数を推定する実務（官報・決算公告・求人）（estimate private company revenue headcount methods）
 - 文脈：凄腕・推定
 - 手順・やり方：
+  - 「一般社団法人の決算公告の閲覧方法とは？官報・電子公告・掲示を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「官報・電子公告・掲示という公告方法ごとの探し方と、公益法人informationとの違いを解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「中小企業が官報で決算公告する費用・記載項目・申込手順を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告をホームページで行うには？定款変更の要否と手順を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告をホームページで行う方法を5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1054,9 +1057,6 @@
   - 「日経新聞に掲載された決算公告を検索する方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「日経テレコンでは法定公告の本文検索ができない実態、縮刷版の使い方、帝国データバンクなど確実な代替手段まで紹介します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「A. 企業情報や業界情報はさまざまな方法で収集できます」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「『全国大型小売店総覧』（週刊東洋経済. 臨時増刊）東洋経済新報社（年刊）」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「（1）データベースへアクセスする方法」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「非上場企業の企業情報や財務情報は、以下の方法で確認できる場合があります」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
 - 突き合わせ・推定：
   - 「It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.」（https://nodior.com/private-company-revenue-estimation）
   - 「Can you estimate revenue for a company with almost no online presence?」（https://nodior.com/private-company-revenue-estimation）
@@ -1074,6 +1074,14 @@
   - 「３．その他の固定費（家賃など）を推定する」（https://note.com/pythonddd/n/nd056ead22003）
   - 「５．「損益分岐点売上高」を逆算する」（https://note.com/pythonddd/n/nd056ead22003）
 - 一次情報の探し方：
+  - 「求人票を出していない会社は求人経由でも取れない」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
+  - 「——上場企業は有価証券報告書で完璧に分かる、中堅は公式サイトで大半判明、中小は不明が多い、という」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
+  - 「上場企業なら有価証券報告書で毎年の推移が取れる」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
+  - 「上場企業の有価証券報告書では「連結」が正式表現」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
+  - 「①gBizINFO → ②公式サイト → ③求人票 → ④しょくばログ等の会社DB」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
+  - 「日本の会社の97%は従業員数が公的DBに無い」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
+  - 「会社の登記・求人・クチコミのデータと毎日向き合う中で気づいた“会社の調べ方”を、現場の目線で書いています」（https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata）
+  - 「SEC EDGAR (sec.gov/edgar) for public company filings」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
   - 「号外の「会社決算公告」で財務情報や倒産情報が掲載されることが」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
   - 「『世界自動車統計年報』日本自動車工業会（年刊） ※2019 で刊行終了」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
   - 「また、関連する統計情報とその出典が明記されています」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
@@ -1081,15 +1089,8 @@
   - 「市場シェアや関連団体の情報などは、業界団体が出版している年鑑や年報類に掲載されています」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
   - 「日本国内の有価証券報告書のデータベースです」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
   - 「「企業情報」機能で最近の決算データや企業プロファイルを見ることができ」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「北米地域の企業の古い営業報告書（1844-2008 年）のデータを PDF で」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「有価証券報告書（「有報」と略します）は、上場企業および一部非上場企業が金融庁への提出を義務付け」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「企業のホームページ上で「IR 情報」や「決算報告」などとして公開されている場合があります」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「企業の決算情報は官報の号外・会社決算公告に掲載されることがあります」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「図書館にある原紙の官報のほか、データベースでも閲覧できます」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「・「官報」（無料一般公開版）（PDF）https://www.kanpo.go.jp/」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「令和 7 年 4 月 1 日以降の官報情報（本紙、号外、政府調達等）を無料で閲覧できます」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
-  - 「その他 収録内容：平成 15 年 7 月 15 日以降の法律、政令等の官報情報」（https://www.ritsumei.ac.jp/lib/pub/d08/010/12_companysearch.pdf）
 - 失敗・落とし穴：
+  - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「今は1円でも会社が作れる時代なので、「資本金が小さい＝ダメ」ではありません」（https://shokubalog.com/articles/kaisha-kibo-shirabe-kata）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1104,8 +1105,10 @@
   - 「売上高がわからないときにやりがちな失敗を先に知っておくと、余計な減点を防げます」（https://rirekisho.jobree.co.jp/how/%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4%E6%9B%B8-%E5%A3%B2%E4%B8%8A%E9%AB%98-%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84-2/）
   - 「opinion adds credibility during negotiations, legal proceedings, or tax-related matters where a defensible valuation is required. The main goal is to provide a fair, unbiased, and well-supported estimate that guides critical financial decisions with confidence.」（https://raincatcher.com/private-company-valuation/）
   - 「「大会社」に該当するかどうかによって、公告すべき書類の範囲が変わる点にも注意が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
-  - 「電子公告の注意点として、官報や日刊新聞紙では貸借対照表の「要旨」で済むのに対し、電子公告では「全文」の掲載が必要です」（https://media.denshi-kessan-koukoku.com/columns/hijojo-kigyou-kaishaho-kessan-koukoku/）
 - 実例：
+  - 「For example, the」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Estimates can be way off when a company works differently from others in its industry. A software company, for example, might earn a lot from subscriptions with only a small team.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
+  - 「Say filed accounts show $12 million, and a headcount-based estimate suggests $25 million. Check if the estimate uses group-wide employees, a newer observation date, or a benchmark from a different industry. Only then decide which figure fits your use case.」（https://veridion.com/insights/articles/how-to-find-a-private-companys-revenue）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告ニュース:9/14〜9/20は非上場企業HUMAN MADEの官報公告事例と、HEROZ・gumi・野村HDなど上場企業の決算発表シーズン本格化が話題となりました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -1118,9 +1121,6 @@
   - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告の罰則は実際に適用される？過料の実例と5つのリスク【2026年最新】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「過料100万円の適用事例、実施率1.8%の裏事情、M&Aや融資審査への影響まで具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
 - 検索結果の抜粋：
   - 「How to Find Company Revenue: 6 Methods (2026) — Key takeaways To find a company's revenue, first check whether it is public, registered where accounts are filed, or neither. Public companies report exact revenue in SEC filings and annual reports. Many private companies in France, the UK, and the EU file turnover in official registries. When no figure is filed, estimate it with the revenue-per-empl」（https://derrick-app.com/business-data/find-revenue）
 
@@ -10801,6 +10801,9 @@
 ## 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ（analysis of competing hypotheses limitations hypothesis mapping empirical evidence）
 - 文脈：突き合わせ
 - 手順・やり方：
+  - 「al. (May 2005), "Extending Heuer's Analysis of Competing Hypotheses Method to Support Complex Decision Analysis",」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
+  - 「International Conference on Intelligence Analysis Methods and Tools」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
+  - 「Cluxton, Diane; Eick, Stephen G., "DECIDE Hypothesis Visualization Tool",」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
   - 「）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -10813,9 +10816,6 @@
   - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「教官・井上成美が教えた「合理的敵情判断ノ方法」は、現代の心理学や意思決定理論と通底する先見性を持っていたのです」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「1930年代の日本海軍において、戦略教官であった井上成美は「合理的敵情判断ノ方法」という名の情報分析法を教えていました(髙橋, 2013)」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「彼の方法論は、仮説や証拠の扱い方、直観と論理のバランスなど、現代の心理学や情報分析論とも通じるものがあります」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「これは、ある問題について複数の仮説を意図的に設定し、それぞれの仮説に対して集められた証拠が整合するか不整合かをマトリックス形式で可視化するという方法です」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「戦前の日本海軍において、極めて先駆的な情報分析の方法論が存在していました」（https://note.com/haurix/n/ncc5a33f069f9）
 - 突き合わせ・推定：
   - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -10849,6 +10849,12 @@
   - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 失敗・落とし穴：
+  - 「また、確証バイアス」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「また、敵の欺瞞が行われること49や、味方の報告に誤りが」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「これに注意することにより、情況の思わぬ変化や敵の欺瞞に対応できる60」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「合、認知能力の限界から彼は確証バイアスの影響を受け、Ａを裏付けるインフ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
+  - 「1. Reduces Cognitive Bias」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
+  - 「ACH is specifically designed to counteract common mental pitfalls, such as confirmation bias and premature conclusions. By forcing the analyst to evaluate all plausible hypotheses and focus on disconfirming evidence, it encourages objectivity and balance.」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
   - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -10858,13 +10864,8 @@
   - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「これらの社会的に構成された要因は、どの仮説が最終的に検討されるかを制限または識別し選択されたものの確証バイアスを強化する場合があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学｜ホウリクス(Haurix)」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「それを紹介・分析した論文 (髙橋, 2013) に依拠しながら、このnoteでは、これらの手法を通じて「人がなぜ誤るのか」「どのようにすればバイアスに気づけるのか」について検討します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「認知バイアスの仕組みに関心がある方、よりよい判断を目指したい方にとって、多くの示唆を得られる内容になっています」（https://note.com/haurix/n/ncc5a33f069f9）
 - 実例：
+  - 「ACH is not always suited to fast-moving or reactive situations. Building and refining matrices, especially for complex cases with numerous hypotheses, can be labour-intensive.」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
   - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://ameblo.jp/nodes-links/entry-12605882204.html）
   - 「アナリストは感度分析を使用して結果をテストします」（https://ameblo.jp/nodes-links/entry-12605882204.html）
@@ -10879,7 +10880,6 @@
   - 「例えば、「勉強時間が増えると自信がつき、その自信が成績を上げる」といった関係です」（https://note.com/takahitosasaki83/n/n46a21dced431）
   - 「例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です」（https://note.com/takahitosasaki83/n/n46a21dced431）
   - 「例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる」（https://note.com/takahitosasaki83/n/n46a21dced431）
-  - 「スパイがどのように情報を収集し、分析し、活用しているのか？ そのテクニックをかつての実例を深堀りしながら「10のレッスン」として解説している」（https://diamond.jp/articles/-/290369）
 - 検索結果の抜粋：
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
@@ -11403,11 +11403,11 @@
 
 ## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ26頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ26頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
-- 実例：記載なし（読んだ26頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活（verify PDF table extraction errors footnote units row column journalist data checking）
 - 文脈：手法
@@ -11657,8 +11657,8 @@
   - 「Example 2: The Dubious Social Media Claim」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
   - 「Example 3: The New Kid on the Block」（https://www.sans.org/blog/enhance-your-cyber-threat-intelligence-with-the-admiralty-system）
   - 「no piece of information is normally of great value on its own. When first received it is like a sentence without its context. Signal intelligence for example, in its raw state is seldom intelligible on its own to anyone but the expert who extracts it or deciphers it… it cannot be read and understood, even when translated, in isolation」（https://www.blockint.nl/intel-analysis/critical-review-of-the-admiralty-code/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ13頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ13頁・検索12回）
 
 ## 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）（labor productivity SME comparison denominator hours value added definition Japan RIETI）
 - 文脈：手法

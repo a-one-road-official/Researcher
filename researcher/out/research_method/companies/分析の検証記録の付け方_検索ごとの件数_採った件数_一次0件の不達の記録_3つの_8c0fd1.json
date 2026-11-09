@@ -9,78 +9,18 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-08T16:38:42.360232+00:00",
+ "researched_at": "2026-11-09T00:21:18.310971+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.amed.go.jp/content/000034152.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_01.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
+    "url": "https://note.com/naoki_domain/n/n513ff81f77af",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nihs.go.jp/drug/section3/AQbDMock.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cs.wingarc.com/manual/drsum/5.7/ja/UUID-30266a6e-4a97-cc82-25ff-99dbc132faa1.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www2.kobe-u.ac.jp/~bunji/files/lecture/MVA/mva-03-preprocess.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.doand.tech/articles/verification-log/",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://kouteinavi.com/articles/inspection-records-and-iso9001/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ez-hygiene.com/article/haccp-procedure-11-12",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://signalath.com/method/shuho-kensho",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jutapon.com/media/fx/method/method-kensho/",
+    "url": "https://note.com/n_zela01/n/n36def7890237",
     "status": "ok",
     "method": "http"
    },
@@ -90,29 +30,24 @@
     "method": "http"
    },
    {
-    "url": "https://sho-trade.jp/blog/fx-trade-record/",
+    "url": "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://genview.io/learn/how-to-create-citable-primary-information",
+    "url": "https://note.com/yukikkoaimanabi/n/n3e4508064d8e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.exseal.co.jp/blog/taxonomy-07/5503/",
+    "url": "https://note.com/tozzz_lab/n/nb20e1546800b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://lassic.co.jp/media/column/haccp-eisei-kanri/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/yoshisen/items/c0d9c2a368230567a5cb",
-    "status": "ok",
-    "method": "http"
+    "url": "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf",
+    "status": "http_403",
+    "method": "pdf"
    },
    {
     "url": "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
@@ -120,29 +55,24 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "url": "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intelligencenotes.com/02-Concepts--and--Tactics/22-Intelligence--and--OSINT/ICD-203",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.intelligence.gov/mission/our-values/objectivity",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3400/PEA3490-2/RAND_PEA3490-2.pdf",
+    "url": "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.dodig.mil/reports.html/article/3480460/evaluation-of-controls-over-the-application-of-analytic-standards-by-the-servic/",
-    "status": "http_403",
-    "method": "http"
    }
   ]
  },
@@ -150,102 +80,52 @@
   {
    "query": "分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203） site:note.com",
    "results": [
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.amed.go.jp/content/000034152.pdf",
-    "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_01.pdf",
-    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
-    "https://www.nihs.go.jp/drug/section3/AQbDMock.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://cs.wingarc.com/manual/drsum/5.7/ja/UUID-30266a6e-4a97-cc82-25ff-99dbc132faa1.html",
-    "https://www2.kobe-u.ac.jp/~bunji/files/lecture/MVA/mva-03-preprocess.pdf",
-    "https://note.com/naoki_domain/n/n513ff81f77af"
+    "https://note.com/naoki_domain/n/n513ff81f77af",
+    "https://note.com/n_zela01/n/n36def7890237",
+    "https://note.com/naoki_domain/n/n50552fe1997e",
+    "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
+    "https://note.com/yukikkoaimanabi/n/n3e4508064d8e",
+    "https://note.com/tozzz_lab/n/nb20e1546800b",
+    "https://note.com/alert_hyssop1862/n/n5bd7bae366d1"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203） note",
-   "results": [
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.amed.go.jp/content/000034152.pdf",
-    "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_01.pdf",
-    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
-    "https://www.nihs.go.jp/drug/section3/AQbDMock.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://cs.wingarc.com/manual/drsum/5.7/ja/UUID-30266a6e-4a97-cc82-25ff-99dbc132faa1.html",
-    "https://www2.kobe-u.ac.jp/~bunji/files/lecture/MVA/mva-03-preprocess.pdf",
-    "https://www.doand.tech/articles/verification-log/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203） やり方",
-   "results": [
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.amed.go.jp/content/000034152.pdf",
-    "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_01.pdf",
-    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
-    "https://www.nihs.go.jp/drug/section3/AQbDMock.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://cs.wingarc.com/manual/drsum/5.7/ja/UUID-30266a6e-4a97-cc82-25ff-99dbc132faa1.html",
-    "https://www2.kobe-u.ac.jp/~bunji/files/lecture/MVA/mva-03-preprocess.pdf",
-    "https://signalath.com/method/shuho-kensho"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203） 事例",
-   "results": [
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.amed.go.jp/content/000034152.pdf",
-    "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_01.pdf",
-    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
-    "https://www.nihs.go.jp/drug/section3/AQbDMock.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://cs.wingarc.com/manual/drsum/5.7/ja/UUID-30266a6e-4a97-cc82-25ff-99dbc132faa1.html",
-    "https://www2.kobe-u.ac.jp/~bunji/files/lecture/MVA/mva-03-preprocess.pdf",
-    "https://www.doand.tech/articles/verification-log/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate",
    "results": [
+    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf",
     "https://archive.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
-    "https://pangearesearch.substack.com/p/analytic-tradecraft-standard-2-uncertainty",
-    "https://www.intelligence.gov/mission/our-values/objectivity",
-    "https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3400/PEA3490-2/RAND_PEA3490-2.pdf",
-    "https://www.dodig.mil/reports.html/article/3480460/evaluation-of-controls-over-the-application-of-analytic-standards-by-the-servic/",
-    "https://nhimg.org/structured-analytic-techniques-guide",
-    "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford",
-    "https://www.belfercenter.org/sites/default/files/2024-08/Gerald%20McMahon%20Belfer%20Report%20IntelProject_AI_AnalyticTradecraft.pdf",
-    "https://www.intelligence.gov/assets/documents/intelligence-community-directives/ICD_203.pdf"
+    "https://fedlaws.org/icd-203-analytic-standards-for-the-intelligence-community/",
+    "https://intelligencenotes.com/02-Concepts--and--Tactics/22-Intelligence--and--OSINT/ICD-203",
+    "https://policycommons.net/artifacts/18285675/analytic-standards/19186147/",
+    "https://www.bmbs.org/salamanca/readings/ODNI_ICDs_203-206-208.pdf",
+    "https://archive.dni.gov/index.php/how-we-work/objectivity"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "site:note.com 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）",
@@ -254,9 +134,9 @@
     "https://note.com/naoki_domain/n/n9cd4c0d9df1f",
     "https://note.com/naoki_domain/n/n50552fe1997e",
     "https://note.com/n_zela01/n/n36def7890237",
+    "https://note.com/ai_jitan_labn/n/nedcfc8eb561f",
     "https://note.com/tink_tail/n/nc73db1dad29f",
-    "https://note.com/tozzz_lab/n/nb20e1546800b",
-    "https://note.com/tozzz_lab/n/nf161c7fa482d"
+    "https://note.com/tozzz_lab/n/nb20e1546800b"
    ],
    "engines": [
     "ddgs:google"
@@ -267,12 +147,12 @@
    "query": "site:x.com 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）",
    "results": [
     "https://help.x.com/ja/using-x/x-advanced-search",
+    "https://x.com/openspc/status/2117934585963299154",
+    "https://x.com/tabisato33/status/1789884807348097214",
+    "https://help.x.com/ja/using-x/top-search-results-faqs",
     "https://x.com/hanimaru_draix/status/2116062564828467614",
     "https://x.com/haxailab/status/2099823637264245064",
-    "https://help.x.com/ja/using-x/top-search-results-faqs",
-    "https://x.com/hiromomosetsu/status/2079844201408454810",
-    "https://x.com/tabisato33/status/1789884807348097214",
-    "https://x.com/sukofi/status/2079081094394286554"
+    "https://x.com/hiromomosetsu/status/2079844201408454810"
    ],
    "engines": [
     "ddgs:google"
@@ -288,23 +168,7 @@
     "https://jp.linkedin.com/learning/learning-data-analytics-1-foundations-21067048/4231547",
     "https://jp.linkedin.com/learning/excel-data-analysis-365-2019/2280443",
     "https://jp.linkedin.com/learning/excel-power-query-365-2019/2917858",
-    "https://jp.linkedin.com/learning/excel-power-query-365-2019/2916798"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）",
-   "results": [
-    "https://www.facebook.com/AmagasakiMunicipalArchives/photos/新型コロナウイルス感染症記録と検証プロジェクト報告書尼崎市ではこの間尼崎市立歴史博物館-あまがさきアーカイブズ-を事務局として市の新型コロナウイルス感染症への対/911200777716659/",
-    "https://www.facebook.com/jorte.jp/videos/ジョルテで検索の機能は使っていらっしゃるでしょうか例えば来月以降の予定を確認したい時や過去の日記の中から必要なものを見たいという時は検索機能を使うと便利です今回/1012422488809174/",
-    "https://www.facebook.com/kintone/posts/kintone新機能検索aiを徹底検証マイナビtechさんがkintoneの新機能検索aiを実際に試し実際の活用例も交えて詳しくしてくださいましたkintone/1166966585461328/",
-    "https://www.facebook.com/WITH.volleyball/posts/20210314-②午後からは学校に戻って記録の書き方の勉強会を実施前からいる45年生は実際に試合で記録をつけた事がなく今年度に入部した子の中には試合そのものを/772095446833615/",
-    "https://www.facebook.com/hottocom/posts/指導法は変わるのかスポーツ指導者向け検証記録茂木ゆういち-定点007-2014-009指導法改善の一連の流れ-スポーツ指導者向け-検証記録-3つの定点を診断宣言/1529848635769698/",
-    "https://www.facebook.com/treboxPF/videos/treasurebox2-操作紹介web予約にどれくらいアクセスがあったか途中離脱した件数はどれくらいかカウントできる分析画面が登場instagramやhpなど/1096706008978211/",
-    "https://www.facebook.com/fiorekanazawa/videos/2ヶ月間のペナルティダイエット記録まとめ詳しくは週ごとにあがってますので気になる方はチェックしてみてください金沢-金沢パーソナルジム-美脚/28501061116152242/"
+    "https://jp.linkedin.com/learning/learning-data-analytics-1-foundations-21067048/4231548"
    ],
    "engines": [
     "ddgs:google"
@@ -312,68 +176,48 @@
    "n_hits": 7
   },
   {
+   "query": "site:facebook.com 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
    "query": "分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203） note 社長",
-   "results": [
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.amed.go.jp/content/000034152.pdf",
-    "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_01.pdf",
-    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
-    "https://www.nihs.go.jp/drug/section3/AQbDMock.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://cs.wingarc.com/manual/drsum/5.7/ja/UUID-30266a6e-4a97-cc82-25ff-99dbc132faa1.html",
-    "https://www2.kobe-u.ac.jp/~bunji/files/lecture/MVA/mva-03-preprocess.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203） X 投稿",
-   "results": [
-    "https://www.jcroa.or.jp/wp-content/uploads/2025/11/070bb57caf22fbe7c206ee4e85e2603b.pdf",
-    "https://www.amed.go.jp/content/000034152.pdf",
-    "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "https://www.fmu.ac.jp/gendeqsp/data/file/manual_statistics_01.pdf",
-    "https://hybrid-analysis.com/sample/906f6d8db5ac776eceb71b9070e2b6c17474d76514d0f89feb07f75352edb412/65d9dcd2ced44082b60aaa82",
-    "https://www.nihs.go.jp/drug/section3/AQbDMock.pdf",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://cs.wingarc.com/manual/drsum/5.7/ja/UUID-30266a6e-4a97-cc82-25ff-99dbc132faa1.html",
-    "https://www2.kobe-u.ac.jp/~bunji/files/lecture/MVA/mva-03-preprocess.pdf",
-    "https://www.doand.tech/articles/verification-log/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-uncertainty-activity-7424445658461364224-vrE7",
     "https://www.linkedin.com/posts/jessicastutzman_osint-intelligenceanalysis-intelligencetradecraft-activity-7423762491249266688-lDNb",
+    "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-uncertainty-activity-7424445658461364224-vrE7",
     "https://lv.linkedin.com/posts/ole-donner_nnfc-analytic-tradecraft-checklist-activity-7057202033828777984-QXcy",
     "https://www.linkedin.com/posts/jessicastutzman_intelligence-intelligenceanalysis-analyticstandards-activity-7424124125759299584-GtvN",
     "https://www.linkedin.com/posts/jessicastutzman_intelligencefundamentalsproject-icd203-activity-7426662561531449344-3Q_N",
     "https://www.linkedin.com/pulse/ai-enabled-intelligence-advancing-tradecraft-through-icd-joshua-gobin-m6yze?tl=en",
-    "https://www.linkedin.com/pulse/value-icd-203-analytical-tradecraft-standards-private-eric-ford"
+    "https://www.linkedin.com/posts/klaritee_klaritee-sentinel-icd203-alignment-summary-activity-7495605613972996096-hHVm"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ26頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ26頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ26頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ26頁・検索12回）",
-  "実例": "記載なし（読んだ26頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ12頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）",
+  "実例": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-07T13:58:05.770111+00:00"
 }
