@@ -1,0 +1,738 @@
+{
+ "name": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122）",
+ "en": "Census of Manufacture processing fee revenue and employees same year same table plating heat treatment press die Japan",
+ "aliases": [
+  "工業統計表 産業細分類別 加工賃収入額 従業者数 同じ表",
+  "工業統計 産業別統計表 細分類 加工賃収入額 従業者 2019",
+  "e-Stat 工業統計調査 産業細分類 加工賃収入額"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:07:07.087587+00:00",
+ "evidence": {
+  "事業所数・社数": [
+   {
+    "quote": "第３表 品目別、都道府県別の出荷及び産出事業所数（全事業 所） ················",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 品目別、従業者規模別の産出事業所数及 び出荷金額（全事業所） ··········",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 品目別出荷における産業細分類別の産出事業所数及び出荷金額（全事業所）",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 産業別出荷における品目別の産出事業所数及び出荷金額（全事業所） ······",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１０表 その他収入の種類別の産業別産出事業所数及び収入額（産業中分類別、",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１１表 その他収入の種類別の都道府県別産出事業所数及び収入額（全事業所）",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．\u0003調査結果のうち、事業所数、産出事業所数、従業者数については、\u0015\u0013\u0015\u0016年\u0019月\u0014日現在",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．\u0003調査結果のうち、事業所数、産出事業所数、従業者数については、\u0015\u0013\u0015\u0016年\u0019月\u0014日現在",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 経済産業統計協会 TEL 03-3561-2974",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "２．賃加工品に関する統計表",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高（製造品出荷額等） 総額の９割を達成する範囲に含まれる事業所を調査対象とし、 その",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４． 製造品出荷額等の経理事項については、 原則消費税込みで把握しているが、 一部の消費",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "本書は、e-Stat 政府統計の総合窓口に掲載されている『2023年経済構造実態調査 製造業事",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業所調査』の集計結果（ 「産業編」 「品目編」 「地域編」 ） （2024 年 7 月 26 日公表）とそれらの関",
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000312327.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000316043.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hillsform.com:443/contents/WORKERSBOARD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mdsa.co.jp/osirase/index8.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/12_kinzoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.o-sr.co.jp/question/question-26802/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sr-office-sagara.com/news_contents_9316.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/assets/files/exam/materials/sample2_03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sunrize-tokuteiginou.net/qa-seizougyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/kogyoseihin-seizogyo_gaiyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://buendia-nakabayashi.com/?p=1701",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?query=%E7%94%A3%E6%A5%AD%E5%88%86%E9%A1%9E+6322&layout=dataset&statdisp_id=0004068330",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8616.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.ishikawa.lg.jp/toukei/whatsnew/documents/r3kogyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?bunya_l=05&toukei=00550630&result_page=1&page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careerlinkfactory.co.jp/blog/metal-surface-treatment/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_class.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kkjkenkyu/pdf/giji01_2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/20/02/524",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2465/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2024/pdf/sanngyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-census-st.go.jp/bunrui/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sukimagroup.jp/seizou-hyoumen-shori-tokutei-ginou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/kekka/pdf/r3bunrui_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/assets/files/entry/matrix.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imes.boj.or.jp/research/papers/english/me27-5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Food%20Processing%20Ingredients%20Annual_Tokyo%20ATO_Japan_JA2025-0014",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.bls.gov/oes/2020/may/119051mw.htm",
+    "https://www.soumu.go.jp/main_content/000312327.pdf",
+    "https://www.moj.go.jp/isa/content/001440969.pdf",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://www.jfc.go.jp/n/findings/pdf/soukenrepo_17_06_30a.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 受注残 人手不足",
+   "results": [
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.soumu.go.jp/main_content/000316043.pdf",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf",
+    "https://www.jftc.go.jp/houdou/pressrelease/2023/dec/231227_tokubetsuchosakekka_besshi_insatsuyou.pdf",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://mdsa.co.jp/osirase/index8.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.chusho.meti.go.jp/keiei/torihiki/guideline/12_kinzoku.pdf",
+    "https://www.jcmetal.jp/files/6c4e1a9a5e1636f3427cbda2fb9940c5.pdf",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://media.o-sr.co.jp/question/question-26802/",
+    "https://www.sr-office-sagara.com/news_contents_9316.html",
+    "https://www.jaim-skill.or.jp/assets/files/exam/materials/sample2_03.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122）",
+   "results": [
+    "https://sunrize-tokuteiginou.net/qa-seizougyou/",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/kogyoseihin-seizogyo_gaiyo.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://buendia-nakabayashi.com/?p=1701",
+    "https://www.soumu.go.jp/main_content/000316043.pdf",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 推移",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8616.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.pref.ishikawa.lg.jp/toukei/whatsnew/documents/r3kogyo.pdf",
+    "http://www.pref.mie.lg.jp/common/content/000624234.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.e-stat.go.jp/stat-search/files?bunya_l=05&toukei=00550630&result_page=1&page=1",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8616.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/result3/24seizo_class_2.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.stat.go.jp/info/kenkyu/kkjkenkyu/pdf/giji01_2.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.soumu.go.jp/main_content/000757336.pdf",
+    "https://www.pref.niigata.lg.jp/uploaded/attachment/417820.pdf",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou2020_d/fil/kekkahoukokusyo.pdf",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www3.pref.iwate.jp/webdb/view/outside/s14Tokei/tokei.download?fileId=s14TokeiInfo-1ibWQm.18OYJ.1T7O1H",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8616.pdf",
+    "https://sunrize-tokuteiginou.net/qa-seizougyou/",
+    "https://www.e-stat.go.jp/classifications/terms/20/02/524",
+    "https://pref.shimane-toukei.jp/upload/user/00018157-cmU5wJ.pdf",
+    "https://www.pref.ishikawa.lg.jp/toukei/whatsnew/documents/r3kogyo.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 1人当たり 万円",
+   "results": [
+    "https://sukimagroup.jp/seizou-hyoumen-shori-tokutei-ginou/",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://sunrize-tokuteiginou.net/qa-seizougyou/",
+    "https://www.meti.go.jp/policy/mono_info_service/gaikokujinzai/kogyoseihin-seizogyo_gaiyo.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.city.ueda.nagano.jp/uploaded/attachment/8828.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8616.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2464/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/001_05_00.pdf",
+    "https://sunrize-tokuteiginou.net/qa-seizougyou/",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf",
+    "https://www.soumu.go.jp/main_content/000316043.pdf",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://www.jaim-skill.or.jp/assets/files/entry/matrix.pdf",
+    "https://www.pref.ishikawa.lg.jp/toukei/whatsnew/documents/r3kogyo.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Census of Manufacture processing fee revenue and employees same year same table plating heat treatment press die Japan Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/press/2023/0627_005.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.bls.gov/fls/tables/fls-table-19.htm",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.imes.boj.or.jp/research/papers/english/me27-5.pdf",
+    "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Food%20Processing%20Ingredients%20Annual_Tokyo%20ATO_Japan_JA2025-0014",
+    "https://www.soumu.go.jp/main_content/000327483.pdf",
+    "https://www2.census.gov/library/publications/decennial/1910/volume-8/volume-8-p8.pdf",
+    "https://fred.stlouisfed.org/series/JPNLCEAMN01GPSAM",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122）",
+   "results": [
+    "https://note.com/qy_research/n/n62a759772301",
+    "https://note.com/yamanaka_kan/n/n9a1220eccf9b",
+    "https://note.com/improvebiz_jp/n/n13c69c30f7eb",
+    "https://note.com/asmedia/n/nc1b429916585",
+    "https://note.com/syncstar/n/n3747c7b03751",
+    "https://note.com/manav_/n/ndae2cdc06cfe",
+    "https://note.com/bizicom_hr/n/nb8ceb148614b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2102126311929999452",
+    "https://jf.x.com/images/media-preview/2103144847020560482",
+    "https://x.com/hashtag/金属熱処理",
+    "https://x.com/OgawaSeisakusho/status/2110533866247336076",
+    "https://x.com/soudosha_consul/status/2087810283805045073",
+    "https://x.com/soudosha_consul/status/2092364794980704583",
+    "https://x.com/sangyo_web/status/2082658736473358551"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122）",
+   "results": [
+    "https://jp.linkedin.com/pulse/金属の熱処理市場の徹底的な精査規模シェアおよび収益成長2026年から2033年にかけて127のcagrを見込む-scoutifyz-efndf",
+    "https://jp.linkedin.com/posts/hiroshige-masuo-328833154_この度金属技研では造形受託事業の強化を目的として日本国内初導入となる電子ビーム-activity-7447932924039102465-QDXa",
+    "https://www.linkedin.com/posts/真-高田-80b6611b5_積層造形-金属3dプリンター-j3d-activity-6712253493492662274-T0d-",
+    "https://jp.linkedin.com/pulse/金属-インジエクション-ムオルドイング-プオウドアー市場の最新動向主要企業市場細分化と将来展望2026年版-7xuef",
+    "https://jp.linkedin.com/pulse/シュイート-金属-加工-設備市場の最新動向主要企業市場細分化と将来展望2026年版-evidence-craft-0ztwf",
+    "https://jp.linkedin.com/pulse/コーティング彫刻熱処理および関連活動市場における投資潜在力範囲トレンド2025年から2032年までの予測cagr率-7407777674456285185-m5qqe",
+    "https://jp.linkedin.com/pulse/金属-プオウドアー-アドドイトイヴエ-製造市場の最新動向主要企業市場細分化と将来展望2026年版-arvqf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122）",
+   "results": [
+    "https://www.facebook.com/p/大阪金属プレス工業会-100083214556350/",
+    "https://www.facebook.com/wako.kinzoku/",
+    "https://www.facebook.com/watch/?v=432122703221723",
+    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
+    "https://www.facebook.com/elephantech.jpn/posts/プレスリリース配信電解金めっきで表面処理した-p-flex-piサンプル提供開始のお知らせhttpswwwelephantechcojppress-releas/1350644548680558/",
+    "https://www.facebook.com/100088886342216/posts/舞台技術サービス事業日本標準産業分類承認の件第14回日本標準産業分類改正令和6年4月1日施行において舞台技術スタッフを指す産業分類番号として大分類n-生活関連サ/224951593811051/",
+    "https://www.facebook.com/seniorplazanagashima/posts/適正な時間で利用していただいていれば問題はないと考えますが細分化されると事務処理に多くの時間が割かれることも考えていただきたいのは私だけでしょうか/306132186536646/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.soumu.go.jp/main_content/000312327.pdf",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/pdf/010_03_00.pdf",
+    "https://www.hokuto-sr.net/news_contents_9316.html",
+    "https://www.jmrlsi.co.jp/membership/concept/report/economy/idx201303-01.html?",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/fle_con/02.html",
+    "https://www.e-stat.go.jp/classifications/terms/20/02/524",
+    "https://www.jil.go.jp/institute/seika/shokugyo/sakuin/documents/sakuin05.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122） X 投稿",
+   "results": [
+    "https://sunrize-tokuteiginou.net/qa-seizougyou/",
+    "https://www.jaim-skill.or.jp/assets/files/entry/sample_2462-2464-2469.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2464",
+    "https://www.city.kumagaya.lg.jp/about/jigyousya/kojyoritti/gyoshuseisansisetu.files/24kinnzokuseihinn.pdf",
+    "https://www.jfpi.or.jp/files/user/pdf/kankyo/04_2020_fukusanbutsu_nihonhyoujyunsangyoubunrui_dantai.pdf",
+    "https://workersboard.mori.co.jp/en/mypage/topics/3347",
+    "https://www.nta.go.jp/law/shitsugi/shohi/20/04.htm",
+    "https://www.soumu.go.jp/main_content/000312327.pdf",
+    "https://tlg-visa.law/case/1429/",
+    "https://jsicjp.com/jp/section/e/major-group/24/group/246/industry/2465/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Census of Manufacture processing fee revenue and employees same year same table plating heat treatment press die Japan site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/iani-a-chihaia-a3b08611_japan-eggs-foodprices-activity-7520739312498270208-I3IC",
+    "https://www.linkedin.com/in/charlesbeierle",
+    "https://www.linkedin.com/company/zealie",
+    "https://www.linkedin.com/in/seanicaa-edwards-herron",
+    "https://www.linkedin.com/pulse/six-years-data-one-clear-message-cea-industry-look-henry-gordon-smith-schve",
+    "https://uk.linkedin.com/in/joel-suss-b2451156",
+    "https://www.linkedin.com/in/lucasrhearn",
+    "https://www.linkedin.com/in/danahboyd",
+    "https://www.linkedin.com/in/ianjhreynolds",
+    "https://www.linkedin.com/in/nicholas-jenkins-22304b57"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ55頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ55頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ55頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ55頁・検索18回）"
+ }
+}

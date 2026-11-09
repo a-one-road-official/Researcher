@@ -1,0 +1,695 @@
+{
+ "name": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122）",
+ "en": "Bank of Japan Corporate Goods Price Index metal products annual average level 2020 base",
+ "aliases": [
+  "国内企業物価指数 金属製品 年平均 2020年基準",
+  "企業物価指数 類別 金属製品 時系列",
+  "CGPI metal products annual average Bank of Japan"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:02:23.729587+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "人手不足倒産・物価高倒産はなぜ増える？公表データで見る原因と、社長が先に見る数字",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度上半期の物価高倒産は628件、人手不足倒産は225件で最多",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "材料費・電気代・人件費の上がり分を、1個あたりの金額に直します",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度上半期の物価高倒産は628件、人手不足倒産は225件で最多",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "製造業の粗利（売上総利益）の計算方法と、中小企業庁の統計で見た中小製造業の粗利率の平均20.9％（規模別）を解説",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "町工場の加工賃は1時間いくら？決算書の数字だけで出せる、赤字にならない時間単価の計算方法【計算ツール付き】",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "企業物価指数の推移と見方【2026年9月】値上げの根拠に | macri",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数の推移と見方【2026年9月】値上げ交渉で使える国の統計の調べ方と計算",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年からの推移",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数（国内企業物価指数・総平均）は2026年9月に135.7（2020年平均＝100）",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "、2020年1月と比べると＋32.9％です",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "数字は日本銀行の「時系列統計データ検索サイト」から無料で取り出せます",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の平均を100として、いまの価格がその何倍かを表します",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "円建て・国内価格で、毎月の推移が追える",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "企業物価指数の推移（2020年1月〜2026年9月）",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "総平均は2021年から上がり続け、2026年に入って上昇のペースが速まっています",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "総平均（2020年平均＝100）",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年1月",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1月",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2022年にかけて大きく上がったあと、2023〜2024年はほぼ横ばいでした",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "人手不足倒産・物価高倒産はなぜ増える？公表データで見る原因と、社長が先に見る数字",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度上半期の物価高倒産は628件、人手不足倒産は225件で最多",
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/notice_2025/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jsite.mhlw.go.jp/niigata-roudoukyoku/content/contents/B1_H2_R080820_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ220419.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.resona-am.co.jp/market/report_s/2026/260819_m.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://emaxis.am.mufg.jp/report/senryaku/__icsFiles/afieldfile/2023/06/13/senryaku_220822.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neji-bane.jp/statistics/price/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=78195?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/pdf/028_s01_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/special/special_report/177.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mri.co.jp/knowledge/insight/ecooutlook/2021/dia6ou000003if86-att/nr20210817pec_all.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rengo-soken.or.jp/work/200410_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nihon/pdf/23nihon.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greenapple-investment.com/what-is-corporatepriceindex.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://london3.jp/reports/cgpi-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat-search.boj.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dojima.info/series/jp.price.cgpi.prewar_base.all.m",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/ichiran/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shozai/a/a16-3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkj.go.jp/d/?L=ja&A=Z292NC9lbnZfZ28vMjAyMC8yMDIwMDgyOF8wNDE2NV8wMi5wZGYK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASV1H1GPKV1HULFA008M.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/about/education/oshiete/history/j12.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ250604.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greenapple-investment.com/corporate-price-index_historicaldata.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_2020/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.alphacast.io/sources/bank-of-japan-boj-152/pubs/corporate-goods-price-index-cgpi-1319",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/cpi/158c.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.indexbox.io/indicators/symbol/producer-prices-subgroup-non-ferrous-metals-corporate-goods-price-index-2020-base-percent-change-on-a-year-earlier-bank-of-japan-japan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 人手不足 受注 断る",
+   "results": [
+    "https://www.boj.or.jp/statistics/outline/notice_2025/index.htm",
+    "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "https://jsite.mhlw.go.jp/niigata-roudoukyoku/content/contents/B1_H2_R080820_3.pdf",
+    "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ220419.pdf",
+    "https://www.resona-am.co.jp/market/report_s/2026/260819_m.pdf",
+    "https://emaxis.am.mufg.jp/report/senryaku/__icsFiles/afieldfile/2023/06/13/senryaku_220822.pdf",
+    "https://www.kankyo.metro.tokyo.lg.jp/documents/d/kankyo/2026-10-26-141807-071",
+    "https://www.yamato-hd.co.jp/100th-anniversary/assets/pdf/top/143_198.pdf",
+    "https://irid.or.jp/wp-content/uploads/2020/08/gensiryokuryakugosyuu202008.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 受注残 人手不足",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.nli-research.co.jp/report/detail/id=78195?site=nli",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://www5.cao.go.jp/keizai3/2024/0212nk/pdf/n24_5.pdf",
+    "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/pdf/028_s01_00.pdf",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/92772/revisions/92782"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 人手不足 損失 億円",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.rieti.go.jp/jp/special/special_report/177.html",
+    "https://www.boj.or.jp/statistics/pi/index.htm",
+    "https://www.meti.go.jp/shingikai/sankoshin/shin_kijiku/pdf/028_s01_00.pdf",
+    "https://www.mri.co.jp/knowledge/insight/ecooutlook/2021/dia6ou000003if86-att/nr20210817pec_all.pdf",
+    "https://www.rengo-soken.or.jp/work/200410_01.pdf",
+    "https://www.stat.go.jp/data/nihon/pdf/23nihon.pdf",
+    "https://www.resona-am.co.jp/market/report_s/2026/260819_m.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122）",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://greenapple-investment.com/what-is-corporatepriceindex.html",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://london3.jp/reports/cgpi-report.html",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 推移",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.stat-search.boj.or.jp/",
+    "https://www.youtube.com/watch?v=posIHvScE7I",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 統計 PDF",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://dashboard.e-stat.go.jp/timeSeriesResult?indicatorCode=0703040400000090010",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://dojima.info/series/jp.price.cgpi.prewar_base.all.m"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.youtube.com/watch?v=posIHvScE7I",
+    "https://greenapple-investment.com/what-is-corporatepriceindex.html",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.meti.go.jp/statistics/ichiran/index.html",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://www.jil.go.jp/kokunai/statistics/shozai/a/a16-3.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 従業者規模別",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.stat.go.jp/library/faq/faq17/faq17a01.html",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_expref/index.htm",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/index.htm",
+    "https://www.kkj.go.jp/d/?L=ja&A=Z292NC9lbnZfZ28vMjAyMC8yMDIwMDgyOF8wNDE2NV8wMi5wZGYK"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 1人当たり 万円",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.youtube.com/watch?v=posIHvScE7I",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://greenapple-investment.com/what-is-corporatepriceindex.html",
+    "https://www.asahi.com/articles/ASV1H1GPKV1HULFA008M.html",
+    "https://www.jiji.com/jc/article?k=2026060301043&g=eco",
+    "https://www.boj.or.jp/about/education/oshiete/history/j12.htm",
+    "https://www.mizuhobank.co.jp/forex/pdf/market_analysis/econ250604.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） 2015 2025",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://www.asahi.com/articles/ASV1H1GPKV1HULFA008M.html",
+    "https://www.youtube.com/watch?v=posIHvScE7I",
+    "https://www.soumu.go.jp/main_content/001083704.pdf",
+    "https://www.boj.or.jp/statistics/pi/cgpi_2020/index.htm",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://www.neji-bane.jp/statistics/price/",
+    "https://greenapple-investment.com/corporate-price-index_historicaldata.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Bank of Japan Corporate Goods Price Index metal products annual average level 2020 base Japan statistics",
+   "results": [
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_2020/index.htm",
+    "https://ycharts.com/indicators/japan_domestic_corporate_goods_price_index_metal_products",
+    "https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf",
+    "https://www.alphacast.io/sources/bank-of-japan-boj-152/pubs/corporate-goods-price-index-cgpi-1319",
+    "https://www.stat.go.jp/english/data/cpi/158c.html",
+    "https://app.indexbox.io/indicators/symbol/producer-prices-subgroup-non-ferrous-metals-corporate-goods-price-index-2020-base-percent-change-on-a-year-earlier-bank-of-japan-japan/",
+    "https://en.macromicro.me/charts/687/jp-corporate-goods-price-index",
+    "https://data.imf.org/",
+    "https://tradingeconomics.com/japan/producer-prices",
+    "https://www.boj.or.jp/en/statistics/pi/index.htm"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122）",
+   "results": [
+    "https://note.com/clever_crocus578/n/n6f944d4ee030",
+    "https://note.com/clever_crocus578/n/n429b1b9e190c",
+    "https://note.com/kabu_memo_1114/n/ne936fe5a7fd3",
+    "https://note.com/amane_bombaye/n/nf0ce4b554c74",
+    "https://note.com/nekota_toure/n/n0255c5773eee",
+    "https://note.com/loyal_ivy9071/n/na07c4d1646dd",
+    "https://note.com/rich_sage853/n/n567731dc62a5",
+    "https://note.com/m0uth_chuck/n/n38ab28d60269",
+    "https://note.com/ryoseiarabic/n/n4c0e610acf08",
+    "https://note.com/andyfp_2025/n/n9da75cf6ead8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122）",
+   "results": [
+    "https://x.com/Bank_of_Japan_j/status/2065043881859649607",
+    "https://x.com/Bank_of_Japan_j/status/2075367022964457908",
+    "https://x.com/Bank_of_Japan_j/status/2064495606027227408",
+    "https://x.com/Hat_PolarBear/status/2087706653080862777",
+    "https://x.com/sputnik_jp/status/2087719122981527574",
+    "https://x.com/jijicom/status/2062118267909804481",
+    "https://x.com/nshima_finance/status/2087858685389230310"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122）",
+   "results": [
+    "https://www.facebook.com/BankofJapan/photos/3000306326936040/",
+    "https://www.facebook.com/haileelynn99/",
+    "https://www.facebook.com/Sunshine0123/",
+    "https://www.facebook.com/mcuddy1/",
+    "https://www.facebook.com/patty.mcfarland.7/",
+    "https://www.facebook.com/BankofJapan/posts/展望レポートハイライト2025年10月を公表しました①日本経済の成長率は伸び悩んだあと高まっていく②物価は減速したあと2程度に向かう③通商政策等の影響を巡る不確/1285599356703223/",
+    "https://www.facebook.com/jherre/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） note 社長",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://note.com/andyfp_2025/n/n9da75cf6ead8",
+    "https://www.youtube.com/watch?v=posIHvScE7I",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.neji-bane.jp/news/20251006_01_02/",
+    "https://note.com/fsakura/n/n069bdf4a42e6",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://greenapple-investment.com/what-is-corporatepriceindex.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122） X 投稿",
+   "results": [
+    "https://www.boj.or.jp/statistics/pi/cgpi_release/",
+    "https://x.com/Bank_of_Japan_j/status/2098197448321843392",
+    "https://www5.cao.go.jp/keizai3/getsurei/macro/bojcgpi.html",
+    "https://eigyo-shindan.com/corporate-goods-price-index/",
+    "https://www.indb.co.jp/insight/economydata_2606_cgpi/",
+    "https://www.youtube.com/watch?v=posIHvScE7I",
+    "https://www.reuters.com/jp/economy/bank-of-japan/YX6WTYJB4BICLPMPI5HNWWCUQY-2026-08-13/",
+    "https://www.boj.or.jp/statistics/outline/exp/pi/faqprice05.htm",
+    "https://wellness-news.co.jp/posts/260520-1/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Bank of Japan Corporate Goods Price Index metal products annual average level 2020 base site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/jason-miller-32110325_should-the-fomc-raise-interest-rates-in-october-activity-7517555478680313856-0xSR",
+    "https://www.linkedin.com/posts/jason-miller-32110325_the-us-energy-information-administrations-activity-7503476291770318848-d1md",
+    "https://www.linkedin.com/posts/jack-mintz-5b063010_jack-mintz-higher-real-interest-rates-are-activity-7509273280340615169-q5YJ",
+    "https://www.linkedin.com/pulse/quantity-over-quality-paradigm-how-modern-production-andre-ad5oe",
+    "https://www.linkedin.com/in/richard-clarida-085777125",
+    "https://www.linkedin.com/posts/ridwangunawan_nhy-risk-analysis-activity-7510626834053541888-qiWl",
+    "https://www.linkedin.com/posts/danielsenger_amcham-shanghai-releases-report-on-business-activity-7371476420625276929-MQGd",
+    "https://www.linkedin.com/in/deepali-gautam-a0177821",
+    "https://www.linkedin.com/in/andriitaranukha",
+    "https://www.linkedin.com/pulse/whats-story-behind-indias-near-zero-inflation-rates-zerodha-kimmc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "事業所数・社数": "記載なし（読んだ43頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ43頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ43頁・検索18回）"
+ }
+}

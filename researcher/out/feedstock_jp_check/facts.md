@@ -1,4 +1,4 @@
-# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・32社）
+# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・56社）
 
 ## AF-COLOR
 - 公式URL：https://www.af-color.com（given）
@@ -438,6 +438,33 @@
 - 代理店網：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索15回）
 
+## Dongguan Jiecheng Additive Technology
+- 公式URL：http://www.dgadpm.com（given）
+- 検索結果の抜粋：
+  - 「Company Overview - DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO ... — DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD. Products:FDM Filament,SLA 355nm 3D Printing Resin,DLP 405nm 3D Printing Resin」（https://jiecheng3d.en.alibaba.com/・3回目）
+  - 「SLA Resin - DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD. — Explore our SLA Resin collection, featuring main products like FDM Filament, SLA 355nm 3D Printing Resin, and 836+ more items from DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD. on Alibaba.com.」（https://jiecheng3d.en.alibaba.com/productgrouplist-965693240/SLA_Resin.html・3回目）
+  - 「Dongguan Jiecheng Additive Technology Co., Ltd | Exhibitor ... — Explore the AM Directory – your comprehensive resource for Additive Manufacturing and 3D Printing. Find suppliers, providers, products, and solutions year-round.」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/dongguan-jiecheng-additive-technology-co-ltd.html・3回目）
+  - 「Dongguan Jiecheng | China | Polymer Resins and Compounds — Explore Dongguan Jiecheng Additive Technology Co., Ltd’s products and sourcing profile. We can contact the supplier and help you request a quote.」（https://www.matilogistics.com/supplier/dongguan-jiecheng-additive-technology-co-ltd・3回目）
+  - 「High Transparent Dlp 3d Printing Resin Crystal Clear 405nm Uv ... — Dongguan Jiecheng Additive Manufacturing Co., Ltd. is the officially authorized distributor of Dongguan Aidi 3D Technology Co., Ltd. We specialize in FDM filaments, SLA/DLP photosensitive resins, high temperature resistant ABS resins and customized functional materials, widely applied in aerospace, electronics, automotive, jewelry」（https://www.alibaba.com/product-detail/High-Transparent-DLP-3D-Printing-Resin_1601918230941.html・3回目）
+  - 「Dongguan Jiecheng Additive Technology Co., Ltd | Exhibitor ... — Address Dongguan Jiecheng Additive Technology Co., Ltd Guangdong Dongguan Dongkeng Town Dongkeng Technology Road Room 705, NO.195 523451 China Telephone +86 188 1971 9717」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/dongguan-jiecheng-additive-technology-co-ltd.html・3回目）
+  - 「Dongguan Jiecheng New Materials Technology Co., Ltd. — Nov 29, 2018 · Dongguan Jiecheng New Materials Technology Co., Ltd. is a Chinese company.Industry:Scientific research and technical services;Technology promotion and application services;Technology promotion services」（https://www.cnverify.com/company/Dongguan-Jiecheng-New-Materials-Technology-Co-Ltd・3回目）
+  - 「Hardware Manufacturer, Knives Help, Blade Supplier - Dongguan ... — Hardware Supplier, Knives Help, Blade Manufacturers/ Suppliers - Dongguan Jiecheng Co.,Ltd」（https://dongguanjiecheng.en.made-in-china.com/・3回目）
+  - 「DLP Resin - DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD. — Explore our DLP Resin collection, featuring main products like FDM Filament, SLA 355nm 3D Printing Resin, and 836+ more items from DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD. on Alibaba.com.」（https://jiecheng3d.en.alibaba.com/productgrouplist-965491439/DLP_Resin.html・3回目）
+  - 「Company Overview - DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO ... — With patented R&D, we occupy a prominent position in the 3D printing industry. Our automated factory delivers steady output, punctual shipment and strict quality assurance, enabling our reliable products to gain sustained market acceptance. DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD.」（https://jiecheng3d.en.alibaba.com/・3回目）
+  - 「FDM filament - DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD. — Explore our FDM filament collection, featuring main products like FDM Filament, SLA 355nm 3D Printing Resin, and 836+ more items from DONGGUAN JIECHENG ADDITIVE TECHNOLOGY CO., LTD. on Alibaba.com.」（https://jiecheng3d.en.alibaba.com/productgrouplist-970387402/FDM_filament.html・3回目）
+  - 「Dongguan Jiecheng Additive Technology Co., Ltd | Exhibitor ... — The company employs more than 150 staff members, over 20% of whom belong to the R&D team. Several team members hold domestic and overseas doctoral or master’s degrees and possess decades of professional research and practical experience at world-leading chemical enterprises.」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/dongguan-jiecheng-additive-technology-co-ltd.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部42頁・検索15回）
+
 ## Filkemp S.A.
 - 公式URL：https://www.filkemp.com（given）
 - 創業年度：設立：1961年10月（https://prtimes.jp/main/html/rd/p/000000057.000020977.html・3回目）
@@ -603,17 +630,104 @@
 
 ## Hangzhou Polyful Advanced Material
 - 公式URL：https://www.polyful.cn（given）
-- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 連絡先：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 代理店網：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 直送・ネット販売：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
-- 規模・親会社：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：
+  - 「プラスチックごみ問題解決に向けて、生分解性バイオマスプラスチック製品 POLEC™の輸入販売をスタート | 株式会社プライムアークのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000006.000060592.html・3回目）
+  - 「株式会社プライムアーク（本社：東京都港区、代表取締役社長：王 開凱）は、中国の新素材メーカーである杭州聚豊新材料有限公司と日本国内での輸入販売総代理店契約を締結し、生分解性バイオマスプラスチック製品「POLEC™」の輸入販売を開始しました」（https://prtimes.jp/main/html/rd/p/000000006.000060592.html・3回目）
+  - 「日本でも、2021年6月にプラスチック資源循環促進法が成立、来年4月からプラスチック製品のごみの発生を抑え、使用済みのプラスチックはできる限り回収して再資源化することが求められています」（https://prtimes.jp/main/html/rd/p/000000006.000060592.html・3回目）
+  - 「2022年1月26、27日に東京ビッグサイトにて、株式会社プライムアークが中小企業マーケットTOKYO2022に出展します」（https://prtimes.jp/main/html/rd/p/000000006.000060592.html・3回目）
+  - 「展示会名: 中小企業マーケットTOKYO2022」（https://prtimes.jp/main/html/rd/p/000000006.000060592.html・3回目）
+  - 「https://chusho-mkt.tokyo/」（https://prtimes.jp/main/html/rd/p/000000006.000060592.html・3回目）
+  - 「会社名：株式会社プライムアーク（PrimeArc Co.,Ltd.）」（https://prtimes.jp/main/html/rd/p/000000006.000060592.html・3回目）
+  - 「協業パートナーも募集 | 株式会社プライムアークのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000009.000060592.html・3回目）
+  - 「株式会社プライムアーク（本社：東京都港区）は、自社で取り扱う生分解性バイオマスプラスチック製品「POLEC（ポレック）」の全製品について、日本バイオプラスチック協会（JBPA）の生分解性プラマーク認証を取得しましたのでお知らせします」（https://prtimes.jp/main/html/rd/p/000000009.000060592.html・3回目）
+  - 「日本バイオプラスチック協会（JBPA）が定めるバイオプラスチック識別表示基準を満足するプラスチック製品（中間製品を含む）に シンボルマークの使用を許可する制度です」（https://prtimes.jp/main/html/rd/p/000000009.000060592.html・3回目）
+  - 「株式会社プライムアークは、杭州聚豊新材料有限公司と事業戦略パートナーシップ契約を締結し、国内輸入販売総代理店として、生分解性バイオマスプラスチック製品「POLEC™」を販売しております」（https://prtimes.jp/main/html/rd/p/000000009.000060592.html・3回目）
+  - 「会社名：株式会社プライムアーク（PrimeArc Co.,Ltd.）」（https://prtimes.jp/main/html/rd/p/000000009.000060592.html・3回目）
+- 規模・親会社：
+  - 「acquired by that foreign investment company」（https://note.com/koga_musi164/n/neae57a19e934?hl=en・3回目）
+  - 「Initially, it was launched as the Viatris Group with four companies:」（https://note.com/koga_musi164/n/neae57a19e934?hl=en・3回目）
+  - 「In November 2023, Mylan EPD G.K. and Upjohn Company LLC merged and changed their company name to Viatris Healthcare LLC. As a result, the Viatris Group became」（https://note.com/koga_musi164/n/neae57a19e934?hl=en・3回目）
+  - 「. The business activities of both companies are as follows. Distribution of Viatris Group products will be handled by Viatris Pharmaceutical Co., Ltd.」（https://note.com/koga_musi164/n/neae57a19e934?hl=en・3回目）
+  - 「The company name Mylan Seiyaku K.K. has disappeared from the Viatris Group here. Although I could not find details on the circumstances behind the disappearance of the Mylan Seiyaku name, the fact that it no longer exists within the Viatris Group seems certain.」（https://note.com/koga_musi164/n/neae57a19e934?hl=en・3回目）
+  - 「Simply put, Mylan EPD G.K. was a company established when Mylan Seiyaku acquired Abbott's EPD business division. EPD refers to drugs for which the patent period has expired. As written above, it has now been integrated into Viatris Healthcare LLC.」（https://note.com/koga_musi164/n/neae57a19e934?hl=en・3回目）
+- 連絡先：
+  - 「CONTACT US_Hangzhou Polyful Advanced Material Co., Ltd.」（https://www.polyful.com/contact-us/・3回目）
+- 検索結果の抜粋：
+  - 「CONTACT US_Hangzhou Polyful Advanced Material Co., Ltd. — CONTACT US_Hangzhou Polyful Advanced Material Co., Ltd. Hangzhou Polyful Advanced Material Co., Ltd. https://www.polyful.com > contact-us」（https://www.polyful.com/contact-us/・3回目）
+  - 「ABOUT US_Hangzhou Polyful Advanced Material Co., Ltd. — ABOUT US_Hangzhou Polyful Advanced Material Co., Ltd. Hangzhou Polyful Advanced Material Co., Ltd. https://www.polyful.com > about-us」（https://www.polyful.com/about-us/・3回目）
+  - 「Hangzhou Polyful Advanced Material Co., Ltd. - 专有型 — Hangzhou Polyful Advanced Material Co., Ltd. - 专有型 Total Materia https://www.totalmateria.com > hangz...」（https://www.totalmateria.com/zh/standards/proprietary/hangzhou-polyful-advanced-material-co-ltd・3回目）
+  - 「Hangzhou Polyful Advanced Material Co., Ltd. — Hangzhou Polyful Advanced Material Co., Ltd. Hangzhou Polyful Advanced Material Co., Ltd. https://www.polyful.com」（https://www.polyful.com/・3回目）
+  - 「Polyful - 杭州聚丰新材料有限公司 — 聚丰新材料POLYFUL专业从事高端聚合物产品的研发、生产和销售，主营全生物降解改性树脂/制品、3D打印颗粒/线材、低分子量 ...」（https://www.polyful.cn/・3回目）
+  - 「聚丰新材料 - polyful.cn — 聚丰新材料 Hangzhou Polyful Advanced Material Co., Ltd.」（https://www.polyful.cn/uploadfile/202209/39bb579d00c01e3.pdf・3回目）
+  - 「Hangzhou Polyful Advanced Material Overview, Address & Contact — About Hangzhou Polyful Advanced Material Hangzhou Polyful Advanced Material Co., Ltd. is a high-tech enterprise specializing in R&D, production, and sales of high-end polymer products. With technology innovation as the core, the company focuses on R&D investment and team building, possessing domestically advanced polymer pilot test e」（https://prospeo.io/c/hangzhou-polyful-advanced-material・3回目）
+  - 「Modified Engineering Plastics_PRODUCT CENTER_产品 — Modified Engineering Plastics_PRODUCT CENTER_产品 Hangzhou Polyful Advanced Material Co., Ltd. https://www.polyful.com > gxgcsl」（https://www.polyful.com/cpzs/gxgcsl/・3回目）
+  - 「【Choose from 41 Colors】Custom Roll Screen Flame ... - Amazon — Product Summary: 【Choose from 41 Colors】Custom Roll Screen Flame Retardant Grade 1 Blackout Heat Insulation Heat Retention Polyful Ivory Width 94 × Length 135cm Right Operation」（https://www.amazon.co.jp/-/en/Colors】Custom-Retardant-Insulation-Retention-Operation/dp/B08XJYP8VT・3回目）
+  - 「【Choose from 41 Colors】Custom Roll Screen Flame ... - Amazon — Product Summary: 【Choose from 41 Colors】Custom Roll Screen Flame Retardant Grade 1 Blackout Heat Insulation Heat Retention Polyful Ivory Width 39.8 × Length 29.5 inches Right Operation」（https://www.amazon.co.jp/-/en/Colors】Custom-Retardant-Insulation-Retention-Operation/dp/B08XJHX2DT・3回目）
+  - 「【Choose from 41 Colors】Custom Roll Screen Flame ... - Amazon — Product Summary: 【Choose from 41 Colors】Custom Roll Screen Flame Retardant Grade 1 Blackout Heat Insulation Heat Retention Polyful Ivory Width 113×Length 100cm Right Operation」（https://www.amazon.co.jp/-/en/Colors】Custom-Retardant-Insulation-Retention-113×Length/dp/B08XJJHFH3・3回目）
+  - 「Hangzhou Polyful Advanced Material Ltd. - 领英 — Hangzhou Polyful Advanced Material Ltd. - 领英 LinkedIn https://cn.linkedin.com > company」（https://cn.linkedin.com/company/hangzhou-polyful-advanced-material-ltd・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索15回）
+
+## Hangzhou Zhuopu New Materials Technology
+- 公式URL：https://en.cc3dchina.com（given）
+- 連絡先：tinawang852@gmail.com（https://en.cc3dchina.com/Workshop.html・1回目）
+- 日本の担い手：
+  - 「日本人ならみんなわかる、例のアレ」（https://monohoshi.blog/cc3dpla/・3回目）
+  - 「生分解性3Dプリント材料業界調査：トップ５企業の販売動向、シェア、需要予測2026-2032 - ZDNET Japan」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「QY Research株式会社は「生分解性3Dプリント材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」の調査レポートを発表しました」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「日本の住所：〒104-0061 東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「TEL：050-5893-6232（日本）；0081-5058936232（グローバル）」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「マーケティング担当 japan@qyresearch.com」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「特に、競合分析、市場規模予測、業界構造分析、カスタマイズ調査分野において、多くの日本企業から高い信頼と評価を獲得しています」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「QY Research株式会社のプレスリリース」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「QY Research株式会社のプレスリリース一覧へ」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始」（https://japan.zdnet.com/release/31206150/・3回目）
+  - 「「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題」（https://japan.zdnet.com/release/31206150/・3回目）
+- 直送・ネット販売：
+  - 「Workshop-Hangzhou Zhuopu New Materials Technology Co.,Ltd.」（https://en.cc3dchina.com/Workshop.html・1回目）
+  - 「Amazon.co.jp: CC3D Pro PETG フィラメント グレー 1.75mm 1kg 3Dプリンターフィラメント 3Dプリント素材 FDMプリンターに対応 PETGフィラメントライトグレーカラー : 産業・研究開発用品」（https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-CC3D-PETG%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC/dp/B09B4XFJQ9・3回目）
+  - 「Amazonおすすめには、すぐに発送ができて、評価が高く、お求めやすい価格の商品が揃っています」（https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-CC3D-PETG%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC/dp/B09B4XFJQ9・3回目）
+  - 「Amazonは安心・安全のために取り組んでいます」（https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-CC3D-PETG%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC/dp/B09B4XFJQ9・3回目）
+  - 「Amazonはお客様のセキュリティとプライバシーの保護に全力で取り組んでいます」（https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-CC3D-PETG%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC/dp/B09B4XFJQ9・3回目）
+  - 「Amazonの支払いセキュリティシステムは、送信中にお客様の情報を暗号化します」（https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-CC3D-PETG%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC/dp/B09B4XFJQ9・3回目）
+  - 「© 1996-2026, Amazon.com, Inc. またはその関連会社」（https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-CC3D-PETG%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC/dp/B09B4XFJQ9・3回目）
+  - 「Hangzhou Zhuopu New Material Technology Co., Ltd. | Verified Manufacturer on Alibaba.com」（https://suppliers.alibaba.com/hangzhou-zhuopu-new-material-technology-co-ltd_2815151104・3回目）
+  - 「This supplier has been verified on-site by Alibaba.com staff and an independent third-party verification agency.」（https://suppliers.alibaba.com/hangzhou-zhuopu-new-material-technology-co-ltd_2815151104・3回目）
+  - 「amazonで出ているのですがまあ、この円安時代にかなりお買い得なお値段」（https://monohoshi.blog/cc3dpla/・3回目）
+  - 「Amazonリンク、よかったらご利用ください！」（https://monohoshi.blog/cc3dpla/・3回目）
+  - 「Amazonのレビューを見ると反る、定着が悪い、等のコメントが散見されるのは若干気になります」（https://monohoshi.blog/cc3dpla/・3回目）
+- 規模・親会社：
+  - 「Established in 2015-01-14 · 10 years export experience · 72 employees · 6,799m² facility」（https://suppliers.alibaba.com/hangzhou-zhuopu-new-material-technology-co-ltd_2815151104・3回目）
+  - 「This supplier has been verified on-site by Alibaba.com staff and an independent third-party verification agency.」（https://suppliers.alibaba.com/hangzhou-zhuopu-new-material-technology-co-ltd_2815151104・3回目）
+- 連絡先：
+  - 「E-mail：tinawang852@gmail.com」（https://en.cc3dchina.com/Workshop.html・1回目）
+- 検索結果の抜粋：
+  - 「Hangzhou Zhuopu New Materials Technology Co.,Ltd ... — Hangzhou Zhuopu New Materials Technology Co.,Ltd ... Hangzhou Zhuopu New Materials Technology Co.,Ltd. https://en.cc3dchina.com」（https://en.cc3dchina.com/・3回目）
+  - 「Hangzhou Zhuopu New Materials Technology Co.,Ltd — Hangzhou Zhuopu New Materials Technology Co.,Ltd Facebook https://www.facebook.com > ... > Business Supply Service」（https://www.facebook.com/CC3DHangzhouZhuopu/・3回目）
+  - 「Hangzhou Zhuopu New Material Technology Co., Ltd. — Hangzhou Zhuopu New Material Technology Co., Ltd. Alibaba.com https://cc3d.en.alibaba.com」（https://cc3d.en.alibaba.com/・3回目）
+  - 「Products- Hangzhou Zhuopu New Materials Technology Co.,Ltd. — Products- Hangzhou Zhuopu New Materials Technology Co.,Ltd. Hangzhou Zhuopu New Materials Technology Co.,Ltd. https://en.cc3dchina.com > products」（https://en.cc3dchina.com/products.html・3回目）
+  - 「Chinese 3D filament supplier | Hangzhou Zhuopu New ... — Chinese 3D filament supplier | Hangzhou Zhuopu New ... cc3d.goldsupplier.com https://cc3d.goldsupplier.com」（https://cc3d.goldsupplier.com/・3回目）
+  - 「CC3D Pro PETG フィラメント グレー 1.75mm 1kg 3D ... — CC3D Pro PETG フィラメント グレー 1.75mm 1kg 3D ... amazon.jp https://www.amazon.co.jp > グレーフィラメント-3Dプリンタ...」（https://www.amazon.co.jp/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88-CC3D-PETG%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC/dp/B09B4XFJQ9・3回目）
+  - 「Hangzhou Zhuopu New Materials Technology Co.,Ltd. — Hangzhou Zhuopu New Material Technology Co., Ltd. is an enterprise engaged in the research and development, production, and sales of 3D printing consumables and biodegradable materials.」（https://en.cc3dchina.com/・3回目）
+  - 「Contact-Hangzhou Zhuopu New Materials Technology Co.,Ltd. — Hangzhou Zhuopu New Materials Technology Co.,Ltd. Contact Hangzhou Zhuopu New Material Technology Co., Ltd. is an enterprise engaged in the research and development, production, and sales of 3D printing consumables and biodegradable materials.」（https://en.cc3dchina.com/contact.html・3回目）
+  - 「CC3D PLA MAX 値段も安くコスパが高いフィラメント ... — CC3D PLA MAX 値段も安くコスパが高いフィラメント ... takeotaの物欲し雑記帳 https://monohoshi.blog > 3Dプリンター」（https://monohoshi.blog/cc3dpla/・3回目）
+  - 「【楽天市場】CC3D 3Dプリンター用 TPU フィラメント 1.75 ... — 【楽天市場】CC3D 3Dプリンター用 TPU フィラメント 1.75 ... 楽天市場 https://item.rakuten.co.jp > historia」（https://item.rakuten.co.jp/historia/b07s2vnrl2/・3回目）
+  - 「CC3D Silk Dual Color PLA Filament Black/Green 1.75mm ... — CC3D Silk Dual Color PLA Filament Black/Green 1.75mm ... Amazon.com https://www.amazon.com > ...」（https://www.amazon.com/CC3D-Filament-Coextrusion-Metallic-Printing/dp/B0CMCJXKGR・3回目）
+  - 「CC3D 硬度39D TPE フィラメント 1.75mm 1KG ... - Amazon — Amazon.co.jp: CC3D 硬度39D TPE フィラメント 1.75mm 1KG ナチュラルホワイトフレキシブル ショア硬度39D 類似TPU 89A フィラメント3DプリンターフィラメントFDM 3D印刷材料 TPE ホワイト : 産業・研究開発用品 Global Recycled Standard（GRS）認定商品には、供給元から最終商品まで、サプライチェーンの各段階で独立 ...」（https://www.amazon.co.jp/CC3D-ナチュラルホワイトフレキシブル39D-ショア硬度39D-TPUホワイトフィラメント3DプリンターフィラメントFDM-3D印刷材料ホワイトカラーに/dp/B0CHJNQ4XH・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索15回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索15回）
 
 ## Huizhou Brint Precision
 - 公式URL：特定できず（not_found）
@@ -836,19 +950,79 @@
 - 代理店網：記載なし（3回確認済み：公式3頁／PDF・画像2件／外部40頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式3頁／PDF・画像2件／外部40頁・検索15回）
 
+## LONGQI INDUSTRIAL COMPANY LIMITED
+- 公式URL：https://www.lotactree.com（given）
+- 代理店網：
+  - 「From equipment manufacturers and distributors to print farm operators, professionals across the industry visited the booth to discuss market demands and industry trends. Many expressed strong interest in LOTACTREE’s consistent product quality, extensive color range, and robust supply chain services.」（https://www.lotactree.com/en-us・1回目）
+  - 「From equipment manufacturers and distributors to print farm operators, professionals across the industry visited the booth to discuss market demands and industry trends. Many expressed strong interest in LOTACTREE’s consistent product quality, extensive color range, and robust supply chain services.」（https://www.lotactree.com/en-us/pages/our-brand-story・1回目）
+  - 「Authorized Reseller – Lotactree」（https://www.lotactree.com/en-us/pages/authorized-reseller・1回目）
+  - 「LOTACTREE Reseller Program」（https://www.lotactree.com/en-us/pages/reseller・1回目）
+  - 「When you purchase from our resellers, you will have access to a diverse line of products, including PLA, PETG and SILK, designed to deliver superior performance in any 3D printing application.」（https://www.lotactree.com/en-us/pages/reseller・1回目）
+  - 「All of our resellers are qualified to ensure your needs are met in any type of issue related to 3D printing.」（https://www.lotactree.com/en-us/pages/reseller・1回目）
+  - 「From equipment manufacturers and distributors to print farm operators, professionals across the industry visited the booth to discuss market demands and industry trends. Many expressed strong interest in LOTACTREE’s consistent product quality, extensive color range, and robust supply chain services.」（https://www.lotactree.com/en-us/pages/reseller・1回目）
+  - 「From equipment manufacturers and distributors to print farm operators, professionals across the industry visited the booth to discuss market demands and industry trends. Many expressed strong interest in LOTACTREE’s consistent product quality, extensive color range, and robust supply chain services.」（https://www.lotactree.com/en-us/collections/pla-f・1回目）
+  - 「From equipment manufacturers and distributors to print farm operators, professionals across the industry visited the booth to discuss market demands and industry trends. Many expressed strong interest in LOTACTREE’s consistent product quality, extensive color range, and robust supply chain services.」（https://www.lotactree.com/en-us/collections/tpu・1回目）
+  - 「From equipment manufacturers and distributors to print farm operators, professionals across the industry visited the booth to discuss market demands and industry trends. Many expressed strong interest in LOTACTREE’s consistent product quality, extensive color range, and robust supply chain services.」（https://www.lotactree.com/en-us/collections/pla-slik・1回目）
+  - 「From equipment manufacturers and distributors to print farm operators, professionals across the industry visited the booth to discuss market demands and industry trends. Many expressed strong interest in LOTACTREE’s consistent product quality, extensive color range, and robust supply chain services.」（https://www.lotactree.com/en-us/collections/pla-glow・1回目）
+- 直送・ネット販売：
+  - 「@Tinkers3Dshop」（https://www.lotactree.com/en-us/collections/all・1回目）
+  - 「Ships worldwide. Please check our Shipping Policy for details.」（https://www.lotactree.com/en-us/products/pla-force・1回目）
+- 規模・親会社：
+  - 「Great materials are not just used—they are part of the creative process.」（https://www.lotactree.com/en-us・1回目）
+  - 「Great materials are not just used—they are part of the creative process.」（https://www.lotactree.com/en-us/pages/our-brand-story・1回目）
+  - 「Great materials are not just used—they are part of the creative process.」（https://www.lotactree.com/en-us/pages/reseller・1回目）
+  - 「Great materials are not just used—they are part of the creative process.」（https://www.lotactree.com/en-us/collections/pla-f・1回目）
+  - 「Great materials are not just used—they are part of the creative process.」（https://www.lotactree.com/en-us/collections/tpu・1回目）
+  - 「Great materials are not just used—they are part of the creative process.」（https://www.lotactree.com/en-us/collections/pla-slik・1回目）
+  - 「Great materials are not just used—they are part of the creative process.」（https://www.lotactree.com/en-us/collections/pla-glow・1回目）
+- 検索結果の抜粋：
+  - 「LONGQI INDUSTRIAL COMPANY LIMITED | Hong Kong Companies Directory — Jun 17, 2011 · LONGQI INDUSTRIAL COMPANY LIMITED was incorporated on 17-JUN-2011 as a Private company limited by shares registered in Hong Kong. The date of annual examination for this private company limited is between Jun 17 and Jul 29 upon the anniversary of incorporation. The company's status is listed as " Live " now. Longqi 」（https://www.ltddir.com/companies/longqi-industrial-company-limited/・3回目）
+  - 「隆祺實業有限公司 - LONGQI INDUSTRIAL COMPANY LIMITED - COLTD.HK — Dec 27, 2023 · LONGQI INDUSTRIAL COMPANY LIMITED (隆祺實業有限公司) is incorporated in Hong Kong on 17-06-2011. Our AI model infers that it is probably participating in the business sector of...」（https://coltd.hk/company-58526830-details.htm・3回目）
+  - 「LONGQI INDUSTRIAL COMPANY LIMITED | Hong Kong Companies Directory — Jun 17, 2011 · LONGQI INDUSTRIAL COMPANY LIMITED was incorporated on 17-JUN-2011 as a Private company limited by shares registered in Hong Kong. The date of annual examination for this private company limited is between Jun 17 and Jul 29 upon the anniversary of incorporation. The company's status is listed as " Live " now. Longqi 」（https://www.ltddir.com/Page/companies/longqi-industrial-company-limited/・3回目）
+  - 「LONGQI INDUSTRIAL COMPANY LIMITED (1617750) - Hong Kong ... — Jun 17, 2011 · Live. A Company Register registered entity, LONGQI INDUSTRIAL COMPANY LIMITED was incorporated on 17 June 2011 (Friday) in Hong Kong.」（https://www.hkgbusiness.com/en/company/Longqi-Industrial-Company-Limited・3回目）
+- 創業年度：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式14頁／PDF・画像0件／外部36頁・検索15回）
+
 ## Lattice Medical SAS
 - 公式URL：https://www.lattice-medical.com（given）
-- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
-- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：
+  - 「Top 3D Shop Inc.」（https://www.youtube.com/watch?v=w76zZ9627qQ・3回目）
+- 規模・親会社：
+  - 「, managed on behalf of the French government as part of France 2030 by」（https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/・3回目）
+  - 「, qualified investors grouped within」（https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/・3回目）
+  - 「Securing €6 million in funding as part of the France 2030 plan」（https://lattice-services.com/en/about-us/・3回目）
+  - 「, managed on behalf of the French government as part of France 2030 by」（https://sprim.net/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/・3回目）
+  - 「, qualified investors grouped within」（https://sprim.net/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/・3回目）
+  - 「Lattice Medical has 40 total employees.」（https://pitchbook.com/profiles/company/264433-96・3回目）
+  - 「What is Lattice Medical’s current revenue?」（https://pitchbook.com/profiles/company/264433-96・3回目）
+  - 「The current revenue for Lattice Medical is」（https://pitchbook.com/profiles/company/264433-96・3回目）
+- 連絡先：
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/264433-96・3回目）
+- 検索結果の抜粋：
+  - 「Specialising in tissue engineering and 3D printing, we ... — Specialising in tissue engineering and 3D printing, we ... Lattice Medical https://www.lattice-medical.com > ...」（https://www.lattice-medical.com/en/・3回目）
+  - 「Lattice Medical raises €43 million to transform post-cancer ... — Lattice Medical raises €43 million to transform post-cancer ... sprim.com https://www.sprim.com > News」（https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/・3回目）
+  - 「LATTICE MEDICAL - Dassault Systèmes — LATTICE MEDICAL - Dassault Systèmes Dassault Systèmes https://www.3ds.com > ... > Portfolio」（https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical・3回目）
+  - 「Lattice Medical | Avolta — Lattice Medical | Avolta Avolta.io https://avolta.io > lattice-medical」（https://avolta.io/transaction/lattice-medical/・3回目）
+  - 「Lattice Medical — Lattice Medical 百度百科 https://baike.baidu.com > item > Latti...」（https://baike.baidu.com/en/item/Lattice%20Medical/7303611・3回目）
+  - 「MATTISSE - Breast prosthesis - Lattice Medical — MATTISSE - Breast prosthesis - Lattice Medical Lattice Medical https://www.lattice-medical.com > ma...」（https://www.lattice-medical.com/en/produit/mattisse/・3回目）
+  - 「Lattice Medical Case Study | 3devo — Lattice Medical Case Study | 3devo 3devo https://www.3devo.com > case-studies」（https://www.3devo.com/case-studies/lattice-medical・3回目）
+  - 「Lattice Medical raises €43 million to transform post-cancer ... — Lattice Medical raises €43 million to transform post-cancer ... SPRIM Global Investments https://sprim.net > lattice-medical-rais...」（https://sprim.net/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/・3回目）
+  - 「Lattice Medical 2026 Company Profile - PitchBook — Lattice Medical 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/264433-96・3回目）
+  - 「LATTICE MEDICAL raises €43 million to transform post ... — LATTICE MEDICAL raises €43 million to transform post ... MedTech Innovator https://medtechinnovator.org > lattice...」（https://medtechinnovator.org/cohortnews/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
 
 ## Lean Plastics Technologies GmbH
 - 公式URL：https://www.lean-plastics.de（given）
@@ -928,6 +1102,28 @@
 - 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 
+## Nantong Qiangsheng Graphene Technology
+- 公式URL：http://qs-kyorene.com（given）
+- 検索結果の抜粋：
+  - 「Nantong Qiangsheng Graphene Technology Co., Ltd南通强生石墨烯科技有限公司 - 企查查NANTONG QIANGSHENG GRAPHENE TECHNOLOGY CO., LTD南通强生新材料科技股份有限公司 - 企查查Nantong Qiangsheng Graphene Technology Co., Ltd. China ...Nantong Qiangsheng Graphene Technology Co., Ltd.Nantong Qiangsheng Graphene Technology Co., Ltd - 3d print ... — Apr 20, 2016 · Nantong Qiangsheng Graphene Technology Co., Ltd is a Chinese company.Industry:Sc」（https://www.cnverify.com/company/Nantong-Qiangsheng-Graphene-Technology-Co-Ltd・3回目）
+  - 「NANTONG QIANGSHENG GRAPHENE TECHNOLOGY CO., LTD — Nantong Qiangsheng Enterprise Group was established in Shanghai in 1992 and is the first enterprise in China to produce safety protection gloves. It has been in operation for 33 years and later moved to Nantong. Currently, it has three production enterprises in Rudong Economic Development Zone: Qiangsheng New Materials, Qiangsheng Graphene, and Qia」（https://online.tctasia.cn/en/showroom-2026/institutions/441gke・3回目）
+  - 「Nantong Qiangsheng Graphene Technology Co., Ltd. China ... — Obtain information about Nantong Qiangsheng Graphene Technology Co., Ltd. : Get Chinese Registry information, check legal status, identify shareholders and directors, assess financial performance. Start here KYC, compliance and Due Diligence processes.」（https://www.info-clipper.com/en/company/china/nantong-qiangsheng-graphene-technology-co-ltd.cnd99kl9u.html・3回目）
+  - 「Nantong Qiangsheng Graphene Technology Co., Ltd. — Learn about Nantong Qiangsheng Graphene Technology Co., Ltd., specializing in graphene composite meltblown cotton filter;graphene compressed activated carbon filter;high proportion graphene activated carbon filter;kitchen water purifier, participating in Aquatech Amsterdam 2019. Find contact details, website, and company background on FOB Business」（https://bbs.fobshanghai.com/company/15a6zh73b9785x9.html・3回目）
+  - 「Nantong Qiangsheng Graphene Technology Co., Ltd - 3d print ... — About company : nantong qiangsheng enterprise group was established in shanghai in 1992 and is the first enterprise in china to produce safety protection gloves. it has been in operation for 33 years and later moved to nantong. currently, it has three production enterprises in rudong economic development zone: qiangsheng new material」（https://bbs.fobshanghai.com/company/1d7bp70q62v2345.html・3回目）
+  - 「Nantong Qiangsheng Graphene Technology co., Ltd - 出展社 ... — Nantong Qiangsheng Graphene Technology co., Ltd - 出展社 ... ものづくり ワールド https://www.manufacturing-world.jp > search > directory」（https://www.manufacturing-world.jp/tokyo/ja-jp/search/2026mto0701/directory/directory-details.nantong%20qiangsheng%20graphene%20technology%20co%20ltd.org-785a6e42-8c82-4e82-9ea2-2da9651c8697.html・3回目）
+  - 「NANTONG QIANGSHENG GRAPHENE TECHNOLOGY CO ... — NANTONG QIANGSHENG GRAPHENE TECHNOLOGY CO ... TCT 3Sixty https://tct3sixty.com > exhibitor > nantong-qiangsheng-gr...」（https://tct3sixty.com/exhibitor/nantong-qiangsheng-graphene-technology-co-ltd・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
 ## Northbridge New Material Technology (Suzhou)
 - 公式URL：https://www.kexcelled3d.com（given）
 - 連絡先：FDA Title 21 Applicable food-contact-grade material compliance（https://kexcelled3d.com/pages/about-us・1回目）
@@ -976,6 +1172,50 @@
 - 売上高：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索15回）
 - 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索15回）
+
+## PORIMA POLIMER TEKNOLOJILERI
+- 公式URL：https://www.porima3d.com（given）
+- 日本の担い手：
+  - 「ZEN Global is a Kobe-based additive manufacturing technology partner and reseller, providing 3D printing solutions across polymer, composite, metal, and ceramic AM for manufacturing, medical, and research applications in Japan.」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+- 代理店網：
+  - 「3D Printer Reseller」（https://www.voxelmatters.directory/company/porima-polimer-teknolojileri-a-s/・3回目）
+  - 「3D Printer Reseller — VoxelMatters - The largest database of additive manufacturing companies」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- 3D Printer Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- - Ceramics 3D Printer Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- - Construction 3D Printer Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- - Electronics 3D Printer Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- - Metal 3D Printer Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- - Used 3D printer reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- 3D Scanner Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- 3D Software Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- Accessories/Spare Parts Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- Bioprinter/Bioink Reseller」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+- 直送・ネット販売：
+  - 「- - 3D Print eShop」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「- - 3D Print Shop」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+- 規模・親会社：
+  - 「Genix is a Turkish distributor of 3D printing and 3D scanning hardware, part of the Tecde Group's IT division.」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「FOMAS Group, alongside the manufacturing of forgings...」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company-category/3d-printer-distributor/・3回目）
+- 連絡先：
+  - 「info@porima3d.com」（https://porima3d.com/pages/iletisim?srsltid=AYCX9vIAxiyvpj0NH2jgtu9J3_2YTzUGWAZiWXlbq67wX5xOjRka05bl・3回目）
+  - 「info@porima3d.com」（https://porima3d.com/pages/iletisim?srsltid=AYCX9vKabyxvP1FVaocI_fugKmQ4ahsRu6Mt39KYY-T0Em3KcD2mVg1d・3回目）
+- 検索結果の抜粋：
+  - 「Porima Polimer Teknolojileri A.Ş. — VoxelMatters - The ... — Beyond manufacturing, Porima resells third-party 3D printing hardware including FDM printers (Bambu Lab, Anycubic, Creality, FLSUN, ELEGOO, Artillery, Flashforge, Zaxe, Snapmaker), resin printers (Anycubic, Phrozen, Creality, ELEGOO), 3D scanners (an extensive Revopoint lineup plus Creality scanners), and laser engravers (Snapmaker Ray, 」（https://www.voxelmatters.directory/company/porima-polimer-teknolojileri-a-s/・3回目）
+  - 「İletişim | Porima — Porima 3D Filament; yüksek kalitesi, en fazla filament çeşitleri ve uygun fiyatı ile Türkiye'nin en büyük yerli 3D yazıcı filament üreticisidir.」（https://porima3d.com/pages/iletisim・3回目）
+  - 「Porima | 3D Yazıcı Filamentleri — Porima | 3D Yazıcı Filamentleri Porima https://porima3d.com」（https://porima3d.com/?srsltid=AYCX9vI-uUQdG9o2ZkrE0GfWkmeKCoDudlB9tACKmjjAWXTe6ZNq9NXC・3回目）
+  - 「Porima 3D - LinkedIn — Porima 3D - LinkedIn LinkedIn https://tr.linkedin.com > porima3d」（https://tr.linkedin.com/company/porima3d・3回目）
+  - 「İletişim - Porima — İletişim - Porima Porima https://porima3d.com > pages > iletisim」（https://porima3d.com/pages/iletisim?srsltid=AYCX9vIAxiyvpj0NH2jgtu9J3_2YTzUGWAZiWXlbq67wX5xOjRka05bl・3回目）
+  - 「porima polimer teknolojileri a.ş. - Plast Eurasia — porima polimer teknolojileri a.ş. - Plast Eurasia Plast Eurasia https://plasteurasia.com > brand > por...」（https://plasteurasia.com/brand/porima-polimer-teknolojileri-as・3回目）
+  - 「Porima 3D Filament (@porima3d) • Instagram photos and videos — Porima 3D Filament (@porima3d) • Instagram photos and videos Instagram https://www.instagram.com > porima3d」（https://www.instagram.com/porima3d/・3回目）
+  - 「İletişim - Porima — İletişim - Porima Porima https://porima3d.com > pages > iletisim」（https://porima3d.com/pages/iletisim?srsltid=AYCX9vKabyxvP1FVaocI_fugKmQ4ahsRu6Mt39KYY-T0Em3KcD2mVg1d・3回目）
+  - 「My Visit to Porima , Türkiye's Largest Filament Manufacturer — My Visit to Porima , Türkiye's Largest Filament Manufacturer YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=FDyaoNIBfww・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
 
 ## Polymaker B.V.
 - 公式URL：https://www.polymaker.com（given）
@@ -1095,6 +1335,274 @@
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部45頁・検索15回）
 
+## REPLO Limited
+- 公式URL：https://replotech.com（given）
+- 日本の担い手：
+  - 「そして、このフットボールクラブをダイバーシティ×スポーツのロールモデルとして日本中に発信し、」（https://replotokyo.com/club/・3回目）
+  - 「そして、日本の中心都市である東京から全世界に発信するという願いも込めて」（https://replotokyo.com/club/・3回目）
+  - 「「REPLO TOKYO（レプロ東京）」にしました」（https://replotokyo.com/club/・3回目）
+  - 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/alchemy?locale=ja・3回目）
+- 直送・ネット販売：
+  - 「BigRepフィラメント、スペアパーツ、サービスキットなどのご注文は、当社のeshopへどうぞ」（https://bigrep.com/ja/filaments/・3回目）
+  - 「Every Marlow coat is welded by hand in our Gothenburg workshop and comes with free repairs for as long as you own it.」（https://www.replo.app/・3回目）
+  - 「Workshop · 4 min」（https://www.replo.app/・3回目）
+  - 「Split traffic between two versions, see where shoppers click, and keep the winner.」（https://www.replo.app/・3回目）
+  - 「Works with 30+ store and cart providers, from Shopify to WooCommerce, using your products and checkout.」（https://www.replo.app/・3回目）
+  - 「Meta, TikTok, Shopify」（https://www.replo.app/・3回目）
+  - 「Figma, Shopify」（https://www.replo.app/・3回目）
+  - 「Shopify, Recharge, Skio, Loop Subscriptions, Stay AI」（https://www.replo.app/・3回目）
+  - 「本格的な eコマースチーム向けの高性能なランディングページ | Shopify App Store」（https://apps.shopify.com/alchemy?locale=ja・3回目）
+  - 「Replo を使用すると、マーチャントはテーマをカスタム開発することなく、Shopify で動的なエクスペリエンスを構築できます」（https://apps.shopify.com/alchemy?locale=ja・3回目）
+  - 「また、Replo Experts ネットワークを利用して、Shopify のネイティブ機能と分析機能を備えた、パフォーマンスが高く美しいページをすばやく構築することもできます」（https://apps.shopify.com/alchemy?locale=ja・3回目）
+  - 「Shopify ストア連携1件」（https://apps.shopify.com/alchemy?locale=ja・3回目）
+- 規模・親会社：
+  - 「Making plastic part of the solution, not the problem」（https://replotech.com/・1回目）
+  - 「Plastic is engineered to last forever, yet we treat it like it’s disposable, creating a global crisis our systems, behaviours, and policies were never built to solve. It’s time to make plastic part of the solution, not the problem.」（https://replotech.com/・1回目）
+  - 「Explore career opportunities with REPLO® and be part of a collaborative, passionate and forward-thinking team driving innovation in sustainable materials. Submit your CV to」（https://replotech.com/company/・1回目）
+  - 「Benchmark against your revenue band」（https://www.replo.app/・3回目）
+  - 「Revenue up 12% on last Tuesday, led by /glide-3」（https://www.replo.app/・3回目）
+  - 「Revenue up 12%, led by /glide-3」（https://www.replo.app/・3回目）
+  - 「Replo (YC S21) Revenue 2023: $3.7M Est.」（https://getlatka.com/companies/replo.app・3回目）
+  - 「revenue & acquisition」（https://getlatka.com/companies/replo.app・3回目）
+  - 「Replo (YC S21) was acquired.」（https://getlatka.com/companies/replo.app・3回目）
+  - 「Replo (YC S21) revenue」（https://getlatka.com/companies/replo.app・3回目）
+  - 「Replo (YC S21) has not published its revenue. Growjo puts it at about $3.7M a year (December 2023).」（https://getlatka.com/companies/replo.app・3回目）
+  - 「Replo (YC S21) CEO, founders & employees」（https://getlatka.com/companies/replo.app・3回目）
+- 連絡先：
+  - 「Sales, ads, and pages in one email, in your team's inbox every morning.」（https://www.replo.app/・3回目）
+  - 「Email traffic doubled after Monday's send」（https://www.replo.app/・3回目）
+  - 「B2B email lists」（https://growjo.com/company/Replo_(YC_S21)・3回目）
+  - 「B2B Email Finder」（https://growjo.com/company/Replo_(YC_S21)・3回目）
+  - 「Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.」（https://pitchbook.com/profiles/company/469083-61・3回目）
+- 検索結果の抜粋：
+  - 「Partner with REPLO Technology | Contact Us for ... — Partner with REPLO Technology | Contact Us for ... replotech.com https://replotech.com > contact」（https://replotech.com/contact/・3回目）
+  - 「クラブ | 一般社団法人 レプロ 東京 — クラブ | 一般社団法人 レプロ 東京 一般社団法人レプロ東京 https://replotokyo.com > ホーム > クラブ」（https://replotokyo.com/club/・3回目）
+  - 「Replo : Everything you need to find customers, sell your ... — Replo : Everything you need to find customers, sell your ... Replo https://www.replo.app」（https://www.replo.app/・3回目）
+  - 「Replo Landing Page Builder - Shopify App Store — Replo Landing Page Builder - Shopify App Store Shopify App Store https://apps.shopify.com > alchemy」（https://apps.shopify.com/alchemy・3回目）
+  - 「Replo - LinkedIn — Replo - LinkedIn LinkedIn https://www.linkedin.com > replohq」（https://www.linkedin.com/company/replohq・3回目）
+  - 「Replo : Sell anything - Y Combinator — Replo : Sell anything - Y Combinator Y Combinator https://www.ycombinator.com > replo」（https://www.ycombinator.com/companies/replo・3回目）
+  - 「Replo 101, Part 2 - Building Your First Landing Page on Shopify! — Replo 101, Part 2 - Building Your First Landing Page on Shopify! YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=kHOsbPTMIC4・3回目）
+  - 「Adelance Quasi Drug Hair Replopro Medicinal Scalp ... — Adelance Quasi Drug Hair Replopro Medicinal Scalp ... amazon.jp https://www.amazon.co.jp > Adelance-Replopro-Medicina...」（https://www.amazon.co.jp/-/en/Adelance-Replopro-Medicinal-Removing-Dandruff/dp/B0FV34MTHR・3回目）
+  - 「Replo (YC S21) Revenue 2023: $3.7M Est. - GetLatka — Replo (YC S21) Revenue 2023: $3.7M Est. - GetLatka GetLatka https://getlatka.com > replo」（https://getlatka.com/companies/replo.app・3回目）
+  - 「Replo (YC S21): Revenue , Competitors, Alternatives - Growjo — Replo (YC S21): Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Replo_(YC_S21)」（https://growjo.com/company/Replo_(YC_S21)・3回目）
+  - 「Replo 2026 Company Profile: Valuation, Funding & Investors — Replo 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/469083-61・3回目）
+  - 「Replo - 2026 Company Profile, Team, Funding & Competitors — Replo - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/replo/__UhqKXYhzsYQcLTIgT0GNIYxH9a9HOhAqogodJ0KYJts・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部40頁・検索15回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部40頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部40頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部40頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部40頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部40頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部40頁・検索15回）
+
+## ROSA PLAST Sp. z o.o.
+- 公式URL：https://www.rosa3d.pl（given）
+- 日本の担い手：
+  - 「公式Prusa3D販売代理店」（https://www.prusa3d.com/ja/resellers/・3回目）
+  - 「地図で所在地を探索するか、以下のフィルターを使用して、ニーズにぴったりの販売代理店を見つけてください」（https://www.prusa3d.com/ja/resellers/・3回目）
+  - 「197 代理店が見つかりました」（https://www.prusa3d.com/ja/resellers/・3回目）
+- 代理店網：
+  - 「Official Prusa3D Resellers」（https://www.prusa3d.com/resellers/・3回目）
+  - 「Browse our network of trusted and certified partners. Use the map to explore locations or use the filters below to find the perfect reseller for your needs.」（https://www.prusa3d.com/resellers/・3回目）
+  - 「197 reseller found」（https://www.prusa3d.com/resellers/・3回目）
+- 直送・ネット販売：
+  - 「eshop@rosa3d.pl」（https://www.rosa3d.pl/・1回目）
+  - 「3DJake by niceshops」（https://www.prusa3d.com/resellers/・3回目）
+  - 「www.shop.lab3d.dk」（https://www.prusa3d.com/resellers/・3回目）
+  - 「www.3dwayshop.com.ua」（https://www.prusa3d.com/resellers/・3回目）
+  - 「shop.3dmprint.it/it/」（https://www.prusa3d.com/resellers/・3回目）
+  - 「shop.bfi-it.de/3d-drucker/marken/prusa/」（https://www.prusa3d.com/resellers/・3回目）
+  - 「X3Dshop」（https://www.prusa3d.com/resellers/・3回目）
+  - 「https://x3dshop.com/」（https://www.prusa3d.com/resellers/・3回目）
+  - 「3DJake by niceshops」（https://www.prusa3d.com/ja/resellers/・3回目）
+  - 「www.shop.lab3d.dk」（https://www.prusa3d.com/ja/resellers/・3回目）
+  - 「www.3dwayshop.com.ua」（https://www.prusa3d.com/ja/resellers/・3回目）
+  - 「shop.3dmprint.it/it/」（https://www.prusa3d.com/ja/resellers/・3回目）
+- 規模・親会社：
+  - 「Prosteer Group, LLC」（https://www.prusa3d.com/resellers/・3回目）
+  - 「TAGN Group Co-orporation」（https://www.prusa3d.com/resellers/・3回目）
+  - 「Prosteer Group, LLC」（https://www.prusa3d.com/ja/resellers/・3回目）
+  - 「TAGN Group Co-orporation」（https://www.prusa3d.com/ja/resellers/・3回目）
+- 連絡先：
+  - 「Nazwa użytkownika lub adres e-mail」（https://rosaplast.pl/・3回目）
+- 検索結果の抜粋：
+  - 「Contact us! - ROSA3D Filaments — Contact us! - ROSA3D Filaments ROSA3D Filaments https://www.rosa3d.pl > contact」（https://www.rosa3d.pl/en/contact・3回目）
+  - 「SPOOL AND PACKAGING DIMENSIONS - ROSA3D Filaments — SPOOL AND PACKAGING DIMENSIONS - ROSA3D Filaments ROSA3D Filaments PDF https://www.rosa3d.pl > files」（https://www.rosa3d.pl/files/7334b8db-17bd-43e7-9d1c-1daebf076a08・3回目）
+  - 「ROSA3D Filamentsの フィラメント ：全46ライン - SimplyPrint — ROSA3D Filamentsの フィラメント ：全46ライン - SimplyPrint SimplyPrint https://simplyprint.io > ... > ROSA3D Filaments」（https://simplyprint.io/ja/filaments/rosa3d-filaments・3回目）
+  - 「How to Assemble ROSA3D Masterspool Discs with ReFill 3D ... — How to Assemble ROSA3D Masterspool Discs with ReFill 3D ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=XkP0DPQuSvU・3回目）
+  - 「Distributors - ROSA3D Filaments — Distributors - ROSA3D Filaments ROSA3D Filaments https://www.rosa3d.pl > outpost」（https://www.rosa3d.pl/en/outpost・3回目）
+  - 「Blog - sklep ROSA3D Filaments — Blog - sklep ROSA3D Filaments ROSA3D Filaments https://www.rosa3d.pl > news」（https://www.rosa3d.pl/en/news・3回目）
+  - 「SAFETY DATA SHEET - ROSA3D Filaments — SAFETY DATA SHEET - ROSA3D Filaments ROSA3D Filaments PDF https://www.rosa3d.pl > files」（https://www.rosa3d.pl/files/75855fa4-122b-4972-86cb-52df9b6d56a5・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+
+## Recreus Industries S.L.
+- 公式URL：https://www.recreus.com（given）
+- 代理店網：
+  - 「Become a Recreus reseller」（https://recreus.com/en-en/pages/become-a-recreus-reseller・1回目）
+  - 「Become a Recreus reseller」（https://recreus.com/en-en/collections/accessories?srsltid=AYCX9vLaOb-_MpBDTg3iYmML1ITksnDqfmxJYQQyhixxSGe6jkm6hdYK・3回目）
+- 直送・ネット販売：
+  - 「Worldwide Shipping Available」（https://recreus.com/en-en・1回目）
+  - 「Worldwide Shipping Available」（https://recreus.com/en-en?srsltid=AYCX9vKV_ZNkoPUCbMIUnSQRp_ImAWHG3vfOFaFT2dgAQMayKwbZ2n3u・3回目）
+- 規模・親会社：
+  - 「Being part of the Recreus community means joining a network of creators, engineers, and enthusiasts who share your passion for 3D printing. Here, you can share your experiences, learn from others, seek inspiration, and find solutions to your problems.」（https://recreus.com/en-en/pages/company・1回目）
+  - 「Being part of the Recreus community means joining a network of creators, engineers, and enthusiasts who share your passion for 3D printing. Here, you can share your experiences, learn from others, seek inspiration, and find solutions to your problems.」（https://recreus.com/en-en/pages/company?srsltid=AYCX9vJRS_z3TnbcQFjBN-OYLLyaFkfcXZ73AX-0uW3wBRVkaXNPUIAP・3回目）
+  - 「Being part of the Recreus community means joining a network of creators, engineers, and enthusiasts who share your passion for 3D printing. Here, you can share your experiences, learn from others, seek inspiration, and find solutions to your problems.」（https://recreus.com/en-en/pages/company?srsltid=AYCX9vJbDLoR3oB7OfNmA3nnR7Yd9Xix_EqxsIHR28jpRhopixMni-SF・3回目）
+  - 「Being part of the Recreus community means joining a network of creators, engineers, and enthusiasts who share your passion for 3D printing. Here, you can share your experiences, learn from others, seek inspiration, and find solutions to your problems.」（https://recreus.com/en-en/pages/company?srsltid=AYCX9vL_UheaPd-1fQSl-TuBGaHwh8cvY6EB1sL6hnhHoAMa1neJsgDK・3回目）
+  - 「Drones, Rockets and Phones Push Industrial 3D Printer Revenue Up 40% as Desktop Market Shows Signs of Saturation」（https://3dprintingindustry.com/news/now-creativity-is-flexible-with-recreus-filaments-239303/・3回目）
+- 連絡先：
+  - 「Enter your email address」（https://recreus.com/en-en/pages/become-a-recreus-reseller・1回目）
+  - 「Enter your email address」（https://recreus.com/en-en/collections/accessories?srsltid=AYCX9vLaOb-_MpBDTg3iYmML1ITksnDqfmxJYQQyhixxSGe6jkm6hdYK・3回目）
+- 検索結果の抜粋：
+  - 「Filaflex - Recreus — Filaflex - Recreus Recreus https://recreus.com > pages > filaflex」（https://recreus.com/pages/filaflex?srsltid=AYCX9vJCxdXiJBtuTZODMhsL_kNWNCZ0LM2cjhacgC_zuwH81ji5yNQZ・3回目）
+  - 「Introducing Filaflex 2.20mm System by Recreus - YouTube — Introducing Filaflex 2.20mm System by Recreus - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=iD-rXLk1PGk・3回目）
+  - 「Filaflex - Recreus — Filaflex - Recreus Recreus https://recreus.com > pages > filaflex」（https://recreus.com/en/pages/filaflex?srsltid=AYCX9vKtBupl2Ffd5RYUVI-eBs9SlqWiaY0ukfPfT1CpxYQZCGkS1uCb・3回目）
+  - 「Filaflex - Recreus — Filaflex - Recreus Recreus https://recreus.com > pages > filaflex」（https://recreus.com/en/pages/filaflex?srsltid=AYCX9vIs79X4PokohII5zbUK1RnC8ytLB2sG5QcY2cr-vJSY-ViV1nnR・3回目）
+  - 「Filaflex - Recreus — Filaflex - Recreus Recreus https://recreus.com > pages > filaflex」（https://recreus.com/en/pages/filaflex?srsltid=AYCX9vLslqlByJOCTYvfUvArVjf09pel_IiCbJQfWcj8ODHdf1tppZMs・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部41頁・検索15回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部41頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部41頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部41頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部41頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部41頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部41頁・検索15回）
+
+## SHANXI RUITUOFENG NEW MATERIALS
+- 公式URL：特定できず（not_found）
+- 規模・親会社：
+  - 「Shanxi Ruituofeng New Materials Co., Ltd. is a wholly‑owned subsidiary of Shanxi Jinhui Group. The company currently launches Ecowish series of 3D‑printing raw materials and filaments, including PLA, PLA+, Silk‑PLA, Matte‑PLA, PETG and TPU.」（https://online-sz.tctasia.cn/en/showroom-2026/institutions/b70df・3回目）
+  - 「Zhongshun Jie Rou is one of the first domestic A-share listed companies engaged in household paper products. It has established six green production bases in Jiangmen, Gu...」（http://en.fortucky.com/case-item-53.html・3回目）
+  - 「Shaanxi Guangyao Group-Logistics Automatic Sorting Project」（http://en.fortucky.com/case-item-53.html・3回目）
+- 連絡先：
+  - 「exhibitor contact email for promotions may result in account」（https://vietnamplas.chanchao.com.tw/en/VisitorExhibitor/Detail?regNo=221842・3回目）
+  - 「Get email alerts when this company has new activities.」（https://importkey.com/i/shanxi-ruituofeng-new-materials・3回目）
+  - 「Email: maggie.huang@szfortucky.com」（http://en.fortucky.com/case-item-53.html・3回目）
+- 検索結果の抜粋：
+  - 「SHANXI RUITUOFENG NEW MATERIALS CO., LTD. | Import Data ... — Aug 12, 2026 · SHANXI RUITUOFENG NEW MATERIALS CO., LTD. was included in the global trader database of NBD Trade Data on2023-12-18.」（https://en.nbd.ltd/trader/info/I9NBD199996230・3回目）
+  - 「SHANXI RUITUOFENG NEW MATERIALS CO.,LTD - 采购商/供应商-海关进出... — SHANXI RUITUOFENG NEW MATERIALS CO.,LTD报告所展示的贸易数据基于各国海关及相关公开渠道的合法记录，并经过格式化与整理以便用户查询与分析。 我们对数据的来源与处理过程保持合规性，确保信息的客观性，但由于国际贸易活动的动态变化，部分数据可能存在延迟或变更。」（https://www.hgsj.com/enterprise/detail/c3VwcGxpZXJ8U0hBTlhJIFJVSVRVT0ZFTkcgTkVXIE1BVEVSSUFMUyBDTy4sTFRE・3回目）
+  - 「Shanxi Ruituofeng New Materials Co., Ltd出口数据及联系方式-外贸邦 — Sep 28, 2026 · shanxi ruituofeng new materials co., ltd是一家中国供应商,外贸邦网提供该公司的市场分析、贸易伙伴名录、港口统计分析、提单数据、联系方式（联系人、邮箱、网址）」（https://www.52wmb.com/supplier/172611964・3回目）
+  - 「SHANXI RUITUOFENG NEW MATERIALS CO LTD - 采购商/供应商-海关进出口... — 报告概述：SHANXI RUITUOFENG NEW MATERIALS CO LTD作为供应商，从事进出口贸易业务。。。 这些贸易数据来自于各国海关及公开渠道，经过标准化与结构化处理，可反映企业进出口趋势与主要市场布局，适用于市场趋势分析、竞争对手研究、港口运输规划、供应链优化及国际客户开发，为跨境贸易决策提供 ...」（https://www.hgsj.com/enterprise/detail/c3VwcGxpZXJ8U0hBTlhJIFJVSVRVT0ZFTkcgTkVXIE1BVEVSSUFMUyBDTyBMVEQ・3回目）
+  - 「SHANXI RUITUOFENG NEW MATERIALS CO. | Import Data | Export ... — Mar 30, 2026 · SHANXI RUITUOFENG NEW MATERIALS CO. was included in the global trader database of NBD Trade Data on2023-12-18.」（https://en.nbd.ltd/trader/info/I9NBD200095792・3回目）
+  - 「Shanxi Ruituofeng New Materials Co., Ltd. - cnverify.com — Shanxi Ruituofeng New Materials Co., Ltd. is a Chinese company.Industry:Wholesale and retail trade;Wholesale Industry;Wholesale of mineral products, building materials and chemical products」（https://www.cnverify.com/company/Shanxi-Ruituofeng-New-Materials-Co-Ltd・3回目）
+  - 「SHANXI RUITUOFENG NEW MATERIALS CO., LTD. | Exhibitor ... — Address SHANXI RUITUOFENG NEW MATERIALS CO., LTD. Shanxi Lvliang City Shanxi Xiaoyi Economical Development Zon New FenJie Road Coal Chemical Industrial Park 032300 China」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/shanxi-ruituofeng-new-materials-co-ltd.html・3回目）
+  - 「Shanxi Ruituofeng New Materials Co., Ltd出口数据及联系方式-外贸邦 — Sep 28, 2026 · 上图展示了shanxi ruituofeng new materials co., ltd2025-2026年的市场趋势分析图。从交易数量、交易重量、平均价格以及交易次数等不同维度，可以直观了解公司在采供周期、业务规模与稳定性方面的表现。 数据显示，2026年截至目前已完成交易45次，交易数量为506002.2，交易重量为877610。 年份 交易数 交易量 ...」（https://www.52wmb.com/supplier/172611964・3回目）
+  - 「SHANXI RUITUOFENG NEW MATERIALS CO., LTD. | Import Data ... — Aug 12, 2026 · SHANXI RUITUOFENG NEW MATERIALS CO., LTD. was included in the global trader database of NBD Trade Data on2023-12-18. It is the first time for SHANXI RUITUOFENG NEW MATERIALS CO., LTD. to appear in the customs data of theCHINA and at present, NBD Customs Data system has included 126 customs import and export records relate」（https://en.nbd.ltd/trader/info/I9NBD199996230・3回目）
+  - 「Supply Chain Data Of Shanxi Ruituofeng New Materials Co Ltd ... — Find shipment details and trends, top products imported and exported, buyers, suppliers, contact details of Shanxi Ruituofeng New Materials Co Ltd, and much more with Trademo」（https://www.trademo.com/companies/shanxi-ruituofeng-new-materials-co-ltd/44740410・3回目）
+  - 「About | SHANXI RUITUOFENG NEW MATERIALS CO.,LTD. | TCT ... — Shanxi Ruituofeng New Materials Co., Ltd. is a wholly‑owned subsidiary of Shanxi Jinhui Group. The company currently launches Ecowish series of 3D‑printing raw materials and filaments, including PLA, PLA+, Silk‑PLA, Matte‑PLA, PETG and TPU.」（https://online-sz.tctasia.cn/en/showroom-2026/institutions/b70df・3回目）
+  - 「SHANXI RUITUOFENG NEW MATERIALS CO., LTD. — Aug 12, 2026 · NBD Trade Data System is updated once every three days. At present, the latest trade data of this company have been updated until 2026-08-12. Recent customs import and export records of SHANXI RUITUOFENG NEW MATERIALS CO., LTD. are as follows:」（https://en.nbd.ltd/trader/info/I9NBD199996230・3回目）
+- 創業年度：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 株主：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 従業員数：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 売上高：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 所在地：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 拠点：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 日本の担い手：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 代理店網：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+- 直送・ネット販売：記載なし（3回確認済み：公式0頁／PDF・画像0件／外部36頁・検索23回）
+
+## SIOCAST S.L.
+- 公式URL：https://siocast.com（given）
+- 日本の担い手：
+  - 「Japan Weekend’s miniature made with SiOCAST.」（https://formlabs.com/blog/how-siocast-is-revolutionizing-miniature-making/・3回目）
+  - 「With this technology, Siocast "has the potential to relocate production", promoting local manufacturing and sustainability through its machines, according to Navarro. Since its entry into the market, the company has sold a hundred machines worldwide, with 50% of sales in the United States and with units in countries such as Singapore, Japan and New Zealand.」（https://www.thenewbarcelonapost.com/en/siocast-will-take-its-silicone-molds-to-more-markets-with-a-new-machine/・3回目）
+- 代理店網：
+  - 「Become a dealer | SIOCAST」（https://siocast.com/become-a-dealer/・1回目）
+  - 「good reasons to become a SiOCAST dealer」（https://siocast.com/become-a-dealer/・1回目）
+  - 「. If you are interested in selling SiOCAST products and spreading our environmental message through your own business, please click on “Become a Dealer” and fill out the application form. If there are any current opportunities in your area, the appropriate Sales rep will get back to you shortly」（https://siocast.com/become-a-dealer/・1回目）
+  - 「As a SiOCAST reseller, you have the chance to expand your portfolio exploring new market opportunities for you and your customers.」（https://siocast.com/become-a-dealer/・1回目）
+  - 「SiOCAST is committed to our dealer network. We design the best products and right programs that will help to grow your business.」（https://siocast.com/become-a-dealer/・1回目）
+  - 「We believe in building long-term partnerships with our dealers and we seek out those who believe in providing exceptional customer service.」（https://siocast.com/become-a-dealer/・1回目）
+  - 「Interested in becoming a SiOCAST reseller?」（https://siocast.com/become-a-dealer/・1回目）
+- 直送・ネット販売：
+  - 「Wholesale Print Shop Tour: Machine Layout, Workflow Changes & Lessons Learned」（https://www.youtube.com/watch?v=MP7YV1Z4WWc・3回目）
+  - 「Ora Critika 1x05 - Septiembre, entrevista con Siocast. | ORA Critika Amazon Musicのエピソード」（https://music.amazon.co.jp/podcasts/49cbaafe-cded-4743-8593-4ee0a7df2095/episodes/63c2a0cf-b01b-445a-8f23-977e85df4e4e/ora-critika-ora-critika-1x05---septiembre-entrevista-con-siocast・3回目）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://siocast.com/・1回目）
+  - 「This is the question many have had over the years and now is possible thanks to SiOCAST, a company from the CONIEX group.」（https://siocast.com/about-us/・1回目）
+  - 「SiOCAST is a company born in 2017 as a spin-off of CONIEX Group. For the last 35 years, CONIEX has been an industrial company with two key activities:」（https://siocast.com/about-us/・1回目）
+  - 「we named the company to the base molecular chain of silicone rubber, which is a polymer composed of Silicon bonded to Oxygen backbone chains with vinyl or methyl side groups.」（https://siocast.com/about-us/・1回目）
+  - 「After 8 intense years of deep R+D, some years up to 17% of the company’s turnover, a final solution was developed and」（https://siocast.com/about-us/・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://siocast.com/about-us/・1回目）
+  - 「Increase your business revenue」（https://siocast.com/become-a-dealer/・1回目）
+  - 「Develop your staff knowledge」（https://siocast.com/become-a-dealer/・1回目）
+  - 「1-10 employees」（https://siocast.com/become-a-dealer/・1回目）
+  - 「11-50 employees」（https://siocast.com/become-a-dealer/・1回目）
+  - 「51-200 employees」（https://siocast.com/become-a-dealer/・1回目）
+  - 「201-500 employees」（https://siocast.com/become-a-dealer/・1回目）
+- 連絡先：
+  - 「Take control of your plastic manufacturing process in-house. Contact us now to learn more and get started.」（https://siocast.com/・1回目）
+- 検索結果の抜粋：
+  - 「SiOCAST injection molding in Silicone Rubber Mold — SiOCAST injection molding in Silicone Rubber Mold siocast https://siocast.com」（https://siocast.com/・3回目）
+  - 「How SiOCAST is Revolutionizing the Miniatures Market With ... — How SiOCAST is Revolutionizing the Miniatures Market With ... Formlabs https://formlabs.com > blog > how-si...」（https://formlabs.com/blog/how-siocast-is-revolutionizing-miniature-making/・3回目）
+  - 「Siocast Plastic is Replacing Resin, Metal and PVC ... - YouTube — Siocast Plastic is Replacing Resin, Metal and PVC ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=RMLdgF2nMSc・3回目）
+  - 「Contact | SIOCAST — Contact | SIOCAST siocast https://siocast.com > contact-us」（https://siocast.com/contact-us/・3回目）
+  - 「SioCast Manufacturing Costs for Miniatures - Reddit — SioCast Manufacturing Costs for Miniatures - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/tabletopgamedesign/comments/13noz79/siocast_manufacturing_costs_for_miniatures/・3回目）
+  - 「SiOres sustainable thermoplastic | SIOCAST — SiOres sustainable thermoplastic | SIOCAST siocast https://siocast.com > Products」（https://siocast.com/products/siores-sustainable-thermoplastic/・3回目）
+  - 「SiOCAST - making miniatures local and safe - YouTube — SiOCAST - making miniatures local and safe - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=MP7YV1Z4WWc・3回目）
+  - 「What Happened to SioCast ? - Frontline Gaming — What Happened to SioCast ? - Frontline Gaming Frontline Gaming https://frontlinegaming.org > News」（https://frontlinegaming.org/2026/04/09/what-happened-to-siocast/・3回目）
+  - 「Ora Critika 1x05 - Septiembre, entrevista con Siocast. — Traemos un programa de septiembre muy interesante. Un montón de contenido, destacando la entrevista con el CEO de Siocast. Bienvenidos a Ora Critika.」（https://music.amazon.co.jp/podcasts/49cbaafe-cded-4743-8593-4ee0a7df2095/episodes/63c2a0cf-b01b-445a-8f23-977e85df4e4e/ora-critika-ora-critika-1x05---septiembre-entrevista-con-siocast・3回目）
+  - 「Siocast will take its silicone molds to more markets with a new ... — Siocast will take its silicone molds to more markets with a new ... The New Barcelona Post https://www.thenewbarcelonapost.com > ...」（https://www.thenewbarcelonapost.com/en/siocast-will-take-its-silicone-molds-to-more-markets-with-a-new-machine/・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索15回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部33頁・検索15回）
+
+## SYNTHENE SAS
+- 公式URL：https://www.synthene.com（given）
+- 所在地：45 Ferme de l’Évêché, CS 20308, 60723 Pont-Sainte-Maxence, France – Oise（https://www.synthene.com/frontpage/about-us/legale-notice/・1回目）
+- 所在地：45 Ferme de l’Évêché, CS 20308, 60723 Pont-Sainte-Maxence, Frankreich – Oise（https://www.synthene.com/de/startseite/ueber-synthene/impressum/・1回目）
+- 連絡先：comm@synthene.com（https://www.synthene.com/frontpage/about-us/legale-notice/・1回目）
+- 連絡先：comm@synthene.com（https://www.synthene.com/de/startseite/ueber-synthene/impressum/・1回目）
+- 代理店網：
+  - 「The products are available worldwide thanks to a vast network of dedicated distributors and the international sales team.」（https://www.synthene.com/frontpage/about-us/・1回目）
+  - 「Synthene-Team und die Vertriebspartner in der ganzen Welt」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「zum Distributoren-Netzwerk weltweit」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「Unsere Vertriebspartner」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「qualifizierte Vertriebspartner weltweit.」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「zu den Distributoren für Europa」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「zu den Distributoren für Asien」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「zu den Distributoren für Nordamerika」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「zu den Distributoren für den Nahen Osten」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「Wenn keine Distributor für Ihr Land aufgelistet ist, dann kontaktieren Sie bitte das internationale Vertriebsteam von SYNTHENE.」（https://www.synthene.com/de/kontakt/・1回目）
+- 連絡先：
+  - 「SYNTHENE’s hotline and support email address where a competent member of the team will help you」（https://www.synthene.com/・1回目）
+  - 「Please contact us in order to get a copy of the test reports. We will happily provide them to you.」（https://www.synthene.com/categorie/industry-foodgrade/・1回目）
+  - 「The Site is hosted by Synten Cloud, located at 255 Bureaux de la Colline, 1 rue Royale 92210 SAINT CLOUD (telephone contact or email: support@synten.com).」（https://www.synthene.com/frontpage/about-us/legale-notice/・1回目）
+  - 「By email : contact@synthene.com」（https://www.synthene.com/frontpage/about-us/legale-notice/・1回目）
+  - 「Email: comm@synthene.com」（https://www.synthene.com/frontpage/about-us/legale-notice/・1回目）
+  - 「Die Website wird von der Firma Synten Cloud gehostet, mit Sitz in 255 Bureaux de la Colline, 1 rue Royale, 92210 SAINT CLOUD (Kontakt per Telefon oder E-Mail: support@synten.com).」（https://www.synthene.com/de/startseite/ueber-synthene/impressum/・1回目）
+  - 「Per E-Mail: contact@synthene.com」（https://www.synthene.com/de/startseite/ueber-synthene/impressum/・1回目）
+  - 「Pavel SEHNAL hat einen Datenschutzbeauftragten (DSB) bei der CNIL (Nr. 1397882) benannt. Die Kontaktdaten unseres Datenschutzbeauftragten lauten wie folgt:」（https://www.synthene.com/de/startseite/ueber-synthene/impressum/・1回目）
+  - 「E-Mail: comm@synthene.com」（https://www.synthene.com/de/startseite/ueber-synthene/impressum/・1回目）
+  - 「Wir freuen uns auf Ihren Kontakt!」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「Kontaktieren Sie uns einfach!」（https://www.synthene.com/de/kontakt/・1回目）
+  - 「Wenn keine Distributor für Ihr Land aufgelistet ist, dann kontaktieren Sie bitte das internationale Vertriebsteam von SYNTHENE.」（https://www.synthene.com/de/kontakt/・1回目）
+- 検索結果の抜粋：
+  - 「SYNTHENE » PU[RE]INNOVATION — SYNTHENE » PU[RE]INNOVATION synthene https://www.synthene.com」（https://www.synthene.com/・3回目）
+  - 「SYNTHENE PRODUCT OVERVIEW 2021.11 — SYNTHENE PRODUCT OVERVIEW 2021.11 Biesterfeld Norge AS PDF https://biesterfeld.no > Synthene-Produktoversikt」（https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf・3回目）
+  - 「Contact - Meet Synthene Team and distributors over the world — Contact - Meet Synthene Team and distributors over the world synthene https://www.synthene.com > contact_en」（https://www.synthene.com/contact_en/・3回目）
+  - 「All products of the brand Synthene - Samaro — All products of the brand Synthene - Samaro samaro.fr https://www.samaro.fr > synthene」（https://www.samaro.fr/en/brand/synthene/・3回目）
+  - 「SYNTHENE » PU [RE]INNOVATION — Synthene is a chemistry R&D laboratory specialised in the formulation and production of polyurethane high performance materials and Plastisol」（https://www.synthene.com/・3回目）
+  - 「SYNTHENE SAS | Exhibitor Formnext 2026 — Discover SYNTHENE SAS at Formnext 2026. Information on vacuum casting, 3d printing. 17.-20.11.2026. Learn more now!」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/synthene-sas.html・3回目）
+  - 「Contact - Meet Synthene Team and distributors over the world — Jan 20, 2004 · Meet our Team and distributors over the world to get more technical information about our range and the availability of our materials.」（https://www.synthene.com/contact_en/・3回目）
+  - 「SYNTHENE Prototyping resins & elastomers for vacuum casting — SYNTHENE Prototyping resins & elastomers for vacuum casting synthene https://www.synthene.com > categorie」（https://www.synthene.com/categorie/prototyping-resins-elastomers/・3回目）
+  - 「Creative PU resins for Design & Art, DIY, hobby-making — Creative PU resins for Design & Art, DIY, hobby-making synthene https://www.synthene.com > design-art」（https://www.synthene.com/categorie/design-art/・3回目）
+  - 「About Synthene - company history, mission and values — About Synthene - company history, mission and values synthene https://www.synthene.com > about-us」（https://www.synthene.com/frontpage/about-us/・3回目）
+- 創業年度：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）
+
 ## Shenzhen Esun Industrial
 - 公式URL：https://www.esun3d.com（given）
 - 日本の担い手：
@@ -1163,6 +1671,70 @@
 - 所在地：記載なし（3回確認済み：公式10頁／PDF・画像6件／外部39頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式10頁／PDF・画像6件／外部39頁・検索15回）
 
+## Shenzhen Kingroon 3D Technology
+- 公式URL：https://kingroon.com（given）
+- 連絡先：business@kingroon.com（https://jp.kingroon.com/pages/contact-us-9・3回目）
+- 日本の担い手：
+  - 「Shenzhen Qipang 3D Technology Co., Ltd.の代理店プログラム」（https://jp.kingroon.com/pages/contact-us-9・3回目）
+  - 「Shenzhen Qipang 3D Technology Co., Ltd.の販売代理店になると、以下のメリットを享受できます」（https://jp.kingroon.com/pages/contact-us-9・3回目）
+  - 「独占販売権：弊社の販売代理店として、お客様には独占販売権が付与され、お客様の地域における市場シェアと事業利益が保証されます」（https://jp.kingroon.com/pages/contact-us-9・3回目）
+  - 「価格面でのメリット：弊社の販売代理店様は、価格面での優位性と柔軟な価格設定ポリシーにより、事業の利益率を確保できます」（https://jp.kingroon.com/pages/contact-us-9・3回目）
+  - 「日本で販売されている機種を中心に特徴を紹介し、スペックを比較」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「日本で販売を確認できるKingroonの3Dプリンターは次の」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「現状、日本で購入できるのは「KP5L」のみとなっています」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「日本ではあまりメジャーではないブランドですが、」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「Bambu Lab A1 mini 3Dプリンター 高速高精度 自動調整 初心者向け 日本語UI対応 造形サイズ：180×180×180mm³ | 全自動キャリブレーション＆流量補正で誰でも簡単に造形 自動レベリング 組立簡単 メンテナンス簡単 静音設計（＜48dB）で家庭でも快適」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「Bambu Lab A1 3Dプリンター 多色造形対応 高速高精度 自動調整 初心者向け 日本語UI対応 造形サイズ：256×256×256mm³ | 全自動キャリブレーション＆流量補正で誰でも簡単に造形 自動レベリング 組立簡単 メンテナンス簡単 静音設計（＜48dB）で家庭でも快適」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「日本ではKP3（現在、在庫切れ）や日本のAmazonでも発売されたKP3Sが販売されるようになりました(>ω<) 私が3DプリンターをはじめたキッカケはKP3を購入したことがはじまりですｗ」（https://note.com/reiyasalt/n/nb5df22b3994e・3回目）
+  - 「「kingroon.com」と入力し検索すると「jp.kingroon.com」に変わり日本語化されたページに飛びました」（https://note.com/reiyasalt/n/nb5df22b3994e・3回目）
+- 代理店網：
+  - 「Kingroon Reseller Program」（https://kingroon.com/pages/kingroon-reseller-program・1回目）
+  - 「Apply Below For A Dealer Account」（https://kingroon.com/pages/kingroon-reseller-program・1回目）
+  - 「We hereby clarify that all authorized distributors of KINGROON are independent distributors, not agents or representatives of our company.」（https://kingroon.com/pages/kingroon-reseller-program・1回目）
+- 直送・ネット販売：
+  - 「Shop More, Earn Rewards, and Save Even More」（https://kingroon.com/・1回目）
+  - 「Email to shop@kingroon.com」（https://kingroon.com/・1回目）
+  - 「Email to shop@kingroon.com」（https://kingroon.com/pages/sale・1回目）
+  - 「Founded in 2016, we started selling 3D printer accessories on AliExpress. Our team has grown from」（https://kingroon.com/pages/about-kingroon-3d・1回目）
+  - 「Email to shop@kingroon.com」（https://kingroon.com/products/kingroon-pla-basic・1回目）
+  - 「AliExpress (8)」（https://terutakke.com/2022/04/recommended-sla-3d-printer-2022/・3回目）
+  - 「※「価格」等はAmazonの情報を参照しています」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「AliExpressやAmazon.co.jpで購入することが可能です」（https://note.com/reiyasalt/n/nb5df22b3994e・3回目）
+  - 「日本ではKP3（現在、在庫切れ）や日本のAmazonでも発売されたKP3Sが販売されるようになりました(>ω<) 私が3DプリンターをはじめたキッカケはKP3を購入したことがはじまりですｗ」（https://note.com/reiyasalt/n/nb5df22b3994e・3回目）
+  - 「Amazonでの販売価格は、」（https://note.com/reiyasalt/n/n19c46b1ce760・3回目）
+  - 「最大造形サイズは180×180×180mmですが、魅力を感じる3Dプリンターです！（詳しくはAmazonをチェック）」（https://note.com/reiyasalt/n/n19c46b1ce760・3回目）
+  - 「Titanエクストルーダーでは、AliExpressで公式ストア（KINGROON Official StoreもしくはKee Pang Official Store）もしくはアマゾンにて購入可能です」（https://note.com/reiyasalt/n/n19c46b1ce760・3回目）
+- 規模・親会社：
+  - 「Number of Foreign Trading Staff:」（https://kingroon.en.made-in-china.com/company-Shenzhen-Kingroon-3d-Technology-Co-Ltd-.html・3回目）
+- 連絡先：
+  - 「Email to shop@kingroon.com」（https://kingroon.com/・1回目）
+  - 「Email to shop@kingroon.com」（https://kingroon.com/pages/sale・1回目）
+  - 「will need to know more about you. Please send an email with the information.」（https://kingroon.com/pages/kingroon-reseller-program・1回目）
+  - 「consumers, please fill out the form below or contact us by Email at」（https://kingroon.com/pages/kingroon-reseller-program・1回目）
+  - 「info@makerslab3d.com」（https://kingroon.com/pages/kingroon-reseller-program・1回目）
+  - 「info@3dfilament.co.id」（https://kingroon.com/pages/kingroon-reseller-program・1回目）
+  - 「Email to shop@kingroon.com」（https://kingroon.com/products/kingroon-pla-basic・1回目）
+  - 「Contact Us - Shenzhen Kingroon 3d Technology Co., Ltd. - MadeinChina.com」（https://www.madeinchina.com/supplier/kingroon/contact/・3回目）
+- 検索結果の抜粋：
+  - 「About Kingroon 3D — About Kingroon 3D Kingroon 3D https://kingroon.com > pages > about...」（https://kingroon.com/pages/about-kingroon-3d?srsltid=AYCX9vLVI6yPP45TGeXGv8co2cxQkgTG-xCp_3HkadK_6sXRgFLG0oRf・3回目）
+  - 「Company Overview | Made-in-China.com Mobile — Company Overview | Made-in-China.com Mobile Made-in-China.com https://kingroon.en.made-in-china.com > ...」（https://kingroon.en.made-in-china.com/company-Shenzhen-Kingroon-3d-Technology-Co-Ltd-.html・3回目）
+  - 「Shenzhen Qi Pang Technology Co., Ltd.: Company Overview — Shenzhen Qi Pang Technology Co., Ltd.: Company Overview Shenzhen Qi Pang Technology Co., Ltd. https://kingroon.en.alibaba.com > ja_JP」（https://kingroon.en.alibaba.com/ja_JP/index.html・3回目）
+  - 「kingroon ™ 3d — kingroon ™ 3d Kingroon Filament https://en.kingroon.com」（https://en.kingroon.com/・3回目）
+  - 「Contact Us - Shenzhen Kingroon 3d Technology Co., Ltd ... — Shenzhen Kingroon 3d Technology Co., Ltd.,3D Printing Filament, 3D Printing Resin, 3D Printer Parts」（https://www.madeinchina.com/supplier/kingroon/contact/・3回目）
+  - 「About Kingroon 3D — Located in Shenzhen, KINGROON Tech Co., Ltd is a top 3D printer and accessories manufacturer and supplier. KINGROON has gathered a group of talents both in 3D printing R&D and manufacturing of 3D printers, 3D printer parts, 3D printing tools, and 3D printing materials.」（https://kingroon.com/pages/about-kingroon-3d・3回目）
+  - 「Contact US - Kingroon 3D — Contact US: Company Name: Shenzhen Qi Pang Ke Ji You Co., Ltd. Room 703, Jinhe Building, No. 8 Xinhe Street,Bantian Subdistrict, Longgang District, Shenzhen City, China 518129 Email: shop@kingroon.com Phone: +86 13510911514 Working Time: Mon-Sat 9:00 am - 6:30 pm UTC+8 Replacements tracking: https:」（https://kingroon.com/pages/contact・3回目）
+  - 「Shenzhen Qipang 3D Technology Co., Ltd.の代理店プログラム — Shenzhen Qipang 3D Technology Co., Ltd.の代理店プログラム Kingroon 3D https://jp.kingroon.com > 販売代理店になる」（https://jp.kingroon.com/pages/contact-us-9・3回目）
+  - 「Kingroon FDM 3D プリンター徹底比較！【KP3S ... - Age of 3DP — Kingroon FDM 3D プリンター徹底比較！【KP3S ... - Age of 3DP Age of 3DP https://unolaboratory.com > 家庭用3Dプリンター」（https://unolaboratory.com/kingroon-kp/・3回目）
+  - 「KINGROON の新機種｜ReiyaSalt - note — KINGROON の新機種｜ReiyaSalt - note note https://note.com > DIY > 電子工作」（https://note.com/reiyasalt/n/nb5df22b3994e・3回目）
+  - 「Kingroon イエロー PLA フィラメント 1.75mm、1kg スプール ... — Kingroon イエロー PLA フィラメント 1.75mm、1kg スプール ... Amazon.jp https://www.amazon.co.jp > Kingroon-1-75mm、1kg-0-0...」（https://www.amazon.co.jp/Kingroon-1-75mm%E3%80%811kg-0-03mm%E3%80%81%E3%81%8D%E3%82%8C%E3%81%84%E3%81%AB%E5%B7%BB%E3%81%8B%E3%82%8C%E3%81%9F%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AE-%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%81%AB%E9%81%A9%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/dp/B0FYLVTK6R・3回目）
+  - 「3D プリンタ Kingroon KP3Sの購入と必要なもの - ゆるぷ — 3D プリンタ Kingroon KP3Sの購入と必要なもの - ゆるぷ ゆるぷ https://yurupu.com > 3Dプリンタ・3Dプリント」（https://yurupu.com/3d-printer-kp3s/・3回目）
+- 創業年度：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部36頁・検索15回）
+
 ## Shenzhen Yongchanghe Technology
 - 公式URL：https://www.jamghe.com（given）
 - 代理店網：
@@ -1199,6 +1771,484 @@
 - 拠点：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索15回）
+
+## Siraya Tech
+- 公式URL：https://siraya.tech（given）
+- 日本の担い手：
+  - 「Could you show me Registration Number for Japanese tax.」（https://siraya.tech/blogs/news/the-origin-of-siraya-tech・1回目）
+  - 「3Dプリンター用レジン（Siraya Tech）｜SK本舗（正規代理店・日本語サポート）」（https://skhonpo.com/collections/siraya-tech-resin・3回目）
+  - 「3D Data Japan」（https://skhonpo.com/collections/siraya-tech-resin・3回目）
+  - 「ColorFabbは日本ではなじみがあまりありませんがオランダの会社で、2013年創業とのことです」（https://monohoshi.blog/tpu-air/・3回目）
+  - 「おそらく日本に正規代理店がなく、」（https://monohoshi.blog/tpu-air/・3回目）
+  - 「3D Data Japan」（https://skhonpo.com/collections/siraya-tech・3回目）
+  - 「ネットで素材を買うとき、私は常に販売元の情報を確かめるようにしています」（https://note.com/sary_/n/n69232e5314d0・3回目）
+- 代理店網：
+  - 「We are a French company located in the Paris area. We are selling pro 3D printers and consumables. We are interested by some of your filaments. Can you send me your reseller conditions?」（https://siraya.tech/blogs/news/the-origin-of-siraya-tech・1回目）
+  - 「RESELLER - Siraya Tech」（https://siraya.tech/pages/reseller・1回目）
+  - 「Find a Reseller Near You」（https://siraya.tech/pages/reseller・1回目）
+  - 「All partners listed below are authorized to distribute Siraya Tech materials in their region. Product availability, pricing, and shipping options may vary by reseller. Please contact the reseller directly for the latest information.」（https://siraya.tech/pages/reseller・1回目）
+  - 「No matching resellers found.」（https://siraya.tech/pages/reseller・1回目）
+  - 「We welcome experienced 3D printing distributors,」（https://siraya.tech/pages/reseller・1回目）
+  - 「Submit Reseller Inquiry」（https://siraya.tech/pages/reseller・1回目）
+  - 「Where to Buy - Siraya Tech」（https://siraya.tech/pages/where-to-buy・1回目）
+  - 「Where to Buy Siraya Tech」（https://siraya.tech/pages/where-to-buy・1回目）
+- 直送・ネット販売：
+  - 「I will buy your product via alibaba. I need regisutration number Before Purchase. But I can’t find it.」（https://siraya.tech/blogs/news/the-origin-of-siraya-tech・1回目）
+  - 「GLOBAL SHOPPING NETWORK」（https://siraya.tech/pages/where-to-buy・1回目）
+  - 「Find our online stores and shop Siraya Tech materials in your region.」（https://siraya.tech/pages/where-to-buy・1回目）
+  - 「Shop Defiant 10A」（https://siraya.tech/blogs/news/defiant-food-safe-silicone-eu-testing・1回目）
+  - 「Shop Defiant 15A」（https://siraya.tech/blogs/news/defiant-food-safe-silicone-eu-testing・1回目）
+  - 「Shop Defiant 25A」（https://siraya.tech/blogs/news/defiant-food-safe-silicone-eu-testing・1回目）
+  - 「shopee.tw/sirayatechtw」（https://siraya.tech/blogs/news/siraya-tech-filament-taiwan-shopee・1回目）
+  - 「Amazon.com: Siraya Tech」（https://www.amazon.com/stores/SirayaTech/page/4E8D98CC-7AD5-4AEC-9B13-4662843002BF・3回目）
+  - 「Become an Amazon Hub Partner」（https://www.amazon.com/stores/SirayaTech/page/4E8D98CC-7AD5-4AEC-9B13-4662843002BF・3回目）
+  - 「Amazon Payment Products」（https://www.amazon.com/stores/SirayaTech/page/4E8D98CC-7AD5-4AEC-9B13-4662843002BF・3回目）
+  - 「Amazon Currency Converter」（https://www.amazon.com/stores/SirayaTech/page/4E8D98CC-7AD5-4AEC-9B13-4662843002BF・3回目）
+  - 「© 1996-2026, Amazon.com, Inc. or its affiliates」（https://www.amazon.com/stores/SirayaTech/page/4E8D98CC-7AD5-4AEC-9B13-4662843002BF・3回目）
+- 規模・親会社：
+  - 「Facebook 3D Resin User Group」（https://siraya.tech/・1回目）
+  - 「Facebook 3D Filament User Group」（https://siraya.tech/・1回目）
+  - 「Thank you for being part of our journey!」（https://siraya.tech/blogs/news/the-origin-of-siraya-tech・1回目）
+  - 「Those 3D objects of my company represent part of the R&D activities of VDPROJECT S.R.L., as well as part of a product identified by trademarks and for which my company owns all the intellectual property rights – also for import and export.」（https://siraya.tech/blogs/news/the-origin-of-siraya-tech・1回目）
+  - 「Those 3D parts of my company represent part of the R&D activities of my company, as well as a product identified by trademarks and for which my company owns all the intellectual property rights – also for import and export.」（https://siraya.tech/blogs/news/the-origin-of-siraya-tech・1回目）
+  - 「All partners listed below are authorized to distribute Siraya Tech materials in their region. Product availability, pricing, and shipping options may vary by reseller. Please contact the reseller directly for the latest information.」（https://siraya.tech/pages/reseller・1回目）
+  - 「listed in the report passed.」（https://siraya.tech/blogs/news/defiant-food-safe-silicone-eu-testing・1回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.sirayatech.com/・3回目）
+- 連絡先：
+  - 「To start a return, you can contact us at support@siraya.tech. If your return is accepted, we'll send you a return address, as well as for instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.」（https://siraya.tech/products/siraya-tech-silicone-defiant-25・1回目）
+  - 「You can always contact us for any return questions at support@siraya.tech.」（https://siraya.tech/products/siraya-tech-silicone-defiant-25・1回目）
+  - 「Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item so that we can evaluate the issue and make it right.」（https://siraya.tech/products/siraya-tech-silicone-defiant-25・1回目）
+  - 「If more than 15 business days have passed since we’ve approved your return, please contact us at support@siraya.tech or call us at +1 3234128788.」（https://siraya.tech/products/siraya-tech-silicone-defiant-25・1回目）
+  - 「Defiant 25 mold-making silicone rubber is easy to mix, mixing ratio of 1:1, self-degassing, and very easy to use. This liquid silicone mold can be easily used by beginners without any experience. Please feel free to contact us if there's any issue.」（https://siraya.tech/products/siraya-tech-silicone-defiant-25・1回目）
+  - 「Email address for newsletter」（https://www.matterhackers.com/store/c/siraya-tech-3d-printer-resin?srsltid=AYCX9vLl3s-FCc9DeGDFyqFWIVLVCMJO9HYeQpZrnsAFFNYsPoS5R9ng・3回目）
+  - 「Please enter a valid email.」（https://www.matterhackers.com/store/c/siraya-tech-3d-printer-resin?srsltid=AYCX9vLl3s-FCc9DeGDFyqFWIVLVCMJO9HYeQpZrnsAFFNYsPoS5R9ng・3回目）
+  - 「We'll email you when this item is back in stock.」（https://skhonpo.com/collections/siraya-tech-resin・3回目）
+  - 「Enter your email and we'll let you know when this item is back in stock.」（https://skhonpo.com/collections/siraya-tech-resin・3回目）
+  - 「Your email is required」（https://skhonpo.com/collections/siraya-tech-resin・3回目）
+  - 「We don't share your email with anybody」（https://skhonpo.com/collections/siraya-tech-resin・3回目）
+  - 「We'll email you when this item is back in stock.」（https://skhonpo.com/collections/siraya-tech・3回目）
+- 検索結果の抜粋：
+  - 「Siraya Tech 3D Print Resin - Amazon.com — Siraya Tech 3D Print Resin - Amazon.com Amazon.com https://www.amazon.com > page」（https://www.amazon.com/stores/SirayaTech/page/4E8D98CC-7AD5-4AEC-9B13-4662843002BF・3回目）
+  - 「About Siraya Tech — About Siraya Tech Siraya Tech https://siraya.tech > about-siraya-tech」（https://siraya.tech/pages/about-siraya-tech?srsltid=AYCX9vIkntOGJDj1tuFDnh5rmExEdfipWHxr2b7Bcvgjpo0GMiMo-D74・3回目）
+  - 「Siraya Tech 日本 Japan (@sirayatech_jp) / X — Siraya Tech 日本 Japan (@sirayatech_jp) / X X https://x.com > sirayatech_jp」（https://x.com/sirayatech_jp・3回目）
+  - 「Siraya Tech 3D Printer Resins - MatterHackers — Siraya Tech 3D Printer Resins - MatterHackers MatterHackers https://www.matterhackers.com > store」（https://www.matterhackers.com/store/c/siraya-tech-3d-printer-resin?srsltid=AYCX9vLl3s-FCc9DeGDFyqFWIVLVCMJO9HYeQpZrnsAFFNYsPoS5R9ng・3回目）
+  - 「[Magic] Layer lines disappear!? I tried Siraya Tech's Aegis ... — [Magic] Layer lines disappear!? I tried Siraya Tech's Aegis ... YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=607ZNtbZvwg・3回目）
+  - 「3Dプリンター用レジン（ Siraya Tech ） - SK本舗 — 3Dプリンター用レジン（ Siraya Tech ） - SK本舗 SK本舗 https://skhonpo.com > collections > siraya-tech-resin」（https://skhonpo.com/collections/siraya-tech-resin・3回目）
+  - 「Siraya Tech Fast ABSライク タフ 3Dプリンター用レジン, 耐久 ... — Siraya Tech Fast ABSライク タフ 3Dプリンター用レジン, 耐久 ... amazon.jp https://www.amazon.co.jp > Siraya-Tech-3Dプリンター樹...」（https://www.amazon.co.jp/Siraya-Tech-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E6%A8%B9%E8%84%82-3D%E5%8D%B0%E5%88%B7%E3%81%AE%E8%80%90%E4%B9%85%E6%80%A7%E5%BC%B7%E5%8C%96-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E6%9C%80%E9%81%A9/dp/B0CG1RZ6XR・3回目）
+  - 「発泡TPUが面白い！ Siraya Tech TPU Air レビュー 高価だが2 ... — 発泡TPUが面白い！ Siraya Tech TPU Air レビュー 高価だが2 ... takeotaの物欲し雑記帳 https://monohoshi.blog > 3Dプリンター」（https://monohoshi.blog/tpu-air/・3回目）
+  - 「Siraya Tech Build 3Dプリンター用低収縮レジン, スモーキー ... — Siraya Tech Build 3Dプリンター用低収縮レジン, スモーキー ... amazon.jp https://www.amazon.co.jp > Siraya-Tech-Build-1kg-シラ...」（https://www.amazon.co.jp/Siraya-Tech-Build-1kg-%E3%82%B7%E3%83%A9%E3%83%BC%E3%83%A4%E3%83%86%E3%83%83%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8B%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B03D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%A8%B9%E8%84%82/dp/B0894K3R4S・3回目）
+  - 「Siraya Tech 3D Printing UV Resin for Elegoo,Anycubic & SLA ... — Siraya Tech 3D Printing UV Resin for Elegoo,Anycubic & SLA ... Siraya Tech https://siraya.tech」（https://siraya.tech/?srsltid=AYCX9vJTWjyGkSGdsxc7LaxeJ-Zytzf9KnQPpybRfbcKXyPuPbF49B91・3回目）
+  - 「Siraya Tech 3Dプリンターレジン — Siraya Tech 3Dプリンターレジン amazon.jp https://www.amazon.co.jp > stores > SirayaTech > page」（https://www.amazon.co.jp/stores/SirayaTech/page/65C730B3-04AF-44A7-B838-5F67CD5C1746・3回目）
+  - 「Siraya Tech ブランドの商品｜SK本舗（光造形レジン取扱） — Siraya Tech ブランドの商品｜SK本舗（光造形レジン取扱） SK本舗 https://skhonpo.com > collections > siraya-tech」（https://skhonpo.com/collections/siraya-tech・3回目）
+- 創業年度：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部47頁・検索15回）
+- 株主：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部47頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部47頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部47頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部47頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式25頁／PDF・画像1件／外部47頁・検索15回）
+
+## Spectrum Group Sp. z o.o.
+- 公式URL：https://www.spectrumfilaments.com（given）
+- 日本の担い手：
+  - 「日本語ですべて解決！スペクトラム初の正規代理店 インターネット接続は月額30ドルから！ | U.S. FrontLine | フロントライン」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「日本語ですべて解決！スペクトラム初の正規代理店 インターネット接続は月額30ドルから！」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「アメリカで高速インターネットや携帯サービス、ケーブルテレビ、ホームフォンなど幅広い接続サービスをアメリカ41州で行っているスペクトラム正規代理店の中で初の日本語でサービスする店舗がロサンゼルストーランスに登場した」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「インターネットやテレビ、モバイルの新規契約やサービス追加のサポートを日本語で受けることができる」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「アメリカのどの地域の相談から契約まで、日本語で電話やメールで対応してくれる」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「https://www.internetjapanese.com/」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「US FrontLineは毎日アメリカの最新情報を日本語でお届けします」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「オンデマンドのみ視聴の格安新プラン！日本のニュースやドラマ、映画など定額見放題動画配信サービスJme（ジェイミー）から登場」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「第6回「Japan Parade & Street Fair」2027年5月8日開催決定」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「日本人振付家が手がける国際共同創作コンテンポラリーダンスがニューヨーク公演」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「日本の死生観をNYで紹介〜「Memento Mori in NYC: The Art of Japanese Life and Death」開催」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「人気の日本文化フェス「Japan Family Day」10月24日・25日に開催」（https://usfl.com/mimiyori/news/138186・3回目）
+- 代理店網：
+  - 「Polymaker adds Rapid Fusion to its PolyCore hardware partner network」（https://www.voxelmatters.com/spectrum-filaments-secures-strategic-investor-blue-gravity-capital-acquires-majority-stake/・3回目）
+- 直送・ネット販売：
+  - 「New products on the shop」（https://www.hotend.eu/m/spectrum?srsltid=AYCX9vK8elviG7-Bs1T08N4NrnR0pid5v57Lsh_oyHAZNdLBEIM3Un5i・3回目）
+  - 「Powered by Upgates Shops」（https://www.hotend.eu/m/spectrum?srsltid=AYCX9vK8elviG7-Bs1T08N4NrnR0pid5v57Lsh_oyHAZNdLBEIM3Un5i・3回目）
+  - 「パチンコパチスロ テンション上がる系 プレイリスト | Amazon Music Unlimited」（https://music.amazon.co.jp/user-playlists/c18fbeeccfe94d99a11e8b1ebd413517jajp・3回目）
+  - 「Amazon Musicで、音楽やポッドキャストを無料でストリーミング再生しよう」（https://music.amazon.co.jp/user-playlists/c18fbeeccfe94d99a11e8b1ebd413517jajp・3回目）
+  - 「Amazon Music Unlimitedをお試しください」（https://music.amazon.co.jp/user-playlists/c18fbeeccfe94d99a11e8b1ebd413517jajp・3回目）
+  - 「Pop hits プレイリスト | Amazon Music Unlimited」（https://music.amazon.co.jp/user-playlists/d4b4648a4e8342608b7f8fecf8e2342ejajp・3回目）
+  - 「Amazon Musicで、音楽やポッドキャストを無料でストリーミング再生しよう」（https://music.amazon.co.jp/user-playlists/d4b4648a4e8342608b7f8fecf8e2342ejajp・3回目）
+  - 「Amazon Music Unlimitedをお試しください」（https://music.amazon.co.jp/user-playlists/d4b4648a4e8342608b7f8fecf8e2342ejajp・3回目）
+  - 「Hannah Montana Forever (Amazon Exclusive)」（https://music.amazon.co.jp/user-playlists/d4b4648a4e8342608b7f8fecf8e2342ejajp・3回目）
+- 規模・親会社：
+  - 「Spectrum Group Sp. z o.o.」（https://spectrumfilaments.com/kontakt/・1回目）
+  - 「Spectrum Group Sp. z o.o. Company Profile - Poland | Financials & Key Executives | EMIS」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「Spectrum Group Sp. z o.o.」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「: Spectrum Group Sp. z o.o.」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「Purchase the Spectrum Group Sp. z o.o. report to view the information.」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「Financial values in the chart are available after Spectrum Group Sp. z o.o. report is purchased.」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「EMIS company profiles are part of a larger information service which combines company, industry and country data and analysis for over 145 emerging markets.」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「Total Operating Revenue」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「Spectrum Group Sp. z o.o.」（https://spectrumfilaments.com/en/contact/・3回目）
+  - 「Spectrum Group Sp. z o.o.」（https://www.hotend.eu/m/spectrum?srsltid=AYCX9vK8elviG7-Bs1T08N4NrnR0pid5v57Lsh_oyHAZNdLBEIM3Un5i・3回目）
+  - 「Xometry posts record Q3 revenue of $252 million and raises 2026 outlook」（https://www.voxelmatters.com/spectrum-filaments-secures-strategic-investor-blue-gravity-capital-acquires-majority-stake/・3回目）
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.com/spectrum-filaments-secures-strategic-investor-blue-gravity-capital-acquires-majority-stake/・3回目）
+- 連絡先：
+  - 「Skontaktuj się z nami」（https://spectrumfilaments.com/・1回目）
+  - 「Kontakt z nami - Spectrum Filaments」（https://spectrumfilaments.com/kontakt/・1回目）
+  - 「Skontaktuj się z nami」（https://spectrumfilaments.com/kontakt/・1回目）
+  - 「Contact Us - Spectrum Filaments」（https://spectrumfilaments.com/en/contact/・3回目）
+  - 「News and actions by email」（https://www.hotend.eu/m/spectrum?srsltid=AYCX9vK8elviG7-Bs1T08N4NrnR0pid5v57Lsh_oyHAZNdLBEIM3Un5i・3回目）
+  - 「Your email address will not be published.」（https://www.voxelmatters.com/spectrum-filaments-secures-strategic-investor-blue-gravity-capital-acquires-majority-stake/・3回目）
+- 検索結果の抜粋：
+  - 「Spectrum Group Sp . z o.o. Company Profile - Poland — Spectrum Group Sp . z o.o. Company Profile - Poland ISI Markets https://www.emis.com > php > Spectr...」（https://www.emis.com/php/company-profile/PL/Spectrum_Group_Sp_z_oo_en_4338773.html・3回目）
+  - 「日本 語ですべて解決！ スペクトラム 初の正規代理店 ... — 日本 語ですべて解決！ スペクトラム 初の正規代理店 ... U.S. FrontLine https://usfl.com > mimiyori > news」（https://usfl.com/mimiyori/news/138186・3回目）
+  - 「スペクトラム ブランズ ジャパン — スペクトラム ブランズ ジャパン スペクトラム ブランズ ジャパン 株式会社 https://spectrumbrands.jp」（https://spectrumbrands.jp/・3回目）
+  - 「トップ - スペクトラム ・テクノロジー株式会社 — トップ - スペクトラム ・テクノロジー株式会社 スペクトラム・テクノロジー株式会社 https://spectrum-tech.co.jp」（https://spectrum-tech.co.jp/・3回目）
+  - 「Contact Us - Spectrum Filaments — Contact Us - Spectrum Filaments Spectrum Filaments https://spectrumfilaments.com > contact」（https://spectrumfilaments.com/en/contact/・3回目）
+  - 「Spectrum Filaments - Hotend.eu — Spectrum Filaments - Hotend.eu Hotend.eu https://www.hotend.eu > spectrum」（https://www.hotend.eu/m/spectrum?srsltid=AYCX9vK8elviG7-Bs1T08N4NrnR0pid5v57Lsh_oyHAZNdLBEIM3Un5i・3回目）
+  - 「Spectrum Filaments - LinkedIn — Spectrum Filaments - LinkedIn LinkedIn https://pl.linkedin.com > company > s...」（https://pl.linkedin.com/company/spectrumfilaments・3回目）
+  - 「Spectrum Filaments - polski producent filamentu 3D — Spectrum Filaments - polski producent filamentu 3D Spectrum Filaments https://spectrumfilaments.com」（https://spectrumfilaments.com/・3回目）
+  - 「Spectrum Filaments secures strategic investor. Blue Gravity ... — Spectrum Filaments secures strategic investor. Blue Gravity ... VoxelMatters https://www.voxelmatters.com > spect...」（https://www.voxelmatters.com/spectrum-filaments-secures-strategic-investor-blue-gravity-capital-acquires-majority-stake/・3回目）
+  - 「Spectrum Group Sp . z o.o. — Spectrum Group Sp . z o.o. spectrum-filaments.myshopify.com https://spectrum-filaments.myshopify.com」（https://spectrum-filaments.myshopify.com/・3回目）
+  - 「About Us - Spectrum Filaments — About Us - Spectrum Filaments Spectrum Filaments https://spectrumfilaments.com > about...」（https://spectrumfilaments.com/en/about-us/・3回目）
+- 創業年度：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
+
+## Synbotron Technology
+- 公式URL：https://www.synbotron.com（given）
+- 直送・ネット販売：
+  - 「Amazon.com: SYNBOTRON PEBA 3D Printer Filament 1.75mm, 85A Flexible Filament, 78% Energy Return, Faster Printing Speed, 20% Lighter, High Rebound Perfect for Functional Prototypes, Wearables (White, 800g) : Industrial & Scientific」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「FREE Shipping by Amazon」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Amazon.com Return Policy」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Amazon.com Voluntary 30-Day Return Guarantee:」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Similar brands on Amazon」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Shop the Store on Amazon ›」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Become an Amazon Hub Partner」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Amazon Payment Products」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Amazon Currency Converter」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「© 1996-2026, Amazon.com, Inc. or its affiliates」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+- 検索結果の抜粋：
+  - 「Synbotron | Advanced Materials & Manufacturing — Synbotron | Advanced Materials & Manufacturing Synbotron https://synbotron.com」（https://synbotron.com/・3回目）
+  - 「SYNBOTRON PEBA 3D Printer Filament 1.75mm, 85A ... — SYNBOTRON PEBA 3D Printer Filament 1.75mm, 85A ... Amazon.com https://www.amazon.com > SYNBOT...」（https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC・3回目）
+  - 「Synbotron Unveils its Next-Generation PEBA Filament ... — Synbotron Unveils its Next-Generation PEBA Filament ... ACCESS Newswire https://www.accessnewswire.com > sy...」（https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/synbotron-unveils-its-next-generation-peba-filament-redefining-3d-prin-1077268・3回目）
+  - 「Amazon.co.jp: SYNBOTRON PEBA 3Dプリンターフィラメント 1.75mm、高... — ご意見ご要望 さらに安い価格について知らせる? SYNBOTRON PEBA 3Dプリンターフィラメント 1.75mm、高反発90Aフレキシブルフィラメント、高速印刷速度と軽量、機能的なプロトタイプ用の柔軟性の調整、ウェアラブル (Garay、800g)。」（https://www.amazon.co.jp/SYNBOTRON-PEBA-3Dプリンターフィラメント-1-75mm、高反発90Aフレキシブルフィラメント、高速印刷速度と軽量、機能的なプロトタイプ用の柔軟性の調整、ウェアラブル-Garay、800g/dp/B0G495KRC3・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+
+## TINMORRY CO. LIMITED
+- 公式URL：https://www.tinmorry.com（given）
+- 日本の担い手：
+  - 「自分は実は日本のAmazon.co.jpで販売される前にAmazon.comから輸入しました」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+  - 「その後日本のAmazon.co.jpでの取り扱い製品を購入しましたが性質含め同一製品でした」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+- 直送・ネット販売：
+  - 「amazon.co.jpでも人気のTINMORRYのCarbon Fiber PLAのレビュー」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+  - 「アメリカのAmazon.comなどでもランキングは上位にいるので一定品質はありそう」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+  - 「自分は実は日本のAmazon.co.jpで販売される前にAmazon.comから輸入しました」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+  - 「その後日本のAmazon.co.jpでの取り扱い製品を購入しましたが性質含め同一製品でした」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+  - 「Amazonの公式アカウントのコメントから約20%配合されているらしいですが、今まで色々なカーボンファイバー配合のPLAフィラメントを使ってきましたが線が綺麗で積層が多少目立つので細かめの繊維か、配合が他のカーボンファイバー配合のフィラメントよりも少ないのかも」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+  - 「3D filament as Amazon ranks third in sales. We are pround with this that due to we runing a good quality and produced from our own directly factory.」（https://tinmorry.net/en-us/pages/about-us?srsltid=AYCX9vK1idJMiUtnab9Y3Uj3WDk0REu33RmFBs-x6GF9KFtthLN_DuiE・3回目）
+  - 「3D filament as Amazon ranks third in sales. We are pround with this that due to we runing a good quality and produced from our own directly factory.」（https://tinmorry.net/en-us/pages/about-us?srsltid=AYCX9vJ4Hv0_0rTvR2Uhlr5gO8kcuDFfnfgDYAq4FN7ELpXS2MNo4ZD6・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - TINMORRY CO ., LIMITED — 会社概要 - TINMORRY CO ., LIMITED Alibaba.com https://tinmorry.en.alibaba.com > ja_JP」（https://tinmorry.en.alibaba.com/ja_JP/?spm=a2700.shop_index.74.8.78cb6b97NIJ4Gk・3回目）
+  - 「PETG-ECO Filament Pack, 1 KG 1 Spool, Black — PETG-ECO Filament Pack, 1 KG 1 Spool, Black TINMORRY Store https://tinmorry.net > en-us」（https://tinmorry.net/en-us?srsltid=AYCX9vLLeC-zKhNp4oHZc-EGAh0oncWPWGUwVPGiZlKnV67tVOlFBn1a・3回目）
+  - 「TINMORRY CO., LIMITED - 企查查 — Aug 30, 2024 · 企查查为您提供TINMORRY CO., LIMITED的最新工商信息、公司简介、公司地址、电话号码、招聘信息、信用信息、财务信息、法律诉讼等多维度详细信息查询，让您对TINMORRY CO., LIMITED能够做到全面的了解！」（https://www.qcc.com/firm/hf3f3461dc19df9e3b2eddb4ad297e6a.html・3回目）
+  - 「Company Overview - TINMORRY CO., LIMITED — TINMORRY CO., LIMITED Products:3D Printing Filaments,3D filament R&D,3D printing ODM,3D printing OEM,Engineering Filaments」（https://tinmorry.en.alibaba.com/・3回目）
+  - 「TINMORRY CO., LIMITED — TINMORRY CO., LIMITED 成立於2024年08月30日。商業登記編號是：77005142，公司類別屬於私人股份有限公司 ，截至今日，該公司共經營了2年2個月9天。公司現狀为： 仍登記在冊。」（https://www.tempb.com/companies/tinmorry-co-limited/・3回目）
+  - 「TINMORRY CO., LIMITED | Hong Kong Companies Directory — Aug 30, 2024 · TINMORRY CO., LIMITED was incorporated on 30-AUG-2024 as a Private company limited by shares registered in Hong Kong. The date of annual examination for this private company limited is between Aug 30 and Oct 11 upon the anniversary of incorporation. The company's status is listed as " Live " now. Tinmorry Co., Limited has been 」（https://www.ltddir.com/companies/tinmorry-co-limited/・3回目）
+  - 「Amazon. co .jp: TINMORRY 高速PETGフィラメント 1.75mm ... — Amazon. co .jp: TINMORRY 高速PETGフィラメント 1.75mm ... amazon.jp https://www.amazon.co.jp > TINMORRY-高速PETGフィラ...」（https://www.amazon.co.jp/TINMORRY-%E9%AB%98%E9%80%9FPETG%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm%E3%80%813D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8-PETG%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1kg%E3%80%81%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3/dp/B0G237D1N6・3回目）
+  - 「TINMORRY Carbon Fiber PLA レビュー - ゆるぷ — TINMORRY Carbon Fiber PLA レビュー - ゆるぷ ゆるぷ https://yurupu.com > 3Dプリンタ・3Dプリント」（https://yurupu.com/tinmorry-carbon-fiber-pla-3d/・3回目）
+  - 「【楽天市場】 TINMORRY PLA フィラメント, マットPLA ... — 【楽天市場】 TINMORRY PLA フィラメント, マットPLA ... 楽天市場 https://item.rakuten.co.jp > goodtimestore」（https://item.rakuten.co.jp/goodtimestore/20260615101030_107/・3回目）
+  - 「TINMORRY Store — TINMORRY Store TINMORRY Store https://tinmorry.net > en-de」（https://tinmorry.net/en-de?srsltid=AYCX9vKoRTzVAGg5WKMTz8r8FKifCy_KGpY_GhmQo6VJuz0zcs68bnv4・3回目）
+  - 「TINMORRY 高速PETG フィラメント 1.75mm、3Dプリンター ... — TINMORRY 高速PETG フィラメント 1.75mm、3Dプリンター ... amazon.jp https://www.amazon.co.jp > TINMORRY-高速PETGフィラ...」（https://www.amazon.co.jp/TINMORRY-%E9%AB%98%E9%80%9FPETG%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm%E3%80%813D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8-PETG%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1kg%E3%80%81%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88/dp/B0B84NRBDR・3回目）
+  - 「Tinmorry の フィラメント は買わないでください。私の悪夢の ... — Tinmorry の フィラメント は買わないでください。私の悪夢の ... Reddit https://www.reddit.com > comments > psa_please_dont_b...」（https://www.reddit.com/r/3Dprinting/comments/1reyu8y/psa_please_dont_buy_tinmorry_filaments_heres_my/?tl=ja・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+
+## URECORE POLYURETHANE
+- 公式URL：https://www.urecore.com（given）
+- 検索結果の抜粋：
+  - 「中科优锐 Urecore - 低游离PPDI、MDI、TDI预聚体、高性能TPU解决方案... — 联系我们 版权所有 © 吉林中科优锐科技有限公司 吉ICP备20000167号 邮箱： info@urecore.com 电话： + 86 431 8113 4060 地址：」（https://www.urecore.com/home・3回目）
+  - 「关于优锐-吉林中科优锐科技有限公司 - Urecore — 联系我们 版权所有 © 吉林中科优锐科技有限公司 吉ICP备20000167号 邮箱： info@urecore.com 电话： + 86 431 8113 4060 地址：」（https://www.urecore.com/gyyr・3回目）
+  - 「Urecore - 低游离PPDI、MDI、TDI预聚体，高性能PPDI TPU、MDI TPU — 中科优锐（Urecore）专注于研发及生产低游离预聚体及高性能TPU。 针对浇注型工艺客户，中科优锐提供低游离PPDI、MDI、TDI预聚体解决方案，满足客户对产品高动态性能、耐持久性能的性能要求。」（https://www.urecore.com/product・3回目）
+  - 「持续创新-吉林中科优锐科技有限公司 - Urecore — 联系我们 版权所有 © 吉林中科优锐科技有限公司 吉ICP备20000167号 邮箱： info@urecore.com 电话： + 86 431 8113 4060 地址：」（https://www.urecore.com/cxcx・3回目）
+  - 「高性能TPU-吉林中科优锐科技有限公司 - Urecore — 中科优锐URECORE专注于低游离技术，为客户提供高性能聚氨酯材料解决方案，主打低游离PPDI、MDI、TDI预聚体，及高性能PPDI、MDI TPU。」（https://www.urecore.com/gxntpu・3回目）
+  - 「URECORE POLYURETHANE CO. LTD., China | stand 1M17 — URECORE POLYURETHANE CO. LTD., China | stand 1M17 16th International Exhibition Polyurethanex 2025 Exhibitor March 25 - 27, 2025 / Pavilions 1. 5, 8, Expocentre Fairgrounds, Moscow, Russia Information: Urecore Polyurethane Co., Ltd. specializes in the R&D, manufacturing, and marketing of high-performance, low-free polyurethane elastomers, offerin」（https://www.polyurethanex.com/25-urecore.html・3回目）
+  - 「Urecore Polyurethane Co., Ltd.Urecore - Indian Polyurethane - FOB Business DirectoryAbout | URECORE POLYURETHANE CO.，LTD. | TCT Asia ShowroomStress Relief Ball | URECORE POLYURETHANE CO.，LTD. | TCT Asia .....URECORE POLYURETHANE CO., LTD. | Import Data | Export Data ... — Jul 15, 2019 · Urecore Polyurethane Co., Ltd. is a Chinese company.Industry:Scientific research and technical services;Technolo」（https://www.cnverify.com/company/Urecore-Polyurethane-Co-Ltd・3回目）
+  - 「Urecore - Indian Polyurethane - FOB Business Directory — Info: urecore polyurethane co., ltd. is committed to the research and development of high-performance polyurethane prepolymers and elastomers. with the core low free (lf) technology, urecore can produce polyurethane prepolymers that less than 0.1wt% of free isocyanate monomer, which meet the regulatory standards with regard to health, safety」（https://bbs.fobshanghai.com/company/d1o61s14705l5w5.html・3回目）
+  - 「About | URECORE POLYURETHANE CO.，LTD. | TCT Asia Showroom — URECORE is a national high-tech enterprise specializing in high-performance polyurethane elastomer materials. Our core team originates from the Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, with nearly 20 years of industry experience. In the field of 3D printing, we have introduced a dual-cure polyurethane materia」（https://online.tctasia.cn/en/showroom-2026/institutions/285hgh・3回目）
+  - 「Stress Relief Ball | URECORE POLYURETHANE CO.，LTD. | TCT Asia ..... — Polyurethane 3D printed stress ball MaterialsFilaments, Polymers and Photopolymers etc.Consumer goods, sports and fashionOther visitor target groups visibility248 share Polyurethane 3D printed stress ball」（https://online.tctasia.cn/en/showroom-2026/products/8fcikg・3回目）
+  - 「URECORE POLYURETHANE CO. LTD., China | stand 1M17 — Urecore Polyurethane Co., Ltd. specializes in the R&D, manufacturing, and marketing of high-performance, low-free polyurethane elastomers, offering a comprehensive range of low-free prepolymers including PPDI, NDI, MDI, TDI and other aliphatic diisocyanate, with the capability for large-scale custom production to meet diverse customer ...」（https://www.polyurethanex.com/25-urecore.html・3回目）
+  - 「Amazon.co.jp: iPhone 12 mini Mushroom Picker Naturecore ... — The protective case made from two materials combines a polycarbonate shell to protect against scratches and dents and TPU (Thermoplastic Polyurethane) material which is durable and supple resilient to prevent damage from accidental drops」（https://www.amazon.co.jp/-/en/Mushroom-Naturecore-Pattern-Cottagecore-Smartphone/dp/B0B1QRRFG5・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）
+
+## WINKLE-Laboratorio Geometrico S.L.
+- 公式URL：https://winkle.shop/en/（given）
+- 検索結果の抜粋：
+  - 「Winkle | Tienda de filamentos 3D — Winkle | Tienda de filamentos 3D Winkle https://winkle.shop」（https://winkle.shop/?srsltid=AYCX9vKGx6cFBQSMYqcp6K1T3r92CwBqqgVZMfUudL9KlBnQAwxhV0rQ・3回目）
+  - 「3Dプリンター - Amazon.co.jp: Winkle PLA フィラメント — 3Dプリンター - Amazon.co.jp: Winkle PLA フィラメント amazon.jp https://www.amazon.co.jp > WINKLE-FEED-YOUR-PRI...」（https://www.amazon.co.jp/-/en/WINKLE-FEED-YOUR-PRINTER-8435532913221/dp/B08LWG4D3K・3回目）
+  - 「Quienes somos - Winkle — Quienes somos - Winkle Winkle https://winkle.shop > about-us」（https://winkle.shop/en/about-us/?srsltid=AYCX9vLLM9jPPKolMW6oxPl3JbWe1a5-mZJPOso5E7rSdo1_tdg5V7LW・3回目）
+  - 「Distribuidores - Winkle — Distribuidores - Winkle Winkle https://winkle.shop > distributor」（https://winkle.shop/en/distributor/?srsltid=AYCX9vKubNIMWMAJ_BQZloSlzdqdeeysBsQScWvIjZwV9G7aKHYS3_R5・3回目）
+  - 「Winkle - LinkedIn — Winkle - LinkedIn LinkedIn https://es.linkedin.com > company」（https://es.linkedin.com/company/winkle3d・3回目）
+  - 「Winkle | Filamentos 3D (@winkle3d) · Salamanca - Instagram — Winkle | Filamentos 3D (@winkle3d) · Salamanca - Instagram Instagram https://www.instagram.com > ...」（https://www.instagram.com/winkle3d/・3回目）
+  - 「Quienes somos - Winkle — Quienes somos - Winkle Winkle https://winkle.shop > about-us」（https://winkle.shop/en/about-us/?srsltid=AYCX9vLqw674OIXsi3QNEgZhwJR9HJDM3A84Znxz1cKswPumN6xjbteS・3回目）
+  - 「Distribuidores - Winkle — Distribuidores - Winkle Winkle https://winkle.shop > distributor」（https://winkle.shop/en/distributor/?srsltid=AYCX9vJ8qPQIeNkwALZ-EqMFPuoJLgBAE9NZhJpvuBoLEzJ3_PcAPtSi・3回目）
+  - 「Amazon.co.jp: HOTOK Solar Twinkle Super L-1500, 24.7 fl oz ...Amazon | [スナイデル] デタッチャブルフリルカラーツイードジャケッ...Amazon | [レコーン] パジャマ メンズ 長袖 綿100％ 二重ガーゼ 上下... — Product description (Product Details) Solar Twinkle Super L-1500 23.6 fl oz (700 ml) (for skin adjustment). [Use] P800-P1000. Abrasive for adjusting skin for general automotive repair paint. Removes cancer skin and removes paper marks after removing」（https://www.amazon.co.jp/-/en/Twinkle-Polishing-Finishing-Urethane-Compound/dp/B0797K3WJS・3回目）
+  - 「Quienes somos - Winkle — Quienes somos - Winkle Winkle https://winkle.shop > about-us」（https://winkle.shop/en/about-us/?srsltid=AYCX9vKebx7-veACP1uDPpIJjhcZW6yBi3QMNZbEnBz928f_RHwX_MVo・3回目）
+  - 「Winkle Industries Company Profile | Recycling Product News — Winkle Industries Company Profile | Recycling Product News Recycling Product News https://www.recyclingproductnews.com > ...」（https://www.recyclingproductnews.com/company/570/winkle-industries・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 連絡先：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索15回）
+
+## Wuhu R3D Technology
+- 公式URL：https://www.r3dprinter.com（given）
+- 連絡先：sales@china3dprinter.cn（https://3d.nice-cdn.com/upload/file/R3D_High_Speed_PLA.pdf・3回目）
+- 日本の担い手：
+  - 「Japan 3D Printer Co.,Ltd: Sales Partner in Japan – Raise3D: Reliable, Industrial Grade 3D Printer」（https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/・3回目）
+  - 「Japan 3D Printer Co.,Ltd: Sales Partner in Japan」（https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/・3回目）
+  - 「Farsoon expands into Japan by partnering with JAPAN 3D PRINTER.CO., LTD | Farsoon Technologies」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「Farsoon expands into Japan by partnering with JAPAN 3D PRINTER.CO., LTD」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「May 17th, 2021, Changsha, China and Tokyo, Japan — Farsoon Technologies is pleased to announce sales channel expansion into Japanese market through establishing partnership with」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「Japan 3D Printer. Co., Ltd」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「, a leading industrial solution supplier with a focused experience in top-quality 3D Printing. Japan 3D Printer. Co., Ltd will distribute Farsoon’s SLS 3D printing systems, offering high quality, truly open, innovative additive manufacturing solution to Japanese market.」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「“By working closely with industrial customers and taking their manufacturing pain points, we strive to bringing the latest 3D printing technology that can best suit Japanese market.”」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「Says Kitagawa Shihaku, CEO and founder of Japan 3D Printer. Co., Ltd,」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「“FDM has been a major 3D Printing technology in Japan for the past years; however, with the rapidly growing engineering demands, we have been keep looking for new plastic additive technologies for manufacture high-performance functional parts. We believe the introduction of Farsoon’s high-quality SLS technology will have a profound impact on」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「ndustrial manufacturing in Japan. We highly values Farsoon’s truly open SLS platform as an important part of our industrial additive solutions; it will offer innovative, productive, yet cost-efficient solutions for many challenges in Japanese traditional manufacturing in the long run.”」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「Japan 3D Printer. Co., Ltd will be introducing Farsoon’s high-temperature HT403P production system at their Demo Center – DST Factory to showcase the SLS benchmarking that meets highest industrial standard. Inquiries and customers interested are welcome to contact」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+- 直送・ネット販売：
+  - 「🚚 Free EU Shipping on 2+ Spools | Shop Now!」（https://r3dprint.com/・1回目）
+  - 「Amazon.com: R3D PLA Filament 1.75mm, 0-370 mm/s High Speed PLA Printing, Dimensional Accuracy +/- 0.02mm, 1KG (2.2lbs) Clear Plastic Spool 3D Printer Filament (Red) : Industrial & Scientific」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「on orders shipped by Amazon over $35」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「FREE Shipping on orders over $35 shipped by Amazon」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「FREE Shipping by Amazon」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「Amazon.com Return Policy」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「Amazon.com Voluntary 30-Day Return Guarantee:」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「Brands in this category on Amazon」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「Become an Amazon Hub Partner」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「Amazon Payment Products」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「Amazon Currency Converter」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+  - 「© 1996-2026, Amazon.com, Inc. or its affiliates」（https://www.amazon.com/R3D-Filament-Printing-Dimensional-Accuracy/dp/B0CXMTFMM7・3回目）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/r3d-print-wuhu-r3d-technology-co-ltd/・3回目）
+  - 「ndustrial manufacturing in Japan. We highly values Farsoon’s truly open SLS platform as an important part of our industrial additive solutions; it will offer innovative, productive, yet cost-efficient solutions for many challenges in Japanese traditional manufacturing in the long run.”」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「What is R3D’s current revenue?」（https://pitchbook.com/profiles/company/594442-36・3回目）
+  - 「The current revenue for R3D is」（https://pitchbook.com/profiles/company/594442-36・3回目）
+- 連絡先：
+  - 「Check that your printer supports the filament diameter and material you choose. Temperature, enclosure, and nozzle requirements vary by material. Check the product page, or contact us with your printer model for help.」（https://r3dprint.com/・1回目）
+  - 「Email: sales@china3dprinter.cn」（https://3d.nice-cdn.com/upload/file/R3D_High_Speed_PLA.pdf・3回目）
+  - 「info@3dprinter.co.jp」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「globalinfo@farsoon.com」（https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/・3回目）
+  - 「Meet our partners and contact us for future collaborations」（https://pitchbook.com/profiles/company/594442-36・3回目）
+- 検索結果の抜粋：
+  - 「Wuhu R3D Technology Co., Ltd.: Company Overview — Wuhu R3D Technology Co., Ltd.: Company Overview Wuhu R3D Technology Co., Ltd. https://r3d.en.alibaba.com」（https://r3d.en.alibaba.com/・3回目）
+  - 「Wuhu R3D Technology Co., Ltd. - Add: Fanchang Economic ... — Wuhu R3D Technology Co., Ltd. - Add: Fanchang Economic ... niceshops GmbH PDF https://3d.nice-cdn.com > R3D_High_Speed_PLA」（https://3d.nice-cdn.com/upload/file/R3D_High_Speed_PLA.pdf・3回目）
+  - 「High quality 3D printing solutions by R3D - Filament2Print — High quality 3D printing solutions by R3D - Filament2Print Filament2Print https://filament2print.com > 127-r3d」（https://filament2print.com/en/brand/127-r3d・3回目）
+  - 「Company Overview - Wuhu R3D Technology Co., Ltd. — Company Overview - Wuhu R3D Technology Co., Ltd. Wuhu R3D Technology Co., Ltd. https://r3d.en.alibaba.com > company...」（https://r3d.en.alibaba.com/company_profile.html・3回目）
+  - 「wuhu r3d technology co., ltd - ものづくり ワールド — wuhu r3d technology co., ltd - ものづくり ワールド ものづくり ワールド https://www.manufacturing-world.jp > search > directory」（https://www.manufacturing-world.jp/osaka/en-gb/search/2025/directory/directory-details.wuhu%20r3d%20technology%20co%20ltd.org-2de5c7c2-21cd-418d-96e0-9a415aab7c76.html・3回目）
+  - 「Company Overview - Wuhu R3D Technology Co., Ltd. — Wuhu R3D Technology Co., Ltd. Products:3d printer filament,3d printer,filament dryer box,3d printing resin,3d filament customization」（https://r3d.en.alibaba.com/・3回目）
+  - 「Wuhu R3D Technology Co., Ltd. | 3d Printer, 3d Filament ...R3D Print - Wuhu R3D Technology Co., Ltd. — VoxelMatters ...芜湖市爱三迪电子科技有限公司 Wuhu R3D Technology Co., Ltd. —— 通...WUHU R3D TECHNOLOGY CO., LTDWuhu R3d Technology Co., Ltd. | International Buyer ... — Wuhu R3D Technology Co., Ltd. is a China-based supplier and exporter of 3d printer, 3d filament and related products. Source directly from glob」（https://www.tradewheel.com/co/wuhu-rd-technology-342538/・3回目）
+  - 「R3D Print - Wuhu R3D Technology Co., Ltd. — VoxelMatters ... — R3D Print is the consumer-facing brand of Wuhu R3D Technology Co., Ltd., a 3D printer and filament manufacturer based in Anhui, China, operating since 2014 as an OEM/ODM producer with a roughly 9,000 m² plant and daily filament output exceeding 1,500 kg. The brand sells a broad filament catalog directly to makers and businesses across 」（https://www.voxelmatters.directory/company/r3d-print-wuhu-r3d-technology-co-ltd/・3回目）
+  - 「芜湖市爱三迪电子科技有限公司 Wuhu R3D Technology Co., Ltd. —— 通... — 芜湖市爱三迪电子科技有限公司 Wuhu R3D Technology Co., Ltd.」（https://hs.bianmachaxun.com/qcc_company/details/1077072・3回目）
+  - 「WUHU R3D TECHNOLOGY CO., LTD — Registration to the exhibition Established in 2014, Wuhu R3D Techonology Co., Ltd has developed with modern factory facility with over 20,000sqm, and over 30,000 montly output of filaments. Our core product line encompasses a comprehensive range that satisfies the demands of the 3D printing market, from mainstream PLA filaments to aesthetic filaments and functional f」（https://online.gefera.ru/eng/info/RM25/catalog/82efd508-7385-11d9-5dda-788b83d84b90/・3回目）
+  - 「蕪湖 r3d Plaシルクレインボーフィラメント 直径1.75mm 公差 ... — 蕪湖 r3d Plaシルクレインボーフィラメント 直径1.75mm 公差 ... アリババ https://japanese.alibaba.com > product-detail > Wuhu-R3...」（https://japanese.alibaba.com/product-detail/Wuhu-R3D-Marble-Filament-3d-Printer-1600470917154.html・3回目）
+  - 「蕪湖 r3d Plaシルクレインボー フィラメント 直径1.75mm 公差 ... — 蕪湖 r3d Plaシルクレインボー フィラメント 直径1.75mm 公差 ... アリババ https://japanese.alibaba.com > product-detail > Wuhu-R3...」（https://japanese.alibaba.com/product-detail/Wuhu-R3D-Marble-Filament-3d-Printer-1600470917154.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部44頁・検索15回）
+
+## Wuxi Aliz 3D Technology
+- 公式URL：https://www.longshanplas.com（given）
+- 日本の担い手：
+  - 「Since 2012, 8 fully automatic production lines have been put into operation. The No.9 production line is under construction. All equipments are imported from Germany, Japan and other foreign countries.」（https://longshanplas.com/ABOUT-US/why-choose-us/・1回目）
+  - 「Japan Kubota loss-in-weight feeder 35sets」（https://longshanplas.com/ABOUT-US/why-choose-us/・1回目）
+  - 「Differential scanning calorimeter (SHIMADU, Japan)」（https://longshanplas.com/ABOUT-US/why-choose-us/・1回目）
+  - 「X-ray Fluorescence Spectrometer / Chamber electric furnace / Infrared spectrometer (SHIMADU，Japan)」（https://longshanplas.com/ABOUT-US/why-choose-us/・1回目）
+  - 「Standard light source color box, Color matching cabinet / Colorimeter(MINOLTA，Japan) / Electron microscope」（https://longshanplas.com/ABOUT-US/why-choose-us/・1回目）
+- 代理店網：
+  - 「Become Our Distributor」（https://www.longshanplas.com/・1回目）
+- 規模・親会社：
+  - 「Revenue exceeds ¥100M milestone.」（https://longshanplas.com/ABOUT-US/ABOUT-LONGSHAN/・1回目）
+  - 「Aliz Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「How many employees does」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「total employees worldwide as of」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「from 176 employees in 2023 to 194 in 2026」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「Aliz's functional groups are Finance and Operations (」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「of total employees, followed by Southeast Asia and Western Europe.」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「Aliz employees by region」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「Aliz's employee groups are Finance and Operations (」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「Aliz employees by department」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「globally. Employees in Western Europe receive the highest compensation, with median pay approximately」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+  - 「employees, up from」（https://www.reveliolabs.com/companies/aliz/employees・3回目）
+- 連絡先：
+  - 「Want product details or pricing? Leave your email, and we’ll send professional information and reply to you promptly within 24 hours.」（https://www.longshanplas.com/・1回目）
+- 検索結果の抜粋：
+  - 「Wuxi Aliz 3D Technology Co Ltd - RAPID + TCT 2026 — Wuxi Aliz 3D Technology Co Ltd - RAPID + TCT 2026 rapid2026.smallworldlabs.com https://rapid2026.smallworldlabs.com > ...」（https://rapid2026.smallworldlabs.com/?page_id=2424&boothId=boothId=504685・3回目）
+  - 「ALIZ - Advanced Laboratory for Innovative — ALIZ - Advanced Laboratory for Innovative longshanplas.com https://longshanplas.com > ALIZ」（https://longshanplas.com/ABOUT-US/ALIZ/・3回目）
+  - 「Aliz 3D Technology (@aliz3dtechnology) - Instagram — Aliz 3D Technology (@aliz3dtechnology) - Instagram Instagram https://www.instagram.com > aliz3dte...」（https://www.instagram.com/aliz3dtechnology/・3回目）
+  - 「Aliz 3D Technology - 领英 — Aliz 3D Technology - 领英 LinkedIn https://cn.linkedin.com > aliz-3d」（https://cn.linkedin.com/company/aliz-3d・3回目）
+  - 「About | Wuxi Aliz 3D Technology Co., Ltd. | TCT Asia Showroom — ‘Aliz’ is a Subsidiary Company of Jiangyin Longshan Synthetic Material Co., LTD. ‘Longshan Synthetic’ is a key Hi-Tech enterprise of China which engaged in Modified Plastics for more than 25 years, and a National SRDI (Specialized, Refined, Differential, Innovative) small giant enterprise, as well as with an independent CNAS Laborator」（https://online.tctasia.cn/en/showroom-2026/institutions/681bnf・3回目）
+  - 「Aliz 3D Technology | Jiangyin - Facebook — Mar 15, 2026 · Aliz 3D Technology, Jiangyin. 15 likes. Specialize in ODM & OEM Service of 3D Printing Filament Products. Overall Solution for the Whole 3D Printing Industry.」（https://www.facebook.com/Aliz3DPrinterFilament/・3回目）
+  - 「Aliz 3D Technology - 领英 — Aliz 3D Technology | 在领英上有 58 位关注者。Specialize in ODM/OEM Service of 3D Printing Filament Products. Providing a full range of 3D Printing Solutions. | A new leading name in cutting-edge Manufacturer--Aliz, which specialize in ODM/OEM Service of 3D Printing Filament Products, Overall Solution for the Whole Non-metallic 3D Printing Industry. PLA: PLA Basic、PLA+、PLA+ Matte ..」（https://cn.linkedin.com/company/aliz-3d・3回目）
+  - 「Wuxi Aliz 3d Technology Co., Ltd. — Dec 14, 2022 · Wuxi Aliz 3d Technology Co., Ltd. is a Chinese company.Industry:Manufacturing;General equipment manufacturing industry;Other general equipment manufacturing」（https://www.cnverify.com/company/Wuxi-Aliz-3d-Technology-Co-Ltd・3回目）
+  - 「Products & Services | Wuxi Aliz 3D Technology Co., Ltd | TCT ... — Discover the Future of 3D Technology - Join us at TCT Asia 2025! We're excited to invite you to visit our Aliz online showroom at the upcoming TCT Asia, March 17-19 2025 (ASIA’S LEADING SHOW ...」（https://www.linkedin.com/posts/aliz-3d_products-services-wuxi-aliz-3d-technology-activity-7293502768172974080-ZqK3・3回目）
+  - 「ALIZ 3D - 3D Printing Filament, Wholesale & OEM Services — ALIZ 3D - 3D Printing Filament, Wholesale & OEM Services aliz3d.com http://www.aliz3d.com > 製品一覧 > General Materials」（http://www.aliz3d.com/product/1?lang=ja・3回目）
+  - 「ALIZ 3D - 3D Printing Filament, Wholesale & OEM Services — ALIZ 3D - 3D Printing Filament, Wholesale & OEM Services aliz3d.com http://www.aliz3d.com > 製品一覧 > Aesthetic Materials」（http://www.aliz3d.com/product/10?lang=ja・3回目）
+  - 「ALIZ 3D - 3D Printing Filament, Wholesale & OEM Services — ALIZ 3D - 3D Printing Filament, Wholesale & OEM Services aliz3d.com http://www.aliz3d.com > 会社概要」（http://www.aliz3d.com/about?lang=ja・3回目）
+- 創業年度：記載なし（3回確認済み：公式8頁／PDF・画像6件／外部48頁・検索15回）
+- 株主：記載なし（3回確認済み：公式8頁／PDF・画像6件／外部48頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像6件／外部48頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像6件／外部48頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式8頁／PDF・画像6件／外部48頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式8頁／PDF・画像6件／外部48頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式8頁／PDF・画像6件／外部48頁・検索15回）
+
+## Wuxi Ubest New Materials Technology
+- 公式URL：https://www.wxubest.com（given）
+- 所在地：No.200 Xizhang Road, Gushan Town, Jiangyin City,Jiangsu Province. R. P. CHINA（https://www.cnpetg.com/contact/・3回目）
+- 所在地：No.200 Xizhang Road, Gushan Town,（https://img03.71360.com/w3/q1z3gm/20250630/65fc345e89a7e8517de6cc33923cd740.pdf?dl=1&dlf=UBEST+PETG+LMPET+TDS.pdf・3回目）
+- 所在地：No.200 Xizhang Road,Gushan Town,Jiangyin City,Jiangsu,China（https://img03.71360.com/w3/q1z3gm/20250630/65fc345e89a7e8517de6cc33923cd740.pdf?dl=1&dlf=UBEST+PETG+LMPET+TDS.pdf・3回目）
+- 連絡先：sales@wxubest.com Email: sienna@wxubest.com（https://www.cnpetg.com/contact/・3回目）
+- 連絡先：sales@wxubest.com（https://img03.71360.com/w3/q1z3gm/20250630/65fc345e89a7e8517de6cc33923cd740.pdf?dl=1&dlf=UBEST+PETG+LMPET+TDS.pdf・3回目）
+- 日本の担い手：
+  - 「It meets food safety standards in the U. S., Europe, and Japan, and is increasingly replacing traditional materials like paper, glass, and metal.」（https://www.made-in-china.com/showroom/ubest-resin/・3回目）
+  - 「Japan, and Southeast Asia.」（https://img03.71360.com/w3/q1z3gm/20250630/65fc345e89a7e8517de6cc33923cd740.pdf?dl=1&dlf=UBEST+PETG+LMPET+TDS.pdf・3回目）
+- 代理店網：
+  - 「With the ongoing rise in demand for medical-grade materials and eco-conscious packaging solutions, UBEST's PETG and K-Resin products are well-positioned to meet the evolving needs of these markets. We are actively seeking partnerships with companies that share our vision for high-quality, sustainable material solutions, and are currently developing business relationships with global distributors.」（https://www.made-in-china.com/showroom/54813f6076487721・3回目）
+- 規模・親会社：
+  - 「Wuxi Ubest New Materials Technology - Products, Competitors, Financials, Employees, Headquarters Locations」（https://www.cbinsights.com/company/wuxi-ubest-new-materials-technology・3回目）
+- 連絡先：
+  - 「Email: sales@wxubest.com Email: sienna@wxubest.com」（https://www.cnpetg.com/contact/・3回目）
+  - 「Welcome to subscribe email newsletter to us, get the lastest products and news information from us!」（https://www.cnpetg.com/contact/・3回目）
+  - 「Welcome to subscribe email newsletter to us, get the lastest products and news information from us!」（https://www.cnpetg.com/・3回目）
+  - 「Email: sales@wxubest.com」（https://img03.71360.com/w3/q1z3gm/20250630/65fc345e89a7e8517de6cc33923cd740.pdf?dl=1&dlf=UBEST+PETG+LMPET+TDS.pdf・3回目）
+  - 「Contact Now: sales@wxubest.com」（https://www.cnpetg.com/about-us/・3回目）
+  - 「Welcome to subscribe email newsletter to us, get the lastest products and news information from us!」（https://www.cnpetg.com/about-us/・3回目）
+- 検索結果の抜粋：
+  - 「WUXI UBEST NEW MATERIALS TECHNOLOGY CO.,LTD — WUXI UBEST NEW MATERIALS TECHNOLOGY CO.,LTD cnpetg.com PDF https://www.cnpetg.com > wp-content > uploads」（https://www.cnpetg.com/wp-content/uploads/803G.pdf・3回目）
+  - 「Ubest : PETG Resin Manufacturer in China – Advanced ... — Ubest : PETG Resin Manufacturer in China – Advanced ... wxubest.com https://www.wxubest.com」（https://www.wxubest.com/・3回目）
+  - 「Wuxi Ubest New Materials Technology Co.,Ltd - 领英 — Wuxi Ubest New Materials Technology Co.,Ltd - 领英 LinkedIn https://cn.linkedin.com > wxubest」（https://cn.linkedin.com/company/wxubest・3回目）
+  - 「Contact | Wuxi Ubest New Materials Technology - PETG — Contact | Wuxi Ubest New Materials Technology - PETG cnpetg.com https://www.cnpetg.com > contact」（https://www.cnpetg.com/contact/・3回目）
+  - 「Low Melt Fiber & Nonwoven UB-304 - Ubest — Low Melt Fiber & Nonwoven UB-304 - Ubest wxubest.com https://www.wxubest.com > low-mme...」（https://www.wxubest.com/low-mmelt-fiber-nonwoven・3回目）
+  - 「Wuxi Ubest New Materials Technology — Wuxi Ubest New Materials Technology Co., Ltd. is a leading manufacturer and supplier of high-quality PETG resin. We provide customized solutions for various applications, allowing you to order high-quality PETG resin directly from our factory at competitive prices. Partner with us to meet your needs and enjoy exceptional PETG resin products and reliable servic」（https://www.cnpetg.com/・3回目）
+  - 「Contact | Wuxi Ubest New Materials Technology — Jan 2, 2025 · Contact Us +86-153-6524-1223 +86-178-1515-1611 sales@wxubest.com Facebook LinkedIn No.200 Xizhang Road, Gushan Town, Jiangyin City,Jiangsu Province, China」（https://www.cnpetg.com/contact/・3回目）
+  - 「Contact Ubest – China PETG Resin Manufacturer & Supplier — Get in touch with Ubest, a leading PETG resin manufacturer in China, for inquiries, quotes, and customized polyester material solutions for your business needs.」（https://www.wxubest.com/Contact-us.html・3回目）
+  - 「PETG Resin Manufacturer Supplier - Wuxi Ubest New Materials ... — UBEST is a leading supplier in China specializing in the sales of PETG resin and K-Resin. As a trusted provider of high-quality polymer materials, we serve a wide range of industries, from packaging and medical applications to consumer goods. Our PETG resin is known for its excellent transparency, toughness, and ease of processing, 」（https://www.made-in-china.com/showroom/54813f6076487721・3回目）
+  - 「About | Wuxi Ubest New Materials Technology Co., Ltd | TCT ... — Wuxi Ubest New Materials as the Major PETG resin, LMPET resin, High performance 3d print filament resin manufacturer in China, with an annual production capacity of 80,000 tons, we serve customers worldwide, including markets in China, Southeast Asia, India, Europe, and the United States. Our commitment to innovation, quality, and su」（https://online.tctasia.cn/en/showroom-2026/institutions/1aceif・3回目）
+  - 「Contact Ubest – China PETG Resin Manufacturer & Supplier — Contact Ubest – China PETG Resin Manufacturer & Supplier wxubest.com https://www.wxubest.com > Contact-us」（https://www.wxubest.com/Contact-us.html・3回目）
+  - 「For 3D Printing Filament - Ubest — For 3D Printing Filament - Ubest wxubest.com https://www.wxubest.com > ...」（https://www.wxubest.com/for-3d-printing-filament・3回目）
+- 創業年度：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索15回）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索15回）
+
+## XIONEER
+- 公式URL：https://www.xioneer.com（given）
+- 創業年度：Founded：2016（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+- 売上高：$86,000（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+- 所在地：Kühlenfelser Straße 47, Pottenstein, Bavaria 91278, DE（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+- 日本の担い手：
+  - 「日本の展示会とは規模の異なる、各ブースの大きさに驚いたという」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+  - 「EUでのルール制定やアメリカのムーブメント創出、中東地域での研究開発や実践が加速する中、日本のAM業界における立ち位置も改めて考えていきたいと深見氏は締め括った」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+  - 「製品の品質が重視される日本では、3Dプリントの造形で生まれる積層痕が忌避されることも多い」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+  - 「日本でポストプロセス装置を手がけるメーカーはさほど目立たないが、世界では上記スライドのように複数の企業が登場しつつある」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+  - 「なお、YOKOITOがパートナー契約を結び、国内総代理店を担当している」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+  - 「「日本は3Dプリントのクオリティに関する議論が起こる割に、ポストプロセスに注目されないことが疑問でした」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+  - 「人口や経済が縮小局面に進む日本において、大量生産の道に向かうのではなく、減少するパイの中でいかに生産性や付加価値を上乗せしていくか——そんな課題に対し、ポストプロセスも含めたAMというツールから新しい価値が生まれるきっかけになればと、この日のイベントを締め括った」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+  - 「Formnext Forum Tokyoレポート ― 海外生まれの新方式やポストプロセスが身近なものに」（https://news.sharelab.jp/interviews/formnext-2023-yokoito-report-240117/・3回目）
+- 直送・ネット販売：
+  - 「Easy-to-use affordable support removal station for your home, office, and workshop.」（https://www.xioneer.com/・1回目）
+  - 「Easy-to-use affordable dyeing station for your home, office, and workshop」（https://www.xioneer.com/・1回目）
+  - 「Easy-to-use affordable support removal station for your home, office, and workshop.」（https://www.xioneer.com/about-us/・1回目）
+  - 「Easy-to-use affordable dyeing station for your home, office, and workshop」（https://www.xioneer.com/about-us/・1回目）
+  - 「Easy-to-use affordable support removal station for your home, office, and workshop.」（https://www.xioneer.com/our-news/・1回目）
+  - 「Easy-to-use affordable dyeing station for your home, office, and workshop」（https://www.xioneer.com/our-news/・1回目）
+  - 「Online Shop Xioneer - buy support material online!」（https://www.xioneer.com/shop/・1回目）
+  - 「Easy-to-use affordable support removal station for your home, office, and workshop.」（https://www.xioneer.com/shop/・1回目）
+  - 「Easy-to-use affordable dyeing station for your home, office, and workshop」（https://www.xioneer.com/shop/・1回目）
+  - 「Online Shop Xioneer - buy support material online!」（https://www.xioneer.com/shop・1回目）
+  - 「Easy-to-use affordable support removal station for your home, office, and workshop.」（https://www.xioneer.com/shop・1回目）
+  - 「Easy-to-use affordable dyeing station for your home, office, and workshop」（https://www.xioneer.com/shop・1回目）
+- 規模・親会社：
+  - 「In 2019, the German specialty chemical producer BellandTechnology AG acquired 3d printer manufacturer Xioneer Systems GmbH from Austria. This historic moment marks the beginning of a great vision: bring 3d printing materials and hardware together!」（https://www.xioneer.com/about-us/・1回目）
+  - 「In 2019, the German specialty chemical producer BellandTechnology AG acquired Xioneer Systems. This historic moment marked the beginning of a」（https://www.xioneer.com/our-news/・1回目）
+  - 「Xioneer Systems acquired by BellandTechnology (VXL)」（https://www.xioneer.com/our-news/・1回目）
+  - 「Xioneer Systems Revenue, Funding & Valuation」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「Xioneer Systems Revenue」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「View Financials And Employees At Xioneer Systems」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「industry and current estimated revenues」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「Employees by Management Level」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「Employees by Department」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「What are the revenues of Xioneer Systems?」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「Xioneer Systems generates an estimated annual revenue of」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+  - 「. This revenue figure reflects the company's market position and business performance in its industry.」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+- 連絡先：
+  - 「I agree to the processing of my personal data - as described in our privacy policy - for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/・1回目）
+  - 「- for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/・1回目）
+  - 「I agree to the processing of my personal data - as described in our privacy policy - for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/about-us/・1回目）
+  - 「- for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/about-us/・1回目）
+  - 「just drop us an email」（https://www.xioneer.com/our-news/・1回目）
+  - 「I agree to the processing of my personal data - as described in our privacy policy - for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/our-news/・1回目）
+  - 「- for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/our-news/・1回目）
+  - 「I agree to the processing of my personal data - as described in our privacy policy - for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/shop/・1回目）
+  - 「- for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/shop/・1回目）
+  - 「I agree to the processing of my personal data - as described in our privacy policy - for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/shop・1回目）
+  - 「- for sending and evaluating the e-mailings. I can recall this consent at any time.」（https://www.xioneer.com/shop・1回目）
+  - 「Build leads list with verified emails & mobiles」（https://prospeo.io/c/xioneer-systems-revenue・3回目）
+- 検索結果の抜粋：
+  - 「Xioneer : Water Soluble 3D Printing Materials & Supplies — Xioneer : Water Soluble 3D Printing Materials & Supplies Xioneer https://www.xioneer.com」（https://www.xioneer.com/?srsltid=AYCX9vJPdt7vEze3lSua__IXEOMm1CwnH_Z2D6ieU4c8xlrmim3bACZ6・3回目）
+  - 「VXL 90 Xioneer - Filament2Print — VXL 90 Xioneer - Filament2Print Filament2Print https://filament2print.com > 2044-vxl...」（https://filament2print.com/en/support-solubles/2044-vxl-90-xioneer.html・3回目）
+  - 「VXL - soluble support materials for 3D printing - Xioneer — VXL - soluble support materials for 3D printing - Xioneer Xioneer https://www.xioneer.com > support-m...」（https://www.xioneer.com/support-materials/?srsltid=AYCX9vIkMSvTPvxx2D78T8JljnTueR9b64Vs84_GL9AtGMlVHM-fAWqd・3回目）
+  - 「VXL 70 Xioneer - Filament2Print — VXL 70 Xioneer - Filament2Print Filament2Print https://filament2print.com > 2043-vxl...」（https://filament2print.com/en/support-solubles/2043-vxl-70-xioneer.html・3回目）
+  - 「Xioneer 3D Printing Filament | 香港 代理 Archives - 3D Lab Store — Xioneer 3D Printing Filament | 香港 代理 Archives - 3D Lab Store 3D Lab Store https://3dlabstore.com.hk > 主頁 > 品牌」（https://3dlabstore.com.hk/brand/xioneer?srsltid=AYCX9vKVS5RSlDAv1usmo3rpiWSY2p3tAQlPJVTFTybt5DiE3X5a5TFR・3回目）
+  - 「Xioneer : Water Soluble 3D Printing Materials & Supplies — Xioneer : Water Soluble 3D Printing Materials & Supplies Xioneer https://www.xioneer.com」（https://www.xioneer.com/?srsltid=AYCX9vLgAwRgrRId0Z6QltEUFFu0qixTrTb8ooOKLnh0JsASHUoNFXzq・3回目）
+  - 「VXL - soluble support materials for 3D printing - Xioneer — VXL - soluble support materials for 3D printing - Xioneer Xioneer https://www.xioneer.com > support-m...」（https://www.xioneer.com/support-materials/?srsltid=AYCX9vKm15vhFh6fe6Imxm56TmF1sxqVOUCEO0goxYAgpMXKBa_PikZc・3回目）
+  - 「Xioneer 3D Printing Filament | 香港代理Archives - 3D Lab Store — Xioneer 3D Printing Filament | 香港代理Archives - 3D Lab Store 3D Lab Store https://3dlabstore.com.hk > 主頁 > 品牌」（https://3dlabstore.com.hk/brand/xioneer?srsltid=AYCX9vLVAIY24_qzXkMnkL43xJ5exROASaSthhQIlSP0GlChmfg4GZ6l・3回目）
+  - 「Xioneer : Water Soluble 3D Printing Materials & Supplies — Xioneer : Water Soluble 3D Printing Materials & Supplies Xioneer https://www.xioneer.com」（https://www.xioneer.com/?srsltid=AYCX9vLoU_hHey7jktQd5dQz8NAtHzjFQNqU4E5Q4tZDfmbP_g4hbll0・3回目）
+  - 「Everything for printing and removing supports by Xioneer — Everything for printing and removing supports by Xioneer Filament2Print https://filament2print.com > brand」（https://filament2print.com/en/brand/135-xioneer・3回目）
+  - 「Our News - Xioneer Systems — Our News - Xioneer Systems Xioneer https://www.xioneer.com > our-news」（https://www.xioneer.com/our-news/?srsltid=AYCX9vJowOzCzid0_jPLWUSEqLL65hPEsOdDmsJHZ2EGEXbYIBMaRsgo・3回目）
+  - 「VXL 130 Xioneer - Filament2Print — VXL 130 Xioneer - Filament2Print Filament2Print https://filament2print.com > 2046-vxl...」（https://filament2print.com/en/support-solubles/2046-vxl-130-xioneer.html・3回目）
+- 株主：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索15回）
 
 ## Xenia Materials
 - 公式URL：https://www.xeniamaterials.com（given）
@@ -1366,6 +2416,81 @@
 - 拠点：記載なし（3回確認済み：公式9頁／PDF・画像6件／外部36頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式9頁／PDF・画像6件／外部36頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式9頁／PDF・画像6件／外部36頁・検索15回）
+
+## Zhuhai Duxuan Trading
+- 公式URL：https://naga3dprint.com（given）
+- 連絡先：[email protected]（https://naga3dprint.com/・1回目）
+- 連絡先：[email protected]（https://naga3dprint.com/about/・1回目）
+- 代理店網：
+  - 「Consistent quality, custom formulations, and scalable OEM solutions for global brands and distributors.」（https://naga3dprint.com/・1回目）
+  - 「Zhuhai Duxuan Trading Co., Ltd. combines material development, automated extrusion, digital production records, and flexible packaging capabilities to deliver consistent filament products for brands, distributors, and industrial customers worldwide.」（https://naga3dprint.com/about/・1回目）
+- 連絡先：
+  - 「Send Inquiry By Email:」（https://naga3dprint.com/・1回目）
+  - 「Send Inquiry By Email:」（https://naga3dprint.com/about/・1回目）
+- 検索結果の抜粋：
+  - 「Company Overview - Zhuhai Duxuan Trading Co., Ltd. — Company Overview - Zhuhai Duxuan Trading Co., Ltd. Alibaba.com https://naga3d.en.alibaba.com > comp...」（https://naga3d.en.alibaba.com/company_profile.html・3回目）
+  - 「Company Overview - Zhuhai Duxuan Trading Co., Ltd. — Zhuhai Duxuan Trading Co., Ltd. is a professional enterprise specializing in Rubber & Plastics. Established in 2018, we operate a 10,000-30,000 square meters manufacturing facility. With dedicated R&D and Quality Control teams, we provide premium OEM services and export our high-quality products primarily to North and South America.」（https://naga3d.en.alibaba.com/・3回目）
+  - 「zhuhai duxuan trading co ltd suppliers,exporters on 21food.com — zhuhai duxuan trading co ltd products directory and zhuhai duxuan trading co ltd products Catalog. B2B Marketplace for zhuhai duxuan trading co ltd suppliers, manufacturers,exporters, factories and global zhuhai duxuan trading co ltd buyers provided by 21Food.com.」（https://www.21food.com/show/zhuhai-duxuan-trading-co-ltd.html・3回目）
+  - 「Zhuhai Duxuan Trading Co., Ltd. | Exhibitor Formnext 2026 — Address Zhuhai Duxuan Trading Co., Ltd. Guangdong Zhuhai No. 55 Pingbei 2nd Road, Xiangzhou Unit 1404-D, Building 1, Rebirth Times Tower 519060 China」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/zhuhai-duxuan-trading-co-ltd.html・3回目）
+  - 「NAGA – Golden Camel – Zhuhai Duxuan Trading Co. — NAGA is the filament manufacturing brand of Zhuhai Duxuan Trading Co., Ltd., based in Zhuhai, Guangdong, China, running its first extrusion line since 2015 and expanding into OEM production in 2018. The company now supplies more than 50 markets worldwide and completed a new “smart factory” in 2026 featuring over 30 extrusion lines, inline laser […]」（https://www.voxelmatters.directory/company/naga-golden-camel/・3回目）
+  - 「Company Overview - Zhuhai Duxuan Trading Co., Ltd. — Zhuhai Duxuan Trading Co., Ltd. is a professional enterprise specializing in Rubber & Plastics. Established in 2018, we operate a 10,000-30,000 square meters manufacturing facility.」（https://naga3d.en.alibaba.com/・3回目）
+  - 「NAGA – Golden Camel – Zhuhai Duxuan Trading Co. — NAGA is the filament manufacturing brand of Zhuhai Duxuan Trading Co., Ltd., based in Zhuhai, Guangdong, China, running its first extrusion line since 2015 and expanding into OEM production in 2018.」（https://www.voxelmatters.directory/company/naga-golden-camel/・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）
+
+## Zhuhai Sunlu Industrial
+- 公式URL：https://www.sunlu.com（given）
+- 連絡先：sales02@sunlu.com（https://store.sunlu.com/ja・3回目）
+- 日本の担い手：
+  - 「「SUNLU FilaDryer E2」110℃対応の乾燥 × アニーリングを一体化した次世代3Dプリンターフィラメント乾燥機を発売 株式会社サンステラ | 株式会社サンステラのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「「SUNLU FilaDryer E2」110℃対応の乾燥 × アニーリングを一体化した次世代3Dプリンターフィラメント乾燥機を発売 株式会社サンステラ」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「株式会社サンステラ（本社：東京都、代表取締役：和田裕介、以下「当社」）は、3Dプリンターフィラメントの乾燥とアニーリングを一台で可能にする高性能乾燥機」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「PSE認証をサンステラが独自で取得する等の取り組みを進め、日本での販売を開始することが出来ました」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「日本語対応のアフターサポート、1年間保証を標準付帯」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「株式会社サンステラはPolymaker・UniFormation・RAYSHAPEブランドの日本総代理店、Creality・AnkerMake・BambuLab・Tiretime・Resione・SUNLUブランドの日本正規代理店・SHINING 3D・Phrozenブランドの正規販売店として、世界中の優れた3Dプリント機器・各種造形材料の輸入販売・技術サポートを行っています」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「関連会社： 株式会社フュージョンテクノロジー（2014年7月設立）」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「SK本舗、Sunlu社正規代理店就任」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「3D Data Japan」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「家庭用及び業務用3Dプリンターを主に取り扱う3DプリンターSK本舗(本社：東京都渋谷区、代表取締役：遅沢 翔、以下 SK本舗)は、正式にSunlu社の正規代理店に就任いたしました」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「それに伴い、Sunlu社の各種商品取り扱い開始の上、正規代理店就任キャンペーンも開始いたします」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「3Dプリンター用フィギュアデータの作り方と無料配布サイト10選｜3D DATA JAPANから海外サイトまで完全ガイド【最新版】」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+- 直送・ネット販売：
+  - 「Hi there! Welcome to my shop. Let me know if you have any questions.」（https://sunlugw.suppliergo.com/about.html・3回目）
+- 規模・親会社：
+  - 「Considering staff as the fundamental, striving for survival on the basic of quality and developing on the basic of innovation are our operation principle. Sincerity, realistic and cooperation are our aim of service. At the time of developing, Sunlu will promote the innovation of 3D printing industry with our endeavor.」（https://www.made-in-china.com/showroom/sunlugw-sales5/・3回目）
+- 連絡先：
+  - 「We'll email you when this item is back in stock.」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「Enter your email and we'll let you know when this item is back in stock.」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「Your email is required」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「We don't share your email with anybody」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+  - 「E-mail : sales02@sunlu.com」（https://store.sunlu.com/ja・3回目）
+- 検索結果の抜粋：
+  - 「SUNLU - Leading 3D Printing Materials Supplier | 3D Printer ... — SUNLU - Leading 3D Printing Materials Supplier | 3D Printer ... SUNLU https://www.sunlu.com」（https://www.sunlu.com/・3回目）
+  - 「Zhuhai Sunlu Industrial Co., Ltd - LinkedIn — Zhuhai Sunlu Industrial Co., Ltd - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/zhuhai-sunlu-industrial-co-ltd・3回目）
+  - 「Company Profile - Zhuhai Sunlu Industrial Co., Ltd. — Company Profile - Zhuhai Sunlu Industrial Co., Ltd. Goldsupplier https://sunlugw.goldsupplier.com > a...」（https://sunlugw.goldsupplier.com/about.html・3回目）
+  - 「Zhuhai Sunlu Industrial Co., Ltd - Made-in-China.com — Zhuhai Sunlu Industrial Co., Ltd - Made-in-China.com Made-in-China.com https://www.made-in-china.com > sun...」（https://www.made-in-china.com/showroom/sunlugw-sales5/・3回目）
+  - 「SUNLU (Guangdong) Technology Co.,Ltd. — VoxelMatters — SUNLU (Guangdong) Technology Co.,Ltd. — VoxelMatters voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/sunlu/・3回目）
+  - 「SUNLU PLA Plus フィラメント 1.75mm 1kgスプール (2.2 ... — SUNLU PLA Plus フィラメント 1.75mm 1kgスプール (2.2 ... amazon.jp https://www.amazon.co.jp > SUNLU-Plus-フィラメント-1-7...」（https://www.amazon.co.jp/SUNLU-Plus-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E5%AF%BE%E5%BF%9C%EF%BC%8C%E8%80%90%E8%A1%9D%E6%92%83%E3%81%A7%E5%89%B2%E3%82%8C%E3%81%AB%E3%81%8F%E3%81%84/dp/B0GYVYN8G1・3回目）
+  - 「「 SUNLU FilaDryer E2」110℃対応の乾燥 × アニーリングを ... — 「 SUNLU FilaDryer E2」110℃対応の乾燥 × アニーリングを ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000130.000083219.html・3回目）
+  - 「SUNLU マット PLA 1.75mm 1kgスプール（2.2ポンド）ブラック — SUNLU マット PLA 1.75mm 1kgスプール（2.2ポンド）ブラック amazon.jp https://www.amazon.co.jp > SUNLU-マット-PLA-1-75mm...」（https://www.amazon.co.jp/SUNLU-%E3%83%9E%E3%83%83%E3%83%88-PLA-1-75mm-1kg%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB%EF%BC%882-2%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B0GYTW8NCF・3回目）
+  - 「SUNLU フィラメント PLA 1.75mm 1kgスプール（2.2ポンド ... — SUNLU フィラメント PLA 1.75mm 1kgスプール（2.2ポンド ... amazon.jp https://www.amazon.co.jp > SUNLU-フィラメント-PLA-1-7...」（https://www.amazon.co.jp/SUNLU-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-PLA-1-75mm-1kg%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB%EF%BC%882-2%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%89%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B0GYSRSLJH・3回目）
+  - 「SUNLU フィラメント PLA 1.75mm 1kgスプール（2.2ポンド ... — SUNLU フィラメント PLA 1.75mm 1kgスプール（2.2ポンド ... amazon.jp https://www.amazon.co.jp > SUNLU-フィラメント-PLA-1-7...」（https://www.amazon.co.jp/SUNLU-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-PLA-1-75mm-1kg%E3%82%B9%E3%83%97%E3%83%BC%E3%83%AB%EF%BC%882-2%E3%83%9D%E3%83%B3%E3%83%89%EF%BC%89%E3%82%B0%E3%83%AC%E3%83%BC/dp/B0GYSJPMMF・3回目）
+  - 「水洗いABS-Like 光造形レジン - SUNLU — 水洗いABS-Like 光造形レジン - SUNLU SUNLU https://www.sunlu.com > water-wash-abs-like-resin」（https://www.sunlu.com/jp/products/water-wash-abs-like-resin・3回目）
+  - 「SK本舗、 Sunlu 社正規代理店就任 — SK本舗、 Sunlu 社正規代理店就任 SK本舗 https://skhonpo.com > 【SK本舗】NEWS・お得情報」（https://skhonpo.com/blogs/news/skhonpo-sunlu・3回目）
+- 創業年度：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式2頁／PDF・画像1件／外部37頁・検索15回）
 
 ## colorFabb b.v.
 - 公式URL：https://www.colorfabb.com（given）

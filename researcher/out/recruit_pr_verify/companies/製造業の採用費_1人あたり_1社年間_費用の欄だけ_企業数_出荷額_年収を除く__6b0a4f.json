@@ -1,0 +1,1696 @@
+{
+ "name": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123）",
+ "en": "manufacturing recruitment cost per hire Japan survey table",
+ "aliases": [
+  "就職白書 採用単価 製造業 1人あたり 表",
+  "マイナビ 中途採用状況調査 採用費 製造業 1社あたり",
+  "新卒採用 1人あたり 採用コスト 製造業 調査"
+ ],
+ "context": "採用にいくら払うか",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:10:14.245851+00:00",
+ "evidence": {
+  "社数（規模別）": [
+   {
+    "quote": "正社員数100～299人：7.2万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   }
+  ],
+  "採用にいくら払うか": [
+   {
+    "quote": "1人当たりの採用コストを「採用単価」と呼びます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修） | RESUS社会保険労務士事務所",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "採用・教育・生産性低下など合計100万円以上のコスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円の売上が必要",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "図表1：採用コストの内訳（1人あたり）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約30～50万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約10～20万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約100万円以上",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "離職1人あたりの損失額",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "図表2：売上換算で考える採用コスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率30％の事業を例にすると、採用損失100万円を埋めるには以下の売上が必要です",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "1,666万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "3,333万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "1人を採用するまでの総額や施策ごとの応募単価を洗い出すことで、費用対効果の低い手段を見直し、",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価を下げる3つの実践アプローチ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの採用コスト相場は? 業種別・手法別の費用と削減方法を徹底解説!",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用1人あたりのコストは業種や採用手法によって大きく異なり、適切な予算設定なしに効果的な採用活動は実現できません",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、マイナビや厚生労働省の最新調査データに基づき、新卒・中途採用の1人あたりコスト相場を業種別・手法別に詳しく解説します",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの採用にかかるコストの平均相場は?",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動における適切な予算設定のためには、市場における1人あたりの採用コスト相場を把握することが重要です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1人に対する採用コスト相場",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの最新調査によると、新卒採用における1人あたりの平均コストは56.8万円となっています",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大手企業では知名度向上を目的とした幅広い採用活動を展開するため、1人あたりのコストが100万円を超えるケースも珍しくありません",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中小企業では効率的な採用手法を選択することで、30万円程度に抑えている事例もあります",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中途1人に対する採用コスト相場",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   }
+  ],
+  "採用広報・採用サイトの単価": [
+   {
+    "quote": "例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "19年度の新卒採用（20年卒）：93.6万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用のコスト：103.3万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "18年度の平均採用コスト （新卒採用71.5万円、 中途採用83.0万円）",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度の新卒採用では一人あたりの平均コストは93.6万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "18年度の平均コストが71.5万円だったことから",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用の平均コストは、103.3万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "38.5万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "（前年比：4.8万円減）",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "43.3万円",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用・教育・生産性低下など合計100万円以上のコスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "300万円の売上が必要",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約30～50万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約10～20万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約100万円以上",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率30％の事業を例にすると、採用損失100万円を埋めるには以下の売上が必要です",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "1,000万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "1,666万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "3,333万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約80〜100万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約60〜80万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約90〜120万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約100〜150万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約90〜130万円",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "約90万円前後",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "69.4万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "97.8万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "69.7万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "102.3万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "67.7万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "55.5万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "84.8万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "58.2万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "78.1万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "86.8万円",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法 | 採用スマートナビ | 採用戦略・手法・課題解決のノウハウ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）相場【2026年版】職種別一覧と削減方法",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "採用者一人当たりの求人広告費は平均約20万円～30万円台で推移",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "53.9万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "37.1万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "36.3万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "47.4万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "33.7万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "40.8万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "40.4万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "63.7万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "76.6万円",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの採用コスト相場は? 業種別・手法別の費用と削減方法を徹底解説!",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、マイナビや厚生労働省の最新調査データに基づき、新卒・中途採用の1人あたりコスト相場を業種別・手法別に詳しく解説します",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "1人あたりの採用にかかるコストの平均相場は?",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動における適切な予算設定のためには、市場における1人あたりの採用コスト相場を把握することが重要です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1人に対する採用コスト相場",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの最新調査によると、新卒採用における1人あたりの平均コストは56.8万円となっています",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "特に大手企業では知名度向上を目的とした幅広い採用活動を展開するため、1人あたりのコストが100万円を超えるケースも珍しくありません",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、中小企業では効率的な採用手法を選択することで、30万円程度に抑えている事例もあります",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中途1人に対する採用コスト相場",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用における1人あたりの平均コストは31.2万円で、新卒採用と比較して約45%低い水準となっています",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "マイナビの調査では、企業の年間採用費用平均650.6万円で20.8人を採用していることが報告されており、中途採用の効率性が示されています",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   }
+  ],
+  "継続して払うか": [
+   {
+    "quote": "公開日: 2024年09月30日 / 更新日: 2026年02月25日",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用に関わるコスト全般のことで求人広告費、面接にかかる人件費、採用イベントの開催費用、採用システムの導入・運用費など、",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト、採用リードタイム、定着率などのKPIを設定し、継続的に改善を図ります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、無料掲載の場合は自然と表示順位が下がるため、定期的に情報を更新したり、有料プランの活用を検討することが重要です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト管理は一度行えば終わりではなく、継続的な改善が必要なプロセス",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "このサイクルを継続的に回すことで、採用活動の効率と効果を段階的に向上させることができます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "外部相談窓口サービス（月額5,500円〜／全国対応）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "「出しっぱなしにしない」運用も、ムダな掲載費の削減につながります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体の多くは掲載期間が限られますが、採用サイトは継続的に求職者へアプローチできる「資産」になります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "どちらも、求人情報の工夫や運用改善により、限られた予算で応募者を増やすことに成功した事例です",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "採用単価が上がりやすい職種ほど、媒体選定の見直し・クリック課金型広告の運用改善・スカウトや採用広報の併用といった「広告費の使い方の工夫」による差が大きくなります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "・求人ボックス等）は運用次第で応募単価が変わります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "スカウト配信（月額29,800円〜・税別）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体選びから運用・応募者対応まで、まとめて相談できます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "掲載だけでなく、スカウト代行（月額29,800円〜・税別）、採用代行・RPO、採用広報まで一気通貫で支援します",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "月額29,800円～利用可能",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "口コミ以外にも自社で更新して写真やサービス、お知らせを掲載できますので、しっかりアピールします",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "100種類以上のあらゆる媒体を駆使した広告運用が得意で、たくさんの成功事例（介護、営業、施工管理など）をもとにWebマーケティングによる的確なデータ解析とキーワードや広告最適化を行い、効率的な広告運用やキャッチコピー、求職者へのメッセージの作成が可能です",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "同じ予算でもより多くの優秀な候補者にリーチできるよう、データ分析に基づく継続的な改善を実施しましょう",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介者と被紹介者の両方にメリットがある制度設計により、継続的な人材確保が可能になります",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用専任担当者の配置により、制度運用の効率化も図れます",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "定期的な情報発信により、潜在的な転職希望者との接点を継続的に創出することも可能です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介は年収の30〜35%（成功報酬）・求人広告は20〜100万円/掲載・ダイレクトリクルーティングは月額10〜50万円（スカウト代行含む）・リファラル採用はインセンティブ数万円/件・ハローワークは無料〜低コストが各手法の概算相場です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   }
+  ],
+  "どう買われるか": [
+   {
+    "quote": "さらには、人材紹介手数料や就職・転職の合同説明会にかかる費用なども外部コストに含まれます",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告費や人材紹介会社への手数料が高くなることが主な要",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "中途採用では、人材紹介会社の利用が多いため、その手数料がコストになる場合も多いです",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロケットスタートホールディングがお手伝いさせて頂いた食品製造業のお客様の事例をご紹介します",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "それ以外にもご参考にしていただける採用事例記事をたくさんご紹介しています",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "・社長や経営陣が直接採用に関わることが多い",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "・人材紹介会社の利用頻度が低く、自社での採用活動が中心",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "・業界特化型の求人サイトや人材紹介会社の利用が多い",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用は、社員に友人や知人を紹介してもらい、採用候補者を集める方法です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "社員から紹介を受けるため、候補者は既に働いている社員から職場のリアルな情報を聞けるため、通常の採用方法に比べてマッチング率が高くなる傾向があります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "発生するコストは、紹介してくれた社員へのインセンティブが主で、数万円から数十万円程度が相場ですが、人材紹介サービスを利用するよりも低コストで済むのが特徴です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、紹介カードの作成やインセンティブの導入が有効です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "・紹介会社経由では出会えない人材との接点を持てる",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "人事部門だけでなく、各部門の社員も採用活動に参加することで、より効果的な評価が可能になります",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト削減に有効なサービスをご紹介します",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人媒体・紹介会社・リファラル採用を比較し、費用対効果を分析",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "対策：社員紹介制度＋キャリア面談 → 採用成功率が向上しコスト削減",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ採用難の時代は、小規模企業ほど求人広告や人材紹介費用が高くつく傾向があります",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コストとは、求人広告や人材紹介料などの",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "採用活動にかかる外部コストとは、主に求人広告費や人材紹介会社への手数料など、",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の場合、求人媒体への掲載や紹介会社を通じた採用は、1人当たり数万円〜数十万円かかることも珍しくありません",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "総額には、外部コスト（求人広告費・人材紹介料など）と内部コスト（面接や書類選考にかかる社内工数）を含めます",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "：広告費や人材紹介手数料の増加だけでなく、内部工数も増えることで、一人当たりの総コストが上がります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、製造業で特に有効な5つの具体策を紹介します",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "応募率を増やす方法については、以下のコラムで詳しく紹介しています",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "社員の声やキャリアパス、工場紹介などを写真や動画で見せることで、応募前の不安を解消",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用（社員紹介）は、広告費をほぼかけずに信頼できる人材を採用できる方法です",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "製造業では、現場の人間関係や仕事理解が重要なため、紹介による定着率も高い傾向にあります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "制度導入時は、紹介報酬の金額設定・社内告知方法・応募手順の明確化",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "また、社内表彰や感謝メッセージなどのモチベーション施策を組み合わせると、紹介の輪が広がります",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、フォスターのお客様の採用支援事例を紹介します",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "マザーズ上場のWEB広告代理店でWEBマーケティング、求人広告、人材紹介の立ち上げを経て、東証一部上場企業子会社の執行役員として活躍",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）は、「外部コスト（広告費・紹介料など）＋内部コスト（人件費・工数）÷採用人数」で計算します",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介やヘッドハンティングを利用している",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "外部コストは他社に支払っている費用なので、この後で紹介する内部コストと比較して集計がしやすいです",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用とは、自社に勤めている従業員による紹介をもとに、採用を行う制度です",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "入社した場合の紹介料を設定したり、いつでも閲覧できる求人表をHPに掲載したり、面接までのフローを社員に共有するなどのやり方があります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "A. 求人広告費・人材紹介手数料などの「外部コスト」と、採用担当者の人件費・面接にかかる現場社員の工数などの「内部コスト」の両方が含まれます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "『採用スマートナビ』へのお問い合わせはコチラ",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告・採用代行のご紹介、ご提案をさせて頂きます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、専門性の高い職種や管理職クラスの採用では、人材紹介会社を利用するケースが多く、年収の20~35%にあたる紹介手数料が発生するため、1人あたり100万円を超える場合もあります",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介手数料(年収の20〜35%)、面談・選考工数",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介謝礼、推進担当者の社内工数",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ヘッドハンティングや人材紹介は高額ですが、専門性の高い人材や幹部クラスの採用には不可欠な手法です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介会社との契約条件見直しにより、手数料の削減が実現できます",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "特定分野に特化した紹介会社の活用により、マッチング精度向上と手数料削減を両立させることも可能です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "社員紹介制度の拡充により、低コストで質の高い人材を確保することができます",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介インセンティブの設定、紹介しやすい仕組み作り、成功事例の社内共有により、社員の積極的な参加を促進できます",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "紹介者と被紹介者の両方にメリットがある制度設計により、継続的な人材確保が可能になります",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "社内での紹介文化醸成のため、定期的な勉強会や紹介成功者への表彰制度導入も効果的です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "求人広告、人材紹介、リファラル採用など複数の手法を適切に組み合わせることで、コスト効率と採用成功率の両立が可能になります",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "採用コスト削減のためには、求人広告の費用対効果改善、人材紹介手数料の交渉、採用チャネルの見直し、リファラル採用プログラムの強化、選考プロセスの効率化、自社採用サイト・SNS活用の強化、社員異動・育成による内部リソース活用が効果的です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "来期の採用計画立案において、本記事で紹介した相場データと削減手法を参考に、自社に最適な採用戦略を構築し、限られた予算で最大の成果を実現してください",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒1人当たりの採用コストは平均93〜100万円程度、中途1人当たりは平均80〜100万円（人材紹介利用時は年収の30〜35%）が相場です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介は年収の30〜35%（成功報酬）・求人広告は20〜100万円/掲載・ダイレクトリクルーティングは月額10〜50万円（スカウト代行含む）・リファラル採用はインセンティブ数万円/件・ハローワークは無料〜低コストが各手法の概算相場です",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   }
+  ],
+  "前例の会社（製造業特化）": [
+   {
+    "quote": "新卒・中途一人当たりの採用コスト：相場と削減方法 | 株式会社ロケットスタートホールディングス",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "職種によっても採用コストは大きく異なり、株式会社マイナビ",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "応募人数の見通しでは、従業員数が多い企業ほど「増える」と回答する割合が高く、小規模企業ほどその割合が低い傾向",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、インセンティブを過剰に設定すると、内部コストが膨らんでしまう可能性があるため、従業員エンゲージメントを高め、社内環境を整えることが重要です",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "人材を採用するのは事業を伸ばし売上を伸ばすため",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人を育てる姿勢」を、まっすぐに伝えるために【株式会社ライフステップ様 Webサイトリニューアル事例】",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "pass": 3
+   },
+   {
+    "quote": "300万円の売上が必要",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "図表2：売上換算で考える採用コスト",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "粗利率30％の事業を例にすると、採用損失100万円を埋めるには以下の売上が必要です",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "必要売上（粗利30％）",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年3人離職 → 年間コスト約300万円＋売上換算1,000万円損失",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "□ 離職1人あたりの売上換算額を試算したか",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "Q4：売上換算で考える必要があるのはなぜですか？",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "例：粗利率30％の会社では100万円損失＝300万円売上が必要",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "離職は売上換算で数百万円～数千万円規模の損失",
+    "url": "https://resus.jp/topics/4594/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の採用コスト削減術｜相場と費用対効果を高める具体的方法 | 株式会社フォスター",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リクルート 就職みらい研究所の調査「",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "【参照：株式会社リクルート 就職みらい研究所「",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "社員の声やキャリアパス、工場紹介などを写真や動画で見せることで、応募前の不安を解消",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "pass": 3
+   },
+   {
+    "quote": "その後、大手求人広告代理店でNo1セールスから取締役を経験し、2013年にbサーチを創業",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "一人当たりの採用コスト（採用単価）最適化採用サポートなら株式会社bサーチ！",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "労働生産性（従業員一人当たりの付加価値額）",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "また、従業員数が多いほど採用予算が大きくなる傾向になります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "リファラル採用とは、自社に勤めている従業員による紹介をもとに、採用を行う制度です",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "従業員の大学や研究室の同窓などに声をかけることができれば、求めているスキルを持つ人材を集めやすくなります",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社bサーチでは、中途、新卒、アルバイトなど数多くの採用活動の悩みに対して正面から向き合い、採用支援で多くの成功実績を積み上げてきたスタッフが悩みの根本から解決へと導きます",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "運営：株式会社VOLLECT（https://vollect.net/）",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社パトスロゴス様】「採用チームの一員のような存在」――急成長スタートアップのビジネス職採用責任者が語る、RPOとの二人三脚の採用",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "【フジクリーン株式会社様】下水道老朽化の課題に挑み、街づくりを支える",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "pass": 3
+   }
+  ],
+  "採用難（公的統計）": [
+   {
+    "quote": "保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月のアルバイト求人倍率は",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   }
+  ],
+  "営業と採用のどちらに困っているか": [
+   {
+    "quote": "また著書である『求人を成功に導く、超実践・採用ノウハウ ゼロから始める中途採用の教科書』はAmazonランキングの3ジャンルで1位を獲得",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   },
+   {
+    "quote": "保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "1000",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります"
+   },
+   {
+    "value": "100",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります"
+   },
+   {
+    "value": "93.6",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "19年度の新卒採用（20年卒）：93.6万円"
+   },
+   {
+    "value": "103.3",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "中途採用のコスト：103.3万円"
+   },
+   {
+    "value": "71.5",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "18年度の平均採用コスト （新卒採用71.5万円、 中途採用83.0万円）"
+   },
+   {
+    "value": "83.0",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "18年度の平均採用コスト （新卒採用71.5万円、 中途採用83.0万円）"
+   },
+   {
+    "value": "38.5",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "38.5万円"
+   },
+   {
+    "value": "4.8",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "（前年比：4.8万円減）"
+   },
+   {
+    "value": "43.3",
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "quote": "43.3万円"
+   },
+   {
+    "value": "100",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "採用・教育・生産性低下など合計100万円以上のコスト"
+   },
+   {
+    "value": "300",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "300万円の売上が必要"
+   },
+   {
+    "value": "50",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約30～50万円"
+   },
+   {
+    "value": "20",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約10～20万円"
+   },
+   {
+    "value": "1,000",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "1,000万円"
+   },
+   {
+    "value": "1,666",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "1,666万円"
+   },
+   {
+    "value": "3,333",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "3,333万円"
+   },
+   {
+    "value": "80",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約60〜80万円"
+   },
+   {
+    "value": "120",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約90〜120万円"
+   },
+   {
+    "value": "150",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約100〜150万円"
+   },
+   {
+    "value": "130",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約90〜130万円"
+   },
+   {
+    "value": "90",
+    "url": "https://resus.jp/topics/4594/",
+    "quote": "約90万円前後"
+   },
+   {
+    "value": "93.6",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です"
+   },
+   {
+    "value": "103.3",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "」によると、2020年卒の新卒採用では1人あたり約93.6万円、中途採用では約103.3万円となっており、中途採用の方がやや高い傾向です"
+   },
+   {
+    "value": "69.4",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "69.4万円"
+   },
+   {
+    "value": "97.8",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "97.8万円"
+   },
+   {
+    "value": "69.7",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "69.7万円"
+   },
+   {
+    "value": "102.3",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "102.3万円"
+   },
+   {
+    "value": "67.7",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "67.7万円"
+   },
+   {
+    "value": "55.5",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "55.5万円"
+   },
+   {
+    "value": "84.8",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "84.8万円"
+   },
+   {
+    "value": "58.2",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "58.2万円"
+   },
+   {
+    "value": "78.1",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "78.1万円"
+   },
+   {
+    "value": "86.8",
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "quote": "86.8万円"
+   },
+   {
+    "value": "20",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "採用者一人当たりの求人広告費は平均約20万円～30万円台で推移"
+   },
+   {
+    "value": "30",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "採用者一人当たりの求人広告費は平均約20万円～30万円台で推移"
+   },
+   {
+    "value": "53.9",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "53.9万円"
+   },
+   {
+    "value": "37.1",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "37.1万円"
+   },
+   {
+    "value": "36.3",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "36.3万円"
+   },
+   {
+    "value": "47.4",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "47.4万円"
+   },
+   {
+    "value": "33.7",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "33.7万円"
+   },
+   {
+    "value": "40.8",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "40.8万円"
+   },
+   {
+    "value": "40.4",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "40.4万円"
+   },
+   {
+    "value": "63.7",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "63.7万円"
+   },
+   {
+    "value": "76.6",
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "quote": "76.6万円"
+   },
+   {
+    "value": "56.8",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "quote": "マイナビの最新調査によると、新卒採用における1人あたりの平均コストは56.8万円となっています"
+   },
+   {
+    "value": "100",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "quote": "特に大手企業では知名度向上を目的とした幅広い採用活動を展開するため、1人あたりのコストが100万円を超えるケースも珍しくありません"
+   },
+   {
+    "value": "30",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "quote": "一方、中小企業では効率的な採用手法を選択することで、30万円程度に抑えている事例もあります"
+   },
+   {
+    "value": "31.2",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "quote": "中途採用における1人あたりの平均コストは31.2万円で、新卒採用と比較して約45%低い水準となっています"
+   },
+   {
+    "value": "650.6",
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "quote": "マイナビの調査では、企業の年間採用費用平均650.6万円で20.8人を採用していることが報告されており、中途採用の効率性が示されています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://professional.mynavi.jp/magazine/magazine_402",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://resus.jp/topics/4594/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fostor.jp/archives/column/cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hear.co.jp/recruit/manufacturing-recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://biz.moneyforward.com/payroll/basic/115062/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://edenred.jp/article/hr-recruiting/7815/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levtech.jp/partner/guide/article/detail/98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo.employment.en-japan.com/blog/cost-down",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hear.co.jp/recruit/recruit-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recufill.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wazahaku.com/blog/8510/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://yu-mi.jp/column/post-1916/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marugotoinc.jp/blog/seizou_saiyousenryaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/thecxo/n/n4bcab52bb0c7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovel.jp/cost-per-hire-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.taxita.com/column/outsourcing006/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123）",
+   "results": [
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://resus.jp/topics/4594/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://ikdinc.co.jp/news/Z9VLq2xw",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://biz.moneyforward.com/payroll/basic/115062/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-tyuutosaiyo202102/",
+    "https://vollect.net/hrpedia/hiring-cost-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123） 調査 PDF",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://career-research.mynavi.jp/wp-content/uploads/2025/03/tyutosaiyouzyoukyou2025-2.pdf",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://www.chukiken.or.jp/wp-content/uploads/2021/11/133.pdf",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "https://adv.tokyo-np.co.jp/prtimes/article139100/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123） 厚生労働省",
+   "results": [
+    "https://www.mhlw.go.jp/content/11650000/000956216.pdf",
+    "https://www.mhlw.go.jp/content/11600000/000831165.pdf",
+    "https://www.hear.co.jp/recruit/manufacturing-recruit",
+    "https://www.mhlw.go.jp/content/11600000/001319324.pdf",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://biz.moneyforward.com/payroll/basic/115062/",
+    "https://edenred.jp/article/hr-recruiting/7815/",
+    "https://levtech.jp/partner/guide/article/detail/98/",
+    "https://www.mhlw.go.jp/content/12602000/001670967.pdf",
+    "https://vollect.net/hrpedia/hiring-cost-guide/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123） 規模別 万円",
+   "results": [
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://resus.jp/topics/4594/",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "https://saiyo.employment.en-japan.com/blog/cost-down",
+    "https://www.hear.co.jp/recruit/recruit-cost",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123） 製造業 事例",
+   "results": [
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://recufill.com/",
+    "https://saiyo.employment.en-japan.com/blog/cost-down",
+    "https://wazahaku.com/blog/8510/",
+    "https://yu-mi.jp/column/post-1916/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.bsearch.co.jp/media/recruitment-cost-per-person/",
+    "https://marugotoinc.jp/blog/seizou_saiyousenryaku/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123） 2025 OR 2026",
+   "results": [
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://service.r-4.co.jp/knowhow/recruiting/saiyocost/",
+    "https://professional.mynavi.jp/magazine/magazine_402",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.saiyo-doda.jp/guide/kihon/recruitment-unit-price",
+    "https://vollect.net/hrpedia/hiring-cost-guide/",
+    "https://note.com/thecxo/n/n4bcab52bb0c7",
+    "https://innovel.jp/cost-per-hire-2026/",
+    "https://go.taxita.com/column/outsourcing006/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123）",
+   "results": [
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://note.com/seizou_chiba/n/nf0a63a3c80d8",
+    "https://note.com/leadstar/n/n109d0ce2d36f",
+    "https://note.com/sei_tamai/n/n57aebafbbb8e",
+    "https://note.com/talebi_com/n/n17a217a3814d",
+    "https://note.com/tag/%E6%8E%A1%E7%94%A8%E5%8D%98%E4%BE%A1",
+    "https://note.com/machi_hito1507/n/n266337d049e8",
+    "https://note.com/foodinnovation_/n/nf4c4db5ff45b",
+    "https://note.com/sei_tamai/n/n9501f0350233",
+    "https://note.com/tenshoku_success/n/nedfef6356ef5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123）",
+   "results": [
+    "https://x.com/luigi_jpn/status/2094562625690755302",
+    "https://x.com/HRognet/article/2108123175766925341",
+    "https://x.com/keyplayers/status/2041108666833915972",
+    "https://x.com/kawai3corp/reposts",
+    "https://x.com/k_oshimoto",
+    "https://x.com/cdb_jp",
+    "https://x.com/efmania/article/2097868457782161432",
+    "https://x.com/kawai3corp/status/2110920233586442691",
+    "https://x.com/koba_taku_sales",
+    "https://x.com/zakiryo1533"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123）",
+   "results": [
+    "https://jp.linkedin.com/posts/mao-nomura-139b7b141_%E6%B2%BB%E5%AE%89%E3%81%8C%E6%82%AA%E5%8C%96%E3%81%99%E3%82%8B%E5%B0%B1%E6%B4%BB%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E7%B4%8410%E5%B9%B4%E5%89%8D%E7%A7%81%E3%81%AF%E6%96%B0%E5%8D%92%E5%AD%A6%E7%94%9F%E5%90%91%E3%81%91%E5%B0%B1%E6%B4%BB%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88-activity-7441423443469860864-JVx6",
+    "https://cn.linkedin.com/showcase/career-executive-jp%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://jp.linkedin.com/posts/hidetoshitakano_3%E5%B9%B4%E5%89%8D%E3%81%AF800%E4%B8%87%E5%86%86%E3%81%A7%E6%8E%A1%E3%82%8C%E3%81%9F%E4%BA%BA-%E4%BB%8A%E3%81%AF1000%E4%B8%87%E5%86%86%E3%81%A7%E3%82%82%E6%9D%A5%E3%81%AA%E3%81%84-%E6%8E%A1%E7%94%A8%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7-activity-7476156571115487233-BIk0",
+    "https://jp.linkedin.com/in/masashi-sugiura",
+    "https://jp.linkedin.com/pulse/10-best-cfo-recruiting-firms-reviewed-2025-christian-timbers-ka1af?tl=ja",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/pulse/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%81%AE%E7%B5%8C%E6%B8%88%E6%88%90%E9%95%B7%E8%A6%81%E7%B4%A02025%E5%B9%B4%E3%81%AE%E9%9B%87%E7%94%A8%E4%B8%BB%E5%90%91%E3%81%91%E5%AE%9F%E8%A1%8C%E5%8F%AF%E8%83%BD%E3%81%AA%E3%83%92%E3%83%B3%E3%83%88-good-job-creations-o4l3c",
+    "https://aq.linkedin.com/jobs/view/%E3%80%90%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%80%91%E5%9B%BD%E5%86%85edi%E5%B8%82%E5%A0%B4no-1%E4%BC%81%E6%A5%AD%E3%81%A7%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E3%81%8B%E3%82%89%E6%89%8B%E6%8E%9B%E3%81%91%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%EF%BC%9F-at-techcareer-japan-4443564908",
+    "https://jp.linkedin.com/in/maki-terashima-6a83177a",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%BA%94%E5%8F%8D%E7%94%B0%EF%BC%8F%E5%AE%AE%E5%9F%8E%E3%80%91%E6%8E%A1%E7%94%A8%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%8B%85%E5%BD%93%E2%97%87%E6%B4%BE%E9%81%A3%E7%A4%BE%E5%93%A1%C3%97%E4%B8%AD%E9%80%94%E6%8E%A1%E7%94%A8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%AF%8D%E9%9B%86%E5%9B%A3%E5%BD%A2%E6%88%90%E3%81%AE%E5%BC%B7%E5%8C%96-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4475843034"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123）",
+   "results": [
+    "https://www.facebook.com/groups/569253743820290/posts/2249471239131857/",
+    "https://www.facebook.com/bskyjpn/posts/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E7%8F%BE%E5%9C%B0%E3%81%A7%E6%8E%A1%E7%94%A8%E9%9D%A2%E6%8E%A5%E3%82%92%E5%AE%9F%E6%96%BD%E6%8A%80%E8%83%BD%E5%AE%9F%E7%BF%92%E7%94%9F12%E5%90%8D%E3%81%8C%E5%86%85%E5%AE%9A%E5%90%8C%E4%B8%80%E4%BC%81%E6%A5%AD%E6%A7%98%E3%81%A7%E3%81%AE%E7%B4%AF%E8%A8%88%E6%8E%A1%E7%94%A8%E4%BA%BA%E6%95%B0%E3%81%AF37%E5%90%8D%E3%81%AB-2026%E5%B9%B410%E6%9C%8814%E6%97%A5-blue-sky-japan%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF2026%E5%B9%B4/122272500920364654/",
+    "https://www.facebook.com/kawaishoji.official/posts/%E4%BB%8A%E3%81%AF%E4%BA%BA%E3%81%8C%E8%B6%B3%E3%82%8A%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%82%89%E5%A4%A7%E4%B8%88%E5%A4%AB%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%9D%E3%81%86%E8%A8%80%E3%81%84%E5%88%87%E3%82%8C%E3%81%BE%E3%81%99%E3%81%8B%E6%B1%82%E4%BA%BA%E3%82%92%E5%87%BA%E3%81%97%E3%81%A6%E3%82%82%E5%BF%9C%E5%8B%9F%E3%81%8C%E6%9D%A5%E3%81%AA%E3%81%84%E6%8E%A1%E7%94%A8%E3%81%A7%E3%81%8D%E3%81%A6%E3%82%82%E3%81%99%E3%81%90%E8%BE%9E%E3%82%81%E3%82%8B%E6%B4%BE%E9%81%A3%E6%96%99%E9%87%91%E3%82%82%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%82%82%E4%B8%8A%E3%81%8C%E3%82%8A%E7%B6%9A%E3%81%91%E3%82%8B%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E3%81%93%E3%82%93%E3%81%AA%E6%82%A9%E3%81%BF%E3%82%92%E6%8A%B1%E3%81%88/1135558142316010/",
+    "https://www.facebook.com/frontierconsulvn/posts/-%E7%84%A1%E6%96%99%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-2026%E5%B9%B45%E6%9C%8820%E6%97%A5%E6%B0%B4%E3%83%8F%E3%83%8E%E3%82%A4%E3%81%AB%E3%81%A6%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%90%91%E3%81%91%E7%84%A1%E6%96%99%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%BC%E4%BA%89%E5%A5%AA%E6%88%A6%E4%BA%BA%E4%BB%B6%E8%B2%BB%E9%AB%98%E9%A8%B0%E5%8C%97%E9%83%A8%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%BC%E8%B3%83%E9%87%91%E5%AE%9F%E6%85%8B%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%882026%E5%B9%B4%E6%9C%80%E6%96%B0%E5%8B%95/1518002210335007/",
+    "https://www.facebook.com/Defide.inc/",
+    "https://www.facebook.com/iconic.jp/posts/%E7%AC%AC1%E5%9B%9E-2026%E5%B9%B4%E3%81%AE%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%8A%B4%E5%83%8D%E5%B8%82%E5%A0%B4%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%92%E7%9F%A5%E3%82%8B-%E5%A4%89%E5%8C%96%E3%81%AE%E6%B3%A2%E3%81%8C%E7%B6%9A%E3%81%8F%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E7%B5%8C%E6%B8%88-%E9%96%A2%E7%A8%8E%E6%94%BF%E7%AD%96%E3%81%AE%E8%A6%8B%E7%9B%B4%E3%81%97%E3%82%84%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A%E3%82%B7%E3%83%95%E3%83%88%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%82%92%E5%8F%97%E3%81%91-%E6%A5%AD%E7%95%8C%E5%9C%B0%E5%9F%9F%E8%81%B7%E7%A8%AE%E3%81%94%E3%81%A8%E3%81%AB%E5%8A%B4%E5%83%8D%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BA%8C%E6%A5%B5%E5%8C%96%E3%81%8C/1475632354597987/",
+    "https://www.facebook.com/jetro.openforprofessionals/posts/%E5%8F%82%E5%8A%A0%E4%BC%81%E6%A5%AD%E7%B4%B9%E4%BB%8B%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A2026-fall-%E2%91%A2%E8%A3%BD%E9%80%A0%E6%A5%ADvol2%E7%A7%8B%E3%81%AE%E5%90%88%E5%90%8C%E4%BC%81%E6%A5%AD%E8%AA%AC%E6%98%8E%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%82%92%E5%85%A84%E5%9B%9E%E3%81%AB%E5%88%86%E3%81%91%E3%81%A6%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E7%AC%AC3%E5%9B%9E%E7%9B%AE%E3%81%AF%E8%A3%BD%E9%80%A0%E6%A5%ADvo/1104776885278167/",
+    "https://www.facebook.com/groups/1010298605730992/posts/28891005857233559/",
+    "https://www.facebook.com/shizuoka.abp.jp/posts/asia-link-%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%A7%E3%81%992027%E5%B9%B43%E6%9C%88%E3%81%BE%E3%81%A7%E3%81%AB%E5%AD%A6%E6%A0%A1%E3%82%92%E5%8D%92%E6%A5%AD%E3%81%99%E3%82%8B%E7%95%99%E5%AD%A6%E7%94%9F%E3%81%AE%E3%81%BF%E3%81%AA%E3%81%95%E3%81%BE2028%E5%B9%B43%E6%9C%88%E3%81%BE%E3%81%A7%E3%81%AB%E5%AD%A6%E6%A0%A1%E3%82%92%E5%8D%92%E6%A5%AD%E4%BA%88%E5%AE%9A%E3%81%A7%E5%B0%B1%E8%81%B7%E5%B8%8C%E6%9C%9B%E3%81%AE%E3%81%BF%E3%81%AA%E3%81%95%E3%81%BEenglish-t/1102205165895553/",
+    "https://www.facebook.com/groups/569253743820290/posts/2453389828739996/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123） note 社長",
+   "results": [
+    "https://note.com/sei_tamai/n/n269032332e6d",
+    "https://note.com/sei_tamai/n/n4bf41d34e011",
+    "https://hrnote.jp/contents/a-contents-rpo-saiyoukosuto-190111/",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://note.com/thecxo/n/n4bcab52bb0c7",
+    "https://sawada-cpta.com/blog/shacho-suji-08/",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://note.com/sei_tamai/n/ndb56a1613fb1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123） X 投稿",
+   "results": [
+    "https://www.fostor.jp/archives/column/cost-reduction",
+    "https://one-group.jp/humanresource/use/recruitment_cost.html",
+    "https://www.rshd.co.jp/news/saiyou-cost.html",
+    "https://note.com/thecxo/n/n4bcab52bb0c7",
+    "https://www.tracom.co.jp/tralog/recruitment-cost-2/",
+    "https://www.persol-bd.co.jp/service/hrsolution/s-hr/column/recruitment-cost/",
+    "https://ceeev.co.jp/blog/manufacturing-sns-recruitment/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-seizoukyuzinsite_240530/",
+    "https://www.update-up.com/update-hr/column/saiyo-sns-koukoku"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "manufacturing recruitment cost per hire Japan survey table site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/marginal-cost-turnover-manufacturing-why-hiring-signals-matter-z78de",
+    "https://www.linkedin.com/pulse/time-fill-key-recruitment-metric-upstaff-1v0xe",
+    "https://business.linkedin.com/hire/resources/future-of-recruiting",
+    "https://www.linkedin.com/pulse/state-us-recruiting-20242025-key-hiring-metrics-pharma-alex-benjamin-neuje",
+    "https://www.linkedin.com/posts/jaytimmons_great-to-join-cheryl-casone-on-fox-business-activity-7508131402362658816-KpxO",
+    "https://www.linkedin.com/pulse/trade-compliance-talent-high-demand-2026-salary-survey-hla8c",
+    "https://www.linkedin.com/pulse/quality-hire-definition-formula-best-practices-careerfit-ai-vzzhe",
+    "https://uk.linkedin.com/company/the-global-life-science-hub",
+    "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/company/crawford-thomas-recruiting"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "作る側の原価": "記載なし（読んだ30頁・検索13回）"
+ }
+}

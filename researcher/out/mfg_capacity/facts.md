@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・271品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・274品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -13847,6 +13847,140 @@
   - 「託生産費、製造等に関連する外注費」（https://www.soumu.go.jp/main_content/000744047.pdf）
   - 「原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額」（https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
   - 「原材料、燃料、電力の使用額、委託生産費、製造等に関連する外注費及び転売した商品の仕入額の合計金額」（https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB）
+
+## 受託の細分類（電気めっき・金属熱処理・金属プレス・金属用金型）の加工賃収入額と従業者数を同じ年・同じ表で（分子と分母の年をそろえる・工業統計 産業細分類別・4-122）（Census of Manufacture processing fee revenue and employees same year same table plating heat treatment press die Japan）
+- 文脈：統計
+- 事業所数・社数：
+  - 「第３表 品目別、都道府県別の出荷及び産出事業所数（全事業 所） ················」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第４表 品目別、従業者規模別の産出事業所数及 び出荷金額（全事業所） ··········」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第５表 品目別出荷における産業細分類別の産出事業所数及び出荷金額（全事業所）」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第６表 産業別出荷における品目別の産出事業所数及び出荷金額（全事業所） ······」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第１０表 その他収入の種類別の産業別産出事業所数及び収入額（産業中分類別、」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第１１表 その他収入の種類別の都道府県別産出事業所数及び収入額（全事業所）」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、年月日現在」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+- 社員数・平均社員数：
+  - 「第７表 品目別の在庫及び産出事業所数（従業 者 30 人以上の事業所） ·············」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「３．調査結果のうち、事業所数、産出事業所数、従業者数については、年月日現在」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「一般社団法人 経済産業統計協会 TEL 03-3561-2974」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+- 受注金額・加工賃収入：
+  - 「２．賃加工品に関する統計表」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「第９表 品目別の加工賃収入額及び産出 事業所数（全事業所） ···················」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「高（製造品出荷額等） 総額の９割を達成する範囲に含まれる事業所を調査対象とし、 その」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「４． 製造品出荷額等の経理事項については、 原則消費税込みで把握しているが、 一部の消費」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+- 10年推移：
+  - 「本書は、e-Stat 政府統計の総合窓口に掲載されている『2023年経済構造実態調査 製造業事」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+  - 「業所調査』の集計結果（ 「産業編」 「品目編」 「地域編」 ） （2024 年 7 月 26 日公表）とそれらの関」（http://www.etisa.or.jp/mokuji/mokuji2916.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ55頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ55頁・検索18回）
+- 生産能力・設備：記載なし（読んだ55頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ55頁・検索18回）
+
+## 日本銀行 企業物価指数 金属製品 年平均 指数の水準を別名で（国内企業物価指数 金属製品 2020年基準・Corporate Goods Price Index metal products annual average・名目を実質にする分母・4-37・4-122）（Bank of Japan Corporate Goods Price Index metal products annual average level 2020 base）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「人手不足倒産・物価高倒産はなぜ増える？公表データで見る原因と、社長が先に見る数字」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2026年度上半期の物価高倒産は628件、人手不足倒産は225件で最多」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 社員数・平均社員数：
+  - 「材料費・電気代・人件費の上がり分を、1個あたりの金額に直します」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2026年度上半期の物価高倒産は628件、人手不足倒産は225件で最多」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 受注金額・加工賃収入：
+  - 「製造業の粗利（売上総利益）の計算方法と、中小企業庁の統計で見た中小製造業の粗利率の平均20.9％（規模別）を解説」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「町工場の加工賃は1時間いくら？決算書の数字だけで出せる、赤字にならない時間単価の計算方法【計算ツール付き】」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 10年推移：
+  - 「企業物価指数の推移と見方【2026年9月】値上げの根拠に | macri」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「企業物価指数の推移と見方【2026年9月】値上げ交渉で使える国の統計の調べ方と計算」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2020年からの推移」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「企業物価指数（国内企業物価指数・総平均）は2026年9月に135.7（2020年平均＝100）」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「、2020年1月と比べると＋32.9％です」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「数字は日本銀行の「時系列統計データ検索サイト」から無料で取り出せます」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2020年の平均を100として、いまの価格がその何倍かを表します」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「円建て・国内価格で、毎月の推移が追える」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「企業物価指数の推移（2020年1月〜2026年9月）」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「総平均は2021年から上がり続け、2026年に入って上昇のペースが速まっています」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「総平均（2020年平均＝100）」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2020年1月」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2021年1月」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2022年1月」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2023年1月」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 人手と仕事の差：
+  - 「人手不足倒産・物価高倒産はなぜ増える？公表データで見る原因と、社長が先に見る数字」（https://eigyo-shindan.com/corporate-goods-price-index/）
+  - 「2026年度上半期の物価高倒産は628件、人手不足倒産は225件で最多」（https://eigyo-shindan.com/corporate-goods-price-index/）
+- 事業所数・社数：記載なし（読んだ43頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ43頁・検索18回）
+- 生産能力・設備：記載なし（読んだ43頁・検索18回）
+
+## 工業統計調査・経済構造実態調査の承認と変更の記録（総務省の承認・全数か抽出か・客体数・裾切りの変更の年・4-105・4-123）（Census of Manufacture approval change sampling coverage Japan MIC statistics commission）
+- 文脈：定義
+- 事業所数・社数：
+  - 「国内の総企業数（約359万）」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「なお、製造業事業所調査の対象事業所数については、表２のとおり毎年大きく変動しているとこ」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「表２ 製造業事業所調査の配布対象事業所数（実績）」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「込みの数であり、実際の対象事業所数は表２のとおり100,945事業所である」（https://www.soumu.go.jp/main_content/001073929.pdf）
+- 社員数・平均社員数：
+  - 「2022年調査より、全ての産業に属する一定規模以上の法人企業の皆様が対象になるとともに、これまで実施してきた」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「このうち、個人経営の企業を除き、日本標準産業分類における大分類、中分類又は小分類ごとに売上高を上位から累積し、当該分類に係る売上高総額の８割を達成する範囲に含まれる企業を調査対象としています」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「甲調査：従業者30人以上の」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「乙調査：従業者４人以上29人」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「（従業者３０人以上の事業所（製造、加工又は修理を行っていない管理、」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「（従業者４人以上２９人以下の事業所（製造、加工又は修理を行ってい」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「約245,000 事業所の名称及び所在地、経営組織、従業者数、製造品の出荷額 等」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「る従業者４人以上の事業所を調査対象としていた」（https://www.soumu.go.jp/main_content/000757584.pdf）
+  - 「４ この事業所の従業者数 （■■年6月1日現在） （単位：人）」（https://www.soumu.go.jp/main_content/000757584.pdf）
+  - 「（１）この事業所に所属する従業者数 （２）受入者」（https://www.soumu.go.jp/main_content/000757584.pdf）
+  - 「（３）この事業所に従事している人の男女計 （⑤ － ④ － ⑥ ＋ ⑦）」（https://www.soumu.go.jp/main_content/000757584.pdf）
+  - 「４ 従業者数 （ ■■年6月1日 現在） （単位：人）」（https://www.soumu.go.jp/main_content/000757584.pdf）
+  - 「※第１面４欄「この事業所の従業者数」の（３）が30人以上の事業所のみ記入してください」（https://www.soumu.go.jp/main_content/000757584.pdf）
+  - 「※29人以下の事業所は、記入不要です」（https://www.soumu.go.jp/main_content/000757584.pdf）
+  - 「② 甲調査：従業者30人以上の事業所（約60,000事業所）」（https://www.soumu.go.jp/main_content/000664481.pdf）
+- 受注金額・加工賃収入：
+  - 「このうち、個人経営の企業を除き、日本標準産業分類における大分類、中分類又は小分類ごとに売上高を上位から累積し、当該分類に係る売上高総額の８割を達成する範囲に含まれる企業を調査対象としています」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「このうち、日本標準産業分類における大分類、中分類、小分類又は細分類ごとに売上高（製造品出荷額等）を上位から累積し、当該分類に係る売上高（製造品出荷額等）総額の９割を達成する範囲に含まれる事業所を調査対象としています」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「売上⾼ベースで８割以上をカバー」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「りの売上⾼２割分（約114万企業）」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「⼩分類いずれの区分でも売上⾼８割を占める法⼈企業を抽出」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「・産業横断調査A：産業大・中・小分類別に売上高８割を占める企業」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「・産業横断調査B：産業大・中・小分類別に売上高５割を占める企業」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「・産業大・中・小・細分類別に売上高９割を占める事業所」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「５ 企業全体の売上（収⼊）⾦額、費⽤総額及び」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「８ 企業の事業活動別の売上（収⼊）⾦額」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「11 年間商品販売額及び商品売上原価」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「ただし、現在、第１面の事業活動別売上を活用し」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「４ 事業所の売上⾼」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「産業⼤・中・⼩・細分類別に出荷額等を上位から累積し、当該分類に係る出荷額等総額の９」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「各分類に係る売上高総額の８割を達成する範囲に含まれる企業を対象とする計画であ」（https://www.soumu.go.jp/main_content/000757584.pdf）
+- 生産能力・設備：
+  - 「８ 有形固定資産」（https://www.soumu.go.jp/main_content/000757584.pdf）
+- 10年推移：
+  - 「（経済産業省）の3調査を統合・再編し、2019年から実施しています」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「2022年調査より、全ての産業に属する一定規模以上の法人企業の皆様が対象になるとともに、これまで実施してきた」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「そこで、2019年以降は、経済構造実態調査の創設により、経済センサス-活動調査の中間年における経済構造を把握できるようになりました」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「さらに、2022年の経済構造実態調査から全産業化などを行い、中間年においても産業横断的に経済構造を把握することができるようになり、経済構造統計の体系が構築されました」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「No.196 2022年経済構造実態調査二次集計結果を公表 〜 経済構造実態調査を通してみたコロナ禍における日本経済の状況の変化 〜（PDF：503KB）」（https://www.stat.go.jp/data/kkj/gaiyo.html）
+  - 「（2022年以降）」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「• 調査事項の細かさから記⼊者負担が⼤きく、未回答、修正の増加による精度確保が問題」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「• 基準年との、よりシームレスな接続を可能とするため、令和４年（2022年）」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「• 基準年である令和３年（2021年）経済センサス－活動調査に合わせた調」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「令和３年（2021年）経済センサス－活動調査において、報告者の負担軽」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「４年（2022年）以降、同調査事項を廃⽌」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「動の内訳を、令和４年（2022年）以降、⽇本標準産業分類を基にした調査」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「けの整理や報告者負担及び利活⽤状況を鑑み、令和４年（2022年）以降」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「令和２年（2020年）⼯業統計調査においては、地⽅公共団体の事務負担」（https://www.soumu.go.jp/main_content/000749845.pdf）
+  - 「令和４年（2022年）に経済構造実態調査に⼯業統計調査を包摂するのに」（https://www.soumu.go.jp/main_content/000749845.pdf）
+- 人手と仕事の差：
+  - 「託生産費、製造等に関連する外注」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「託生産費、製造等に関連する外注費」（https://www.soumu.go.jp/main_content/000744047.pdf）
+  - 「の要請があったことから、「外注費」に含まれる「同業」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「いていることから、産業共通項目の「外注費」で併せて」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「うものではあるが、「外注費（同業者・それ以外）」、「金融手数料」については、産業連関構」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「造調査（サービス産業・非営利団体等調査）において回答されている実績が確認され、「外注費」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「売奨励費（ＥＣサイトによる販売・それ以外）」及び「委託生産費（外注加工費）」についても、」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「り、６月下旬までが繁忙期であるため７月に回答することを希望する企業が例年一定数存在するた」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「・ 事業別費用の内訳の「外注費（同業者向け）」及」（https://www.soumu.go.jp/main_content/001073929.pdf）
+  - 「これについては、前記１（２）イ（イ）のとおり、ⅰ）「外注費」を「同業者向け」と「同業者向け」（https://www.soumu.go.jp/main_content/001073929.pdf）
+- 痛み・損（深さの印）：記載なし（読んだ49頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ49頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

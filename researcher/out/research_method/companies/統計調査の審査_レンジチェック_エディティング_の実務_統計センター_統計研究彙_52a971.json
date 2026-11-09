@@ -1,0 +1,1393 @@
+{
+ "name": "統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表）",
+ "en": "statistical data editing range check skewed distribution log transform official statistics",
+ "aliases": [
+  "統計研究彙報 外れ値 レンジチェック",
+  "統計センター 審査 エディティング 方法",
+  "statistical data editing EDIMBUS manual"
+ ],
+ "context": "集計",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:02:34.943915+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "用いた外れ値検出の適切な方法を解説するとともに、サービス産業動向調査のデータを用いてレンジ",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "In this paper, we explain how to prepare the editing bounds by means of robust statistics for data with a",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "めの方法論はこれまで整備されておらず、（算術）平均値と標準偏差を用いて上限値及び下",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "限値を設定するような、検出漏れを起こしやすい方法が使用される場合もある",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このようなデータにおける外れ値検出のためのレンジの設定方法について、実務担当者に向",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第４章では、第３章の外れ値検出方法を、サー",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "後に第５章では、本稿で述べる外れ値検出方法の可能性についてまとめている",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "質管理における、平均値から標準偏差の２倍・３倍といった管理基準の設定方法は広く知ら",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "め、さらにそれを可視化する方法として箱ひげ図（box plot またはbox-and-whisker plot）を",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正規分布の前提を置くパラメトリックな方法は適用が限られる",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿で提案する方法は、分",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Survey Research Methods Section, American Statistical Association: 20–34.",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 高橋将宜, 伊藤孝之. (2013a).「経済調査における売上高の欠測値補定方法について",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "チェックのレンジの設定を行った事例を紹介する",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "unimodal and symmetric distribution (after transformation, if necessary). We also show the case of monthly sales",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "る調査結果を公表するためには、外れ値の影響を受けにくい適切な外れ値検出手法を用いな",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "上高データについて、この方法の事例として第４章で紹介する",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いが、データ集計や分析の際にその存在が結果の精度を悪化させる可能性があるものを指す",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、上の９つのデータでは、６，７，８，９",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実際の統計調査データ、例えば売上高や資本金等の金額データは、右裾が長い歪んだ分布",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実例として、事業従事者１人当たりの売上高データを図７に示す",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.2 検証結果",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この二つの結果を比較すると、第３章２節で説明したように、図８に示す①の方法では、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは上述Ａの結果を踏まえ、同じデータを使用して、分布の対称性を確保するために",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "修正された結果、このデータの場合は検出される外れ値は変わらないが、レンジの位置が上",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " エラーの可能性があり、調査結果に影響",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "適用可能性（ケース1）",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "適用可能性（ケース2）",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "りの可能性のあるデータを検出・修正して推計値が真値と乖離しないようにしている",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数値データを用いた検証例を、第３章３節及び第４章１節で紹介する",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "案し、データの分布があらかじめ想定できない場合、順序統計量を基礎とした統計量（推定",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "値を採用することも避けながら、外れ値の影響を緩和することのできる頑健な推定手法を利",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "外れ値に頑健な中央値と四分位範囲を用いて、平均値と標準偏差を推定してレンジ設定す",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "て、第３章３節で示したレンジチェック方法の適用と検証を行う",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.1 検証方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 頑健な推定量（中央値及び四分位範囲）に基づくレンジ（対称分布用）",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.2 検証結果",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Ｂ. ②の方法での分布の対称化による効果の検証",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 高橋(2013)にて検証",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 最終的な実用性検証として、経済センサ",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "させ、EMによりパラメータを推定し、補",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "分布モデルによる多変量外れ値検出法の検証」, 『製表技術参考資料23』, 独立行政",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統計研究彙報 第 72 号 2015 年 3 月 （41～54）",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査における調査データは、調査対象から得た情報が調査票等に記入される",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "府が実施する統計調査はデータ量が多いので、確認すべきデータの基準（レンジ：人手による審査を",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "†独立行政法人統計センター統計情報・技術部統計技術研究課",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公的統計調査の製表業務においては、収集された調査票情報を電子化し、その後集計作業",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査データは大抵の場合、 正規分布などの理論上の分布には従わない",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "出するためのものであり、最初から外れ値の存在が想定される統計調査データの外れ値検出",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計研究彙報 第 72 号 2015 年３月",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まり頑健性のない統計量を使えば、その検出法は信頼できるものにはならない",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "経済統計学会関東支部7月例会",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1947年：総理庁統計局",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1949年：総理府統計局製表部",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1984年：総務庁統計センター",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2001年：総務省統計センター",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査員の任命、",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 統計データエディティング(statistical",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 日本だけではなく、各国公的統計機関に",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 欧米諸国では、統計的手法に基づいた",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計データエディティングに関するワークセッション",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 欧州統計局(Eurostat)や国連工業開発",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 各国の統計機関において、各々の調査",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " イタリア国家統計局の開発したRパッケージ",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 統計的検定の第1種過誤と第2種過誤と同じ",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 不完全データを用いた統計分析が、完",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "施者が集計を行うが、集計前に調査票等の記入内容に誤りがないかなどの様々な審査が行われる",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一般的に、外れ値とは、データの大部分の傾向と異なるもので、必ずしも誤りとは限らな",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿の目的は、誤りの",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "らかの誤りを含む可能性が高いものを指す」こととする",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "よって偏ったり拡大したりすると、それにより外れ値検出に誤りを生じやすい",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "経理項目の記入漏れ、記入誤りが発生",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "セットを統合するには、バイアスを修正",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/282130677_tongjishiwuniokerurenjichekkunotamenowairezhijianchufangfa_A_Univariate_Outlier_Detection_Manual_for_Tabulating_Statistical_Survey",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chuo-u.repo.nii.ac.jp/record/2003251/files/0453-4778_65_5-6_125-136.pdf",
+    "status": "http_406",
+    "method": "pdf"
+   },
+   {
+    "url": "https://bellcurve.jp/statistics/course/12929.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emuyn.net/stats/manual/outlier_handling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-research.ai/research-column/outlier",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transparently.jp/stats3/textbook/eda-outliers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9036143/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/statistics/comments/pu2h1w/q_what_is_the_point_of_log_transforming_skewed/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metricgate.com/blogs/log-transformations-skewed-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/@lamunozs/dealing-with-high-skewed-data-a-practical-guide-part-iii-19fc38a10a7c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://statmodeling.stat.columbia.edu/2019/08/21/you-should-usually-log-transform-your-positive-data/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://mgimond.github.io/ES218/re_express.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表） site:note.com",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.researchgate.net/publication/282130677_tongjishiwuniokerurenjichekkunotamenowairezhijianchufangfa_A_Univariate_Outlier_Detection_Manual_for_Tabulating_Statistical_Survey",
+    "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "https://chuo-u.repo.nii.ac.jp/record/2003251/files/0453-4778_65_5-6_125-136.pdf",
+    "https://bellcurve.jp/statistics/course/12929.html",
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://gmo-research.ai/research-column/outlier",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "https://www.transparently.jp/stats3/textbook/eda-outliers",
+    "https://note.com/jitsumu_drill/n/na0b830f325c1"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表） note",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.researchgate.net/publication/282130677_tongjishiwuniokerurenjichekkunotamenowairezhijianchufangfa_A_Univariate_Outlier_Detection_Manual_for_Tabulating_Statistical_Survey",
+    "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "https://chuo-u.repo.nii.ac.jp/record/2003251/files/0453-4778_65_5-6_125-136.pdf",
+    "https://bellcurve.jp/statistics/course/12929.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "https://gmo-research.ai/research-column/outlier",
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表） やり方",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.researchgate.net/publication/282130677_tongjishiwuniokerurenjichekkunotamenowairezhijianchufangfa_A_Univariate_Outlier_Detection_Manual_for_Tabulating_Statistical_Survey",
+    "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "https://chuo-u.repo.nii.ac.jp/record/2003251/files/0453-4778_65_5-6_125-136.pdf",
+    "https://bellcurve.jp/statistics/course/12929.html",
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "https://gmo-research.ai/research-column/outlier",
+    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表） 事例",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.researchgate.net/publication/282130677_tongjishiwuniokerurenjichekkunotamenowairezhijianchufangfa_A_Univariate_Outlier_Detection_Manual_for_Tabulating_Statistical_Survey",
+    "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "https://chuo-u.repo.nii.ac.jp/record/2003251/files/0453-4778_65_5-6_125-136.pdf",
+    "https://bellcurve.jp/statistics/course/12929.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "https://gmo-research.ai/research-column/outlier",
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "statistical data editing range check skewed distribution log transform official statistics",
+   "results": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9036143/",
+    "https://www.reddit.com/r/statistics/comments/pu2h1w/q_what_is_the_point_of_log_transforming_skewed/",
+    "https://metricgate.com/blogs/log-transformations-skewed-data/",
+    "https://medium.com/@lamunozs/dealing-with-high-skewed-data-a-practical-guide-part-iii-19fc38a10a7c",
+    "https://statmodeling.stat.columbia.edu/2019/08/21/you-should-usually-log-transform-your-positive-data/",
+    "http://mgimond.github.io/ES218/re_express.html",
+    "https://www.researchgate.net/post/What_should_I_do_if_my_data_after_log_transformation_remain_not_normally_distributed",
+    "https://stats.stackexchange.com/questions/107610/what-is-the-reason-the-log-transformation-is-used-with-right-skewed-distribution",
+    "https://rcompanion.org/handbook/I_12.html",
+    "https://en.wikipedia.org/wiki/Log_transformation_(statistics)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2108155409672675708",
+    "https://jf.x.com/images/media-preview/2105612145195208883",
+    "https://x.com/biostatkurume",
+    "https://help.x.com/ja/rules-and-policies/x-user-research",
+    "https://x.com/cyy6oajGf368946/status/2118543137463546145",
+    "https://x.com/smo_yutohisano/status/2073543531994779773",
+    "https://x.com/fukuwataru/status/2112023433630638192"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表）",
+   "results": [
+    "https://jp.linkedin.com/in/敦-木村-907559289",
+    "https://www.linkedin.com/home?originalSubdomain=za",
+    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4361455",
+    "https://www.linkedin.com/posts/shokamura_近況報告-english-follows-japanese-財団法人-実務教育研究所-activity-7314497092347932672-h5Ca",
+    "https://jp.linkedin.com/in/俊太朗-佐藤-463b9715b",
+    "https://jp.linkedin.com/in/arita-tetsuma",
+    "https://jp.linkedin.com/in/shuntaro-sato-463b9715b"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表）",
+   "results": [
+    "https://www.facebook.com/stat.japan/",
+    "https://www.facebook.com/gisajapan/posts/統計研究彙報第84号の論文募集について統計研究彙報は公的統計の改善及び発展並びに政策立案の証拠としての公的統計の利活用の促進に資する研究成果を提供することを目的/1523974079770629/",
+    "https://www.facebook.com/100058276740760/photos/参院行政監視委員会の視察で独立行政法人統計センターへ佐伯理事長と岩佐総務省統計局長の挨拶と概要説明の後統計博物館やocr室での調査票のデータ化の作業状況や家計調/826090736010144/",
+    "https://www.facebook.com/gisajapan/posts/統計研究彙報第84号の論文募集について応募の締切り〇論文概要の事前提出令和8年8月31日月〇論文提出-令和8年9月30日水統計研究彙報は公的統計の改善及び発展並/1512296630938374/",
+    "https://www.facebook.com/kanagawa.tokei.ch/",
+    "https://www.facebook.com/gisajapan/posts/統計研究彙報令和３年度論文募集主催-総務省統計研究研修所応募締切-2021年10月末詳しくは-httpswwwstatgojptraining2kenkyu2-/6390696550972886/",
+    "https://www.facebook.com/KiyoharaKeikoMitaka/posts/文部科学省統計業務の質の向上に向けた専門家会議副主査に就任信頼される統計の確立を目指して3月27日文部科学省において統計業務の質の向上に向けた専門家会議の第1回/1398200245654199/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表） note 社長",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.researchgate.net/publication/282130677_tongjishiwuniokerurenjichekkunotamenowairezhijianchufangfa_A_Univariate_Outlier_Detection_Manual_for_Tabulating_Statistical_Survey",
+    "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "https://chuo-u.repo.nii.ac.jp/record/2003251/files/0453-4778_65_5-6_125-136.pdf",
+    "https://bellcurve.jp/statistics/course/12929.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "https://gmo-research.ai/research-column/outlier",
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://www.transparently.jp/stats3/textbook/eda-outliers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "https://www.researchgate.net/publication/282130677_tongjishiwuniokerurenjichekkunotamenowairezhijianchufangfa_A_Univariate_Outlier_Detection_Manual_for_Tabulating_Statistical_Survey",
+    "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "https://chuo-u.repo.nii.ac.jp/record/2003251/files/0453-4778_65_5-6_125-136.pdf",
+    "https://bellcurve.jp/statistics/course/12929.html",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/2jiriyou.htm",
+    "https://gmo-research.ai/research-column/outlier",
+    "https://www.emuyn.net/stats/manual/outlier_handling",
+    "https://surveroid.jp/mr-journal/statistics/50Nq8"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "statistical data editing range check skewed distribution log transform official statistics site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/data-science-approaches-quality-from-raw-dataset-yair-rajwan-ms-dsc",
+    "https://www.linkedin.com/posts/brian-lookabaugh-phd-372ab31a1_how-to-make-causal-inferences-with-time-series-activity-7424454134013194240-orm5",
+    "https://in.linkedin.com/in/niket-jadhav-6a0b4916b",
+    "https://www.linkedin.com/posts/wchanspss_spss-ibmbob-surveydata-activity-7505540938690236416-wkDC",
+    "https://ir.linkedin.com/in/mehdi-azizmohammad-looha-0307aa130",
+    "https://www.linkedin.com/pulse/complete-supervised-learning-workflow-from-problem-david-quayefio-m6i9f",
+    "https://in.linkedin.com/in/kazisana",
+    "https://mx.linkedin.com/in/jenifer-guzman",
+    "https://www.linkedin.com/in/shamelle-chotoki-datascienceprofessional",
+    "https://co.linkedin.com/in/enrique-ter-horst-6768144"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "用いた外れ値検出の適切な方法を解説するとともに、サービス産業動向調査のデータを用いてレンジ",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "In this paper, we explain how to prepare the editing bounds by means of robust statistics for data with a",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "めの方法論はこれまで整備されておらず、（算術）平均値と標準偏差を用いて上限値及び下",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "限値を設定するような、検出漏れを起こしやすい方法が使用される場合もある",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "このようなデータにおける外れ値検出のためのレンジの設定方法について、実務担当者に向",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "第４章では、第３章の外れ値検出方法を、サー",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "後に第５章では、本稿で述べる外れ値検出方法の可能性についてまとめている",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "質管理における、平均値から標準偏差の２倍・３倍といった管理基準の設定方法は広く知ら",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "め、さらにそれを可視化する方法として箱ひげ図（box plot またはbox-and-whisker plot）を",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "正規分布の前提を置くパラメトリックな方法は適用が限られる",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿で提案する方法は、分",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Survey Research Methods Section, American Statistical Association: 20–34.",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 高橋将宜, 伊藤孝之. (2013a).「経済調査における売上高の欠測値補定方法について",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "チェックのレンジの設定を行った事例を紹介する",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "unimodal and symmetric distribution (after transformation, if necessary). We also show the case of monthly sales",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "る調査結果を公表するためには、外れ値の影響を受けにくい適切な外れ値検出手法を用いな",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "上高データについて、この方法の事例として第４章で紹介する",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "いが、データ集計や分析の際にその存在が結果の精度を悪化させる可能性があるものを指す",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "例えば、上の９つのデータでは、６，７，８，９",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実際の統計調査データ、例えば売上高や資本金等の金額データは、右裾が長い歪んだ分布",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実例として、事業従事者１人当たりの売上高データを図７に示す",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.2 検証結果",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この二つの結果を比較すると、第３章２節で説明したように、図８に示す①の方法では、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ここでは上述Ａの結果を踏まえ、同じデータを使用して、分布の対称性を確保するために",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "修正された結果、このデータの場合は検出される外れ値は変わらないが、レンジの位置が上",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " エラーの可能性があり、調査結果に影響",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "適用可能性（ケース1）",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "適用可能性（ケース2）",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "りの可能性のあるデータを検出・修正して推計値が真値と乖離しないようにしている",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "数値データを用いた検証例を、第３章３節及び第４章１節で紹介する",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "案し、データの分布があらかじめ想定できない場合、順序統計量を基礎とした統計量（推定",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "値を採用することも避けながら、外れ値の影響を緩和することのできる頑健な推定手法を利",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "外れ値に頑健な中央値と四分位範囲を用いて、平均値と標準偏差を推定してレンジ設定す",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "て、第３章３節で示したレンジチェック方法の適用と検証を行う",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.1 検証方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "② 頑健な推定量（中央値及び四分位範囲）に基づくレンジ（対称分布用）",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4.2 検証結果",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Ｂ. ②の方法での分布の対称化による効果の検証",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 高橋(2013)にて検証",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 最終的な実用性検証として、経済センサ",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "させ、EMによりパラメータを推定し、補",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "分布モデルによる多変量外れ値検出法の検証」, 『製表技術参考資料23』, 独立行政",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統計研究彙報 第 72 号 2015 年 3 月 （41～54）",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査における調査データは、調査対象から得た情報が調査票等に記入される",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "府が実施する統計調査はデータ量が多いので、確認すべきデータの基準（レンジ：人手による審査を",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "†独立行政法人統計センター統計情報・技術部統計技術研究課",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公的統計調査の製表業務においては、収集された調査票情報を電子化し、その後集計作業",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査データは大抵の場合、 正規分布などの理論上の分布には従わない",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "出するためのものであり、最初から外れ値の存在が想定される統計調査データの外れ値検出",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計研究彙報 第 72 号 2015 年３月",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実際の統計調査において、そのような方法を適用するには二つの問題がある",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "まり頑健性のない統計量を使えば、その検出法は信頼できるものにはならない",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "経済統計学会関東支部7月例会",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1947年：総理庁統計局",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1949年：総理府統計局製表部",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "1984年：総務庁統計センター",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2001年：総務省統計センター",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査員の任命、",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 統計データエディティング(statistical",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 日本だけではなく、各国公的統計機関に",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 欧米諸国では、統計的手法に基づいた",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計データエディティングに関するワークセッション",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 欧州統計局(Eurostat)や国連工業開発",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 各国の統計機関において、各々の調査",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " イタリア国家統計局の開発したRパッケージ",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 統計的検定の第1種過誤と第2種過誤と同じ",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": " 不完全データを用いた統計分析が、完",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "施者が集計を行うが、集計前に調査票等の記入内容に誤りがないかなどの様々な審査が行われる",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一般的に、外れ値とは、データの大部分の傾向と異なるもので、必ずしも誤りとは限らな",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿の目的は、誤りの",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "らかの誤りを含む可能性が高いものを指す」こととする",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "よって偏ったり拡大したりすると、それにより外れ値検出に誤りを生じやすい",
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "経理項目の記入漏れ、記入誤りが発生",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "セットを統合するには、バイアスを修正",
+    "url": "https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T07:02:34.943915+00:00"
+}

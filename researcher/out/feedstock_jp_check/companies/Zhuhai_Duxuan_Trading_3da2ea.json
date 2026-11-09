@@ -1,0 +1,571 @@
+{
+ "name": "Zhuhai Duxuan Trading",
+ "aliases": [
+  "NAGA"
+ ],
+ "context": "フィラメント",
+ "researched_at": "2026-11-09T07:17:34.499683+00:00",
+ "official_url": "https://naga3dprint.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "[email protected]",
+    "url": "https://naga3dprint.com/",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "[email protected]",
+    "url": "https://naga3dprint.com/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "代理店網": [
+   {
+    "quote": "Consistent quality, custom formulations, and scalable OEM solutions for global brands and distributors.",
+    "url": "https://naga3dprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zhuhai Duxuan Trading Co., Ltd. combines material development, automated extrusion, digital production records, and flexible packaging capabilities to deliver consistent filament products for brands, distributors, and industrial customers worldwide.",
+    "url": "https://naga3dprint.com/about/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Send Inquiry By Email:",
+    "url": "https://naga3dprint.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Send Inquiry By Email:",
+    "url": "https://naga3dprint.com/about/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Company Overview - Zhuhai Duxuan Trading Co., Ltd. — Company Overview - Zhuhai Duxuan Trading Co., Ltd. Alibaba.com https://naga3d.en.alibaba.com > comp...",
+    "url": "https://naga3d.en.alibaba.com/company_profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "Company Overview - Zhuhai Duxuan Trading Co., Ltd. — Zhuhai Duxuan Trading Co., Ltd. is a professional enterprise specializing in Rubber & Plastics. Established in 2018, we operate a 10,000-30,000 square meters manufacturing facility. With dedicated R&D and Quality Control teams, we provide premium OEM services and export our high-quality products primarily to North and South America.",
+    "url": "https://naga3d.en.alibaba.com/",
+    "pass": 3
+   },
+   {
+    "quote": "zhuhai duxuan trading co ltd suppliers,exporters on 21food.com — zhuhai duxuan trading co ltd products directory and zhuhai duxuan trading co ltd products Catalog. B2B Marketplace for zhuhai duxuan trading co ltd suppliers, manufacturers,exporters, factories and global zhuhai duxuan trading co ltd buyers provided by 21Food.com.",
+    "url": "https://www.21food.com/show/zhuhai-duxuan-trading-co-ltd.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zhuhai Duxuan Trading Co., Ltd. | Exhibitor Formnext 2026 — Address Zhuhai Duxuan Trading Co., Ltd. Guangdong Zhuhai No. 55 Pingbei 2nd Road, Xiangzhou Unit 1404-D, Building 1, Rebirth Times Tower 519060 China",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/zhuhai-duxuan-trading-co-ltd.html",
+    "pass": 3
+   },
+   {
+    "quote": "NAGA – Golden Camel – Zhuhai Duxuan Trading Co. — NAGA is the filament manufacturing brand of Zhuhai Duxuan Trading Co., Ltd., based in Zhuhai, Guangdong, China, running its first extrusion line since 2015 and expanding into OEM production in 2018. The company now supplies more than 50 markets worldwide and completed a new “smart factory” in 2026 featuring over 30 extrusion lines, inline laser […]",
+    "url": "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Overview - Zhuhai Duxuan Trading Co., Ltd. — Zhuhai Duxuan Trading Co., Ltd. is a professional enterprise specializing in Rubber & Plastics. Established in 2018, we operate a 10,000-30,000 square meters manufacturing facility.",
+    "url": "https://naga3d.en.alibaba.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NAGA – Golden Camel – Zhuhai Duxuan Trading Co. — NAGA is the filament manufacturing brand of Zhuhai Duxuan Trading Co., Ltd., based in Zhuhai, Guangdong, China, running its first extrusion line since 2015 and expanding into OEM production in 2018.",
+    "url": "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zhuhai Golden Camel Technology Co., Ltd. and Zhuhai Duxuan ... Zhuhai Golden Camel Technology Co., Ltd. and Zhuhai Duxuan Trading Co., Ltd. 3D filaments factory",
+    "url": "https://www.linkedin.com/posts/晓娜-李-591379424_zhuhai-golden-camel-technology-co-ltd-activity-7488158806544248832-t8CJ",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://naga3dprint.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naga3dprint.com/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://naga3d.en.alibaba.com/company_profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.importgenius.com/suppliers/zhuhai-trading-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cnverify.com/company/Zhuhai-Xuan-De-Tang-Trading-Co-Ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global.dnp/en/group/dnp-trading/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naga3d.en.alibaba.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.21food.com/show/zhuhai-duxuan-trading-co-ltd.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/zhuhai-duxuan-trading-co-ltd.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japancentre.com/products/5156",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fantuanorder.com/zh-CN/storeGoods/wakame/us-1504351246/22446612",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gazaihanbai.jp/products/list/category_id/3070.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gamsgo.com/ja/shop/3aad41bd-4e1c-3090-bad5-1b3f6c92157c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.com/i/2251832847380311.html?gatewayAdapt=jpn2glo4itemAdapt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dnsednet.com/shopdetail/c0a9682084904",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=15348",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://order-customize.jp/product/category/112-566-5425-cnds",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://naga3d.en.alibaba.com/company_profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cnverify.com/company/Zhuhai-Xuan-De-Tang-Trading-Co-Ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technoplas.co.jp/en/company/jukai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.byokanehk.com/index.php/company-en/overseas-en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naga3d.en.alibaba.com/company_profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ykbridge.net/blog/how-to-find-a-distributor-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exporttojapan.co.uk/guide/routes-to-market/using-an-import-agent-distributor-or-re-seller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00546138/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00029233/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00246272/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Flex_Ltd.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naga3d.en.alibaba.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.com/company-ownership-lookup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/晓娜-李-591379424_zhuhai-golden-camel-technology-co-ltd-activity-7488158806544248832-t8CJ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zhuhai Duxuan Trading 代理店",
+   "results": [
+    "https://naga3d.en.alibaba.com/company_profile.html",
+    "https://www.importgenius.com/suppliers/zhuhai-trading-co-ltd",
+    "https://www.cnverify.com/company/Zhuhai-Xuan-De-Tang-Trading-Co-Ltd",
+    "https://www.global.dnp/en/group/dnp-trading/",
+    "https://www.qd-china.com/en/pro/detail/2509221414322",
+    "https://baike.baidu.com/en/item/Zhuhai%20Hengqin%20Zhumian%20Duty-Free%20Commodity%20Trading%20Co.%2C%20Ltd./5381653",
+    "https://booth.gdteonline.com/pc/zh/exhibitor/22d20000-b32c-2299-e785-08dc8481336f",
+    "https://www.byokanehk.com/index.php/company-jp/tbzh-jp/",
+    "https://mindup.co.jp/zh/distributors/",
+    "https://naga3d.en.alibaba.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Zhuhai Duxuan Trading 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://naga3d.en.alibaba.com/",
+    "https://www.21food.com/show/zhuhai-duxuan-trading-co-ltd.html",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/zhuhai-duxuan-trading-co-ltd.html",
+    "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "https://www.cnverify.com/company/Zhuhai-Dongxuan-Trading-Co-Ltd",
+    "https://aiqicha.baidu.com/company_basic_32495652963828",
+    "https://www.instagram.com/kpopusaonline/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zhuhai Duxuan Trading 日本 販売",
+   "results": [
+    "https://www.japancentre.com/products/5156",
+    "https://www.fantuanorder.com/zh-CN/storeGoods/wakame/us-1504351246/22446612",
+    "https://www.gazaihanbai.jp/products/list/category_id/3070.html",
+    "https://www.gamsgo.com/ja/shop/3aad41bd-4e1c-3090-bad5-1b3f6c92157c",
+    "https://shop.fo.gnavi.co.jp/12759/",
+    "https://bdolytics.com/jp/market/item/7960?page=237",
+    "https://trustvally.com/brands/japan/products",
+    "https://www.kkday.com/ja/product/827334?srsltid=AYCX9vLTJkl-4Rcckwl-3-Y6EhwLQhAB85QwrCGLb1bl5-in9QSwVJym",
+    "https://m.chinapp.com/tp/8197?brandId=155630",
+    "https://naga3d.en.alibaba.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Zhuhai Duxuan Trading フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://ja.aliexpress.com/i/33033695063.html",
+    "https://dnsednet.com/shopdetail/c0a9682084904",
+    "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=15348",
+    "https://order-customize.jp/product/category/112-566-5425-cnds",
+    "https://www.rettleecommercehub.com/?shop/detail/S565412041760.html",
+    "https://www.palinfocom.com/?shopdetail/T3576938160/",
+    "https://suretybondconnection.com/item/6004830747",
+    "https://www.minidachshundden.com/shopdetail/750c4327424670",
+    "https://www.tradexporters.com/shop/items/J311298046/",
+    "https://naga3d.en.alibaba.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Zhuhai Duxuan Trading Japan distributor",
+   "results": [
+    "https://naga3d.en.alibaba.com/company_profile.html",
+    "https://www.cnverify.com/company/Zhuhai-Xuan-De-Tang-Trading-Co-Ltd",
+    "https://www.technoplas.co.jp/en/company/jukai.html",
+    "https://www.byokanehk.com/index.php/company-en/overseas-en/",
+    "https://www.tc-v.com/pr/providerlist.aspx?pn=3&st=3",
+    "https://www.jumvea.or.jp/members/GlobalChiba-572",
+    "https://www.stacked.co.jp/",
+    "https://maijapan.com/about-us/",
+    "https://www.sktrading.jp/",
+    "https://naga3d.en.alibaba.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Zhuhai Duxuan Trading distributor Japan OR Japanese partner",
+   "results": [
+    "https://naga3d.en.alibaba.com/company_profile.html",
+    "https://www.ykbridge.net/blog/how-to-find-a-distributor-in-japan",
+    "https://exporttojapan.co.uk/guide/routes-to-market/using-an-import-agent-distributor-or-re-seller/",
+    "https://www.japan-partner.com/",
+    "https://japan-dev.com/blog/japanese-trading-companies",
+    "https://www.facebook.com/groups/858077179452370/posts/1287005619892855/",
+    "https://mindmelt.jp/insights/finding-distributor-japan",
+    "https://japanesedistributors.com/top-japanese-tools-distributors-importers/",
+    "https://www.facebook.com/groups/295270259354777/posts/714226287459170/",
+    "https://en.wikipedia.org/wiki/AIBO"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Zhuhai Duxuan Trading",
+   "results": [
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://music.amazon.co.jp/",
+    "https://www.amazon.co.jp/タカラトミー-トランスフォーマー-ctc技術実証機仕様-takara-tomy/dp/b0hq2t22vm",
+    "https://www.amazon.co.jp/【デジタル限定】豊島心桜-写真集-夏、ごちそうさま。-ワニブックス-デジタル写真集-ebook/dp/B0HK3TS8DJ"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Zhuhai Duxuan Trading",
+   "results": [
+    "https://www.monotaro.com/g/00546138/",
+    "https://www.monotaro.com/g/00029233/",
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/g/00246272/",
+    "https://www.monotaro.com/p/4947/2483/",
+    "https://www.monotaro.com/k/store/モニター+100インチ/",
+    "https://www.monotaro.com/g/00505398/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zhuhai Duxuan Trading employees revenue parent company",
+   "results": [
+    "https://en.wikipedia.org/wiki/Flex_Ltd.",
+    "https://naga3d.en.alibaba.com/",
+    "https://companydata.com/company-ownership-lookup/",
+    "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "https://www.qcc.com/firm/e8465760a16f5624978e52e9697e1c65.html",
+    "https://www.qcc.com/firm/76b661f6aa74846dfc65883c9e086b17.html",
+    "https://aiqicha.baidu.com/company_basic_32495652963828"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zhuhai Duxuan Trading",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/muratamika2021",
+    "https://note.com/tag/CVE-2026-109618",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zhuhai Duxuan Trading",
+   "results": [
+    "https://x.com/ExploreZhuhai",
+    "https://x.com/XuanTrade1/status/2110423659722813453",
+    "https://x.com/XuanTrade1/status/2109289774272176590",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/drgfromnyc/status/2117850084365025391",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/RyanAFournier/status/2117296789443240367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zhuhai Duxuan Trading",
+   "results": [
+    "https://www.linkedin.com/posts/晓娜-李-591379424_zhuhai-golden-camel-technology-co-ltd-activity-7488158806544248832-t8CJ",
+    "https://cn.linkedin.com/in/marco-kuo-5ab20b157",
+    "https://cn.linkedin.com/in/danny-lee-27184876",
+    "https://www.linkedin.com/pulse/pathways-prosperity-unveiling-zhuhais-industrial-cheung-h-f-jackie-sc6sc",
+    "https://hk.linkedin.com/in/joy-undefined-84a189436",
+    "https://in.linkedin.com/in/dhanaram-patel-057504201",
+    "https://jp.linkedin.com/pulse/デュアル自動染色機市場分析規模シェア動向予測2026年2033年予測cagr-72セグメンテーションと地域別分析を含む-umrwe"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zhuhai Duxuan Trading",
+   "results": [
+    "https://www.facebook.com/",
+    "https://www.facebook.com/hai.duxuan/",
+    "https://www.facebook.com/zhanfu.duxuan/",
+    "https://www.facebook.com/reel/699194286117271/",
+    "https://www.facebook.com/moxuan.trading/",
+    "https://www.facebook.com/mai.duxuan/",
+    "https://www.facebook.com/yhxjewellery/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zhuhai Duxuan Trading note 社長",
+   "results": [
+    "https://naga3d.en.alibaba.com/",
+    "https://www.cnverify.com/company/Zhuhai-Dongxuan-Trading-Co-Ltd",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/zhuhai-duxuan-trading-co-ltd.html",
+    "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "https://www.qcc.com/firm/e8465760a16f5624978e52e9697e1c65.html",
+    "https://www.qcc.com/firm/cbfc115fa9845a4fd50ecfe1532fd277.html",
+    "https://aiqicha.baidu.com/company_basic_32495652963828"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zhuhai Duxuan Trading X 投稿",
+   "results": [
+    "https://naga3d.en.alibaba.com/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/zhuhai-duxuan-trading-co-ltd.html",
+    "https://x.com/Zhuhai1912/status/2111484704079970417",
+    "https://www.21food.com/show/zhuhai-duxuan-trading-co-ltd.html",
+    "https://www.voxelmatters.directory/company/naga-golden-camel/",
+    "https://x.com/zhuhai007/status/2107508746494865792",
+    "https://x.com/Jarvist719/status/2119393314306961695"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

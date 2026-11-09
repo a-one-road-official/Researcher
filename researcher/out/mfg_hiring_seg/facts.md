@@ -1,4 +1,4 @@
-# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・39品目）
+# 製造業の採用コストと採用状況 — 企業規模・職種・業種・地域のセグメント別（事実のみ・40品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3080,3 +3080,88 @@
   - 「その他、自社で説明会や面接を実施する際の会場費、遠方からの応募者に対して支払う交通費、社員紹介制度（リファラル採用）で社員に支払うインセンティブ報酬、内定者懇親会の開催費用なども内部コストとして計上されます」（https://worksreview.worksjapan.co.jp/recruitment-activity/average_recruitmentcost）
   - 「株式会社マイナビの調査によると、2023年度の中途採用における実績平均は、2022年度と比較して増加しました」（https://worksreview.worksjapan.co.jp/recruitment-activity/average_recruitmentcost）
   - 「新卒採用における一人当たりの平均コストは、就職みらい研究所の「就職白書2023」によると、2022年度の実績で平均56.8万円となっています」（https://worksreview.worksjapan.co.jp/recruitment-activity/average_recruitmentcost）
+
+## 一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121）（job openings to applicants ratio by prefecture production occupations MHLW table）
+- 文脈：地域
+- 痛み・損（深さの印）：
+  - 「在職区分（離職理由）別 新規求職申込件数（実数）」（https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2）
+  - 「離職票はいつ届く？ 書き方、手続きや再発行のやり方」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「新卒・若手社員の心身の不調や離職・休職リスク、企業の健康支援に関する調査」（https://jinjibu.jp/news/detl/26717/）
+  - 「6月の内訳を見ると、求職理由別では「勤め先や事業の都合による離職」が増加し、「自発的な離職（自己都合）」は減少しました」（https://note.com/hirokimiyano/n/nf5b6f6180f0f）
+  - 「この時期は「人手不足倒産」という言葉が現実味を持って語られ、飲食店が人手不足で営業時間を短縮し、建設現場が職人を確保できずに工期が延びるといった現象が全国で起きていました」（https://note.com/hirokimiyano/n/nf5b6f6180f0f）
+- セグメント定義：
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.69倍、最低は大阪府の0.95倍、受理地別では、最高は東京都の1.69倍、最低は神奈川県の0.84倍となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.74倍、最低は大阪府の」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「都道府県別にみた有効求人倍率（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年4月号）｜労働政策研究・研修機構（JILPT）」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「この中から、都道府県別にみた有効求人倍率の結果」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「都道府県別の有効求人倍率は、受理地別と就業地別の2種類が公表されている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「図表1：都道府県別有効求人倍率（受理地別・就業地別）」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「都道府県別の有効求人倍率（季節調整値）は次の通りとなりました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.94倍、最低は神奈川県と沖縄県の1.08倍、受理地別では、最高は福井県の1.82倍、最低は神奈川県の0.91倍となりました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.02倍、最低は神奈川県の1.09倍、受理地別では、最高は福井県の1.91倍、最低は神奈川県の0.91倍となりました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.12倍、最低は沖縄県の1.07倍、受理地別では、最高は福井県の1.97倍、最低は神奈川県の0.92倍となりました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.04倍、最低は沖縄県の1.04倍、受理地別では、最高は福井県の1.89倍、最低は神奈川県の0.92倍となりました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.10倍、最低は沖縄県の1.01倍、受理地別では、最高は福井県の1.93倍、最低は神奈川県と沖縄県の0.91倍となりました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.10倍、最低は沖縄県の0.99倍、受理地別では、最高は福井県の1.89倍、最低は神奈川県と沖縄県の0.90倍となりました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「全国平均の有効求人倍率が1.39倍となるなか、都道府県別で比較してみましょう」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+- 採用単価：
+  - 「有料職業紹介業界においても、いわゆる今までは低単価というジャンルの一律70万円以下の紹介手数料で紹介してきた求人は急速にクローズしており、このトレンドは緊急事態宣言、外出自粛が本格化した4月にはより顕著になると予測しています」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します」（https://queria.io/reports/queria/job-opening-ratio-gap）
+  - 「ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「これは、1人あたり2件の求人があるということを指します」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「この場合、1人あたり1件にも満たない求人しかないため、仕事を探す人が多く、求人が少ない状況です」（https://tenshoku.mynavi.jp/knowhow/caripedia/77/）
+  - 「仕事を探している人1人あたりに、エンジニアの求人がいくつあるかを表します」（https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/）
+  - 「有効求人倍率とは、全国のハローワークに登録されている求職者1人あたりに何件の求人があるかを示す指標です」（https://note.com/hirokimiyano/n/nf5b6f6180f0f）
+  - 「2. 有効求人倍率とは、求職者1人あたりの求人件数」（https://limo.media/articles/-/136409）
+- 年間採用費：
+  - 「有料職業紹介業界においても、いわゆる今までは低単価というジャンルの一律70万円以下の紹介手数料で紹介してきた求人は急速にクローズしており、このトレンドは緊急事態宣言、外出自粛が本格化した4月にはより顕著になると予測しています」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「むしろ2019年の「有効求人倍率1.63倍」という値が、「かなりのバブル、異常なほどの売り手市場」であったと考えると、有効求人倍率の値と市場の伸びをみても、まだまだ十分に有料職業紹介手数料収入を伸ばす余地は十分にあると考えています」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+- 採用経路：
+  - 「厚生労働省では、公共職業安定所（ハローワーク）における求人、求職、就職の状況をとりまとめ、求人倍率などの指標を作成し、一般職業紹介状況として毎月公表しています」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「ハローワークインターネットサービスの機能拡充に伴い、令和3年9月以降の数値には、ハローワークに来所せず、オンライン上で求職登録した求職者数や、求職者がハローワークインターネットサービスの求人に直接応募した就職件数等が含まれている」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「厚生労働省では、公共職業安定所（ハローワーク）における求人、求職、就職の状況をとりまとめ、求人倍率などの指標を作成し、一般職業紹介状況として毎月公表しています」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「ハローワークインターネットサービスの機能拡充に伴い、令和3年9月以降の数値には、ハローワークに来所せず、オンライン上で求職登録した求職者数や、求職者がハローワークインターネットサービスの求人に直接応募した就職件数等が含まれている」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「受理地別有効求人倍率とは、各都道府県内のハローワークが受理した求人数を用いて算出された有効求人倍率、就業地別有効求人倍率とは、実際に就業する都道府県ごとに集計した求人数を用いて算出された有効求人倍率である」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「受理地別、就業地別ともに有効求職者数は、求職を受理したハローワークが所在する都道府県単位で集計されている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「【過去分】一般職業紹介状況｜人材紹介応援通信 by Crowd Agent」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「有効求人倍率（受理地別値）は各都道府県内のハローワークが受理した求人数を集計して算出していますが、企業の中には本社が所在するハローワークに全国の各支社の求人を一括して提出している場合もあることから、求人を受理したハローワークの所在する都道府県と実際の就業地となる都道府県が異なる場合があるためです」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「※受理地別と就業地別の求人倍率に差が生じる理由：現在公表している有効求人倍率（受理地別値）が各都道府県内のハローワークが受理した求人数を集計して算出しているのに対し、企業の中には、本社が所在するハローワークに全国の各支社の求人を一括して提出している場合もあることから、求人を受理したハローワークの所在する都道府県と実際の就業地となる都道府県が異なる場合があるため」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「先日公開した、人材紹介会社の実態調査でも」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「約84%の人材紹介会社が求人数が減少し」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「▼【83.4%が減少と回答】コロナ禍における、人材紹介会社への求人数の影響とは？は」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「【83.4%が減少と回答】コロナ禍における、人材紹介会社への求人数の影響とは？ – 人材紹介応援ブログ｜Crowd Agent」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「この未曾有の状況下で、同業他社は影響を受けているのか、もしくは変わらずに人材紹介を行えているのか、ご不安に思われている方も多いのではないでしょうか？ 人材紹介応援ブログを運営するクラウ…」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「リーマンショックなどの不況の時にも、着実に成果を出し続けていた人材紹介会社は多くいらっしゃいます」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+- 充足・欠員：
+  - 「令和8年7月の有効求人倍率は1.18倍で、前月と同水準」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「令和8年7月の数値をみると、有効求人倍率（季節調整値）は1.18倍となり、前月と同水準となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「正社員有効求人倍率（季節調整値）は1.00倍となり、前月と同水準となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.69倍、最低は大阪府の0.95倍、受理地別では、最高は東京都の1.69倍、最低は神奈川県の0.84倍となりました」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「文中の正社員有効求人倍率は正社員の月間有効求人数をパートタイムを除く常用の月間有効求職者数で除して算出しているが、パートタイムを除く常用の月間有効求職者には派遣労働者や契約社員を希望する者も含まれるため、厳密な意味での正社員有効求人倍率より低い値となる」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「令和8年5月の有効求人倍率は1.17倍で、前月と比べて0.01ポイント低下」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「令和8年5月の数値をみると、有効求人倍率（季節調整値）は1.17倍となり、前月を0.01ポイント下回りました」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「正社員有効求人倍率（季節調整値）は0.99倍となり、前月と同水準となりました」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.74倍、最低は大阪府の」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「文中の正社員有効求人倍率は正社員の月間有効求人数をパートタイムを除く常用の月間有効求職者数で除して算出しているが、パートタイムを除く常用の月間有効求職者には派遣労働者や契約社員を希望する者も含まれるため、厳密な意味での正社員有効求人倍率より低い値となる」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「都道府県別にみた有効求人倍率（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年4月号）｜労働政策研究・研修機構（JILPT）」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「この中から、都道府県別にみた有効求人倍率の結果」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「求人倍率とは求職者に対する求人数の割合をいい、「有効求人倍率」は「月間有効求人数」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「都道府県別の有効求人倍率は、受理地別と就業地別の2種類が公表されている」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「受理地別有効求人倍率とは、各都道府県内のハローワークが受理した求人数を用いて算出された有効求人倍率、就業地別有効求人倍率とは、実際に就業する都道府県ごとに集計した求人数を用いて算出された有効求人倍率である」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+- 調査主体・時期：
+  - 「報道発表資料［PDF形式：675KB］」（https://www.mhlw.go.jp/stf/newpage_75707.html）
+  - 「報道発表資料［PDF形式：672KB］」（https://www.mhlw.go.jp/stf/newpage_74004.html）
+  - 「労働に関する総合的な調査研究を実施し、その成果を広く提供しています」（https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html）
+  - 「※参照：令和7年10月31日 厚生労働省発表、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「本記事では、厚生労働省が発表した一般職業紹介状況についてお伝えしました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「※参照：令和7年10月3日 厚生労働省発表、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「※参照：令和7年8月29日 厚生労働省発表、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「※参照：令和7年8月1日 厚生労働省発表、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「※参照：令和7年6月27日 厚生労働省発表、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「※参照：令和7年5月30日 厚生労働省発表、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「令和6年度の一般職業紹介状況について」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「※参照：令和7年5月2日 厚生労働省発表、」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「一般職業紹介状況(令和7年3月分及び令和6年度分)について」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「令和6年度の一般職業紹介状況を振り返ると、有効求人倍率は平均1.25倍となり、前年度の1.29倍を0.04ポイント下回りました」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）
+  - 「また、令和6年度の有効求人数は前年度に比べて3.0％減少しましたが、有効求職者数は逆に0.2％増加しています」（https://media.crowd-agent.com/2025/12/03/joboffer_ratio/）

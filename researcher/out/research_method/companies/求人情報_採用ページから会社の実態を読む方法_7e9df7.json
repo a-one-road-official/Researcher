@@ -8,8 +8,142 @@
  ],
  "context": "企業",
  "kind": "market",
- "researched_at": "2026-11-08T21:33:56.810236+00:00",
+ "researched_at": "2026-11-09T07:25:29.560133+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "How to read a job description before applying",
+    "url": "https://vurzel.com/tools/jd-analyzer",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to analyze a job description before you apply",
+    "url": "https://vurzel.com/tools/jd-analyzer",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "framework to programmatically label technology mentions against a client-specific taxonomy. This approach moves beyond brittle keyword matching to a model that understands context—distinguishing a company",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "What is the evaluation framework for measuring model accuracy before deployment?",
+    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Tool #9: The Priority Decoder Framework",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Not all requirements in a job description carry equal weight in the hiring decision. This framework helps you identify what truly matters.",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "To maximize the value of these tools, follow this step-by-step process for each job you apply to:",
+    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Read Between the Lines of Job Postings",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step‑by‑Step Guide to Reading Between the Lines",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 1: Dissect the Job Title",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 2: Scrutinize Required Skills",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 3: Look for Soft‑Skill Hints",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 4: Decode Company Culture Clues",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step 5: Identify Implicit Qualifications",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", and cultural hints that can make or break your application. This guide shows you how to read between the lines of job postings, decode hidden signals, and craft a targeted resume that stands out—using both proven strategies and AI‑powered tools from Resumly.",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "“Familiarity with X framework”",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Sometimes a posting mentions “experience with Agile methodologies” without listing it as a requirement. This often means the team works in Agile.",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Include any implied tools or methodologies.",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Step‑by‑Step Interpretation",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to Analyze Job Postings for Hidden Signals – A Complete Guide",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Discover the secret cues hidden in job ads and learn a step‑by‑step system to decode them, so you can craft a",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "how to generate fresh resume ideas from job description data",
+    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "Training a Technographic Inference Engine from Job Postings and Public Filings",
@@ -145,140 +279,6 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to read a job description before applying",
-    "url": "https://vurzel.com/tools/jd-analyzer",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to analyze a job description before you apply",
-    "url": "https://vurzel.com/tools/jd-analyzer",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "framework to programmatically label technology mentions against a client-specific taxonomy. This approach moves beyond brittle keyword matching to a model that understands context—distinguishing a company",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "What is the evaluation framework for measuring model accuracy before deployment?",
-    "url": "https://inferensys.com/train/autonomous-b2b-sales-sdr-agents-for-enrichment-and-engagement/firmographic-and-technographic-data-enrichment-models/training-a-technographic-inference-engine-from-job-postings-and-public-filings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Tool #9: The Priority Decoder Framework",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not all requirements in a job description carry equal weight in the hiring decision. This framework helps you identify what truly matters.",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "To maximize the value of these tools, follow this step-by-step process for each job you apply to:",
-    "url": "https://blog.theinterviewguys.com/the-hidden-job-description-analyzer/",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Read Between the Lines of Job Postings",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step‑by‑Step Guide to Reading Between the Lines",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 1: Dissect the Job Title",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 2: Scrutinize Required Skills",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 3: Look for Soft‑Skill Hints",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 4: Decode Company Culture Clues",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step 5: Identify Implicit Qualifications",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", and cultural hints that can make or break your application. This guide shows you how to read between the lines of job postings, decode hidden signals, and craft a targeted resume that stands out—using both proven strategies and AI‑powered tools from Resumly.",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“Familiarity with X framework”",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Sometimes a posting mentions “experience with Agile methodologies” without listing it as a requirement. This often means the team works in Agile.",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Include any implied tools or methodologies.",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Step‑by‑Step Interpretation",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to Analyze Job Postings for Hidden Signals – A Complete Guide",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Discover the secret cues hidden in job ads and learn a step‑by‑step system to decode them, so you can craft a",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "how to generate fresh resume ideas from job description data",
-    "url": "https://www.resumly.ai/blog/how-to-read-between-the-lines-of-job-postings",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
   ]
  },
  "figures": {},
@@ -300,17 +300,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/robinson_0822/n/n57139c8a158f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/yutaro_ishii/n/n657611c8a7c4",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/lucky_zebra337/n/na8522c36ffae",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/robinson_0822/n/n57139c8a158f",
     "status": "ok",
     "method": "http"
    },
@@ -330,7 +330,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/na66380adc503?gs=5b1b55a2ea10b229f96fb4277ea84619",
+    "url": "https://note.jp/n/na66380adc503?gs=2ddbbe18b4ca36731b7703c88a4ede8b",
     "status": "ok",
     "method": "http"
    },
@@ -370,8 +370,8 @@
     "method": "http"
    },
    {
-    "url": "https://n-works.link/blog/marketing/report-questionnaire-16",
-    "status": "ok",
+    "url": "https://kizuna-group.jp/nestlab/topic-recruit-jobsearch.html",
+    "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
@@ -380,12 +380,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://baigie.me/recruit-blog/2025/03/12/newgrad-survey-2024/",
+    "url": "https://nalevi.mynavi.jp/seeker-trends/21704/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nalevi.mynavi.jp/seeker-trends/21704/",
+    "url": "https://baigie.me/recruit-blog/2025/03/12/newgrad-survey-2024/",
     "status": "ok",
     "method": "http"
    },
@@ -395,12 +395,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.cinc-j.co.jp/service/analytics/column/ai-research-2608/",
+    "url": "https://goworkship.com/magazine/hr-recruitment-site-examples-guide/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://local-saiyo.jp/blog/recruitment-site/design/p5229/",
+    "url": "https://www.cinc-j.co.jp/service/analytics/column/ai-research-2608/",
     "status": "ok",
     "method": "http"
    },
@@ -425,12 +425,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/posts/bonnie-dilber_20-of-job-postings-are-fake-at-least-according-activity-7285015169435385857-2nEv",
+    "url": "https://www.linkedin.com/company/infer-solutions",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://www.linkedin.com/posts/meganlieu_psa-companies-are-posting-jobs-they-never-activity-7396196693823877121-cMAP",
+    "url": "https://www.quora.com/How-do-job-posting-websites-get-the-information-about-job-openings-from-many-companies",
     "status": "robots_disallowed",
     "method": ""
    }
@@ -443,21 +443,19 @@
     "https://note.com/lucky_daphne262/n/n0aedd82619a8",
     "https://note.com/ready_prawn3804/n/n5ee232f6341e",
     "https://note.com/sota_career/n/n93ea578f39e8",
+    "https://note.com/robinson_0822/n/n57139c8a158f",
     "https://note.com/yutaro_ishii/n/n657611c8a7c4",
     "https://note.com/lucky_zebra337/n/na8522c36ffae",
-    "https://note.com/robinson_0822/n/n57139c8a158f",
-    "https://note.com/35masataka/n/na7c4ce36e2b1",
     "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/35masataka/n/na7c4ce36e2b1",
     "https://note.com/try_note_1026/n/n87f70ef36581",
-    "https://note.com/jolly_lynx2984/n/ndabde89cbd8d"
+    "https://note.com/jinzaikakuho/n/n9d76f814cbbe"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 39
+   "n_hits": 17
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 note",
@@ -471,7 +469,7 @@
     "https://mizusaki-inc.com/knowledge/article93",
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
     "https://note.com/try_note_1026/n/n87f70ef36581",
-    "https://note.com/imprecruitment/n/n82254ebe4955"
+    "https://jinzai-tenshokuroot.jp/column/362/"
    ],
    "engines": [
     "ddgs:google",
@@ -487,11 +485,29 @@
     "https://jinjibu.jp/news/detl/24336/",
     "https://baigie.me/recruit-blog/2024/10/09/midcareer-survey-2024/",
     "https://jp.indeed.com/career-advice/finding-a-job/the-complete-guide-to-researching-a-company",
-    "https://n-works.link/blog/marketing/report-questionnaire-16",
     "https://kizuna-group.jp/nestlab/topic-recruit-jobsearch.html",
     "https://prtimes.jp/main/html/rd/p/000000280.000140336.html",
     "https://nalevi.mynavi.jp/seeker-trends/21704/",
-    "https://job.rikunabi.com/contents/company/21862/"
+    "https://n-works.link/blog/marketing/report-questionnaire-16"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "求人情報・採用ページから会社の実態を読む方法 事例",
+   "results": [
+    "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
+    "https://nalevi.mynavi.jp/seeker-trends/21704/",
+    "https://baigie.me/recruit-blog/2025/03/12/newgrad-survey-2024/",
+    "https://coosy.co.jp/blog/recruiting-site-data/",
+    "https://goworkship.com/magazine/hr-recruitment-site-examples-guide/",
+    "https://www.cinc-j.co.jp/service/analytics/column/ai-research-2608/",
+    "https://n-works.link/blog/marketing/report-questionnaire-16",
+    "https://www.funnypro.net/officialblog/article/knowhow/867/",
+    "https://noside-ltd.co.jp/blog/recruit-data/",
+    "https://jinzai-tenshokuroot.jp/column/362/"
    ],
    "engines": [
     "ddgs:yahoo",
@@ -500,41 +516,21 @@
    "n_hits": 15
   },
   {
-   "query": "求人情報・採用ページから会社の実態を読む方法 事例",
-   "results": [
-    "https://www.mhlw.go.jp/content/11600000/001319267.pdf",
-    "https://baigie.me/recruit-blog/2025/03/12/newgrad-survey-2024/",
-    "https://nalevi.mynavi.jp/seeker-trends/21704/",
-    "https://coosy.co.jp/blog/recruiting-site-data/",
-    "https://www.cinc-j.co.jp/service/analytics/column/ai-research-2608/",
-    "https://local-saiyo.jp/blog/recruitment-site/design/p5229/",
-    "https://goworkship.com/magazine/hr-recruitment-site-examples-guide/",
-    "https://one-group.jp/humanresource/use/recruit_message.html",
-    "https://mizusaki-inc.com/knowledge/article103",
-    "https://shinsotu.com/就活で企業のホームページを徹底分析！見るべき/"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
    "query": "infer company from job postings",
    "results": [
     "https://www.indeed.com/",
     "https://www.infersol.com/career-at-infer-solutions/",
     "https://www.reddit.com/r/technicalwriting/comments/16lzcpw/why_are_some_jobs_listed_on_a_jobs_board_but_not/",
     "https://www.ycombinator.com/companies/infer/jobs",
-    "https://www.linkedin.com/posts/bonnie-dilber_20-of-job-postings-are-fake-at-least-according-activity-7285015169435385857-2nEv",
-    "https://www.linkedin.com/posts/meganlieu_psa-companies-are-posting-jobs-they-never-activity-7396196693823877121-cMAP",
-    "https://builtin.com/",
-    "https://www.facebook.com/Indeed/videos/did-you-know-almost-35-million-employers-use-indeed-thats-a-lot-of-job-listings-/1006084177848676/",
+    "https://www.linkedin.com/company/infer-solutions",
+    "https://www.youtube.com/watch?v=xqEdPQEvxxk",
+    "https://www.quora.com/How-do-job-posting-websites-get-the-information-about-job-openings-from-many-companies",
+    "https://theirstack.com/en/job-lookup",
     "https://vurzel.com/tools/jd-analyzer",
     "https://www.wrk.com/blog/automate-extraction-company-info-job-postings"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -546,18 +542,18 @@
     "https://note.com/ready_prawn3804/n/n5ee232f6341e",
     "https://note.com/sota_career/n/n93ea578f39e8",
     "https://note.com/lucky_zebra337/n/na8522c36ffae",
-    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
     "https://note.com/35masataka/n/na7c4ce36e2b1",
     "https://note.com/try_note_1026/n/n87f70ef36581",
-    "https://note.com/jinzaikakuho/n/n9d76f814cbbe",
-    "https://note.com/ehimesr/n/nd28143dbff2f",
-    "https://note.com/chusho_yosuke/n/n3a7962a1e9b8"
+    "https://note.com/jolly_lynx2984/n/ndabde89cbd8d",
+    "https://note.com/fond_phlox8789/n/nb7e02d008b33",
+    "https://note.com/try_note_1026/n/nb4a79ad783ba",
+    "https://note.com/ehimesr/n/nd28143dbff2f"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 17
   },
   {
    "query": "site:x.com 求人情報・採用ページから会社の実態を読む方法",
@@ -567,16 +563,17 @@
     "https://x.com/nocompany_jp",
     "https://x.com/CSA_recruit",
     "https://x.com/MOJ_IMMI/all?lang=bg",
-    "https://x.com/ca_tec_des",
     "https://x.com/morimoto_region",
-    "https://x.com/OpenWork_JP",
+    "https://x.com/ca_tec_des",
     "https://x.com/and_shin",
+    "https://x.com/OpenWork_JP",
     "https://x.com/dossun_jack"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   },
   {
    "query": "site:linkedin.com 求人情報・採用ページから会社の実態を読む方法",
@@ -588,15 +585,15 @@
     "https://jp.linkedin.com/in/%E5%81%A5%E4%BB%8B-%E8%8F%8A%E7%94%B0-a3a192149",
     "https://jp.linkedin.com/company/oneper-inc",
     "https://jp.linkedin.com/company/shljapan",
+    "https://jp.linkedin.com/company/talisman-corporation",
     "https://jp.linkedin.com/in/mkuroda/ja",
-    "https://jp.linkedin.com/in/yusuke-ninomiya-964a85185",
-    "https://jp.linkedin.com/in/masaya-nagamine"
+    "https://jp.linkedin.com/company/purosi"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com 求人情報・採用ページから会社の実態を読む方法",
@@ -614,10 +611,9 @@
    ],
    "engines": [
     "ddgs:google",
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 30
+   "n_hits": 17
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 note 社長",
@@ -631,27 +627,27 @@
     "https://saiyo.migi-nanameue.co.jp/posts-1/note_recruit/",
     "https://www.help-note.com/hc/ja/articles/33937437714969-note%E3%81%AB%E6%B1%82%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%95%E3%81%9B%E3%82%8B-%E9%80%A3%E6%90%BA%E3%81%A7%E3%81%8D%E3%82%8B%E6%8E%A1%E7%94%A8%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%B8%80%E8%A6%A7-ATS%E9%80%A3%E6%90%BA",
     "https://biz.note.com/n/ne042982856d1",
-    "https://hatarakutte-sugoi.com/2025/05/15/post-5237/"
+    "https://jinzai-tenshokuroot.jp/column/362/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 19
+   "n_hits": 16
   },
   {
    "query": "求人情報・採用ページから会社の実態を読む方法 X 投稿",
    "results": [
     "https://nanairoinc.co.jp/column/x-recruitment-activities/",
-    "https://sharefull.com/content/business/20188/",
     "https://whom-hr.co.jp/uncategorized/recruitment-sns/",
+    "https://sharefull.com/content/business/20188/",
     "https://www.wantedly.com/hiringeek/recruit/twitter/",
     "https://ats.atcompany.jp/recruiting/2589/",
-    "https://seisyunkouken.com/threads-recruitment-effects/",
     "https://hypex.jp/articles/twitter-saiyo",
+    "https://seisyunkouken.com/threads-recruitment-effects/",
     "https://freejob.work/content/t0082/",
     "https://ulforce-one.co.jp/blog/3209/",
-    "https://media.boosttech.jp/sns/x-corporate-operation-guide/"
+    "https://snsdaikou-hikaku.com/x/"
    ],
    "engines": [
     "ddgs:google",
@@ -668,16 +664,16 @@
     "https://www.linkedin.com/company/infer-inc-",
     "https://www.linkedin.com/pulse/how-get-job-alerts-from-any-companys-careers-page-before-everyone-z1lcc",
     "https://www.linkedin.com/posts/jordanmazer_most-jobs-arent-posted-on-linkedin-heres-activity-7381330182722408448-FfLp",
-    "https://www.linkedin.com/posts/jordancarver_most-people-filter-linkedin-jobs-to-past-activity-7457430699713929216-pKmv",
     "https://www.linkedin.com/top-content/recruitment-hr/job-posting-optimization/",
     "https://www.linkedin.com/posts/debashish-ghatak_ai-inference-engineer-is-the-hottest-title-activity-7519939792273534976-LHtW",
-    "https://www.linkedin.com/top-content/career/job-search-strategies/how-to-find-tech-jobs-on-linkedin/"
+    "https://www.linkedin.com/top-content/career/job-search-strategies/how-to-find-tech-jobs-on-linkedin/",
+    "https://www.linkedin.com/jobs/causal-inference-jobs"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   }
  ],
  "missing": {
@@ -685,6 +681,6 @@
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 23,
+ "runs": 24,
  "first_researched_at": "2026-11-05T04:38:24.140781+00:00"
 }

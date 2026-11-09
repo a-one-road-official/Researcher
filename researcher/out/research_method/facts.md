@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・278品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・284品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3480,7 +3480,7 @@
   - 「. One account reaches 100+ third-party data sources, OneScan runs your input across the sources you choose and keeps attribution on every result so you can grade each provider properly, Cases in Forensic Mode keep the search history behind every grade, shared team Cases make calibration easy, and SargeBot can draft a PDF report that you verify, grade and sign.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「OSINT investigation guides, case studies and tooling deep-dives from the UserSearch team.」（https://usersearch.com/resources/intel-hub/blog/admiralty-code-osint-source-grading/）
   - 「Here are some examples of Admiralty Code ratings and subsequent actions to be taken:」（https://kravensecurity.com/source-reliability-and-information-credibility/）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
 
 ## e-Stat・統計の探し方の実務家の書き手（元自治体職員・統計の専門家の note とブログ）（e-Stat practical search techniques statistical code metadata notes）
 - 文脈：探し先・書き手
@@ -12828,11 +12828,11 @@
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## データ報道の表計算の点検と検証の手引き（GIJN・DataJournalism.com・ethosrisk の OSINT の実務。前回 WebFetch 不達の本文を取る）（data journalism spreadsheet checks verification handbook OSINT best practices）
 - 文脈：突き合わせ
@@ -15500,6 +15500,328 @@
   - 「Claudeのコメント: アウラキとの接触は、国外の過激派の宣伝がオンライン経由で軍の内部者に届いた初期の事例であり、軍の内部脅威対策が情報空間での働きかけの把握と切り離せないことを改めて示している」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「Claudeのコメント: 2025年のレアアース輸出規制が残した報復への恐れが、EUの関税判断と加盟国の足並みを先回りで縛っており、経済的威圧は発動しなくても抑止として働き続けることを示す事例である」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
   - 「サンフランシスコ郡上位裁判所は2026年2月、OpenAIへの12件の訴訟を「In re: ChatGPT Product Liability Cases」に併合した」（https://note.com/ichi_twnovel/n/nf3812ef43dcb）
+
+## 統計調査の審査（レンジチェック・エディティング）の実務（統計センター・統計研究彙報・対数変換してからの範囲・外れ値は誤りとは限らない・公的統計の製表）（statistical data editing range check skewed distribution log transform official statistics）
+- 文脈：集計
+- 手順・やり方：
+  - 「統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「用いた外れ値検出の適切な方法を解説するとともに、サービス産業動向調査のデータを用いてレンジ」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「In this paper, we explain how to prepare the editing bounds by means of robust statistics for data with a」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「めの方法論はこれまで整備されておらず、（算術）平均値と標準偏差を用いて上限値及び下」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「限値を設定するような、検出漏れを起こしやすい方法が使用される場合もある」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「このようなデータにおける外れ値検出のためのレンジの設定方法について、実務担当者に向」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「第４章では、第３章の外れ値検出方法を、サー」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「後に第５章では、本稿で述べる外れ値検出方法の可能性についてまとめている」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「質管理における、平均値から標準偏差の２倍・３倍といった管理基準の設定方法は広く知ら」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実際の統計調査において、そのような方法を適用するには二つの問題がある」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「め、さらにそれを可視化する方法として箱ひげ図（box plot またはbox-and-whisker plot）を」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「正規分布の前提を置くパラメトリックな方法は適用が限られる」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿で提案する方法は、分」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+- 突き合わせ・推定：
+  - 「ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「りの可能性のあるデータを検出・修正して推計値が真値と乖離しないようにしている」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「数値データを用いた検証例を、第３章３節及び第４章１節で紹介する」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「案し、データの分布があらかじめ想定できない場合、順序統計量を基礎とした統計量（推定」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「値を採用することも避けながら、外れ値の影響を緩和することのできる頑健な推定手法を利」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「外れ値に頑健な中央値と四分位範囲を用いて、平均値と標準偏差を推定してレンジ設定す」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「て、第３章３節で示したレンジチェック方法の適用と検証を行う」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「4.1 検証方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「② 頑健な推定量（中央値及び四分位範囲）に基づくレンジ（対称分布用）」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「4.2 検証結果」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「Ｂ. ②の方法での分布の対称化による効果の検証」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「 高橋(2013)にて検証」（https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf）
+  - 「 最終的な実用性検証として、経済センサ」（https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf）
+  - 「させ、EMによりパラメータを推定し、補」（https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf）
+- 一次情報の探し方：
+  - 「統計研究彙報 第 72 号 2015 年 3 月 （41～54）」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査における調査データは、調査対象から得た情報が調査票等に記入される」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「府が実施する統計調査はデータ量が多いので、確認すべきデータの基準（レンジ：人手による審査を」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「†独立行政法人統計センター統計情報・技術部統計技術研究課」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「野呂竜夫、和田かず美：統計実務におけるレンジチェックのための外れ値検出方法」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「公的統計調査の製表業務においては、収集された調査票情報を電子化し、その後集計作業」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査データは大抵の場合、 正規分布などの理論上の分布には従わない」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「出するためのものであり、最初から外れ値の存在が想定される統計調査データの外れ値検出」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計研究彙報 第 72 号 2015 年３月」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「倍あるいは３倍離れた値をレンジと考えることは、統計学的に自然な方法である」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実際の統計調査において、そのような方法を適用するには二つの問題がある」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「まり頑健性のない統計量を使えば、その検出法は信頼できるものにはならない」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+- 失敗・落とし穴：
+  - 「施者が集計を行うが、集計前に調査票等の記入内容に誤りがないかなどの様々な審査が行われる」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「統計調査データにおいては、 記入誤りや入力誤りあるいは間違いではないが特異な値など、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「一般的に、外れ値とは、データの大部分の傾向と異なるもので、必ずしも誤りとは限らな」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿の目的は、誤りの」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「らかの誤りを含む可能性が高いものを指す」こととする」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「よって偏ったり拡大したりすると、それにより外れ値検出に誤りを生じやすい」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「経理項目の記入漏れ、記入誤りが発生」（https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf）
+  - 「セットを統合するには、バイアスを修正」（https://www.nstac.go.jp/files/static/services/society_paper/25_02_01.pdf）
+- 実例：
+  - 「チェックのレンジの設定を行った事例を紹介する」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「unimodal and symmetric distribution (after transformation, if necessary). We also show the case of monthly sales」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「ビス産業動向調査の調査票データを用いて実際に検証を行った結果について示している」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「れており、これが統計調査データにおける外れ値検出に流用されるケースがよくみられるが、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「る調査結果を公表するためには、外れ値の影響を受けにくい適切な外れ値検出手法を用いな」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「上高データについて、この方法の事例として第４章で紹介する」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「いが、データ集計や分析の際にその存在が結果の精度を悪化させる可能性があるものを指す」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「例えば、上の９つのデータでは、６，７，８，９」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実際の統計調査データ、例えば売上高や資本金等の金額データは、右裾が長い歪んだ分布」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「実例として、事業従事者１人当たりの売上高データを図７に示す」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「4.2 検証結果」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「この二つの結果を比較すると、第３章２節で説明したように、図８に示す①の方法では、」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「ここでは上述Ａの結果を踏まえ、同じデータを使用して、分布の対称性を確保するために」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「修正された結果、このデータの場合は検出される外れ値は変わらないが、レンジの位置が上」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+  - 「本稿で提案している方法は、 サービス産業動向調査を事例として検証を行ったが、この方」（https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf）
+
+## データ報道の手順と失敗例（分子と分母の年をそろえる・最新の版を使う・確かめた範囲を書く・GIJN・日本のデータジャーナリズム）（data journalism workflow mistakes denominator year latest data verification）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「<p>Sorting in Google Sheets is <a href="https://www.youtube.com/watch?v=7nwp0fYm99w&amp;list=PLv9Pf9aNgemt61gjKQaYZHjvZlVp4OANq&amp;index=6">surprisingly straightforward</a> — and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「— and is even helped by pop-up suggestions from the program — but it requires a step by step sequence on the Sheet.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「How to interrogate AI regulations」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 失敗・落とし穴：
+  - 「<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data <em>not</em> tell you?</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「<p>“Not paying attention to the top left corner is the easiest mistake you will make, and it can end careers,” warns Thompson. “You want to always keep your data tied to other lines and rows, so you need to highlight the whole kit-and-caboodle. Don’t ever sort only a single column; always use the top left hand corner — it should be like tying your shoes.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“Every journalist will make a mistake — it’s all about being smart about making sure you never make that mistake again, and about being transparent with your audience,” says」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「at American University. “But you can certainly minimize the chance of mistakes.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「This simple mistake is nevertheless a perennial problem — and can end up accidentally misleading audiences. “If something jumps from 20 to 30%, that’s actually a 50% increase, not a 10% increase — that can be tricky, and important to pay attention to,” explains Sunne. Data experts stress that」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+  - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
+- 検索結果の抜粋：
+  - 「Lessons Learned: 10 Common Mistakes in Data Journalism — Lessons Learned: 10 Common Mistakes in Data Journalism Global Investigative Journalism Network (GIJN) https://gijn.org > stories > 10-commo...」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123）（statistical survey approval records sampling frame sample size population Japan MIC）
+- 文脈：一次情報
+- 手順・やり方：
+  - 「【調査方法】 （選定） 無作為抽出、 有意抽出 （客体数） （事業所） ２８０００、 （世帯）」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）有意抽出 （客体数）５００ （配布）調査員調査 （取集）調」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定） 有意抽出 （客体数） １， ０００ （配布） 調査員調査 （取集）」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）有意抽出 （客体数）１５ （配布）調査員調査 （取集）調査」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【公 表】 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定） 全数 （客体数） １２８００００００ （約５２００万世帯） （配」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）全数 （客体数）２，０００，０００ （配布）調査員・オンラ」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）全数 （客体数）２，０３０，０００ （配布）調査員・オンラ」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）全数 （客体数）４００，０００ （配布）調査員・オンライン」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）全数 （客体数）２７０，０００ （配布）郵送・オンライン・」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）全数 （客体数）１，５７０，０００ （配布）郵送・オンライ」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定）無作為抽出 （客体数）６４，７６８ ５７９，１１４ （配」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「型認定こども園調査票 ４－地方裁量型認定こども園調査票 ５－家庭的」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「保育事業調査票 ６－居宅訪問型保育事業調査票 ７－事業所内保育事業」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【調査方法】 （選定） 無作為抽出 （客体数） １６， ８５０／１， ７３０， ０００ （配」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+- 突き合わせ・推定：
+  - 「率改定を踏まえた報酬改定に向けた検証のための基礎データとして、 直近の活動」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「79号）に基づく関係施策の実施状況を検証する と」（https://www.soumu.go.jp/main_content/000668667.pdf）
+  - 「興施策の展開や施策効果を検証するための基礎資料」（https://www.soumu.go.jp/main_content/000668667.pdf）
+- 一次情報の探し方：
+  - 「統計法令に基づく統計調査の承認及び届出の状況」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「１ 統計調査の承認等の状況（総括表） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 1」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥1」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥2」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥3」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「２ 基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 5」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「小売物価統計調査（平成２７年承認） （総務省） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 5」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「３ 一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 13」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「食品ロス統計調査（外食調査） （平成２７年承認） （農林水産省） ‥‥‥‥‥‥‥ 24」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「４ 届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 28」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「高知県工業統計補完調査（平成２７年届出） （高知県） ‥‥‥‥‥‥‥‥‥‥‥‥ 43」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「１ 「統計法令に基づく統計調査の承認及び届出の状況」 （以下、 「本月報」という」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「統計」とは、改正前の統計法（昭和 22年法律第 18号」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「規定に基づき、総務大臣が指定した統計をいう」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「２ 本月報中で「指定統計調査」とは、旧統計法下において、指定統計を作成するために行われ」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+- 実例：
+  - 「【公 表】 調査の結果は、集計完了の都度、インターネット（ e-Stat）への掲載、閲覧」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【公 表】 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「【公 表】 インターネット及び印刷物（速報集計結果：調査実施年の翌年５月末、確報」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「集計結果：調査実施年の翌年９月頃から順次）」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「年経済センサス－活動調査の結果から作成 した事業所リス ト」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「また、 調査結果は県の健康増進計画等の評価に」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「出枠） 平成２６年経済センサス－基礎調査の結果から作成 した事業所リス」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「出事業所を除く） （抽出枠）平成２６年経済センサス－基礎調査の結果か」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「（抽出枠） 平成２６年経済センサス－基礎調査の結果から作成 した事業所」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「所を除く） （抽出枠）平成２６年経済センサス－基礎調査の結果から作成」（https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345）
+  - 「属性が異なる場合（例えば、調査対象が一定の財で、それを使用する者が報告者であるよ」（https://www.soumu.go.jp/main_content/000668667.pdf）
+  - 「母集団 情報 前年の調査結果から作成された海面漁業漁獲統計調査の水揚機関名簿及び水揚機関で把握でき」（https://www.soumu.go.jp/main_content/000668667.pdf）
+  - 「母集団 情報 前年の調査結果から作成された海面養殖業収獲統計調査の水揚機関名簿及び水揚機関で把握で」（https://www.soumu.go.jp/main_content/000668667.pdf）
+  - 「公 表 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、集計の完了した」（https://www.soumu.go.jp/main_content/000668667.pdf）
+  - 「備 考 今回の主な承認内容は、平成30 年調査結果の年報 （確定数） の公表期日を令和元年９月から」（https://www.soumu.go.jp/main_content/000668667.pdf）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+
+## 仮説の確率予測と採点（Brier Score・尤度比での更新・基準率から置く最初の確率・競合仮説分析・インテリジェンス分析の失敗）（forecast calibration Brier score analyst likelihood ratio base rate intelligence analysis）
+- 文脈：推定
+- 手順・やり方：
+  - 「「AIが自分の調査手順を書き換える」層は、最も魅力的で、最も危うい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「これらを、手順（プロトコル）として実行可能にしようと試みたのが、先ほど触れた」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「Signal Map（シグナル地図）→ Convergence Analysis（収束分析）→ Contrarian View（逆張りの視点）→ Timing Grid（時機の判断）と進む手順は、実務にも使いやすい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「ここがポイント：インテリジェンスとは「情報の量」ではなく「問いの質」と「疑う手順」で決まる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「疑い続ける手順を、止まらずに回し続けること」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「AIは、こうした人間の方法論を置き換えるのではなく、」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「EU：毎年の報告書と、方法の透明性への注文」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「日本：NISTEPが書いた、率直な反省」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「科学技術・学術政策研究所（NISTEP）は、1971年からおよそ5年ごとに」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「Firecracker型のmicroVMは」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「手続き記憶：改善され続ける調査手順（Skill）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「（Nous Research、2026年2月公開）は、セッションをまたぐ永続メモリ、SQLiteの全文検索による過去会話の検索、そして経験からSKILL.mdというファイルに手順を保存する仕組みを持つ」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「1つのオープンウェイトモデル（Qwen3.6-27B）が、タスクを解く役、チームの手順を最適化する役、成果を評価する役を兼ね、」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+- 突き合わせ・推定：
+  - 「しかし五つを一本の線でつなぐと、「AIの競争軸が、モデルの大きさ競争から、管理下で安全にエージェントを動かす基盤の確保へ移りつつあるのではないか」という仮説が立ち上がる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「インテリジェンスには、「だから何なのか」「違っていたらどうなるのか」という、仮説と検証が入る」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「自分の気に入った仮説を支持する証拠を集めるのではなく、複数の仮説を並べ、「どの仮説と矛盾する証拠か」を表にして、矛盾の多い仮説から消していく」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「であって、検証済みの事実ではない」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「では、冒頭の仮説――「管理下でエージェントを安全に動かす基盤への移行」――に戻ろう」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「つまり、この仮説は「全体として見える」が、五つの柱のうち、少なくとも一つは」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「そこから派生した仮説を連鎖的に無効化（カスケード）できる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「6. 仮説を「更新」する――ベイズ更新は、LLMに任せていいのか」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「この構想の心臓部は、仮説の確信度を、新しい証拠が来るたびに更新する仕組みである」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「そこへ、「この仮説が本当なら、起きやすさが本当でない場合の4倍になる」証拠（尤度比4）が一つ届いた」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「証拠が増えるたび、この掛け算を丁寧に繰り返す」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「この掛け算は、証拠が」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「マーケティング主導の記事を、仮説に引っ張られて集め、自分で自分を補強する」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「検索クエリが仮説に染まっている限り、反証は見つからない」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+- 一次情報の探し方：
+  - 「：今回の調査では、一次情報で確認できなかった」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「評価用には、決算説明会（アーニングコール）の書き起こしから作ったデータセットECT-QAを新設した」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「モデルに実績の統計を与えるだけで相対15.3%改善した点から、」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「LLMが得意なのは、文章の統計的なつながりだ」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「一次情報で確認できた範囲で、位置づけを整理する」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「Heuer『Psychology of Intelligence Analysis』（CIA、PDF）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「CSET：Opinions on “AI+”（英訳PDF）」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「2本は、手法の分類と実在モデルでの採用状況を、それぞれ理論側と実装側から補っている」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「4つとも「発見、反証、修正」という同じループを採用しており、差別化は実装面に移りつつある」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「Microsoftは社内全体で採用するマルチモデル対応のCopilot harnessをFoundry経由で提供し、GitHubはモデルを自動で選択・協調させるCopilot Fusionを一般提供しました」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「Microsoftは、GitHubのエンジニアリングチームが構築したマルチモデル対応のCopilot harnessを社内全体で採用し、Microsoft Foundry経由で提供開始した」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「Schema Coherence Inventoryは、ペルソナ付与されたLLMで、割り当てた信念が振る舞いを実際に組織化しているのか、単に気分を採用しただけなのかを測る」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「CERTAは、量子化モデルがBF16の基準モデルの代わりになれるかを判断する、判断単位の統計的証明書です」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「価値観調査のシミュレーションでは、人口統計プロンプトがプロンプト設計に敏感で推論コストも増える点が課題とされる」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「パラメータ側で人口統計情報を合成可能に注入する手法が提案され、未見の属性組み合わせへの汎化を狙う」（https://ai-news.iru-yo.com/topic/ai-research/）
+- 失敗・落とし穴：
+  - 「この"つなぐ"作業を、人間の代わりに、二十四時間、疲れずに、しかも間違いを自分で疑いながら続けるAI」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「』（1999年）は、分析の失敗は情報不足より、人間の思考の癖から起きることが多いと指摘した」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「のちほど述べるが、この「消去法の思想」は、AIの確証バイアス対策にそのまま使える」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「原資料が挙げる「量子ブロックチェーン革命」の失敗シナリオは、まさにこれである」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「更新の誤りではなく、事前確率の較正（キャリブレーション）の悪さ」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「事前確率の甘さは、更新の誤りより効く」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「は、AI Scientistの文献調査が新規性の判定を誤り、実験の42%がコードの誤りで失敗したと報告した」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「自動化には、自動で見抜けない失敗が混ざる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「そして、自己確認ループ、モデルの崩壊、多様性の崩壊といった失敗は、階層の下のほうで信号を使った時に起きやすい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「：第7章の階層で見たとおり、自己評価だけのループは、失敗が強化されやすい」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「エージェント側では、デプロイ後の継続評価、実行時の権限制御、コスト会計、ベンチマーク自体の誤りの監査など、実運用を見据えた研究が目立つ」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「ポリシーに基づく意思決定ベンチマーク9件を監査したところ、根拠のない正解ラベルや、再実行しても残る参照誤り、評価器の問題が見つかった」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「KVキャッシュ圧縮のLowRAMは、注意ヘッド内でvalueが対応するkeyからほぼ予測可能であるという、トークン・層・次元・精度とは別の冗長性に着目した」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「「模擬協働」という手法で、AIが表層の構文と深い意味のどちらに注意を払うかなどを調べている」（https://ai-news.iru-yo.com/topic/ai-research/）
+- 実例：
+  - 「確率予測の採点にはBrier Score（予測確率と結果の差の二乗の平均」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「観測システムが予測を出すなら、この文化――確率で言い切り、結果で採点する――を、最初から組み込むべきだと私は考える」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「予測を記録し、結果が出たらBrier Scoreで採点し、その成績が悪化した手順だけを書き換える」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「：結果を、人間が「議論できる形」で見せる」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「観測システムを実際に作る人は、地味な層から先に固めるほうが、結果として遠くまで行ける、というのが私の見立てである」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「：仮説ごとに、確率、期限、判定基準、結果を書き、期限が来たらBrier Scoreで採点する」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「わずか2サイクルの結果から、長期の安定性は言えない」（https://note.com/betaitohuman/n/nd6bfb5c808e7）
+  - 「評価を、評価者の偏りと打ち切られた結果の下での性能推定として定式化し、各レベルの結論が自己検証される設計を求めている」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「と同等性検定つきで比べた結果、「同等だが優れてはいない」という結論になった」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「のコーパスで、テキストの作成条件が検出結果を左右することを示した」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「Google Researchの「Agile Deliberation」は、境界事例の画像を使って主観的な視覚概念をユーザーが定義するための、人間参加型フレームワークだ」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「コーディングエージェントが大量にコミットする時代のインフラ課題を示す事例といえる」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「Taurusは、CT画像の大動脈ラベリングで、LLMが自由にセグメンテーションコードを書く「コーディングエージェント」方式と、自動処理の結果をLLMがレビューする「ハーネス」方式を比較し、後者が」（https://ai-news.iru-yo.com/topic/ai-research/）
+  - 「大型モデルほど危険という逆説的な結果で、クリーンな後処理だけでは防げない点が重い」（https://ai-news.iru-yo.com/topic/ai-research/）
+
+## 生き残りの偏りの見つけ方と直し方（退出・倒産・上場廃止した先を含める・時点の名簿・偏りの大きさの測り方）（survivorship bias detection correction point-in-time universe delisted firms）
+- 文脈：突き合わせ
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 二国間の貿易統計の食い違いの分析手順（UN Comtrade・ミラー統計・CIF/FOB・再輸出・数量と単価の点検）（bilateral trade asymmetry analysis guidelines UN Comtrade mirror statistics）
+- 文脈：突き合わせ
+- 手順・やり方：
+  - 「How to Access UN Comtrade data?」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「How to create an account」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「How to Delete Your Account」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「How to use UN Comtrade via World Integrated Trade Solution (WITS)」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「How to retrieve data for “World” exports to a country in UN Comtrade?」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「Methodology and Manuals」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「Compilation Methodology」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「Reflecting Methodological Causes of Bilateral Asymmetry for the Forthcoming Revision of IMTS Concepts and Definition (2021):」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「IMTS Bilateral asymmetries – how to measure, analyze, reduce and way forward」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「• variations in data compilation and estimation methods, and confidentiality among other reasons.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step I. Check existence of bilateral asymmetries」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Step II. Examine sources of differences」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Methods for estimating freight and insurance on imports」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「application of partner attribution may impact adjustment methodology.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+- 突き合わせ・推定：
+  - 「Seaborne Trade Estimates – Archive」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「differences, including undetected under and over -declaration of values, different value estimates for」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Source: UN Comtrade estimates」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate of the import value impacted by time lag $」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate as percent (%) of R total imports %」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「The m ethod to estimate time lags would depend on dominant mode of transport. In case of sea」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate of the import value in million impacted by time lag $234」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Estimate as percent (%) of CAN total imports 0.5%」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「CIF/FOB valuation estimate –」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 1.2」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 0」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「*CIF/FOB estimate 9」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「views of the United N ations. The opinions, figures and estimates set forth in this publication」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+  - 「ideal. Nevertheless, UN Statistics Division (UNSD) uses mi rror data to estimate IMTS for」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+  - 「(GVCs) and efforts to estimate trade in value added (TiVA). GVCs and TiVA have, in」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+- 一次情報の探し方：
+  - 「4 For IFFs, see for example: https://www.oecd.org/corruption/Illicit_Financial_Flows_from_Developing_Countries.pdf」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「5 For more information, see https://unstats.un.org/unsd/trade/eg-imts/IMTS%202010%20(English).pdf」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「https://www150.statcan.gc.ca/n1/en/pub/13-605-x/2018001/article/54962-eng.pdf?st=DUPYB3kM」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「https://unstats.un.org/unsd/tradekb/Knowledgebase/50231/Asymmetry-in-foreign-trade-statistics-in-Mediterranean-」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「trade-statistics-in-Mediterranean-partner-countries」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「ies_in_International_Trade_Statistics.pdf.」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+  - 「4 UNDESA, 2012, see http://unstats.un.org/unsd/publication/Seriesm/seriesM_86Rev1e.pdf」（https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf）
+  - 「strategy for coordinated implementation of BPM7 (PDF, 252 KB)」（https://analysisfunction.civilservice.gov.uk/policy-store/a-user-guide-to-international-trade-statistics-and-trade-asymmetries/）
+  - 「Classification of Product by Activity (CPA) (PDF, 3.6 MB)」（https://analysisfunction.civilservice.gov.uk/policy-store/a-user-guide-to-international-trade-statistics-and-trade-asymmetries/）
+  - 「Extended Balance of Payments (EBOP) services groups (PDF, 3.4MB)」（https://analysisfunction.civilservice.gov.uk/policy-store/a-user-guide-to-international-trade-statistics-and-trade-asymmetries/）
+  - 「Travel Workshop, established by EUROSTAT (PDF, 569 KB)」（https://analysisfunction.civilservice.gov.uk/policy-store/a-user-guide-to-international-trade-statistics-and-trade-asymmetries/）
+  - 「US International Economic accounts report (PDF, 7.3 MB)」（https://analysisfunction.civilservice.gov.uk/policy-store/a-user-guide-to-international-trade-statistics-and-trade-asymmetries/）
+  - 「The UN Comtrade databases, the primary source of official merchandise trade data collected」（https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf）
+- 失敗・落とし穴：
+  - 「pitfalls of commonly used trade asymmetry measures and is therefore more suited for」（https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf）
+  - 「trade balance using unmirrored (one-sided) data will naturally be biased due to the structural」（https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf）
+  - 「(Farhad et al., 2023). Alternatively, compositional bias can be addressed using complex」（https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf）
+- 実例：
+  - 「Showcases in Visualization Labs」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「in the case of imports, the country of origin should be recorded;」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「in the case of exports, the country of last known destination should be recorded.」（https://uncomtrade.org/docs/bilateral-asymmetries/）
+  - 「publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「inclusion of commodities (scope) . In these cases, compensating adjustments are needed if the」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「i. in the case of imports, the country of origin should be recorded,6」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「ii. in the case of exports, the country of last known destination should be recorded.」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「reliable valuation of goods in all cases, especially for problem atic categories and irrespective of」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「4 For IFFs, see for example: https://www.oecd.org/corruption/Illicit_Financial_Flows_from_Developing_Countries.pdf」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「different economic meaning. For example, if the US would record imports on the country of consignment basis then all」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「From examples above, many commodities can be impacted by asymmetries whether they are primary」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「9 The case study is adapted from Statistics Canada (2018), Comparing Canada’s and China’s bilateral trade data. URL:」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Example: Trade between Canada (CAN) and China (CHN)」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「and needs to be assessed further. In this example, inbound trade covers CAN imports and CHN exports,」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+  - 「Example: Trade between CAN and CHN」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

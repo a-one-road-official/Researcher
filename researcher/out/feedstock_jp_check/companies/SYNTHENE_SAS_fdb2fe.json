@@ -1,0 +1,689 @@
+{
+ "name": "SYNTHENE SAS",
+ "aliases": [
+  "Synthene"
+ ],
+ "context": "注型樹脂",
+ "researched_at": "2026-11-09T07:19:30.199440+00:00",
+ "official_url": "https://www.synthene.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Address",
+    "value": "45 Ferme de l’Évêché, CS 20308, 60723 Pont-Sainte-Maxence, France – Oise",
+    "url": "https://www.synthene.com/frontpage/about-us/legale-notice/",
+    "pass": 1
+   },
+   {
+    "label": "Adresse",
+    "value": "45 Ferme de l’Évêché, CS 20308, 60723 Pont-Sainte-Maxence, Frankreich – Oise",
+    "url": "https://www.synthene.com/de/startseite/ueber-synthene/impressum/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "comm@synthene.com",
+    "url": "https://www.synthene.com/frontpage/about-us/legale-notice/",
+    "pass": 1
+   },
+   {
+    "label": "E-Mail",
+    "value": "comm@synthene.com",
+    "url": "https://www.synthene.com/de/startseite/ueber-synthene/impressum/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "SYNTHENE’s hotline and support email address where a competent member of the team will help you",
+    "url": "https://www.synthene.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Please contact us in order to get a copy of the test reports. We will happily provide them to you.",
+    "url": "https://www.synthene.com/categorie/industry-foodgrade/",
+    "pass": 1
+   },
+   {
+    "quote": "The Site is hosted by Synten Cloud, located at 255 Bureaux de la Colline, 1 rue Royale 92210 SAINT CLOUD (telephone contact or email: support@synten.com).",
+    "url": "https://www.synthene.com/frontpage/about-us/legale-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "By email : contact@synthene.com",
+    "url": "https://www.synthene.com/frontpage/about-us/legale-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "Email: comm@synthene.com",
+    "url": "https://www.synthene.com/frontpage/about-us/legale-notice/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Website wird von der Firma Synten Cloud gehostet, mit Sitz in 255 Bureaux de la Colline, 1 rue Royale, 92210 SAINT CLOUD (Kontakt per Telefon oder E-Mail: support@synten.com).",
+    "url": "https://www.synthene.com/de/startseite/ueber-synthene/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Per E-Mail: contact@synthene.com",
+    "url": "https://www.synthene.com/de/startseite/ueber-synthene/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Pavel SEHNAL hat einen Datenschutzbeauftragten (DSB) bei der CNIL (Nr. 1397882) benannt. Die Kontaktdaten unseres Datenschutzbeauftragten lauten wie folgt:",
+    "url": "https://www.synthene.com/de/startseite/ueber-synthene/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "E-Mail: comm@synthene.com",
+    "url": "https://www.synthene.com/de/startseite/ueber-synthene/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Wir freuen uns auf Ihren Kontakt!",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "Kontaktieren Sie uns einfach!",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "Wenn keine Distributor für Ihr Land aufgelistet ist, dann kontaktieren Sie bitte das internationale Vertriebsteam von SYNTHENE.",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "contact@polyester93.com",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "info@plasticbalcan.rs",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "sales@ebaltadistribution.co.uk",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "info@ruolintrading.com",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "The products are available worldwide thanks to a vast network of dedicated distributors and the international sales team.",
+    "url": "https://www.synthene.com/frontpage/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthene-Team und die Vertriebspartner in der ganzen Welt",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "zum Distributoren-Netzwerk weltweit",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "Unsere Vertriebspartner",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "qualifizierte Vertriebspartner weltweit.",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "zu den Distributoren für Europa",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "zu den Distributoren für Asien",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "zu den Distributoren für Nordamerika",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "zu den Distributoren für den Nahen Osten",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   },
+   {
+    "quote": "Wenn keine Distributor für Ihr Land aufgelistet ist, dann kontaktieren Sie bitte das internationale Vertriebsteam von SYNTHENE.",
+    "url": "https://www.synthene.com/de/kontakt/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SYNTHENE » PU[RE]INNOVATION — SYNTHENE » PU[RE]INNOVATION synthene https://www.synthene.com",
+    "url": "https://www.synthene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SYNTHENE PRODUCT OVERVIEW 2021.11 — SYNTHENE PRODUCT OVERVIEW 2021.11 Biesterfeld Norge AS PDF https://biesterfeld.no > Synthene-Produktoversikt",
+    "url": "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Meet Synthene Team and distributors over the world — Contact - Meet Synthene Team and distributors over the world synthene https://www.synthene.com > contact_en",
+    "url": "https://www.synthene.com/contact_en/",
+    "pass": 3
+   },
+   {
+    "quote": "All products of the brand Synthene - Samaro — All products of the brand Synthene - Samaro samaro.fr https://www.samaro.fr > synthene",
+    "url": "https://www.samaro.fr/en/brand/synthene/",
+    "pass": 3
+   },
+   {
+    "quote": "SYNTHENE » PU [RE]INNOVATION — Synthene is a chemistry R&D laboratory specialised in the formulation and production of polyurethane high performance materials and Plastisol",
+    "url": "https://www.synthene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SYNTHENE SAS | Exhibitor Formnext 2026 — Discover SYNTHENE SAS at Formnext 2026. Information on vacuum casting, 3d printing. 17.-20.11.2026. Learn more now!",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/synthene-sas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Meet Synthene Team and distributors over the world — Jan 20, 2004 · Meet our Team and distributors over the world to get more technical information about our range and the availability of our materials.",
+    "url": "https://www.synthene.com/contact_en/",
+    "pass": 3
+   },
+   {
+    "quote": "SYNTHENE Prototyping resins & elastomers for vacuum casting — SYNTHENE Prototyping resins & elastomers for vacuum casting synthene https://www.synthene.com > categorie",
+    "url": "https://www.synthene.com/categorie/prototyping-resins-elastomers/",
+    "pass": 3
+   },
+   {
+    "quote": "Creative PU resins for Design & Art, DIY, hobby-making — Creative PU resins for Design & Art, DIY, hobby-making synthene https://www.synthene.com > design-art",
+    "url": "https://www.synthene.com/categorie/design-art/",
+    "pass": 3
+   },
+   {
+    "quote": "About Synthene - company history, mission and values — About Synthene - company history, mission and values synthene https://www.synthene.com > about-us",
+    "url": "https://www.synthene.com/frontpage/about-us/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SYNTHENE - LinkedIn SYNTHENE - LinkedIn LinkedIn https://fr.linkedin.com > synthene",
+    "url": "https://fr.linkedin.com/company/synthene",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.synthene.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synthene.com/frontpage/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synthene.com/frontpage/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synthene.com/categorie/industry-foodgrade/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synthene.com/frontpage/about-us/legale-notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synthene.com/de/startseite/ueber-synthene/impressum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synthene.com/de/kontakt/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.samaro.fr/en/brand/synthene/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/synthene-sas.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daikeikagaku.co.jp/material/regin_sas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.krones.com/shop/n1/ja/Kosme/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%8A%80%E8%A1%93/INTERFACE/p/0902806911/zoomImages",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sinn-japan.jp/product/japan-limited/903st2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://septillion.co.th/ja/product-category/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/filament-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.samaro.fr/en/brand/synthene/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://silixan.de/index.php/en/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/shop/sportsnavi02/list/8YLPDUJUZ81G",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/signin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00263786/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00511629/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/L%E5%9E%8B%E7%A9%B4%E3%81%82%E3%81%8D%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00365764/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://growjo.com/company/Capital_Resin_Corporation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fr.linkedin.com/company/synthene",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SYNTHENE SAS 代理店",
+   "results": [
+    "https://www.synthene.com/",
+    "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "https://www.synthene.com/contact_en/",
+    "https://www.samaro.fr/en/brand/synthene/",
+    "https://www.cytivalifesciences.com/ja/jp/support/find-a-distributor",
+    "https://fsicti.com/ja/locations/distributors/",
+    "https://www.thinkymixer.com/ja-jp/sales-office/",
+    "https://www.cosmobio.co.jp/agency/index.asp?maker_name=S",
+    "https://www.saint-gobain.co.jp/jp/plastics/tubing/distributors",
+    "https://www.indexpro.co.jp/distributor/search-distributor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SYNTHENE SAS 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.synthene.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/synthene-sas.html",
+    "https://www.synthene.com/contact_en/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://synnexstore.jp/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SYNTHENE SAS 日本 販売",
+   "results": [
+    "https://www.synthene.com/",
+    "https://www.daikeikagaku.co.jp/material/regin_sas/",
+    "https://shop.krones.com/shop/n1/ja/Kosme/%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E6%8A%80%E8%A1%93/INTERFACE/p/0902806911/zoomImages",
+    "https://sinn-japan.jp/product/japan-limited/903st2",
+    "https://www.dmmaterial.com/jp/pd.jsp?id=173",
+    "https://parts.cat.com/ja/catcorp/5P-0743",
+    "https://www.smcworld.com/newproducts/ja-jp/19/cxsj",
+    "https://www.shimaden.co.jp/english/product/104.html",
+    "https://www.koikesangyo.co.jp/en/products/synthetic-resin/",
+    "https://www.eneos-materials.com/products/hp_monomer/sas/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SYNTHENE SAS フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.synthene.com/categorie/prototyping-resins-elastomers/",
+    "https://www.synthene.com/categorie/design-art/",
+    "https://septillion.co.th/ja/product-category/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "https://ja.3dsystems.com/materials/filament-materials",
+    "https://www.poly-maker.jp/polylite-asa.html",
+    "https://www.youtube.com/watch?v=PiEsY_d9N3s",
+    "https://skhonpo.com/collections/filament",
+    "https://www.monotaro.com/s/q-asa%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJSZB5P9fu9IEvBJ7lBiuu5wq-6Ff9bR1WpKVYcnn_y8aQbTBhg",
+    "https://search.rakuten.co.jp/search/mall/asa+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://ja.wikipedia.org/wiki/レジンキャスト"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SYNTHENE SAS Japan distributor",
+   "results": [
+    "https://www.synthene.com/contact_en/",
+    "https://www.synthene.com/",
+    "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "https://www.samaro.fr/en/brand/synthene/",
+    "https://www.kromasil.com/distributor_network/?jp",
+    "https://www.cytivalifesciences.com/ja/jp/support/find-a-distributor",
+    "https://www.covestro.com/en/company/covestro-worldwide/japan/covestro-in-japan/legal-entities/sumika-covestro-urethane",
+    "https://www.nexeoplastics.com/suppliers/na/nexpoint-materials",
+    "https://polysource.net/thermoplastic-resin-distributor/",
+    "https://www.sas.com/ja_jp/partners/find-a-partner.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SYNTHENE SAS distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.synthene.com/contact_en/",
+    "https://www.synthene.com/",
+    "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "http://silixan.de/index.php/en/contact",
+    "https://www.m-chemical.co.jp/en/products/field/resin/index.html",
+    "https://www.covestro.com/en/company/covestro-worldwide/japan/covestro-in-japan/legal-entities/sumika-covestro-urethane",
+    "https://www.evonik.com/en/news/press-releases/2026/10/evonik-toyotsu-chemiplas-and-sanyo-chemical-launch-polyurethane-pu-recycling-initiative-in-japan.html",
+    "https://technetics.com/location/japan/",
+    "https://www.sojitz-planet.com/en/service-en/resin-row-material-en/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:amazon.co.jp SYNTHENE SAS",
+   "results": [
+    "https://www.amazon.co.jp/shop/sportsnavi02/list/8YLPDUJUZ81G",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://pay.amazon.co.jp/signin",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=5818927051",
+    "https://www.amazon.co.jp/-/en/dp/0230981194"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com SYNTHENE SAS",
+   "results": [
+    "https://www.monotaro.com/g/00263786/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/k/store/L型穴あきアングル/",
+    "https://www.monotaro.com/g/00365764/",
+    "https://www.monotaro.com/g/00012191/",
+    "https://www.monotaro.com/g/01460545/",
+    "https://www.monotaro.com/g/01406052/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SYNTHENE SAS employees revenue parent company",
+   "results": [
+    "https://www.synthene.com/frontpage/about-us/",
+    "https://www.synthene.com/contact_en/",
+    "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "https://growjo.com/company/Capital_Resin_Corporation",
+    "https://www.synthomer.com/media/1cul1kx3/synt_ar24_full_interactive_report.pdf",
+    "https://pitchbook.com/profiles/company/63938-80",
+    "https://www.syntegon.com/about-us/company-profile/",
+    "https://companiesmarketcap.com/synthomer/revenue/",
+    "https://www.zippia.com/si-group-careers-38333/revenue/",
+    "https://www.pappers.fr/entreprise/synthene-542043153"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com SYNTHENE SAS",
+   "results": [
+    "https://note.com/pei_umapro",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SYNTHENE SAS",
+   "results": [
+    "https://x.com/",
+    "https://x.com/aympontier/status/2113223108484018349",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/Saint_Cane/status/2117664095054799010",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/RepJeffries/status/2117800972810330242"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SYNTHENE SAS",
+   "results": [
+    "https://fr.linkedin.com/company/synthene",
+    "https://fr.linkedin.com/in/max-mezza",
+    "https://www.linkedin.com/company/3deus-dynamics/?originalSubdomain=fr",
+    "https://www.linkedin.com/company/pivot-am-service",
+    "https://www.linkedin.com/posts/iam3dhub_cognitivedesignbycds-activity-7462164476033720320-HhZU",
+    "https://www.linkedin.com/posts/sba-group-afrique_3dprinting-additivemanufacturing-industry40-activity-7451942411775401985-bxwL",
+    "https://fr.linkedin.com/company/lynxter-sas",
+    "https://ca.linkedin.com/in/cooper-scullion",
+    "https://fr.linkedin.com/in/jacques-spiesse-22482613",
+    "https://www.linkedin.com/company/synthene/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com SYNTHENE SAS",
+   "results": [
+    "https://www.facebook.com/lynxter.sas/",
+    "https://www.facebook.com/groups/101795380330323/posts/2306195166556989/",
+    "https://www.facebook.com/VilleGrandeSynthe/posts/c%C3%A9tait-hier-les-racines-flamandes-saccrochent-aux-noms-de-lieuxautrefois-les-rue/790786149759103/",
+    "https://www.facebook.com/61567617744282/posts/-retour-%C3%A0-la-vente-petite-synthevous-laviez-rep%C3%A9r%C3%A9e-mais-vous-pensiez-quil-%C3%A9tait/122228701346587258/",
+    "https://www.facebook.com/VilledeDunkerque.officiel/posts/fort-m%C3%A9di%C3%A9val-retour-en-images-sur-le-fort-de-petite-synthe-qui-a-retrouv%C3%A9-son-a/1463391455830137/",
+    "https://www.facebook.com/VilleGrandeSynthe/posts/-%F0%9D%90%8B%F0%9D%90%84%F0%9D%90%92-%F0%9D%90%84%F0%9D%90%92%F0%9D%90%93%F0%9D%90%88%F0%9D%90%95%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%84%F0%9D%90%92-%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%9E-%F0%9D%90%9D%F0%9D%90%AE-%F0%9D%9F%8F%F0%9D%9F%92-%F0%9D%90%A3%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%AD-%F0%9D%91%A8%CC%80-%F0%9D%92%8D%F0%9D%92%90%F0%9D%92%84%F0%9D%92%84%F0%9D%92%82%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%90%F0%9D%92%8F-%F0%9D%92%85%F0%9D%92%86-%F0%9D%92%8D%F0%9D%92%82-%F0%9D%91%AD%F0%9D%92%86%CC%82%F0%9D%92%95%F0%9D%92%86-%F0%9D%92%8F%F0%9D%92%82%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%82%F0%9D%92%8D%F0%9D%92%86-%F0%9D%92%8D%F0%9D%92%82-%F0%9D%91%BD%F0%9D%92%8A%F0%9D%92%8D/1454599643377747/",
+    "https://www.facebook.com/groups/apprendre.le.piano/posts/1833575823723507/",
+    "https://www.facebook.com/groups/458978894153456/posts/29554742010817091/",
+    "https://m.facebook.com/MonSaintJoMedia/photos/inforoute-prudence-%EF%B8%8Fpr%C3%A9sence-de-gasoil-%EF%B8%8F-sur-la-route-au-niveau-de-la-crois%C3%A9e-ca/1174717087990413/",
+    "https://www.facebook.com/RestaurantsCrocodile/posts/votre-restaurant-crocodile-f%C3%AAte-la-rentr%C3%A9e-avec-un-mois-de-septembre-exceptionne/939846464849337/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "SYNTHENE SAS note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=3SMp0JArtLs",
+    "https://www.syntiant.com/",
+    "https://www.syntho.ai/ja/external-evaluation-of-our-synthetic-data-by-the-data-experts-of-sas/",
+    "https://investor.synopsys.com/news/news-details/2026/Sassine-Ghazi-2026-Letter-to-Stakeholders-Re-engineering-Engineering-in-the-Age-of-AI/default.aspx",
+    "https://www.facebook.com/Synopsys/videos/snug24-ceo-keynote-highlights/361133959578318/",
+    "https://note.com/tomo_sugarless/n/nd9549fb7acf8",
+    "https://jp.linkedin.com/in/%E5%85%8B%E5%BD%A6-%E7%AB%B9%E5%86%85-3704a5210",
+    "https://www.youtube.com/watch?v=TipPKLLUTtg",
+    "https://www.facebook.com/Synopsys/posts/just-over-12-months-ago-sassine-ghazi-became-synopsys-president-and-ceo-today-he/1017898933716055/",
+    "https://www.synthene.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SYNTHENE SAS X 投稿",
+   "results": [
+    "https://www.synthene.com/",
+    "https://biesterfeld.no/wp-content/uploads/2021/10/Synthene-Produktoversikt.pdf",
+    "https://www.synthene.com/categorie/prototyping-resins-elastomers/",
+    "https://mastermodel.com.tr/wp-content/uploads/2022/01/SYNTHENE-PR777-Prototip-Poliuretan-Recinesi.pdf",
+    "https://www.indiamart.com/proddetail/synthene-pr-777-vacuum-casting-polyurethane-resin-8726812830.html?srsltid=AYCX9vIaY61DEkhyvqH_PyUYcGqv_SUzyiQ3TM63fk-6_gQt1guTh9Em",
+    "https://www.youtube.com/watch?v=OfdQnyJetT0",
+    "https://www.synthene.com/contact_en/",
+    "https://www.youtube.com/watch?v=bWTt1z1eZA8",
+    "https://www.samaro.fr/brand/synthene/",
+    "https://x.com/sassbu/status/2113557139595915516"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部24頁・検索15回）"
+ }
+}

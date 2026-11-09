@@ -1,4 +1,4 @@
-# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・39品目）
+# 仮説の検証 — 中堅製造業向け採用広報：社数・採用難・採用費・採用広報の単価・継続・原価・買い方・前例（事実のみ・40品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3662,3 +3662,95 @@
 - 作る側の原価：記載なし（読んだ27頁・検索13回）
 - 営業と採用のどちらに困っているか：記載なし（読んだ27頁・検索13回）
 - 前例の会社（製造業特化）：記載なし（読んだ27頁・検索13回）
+
+## 製造業の採用費 1人あたり・1社年間（費用の欄だけ・企業数・出荷額・年収を除く・就職白書とマイナビの原典の表・4-123）（manufacturing recruitment cost per hire Japan survey table）
+- 文脈：採用にいくら払うか
+- 社数（規模別）：
+  - 「正社員数100～299人：7.2万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 採用難（公的統計）：
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「2025年1月のアルバイト求人倍率は」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+- 採用にいくら払うか：
+  - 「1人当たりの採用コストを「採用単価」と呼びます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修） | RESUS社会保険労務士事務所」（https://resus.jp/topics/4594/）
+  - 「【最新版】採用コストの実務ガイド｜1人辞めたらいくら損かを経営数字で解説（社労士監修）」（https://resus.jp/topics/4594/）
+  - 「採用・教育・生産性低下など合計100万円以上のコスト」（https://resus.jp/topics/4594/）
+  - 「300万円の売上が必要」（https://resus.jp/topics/4594/）
+  - 「図表1：採用コストの内訳（1人あたり）」（https://resus.jp/topics/4594/）
+  - 「約30～50万円」（https://resus.jp/topics/4594/）
+  - 「約10～20万円」（https://resus.jp/topics/4594/）
+  - 「約100万円以上」（https://resus.jp/topics/4594/）
+  - 「離職1人あたりの損失額」（https://resus.jp/topics/4594/）
+  - 「図表2：売上換算で考える採用コスト」（https://resus.jp/topics/4594/）
+  - 「粗利率30％の事業を例にすると、採用損失100万円を埋めるには以下の売上が必要です」（https://resus.jp/topics/4594/）
+  - 「1,000万円」（https://resus.jp/topics/4594/）
+  - 「1,666万円」（https://resus.jp/topics/4594/）
+  - 「3,333万円」（https://resus.jp/topics/4594/）
+- 採用広報・採用サイトの単価：
+  - 「例えば、採用コストの総額が1000万円で、10人を採用した場合、一人当たりの採用コストは100万円となります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「19年度の新卒採用（20年卒）：93.6万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「中途採用のコスト：103.3万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「18年度の平均採用コスト （新卒採用71.5万円、 中途採用83.0万円）」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「2019年度の新卒採用では一人あたりの平均コストは93.6万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「18年度の平均コストが71.5万円だったことから」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「中途採用の平均コストは、103.3万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「38.5万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「（前年比：4.8万円減）」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「43.3万円」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「採用・教育・生産性低下など合計100万円以上のコスト」（https://resus.jp/topics/4594/）
+  - 「300万円の売上が必要」（https://resus.jp/topics/4594/）
+  - 「約30～50万円」（https://resus.jp/topics/4594/）
+  - 「約10～20万円」（https://resus.jp/topics/4594/）
+  - 「約100万円以上」（https://resus.jp/topics/4594/）
+- 継続して払うか：
+  - 「公開日: 2024年09月30日 / 更新日: 2026年02月25日」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「採用に関わるコスト全般のことで求人広告費、面接にかかる人件費、採用イベントの開催費用、採用システムの導入・運用費など、」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「採用コスト、採用リードタイム、定着率などのKPIを設定し、継続的に改善を図ります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「ただし、無料掲載の場合は自然と表示順位が下がるため、定期的に情報を更新したり、有料プランの活用を検討することが重要です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「採用コスト管理は一度行えば終わりではなく、継続的な改善が必要なプロセス」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「このサイクルを継続的に回すことで、採用活動の効率と効果を段階的に向上させることができます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「外部相談窓口サービス（月額5,500円〜／全国対応）」（https://resus.jp/topics/4594/）
+  - 「「出しっぱなしにしない」運用も、ムダな掲載費の削減につながります」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「求人媒体の多くは掲載期間が限られますが、採用サイトは継続的に求職者へアプローチできる「資産」になります」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「どちらも、求人情報の工夫や運用改善により、限られた予算で応募者を増やすことに成功した事例です」（https://www.fostor.jp/archives/column/cost-reduction）
+  - 「採用単価が上がりやすい職種ほど、媒体選定の見直し・クリック課金型広告の運用改善・スカウトや採用広報の併用といった「広告費の使い方の工夫」による差が大きくなります」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「・求人ボックス等）は運用次第で応募単価が変わります」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「スカウト配信（月額29,800円〜・税別）」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「媒体選びから運用・応募者対応まで、まとめて相談できます」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「掲載だけでなく、スカウト代行（月額29,800円〜・税別）、採用代行・RPO、採用広報まで一気通貫で支援します」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+- どう買われるか：
+  - 「さらには、人材紹介手数料や就職・転職の合同説明会にかかる費用なども外部コストに含まれます」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「求人広告費や人材紹介会社への手数料が高くなることが主な要」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「中途採用では、人材紹介会社の利用が多いため、その手数料がコストになる場合も多いです」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「ロケットスタートホールディングがお手伝いさせて頂いた食品製造業のお客様の事例をご紹介します」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「それ以外にもご参考にしていただける採用事例記事をたくさんご紹介しています」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・社長や経営陣が直接採用に関わることが多い」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・人材紹介会社の利用頻度が低く、自社での採用活動が中心」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・業界特化型の求人サイトや人材紹介会社の利用が多い」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「リファラル採用は、社員に友人や知人を紹介してもらい、採用候補者を集める方法です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「社員から紹介を受けるため、候補者は既に働いている社員から職場のリアルな情報を聞けるため、通常の採用方法に比べてマッチング率が高くなる傾向があります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「発生するコストは、紹介してくれた社員へのインセンティブが主で、数万円から数十万円程度が相場ですが、人材紹介サービスを利用するよりも低コストで済むのが特徴です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「例えば、紹介カードの作成やインセンティブの導入が有効です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「・紹介会社経由では出会えない人材との接点を持てる」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「人事部門だけでなく、各部門の社員も採用活動に参加することで、より効果的な評価が可能になります」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「採用コスト削減に有効なサービスをご紹介します」（https://www.rshd.co.jp/news/saiyou-cost.html）
+- 営業と採用のどちらに困っているか：
+  - 「また著書である『求人を成功に導く、超実践・採用ノウハウ ゼロから始める中途採用の教科書』はAmazonランキングの3ジャンルで1位を獲得」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+  - 「保育士の人手不足は深刻のため今後は増加すると思われましたが、2022年度以降採用コストは減少傾向になっています」（https://www.bsearch.co.jp/media/recruitment-cost-per-person/）
+- 前例の会社（製造業特化）：
+  - 「新卒・中途一人当たりの採用コスト：相場と削減方法 | 株式会社ロケットスタートホールディングス」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「職種によっても採用コストは大きく異なり、株式会社マイナビ」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「応募人数の見通しでは、従業員数が多い企業ほど「増える」と回答する割合が高く、小規模企業ほどその割合が低い傾向」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「しかし、インセンティブを過剰に設定すると、内部コストが膨らんでしまう可能性があるため、従業員エンゲージメントを高め、社内環境を整えることが重要です」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「人材を採用するのは事業を伸ばし売上を伸ばすため」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「「人を育てる姿勢」を、まっすぐに伝えるために【株式会社ライフステップ様 Webサイトリニューアル事例】」（https://www.rshd.co.jp/news/saiyou-cost.html）
+  - 「300万円の売上が必要」（https://resus.jp/topics/4594/）
+  - 「図表2：売上換算で考える採用コスト」（https://resus.jp/topics/4594/）
+  - 「粗利率30％の事業を例にすると、採用損失100万円を埋めるには以下の売上が必要です」（https://resus.jp/topics/4594/）
+  - 「必要売上（粗利30％）」（https://resus.jp/topics/4594/）
+  - 「毎年3人離職 → 年間コスト約300万円＋売上換算1,000万円損失」（https://resus.jp/topics/4594/）
+  - 「□ 離職1人あたりの売上換算額を試算したか」（https://resus.jp/topics/4594/）
+  - 「Q4：売上換算で考える必要があるのはなぜですか？」（https://resus.jp/topics/4594/）
+  - 「例：粗利率30％の会社では100万円損失＝300万円売上が必要」（https://resus.jp/topics/4594/）
+  - 「離職は売上換算で数百万円～数千万円規模の損失」（https://resus.jp/topics/4594/）
+- 作る側の原価：記載なし（読んだ30頁・検索13回）

@@ -1,0 +1,1418 @@
+{
+ "name": "統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123）",
+ "en": "statistical survey approval records sampling frame sample size population Japan MIC",
+ "aliases": [
+  "統計法令に基づく統計調査の承認及び届出の状況 月報",
+  "統計調査 承認 客体数 母集団数 調査方法 変更",
+  "総務省 統計委員会 諮問 工業統計 変更"
+ ],
+ "context": "一次情報",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:19:13.125811+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "【調査方法】 （選定） 無作為抽出、 有意抽出 （客体数） （事業所） ２８０００、 （世帯）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）有意抽出 （客体数）５００ （配布）調査員調査 （取集）調",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定） 有意抽出 （客体数） １， ０００ （配布） 調査員調査 （取集）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）有意抽出 （客体数）１５ （配布）調査員調査 （取集）調査",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【公 表】 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定） 全数 （客体数） １２８００００００ （約５２００万世帯） （配",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）２，０００，０００ （配布）調査員・オンラ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）２，０３０，０００ （配布）調査員・オンラ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）４００，０００ （配布）調査員・オンライン",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）２７０，０００ （配布）郵送・オンライン・",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）１，５７０，０００ （配布）郵送・オンライ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）無作為抽出 （客体数）６４，７６８ ５７９，１１４ （配",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "型認定こども園調査票 ４－地方裁量型認定こども園調査票 ５－家庭的",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "保育事業調査票 ６－居宅訪問型保育事業調査票 ７－事業所内保育事業",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定） 無作為抽出 （客体数） １６， ８５０／１， ７３０， ０００ （配",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、基幹統計（後記３（１） 参照）の指定、変更又は解除があった場合や、基幹統計（統計調査以外の方法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "） に係る作成方法の通知がなされた場合には、 巻末に参考として掲載することと",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査が、報告者から報告を求める方法ではなく、 実測により情報を収集する方法で行われ",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "選定方法 報告者の選定方法を全数、無作為抽出、有意抽出の別によって示した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "配布 ・ 取集 調査票の配布・取集（回収）方法について、職員、調査員、郵送、オンライン等の別を記",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "複数の方法を併用している場合には、該当するものを全て記載した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "を行う漁業種類に「大型捕鯨業」及び「母船式捕鯨業」を追加",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【一括調査用】１．養殖魚種名、２．養殖方法名、３．総施設面積、４．１施設当たり平均面",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "周期を10年に改めるとともに、その中間年に簡易な方法による調査を行うこととなり、これに",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公 表 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、集計の完了した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "③報告を求めるために用いる方法の変更におけるオンライン回答用ＩＤ及び調査票配布方法の",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "削除、④調査事項の見直しを踏まえた事業所票と個人票の統合、⑤報告を求める方法の変更",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査名 承認年月日 実施機関 目 的 対象範囲（地域） 調査票の様式数 客体数(注３) 選定方法 配布・取集 調査周期 実施期間又は調査票の提出期限 備 考",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "イン調査等の調査方法の見直しを実施した場合 の",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "注２）「対象範囲（地域）」、「選定方法」、「調査方法」、「調査周期」又は「実施期間又は調査票の提出期限」については、該当する内容が複数ある場合には、全てを記載している",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "率改定を踏まえた報酬改定に向けた検証のための基礎データとして、 直近の活動",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "79号）に基づく関係施策の実施状況を検証する と",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "興施策の展開や施策効果を検証するための基礎資料",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "【公 表】 調査の結果は、集計完了の都度、インターネット（ e-Stat）への掲載、閲覧",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【公 表】 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【公 表】 インターネット及び印刷物（速報集計結果：調査実施年の翌年５月末、確報",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "集計結果：調査実施年の翌年９月頃から順次）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年経済センサス－活動調査の結果から作成 した事業所リス ト",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、 調査結果は県の健康増進計画等の評価に",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "出枠） 平成２６年経済センサス－基礎調査の結果から作成 した事業所リス",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "出事業所を除く） （抽出枠）平成２６年経済センサス－基礎調査の結果か",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（抽出枠） 平成２６年経済センサス－基礎調査の結果から作成 した事業所",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "所を除く） （抽出枠）平成２６年経済センサス－基礎調査の結果から作成",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "属性が異なる場合（例えば、調査対象が一定の財で、それを使用する者が報告者であるよ",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団 情報 前年の調査結果から作成された海面漁業漁獲統計調査の水揚機関名簿及び水揚機関で把握でき",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団 情報 前年の調査結果から作成された海面養殖業収獲統計調査の水揚機関名簿及び水揚機関で把握で",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公 表 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、集計の完了した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "備 考 今回の主な承認内容は、平成30 年調査結果の年報 （確定数） の公表期日を令和元年９月から",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "態の把握と分析、課題の抽出を行い、その結果をま と",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、この結果を令和２年 度",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "じていることから、これまで実施した調査結果と比較 検",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統計法令に基づく統計調査の承認及び届出の状況",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１ 統計調査の承認等の状況（総括表） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 1",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥1",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥2",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥3",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 5",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "小売物価統計調査（平成２７年承認） （総務省） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 5",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "３ 一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 13",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "食品ロス統計調査（外食調査） （平成２７年承認） （農林水産省） ‥‥‥‥‥‥‥ 24",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "４ 届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 28",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "高知県工業統計補完調査（平成２７年届出） （高知県） ‥‥‥‥‥‥‥‥‥‥‥‥ 43",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１ 「統計法令に基づく統計調査の承認及び届出の状況」 （以下、 「本月報」という",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計」とは、改正前の統計法（昭和 22年法律第 18号",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "規定に基づき、総務大臣が指定した統計をいう",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 本月報中で「指定統計調査」とは、旧統計法下において、指定統計を作成するために行われ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計法令に基づく統計調査の承認及び届出の状況（旧：指定統計・承認統計・届出統計月報） 平成２１年１０月",
+    "url": "https://www.digital.archives.go.jp/item/4244236",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "指定統計・承認統計・届出統計月報 平成２１年",
+    "url": "https://www.digital.archives.go.jp/item/4244236",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計法令に基づく統計調査の承認及び届出の状況",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１ 基幹統計調査の承認 ································ ············ 1",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "海面漁業生産統計調査 ························································ 2",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "賃金構造基本統計調査 ························································ 6",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 一般統計調査の承認 ································ ··········· 11",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "３ 届出統計調査に係る届出の受理",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この資料 （ 「統計法令に基づく統計調査の承認及び届出の状況」 （以下 「本月報」 という",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "月の１か月間に総務省政策統括官（統計基準担当）が、統計法（平成19 年法律第53号）に基づいて承認等の手",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "続を行った統計調査の計画概要をまとめたものである",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、基幹統計（後記３（１） 参照）の指定、変更又は解除があった場合や、基幹統計（統計調査以外の方法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 統計法（昭和 22年法律第18号）→ 旧統計法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 統計法（平成 19",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年法律第53号）（注１）→ 新統計法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 統計報告調整法（昭和 27",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年法律第148号）（注２）→ 旧統計報告調整法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/limber_skink4659/n/n2dcf2d02b8bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nao_school/n/n6578f5c1abe9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pharma_insight/n/na029d3227384",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamahari_labo/n/n38ee664c04b5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lsic/n/nc48f36deda4b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ptcjapan/n/nd169522076e3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/8.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.digital.archives.go.jp/item/4244236",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001840596.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.mie.lg.jp/DATABOX/46420002703.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/hyoka/pdf/j01-5-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://toukei.pref.ishikawa.lg.jp/apply/todokede.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000793637.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/microdata/data-use",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nstac.go.jp/use/archives/anonymity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/419AC0000000053/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.adachi.tokyo.jp/somu/ku/aramashi/toke-katsuyojire.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/guide/pamphlet/pdf/all_2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/admrecord/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/nenkan/index2-2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nass.usda.gov/Publications/Methodology_and_Data_Quality/Advanced_Topics/standards_stat_surveys_OMB.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://unstats.un.org/unsd/hhsurveys/pdf/Chapter_5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid,141977,0,2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ism.ac.jp/editsec/aism/pdf/002_1_0049.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data.unwomen.org/sites/default/files/documents/Publications/2023/AP-sampling-guidelines.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nces.ed.gov/statprog/2002/std3_1.asp",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123） site:note.com",
+   "results": [
+    "https://note.com/limber_skink4659/n/n2dcf2d02b8bc",
+    "https://note.com/nao_school/n/n6578f5c1abe9",
+    "https://note.com/pharma_insight/n/na029d3227384",
+    "https://note.com/yamahari_labo/n/n38ee664c04b5",
+    "https://note.com/lsic/n/nc48f36deda4b",
+    "https://note.com/ptcjapan/n/nd169522076e3",
+    "https://note.com/pharma_insight/n/n153b5b8ca88a",
+    "https://note.com/pharma_insight/n/n6657600fa9aa",
+    "https://note.com/pharma_insight/n/nef09ac421d16",
+    "https://note.com/pharma_insight/n/nde3e72cd71cb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123） note",
+   "results": [
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/8.htm",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "https://note.com/limber_skink4659/n/n2dcf2d02b8bc",
+    "https://note.com/pharma_insight/n/na029d3227384",
+    "https://www.digital.archives.go.jp/item/4244236",
+    "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001840596.pdf",
+    "https://www.stat.go.jp/data/guide/pdf/pdcaguideline.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
+    "https://hit-u.repo.nii.ac.jp/record/2039111/files/keizaikenkyu05902139.pdf",
+    "https://note.com/xshibuxshibux/n/ne346af8b63c5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123） やり方",
+   "results": [
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/8.htm",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "https://www.pref.mie.lg.jp/DATABOX/46420002703.htm",
+    "https://www.digital.archives.go.jp/item/4244236",
+    "https://www.stat.go.jp/info/hyoka/pdf/j01-5-1.pdf",
+    "https://toukei.pref.ishikawa.lg.jp/apply/todokede.pdf",
+    "https://www.soumu.go.jp/main_content/000793637.pdf",
+    "https://www.e-stat.go.jp/microdata/data-use",
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://lawplayer.com/jp/article/419AC0000000053/9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123） 事例",
+   "results": [
+    "https://www.soumu.go.jp/main_content/000793637.pdf",
+    "https://www.digital.archives.go.jp/item/4244236",
+    "https://laws.e-gov.go.jp/law/419AC0000000053/",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "https://www.city.adachi.tokyo.jp/somu/ku/aramashi/toke-katsuyojire.html",
+    "https://www.stat.go.jp/info/guide/pamphlet/pdf/all_2024.pdf",
+    "https://www.pref.mie.lg.jp/DATABOX/46420002703.htm",
+    "https://www.e-stat.go.jp/admrecord/government",
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.soumu.go.jp/main_content/000668667.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "statistical survey approval records sampling frame sample size population Japan MIC",
+   "results": [
+    "https://www.nass.usda.gov/Publications/Methodology_and_Data_Quality/Advanced_Topics/standards_stat_surveys_OMB.pdf",
+    "https://unstats.un.org/unsd/hhsurveys/pdf/Chapter_5.pdf",
+    "https://www.publichealthtoxicology.com/Methodological-considerations-for-the-design-and-implementation-of-reliable-and-valid,141977,0,2.html",
+    "https://www.ism.ac.jp/editsec/aism/pdf/002_1_0049.pdf",
+    "https://data.unwomen.org/sites/default/files/documents/Publications/2023/AP-sampling-guidelines.pdf",
+    "https://nces.ed.gov/statprog/2002/std3_1.asp",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12897549/",
+    "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/methodology/Sampling_Note-Consolidated-2-16-22.pdf",
+    "https://documents1.worldbank.org/curated/en/742581588695955271/pdf/Guidelines-on-Sampling-Design.pdf",
+    "https://www.soumu.go.jp/main_content/000327471.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123）",
+   "results": [
+    "https://note.com/nao_school/n/n6578f5c1abe9",
+    "https://note.com/pharma_insight/n/n6657600fa9aa",
+    "https://note.com/gifted_viola8806/n/n1112fcbb3ab0",
+    "https://note.com/d5c/n/n4bc432331c8d",
+    "https://note.com/well_living_ry/n/ncb3a0fe9188f",
+    "https://note.com/mototchen/n/n9f26eb11611c",
+    "https://note.com/kumanomi_chan/n/n642edcecb795",
+    "https://note.com/hourei_ch/n/n59f9cc5128e7",
+    "https://note.com/gifted_viola8806/n/ne18407143575",
+    "https://note.com/yasuhitoo/n/nab44b6e81829"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123）",
+   "results": [
+    "https://x.com/carpe_diem0820/status/1821835328162021839",
+    "https://x.com/hashtag/%E8%A8%BA%E7%99%82%E5%A0%B1%E9%85%AC%E6%94%B9%E5%AE%9A",
+    "https://x.com/carpe_diem0820/status/2088041008940650856",
+    "https://x.com/KagawaTomo/status/2113066175089508431",
+    "https://x.com/carpe_diem0820/status/1902128054773936450",
+    "https://x.com/ai_security_CT/status/2106773418893070573",
+    "https://x.com/ai_ai_ailover/status/2091391854202011927",
+    "https://x.com/S10CF",
+    "https://x.com/K40107500",
+    "https://x.com/carpe_diem0820/status/1727800006030348568"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123）",
+   "results": [
+    "https://jp.linkedin.com/in/hiroshi-ozaki-133618a8",
+    "https://jp.linkedin.com/in/%E5%A4%A7%E4%B8%80-%E7%94%B0%E4%B8%AD-3a14892a",
+    "https://jp.linkedin.com/pulse/2-chamber%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%87%8D%E7%B5%90%E7%99%82%E6%B3%95%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC-market-2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A5%AD%E7%95%8C%E5%8B%95%E5%90%91%E3%81%A8%E4%BA%88%E6%B8%AC-dialectdrivex-hlade",
+    "https://jp.linkedin.com/pulse/%E3%83%9D%E3%83%B3%E3%82%AC%E3%83%A2%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87119%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E8%A9%B3%E7%B4%B0%E3%81%AA%E6%B4%9E%E5%AF%9F-fund-flows-hzwse",
+    "https://jp.linkedin.com/in/%E6%B3%B0%E5%B9%B8-%E8%B5%A4%E6%B4%A5-b819b9197"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "site:facebook.com 統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123）",
+   "results": [
+    "https://www.facebook.com/groups/627324771859424/posts/1460485495210010/",
+    "https://www.facebook.com/yui.hukushi.station/",
+    "https://www.facebook.com/suzuki.nobuyuki.0805/posts/39791232667187356/",
+    "https://www.facebook.com/suzuki.nobuyuki.0805/posts/%E6%B7%80%E5%B1%8B%E6%A9%8B%E3%81%8B%E3%82%89%E8%A6%8B%E3%82%8B%E5%BE%8C%E3%82%8D%E3%81%AF%E5%A4%A7%E9%98%AA%E5%B8%82%E5%BD%B9%E6%89%80%E3%81%A7%E3%81%99%E8%91%9B%E9%A3%BE%E5%8C%BA/39661852633458694/",
+    "https://www.facebook.com/groups/3632942833474651/posts/27960135020328760/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123） note 社長",
+   "results": [
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/8.htm",
+    "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "https://note.com/limber_skink4659/n/n2dcf2d02b8bc",
+    "https://note.com/pharma_insight/n/na029d3227384",
+    "https://www.stat.go.jp/info/tokumei/index.html",
+    "https://www.digital.archives.go.jp/item/4244236",
+    "https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2020pdf/20201001082.pdf",
+    "https://hit-u.repo.nii.ac.jp/record/2039111/files/keizaikenkyu05902139.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
+    "https://www.soumu.go.jp/main_content/000668667.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "統計調査の承認・届出の記録（総務省 統計法令に基づく統計調査の承認及び届出の状況・全数か抽出か・客体数と母集団数・調べ方の変更・4-123） X 投稿",
+   "results": [
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/8.htm",
+    "https://www.digital.archives.go.jp/item/4244236",
+    "https://www.pref.mie.lg.jp/DATABOX/46420002703.htm",
+    "https://www.stat.go.jp/info/tokumei/index.html",
+    "https://www.e-stat.go.jp/microdata/data-use/on-site/procedure",
+    "https://www.gyoukaku.go.jp/ebpm/img/guideline2.pdf",
+    "https://www.nstac.go.jp/use/archives/anonymity/",
+    "https://www.mhlw.go.jp/toukei/sonota/kyouryoku_irai.html",
+    "https://mhlw-grants.niph.go.jp/project/3992",
+    "https://www.soumu.go.jp/main_content/000668667.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "statistical survey approval records sampling frame sample size population Japan MIC site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/phd-thesis-structure-complete-chapter-by-chapter-breakdown-aleem-7u7sf",
+    "https://www.linkedin.com/pulse/feasycom-mic-certification-wireless-bluetooth-",
+    "https://www.linkedin.com/pulse/thesis-dissertation-chapter-three-research-dr-naureen-aleem-dyu2f",
+    "https://uk.linkedin.com/in/oriol-bosch-jover-8b719a139",
+    "https://www.linkedin.com/in/ben-williams-74ba6a130",
+    "https://it.linkedin.com/in/lauragarciah/en",
+    "https://www.linkedin.com/in/lukaszkidzinski",
+    "https://in.linkedin.com/in/prashanth-rao-0bba014a",
+    "https://www.linkedin.com/top-content/science/biostatistics-in-research/bayesian-statistics-applications/",
+    "https://in.linkedin.com/in/dr-guru-prasad-pasumarthi-748246154"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "【調査方法】 （選定） 無作為抽出、 有意抽出 （客体数） （事業所） ２８０００、 （世帯）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）有意抽出 （客体数）５００ （配布）調査員調査 （取集）調",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定） 有意抽出 （客体数） １， ０００ （配布） 調査員調査 （取集）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）有意抽出 （客体数）１５ （配布）調査員調査 （取集）調査",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【公 表】 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定） 全数 （客体数） １２８００００００ （約５２００万世帯） （配",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）２，０００，０００ （配布）調査員・オンラ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）２，０３０，０００ （配布）調査員・オンラ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）４００，０００ （配布）調査員・オンライン",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）２７０，０００ （配布）郵送・オンライン・",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）全数 （客体数）１，５７０，０００ （配布）郵送・オンライ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定）無作為抽出 （客体数）６４，７６８ ５７９，１１４ （配",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "型認定こども園調査票 ４－地方裁量型認定こども園調査票 ５－家庭的",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "保育事業調査票 ６－居宅訪問型保育事業調査票 ７－事業所内保育事業",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【調査方法】 （選定） 無作為抽出 （客体数） １６， ８５０／１， ７３０， ０００ （配",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、基幹統計（後記３（１） 参照）の指定、変更又は解除があった場合や、基幹統計（統計調査以外の方法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "） に係る作成方法の通知がなされた場合には、 巻末に参考として掲載することと",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査が、報告者から報告を求める方法ではなく、 実測により情報を収集する方法で行われ",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "選定方法 報告者の選定方法を全数、無作為抽出、有意抽出の別によって示した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "配布 ・ 取集 調査票の配布・取集（回収）方法について、職員、調査員、郵送、オンライン等の別を記",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "複数の方法を併用している場合には、該当するものを全て記載した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "を行う漁業種類に「大型捕鯨業」及び「母船式捕鯨業」を追加",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【一括調査用】１．養殖魚種名、２．養殖方法名、３．総施設面積、４．１施設当たり平均面",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "周期を10年に改めるとともに、その中間年に簡易な方法による調査を行うこととなり、これに",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公 表 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、集計の完了した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "③報告を求めるために用いる方法の変更におけるオンライン回答用ＩＤ及び調査票配布方法の",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "削除、④調査事項の見直しを踏まえた事業所票と個人票の統合、⑤報告を求める方法の変更",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "調査名 承認年月日 実施機関 目 的 対象範囲（地域） 調査票の様式数 客体数(注３) 選定方法 配布・取集 調査周期 実施期間又は調査票の提出期限 備 考",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "イン調査等の調査方法の見直しを実施した場合 の",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "注２）「対象範囲（地域）」、「選定方法」、「調査方法」、「調査周期」又は「実施期間又は調査票の提出期限」については、該当する内容が複数ある場合には、全てを記載している",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "率改定を踏まえた報酬改定に向けた検証のための基礎データとして、 直近の活動",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "79号）に基づく関係施策の実施状況を検証する と",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "興施策の展開や施策効果を検証するための基礎資料",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "【公 表】 調査の結果は、集計完了の都度、インターネット（ e-Stat）への掲載、閲覧",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【公 表】 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "【公 表】 インターネット及び印刷物（速報集計結果：調査実施年の翌年５月末、確報",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "集計結果：調査実施年の翌年９月頃から順次）",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年経済センサス－活動調査の結果から作成 した事業所リス ト",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、 調査結果は県の健康増進計画等の評価に",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "出枠） 平成２６年経済センサス－基礎調査の結果から作成 した事業所リス",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "出事業所を除く） （抽出枠）平成２６年経済センサス－基礎調査の結果か",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "（抽出枠） 平成２６年経済センサス－基礎調査の結果から作成 した事業所",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "所を除く） （抽出枠）平成２６年経済センサス－基礎調査の結果から作成",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "属性が異なる場合（例えば、調査対象が一定の財で、それを使用する者が報告者であるよ",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団 情報 前年の調査結果から作成された海面漁業漁獲統計調査の水揚機関名簿及び水揚機関で把握でき",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "母集団 情報 前年の調査結果から作成された海面養殖業収獲統計調査の水揚機関名簿及び水揚機関で把握で",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "公 表 インターネットへの掲載又は結果表を閲覧に供する方法（集計区分に応じ、集計の完了した",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "備 考 今回の主な承認内容は、平成30 年調査結果の年報 （確定数） の公表期日を令和元年９月から",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "態の把握と分析、課題の抽出を行い、その結果をま と",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "また、この結果を令和２年 度",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "じていることから、これまで実施した調査結果と比較 検",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "統計法令に基づく統計調査の承認及び届出の状況",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１ 統計調査の承認等の状況（総括表） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 1",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥1",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥2",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥3",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 基幹統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 5",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "小売物価統計調査（平成２７年承認） （総務省） ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 5",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "３ 一般統計調査の承認 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 13",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "食品ロス統計調査（外食調査） （平成２７年承認） （農林水産省） ‥‥‥‥‥‥‥ 24",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "４ 届出統計調査の受理 ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥ 28",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "高知県工業統計補完調査（平成２７年届出） （高知県） ‥‥‥‥‥‥‥‥‥‥‥‥ 43",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１ 「統計法令に基づく統計調査の承認及び届出の状況」 （以下、 「本月報」という",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計」とは、改正前の統計法（昭和 22年法律第 18号",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "規定に基づき、総務大臣が指定した統計をいう",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 本月報中で「指定統計調査」とは、旧統計法下において、指定統計を作成するために行われ",
+    "url": "https://dl.ndl.go.jp/view/prepareDownload?itemId=info:ndljp/pid/11042345",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計法令に基づく統計調査の承認及び届出の状況（旧：指定統計・承認統計・届出統計月報） 平成２１年１０月",
+    "url": "https://www.digital.archives.go.jp/item/4244236",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "指定統計・承認統計・届出統計月報 平成２１年",
+    "url": "https://www.digital.archives.go.jp/item/4244236",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "統計法令に基づく統計調査の承認及び届出の状況",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "１ 基幹統計調査の承認 ································ ············ 1",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "海面漁業生産統計調査 ························································ 2",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "賃金構造基本統計調査 ························································ 6",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "２ 一般統計調査の承認 ································ ··········· 11",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "３ 届出統計調査に係る届出の受理",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この資料 （ 「統計法令に基づく統計調査の承認及び届出の状況」 （以下 「本月報」 という",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "月の１か月間に総務省政策統括官（統計基準担当）が、統計法（平成19 年法律第53号）に基づいて承認等の手",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "続を行った統計調査の計画概要をまとめたものである",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "なお、基幹統計（後記３（１） 参照）の指定、変更又は解除があった場合や、基幹統計（統計調査以外の方法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 統計法（昭和 22年法律第18号）→ 旧統計法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 統計法（平成 19",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年法律第53号）（注１）→ 新統計法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "○ 統計報告調整法（昭和 27",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "年法律第148号）（注２）→ 旧統計報告調整法",
+    "url": "https://www.soumu.go.jp/main_content/000668667.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T07:19:13.125811+00:00"
+}

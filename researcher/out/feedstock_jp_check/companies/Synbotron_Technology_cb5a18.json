@@ -1,0 +1,544 @@
+{
+ "name": "Synbotron Technology",
+ "aliases": [
+  "Synbotron",
+  "Shenzhen Xinbochuan"
+ ],
+ "context": "PEBAフィラメント",
+ "researched_at": "2026-11-09T07:07:41.810146+00:00",
+ "official_url": "https://www.synbotron.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Synbotron | Advanced Materials & Manufacturing — Synbotron | Advanced Materials & Manufacturing Synbotron https://synbotron.com",
+    "url": "https://synbotron.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SYNBOTRON PEBA 3D Printer Filament 1.75mm, 85A ... — SYNBOTRON PEBA 3D Printer Filament 1.75mm, 85A ... Amazon.com https://www.amazon.com > SYNBOT...",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Synbotron Unveils its Next-Generation PEBA Filament ... — Synbotron Unveils its Next-Generation PEBA Filament ... ACCESS Newswire https://www.accessnewswire.com > sy...",
+    "url": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/synbotron-unveils-its-next-generation-peba-filament-redefining-3d-prin-1077268",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: SYNBOTRON PEBA 3Dプリンターフィラメント 1.75mm、高... — ご意見ご要望 さらに安い価格について知らせる? SYNBOTRON PEBA 3Dプリンターフィラメント 1.75mm、高反発90Aフレキシブルフィラメント、高速印刷速度と軽量、機能的なプロトタイプ用の柔軟性の調整、ウェアラブル (Garay、800g)。",
+    "url": "https://www.amazon.co.jp/SYNBOTRON-PEBA-3Dプリンターフィラメント-1-75mm、高反発90Aフレキシブルフィラメント、高速印刷速度と軽量、機能的なプロトタイプ用の柔軟性の調整、ウェアラブル-Garay、800g/dp/B0G495KRC3",
+    "pass": 3
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "Amazon.com: SYNBOTRON PEBA 3D Printer Filament 1.75mm, 85A Flexible Filament, 78% Energy Return, Faster Printing Speed, 20% Lighter, High Rebound Perfect for Functional Prototypes, Wearables (White, 800g) : Industrial & Scientific",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "FREE Shipping by Amazon",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.com Return Policy",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.com Voluntary 30-Day Return Guarantee:",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Similar brands on Amazon",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Shop the Store on Amazon ›",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Become an Amazon Hub Partner",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Payment Products",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Currency Converter",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   },
+   {
+    "quote": "© 1996-2026, Amazon.com, Inc. or its affiliates",
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://synbotron.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://synbotron.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8651",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fusiontechnology.co.jp/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.efinixinc.com/jp/company-distributors.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://webudding.com/ja/store/product/detail/29798/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://synbotron.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kickstarter.com/projects/synbotron/peba-filament-the-next-gen-of-flexible-3d-printing-material",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synbotron.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/synbotron-unveils-its-next-generation-peba-filament-redefining-3d-prin-1077268",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano3dprint.com/partnerships/distributor/?srsltid=AYCX9vKocrUHylAS7tKPGW1s_sHLnXaViu4pzgZMB1hbTnnBYyZx29-p",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synbotron.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SYNBOTRON-PEBA-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm%E3%80%81%E9%AB%98%E5%8F%8D%E7%99%BA90A%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E9%AB%98%E9%80%9F%E5%8D%B0%E5%88%B7%E9%80%9F%E5%BA%A6%E3%81%A8%E8%BB%BD%E9%87%8F%E3%80%81%E6%A9%9F%E8%83%BD%E7%9A%84%E3%81%AA%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E7%94%A8%E3%81%AE%E6%9F%94%E8%BB%9F%E6%80%A7%E3%81%AE%E8%AA%BF%E6%95%B4%E3%80%81%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%A9%E3%83%96%E3%83%AB-Garay%E3%80%81800g/dp/B0G495KRC3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Synchrotron-Technology-Captures-Movement-English-ebook/dp/B0HDSY6FQP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Velvet-Revolution-Synchrotron-Biology-Technology/dp/026204255X",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/SainSmart-PEBA-%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%811kg-2-2%E3%83%9D%E3%83%B3%E3%83%89-%E3%80%8178-%E3%81%AE%E9%AB%98%E5%8F%8D%E7%99%BA%E6%80%A7%E3%82%92%E5%82%99%E3%81%88%E3%81%9F%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCTPU%E3%80%8120-%E3%81%AE%E8%BB%BD%E9%87%8F%E5%8C%96%E3%81%A82%E5%80%8D%E3%81%AE%E5%8D%B0%E5%88%B7%E9%80%9F%E5%BA%A6%E3%80%81%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E5%BC%B7%E5%BA%A6%E3%80%81%E8%AA%BF%E6%95%B4%E5%8F%AF%E8%83%BD%E3%81%AA%E6%9F%94%E8%BB%9F%E6%80%A7%E3%80%811-75mm%E3%80%81%E9%BB%92%E8%89%B2/dp/B0FLPRXBWH",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E5%88%87%E6%9B%BF%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04478040/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syntegon.com/about-us/company-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/syntegon-technology-gmbh/482272506",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/124246-09",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/these-are-the-top-10-polymer-am-companies-by-revenue-in-2024/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Synbotron Technology 代理店",
+   "results": [
+    "https://synbotron.com/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8651",
+    "https://fusiontechnology.co.jp/access/",
+    "https://www.efinixinc.com/jp/company-distributors.html",
+    "https://idesignsol.com/",
+    "https://nano3dprint.com/partnerships/distributor/?srsltid=AYCX9vL3RmSdthI1LZyCJhifH2S0TVpwrS3ZT_jxIz8OIK5Cx5eCcAiw",
+    "https://www.youtube.com/watch?v=gekQTw-YeAg",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.3dptek.com/en/",
+    "https://www.indexpro.co.jp/distributor/search-distributor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Synbotron Technology 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Synbotron Technology 日本 販売",
+   "results": [
+    "https://threelike.co.jp/products/1651",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://webudding.com/ja/store/product/detail/29798/",
+    "https://shiba78.co.jp/products/detail.php?product_id=4146",
+    "https://shop.san-x.co.jp/jp/product_list/details/209196",
+    "https://develop.success-corp.co.jp/products/detail/113507/",
+    "https://nextlabs.space/jp/products/14793611",
+    "https://ja.aliexpress.com/item/1005003581345865.html",
+    "https://synbotron.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synbotron Technology フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://synbotron.com/",
+    "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "https://www.kickstarter.com/projects/synbotron/peba-filament-the-next-gen-of-flexible-3d-printing-material",
+    "https://skhonpo.com/",
+    "https://www.youtube.com/watch?v=Y7sFC0X7Txo",
+    "https://www.poly-maker.jp/",
+    "https://shop.com/m/q2yfvebjn0",
+    "https://www.3dpc.co.jp/hardware-sales",
+    "https://jp.store.bambulab.com/collections/bambu-lab-3d-printer-filament?srsltid=AYCX9vKDNM5dAcvXD8iZgHwVmCtrRNIMUXN89oN6QHz-MSNpW6j06bby",
+    "https://www.monotaro.com/k/store/レジン/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Synbotron Technology Japan distributor",
+   "results": [
+    "https://synbotron.com/",
+    "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/synbotron-unveils-its-next-generation-peba-filament-redefining-3d-prin-1077268",
+    "https://www.amazon.com/SYNBOTRON-Filament-Functional-Prototypes-Wearables/dp/B0G4982CPC",
+    "https://nano3dprint.com/partnerships/distributor/?srsltid=AYCX9vKocrUHylAS7tKPGW1s_sHLnXaViu4pzgZMB1hbTnnBYyZx29-p",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.microfab.com/products/distributors",
+    "https://www.3dxtech.com/pages/distributors?srsltid=AYCX9vIfO0dJmv-dSxo1HFbj1eInil0OrQTeWNshgAKZCqA1OUgNJDSx",
+    "https://www.isanmate.com/",
+    "https://www.kickstarter.com/projects/synbotron/peba-filament-the-next-gen-of-flexible-3d-printing-material",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Synbotron Technology distributor Japan OR Japanese partner",
+   "results": [
+    "https://synbotron.com/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.syntegon.com/en/locations/tokyo/",
+    "https://www.amazon.com/SYNBOTRON-Lighterweight-Adjustable-Flexibility-Functional/dp/B0G498K391",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Synbotron Technology",
+   "results": [
+    "https://www.amazon.co.jp/SYNBOTRON-PEBA-3Dプリンターフィラメント-1-75mm、高反発90Aフレキシブルフィラメント、高速印刷速度と軽量、機能的なプロトタイプ用の柔軟性の調整、ウェアラブル-Garay、800g/dp/B0G495KRC3",
+    "https://www.amazon.co.jp/Synchrotron-Technology-Captures-Movement-English-ebook/dp/B0HDSY6FQP",
+    "https://www.amazon.co.jp/Velvet-Revolution-Synchrotron-Biology-Technology/dp/026204255X",
+    "https://www.amazon.co.jp/SainSmart-PEBA-フレキシブルフィラメント、1kg-2-2ポンド-、78-の高反発性を備えたスーパーTPU、20-の軽量化と2倍の印刷速度、ナイロンベースの強度、調整可能な柔軟性、1-75mm、黒色/dp/B0FLPRXBWH",
+    "https://www.amazon.co.jp/Synchrotron-Properties-Applications-Technology-Engineering/dp/1620812029",
+    "https://www.amazon.co.jp/Synchrotron-Radiation-Research-Interface-Technology/dp/0306438739",
+    "https://www.amazon.co.jp/Synchrotron-Based-Techniques-Sediments-Developments-Science-ebook/dp/B00NEKGW46"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Synbotron Technology",
+   "results": [
+    "https://www.monotaro.com/k/store/切替スイッチ/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/k/store/スプリング/",
+    "https://www.monotaro.com/g/04478040/",
+    "https://image.monotaro.com/etc/pdf/msds/monotaro/36557647M.pdf",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/p/8892/3581/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Synbotron Technology employees revenue parent company",
+   "results": [
+    "https://www.syntegon.com/about-us/company-profile/",
+    "https://www.zoominfo.com/c/syntegon-technology-gmbh/482272506",
+    "https://pitchbook.com/profiles/company/124246-09",
+    "https://www.voxelmatters.com/these-are-the-top-10-polymer-am-companies-by-revenue-in-2024/",
+    "https://www.americanpharmaceuticalreview.com/107463-Syntegon-Pharma-Technology/",
+    "https://www.owler.com/company/symphonytg",
+    "https://tracxn.com/d/companies/syntegon/__Ib9pSn5MZT_xtX3XWL5LrT9UUgYIwhrySCcdIeHrLdY",
+    "https://www.solutionzinc.com/hubfs/SCN%20Top%2050%202019.pdf",
+    "https://p2pmarketdata.com/companies?view=grid",
+    "https://www.konaequity.com/company/synertron-technology-inc-4395801345/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Synbotron Technology",
+   "results": [
+    "https://note.com/science_totoron/n/nf1e8cc8e9ca2?hl=en",
+    "https://note.com/pei_umapro",
+    "https://note.com/science_totoron/n/nde4d9838c441?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/raplus_sc/n/nef9ae3a28207?hl=en",
+    "https://note.com/crisp_moraea843/n/na09fed4f00aa?hl=en",
+    "https://note.com/science_totoron/n/na0ec8d38259e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Synbotron Technology",
+   "results": [
+    "https://x.com/renishawencoder",
+    "https://x.com/Andercot/status/2086656126591152326",
+    "https://x.com/PhysicsWorld",
+    "https://x.com/DAEIndia",
+    "https://x.com/desynews",
+    "https://x.com/CanLightSource",
+    "https://x.com/IUCr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Synbotron Technology",
+   "results": [
+    "https://www.linkedin.com/company/synechron",
+    "https://www.linkedin.com/posts/hk-business-wire_leading-industry-transformation-anyuan-activity-7397118869066309633-Tg34",
+    "https://in.linkedin.com/company/apsara-gifts",
+    "https://www.linkedin.com/company/synertron-technology-inc",
+    "https://www.linkedin.com/in/宇轩-陈-396738413",
+    "https://tw.linkedin.com/company/synertron-technology-inc",
+    "https://co.linkedin.com/in/jaimeandres",
+    "https://uk.linkedin.com/in/zhao-li-476081266/en",
+    "https://www.linkedin.com/posts/sagnik-chakraborty-0107_synchrotron-cancerresearch-medicalphysics-activity-7525142635507023872-VT0u",
+    "https://in.linkedin.com/in/kaushik-jayaraman-a016b4145"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Synbotron Technology",
+   "results": [
+    "https://www.facebook.com/snapmaker/videos/3d-printed-multi-material-bone-bag-this-cool-and-stylish-bag-combines-rigid-and-/913991611592664/",
+    "https://www.facebook.com/snapmaker/videos/we-3d-printed-an-airless-basketball-on-the-snapmakeru1-it-actually-bounces-and-y/2284684192009695/",
+    "https://www.facebook.com/snapmaker/posts/one-basketball-three-different-versions-we-3d-printed-this-airless-basketball-in/1583749763789815/",
+    "https://www.facebook.com/3DXTECH/posts/originally-released-through-the-3dxlabs-program-peba-has-now-become-a-permanent-/1778548930944558/",
+    "https://www.facebook.com/snapmaker/videos/one-basketball-three-different-versions-we-3d-printed-this-airless-basketball-in/1664219928822952/",
+    "https://www.facebook.com/SainSmart/posts/meet-peba-90a-the-next-gen-tpu-alternativestronger-lighter-faster-built-for-crea/1308856831266175/",
+    "https://www.facebook.com/snapmaker/videos/one-basketball-three-different-versions-we-3d-printed-this-airless-basketball-in/1655815856102762/",
+    "https://www.facebook.com/snapmaker/posts/3d-printed-multi-material-bone-bag-this-cool-and-stylish-bag-combines-rigid-and-/1388553909976069/",
+    "https://www.facebook.com/SainSmart/videos/airless-basketball-3d-printed-with-peba-filament-vs-real-basketball-which-one-wo/967927152554279/",
+    "https://www.facebook.com/groups/synbotron/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synbotron Technology note 社長",
+   "results": [
+    "https://ir.note.jp/en/aboutus",
+    "https://www.youtube.com/shorts/KLy9f-TGcmI",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://www.linkedin.com/news/story/note%E3%81%AB%E5%89%B5%E3%82%8B%E4%BA%BA%E3%81%8C%E9%9B%86%E3%81%BE%E3%82%8B%E7%90%86%E7%94%B1-4462755/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synbotron Technology X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=coDsJvMf1Ck&vl=ja",
+    "https://www.youtube.com/shorts/aClBV8qp3T4",
+    "https://all3dp.com/4/synbotron-launches-new-peba-filament-on-kickstarter-promises-to-dramatically-outperform-tpu/",
+    "https://www.accessnewswire.com/newsroom/en/consumer-and-retail-products/synbotron-unveils-its-next-generation-peba-filament-redefining-3d-prin-1077268",
+    "https://www.goengineer.com/videos/makerbot-method-x-a-world-of-materials-are-a-simple-extruder-swap-away",
+    "https://www.facebook.com/WevolverApp/videos/containerized-metal-additive-manufacturing-by-snowbird-technologiesthis-video-sh/1819946968721152/",
+    "https://www.instagram.com/synbotron/",
+    "https://www.kickstarter.com/projects/synbotron/peba-filament-the-next-gen-of-flexible-3d-printing-material",
+    "https://techxplore.com/news/2025-03-3d-approach-dynamic-bionic-robots.html",
+    "https://synbotron.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）"
+ }
+}

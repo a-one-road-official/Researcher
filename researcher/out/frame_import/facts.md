@@ -4567,6 +4567,12 @@
   - 「コスト上昇(約6100億円の損失を計上)」（https://www.meti.go.jp/shingikai/enecho/denryoku_gas/saisei_kano/pdf/075_s01_00.pdf）
   - 「予期せぬ稼働停止時間を30～40%削減し、部品の寿命を10～15%延長するなどの改善により、エネルギー生産量の増加と均等化発電原価（LCOE）の削減が実現し、市場成長を後押しします」（https://www.gminsights.com/ja/industry-analysis/offshore-wind-energy-market）
 - 顧客（金を払う側）：
+  - 「最終回の今回は、風車O&M事業を新たな地域産業とすることを目指す地元企業の集合体・ふくしま風力O&Mアソシエーション（FOM）の菅野辰典事務局長の講演についてだ」（https://windjournal.jp/115917/）
+  - 「FOMは、風力発電に関心のある地元の中小企業や個人が風車O&M事業などに新規参入するサポートを行う非営利組織であり、菅野氏はFOMを設立した企業の一社である誠電社の開発営業部長だ」（https://windjournal.jp/115917/）
+  - 「続いて菅野氏は、風力発電プロジェクトの資金調達の観点から風車O&Mの重要性を訴えた」（https://windjournal.jp/115917/）
+  - 「一般的な風力発電プロジェクトでは、企業に対してではなく、特定のプロジェクトに対して融資する「プロジェクトファイナンス」の形態をとることが多い」（https://windjournal.jp/115917/）
+  - 「その際の審査のポイントは、設計工事や風車メーカーの製造責任に加えて、長期にわたって発電所を維持・管理する保守能力だという」（https://windjournal.jp/115917/）
+  - 「また、風車O&M事業に参入する際の基礎知識として知っておきたいのが、風車メーカーの保証に対する考え方だ」（https://windjournal.jp/115917/）
   - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急...」（https://windjournal.jp/127008/）
   - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急務」（https://windjournal.jp/127008/）
   - 「「国内洋上風力、今が買い」 公募事業に救済策、企業は営業まき直し」（https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/）
@@ -4576,13 +4582,15 @@
   - 「クのベスタスや、ドイツのシーメンス・ガメサなどの製品を調達する以外にありません」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「すべて海外調達なので、当然、」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「ドの受注企業と同じ道を辿る可能性があるのではないでしょうか」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「ヨーロッパのように 「セントラル方式」 を早期に導入するの」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「風力発電を導入する際には、さまざまな手続きが必要になります」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「(日本版ということはヨーロッパほどではないという意味か ? ) の一部導入が議論されていると聞いていますが、この」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「21年12月にあった政府公募の洋上風力発電プロジェクトコンペ第1弾において、三菱商事は圧倒的な価格破壊による「安値受注」で秋田県沖、千葉県沖の計3海域全ての案件を手に入れていた」（https://diamond.jp/articles/-/358920）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
-  - 「【提言】洋上風力発電導入計画の実態を明らかにし、国民が納得する施策展開を！ – NPO法人 国際環境経済研究所｜International Environment and Economy Institute」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
 - 顧客の顧客（発注元が求めること）：
+  - 「⚫ 風車OEMの誘致により、技術革新や雇用創出」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
+  - 「クに直結するため、自社の製造キャパシティを要求される能力より」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
+  - 「⚫ また、参入意欲や熱意、認証の保有状況、」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
+  - 「供給の実現等、発電事業者に対する要求は非常に高い」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
+  - 「れるが、国内の認証試験設備不足や費用」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
+  - 「ま適用することが難しく、認証や標準化ルー」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
+  - 「より、企業自身がどのような認証等を取得し」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
+  - 「認証・標準化・品質管理ポイント８」（https://www.kyushu.meti.go.jp/report/2603/260330_1_1.pdf）
   - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆しはどこに【脱炭素 深掘り】 | 47リポーターズ | 沖縄タイムス＋プラス」（https://www.okinawatimes.co.jp/articles/-/1717772）
   - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆しはどこに【脱炭素 深掘り】」（https://www.okinawatimes.co.jp/articles/-/1717772）
   - 「本来であれば、原子力の活用は脱炭素に向けた有力な電源構成ですが、福島第一原子力発電所の事故以来、原子力発電の」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
@@ -4590,15 +4598,10 @@
   - 「⚫ GWO認証を受けた施設で、基本安全訓練のモジュールに」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
   - 「⚫ GWO認証に基づく基礎安全訓練のほか、上級救助訓練」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
   - 「証基準の要求事項品質を維持する管理システムを整備」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
-  - 「⚫ 我が国には、過去風車メーカーが存在していたことにより培われた風車部品サプライヤーの技術があり、先般の第3」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
-  - 「の策定に必要な事項を、関係する認証機関等と連携・調整しつつ、」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
-  - 「格等の策定に必要な事項を、関係する認証機関等と連携・調整」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
-  - 「• 関係する認証機関等と連携・調整しつつダイナミックケーブルの基本」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
-  - 「• 関係する認証機関等と連携・調整しつつ浮体式変換所の基本設」（https://www.meti.go.jp/shingikai/sankoshin/green_innovation/green_power/pdf/012_03_00.pdf）
-  - 「未来の地球のために脱炭素化への取り組みは欠かせません」（https://www.toda.co.jp/business/strategic/special/windmill/offshorewind.html）
-  - 「ーニング組織でトレーニングを受講することでＧＷＯ認証を取得することができる 21」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「かし、2019 年９月時点で、我が国の認証施設は、青森県上北郡六ケ所村にあるイオスエン」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
 - 顧客の競合（奪いに来る側）：
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/）
+  - 「シリーズ「再エネの未来」市場規模5兆円！ 風車O&Mの人材育成に必要な基礎知識とは？ 【福島県の風力メンテナンス基礎講座・後編】 - ウインドジャーナル｜風力発電のビジネス情報サイト」（https://windjournal.jp/115917/）
   - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急...」（https://windjournal.jp/127008/）
   - 「洋上風力から欧州企業の撤退相次ぐ 事業性の担保が急務」（https://windjournal.jp/127008/）
   - 「【深掘り】「コザのストリートを全部買い占めたい」 米兵向け違法風俗店営業疑いで逮捕された中国籍の経営者とは スーツケースに数千万円も、関係者が語る人物像」（https://www.okinawatimes.co.jp/articles/-/1717772）
@@ -4611,10 +4614,13 @@
   - 「世界の風車ビジネスでは欧州メーカが先行したが、今、中国は、世界全体の風力発電設備の製造能力の6～7割を占める」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
   - 「欧米は、中国の安売り攻勢に対し、エネルギー安全保障や自国産業保護の観点から警戒感を強めている」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
   - 「EUは「中国は補助金で欧州市場を歪めている」として、中国メーカに対する補助金調査を開始した」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「EVと同じように制裁関税で、中国からの「デフレ輸出」を防ごうとしている」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「「欧州における風力発電施設のプロジェクト単価に関する分析」 小田潤一郎ほか エネルギー・資源学会 エネルギー・資源学会、第40回コンファレンス、2024.1.31」（https://ieei.or.jp/2025/04/aesj-engy_20250421/）
-  - 「風力発電については、欧州や中国など世界における導入拡大に比べ、我が国は導入実績」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
 - 自社の競合（商社・代理店・仲介）：
+  - 「Fonderie Et Mecanique Generale Castelbriantaiseとの独占販売代理店契約を締結（浮体式洋上風力関連）｜ニュースリリース｜原田産業株式会社」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「Fonderie Et Mecanique Generale Castelbriantaiseとの独占販売代理店契約を締結（浮体式洋上風力関連）」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「原田産業株式会社(本社：大阪府大阪市、代表取締役社長 原田暁、以下、「原田産業」)は、Fonderie Et Mecanique Generale Castelbriantaise (本社：フランス・シャトーブリアン、CEO：Nicolas Ottenwaelder、以下、「FMGC社」）と、日本国内における輸入・販売代理店契約を締結いたしました」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「本契約に基づき、2026年7月より、原田産業がFMGC社製品の仲介、輸入、販売を担当することとなります」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「原田産業では、有力な欧州メーカーの国内総代理店として洋上風力（着床式、浮体式）ビジネスを展開しております」（https://www.haradacorp.co.jp/news/detail.php?id=365）
+  - 「「鉄の商社」が環境のためにできること ＃47/株式...」（https://econews.jp/knowledge/sustainable/16687/）
   - 「三菱商事が洋上風力で522億円の巨額減損！「特損地獄」必至で中西社長の“経営責任論”に発展も | クローズアップ商社 | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/358920）
   - 「三菱商事が洋上風力事業で「巨額減損」の瀬戸際、商社No.1の座危うし！コンペ第1弾で3案件を総取りも「3つの誤算」で窮地に」』」（https://diamond.jp/articles/-/358920）
   - 「大手商社や電力会社が熾烈な競争を経て受注した大型事業から、巨額の違約金を支払ってまで撤退することは、日本では極めて異例である」（https://www.renewable-ei.org/activities/reports/20250901.php）
@@ -4624,13 +4630,8 @@
   - 「Foundation fabrication, then turbine integration at a port yard, then commissioning at the installation site. Five 9.5 MW units, 47.5 MW total.」（https://deepwind.jp/en/technology-innovations/offshore-wind-technology-summary-en/）
   - 「Fabrication, turbine integration, and installation completed domestically. Eight 2.1 MW units, 16.8 MW total — Japan’s first commercial floating array, commissioned early 2026.」（https://deepwind.jp/en/technology-innovations/offshore-wind-technology-summary-en/）
   - 「Decommissioned after demonstration, but left valuable records of a workflow where fabrication, storage, and commissioning were distributed across many stages.」（https://deepwind.jp/en/technology-innovations/offshore-wind-technology-summary-en/）
-  - 「By the end of 2025, Japan had approximately 0.3 GW of operational offshore wind capacity. Following commissioning of the 16.8 MW Goto floating pilot and the 220 MW Kitakyushu Hibikinada fixed-bottom project in Q1 2026, Japan’s installed base surpassed 500 MW. GWEC projects this will grow to」（https://deepwind.jp/en/market-insights/gwec-2026-japan-offshore-wind-fid-barrier/）
-  - 「・大手電力・ガス、総合商社、プラントエンジニアリング、重工・造船、鉄鋼・電線メーカーの新規事業開発・R&D・戦略投資担当者」（https://note.com/saidatomoya/n/n3b235c58066e）
-  - 「2024年、日本の商社と開発業者は、洋上風力の革新と関連する商業的機会を加速させる目的で、「浮体式洋上風力技術研究組合」（FLOWRA）を設立しました」（https://jp-nl-offshore-wind-energy-2025.b2match.io/page-3251）
-  - 「écologique et Solidaire [5], Commission Nationale du D ébat Public [6] [7], Offshore Wind Scotland [8],」（https://www.oceanwinds.com/wp-content/uploads/2021/10/Japan-Vision-Statement-FOWVS_Jpn-2021_web.pdf）
-  - 「5 European Commission [28]」（https://www.oceanwinds.com/wp-content/uploads/2021/10/Japan-Vision-Statement-FOWVS_Jpn-2021_web.pdf）
-  - 「6. Commission nationale du débat public. Compte Rendu du Débat Public Éolinenes Flottantes」（https://www.oceanwinds.com/wp-content/uploads/2021/10/Japan-Vision-Statement-FOWVS_Jpn-2021_web.pdf）
 - 政治（法・予算・規制）：
+  - 「７月熊本地震で初の関連死 ９０代女性、八代市が認定」（https://www.okinawatimes.co.jp/articles/-/1717772）
   - 「政府は、発電時に温室効果ガスを排出しない再生可能エネルギーを主力電源とする目標を掲げている」（https://www.okinawatimes.co.jp/articles/-/1717772）
   - 「政府関係者は「成長産業」と期待を寄せるが、将来的な人材不足が予想される」（https://www.okinawatimes.co.jp/articles/-/1717772）
   - 「政府は3月7 日、 再生可能エネルギー海域利用法の改正案*! を閣議決定しました」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
@@ -4645,8 +4646,15 @@
   - 「未稼動分を含めた固定価格買取制度による認定量は 2017 年度末」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「上風力 161 億 kWh、洋上風力 22 億 kWh）とされており6、現状の認定量は既にエネルギーミ」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「2018 年７月に閣議決定された第５次エネルギー基本計画において、「洋上風力について」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「15 デロイトトーマツコンサルティング合同会社「平成29年度電気施設等の保安規制の合理化検討に係る調査」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
 - 経済（規模・価格・為替）：
+  - 「為替相場 ９日（日本時間１６時）」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「シリーズ「再エネの未来」市場規模5兆円！ 風車O&Mの人材育成に必要な基礎知識とは？ 【福島県の風力メンテナンス基礎講座・後編】 - ウインドジャーナル｜風力発電のビジネス情報サイト」（https://windjournal.jp/115917/）
+  - 「シリーズ「再エネの未来」市場規模5兆円！ 風車O&Mの人材育成に必要な基礎知識とは？ 【福島県の風力メンテナンス基礎講座・後編】」（https://windjournal.jp/115917/）
+  - 「2030年には5兆円超の市場規模に」（https://windjournal.jp/115917/）
+  - 「陸上の風車1基あたりのライフサイクルコストは、規模によって異なるが15〜20億円」（https://windjournal.jp/115917/）
+  - 「その3分の1にあたる5〜7億円が風車1基のO&Mに充てられるということだ」（https://windjournal.jp/115917/）
+  - 「2021年の市場規模が約4,000億円であるのに対し、経済波及効果を含めた2030年の市場規模は約15兆円に拡大するという」（https://windjournal.jp/115917/）
+  - 「風車O&Mの市場は2030年には5兆円を超える」（https://windjournal.jp/115917/）
   - 「【WEB限定】173億円赤字、刀・森岡氏との関係、新スポンサー探し… ジャングリア沖縄の運営会社代表が語ったこと 株主総会の継続会後、約1時間20分の会見【全文とノーカット動画】」（https://www.okinawatimes.co.jp/articles/-/1717772）
   - 「当社が 2024 年 1 月に、約 2000 億円を投じて日本風力開発を子会社化したの$ぉ、こうした現状認識が背景にあります」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「ただ、この時に第 1 ラウンドを受注したコンソーシアムが提示した発電単価 (FIT<固定価格買取制度>での売電価格)」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
@@ -4654,15 +4662,13 @@
   - 「由利本荘市沖で 11.99 円、 千葉県銚子市沖で 16.49 円と、 3 海域の平均入札価格 (19一20 円) を大きく下回る金額でした」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「特に、規模の大きい由利本荘市沖の 11.99 円という金額は平均入札価格からかけ離れており、衝撃的な金額です」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
   - 「ーシアムの中心企業は今年 2 月、洋上風力発電事業に関して 500 億円を超える減損損失を計上すると発表しましたが、や」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「このように洋上風力はただでさえコストがかかるのに、第1 ラウンドでの事業者の選定は前述の通り入札で、「価格点」 の」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「その後、為替は 30 円以上円安に振れま した」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「為替や建設コスト の上昇を含めれば、50%以上はコストが上がっているので」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「その後の第 2 ラウンド、第3 ラウンドではほ売電価格の制度をFIT から FIPS (フィードインプレミアム) に変更するなど」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「正直なところ、これまでに権利を獲得した事業者は再生可能エネルギーの売電価格が大幅に上がらない限り、第 1 ラウン」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「実は、冒頭で第1 ラウンドのコンソーシアムの沙札価格が低すぎたという話をしましたが、その後、資源エネルギー庁」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「未稼動分を含めた固定価格買取制度による認定量は 2017 年度末」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「三菱商事が洋上風力で522億円の巨額減損！「特損地獄」必至で中西社長の“経営責任論”に発展も | クローズアップ商社 | ダイヤモンド・オンライン」（https://diamond.jp/articles/-/358920）
 - 社会（人・担い手）：
+  - 「シリーズ「再エネの未来」市場規模5兆円！ 風車O&Mの人材育成に必要な基礎知識とは？ 【福島県の風力メンテナンス基礎講座・後編】 - ウインドジャーナル｜風力発電のビジネス情報サイト」（https://windjournal.jp/115917/）
+  - 「シリーズ「再エネの未来」市場規模5兆円！ 風車O&Mの人材育成に必要な基礎知識とは？ 【福島県の風力メンテナンス基礎講座・後編】」（https://windjournal.jp/115917/）
+  - 「風車O&M事業をスタートするにあたって、人材を育成するには何が求められるのか」（https://windjournal.jp/115917/）
+  - 「福島県で2月に開催された「風力メンテナンス基礎講座」では、風車O&Mの人材育成に必要な考え方や基礎知識について、風車O&M事業を新たな地域産業とすることを目指すふくしま風力O&Mアソシエーションの菅野辰典氏が講演した」（https://windjournal.jp/115917/）
+  - 「続いて、風車O&Mの人材育成に取り組む風凛の吉田敏光ゼネラルマネージャーが、定期点検の具体的な作業内容を解説した」（https://windjournal.jp/115917/）
+  - 「日本風力発電協会と風力エネルギー学会が協定締結、人材育成で産学連携」（https://windjournal.jp/115917/）
   - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
   - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆しはどこに【脱炭素 深掘り】 | 47リポーターズ | 沖縄タイムス＋プラス」（https://www.okinawatimes.co.jp/articles/-/1717772）
   - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不足に事業見直し、追い風の兆...」（https://www.okinawatimes.co.jp/articles/-/1717772）
@@ -4672,29 +4678,31 @@
   - 「野尻湖畔のリゾート事業 後継者は幼少時から知るスキーヤー」（https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/）
   - 「４．風力発電業界における人材不足」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
   - 「５．担い手確保に向けた現状と課題」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「（１）人材育成のための教育プログラムの策定」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「）全体の事業拡大の課題として、人材育成の問」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「題が指摘されており、風力発電業界においても、従来から慢性的な人材不足の状態にある」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「り1、特に保守・運用等を行うメンテナンス分野の人材確保が喫緊の課題となっている」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「そこで、本稿では、風力発電メンテナンス分野における担い手の育成とその課題、また」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「事業」の一環として、国立大学法人東京大学において、再エネ関連事業を推進する人材育」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
 - 技術（新しい技術・実証）：
-  - 「アイスペースが月面開発に参画 ＮＡＳＡ競争入札に資格得る」（https://www.okinawatimes.co.jp/articles/-/1717772）
-  - 「シフト作成18時間→3時間、売り上げ報告書2時間→10分 AI使いホテル業務を効率化 髙倉コーポレーション」（https://www.okinawatimes.co.jp/articles/-/1717772）
-  - 「自律AIに懸念 米アップル報告 「指示に逆らう恐れ」」（https://www.okinawatimes.co.jp/articles/-/1717772）
-  - 「当社が 2024 年 1 月に、約 2000 億円を投じて日本風力開発を子会社化したの$ぉ、こうした現状認識が背景にあります」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「ませんが、日本風力開発にもゃ、当面洋上風力を手控えて陸上風力に専念するように伝えています」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「https://www.enecho.meti.go.jp/category/saving_and_new/saiene/yojo_furyoku/dl/legal/central_unyou.pdf)」（https://www.infroneer.com/pdf/company/topblog/kibelog_vol18.pdf）
-  - 「開発進むスバンの現状と可能性（インドネシア）」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
-  - 「バーティカルAI企業、起業で勝機」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
-  - 「米民主党はAIブームを失速させるのか 5つのポイントで解説」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
-  - 「６．ＡＩを活用したメンテナンス技術の開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「（１）スマートメンテナンスを支える通信技術の開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「（２）Condition Monitoring System（ＣＭＳ）高度化技術開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「（３）スマートメンテナンス点検プラットフォームの開発」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「ＡＩ等を活用して風車のメンテナンスを効率的に行うことを可能とする技術開発の動向や」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
-  - 「後も 2020 年に 2,500 万 kW、2030 年までに 6,650 万 kW の洋上風力を開発し、欧州全体に」（https://www.sangiin.go.jp/jpn/shiryo/chousa/rippou_chousa/backnumber/2019pdf/20191101057.pdf）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
+  - 「浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発」（https://www.nikkei.com/article/DGXZQOCD0112V0R00C24A3000000/）
+  - 「浮体式洋上風力の過酷環境実証が始動、国が海域公募を...」（https://windjournal.jp/127008/）
+  - 「長崎県五島市沖で独自開発のハイブリッドスパー型が本...」（https://windjournal.jp/127008/）
+  - 「浮体式洋上風力の過酷環境実証が始動、国が海域公募を開始」（https://windjournal.jp/127008/）
+  - 「長崎県五島市沖で独自開発のハイブリッドスパー型が本格稼働 地域共生型浮体構造が目指すもの」（https://windjournal.jp/127008/）
+  - 「AI自動化したサイバー攻撃 わずか36分で機密情報ハッキング 再現実験で見えた脆弱性対処の重要性」（https://www.okinawatimes.co.jp/articles/-/1717772）
+  - 「トヨタHV特許出願､5年1000件と突出 中国勢は方式集約」（https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/）
+  - 「浮体ごと回る風車､Jパワーが海で実証 新興14年越し開発」（https://www.nikkei.com/article/DGKKZO86584180X00C25A2EA2000/）
+  - 「FOMは、風力発電に関心のある地元の中小企業や個人が風車O&M事業などに新規参入するサポートを行う非営利組織であり、菅野氏はFOMを設立した企業の一社である誠電社の開発営業部長だ」（https://windjournal.jp/115917/）
+  - 「【深堀り解説】⼤⽔深・過酷環境実証の都道府県公募が...」（https://windjournal.jp/115917/）
+  - 「浮体式洋上風力の過酷環境実証が始動、国が海域公募を...」（https://windjournal.jp/115917/）
+  - 「長崎県五島市沖で独自開発のハイブリッドスパー型が本...」（https://windjournal.jp/115917/）
+  - 「【深堀り解説】⼤⽔深・過酷環境実証の都道府県公募が10月30日締め切り 浮体式主要部材 量産化の動きも」（https://windjournal.jp/115917/）
+  - 「浮体式洋上風力の過酷環境実証が始動、国が海域公募を開始」（https://windjournal.jp/115917/）
 - 検索結果の抜粋：
+  - 「2026 年 浮体式 洋上風力 発電が国内初の商用稼働 - エコニュース — 2026 年 浮体式 洋上風力 発電が国内初の商用稼働 - エコニュース エコニュース https://econews.jp > 知識 > サステナブルノート」（https://econews.jp/knowledge/sustainable/16687/）
+  - 「「成長」期待の洋上風力に吹く“逆風”、「甘い夢」で終わるのか 人材不... — Nov 25, 2025 · 日本財団海洋事業部の野本圭介さんは強調する。 「海事産業が盛んだった長崎で、洋上風力に関わる人材育成のモデルを作り上げていきたい ...」（https://news.yahoo.co.jp/articles/44e58f184444f650bd1870dfc303be5e5b2cf883）
+  - 「洋上風車技術の新たな人材育成も 五島の浮体式洋上風力発電の有効活用... — Aug 3, 2026 · 協定を結んだのは、五島市と「五島フローティングウィンドパワー」など3つの企業です。 五島市沖の浮体式洋上風力発電「はえんかぜ」を活用し、洋上風車の運転や保守に関する人材育成などに取り組みます。」（https://www.fnn.jp/articles/-/1087457）
+  - 「日本の洋上風力技術ロードマップ2026｜浮体式・EEZ・NEDOフェーズ2の... — Jul 29, 2025 · 浮体プラットフォーム形式、NEDOフェーズ2実証、EEZ設置許可制度——日本の洋上風力技術を2026年時点で体系整理。 FLOWRAとFLOWCONの産業協調から新屋浜事故の教訓まで。 2040年15GWへの技術的論点。」（https://deepwind.jp/technology-innovations-ja/offshore-wind-technology-summary/）
+  - 「「次世代浮体式洋上風力発電システム実証研究」の公募について（予告...15MW級浮体式洋上風力発電設備の基本設計承認（AiP）を取得 | ニュー...洋上風力発電に関する国内外の動向 取組の追加・拡充についてNEDO「次世代浮体式洋上風力発電システム実証研究（浮体式洋上風力発...次世代型再エネの切り札、浮体式洋上風力発電の現在地（前編） — Mar 16, 2026 · 本事業では、浮体式洋上風力発電を対象に、2040年以降の一層の導入拡大を見据え、中長期的な観点から、我が国周辺海域の特性（気象・海象条件、海域・水深特性）、系統・施工・保守等を踏まえた技術課題の抽出・整理・検証を行います。 Oct 13, 2026 · 東京ガス株式会社（取締役 代表執行役社長 CEO：笹山 晋一、以下「東京ガス」）は、浮体式洋上風力発電設備について、Principle Power社（以下「プリンシプル・」（https://www.nedo.go.jp/koubo/FF1_100458.html）
+  - 「15MW級浮体式洋上風力発電設備の基本設計承認（AiP）を取得 | ニュー... — Oct 13, 2026 · 東京ガス株式会社（取締役 代表執行役社長 CEO：笹山 晋一、以下「東京ガス」）は、浮体式洋上風力発電設備について、Principle Power社（以下「プリンシプル・パワー社」） *1 と共同で、一般財団法人日本海事協会から基本設計承認（Approval in Principle、以下「AiP」） *2 を取得しました。 授与式の ...」（https://www.tokyo-gas.co.jp/news/press/20261013-01.html）
+  - 「Japan Offshore Wind – 2025 Recap & 2026 Outlook From policy ... — In 2026, Japan’s offshore wind market enters an execution-driven phase, where feasibility, delivery capability and physical readiness—rather than policy design—will increasingly determine project outcomes.」（https://deepwind.jp/wp-content/uploads/2025/12/DeepWind_Japan-Offshore-Wind_2025-Recap-and-2026-Outlook.pdf）
+  - 「Japan offshore wind 2026: third-round auctions and the ... — May 31, 2026 · The first Japanese commercial-scale floating offshore wind project (50+ MW, expected H2 2026 or 2027) will set technology + economics benchmarks for the Asian floating wind market.」（https://earthenergylog.com/articles/japan-offshore-wind-2026）
   - 「参考資料 2 国内の 洋上風力 発電所一覧（2024 年 1 月現在） — 参考資料 2 国内の 洋上風力 発電所一覧（2024 年 1 月現在） Climate Integrate PDF https://climateintegrate.org > uploads > 2024/05」（https://climateintegrate.org/wp-content/uploads/2024/05/f0eb0ac35f15c8fdbe917318bb231982-1.pdf）
   - 「日本 の 洋上風力 産業（前編）国際連携で進める国内SC構築 — 日本 の 洋上風力 産業（前編）国際連携で進める国内SC構築 ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biz > areareports > 2026」（https://www.jetro.go.jp/biz/areareports/2026/c72d85283af3625b.html）
   - 「洋上風力 「促進区域」指定ガイドライン改訂（ 2026 年3月） — 洋上風力 「促進区域」指定ガイドライン改訂（ 2026 年3月） deepwind.jp https://deepwind.jp > Policy & Regulation」（https://deepwind.jp/policy-regulations-ja/promotion-zone-guideline-revision-2026/）
@@ -4702,14 +4710,6 @@
   - 「洋上風力 日本の現在地｜導入目標・落札価格・撤退の経緯を数字で整理... — 5 hours ago · 四方を海に囲まれた日本では、洋上風力が再生可能エネルギーの主力候補とされています。一方で、2025年には大規模な落札案件からの事業者撤退が報じられ、「本当に進むのか」という声も聞かれるようになりました。」（https://mirasus.jp/environment/23961）
   - 「Outlook for offshore wind in Japan in 2026 - Aegir Insights — Jan 8, 2026 · In 2025, Japan took a major policy step for offshore wind by passing legislation that enables development in the EEZ. But market momentum slowed: no auctions were completed last year, and already awarded projects were cancelled.」（https://www.aegirinsights.com/articles/outlook-for-offshore-wind-in-japan-in-2026）
   - 「Japan Offshore Wind Energy Market Size & Outlook 2034 — Oct 22, 2026 · The market is driven by the expansion of offshore wind development into Japan's Exclusive Economic Zones following legislative reforms in 2024, which unlocked vast deepwater areas suitable for floating wind farms.」（https://www.imarcgroup.com/japan-offshore-wind-energy-market）
-  - 「洋上風力 エネルギー市場の評価： 2026 年から2033年までの ... — 洋上風力 エネルギー市場の評価： 2026 年から2033年までの ... LinkedIn https://jp.linkedin.com > pulse > 洋上風力エネルギー市...」（https://jp.linkedin.com/pulse/%E6%B4%8B%E4%B8%8A%E9%A2%A8%E5%8A%9B%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A9%95%E4%BE%A12026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE141%E3%81%AEcagr%E3%81%8C%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E7%8F%BE%E5%9C%A8%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E5%B0%86%E6%9D%A5%E3%81%AE%E6%88%90%E9%95%B7-7490533049185632256-h92me）
-  - 「浮体式 洋上風力 発電導入マニュアル — 浮体式 洋上風力 発電導入マニュアル 福島洋上風力コンソーシアム PDF https://www.fukushima-forward.jp > pdf > study020」（https://www.fukushima-forward.jp/reference/pdf/study020.pdf）
-  - 「欧州における 洋上風力 に係る政策及びサプライチェーン整備等 ... — 欧州における 洋上風力 に係る政策及びサプライチェーン整備等 ... 一般財団法人 日本船舶技術研究協会 PDF https://www.jstra.jp > PDF > report1_2026」（https://www.jstra.jp/PDF/report1_2026.pdf）
-  - 「水中ドローンのFullDepthらが「洋上風力無人点検の未来図」提案 — May 21, 2026 · 国産水中ドローンを開発するFullDepthは、内閣府のAUV利用実証事業に基づき、洋上風力発電設備の水中点検をロボットで無人化するロードマップを共同提案した。自律型潜水機などを組み合わせ、2030年の早期社会実装に向けた課題や将来像をまとめた。」（https://built.itmedia.co.jp/bt/articles/2605/21/news121.html）
-  - 「洋上風力発電事業に必要な人材数を推計 2050 年には48,500 人が必要 –... — Oct 3, 2023 · 今後、 2050 年カーボンニュートラル達成を目指し、洋上風力発電の導入ならびに運用を着実に進めるにあたり、人材の不足が懸念されていますが、今回の検討が解決に向けた一助になればと考えています。」（https://jwpa.jp/information/7798/）
-  - 「2050年カーボンニュートラルに向けた 洋上風力発電人材育成の取り組み... — 洋上風力発電の技術者、技能者の人材不足 ・ 洋上風力発電の人材需要は2030年に15,700人、2050年に48,500人(現在は約5,000人) ・ 洋上作業の専門性を有する人材の確保、育成が急務」（https://www.cas.go.jp/jp/seisakukaigi/kaiyou/sanyo/dai77/77shiryou2_3.pdf）
-  - 「洋上風力発電の人材不足の解消に 沖合の訓練施設に作業員を輸送 長崎... — Sep 14, 2026 · 洋上風力発電の作業員を沖合にある訓練施設まで輸送する船の起工式が14日、佐世保市で行われました。 今後、本番と同じ条件で訓練が可能になり、洋上風力作業員の人材不足の解消につなげたい考えです。」（https://www.fnn.jp/articles/-/1114071）
-  - 「風力発電、高所作業の人材が足りない！ ～再エネ拡大へ期待大だが...... — Jan 19, 2024 · 現在の5施設に加え、洋上の作業訓練を含む施設だけで新たに5カ所計画されている。 その一つが本格的な洋上風力発電を日本で最初に手掛けたウィンド・パワー・グループ（茨城県神栖市）の訓練施設。 4月にオープンする予定だ。」（https://blogs.ricoh.co.jp/RISB/environment/post_886.html）
 
 ## 小型モジュール炉（small modular reactor）
 - 文脈：12 GX ⑥次世代革新炉
@@ -5024,6 +5024,13 @@
 ## バーティカルAI（vertical AI）
 - 文脈：1 AI・半導体 ③バーティカルAI
 - 痛み・損（深さの印）：
+  - 「Labor shortages in mission-critical trades:」（https://www.nea.com/blog/tomorrows-titans-vertical-ai）
+  - 「Productive agents are the antidote to labor shortages in the U.S.」（https://www.nea.com/blog/tomorrows-titans-vertical-ai）
+  - 「, ~38% of Americans have a four-year college degree, compared to 30% 10 years ago and 23% 20 years ago. [7] Education in trades and vocational upskilling lags behind. America has a labor shortage of plumbers, electricians, truck drivers, accountants, teachers, police officers, and many other critical industries.」（https://www.nea.com/blog/tomorrows-titans-vertical-ai）
+  - 「: Even without a labor shortage, industries where labor can command a premium and where there is latent demand for labor (ex: financial services, law) have immense pull for AI automation.」（https://www.nea.com/blog/tomorrows-titans-vertical-ai）
+  - 「Sectors with labor shortages」（https://www.nea.com/blog/tomorrows-titans-vertical-ai）
+  - 「following the nationwide protests. [11] Similarly, there is a labor shortage of」（https://www.nea.com/blog/tomorrows-titans-vertical-ai）
+  - 「America faces a large labor shortage in the trades. Nearly」（https://www.nea.com/blog/tomorrows-titans-vertical-ai）
   - 「日本経済新聞が日本総合研究所と人手不足で生じた機会損失を試算したところ、その規模は年16兆円に達した」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
   - 「人手不足倒産、1万3500社が「予備軍」 飲食や介護に急増リスク」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
   - 「4〜9月の企業倒産4％増、13年ぶり高水準 人手不足理由が過去最多」（https://www.nikkei.com/article/DGXZQOCD3097Z0Q5A930C2000000/）
@@ -5046,6 +5053,10 @@
   - 「このレポートでは、主な導入領域として金融、ヘルスケア、製造、小売といった分野を挙げています」（https://www.members.co.jp/column/20260326-vertical-ai）
   - 「2023年以降、生成AIは驚異的なスピードで普及し、多くの企業が実証実験（PoC）や試行的な導入を重ねてきました」（https://www.members.co.jp/column/20260326-vertical-ai）
 - 顧客の顧客（発注元が求めること）：
+  - 「まず最初に、AIエージェントはユーザーの要求を理解します」（https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/）
+  - 「・ハイパースケーラー等の導入先の要求仕様の先読みや、研究機関との連携による海底ケーブル関連」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
+  - 「企業の資材調達や物流などのサプライチェーン管理は、見積依頼、請求書などの大量の書類照合、進捗確認、サプライヤーとのやり取り、そして決済など、バックオフィス業務のなかでも反復かつ大量の書類のやり取りが発生する分野です」（https://blog.allstarsaas.com/posts/ai-lab-01）
+  - 「令和9年度概算要求の要点を3分で｜143兆円・投資枠・DXとAIの重点｜概算要求をDX視点で読む」（https://digital-supporter.net/mirai-ai/gaisan/gaiyou.html）
   - 「・グローバル市場における我が国の海底ケーブルサプライヤーの採用に向け」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
   - 「2027年度の概算要求では、内閣府が「AX実現に向けたバーティカルAIの導入・開発利用の促進」として」（https://tosen-lab.com/gs-map-vertical-ai/）
   - 「約1,009億円を新規で要求」（https://tosen-lab.com/gs-map-vertical-ai/）
@@ -5057,42 +5068,38 @@
   - 「要の制度改革や技術標準・認証の整備を一体的に推進」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
   - 「対策、AIガバナンスや安全性認証制度の整備、意思決定に係るAIのルール形成）」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
   - 「＊1 一定のセキュリティ基準に適合するIoT製品を認証する制度」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「• 脱炭素電源を活用するデータセンターの整備を支援するとともに、「GX戦略地域制度」においてデータセ」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「保や工業用水の供給、脱炭素電源の整備など、その他インフラ整備も促進していく」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「要求に応じて適切なクラウドを使う前提でのITシステム移行を官民一体で加速させる」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
-  - 「・電子カルテの標準仕様の策定、標準仕様準拠製品の認証制度の構築（2026年度中に認証）」（https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/senryaku/dai3/shiryou2.pdf）
 - 顧客の競合（奪いに来る側）：
-  - 「2026年に向けて予測される技術・ビジネスの変化や、世界のAIトレンドを牽引する米国からの展望、そして今後日本企業がとるべきAIエージェント導入戦略などについて熱く語りました」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「日立ソリューションズに入社後、衛星画像受信システムの開発・導入や、米国州政府向けの固定資産税評価サービスの運用に従事」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「2023年以降は、自動車のソフトウェア・ディファインド・ビークル（SDV）および建設テック分野の製品マーケティングを推進」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「新卒で現日立ソリューションズに入社し、JavaエンジニアとしてECサイトの開発・運用に従事後、米国での研修を経て、主に大手通信事業者のシステム再構築プロジェクトにコンサルタント、ITアーキテクト、プロジェクトマネージャーとして参加」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「一方、スタートアップは、バーティカルAIで勝ち筋は見えたものの、プレイヤーが多すぎて勝者不明となる、技術進化の速さで優位性がすぐ陳腐化してビッグテック（Big Tech）との競合も激化するなど、まさにAI乱世という表現が正しい時代でした」と述べました」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「米国では、生成AIによるソフトウェア開発が主流となり、エントリーレベルの業務が代替されるなど自動化が進展」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「鈴木は「ここまで見ていくと、米国では相当AI活用が進んでいるように思えますが、MIT（マサチューセッツ工科大学）から出されたレポートでは、生成AIのパイロットプロジェクトのうち、実際に効果や収益拡大につながっているのは全体の約5％程度に過ぎず、約95％は期待していた成果を出せていないか、PoC止まりになっていると指摘しています」と述べました」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「【2026年10月28日（水）オンライン開催】「規制」から「競争力」へ舵を切る欧州～注目ユースケースで紐解く Sovereign Tech／Deep Tech／Industrial AI～」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「本イベントでは、欧州の政治・政策・規制の最新動向を俯瞰し、それらがテクノロジー市場にどのような変化をもたらしているのか、注目すべき企業やユースケースを交えながら解説します」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「【イベントレポート】 VivaTech 2026レポート：AI前提社会への転換が始まった――欧州が示した次世代テクノロジーの潮流」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「株式会社日立ソリューションズが運営するコミュニティ「ハロみん」による『GLOBAL TREND NOW vol.11』の内容をもとに、「VivaTech 2026」で見えた欧州のテクノロジートレンドおよび、日本企業がそこから何を学ぶべきかについてまとめました」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「「規制」から「競争力」へ舵を切る欧州 注目ユースケースで紐解く Sovereign Tech / Deep Tech / Industrial AI」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「欧州のテクノロジー市場はいま、大きな転換期を迎えています」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「これまで欧州は、AIやデータ、サステナビリティなどの...」（https://future.hitachi-solutions.co.jp/article_action/116.html）
-  - 「米国ではバーティカル AI への企業支出が増加しており、事例からは、日常」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「動き出すインド半導体、狙うは「世界の工場」 ラピダスも参戦」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「韓国、首都圏に7万6700戸供給へ…「自立型都市」掲げるも雇用目標は未提示」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「競合他社との違いや優位性についてまとめております」（https://genee.jp/contents/vertical-ai/）
+  - 「フィジカルＡＩ（特にＡＩロボット）は、2040年に世界シェア3割超・20兆円の市場獲得を目指し、ロボット基盤モデルの開発能力強化や「ＡＩロボティクス実装ロードマップ」に基づく18分野での導入を進めます」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
+  - 「世界シェア3割超」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
+  - 「フィジカルＡＩ（特にＡＩロボット）について、日本成長戦略はＡＩロボットで2040年に世界シェア3割超、20兆円の市場獲得を目指しています」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
+  - 「・ＡＩロボットについて2040年に世界シェア３割超、20兆円の市場獲得を目指す」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
+  - 「2040年に世界シェア３割超、20兆円の市場獲得」（https://digital-supporter.net/mirai-ai/seichou17/ai-handoutai.html）
+  - 「によると、2025 年の米国企業におけるバーティカル AI への支出額 35 億ドルのうち、医療分野」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「図表 2 米国におけるバーティカル Al への企業支出 (カテゴリー別、2025 年推計)」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.pdf）
+  - 「2040年に世界シェア3割超・国内20兆円」（https://robotmate-hub.com/879/）
+  - 「産業用ロボット 約0.8兆円（世界シェア約7割）／サービスロボット 約2.8兆円（シェア1割強）」（https://robotmate-hub.com/879/）
+  - 「市場規模で3.5倍大きいサービスロボット領域で、日本は世界シェア1割強しか取れていない」（https://robotmate-hub.com/879/）
+  - 「2040年の世界シェア3割超と国内20兆円については、現状のままでは中位シナリオでは届かない可能性が相応に高い」（https://robotmate-hub.com/879/）
+  - 「現状の実績値として、産業用ロボット市場が約0.8兆円（日本の世界シェア約7割）、サービスロボット市場が約2.8兆円（同1割強）です」（https://robotmate-hub.com/879/）
 - 自社の競合（商社・代理店・仲介）：
-  - 「加えて、エージェント型A 1 (Agentic Al) の出現でA 1 が業務全体を」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
-  - 「Vertical AI Agents Transform Japan Real Estate」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「Agents of Dev Podcast」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「Maximizing ROI with Agentic AI: Why Agentforce Is the Fast Path to Enterprise Value」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「In the latest study by Futurum Research, Maximizing ROI with Agentic AI: Why Agentforce Is the Fast Path to Enterprise Value, completed in partnership with Salesforce, Futurum Research explores why...」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「SCSK Bets on Vertical AI Agents to Crack Japan's Real Estate Market」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「SCSK launched its Real Estate Industry AI Agent Set on September 18, 2026, targeting sales brokerage, rental management, leasing, and owner relations workflows」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「. The offering draws on SCSK's experience with 50+ real estate clients to deliver pre-built, domain-optimized AI agents that integrate directly with enterprise CRM/SFA data」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「Roadmap toward Agent-to-Agent (AtoA) workflows via the SCSK AX Platform」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「SCSK launched its Real Estate Industry AI Agent Set on September 18, 2026, covering sales brokerage, rental management, leasing, and owner relations workflows」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「. The agents integrate with enterprise CRM/SFA systems to use customer, property, contract, and activity history data for company-specific AI customization」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「. The initial launch targets sales brokerage and rental management, with plans to expand to additional domains and add an ontology-layer knowledge infrastructure for higher-accuracy agents」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「. SCSK plans to evolve the platform toward Agent-to-Agent (AtoA) workflows via its SCSK AX Platform, extending beyond CRM/SFA to ERP and operational systems」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「, SCSK's proprietary agent set places it squarely in the leading cohort. The real estate sector's structural pressures make it a compelling first target.」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
-  - 「. This data connectivity is what separates a domain-optimized agent from a generic chatbot layered on top of existing systems.」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
+  - 「AIエージェント全体への期待と可能性は、いま「バーティカルAIエージェント（Vertical AI Agents）」へと集約されつつあります」（https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/）
+  - 「Compound AI Systemの下では、多数のVector DB、API、AIモデル、AIエージェント、そしてAgentic Systemが相互に連携しながら課題解決を行います」（https://www.makinarocks.ai/ja/blog/%E7%94%A3%E6%A5%AD%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%80%81%E4%BC%81%E6%A5%AD%E3%82%92%E5%A4%89%E9%9D%A9%E3%81%99%E3%82%8B%E3%83%90%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AB%E3%83%ABai%E3%82%A8%E3%83%BC/）
+  - 「NIST, AI Agent Standards Initiative, 2026.」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
+  - 「NIST NCCoE, Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization, 2026.」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
+  - 「European Commission, AI Act — Shaping Europe's digital future, 2026.」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
+  - 「Most AI tools are built for every company. B2Bee is built for distributors: AI agents that engage your buyers, take their orders to the ERP, and guide your sales team on what to do next.」（https://www.b2bee.net/vertical-ai）
+  - 「For a distributor, the difference shows up in the output. A horizontal tool gives you an answer. B2Bee gives you a confirmed order in your ERP, a reminder sent before the cut-off, and a rep who knows which account to visit first.」（https://www.b2bee.net/vertical-ai）
+  - 「General-purpose AI is useful. It is just not built to run a distributor's sales day.」（https://www.b2bee.net/vertical-ai）
+  - 「Hive365 normalizes the six domains a distributor runs on: catalog, prices and terms, customers, orders and deliveries, stock, and conversations. Every agent works from the same numbers.」（https://www.b2bee.net/vertical-ai）
+  - 「B2Bee helps wholesale distributors grow sales with AI agents that engage customers, take orders, and guide sales teams on what to do next. NORA's AI agents work for buyers and reps. Sellion runs the portal, field sales and delivery apps. Hive365 connects your ERP. ProcurAI serves hotel and restaurant chains that buy from many suppliers.」（https://www.b2bee.net/vertical-ai）
+  - 「A beverage route, a cold chain and an electronics reseller network have different cut-offs, baskets and buyers. B2Bee is configured for each.」（https://www.b2bee.net/vertical-ai）
+  - 「Resellers hear about stock changes first.」（https://www.b2bee.net/vertical-ai）
+  - 「AI agents that engage customers, take orders, and guide sales teams on what to do next」（https://www.b2bee.net/vertical-ai）
+  - 「Wholesale distributors, with a focus on HoReCa: beverage, food and professional hygiene」（https://www.b2bee.net/vertical-ai）
+  - 「NORA (AI agents for buyers and reps), Sellion (apps for distributor teams), Hive365 (data layer), ProcurAI (AI procurement for HoReCa chains)」（https://www.b2bee.net/vertical-ai）
 - 政治（法・予算・規制）：
   - 「政府調達や制度改革により初期需要を積極的に喚起し、 開発投資や実装に対する支援を実施する」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「広く浅い用途に対応する、一般的な汎用AIは多種多様なタスクをこなせる反面、業界固有の業務フローや規制、複雑な判断基準を前提とした活用には限界があります」（https://www.members.co.jp/column/20260326-vertical-ai）
@@ -5110,6 +5117,10 @@
   - 「出典：令和9年度ＡＩ関連予算要求について」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
   - 「今後の予算編成で金額が変わる可能性があり、個別事業の公募時期や要件も資料には記載がありませんので、ご注意ください」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 経済（規模・価格・為替）：
+  - 「独自調査で判明、三菱UFJニコス・みずほで1000億円超のプロジェクト」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「月10時間×3,000円＝3万円」（https://genee.jp/contents/vertical-ai/）
+  - 「25万円－12万円－3万円＝10万円」（https://genee.jp/contents/vertical-ai/）
+  - 「さらに初期費用を120万円と仮定すれば、単純な回収期間は12か月です」（https://genee.jp/contents/vertical-ai/）
   - 「た (2030 年約 3 兆円)」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「同じ月に閣議決定された日本成長戦略では、バーティカルAIに2040年度までに官民で23.1兆円を投じる計画です」（https://tosen-lab.com/gs-map-vertical-ai/）
   - 「ロボットなどを動かすフィジカルAI（10.5兆円）の2倍を超える金額」（https://tosen-lab.com/gs-map-vertical-ai/）
@@ -5121,11 +5132,13 @@
   - 「・2024年の国内バーティカルAI市場は約1兆円で、2030年には約3兆円になる見通し」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
   - 「国内のバーティカルAI市場は2024年に約1兆円で、2030年には約3兆円になる見通しで、フィジカルAIに先行して市場が発現しています」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
   - 「令和9年度のAI関連予算概算要求では、令和8年度当初予算（約5,027億円）を基盤としつつ、さらなる投資拡大に向けた大規模な予算要求が行われています」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「中小企業等を対象としたAX促進、業務効率化やDXの推進支援【新規】：経産省 約3,746億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「バーティカルAIの導入・開発利用の促進【新規】：内閣府 約1,009億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「AIロボット・フィジカルAIを見据えたマルチモーダル基盤モデルの開発：経産省 約8,964億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「AIロボティクスの中核拠点（CoE）の創設【新規】：経産省 約1,333億円」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 社会（人・担い手）：
+  - 「韓国、首都圏に7万6700戸供給へ…「自立型都市」掲げるも雇用目標は未提示」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「経審に「制度疲労」、人材の確保や育成の評価拡充を求める声 国交省調査」（https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/081700324/）
+  - 「製造：品質管理や技能継承に現場データを活用」（https://genee.jp/contents/vertical-ai/）
+  - 「医療の記録作成、法務の文書分析、製造現場の技能管理など、専門知識を必要とする仕事への活用が進んでいます」（https://genee.jp/contents/vertical-ai/）
+  - 「専門人材の不足、社内データの分散、業務への適合といった観点から、領域特化の仕組みが検討されています」（https://genee.jp/contents/vertical-ai/）
+  - 「技能継承では、従業員の資格、教育履歴、作業経験などを整理し、育成計画や配置を検討する材料にできます」（https://genee.jp/contents/vertical-ai/）
   - 「導入が進おバーティカルA 1 主導で、 人材、モデル、 アプリ、 データ、 クラウド、 データセンター、 計算資源、」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「また、 ②人手不足を始めとする社会課題の」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「重点支援領域ごことに戦略的に、 人材、データを含めたA | 基盤への官民投資を促進する」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
@@ -5135,12 +5148,6 @@
   - 「現場とAIの技術の両方の知識を持つ人材の不足も、課題に挙がっている」（https://harch.jp/ai/glossary/vertical-ai）
   - 「製造の領域の節では、現場の工程や品質の保証を理解したうえでAIで解く課題を決め、実装して運用まで受け持つ人材の不足が課題に挙がっている（※2）」（https://harch.jp/ai/glossary/vertical-ai）
   - 「※3：出典「LayerXが開発するAi Workforce、法務領域に進出」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「300ページ超の長文・複雑な契約書に対応する「Ai Workforce 契約書ソリューション」を提供開始」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「求められるのは、現場を知る専門人材の関与」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「AI活用がPoCの段階で足踏みしている企業では、往々にしてこの専門人材が不在だったり、あるいは定義が曖昧なままプロジェクトが進められたりしているケースが見られます」（https://www.members.co.jp/column/20260326-vertical-ai）
-  - 「・AI実装人材の創出による導入の円滑化、」（https://digital-supporter.net/mirai-ai/17invest/vertical-ai.html）
-  - 「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ - フィデックス株式会社」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
-  - 「フィジカルAIで人手不足を解消する方法｜中小製造業のAI-Ready化5ステップ」（https://www.fidx.co.jp/physical-ai-manufacturing-labor-shortage-adoption-5-steps/）
 - 技術（新しい技術・実証）：
   - 「3.1.6. BU RAI ec ccc eecssseescessnecessnecessnneecssnsecessneesessnusecesnusecsssueesssnecessnteessneeessnneessaness16」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「3.2.1. BEAR TPR + FAI ccc ecccceeeecessneeessneseesnnecessneesssneeessnecessnteessnueessneeessaness19」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
@@ -5158,6 +5165,10 @@
   - 「製造領域については、 日本の強みである現場の力を活用した競争力ある Al の開発とその活用を通じた生」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
   - 「やサプライチェーン等に関する現場データ連携等のために不可欠なデータ精製技術開発やデータセットの構築、」（https://www8.cao.go.jp/cstp/ai/ai_hq/5kai/shiryo2_2.pdf）
 - 検索結果の抜粋：
+  - 「2026 年、 バーティカルAI の達成点・限界点・突破点 - note — 2026 年、 バーティカルAI の達成点・限界点・突破点 - note note https://note.com > 科学・テクノロジー > AI・機械学習」（https://note.com/legit_cobra5046/n/nc63e9514cd5c）
+  - 「Vertical AI for Wholesale Distribution - B2Bee — Vertical AI for Wholesale Distribution - B2Bee B2Bee https://www.b2bee.net > Company」（https://www.b2bee.net/vertical-ai）
+  - 「From Family Business to Vertical AI Breakout with Benj Cohen — From Family Business to Vertical AI Breakout with Benj Cohen LinkedIn https://www.linkedin.com > posts > benj-cohen_episode-6...」（https://www.linkedin.com/posts/benj-cohen_episode-6-from-family-business-to-vertical-activity-7457794295287353344-6oio）
+  - 「What to expect from Vertical AI in 2026 - Aforza — What to expect from Vertical AI in 2026 - Aforza Aforza https://aforza.com > what-to-expect-fr...」（https://aforza.com/what-to-expect-from-vertical-ai-in-2026/）
   - 「日本成長戦略を支える2つのAI！「 バーティカルAI 」と ... — 日本成長戦略を支える2つのAI！「 バーティカルAI 」と ... 東証マネ部！ https://money-bu-jpx.com > news > article071262」（https://money-bu-jpx.com/news/article071262/）
   - 「バーティカルAI とは？ホリゾンタルAIとの違いと政府19領域 — バーティカルAI とは？ホリゾンタルAIとの違いと政府19領域 株式会社一創 https://www.issoh.co.jp > コラム > AI」（https://www.issoh.co.jp/column/details/13980/）
   - 「Vertical AI Agents Transform Japan Real Estate — Sep 18, 2026 · SCSK unveiled its Real Estate Industry AI Agent Set on September 18, 2026, delivering pre-built, vertically packaged AI solutions for sales brokerage, rental management, and leasing workflows across 50+ enterprise clients.」（https://futurumgroup.com/insights/scsk-bets-on-vertical-ai-agents-to-crack-japans-real-estate-market/）
@@ -5169,14 +5180,18 @@
   - 「Japanese AI Startups to Watch - AI Market Watch — Oct 25, 2026 · Track Japanese AI startups across robotics, productivity, healthcare, enterprise software, and vertical AI applications. AI Market Watch tracks 182 comp...」（https://www.ai-market-watch.com/markets/japan-ai-startups）
   - 「専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... — 専門業務を支えるVertical AI（ バーティカルAI ）とは？汎用AI ... Members Co.,Ltd. https://www.members.co.jp > 20260326-vertical-ai」（https://www.members.co.jp/column/20260326-vertical-ai）
   - 「バーティカルAIとは？汎用AIとの違いや業界別事例、料金モデルを徹底... — Jul 13, 2026 · バーティカルAI（Vertical AI）は業界・業務に特化したAIで、2026年に日本政府（高市AI基本計画19分野）と海外ユニコーン（Sierra $15B超・Harvey $11B）の両輪で急加速しています。」（https://www.ai-souken.com/article/what-is-vertical-ai）
-  - 「AIが「実行できる」と「実行してよい」は違う――2026年のVertical AIを... — Aug 13, 2026 · NISTも2026年、AIエージェントの相互運用性とセキュリティを対象とした標準化イニシアティブを開始しました。 日本政府の第Ⅱ期人工知能基本計画でも、AIが「業務を支援するツール」から「意思決定・実行を担う主体」へ進化していることを前提に、Vertical ...」（https://qiita.com/GhostDriftResearch/items/82cca2d3813d2a284743）
-  - 「【解説】政府、「バーティカルAI」推進｜Yoshi_it — Jul 12, 2026 · 政府は、ソフトウェアとしてのAIとハードウェアとしてのロボット技術を高度に融合させたソリューションの早期実用化を目指し、2040年までに1,000万台規模のロボット導入を視野に入れた戦略を推進しています。」（https://note.com/natty_toucan386/n/n71569e37eb2b）
-  - 「社会実装から見るバーティカルAIの可能性 2026年09月30日 | 大和総研 ... — Sep 30, 2026 · 生成AIをめぐる競争の焦点は、汎用的な基盤モデルの性能向上に加え、AIを特定の産業や業務に組み込むことへと広がりつつある。 そこで問われるのは、処理時間の短縮や品質の向上といった、測定可能な業務上の成果である。」（https://www.dir.co.jp/report/research/economics/japan/20260930_026094.html）
-  - 「AI基本計画2026改定案はどうなった？確定版のバーティカルAI・AI主権 ... — Jun 29, 2026 · 以下では、改定前の計画との違い、確定版で前面に出たバーティカルAI・AI主権の意味、中小企業への実務的な影響を整理します。 政府は2026年7月14日、人工知能基本計画の第Ⅱ期計画を閣議決定した。」（https://tech-ai.hateblo.jp/entry/2026/06/29/180000）
 
 ## 造船の受注残と人手不足（一次）（shipbuilding order backlog labor shortage Japan）
 - 文脈：8 造船 ④受注残と人手
 - 痛み・損（深さの印）：
+  - 「舶用エンジン大手のジャパンエンジンコーポレーション（J-ENG）は、2026年4〜6月期の受注高が104億9,000万円（前年同期比22.9%増）、6月末の受注残高は375億6,000万円（同36.3%増）でした」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「厚板・舶用エンジン・船舶塗料など裾野の部材メーカーで受注・受注残の増加が数字として出ており、AIロボットや人材育成サービスなど造船所を直接の顧客としない分野にも事業機会が広がっています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「新造船の受注は1隻（前年同期は7隻）で、受注残は1,171億7,700万円（16.2%減）」（https://zosenblog.com/261107zosentopix/）
+  - 「中国の造船所は世界の新造船受注残の6割超（標準貨物船換算トン数ベース）を確保し、日本は1割未満です」（https://zosenblog.com/261107zosentopix/）
+  - 「一方で内海造船は受注残が16%減」（https://zosenblog.com/261107zosentopix/）
+  - 「造船の決算は、利益だけでなく受注残と手持ち工事まで見ると、見え方が変わります」（https://zosenblog.com/261107zosentopix/）
+  - 「深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字」（https://zosenblog.com/261107zosentopix/）
+  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/261107zosentopix/）
   - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「バルカー・タンカー・LNG船・DWT・パナマックス・進水・艤装・受注残・脱炭素・新燃料船など、就活生・投資家にも役立つ完全用語ガイド」（https://zosenblog.com/zosenshoraisei2026/）
@@ -5184,15 +5199,9 @@
   - 「投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
   - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/2024zosengyokai/）
   - 「三菱造船が下関の建造能力を2倍にする2段階の手順を説明、日米シンポで造船拡大の壁に「人材」「需要」、世界の受注残は中国64%・日本6%」（https://zosenblog.com/2024zosengyokai/）
-  - 「深読み解説｜造船・舶用の上期決算を総まとめ──JMUは経常65%増、内海造船は受注残16%減で株価急落、市場が見ている「受注残」という数字」（https://zosenblog.com/2024zosengyokai/）
-  - 「投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/2024zosengyokai/）
-  - 「受注残高：3,941億円（前年比＋27%）── 過去最高水準」（https://zosenblog.com/2024zosengyokai/）
 - 顧客（金を払う側）：
+  - 「函館・室蘭で楽しむ造船×北海道観光｜函館どっく拠点と工場夜景・温泉を巡る贅沢ルート」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「日本三大夜景の函館山＋日本四大工場夜景の室蘭ナイトクルーズ＋洞爺湖・登別温泉まで、造船×絶景×温泉を満喫する2泊3日モデルコース完全ガイド」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船業界 今週の動き 2026年5月中旬｜新造船受注66万トン・本決算ラッシュ・SOY2025は「げんぶ」が受賞」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「4月新造船受注66万総トン(前年比+6%)、手持ち工事量約3.5年分、三井E&S・名村造船所の好決算、中韓の受注攻勢、SOY2025は自律運航船「げんぶ」が大賞」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「9月の輸出船受注は17隻で手持ち工事は約3.6年分、経産省は造船向け鋼材が人手不足で前年比9.8%減と予測」（https://zosenblog.com/zosen-hitode-fukayomi/）
@@ -5206,103 +5215,101 @@
   - 「坂出工場に10年で約1,000億円を投資」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「採用の門が広く、待遇改善が進みやすい」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船・鉄鋼業界は技術力が高く、腰を据えて働ける企業が多い一方、」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「──受注の増加が、実際の完成量の増加につながっているか」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船所が受注していて、まだ引き渡していない船の量を、年間の竣工量で割った指標」（https://zosenblog.com/zosen-hitode-fukayomi/）
 - 顧客の顧客（発注元が求めること）：
+  - 「①船舶建造体制の強靱化、②造船人材の確保・育成、③脱炭素化等を通じたゲームチェンジ、④安定的な需要の確保、⑤同志国・グローバルサウスとの連携です」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「次世代の脱炭素燃料エンジン（アンモニア・水素）の実証運転に生産ラインの一部を割いた影響で、新造エンジンの売上高は同期40%減の28億円でした」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/261107zosentopix/）
+  - 「11月30日に始まるIMOのMEPC85を前に、脱炭素ルールの行方も注目されています」（https://zosenblog.com/261107zosentopix/）
+  - 「2. 国内造船の受注は堅調、2030年納期の商談へ──一方で内海造船は上期の新造船受注1隻」（https://zosenblog.com/261107zosentopix/）
+  - 「年間で商船約25隻、艦艇・官公庁船5〜6隻の計30隻規模」（https://zosenblog.com/261107zosentopix/）
+  - 「商談の中心は2030年納期に移っており、日本の造船会社が一定のシェアを持つバルカーでは「今年または今年度内に30年（度）納期船を売り切る勢い」と日本海事新聞は伝えています」（https://zosenblog.com/261107zosentopix/）
+  - 「会社は船主側について、造船所が提示した船価では採算が合わず、納期が3年以上先になることも重なって発注に慎重になっていると説明しています」（https://zosenblog.com/261107zosentopix/）
+  - 「韓国・日本・フィンランドからも調達し、納期遅延のリスクに」（https://zosenblog.com/261107zosentopix/）
+  - 「常石ソリューションズ東京ベイ、NKから技術認証」（https://zosenblog.com/261107zosentopix/）
+  - 「多いほど先の仕事は安定しますが、新しい注文に提示できる納期は先になります」（https://zosenblog.com/261107zosentopix/）
+  - 「日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています」（https://zosenblog.com/261107zosentopix/）
   - 「造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「バルカー・タンカー・LNG船・DWT・パナマックス・進水・艤装・受注残・脱炭素・新燃料船など、就活生・投資家にも役立つ完全用語ガイド」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「東京港大井ふ頭再編とは 処理能力1.4倍化とDX脱炭素を解説」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「486万TEUを扱う東京港のDX、完全予約制、脱炭素、岸壁増深が小売と消費財物流に与える影響を読み解く」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「中国の受注残首位が新興・恒力造船に交代、HD現代の上期受注90%増、川崎重工の船舶部門24%増益、商談は2030年代納期へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「日本建造バルカーの新造船価が強含み、NOx規制改正の駆け込み発注や期近納期の高値成約も」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「造船業界の将来性は？｜手持ち工事量3.5年分・3強時代・防衛・自律運航・脱炭素で『再復活』フェーズの実像を一次情報で徹底解説」（https://zosenblog.com/2024zosengyokai/）
-  - 「手持ち工事量3.5年分の好況、主要各社が過去最高水準の決算、3強時代の再編、艦艇輸出・自律運航・脱炭素という新競争軸、リスクとFAQまで客観的に整理した完全ガイド」（https://zosenblog.com/2024zosengyokai/）
-  - 「政府が官民投資工程表で国産LNG運搬船「2035年以降に年3〜5隻」の建造再開を明記、海事局は27年度概算要求も視野」（https://zosenblog.com/2024zosengyokai/）
-  - 「日本造船業に起きた静かな革命──1兆円投資・歴史的統合・脱炭素が描く2030年の航海図｜2025年度総括」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「9月も17隻の輸出船を受注し、納期は2030年度まで埋まり始めました」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「日本海事新聞・日刊産業新聞・鉄鋼新聞を毎週読み込み、公式IR・官公庁資料と照合したうえで、業界ニュースをわかりやすく解説しています」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「ここを混ぜると、実際には元請の固定採用が増えていないのに、市場が強く見えてしまうことがあります」（https://note.com/yo4shi80/n/nf9912a86ef51）
-  - 「さらに4〜6月受注分の納期内訳は、」（https://note.com/yo4shi80/n/nf9912a86ef51）
 - 顧客の競合（奪いに来る側）：
-  - 「造船・舶用に関わる人の必修ニュース 2026年11月第1週｜JMU経常65%増・造工がLNG船再開に言及・中国は主機不足・MEPC85へ──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年7月第4週｜檜垣社長がLNG船再開へ「韓国協業」言及・今治売上6005億円で大台超え・上半期受注500万トン──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「今治造船・檜垣社長がLNG船建造再開で「韓国との協業」に言及、売上高は6005億円と初の6000億円台に」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年11月第1週｜JMU経常65%増・造工がLNG船再開に言及・中国は主機不足・MEPC85へ──これだけ押さえれば情報通」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「アステラス社員12月出所へ、中国スパイ罪が製薬企業に残す課題」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「中国でスパイ罪により懲役3年6月の判決が確定したアステラス製薬の日本人社員が、12月中旬に刑期満了で出所する見通しです」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「2023年の拘束から判決までの経緯、改正反スパイ法の広い適用範囲、なお続く邦人拘束、中国事業を続ける製薬企業が見直すべき情報管理と駐在員保護、日中関係への波及を含めて詳しく解説します」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「「トランプ後」を見据える中国、次のキッシンジャー探しの政治的難路」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「中国国際輸入博覧会では米企業の出展面積が5万平方メートルを超え、8年連続で国・地域別首位となった」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「今治×JMU（国内シェア約50%）、常石×三井E&S、三菱重工の豪州FFM獲得を一次情報ベースで完全整理し、「3強時代」の見取り図と就活・転職戦略まで解説します」（https://zosenblog.com/2024zosengyokai/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年10月第4週｜三菱造船が下関の建造能力倍増策・造船拡大の壁は「人材」と「需要」・受注残は中国64%──これだけ押さえれば情報通」（https://zosenblog.com/2024zosengyokai/）
-  - 「三菱造船が下関の建造能力を2倍にする2段階の手順を説明、日米シンポで造船拡大の壁に「人材」「需要」、世界の受注残は中国64%・日本6%」（https://zosenblog.com/2024zosengyokai/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年11月第1週｜JMU経常65%増・造工がLNG船再開に言及・中国は主機不足・MEPC85へ──これだけ押さえれば情報通」（https://zosenblog.com/2024zosengyokai/）
-  - 「シェアでは中国が５割以上を占め、２位の韓国、３位の日本を圧倒している」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
-  - 「造船・舶用に関わる人の必修ニュース 2026年8月第2週｜中国受注残トップが恒力造船に交代・韓国2強の受注爆発・川重24%増益──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「JMUの上期決算と廣瀬社長の投資計画、国内造船の受注動向と内海造船、造工専務理事のLNG船建造再開への言及、中国造船の主機不足、MEPC85とNZF、重工・海運の決算をまとめました」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「世界最大LNGコンテナ船「CMA CGM NOTRE DAME」とは｜24,212TEU・全長400m・中国建造の10隻シリーズを徹底解説」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「中国Jiangsu Yangzi Xinfu建造、Mark IIIメンブレン型LNG燃料タンク容量18,600m³、10隻シリーズ初船の仕様・命名・航路・日本造船との対比まで一次情報で徹底解説」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「同じ月、韓国はワシントンに「韓米造船協力センター」を開設し、1,500億ドル規模の対米投資構想「MASGA」を本格的に動かしています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「国土交通省海事局の資料（2025年6月時点）によれば、世界の新造船受注に占める日本のシェアは、かつて15〜16%で推移していたものが2024年には8%まで下落しています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「ロードマップが挙げる要因のうち、まず目立つのは韓国・中国の造船所と比べて事業所の規模が小さいことです」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「鋼材・資材の高騰を背景に船価が相対的に高く、中韓との価格競争で建造能力を縮小してきた経緯もあります」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「2022年以降は日本船主による中国造船所への発注が全体の3〜4割程度まで増えています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「国交省はこの目標を「中国・韓国の造船業に負けない国際競争力を確保」「我が国の安全保障を支える体制（日本の船は日本で造る）を実現」する姿として説明しています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「日本の新造船受注シェア（2024年・かつては15〜16%）｜」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「韓国MASGA構想の対米投資規模（2026年7月時点の表明額）」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「韓国のMASGA構想とは、1,500億ドルの対米投資が示すもの」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「韓国政府は2025年7月下旬、対米関税交渉のなかで「MASGA（Make American Shipbuilding Great Again）」と名付けた造船協力構想を米国側に提案しました」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「その後2026年5月8日、韓国産業通商資源部と米商務省が「韓米造船協力パートナーシップ・イニシアチブ」の覚書を締結し、2026年7月23日にはワシントンD.C.に実務機関「韓米造船協力センター（KUSPC）」が開設されています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「韓華オーシャンの米国子会社は、米国の次世代ミサイル防衛体制「ゴールデンドーム」を支える海上ミサイル試験計測船を受注したと報じられています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
 - 自社の競合（商社・代理店・仲介）：
   - 「米通商代表部（USTR）は2025年10月14日、中国で建造された船や中国の船社が運航する船が米国の港に入る際の手数料を発効させました」（https://timewell.jp/columns/japan-shipbuilding-revival-economic-security-defense-2026）
 - 政治（法・予算・規制）：
-  - 「今治造船・川崎重工・名村造船所の決意表明、伊万里の新ドック案とGOCO方式、メンブレン技術をめぐる日韓政府間交渉、船価差への国費補助まで、「誰が・どこで・どうやって・いくらで」を業界ウォッチャーが深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「一方、米中貿易は縮小し、半導体規制と台湾問題は残る」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/2024zosengyokai/）
-  - 「今治造船×JMU統合・政府の造船業再生基金（10年3,500億円）・手持ち工事量約3.6年分など、」（https://zosenblog.com/2024zosengyokai/）
-  - 「造船業再生基金が初認定（2026年9月）」（https://zosenblog.com/2024zosengyokai/）
-  - 「──9月4日・11日に計8件を認定」（https://zosenblog.com/2024zosengyokai/）
-  - 「官民投資は総額9,000億円規模、基金からの支援は最大約3,110億円」（https://zosenblog.com/2024zosengyokai/）
-  - 「──長崎県が造船サプライチェーン強靭化に1.6億円の補正予算案（中堅企業の設備投資に上限3,000万円補助）」（https://zosenblog.com/2024zosengyokai/）
-  - 「環境規制対応として新燃料船の需要が高まり、従来型より価格が一段と高い水準となっています」（https://zosenblog.com/2024zosengyokai/）
-  - 「米中貿易摩擦・トランプ関税政策の影響で海運マーケットが乱高下し、船主の発注意欲に影響を与えています」（https://zosenblog.com/2024zosengyokai/）
-  - 「世界的な環境規制強化と船舶の世代交代需要という構造的な追い風は変わらず」（https://zosenblog.com/2024zosengyokai/）
+  - 「売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「2026年7月21日に閣議決定された「日本成長戦略」は、17の戦略分野のうち造船を、先端技術で世界を狙う「成長投資」ではなく、リスクを最小化する「危機管理投資」の側に置きました」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「1つは、経済安全保障・食料安全保障・エネルギー安全保障などのリスクに官民が先手を打つ「危機管理投資」」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「「造船業は、我が国の貿易量のほぼ全てを担う海上輸送に不可欠な船舶を安定的に供給し、国民生活や経済活動を支える経済安全保障上重要な産業であり、艦船、巡視船等を安定供給する安全保障上も重要な産業である」」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「2026年度予算では艦艇分野への防衛調達を含む投資が約3,400億円と別枠で計上されています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「海事産業強化法・経済安全保障推進法に基づくツーステップローン等の金融支援」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「「造船業再生基金」等による機器導入・施設整備、AIを活用した次世代型造船ロボットの研究開発」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「「造船業再生基金」は成果目標を見ながら10年間で合計3,500億円規模を目指すとされ、あわせてAIを活用した次世代型造船ロボットの研究開発に120億円（〜2030年度）、ゼロエミッション船等の生産設備整備支援に約960億円（2025〜2029年度）が計上されています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「1兆円は10年間の累計額であり、単年度予算ではない」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「韓国政府は2025年7月下旬、対米関税交渉のなかで「MASGA（Make American Shipbuilding Great Again）」と名付けた造船協力構想を米国側に提案しました」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「ただし米国の軍艦建造には自国建造を原則とする法規制があり、韓国勢が入れるのは主に投資・技術協力・修繕領域です」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「協力分野は、①日米両国の建造能力拡大、②米国海事産業基盤への投資促進、③経済安全保障上重要な公船・商船の需要明確化、④造船人材育成のための教育・研修、⑤先進的な建造技術・船舶設計の共同開発の5つです」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「①907万総トン・1,800万総トンは「建造能力」の目標値で、その年の実際の建造量とは区別して読む ②官民1兆円は10年間（2026〜2035年度）の累計額で単年度予算ではない ③MASGAの1,500億ドルは韓国側の投資方針の表明額で確定した契約総額ではない ④「造船」分野と「艦艇」（防衛産業分野）は制度上別枠だが、設備・人材は同じ造船所が担う」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「2025年11月4日に新設された「日本成長戦略本部」（本部長：内閣総理大臣）が造船を含む17分野を選定し、2026年7月21日に「日本成長戦略」として閣議決定されました」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「危機管理投資は経済安全保障等のリスクに官民が先手を打つ投資、成長投資は日本が優位性を持つ先端技術をビジネス化する投資です」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
 - 経済（規模・価格・為替）：
+  - 「売上トップ10、有報ベースの平均年収、造船業再生基金の認定額までわかる、就活・転職・投資に役立つ決定版です」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「成長17分野の「造船」分野に紐づく主要な製品・技術等は、①次世代船舶（2034年度までで官民投資1.0兆円）、②船舶修繕（2035年度までで0.1兆円）、③LNG運搬船（現在国内建造なし・検討中）の3つです」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「2026年度予算では艦艇分野への防衛調達を含む投資が約3,400億円と別枠で計上されています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「官民1兆円は、どこに、いくら流れるのか」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「ロードマップが示す投資規模は、2035年までの10年間で官民合計「1兆円規模」です」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「民：3,500億円規模」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「官：3,800億円規模」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「官民：2,800億円規模」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「「造船業再生基金」は成果目標を見ながら10年間で合計3,500億円規模を目指すとされ、あわせてAIを活用した次世代型造船ロボットの研究開発に120億円（〜2030年度）、ゼロエミッション船等の生産設備整備支援に約960億円（2025〜2029年度）が計上されています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「1兆円は10年間の累計額であり、単年度予算ではない」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「両社とも4月契約分から1トン当たり1万円（5〜10%）の引き上げで、造船・建設向けを含む全面値上げとしては2024年以来約2年ぶりです」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「舶用エンジン大手のジャパンエンジンコーポレーション（J-ENG）は、2026年4〜6月期の受注高が104億9,000万円（前年同期比22.9%増）、6月末の受注残高は375億6,000万円（同36.3%増）でした」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「次世代の脱炭素燃料エンジン（アンモニア・水素）の実証運転に生産ラインの一部を割いた影響で、新造エンジンの売上高は同期40%減の28億円でした」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
   - 「売上3,980億円・2年連続最高益の実力と、20%出資するJFEHD・IHIを通じた間接投資の方法を解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
   - 「どうなる？！日本の造船業界｜受注残・JMU統合・政府3500億円支援で読む今後の展望【2026年最新】」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年9月第1週｜再生基金が初認定・今治/JMU/名村に最大計2,131億円・防衛省要求は過去最大」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船業再生基金が今治造船・JMU・名村造船所の3件に最大計2,131億円で初認定、九州には官民3,000億円のクラスター計画、防衛省の概算要求は過去最大に」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「日経平均3643円安、米SOX指数12%超安の背景を整理し、アンソロピックのIPOが映す成長率鈍化、巨額計算資源契約、評価額の論点を検証」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「9月の輸出船受注は17隻で手持ち工事は約3.6年分、経産省は造船向け鋼材が人手不足で前年比9.8%減と予測」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船・舶用に関わる人の必修ニュース 2026年10月第1週｜三菱重工が下関に1,000億円投資・カナデビアと日鉄エンジ統合破談・ギリシャ船主が常石に発注──これだけ押さえれば情報通」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「三菱重工が下関の人工島に約1,000億円の建造能力拡大、カナデビアと日鉄エンジの統合破談、再生基金の支援条件、ギリシャ船主の常石発注までまとめて解説します」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「4月新造船受注66万総トン(前年比+6%)、手持ち工事量約3.5年分、三井E&S・名村造船所の好決算、中韓の受注攻勢、SOY2025は自律運航船「げんぶ」が大賞」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「戦後初の艦艇輸出・三菱重工×豪州「もがみ型」11隻契約の全貌｜2029年納入・1兆円規模・長崎造船所で動き出す日本防衛産業の転換点」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「内海造船（7018）の株価・配当・今後を徹底解説｜上期で通期予想を超過も受注残は1,172億円に減少、決算翌日は12%安──カナデビア系の中堅造船を決算短信で読む・2026年11月版」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「日本製鉄（5401）の株価・配当・今後｜純利益予想を4,400億円に再上方修正、USスチールが稼ぎ頭に──上期決算を決算資料で読む｜今週のピックアップ銘柄・2026年11月」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「2024年度のクレーン売上高は3918億円、設置台数は23万4000台」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「2025年の番号盗用被害475.4億円も踏まえ、情報の組み合わせ別に、カード停止と再発行の判断、ID・パスワード変更、明細確認、漏洩通知を装うフィッシングへの備えを具体的に解説します」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「2024年度のクレーン売上高は3918億円、設置台数は23万4000台」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
 - 社会（人・担い手）：
-  - 「造船業界は多くの人材を必要としており異業種からのキャリアチェンジも大歓迎中造船業界への転職の魅力と広がるチャンスについて前向きにお伝えします」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「地域建設業の人手不足が住宅・インフラ工事を止める構図と処方箋」（https://research.nicoxz.com/articles/japan-shipbuilding-order-decline）
-  - 「造船の人手不足を深読み｜受注3.6年分でも鋼材1割減、就労者は9年で1.4万人減 | ぞうせんブログ」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「深読み解説｜仕事は3.6年分あるのに、なぜ造船向けの鋼材は減るのか──就労者は9年で約1.4万人減、「人手不足」が建造量倍増の壁になる理由」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「理由は、人手不足で船を造るペースが上がらないこと」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「国が掲げる2035年の建造量倍増の前に立ちはだかる人手不足の壁を、国土交通省の統計と各社の動きから深読みします」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「3. 深読み②：現場の5人に1人は外国人材に」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「（各年4月1日時点）を見ると、人手不足の実態がはっきりします」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船所本体の社員だけでなく、協力会社（下請け）の社員や外国人材も含めた数字です」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「外国人材は2015年から計上」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「「外国人材を除く就労者」は合計から外国人材を引いた当ブログの計算で、国交省資料ではこの層を日本人就労者として説明しています」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「外国人材を除くと、約8.4万人から約6.2万人へ」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「のに、外国人材を除く就労者は約6.2万人で横ばいのままという点です」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「増えた分のほとんどは、次の章で見る外国人材です（この段落の解釈は筆者の見立てです）」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「外国人材（技能実習・特定活動・特定技能）は、2022年の5,737人から2025年には」（https://zosenblog.com/zosen-hitode-fukayomi/）
+  - 「設計・現場双方での人材不足も重なっています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「①船舶建造体制の強靱化、②造船人材の確保・育成、③脱炭素化等を通じたゲームチェンジ、④安定的な需要の確保、⑤同志国・グローバルサウスとの連携です」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「業界紙の分析では、国内各社の船台は2029年ごろまで契約で満杯であり、深刻な人材不足もあって新たな注文を物理的に受け入れる余地がない状態が続いているといわれています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「協力分野は、①日米両国の建造能力拡大、②米国海事産業基盤への投資促進、③経済安全保障上重要な公船・商船の需要明確化、④造船人材育成のための教育・研修、⑤先進的な建造技術・船舶設計の共同開発の5つです」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「受注を受けきれない局面での人材不足という注意点」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「造船業（2023年度）の産業規模は3.0兆円・従業員7.0万人・事業者数約900、舶用工業は0.9兆円・従業員4.6万人・事業者数約1,000という国交省海事局の資料（2025年6月時点）の規模感に対し、人材確保の速度が建造能力の拡大計画に追いつくかどうかが最大の変数です」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「1つは、外国人技能者の受け入れ拡大やAI・ロボット導入（ロードマップは2035年までに約50%の建造能力向上、約25%の生産性向上を掲げる）が計画どおり進み、1,800万総トンに接近する展開」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「もう1つは、人材確保のペースが追いつかず、船台や設備は整っても動かす人がいないために建造量が伸び悩む展開です」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「どちらに転ぶかは鋼材・エンジン・塗料・ロボット・人材育成といった裾野産業側の対応力にも懸かります」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「①907万総トン・1,800万総トンは「建造能力」の目標値で、その年の実際の建造量とは区別して読む ②官民1兆円は10年間（2026〜2035年度）の累計額で単年度予算ではない ③MASGAの1,500億ドルは韓国側の投資方針の表明額で確定した契約総額ではない ④「造船」分野と「艦艇」（防衛産業分野）は制度上別枠だが、設備・人材は同じ造船所が担う」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「厚板・舶用エンジン・船舶塗料など裾野の部材メーカーで受注・受注残の増加が数字として出ており、AIロボットや人材育成サービスなど造船所を直接の顧客としない分野にも事業機会が広がっています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「船台の空き、人材、主要機器の調達、鋼材価格を含めて市場を評価することが、受注増加の持続性を判断するうえで欠かせません」（https://newscast.jp/smart/news/5632976）
+  - 「「世界の造船市場では、船舶の更新需要と環境対応が進む一方、実際の建造能力には船台、人材、舶用機器の制約があります」（https://newscast.jp/smart/news/5632976）
+  - 「こうした取り組みは人材不足への対応や工程短縮につながる可能性がありますが、導入費用や技能習得に時間を要するため、投資効果は造船所ごとの設備条件や船型構成によって異なります」（https://newscast.jp/smart/news/5632976）
+  - 「本稿では商業新造船契約の金額に着目し、建造数量と金額の違い、代替燃料船の需要、設備投資の効果、材料・人材による供給制約などを取り上げています」（https://newscast.jp/smart/news/5632976）
 - 技術（新しい技術・実証）：
-  - 「2050年の造船市場を深読み解説｜建造需要1.1億総トン・次世代燃料船7割の意味──国交省予測から読む「日本が造るべき船」」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「ガス・水素・CO2運搬船が2割に拡大、燃料は7割が次世代へ──伸びる船・縮む船、日本の造船業がこの成長を取るための3つの壁まで、業界ウォッチャー目線で読み解きます」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「世界株急落で試されるAI供給網、アンソロピックIPO成否の焦点」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「世界株を襲ったAI売りは、半導体から電力・データセンターまで供給網全体へ波及した」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「投資家が受注残・資金調達・規制の実行度からAI投資の持続性を見極める方法を解説する」（https://research.nicoxz.com/articles/japan-shipbuilding-labor-shortage）
-  - 「川崎重工×NVIDIAを深読み解説｜なぜ造船所にフィジカルAIなのか──「建造能力2倍」の最後のピース・2026年7月最新版」（https://zosenblog.com/2024zosengyokai/）
-  - 「川崎重工がNVIDIAと組んで坂出工場を「次世代デジタルシップヤード」へ──なぜ造船所にフィジカルAIなのか」（https://zosenblog.com/2024zosengyokai/）
-  - 「2035年建造能力2倍の国家目標と人手不足の矛盾、5つの技術の役割、日米AI造船ロボとの関係まで公式発表ベースで深読み解説します」（https://zosenblog.com/2024zosengyokai/）
-  - 「また、造船は一品注文生産であり、かつ自動化が困難な工程が多く、技術開発力や設計･生産管」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
-  - 「加えてアンモニアや水素といった次世代燃料への転換に向けた動きを加速させる必要がある」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
-  - 「このため、LNG 燃料船の導入やアンモニアなど次世代燃料船の開発が進んでいる」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
-  - 「② 地政学的リスク 、次世代燃料船需要増により船価も高い水準を」（https://jsite.mhlw.go.jp/okayama-roudoukyoku/content/contents/002872253.pdf）
-  - 「三菱重工業とオーストラリア政府が、豪海軍の次期汎用フリゲートとして「もがみ型」能力向上型11隻の共同開発・生産契約を締結」（https://zosenblog.com/zosen-hitode-fukayomi/）
-  - 「造船業界 2026年5月 必読トピック5選｜韓国Q1受注・再生ロードマップ・LCO2船開発ほか」（https://zosenblog.com/zosenshoraisei2026/）
-  - 「韓国HD現代+86%・サムスン重工+41%のQ1受注、政府の再生ロードマップ始動、今治造船多度津工場増設、邦船3社×造船4社のLCO2船共同開発、5月決算シーズンの注目銘柄まで完全ガイド」（https://zosenblog.com/zosenshoraisei2026/）
+  - 「GaN半導体デバイス市場規模、2032年に180億～250億米ドルへ――年平均成長率34.71％、AIデータセンターと次世代電力変換が成長を後押し」（https://www.atpress.ne.jp/news/5632976）
+  - 「日本発、AIハーネス“AICO層”に」（https://www.atpress.ne.jp/news/5632976）
+  - 「「フィジカルAIのガードレール基盤特許」が誕生」（https://www.atpress.ne.jp/news/5632976）
+  - 「株式会社ジェイ・バン(広報委託先)、一般社団法人AICO層知財コンソーシアム」（https://www.atpress.ne.jp/news/5632976）
+  - 「首相官邸が示した令和7年総合経済対策でも、危機管理投資の対象として「AI・半導体、造船、量子、フュージョン、創薬、バイオ、航空、宇宙等」が列記されています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「成長17分野の「造船」分野に紐づく主要な製品・技術等は、①次世代船舶（2034年度までで官民投資1.0兆円）、②船舶修繕（2035年度までで0.1兆円）、③LNG運搬船（現在国内建造なし・検討中）の3つです」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「「造船業再生基金」等による機器導入・施設整備、AIを活用した次世代型造船ロボットの研究開発」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「「造船業再生基金」は成果目標を見ながら10年間で合計3,500億円規模を目指すとされ、あわせてAIを活用した次世代型造船ロボットの研究開発に120億円（〜2030年度）、ゼロエミッション船等の生産設備整備支援に約960億円（2025〜2029年度）が計上されています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「今治造船は2026年7月の定例記者会見で、JMUの独自溶接ロボットや自社のAIロボット連携といった生産性向上の取り組みを挙げつつ、「オールジャパンで日本の造船建造量を拡大していく必要がある」と述べています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「次世代の脱炭素燃料エンジン（アンモニア・水素）の実証運転に生産ラインの一部を割いた影響で、新造エンジンの売上高は同期40%減の28億円でした」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「韓国政府は2025年7月下旬、対米関税交渉のなかで「MASGA（Make American Shipbuilding Great Again）」と名付けた造船協力構想を米国側に提案しました」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「韓華オーシャンの米国子会社は、米国の次世代ミサイル防衛体制「ゴールデンドーム」を支える海上ミサイル試験計測船を受注したと報じられています」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「協力分野は、①日米両国の建造能力拡大、②米国海事産業基盤への投資促進、③経済安全保障上重要な公船・商船の需要明確化、④造船人材育成のための教育・研修、⑤先進的な建造技術・船舶設計の共同開発の5つです」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「1つは、外国人技能者の受け入れ拡大やAI・ロボット導入（ロードマップは2035年までに約50%の建造能力向上、約25%の生産性向上を掲げる）が計画どおり進み、1,800万総トンに接近する展開」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）
+  - 「どちらに転ぶかは鋼材・エンジン・塗料・ロボット・人材育成といった裾野産業側の対応力にも懸かります」（https://sellwell.jp/column/shipbuilding-industry-growth17-2026/）

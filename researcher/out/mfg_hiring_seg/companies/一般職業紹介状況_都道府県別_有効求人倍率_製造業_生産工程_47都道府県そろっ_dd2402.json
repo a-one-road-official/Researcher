@@ -1,0 +1,1805 @@
+{
+ "name": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121）",
+ "en": "job openings to applicants ratio by prefecture production occupations MHLW table",
+ "aliases": [
+  "一般職業紹介状況 都道府県別 有効求人倍率 表",
+  "都道府県別 職業別 有効求人倍率 生産工程",
+  "労働市場関係指標 都道府県別 求人倍率 e-Stat"
+ ],
+ "context": "地域",
+ "kind": "market",
+ "researched_at": "2026-11-09T07:02:37.203596+00:00",
+ "evidence": {
+  "セグメント定義": [
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.69倍、最低は大阪府の0.95倍、受理地別では、最高は東京都の1.69倍、最低は神奈川県の0.84倍となりました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.74倍、最低は大阪府の",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別にみた有効求人倍率（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年4月号）｜労働政策研究・研修機構（JILPT）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "この中から、都道府県別にみた有効求人倍率の結果",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率は、受理地別と就業地別の2種類が公表されている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表1：都道府県別有効求人倍率（受理地別・就業地別）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）は次の通りとなりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.94倍、最低は神奈川県と沖縄県の1.08倍、受理地別では、最高は福井県の1.82倍、最低は神奈川県の0.91倍となりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.02倍、最低は神奈川県の1.09倍、受理地別では、最高は福井県の1.91倍、最低は神奈川県の0.91倍となりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.12倍、最低は沖縄県の1.07倍、受理地別では、最高は福井県の1.97倍、最低は神奈川県の0.92倍となりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.04倍、最低は沖縄県の1.04倍、受理地別では、最高は福井県の1.89倍、最低は神奈川県の0.92倍となりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.10倍、最低は沖縄県の1.01倍、受理地別では、最高は福井県の1.93倍、最低は神奈川県と沖縄県の0.91倍となりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の2.10倍、最低は沖縄県の0.99倍、受理地別では、最高は福井県の1.89倍、最低は神奈川県と沖縄県の0.90倍となりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "全国平均の有効求人倍率が1.39倍となるなか、都道府県別で比較してみましょう",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？都道府県別データから見る仕事探しのポイント",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、有効求人倍率の意味や見方、都道府県別の最新データ、工場求人を探す際の活用方法までわかりやすく解説します",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別有効求人倍率の比較（全国平均：1.18倍）",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "産業・事業所規模別新規求人数（実数）（令和5年改定）（令和6年4月～）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 有効求人数、新規求人数、就職件数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 正社員 有効求人数、新規求人数、就職件数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 男女別 年代別 有効求職者数、新規求職申込件数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 職業（中分類）別 有効求人数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 男女別 年代別 職業（中分類）別 有効求職者数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 職業（中分類）別 新規求人数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 男女別 年代別 職業（中分類）別 新規求職申込件数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 職業（中分類）別 就職件数",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 産業（大分類）別 パータイム除く常用 週休二日制の有無",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 企業規模別 パータイム除く常用 週休二日制の有無",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 産業（大分類）別 賞与の有無",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 職業（中分類）別 賞与の有無",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 企業規模別 賞与の有無",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別 雇用形態別 産業（大分類）別 通勤手当の有無",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.74倍、最低は",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）は、就業地別では福井県と山梨県が1.74倍で最も高く、大阪府が0.96倍で最も低い",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業別では、製造業が6.8％増、サービス業（他に分類されないもの）が5.6％増、医療・福祉が1.3％増となった一方、宿泊業・飲食サービス業は10.7％減、卸売業・小売業は7.3％減、生活関連サービス業・娯楽業は6.5％減となり、業種別のばらつきが大きい",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（2024年度）",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "勤務地ベースで見たいときは就業地別の値を当たる: 本記事で使ったのは受理地別で、厚生労働省は同じ統計から就業地別の都道府県別倍率も公表している",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？都道府県別求人倍率のデータ推移も紹介（2024年更新）｜株式会社ONE",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？都道府県別求人倍率のデータ推移も紹介（2024年更新）",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "このページでは、有効求人倍率とはなにかから、有効求人倍率の推移、全国・都道府県別、職業別の有効求人倍率などをご紹介しています",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "4. 全国・都道府県別の有効求人倍率の推移は？",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. 職種別の有効求人倍率の推移は？",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.全国・都道府県別の有効求人倍率の推移は？",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "次に、都道府県別の有効求人倍率の推移をみていきましょう",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.職種別の有効求人倍率の推移は？",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、職種別の有効求人倍率をご紹介します",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？意味・計算方法・職種別の最新データや推移を解説｜マイナビ転職",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは？意味・計算方法・職種別の最新データや推移を解説",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "職種別（職業別）有効求人倍率（2025年5月）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "上記は、2025年5月の職種別（職業別）有効求人倍率です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月の職種別有効求人倍率から、労働市場のギャップが見て取れます",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（2025年5月）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "全国・都道府県別の有効求人倍率を、2025年5月と、2024年の5月で比較しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県・地域別有効求人倍率（就業地別・季節調整値）",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "1万人以上の面接と人事に携わった経験から、執筆、講演活動にて就職・転職支援を行う",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.72倍、最低は大阪府の0.96倍、受理地別では、最高は東京都の1.70倍、最低は神奈川県の0.84倍となりました",
+    "url": "https://jinjibu.jp/news/detl/26717/",
+    "pass": 3
+   },
+   {
+    "quote": "職業紹介-都道府県別有効求人倍率：主要労働統計指標｜労働政策研究・研修機構（JILPT）",
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、厚生労働省の調査結果では業種別・都道府県別の有効求人倍率も発表されているため、他業種と比較した際の現状やエリアごとの傾向も参考になるでしょう",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省のデータを基に、2025年8月分の業種別の有効求人倍率、および前年同月比を以下の表にまとめました",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   }
+  ],
+  "採用経路": [
+   {
+    "quote": "厚生労働省では、公共職業安定所（ハローワーク）における求人、求職、就職の状況をとりまとめ、求人倍率などの指標を作成し、一般職業紹介状況として毎月公表しています",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークインターネットサービスの機能拡充に伴い、令和3年9月以降の数値には、ハローワークに来所せず、オンライン上で求職登録した求職者数や、求職者がハローワークインターネットサービスの求人に直接応募した就職件数等が含まれている",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省では、公共職業安定所（ハローワーク）における求人、求職、就職の状況をとりまとめ、求人倍率などの指標を作成し、一般職業紹介状況として毎月公表しています",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークインターネットサービスの機能拡充に伴い、令和3年9月以降の数値には、ハローワークに来所せず、オンライン上で求職登録した求職者数や、求職者がハローワークインターネットサービスの求人に直接応募した就職件数等が含まれている",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "受理地別有効求人倍率とは、各都道府県内のハローワークが受理した求人数を用いて算出された有効求人倍率、就業地別有効求人倍率とは、実際に就業する都道府県ごとに集計した求人数を用いて算出された有効求人倍率である",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "受理地別、就業地別ともに有効求職者数は、求職を受理したハローワークが所在する都道府県単位で集計されている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "【過去分】一般職業紹介状況｜人材紹介応援通信 by Crowd Agent",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（受理地別値）は各都道府県内のハローワークが受理した求人数を集計して算出していますが、企業の中には本社が所在するハローワークに全国の各支社の求人を一括して提出している場合もあることから、求人を受理したハローワークの所在する都道府県と実際の就業地となる都道府県が異なる場合があるためです",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※受理地別と就業地別の求人倍率に差が生じる理由：現在公表している有効求人倍率（受理地別値）が各都道府県内のハローワークが受理した求人数を集計して算出しているのに対し、企業の中には、本社が所在するハローワークに全国の各支社の求人を一括して提出している場合もあることから、求人を受理したハローワークの所在する都道府県と実際の就業地となる都道府県が異なる場合があるため",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "先日公開した、人材紹介会社の実態調査でも",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "約84%の人材紹介会社が求人数が減少し",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "▼【83.4%が減少と回答】コロナ禍における、人材紹介会社への求人数の影響とは？は",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "【83.4%が減少と回答】コロナ禍における、人材紹介会社への求人数の影響とは？ – 人材紹介応援ブログ｜Crowd Agent",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "この未曾有の状況下で、同業他社は影響を受けているのか、もしくは変わらずに人材紹介を行えているのか、ご不安に思われている方も多いのではないでしょうか？ 人材紹介応援ブログを運営するクラウ…",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "リーマンショックなどの不況の時にも、着実に成果を出し続けていた人材紹介会社は多くいらっしゃいます",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年第二四半期（4月〜6月）の経済不況と、その影響が数字として出始める第2四半期（7月〜9月）に、我々人材紹介事業会社が、今後をどのように予測し、「このピンチをチャンスと考え」行動できるかが、事業を大きく飛躍させるかどうかにかかっていると考えています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介応援研究所では、まさに今は「ピンチをチャンスに変える絶好の機会」と考えています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、そもそもの求人母数が少ないため、前年比で大きく伸びているものの人材紹介市場にはあまり影響がない、説明がつかないものは一旦上記からは削除しています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、我々人材紹介応援ブログでは、このコロナショックというピンチは、必ず業界にとってチャンスでもあり、特に小規模人材紹介会社にとってはたくさんの可能性があると考えており、リーマンショックの影響により1960年代以降で最悪となった有効求人倍率0.45倍ほどにはならない、と考えています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "確かに、2019年の人材紹介市場は、ありえないほどのバブルの状況であり、また空前の売り手市場だったので、これらのトレンドは一気に冷水を浴びせられることとなり、また、人材紹介業界に属する我々も大きくサービス価値を向上させる必要があります",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "groovesでは人材紹介事業での独立開業コンサルティング業務を経験し、現在は人材紹介会社様へのCrowd Agent導入をご支援",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県（受理地）別 労働市場関係指標（実数、ハローワーク利用登録者）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "高等学校卒業（予定）者の就職（内定）状況に関する調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "学校における教育の情報化の実態等に関する調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "大学・短期大学・高等専門学校における学生のキャリア形成支援活動実施状況等調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "大学・短期大学・高等専門学校及び専修学校卒業予定者の就職内定状況等調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "看護師等学校養成所入学状況及び卒業生就業状況調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省では、公共職業安定所（ハローワーク）における求人、求職、就職の状況をとりまとめ、求人倍率などの指標を作成し、一般職業紹介状況として毎月公表しています",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークインターネットサービスの機能拡充に伴い、令和3年9月以降の数値には、ハローワークに来所せず、オンライン上で求職登録した求職者数や、求職者がハローワークインターネットサービスの求人に直接応募した就職件数等が含まれている",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "この倍率は、求人を受け付けたハローワークの所在地で集計されています（受理地別）",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "同じ統計には、その県のハローワークで職を得た人が何件で、うち何件が他県での就職だったかも収録されています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県は32.9%、千葉県は32.0%、神奈川県は29.7%と、ハローワーク経由の就職の3割が他県での就職です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、全国のハローワークに登録している「有効求職者数」と「有効求人数」をもとに、厚生労働省が算出しています",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率には、ハローワークで扱う数値以外は含まれていない",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "この時使用する有効求人数は、企業がハローワークに登録している求人の数のことで、有効求職者数はハローワークに登録している求職者数のことです",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークを利用しない求人や求職者数は加味されていない",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "「有効求人数」は、ハローワークにおける求人数の合計で、「有効求職者数」は、ハローワークに登録して就職活動をしている人の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、全国のハローワーク（※）の求人数と求職者数を基に、厚生労働省が算出しています",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークは、正式名称を「公共職業安定所」と言い、全国各地にあります",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数とは、ハローワークにおいて、当月の新規求人数と前月から繰り越された求人数の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者数とは、ハローワークにおいて、当月の新規求職申込者数と、前月から繰り越された求職者数の合計です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働省では、公共職業安定所（ハローワーク）における求人、求職、就職の状況をとりまとめ、求人倍率などの指標を作成し、一般職業紹介状況として毎月公表しています",
+    "url": "https://jinjibu.jp/news/detl/26717/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークインターネットサービスの機能拡充に伴い、令和3年9月以降の数値には、ハローワークに来所せず、オンライン上で求職登録した求職者数や、求職者がハローワークインターネットサービスの求人に直接応募した就職件数等が含まれている",
+    "url": "https://jinjibu.jp/news/detl/26717/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、公共職業安定所（ハローワーク）の有効求人数を有効求職者数で割った数のことです",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "注意点2.ハローワーク以外のデータは含まれていない",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、ハローワークに登録して仕事を探している転職希望者の数である“有効求職者数”に対する仕事の数、つまり“有効求人数”の割合です",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "なお、詳しくは本記事後半で解説しますが、有効求人倍率はあくまでもハローワークでの求人数・求職者数を基に計算されているデータです",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人数とは、ハローワークで募集されている求人の数のことです",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求職者数は、ハローワークに登録して、現在仕事を探している人たちの数です",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに求職者登録を行って2カ月以内の転職希望者の数",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークでその月に求職者登録を行った転職希望者の数",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークでその月に募集を開始した求人の数",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "世の中にはハローワークに登録せずに採用活動を行っている企業や、仕事を探している転職希望者もいますが、その数は有効求人倍率に含まれていません",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は、ハローワークに出稿された求人と、ハローワークに登録して仕事を探している転職希望者の数によって計算されたものです",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ハローワーク以外の求人広告媒体などは加味されていない点にも注意しましょう",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "ただしハローワークを使っていない企業でも、市場全体の動きを把握するために有効求人倍率を参考にすることは可能です",
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の数字は求人を受け付けたハローワークの所在地で数えるため、自県の値は全国や近県と並べて読みます",
+    "url": "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "pass": 3
+   },
+   {
+    "quote": "この数字は、厚生労働省が公共職業安定所（ハローワーク）の求人・求職・就職の状況をとりまとめたものです",
+    "url": "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "pass": 3
+   }
+  ],
+  "充足・欠員": [
+   {
+    "quote": "令和8年7月の有効求人倍率は1.18倍で、前月と同水準",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年7月の数値をみると、有効求人倍率（季節調整値）は1.18倍となり、前月と同水準となりました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（季節調整値）は1.00倍となり、前月と同水準となりました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.69倍、最低は大阪府の0.95倍、受理地別では、最高は東京都の1.69倍、最低は神奈川県の0.84倍となりました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "文中の正社員有効求人倍率は正社員の月間有効求人数をパートタイムを除く常用の月間有効求職者数で除して算出しているが、パートタイムを除く常用の月間有効求職者には派遣労働者や契約社員を希望する者も含まれるため、厳密な意味での正社員有効求人倍率より低い値となる",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年5月の有効求人倍率は1.17倍で、前月と比べて0.01ポイント低下",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年5月の数値をみると、有効求人倍率（季節調整値）は1.17倍となり、前月を0.01ポイント下回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（季節調整値）は0.99倍となり、前月と同水準となりました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県の1.74倍、最低は大阪府の",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "文中の正社員有効求人倍率は正社員の月間有効求人数をパートタイムを除く常用の月間有効求職者数で除して算出しているが、パートタイムを除く常用の月間有効求職者には派遣労働者や契約社員を希望する者も含まれるため、厳密な意味での正社員有効求人倍率より低い値となる",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別にみた有効求人倍率（ちょっと気になるデータ：ビジネス・レーバー・トレンド 2026年4月号）｜労働政策研究・研修機構（JILPT）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "この中から、都道府県別にみた有効求人倍率の結果",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "求人倍率とは求職者に対する求人数の割合をいい、「有効求人倍率」は「月間有効求人数",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率は、受理地別と就業地別の2種類が公表されている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "受理地別有効求人倍率とは、各都道府県内のハローワークが受理した求人数を用いて算出された有効求人倍率、就業地別有効求人倍率とは、実際に就業する都道府県ごとに集計した求人数を用いて算出された有効求人倍率である",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年平均の有効求人倍率についてみると、受理地別有効求人倍率は「東京都」で1.73倍と最も高く、続いて「福井県」で1.69倍、「石川県」で1.59倍などとなっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "就業地別有効求人倍率は「福井県」で1.84倍と最も高く、「富山県」の1.65倍、「香川県」の1.62倍などがこれに続いている（",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表1：都道府県別有効求人倍率（受理地別・就業地別）",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "受理地別有効求人倍率と就業地別有効求人倍率を比較してその差（就業地別有効求人倍率－受理地別有効求人倍率）をみると、「東京都」、「大阪府」、「福岡県」、「広島県」、「石川県」、「愛知県」では差がマイナス、つまり就業地別有効求人に比べて受理地別有効求人倍率が高くなっており、とくに「東京都」では－0.63ポイントとマイナスの幅が最も大きくなっている",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、差がプラス（受理地別有効求人倍率に比べて就業地別有効求人倍率が高い）になっている中では、「滋賀県」、「千葉県」、「山梨県」、「山口県」、「茨城県」などで比較的プラスの幅が大きくなっている（",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表2：就業地別有効求人倍率と受理地別有効求人倍率の差",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "前月から繰越された有効求人数（前月末日現在において、求人票の有効期限が翌月以降にまたがっている未充足の求人数）と当月の「新規求人数」の合計数",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率は38カ月連続で1.0倍台をキープ",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は1.20倍で同水準",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "「正社員」有効求人倍率は1.00倍で同水準",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率は39カ月連続で1.0倍台をキープ",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（季節調整値）は、2019年4月の1.16倍を最後に徐々に下降を続けていました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "そこから新型コロナウイルスが経済に影響を及ぼしたことで追い討ちをかけて低迷を続けていましたが、2021年1月にようやく底を打ち、2021年2月には約6ヶ月ぶりに正社員有効求人倍率が0.8倍台に回復しました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年に有効求人倍率はピークに達し、その後下落したものの、現在は回復傾向であることが分かります",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）は次の通りとなりました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "福井県の有効求人倍率が高く、神奈川県が低いイメージがあるのは何故か？",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（受理地別値）は各都道府県内のハローワークが受理した求人数を集計して算出していますが、企業の中には本社が所在するハローワークに全国の各支社の求人を一括して提出している場合もあることから、求人を受理したハローワークの所在する都道府県と実際の就業地となる都道府県が異なる場合があるためです",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は1.20倍で",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "「正社員」有効求人倍率は1.00倍で",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率は37カ月連続で1.0倍台をキープ",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は1.22倍で同水準",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "「正社員」有効求人倍率は1.02倍で同水準",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年8月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？見方や仕事探しへの活かし方を解説",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年10月版】工場・製造業の有効求人倍率とは？都道府県別データから見る仕事探しのポイント",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "そんなときに参考になるのが「有効求人倍率」です",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率を見ることで、現在の求人市場が求職者に有利なのか、企業に有利なのかを把握できます",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "特に工場・製造業では人手不足が続いており、地域や職種によって求人状況に大きな差があります",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、有効求人倍率の意味や見方、都道府県別の最新データ、工場求人を探す際の活用方法までわかりやすく解説します",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率だけで仕事を選ばない方が良い理由",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、仕事を探している人1人に対して何件の求人があるかを表す指標です",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率の変動は、派遣ニーズや現場の人材確保の難易度に直結します",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率が1倍を超えると、求職者より求人の方が多い状態です",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率 ＝ 有効求人数 ÷ 有効求職者数",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "の場合、有効求人倍率は2.0倍です",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率は2009年の0.47倍を底に回復傾向が続き、2018年には1.61倍まで上昇しました",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別有効求人倍率の比較（全国平均：1.18倍）",
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "pass": 3
+   },
+   {
+    "quote": "労働市場関係指標（求人倍率・就職率・充足率・求人数・求職者数・就職件数）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率（実数、季節調整値）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年9月の有効求人倍率は1.19倍で、前月と比べて0.01ポイント上昇",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年9月の数値をみると、有効求人倍率（季節調整値）は1.19倍となり、前月を0.01ポイント上回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "正社員有効求人倍率（季節調整値）は1.01倍となり、前月を0.01ポイント上回りました",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（季節調整値）をみると、就業地別では、最高は福井県と山梨県の1.74倍、最低は",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "文中の正社員有効求人倍率は正社員の月間有効求人数をパートタイムを除く常用の月間有効求職者数で除して算出しているが、パートタイムを除く常用の月間有効求職者には派遣労働者や契約社員を希望する者も含まれるため、厳密な意味での正社員有効求人倍率より低い値となる",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 一般職業紹介状況（9月：有効求人倍率1.19倍）| 人事コンサルティング",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   }
+  ],
+  "調査主体・時期": [
+   {
+    "quote": "報道発表資料［PDF形式：675KB］",
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "pass": 3
+   },
+   {
+    "quote": "報道発表資料［PDF形式：672KB］",
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "pass": 3
+   },
+   {
+    "quote": "労働に関する総合的な調査研究を実施し、その成果を広く提供しています",
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年10月31日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、厚生労働省が発表した一般職業紹介状況についてお伝えしました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年10月3日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年8月29日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年8月1日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年6月27日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年5月30日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度の一般職業紹介状況について",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年5月2日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "一般職業紹介状況(令和7年3月分及び令和6年度分)について",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "令和6年度の一般職業紹介状況を振り返ると、有効求人倍率は平均1.25倍となり、前年度の1.29倍を0.04ポイント下回りました",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "また、令和6年度の有効求人数は前年度に比べて3.0％減少しましたが、有効求職者数は逆に0.2％増加しています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年4月1日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年3月4日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "※参照：令和7年1月31日 厚生労働省発表、",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "特定非営利活動法人及び市民の社会貢献に関する実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "低年齢層の子供のインターネット利用環境実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "幼稚園・保育所・認定こども園等の経営実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "高齢社会対策総合調査（高齢者の住宅と生活環境に関する調査）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "高齢社会対策総合調査（高齢者の経済生活に関する調査）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "高齢者の日常生活・地域社会への参加に関する調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "企業のワーク・ライフ・バランスに関する調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "東日本大震災における地震・津波時の避難に関する実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "企業の事業継続及び防災の取組に関する実態調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "首都圏の住宅における感震ブレーカーの普及状況等に関する調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "カムチャツカ半島付近の地震に伴う津波に関する住民調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "青森県東方沖を震源とする地震に関する住民調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "令和８年４月20日に発生した岩手県三陸沖を震源とする地震に関する住民調査",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "組織マネジメントに関する調査（JP-MOPS）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "報道発表資料［PDF形式：759KB］",
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年10月30日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年10月2日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年8月28日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年7月31日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年6月30日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年5月29日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年4月28日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年3月31日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "(2026年3月3日発表)",
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "値はパートタイムを含む年度平均で、収録は2015年度から2024年度までの10年分です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "全国の有効求人倍率は2015年度の1.23倍から上昇し、2018年度に収録期間中の最高となる1.62倍に達しました",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度には1.55倍とすでに下がり始めており、翌2020年度に1.10倍まで落ちます",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "回復局面に入って2022年度に1.31倍まで戻したものの、以降は1.29倍、1.25倍と緩やかに低下しています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "都道府県別の有効求人倍率（2024年度）",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の有効求人倍率を全47都道府県で比較します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の全国の値は次のとおりです",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "年度によって順位が入れ替わるなら拠点戦略には使いにくいですが、地域差が安定しているなら判断材料になります",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "4都県とも収録期間中のピークは2018年度です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "底の年は分かれ、福井県は2020年度の1.57倍、沖縄県は2020年度の0.72倍、東京都は2021年度の1.22倍、神奈川県は2020年度と2021年度に並んだ0.80倍が最低でした",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "各年度の47都道府県の順位を2024年度の順位と突き合わせた相関は次のとおりです",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "9年前の2015年度でも0.74、直近の2023年度では0.97です",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "景気で水準は上下しますが、どの県が相対的に採用しにくいかという序列は年度をまたいで安定しています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "横軸に2024年度の有効求人倍率、縦軸に",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "倍率は年度平均、給与は2024年6月の1か月分で、時点の取り方が異なる指標を同じ図に置いています",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "【最新データ】※2023年11月厚生労働省発表資料を参照",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の調査により毎月発表され、数値が高いほど「仕事を探している人が多い」ことを示しています",
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "pass": 3
+   }
+  ],
+  "採用単価": [
+   {
+    "quote": "有料職業紹介業界においても、いわゆる今までは低単価というジャンルの一律70万円以下の紹介手数料で紹介してきた求人は急速にクローズしており、このトレンドは緊急事態宣言、外出自粛が本格化した4月にはより顕著になると予測しています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークに登録された求職者1人あたり何件の求人があるかを表し、1を超えると求人が求職者を上回る「人手不足（売り手市場）」を意味します",
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "pass": 3
+   },
+   {
+    "quote": "ハローワークにおける有効求人数を有効求職者数で割って算出される指標で、求職者1人あたりにどれだけの求人があるか",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、1人あたり2件の求人があるということを指します",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "この場合、1人あたり1件にも満たない求人しかないため、仕事を探す人が多く、求人が少ない状況です",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "仕事を探している人1人あたりに、エンジニアの求人がいくつあるかを表します",
+    "url": "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "pass": 3
+   },
+   {
+    "quote": "有効求人倍率とは、全国のハローワークに登録されている求職者1人あたりに何件の求人があるかを示す指標です",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "2. 有効求人倍率とは、求職者1人あたりの求人件数",
+    "url": "https://limo.media/articles/-/136409",
+    "pass": 3
+   }
+  ],
+  "年間採用費": [
+   {
+    "quote": "有料職業紹介業界においても、いわゆる今までは低単価というジャンルの一律70万円以下の紹介手数料で紹介してきた求人は急速にクローズしており、このトレンドは緊急事態宣言、外出自粛が本格化した4月にはより顕著になると予測しています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ2019年の「有効求人倍率1.63倍」という値が、「かなりのバブル、異常なほどの売り手市場」であったと考えると、有効求人倍率の値と市場の伸びをみても、まだまだ十分に有料職業紹介手数料収入を伸ばす余地は十分にあると考えています",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "在職区分（離職理由）別 新規求職申込件数（実数）",
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "pass": 3
+   },
+   {
+    "quote": "離職票はいつ届く？ 書き方、手続きや再発行のやり方",
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "pass": 3
+   },
+   {
+    "quote": "新卒・若手社員の心身の不調や離職・休職リスク、企業の健康支援に関する調査",
+    "url": "https://jinjibu.jp/news/detl/26717/",
+    "pass": 3
+   },
+   {
+    "quote": "6月の内訳を見ると、求職理由別では「勤め先や事業の都合による離職」が増加し、「自発的な離職（自己都合）」は減少しました",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   },
+   {
+    "quote": "この時期は「人手不足倒産」という言葉が現実味を持って語られ、飲食店が人手不足で営業時間を短縮し、建設現場が職人を確保できずに工期が延びるといった現象が全国で起きていました",
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "万円": [
+   {
+    "value": "70",
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "quote": "有料職業紹介業界においても、いわゆる今までは低単価というジャンルの一律70万円以下の紹介手数料で紹介してきた求人は急速にクローズしており、このトレンドは緊急事態宣言、外出自粛が本格化した4月にはより顕著になると予測しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/hataraku-ronten/detail034.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.teachme.jp/blog/lack-labor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://queria.io/reports/queria/job-opening-ratio-gap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://one-group.jp/humanresource/use/job_offers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/toukei/list/114-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450222&tstat=000001020327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jinjibu.jp/news/detl/26717/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kyujinbairitsu.shigotodb.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&query=%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%88%A5+%E6%9C%89%E5%8A%B9%E6%B1%82%E4%BA%BA%E5%80%8D%E7%8E%87&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.works-i.com/column/labor-market/detail018.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=82482?site=nli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limo.media/articles/-/136409",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/stf/newpage_72811.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 人手不足 受注 断る",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://www.works-i.com/column/hataraku-ronten/detail034.html",
+    "https://kaminashi.jp/media/manufacturing-industry-labor-shortage",
+    "https://www.mhlw.go.jp/stf/newpage_74004.html",
+    "https://biz.teachme.jp/blog/lack-labor/",
+    "https://www.ricoh.co.jp/service/remote-field/column/article-manufacturing-industry",
+    "https://www.meti.go.jp/report/whitepaper/mono/2020/honbun_pdf/pdf/honbun_01_02_01.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 受注残 人手不足",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://one-group.jp/humanresource/use/job_offers.html",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 人手不足 損失 億円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/6951/",
+    "https://www.moa-net.co.jp/data/japan/syokugyou.html",
+    "https://note.com/iida_yasuyuki/n/n627a844b8f7c",
+    "https://www.transtructure.com/hr-data-analysys/labor/p7557/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://www.prostaffcloud.jp/knowledge/251001manufacturing_article.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 採用単価 規模別",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://one-group.jp/humanresource/use/job_offers.html",
+    "https://www.hwiroha.com/syokugyoubetsu_yuukou_kyuujinn_bairitsu.html",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 採用コスト 調査 万円",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://queria.io/pages/queria/job-opening-ratio-gap",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://one-group.jp/humanresource/use/job_offers.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 中途採用状況調査 従業員規模別",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8",
+    "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "https://and-pro.jp/content/article-u2b4c48fz1w/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/77/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450222&tstat=000001020327"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 採用経路 割合 調査",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.works-i.com/column/labor-market/detail018.html",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://www.saiyo-doda.jp/guide/kihon/effective-job-opening-ratio",
+    "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "https://jinjibu.jp/news/detl/26717/",
+    "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "https://www.fukushi.metro.tokyo.lg.jp/documents/d/fukushi/siryo7_8"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 人手不足 充足率 調査 2025",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://www.transtructure.com/hr-data-analysys/labor/p17764/",
+    "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://www.nli-research.co.jp/report/detail/id=82482?site=nli",
+    "https://www.moa-net.co.jp/data/japan/syokugyou.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） 白書 採用",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_75707.html",
+    "https://www.jil.go.jp/kokunai/statistics/shuyo/0210.html",
+    "https://lassic.co.jp/media/person/it-engineer-job-ratio-prefecture/",
+    "https://www.e-stat.go.jp/stat-search?page=1&layout=dataset&toukei=00450222&iroha=2",
+    "https://lp.man-to-man-g.com/blog/job-offer-ratio",
+    "https://note.com/hirokimiyano/n/nf5b6f6180f0f",
+    "https://fujiarte.co.jp/contents/dl/jobmarket_202507.pdf",
+    "https://one-group.jp/humanresource/use/job_offers.html",
+    "https://limo.media/articles/-/136409",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121）",
+   "results": [
+    "https://note.com/trex_ai/n/n80472342438e",
+    "https://note.com/kyuzin_yomikaki/n/nf470156a925d",
+    "https://note.com/newbizcreate_777/n/n3f71a5efcc79",
+    "https://note.com/zephel01/n/n1e6189c72b5d",
+    "https://note.com/ghrs/n/n7e4d560e0dc6",
+    "https://note.com/noble_badger3393/n/n2373499fdc30",
+    "https://note.com/gaikokujinzai/n/n8d097b24275f",
+    "https://note.com/machi_hito1507/n/n15c1d4756b07",
+    "https://note.com/leadstar/n/na54b0254fc05",
+    "https://note.com/ecareerfa/n/ne89edf6580ab"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121）",
+   "results": [
+    "https://x.com/kazunoricc",
+    "https://x.com/tokyoroudouMHLW/status/2017100464471384468",
+    "https://x.com/tokyoroudouMHLW/status/2048983855366029403",
+    "https://x.com/info_vcareer/status/2105077665254588508",
+    "https://x.com/funjob_jp/status/1994649167948648882",
+    "https://x.com/indbgraphreport/status/2038957947339100420",
+    "https://x.com/tsunakencom/status/2112723186840461625",
+    "https://x.com/indbgraphreport/status/1851059546070139055"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121）",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%A0%94%E4%BA%8C-%E8%97%A4%E5%B2%A1-944924359",
+    "https://www.linkedin.com/pulse/一般職業紹介状況労働力調査令和6年2月分-崇-堀内-xqazc",
+    "https://jp.linkedin.com/posts/sakuraitakuya_一般職業紹介状況令和7年6月分離職理由別求職者数の推移令和7年8月発表-activity-7361526205113618433-jWN_",
+    "https://www.linkedin.com/pulse/あらためて求人倍率について26卒-サトル-カナイワ-18yvc",
+    "https://jp.linkedin.com/posts/hisashitakahashiseisansei_転職どうでしょう-正式リリースのプレスリリースを配信しました全国47都道府県1-activity-7505833440353751040-E-tj",
+    "https://jp.linkedin.com/posts/pasona-business_2026年4月最新版採用市場はどう動いた転職動向と求人倍率を業界職種別に解説-activity-7452555538288263168-9KXU",
+    "https://jp.linkedin.com/posts/y-ishii_リクルートワークス研究所-2027卒大卒求人倍率調査-27卒求人倍率は162-activity-7453702561473224704-As1Z",
+    "https://jp.linkedin.com/posts/satoshi-miyamoto-宮本智史-0a11b022_人材紹介2023年度の有料民間職業紹介事業所数は30113件前年度から-activity-7257277845725421571-Ajho"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com 一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121）",
+   "results": [
+    "https://www.facebook.com/p/%E5%9F%BC%E7%8E%89%E3%81%A8%E3%81%86%E3%81%B6%E8%8B%A5%E8%80%85%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-100067411946366/",
+    "https://www.facebook.com/tanabecci/posts/ハローワーク田辺より一般職業紹介状況業務月報令和7年2月分が公表されました出典和歌山労働局ホームページ/1088833689950636/",
+    "https://www.facebook.com/atsushi.okumura.sr/posts/労働時事49-２月の有効求人倍率３月31日厚生労働省ｈｐ一般職業紹介状況令和８年２月分によれば本年２月の有効求人倍率季節調整値は119倍で前月に比べて001ポイ/1546304880828087/",
+    "https://www.facebook.com/aichi.roudoukyoku/posts/令和８年１月における雇用情勢をお伝えします-基調判断-雇用情勢は求人が求職を上回って推移しているものの物価上昇等が雇用に与える影響に注意する必要がある-有効求人/1370002271836174/",
+    "https://www.facebook.com/regional.career.shizuoka/posts/静岡県の最新雇用情勢についてエリア別西部中部東部の有効求人倍率産業別の新規求人など詳しくお伝えしますhttpsrs-shizuokanet20250120251/1117833373479302/",
+    "https://www.facebook.com/aichi.roudoukyoku/photos/令和７年６月における雇用情勢をお伝えします-基調判断-雇用情勢は持ち直しの動きが広がりつつあるが一部に改善の動きが弱まっており引き続き注意する必要がある-有効求/1207167358119667/",
+    "https://www.facebook.com/tashirointernational/posts/めちゃくちゃ久しぶりにみた岐阜県ハローワーク別有効求人倍率の推移岐阜県の名物は多治見のパートの求人倍率が異常に高いことでありこれは某v社という最強企業１社によっ/25707145555614592/",
+    "https://www.facebook.com/minshokyo/posts/厚労省職業紹介事業における職種別手数料離職状況が公表されました１２月２５日木厚生労働省から職業紹介事業者における職種別手数料離職状況についてが公表されましたこれ/863011129655238/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） note 社長",
+   "results": [
+    "https://www.mhlw.go.jp/stf/newpage_76960.html",
+    "https://www.jil.go.jp/kokunai/blt/backnumber/2026/04/c_01.html",
+    "https://media.crowd-agent.com/2025/12/03/joboffer_ratio/",
+    "https://note.com/sorala_com/n/n2e38ec101645",
+    "https://note.com/kazucallnote/n/nd4d805c7d46e?sub_rt=share_pb",
+    "https://www.r-agent.com/guide/start/32493/",
+    "https://note.com/ecareerfa/n/ne89edf6580ab",
+    "https://one-group.jp/humanresource/use/job_offers.html",
+    "https://service.gakujo.ne.jp/jinji-library/saiyo/00042/",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450222&tstat=000001020327"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "一般職業紹介状況 都道府県別 有効求人倍率 製造業・生産工程（47都道府県そろった表・厚労省の表・4-121） X 投稿",
+   "results": [
+    "https://jsite.mhlw.go.jp/miyazaki-roudoukyoku/content/contents/002474873.pdf",
+    "https://www.manegy.com/news/detail/7223/",
+    "https://www.neo-career.co.jp/humanresource/knowhow/a-contents-middlecareer-baitaijikihikaku0129/",
+    "https://www.update-up.com/update-hr/column/indeed-oubo-konai",
+    "https://career-lens.jp/job-openings-ratio-by-occupation/",
+    "https://www.sbbit.jp/article/cont1/36888",
+    "https://tanabota-life.com/active-opening-ratio/",
+    "https://resortbaito-dive.com/columns/jobs/details/no-unlicenses-work",
+    "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450222&tstat=000001020327",
+    "https://www.mhlw.go.jp/toukei/list/114-1.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "job openings to applicants ratio by prefecture production occupations MHLW table site:linkedin.com",
+   "results": [
+    "https://jp.linkedin.com/in/zhe-wang-a88b25135",
+    "https://www.linkedin.com/posts/ken-lok_japaneconomy-labormarket-futureofwork-activity-7430155601726472192-8hzy",
+    "https://www.linkedin.com/posts/yslmakana_japans-job-to-applicant-ratio-is-118-that-activity-7505769971562594305-HS9B",
+    "https://sg.linkedin.com/posts/the-japan-times_japans-job-market-remains-tight-keeping-activity-7003589436496121856-nkGM",
+    "https://www.linkedin.com/pulse/japans-job-ratio-118-translators-face-005-software-amnsc",
+    "https://www.linkedin.com/posts/atarashift_in-march-2026-japan-had-about-11-job-openings-activity-7487875264018870272-PHTZ",
+    "https://www.linkedin.com/posts/joshuabryan_tokyo-recruitment-japan-activity-7425285851661643777-TTQi",
+    "https://www.linkedin.com/posts/sakuraitakuya_厚労省発表の令和7年9月の有効求人倍率は120倍で前月と同水準新規求人倍率は214-activity-7397755705279148032-OeuR"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {}
+}
