@@ -93,6 +93,7 @@ def judge_topic(name: str, token: str, budget: list[int]) -> None:
                 budget[0] = 0
             elif res and res.get("verdict"):
                 cache[nm] = res
+                print(f"AI {nm} | {res.get('verdict')} | {res.get('reason')} | {res.get('evidence_url')}", flush=True)
         if nm in cache:
             c = cache[nm]
             row["判定"] = f"{c['verdict']}（AI判定）"

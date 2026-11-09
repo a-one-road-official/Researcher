@@ -34,4 +34,4 @@ jobs:
           git add researcher/out
           git diff --cached --quiet && exit 0
           git commit -q -m "researcher: AI判定 $(date -u +%FT%TZ)"
-          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep 5; done
+          for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; git rebase --abort 2>/dev/null; sleep 5; done  # 判定の結果を優先（途中で調査の回が書いても判定を失わない）
