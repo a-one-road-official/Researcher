@@ -56,6 +56,8 @@ def main(argv=None) -> int:
     (base / "facts.md").write_text("\n".join(lines), encoding="utf-8")
     if topic.get("sheet"):
         write_sheet(topic, base, recs)
+    if topic.get("judge"):
+        write_judged(topic, base, recs)
     print(f"merged {len(recs)}")
     return 0
 
@@ -86,6 +88,56 @@ def write_sheet(topic: dict, base: Path, recs: list[dict]) -> None:
             miss = "／".join(r.get("missing", {}))
             row += ["\n".join(dict.fromkeys(urls)), ("エラー" if r.get("error") else "調査済み") + (f"（記載なし：{miss}）" if miss else "")]
             w.writerow(row)
+
+
+# 2026-11-09 本人：「日本に誰かいる会社は除外」「大手は除外」「不明で残さない」。引用の羅列で終わらせず、1社1行で判定まで出す。
+# 判定は機械的（規則は下の正規表現だけ）。根拠の引用とURLを必ず横に置き、本人が1行で確かめられるようにする。
+import re as _re
+_JP_STRONG = _re.compile(
+    r"(日本|国内)(の)?(正規|総|輸入|販売)?(代理店|販売店|取扱|取り扱い|輸入元|販売元)|正規(代理店|販売店|品)|総代理店|輸入元|販売元|"
+    r"日本法人|日本支社|株式会社|合同会社|K\.K\.|Japan\s*(K\.?K|Co\.|office|branch|subsidiary)|"
+    r"distribut\w*\s+(in|for)\s+Japan|Japan(ese)?\s+(distributor|reseller|dealer|partner|agent)|amazon\.co\.jp|monotaro|rakuten\.co\.jp|yodobashi", _re.I)
+_BIG = _re.compile(r"(\d{1,3}(,\d{3})+|\d{4,})\s*(employees|staff|Mitarbeiter|従業員)|listed on|NYSE|NASDAQ|stock exchange|上場|subsidiary of|part of the .{0,40}group|a member of the .{0,40}group|子会社", _re.I)
+_MAIL = _re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+
+
+def write_judged(topic: dict, base: Path, recs: list[dict]) -> None:
+    from researcher.targets import load_targets
+    cfg = topic["judge"]
+    by_name = {r.get("name"): r for r in recs}
+    with open(base / "judged.csv", "w", newline="", encoding="utf-8-sig") as f:
+        w = csv.writer(f)
+        w.writerow(["社名", "公式URL", "文脈", "判定", "判定の根拠（引用）", "根拠URL", "大手の疑い（引用）", "窓口メール", "状態"])
+        counts = {}
+        for t in load_targets(topic):
+            r = by_name.get(t["name"])
+            if not r:
+                w.writerow([t["name"], t["url"], t["context"], "未調査", "", "", "", "", "未調査"])
+                counts["未調査"] = counts.get("未調査", 0) + 1
+                continue
+            ev = r.get("evidence", {})
+            jp = [i for i in ev.get(cfg["japan"], []) + ev.get("検索結果の抜粋", []) if _JP_STRONG.search(i.get("quote", "")) or _JP_STRONG.search(i.get("url", ""))]
+            big = [i for i in ev.get(cfg["scale"], []) if _BIG.search(i.get("quote", ""))]
+            mails = []
+            for c in (cfg["contact"], cfg["japan"]):
+                for i in ev.get(c, []):
+                    mails += [m for m in _MAIL.findall(i.get("quote", "")) if not m.lower().endswith((".png", ".jpg"))]
+            for k, v in (r.get("profile") or {}).items():
+                for it in v:
+                    mails += _MAIL.findall(it.get("value", ""))
+            if jp:
+                verdict, q, u = "除外（日本に取扱いあり）", jp[0]["quote"][:220], jp[0]["url"]
+            elif big:
+                verdict, q, u = "除外（大手の疑い）", big[0]["quote"][:220], big[0]["url"]
+            elif r.get("error") and not ev:
+                verdict, q, u = "要再調査（読めず）", r.get("error", "")[:200], ""
+            else:
+                n = len(r.get("checked", {}).get("pass3", [])) if isinstance(r.get("checked"), dict) else ""
+                verdict, q, u = "余地あり（日本の取扱い見つからず）", f"日本の取扱いの引用なし（外部の検索結果を{n}件読んだ）", ""
+            counts[verdict] = counts.get(verdict, 0) + 1
+            w.writerow([t["name"], r.get("official_url", "") or t["url"], t["context"], verdict, q, u,
+                        (big[0]["quote"][:160] if big else ""), " ".join(dict.fromkeys(mails))[:200], "調査済み"])
+    (base / "judged_counts.txt").write_text("\n".join(f"{k}\t{v}" for k, v in sorted(counts.items())), encoding="utf-8")
 
 
 def merge_market(topic_name: str, topic: dict, base: Path, recs: list[dict]) -> int:

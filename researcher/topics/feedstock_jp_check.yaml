@@ -37,3 +37,6 @@ external_queries:
   - "{name} employees revenue parent company"
 
 limits: {pages: 25, subpages: 20, pdfs: 4, images: 6, external_per_query: 4}
+
+# 1社1行の判定表（out/feedstock_jp_check/judged.csv）を出す。規則は merge.py の write_judged
+judge: {japan: 日本の担い手, scale: 規模・親会社, contact: 連絡先}
