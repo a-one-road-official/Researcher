@@ -1,0 +1,2557 @@
+{
+ "name": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）",
+ "en": "Nara prefecture census of manufacture results by employee size unit of shipments",
+ "aliases": [
+  "奈良県 工業統計調査 結果 従業者規模別 製造品出荷額等",
+  "奈良県 工業統計 確報 規模別 単位 万円",
+  "site:pref.nara.lg.jp 工業統計 規模別"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T08:59:30.865161+00:00",
+ "evidence": {
+  "痛み・損（深さの印）": [
+   {
+    "quote": "《 トピックス 》開廃業 の状況 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 20",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "《《《《トピックストピックストピックストピックス》》》》開廃業開廃業開廃業開廃業のののの状況状況状況状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 ４人以上 の事業所 について 開業等 、廃業等 (※) の状況 をみると 、開業等 は13事業所 （前年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "比４事業所増 ）、 廃業等 は63事業所 （同24事業所減 ）となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開廃業等 の事業所数 の割合 の推移 をみると 、開業等 は平成 19年以降低下傾向 にありましたが 20",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また 、廃業等 は平成 19年以降上昇傾向 にありましたが 20",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なり 、廃業等 は基礎素材型 、生活関連型 が24事業所 、加工組立型 が15事業所 となりました ｡",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(※)開業等 には 、開設 のほか 転入 、転業 を含み、廃業等 には 、廃業 のほか 転出 、転業 を含む",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第30 30 30 30図 図 図図 開廃業等 開廃業等開廃業等開廃業等 のの のの割合 割合割合割合 のの のの推移 推移推移推移 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第31 31 31 31図 図 図図 産業類型別 産業類型別産業類型別産業類型別 のの のの開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊＊ ＊＊開業率開業率開業率開業率はは はは前年前年前年前年にに にに比比 比比べてべてべてべて00 00.. ..22 22ポイントポイントポイントポイント上昇上昇上昇上昇、、 、、廃業率廃業率廃業率廃業率はは はは11 11.. ..00 00ポイントポイントポイントポイント低下低下低下低下",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第８ ８ ８８表 表 表表 開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "廃業等 90 3.3 53 1.9 69 2.7 87 3.4 63 2.4",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "廃業等 の割合 ＝｢廃業 ･転出 ｣､｢転業 ｣の事業所数 ／前年当年事業所数 ×100",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また 、廃業等 は、奈良市 で９事業所 、橿原市 で７事業所 、葛城市 で６事業",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、廃業等 は４～９人規模 が42事業所 、10～19人規模 が12事業所 などとなりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第32 32 32 32図 図 図図 従業者規模別 従業者規模別従業者規模別従業者規模別 のの のの開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第33 33 33 33図 図 図図 市町村別 市町村別市町村別市町村別 のの のの開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "《 トピックス 》開廃業 の状況 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 21",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "《《《《トピックストピックストピックストピックス》》》》開廃業開廃業開廃業開廃業のののの状況状況状況状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 ４人以上 の事業所 について 開業等 、廃業等 (※) の状況 をみると 、開業等 は９事業所 （前",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年比 ６事業所減 ）、 廃業等 は87事業所 （同18事業所増 ）となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開廃業等 の事業所数 の割合 の推移 をみると 、平成 19年以降 、開業等 は低下 、廃業等 は上昇 へ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と転じており 、20年は開業等 の割合 0.3％、 廃業等 の割合 3.4％となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(※)開業等 には 、開設 のほか 転入 、転業 を含み、廃業等 には 、廃業 のほか 転出 、転業 を含む",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第30 30 30 30図 図 図図 開廃業等 開廃業等開廃業等開廃業等 のの のの割合 割合割合割合 のの のの推移 推移推移推移 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第31 31 31 31図 図 図図 産業類型別 産業類型別産業類型別産業類型別 のの のの開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊＊ ＊＊開業率開業率開業率開業率はは はは前年前年前年前年にに にに比比 比比べてべてべてべて00 00.. ..33 33ポイントポイントポイントポイント低下低下低下低下、、 、、廃業率廃業率廃業率廃業率はは はは00 00.. ..77 77ポイントポイントポイントポイント上昇上昇上昇上昇",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第８ ８ ８８表 表 表表 開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "廃業等 76 2.5 90 3.3 53 1.9 69 2.7 87 3.4",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また 、廃業等 は、奈良市 で11事業所 、天理市 と橿原市 で各10事業所 、大和",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "となり 、廃業等 は30～99人規模 が42事業所 、20～29人規模 が21事業所 などとなりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第32 32 32 32図 図 図図 従業者規模別 従業者規模別従業者規模別従業者規模別 のの のの開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第 第第33 33 33 33図 図 図図 市町村別 市町村別市町村別市町村別 のの のの開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "２．事業所数 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 7",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 従業者規模別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・・・・・・・ 44",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 は、平成 21年12月31日現在 の数値 です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数 は2,387事業所 で、前年 に比べて 10.2％減少 (271事業所減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要 ４指標 の過去 10年間 の推移 をみると 、事業所数 と従業者数 は期間全体 として 減少傾向 であ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別 の状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 21年の従業者 ４人以上 の事業所数 は2,387事",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別 の構成比 をみると 、４～９人規模 の事業所数 が半数近 くを 占め(49.4％、 1,178事業",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所)、次いで 10～19人規模 (23.7％、 565事業所 )、20～29人規模 (11.7％、 279事業所 )の順となって",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は2,387事業所で、前年に比べて10.2％減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者４～９人規模の事業所数が半数近くを占める",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３図 産業中分類別事業所数 の前年比 （％） （ 従業者 ４人以上 の事業所 ）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４図 従業者規模別事業所数 の構成比 （％） （ 従業者 ４人以上 の事業所 ）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10～19人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20～29人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．事業所数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 従業者規模別統計表・・・・・・・・・・・・・・・・・・・・・・・・・ 43",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、調査日が令和2年6月1日となっていることから、事業所数、従業者数については令和2年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数（令和2年6月1日現在） (1) 事業所数（令和2年6月1日現在） (1) 事業所数（令和2年6月1日現在） (1) 事業所数（令和2年6月1日現在）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告 書 における主 要 4指 標 とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 平成28年経済 セ ン サ ス -活動 調査においては、「事業所数」、「従業者数」については、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,783事業所で、 前年と比べて2.8％減少 (△52事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数は減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数の全国シェアは1.0%、全国順位は32位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 38位、製造品出荷額等 36位、付加価値額 38位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和2年の従業者4人以上の事業所数は1,783事業所です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別の状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別事業所数の構成比をみると、4～9人規模35.4％(632事業所)が最も多く約4割を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "占め、次いで10～19人規模26.5％(473事業所)、30～99人規模18.1％(323事業所)の順 となって",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,783事業所で、前年と比べて 52事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者 4～9人規模の事業所数が約 4割を占める",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第5図 従業者規模別事業所数の構成比（％） （従業者 4人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．事業所数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 従業者規模別統計表・・・・・・・・・・・・・・・・・・・・・・・・・ 43",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、調査日が平成30年6月1日となっていることから、事業所数、従業者数については平成30年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 事業所数 (平成30年6月1日現在) (1) 事業所数 (平成30年6月1日現在) (1) 事業所数 (平成30年6月1日現在) (1) 事業所数 (平成30年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告書における主 要4 指 標 とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 平成28年経済 セ ン サ ス -活動 調査においては、「事業所数」、「従業者数」については、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,881事業所で、 前年と比べて2.2％減少 (△42事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と従業者数は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数の全国シェアは1.0%、全国順位は32位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 37位、製造品出荷額等 36位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者規模別の状況",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者規模別事業所数の構成比をみると、4～9人規模37.5％(706事業所)が最も多く約4割を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "占め、次いで10～19人規模26.2％(492事業所)、30～99人規模16.2％(305事業所)の順 となって",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成30年の従業者4人以上の事業所数は1,881事業所です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,881事業所で、前年と比べて 42事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "87 産業別事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "90 事業所数と従業者数",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "99 外国人労働者数、 外国人を雇用する事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "103 \u0007 製造業の従業者規模別事業所数、 従業者数、 製造品出荷額等",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 \u0007製造業の事業所数、 従業者数、 製造品出荷額等の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "106 \u0007製造業の産業中分類別事業所数、 従業者数 ( 全事業所 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "112 商業 （卸 ・ 小売業別） 事業所数、 従業者数、 年間商品販売額の割合",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "115 事業所数、 従業者数、 年間商品販売額 （小売業）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "118 事業所数、 従業者数、 年間商品販売額 （卸売業）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "Ⅰ 調査結果 の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者数 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 8",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及 び有形固定資産総額 （従業者 ３０ 人以上 の事業所 ） ・・・・・ 16",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 統計表（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１表 累年比較統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・ 23",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 産業中分類別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・ 29",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表 （従業者 ３０ 人以上 の事業所 ） ・・・・・・・・ 32",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 従業者規模別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・・・・・・・ 44",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 産業細分類別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・ 54",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第６表 品目別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・・ 78",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７表 市町村別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・ 103",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 市町村別統計表 （従業者 ３０ 人以上 の事業所 ） ・・・・・・・・・・ 106",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第９表 市町村別中分類別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・ 108",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第10表 １２ 市別産業 ３類型別統計表 （従業者 ４人以上 の事業所 ） ・・・・・ 148",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年は従業者 ４人以上 の事業所 を調査 の対象 としています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査 は、従業者 30人以上 の事業所 （製造 、加工又 は修理 を行っていない 本社又 は",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "） については 「工業調査票甲 」、 従業者 29人以下 の事業所 （製造 、加工又 は修",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 11",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 統計表（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・ 33",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 市町村別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・・・ 104",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、調査日が令和2年6月1日となっていることから、事業所数、従業者数については令和2年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業者30人以上の事業所（製造、加工又は修理を行っていない本社又は本店を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "除く）については「工業調査票甲」、従業者29人以下の事業所（製造、加工又は修理を行っていな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数（令和2年6月1日現在） (2) 従業者数（令和2年6月1日現在） (2) 従業者数（令和2年6月1日現在） (2) 従業者数（令和2年6月1日現在）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ア 期 間を定めずに、又は1か月以上の 期 間を定めて 雇 用している人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者数・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 11",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 統計表（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 産業中分類別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・ 33",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第８表 市町村別統計表（従業者３０人以上の事業所）・・・・・・・・・・・・・・ 104",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、調査日が平成30年6月1日となっていることから、事業所数、従業者数については平成30年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は、従業者30人以上の事業所（製造、加工又は修理を行っていない本社又は本店を",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "除く）については「工業調査票甲」、従業者29人以下の事業所（製造、加工又は修理を行っていな",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 従業者数 (平成30年6月1日現在) (2) 従業者数 (平成30年6月1日現在) (2) 従業者数 (平成30年6月1日現在) (2) 従業者数 (平成30年6月1日現在)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "84 １ 人当た り県 （国） 民所得",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "85 １ 人当た り県 （国） 民所得の構成割合",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 事業所 ・ 従業者数",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "88 産業別従業者数",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "90 事業所数と従業者数",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "98 就業地別有効求人倍率",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "99 外国人労働者数、 外国人を雇用する事業所数",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100 労働時間 （事業所規模 ５ 人以上）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "101 賃金 （事業所規模 ５ 人以上）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "102 \u0007パー ト タ イム労働者比率 （事業所規模 ５ 人以上）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "109 従業者 １ 人当た り製造品出荷額等 ( 全事業所 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "111 従業者 １ 人当た り付加価値額 （全事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "103 \u0007 製造業の従業者規模別事業所数、 従業者数、 製造品出荷額等",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "( 全事業所 ) （従業者4人以上）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 \u0007製造業の事業所数、 従業者数、 製造品出荷額等の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "106 \u0007製造業の産業中分類別事業所数、 従業者数 ( 全事業所 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "112 商業 （卸 ・ 小売業別） 事業所数、 従業者数、 年間商品販売額の割合",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "114 県民1人当た り の年間商品販売額 （小売業）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅰ 調査結果の概要（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３．従業者数 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 9",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及 び有形固定資産総額 （従業者 ３０ 人以上 の事業所 ） ・・・・・ 17",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ⅱ 統計表（従業者４人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   }
+  ],
+  "受注金額・加工賃収入": [
+   {
+    "quote": "４．製造品出荷額等 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 は、平成 21年１年間 における 製造品出荷額 、加工 賃収入 額 、製造工 程 から",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等 は1兆9,848億円 で、前年 に比べて 18.4％減少 (4,467億円減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額 は5,693億円 で、前年 に比べて 25.4％減少 (1,943億円減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、製造品出荷額等 は、平成 14年から 19年にかけて 増加傾向 が続いた 後、20年から 再び減少 に転じ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 243,154,090 万円 198,480,855 万円 △44,673,235 万円 △18.4 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付 加 価 値 額 76,358,946 万円 56,932,317 万円 △19,426,629 万円 △25.4 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４ 製造品出荷額等",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "18.4％の減少 (4,467億円減 )となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6月1日現在、現金給与総額、製造品出荷額等などの経理項目については平成31年1月～令和元年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番号を決定します",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等（平成31年1月～令和元年12月の1年間） (5) 製造品出荷額等（平成31年1月～令和元年12月の1年間） (5) 製造品出荷額等（平成31年1月～令和元年12月の1年間） (5) 製造品出荷額等（平成31年1月～令和元年12月の1年間）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、平成31年1月～令和元年12月の1年間における製造品出荷額、加工 賃",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告 書 における主 要 4指 標 とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 平成19年調査から、製造以外の 活動 を 把握 する目的で、製造品出荷額等に「その他 収 入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は2兆1,224億円で、前年と比べて2.3％減少(△509億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,889億円で、前年と比べて2.3％減少(△161億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は平成29",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等の全国シェアは0.7%、全国順位は36位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 38位、製造品出荷額等 36位、付加価値額 38位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "６．製造品出荷額等・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6月1日現在、現金給与総額、製造品出荷額等などの経理項目については平成29年1月～12月の実績",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品目の製造品出荷額等をそれ ぞ れ合計し、その額の 最 も 大き いもので2 桁番 号を決定します",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5) 製造品出荷額等 (平成29年1年間) (5) 製造品出荷額等 (平成29年1年間) (5) 製造品出荷額等 (平成29年1年間) (5) 製造品出荷額等 (平成29年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等は、平成29年1年間における製造品出荷額、加工賃 収 入額及びその他 収 入額の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 加工賃 収 入額とは、平成29年 中 に他企業の所有に属する主 要原 材 料 によって製造し、あるい",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所） (10) 生産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 本報告書における主 要4 指 標 とは、「事業所数」、「従業者数」、「製造品出荷額等」及び",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "( 4 ) 平成19年調査から、製造以 外 の 活動 を 把握 する目的で、製造品出荷額等に「その他 収 入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は2兆917億円で、前年と比べて15.0％増加(2,724億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,826億円で、前年と比べて4.6％増加(300億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等は、平成27年・28年と減少傾向にありましたが、平成29年では増加に転じ、過去10年の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "107 産業中分類別製造品出荷額等 ( 全事業所 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "108 １ 事業所当た り製造品出荷額等 ( 全事業所 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "109 従業者 １ 人当た り製造品出荷額等 ( 全事業所 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "110 品目別製造品出荷額等の全国シ ェ ア( 全事業所 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "103 \u0007 製造業の従業者規模別事業所数、 従業者数、 製造品出荷額等",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 \u0007製造業の事業所数、 従業者数、 製造品出荷額等の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "134 県内養殖生産額と総漁獲量",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 （R3） 年の製造品出荷額等では、 300人以上規模の事業所が30.1％ （5,623億",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円） 、 30～99人規模が26.7％ （4,988億円） 、 次いで100～299人規模が26.3％ （4,923",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等では30.1％",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "人、 製造品出荷額等は １ 兆8,709億円とな っ ています",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５ 万9,633人、 製造品出荷額等は １ 兆8,709億円",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、 従業者数、 製造品出荷額等の推移 （従業者 ４ 人以上または全事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 （R3） 年 １ 年間の製造品出荷額等を産業中分類別にみる と、 食料品製造業が最も",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "多く （2,457億円、 13.1％ ） 、 次いで輸送用機械器具製造業 （1,796億円、 9.6％ ） 、 プラス",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．製造品出荷額等 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 11",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "× 100（生産額 －消費税 を除く内国消費税額 － 推 計消費税額 ）現金給与総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 付 加 価 値 率 ＝ × 100付 加 価 値額（生産額 －消費税 を除く内国消費税額 － 推 計消費税額 ）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(( (( 3 3 33 ) ) )) 製造品出荷額等 製造品出荷額等製造品出荷額等製造品出荷額等 はははは 2 2 22 兆 兆兆兆 4 4 44 , , ,, 315 315 315 315 億円 億円億円億円 でででで 、 、、、 前年 前年前年前年 にににに 比 比比比 べて べてべてべて 22 22 . . .. 5 5 55 ％ ％％％ 減少 減少減少減少 (( (( 623 623 623 623 億円減少 億円減少億円減少億円減少 )) )) しました しましたしましたしました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(( (( 4 4 44 ) ) )) 付加価値額 付加価値額付加価値額付加価値額 はははは 7 7 77 , , ,, 636 636 636 636 億円 億円億円億円 でででで 、 、、、 前年 前年前年前年 にににに 比 比比比 べて べてべてべて 14 14 14 14 . . .. 0 0 00 ％ ％％％ 減少 減少減少減少 (( (( 1 1 11 , , ,, 248 248 248 248 億円減少 億円減少億円減少億円減少 )) )) しました しましたしましたしました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、製造品出荷額等 は、平成 14年から 19年にかけて 増加傾向 が続いた 後、20年は再び減少 に転じ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４４４４ 製造品出荷額等 製造品出荷額等製造品出荷額等製造品出荷額等",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 20年の従業者 ４人以上 の事業所 についての 製造品出荷額等 は2兆4,315億円 ですが 、産業",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中分類別 にみると 、電子部品 ・デバイス ・電子回路製造業 が最も多く(4,660億円 、構成比",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "19.2％)、次いで 業務用機械器具製造業 (2,770億円 ､同11.4％)、食料品製造業 (2,310億円 ､同",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "７．付加価値額 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "④ 付加価値 率 ＝ × 100付加価値額（ 生 産額 － 消費税 を除く内国 消費税 額 － 推 計 消費税 額 ）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額 は5,693億円 で、前年 に比べて 25.4％減少 (1,943億円減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また 、付加価値額 は、増減 を繰り返して 推移 しており 、20年から 減少 となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等 243,154,090 万円 198,480,855 万円 △44,673,235 万円 △18.4 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付 加 価 値 額 76,358,946 万円 56,932,317 万円 △19,426,629 万円 △25.4 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１事業所当 たり 製造品出荷額等 は県全体 で8億3,151万円 ですが 、産業中分類別 にみると 、電",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "子部品 ・デバイス ・電子回路製造業 (157億1,139万円 )と業務用機械器具製造業 (103億6,731万",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "県全体 8億3,151万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 １人当 たり 製造品出荷額等 は県全体 で3,014万円 ですが 、産業中分類別 にみると 、石",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "油製品 ・石炭製品製造業 (8,379万円 )、電子部品 ・デバイス ・電子回路製造業 （7,766万円 ）、",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "業務用機械器具製造業 （6,586万円 ）の順で、上位 ５産業中 ４産業 は加工組立型 が占めていま",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者１人当たり現金給与総額は平均398万円で、産業別では業務用機械器",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具製造業(645万円)、電子部品・デバイス・電子回路製造業(589万円)が群",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "県全体 3,014万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(11) 付加価値額・粗付加価値額（平成31年1月～令和元年12月の1年間） (11) 付加価値額・粗付加価値額（平成31年1月～令和元年12月の1年間） (11) 付加価値額・粗付加価値額（平成31年1月～令和元年12月の1年間） (11) 付加価値額・粗付加価値額（平成31年1月～令和元年12月の1年間）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,889億円で、前年と比べて2.3％減少(△161億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成28年以降増加傾向にありましたが、令和元年に減少に転じ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額の全国シェアは0.7%、全国順位は38位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 38位、製造品出荷額等 36位、付加価値額 38位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊ 1事業所当たり従業者数は 35人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第8図 産業中分類別の 1事業所当たり従業者数 （従業者 4人以上の事業所）（人）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり現金給与総額は全産業平均で415万円です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械器具製造業(620万円)が最も多く、次いで輸送用機械器具製造業(590万円)、生産用機械器",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "具製造業(530万円)の順となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者１人当たり現金給与総額は 415万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(620万円 )、輸送用機械器具製造業 (590万円 )、生産用機械器具製造業 (530万円 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第12図 産業中分類別の従業者 1人当たり現金給与総額 （従業者 4人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全産業平均 415万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊1事業所当たり製造品出荷額等は 11.9億円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1事業所当たり製造品出荷額等は全産業平均で11.9億円です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり製造品出荷額等は全産業平均で3,448万円です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．付加価値額・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 16",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(11) 付加価値額・粗付加価値額 (平成29年1年間) (11) 付加価値額・粗付加価値額 (平成29年1年間) (11) 付加価値額・粗付加価値額 (平成29年1年間) (11) 付加価値額・粗付加価値額 (平成29年1年間)",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,826億円で、前年と比べて4.6％増加(300億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製 造 品 出 荷 額 等 209,168,958 万円 181,932,379 万円 2 7 , 2 3 6 , 5 7 9 万 円 1 5 . 0 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付 加 価 値 額 68,263,347 万円 65,259,765 万円 3 , 0 0 3 , 5 8 2 万 円 4 . 6 ％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額の全国シェアは0.7%、全国順位は39位となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数 32位、従業者数 37位、製造品出荷額等 36位、付加価値額 39位",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊ 1事業所当たり従業者数は 33人",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第8図 産業中分類別の 1事業所当たり従業者数 （従業者 4人以上の事業所）（人）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人当たり現金給与総額は全産業平均で414万円です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械器具製造業(688万円)が最も多く、次いで電気機械器具製造業(576万円)、電子部品・デバ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イス・電子回路製造業(569万円)の順となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報通信機械器具製造業(△15.3％、△6,000万円)が最も大きく、食料品製造業(△11.6％、△",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者１人当たり現金給与総額は 414万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(688万円 )、電気機械器具製造業 (576万円 )、電子部品・デバイス・電子回路",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 (569万円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "111 従業者 １ 人当た り付加価値額 （全事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億9,727万円ですが、 産業中分類別にみる と 、 業務用機械器具製造業 （78億9,353万",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円） 、 輸送用機械器具製造業 （49億8,942万円） 、 非鉄金属製造業 （19億7,829万円） の",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 位が業務用機械器具製造業で78億9,353万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 （R3） 年の県内の従業者 １ 人当た り製造品出荷額等は、 県全体平均で3,137万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、 産業中分類別にみる と、 業務用機械器具製造業 （5,590万円） 、 輸送用機械器具",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業 （5,387万円） 、 鉄鋼業 （5,057万円） とな っ ています",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１ 位が業務用機械器具製造業で5,590万円",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 0 2 2 ( R 4 ) 年の県内の従業者1人当た り付加価値額は 、 県全体平均で",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,125万円ですが、 産業中分類別に見る と 、 石油製品 ・ 石炭製品製造業が",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "８．年末在庫額及 び有形固定資産総額 （従業者 ３０ 人以上 の事業所 ） ・・・・・ 16",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 有形固定資産",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 年末在庫額及び有形固定資産投資総額 （従業者 30人以上 の事業所 ）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 30人以上 の事業所 についての 有形固定資産投資総額 は407億円 で、前年 に比べて 39.9％の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第５表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３表 有形固定資産投資総額 の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所についての有形固定資産投資総額は659億円で、前年と比べて19.8％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額は、 659億円で、前 年と比べて 19.8％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額では、プラスチック製品製造業 (110億円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 有形固定資産投資総額の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所についての有形固定資産投資総額は501億円で、前年と比べて5.1％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額は、 501億円で、前 年と比べて 5.1％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額では、食料品製造業 (68億円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 有形固定資産投資総額の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及 び有形固定資産総額 （従業者 ３０ 人以上 の事業所 ） ・・・・・ 17",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８８８８ 年末在庫額及 年末在庫額及年末在庫額及年末在庫額及 びびびび有形固定資産投資総額 有形固定資産投資総額有形固定資産投資総額有形固定資産投資総額 （（（（ 従業者 従業者従業者従業者 30 30 30 30 人以上 人以上人以上人以上 のののの 事業所 事業所事業所事業所 ））））",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者 30人以上 の事業所 についての 有形固定資産投資総額 は677億円 で、前年 に比べて 29.1％",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(( (( 2 2 22 ) ) ) ) 有形固定資産投資総額 有形固定資産投資総額有形固定資産投資総額有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第第第 ５ ５５５ 表 表表表 産業中分類別有形固定資産投資総額 産業中分類別有形固定資産投資総額産業中分類別有形固定資産投資総額産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第第第第 ３ ３３３ 表 表表表 有形固定資産投資総額 有形固定資産投資総額有形固定資産投資総額有形固定資産投資総額 のののの 推移 推移推移推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産総額（従業者３０人以上の事業所）・・・・・ 19",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産有形固定資産有形固定資産有形固定資産 額額 額額 （従業者 30 人以上の事業所） は、 平成 25 年１月から 12 月までの１年間における数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業者30人以上の事業所についての有形固定資産投資総額は378億円で、前年と比べて1.5％減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 有形固定資産投資総額の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2) 有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成28年の従業者30人以上の事業所についての有形固定資産投資総額は476億円で、前回と比",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額は、 476億円で、前 回と比べて 7.9％増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊有形固定資産投資総額では、化学工業 (89億円 )が多い",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第４表 産業中分類別有形固定資産投資総額",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第２表 有形固定資産投資総額の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第20表 産業中分類別、有形固定資産の取得額、現在高 (従業者10人以上の事業所) …82",
+    "url": "https://www.pref.nara.lg.jp/documents/12949/k-s63-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 有形固定資産",
+    "url": "https://www.pref.nara.lg.jp/documents/12949/k-s63-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 年初現在高……昭和63年 1 月 1 日現在で事業所が所有する有形固定資産をいう",
+    "url": "https://www.pref.nara.lg.jp/documents/12949/k-s63-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7) 有形固定資産投資総額 ＝ 土地の取得額 ＋ 有形固定資産(土地を除く)の取得額＋ 建設仮勘定",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（6） 有形固定資産投資総額 （従業者３０人以上の事業所） － 有形固定資産投資総額は ６年連続の増加 －",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 有形固定資産投資総額は 14 兆 1655 億円、前年比＋2.5％と６年連続の増加（第７図、統計表",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第７図 有形固定資産 投資総額の推移",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注１：有形固定資産投資総額とは、有形固定資産取得額に建設仮勘定の増減を加えたものである",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１２表 〃 有形固定資産投資総額（ 〃 ） ···················· 19",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１９表 〃 有形固定資産投資総額( 従業者３０人以上の事業所 ) ·· 22",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注2：有形固定資産投資総額には建設仮勘定の増減を含む",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１２表 産業中分類別 有形固定資産投資総額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１９表 従業者規模別 有形固定資産投資総額",
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 有形固定資産",
+    "url": "https://www.pref.nara.lg.jp/documents/12967/k-h17-00.pdf",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "額 をいい 、 減少 額 とは 、１年間 にこの 勘 定 から 他 の 勘 定 に 振 り 替 えられた 額をいいます",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑦ 投 資額 ＝ 有形固定資産 の 取得 額 ＋ ( 建設仮勘 定 の 増 加額 － 建設仮勘 定 の 減少 額 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数 は2,387事業所 で、前年 に比べて 10.2％減少 (271事業所減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数 は65,849人で、前年 に比べて 5.7％減少 (3,997人減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等 は1兆9,848億円 で、前年 に比べて 18.4％減少 (4,467億円減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額 は5,693億円 で、前年 に比べて 25.4％減少 (1,943億円減少 )しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要 ４指標 の過去 10年間 の推移 をみると 、事業所数 と従業者数 は期間全体 として 減少傾向 であ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、製造品出荷額等 は、平成 14年から 19年にかけて 増加傾向 が続いた 後、20年から 再び減少 に転じ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また 、付加価値額 は、増減 を繰り返して 推移 しており 、20年から 減少 となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第１図 主要 ４指標 の過去 10年の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成 ２０ 年 平成 ２１ 年 前年比 増減率増減数",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別 に前年 と比べると 、すべての 産業 で減少 が見られ 、県全体 で10.2％の減少 と",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組立型 では 情報通信機械 （45.5％減）、 生活関連型 では 繊維工業 （15.6％減）が最も減少 して",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は2,387事業所で、前年に比べて10.2％減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第３図 産業中分類別事業所数 の前年比 （％） （ 従業者 ４人以上 の事業所 ）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "産業中分類別 に前年 と比べると 、電気機械器具製造業 (2.9％増）のみ 増加 し、情報通信機械",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ど県全体 で5.7％の減少 (3,997人減 )となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊従業者数は65,849人で、前年に比べて5.7％減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年工業統計調査(2019年実績)は、令和2年6月1日現在で実施しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建 設 仮勘 定の 増 加額とは、この 勘 定の 借 方に加 え られた額をいい、 建 設 仮勘 定の 減少 額と",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "( 7 ) 本報告 書 に 掲 載 された数 値 を他に引用・転 載 する場合は、「2020年工業統計調査 結果確 報",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,783事業所で、 前年と比べて2.8％減少 (△52事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数は61,560人で、前年と比べて0.5％減少(△328人)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は2兆1,224億円で、前年と比べて2.3％減少(△509億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,889億円で、前年と比べて2.3％減少(△161億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数は減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の中、令和元年に増加に転じましたが、令和2年には再び減少しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年に増加に転じ、平成30年には過去10年の推移で一番大きな数値となりましたが、令和元年に減",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成28年以降増加傾向にありましたが、令和元年に減少に転じ",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊前年と比べて 、主要 4指標すべて減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1図 主要 4指標の過去 10年の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要 4指標 (前年比 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年と比べると、県全体で2.8％減少(△52事業所)となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減少率については、情報通信機",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,783事業所で、前年と比べて 52事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4図 産業中分類別事業所数の前年比 （％） （従業者 4人以上の事業所 ）（％）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "建設仮勘 定の 増 加額とは、この 勘 定の 借 方に加 え られた額をいい、 建設仮勘 定の 減少 額と",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)事業所数は1,881事業所で、 前年と比べて2.2％減少 (△42事業所)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(2)従業者数は61,556人で、前年と比べて1.1％減少(△695人)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)製造品出荷額等は2兆917億円で、前年と比べて15.0％増加(2,724億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(4)付加価値額は6,826億円で、前年と比べて4.6％増加(300億円)しました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要4指標の過去10年間の推移をみると、事業所数と従業者数は、減少傾向にあります",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出荷額等は、平成27年・28年と減少傾向にありましたが、平成29年では増加に転じ、過去10年の",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "推移で平成20年に次ぐ2番目に大きな数値となっています",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額は、平成20年・21年と減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "した後、平成22年に一旦増加し、以降は緩やかな減少傾向にありましたが、平成28年・平成29年",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額等、付加価値額は増加",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数は減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第1図 主要 4指標の過去 10年の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要 4指標 (前年比 )",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年と比べると、県全体で2.2％減少(△42事業所)となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊事業所数は 1,881事業所で、前年と比べて 42事業所減少",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "第4図 産業中分類別事業所数の前年比 （％） （従業者 4人以上の事業所 ）（％）",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年と比べると、県全体で1.1％減少(△695人)となりました",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "104 \u0007製造業の事業所数、 従業者数、 製造品出荷額等の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022 （R4） 年 ６ 月 １ 日現在の県内の製造業 （全事業所） の事業所を従業者規模別にみる",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 （R3） 年の製造品出荷額等では、 300人以上規模の事業所が30.1％ （5,623億",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "\u0007 資料：総務省 ・ 経済産業省 「2022年経済構造実態調査\u0007製造業事業所調査結果」",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021 （R3） 年の製造業の事業所数は1,876事業所、 従業者数は ５ 万9,633",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の事業所数、 従業者数、 製造品出荷額等の推移",
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "⑤ 製造等に 関連 する 外注費 とは、 生 産 設備 の 保守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "み 込 まれる ソ フトウ ェ アの 開発 など、事業所 収 入に直 接関連 する 外注費 用をいい、派遣受入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者に 係わ る支払額、 委 託 生 産額などの 外注費 は含みません",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費 、製造等に 関連 する 外注費 及び 転売 した商品の 仕 入額の合計で、 消費税 額を含んだ額です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額」、 原 材 料使 用額等に「製造等に 関連 する 外注費 」、「 転売 した商品の 仕 入額」を調査",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "託生産費 、製造等 に関連 する 外注費及 び転売 した 商品 の仕入額 の合計 であり 、消費税額 を含",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 製造等 に関連 する 外注費 とは 、生産 設備 の 保守 ・ 点検 ・修理 、 機械 ・ 装置 の 操 作 、製品",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に 組み込 まれる ソフ ト ウェ ア の 開発 など 、事業所 収 入 に 直接 関連 する 外注費用 をいいます ｡",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "費、製造等に関 連 する 外注 費及び 転売 した商品の 仕 入額の合計で、消費税額を 含んだ 額です",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ 製造等に関 連 する 外注 費とは、 生 産設 備 の保 守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "み込まれる ソフトウェア の 開 発など、事業所 収 入に直 接 関 連 する 外注 費用をいい、派遣受入",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "者に係わる支払額、 委託生 産額などの 外注 費は 含 みませ ん",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額」、原 材料使 用額等に「製造等に関 連 する 外注 費」、「 転売 した商品の 仕 入額」を調査",
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.pref.nara.lg.jp/n003/6210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/12073/07-108all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12949/k-s63-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&toukei_kind=6&result_page=1&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/documents/12967/k-h17-00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003389991",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.town.tawaramoto.nara.jp/soshki/kousitsu/koho/gyosei/gaiyo/tokei/1083.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140020710129201/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140020710129000/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003395318",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/dbview?sid=0003085494",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://totonoe.tech/seizougyou/nara/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp010140020710129205/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432912",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nara.lg.jp/n003/13649.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?layout=dataset&toukei=00200553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001122935&tclass2=000001122937&tclass3=000001123003&stat_infid=000031776090&iroha=4&tclass4val=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 人手不足 受注 断る",
+   "results": [
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "https://www.pref.osaka.lg.jp/documents/12073/07-108all.pdf",
+    "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12911/y-s63-08.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 受注残 人手不足",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 人手不足 損失 億円",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12949/k-s63-00.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448112",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&toukei_kind=6&result_page=1&statdisp_id=0003448112",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf",
+    "https://www.pref.nara.lg.jp/documents/12967/k-h17-00.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003389991"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 推移",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.e-stat.go.jp/dbview?sid=0003448112",
+    "https://www.town.tawaramoto.nara.jp/soshki/kousitsu/koho/gyosei/gaiyo/tokei/1083.html",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003389991",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129201/3",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 統計 PDF",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12949/k-s63-00.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&toukei_kind=6&result_page=1&statdisp_id=0003448112",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/2",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&toukei_kind=6&result_page=1&statdisp_id=0003448112",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&tclass1=000001022790&tclass2=000001133147&tclass3val=0&statdisp_id=0003395318",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129201/3",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 従業者規模別",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12949/k-s63-00.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/2",
+    "https://www.e-stat.go.jp/dbview?sid=0003085494",
+    "https://totonoe.tech/seizougyou/nara/",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/r02/kakuho/sangyo/pdf/2020-k3-gaikyo-j.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 1人当たり 万円",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00550010&tstat=000001022686&toukei_kind=6&result_page=1&statdisp_id=0003448112",
+    "https://www.pref.nara.lg.jp/documents/12378/h25kougyou_kaku_gaiyou_1.pdf",
+    "https://www.e-stat.go.jp/dbview?sid=0003448112",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129205/3"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） 2015 2025",
+   "results": [
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf",
+    "https://totonoe.tech/seizougyou/nara/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432912",
+    "https://www.pref.nara.lg.jp/n003/13649.html",
+    "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nara prefecture census of manufacture results by employee size unit of shipments Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.e-stat.go.jp/en/stat-search?layout=dataset&toukei=00200553",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2024all.pdf",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200553&tstat=000001095895&cycle=0&tclass1=000001122935&tclass2=000001122937&tclass3=000001123003&stat_infid=000031776090&iroha=4&tclass4val=0",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2025all.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2023all.pdf",
+    "https://www.maff.go.jp/e/data/publish/attach/pdf/index-69.pdf",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2017all.pdf",
+    "https://data.involve-in.jp/en/datasets/stat-economic-census-manufacturing"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）",
+   "results": [
+    "https://note.com/stats47/n/n5d86476e9c73",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/umaki11/n/nce9c68a07077",
+    "https://note.com/sansan2/n/n038e934f7207",
+    "https://note.com/tatsuingeo/n/n627431bc751d",
+    "https://note.com/satouken_note/n/nd42093decff9",
+    "https://note.com/powerpoint_jp/n/n19840a713886",
+    "https://note.com/tatsuingeo/n/ncdebf1728aba",
+    "https://note.com/ok_totti/n/nf3f340ed68a4",
+    "https://note.com/ogawa_tech/n/n9e137a5a84b4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）",
+   "results": [
+    "https://x.com/KagawaTomo/article/2077913764050190547"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:linkedin.com 奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）",
+   "results": [
+    "https://www.linkedin.com/login/uae",
+    "https://www.linkedin.com/learning-login/signin",
+    "https://jp.linkedin.com/",
+    "https://jp.linkedin.com/company/linkedin",
+    "https://in.linkedin.com/company/mawai-infotech-ltd",
+    "https://au.linkedin.com/company/login-nl",
+    "https://business.linkedin.com/sell/sales-navigator"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）",
+   "results": [
+    "https://www.facebook.com/100064515737150?locale=be_BY",
+    "https://www.facebook.com/dalbee2/",
+    "https://www.facebook.com/groups/345671325487737/posts/26609910668637111/",
+    "https://www.facebook.com/groups/151836198320107/",
+    "https://www.facebook.com/cristinager/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/photo.php/?fbid=1237778328363840",
+    "https://www.facebook.com/maffjapan/posts/統計情報令和6年農業産出額等を公表しましたので概要を紹介します1農業総産出額及び生産農業所得全国令和6年の農業総産出額は米や野菜の価格が上昇したこと等から前年に/1325893002910242/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） note 社長",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432912",
+    "https://totonoe.tech/seizougyou/nara/",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf",
+    "https://www.pref.nara.lg.jp/documents/12911/y-s63-08.pdf",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125） X 投稿",
+   "results": [
+    "https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf",
+    "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=datalist&cycle=7&toukei=00550010&tstat=000001022686&toukei_kind=6&tclass1=000001022790&tclass2=000001156946&tclass3val=0&statdisp_id=0003448112",
+    "https://www.pref.nara.lg.jp/n003/6210.html",
+    "https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf",
+    "https://totonoe.tech/seizougyou/nara/",
+    "https://jp.gdfreak.com/public/detail/jp010140020710129000/3",
+    "https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00550&toukei=00550010&statdisp_id=0003432912",
+    "https://www.pref.nara.lg.jp/documents/12396/2506-4kougyou.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nara prefecture census of manufacture results by employee size unit of shipments site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/ashley-t-jackson",
+    "https://in.linkedin.com/in/amit-rathod-4a0aa945",
+    "https://www.linkedin.com/posts/neofabs_manufacturing-supplychain-businessreport-activity-7497155599277789184-4WOt",
+    "https://www.linkedin.com/company/fuk-co--ltd-",
+    "https://jp.linkedin.com/company/kowa-abrasive-kk",
+    "https://in.linkedin.com/in/nara-simhudu-001258246",
+    "https://www.linkedin.com/company/mst-corporation-japan",
+    "https://pe.linkedin.com/company/unique-automation-engineering/",
+    "https://in.linkedin.com/in/mdnazar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {}
+}

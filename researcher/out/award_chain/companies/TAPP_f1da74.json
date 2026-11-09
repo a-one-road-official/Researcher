@@ -1,0 +1,1774 @@
+{
+ "name": "TAPP",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・ベストベンチャー100",
+ "researched_at": "2026-11-09T09:00:58.978234+00:00",
+ "official_url": "https://tapp-co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2016年11月",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：2016年",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：2016年",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "100,000,000円",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "207名（内、正社員180名）※2026年6月末時点",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "178名（インターンを含む）※2025年7月時点",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "178名（インターンを含む）※2025年7月時点",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "不動産販売事業 不動産関連事業",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "・不動産を活用した資産運用コンサルティング事業 ・オンライン集客を活用したWEB集客セミナーの運営 ・不動産の売買、賃貸仲介、賃貸管理業務 等",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "label": "企業紹介・事業内容",
+    "value": "株式会社TAPPは、東京に本社を置く不動産投資コンサルティング企業です。収益不動産の企画・開発から販売、賃貸管理までをワンストップで手掛けています。Webセミナーを活用した集客モデルに強みを持ち、データに基づいた資産運用提案により急成長を続けています。20代から30代の若手社員が中心となって活躍しており、DX（デジタルトランスフォーメーション）を推進する活気ある社風が特徴の企業です。",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "label": "企業紹介・事業内容",
+    "value": "株式会社TAPPは、東京に本社を置く不動産投資コンサルティング企業です。収益不動産の企画・開発から販売、賃貸管理までをワンストップで手掛けています。Webセミナーを活用した集客モデルに強みを持ち、データに基づいた資産運用提案により急成長を続けています。20代から30代の若手社員が中心となって活躍しており、DX（デジタルトランスフォーメーション）を推進する活気ある社風が特徴の企業です。",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高推移 （単位：億円）",
+    "value": "年度 売上高 2017年6月期 4億円 2018年6月期 13億円 2019年6月期 39億円 2020年6月期 68億円 2021年6月期 97億円 2022年6月期 152億円 2023年6月期 184億円 2024年6月期 199億円 2025年6月期 313億円 2026年6月期 386億円",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京本社 〒108-0075 東京都港区港南1-2-70 品川シーズンテラス6階 TEL：03-3499-3200 / FAX：03-6712-4305 大阪支社 〒530-0001 大阪府大阪市北区梅田三丁目2番123号 イノゲート大阪 16階 TEL：06-6345-4800 / FAX：06-6345-4801 名古屋支社 〒450-0002 愛知県名古屋市中村区名駅2-43-12 東山ビル3階 TEL：052-433-9800 / FAX：052-433-9810 札幌支社 〒060-0062 北海道札幌市中央区南二条西七丁目1番 52・7ビル2階 TEL：03-3499-3200（ 代表番号 ） 福岡支社 〒812-0011 福岡県福岡市博多区博多駅前1-23-2 ParkFront博多駅前1丁目 TEL：03-3499-3200（ 代表番号 ）",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "〒108-0075 東京都港区港南1-2-70 品川シーズンテラス6階 TEL：03-3499-3200 / FAX：03-6712-4305",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京都港区港南1-2-70 品川シーズンテラス6F",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都港区港南1-2-70 品川シーズンテラス6階",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "label": "東京本社",
+    "value": "〒108-0075 東京都港区港南1-2-70品川シーズンテラス6F",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東京都港区港南1-2-70 品川シーズンテラス6階",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   },
+   {
+    "label": "（東京本社徒歩16分圏内",
+    "value": "4万円、指定最寄駅：2万円）",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "山地 学",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "山地 学",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "TAPP認定の実力派講師による資産運用セミナーを、自社にて企画・運営しています",
+    "url": "https://tapp-co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社マンションの開発・販売から、企業向け賃貸仲介、賃貸経営サポート、そして出口戦略となる売却までを網羅",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の費用・運用負担ゼロで導入できる社員向けの賃貸紹介サービスです",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "物件探しから契約までをTAPPが直接サポートし、社員の仲介手数料を0〜0.5ヶ月分に抑え、金銭的負担を大幅に軽減します",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "投資用マンションの販売に従事しキャリアを積む",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に投資用マンションの販売・賃貸管理事業を展開する不動産ベンチャー企業の創業メンバーとして参画し、事業本部担当役員として仕入・販売・賃貸管理、空き家の再生事業など多岐にわたり同社の成長に貢献",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "「 人を重視する 」-経営陣のご紹介 | 株式会社TAPP",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "投資用マンションの販売に従事しキャリアを積む",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に投資用マンションの販売・賃貸管理事業を展開する不動産ベンチャー企業の創業メンバーとして参画し、事業本部担当役員として仕入・販売・賃貸管理、空き家の再生事業など多岐にわたり同社の成長に貢献",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "入社2年目にはトップセールスとして全社売上1位を獲得し、その後は営業マネジメントにも従事",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "BUSINESS（事業内容） | 株式会社TAPP",
+    "url": "https://tapp-co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "法人様向けの提携サービスから個人のお客様のお部屋探しまで対応する賃貸仲介サービスです",
+    "url": "https://tapp-co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "TAPP実力派認定講師が行う、年収500万円以上の会社員・公務員・医療従事者を対象とした資産運用セミナーを自社にて企画、運営しています",
+    "url": "https://tapp-co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "賃貸仲介サービス | 不動産投資コンサルティング | 株式会社TAPP",
+    "url": "https://tapp-co.jp/business/tapp-select/",
+    "pass": 1
+   },
+   {
+    "quote": "提携開始後、社員様がお部屋探しのご相談をしやすいよう、紹介フローや案内ツールをご用意いたします",
+    "url": "https://tapp-co.jp/business/tapp-select/",
+    "pass": 1
+   },
+   {
+    "quote": "社員様へ本サービスをご紹介いただけると幸いです",
+    "url": "https://tapp-co.jp/business/tapp-select/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご希望条件やライフスタイルに合わせて、最適なお部屋をご紹介いたします",
+    "url": "https://tapp-co.jp/business/tapp-select/",
+    "pass": 1
+   },
+   {
+    "quote": "お伺いした条件をもとに最適な物件をご紹介いたします",
+    "url": "https://tapp-co.jp/business/tapp-select/",
+    "pass": 1
+   },
+   {
+    "quote": "リラックスした和やかな雰囲気の中で、TAPPのサービスやサポート体制についてのご紹介も合わせて行っています",
+    "url": "https://tapp-co.jp/owner/",
+    "pass": 1
+   },
+   {
+    "quote": "・オンライン集客を活用したWEB集客セミナーの運営",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産の売買、賃貸仲介、賃貸管理業務 等",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング営業・SNS広告運用マーケター・不動産開発営業・セミナー運営事務・営業推進・開発推進・賃貸管理・宅建事務・経理・労務",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "投資用不動産の販売を中心とした事業を行なっています",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "大手不動産会社を経験後、同じ会社の仲間とともに、投資用マンションの販売を行うベンチャー企業の立ち上げに参画しました",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産仲介、不動産管理",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産売買、賃貸仲介、賃貸管理業務",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング、シンクタンク、リサーチ、インターネットサービス、デジタルマーケティング、SIer、ソフトウエア、その他、人材紹介・人材派遣、アウトソーシング・コールセンター、福祉・介護、広告・PR、新聞・出版",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TAPPの求人／設立9期目で売上313億円！投資用不動産の営業未経験から月平均20件の商談機会で成果を出せる環境",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "設立9期目で売上313億円！投資用不動産の営業未経験から月平均20件の商談機会で成果を出せる環境",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TAPPは、IT×Webマーケティングを軸にオンラインセミナーを中心とした独自の集客モデルを構築し、設立9年で売上高313億円・社員数約200名規模へと急成長を遂げた不動産ベンチャー企業です",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "お任せするのは、資産運用シミュレーションを用いた提案営業や、インサイドセールスが獲得したアポイントに対する商談・クロージング、過去の見込み顧客リストへの架電、紹介営業、既存顧客へのフォローアップ業務です",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、IT×Webマーケティングを軸にセミナー（オンライン）中心の集客モデルを構築し、設立9年で売上313億・社員数約200名へと急成長した不動産ベンチャーです",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "収益不動産の企画・開発から販売、賃貸管理までをワンストップで手掛けています",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "不動産の営業職では賃貸仲介、売買仲介（居住用・投資用）の求人が多く、事務職では正社員・アルバイトの両方の募集がされています",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "賃貸マンション・アパート、オフィスの賃貸を仲介する「不動産賃貸仲介」",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "自社で保有している戸建てやマンション、土地、投資用マンションなどの不動産を販売する「不動産販売」",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "物件を買いたい買主と売却したい売主を仲介をする「不動産売買仲介」",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "不動産会社によってはどれか１つの事業に絞っているところもあれば、すべての仲介業、販売業を行っている企業もあります",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "これが、わずか8期で売上高184億という圧倒的な成長を実現できた理由です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "WEBマーケティングを中心とした集客によって、7期で売上184億円以上の成長を実現",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■インターネット集客を活用したセミナー運営",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "■不動産の売買、賃貸仲介、賃貸管理業務",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社ブランドマンションの建設や海外マーケットへの不動産販売など8期目ながら圧倒的スピードで事業拡大しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外事業（中国マーケットへの販売）をスタート",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高 313億円に到達",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続売上高前年比が130％以上と急成長中",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TAPPは、不動産販売を基盤としながら、「資産運用の総合プラットフォーム」を目指す企業です",
+    "url": "https://www.salesforce.com/jp/customer-stories/tapp/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "全社システム基盤のSalesforceとAI活用で、業務と収益効率の向上を実現へ",
+    "url": "https://www.salesforce.com/jp/customer-stories/tapp/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "ビル運営と管理を効率化、蓄積した情報を活用し安全安心な街づくりを推進",
+    "url": "https://www.salesforce.com/jp/customer-stories/tapp/?bc=OTH",
+    "pass": 3
+   },
+   {
+    "quote": "データによる製造業デジタル変革の実践（AWS-32）",
+    "url": "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "pass": 3
+   },
+   {
+    "quote": "本動画では、Salesforceが注力する最新のAIエージェントプラットフォーム「Agentforce（エージェントフォース）」と、その導入企業である株式会社TAPP様の事例をご紹介します",
+    "url": "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "pass": 3
+   },
+   {
+    "quote": "セールスフォース・ジャパンは報道機関・アナリスト向けの発表会を開催、テーマは「中堅・中小企業（SMB）のAIエージェントによる変革とベストプラクティス」で、TAPPの事例も紹介された",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "そのベストプラクティスとして紹介されたTAPPは、投資初心者層に対し、株式や保険、不動産などの資産形成を誰にでもわかりやすくご案内するセミナー「キャピタルハック」を運営",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマージャーニーに基づき、マーケティング部（セミナー運営チーム）、インサイドセールス、フィールドセールス、CS（カスタマーサクセス）、事業推進／賃貸管理部門が統合された情報基盤（Salesforce）を活用している",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "また同社マーケティング部の笠原祥太氏は、「お客様が最初に接するセミナー運営チームは、第一印象を決定づける重要なポジションなのに、そのリソースが不足している",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "TIERO、AIオーケストレーションシステム『rheo』の販売を開始",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TAPPは、投資用不動産を活用した資産運用ソリューションを展開し、設立9期目で売上高313億円を誇る不動産テック企業です",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   },
+   {
+    "quote": "お任せするのは、デベロッパーや販売会社をはじめとする新規仕入れ先の開拓および既存取引先との関係強化、新築ワンルームマンションの仕入れ活動全般です",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   },
+   {
+    "quote": "◎ネットワークを拡大！ デベロッパーや販売会社とのリレーション構築やコミュニティ参加で人脈を形成",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   },
+   {
+    "quote": "・デベロッパー、販売会社とのリレーション構築",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "新しい不動産ビジネスを世界へ届けるために、新しい事業・展開に挑戦し続けています",
+    "url": "https://tapp-co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TAPPは、不動産を起点に、",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "TAPPは、不動産を起点とした確かなアプローチで、お客様お一人おひとりの人生における「資本形成」を構造的に支えるサービスを展開しています",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで培ってきたノウハウを結集し、これからの時代に求められる「新しい不動産ビジネス」の姿を追求し続けること",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産に関するあらゆるニーズにワンストップで対応し、お客様の豊かな暮らしと資産価値の最大化を実現する事業領域です",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "安心して長期的な不動産経営を行うための、力強い味方です",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "TAPPの不動産売却は、多忙なオーナー様に代わり「高値での成約」をプロデュースするサービスです",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の想いも大切に、最適な出口戦略を描き、納得のいく不動産売却をサポートします",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産投資の枠を超え、NISAや税務など多角的なマネー情報を発信しています",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "初心者にも分かりやすい解説とプロによる個別提案、さらには顧客限定コミュニティの提供を通じて、正しい知識で安心して資産を拡大できる環境の提供を目指しています",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "投資信託や不動産投資、税金対策などの幅広い領域をカバーし、参加者の状況に合わせたライフプランニングを提案します",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産市場の最新動向や税制解説、賃貸経営に役立つノウハウなど、資産運用をサポートする有益な情報を定期的に発信",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お引き渡し後もお客様との繋がりを大切にし、長期的な資産形成と安心の不動産経営を伴走するためのコミュニケーションメディアです",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産投資の不安を解消し、購入後も続くTAPPとの信頼関係と、共に「HAPPY」を共有する体験を提供します",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "初めての不動産購入は、",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、私たちは不動産投資の",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい不動産商品はもちろん、",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融商品を開拓しながら、",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に大手不動産会社に就職",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に投資用マンションの販売・賃貸管理事業を展開する不動産ベンチャー企業の創業メンバーとして参画し、事業本部担当役員として仕入・販売・賃貸管理、空き家の再生事業など多岐にわたり同社の成長に貢献",
+    "url": "https://tapp-co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年に大手不動産会社に就職",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に投資用マンションの販売・賃貸管理事業を展開する不動産ベンチャー企業の創業メンバーとして参画し、事業本部担当役員として仕入・販売・賃貸管理、空き家の再生事業など多岐にわたり同社の成長に貢献",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "大学在学中より教育系ベンチャー企業に参画し、事業立ち上げフェーズを経験",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界で15年以上の知見を蓄積し、2012年に独立",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "瞬く間に不動産事業を8拠点へと拡大させただけでなく、美容・ウェディング・アパレルなど異業種への多角化経営を見事に成功させる",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒で広告会社に入社後、一貫してマーケティング戦略、ブランド構築、顧客体験設計を担う",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、外資系ラグジュアリーブランドやスイス系金融グループなど、グローバルな環境でマーケティング責任者を歴任",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "培った全ての知見を活かし、新たな顧客価値の創出と事業成長に取り組む",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、総合不動産開発会社の取締役に就任",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "オフィス・ホテル開発や飲食事業の新規立ち上げを主導するとともに、全社財務統括として強固な経営基盤の構築に貢献した",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "培った金融・財務の高度な知見と、不動産開発・新規事業における豊富な実績を武器に、2025年10月、株式会社TAPPに参画",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産業界の枠にとらわれず挑戦と成長を続ける若さ、果敢にリスクテイクする前向きな人を応援し、自分の人生に投資する人が溢れる前向きな明るい未来を表しています",
+    "url": "https://tapp-co.jp/company/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産をご購入いただいた後に必要な、不動産管理、各種リスク対策に合わせたサポート体制にも力をいれているため、売却まで含め安心かつ長期的なお付き合いを実現しています",
+    "url": "https://tapp-co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様によりよい投資用不動産を提供するために、資産性の高い物件の仕入れやお客様の資産を守るための不動産管理を行っております",
+    "url": "https://tapp-co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "TAPP実力派認定講師が行う、年収500万円以上の会社員・公務員・医療従事者を対象とした資産運用セミナーを自社にて企画、運営しています",
+    "url": "https://tapp-co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "賃貸仲介サービス | 不動産投資コンサルティング | 株式会社TAPP",
+    "url": "https://tapp-co.jp/business/tapp-select/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産投資をお考えの方へ | 株式会社TAPP",
+    "url": "https://tapp-co.jp/owner/",
+    "pass": 1
+   },
+   {
+    "quote": "マンション投資を始められたオーナー様には安心して不動産をご所有いただけるよう、不動産投資のご相談はもちろん、資産運用に関する様々なご相談を承っています",
+    "url": "https://tapp-co.jp/owner/",
+    "pass": 1
+   },
+   {
+    "quote": "マンションご購入後も、最新の不動産市況を継続的に学べる場をご提供しています",
+    "url": "https://tapp-co.jp/owner/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産オーナー様の立場から見た確定申告を、税理士がわかりやすく解説",
+    "url": "https://tapp-co.jp/owner/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産市況はもちろんのこと、資産運用の最新情報を学べる勉強会を定期的に開催",
+    "url": "https://tapp-co.jp/owner/",
+    "pass": 1
+   },
+   {
+    "quote": "AI活用、DX推進による革新的な不動産会社",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産ベンチャー企業に創業メンバーとして参画",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産を活用した資産運用コンサルティング事業",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産の売買、賃貸仲介、賃貸管理業務 等",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング営業・SNS広告運用マーケター・不動産開発営業・セミナー運営事務・営業推進・開発推進・賃貸管理・宅建事務・経理・労務",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "業界の常識を変えるAI×投資の不動産ベンチャー",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "投資用不動産の販売を中心とした事業を行なっています",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "特に注力をしているのが、Webマーケティングを駆使した不動産コンサルティング事業",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "リタイア後の「2,000万円問題」を解決すべく投資商品に社会的な注目が集まる中、全国のお客様に対して投資用不動産を活用した資産形成のご提案を行っております",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "大手不動産会社を経験後、同じ会社の仲間とともに、投資用マンションの販売を行うベンチャー企業の立ち上げに参画しました",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、新入社員には100項目以上のカリキュラムを用意し、ゼロからのスタートでも1人前の資産形成コンサルタントになれるよう研修や教育体制も整えています",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、安定したビジネスモデルと人材教育の2軸に最大限の投資を行い続けていることが、弊社の強みです",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "長年お世話になっている不動産業で、社会にいい影響を与えたいという恩返しのような気持ちもありますが、色んな事業を手がけて社員が誇れる会社にしていきたいというのが今のビジョン",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産仲介、不動産管理",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業、女性管理職実績あり、20代管理職実績あり、2年連続売り上げ10％以上UP、年間休日120日以上、産休・育休取得実績あり、教育・研修制度充実、資格支援制度充実",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "・不動産売買、賃貸仲介、賃貸管理業務",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産ファンド、デベロッパー、その他",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング、シンクタンク、リサーチ、インターネットサービス、デジタルマーケティング、SIer、ソフトウエア、その他、人材紹介・人材派遣、アウトソーシング・コールセンター、福祉・介護、広告・PR、新聞・出版",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社TAPPの求人／設立9期目で売上313億円！投資用不動産の営業未経験から月平均20件の商談機会で成果を出せる環境",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "TAPP認定の実力派講師による資産運用セミナーを、自社にて企画・運営しています",
+    "url": "https://tapp-co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "厳選した立地選定から企画・開発までを自社で一貫して行うことで、洗練されたデザインと優れた機能性を実現",
+    "url": "https://tapp-co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "TAPP実力派認定講師が行う、年収500万円以上の会社員・公務員・医療従事者を対象とした資産運用セミナーを自社にて企画、運営しています",
+    "url": "https://tapp-co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "【2026半期表彰式レポート】「成果」だけでなく「挑戦のプロセス」と「チームの力」を称え合う",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "TAPPの成長を加速させる表彰制度のリアル",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "その後、大手証券会社にて36年にわたりIPOを中心に上場後のファイナンス、M&A、IRのアドバイス等のインベストメントバンキング業務およびコンプライアンス業務に従事し、上場会社に必要な一連の業務を一通り経験",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "IPOについては有名企業を始め数十社の上場を手掛け、上場後の大型ファイナンスにも関与",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "有限責任監査法人トーマツIPO部門にて、法定監査、内部統制構築支援、IFRS導入支援、IPOコンサルティング等に従事し、上場準備企業を中心に豊富な実績を有する",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "PEファンドでの投資・経営管理経験も踏まえ、現在は株式会社フェアパートナーズの代表取締役として、M&Aおよびベンチャー企業向けの財務・IPO支援に従事するとともに、上場企業の社外監査役として企業価値向上およびガバナンス強化に携わっている",
+    "url": "https://tapp-co.jp/company/management/",
+    "pass": 1
+   },
+   {
+    "quote": "中長期的に、東証プライムへの上場、時価総額1,000億円を目指します",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "3年以内に上場予定",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "また「2026年上場」を視野に、自社ブランドマンションの開発など新たな事業創出に力を入れて拡大している真っ最中",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "【資本金】1億円",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は今後、株式上場のほか、新規事業の創出、グローバル展開など、新たなステージに向けて、スピード感を持って挑戦していきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)AlbaLink【東証グロース市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場に向けて、マーケティング組織もパワーアップ中！",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | COMPANY（会社情報） | 株式会社 TAPP — 会社概要 | COMPANY（会社情報） | 株式会社 TAPP 株式会社TAPP https://tapp-co.jp > company",
+    "url": "https://tapp-co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社TAPP 山地 学 - ベストベンチャー100 — 株式 会社TAPP 山地 学 - ベストベンチャー100 ベストベンチャー100 https://best100.v-tsushin.jp > company > tapp",
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社TAPP の求人・採用情報 - ビズリーチ — 株式 会社TAPP の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社TAPP の求人／ 設立 9期目で313億円の急成長！新築 ... — 株式 会社TAPP の求人／ 設立 9期目で313億円の急成長！新築 ... 不動産ジョブ https://fudosan-job.com > ... > 仕入・開発 > 物件仕入・買取",
+    "url": "https://fudosan-job.com/kyujin/3287",
+    "pass": 3
+   },
+   {
+    "quote": "(株) TAPP の新卒採用・ 会社概要 | マイナビ2027 — (株) TAPP の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp221698 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TAPP の求人／設立9期目で 売上 313億円！投資用 ... — 株式会社 TAPP の求人／設立9期目で 売上 313億円！投資用 ... 不動産ジョブ https://fudosan-job.com > ... > 投資用不動産販売",
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "pass": 3
+   },
+   {
+    "quote": "(株) TAPP の新卒採用・会社概要 | マイナビ2027 — (株) TAPP の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp221698 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TAPP 【公式】 - note — 株式会社 TAPP 【公式】 - note note https://note.com > tapp_1121",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TAPP | セールスフォース・ジャパン - Salesforce — 株式会社 TAPP | セールスフォース・ジャパン - Salesforce Salesforce https://www.salesforce.com > customer-stories > tapp",
+    "url": "https://www.salesforce.com/jp/customer-stories/tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産投資コンサルの TAPP 、「Agentforce」でCX向上に挑戦 — 不動産投資コンサルの TAPP 、「Agentforce」でCX向上に挑戦 コールセンタージャパンドットコム https://callcenter-japan.com > article",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TAPP の求人／新規仕入れ先の開拓から関係強化まで ... — 株式会社 TAPP の求人／新規仕入れ先の開拓から関係強化まで ... 不動産ジョブ https://fudosan-job.com > ... > 仕入・開発 > 物件仕入・買取",
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TAPP の全ての求人一覧 - HERP Career — 株式会社 TAPP の全ての求人一覧 - HERP Career herp.careers https://herp.careers > tappinc",
+    "url": "https://herp.careers/v1/tappinc",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "【実録】AIエージェントが現場の疲弊を救う！中小企業のAgentforce活用術｜Salesforce - YouTube",
+    "url": "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "pass": 3
+   },
+   {
+    "quote": "【実録】AIエージェントが現場の疲弊を救う！中小企業のAgentforce活用術｜Salesforce",
+    "url": "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "pass": 3
+   },
+   {
+    "quote": "中堅・中小企業のAIエージェントによる変革とベストプラクティス",
+    "url": "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "pass": 3
+   },
+   {
+    "quote": "労働人口の減少やコスト増に直面する中小企業において、AIはいかにして「単なるツール」から「共に働く仲間（エージェント）」へと進化するのか",
+    "url": "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "pass": 3
+   },
+   {
+    "quote": "セールスフォース・ジャパンは報道機関・アナリスト向けの発表会を開催、テーマは「中堅・中小企業（SMB）のAIエージェントによる変革とベストプラクティス」で、TAPPの事例も紹介された",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "セールスフォース・ジャパン 常務執行役員 コマーシャル営業統括 グロースビジネス第２営業統括本部 統括本部長の西田晶子氏は、「中堅・中小企業は限られたリソースで成果を上げる必要がある」としつつ、「AIの導入は容易ではない",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "同社が提供する４レイヤーで構成された「エージェンティック・エンタープライズ・アーキテクチャー」について説明したうえで、「中堅中小企業やスタートアップが成長に合わせて拡張可能な統合プラットフォームで支援したい」と解説した",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "採用難においては、AIエージェントを１人の従業員として機能させることが中小企業やスタートアップにとって有効な戦略となる」（西田氏）",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   },
+   {
+    "quote": "中堅中小企業の宿命的課題「リソース不足」をAIで解消",
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "TAPP 事業戦略室が全社AI導入に踏み切った理由と、その裏側 TAPP 事業戦略室が全社AI導入に踏み切った理由と、その裏側 note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "本当の仕事。」渡邉さんが TAPP のCSを0からつくるまで。 本当の仕事。」渡邉さんが TAPP のCSを0からつくるまで。 note https://note.com > キャリア > 転職・キャリアチェンジ",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "20260331_Agentforce導入企業 TAPP 登壇 プレス・アナ ... - note 20260331_Agentforce導入企業 TAPP 登壇 プレス・アナ ... - note note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "チームで成果を出す方法｜株式会社 TAPP 【公式】 - note チームで成果を出す方法｜株式会社 TAPP 【公式】 - note note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TAPP 【公式】 - note 株式会社 TAPP 【公式】 - note note https://note.com > tapp_1121",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "脱不動産っぽさをめざす TAPP の働く環境 - note 脱不動産っぽさをめざす TAPP の働く環境 - note note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TAPP 【公式】 - ビジネス - note 株式会社 TAPP 【公式】 - ビジネス - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「世間が思っている1000倍、AIは強い」——TAPP事業戦略室が全社AI導入に踏み切った理由と、その裏側｜株式会社TAPP【公式】",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "「世間が思っている1000倍、AIは強い」——TAPP事業戦略室が全社AI導入に踏み切った理由と、その裏側",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月、TAPPに新たな組織が誕生しました。",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "事業戦略室 AI戦略ユニット——全社横断でAI活用を推進する、攻めの組織です。",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げたのは、入社からわずか2ヶ月の事業戦略室 室長・近藤さん。",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "全社AI導入の経緯と、その先に見据えるビジョンを聞きました。",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "スキマバイトアプリの会社でアライアンス部門の立ち上げ、持続可能な農業を作るスタートアップ、日本のマンガ文化を世界に発信するWebtoonのスタートアップで採用責任者をつとめる。2026年2月にTAPPへ入社し、営業部にて法人提携の仕組みを構想し立ち上げる。同年4月、事業戦略室 室長に。AI戦略ユニットの立ち上げを主導し、全社的なAI活用を推進。既に自社AIツールを開発・導入している。",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "人事責任者として応募し、2ヶ月で事業戦略室を立ち上げるまで",
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "pass": 3
+   },
+   {
+    "quote": "「売った後からが、本当の仕事。」渡邉さんがTAPPのCSを0からつくるまで。｜株式会社TAPP【公式】",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "「売った後からが、本当の仕事。」渡邉さんがTAPPのCSを0からつくるまで。",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "営業で感じた「売って終わり」への違和感を、自ら部署と仕組みに変えた。",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "多くの顧客と向き合い、TAPPのカスタマーサクセスを0からつくってきた渡邉さんのキャリアに迫ります。",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "渡邉さんのキャリアは、単なる「営業からCSへの異動」ではありません。",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "営業時代に抱いた「販売後も、お客様の人生に寄り添いたい」という理想を、自ら会社の仕組みに変えてきたキャリアです。",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "その原点は、社員10名ほどだった2017年のTAPPにありました。",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "「私、とんでもない会社に入っちゃったかも……」",
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "pass": 3
+   },
+   {
+    "quote": "20260331_Agentforce導入企業 TAPP登壇 プレス・アナリスト向けラウンドテーブル参加レポート｜まめっち",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "20260331_Agentforce導入企業 TAPP登壇 プレス・アナリスト向けラウンドテーブル参加レポート",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "皆さん、こんにちは！本日2026年3月31日（火）にセールスフォース・ジャパン 東京オフィス で行われたプレス・アナリスト向けラウンドテーブルに参加してきました！今回はそのイベントレポートをまとめましたので、ぜひご覧ください♪",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "お読みいただけたら、スキ、フォローしてくださると嬉しいです☺️",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "Xでまとめながらポストしました♪ぜひツリーでご覧ください。",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "※最近音声入力に頼ってばかりでフリック入力がとんでもなく下手になっており、めっちゃ気合を入れて投稿しました。気合を入れてやったら何とかなりました。よかった。",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "20260331_Agentforceユーザー企業プレス・アナリスト説明会①",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/XsG8IJzbVg",
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー！】数字も育成も担う。TAPPインサイドセールス課長が語る、チームで成果を出す方法｜株式会社TAPP【公式】",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー！】数字も育成も担う。TAPPインサイドセールス課長が語る、チームで成果を出す方法",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介するのは、営業部インサイドセールス（IS）課長としてチームを率いる河添さん。",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に新卒入社し、現在はチームマネジメントを担いながら、自身もプレイヤーとして活躍しています。",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "個人の成果だけでなく、チーム全体で成果を出す組織をつくること。",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "その考え方は、どのように生まれたのでしょうか。",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "・インサイドセールスの魅力と自身のこれから",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "についてお話を伺いました。それでは早速インタビューに参りましょう！",
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "pass": 3
+   },
+   {
+    "quote": "自分が売れたらそれでいいのか。不動産・保険営業を経た梅津さんが、TAPPの賃貸仲介事業で挑む、チームが成果を出せる仕組みづくり。",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "広告運用の先にある、売上まで向き合う。フリーランス出身の小野さんがTAPPを選んだ理由。",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "「アドバイスは、100%すぐやる。」インターンから1年で新卒トップの売上を走る西川さんが、TAPPという環境で最速成長できた理由",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "会社の利益を動かすのは、自分の判断。入社2年目の田中さんが挑む、空室を埋めるだけではない「攻めの賃貸管理」",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "「できるようになるまで、待たない。」完璧を求めず、先に任せる。数字のロジックすら分からなかった森長さんが、2年半で結果責任を背負うマーケターになった理由",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "「誰かが変える」を待たない。TAPP業務部・横田さんが、仕事の進め方を変えた話。",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "イベントを「やりっぱなし」にしない。現場の熱を営業成果へつなぎ、仕組みまで改善するTAPP流「事業推進型イベント企画」のリアル",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "『獲得』も『信頼』も、マーケティングの仕事。広告運用からPRまで役割を広げるTAPPマーケター",
+    "url": "https://note.com/tapp_1121",
+    "pass": 3
+   },
+   {
+    "quote": "【23卒特集！vol.7】「女性が活躍できる」は当たり前！〜脱不動産っぽさをめざすTAPPの働く環境〜｜株式会社TAPP【公式】",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "【23卒特集！vol.7】「女性が活躍できる」は当たり前！〜脱不動産っぽさをめざすTAPPの働く環境〜",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "前回に引き続き【23卒インタビュー特集第7弾！】",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "営業部でインサイドセールスを担当する前田さんです！",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "初めまして！営業部のインサイドセールス(IS)部門に所属している前田です。",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "大学時代はお金の流れや世の中の仕組みに興味があったので、経済学部に入学しました。",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "私は大学に入学することができましたが我が家は3人兄弟で、生活を考えると全員分の学費の工面が難しいことを知り、お金の悩みは人事ではないと気がつきました。",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "お金について詳しくなりたいと思い就活していたところ、投資用不動産を扱っているTAPPに出会いました。",
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "pass": 3
+   },
+   {
+    "quote": "【YouTube動画公開】ビジネスをグロースさせる仕事。やりたいことをやる事業推進課長に密着~株式会社TAPP~｜株式会社TAPP【公式】",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   },
+   {
+    "quote": "【YouTube動画公開】ビジネスをグロースさせる仕事。やりたいことをやる事業推進課長に密着~株式会社TAPP~",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   },
+   {
+    "quote": "ミワさんは2019年に新卒で入社し、2020年には営業推進担当を新設。ゼロから組織づくりに挑戦し、2024年には10名規模のチームへと成長させました。",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   },
+   {
+    "quote": "そして2025年には、新たに事業推進担当を立ち上げ。",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   },
+   {
+    "quote": "売上目標の達成に向けて、人材育成・業務改善・顧客対応など、あらゆる角度から事業成長を支えています。",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   },
+   {
+    "quote": "入社からわずか6年で、2つの部署を生み出してきたミワさん。その原動力とは――",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   },
+   {
+    "quote": "「楽しく仕事ができること」を軸に入社した彼女が描く次の目標は、自ら会社の看板事業をつくること。",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   },
+   {
+    "quote": "YouTubeでは、ミワさんの挑戦を続ける理由や仕事への想いをご紹介しています👀✨",
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Matthew Tapp - Barrows & Borderlands - X Matthew Tapp - Barrows & Borderlands - X X https://x.com > SpaceCowboyVFX",
+    "url": "https://x.com/SpaceCowboyVFX",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Jonathan Tapp (@JonathanTapp) / X Replies by Jonathan Tapp (@JonathanTapp) / X X https://x.com > with_replies",
+    "url": "https://x.com/JonathanTapp/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Linda Tapp , CSP, CPTD (@SafetyFUN) / X Linda Tapp , CSP, CPTD (@SafetyFUN) / X X https://x.com > SafetyFUN",
+    "url": "https://x.com/SafetyFUN",
+    "pass": 3
+   },
+   {
+    "quote": "Jewellz Tapp (@Jew2elite) / X Jewellz Tapp (@Jew2elite) / X X https://x.com > ...",
+    "url": "https://x.com/Jew2elite",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tapp - LinkedIn Tapp - LinkedIn LinkedIn https://www.linkedin.com > use-tapp",
+    "url": "https://www.linkedin.com/company/use-tapp",
+    "pass": 3
+   },
+   {
+    "quote": "TAPP Workforce Solutions Inc. - LinkedIn TAPP Workforce Solutions Inc. - LinkedIn LinkedIn https://ca.linkedin.com > company > t...",
+    "url": "https://ca.linkedin.com/company/tapp-workforce-solutions-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Tim Tapp - President at Tapp Enterprises - LinkedIn Tim Tapp - President at Tapp Enterprises - LinkedIn LinkedIn https://www.linkedin.com > tim-tapp-...",
+    "url": "https://www.linkedin.com/in/tim-tapp-54224a8",
+    "pass": 3
+   },
+   {
+    "quote": "J. Scott Tapp - President & CEO (WE'RE HIRING)| Trella Health J. Scott Tapp - President & CEO (WE'RE HIRING)| Trella Health LinkedIn https://www.linkedin.com > scotttapp",
+    "url": "https://www.linkedin.com/in/scotttapp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TAPP - Teachers & Parents as Partners | Lincoln NE - Facebook TAPP - Teachers & Parents as Partners | Lincoln NE - Facebook Facebook https://www.facebook.com > ... > College & university",
+    "url": "https://www.facebook.com/TAPPmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "Charlie Tapp - Professional Bowler | Portage MI - Facebook Charlie Tapp - Professional Bowler | Portage MI - Facebook Facebook https://www.facebook.com > ... > Sports & recreation",
+    "url": "https://www.facebook.com/Tappster51/",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Tapp - Facebook Mark Tapp - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/mark.tapp/",
+    "pass": 3
+   },
+   {
+    "quote": "TAPP Amps (@tappamps) - Facebook TAPP Amps (@tappamps) - Facebook Facebook https://www.facebook.com > ... > Musical Instrument",
+    "url": "https://www.facebook.com/tappamps/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tapp-co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/company/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/company/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/business/tapp-select/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tapp-co.jp/owner/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://best100.v-tsushin.jp/company/tapp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizreach.jp/companies/19000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fudosan-job.com/kyujin/3292",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paypay-sec.co.jp/news/20181024_1.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000031.000016872.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/customer-stories/tapp/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://callcenter-japan.com/article/8828/1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fudosan-job.com/kyujin/3293",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=jSF18T7fZ-E",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SpaceCowboyVFX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JonathanTapp/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SafetyFUN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Jew2elite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/use-tapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/tapp-workforce-solutions-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/tim-tapp-54224a8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/scotttapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TAPPmodel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Tappster51/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mark.tapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tappamps/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tapp_1121",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tapp_1121/n/n35c64edafa81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tapp_1121/n/n48f9f949652a",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TAPP 会社概要 資本金 設立",
+   "results": [
+    "https://tapp-co.jp/company/",
+    "https://best100.v-tsushin.jp/company/tapp/",
+    "https://www.bizreach.jp/companies/19000/",
+    "https://fudosan-job.com/kyujin/3287",
+    "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "https://www.gate02.ne.jp/case/tapp-co/",
+    "https://herp.careers/careers/companies/tappinc",
+    "https://mid-tenshoku.com/agency/a-4977/",
+    "https://1roomtoshi-shindan.jp/companies/tapp-hyoban/",
+    "https://tapp-co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "TAPP 事業内容 売上",
+   "results": [
+    "https://tapp-co.jp/company/",
+    "https://fudosan-job.com/kyujin/3292",
+    "https://job.mynavi.jp/27/pc/search/corp221698/outline.html",
+    "https://navi.job-commit.com/jobs/9510/",
+    "https://note.com/tapp_1121",
+    "https://career-be.jp/companies/c-299779d61f7384d2/business",
+    "https://ryo-nakamura1.hatenablog.jp/entry/2026/02/10/130000",
+    "https://en-ambi.com/agency/a-4977/",
+    "https://cheercareer.jp/companies/4350/detail",
+    "https://tapp-co.jp/business/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "TAPP 資金調達 株主",
+   "results": [
+    "https://www.paypay-sec.co.jp/news/20181024_1.html",
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000031.000016872.html",
+    "https://www.softbank.jp/corp/group/sbm/news/press/2017/20171115_01/",
+    "https://www.youtube.com/watch?v=VTtV90lBtRo",
+    "https://www.linkthought.co.jp/column/%E6%A0%AA%E5%BC%8F%E7%99%BA%E8%A1%8C%E3%81%AB%E3%82%88%E3%82%8B%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%81%AE%E7%89%B9%E5%BE%B4%E3%81%AF%EF%BC%9F%E6%B3%A8%E6%84%8F%E7%82%B9%E3%82%84%E5%85%B7%E4%BD%93",
+    "https://andpad.co.jp/news/1380/",
+    "https://taxnap.co.jp/news/djkegJWe",
+    "https://firm.or.jp/wp-content/uploads/2025/03/FIRM%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99_%E9%95%B7%E8%B0%B7%E5%B7%9D%E5%AE%8F%E4%B9%8B%E5%85%88%E7%94%9F.pdf",
+    "https://finance.biggo.jp/quote/TAPP/financial"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TAPP 導入事例",
+   "results": [
+    "https://www.salesforce.com/jp/customer-stories/tapp/",
+    "https://www.youtube.com/watch?v=wZB3_uqUC1U",
+    "https://callcenter-japan.com/article/8828/1/",
+    "https://www.terrasky.co.jp/case/_docs/202101casestudy_TAPP_0204.pdf",
+    "https://www.salesforce.com/jp/news/stories/video/tapp-press-briefing/",
+    "https://prtimes.jp/main/html/rd/p/000000007.000169054.html",
+    "https://chiba-gekaikai.com/wp/wp-content/uploads/2023/04/hernia06.pdf",
+    "https://japan.zdnet.com/article/35245854/",
+    "https://www.gate02.ne.jp/case/tapp-co/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "TAPP 主要取引先",
+   "results": [
+    "https://fudosan-job.com/kyujin/3293",
+    "https://tapp-co.jp/company/",
+    "https://www.youtube.com/watch?v=jSF18T7fZ-E",
+    "https://www.tap-ic.co.jp/about/",
+    "https://herp.careers/v1/tappinc",
+    "https://mid-tenshoku.com/agency/a-4977/",
+    "https://www.wantedly.com/companies/tapp-co/post_articles/1088019",
+    "https://best100.v-tsushin.jp/company/tapp/",
+    "https://www.r-agent.com/company/d0850/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com TAPP",
+   "results": [
+    "https://note.com/tapp_1121/n/ne73f01b646ee",
+    "https://note.com/tapp_1121/n/n48f9f949652a",
+    "https://note.com/mamecchi_ad/n/ndb2f0c867659",
+    "https://note.com/tapp_1121/n/nb9beb6ed5f88",
+    "https://note.com/tapp_1121/n/nc4d01aaef128",
+    "https://note.com/mhamadajp/n/n511a353a70a1",
+    "https://note.com/tapp_1121/n/n3a017fb7ec4e",
+    "https://note.com/tapp_1121/n/n4a52a0ac2311",
+    "https://note.com/tapp_1121/n/n9e6d2eeb6f87",
+    "https://note.com/tapp_1121/n/nc4d01aaef128?hl=en-US"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com TAPP",
+   "results": [
+    "https://x.com/SpaceCowboyVFX",
+    "https://x.com/JonathanTapp/with_replies",
+    "https://x.com/SafetyFUN",
+    "https://x.com/Jew2elite",
+    "https://x.com/MikeTappTweets/status/2080002748259680716",
+    "https://x.com/BeautyonTApp",
+    "https://x.com/PATHTrain/status/2008229585888977279",
+    "https://x.com/stephen_tapp",
+    "https://x.com/codybtapp/status/2089036152334426377",
+    "https://x.com/TappGroupHQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com TAPP",
+   "results": [
+    "https://www.linkedin.com/company/use-tapp",
+    "https://ca.linkedin.com/company/tapp-workforce-solutions-inc",
+    "https://www.linkedin.com/in/tim-tapp-54224a8",
+    "https://www.linkedin.com/in/scotttapp",
+    "https://www.linkedin.com/company/the-tapp",
+    "https://www.linkedin.com/company/transamerican-power-products-inc",
+    "https://www.linkedin.com/company/tappnetwork",
+    "https://www.linkedin.com/pulse/paths-new-ada-fare-gates-tapp-rollout-nears-d74tc",
+    "https://www.linkedin.com/company/tappsolutions",
+    "https://uk.linkedin.com/in/oxholmzigler"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com TAPP",
+   "results": [
+    "https://www.facebook.com/TAPPmodel/",
+    "https://www.facebook.com/Tappster51/",
+    "https://www.facebook.com/mark.tapp/",
+    "https://www.facebook.com/tappamps/",
+    "https://www.facebook.com/pix11news/posts/path-will-be-giving-out-tapp-cards-for-freeclick-the-link-in-the-comments-to-see/1462418015472479/",
+    "https://www.facebook.com/ttappworkout/",
+    "https://www.facebook.com/tappdbeer/",
+    "https://www.facebook.com/WHAS11/posts/tapp-stands-for-teenage-parent-program-and-gives-pregnant-and-parenting-students/10165689604490037/",
+    "https://www.facebook.com/p/Nicholas-Tapp-100063764104562/",
+    "https://www.facebook.com/TappChile/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "TAPP note 社長",
+   "results": [
+    "https://note.com/tapp_1121",
+    "https://note.com/tapp_1121/n/n12d81f374f6d",
+    "https://note.com/tapp_1121/n/n35c64edafa81",
+    "https://note.com/tapp_1121/n/n48f9f949652a",
+    "https://note.com/tapp_1121/n/n03d6ce6c6722",
+    "https://note.com/tapp_1121/n/n939ee0be240a",
+    "https://www.wantedly.com/companies/tapp-co/post_articles/500589",
+    "https://tapp-co.jp/recruit/history/",
+    "https://best100.v-tsushin.jp/company/tapp/",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "TAPP X 投稿",
+   "results": [
+    "https://x.com/FRUITS_ZIPPER/status/2010153184766177636",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://tappx.com/es/",
+    "https://note.com/37bann/n/ndd171bf6b1d1",
+    "https://hashout.jp/sns/3817/",
+    "https://www.comnico.jp/we-love-social/x-trend2601",
+    "https://apps.apple.com/us/app/tapp-app/id1483819299",
+    "https://www.rdocumentation.org/packages/terra/versions/1.9-50/topics/tapp",
+    "https://network.mobile.rakuten.co.jp/sumakatsu/contents/articles/2026/00643/",
+    "https://taphold.co/ja/tools/how-to-make-tap-and-hold-post/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部32頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部32頁・検索11回）"
+ }
+}

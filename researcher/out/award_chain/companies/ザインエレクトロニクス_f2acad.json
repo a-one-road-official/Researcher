@@ -1,0 +1,1861 @@
+{
+ "name": "ザインエレクトロニクス",
+ "aliases": [],
+ "context": "東京都・資本金109620万円・健康経営優良法人（中小規模）",
+ "researched_at": "2026-11-09T09:01:31.297206+00:00",
+ "official_url": "https://www.thine.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "飯塚　哲哉（代表取締役会長） 南　洋一郎（代表取締役社長）",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "代表者氏名",
+    "value": "南　洋一郎",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "11億7526万円（2025年12月末現在）",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,175(百万円) \n                                            (2025/12現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "1億4,000万円（資本準備金8,523万5,570円）",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：1991年5月",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1992年6月",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1992年6月23日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "label": "設立年月",
+    "value": "設立年月：1993年9月",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1992年6月",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "●ミックスドシグナルLSIの開発・製造・販売 1. 半導体製品販売 2. VLSI開発 3. IPライセンス供与＆サポート ●AI&IoTソリューションの開発・製造・販売",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "AI処理NPU (Neural Processing Unit) 搭載スマートモジュール販売・ソリューション提供 IoT (M2M) 向け5G/LTE等通信モジュール販売・保守 IoT関連機器の設計開発・製造・販売・保守 IoT関連端末装置・ソリューションの提供 等",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "134名　（連結）　（2025年12月末現在）",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "86 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "28名（2025年12月31日現在）",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "139名",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒101-0053 東京都千代田区神田美土代町9番地1　JRE神田小川町ビル3F（受付） ※ビル名称が2022年2月1日より変更となりました（旧名称：MD神田ビル） （地図）",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "1409 Rm Changhong Technology Building South 12 Rd,Hi-Tech Park,Shenzhen,Guangdong PROV",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "14B-02 Room, 14F, 2018 Huashan Rd., Xuhui Dist., Shanghai, China P.C. : 200030",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "Rm. 2, 3F., No.129, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 10448, Taiwan R.O.C.",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "#1432, 92, Saemunan-ro, Jongno-gu, Seoul, 03186 Korea",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "5201 Great America Pkwy, Ste 320, Santa Clara, CA 95054 USA",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒222-0033 神奈川県横浜市港北区新横浜3-24-5新横浜ユニオンビルANNEX7F",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒222-0033 神奈川県横浜市港北区新横浜3-24-11ユニオンビル 6F",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒101-0053 東京都千代田区神田美土代町9番地1　JRE神田小川町ビル3F（受付） ≪地図はこちら≫ ※2022年2月1日よりビル名が変更となりました（旧名称：MD神田ビル）。 代表電話番号　03-5217-6660",
+    "url": "https://www.thine.co.jp/corporate/access/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "1409 Rm Changhong Technology Building South 12 Rd,Hi-Tech Park,Shenzhen,Guangdong PROV ≪地図はこちら≫ Tel +86-755-8633-2112 Fax +86-755-8633-2177",
+    "url": "https://www.thine.co.jp/corporate/access/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "14B-02 Room, 14F, 2018 Huashan Rd., Xuhui Dist., Shanghai, China P.C. : 200030 ≪地図はこちら≫ Tel +86-21-6431-0665",
+    "url": "https://www.thine.co.jp/corporate/access/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "Rm. 2, 3F., No.129, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 10448, Taiwan R.O.C. ≪地図はこちら≫ Tel　+886-2-2564-2277　Fax　+886-2-2562-2773",
+    "url": "https://www.thine.co.jp/corporate/access/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "#1432, 92, Saemunan-ro, Jongno-gu, Seoul, 03186 Korea ≪地図はこちら≫ Tel +82-2-3276-2012 Fax +82-2-3276-2015",
+    "url": "https://www.thine.co.jp/corporate/access/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "5201 Great America Pkwy, Ste 320, Santa Clara, CA 95054 USA ≪地図はこちら≫ Company Website: www.thinesolutions.com",
+    "url": "https://www.thine.co.jp/corporate/access/",
+    "pass": 1
+   },
+   {
+    "label": "本社住所",
+    "value": "〒101-0053 東京都千代田区神田美土代町９－１　ＪＲＥ神田小川町ビル 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒222-0033 神奈川県横浜市港北区新横浜3-24-5新横浜ユニオンビルANNEX7F",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "東京都千代田区神田美土代町9番地1　JRE神田小川町ビル3F（受付）",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "●日本（50音順） オムロン株式会社 キヤノン株式会社 京セラ株式会社 コニカミノルタ株式会社 シャープ株式会社 株式会社ジャパンディスプレイ セイコーエプソン株式会社 ソニー株式会社 株式会社東芝 パイオニア株式会社 パナソニック株式会社 メイコーエレクディベロップ株式会社 富士フイルムビジネスイノベーション株式会社 三菱電機株式会社 株式会社リコー ●韓国（アルファベット順） Hanwha Techwin CO.,LTD. LG Display Co., Ltd. LG Electronics, Inc. SAMSUNG DISPLAY CO., Ltd. Samsung Electronics Co., Ltd. ●中国（アルファベット順） Beijing BOE Display Technology Co., Ltd. Coagent Huizhou Desay SV Automotive Co., Ltd FLYAUDIO CORPORATION HIKVISION DIGITAL TECHNOLOGY CO., LTD. POLYCOM Communications Tec",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "次世代大規模AIデータセンター実現に向けた超低遅延/低電力/高密度/低コストの DSPレス光半導体新商品2機種を欧州最大の光通信技術展ECOC2026に出展のお知らせ",
+    "url": "https://www.thine.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IPTCへ大手半導体メーカーと12社により共同出資",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "液晶ディスプレイ向けデジタル信号処理チップの量産出荷本格化、半導体ファブレスメーカーのビジネスモデル完成",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第2の創業―自社ブランド・ファブレス半導体メーカーへ",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金3,200万円 半導体メーカーからの受託設計を開始",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ザインエレクトロニクスは、アナログとデジタルの双方に通じたLSIの企画・設計、販売を行うファブレス(工場を持たない) 半導体メーカーです",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい人財を採用することでタイムリーに製品を提供し、また、最適な製造工程の選択を可能とし、ファブレス半導体メーカーならではの「変化力」を武器に市場の素早い動きに対応していきます",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "8K/4K映像の分野における事実上の世界標準（デファクト・スタンダード）技術の提供に加え、運転支援が高度化するモビリティや産業用IoT、医療・ヘルスケア、人流の管理等の分野の高度化にも貢献するインターフェース・ソリューションの提供により、お客様への価値の提供に取り組んでまいります",
+    "url": "https://www.thine.co.jp/corporate/message/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、成熟したプロセスを利用しても、ザインエレクトロニクスの製品は、仕様上も競争優位となっており、高速、低消費電力、広い動作マージンを誇り、価格プレミアムを正当化する要因となっています",
+    "url": "https://www.thine.co.jp/corporate/r_and_d/",
+    "pass": 1
+   },
+   {
+    "quote": "設計の限界に挑戦する際の高速アナログ回路の扱いに熟知した人財、CMOSプロセスの経験が豊富な人財、半導体のエネルギーバンド構造を含む物性物理も解析可能な人財も擁する複合的なプロジェクト編成が可能であることが大きな強みとなっているのです",
+    "url": "https://www.thine.co.jp/corporate/r_and_d/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に制定された米国金融規制改革法（ドット・フランク法）をはじめ、紛争鉱物の使用を排除していく取り組みが世界的に広がっています",
+    "url": "https://www.thine.co.jp/corporate/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代大規模AIデータセンター実現に向けた超低遅延/低電力/高密度/低コストの DSPレス光半導体新商品2機種を欧州最大の光通信技術展ECOC2026に出展のお知らせ",
+    "url": "https://www.thine.co.jp/corporate/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年には日本におけるCOVID-19感染予防に貢献すべく、いち早く非接触型AI顔認証型検温システムの販売を開始し、医療機関、学校・教育機関、都心の大規模オフィスビル、野球場を始め400台を超える納入により感染予防の一助とさせて頂きました",
+    "url": "https://www.thine.co.jp/corporate/investors/ir_message/",
+    "pass": 1
+   },
+   {
+    "quote": "運転支援が高度化するモビリティや産業用IoT、医療・ヘルスケア、人流の管理等の分野においても、センシングの高度化を加速するLSIやAI・IoT、5Gなどを活用したTHineグループ発のソリューションにより、お客様への価値のご提供に取り組んでまいります",
+    "url": "https://www.thine.co.jp/corporate/investors/ir_message/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学大学院「新事業創造論」(日本で最初に国際卓越研究大学として認定され、その大学院教育の柱の一つであるアントレプレナーシップ教育の科目)のための教科書「新事業創造のマネジメント」（山田幸三氏、石田修一氏、江島由裕氏の共著、白桃書房)に当社が企業事例として掲載されました",
+    "url": "https://www.thine.co.jp/corporate/jobs/",
+    "pass": 1
+   },
+   {
+    "quote": "光半導体等を通じてデータセンター消費電力の拡大抑制",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIで拡大するAIデータセンター消費電力削減等への貢献",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "電力73%削減、遅延時間90%削減",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "OA機器市場向けでは顧客需要が順調に回復し、製品出荷が増加しましたが、アミューズメント機器市場向けでは依然として顧客の在庫調整等の影響が解消されず回復は翌期以降に持ち越しとなり、産業機器市場向け全体としては前期比で概ね同水準となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライブレコーダ向けや自動販売機向け等において顧客需要の減少による受注減少がありましたが、今期下半期より本格開始したスマートメーター用無線通信モジュールの量産出荷のほか、自動体外式除細動器（AED）・エレベータ等の遠隔監視等向けの製品出荷が順調に推移しました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "LSI事業では、世界初のDSPレス技術により低遅延・低消費電力を実現するAIデータセンター向け光半導体製品の開発、EVパネル向け高速インターフェースV-by-One®HS新製品のラインアップ拡充、新規電源製品の開発、スマートモジュール活用ソリューションの開発、５Ｇを遥かに超える次世代高速無線通信技術の開発を行いました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様導入事例 ザインエレクトロニクス株式会社 | KI導入事例 | キーエンス",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "データ分析プラットフォーム KI 導入事例",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社は、アナログとデジタルの双方に通じたLSIの企画・設計、販売をおこなうファブレス（工場を持たない）半導体メーカーです",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "KIは主に営業部門で、要接触顧客の絞り込み（ターゲティング）と要因分析に活用しています",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "主に顧客属性情報、販売情報、そしてWebサイトやメールマガジンなどの顧客行動情報を分析します",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は従業員数128人、国内顧客の営業担当者は3名の組織です",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "それだけに営業部は効率的に活動する必要があり、高精度の顧客ターゲティングは必須であると考えています",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "また、KIは営業用途だけでなく、将来的には契約工場の歩留まり改善の分析に活用することも検討しています",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "要接触顧客の絞り込み（ターゲティング）の方はいかがでしょうか？",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "要接触顧客のターゲティング、つまり今本当に接触するべき顧客を、データ分析を通じて見つけようという取り組みです",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "国内の顧客を担当する営業は、3名のみです",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、いわゆる休眠顧客をKIがあらためて提示してくれるわけです",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "提示されるリストを見て、「この顧客に今、このタイミングで可能性があったのか」と驚きを感じることも少なからずあります",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "今は、お得意様からお声がけ頂いている案件と並行して、KIによる分析によって確立した顧客リストに対して、スコアの高い順にコンタクトを実施する、という施策に着手しています",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習を使えば、誰でも容易に顧客のターゲティングができます",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "これがExcelの場合、少し行数が違ったり、新しい顧客名が出てきたりすると、それに伴ない元データを修正し、帳票側も加工して...とメンテナンスが必要になるケースがありますが、KIではそういった手間がありません",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "5．上位顧客、潜在顧客への情報提供力向上のため、会員専用コンテンツの導入",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス様は、LSIの企画・設計、販売を行うファブレスの半導体メーカーです",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "アナログとデジタルの双方に通じたLSIの企画・設計、販売を行うファブレス(工場を持たない) 半導体メーカーです",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "LVDS技術はテレビなど身の回りのデジタル家電やセキュリティカメラ、産業、医療、車載機器など多くの分野を支える伝送技術として使用されています",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクスでは早期にこの技術を取り入れ、国内半導体メーカーでは最も早くLVDS製品を市場に投入したました",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のLVDS製品は、ジッター特性、スキューマージン、消費電力等の特性に優れ、様々なアプリケーションでご使用いただけます",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "アナログとデジタルの双方に通じたLSIの企画・設計、販売を行うファブレス半導体メーカー",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス（証券コード6769）は、工場を持たないファブレス半導体メーカーとして1991年に創業し、映像を運ぶ技術ひとつに経営資源を集中させてきた",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "作るのは他社の工場だから、設備は持たない",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "事業の勝ち方の骨格：規格づくり、チップ販売、IPライセンス、商社経由の販路という四つの要素が、どう噛み合って「少人数で世界標準を回す会社」を成り立たせているのか",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "注意すべきリスクの種類：規格の主導権を巡る競争、少数の商社への販売集中、そして「先行投資が実らないまま現金だけが減っていく」という静かな崩れ方",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：技術立国日本の真髄、ファブレス半導体メーカーの全貌",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも、自社工場を持たない「ファブレス」という経営形態で、独自の技術力と企画・設計能力を武器に世界市場で確固たる地位を築いている企業が日本に存在します",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "創業者である飯塚哲哉氏は、大手電機メーカーでエンジニアとして活躍する中で、日本の組織に根強く残る「年功序列」や「組織の壁」が、優秀な技術者の可能性を狭めているという問題意識を抱いていました",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初は受託開発が中心でしたが、そこで培った技術力と顧客との信頼関係を礎に、1997年からは自社ブランドでのLSI（大規模集積回路）開発・販売へと舵を切ります",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "これが、現在のファブレス半導体メーカーとしてのザインエレクトロニクスの姿を形作っていく大きな転換点となりました",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "このデータの通り道（インターフェース）を、より速く、より正確に、より低消費電力で実現するのが、同社のLSIの役割です",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "単純なハードウェアの提供に留まらず、顧客の抱える課題に対して、エッジAIコンピューティングモジュールやIoTゲートウェイ、さらにはそれらを活用したシステム全体の提案まで行っています",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、工場の製造ラインにおける異常検知、店舗での顧客属性分析、インフラ設備の遠隔監視など、その応用範囲は多岐にわたります",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "これは、同社が単なる部品メーカーから、ソリューションプロバイダーへと進化しようとする意志の表れと言えるでしょう",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "取締役会は、会社の持続的な成長と中長期的な企業価値向上に向けた議論の場として機能しており、株主との建設的な対話にも積極的です",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "製品売上は、テレビや事務機器、車載カメラといった最終製品を製造するメーカーや、その部品を供給するモジュールメーカーに対してLSIを販売することで得られます",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ライセンス収入は、同社のV-by-One® HSのような技術を、他の半導体メーカーが自社のチップに組み込む際に発生するロイヤリティです",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "製造委託管理・台湾市場の販売統括体制を強化",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金3,200万円 半導体メーカーからの受託設計を開始",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ザインエレクトロニクスは、アナログとデジタルの双方に通じたLSIの企画・設計、販売を行うファブレス(工場を持たない) 半導体メーカーです",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい人財を採用することでタイムリーに製品を提供し、また、最適な製造工程の選択を可能とし、ファブレス半導体メーカーならではの「変化力」を武器に市場の素早い動きに対応していきます",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "●ミックスドシグナルLSIの開発・製造・販売",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1. 半導体製品販売",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "●AI&IoTソリューションの開発・製造・販売",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "目指したのは、ファウンドリーと呼ばれる半導体の受託製造専門企業と半導体を企画・開発するザインが対等な立場で水平分業する形態",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年の創立から6年間の受託開発期間を経て、97年に国内外の大手メーカとのアライアンスを機として、ファブレスメーカのビジネスモデルを構築し本格的に自社ブランドのシステムLSI生産を開始しました",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "結果、特定企業に売上げの大半を依存することがなく、安定した経営基盤と企業ネットワークを実現",
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役紹介｜THine Electronics",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "安田は、30年以上に渡り半導体産業に関わり続けており、開発・製造から営業まで幅広い業務経験を持っております",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの経験を活かして、ザインの営業・生産そして開発が一体となった事業運営体制を構築し、事業の推進に貢献してまいります",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "(2).ザインは、責任ある鉱物調達を実現するため、製造委託先を含めたサプライチェーン全体を通じて、ザインの製品や原材料に使用されている3TGの精錬所が、RMAP(Responsible Minerals Assurance Process *2)の適合製錬所を維持する様に務めております",
+    "url": "https://www.thine.co.jp/corporate/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "(3). ザインの製品で使用する3TGの製錬所がRMAP (*2) に適合できないと確認した場合、製造委託先と協力して、適切な措置を講じます",
+    "url": "https://www.thine.co.jp/corporate/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "*2 : RMIが運営する精錬業者の紛争非関与監査プログラム",
+    "url": "https://www.thine.co.jp/corporate/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年には日本におけるCOVID-19感染予防に貢献すべく、いち早く非接触型AI顔認証型検温システムの販売を開始し、医療機関、学校・教育機関、都心の大規模オフィスビル、野球場を始め400台を超える納入により感染予防の一助とさせて頂きました",
+    "url": "https://www.thine.co.jp/corporate/investors/ir_message/",
+    "pass": 1
+   },
+   {
+    "quote": "【ファブレス半導体】特定用途向け標準品を販売",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "AI処理NPU (Neural Processing Unit) 搭載スマートモジュール販売・ソリューション提供",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT (M2M) 向け5G/LTE等通信モジュール販売・保守",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT関連機器の設計開発・製造・販売・保守",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【ファブレス半導体】特定用途向け標準品を販売",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "【ファブレス半導体】特定用途向け標準品を販売",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "グループ売上高100億円超",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年12月期にグループ売上高100億円超の実現",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車/車載機器、産業ロボット、製造装置、",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "今期は、LSI事業が需要の回復傾向にあり、AIOT事業が順調に推移し、売上高は微増しましたが、新中期経営戦略「Innovate100」目標の達成に向けた戦略的な研究開発投資などにより減益となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "LSI事業では、国内市場においてOA機器市場向けで需要が回復しましたが、アミューズメント機器市場向け等では依然として在庫調整等の影響が継続しており、また海外市場においても米国市場向けは順調に推移しましたが、中国市場向けは関税懸念の影響等により受注が減少し、売上は前期比２%の減少となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器市場向けビジネスは、LSI事業の売上全体の73%を占めています",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "車載機器市場向けビジネスは、LSI事業の売上全体の16%を占めています",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "LSI事業全体の売上高は28億30百万円、売上総利益は18億91百万円、営業損失は３億24百万円となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "AIOT事業では、スマートメーター向け通信モジュール製品の量産出荷を開始したこと等により、売上高は前期比５%の増加となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "ドライブレコーダ向けや自動販売機向け等において顧客需要の減少による受注減少がありましたが、今期下半期より本格開始したスマートメーター用無線通信モジュールの量産出荷のほか、自動体外式除細動器（AED）・エレベータ等の遠隔監視等向けの製品出荷が順調に推移しました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "AIOT事業の売上高は18億９百万円、売上総利益は３億94百万円、営業損失は17百万円となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全体では、売上高は46億39百万円（前期比0.5%増）、売上総利益は22億85百万円（前期比9.6%減）、営業損失は３億42百万円（前期は営業利益28百万円）、経常損失は４億３百万円（前期は経常利益２億64百万円）、親会社株主に帰属する当期純損失は３億34百万円（前期は親会社株主に帰属する当期純利益３億39百万円）となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営戦略「Innovate100」では、半導体、AI/IoTソリューション等から成る当社グループの事業ポートフォリオを活かしつつ、革新的なソリューションを提供し、経済社会の生産性向上に取り組み、2027年度に連結売上高100億円超の実現を目指します",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高2,830百万円（前期比△2.0％）",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高1,809百万円（前期比＋4.8%）",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社 営業部 営業部長・チームリーダー・マネージャー、生産部 製造技術グループ マネージャーの方々に、KIを導入した経緯とその効果について詳しく聞きました",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社は、アナログとデジタルの双方に通じたLSIの企画・設計、販売をおこなうファブレス（工場を持たない）半導体メーカーです",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "主に顧客属性情報、販売情報、そしてWebサイトやメールマガジンなどの顧客行動情報を分析します",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかる「KI商品紹介資料」",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス コーポレートサイト｜事例紹介 | Web制作開発・ホームページWeb制作開発会社 ワンゴジュウゴ（東京・千代田区）",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "リニューアル後は新製品の発表等が続いたこともあり、アクセス数はリニューアル前の200％以上に増加し、お問い合せも商談につながる良質なものが増加するなど、運営がスムーズになるだけにとどまらない効果をあげています",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "WAN55では、グローバルにビジネス展開する上場企業、ザインエレクトロニクス様の多言語サイトのスムーズな運営を実現していくため、下記5点をテーマとしたリニューアルを実施致しました",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス様は、LSIの企画・設計、販売を行うファブレスの半導体メーカーです",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "アナログとデジタルの双方に通じたLSIの企画・設計、販売を行うファブレス(工場を持たない) 半導体メーカーです",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ザイン社の主力商品である当社の主力商品であるLVDSやV-by-One HSを使ったシステムモジュール製品を提供しております",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "SIMCOM Wireless Solution.,Ltdの日本総代理店として販売をおこなっております",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "アナログとデジタルの双方に通じたLSIの企画・設計、販売を行うファブレス半導体メーカー",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "人数は連結でも百三十人規模だと会社資料では説明されており、その少人数で世界標準を運営している構図そのものが、この銘柄が玄人の話題に上る理由の一つになっている",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "売上に対して三割近い研究開発費を意図的に投じ、AIデータセンター向けの光半導体や次世代の無線通信技術といった、収益化までに時間のかかる領域へ資金を注いでいるからだ",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "事業の勝ち方の骨格：規格づくり、チップ販売、IPライセンス、商社経由の販路という四つの要素が、どう噛み合って「少人数で世界標準を回す会社」を成り立たせているのか",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "伸びるために満たすべき条件：売上の絶対額が小さいこの会社が企業価値を高めるには、研究開発投資の回収と収益ミックスの改善のどちらを動かす必要があるのか",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "注意すべきリスクの種類：規格の主導権を巡る競争、少数の商社への販売集中、そして「先行投資が実らないまま現金だけが減っていく」という静かな崩れ方",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "確認すべき指標のタイプ：売上の伸びよりも、粗利率の方向感、研究開発費の水準と中身、手元資金の減り方、そして新規領域が開示で追える規模に育っているか",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "公開3プランは月額500円・1,000円・3,000円",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "設立当初は受託開発が中心でしたが、そこで培った技術力と顧客との信頼関係を礎に、1997年からは自社ブランドでのLSI（大規模集積回路）開発・販売へと舵を切ります",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "エレクトロニクス業界特化型ベンチャーファンド「イノーヴァ」を設立",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "国内エレクトロニクス業界初の業界特化型ベンチャーファンド「イノーヴァ」設立",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "FAやインフラ監視など、BtoB領域でのソリューション提供を強化します",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "連結子会社キャセイ・トライテック株式会社をザイン・モバイルテック株式会社に社名変更",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "キャセイ・トライテック株式会社の連結子会社化",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "京都デザインセンターの開設に伴い、子会社ギガテクノロジーズ株式会社解散",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ギガテクノロジーズ株式会社（京都）へ資本参加し連結対象子会社化",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "有償一般募集 資本金10億9,620万円",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新株発行増資 資本金8億9,220万円",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社IPTCへ大手半導体メーカーと12社により共同出資",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社の第三次第三者割当増資を実施 資本金7億9,620万円",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ザイン・マイクロシステム研究所の株式をザインエレクトロニクス株式会社にて買取り、100％子会社化",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社の第二次第三者割当増資を実施 資本金1億7,220万円",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社の第一次第三者割当増資を実施 資本金1億5,300万円",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社の既存株主へ割当増資を実施 資本金5,700万円",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ザイン・マイクロシステム研究所の第三者割当増資を実施 資本金5,000万円",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金3,000万円 三星電子（韓国）向けメモリー開発設計を開始",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金3,200万円 半導体メーカーからの受託設計を開始",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ザインエレクトロニクス社JASDAQに上場",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "人財による創造と挑戦を重視する企業文化を磨きあげ、PPP（1人当たりのパフォーマンス）をより高めることにより、株主価値の一層の向上に取り組んでまいります",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "株主の皆様におかれましては、一層のご理解とご支援を賜りますようお願い申し上げます",
+    "url": "https://www.thine.co.jp/corporate/investors/ir_message/",
+    "pass": 1
+   },
+   {
+    "quote": "第34期定時株主総会",
+    "url": "https://www.thine.co.jp/corporate/investors/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "第33期定時株主総会",
+    "url": "https://www.thine.co.jp/corporate/investors/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "第32期定時株主総会",
+    "url": "https://www.thine.co.jp/corporate/investors/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "第31期定時株主総会",
+    "url": "https://www.thine.co.jp/corporate/investors/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "第30期定時株主総会",
+    "url": "https://www.thine.co.jp/corporate/investors/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "第29期定時株主総会",
+    "url": "https://www.thine.co.jp/corporate/investors/schedule/",
+    "pass": 1
+   },
+   {
+    "quote": "【ザインエレクトロニクス】[6769]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社が筆頭株主に",
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス株式会社のTHine Report（第34期株主通信）",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのAI/IoT中核企業であるキャセイ・トライテック株式会社の社名を「ザイン・モバイルテック株式会社」に変更し、「ザイン・ハイパーデータ株式会社」を当社の完全子会社としました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ全体では、売上高は46億39百万円（前期比0.5%増）、売上総利益は22億85百万円（前期比9.6%減）、営業損失は３億42百万円（前期は営業利益28百万円）、経常損失は４億３百万円（前期は経常利益２億64百万円）、親会社株主に帰属する当期純損失は３億34百万円（前期は親会社株主に帰属する当期純利益３億39百万円）となりました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024年度に立ち上げたサーバー事業子会社、ザイン・ハイパーデータ株式会社については、昨今の米中問題に起因する当社事業環境の変化に鑑み、日本市場に対応した事業を進めるため中国企業との合弁契約を解消し、当社の完全子会社化して事業を推進していくこととしました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営戦略「Innovate100」の達成に向けて取り組み、今後の成長を踏まえ株主の皆様への還元をいたします",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "今期については、最終赤字と非常に厳しい決算となりましたが、今後の当社グループの成長戦略を踏まえ、株主の皆様のご支援にお応えすべく、期末配当については当初予想通りの１株当たり金15円とさせていただきました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "また、経営環境の変化に応じた機動的な資本政策の遂行および株主の皆様への利益還元を図るため、2025年11月から12月にかけて、200,000株の自己株式の取得を実施いたしました",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も株主の皆様のご期待にお応えできるよう全力を挙げてまいります",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "WAN55では、グローバルにビジネス展開する上場企業、ザインエレクトロニクス様の多言語サイトのスムーズな運営を実現していくため、下記5点をテーマとしたリニューアルを実施致しました",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "また、東証一部上場企業であるため、ニュースリリースや決算情報等を迅速かつ、正確にWebサイトで公開していく必要もありました",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "このマガジンでは、上場・未上場企業を問わず、財務分析からビジネスモデル、成長可能性、リスク要因まで、徹底したデューデリジェンス（DD）の視点で解説します",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクスは、上場企業としてコーポレートガバナンスの重要性を深く認識しており、株主をはじめとする全てのステークホルダーの利益を重視した経営体制の構築に努めています",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "取締役会は、会社の持続的な成長と中長期的な企業価値向上に向けた議論の場として機能しており、株主との建設的な対話にも積極的です",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "安定した財務基盤を持つ同社は、過度な借入に頼ることなく、営業CFで稼いだ資金を投資や株主還元に振り向ける健全なサイクルが期待されます",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "このマガジンでは、上場・未上場企業を問わず、財務分析からビジネスモデル、成長可能性、リスク要因まで、徹底したデューデリジェンス（DD）の視点で解説します",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "HBS（ハーバード大学ビジネススクール）アントレプレナー・オブ・ザ・イヤー賞を受賞",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第6回企業家賞を受賞",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第13回東洋経済賞アントレプレナー・オブ・ザ・イヤーを受賞",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日経BP社主催 2001ベンチャー・オブ・ザ・イヤー受賞",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "EOY（Entrepreneur of the Year）JAPAN 2001大賞受賞",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ADC製品がLSIデザイン・オブ・ザ・イヤー2001 デバイス部門優秀賞受賞",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第10回「ニュービジネス大賞」アントレプレナー大賞最優秀賞を受賞",
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高速インターフェース分野でのデファクトスタンダード（事実上の世界標準）を確立し、さらにはアントレプレナーを育ててきた貢献から、世界最大の技術国際学会である米国電気電子学会（IEEE）より初代会長Ernst Weber博士の名を冠した表彰を2012年に受賞するなど数多くの受賞歴があります",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "「第10回ニュービジネス大賞」 アントレプレナー大賞最優秀賞受賞",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "EOY (Entrepreneur of the Year) JAPAN2001 大賞受賞",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "東洋経済賞アントレプレナー・オブ・ザ・イヤー受賞",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "日経BP社主催ベンチャー・オブ・ザ・イヤー受賞",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "第6回企業家賞受賞",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "HBS（ハーバード大学ビジネススクール）Club of Japanより、Entrepreneur of the Year賞を受賞",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "IEEE (米国電気電子学会)より「Ernst Weber Engineering Leadership Recognition」表彰を受賞",
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "東北大学大学院「新事業創造論」(日本で最初に国際卓越研究大学として認定され、その大学院教育の柱の一つであるアントレプレナーシップ教育の科目)のための教科書「新事業創造のマネジメント」（山田幸三氏、石田修一氏、江島由裕氏の共著、白桃書房)に当社が企業事例として掲載されました",
+    "url": "https://www.thine.co.jp/corporate/jobs/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【 ザインエレクトロニクス 】[6769]企業 概要 社員数や役員報酬 ... — 【 ザインエレクトロニクス 】[6769]企業 概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス - 株式 会社 フィスコ — ザインエレクトロニクス - 株式 会社 フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > uploads > thine20220311",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/thine20220311.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 株式 会社 の企業情報 - 転職はアンドプロ — ザインエレクトロニクス 株式 会社 の企業情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-1328",
+    "url": "https://and-pro.jp/company-info-1328/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 【6769】の最新決算発表、業績修正 — ザインエレクトロニクス 【6769】の最新決算発表、業績修正 株探 https://kabutan.jp > ザインエレクトロニクス (6769) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=6769",
+    "pass": 3
+   },
+   {
+    "quote": "【 ザインエレクトロニクス 】[6769]決算発表や業務・財務情報 — 【 ザインエレクトロニクス 】[6769]決算発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ザインエレクトロニクス 代表取締役社長 南 洋一郎氏 — （株） ザインエレクトロニクス 代表取締役社長 南 洋一郎氏 産業タイムズ社 https://www.sangyo-times.jp > article",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=15067",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 株式会社(6769)の財務諸表分析 — ザインエレクトロニクス 株式会社(6769)の財務諸表分析 ザイマニ https://zaimani.com > financial-analysis-catalog",
+    "url": "https://zaimani.com/financial-analysis-catalog/6769/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 株式会社 2025年12月期 通期決算説明 ... — ザインエレクトロニクス 株式会社 2025年12月期 通期決算説明 ... finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260205/20260205548289.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 【6769】の大 株主 情報 - 株探 — ザインエレクトロニクス 【6769】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=6769",
+    "pass": 3
+   },
+   {
+    "quote": "【 ザインエレクトロニクス 】[6769]有価証券報告書 | 日経電子版 — 【 ザインエレクトロニクス 】[6769]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 株式会社のTHine Report（第34期 ... — ザインエレクトロニクス 株式会社のTHine Report（第34期 ... オンライン株主通信 https://report-k.pdcp.jp > ...",
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様 導入事例 ザインエレクトロニクス 株式会社 - KEYENCE — お客様 導入事例 ザインエレクトロニクス 株式会社 - KEYENCE キーエンス https://www.keyence.co.jp > ki-casestudy > thine-electronics",
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス コーポレートサイト｜ 事例 紹介 — ザインエレクトロニクス コーポレートサイト｜ 事例 紹介 wan55.co.jp https://www.wan55.co.jp > case > example > thine",
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 株式会社 - 半導体事業 - マクニカ — ザインエレクトロニクス 株式会社 - 半導体事業 - マクニカ 株式会社マクニカ https://www.macnica.co.jp > ... > 取扱メーカー",
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス — ザインエレクトロニクス THine Electronics https://www.thine.co.jp",
+    "url": "https://www.thine.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス 株式会社の企業情報 - 転職はアンドプロ — ザインエレクトロニクス 株式会社の企業情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-1328",
+    "url": "https://and-pro.jp/company-info-1328/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ザインエレクトロニクス 】[6769]企業概要 社員数や役員報酬 ... — 【 ザインエレクトロニクス 】[6769]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス (6769)の概要 - 銘柄スカウターライト — ザインエレクトロニクス (6769)の概要 - 銘柄スカウターライト 銘柄スカウターライト https://scouter.monex.co.jp > report > top",
+    "url": "https://scouter.monex.co.jp/report/top/6769",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "なぜ玄人は ザインエレクトロニクス （6769）を見るのか ... なぜ玄人は ザインエレクトロニクス （6769）を見るのか ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "驚異の技術力で世界を席巻！ ザインエレクトロニクス (6769)の ... 驚異の技術力で世界を席巻！ ザインエレクトロニクス (6769)の ... note https://note.com > 科学・テクノロジー > プログラミング",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス （6769）。高速映像伝送ICが描く第 ... ザインエレクトロニクス （6769）。高速映像伝送ICが描く第 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス （6769）株価・今後の見通し・予想 ザインエレクトロニクス （6769）株価・今後の見通し・予想 note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6769",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "なぜ玄人はザインエレクトロニクス（6769）を見るのか。車載カメラの映像を「運ぶだけ」で稼ぐ会社｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ玄人はザインエレクトロニクス（6769）を見るのか。車載カメラの映像を「運ぶだけ」で稼ぐ会社",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の会社と聞いて多くの人が思い浮かべるのは、演算する頭脳としてのチップだろう。だがこの会社が売っているのは、頭脳でも記憶装置でもない。カメラが捉えた映像やディスプレイに映す画像を、機器の内部で「速く、細い線で、崩さずに運ぶ」ためのチップである。ザインエレクトロニクス（証券コード6769）は、工場を持たないファブレス半導体メーカーとして1991年に創業し、映像を運ぶ技術ひとつに経営資源を集中させてきた。同社が策定した機器内映像インターフェースの規格は、業界で長く使われ続け、事実上の標準として広く採用されてきたと会社資料や信頼できる報道では説明されている。",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の武器を一言でいえば、「自分で作った規格が、他社の設計図の中に住み着いている」ことにある。テレビの映像処理チップとパネル制御チップを結ぶ配線、複合機の内部配線、そして車載カメラからECU（電子制御ユニット）までの配線。こうした場所で配線本数を劇的に減らせる技術を規格として公開し、その規格に対応したチップを自社で売り、あわせて設計情報をライセンスして技術料も受け取る。作るのは他社の工場だから、設備は持たない。人数は連結でも百三十人規模だと会社資料では説明されており、その少人数で世界標準を運営している構図そのものが、この銘柄が玄人の話題に上る理由の一つになっている。",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、崩れうるポイントもはっきりしている。同社はいま、決算上は営業赤字を計上している。売上に対して三割近い研究開発費を意図的に投じ、AIデータセンター向けの光半導体や次世代の無線通信技術といった、収益化までに時間のかかる領域へ資金を注いでいるからだ。手元の現預金は厚く、有利子負債はほとんどないため、当面の資金繰りが問題になる話ではない。だが「稼げていない期間がどこまで続くのか」「先行投資は本当に回収されるのか」という問いに、市場はまだ答えを出せていない。本記事は、この会社の強さと危うさが同じ場所から生えているという構造を、事業と資本の両面から分解していく。",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、決算のたびに見返せる「観測地点のセット」を持ち帰ってもらうことを狙って書いている。細かな数字の暗記ではなく、どこを見れば同社の強さと脆さが判断できるか、その骨格を渡したい。",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "事業の勝ち方の骨格：規格づくり、チップ販売、IPライセンス、商社経由の販路という四つの要素が、どう噛み合って「少人数で世界標準を回す会社」を成り立たせているのか。",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "伸びるために満たすべき条件：売上の絶対額が小さいこの会社が企業価値を高めるには、研究開発投資の回収と収益ミックスの改善のどちらを動かす必要があるのか。",
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "pass": 3
+   },
+   {
+    "quote": "驚異の技術力で世界を席巻！ザインエレクトロニクス(6769)の企業価値を解き明かす、超詳細デュー・デリジェンス｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "驚異の技術力で世界を席巻！ザインエレクトロニクス(6769)の企業価値を解き明かす、超詳細デュー・デリジェンス",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：技術立国日本の真髄、ファブレス半導体メーカーの全貌",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "半導体は現代社会の神経網であり、その進化はあらゆる産業の未来を左右します。その中でも、自社工場を持たない「ファブレス」という経営形態で、独自の技術力と企画・設計能力を武器に世界市場で確固たる地位を築いている企業が日本に存在します。それが、今回徹底的にデュー・デリジェンスを行う**ザインエレクトロニクス（証券コード：6769）**です。",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、高精細な映像データを高速伝送するインターフェース技術で世界をリードし、特に「V-by-One® HS」という独自技術は、4K/8Kテレビ市場においてデファクトスタンダード（事実上の世界標準）の地位を確立しています。しかし、その真価は単一の技術に留まりません。創業以来培われてきたミックスドシグナルLSI（アナログとデジタル混載の集積回路）設計の深い知見、それを支える「人」を資本とする経営哲学、そして今、次世代のAI・データセンター市場を見据えた光半導体技術という新たな成長エンジンへの点火。ザインエレクトロニクスの内包するポテンシャルは、多くの投資家がまだ気づいていない深さと広がりを持っています。",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、表面的な業績数字だけでは決して見えてこない、ザインエレクトロニクスの真の企業価値、その競争力の源泉、そして未来への成長ストーリーを、可能な限り深く、多角的に分析・解説していきます。この記事を読み終える頃には、あなたはザインエレクトロニクスという企業の「投資価値」を、他の誰よりも深く理解できているはずです。それでは、知的好奇心のシートベルトを締め、日本が世界に誇る技術系企業の核心へと迫る旅に出発しましょう。",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "【企業概要】少数精鋭の技術者集団、その誕生と理念",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクスは、1992年に設立されました。創業者である飯塚哲哉氏は、大手電機メーカーでエンジニアとして活躍する中で、日本の組織に根強く残る「年功序列」や「組織の壁」が、優秀な技術者の可能性を狭めているという問題意識を抱いていました。シリコンバレーで目の当たりにした、技術者が自らの才覚を信じて起業し、成功すれば称賛され、たとえ失敗しても再挑戦が許される文化。それに比べて、日本の技術者が持つポテンシャルが十分に解放されていない状況に、強い危機感を覚えたと言います。",
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "pass": 3
+   },
+   {
+    "quote": "99%の個人投資家が見落とす本物の盲点株、ザインエレクトロニクス（6769）。高速映像伝送ICが描く第二の波｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "99%の個人投資家が見落とす本物の盲点株、ザインエレクトロニクス（6769）。高速映像伝送ICが描く第二の波",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "「映像を運ぶ半導体」と聞いて、すぐにどんな会社が思い浮かぶだろうか。多くの個人投資家は、半導体と言えば製造装置やパワー半導体、AIアクセラレータといった派手な領域に目を奪われがちで、ディスプレイの裏側を流れる映像信号を整える小さなICに視線が向くことは少ない。だがその「裏側のインフラ」を、ファブレス（自社で工場を持たない設計専業）という身軽な体で世界に供給し、4K・8Kテレビの内部配線で事実上の標準を握ってきた企業がある。それがザインエレクトロニクス（証券コード6769）である。",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "この会社の勝ち方は、見た目以上に構造的だ。映像を高速かつ低消費電力で伝送する独自規格、画像処理プロセッサ、電源制御LSIといった部品を組み合わせ、テレビ・事務機器・産業カメラ・車載カメラ・医療機器・アミューズメント機器など、ディスプレイと画像が絡む現場の至るところに浸透している。一方で、ザインの最大のリスクは「強み」と表裏一体である。長らく主戦場としてきた液晶パネル関連の景気循環に大きく揺らされてきた歴史があり、いま進めている第二の柱（AIOTソリューションとAIサーバー）が事業の太い柱に育つかどうかが、企業価値の階段を一段引き上げられるかの分水嶺になる。",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、ザインは「足元では循環の谷を歩いている老舗ニッチトップ」であると同時に、「映像伝送の標準技術を礎にAI時代の高速データ伝送へと再走しようとしている挑戦者」でもある。本稿はこの二面性を解きほぐし、強気・中立・弱気のどの目線で見るにせよ、読者が自分の足で立って判断できるための土台を提供することを目的とする。",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を読み終えるころには、次の点が頭の中で整理されている状態を目指している。",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "ザインがなぜ「ニッチトップ型」の半導体ファブレスに分類されるのか、その勝ち方の骨格",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "いま会社が描いている第二の波（AI時代の高速伝送・エッジAI・AIサーバー）が育つために満たすべき条件",
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "pass": 3
+   },
+   {
+    "quote": "ザインエレクトロニクス（6769）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6769",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# ザインエレクトロニクス - Search / X # ザインエレクトロニクス - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "ヒレはレア on X: \"6769 ザインエレクトロニクス テラドローン ... ヒレはレア on X: \"6769 ザインエレクトロニクス テラドローン ... X https://x.com > @Hireharea",
+    "url": "https://x.com/Hireharea/status/2092777673512911005",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Manabu Kiri - ザインエレクトロニクス 株式会社 - Senior Expert Manabu Kiri - ザインエレクトロニクス 株式会社 - Senior Expert LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/manabu-kiri-629bb542",
+    "pass": 3
+   },
+   {
+    "quote": "Tomohiro Sakai - ザインエレクトロニクス （株） - エンジニア Tomohiro Sakai - ザインエレクトロニクス （株） - エンジニア LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/tomohiro-sakai-65299b209",
+    "pass": 3
+   },
+   {
+    "quote": "Hiroyuki Noji - ザインエレクトロニクス - 技術エキスパート Hiroyuki Noji - ザインエレクトロニクス - 技術エキスパート LinkedIn https://jp.linkedin.com > hiroyuki-noji-686974153",
+    "url": "https://jp.linkedin.com/in/hiroyuki-noji-686974153",
+    "pass": 3
+   },
+   {
+    "quote": "源代 裕治 - シニアエキスパート - ザインエレクトロニクス 株式 ... 源代 裕治 - シニアエキスパート - ザインエレクトロニクス 株式 ... LinkedIn https://jp.linkedin.com > yuji-gendai",
+    "url": "https://jp.linkedin.com/in/yuji-gendai",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.thine.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/index/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/jobs/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/directors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/r_and_d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/csr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/investors/ir_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/investors/schedule/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine.co.jp/corporate/jobs/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/finance?code=6769",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=15067",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=6769",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=6769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://report-k.pdcp.jp/6769/202603/a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wan55.co.jp/case/example/thine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Hireharea/status/2092777673512911005",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/manabu-kiri-629bb542",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/tomohiro-sakai-65299b209",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hiroyuki-noji-686974153",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yuji-gendai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ザインエレクトロニクス 会社概要 資本金 設立",
+   "results": [
+    "https://www.thine.co.jp/corporate/history/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "https://www.thine-mobiletek.co.jp/corporate/outline/",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/thine20220311.pdf",
+    "https://and-pro.jp/company-info-1328/",
+    "https://metoree.com/companies/2972/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260205/20260205548289.pdf",
+    "https://compalyze.co.jp/company/1010001044837",
+    "https://kitaishihon.com/company/6769/story",
+    "https://ja.wikipedia.org/wiki/ザインエレクトロニクス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ザインエレクトロニクス 事業内容 売上",
+   "results": [
+    "https://kabutan.jp/stock/finance?code=6769",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6769",
+    "https://www.sangyo-times.jp/article.aspx?ID=15067",
+    "https://zaimani.com/financial-analysis-catalog/6769/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260205/20260205548289.pdf",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/thine20220311.pdf",
+    "https://www.thine.co.jp/corporate/outline/",
+    "https://note.com/gifted_zebra56/n/n7a6d931a1f1c",
+    "https://syukatsu-kaigi.jp/companies/74349/post_items/6/word_mouths",
+    "https://ja.wikipedia.org/wiki/ザインエレクトロニクス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ザインエレクトロニクス 資金調達 株主",
+   "results": [
+    "https://kabutan.jp/stock/holder?code=6769",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=6769",
+    "https://report-k.pdcp.jp/6769/202603/a/",
+    "https://www.thine.co.jp/corporate/investors/ir_library/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15067",
+    "https://initial.inc/investors/V09111",
+    "https://web.fisco.jp/platform/companies/0676900",
+    "https://minkabu.jp/stock/6769/ipo",
+    "https://finance.yahoo.co.jp/quote/6769.T/profile",
+    "https://irbank.net/E02062"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ザインエレクトロニクス 導入事例",
+   "results": [
+    "https://www.keyence.co.jp/ss/products/analytics/ki-casestudy/thine-electronics.jsp",
+    "https://www.wan55.co.jp/case/example/thine/",
+    "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "https://www.thine.co.jp/",
+    "https://and-pro.jp/company-info-1328/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15067",
+    "https://report-k.pdcp.jp/6769/202603/a/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260205/20260205548289.pdf",
+    "https://analytics.keyence.com/documents/701IR000001NbuwYAC/index.html",
+    "https://www.itmedia.co.jp/keywords/thine.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ザインエレクトロニクス 主要取引先",
+   "results": [
+    "https://www.thine.co.jp/corporate/outline/",
+    "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6769",
+    "https://scouter.monex.co.jp/report/top/6769",
+    "https://and-pro.jp/company-info-1328/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2410",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00007209040/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260205/20260205548289.pdf",
+    "https://ja.wikipedia.org/wiki/ザインエレクトロニクス",
+    "https://edinetdb.jp/company/E02062/main-customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com ザインエレクトロニクス",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "https://note.com/tag/vm/investment_money/company-6769",
+    "https://note.com/gifted_zebra56/n/n7a6d931a1f1c",
+    "https://note.com/tatsuya_sabato/n/nf74ff84bca83",
+    "https://note.com/aikabulab/n/nc556335231a5",
+    "https://note.com/takuminatoushi/n/n762b0ca4e5f8",
+    "https://note.com/major_stork3809/n/ncc3ed9a99ed6",
+    "https://note.com/natty_toucan386/n/na78683a886b8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com ザインエレクトロニクス",
+   "results": [
+    "https://x.com/hashtag/%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9",
+    "https://x.com/miraclemasui/status/2119580814329647433",
+    "https://x.com/kessan_db/status/2119192649974624699",
+    "https://x.com/Hireharea/status/2092777673512911005",
+    "https://x.com/Hireharea/status/1948264114113200607",
+    "https://x.com/semicon_news/status/2047551958479946004",
+    "https://x.com/kessan_db/status/2118465551345549634",
+    "https://x.com/Hireharea/status/2092780463039615032?lang=bn",
+    "https://x.com/Hireharea/status/2092411391470919905",
+    "https://x.com/tanabe4486/status/2118231925727076861"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com ザインエレクトロニクス",
+   "results": [
+    "https://jp.linkedin.com/in/manabu-kiri-629bb542",
+    "https://jp.linkedin.com/in/tomohiro-sakai-65299b209",
+    "https://jp.linkedin.com/in/hiroyuki-noji-686974153",
+    "https://jp.linkedin.com/in/yuji-gendai",
+    "https://jp.linkedin.com/in/%E4%BA%AE-%E5%BE%B3%E6%AD%A6-822366233",
+    "https://jp.linkedin.com/in/%E5%B3%BB-%E4%BA%95%E6%89%8B%E5%8F%A3-2b6492129",
+    "https://jp.linkedin.com/in/%E5%B0%9A%E5%BE%B3-%E9%AB%98%E6%A9%8B-51309821a",
+    "https://jp.linkedin.com/in/%E4%B8%80%E5%AD%9D-%E9%87%8E%E4%B8%8A-856861345",
+    "https://jp.linkedin.com/pub/dir/Kazuhisa/Sasaki/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/一孝-野上-314a6572"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com ザインエレクトロニクス",
+   "results": [
+    "https://www.facebook.com/so.yambe/",
+    "https://www.facebook.com/vaakco/?locale=ja_JP",
+    "https://www.facebook.com/yoichiro.minami.3/?locale=ja_JP",
+    "https://www.facebook.com/media/set/?vanity=RenesasElectronicsJapan&set=a.2597854093559479",
+    "https://www.facebook.com/katsuki.hazama/",
+    "https://www.facebook.com/recordasia.biz/posts/%E4%B8%8B%E8%A8%98%E4%BC%81%E6%A5%ADob%E3%81%AE%E6%96%B9%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%BC%81%E6%A5%AD%E9%A1%A7%E5%95%8F%E3%81%A8%E3%81%97%E3%81%A6%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%8A%9B%E3%82%92%E7%99%BA%E6%8F%AE%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-%E6%BF%B1%E7%94%B0%E9%85%92%E9%80%A0%E6%BF%B1%E6%9D%91%E5%B1%8B%E6%BE%A4%E8%97%A4%E9%9B%BB%E6%A9%9F%E6%BE%81%E8%B0%B7%E5%B7%A5%E6%A5%AD%E6%AB%BB%E4%BA%95%E7%B2%BE%E6%8A%80%E5%BB%A3%E5%B1%8B%E5%9B%BD%E5%88%86%E9%88%B4%E5%BB%A3%E3%81%8B%E3%81%BE%E3%81%BC%E3%81%93%E9%88%B4%E4%B8%8E%E6%9E%97%E6%91%A0%E6%9C%A8%E6%9D%90%E4%B8%A1%E5%8F%A3%E5%B1%8B%E6%98%AF%E6%B8%85%E9%A4%8A%E5%91%BD/1503209253066459/",
+    "https://www.facebook.com/kansai.u.pa/photos/2026%E5%B9%B44%E6%9C%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%81%AB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E5%B7%A5%E5%AD%A6%E7%A7%91%E4%BB%AE%E7%A7%B0%E8%A8%AD%E7%BD%AE%E6%A7%8B%E6%83%B3%E4%B8%AD%E3%82%92%E9%96%8B%E8%A8%AD%E3%81%97%E3%81%BE%E3%81%99%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6%E3%81%A7%E3%81%AF%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8C%96%E3%81%8C%E9%80%B2%E3%82%80%E7%8F%BE%E4%BB%A3%E3%81%AB%E3%81%9D%E3%81%AE%E6%A0%B9%E5%B9%B9%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E9%9B%BB%E5%AD%90%E5%B7%A5/827146872858599/",
+    "https://www.facebook.com/hyuma.watanabe/",
+    "https://www.facebook.com/catsuka.nolife/videos/grotesqqque/908175964986514/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ザインエレクトロニクス note 社長",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "https://note.com/tatsuya_sabato/n/n54b8540fad93",
+    "https://www.thine.co.jp/corporate/directors/",
+    "https://shachomeikan.jp/corporations/21975/intro",
+    "https://note.com/tatsuya_sabato/n/n8296b3ebc736",
+    "https://www.sangyo-times.jp/article.aspx?ID=15067",
+    "https://zaimani.com/financial-analysis-catalog/6769/",
+    "https://www.nikkei.com/article/DGKKASDZ03HND_T00C17A2TJC000/",
+    "https://scouter.monex.co.jp/report/top/6769",
+    "https://note.com/loyal_ferret2387/n/n6bcb7dc83800"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ザインエレクトロニクス X 投稿",
+   "results": [
+    "https://x.com/semicon_news/status/2047551958479946004",
+    "https://www.thine.co.jp/",
+    "https://note.com/tatsuya_sabato/n/n9f8b4017f76f",
+    "https://si-tech.co.jp/device/%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6769",
+    "https://www.macnica.co.jp/business/semiconductor/manufacturers/thine/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2410",
+    "https://x.com/kessan_db/status/2119192649974624699",
+    "https://x.com/hashtag/ザインエレクトロニクス",
+    "https://finance.yahoo.co.jp/quote/6769.T/forum"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部26頁・検索11回）"
+ }
+}

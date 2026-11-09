@@ -8,43 +8,320 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T22:34:58.610221+00:00",
- "evidence": {},
+ "researched_at": "2026-11-09T09:06:13.960294+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "How to Estimate Private Company Revenue for M&A | Nodior",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To turn signals into dollars, use two methods that rely on different inputs, and let the range cover both.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Run it from the lower of the two low ends to the higher of the two high ends. If the methods don't overlap at all, the headcount or a band is wrong. Find out which before you report anything.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Several independent signals agree, and the two methods give ranges that overlap.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The company, signals and bands are made up to show the method. Real bands vary by region and service mix.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The low end comes from the payroll method and the high end from the headcount method. Four independent signals agree on about 50 people with a fleet to match, the methods overlap, and the one signal that disagrees has a known cause.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "It's a good starting point, but public headcounts are often wrong for field-heavy companies, and the right band depends on the service mix. Check it against a second method, such as payroll, permit volume or fleet size.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Public companies report revenue every quarter. Private companies in the US have no such duty. State annual reports name officers and a registered agent, rarely revenue, and tax filings stay confidential.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Payroll and benefit-plan filings",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Use at least two sources that don't depend on each other. A benefit-plan filing and a job ad are independent. A staff page and a profile copied from it count once. Decide whether regular subcontractors are in the count.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the latest retirement-plan filing reports 52 participants.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A three-year-old filing or a job ad posted before a branch closed describes a different company.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "How to Estimate Private Company Revenue for M&A | Nodior",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a payroll-based check, estimate payroll from headcount and public wage data for the trade and region. Then divide by the share of revenue that payroll usually takes in that kind of business. Permit volume or fleet size can add a further check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Revenue is always a range, and these estimates are not audited financials. They tell you which companies are likely the right size, so you can rank targets before anyone calls an owner.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Estimated revenue: $6 million to $9 million, high confidence.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Owner-led companies often rely on subcontractors and family members. Leaving them out makes a headcount-based estimate come in low.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How accurate is a private company revenue estimate?",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Can you estimate revenue for a company with almost no online presence?",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Worked example: a commercial HVAC company",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The example is a commercial HVAC contractor serving two counties in one metro area, with service contracts, repairs and equipment replacement.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/miraikyoso/n/n71f274a532d8",
+    "url": "https://note.com/epolicy_actvst/n/n43c835f022f3",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
+    "url": "https://note.com/cyber_forest/n/na36cc2666c44",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shimo_data/n/n863c26151b7c",
+    "url": "https://note.com/epolicy_actvst/n/n4fb34ca1fddc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/s_toyama/n/n6dbf1abbd310",
+    "url": "https://note.com/epolicy_actvst/n/nca89858e3caf",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/s_toyama/n/ne555ba0831ee",
+    "url": "https://note.com/gram14/n/n9e9e573fd2be",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/gentle_squid4572/n/n2daa75df5629",
+    "url": "https://note.com/epolicy_actvst/n/nfe616fc0d062",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
+    "url": "https://note.com/constdx/n/n70a0a9dd2719",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/e_ras_kozai/n/n2133799189af",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zeirishiam/n/n613ec6714f23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roumunews.jp/minimum-wage-business-model-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/erp/basic/5446/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://canaeru.usen.com/opening/zyunbi441.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dinii.jp/document/article/insyokuten_jinkenhi_sakugen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hito-keiei.jp/workforce-planning-sme/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/labor-cost-reduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kodato.com/blog/p8262/",
     "status": "ok",
     "method": "http"
    },
@@ -54,12 +331,7 @@
     "method": "http"
    },
    {
-    "url": "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "url": "https://www.scoro.com/blog/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    },
@@ -69,7 +341,17 @@
     "method": "http"
    },
    {
-    "url": "https://ambitioncfo.com/blog/revenue-per-employee/",
+    "url": "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metrichq.org/finance/revenue-per-employee/",
     "status": "ok",
     "method": "http"
    }
@@ -79,82 +361,132 @@
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） site:note.com",
    "results": [
-    "https://note.com/miraikyoso/n/n71f274a532d8",
-    "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
-    "https://note.com/shimo_data/n/n863c26151b7c",
-    "https://note.com/s_toyama/n/n6dbf1abbd310",
-    "https://note.com/s_toyama/n/ne555ba0831ee",
-    "https://note.com/gentle_squid4572/n/n2daa75df5629",
-    "https://note.com/markeducation/n/n90132f936d08"
+    "https://note.com/epolicy_actvst/n/n43c835f022f3",
+    "https://note.com/cyber_forest/n/na36cc2666c44",
+    "https://note.com/epolicy_actvst/n/n4fb34ca1fddc",
+    "https://note.com/epolicy_actvst/n/nca89858e3caf",
+    "https://note.com/gram14/n/n9e9e573fd2be",
+    "https://note.com/epolicy_actvst/n/nfe616fc0d062",
+    "https://note.com/ayacokato/n/n983f2bd0b5e0",
+    "https://note.com/buchok_dojo/n/n31fa2397e929",
+    "https://note.com/ir100_bonjin/n/n4ad87acabfe3",
+    "https://note.com/miraikyoso/n/n71f274a532d8"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/constdx/n/n70a0a9dd2719",
+    "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "https://note.com/e_ras_kozai/n/n2133799189af",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://note.com/zeirishiam/n/n613ec6714f23",
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/tonarino_cfo/n/n3de662dda8cb",
+    "https://emplay.jp/blog/sales-data-analysis-basics",
+    "https://shishamo-company.com/blog/sales-data-analysis-for-sme/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "https://biz.moneyforward.com/erp/basic/5446/",
+    "https://canaeru.usen.com/opening/zyunbi441.html",
+    "https://dinii.jp/document/article/insyokuten_jinkenhi_sakugen/",
+    "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
+    "https://hito-keiei.jp/workforce-planning-sme/",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://accompanyon.co.jp/column/jinkenhi-ritsu.html",
+    "https://www.stand-3.com/column/business-column/11190/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） 事例",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://sharedine.me/media/know-how/labor-cost-percentage",
+    "https://biz.moneyforward.com/erp/basic/5446/",
+    "https://gxo.co.jp/column/labor-cost-reduction",
+    "https://www.tm-tax.com/mailmag/zaimu/zaimu774/",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://hito-keiei.jp/workforce-planning-sme/",
+    "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.kodato.com/blog/p8262/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "private company revenue estimate payroll method revenue per employee range overlap",
    "results": [
-    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done",
     "https://www.hrbench.com/resource/learn/revenue-per-employee",
-    "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
-    "https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/",
+    "https://www.scoro.com/blog/revenue-per-employee/",
     "https://bizminer.com/revenue-per-employee-benchmarks/",
-    "https://ambitioncfo.com/blog/revenue-per-employee/",
-    "https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies"
+    "https://www.mccrackenalliance.com/blog/are-your-employees-pulling-their-weight-revenue-per-employee-explained",
+    "https://nodior.com/private-company-revenue-estimation",
+    "https://www.metrichq.org/finance/revenue-per-employee/",
+    "https://productive.io/blog/revenue-per-employee/",
+    "https://www.scalesuite.com.au/tools/revenue-per-employee-benchmark",
+    "https://umbrex.com/resources/company-analysis/human-resources/revenue-per-employee/",
+    "https://epignosisinsights.com/blog/how-strategies-and-revenue-estimation-for-private-companies-is-done"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "site:note.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
    "results": [
-    "https://note.com/miraikyoso/n/n71f274a532d8",
-    "https://note.com/buchok_dojo/n/na5fb3f1d0c54",
-    "https://note.com/nayami_answer/n/ncacdf3ca4150",
-    "https://note.com/markeducation/n/n90132f936d08",
-    "https://note.com/s_toyama/n/ne555ba0831ee",
-    "https://note.com/shimo_data/n/n863c26151b7c",
-    "https://note.com/s_toyama/n/n6dbf1abbd310"
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/engikoumu/n/n7aa71e31796a",
+    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
+    "https://note.com/zum_ism/n/n95a214855ce7",
+    "https://note.com/engikoumu/n/n88d87d17413b",
+    "https://note.com/610_mto/n/n5fe57e207f7b",
+    "https://note.com/loyal_ivy9071/n/nf5e9824eb19a",
+    "https://note.com/loyal_ivy9071/n/n0a90841cffa5",
+    "https://note.com/pr_fuku/n/ncc3dc4ef97d2"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
    "results": [
     "https://x.com/nagi_cpa_tax/status/2103258074488385669",
-    "https://x.com/fpfinance12/status/2059652560215302474",
-    "https://x.com/MugiKaikei/status/2109965873733837223",
     "https://x.com/nikkei/status/2090171118812340632",
+    "https://x.com/fpfinance12/status/2059652560215302474",
     "https://x.com/PwC_Japan/status/2115949357208138036",
-    "https://x.com/work2lunch0141/status/2090215578858574146",
-    "https://x.com/aidatapartner/status/2090259671466607101"
+    "https://x.com/MugiKaikei/status/2109965873733837223",
+    "https://x.com/aidatapartner/status/2090259671466607101",
+    "https://x.com/work2lunch0141/status/2090215578858574146"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -163,11 +495,11 @@
    "results": [
     "https://es.linkedin.com/in/jaime-santo-domingo-mayoral-01a73a2a",
     "https://jp.linkedin.com/in/瞬-髙倉-b4b28141a",
-    "https://jp.linkedin.com/posts/takahiro-sawada-99a598261_利益率を伸ばしながら売上を伸ばす方法-利益率を最大化するために不可欠な変動費と固定費-activity-7394158251002691584-Aupi",
     "https://www.linkedin.com/pulse/日本のバイオベンチャーの企業価値評価ー評価手法と主要概念ー-takuya-kano-e7dnc",
-    "https://www.linkedin.com/posts/徹-高島-09388247_タイムマネジメント-売上最大化-activity-7078943552029822976-UYuy",
     "https://jp.linkedin.com/learning/excel-data-analysis-365-2019/2935961",
-    "https://jp.linkedin.com/pulse/売上は過去最高なのに現金だけが消えていくある上場商社が崩れた循環取引の全貌-kohei-yoshioka-rdebc"
+    "https://www.linkedin.com/posts/徹-高島-09388247_タイムマネジメント-売上最大化-activity-7078943552029822976-UYuy",
+    "https://jp.linkedin.com/learning/excel-2016-charts/692001",
+    "https://jp.linkedin.com/posts/takahiro-sawada-99a598261_利益率を伸ばしながら売上を伸ばす方法-利益率を最大化するために不可欠な変動費と固定費-activity-7394158251002691584-Aupi"
    ],
    "engines": [
     "ddgs:google"
@@ -177,12 +509,12 @@
   {
    "query": "site:facebook.com 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）",
    "results": [
-    "https://www.facebook.com/mikagecpa/posts/2361347840666217/",
     "https://www.facebook.com/higinbk.co.jp/posts/1127941051007001/",
+    "https://www.facebook.com/mikagecpa/posts/2361347840666217/",
     "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/2805985496448054/",
-    "https://www.facebook.com/mikagecpa/photos/有価証券金銭債権譲渡時の消費税課税売上割合の計算-5でよい場合加算しなくてよい場合株式など有価証券の譲渡や金銭債権の譲渡は消費税上非課税取引とされており課税売上/2361349773999357/",
     "https://www.facebook.com/NewsPicksStudios/videos/見たい数字を経営の意思決定に/1132783659719527/",
-    "https://www.facebook.com/akindonet/videos/水元仁志の売場クリニック-クリニック総集編2019過去2年間でご紹介した数々の売場部門から特に重要な４つのポイントの切り口で再編集付加価値をいかにつけるか最新の/1322672897894789/",
+    "https://www.facebook.com/mikagecpa/photos/有価証券金銭債権譲渡時の消費税課税売上割合の計算-5でよい場合加算しなくてよい場合株式など有価証券の譲渡や金銭債権の譲渡は消費税上非課税取引とされており課税売上/2361349773999357/",
+    "https://www.facebook.com/mediapost.info/posts/796812057003198/",
     "https://www.facebook.com/spcyoshiya/photos/売上の集計や会議資料のたたき台作り-そんな業務をaiに任せることで時間と気持ちに余裕が生まれた-でもふと気づいた-これって効率化だけで終わらせるのはもったいない/1294519062690355/"
    ],
    "engines": [
@@ -193,50 +525,272 @@
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） note 社長",
    "results": [
+    "https://note.com/constdx/n/n70a0a9dd2719",
+    "https://www.careersync.jp/insights/personnel-cost-variance/",
+    "https://note.com/e_ras_kozai/n/n2133799189af",
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://note.com/zeirishiam/n/n613ec6714f23",
+    "https://roumunews.jp/minimum-wage-business-model-design/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/tonarino_cfo/n/n3de662dda8cb",
     "https://emplay.jp/blog/sales-data-analysis-basics",
-    "https://shishamo-company.com/blog/sales-data-analysis-for-sme/",
-    "https://accomp.jp/column/uriagebunseki",
-    "https://data-viz-lab.com/sales-data-analysis",
-    "https://coconala.com/blogs/6364910/834059",
-    "https://leporto.jp/guide/sales-analysis/",
-    "https://suits.co.jp/excel-sales-analysis/"
+    "https://shishamo-company.com/blog/sales-data-analysis-for-sme/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い） X 投稿",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://oshima-office.jp/trivia/%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AE%E6%9C%AC%E8%B3%AA%EF%BC%9A%E3%81%AA%E3%81%9C%E3%80%8C%E5%A3%B2%E4%B8%8A%E3%80%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%8C%E9%99%90%E7%95%8C%E5%88%A9%E7%9B%8A/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://tenpo-syukyaku.com/2020/08/15/%E5%83%8D%E3%81%8D%E6%96%B9%E6%94%B9%E9%9D%A9%E3%81%A7%E4%B8%8A%E6%98%87%E3%81%97%E3%81%9F%E4%BA%BA%E4%BB%B6%E8%B2%BB%E3%81%AF%E3%81%84%E3%81%8F%E3%82%89%E3%81%AE%E5%A3%B2%E4%B8%8A%E3%81%A7%E3%82%AB/",
+    "https://www.youtube.com/watch?v=wS9vq5sRUAo",
+    "https://openjicareport.jica.go.jp/pdf/1000043852_02.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2026/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://kabe-nashi.jp/sites/form/opening-wp.html?wp=opening-jigyokeikaku-template&no=1079?no=1079&code=/work/column/opening-typeb-business-model.html",
+    "https://www.jil.go.jp/institute/reports/2022/documents/0212.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
   },
   {
    "query": "private company revenue estimate payroll method revenue per employee range overlap site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/revenue-per-employee-number-tells-truth-patrick-rooney-qdjhe",
-    "https://www.linkedin.com/pulse/revenue-per-employee-most-overlooked-metric-scaling-gary-macdermid-ru9ac/",
-    "https://www.linkedin.com/pulse/revenue-per-employee-lets-talk-numbers-strategy-bobby-kimani-wpnuf",
-    "https://www.linkedin.com/pulse/hows-your-revenue-per-employee-carber-goodlet-02q0e",
-    "https://www.linkedin.com/pulse/revenue-per-employee-what-reveals-your-business-ken-stasiak-nacd-dc-vqfve",
-    "https://www.linkedin.com/pulse/from-rule-40-fewer-why-revenue-per-employee-only-half-philipp-kraft-jpk6f/",
-    "https://www.linkedin.com/pulse/revenue-employee-ratio-key-metric-hrs-financial-mayakrishnan"
+    "https://www.linkedin.com/posts/duygu-g%C3%BCrel-148510b3_t%C3%BCrkiye-payroll-a-salary-figure-means-activity-7513946262585565184-u6wh",
+    "https://www.linkedin.com/company/irs",
+    "https://www.linkedin.com/company/adp",
+    "https://www.linkedin.com/posts/soham-bhilare-0bb407115_bau-workday-sap-activity-7507669374216945664-8GLg",
+    "https://www.linkedin.com/company/system-six",
+    "https://www.linkedin.com/company/rudd-and-company-pllc",
+    "https://www.linkedin.com/company/equity-methods",
+    "https://www.linkedin.com/company/corporate-payroll-services_2",
+    "https://www.linkedin.com/in/drylandbeard",
+    "https://www.linkedin.com/in/johnallengna"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ12頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ12頁・検索12回）",
-  "実例": "記載なし（読んだ12頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ27頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 17,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "How to Estimate Private Company Revenue for M&A | Nodior",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To turn signals into dollars, use two methods that rely on different inputs, and let the range cover both.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Run it from the lower of the two low ends to the higher of the two high ends. If the methods don't overlap at all, the headcount or a band is wrong. Find out which before you report anything.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Several independent signals agree, and the two methods give ranges that overlap.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The company, signals and bands are made up to show the method. Real bands vary by region and service mix.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The low end comes from the payroll method and the high end from the headcount method. Four independent signals agree on about 50 people with a fleet to match, the methods overlap, and the one signal that disagrees has a known cause.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "It's a good starting point, but public headcounts are often wrong for field-heavy companies, and the right band depends on the service mix. Check it against a second method, such as payroll, permit volume or fleet size.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Public companies report revenue every quarter. Private companies in the US have no such duty. State annual reports name officers and a registered agent, rarely revenue, and tax filings stay confidential.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Payroll and benefit-plan filings",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Use at least two sources that don't depend on each other. A benefit-plan filing and a job ad are independent. A staff page and a profile copied from it count once. Decide whether regular subcontractors are in the count.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the latest retirement-plan filing reports 52 participants.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A three-year-old filing or a job ad posted before a branch closed describes a different company.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "How to Estimate Private Company Revenue for M&A | Nodior",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a payroll-based check, estimate payroll from headcount and public wage data for the trade and region. Then divide by the share of revenue that payroll usually takes in that kind of business. Permit volume or fleet size can add a further check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Revenue is always a range, and these estimates are not audited financials. They tell you which companies are likely the right size, so you can rank targets before anyone calls an owner.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Estimated revenue: $6 million to $9 million, high confidence.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Owner-led companies often rely on subcontractors and family members. Leaving them out makes a headcount-based estimate come in low.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How accurate is a private company revenue estimate?",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Can you estimate revenue for a company with almost no online presence?",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Worked example: a commercial HVAC company",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The example is a commercial HVAC contractor serving two counties in one metro area, with service contracts, repairs and equipment replacement.",
+    "url": "https://nodior.com/private-company-revenue-estimation",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 18,
  "first_researched_at": "2026-11-05T16:50:39.740528+00:00"
 }

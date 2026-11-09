@@ -8,136 +8,8 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T22:26:07.580423+00:00",
+ "researched_at": "2026-11-09T09:05:34.350967+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "2-1. 業務で特に警戒すべきは「事実型」と「創造型」",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "2-2. 「文脈型」「構造型」は長い会話・複雑な指示で起きやすい",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "しかし「事実型」「創造型」のハルシネーションは、文章として完璧に自然であるがゆえに、専門知識がないと誤りに気づけません",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方、「文脈型」「構造型」のハルシネーションは、やり取りが長くなったり、一度に複数の指示を出したりしたときに発生しやすい傾向があります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "こうした複合型のハルシネーションは、個々の要素を見ると自然であるため、文章全体としての違和感にも気づきにくいという特徴があります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "方法が、最も効果の高い対策のひとつです",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "どのツールを使うにしても、最も安全な使い方は",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "NotebookLMのような出典明示型のツールや、ClaudeのProjects機能のように資料を読み込ませて使う機能を積極的に活用しましょう",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「事実型」「創造型」は特に見抜きにくく、業務での警戒度が高い",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここから先の進め方は、大きく2つあります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "でClaude Code／Codexの使い方から業務設計・社内定着まで伴走を受けながら、社内に仕組みを作る道があります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "でこの記事のような定型業務を丸ごと預ける道があります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "請求処理・データ入力・問い合わせ対応などの定型業務を、AI×人の品質管理体制で丸ごと代行",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Q. ハルシネーションを完全に防ぐ方法はありますか？",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "生成AIの回答を信じて大丈夫？ハルシネーション（嘘）を見抜くファクトチェック手順",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "数字の直しが多ければ段階2で渡す資料を見直し、日付の直しが多ければ公式の発表を見る手順を先に固めます",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI顧問・FDE型AI伴走支援・AIエージェント開発など、生成AIの相談から構築・現場定着までを一社で支援",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "数値なら「別の手順でもう一度計算して、2つが一致するか確かめて」と検算させると気づきやすくなります",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "外部から受け取る原稿にも、AI利用の有無と確認の方法を求める",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "導入前に整理しておきたい考え方、ルール設計、ツール選定、社内定着の進め方をまとめた資料です",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "8-3. 視点3：「やけに都合がいい回答」には注意する",
@@ -362,6 +234,268 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "社外提出資料・契約関連：必ず人間が原典と突き合わせて確認",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "配信管理画面の数値とAI生成レポートの数値を照合",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "専門外の情報こそ、他の情報源（公式サイト・専門家）と照合する",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A. 「数値・固有名詞は必ず元データと照合する」「社外に出る資料は人間が最終確認する」という2点だけでも、最低限のルールとして徹底する価値があります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完璧に見抜く必要はなく、「出典を聞く」「専門外の情報は別の情報源と照合する」「都合の良すぎる回答は疑う」という3つの視点を持つだけで、多くのケースに気づけるようになります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1つ目は、作成者が確かめる語（数字・固有名詞・日付・条文や引用）に印をつけ、原典と1語ずつ突き合わせること",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "段階3に作成者の突き合わせ（確認①）、段階4に別の人の確認（確認②）を足し、段階3で残した原典の控えを段階6で使います（確認③）",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "印をつけた語を1語ずつ原典で突き合わせたか",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増える作業は、段階3の突き合わせと、段階4の別の1人の確認です",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI同士の照合は怪しい語を見つける補助で、原典を読む代わりにはなりません",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社内に「裏取り」を根づかせる体制と、社内だけで決めきれない境目",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "裏取りを根づかせるのは個人の心がけではなく、書類の行き先ごとに「誰が・何を・どこまで見るか」を決めた1枚の表です",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作成者が4種類の語に印をつけて原典と突き合わせ、別の1人が印の語だけを見てから送る",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：引用した判例が公式の判例データベースに実在するかを、事件番号で照合する",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同紙の検証では、推薦図書以外の記事にも、実在の人物が言っていない発言や、実在が確認できない専門家の発言が見つかりました（",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Chicago Sun-Times による検証記事、2025年5月29日",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：脚注・参考文献を1件ずつ原典と照合する",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの出力そのものより「原典と照合する工程が無い、または形だけだったこと」が損害につながっている",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事例から逆算した、AIを使った成果物を社外に出す前の確認項目です",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "原資料を開き、数字だけでなく単位・対象年・対象範囲まで照合する",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "2-1. 業務で特に警戒すべきは「事実型」と「創造型」",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "2-2. 「文脈型」「構造型」は長い会話・複雑な指示で起きやすい",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし「事実型」「創造型」のハルシネーションは、文章として完璧に自然であるがゆえに、専門知識がないと誤りに気づけません",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方、「文脈型」「構造型」のハルシネーションは、やり取りが長くなったり、一度に複数の指示を出したりしたときに発生しやすい傾向があります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "こうした複合型のハルシネーションは、個々の要素を見ると自然であるため、文章全体としての違和感にも気づきにくいという特徴があります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "方法が、最も効果の高い対策のひとつです",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "どのツールを使うにしても、最も安全な使い方は",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "NotebookLMのような出典明示型のツールや、ClaudeのProjects機能のように資料を読み込ませて使う機能を積極的に活用しましょう",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「事実型」「創造型」は特に見抜きにくく、業務での警戒度が高い",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここから先の進め方は、大きく2つあります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "でClaude Code／Codexの使い方から業務設計・社内定着まで伴走を受けながら、社内に仕組みを作る道があります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "でこの記事のような定型業務を丸ごと預ける道があります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "請求処理・データ入力・問い合わせ対応などの定型業務を、AI×人の品質管理体制で丸ごと代行",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Q. ハルシネーションを完全に防ぐ方法はありますか？",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "生成AIの回答を信じて大丈夫？ハルシネーション（嘘）を見抜くファクトチェック手順",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数字の直しが多ければ段階2で渡す資料を見直し、日付の直しが多ければ公式の発表を見る手順を先に固めます",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI顧問・FDE型AI伴走支援・AIエージェント開発など、生成AIの相談から構築・現場定着までを一社で支援",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "数値なら「別の手順でもう一度計算して、2つが一致するか確かめて」と検算させると気づきやすくなります",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "外部から受け取る原稿にも、AI利用の有無と確認の方法を求める",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "導入前に整理しておきたい考え方、ルール設計、ツール選定、社内定着の進め方をまとめた資料です",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "実例": [
    {
     "quote": "海外では、AIが生成した架空の判例をそのまま裁判所に提出してしまった弁護士が懲戒処分を受けた事例や、航空会社のチャットボットが誤った割引案内をして企業側が責任を問われた事例も実際に起きています",
@@ -550,140 +684,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "社外提出資料・契約関連：必ず人間が原典と突き合わせて確認",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "配信管理画面の数値とAI生成レポートの数値を照合",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "専門外の情報こそ、他の情報源（公式サイト・専門家）と照合する",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A. 「数値・固有名詞は必ず元データと照合する」「社外に出る資料は人間が最終確認する」という2点だけでも、最低限のルールとして徹底する価値があります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完璧に見抜く必要はなく、「出典を聞く」「専門外の情報は別の情報源と照合する」「都合の良すぎる回答は疑う」という3つの視点を持つだけで、多くのケースに気づけるようになります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1つ目は、作成者が確かめる語（数字・固有名詞・日付・条文や引用）に印をつけ、原典と1語ずつ突き合わせること",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "段階3に作成者の突き合わせ（確認①）、段階4に別の人の確認（確認②）を足し、段階3で残した原典の控えを段階6で使います（確認③）",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "印をつけた語を1語ずつ原典で突き合わせたか",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "増える作業は、段階3の突き合わせと、段階4の別の1人の確認です",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI同士の照合は怪しい語を見つける補助で、原典を読む代わりにはなりません",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "社内に「裏取り」を根づかせる体制と、社内だけで決めきれない境目",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "裏取りを根づかせるのは個人の心がけではなく、書類の行き先ごとに「誰が・何を・どこまで見るか」を決めた1枚の表です",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "作成者が4種類の語に印をつけて原典と突き合わせ、別の1人が印の語だけを見てから送る",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：引用した判例が公式の判例データベースに実在するかを、事件番号で照合する",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同紙の検証では、推薦図書以外の記事にも、実在の人物が言っていない発言や、実在が確認できない専門家の発言が見つかりました（",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Chicago Sun-Times による検証記事、2025年5月29日",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：脚注・参考文献を1件ずつ原典と照合する",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの出力そのものより「原典と照合する工程が無い、または形だけだったこと」が損害につながっている",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "事例から逆算した、AIを使った成果物を社外に出す前の確認項目です",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "原資料を開き、数字だけでなく単位・対象年・対象範囲まで照合する",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "単なる「分かりません」という回答ではなく、存在しない統計データや架空の文献、間違った固有名詞を、違和感のない自然な文章で提示してくる点が厄介なポイントです",
@@ -829,12 +829,22 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/tshiraiwa/n/nc9aeb5d7914e",
+    "url": "https://note.com/tasty_yak6599/n/nc1d4f580ba77",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/hirotsuchida/n/n2d58413173f0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tshiraiwa/n/nc9aeb5d7914e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taka_sas_1979/n/n5ed6cb81ee5a",
     "status": "ok",
     "method": "http"
    },
@@ -849,12 +859,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n9bb2512ea810",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/digitalpirce/n/ne8cf2e813952",
+    "url": "https://note.com/sunaomunakata/n/nc0927ce45bea",
     "status": "ok",
     "method": "http"
    },
@@ -864,27 +869,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/ishizakahiroshi/n/n442f37fbec3b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ushikun_desu/n/n1f1267060ce6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/t_a_ka/n/n684734f54217",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/kaikeijyoho-202501-02.html",
+    "url": "https://note.com/ishizakahiroshi/n/n442f37fbec3b",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/masuda441/n/n2cbb9c2d8626",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.sanda.lg.jp/soshiki/65/taisetsu/seitoshidou/MIRAInote/30902.html",
     "status": "ok",
     "method": "http"
    },
@@ -919,7 +919,7 @@
     "method": "http"
    },
    {
-    "url": "https://blog.visional.inc/n/n16d04d3b9b4a?gs=42ee9dad3ce49397162729c6739d5c6f",
+    "url": "https://blog.visional.inc/n/n16d04d3b9b4a?gs=7b506d1298569765227176d9764e29ff",
     "status": "ok",
     "method": "http"
    },
@@ -954,6 +954,11 @@
     "method": "http"
    },
    {
+    "url": "https://medium.com/@deolesopan/how-to-audit-gen-ai-output-a-5-minute-accuracy-bias-safety-checklist-4de36bab4473",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://mitsloan.mit.edu/ideas-made-to-matter/seeing-real-value-ai-depends-being-able-to-verify-its-outputs",
     "status": "ok",
     "method": "http"
@@ -964,17 +969,12 @@
     "method": ""
    },
    {
-    "url": "https://medium.com/@deolesopan/how-to-audit-gen-ai-output-a-5-minute-accuracy-bias-safety-checklist-4de36bab4473",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
     "url": "https://manuelgarcia.info/guides/research/guide/ai-fabricated-research-data-detection",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/abs/2310.01297",
+    "url": "https://www.articulate.com/blog/how-to-fact-check-ai-content-like-a-pro/",
     "status": "ok",
     "method": "http"
    }
@@ -984,19 +984,19 @@
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） site:note.com",
    "results": [
-    "https://note.com/tshiraiwa/n/nc9aeb5d7914e",
+    "https://note.com/tasty_yak6599/n/nc1d4f580ba77",
     "https://note.com/hirotsuchida/n/n2d58413173f0",
+    "https://note.com/tshiraiwa/n/nc9aeb5d7914e",
+    "https://note.com/taka_sas_1979/n/n5ed6cb81ee5a",
     "https://note.com/domonjo01/n/n4af5e6094d1c",
     "https://note.com/s14hattyann/n/n311e967b1d28",
     "https://note.com/tsunobuchi/n/n9bb2512ea810",
-    "https://note.com/digitalpirce/n/ne8cf2e813952",
     "https://note.com/cuon/n/n938cb7eed840",
-    "https://note.com/kenichiro/n/neccf2df2b7b3",
-    "https://note.com/doerstokyo_kb/n/n065c1ee5347a",
+    "https://note.com/digitalpirce/n/ne8cf2e813952",
     "https://note.com/hirotsuchida/n/n70a460811ce8"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1004,22 +1004,20 @@
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） note",
    "results": [
+    "https://note.com/sunaomunakata/n/nc0927ce45bea",
     "https://note.com/misaki_ai_work/n/nafe734bc2b2a",
-    "https://note.com/ishizakahiroshi/n/n442f37fbec3b",
     "https://note.com/ushikun_desu/n/n1f1267060ce6",
     "https://www.youtube.com/watch?v=dkEHf9M2mMk",
-    "https://note.com/t_a_ka/n/n684734f54217",
-    "https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/kaikeijyoho-202501-02.html",
+    "https://note.com/ishizakahiroshi/n/n442f37fbec3b",
     "https://note.com/masuda441/n/n2cbb9c2d8626",
     "https://www.city.sanda.lg.jp/soshiki/65/taisetsu/seitoshidou/MIRAInote/30902.html",
-    "https://note.com/steve_t/n/n63aa20250ac3",
-    "https://note.com/astarte_cpa/n/ned1f17cd7352"
+    "https://help.salesforce.com/s/articleView?id=ai.generative_ai_feedback_about.htm&language=ja&type=5",
+    "https://note.com/t_a_ka/n/n684734f54217"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） やり方",
@@ -1065,18 +1063,18 @@
    "query": "auditing AI chat output fabricated statistics verification",
    "results": [
     "https://internalauditor.theiia.org/en/voices/2026/august/ai-output-responsible-use/",
+    "https://medium.com/@deolesopan/how-to-audit-gen-ai-output-a-5-minute-accuracy-bias-safety-checklist-4de36bab4473",
     "https://mitsloan.mit.edu/ideas-made-to-matter/seeing-real-value-ai-depends-being-able-to-verify-its-outputs",
     "https://www.reddit.com/r/ClaudeWorkflows/comments/1vxtz5v/workflow_6_rules_for_auditing_ai_agent_reports/",
-    "https://medium.com/@deolesopan/how-to-audit-gen-ai-output-a-5-minute-accuracy-bias-safety-checklist-4de36bab4473",
     "https://manuelgarcia.info/guides/research/guide/ai-fabricated-research-data-detection",
-    "https://arxiv.org/abs/2310.01297",
     "https://www.articulate.com/blog/how-to-fact-check-ai-content-like-a-pro/",
-    "https://www.linkedin.com/pulse/data-audits-ai-systems-how-verify-quality-compliance-eckhart-mehler-q2txf",
-    "https://www.onedatasoftware.com/blog/ai-hallucinations-detect-prevent-build-trust",
-    "https://chata.ai/resources/blog/how-to-audit-ai-generated-reports-for-accuracy"
+    "https://www.frisbyaiops.com/industries/government",
+    "https://arxiv.org/abs/2310.01297",
+    "https://answers.databricks.com/verify-accuracy-ai-generated-data-insights",
+    "https://www.pertamapartners.com/insights/chatgpt-output-evaluation"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1089,14 +1087,14 @@
     "https://note.com/s14hattyann/n/n311e967b1d28",
     "https://note.com/tsunobuchi/n/n9bb2512ea810",
     "https://note.com/lisalisaann/n/nb026a7076b1e",
-    "https://note.com/hirotsuchida/n/n0fc5608ed71a",
     "https://note.com/tolove/n/n01d732fa2fa4",
-    "https://note.com/tsunobuchi/n/n5b7c563944ab",
+    "https://note.com/hirotsuchida/n/n0fc5608ed71a",
     "https://note.com/tasty_yak6599/n/nc1d4f580ba77",
-    "https://note.com/hirotsuchida/n/n0d98ad05ef55"
+    "https://note.com/tsunobuchi/n/n5b7c563944ab",
+    "https://note.com/yasuhitoo/n/nb862db1d5eef"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1116,7 +1114,7 @@
     "https://x.com/aoyama48215960"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1126,17 +1124,17 @@
    "results": [
     "https://jp.linkedin.com/pulse/ai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AEkpi%E5%8F%96%E7%B7%A0%E5%BD%B9%E4%BC%9A%E3%81%AB%E3%81%AF%E4%BD%95%E3%82%92%E5%87%BA%E3%81%9B%E3%81%B0%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B-%E5%8D%83%E5%B0%8B-%E6%9F%B4%E7%94%B0-bodbc",
     "https://jp.linkedin.com/pulse/routine-ai-use-weakening-crisis-communicators-philippe-borremans-zjdte?tl=ja",
-    "https://jp.linkedin.com/pulse/have-you-ever-known-secret-were-bursting-tell-alan-rambam-ylcyc?tl=ja",
     "https://jp.linkedin.com/pulse/why-generative-ai-features-dont-fit-traditional-sdlc-stephen-higgins-grkye?tl=ja",
-    "https://jp.linkedin.com/pulse/conversation-unmukt-raizada-founder-ceo-trustevalsai-massimo-bellino-uzixc?tl=ja",
+    "https://jp.linkedin.com/pulse/have-you-ever-known-secret-were-bursting-tell-alan-rambam-ylcyc?tl=ja",
     "https://www.linkedin.com/posts/shusaku-harada-aa183a279_aix%E6%8E%A8%E9%80%B2%E3%82%92%E6%8B%85%E3%81%86%E5%86%85%E8%A3%BD%E5%8C%96%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%B5%84%E7%B9%94global-tech-center%E3%81%AE-activity-7512704391439912962-uxl2",
+    "https://jp.linkedin.com/pulse/conversation-unmukt-raizada-founder-ceo-trustevalsai-massimo-bellino-uzixc?tl=ja",
     "https://jp.linkedin.com/pulse/why-your-site-invisible-chatgpt-even-when-google-you-vallamsetla-3qmac?tl=ja",
     "https://jp.linkedin.com/pulse/aivasp-security-standard-ai-native-engineering-dharmendra-kumar-av3nf?tl=ja",
-    "https://jp.linkedin.com/pulse/github-copilot-gh-300-exam-quick-certification-recap-balaji-subramani-54ztc?tl=ja",
-    "https://jp.linkedin.com/in/jinkk"
+    "https://jp.linkedin.com/pulse/i-spoke-20-reward-leaders-ai-every-single-one-asked-me-giac-soliman-ojhse?tl=ja",
+    "https://jp.linkedin.com/posts/masaya-mori-26661178_ai%E3%82%92%E4%BD%BF%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7%E4%BA%BA%E9%96%93%E5%81%B4%E3%81%AE%E8%AA%8D%E7%9F%A5%E7%9A%84%E5%8A%AA%E5%8A%9B%E3%81%8C%E4%BD%8E%E4%B8%8B%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A%E3%81%8C%E6%98%A8%E5%B9%B4%E8%A9%B1%E9%A1%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-activity-7415318068597301248-Mdgl"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1144,16 +1142,16 @@
   {
    "query": "site:facebook.com AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）",
    "results": [
-    "https://www.facebook.com/KPMG.JP/videos/%E8%96%AC%E5%B1%80ai%E6%B4%BB%E7%94%A8%E3%81%AE%E4%B8%BB%E5%BD%B9%E3%81%AFai%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93-ai%E3%81%AB%E3%82%88%E3%82%8B%E6%94%AF%E6%8F%B4%E3%82%92%E6%82%A3%E8%80%85%E3%81%B8%E3%81%AE%E4%BE%A1%E5%80%A4%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF%E8%96%AC%E5%89%A4%E5%B8%AB%E3%81%AE%E7%A2%BA%E8%AA%8D%E8%A3%9C%E6%AD%A3%E5%88%A4%E6%96%AD%E3%81%A7%E3%81%99%E3%81%9D%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%81%AFai%E3%81%AB%E4%BB%BB%E3%81%9B%E3%82%8B%E6%A5%AD%E5%8B%99%E3%82%84%E6%83%85%E5%A0%B1%E3%81%AE%E5%8F%96%E6%89%B1%E3%81%84%E7%8F%BE%E5%A0%B4%E8%96%AC%E5%89%A4%E5%B8%AB%E7%AE%A1%E7%90%86/1010393812137910/",
-    "https://www.facebook.com/groups/713390697225371/posts/1553246196573146/",
     "https://www.facebook.com/kotatsuneko/posts/20260426%E6%96%B0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E9%96%8B%E8%AC%9B%E7%94%9F%E6%88%90ai%E5%85%B1%E8%82%B2%E3%83%A9%E3%83%9C%E7%AC%AC1%E5%9B%9E-%E5%9F%BA%E7%A4%8E%E3%82%BC%E3%83%9F-%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E7%94%9F%E6%88%90ai%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-%E7%94%9F%E6%88%90ai%E3%81%A3%E3%81%A6%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%91%E3%81%A9%E3%81%BE%E3%81%A0%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%82%8B/26848668108090968/",
+    "https://www.facebook.com/groups/713390697225371/posts/1553246196573146/",
+    "https://www.facebook.com/KPMG.JP/videos/%E8%96%AC%E5%B1%80ai%E6%B4%BB%E7%94%A8%E3%81%AE%E4%B8%BB%E5%BD%B9%E3%81%AFai%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93-ai%E3%81%AB%E3%82%88%E3%82%8B%E6%94%AF%E6%8F%B4%E3%82%92%E6%82%A3%E8%80%85%E3%81%B8%E3%81%AE%E4%BE%A1%E5%80%A4%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF%E8%96%AC%E5%89%A4%E5%B8%AB%E3%81%AE%E7%A2%BA%E8%AA%8D%E8%A3%9C%E6%AD%A3%E5%88%A4%E6%96%AD%E3%81%A7%E3%81%99%E3%81%9D%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%81%AFai%E3%81%AB%E4%BB%BB%E3%81%9B%E3%82%8B%E6%A5%AD%E5%8B%99%E3%82%84%E6%83%85%E5%A0%B1%E3%81%AE%E5%8F%96%E6%89%B1%E3%81%84%E7%8F%BE%E5%A0%B4%E8%96%AC%E5%89%A4%E5%B8%AB%E7%AE%A1%E7%90%86/1010393812137910/",
     "https://www.facebook.com/groups/713390697225371/",
     "https://www.facebook.com/100inc/posts/vol286ai%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%81%AF%E3%81%9D%E3%81%AE%E6%89%8B%E5%89%8D%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E6%B1%BA%E3%81%BE%E3%82%8Bai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E3%82%82%E5%87%BA%E5%8A%9B%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%81%8C%E4%BC%B8%E3%81%B3%E3%81%AA%E3%81%84%E5%8E%9F%E5%9B%A0%E3%81%AE%E5%A4%9A%E3%81%8F%E3%81%AF%E5%AE%9F%E3%81%AF%E3%83%87%E3%83%BC%E3%82%BF%E5%81%B4%E3%81%AB%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%85%A86%E5%9B%9E%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%83%A9%E3%83%9Cvol2%E3%81%AF%E3%81%99%E3%81%B9/1518191816773505/",
     "https://www.facebook.com/100inc/",
     "https://www.facebook.com/kidera.yoshi/",
-    "https://www.facebook.com/groups/276362369397854/posts/2946566409044090/",
     "https://www.facebook.com/hisashikomiya/posts/%E4%BB%8A%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E9%87%91%E8%9E%8D%E5%88%B6%E5%BA%A6%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8F%E5%A4%89%E3%82%8F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%B1%B3%E9%80%9A%E8%B2%A8%E7%9B%A3%E7%9D%A3%E5%BA%81occ%E3%81%AF%E6%B1%BA%E6%B8%88%E7%94%A8%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%88%B6%E5%BA%A6%E6%95%B4%E5%82%99%E3%82%92%E9%80%B2%E3%82%81%E5%9C%B0%E5%9F%9F%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%82%92%E5%90%AB%E3%82%80%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%82%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E9%87%91%E8%9E%8D%E3%81%B8%E5%8F%82/3751433165008994/",
-    "https://www.facebook.com/100064515737150/?locale=bg_BG"
+    "https://www.facebook.com/myplaw/",
+    "https://www.facebook.com/100064515737150/?locale=be_BY"
    ],
    "engines": [
     "ddgs:google",
@@ -1166,13 +1164,13 @@
    "results": [
     "https://note.com/misaki_ai_work/n/nafe734bc2b2a",
     "https://note.com/ushikun_desu/n/n1f1267060ce6",
+    "https://note.com/sunaomunakata/n/nc0927ce45bea",
+    "https://www.youtube.com/watch?v=dkEHf9M2mMk",
     "https://note.com/hirotsuchida/n/n3146409747ff",
-    "https://www.youtube.com/watch?v=8wbsNFT-WEA",
     "https://note.jp.pwc.com/n/n22af44555f1a",
     "https://note.com/aatoku/n/nad6a278e329a",
-    "https://www.deloitte.com/jp/ja/services/audit-assurance/perspectives/kaikeijyoho-202501-02.html",
-    "https://ai-keiei.shift-ai.co.jp/ai-usage-audit-methods/",
     "https://jicpa.or.jp/specialized_field/20240813dfu.html",
+    "https://ai-keiei.shift-ai.co.jp/ai-usage-audit-methods/",
     "https://note.com/astarte_cpa/n/ned1f17cd7352"
    ],
    "engines": [
@@ -1184,19 +1182,19 @@
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） X 投稿",
    "results": [
-    "https://www.youtube.com/watch?v=8wbsNFT-WEA",
     "https://boostx-inc.com/blog/generative-ai-input-ng-checklist/",
     "https://markable-ai.techro.co.jp/media/ai-sns/creation/ai-x-post-writing/",
     "https://biz.moneyforward.com/ai/basic/2595/",
-    "https://www.chem-station.com/blog/2026/07/review.html",
-    "https://coplus-one.jp/ai-joho-shushu/",
     "https://ledge.ai/articles/x_ai_note_writer_api_launch",
-    "https://tech-lab.sios.jp/archives/49981",
-    "https://www.itscom.co.jp/forbiz/column/office-environment/17399/",
+    "https://coplus-one.jp/ai-joho-shushu/",
+    "https://www.chem-station.com/blog/2026/07/review.html",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://www.youtube.com/watch?v=C1GqClKoCqY",
+    "https://note.com/yo4shi80/n/nbd9c06dc4775",
     "https://business.ntt-east.co.jp/column/bizdrive/prompt-audit-ai-risk.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1207,13 +1205,13 @@
     "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/how-to-fact-check-ai-outputs/",
     "https://www.linkedin.com/posts/deepak-lalit_ai-mistakes-that-will-make-every-accountant-activity-7485038946146570240-HNla",
     "https://www.linkedin.com/posts/verlith-io_four-states-have-issued-specific-guidance-activity-7503756839986225153-bT7y",
-    "https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/how-to-address-misleading-ai-claims/",
     "https://www.linkedin.com/posts/saidot_heres-what-happened-in-troms%C3%B8-in-2025-activity-7394298694302343168-Z6vT",
-    "https://www.linkedin.com/posts/stephen-gpt_im-finding-and-summarising-interesting-ai-activity-7506267933216739328-HjCw",
+    "https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/how-to-address-misleading-ai-claims/",
     "https://www.linkedin.com/top-content/artificial-intelligence/ai-governance-practices/anthropic-audit-challenges-in-ai-governance/",
+    "https://www.linkedin.com/posts/stephen-gpt_im-finding-and-summarising-interesting-ai-activity-7506267933216739328-HjCw",
     "https://www.linkedin.com/posts/jason-thatcher-0329764_academicjourney-activity-7519726673140039680-M49w",
-    "https://www.linkedin.com/posts/verityw_ai-chat-logs-are-foi-able-lets-let-that-activity-7394316482253447168-fqhL",
-    "https://uk.linkedin.com/in/dandonegan"
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-safety-and-risk-management/how-to-manage-language-model-output-risks/",
+    "https://www.linkedin.com/posts/verityw_ai-chat-logs-are-foi-able-lets-let-that-activity-7394316482253447168-fqhL"
    ],
    "engines": [
     "ddgs:google",
@@ -1224,6 +1222,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-06T17:13:37.218618+00:00"
 }

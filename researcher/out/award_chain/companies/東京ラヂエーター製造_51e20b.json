@@ -1,0 +1,1596 @@
+{
+ "name": "東京ラヂエーター製造",
+ "aliases": [],
+ "context": "神奈川県・資本金131760万円・健康経営優良法人（大規模）",
+ "researched_at": "2026-11-09T09:01:14.098232+00:00",
+ "official_url": "https://www.tokyo-radiator.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1938年10月15日",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1938年10月15日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "13億1760万円",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "1,317(百万円) \n                                            (2026/3現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長　木村 裕哲",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "木村　裕哲",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "代表者氏名",
+    "value": "木村　裕哲",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "492名 (連結 816名)",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "492 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒252-0816 神奈川県藤沢市遠藤2002番地1 TEL:0466-87-1231　FAX:0466-88-1404",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "本社住所",
+    "value": "〒252-0816 神奈川県藤沢市遠藤２００２－１ 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先 (敬称略・50音順)",
+    "value": "■株式会社 IJTT ■いすゞ自動車エンジン販売株式会社 ■いすゞ自動車株式会社 ■井関農機株式会社 ■株式会社 加藤製作所 ■株式会社 クボタ ■コベルコ建機株式会社 ■コマツ（株式会社小松製作所） ■株式会社 SUBARU ■住友建機株式会社 ■住友商事パワー&モビリティ株式会社 ■株式会社 タダノ ■日立建機株式会社 ■日野自動車株式会社 ■株式会社AIRMAN ■マレリ株式会社 ■三菱重工業株式会社 ■三菱ふそうトラック・バス株式会社 ■三菱ロジスネクスト株式会社 ■UDトラックス株式会社",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "個人株主",
+    "value": "4.98",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "label": "個人株主",
+    "value": "3.26",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "私たち東京ラヂエーターは、1938年の設立以来、80年以上に亘りトラック及び産業建機メーカーに対し熱交換器部品を供給し続けております",
+    "url": "https://www.tokyo-radiator.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「軽量・高性能・高信頼性」にお応えしたアルミ熱交換器を小型から大型商用車用、建設機械向けに幅広く提供します",
+    "url": "https://www.tokyo-radiator.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "- わたしたちは、常に仕事の真の目的を理解し、顧客・社会・時代の期待と信頼に応えていきます",
+    "url": "https://www.tokyo-radiator.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和16年当時の川崎工場",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "藤沢工場全景(昭和40年)",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第1期工事完了の鹿沼工場",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "藤沢工場に600トンタンデムプレスライン導入",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東神物流株式会社(現㈱トーシンテクノ)設立",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新事務所(2階)と工場棟",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "業務ビル「トークピア川崎」竣工、不動産賃貸事業開始",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ガソリンエンジン用EGRクーラー藤沢工場にて量産開始",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち東京ラヂエーターは、1938年の設立以来、80年以上に亘りトラック及び産業建機メーカーに対し熱交換器部品を供給し続けております",
+    "url": "https://www.tokyo-radiator.co.jp/company/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "企業規模、取引実績の有無で評価するのではなく適正な競争原理のもとでの最適調達を基本としています",
+    "url": "https://www.tokyo-radiator.co.jp/company/supply/",
+    "pass": 1
+   },
+   {
+    "quote": "〈スタンダード市場上場／自動車部品メーカー／TEAM IMPULメインスポンサー／EV向け製品／開発から製造まで〉#理系学生歓迎",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「熱」を扱う限り、事業は続く 東京ラヂエーター製造は、これまでトラック・産業／建設用機械向けの熱交換器製品を中心に事業を展開してきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "〈スタンダード市場上場／自動車部品メーカー／TEAM IMPULメインスポンサー／EV向け製品〉",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社は、スタンダード市場に上場する自動車部品メーカーとして、1938年の設立以来長年にわたり、「熱をコントロールする技術」を中核に事業を展開してまいりました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品は、トラック・バスを中心とした商用車や建設機械向けの熱交換器です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 「熱をコントロールする技術」に事業を集中させてきた専門メーカー",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "多角化するのではなく、ラジエーターをはじめとする熱交換器領域に集中し、商用車・建設機械という高い信頼性が求められる市場で実績を積み重ねてきた点が、事業としての大きな特長です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "TRSの製品は、商用車・建設機械メーカーを中心とした完成車メーカーとの直接取引により採用されています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "完成車メーカーにとって熱交換器は性能・環境対応・信頼性に直結する重要部品であり、長期にわたり取引が継続しているという事実は、TRSの品質・技術力・供給体制が総合的に評価されている証でもあります",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東神物流(株)[現、(株)トーシンテクノ]設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・語学教育（英語、中国語）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・会計の知識、原価管理教育",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "青山学院大学、秋田大学、亜細亜大学、茨城大学、愛媛大学、桜美林大学、大阪産業大学、岡山大学、神奈川大学、神奈川工科大学、金沢工業大学、鎌倉女子大学、関東学院大学、学習院大学、九州工業大学、熊本大学、久留米工業大学、慶應義塾大学、工学院大学、國學院大學、国士舘大学、駒澤大学、埼玉工業大学、札幌学院大学、産業能率大学、芝浦工業大学、湘南工科大学、成蹊大学、専修大学、高崎経済大学、拓殖大学、玉川大学、大東文化大学、千葉工業大学、中央大学、帝京大学、電気通信大学、東海大学、東京経済大学、東京工科大学、東京電機大学、東京都市大学、東北大学、東洋大学、獨協大学、日本大学、日本工業大学、八戸工業大学、広島大学、文教大学、法政大学、明治大学、明星大学、山形大学、横浜国立大学、横浜商科大学、立教大学、流通経済大学（茨城）、和光大学、東京家政大学、大同大学、早稲田大学、明治学院大学、相模女子大学",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "専門学校東京自動車大学校、日本工学院八王子専門学校、東京工科自動車大学校世田谷校、大原簿記情報ビジネス専門学校横浜校",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済学部、経営学部、法学部、商学部、人文学部、社会学部、人間環境学部、外国語学部、教育学部など",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社みずほ銀行 (常任代理人 株式会社日本カストディ銀行)",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "川崎工場の生産を終了し生産設備を藤沢工場へ集約移設",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "EV時代を支える上場メーカーで、開発から製造まで一貫して手掛けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「熱」を扱う限り、事業は続く 東京ラヂエーター製造は、これまでトラック・産業／建設用機械向けの熱交換器製品を中心に事業を展開してきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 85年以上、熱をコントロールする技術を磨き続ける専門メーカー",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラジエーターをはじめとする熱交換器の開発・製造を通じて、商用車や建設機械など、高い信頼性が求められるモビリティを支えてきた会社です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "TRSが手掛ける製品は、車両や建設機械の性能・耐久性を支える重要部品です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「止まってはいけない物流」や「社会インフラを支える建設現場」の裏側で、TRSの技術が活躍しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "TRSの製品は、多くの完成車メーカーや建設機械メーカーで採用されています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社・工場は湘南エリアに位置しており、自然と都市機能のバランスが取れた環境で働くことができます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、福利厚生や教育制度の充実にも力を入れており、若手社員が安心して成長できる環境づくりを進めています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "〈スタンダード市場上場／自動車部品メーカー／TEAM IMPULメインスポンサー／EV向け製品〉",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社は、スタンダード市場に上場する自動車部品メーカーとして、1938年の設立以来長年にわたり、「熱をコントロールする技術」を中核に事業を展開してまいりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品は、トラック・バスを中心とした商用車や建設機械向けの熱交換器です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東神物流(株)[現、(株)トーシンテクノ]設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・語学教育（英語、中国語）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・会計の知識、原価管理教育",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "青山学院大学、秋田大学、亜細亜大学、茨城大学、愛媛大学、桜美林大学、大阪産業大学、岡山大学、神奈川大学、神奈川工科大学、金沢工業大学、鎌倉女子大学、関東学院大学、学習院大学、九州工業大学、熊本大学、久留米工業大学、慶應義塾大学、工学院大学、國學院大學、国士舘大学、駒澤大学、埼玉工業大学、札幌学院大学、産業能率大学、芝浦工業大学、湘南工科大学、成蹊大学、専修大学、高崎経済大学、拓殖大学、玉川大学、大東文化大学、千葉工業大学、中央大学、帝京大学、電気通信大学、東海大学、東京経済大学、東京工科大学、東京電機大学、東京都市大学、東北大学、東洋大学、獨協大学、日本大学、日本工業大学、八戸工業大学、広島大学、文教大学、法政大学、明治大学、明星大学、山形大学、横浜国立大学、横浜商科大学、立教大学、流通経済大学（茨城）、和光大学、東京家政大学、大同大学、早稲田大学、明治学院大学、相模女子大学",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "専門学校東京自動車大学校、日本工学院八王子専門学校、東京工科自動車大学校世田谷校、大原簿記情報ビジネス専門学校横浜校",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済学部、経営学部、法学部、商学部、人文学部、社会学部、人間環境学部、外国語学部、教育学部など",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【熱交換器メーカー】カルソニックカンセイ傘下",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "が定めるプロ顧客ならびに適格取引先のみを対象としています",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社様｜テント倉庫の導入事例ご紹介",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "環境改善に貢献する老舗ラヂエーターメーカーが「テント倉庫」を導入した理由",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "同社が自社倉庫を新設するにあたり、「テント倉庫」を選ばれた理由や、テント倉庫導入において感じられたメリットとは？",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、1938年の設立から82年間、「熱をコントロールする」ものづくりのプロとして、ラジエーターやEGRクーラーなどの自動車向け熱交換器類をつくり続けてきたメーカーです",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "もともと、工場で使う部品をストックしておく場所として、工場のそばの小さな倉庫を使っていました",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "ここが手狭になってきたために、少し離れたところに外部の倉庫も追加で借りていました",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ距離の問題があったために作業効率が悪く、倉庫を借りる費用も大きな負担になっていたため、「工場の近くに大きな倉庫を建てよう」ということになりました",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫の新設にあたり、テント倉庫という選択肢は最初からあったのでしょうか？",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "一部でテント倉庫を使っており、その使い勝手が良かったものですから、最初から選択肢としては考えていました",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "新設するからには建屋で、という話も持ち上がりましたが、金額面でテント倉庫のほうが圧倒的にリーズナブルということもあり、テント倉庫を前提に検討を始めました",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "経営理念 | 東京ラヂエーター製造株式会社",
+    "url": "https://www.tokyo-radiator.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 | 東京ラヂエーター製造株式会社",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "東京ラヂエーター製造㈱への最寄り駅は湘南台駅になります",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "東京市芝区に東京ラヂエーター製造株式会社設立",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タイラジエーター製造㈱(タイ)への技術援助に関する契約締結",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "業務ビル「トークピア川崎」土地・建物を売却し、製造事業に特化",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "社長メッセージ | 東京ラヂエーター製造株式会社",
+    "url": "https://www.tokyo-radiator.co.jp/company/top_message/",
+    "pass": 1
+   },
+   {
+    "quote": "CSR調達 | 東京ラヂエーター製造株式会社",
+    "url": "https://www.tokyo-radiator.co.jp/company/supply/",
+    "pass": 1
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の会社概要 | マイナビ2028",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "〈スタンダード市場上場／自動車部品メーカー／TEAM IMPULメインスポンサー／EV向け製品／開発から製造まで〉#理系学生歓迎",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "TRSでは、研究開発・設計・製造が同一拠点内に集約されています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「熱」を扱う限り、事業は続く 東京ラヂエーター製造は、これまでトラック・産業／建設用機械向けの熱交換器製品を中心に事業を展開してきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主力製品であるラジエーターは、従来のエンジン車において不可欠な部品です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造では、すでに次世代車両向け熱交換器の量産・納入実績を有しており、今後もこの分野を成長領域として強化していきます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造は、「商用車・建機向けという安定した基盤」×「EGRクーラーをはじめとした成長分野」×「EV・水素といった次世代技術への対応」 これらを組み合わせ、変化の大きい時代でも継続的に成長できる事業を目指しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社は、スタンダード市場に上場する自動車部品メーカーとして、1938年の設立以来長年にわたり、「熱をコントロールする技術」を中核に事業を展開してまいりました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品は、トラック・バスを中心とした商用車や建設機械向けの熱交換器です",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ラジエーター」、「インタークーラー」、「EGRクーラー」など、エンジンや車両システムの温度を適正に保つ製品を開発・製造し、高い信頼性と耐久性が求められる分野で長年にわたり採用されてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造（以下TRS）は、85年以上にわたり一貫して「熱をコントロールする技術」を事業の中心に据えてきました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "TRSでは、社員一人ひとりの健康が仕事の質や生産性につながると考え社員食堂を社内で運営しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京市芝区に東京ラヂエーター製造(株)設立",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイラジエーター製造(株)への技術援助開始",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の会社概要",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "[生成AI分析] 東京ラヂエーター製造 (株) - マークラインズ 自動車情報×生成AIプラットフォーム",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "（例：Boschとデンソーの事業領域、売上、電動化戦略を比較してください",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "-主力はトラック向けのラジエーター、EGRクーラー等",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "-2025年3月期、連結売上34,060百万円 (前年比2.0%増)、営業利益1,714百万円 (前年比22.7％増)、経常利益1,920百万円 (前年比24.0％増)、親会社株主に帰属する当期純利益1,422百万円(前年比15.4%減)",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "東京市芝区三田四国町に東京ラヂエーター製造株式会社設立",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "、現その他の関係会社) とアルミ製ラジエーターの開発、製造に関する技術援助契約締結",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": ">>>東京ラヂエーター製造 (株) のIR情報",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "EV時代を支える上場メーカーで、開発から製造まで一貫して手掛けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "皆さんこんにちは！東京ラヂエーター製造 採用担当です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「熱」を扱う限り、事業は続く 東京ラヂエーター製造は、これまでトラック・産業／建設用機械向けの熱交換器製品を中心に事業を展開してきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主力製品であるラジエーターは、従来のエンジン車において不可欠な部品です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造では、すでに次世代車両向け熱交換器の量産・納入実績を有しており、今後もこの分野を成長領域として強化していきます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造は、「商用車・建機向けという安定した基盤」×「EGRクーラーをはじめとした成長分野」×「EV・水素といった次世代技術への対応」 これらを組み合わせ、変化の大きい時代でも継続的に成長できる事業を目指しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造は、創業以来85年以上にわたり「熱をコントロールする技術」に特化して事業を展開してきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラジエーターをはじめとする熱交換器の開発・製造を通じて、商用車や建設機械など、高い信頼性が求められるモビリティを支えてきた会社です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計・開発から製造までを自社で担う体制のため、理系の知識を活かしながら、モノづくりの全工程に関わることができる点も魅力です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社は、スタンダード市場に上場する自動車部品メーカーとして、1938年の設立以来長年にわたり、「熱をコントロールする技術」を中核に事業を展開してまいりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "主力製品は、トラック・バスを中心とした商用車や建設機械向けの熱交換器です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ラジエーター」、「インタークーラー」、「EGRクーラー」など、エンジンや車両システムの温度を適正に保つ製品を開発・製造し、高い信頼性と耐久性が求められる分野で長年にわたり採用されてきました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "TRSでは、社員一人ひとりの健康が仕事の質や生産性につながると考え社員食堂を社内で運営しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京市芝区に東京ラヂエーター製造(株)設立",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイラジエーター製造(株)への技術援助開始",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の会社概要",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【東京ラヂエーター製造】[7235]決算発表や業務・財務情報 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造の株主、投資家およびその他の市場参加者の皆様へ",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "アセット・バリュー・インベスターズ・リミテッド（本社：ロンドン、CEO 兼 CIO：ジョー・バウエルンフロイント、以下、「AVI」）は本日、東京ラヂエーター製造株式会社（以下、「当社」、東証スタンダード市場：証券コード 7235）の2022 年 6 月開催予定の第 118 回定時株主総会に向けて、株主提案書（以下、「本株主提案」）を提出したことをお知らせいたします",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "本ウェブサイトならびにここに含まれるすべての情報（以下、総称して「本ウェブサイト」といいます）は、東京ラヂエーター製造株式会社（証券コード",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社様｜テント倉庫の導入事例ご紹介",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "設立82年の老舗企業である東京ラヂエーター製造株式会社様は、これまでにアルミニウム及びステンレススチールの加工技術にて比類なき熱交換器部品等を生み出してきました",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "ラジエーターはアルミニウム、EGRクーラーはステンレススチールと異なる材質の熱交換器ですが、共にロウ付け技術を活かして高品質の製品を製造しています",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "東京証券取引所市場第２部に上場",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を5億4000万円に増資",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "第三者割当による新株発行（引受先カルソニックカンセイ㈱（現マレリ㈱））を行い",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を13億1760万円に増資",
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の会社概要 | マイナビ2028",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "〈スタンダード市場上場／自動車部品メーカー／TEAM IMPULメインスポンサー／EV向け製品／開発から製造まで〉#理系学生歓迎",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "〈スタンダード市場上場／自動車部品メーカー／TEAM IMPULメインスポンサー／EV向け製品〉",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社は、スタンダード市場に上場する自動車部品メーカーとして、1938年の設立以来長年にわたり、「熱をコントロールする技術」を中核に事業を展開してまいりました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "KeePer技研(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "芝浦メカトロニクス(株)【東証プライム上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)JVCケンウッド【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の会社概要",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "-2025年3月期、連結売上34,060百万円 (前年比2.0%増)、営業利益1,714百万円 (前年比22.7％増)、経常利益1,920百万円 (前年比24.0％増)、親会社株主に帰属する当期純利益1,422百万円(前年比15.4%減)",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所市場第2部に上場",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "(現 株式会社トーシンテクノ、現連結子会社)",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "米国現地子会社American TRS Inc.をインディアナ州に設立",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "中国現地子会社 重慶東京散熱器有限公司 [Chongqing Tokyo Radiator Co., Ltd.] を中国重慶市に設立",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "中国現地連結子会社、無錫塔尓基熱交換器科技有限公司 [Wuxi TRS Heat Exchanger Co., Ltd.] を中国無錫市に設立",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "カルソニックカンセイ株式会社の第三者割当増資の実施により、日産自動車が親会社に",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "持分法適用関連会社であったTR Asia Co., Ltd.を連結子会社化",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の新卒採用・会社概要 | マイナビ2027",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "EV時代を支える上場メーカーで、開発から製造まで一貫して手掛けています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "〈スタンダード市場上場／自動車部品メーカー／TEAM IMPULメインスポンサー／EV向け製品〉",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社は、スタンダード市場に上場する自動車部品メーカーとして、1938年の設立以来長年にわたり、「熱をコントロールする技術」を中核に事業を展開してまいりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の画像と似た雰囲気の画像から企業をおすすめしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造(株)【東証スタンダード市場上場】の会社概要",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "An independent Tokyo Radiator: 2021年に実施した株主提案",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造の株主、投資家およびその他の市場参加者の皆様へ",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "アセット・バリュー・インベスターズ・リミテッド（本社：ロンドン、CEO 兼 CIO：ジョー・バウエルンフロイント、以下、「AVI」）は本日、東京ラヂエーター製造株式会社（以下、「当社」、東証スタンダード市場：証券コード 7235）の2022 年 6 月開催予定の第 118 回定時株主総会に向けて、株主提案書（以下、「本株主提案」）を提出したことをお知らせいたします",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "本株主提案は、主に、当社がマレリ株式会社（以下、「マレリ」）を親会社とする「上場子会社」であることに起因する、親会社と少数株主との間の利益相反に対処することを目的としています",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "AVIは、約5年間、当社の長期的株主として、上場子会社構造が抱えるガバナンスの問題を解決し企業価値を高めるために、当社、当社の株式を約40.1%保有する親会社のマレリ、そしてマレリの親会社のKKRに対して提案活動を行って参りました",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "AVIが2021年6月に実施した当社への株主提案も、提案活動の一環であります",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2021年の株主総会以降も、当社はAVIの提案を無視し続け、脆弱なガバナンスを改善することはありませんでした",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「グループ・ガバナンス・システムに関する実務指針」でも指摘される通り、預け金制度はマレリの安価な資金源となり、少数株主には当社の資本コストをはるかに下回るリターンしかもたらさず、さらに、この利益相反は低い企業価値評価（株価純資産倍率 0.4倍）の一要因となっていました",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "AVIは、今回、預け金が当社に返還されたことを支持しますが、再びこの悪しき制度を復活させないため、また、預け金が平等に株主に還元されるように株主提案を提出しました",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "その他にも本株主提案においては、当社のガバナンスを高めるために、監査等委員会設置会社への移行や委員長を社外取締役とする指名委員会および報酬委員会の設置、顧問および相談役の役職の廃止を求めています",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、企業価値向上のためのインセンティブを高め、株主との一層の価値共有を促進する取締役への株式報酬制度の導入を提案しています",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "AVIは、当社の少数株主の皆さまが本株主提案に賛成いただくことによって、少数株主利益を軽視する取締役会に対する不支持を表明いただくことを切望しています",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "以下、「東京ラヂエーター」）の株主のために情報を提供するという唯一の目的で開設しております",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "」）は、東京ラヂエーターの株主である",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "は、東京ラヂエーターの他の株主の皆さまに対して",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "と共同で株主権（議決権を含みますがそれに限りません）を行使していただきたいと依頼、または要請しているわけではありません",
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "pass": 3
+   },
+   {
+    "quote": "【東京ラヂエーター製造】[7235]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月18日開示の「資本コストや株価を意識した経営の実現に向けた対応について」において、ROE向上について「・更なる企業価値向上実現に向け、定量目標含め具体的施策 は次期中計(2026～30年度)で開示予定」PER向上について「・株主還元強化 ・IR活動の強化」と記載している",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "還元強化として「25年3月期以降 配当性向30％以上を目指す」「・株主優待制度の新設 (2024年12月24日公表済)」と実績あり",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "・本決算と同時に開示予定の中期経営計画における株主還元の大幅強化",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "株主還元頼りの決算跨ぎとなるためややリスクあり",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年5月27日に「株主提案に関する書面の受領および当社の対応に関するお知らせ」で「総還元性向50％の導入にかかる定款変更の件」について反対している",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "「株主の皆さまへの利益還元強化については概ね同じ方向性」",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "このため株主提案反対についてはそこまで深刻に捉える必要はないと考えられる",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "当社はお取引先様の選定にあたり、Q(品質)、C(コスト)、D(デリバリー)、D(開発) さらには経営方針・体制を総合的に勘案します",
+    "url": "https://www.tokyo-radiator.co.jp/company/supply/",
+    "pass": 1
+   },
+   {
+    "quote": "また、国内外拠点、関係会社の連携を強化し、最適なお取引先を選定します",
+    "url": "https://www.tokyo-radiator.co.jp/company/supply/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省と日本健康会議が主催する制度において「健康経営優良法人（大規模法人部門）」に6年連続認定されています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「健康経営優良法人2025（大規模法人部門）」に6年連続認定",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 東京ラヂエーター製造株式会社 — 会社概要 - 東京ラヂエーター製造株式会社 東京ラヂエーター製造株式会社 https://www.tokyo-radiator.co.jp > company > profile",
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 (株)【東証スタンダード市場上場】 — 東京ラヂエーター製造 (株)【東証スタンダード市場上場】 マイナビ https://job.mynavi.jp > search > corp3213 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "[生成AI分析] 東京ラヂエーター製造 (株) - MarkLines — [生成AI分析] 東京ラヂエーター製造 (株) - MarkLines Automotive Industry Portal MarkLines https://www.marklines.com > top500 > tokyo-radiator-mfg",
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "pass": 3
+   },
+   {
+    "quote": "【 東京ラヂエーター製造 】[7235]企業 概要 社員数や役員報酬 ... — 【 東京ラヂエーター製造 】[7235]企業 概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 【7235】のストーリー・沿革 — 東京ラヂエーター製造 【7235】のストーリー・沿革 キタイシホン https://kitaishihon.com > company > story",
+    "url": "https://kitaishihon.com/company/7235/story",
+    "pass": 3
+   },
+   {
+    "quote": "財務ハイライト - 東京ラヂエーター製造株式会社 — 財務ハイライト - 東京ラヂエーター製造株式会社 東京ラヂエーター製造株式会社 https://www.tokyo-radiator.co.jp > investor > high_light",
+    "url": "https://www.tokyo-radiator.co.jp/investor/high_light/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 (株)【東証スタンダード市場上場】 — 東京ラヂエーター製造 (株)【東証スタンダード市場上場】 マイナビ https://job.mynavi.jp > search > corp3213 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 東京ラヂエーター製造 】[7235]決算発表や業務・財務情報 — 【 東京ラヂエーター製造 】[7235]決算発表や業務・財務情報 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 【7235】の 事業内容 - キタイシホン — 東京ラヂエーター製造 【7235】の 事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7235/business",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 - Wikipedia — 東京ラヂエーター製造 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 東京ラヂエーター製造",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0",
+    "pass": 3
+   },
+   {
+    "quote": "株式関連情報 | 東京ラヂエーター製造 株式会社 — 株式関連情報 | 東京ラヂエーター製造 株式会社 東京ラヂエーター製造株式会社 https://www.tokyo-radiator.co.jp > investor > stockinfo",
+    "url": "https://www.tokyo-radiator.co.jp/investor/stockinfo/",
+    "pass": 3
+   },
+   {
+    "quote": "(令和7年1月23日) 東京ラヂエーター製造 株式会社に対する勧告 ... — (令和7年1月23日) 東京ラヂエーター製造 株式会社に対する勧告 ... 公正取引委員会 https://www.jftc.go.jp > jan > 250123_tokyoradiator",
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2025/jan/250123_tokyoradiator.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 【7235】の大 株主 情報 - 株探 — 東京ラヂエーター製造 【7235】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder",
+    "url": "https://kabutan.jp/stock/holder?code=7235",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 株式会社様｜テント倉庫の 導入事例 ご紹介 — 東京ラヂエーター製造 株式会社様｜テント倉庫の 導入事例 ご紹介 tentsouko.com https://www.tentsouko.com > 導入事例のご紹介",
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 株式会社 — 東京ラヂエーター製造 株式会社 東京ラヂエーター製造株式会社 https://www.tokyo-radiator.co.jp",
+    "url": "https://www.tokyo-radiator.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 (株)【東証スタンダード市場上場】 — 東京ラヂエーター製造 (株)【東証スタンダード市場上場】 マイナビ https://job.mynavi.jp > corp3213 > recruiting_course",
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/recruiting_course27047146/recruiting_course.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 東京ラヂエーター製造 】[7235]企業概要 社員数や役員報酬 ... — 【 東京ラヂエーター製造 】[7235]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "東京ラヂエーター製造 （7235）PBR0.56倍×5期連続増配×実質 ... 東京ラヂエーター製造 （7235）PBR0.56倍×5期連続増配×実質 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 （7235）株価・今後の見通し・予想 - note 東京ラヂエーター製造 （7235）株価・今後の見通し・予想 - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-7235",
+    "pass": 3
+   },
+   {
+    "quote": "7235 東京ラヂエーター製造 上方修正・増配・次期中期経営 ... 7235 東京ラヂエーター製造 上方修正・増配・次期中期経営 ... note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造 株式会社｜企業クリップ - note 東京ラヂエーター製造 株式会社｜企業クリップ - note note https://note.com > 企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nf62337a97532",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "東京ラヂエーター製造（7235）PBR0.56倍×5期連続増配×実質無借金×FCトラック転換期待｜『高配当5.41%』静かな逆張り案件｜ばんこく｜入金力×複利×長期投資",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造（7235）PBR0.56倍×5期連続増配×実質無借金×FCトラック転換期待｜『高配当5.41%』静かな逆張り案件",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "🉐メンバーシップ加入で『読み放題』お得です‼️",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/lukehide/membership",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "いすゞ向け熱交換器メーカーの東京ラヂエーター、地味やけど5期連続増配で実質無借金、自己資本比率72%や。",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "PBR0.56倍ってことは、解散価値より安いってことやで。市場にまだ気づかれてへんやろ？",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "時価総額148億円の小型株やから機関投資家の射程外。せやけど、これがチャンスでもあるんや。",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべきはFCトラックや。トヨタといすゞが2026年4月、国内初の燃料電池小型トラック量産化に向けた共同開発に合意した。2027年度の生産開始を目指してる。",
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造（7235）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-7235",
+    "pass": 3
+   },
+   {
+    "quote": "7235 東京ラヂエーター製造 上方修正・増配・次期中期経営計画に期待｜ナーガールジュナ",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "7235 東京ラヂエーター製造 上方修正・増配・次期中期経営計画に期待",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "証券コード・7235 会社名・東京ラヂエーター製造",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容・トラック・建機、主体の熱交換器メーカー。いすゞ向け中心にラヂエーター、クーラー。",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "59円、3.33％、100株以上でQUOカード500円相当など",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "業績好調であり、3Q時点で通期の88％に達している。",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "配当方針は配当性向30％以上としており上方修正と同時に増配にも期待ができる。",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "四半期ごとに上下するが、直近の業績から考えると4Qのみで5億程度の純利益を残せると考えられる。一株当たりの利益が216になれば6円程度の増配に期待できる。",
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "pass": 3
+   },
+   {
+    "quote": "東京ラヂエーター製造株式会社｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nf62337a97532",
+    "pass": 3
+   },
+   {
+    "quote": "トラック向けラジエーター、クーラーを製造。いすゞ自動車向けが５割程度。建機用も製造",
+    "url": "https://note.com/clipcorporation/n/nf62337a97532",
+    "pass": 3
+   },
+   {
+    "quote": "毎日更新のデータから変化を検知し営業先リストで毎日お届け📩",
+    "url": "https://note.com/clipcorporation/n/nf62337a97532",
+    "pass": 3
+   },
+   {
+    "quote": "https://clip-corporation.com/note",
+    "url": "https://note.com/clipcorporation/n/nf62337a97532",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "雪野るな☃️ on X: \"TRS 東京ラヂエーター製造 株式会社さまに ... 雪野るな☃️ on X: \"TRS 東京ラヂエーター製造 株式会社さまに ... X https://x.com > @yukiruna_hotaru",
+    "url": "https://x.com/yukiruna_hotaru/status/2035998299657019629",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "東京ラヂエーター製造 （株） - LinkedIn 東京ラヂエーター製造 （株） - LinkedIn LinkedIn https://www.linkedin.com > 東京ラヂエーター製造（株）",
+    "url": "https://www.linkedin.com/company/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "Kazuhiko Enomoto - 東京ラヂエーター製造 株式会社 - LinkedIn Kazuhiko Enomoto - 東京ラヂエーター製造 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > kazuhiko-enomoto-231097140",
+    "url": "https://jp.linkedin.com/in/kazuhiko-enomoto-231097140",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tokyo-radiator.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-radiator.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-radiator.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-radiator.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-radiator.co.jp/company/top_message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-radiator.co.jp/company/supply/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/663817",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tentsouko.com/solutions/1085/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/houdou/pressrelease/2025/jan/250123_tokyoradiator.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lukehide/n/n5b9551c05a29",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-7235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nf62337a97532",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yukiruna_hotaru/status/2035998299657019629",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kazuhiko-enomoto-231097140",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京ラヂエーター製造 会社概要 資本金 設立",
+   "results": [
+    "https://www.tokyo-radiator.co.jp/company/profile/",
+    "https://job.mynavi.jp/28/pc/search/corp3213/outline.html",
+    "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "https://kitaishihon.com/company/7235/story",
+    "https://www.careermap.jp/corporations/84753",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrUF",
+    "https://eigyo-mfg.com/service/navi/company/fRV1axYSnicD",
+    "https://ja.wikipedia.org/wiki/東京ラヂエーター製造",
+    "https://www.tokyo-radiator.co.jp/company/history/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東京ラヂエーター製造 事業内容 売上",
+   "results": [
+    "https://www.tokyo-radiator.co.jp/investor/high_light/",
+    "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=7235",
+    "https://kitaishihon.com/company/7235/business",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0",
+    "https://investalk.jp/7235/tokyo-radiator-2026-03-earnings/",
+    "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "https://syukatsu-kaigi.jp/companies/122352",
+    "https://ja.wikipedia.org/wiki/東京ラヂエーター製造",
+    "https://zukaikeizai.com/kaisha/7235/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東京ラヂエーター製造 資金調達 株主",
+   "results": [
+    "https://www.tokyo-radiator.co.jp/investor/stockinfo/",
+    "https://www.assetvalueinvestors.com/ja/campaign/an-independent-tokyo-radiator-2/",
+    "https://www.nikkan.co.jp/articles/view/663817",
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/jan/250123_tokyoradiator.html",
+    "https://kabutan.jp/stock/holder?code=7235",
+    "https://www.nikkei.com/article/DGXZQOUC239FM0T20C22A5000000/",
+    "https://www.kabuyutai.com/kobetu/tokyo-radiator.html",
+    "https://www.buffett-code.com/company/7235/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "東京ラヂエーター製造 導入事例",
+   "results": [
+    "https://www.tentsouko.com/solutions/1085/",
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/jan/250123_tokyoradiator.html",
+    "https://www.tokyo-radiator.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp3213/recruiting_course27047146/recruiting_course.html",
+    "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "https://eigyo-mfg.com/service/navi/company/fRV1axYSnicD",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrUF",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0",
+    "https://shikiho.toyokeizai.net/stocks/7235/corporate",
+    "https://ja.wikipedia.org/wiki/東京ラヂエーター製造"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東京ラヂエーター製造 主要取引先",
+   "results": [
+    "https://www.tokyo-radiator.co.jp/company/profile/",
+    "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7235",
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/jan/250123_tokyoradiator.html",
+    "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0",
+    "https://en-hyouban.com/company/10007893779/",
+    "https://shikiho.toyokeizai.net/stocks/7235/corporate"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com 東京ラヂエーター製造",
+   "results": [
+    "https://note.com/lukehide/n/n5b9551c05a29",
+    "https://note.com/tag/vm/investment_money/company-7235",
+    "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "https://note.com/clipcorporation/n/nf62337a97532",
+    "https://note.com/pocoa_420/n/ncd451109d57a",
+    "https://note.com/brave_gibbon9716/n/nfb1b4c8f95ab",
+    "https://note.com/tag/%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC",
+    "https://note.com/tag/%E3%83%86%E3%82%A3%E3%83%A9%E3%83%89",
+    "https://note.com/brave_gibbon9716/m/mf61e8d2a6e54/hashtag/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0",
+    "https://note.com/tag/%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 東京ラヂエーター製造",
+   "results": [
+    "https://x.com/yukiruna_hotaru/status/2035998299657019629",
+    "https://x.com/MotorsportJP/status/1871740514002968905",
+    "https://x.com/arisa_shiga_/status/2110709510528790634",
+    "https://x.com/yukiruna_hotaru/status/2110692462494888131",
+    "https://x.com/IGoldeneggs/status/2059180765792075986",
+    "https://x.com/IMPUL_official/status/1872816141300797474",
+    "https://x.com/pygmy_hem/status/1771292508997497020",
+    "https://x.com/lunayoshimiso/status/1871819253978222912",
+    "https://x.com/betokabu/status/2064626565959577904",
+    "https://x.com/Yomiuri_Online/status/1882326234228756789"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 東京ラヂエーター製造",
+   "results": [
+    "https://www.linkedin.com/company/%E6%9D%B1%E4%BA%AC%E3%83%A9%E3%83%82%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E8%A3%BD%E9%80%A0%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/kazuhiko-enomoto-231097140",
+    "https://www.linkedin.com/pub/dir/Kazuhiko/Enomoto",
+    "https://jp.linkedin.com/in/%E5%81%A5%E4%BA%8C-%E4%B8%89%E6%9D%91-53ab2930a",
+    "https://www.linkedin.com/pub/dir/%E3%81%B2/%E3%81%88",
+    "https://www.linkedin.com/pub/dir/Kenji/Mimura",
+    "https://jp.linkedin.com/in/kazuhiro-sato-0585151bb",
+    "https://jp.linkedin.com/in/%E6%AD%A3%E6%B5%A9-%E6%B7%B1%E8%B0%B7-5844231b2",
+    "https://jp.linkedin.com/in/nobuyasu-iketani-6510b619a",
+    "https://jp.linkedin.com/in/%E8%B1%8A%E5%92%8C-%E7%86%8A%E6%BE%A4-4173231b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 東京ラヂエーター製造",
+   "results": [
+    "https://www.facebook.com/groups/242658989258452/posts/2527565510767777/",
+    "https://www.facebook.com/tarophotodayo/",
+    "https://www.facebook.com/public/%E5%86%85%E7%94%B0%E8%A3%95%E4%B8%80",
+    "https://www.facebook.com/kon.hidenori/",
+    "https://www.facebook.com/pages/東京ラヂエーター製造/124431387607157/",
+    "https://www.facebook.com/AUTOSPORTweb/posts/team-impulが2025年に向けて東京ラヂエーター製造とメインスポンサー契約を締結httpswwwas-webjpsupergt1166980superg/1186515863474777/",
+    "https://www.facebook.com/people/竹ラヂエーター/100044558456244/",
+    "https://www.facebook.com/JapanFTC/posts/金型の無償保管要請で下請法違反利益提供要請東京ラヂエーター製造はラジエーター等及び燃料タンク等の完成品並びにその部品の製造に必要な金型を下請事業者に無償で保管さ/1042880821215925/",
+    "https://www.facebook.com/JapanFTC/photos/金型の無償保管要請で下請法違反利益提供要請東京ラヂエーター製造はラジエーター等及び燃料タンク等の完成品並びにその部品の製造に必要な金型を下請事業者に無償で保管さ/1042880577882616/",
+    "https://www.facebook.com/p/有限会社-東京ラジエーター大館-100064793299242/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "東京ラヂエーター製造 note 社長",
+   "results": [
+    "https://note.com/cool_garlic3689/n/n70bb33f73a60",
+    "https://www.tokyo-radiator.co.jp/company/profile/",
+    "https://www.nikkei.com/article/DGXZTSJH80301_X10C26A3000000/",
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/jan/250123_tokyoradiator.html",
+    "https://syukatsu-kaigi.jp/companies/122352/word_mouths/employee/ages/30",
+    "https://www.assetvalueinvestors.com/content/uploads/2023/03/Tokyo-Radiator_Shareholder-Proposals_2022_Presentation_JPN_vF.pdf",
+    "https://kitaishihon.com/company/7235/board-of-director",
+    "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "https://the-shashi.com/tse/7235/executives/",
+    "https://the-shashi.com/tse/7235/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東京ラヂエーター製造 X 投稿",
+   "results": [
+    "https://www.jftc.go.jp/houdou/pressrelease/2025/jan/250123_tokyoradiator.html",
+    "https://www.tokyo-radiator.co.jp/contact/contact/",
+    "https://www.marklines.com/ja/top500/tokyo-radiator-mfg",
+    "https://syukatsu-kaigi.jp/companies/122352/word_mouths/employee/ages/30",
+    "https://x.com/MotorsportJP/status/1871740514002968905",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10179/",
+    "https://job.mynavi.jp/27/pc/search/corp3213/outline.html",
+    "https://s.kabutan.jp/stocks/7235/news/",
+    "https://finance.yahoo.co.jp/quote/7235.T/forum",
+    "https://minkabu.jp/stock/7235"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部18頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部18頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部18頁・検索11回）"
+ }
+}

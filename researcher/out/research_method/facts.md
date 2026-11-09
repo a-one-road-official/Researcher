@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・287品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・290品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3169,11 +3169,11 @@
 
 ## 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果（statistical literacy bias types survivorship selection measurement correlation causation）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ21頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
-- 実例：記載なし（読んだ21頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 生産性の分解（内部効果・構成効果・参入退出効果）（productivity decomposition within between entry exit effect）
 - 文脈：突き合わせ・推定
@@ -3294,7 +3294,7 @@
   - 「, Quadratic helps users to identify stale data right from their spreadsheet interface. Suppose you’re working with large amounts of data for analysis and you quickly want to identify some stale data that is no longer relevant, you can do so by passing a text prompt in the Quadratic spreadsheet chat. Here’s an example:」（https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay）
 - 検索結果の抜粋：
   - 「Decision log: template, examples, and best practices [2026]Data Refresh in Power BI - How to Keep Your Reports From ...Keep a Decision Log with Clear Revisit Conditions - BiNotePadsWhy English? Recovery Data-Release Rollback NoticesDecision Log Refresh Plan - YogoQ CoreHow to create Data Refresh Rules for Stale CI's - ServiceNow — A decision log is a record of all the important decisions your team」（https://monday.com/blog/project-management/decision-log/）
-- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 統計の時系列の接続（遡及推計・断層の扱い・調査の切り替わり）（statistical time series break linking retropolation official statistics）
 - 文脈：突き合わせ・失敗
@@ -4398,11 +4398,44 @@
 
 ## 非上場の売上を2つの切り口の幅で出す実務（人数×1人あたりと、人件費÷人件費の割合・幅が重ならないときの扱い）（private company revenue estimate payroll method revenue per employee range overlap）
 - 文脈：推定
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：
+  - 「How to Estimate Private Company Revenue for M&A | Nodior」（https://nodior.com/private-company-revenue-estimation）
+  - 「To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.」（https://nodior.com/private-company-revenue-estimation）
+  - 「To turn signals into dollars, use two methods that rely on different inputs, and let the range cover both.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Run it from the lower of the two low ends to the higher of the two high ends. If the methods don't overlap at all, the headcount or a band is wrong. Find out which before you report anything.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Several independent signals agree, and the two methods give ranges that overlap.」（https://nodior.com/private-company-revenue-estimation）
+  - 「The company, signals and bands are made up to show the method. Real bands vary by region and service mix.」（https://nodior.com/private-company-revenue-estimation）
+  - 「The low end comes from the payroll method and the high end from the headcount method. Four independent signals agree on about 50 people with a fleet to match, the methods overlap, and the one signal that disagrees has a known cause.」（https://nodior.com/private-company-revenue-estimation）
+  - 「For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.」（https://nodior.com/private-company-revenue-estimation）
+  - 「It's a good starting point, but public headcounts are often wrong for field-heavy companies, and the right band depends on the service mix. Check it against a second method, such as payroll, permit volume or fleet size.」（https://nodior.com/private-company-revenue-estimation）
+- 突き合わせ・推定：
+  - 「How to Estimate Private Company Revenue for M&A | Nodior」（https://nodior.com/private-company-revenue-estimation）
+  - 「To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.」（https://nodior.com/private-company-revenue-estimation）
+  - 「For a payroll-based check, estimate payroll from headcount and public wage data for the trade and region. Then divide by the share of revenue that payroll usually takes in that kind of business. Permit volume or fleet size can add a further check.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Revenue is always a range, and these estimates are not audited financials. They tell you which companies are likely the right size, so you can rank targets before anyone calls an owner.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Estimated revenue: $6 million to $9 million, high confidence.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Owner-led companies often rely on subcontractors and family members. Leaving them out makes a headcount-based estimate come in low.」（https://nodior.com/private-company-revenue-estimation）
+  - 「For a handful of companies, you can do this yourself with the steps above. None of the data is secret. It takes time to find, date and cross-check.」（https://nodior.com/private-company-revenue-estimation）
+  - 「How accurate is a private company revenue estimate?」（https://nodior.com/private-company-revenue-estimation）
+  - 「It depends on how many independent signals agree, which is why each estimate carries a confidence level. A low-confidence range is a starting point for your own questions to the owner. None of these estimates are audited financials.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Can you estimate revenue for a company with almost no online presence?」（https://nodior.com/private-company-revenue-estimation）
+  - 「Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.」（https://nodior.com/private-company-revenue-estimation）
+- 一次情報の探し方：
+  - 「To estimate a private company's revenue, collect several independent public signals of its size: headcount from job ads, staff pages and benefit-plan filings, plus licenses, permits, fleet and locations. Multiply headcount by a revenue-per-employee band typical for the industry, check it against a second method such as payroll, and report a range with a confidence level.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Public companies report revenue every quarter. Private companies in the US have no such duty. State annual reports name officers and a registered agent, rarely revenue, and tax filings stay confidential.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Payroll and benefit-plan filings」（https://nodior.com/private-company-revenue-estimation）
+  - 「Use at least two sources that don't depend on each other. A benefit-plan filing and a job ad are independent. A staff page and a profile copied from it count once. Decide whether regular subcontractors are in the count.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Two signals agree, or one strong signal carries the estimate, such as a recent benefit-plan filing.」（https://nodior.com/private-company-revenue-estimation）
+  - 「the latest retirement-plan filing reports 52 participants.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Only 14 people list the company as their employer on a professional network. Taken alone, that points to about $2 million in revenue. The cause is known: field technicians rarely keep such profiles. The benefit-plan filing and the job ads are independent and agree, so the profile count is set aside and the gap is noted next to the estimate.」（https://nodior.com/private-company-revenue-estimation）
+  - 「A three-year-old filing or a job ad posted before a branch closed describes a different company.」（https://nodior.com/private-company-revenue-estimation）
+  - 「Often, yes. Licenses, permits, vehicle registrations and benefit-plan filings exist whether or not a company markets itself. When the record is thin, we mark the estimate low confidence instead of guessing.」（https://nodior.com/private-company-revenue-estimation）
+- 実例：
+  - 「Worked example: a commercial HVAC company」（https://nodior.com/private-company-revenue-estimation）
+  - 「The example is a commercial HVAC contractor serving two counties in one metro area, with service contracts, repairs and equipment replacement.」（https://nodior.com/private-company-revenue-estimation）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 
 ## 統計の系列の末端と改訂（速報の値がのちに動く・リアルタイムの推計と事後の推計の差）の扱い方（real-time data revision end-point problem trend estimate statistics）
 - 文脈：点検
@@ -8098,7 +8131,7 @@
   - 「を用いた特許情報調査の実例について紹介した」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「6.1年前に既に公開されているという驚くべき結果が」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
   - 「しかし，審査の結果，特許が付与されたの」（https://www.jpaa.or.jp/old/activity/publication/patent/patent-library/patent-lib/201401/jpaapatent201401_031-042.pdf）
-- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
 
 ## 調べる仕様と実行の記録の照合（PRISMA-S・検索の記録・採否の基準を設定ファイルに固定する実務）（PRISMA-S search reporting log reproducible search protocol）
 - 文脈：手法・突き合わせ
@@ -12823,11 +12856,11 @@
 
 ## 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）（charts copyright citing statistics redraw figure data journalism）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方
@@ -14939,6 +14972,11 @@
 ## 日本の行政の処分・届出の公表記録で非上場の会社の状態を見る実務（労基法違反の公表事案・下請法の勧告・国交省ネガティブ情報・PRTR・動産譲渡登記・届出の不在を証明にしない・4-115）（using regulatory enforcement and filing records to investigate private companies Japan）
 - 文脈：探し先
 - 手順・やり方：
+  - 「会社の行政処分を調べる方法 — 公表先は業種ごとにバラバラで、登記簿にも法人番号にも一切載りません｜しょくばログ」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「会社の行政処分を調べる方法 — 公表先は業種ごとにバラバラで、登記簿にも法人番号にも一切載りません」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「派遣会社・人材紹介会社の許可番号を確認する方法」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「（業務停止命令・指示・業務禁止命令など）を、事業者名・取引類型（訪問販売、通信販売、電話勧誘販売、連鎖販売取引、特定継続的役務提供、業務提供誘引販売取引、訪問購入）・商品・役務・違反行為・処分行政庁・処分日で検索できるページです」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「金融庁「行政処分事例集」（令和8年6月30日時点・Excel 357KB） https://www.fsa.go.jp/status/s_jirei/kouhyou.html ／「行政処分事例集」の便利な使い方（平成14年度以降・オートフィルタ） https://www.fsa.go.jp/status/s_jirei/use00.html」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
   - 「2 Outline the legal framework for corporate liability in your country.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
   - 「However, the AI Promotion Act and the various guidelines issued by the relevant ministries and agencies are principally framework and policy-promoting instruments. They do not prescribe specific regulations or procedures governing the use of AI, particularly in criminal investigations conducted by investigative authorities or internal investigations conducted by corporations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
   - 「There are various challenges in conducting cross-border investigations in Japan, primarily due to differences in legal frameworks and geographical factors.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
@@ -14949,31 +14987,43 @@
   - 「the extent to which the company has taken appropriate steps (due process), including giving the employee an opportunity to explain their conduct and, where relevant, a proper warning in respect of similar but less serious misconduct in the past.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
   - 「35 If an issue comes to light prior to the authorities in your country becoming aware or engaged, what internal steps should a company take? Are there internal steps that a company is legally required to take or should consider taking?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
   - 「36 What internal steps should a company in your country take if it receives a notice or subpoena from a law enforcement authority seeking the production or preservation of documents or data?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「39 Can the attorney–client privilege be claimed over any aspects of internal investigations in your country? What steps should a company take in your country to protect the privilege or confidentiality of an internal investigation?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「43 To what extent is waiver of the attorney­–client privilege regarded as a cooperative step in your country? Are there any contexts where privilege waiver is mandatory or required?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「54 What are the practical steps needed to self-report to law enforcement in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「59 Does law enforcement in your country routinely share information or investigative materials with law enforcement in other countries? What framework is in place in your country for cooperation with foreign authorities?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「73 What steps do you take to manage corporate communications in your country? Is it common for companies to use a public relations firm to manage a corporate crisis in your country?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+- 突き合わせ・推定：
+  - 「商号変更した会社は旧社名で引く必要があり、金融庁の事例集のように法人番号が併記されていれば番号で照合できます」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「自社データベース（金融庁「行政処分事例集」令和8年6月30日時点の2,816行を集計し、併記された法人番号711件を、国税庁法人番号公表サイトの全件データを取り込んだ5,791,529件に対して2026年9月12日に照合」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
 - 一次情報の探し方：
-  - 「There is no avenue for this, other than the filing of a motion to dismiss a warrant authorising search and seizure, arrest or detention. Because of the secrecy of investigations, it is difficult to file a motion to challenge ongoing investigations before the courts.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
+  - 「会社の行政処分を調べる方法 — 公表先は業種ごとにバラバラで、登記簿にも法人番号にも一切載りません｜しょくばログ」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「会社の行政処分を調べる方法 — 公表先は業種ごとにバラバラで、登記簿にも法人番号にも一切載りません」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「会社の行政処分を全業種まとめて検索できる公的な窓口はありません」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「行政処分の有無は、登記簿にも、国税庁の法人番号公表サイトにも、一切載りません」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「営業停止を命じられても、許可を取り消されても、会社の登記は何も変わらないからです」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「業務廃止を命じられた491社のうち、登記が閉鎖されているのは21社だけ」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「求人票や会社概要の「業界No.1」「実績◯万件」といった表記が本当かを確かめる文脈では、」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「登記記録が閉鎖済みは44社（6.2%）」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「、内訳は清算の結了等30社・合併による解散等10社・登記官による閉鎖4社」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「残り666社（93.8%）は登記が生きています」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「：株式会社491社・合同会社176社・有限会社22社・その他の設立登記法人17社・外国会社等4社」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「業務廃止命令を受けた会社で法人番号が分かる491社をうちのデータベースに当てると、490社がヒットし、登記記録が閉鎖されているのは21社（4.3%）だけ」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「金融庁から「業務をやめなさい」「登録を取り消す」と言われた会社の9割以上が、登記の上では今も普通に存在しています」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「これが「行政処分は登記簿にも法人番号にも載らない」の実態です」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「登記簿は会社の骨格（商号・本店・目的・資本金・役員）を公示する書類で、」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+- 失敗・落とし穴：
+  - 「注意点が2つあります」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
 - 実例：
-  - 「For these exceptional cases, which often involve corporate liability, the special investigation departments of the public prosecutors’ offices in major cities take the initiative to investigate corporations in cooperation with the aforementioned specialised government authorities.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「While the prosecutor’s offices do not have formal policies or protocols guiding prosecutorial decisions in any type of case or violation, including those involving corporate misconduct, the JFTC has publicly released certain standards and guidelines for enforcing antimonopoly law violations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「To date, there have only been six reported cases on the use of the plea bargaining system.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「8 To what extent do law enforcement authorities in your jurisdiction place importance on a corporation having an effective compliance programme? What guidance exists (in the form of official guidance, speeches or case law) on what constitutes an effective compliance programme?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「9 What impact is AI having on investigations? Describe any relevant guidance, regulatory expectations and case law concerning the use of AI in investigations.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「The TBA provides rules regarding the secrecy of communications. For example, with respect to communications that are handled by telecommunications carriers, this law provides that the secrecy of these communications must not be violated, and any person who is engaged in a telecommunications business must not disclose secrets learned while in office.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「18 What is your country’s approach to sanctions enforcement? Has there been an increase in sanctions enforcement activity in recent years, for example?」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「There have not been many significant sanctions enforcement cases in Japan in recent years. However, given that the Japanese government has actively and repeatedly issued additional sanctions against Russia following its invasion of Ukraine, enforcement actions could potentially become more prevalent in the near future.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「In a notable case reported on 10 July 2024, the CEO of a trading company was arrested on suspicion of illegally exporting goods to Russia via South Korea without authorisation. The goods – under an export ban – allegedly included items that could be converted for military use, in violation of sanctions imposed following Russia’s invasion of Ukraine.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「In addition, in civil procedures, a witness cannot be forced to testify in cases where certain professional secrets obtained by public officials in the performance of their duties or certain technical or professional secrets are involved.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「the proportionality of the disciplinary action in light of the nature, type and degree of the misconduct, the employee’s motives, the damage or disruption caused, and the disciplinary action imposed in previous similar cases at the company; and」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「Furthermore, to receive any benefit from self-reporting (eg, immunity from fines), applicants should cooperate with the authority throughout the course of the investigation by making their officers and employees available for interview, responding to various requests for documents and data, and answering the authority’s questions on the facts and circumstances of the case.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「For example, if the JFTC has taken action against a company for cartel or bid-rigging practices, the company may be restricted from participating in certain public procurement processes. It is therefore important to identify the types of public procurement in which the company is, or may need to be, involved and to understand the applicable or expected eligibility requirements.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「In addition, penalties are determined within the ranges prescribed by law and by reference to comparable cases. Although no clear general trend is apparent in the penalties imposed in individual cases, legislative amendments have generally made penalties for violations harsher rather than lighter.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-  - 「To date, there have only been six reported cases on the use of the plea bargaining system. In one instance, officers and employees were convicted of bribing a foreign public official. The company utilised the plea bargaining system to provide information on the bribery committed by its officers and employees, thereby avoiding prosecution.」（https://globalinvestigationsreview.com/guide/the-practitioners-guide-global-investigations/2027/article/japan-challenges-and-solutions-cross-border-investigations）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+  - 「建設業・宅建業・運送業の処分は国土交通省の「ネガティブ情報等検索サイト」、派遣会社・人材紹介会社の処分は厚生労働省の報道発表と各都道府県労働局のページ、訪問販売や通信販売の処分は消費者庁の「執行事例の検索」、金融機関の処分は金融庁の「行政処分事例集」——と、」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「この記事の後半で、金融庁が公表している処分事例2,816行を全部数え、法人番号が付いている712社をうちのデータベースに当てた結果を出しますが、」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「①行政処分とは何か、②業種別の公表先と掲載期間、③金融庁の事例集を数えて分かったこと、④調べるときの勘違い、⑤うちのデータベースでできること・できないこと、の順に書きます」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「金融庁の事例集2,816行のうち」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「訪問販売・通信販売・電話勧誘 — 消費者庁「執行事例の検索」と景品表示法の措置命令」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「銀行・証券・保険・貸金・暗号資産 — 金融庁「行政処分事例集」」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「金融庁の行政処分事例集2,816行を全部数えた」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「金融庁の行政処分事例集（令和8年6月30日時点）をダウンロードして、注記の行を除いた」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「事例集には「平成28年1月以降に新規登録若しくは更新を行った案件については、新規登録若しくは更新時点の法人番号を併記している」という注記があり、」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「この711の法人番号を、国税庁の法人番号公表サイト全件を取り込んだうちのデータベース（法人番号5,791,529件）に当てた結果がこれです」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「商号変更した会社は旧社名で引く必要があり、金融庁の事例集のように法人番号が併記されていれば番号で照合できます」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「処分を出した役所がそれぞれ公表しているので、建設・不動産・運送は国土交通省のネガティブ情報等検索サイト、派遣・職業紹介は厚生労働省と都道府県労働局、訪問販売・通信販売は消費者庁の執行事例の検索、金融は金融庁の行政処分事例集、独占禁止法は公正取引委員会、という具合に業種で振り分けて探します」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「国土交通省のネガティブ情報等検索サイトは最近5年分、消費者庁の執行事例の検索は処分日が属する年度の翌年度の開始から5年間です」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「金融庁の行政処分事例集は平成14年度以降を1つのファイルに載せているので、金融分野は比較的さかのぼれます」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
+  - 「金融庁の事例集では直近5年度の処分の6割が業務改善命令で、会社は営業を続けたまま態勢を直しています」（https://shokubalog.com/articles/kaisha-gyosei-shobun-shirabe-kata）
 
 ## 市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115）（apparent consumption production plus imports minus exports market sizing method trade statistics）
 - 文脈：推定
@@ -16107,6 +16157,30 @@
   - 「POWER関数、べき乗記号、RRI関数のどれを使っても、正の初期値・最終値と同じ期間を指定すれば、基本的に同じ結果になります」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
   - 「売上高のCAGRと利益のCAGRを混同せず、どの数値を使った結果なのか明記しましょう」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
   - 「しかし、その結果は条件を固定した単純なシミュレーションです」（https://nano.globis.ac.jp/r/digital-glossary/article/688）
+
+## GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125）（GIJN tipsheet common mistakes data journalism simple data errors investigation IRE Numbers in the Newsroom）
+- 文脈：数字の点検
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）（verify company exists ghost firm shell company investigative journalism registry address checks）
+- 文脈：会社の確かめ
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）（statistics method change continuity reporting reference values Japan wage statistics）
+- 文脈：統計の読み方
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

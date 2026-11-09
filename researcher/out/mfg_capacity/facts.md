@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・274品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・276品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -13981,6 +13981,146 @@
   - 「これについては、前記１（２）イ（イ）のとおり、ⅰ）「外注費」を「同業者向け」と「同業者向け」（https://www.soumu.go.jp/main_content/001073929.pdf）
 - 痛み・損（深さの印）：記載なし（読んだ49頁・検索18回）
 - 1人あたり・1社あたり金額：記載なし（読んだ49頁・検索18回）
+
+## 工業統計と経済構造実態調査の新旧両方式で出した重なりの年の併記・参考値・接続の値（2020年・2021年・製造業事業所調査の遡及参考値・めっき・金型・熱処理・プレスの細分類・評価語を付けずにつなぐ・4-26・4-125）（Census of Manufacture Economic Structure Survey overlap year reference values linking old and new methods Japan）
+- 文脈：定義
+- 痛み・損（深さの印）：記載なし（読んだ54頁・検索18回）
+- 事業所数・社数：記載なし（読んだ54頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ54頁・検索18回）
+- 受注金額・加工賃収入：記載なし（読んだ54頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ54頁・検索18回）
+- 生産能力・設備：記載なし（読んだ54頁・検索18回）
+- 10年推移：記載なし（読んだ54頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ54頁・検索18回）
+
+## 奈良県 工業統計 調査結果 従業者規模別 製造品出荷額等の表の単位と範囲（万円か百万円か・県の総額か1事業所あたりか・規模別1人あたりの外れ値1.89688e+08の元・4-121・4-125）（Nara prefecture census of manufacture results by employee size unit of shipments）
+- 文脈：統計
+- 痛み・損（深さの印）：
+  - 「《 トピックス 》開廃業 の状況 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 20」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「《《《《トピックストピックストピックストピックス》》》》開廃業開廃業開廃業開廃業のののの状況状況状況状況」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「従業者 ４人以上 の事業所 について 開業等 、廃業等 (※) の状況 をみると 、開業等 は13事業所 （前年」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「比４事業所増 ）、 廃業等 は63事業所 （同24事業所減 ）となりました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「開廃業等 の事業所数 の割合 の推移 をみると 、開業等 は平成 19年以降低下傾向 にありましたが 20」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「また 、廃業等 は平成 19年以降上昇傾向 にありましたが 20」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「なり 、廃業等 は基礎素材型 、生活関連型 が24事業所 、加工組立型 が15事業所 となりました ｡」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(※)開業等 には 、開設 のほか 転入 、転業 を含み、廃業等 には 、廃業 のほか 転出 、転業 を含む」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第第 第第30 30 30 30図 図 図図 開廃業等 開廃業等開廃業等開廃業等 のの のの割合 割合割合割合 のの のの推移 推移推移推移 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第第 第第31 31 31 31図 図 図図 産業類型別 産業類型別産業類型別産業類型別 のの のの開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「＊＊ ＊＊開業率開業率開業率開業率はは はは前年前年前年前年にに にに比比 比比べてべてべてべて00 00.. ..22 22ポイントポイントポイントポイント上昇上昇上昇上昇、、 、、廃業率廃業率廃業率廃業率はは はは11 11.. ..00 00ポイントポイントポイントポイント低下低下低下低下」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第第 第第８ ８ ８８表 表 表表 開廃業等 開廃業等開廃業等開廃業等 のの のの状況 状況状況状況 （（ （（従業者 従業者従業者従業者 ４４ ４４人以上 人以上人以上人以上 のの のの事業所 事業所事業所事業所 ）） ））」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「廃業等 90 3.3 53 1.9 69 2.7 87 3.4 63 2.4」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「廃業等 の割合 ＝｢廃業 ･転出 ｣､｢転業 ｣の事業所数 ／前年当年事業所数 ×100」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「また 、廃業等 は、奈良市 で９事業所 、橿原市 で７事業所 、葛城市 で６事業」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+- 事業所数・社数：
+  - 「２．事業所数 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 7」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第４表 従業者規模別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・・・・・・・ 44」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「事業所数 は、平成 21年12月31日現在 の数値 です」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(1) 事業所数」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(1)事業所数 は2,387事業所 で、前年 に比べて 10.2％減少 (271事業所減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「主要 ４指標 の過去 10年間 の推移 をみると 、事業所数 と従業者数 は期間全体 として 減少傾向 であ」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「２ 事業所数」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(2) 従業者規模別 の状況」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「平成 21年の従業者 ４人以上 の事業所数 は2,387事」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「従業者規模別 の構成比 をみると 、４～９人規模 の事業所数 が半数近 くを 占め(49.4％、 1,178事業」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「所)、次いで 10～19人規模 (23.7％、 565事業所 )、20～29人規模 (11.7％、 279事業所 )の順となって」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「＊事業所数は2,387事業所で、前年に比べて10.2％減少」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「＊従業者４～９人規模の事業所数が半数近くを占める」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第３図 産業中分類別事業所数 の前年比 （％） （ 従業者 ４人以上 の事業所 ）」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第４図 従業者規模別事業所数 の構成比 （％） （ 従業者 ４人以上 の事業所 ）」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+- 社員数・平均社員数：
+  - 「Ⅰ 調査結果 の概要（従業者４人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「３．従業者数 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 8」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「８．年末在庫額及 び有形固定資産総額 （従業者 ３０ 人以上 の事業所 ） ・・・・・ 16」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「Ⅱ 統計表（従業者４人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第１表 累年比較統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・ 23」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第２表 産業中分類別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・ 29」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第３表 産業中分類別統計表 （従業者 ３０ 人以上 の事業所 ） ・・・・・・・・ 32」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第４表 従業者規模別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・・・・・・・ 44」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第５表 産業細分類別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・ 54」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第６表 品目別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・・ 78」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第７表 市町村別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・・・・・ 103」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第８表 市町村別統計表 （従業者 ３０ 人以上 の事業所 ） ・・・・・・・・・・ 106」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第９表 市町村別中分類別統計表 （従業者 ４人以上 の事業所 ） ・・・・・・・ 108」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第10表 １２ 市別産業 ３類型別統計表 （従業者 ４人以上 の事業所 ） ・・・・・ 148」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「年は従業者 ４人以上 の事業所 を調査 の対象 としています」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+- 受注金額・加工賃収入：
+  - 「４．製造品出荷額等 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 10」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「製造品出荷額等 は、平成 21年１年間 における 製造品出荷額 、加工 賃収入 額 、製造工 程 から」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(5) 製造品出荷額等」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(3)製造品出荷額等 は1兆9,848億円 で、前年 に比べて 18.4％減少 (4,467億円減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(4)付加価値額 は5,693億円 で、前年 に比べて 25.4％減少 (1,943億円減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「り、製造品出荷額等 は、平成 14年から 19年にかけて 増加傾向 が続いた 後、20年から 再び減少 に転じ」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「製造品出荷額等 243,154,090 万円 198,480,855 万円 △44,673,235 万円 △18.4 ％」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「付 加 価 値 額 76,358,946 万円 56,932,317 万円 △19,426,629 万円 △25.4 ％」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「４ 製造品出荷額等」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「18.4％の減少 (4,467億円減 )となりました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「６．製造品出荷額等・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「6月1日現在、現金給与総額、製造品出荷額等などの経理項目については平成31年1月～令和元年」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「品目の製造品出荷額等をそれぞれ合計し、その額の最も大きいもので2桁番号を決定します」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(5) 製造品出荷額等（平成31年1月～令和元年12月の1年間） (5) 製造品出荷額等（平成31年1月～令和元年12月の1年間） (5) 製造品出荷額等（平成31年1月～令和元年12月の1年間） (5) 製造品出荷額等（平成31年1月～令和元年12月の1年間）」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「製造品出荷額等は、平成31年1月～令和元年12月の1年間における製造品出荷額、加工 賃」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+- 1人あたり・1社あたり金額：
+  - 「７．付加価値額 ・・・・・・・・・・・・・・・・・・・・・・・・・・・・・ 14」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「④ 付加価値 率 ＝ × 100付加価値額（ 生 産額 － 消費税 を除く内国 消費税 額 － 推 計 消費税 額 ）」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(4)付加価値額 は5,693億円 で、前年 に比べて 25.4％減少 (1,943億円減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「また 、付加価値額 は、増減 を繰り返して 推移 しており 、20年から 減少 となっています」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「製造品出荷額等 243,154,090 万円 198,480,855 万円 △44,673,235 万円 △18.4 ％」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「付 加 価 値 額 76,358,946 万円 56,932,317 万円 △19,426,629 万円 △25.4 ％」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「１事業所当 たり 製造品出荷額等 は県全体 で8億3,151万円 ですが 、産業中分類別 にみると 、電」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「子部品 ・デバイス ・電子回路製造業 (157億1,139万円 )と業務用機械器具製造業 (103億6,731万」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「県全体 8億3,151万円」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「従業者 １人当 たり 製造品出荷額等 は県全体 で3,014万円 ですが 、産業中分類別 にみると 、石」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「油製品 ・石炭製品製造業 (8,379万円 )、電子部品 ・デバイス ・電子回路製造業 （7,766万円 ）、」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「業務用機械器具製造業 （6,586万円 ）の順で、上位 ５産業中 ４産業 は加工組立型 が占めていま」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「＊従業者１人当たり現金給与総額は平均398万円で、産業別では業務用機械器」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「具製造業(645万円)、電子部品・デバイス・電子回路製造業(589万円)が群」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「県全体 3,014万円」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+- 生産能力・設備：
+  - 「８．年末在庫額及 び有形固定資産総額 （従業者 ３０ 人以上 の事業所 ） ・・・・・ 16」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(6) 有形固定資産」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「８ 年末在庫額及び有形固定資産投資総額 （従業者 30人以上 の事業所 ）」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(2) 有形固定資産投資総額」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「従業者 30人以上 の事業所 についての 有形固定資産投資総額 は407億円 で、前年 に比べて 39.9％の」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第５表 産業中分類別有形固定資産投資総額」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第３表 有形固定資産投資総額 の推移」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「８．年末在庫額及び有形固定資産投資総額（従業者３０人以上の事業所）・・・・・・ 18」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所） (7) 有形固定資産額（従業者30人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「８ 年末在庫額及び有形固定資産投資総額 （従業者30人以上の事業所）」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「(2) 有形固定資産投資総額」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「従業者30人以上の事業所についての有形固定資産投資総額は659億円で、前年と比べて19.8％」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊有形固定資産投資総額は、 659億円で、前 年と比べて 19.8％増加」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「＊有形固定資産投資総額では、プラスチック製品製造業 (110億円 )が多い」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+  - 「第４表 産業中分類別有形固定資産投資総額」（https://www.pref.nara.lg.jp/documents/12378/2020kogyo_kakuhou_gaiyou_1.pdf）
+- 10年推移：
+  - 「額 をいい 、 減少 額 とは 、１年間 にこの 勘 定 から 他 の 勘 定 に 振 り 替 えられた 額をいいます」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「⑦ 投 資額 ＝ 有形固定資産 の 取得 額 ＋ ( 建設仮勘 定 の 増 加額 － 建設仮勘 定 の 減少 額 )」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(1)事業所数 は2,387事業所 で、前年 に比べて 10.2％減少 (271事業所減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(2)従業者数 は65,849人で、前年 に比べて 5.7％減少 (3,997人減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(3)製造品出荷額等 は1兆9,848億円 で、前年 に比べて 18.4％減少 (4,467億円減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「(4)付加価値額 は5,693億円 で、前年 に比べて 25.4％減少 (1,943億円減少 )しました」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「主要 ４指標 の過去 10年間 の推移 をみると 、事業所数 と従業者数 は期間全体 として 減少傾向 であ」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「り、製造品出荷額等 は、平成 14年から 19年にかけて 増加傾向 が続いた 後、20年から 再び減少 に転じ」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「また 、付加価値額 は、増減 を繰り返して 推移 しており 、20年から 減少 となっています」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第１図 主要 ４指標 の過去 10年の推移」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「平成 ２０ 年 平成 ２１ 年 前年比 増減率増減数」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「産業中分類別 に前年 と比べると 、すべての 産業 で減少 が見られ 、県全体 で10.2％の減少 と」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「組立型 では 情報通信機械 （45.5％減）、 生活関連型 では 繊維工業 （15.6％減）が最も減少 して」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「＊事業所数は2,387事業所で、前年に比べて10.2％減少」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+  - 「第３図 産業中分類別事業所数 の前年比 （％） （ 従業者 ４人以上 の事業所 ）」（https://www.pref.nara.lg.jp/documents/12378/21gaiyoukaku_1.pdf）
+- 人手と仕事の差：
+  - 「⑤ 製造等に 関連 する 外注費 とは、 生 産 設備 の 保守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「み 込 まれる ソ フトウ ェ アの 開発 など、事業所 収 入に直 接関連 する 外注費 用をいい、派遣受入」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「者に 係わ る支払額、 委 託 生 産額などの 外注費 は含みません」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「費 、製造等に 関連 する 外注費 及び 転売 した商品の 仕 入額の合計で、 消費税 額を含んだ額です」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「額」、 原 材 料使 用額等に「製造等に 関連 する 外注費 」、「 転売 した商品の 仕 入額」を調査」（https://www.pref.nara.lg.jp/documents/12378/20251113131536.pdf）
+  - 「託生産費 、製造等 に関連 する 外注費及 び転売 した 商品 の仕入額 の合計 であり 、消費税額 を含」（https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf）
+  - 「② 製造等 に関連 する 外注費 とは 、生産 設備 の 保守 ・ 点検 ・修理 、 機械 ・ 装置 の 操 作 、製品」（https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf）
+  - 「に 組み込 まれる ソフ ト ウェ ア の 開発 など 、事業所 収 入 に 直接 関連 する 外注費用 をいいます ｡」（https://www.pref.nara.lg.jp/documents/12378/20kaku_1.pdf）
+  - 「費、製造等に関 連 する 外注 費及び 転売 した商品の 仕 入額の合計で、消費税額を 含んだ 額です」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「⑤ 製造等に関 連 する 外注 費とは、 生 産設 備 の保 守 ・ 点検 ・修理、 機械 ・ 装 置の 操作 、製品に 組」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「み込まれる ソフトウェア の 開 発など、事業所 収 入に直 接 関 連 する 外注 費用をいい、派遣受入」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「者に係わる支払額、 委託生 産額などの 外注 費は 含 みませ ん」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
+  - 「額」、原 材料使 用額等に「製造等に関 連 する 外注 費」、「 転売 した商品の 仕 入額」を調査」（https://www.pref.nara.lg.jp/documents/12378/h29kogyo_kakuhou_gaiyou_1.pdf）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024

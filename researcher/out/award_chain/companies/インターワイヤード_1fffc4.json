@@ -1,0 +1,922 @@
+{
+ "name": "インターワイヤード",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・健康経営優良法人（中小規模）",
+ "researched_at": "2026-11-09T09:01:21.075325+00:00",
+ "official_url": "https://www.interwired.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "東京本社",
+    "value": "〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873",
+    "url": "https://www.interwired.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "東京本社 〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873 桐生工場（ヒーター線加工・ワイヤーハーネス） 〒376-0034 群馬県桐生市東3-1-17 MAP TEL. (0277)-44-2757（代） FAX. (0277)43-1848 岩手胆沢工場（電線・ケーブル・ヒーター線・ロードヒーター製造） 〒023-0403 岩手県奥州市胆沢若柳字出店2-1 MAP TEL. (0197)46-3171～3 FAX. (0197)46-3174 INTERWIRED VIETNAM CO.,LTD. Room RF08, 13th Floor, Zen Plaza Building, No. 54-56 Nguyen Trai Street,Ben Thanh Ward, Ho Chi Minh City, Vietnam MAP マーケティングリサーチ事業部 〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)5764-3280 FAX. (03)5764-3282",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873",
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873",
+    "url": "https://www.interwired.co.jp/about/hinshitu.html",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "label": "東京本社",
+    "value": "〒140-8547 東京都品川区南大井5-19-8 MAP TEL. (03)3761-6787（代） FAX. (03)3765-7873",
+    "url": "https://www.interwired.co.jp/about/partnership.html",
+    "pass": 1
+   },
+   {
+    "label": "会社所在地",
+    "value": "東京都品川区南大井５－１９－８",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": ": 〒141-0033 東京都品川区西品川1-28-3",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "エレクトリックワイヤー事業部 電線・ケーブル・ヒーター線・光ファイバー類の製造・加工・販売 マーケティングリサーチ事業部 インターネットを利用した市場調査　DIMSDRIVE　の運営",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "技術・サービスのPR文",
+    "value": "下記の各種ケーブルの設計から製作までの一貫生産が可能です パソコン及び周辺機器用インターフェースケーブル 電気毛布・電気カーペット用発熱線 冷蔵庫・冷凍ショーケース用除霜プレートヒーター 特殊設計ケーブル、特殊設計ヒーター線 ロードヒーター",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   },
+   {
+    "label": "対応素材・対応サービス",
+    "value": "電線用電気銅",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   },
+   {
+    "label": "加工技術・サービス形態",
+    "value": "電線ケーブルの端末加工・コネクタアセンブリ",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   },
+   {
+    "label": "品名・サービス名",
+    "value": "ロードヒーティングケーブル",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　斉藤義弘",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "齊藤　義弘",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   },
+   {
+    "label": "代表者名（フリガナ）",
+    "value": "サイトウ　ヨシヒロ",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創立",
+    "value": "創立：大正8年9月",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：昭和11年11月",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "創業年月日",
+    "value": "創業年月日：1919年09月20日",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "10,000万円",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "90名",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "93人",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "〔エレクトリックワイヤー事業部〕 ●官庁・メーカー・他 日本放送協会 / 民間放送会社 / 各大学 / アンリツ(株) / 池上通信機(株) / (株)イチネンジコーテック / ＳＭＣ(株) / ＮＥＣネッツエスアイ(株) / ＮＥＣプラットフォームズ(株) / (株)オーバル / (株)太田治工 / OKIネクステック(株)/ (株)加藤電気工業所 / ガリレイパネルクリエイト(株) / キーサイト・テクノロジー・インターナショナル（同） / 紀州技研工業(株) / 京セラ（株） / (株)コンテック / 山清電気(株) / サンデン・リテールシステム(株) / (株)ジェミオ / 鈴茂器工(株) / セイコーインスツル(株) / ダイヤ技研(株) / 大和冷機工業(株) / 電熱産業(株) / 東芝トレーディング(株) / 中野冷機(株) / 日本電気(株) / パナソニック(株)アプライアンス社 / (株)日立製作所 / 日立国際電気 / ヒロセ電機(株) / ＰＨＣ(株) / (株)福島ニチアス / 富士フイルムヘルスケア(株) / (株)ミスミ / 横河電機(株) / (株)",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "主な取引先",
+    "value": "パナソニック㈱、SMC㈱ アンリツ㈱、富士フィルム ヘルスケアマニュファクチャリング（株）",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "インターワイヤードは地球環境に配慮した電線・ケーブル・ヒーター線の設計・製造・販売・及び",
+    "url": "https://www.interwired.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "インターワイヤードで製造している電線は、時代の変化とともに絶えず進化しています",
+    "url": "https://www.interwired.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "インターワイヤードで製造している電線は、時代の変化とともに絶えず進化しています",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "電線・ケーブル・ヒーター線・光ファイバー類の製造・加工・販売",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネットを利用した市場調査 DIMSDRIVE の運営",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "岩手胆沢工場（電線・ケーブル・ヒーター線・ロードヒーター製造）",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Webページ制作用素材集CD-ROM 「WEB TOOL」企画・販売",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "DIMSDRIVE(Direct Internet Marketing Service)運営開始",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "企業情報データベース「Do-NET」運営開始",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入取引先、協力工場、販売特約店その他販売パートナーに対し、常に対等・公正な立場で 接し、関係法令および契約に従って、誠実な取引を行ないます",
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造物責任法、電気用品安全法をはじめ関連諸法、ならびに国内・国外の規格を遵守し、 製品の安全性に充分配慮いたします",
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、他社の企業秘密を不正に使用し、または他人の商品・営業表示の無 断使用や模倣品の製造販売等により、他社の信用とお客様からの信用を損なうような営業 活動は行ないません",
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社、お客様、購入先、販売パートナーその他の取引先、競争会社等の情報やノウハウ等 の秘密情報を目的以外に使用いたしません",
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "pass": 1
+   },
+   {
+    "quote": "ケーブル製造、ハーネス加工、検査工程における見える化の強化",
+    "url": "https://www.interwired.co.jp/about/hinshitu.html",
+    "pass": 1
+   },
+   {
+    "quote": "（共通ITシステムの活⽤により、サプライチェーン全体での情報共有を促進し、より⼀層の業務効率化と中小受託事業者の負担軽減に努めます",
+    "url": "https://www.interwired.co.jp/about/partnership.html",
+    "pass": 1
+   },
+   {
+    "quote": "発注⽅法の改善、対価の決定の⽅法の改善、代金の⽀払⽅法の改善、型等に係る取引条件の改善、知的財産の保護及び取引の適正化等を含む委託事業者と中小受託事業者との望ましい取引慣行（受託中小企業振興法に基づく「振興基準」）を遵守し、取引先とのパートナーシップ構築の妨げとなる取引慣行や商慣行の是正に積極的に取り組みます",
+    "url": "https://www.interwired.co.jp/about/partnership.html",
+    "pass": 1
+   },
+   {
+    "quote": "受託中小企業振興法に基づく「振興基準」の内容を理解した上で宣⾔します",
+    "url": "https://www.interwired.co.jp/about/partnership.html",
+    "pass": 1
+   },
+   {
+    "quote": "高速通信や高性能半導体製造などの先端技術と共に歩む",
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体の製造装置など、私たちの製品は様々な先端技術の場",
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ケーブル製造、ハーネス加工、検査工程、生産、品質管",
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "毎月、管理職を交えて製造設備周りの安全点検を行って",
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "〔職場紹介、 90 字程度〕",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "造、ワイヤリングハーネスの製造",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "お客様のご要望に合わせた各種電線・ケーブルを、国内２工場及び海外協力工場で生産しています",
+    "url": "https://www.interwired.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に合わせた各種電線・ケーブルを国内２工場及び海外協力工場で生産しています",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "機器用配線材(AWM)(E46759)：岩手胆沢工場",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "フレキシブルコード(E43043)：岩手胆沢工場",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤリングハーネス(E114210)：岩手胆沢・桐生工場",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "桐生工場（ヒーター線加工・ワイヤーハーネス）",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "岩手胆沢工場（電線・ケーブル・ヒーター線・ロードヒーター製造）",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "飯田通商(株) / 石渡電気(株) / (株)イズマサ / エレマテック(株) / 岡本無線電機(株) / 海光電業(株) / 春日技研電機(株) / 鐘通(株) / (株)協電 / 光昭(株) / (株)互光 / サンワテクノス(株) / (株)三誠 / (株)スミトロニクス / 泉州電業(株) / 第一電材(株) / ダイトロン(株) / 太平電機(株) / 中央電材(株) / 千代田機工(株) / 千代田電子機器(株) / (株)ニッショウ / 日本電計(株) / 平野通信機材(株) / 福電資材(株) / 富士電工(株) / 不動産業(株) / 穂高電子(株) / 緑屋電気(株) / 緑屋テクノ(株) / 菱電商事(株) / 日川電機(株) / (株)高文 / 塩田電線(株) / 洋光電子(株) / (株)ユウデン/ (株)オリナス / ノマ電気(株)",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "一般消費材メーカー/耐久消費財メーカー/広告代理店 など",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "岩手胆沢工場・桐生工場 ISO14000取得",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "（東京三菱銀行保証付及び適格機関投資家限定）",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "（みずほ銀行保証付及び適格機関投資家限定）",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "（三井住友銀行保証付及び適格機関投資家限定）",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "購入取引先、協力工場、販売特約店その他販売パートナーに対し、常に対等・公正な立場で 接し、関係法令および契約に従って、誠実な取引を行ないます",
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人情報保護方針および個人情報管理規定を遵守するとともに、プライバシーマーク (JISQ15001)の精神に則り、社員、顧客、その他関係する他社の社員の個人情報を、業務 以外の目的での収集および利用はいたしません",
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズと期待、並びに当社製品への法規制を把握して、お客様の要求する仕様を十分満足する技術と製品を提供することにより、「顧客満足」の実現を図る",
+    "url": "https://www.interwired.co.jp/about/hinshitu.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターワイヤード株式会社は、すべての事業所において従業員の健康づくりに取り組み、東日本電線工業健康保険組合から「健康優良企業」のゴールド認定を受けました",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "quote": "東日本電線工業健康保険組合 - 健康企業宣言",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "quote": "岩手胆沢工場では、岩手県より企業、医療保険者と連携して働き盛り世代の健康づくりを推進する「いわて健康経営認定事業所」の認定を受けました",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "quote": "5G関連装置や工場の自動化に関わるDX関連企業、また高性能",
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(冷房２８℃ 暖房２０℃)にし、消費電力の削減を図り、CO2排出量の低減及び地球温暖化防",
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工場内では、ビニル押出機で使用する水を循環利用し、",
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 インターワイヤード株式会社岩手胆沢工場",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所在地(工場)奥州市胆沢若柳字出店 2-1",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "従業員数 94 名(岩手胆沢工場 36 名",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・OJT による教育により、未経験者も安心して業",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（プライム）飲料メーカー（グループ125社）",
+    "url": "https://www.dims.ne.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "（プライム）医薬品メーカー（グループ会社4社）",
+    "url": "https://www.dims.ne.jp/case/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金1億円に増資",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "資本金 10,000 万円 ／ 設立 1919 年 9 月",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "健康経営優良法人2021認定",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2022年認定",
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターワイヤード株式会社は、すべての事業所において従業員の健康づくりに取り組み、東日本電線工業健康保険組合から「健康優良企業」のゴールド認定を受けました",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人2022認定",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "quote": "※健康経営優良法人認定制度とは、地域の健康課題に即した取組や日本健康会議が進める健康増進の取組をもとに、 特に優良な健康経営を実践している大企業や中小企業等の法人を顕彰する制度です",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "quote": "岩手胆沢工場では、岩手県より企業、医療保険者と連携して働き盛り世代の健康づくりを推進する「いわて健康経営認定事業所」の認定を受けました",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "※健康経営優良法人認定制度とは、地域の健康課題に即した取組や日本健康会議が進める健康増進の取組をもとに、 特に優良な健康経営を実践している大企業や中小企業等の法人を顕彰する制度です",
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "pass": 1
+   },
+   {
+    "quote": "発注⽅法の改善、対価の決定の⽅法の改善、代金の⽀払⽅法の改善、型等に係る取引条件の改善、知的財産の保護及び取引の適正化等を含む委託事業者と中小受託事業者との望ましい取引慣行（受託中小企業振興法に基づく「振興基準」）を遵守し、取引先とのパートナーシップ構築の妨げとなる取引慣行や商慣行の是正に積極的に取り組みます",
+    "url": "https://www.interwired.co.jp/about/partnership.html",
+    "pass": 1
+   },
+   {
+    "quote": "受託中小企業振興法に基づく「振興基準」の内容を理解した上で宣⾔します",
+    "url": "https://www.interwired.co.jp/about/partnership.html",
+    "pass": 1
+   },
+   {
+    "quote": "インターワイヤード 株式会社／品川区中小企業支援サイト",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | インターワイヤード 株式会社 — 会社概要 | インターワイヤード 株式会社 インターワイヤード株式会社 https://www.interwired.co.jp > about",
+    "url": "https://www.interwired.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式 会社 岩手胆沢工場 — インターワイヤード 株式 会社 岩手胆沢工場 岩手県 PDF https://www.pref.iwate.jp > _res > interwaired060514",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式 会社 - 品川区中小企業支援サイト — インターワイヤード 株式 会社 - 品川区中小企業支援サイト 品川区中小企業支援サイト https://www.mics.city.shinagawa.tokyo.jp > cgi-bin > detail",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 、ベトナム現地法人を 設立 [日系] — インターワイヤード 、ベトナム現地法人を 設立 [日系] VIETJOベトナムニュース https://www.viet-jo.com > news > nikkei",
+    "url": "https://www.viet-jo.com/news/nikkei/241128195004.html",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式会社の 会社概要 ・製品情報 - Metoree — インターワイヤード 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/457/",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式会社 の企業情報 | バフェット・コード — インターワイヤード 株式会社 の企業情報 | バフェット・コード バフェット・コード https://www.buffett-code.com > company > dzpcvfgkvj",
+    "url": "https://www.buffett-code.com/company/dzpcvfgkvj/",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式会社 - 品川区中小企業支援サイト — インターワイヤード 株式会社 - 品川区中小企業支援サイト 品川区中小企業支援サイト https://www.mics.city.shinagawa.tokyo.jp > cgi-bin > detail",
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式会社の会社概要・製品情報 - Metoree — インターワイヤード 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/457/",
+    "pass": 3
+   },
+   {
+    "quote": "J-GoodTech [ インターワイヤード 株式会社] | Appeal — J-GoodTech [ インターワイヤード 株式会社] | Appeal J-GoodTech https://jgoodtech.smrj.go.jp > corp > info",
+    "url": "https://jgoodtech.smrj.go.jp/corp/info/JC0000000039976?preview=false&createdLocale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "電線、ヒーター線、ネットリサーチ： インターワイヤード株式 ... — 電線、ヒーター線、ネットリサーチ： インターワイヤード株式 ... インターワイヤード株式会社 https://www.interwired.co.jp",
+    "url": "https://www.interwired.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード株式 会社の会社概要・製品情報 - Metoree — インターワイヤード株式 会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/457/",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード株式 会社（東京都）の会社概要・役員 — インターワイヤード株式 会社（東京都）の会社概要・役員 Compalyze https://compalyze.co.jp > 企業検索 > リサーチ・調査",
+    "url": "https://compalyze.co.jp/company/8010701003672",
+    "pass": 3
+   },
+   {
+    "quote": "電線、ヒーター線、ネットリサーチ： インターワイヤード 株式 ... — 電線、ヒーター線、ネットリサーチ： インターワイヤード 株式 ... インターワイヤード株式会社 https://www.interwired.co.jp",
+    "url": "https://www.interwired.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "調査 事例 / 実績｜ インターワイヤード - DIMSDRIVE — 調査 事例 / 実績｜ インターワイヤード - DIMSDRIVE DIMSDRIVE https://www.dims.ne.jp > case",
+    "url": "https://www.dims.ne.jp/case/",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式会社 岩手胆沢工場 - ジョブカフェ奥州 — インターワイヤード 株式会社 岩手胆沢工場 - ジョブカフェ奥州 ジョブカフェ奥州 https://www.jobcafe-o.com > kigyou > インターワイヤー...",
+    "url": "https://www.jobcafe-o.com/kigyou/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E5%B2%A9%E6%89%8B%E8%83%86%E6%B2%A2%E5%B7%A5%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式会社岩手胆沢工場 — インターワイヤード 株式会社岩手胆沢工場 岩手県 PDF https://www.pref.iwate.jp > _res > interwaired060514",
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "インターワイヤード 株式会社 岩手胆沢工場 - 奥州市 — インターワイヤード 株式会社 岩手胆沢工場 - 奥州市 奥州市公式ホームページ https://www.city.oshu.iwate.jp > kigyoshien > kigyo",
+    "url": "https://www.city.oshu.iwate.jp/kigyoshien/kigyo/21/578.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.interwired.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.interwired.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.interwired.co.jp/about/enkaku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.interwired.co.jp/about/kihan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.interwired.co.jp/about/hinshitu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.interwired.co.jp/about/kenko.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.interwired.co.jp/about/partnership.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.interwired.co.jp/assets/pdf/about/sdgs.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/dzpcvfgkvj/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.istellartech.com/news/releases/11034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/457/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dims.ne.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "インターワイヤード 会社概要 資本金 設立",
+   "results": [
+    "https://www.interwired.co.jp/about/",
+    "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "https://www.viet-jo.com/news/nikkei/241128195004.html",
+    "https://metoree.com/companies/457/",
+    "https://doda.jp/DodaFront/View/Company/j_id__00001105192/",
+    "https://entori.jp/interwired",
+    "https://www.jobcafe-o.com/kigyou/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E5%B2%A9%E6%89%8B%E8%83%86%E6%B2%A2%E5%B7%A5%E5%A0%B4",
+    "https://www.interwired.co.jp/about/enkaku.html",
+    "https://www.interwired.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "インターワイヤード 事業内容 売上",
+   "results": [
+    "https://www.buffett-code.com/company/dzpcvfgkvj/",
+    "https://www.interwired.co.jp/about/",
+    "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "https://metoree.com/companies/457/",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000039976?preview=false&createdLocale=ja_JP",
+    "https://compalyze.co.jp/company/8010701003672",
+    "https://www.dims.ne.jp/case/",
+    "https://www.wirecable-sales.com/makers/view/44",
+    "https://doda.jp/DodaFront/View/Company/j_id__00001105192/",
+    "https://jobcatalog.yahoo.co.jp/company/2003104716/information/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "インターワイヤード 資金調達 株主",
+   "results": [
+    "https://www.istellartech.com/news/releases/11034",
+    "https://www.interwired.co.jp/",
+    "https://metoree.com/companies/457/",
+    "https://compalyze.co.jp/company/8010701003672",
+    "https://www.nikkei.com/article/DGXZQOUC177M50X11C24A2000000/",
+    "https://lp.startup-db.com/media/articles/funding-ranking-202303",
+    "https://toyokeizai.net/articles/-/908755?display=b",
+    "https://initial.inc/companies/A-42477",
+    "https://prtimes.jp/main/html/rd/p/000000024.000058890.html",
+    "https://irbank.net/インターワイヤード株式会社"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "インターワイヤード 導入事例",
+   "results": [
+    "https://www.interwired.co.jp/",
+    "https://www.dims.ne.jp/case/",
+    "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "https://www.jobcafe-o.com/kigyou/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E5%B2%A9%E6%89%8B%E8%83%86%E6%B2%A2%E5%B7%A5%E5%A0%B4",
+    "https://metoree.com/companies/457/",
+    "https://life-engineer.tech/career-change/article/interwired",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000YqZXh",
+    "https://www.city.oshu.iwate.jp/kigyoshien/kigyo/21/578.html",
+    "https://www.irc-web.co.jp/casestudies",
+    "https://www.allied-telesis.co.jp/case-list/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "インターワイヤード 主要取引先",
+   "results": [
+    "https://www.interwired.co.jp/about/",
+    "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/071/634/interwaired060514.pdf",
+    "https://www.city.oshu.iwate.jp/kigyoshien/kigyo/21/578.html",
+    "https://life-engineer.tech/career-change/article/interwired",
+    "https://metoree.com/companies/457/",
+    "https://www.jobcafe-o.com/kigyou/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%E5%B2%A9%E6%89%8B%E8%83%86%E6%B2%A2%E5%B7%A5%E5%A0%B4",
+    "https://entori.jp/interwired",
+    "https://www.ipros.com/company/detail/75/",
+    "https://www.interwired.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com インターワイヤード",
+   "results": [
+    "https://note.com/ajinomotopark617/n/ncaf44eacf6e0",
+    "https://note.com/ak_wired_walker/n/n3f5d74e01dcf",
+    "https://note.com/ak_wired_walker/n/n44cd3fecdbbd",
+    "https://note.com/crow477/n/n81cc2840e154",
+    "https://note.com/gamewagashi/n/n58171ad37be9?hl=en",
+    "https://note.com/ak_wired_walker/m/mf0f8fa818b50/archive/2026-10",
+    "https://note.com/ak_wired_walker/m/mf0f8fa818b50/hashtag/F1",
+    "https://note.com/mental_fit/n/nc62a4a9bf03f",
+    "https://note.com/trang_1985/n/na39c30b245e2",
+    "https://note.com/neo_tech_world/n/nd487a2329855"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com インターワイヤード",
+   "results": [
+    "https://x.com/ivanburazin/status/2115913817834090698",
+    "https://x.com/rwang07/status/1933521841357803571",
+    "https://x.com/mtc_sound/status/1326764630480478212",
+    "https://x.com/machiday13/status/2118564475955814412",
+    "https://x.com/WIRED/status/2116681743713378399?lang=ar",
+    "https://x.com/TasukuMizuno/highlights",
+    "https://x.com/kimmonismus/status/2066785654495752337",
+    "https://x.com/defnotbeka/status/2115873616210669932",
+    "https://x.com/VedantKalore/status/1697882478718206065",
+    "https://about.x.com/en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com インターワイヤード",
+   "results": [
+    "https://jp.linkedin.com/in/tullu-miah-md-b28914402",
+    "https://jp.linkedin.com/in/kurihara",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%A0%E3%81%AE%E5%B0%86%E6%9D%A5%E5%B8%82%E5%A0%B4%E5%8F%8E%E7%9B%8A%E3%81%A8%E6%88%90%E9%95%B7%E7%8E%87%E3%81%AF%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr46%E3%81%A8%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-yougov--yphke",
+    "https://www.linkedin.com/pulse/indias-senior-ic-crisis-what-were-actually-doing-mohit-saxena-kjrlc",
+    "https://www.linkedin.com/in/andywhite3",
+    "https://uk.linkedin.com/in/tmamtora",
+    "https://jp.linkedin.com/company/broadcom/jobs",
+    "https://www.linkedin.com/company/wiredme",
+    "https://jp.linkedin.com/pulse/wired-growth-high-stakes-world-semiconductor-pavqc?tl=ja"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com インターワイヤード",
+   "results": [
+    "https://www.facebook.com/groups/916automarketplace/posts/28786592107707475/",
+    "https://www.facebook.com/baltimoreravens/videos/i-aint-got-that-in-my-game-wired-httpswwwyoutubecomwatchvwqgnurllligfeatureyoutu/2111062846114729/",
+    "https://www.facebook.com/HaltechEngineManagement/posts/haltechs-ic-7-obd-ii-digital-dash-fits-like-a-glove-in-this-classic-caddilac-wir/3116194925171584/",
+    "https://www.facebook.com/groups/icom.ic7300.mk2.users/posts/897131012665848/",
+    "https://www.facebook.com/groups/12699105116/posts/10166627438240117/",
+    "https://www.facebook.com/BMRSWired/",
+    "https://www.facebook.com/gauginggadgets/videos/how-to-connect-wired-headphones-to-iphone-step-by-step/2194860651066035/",
+    "https://www.facebook.com/groups/12699105116/posts/10165708531355117/",
+    "https://www.facebook.com/groups/142293734462468/posts/805248154833686/",
+    "https://www.facebook.com/インターワイヤード-122141581187826/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "インターワイヤード note 社長",
+   "results": [
+    "https://www.interwired.co.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000YqZXh",
+    "https://www.mics.city.shinagawa.tokyo.jp/cgi-bin/recruit.php/1/detail/75",
+    "https://life-engineer.tech/career-change/article/interwired",
+    "https://jinjibu.jp/corporate/interwired/",
+    "https://metoree.com/companies/457/",
+    "https://syukatsu-kaigi.jp/companies/119523/word_mouths",
+    "https://www.atengineer.com/pr/interwired/company",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.interwired.co.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "インターワイヤード X 投稿",
+   "results": [
+    "https://www.interwired.co.jp/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000YqZXh",
+    "https://www.hodaka.co.jp/product_maker/entry3838",
+    "https://metoree.com/companies/457/",
+    "https://www.hiranotsushin.jp/maker/125.html",
+    "https://jinjibu.jp/corporate/interwired/",
+    "https://www.city.oshu.iwate.jp/kigyoshien/kigyo/21/578.html",
+    "https://www.interwired.co.jp/electricwire/",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://help.x.com/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部10頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部10頁・検索11回）"
+ }
+}

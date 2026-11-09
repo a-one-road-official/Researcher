@@ -1,0 +1,672 @@
+{
+ "name": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料）",
+ "en": "3D printing material official price list per kg filament resin metal powder OEM vs open material",
+ "aliases": [
+  "3Dプリンター 材料 価格表 kg",
+  "フィラメント 公式 価格 kg単価",
+  "金属粉末 価格 kg 積層造形",
+  "レジン 価格 L 光造形 公式"
+ ],
+ "context": "価格・一次",
+ "kind": "market",
+ "researched_at": "2026-11-09T08:59:27.106809+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/12_acqdeck/02.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/_Reports/02/2024/c8227e082bce3911/us_scallops.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nedo.go.jp/content/800020391.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://researchmap.jp/read0012271/misc/12301101/attachment_file.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://release.nikkei.co.jp/attach_file/0501837_02.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.japanmetaldaily.com/articles/-/250194",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jisf.or.jp/business/standard/jss/documents/KAKAKU.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.okasan.co.jp/products/macro-exchange/oks_261106/index.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.loc.gov/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kouri/doukou/zuhyou/kubu_chouki.xls",
+    "status": "ok",
+    "method": "table"
+   },
+   {
+    "url": "https://www.city.suginami.tokyo.jp/documents/1541/bousaiyouhinassennogoannai2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.skymark.co.jp/ja/company/investor/120131_press_fares_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/13_131206/4907579290084.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://koibotaru.jp/common/docs/market2020_1220.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cecile.co.jp/site/cmdtyinfo/stock/StockSrv.jsp?ctlgno=8171&appno=252132&micd=67111",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.okasan.co.jp/products/macro-exchange/oks_261106_4/index.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.alaskaair.com/?srsltid=AYCX9vJ0VlfvJXA13W0tOdz3mI1MkKwwz0vBYFL6gRPxnHCtle_nbpWv",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://image.trusco-sterra2.com/pdf/ganyu_english/NH11_5166__GYE.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.evaair.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gazaihanbai.jp/products/detail/80689",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketenterprise.co.jp/ir/upload_file/m000-/140120160823480609.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rosenka.nta.go.jp/main_r08/common/js/pdfjs/web/viewer.html?file=/main_r08/osaka/hyogo/prices/pdf/72015.pdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nkkk.or.jp/wp-content/themes/nihonkaijikentei/pdf/research_report10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/13_0829_html/13_0829_html06.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gazaihanbai.jp/products/detail/product_id/48020.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.komeri.com/include_html/commodities_insert/koukoku/19_rinrei/09.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.goope.jp/33582/220307104309-6225632d67425.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ja-shinmiyagi.or.jp/wp/wp-content/uploads/2026/05/081d6e4af7142eaa21eb7d5b074e8c8f.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://market.us/report/3d-printing-metal-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/3d-printing-material-market-102296",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jlc3dp.com/blog/3d-printing-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://additiveplus.com/how-much-does-3d-printing-really-cost-a-complete-breakdown-for-beginners/?srsltid=AYCX9vIlY2dEdBWXsq2723dBvk-l6jn58_9oEgsNrNX_9yNUqg0rxGLz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/how-much-does-3d-printing-really-cost-a-complete-breakdown-for-beginners/?srsltid=AYCX9vIUVDYXdnHdW_yOnXn63irSG4mq-u5Gy5UiTbpWyVks80PwRIne",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprintcalc.no/guides/material-costs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/blog/3d-printing-materials/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） 市場規模 CAGR",
+   "results": [
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/12_acqdeck/02.html",
+    "https://www.jetro.go.jp/ext_images/_Reports/02/2024/c8227e082bce3911/us_scallops.pdf",
+    "https://www.nedo.go.jp/content/800020391.pdf",
+    "https://researchmap.jp/read0012271/misc/12301101/attachment_file.pdf",
+    "https://www.murc.jp/wp-json/wp/v2/economy_reports/93723",
+    "https://release.nikkei.co.jp/attach_file/0501837_02.pdf",
+    "https://corporate.epson/ja/sustainability/external-initiatives/pdf/cdp_2024_jp.pdf",
+    "https://openjicareport.jica.go.jp/pdf/12360210.pdf",
+    "https://www.surugaya.lol/documents/pr/ja/20180329_econtext.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） 価格",
+   "results": [
+    "https://www.japanmetaldaily.com/articles/-/250194",
+    "https://www.jisf.or.jp/business/standard/jss/documents/KAKAKU.pdf",
+    "https://media.okasan.co.jp/products/macro-exchange/oks_261106/index.html",
+    "https://www.loc.gov/",
+    "https://www.stat.go.jp/data/kouri/doukou/zuhyou/kubu_chouki.xls",
+    "https://www.city.suginami.tokyo.jp/documents/1541/bousaiyouhinassennogoannai2026.pdf",
+    "https://www.japanmetal.com/iron-steel-price",
+    "https://www.skymark.co.jp/ja/company/investor/120131_press_fares_1.pdf",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/13_131206/4907579290084.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） 主要メーカー 一覧",
+   "results": [
+    "https://sell.amazon.co.jp/pricing",
+    "https://www.skymark.co.jp/ja/company/investor/120131_press_fares_1.pdf",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/13_131206/4907579290084.html",
+    "https://koibotaru.jp/common/docs/market2020_1220.pdf",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://www.cecile.co.jp/site/cmdtyinfo/stock/StockSrv.jsp?ctlgno=8171&appno=252132&micd=67111",
+    "https://api-docs.deepseek.com/quick_start/pricing/",
+    "https://www.famic.go.jp/ffis/fert/sub6_data/bunatomtable.html",
+    "https://release.nikkei.co.jp/attach_file/0517503_04.pdf",
+    "https://tatumidenzai.jp/archives/307"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） 代理店 日本",
+   "results": [
+    "https://www.loc.gov/",
+    "https://www.japanmetaldaily.com/articles/-/250194",
+    "https://media.okasan.co.jp/products/macro-exchange/oks_261106_4/index.html",
+    "https://www.alaskaair.com/?srsltid=AYCX9vJ0VlfvJXA13W0tOdz3mI1MkKwwz0vBYFL6gRPxnHCtle_nbpWv",
+    "https://image.trusco-sterra2.com/pdf/ganyu_english/NH11_5166__GYE.pdf",
+    "https://www.evaair.com/",
+    "https://www.gazaihanbai.jp/products/detail/80689",
+    "https://www.fda.gov/",
+    "https://www.turkishairlines.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） 規制 保管 危険物",
+   "results": [
+    "http://www.chemeng.titech.ac.jp/private/kikenbutsu.html",
+    "https://www.marketenterprise.co.jp/ir/upload_file/m000-/140120160823480609.pdf",
+    "https://www.rosenka.nta.go.jp/main_r08/common/js/pdfjs/web/viewer.html?file=/main_r08/osaka/hyogo/prices/pdf/72015.pdf",
+    "https://www.nkkk.or.jp/wp-content/themes/nihonkaijikentei/pdf/research_report10.pdf",
+    "https://www.hiroyaku.or.jp/wp-content/uploads/2026/11/20261016yakkyoku-list-2.pdf",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/13_0829_html/13_0829_html06.html",
+    "https://www.asloc.co.jp/pdf/handbook202006.pdf",
+    "https://release.nikkei.co.jp/attach_file/0535487_02.pdf",
+    "https://www.saracenu.com/download/pdf/saracenu-a4.pdf",
+    "https://www.tokyo-gas.co.jp/news/press/20260730-03_01.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） 純正 指定材料 互換",
+   "results": [
+    "https://media.okasan.co.jp/products/macro-exchange/oks_261106/index.html",
+    "https://www.gazaihanbai.jp/products/detail/product_id/48020.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/19_rinrei/09.html",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "https://sell.amazon.co.jp/pricing",
+    "https://api-docs.deepseek.com/quick_start/pricing/",
+    "https://cdn.goope.jp/33582/220307104309-6225632d67425.pdf",
+    "https://www.ja-shinmiyagi.or.jp/wp/wp-content/uploads/2026/05/081d6e4af7142eaa21eb7d5b074e8c8f.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material market size CAGR",
+   "results": [
+    "https://market.us/report/3d-printing-metal-market/",
+    "https://www.marketresearchfuture.com/reports/3d-printing-material-market-1912",
+    "https://www.fortunebusinessinsights.com/3d-printing-material-market-102296",
+    "https://jlc3dp.com/blog/3d-printing-cost",
+    "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "https://additiveplus.com/how-much-does-3d-printing-really-cost-a-complete-breakdown-for-beginners/?srsltid=AYCX9vIlY2dEdBWXsq2723dBvk-l6jn58_9oEgsNrNX_9yNUqg0rxGLz",
+    "https://3dprintcalc.no/guides/material-costs",
+    "https://www.raise3d.com/blog/3d-printing-materials/",
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-materials-market-1295.html",
+    "https://www.precedenceresearch.com/3d-printing-materials-market"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material price per kg",
+   "results": [
+    "https://additiveplus.com/how-much-does-3d-printing-really-cost-a-complete-breakdown-for-beginners/?srsltid=AYCX9vIUVDYXdnHdW_yOnXn63irSG4mq-u5Gy5UiTbpWyVks80PwRIne",
+    "https://jlc3dp.com/blog/3d-printing-cost",
+    "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "https://3dprintcalc.no/guides/material-costs",
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://www.quora.com/How-much-is-3D-metal-printing",
+    "https://www.3dmag.com/3d-printers/how-much-does-3d-printer-filament-cost/",
+    "https://printpal.io/tools/3d-print-cost-calculator",
+    "https://www.rapiddirect.com/blog/how-much-does-3d-printing-cost/",
+    "https://www.3dsourced.com/guides/3d-printing-materials-cost/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material key players",
+   "results": [
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://additiveplus.com/how-much-does-3d-printing-really-cost-a-complete-breakdown-for-beginners/?srsltid=AYCX9vLVPD54VRFgj7jBfcauV1RpK1PY4f1vSHGbO4TUfhvBuVBKf7A2",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "https://jlc3dp.com/blog/3d-printing-cost",
+    "https://facfox.com/docs/kb/3d-printer-material-cost-in-2021-an-overview",
+    "https://www.raise3d.com/blog/3d-printing-materials/",
+    "https://qidi3d.com/blogs/news/3d-printer-filament-pricing-cost-factors?srsltid=AYCX9vI4C0V85X5VLrtCQbL4ygk-WmYvDgSmbs_A7JZObNVxsgMIM4lV",
+    "https://www.quora.com/What-is-the-typical-price-of-Metal-powders-used-for-3d-printing",
+    "https://www.3dsourced.com/guides/3d-printing-materials-cost/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material distributor Japan",
+   "results": [
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "https://3dprintcalc.no/guides/material-costs",
+    "https://www.reddit.com/r/3Dprinting/comments/16fafbp/what_is_the_cheapest_and_affordable_3d_metal/",
+    "https://sigmafilament.com/bulk-3d-printer-filament/",
+    "https://additiveplus.com/product-category/materials/metal-powders/?srsltid=AYCX9vLJufDeHGqki1mZ8EbNrymNvKz5C6RKjn8Jekp0KiNn4hJMt2LA",
+    "https://qidi3d.com/blogs/news/3d-printer-filament-pricing-cost-factors?srsltid=AYCX9vIkPYyNNN4aZuund3hXd2Be_FbyWxR2KxrMgfuaRDF6RwrPvEqf",
+    "https://www.youtube.com/watch?v=UYwpNU_QV1E",
+    "https://www.3dfilamentprice.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material safety storage regulation",
+   "results": [
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://additiveplus.com/everything-you-need-to-know-about-food-safe-3d-printer-filament/?srsltid=AYCX9vKTWvzXWuKW106U_PZUNM2uAhJcgbTP2n8nvvOFLJfuDzvzVVnC",
+    "https://www.3dmag.com/3d-wikipedia/metal-vs-plastic-3d-printing/",
+    "https://www.raise3d.com/blog/3d-printing-materials/",
+    "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "https://www.makerverse.com/resources/3d-printing-costs/",
+    "https://www.flashforge.com/blogs/news/everything-you-need-to-know-about-3d-print-materials?srsltid=AYCX9vJ7FdMWa8EtFrigxFwRKdQE-vlqP8D7pH66wRtNo2PDrWlqOz0P",
+    "https://extension.okstate.edu/fact-sheets/3-d-printed-parts-for-food-contact",
+    "https://www.cdc.gov/niosh/docs/2020-114/pdfs/2020-114.pdf",
+    "https://www.3dsourced.com/guides/3d-printing-materials-cost/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material closed system open material third-party",
+   "results": [
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://jlc3dp.com/blog/metal-3d-printing-cost",
+    "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "https://facfox.com/docs/kb/3d-printer-material-cost-in-2021-an-overview",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "https://additiveplus.com/what-material-is-used-for-3d-printing-a-complete-guide-to-3d-printing-materials/?srsltid=AYCX9vKFF4715XE2leqKjgUAGYrs3IbUfAh-SaWhqbbESl4F_KBrcWAX",
+    "https://www.youtube.com/watch?v=UYwpNU_QV1E",
+    "https://inframotion3d.com/metal-3d-printer-cost/",
+    "https://3dprintcalc.no/guides/material-costs",
+    "https://www.3dsourced.com/guides/3d-printing-materials-cost/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material commodity price competition",
+   "results": [
+    "https://additiveplus.com/how-much-does-3d-printing-really-cost-a-complete-breakdown-for-beginners/?srsltid=AYCX9vJrMQ-rabTrNQa9nwIlUTOei9UhcXVXxMM2ls-H1rRj5viHqTfy",
+    "https://jlc3dp.com/blog/3d-printing-cost",
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://www.quora.com/How-much-is-3D-metal-printing",
+    "https://3dprintcalc.no/guides/material-costs",
+    "https://www.reddit.com/r/3Dprinting/comments/13lw50p/how_much_would_the_material_cost_to_3d_print/",
+    "https://www.rapiddirect.com/blog/how-much-does-3d-printing-cost/",
+    "https://www.marketsandmarkets.com/Market-Reports/3d-printing-materials-market-1295.html",
+    "https://printpal.io/tools/3d-print-cost-calculator",
+    "https://estimator.tryar.in/blog/3d-printing-material-cost-comparison"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material technical support parameters",
+   "results": [
+    "https://formlabs.com/blog/3d-printing-materials/",
+    "https://www.simplify3d.com/resources/materials-guide/properties-table/",
+    "https://markforged.com/resources/learn/design-for-additive-manufacturing-metals/metal-additive-manufacturing-introduction/3d-printing-metal-filaments-powders",
+    "https://jlc3dp.com/blog/3d-printing-cost",
+    "https://www.quora.com/What-is-the-typical-price-of-Metal-powders-used-for-3d-printing",
+    "https://additiveplus.com/what-material-is-used-for-3d-printing-a-complete-guide-to-3d-printing-materials/?srsltid=AYCX9vI4R44mHzBiJKJMARGrNoD17v8Rx06JQyDx2roRacTLOfnxTU9V",
+    "https://www.thesteelprinters.com/news/a-guide-to-calculating-the-cost-of-3d-printed-parts",
+    "https://www.youtube.com/watch?v=UYwpNU_QV1E",
+    "https://www.rapiddirect.com/blog/how-much-does-3d-printing-cost/",
+    "https://www.protolabs.com/resources/guides-and-trend-reports/metal-3d-printing-materials-guide/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料）",
+   "results": [
+    "https://note.com/katsuya_swan/n/nbc7a98557c67",
+    "https://note.com/dragonsue/n/naba86369fabb?hl=en",
+    "https://note.com/oikos_music/n/ne2b0bd2afeda",
+    "https://note.com/hirokimiyano/n/n65ce8152cd9e",
+    "https://note.com/humancare1986/n/n760a3f80d7aa",
+    "https://note.com/7_fuku/n/nf0e842c18a19?hl=en",
+    "https://note.com/rf_engineer/n/n998fe5f92ac8",
+    "https://note.com/takakka/n/n9c9f1dd795c6",
+    "https://note.com/ma3tk/n/nb2ce1364beec?hl=en",
+    "https://note.com/golmokko_vz/n/na1ed528a488f?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料）",
+   "results": [
+    "https://x.com/pgc_clinic_jp/status/2095067156514005277",
+    "https://x.com/yatsushiro0801/status/2082311647130210543",
+    "https://x.com/GEORGIA_JAPAN/status/2110536133087985745",
+    "https://x.com/krewrap_kureha/status/2115004552760139830",
+    "https://x.com/spulse_official/status/1574348583134167040",
+    "https://x.com/wm_online_store/status/1934443311881740526",
+    "https://x.com/pgc_clinic_jp/status/2105945891110871338",
+    "https://x.com/eiga_specials/status/2084836793170747547",
+    "https://x.com/juonthelive/status/2093540192779149788",
+    "https://x.com/soysauce_info/status/2014639243960750565"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料）",
+   "results": [
+    "https://jp.linkedin.com/in/moomindani/ja",
+    "https://www.linkedin.com/in/yanre-wu-549538198",
+    "https://www.linkedin.com/in/katie-shepard-4320b354",
+    "https://ca.linkedin.com/company/pangaea-ventures",
+    "https://www.linkedin.com/in/richardoberreiter",
+    "https://www.linkedin.com/in/jason-catalano-6910434",
+    "https://www.linkedin.com/in/haruka-miyauchi819/en",
+    "https://www.linkedin.com/in/hirotaka-iwaki-276b37126",
+    "https://www.linkedin.com/in/zycki",
+    "https://jp.linkedin.com/in/kaz-matsutani/en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料）",
+   "results": [
+    "https://www.facebook.com/groups/saitama.citizen/posts/4415475705379375/",
+    "https://www.facebook.com/groups/1025560945285639/posts/1639066363935091/",
+    "https://www.facebook.com/TokyoInternationalAirport.Haneda.en/posts/the-world-cant-get-enough-of-kit-katsa-special-kit-kat-shop-will-be-open-for-a-l/756266927914307/",
+    "https://www.facebook.com/groups/1038729983332660/posts/2142737389598575/",
+    "https://www.facebook.com/groups/pokemartph/posts/1376647174681593/",
+    "https://www.facebook.com/groups/405801541288893/posts/1641302464405455/",
+    "https://www.facebook.com/61551494421556/videos/%F0%9D%90%88%F0%9D%90%8A%F0%9D%90%80%F0%9D%90%8A%F0%9D%90%80%F0%9D%90%93%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%80%F0%9D%90%86-%F0%9D%90%94%F0%9D%90%92%F0%9D%90%80-%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%80-%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%8E-%F0%9D%90%92%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%83-%F0%9D%90%92%F0%9D%90%80-%F0%9D%90%93%F0%9D%90%94%F0%9D%90%88%F0%9D%90%86-%F0%9D%90%8D%F0%9D%90%8E%F0%9D%90%81%F0%9D%90%98%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%81%F0%9D%90%91%F0%9D%90%84-01-800-%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%8F%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%88%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%8D-%F0%9D%90%92%F0%9D%90%80-%F0%9D%90%93%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%86-%F0%9D%90%8C/29479966431622034/",
+    "https://www.facebook.com/groups/1394257317592737/posts/3055745211443931/",
+    "https://www.facebook.com/groups/1279723869863691/posts/1819813932521346/",
+    "https://www.facebook.com/EllendaleNazarene/videos/jeremiah-bolich-81726/1646421367001632/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） note 社長",
+   "results": [
+    "https://www.japanmetaldaily.com/articles/-/209981",
+    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "https://release.nikkei.co.jp/attach_file/0512865_03.pdf",
+    "https://www.jetro.go.jp/ext_images/_Reports/02/2024/c8227e082bce3911/us_scallops.pdf",
+    "https://www.sellbot.jp/column/wp-content/uploads/2025/12/260e3716944ad706e30026ce74d9a616.pdf",
+    "https://cdn.goope.jp/33582/220307104309-6225632d67425.pdf",
+    "https://www.mhlw.go.jp/content/10800000/001381289.pdf",
+    "https://www.nedo.go.jp/content/100976125.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2023FY/000007.pdf",
+    "https://note.com/legal_hosta3640/n/n03e85b591367"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AM原料の公式の価格表（kgあたり・本あたり・Lあたり、純正品とオープン材料） X 投稿",
+   "results": [
+    "http://dl.sua.jp/dl/9017-9f0b7462e1e60f01022c13ed30100bd6",
+    "https://media.okasan.co.jp/products/macro-exchange/oks_261106_4/index.html",
+    "https://www.gazaihanbai.jp/products/detail/product_id/48020.html",
+    "https://www.komeri.com/include_html/commodities_insert/koukoku/14_amido/",
+    "https://www.youtube.com/watch?v=Bk0FwQh2oP4",
+    "https://x.com/PRTIMES_BEAUTY/status/1647829431057276928",
+    "https://koibotaru.jp/common/docs/2025_6/0622_koimarket.pdf",
+    "https://aacc-tokyo.com/commodity/66241473831",
+    "https://www.jetro.go.jp/ext_images/_Reports/02/2024/c8227e082bce3911/us_scallops.pdf",
+    "https://x.com/grok/status/2106349018318086481"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "3D printing material official price list per kg filament resin metal powder OEM vs open material site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/metal-3d-printing-cost-dispelling-confusion-wzuue",
+    "https://www.linkedin.com/pulse/from-food-waste-3d-printed-wow-how-we-made-brand-new-printing-pr%C5%AF%C5%A1a-cuyue",
+    "https://www.linkedin.com/in/megan-brooks-american-filament",
+    "https://www.linkedin.com/posts/shiden-y-853b801a1_the-future-of-3d-printing-should-be-accessible-activity-7516122269937541121-QLTP",
+    "https://www.linkedin.com/company/isquaredag/",
+    "https://www.linkedin.com/pulse/what-really-happens-used-3d-printing-filament-spools-ravi-toor-8xtue",
+    "https://www.linkedin.com/posts/michael-pecota_chinese-super-factory-with-400-metal-3d-printers-activity-7515407153684271105-CJKK",
+    "https://cn.linkedin.com/in/julia-lu-697b59146",
+    "https://www.linkedin.com/pulse/how-recycle-pet-water-bottles-3d-printer-filament-filabot-plb0f",
+    "https://www.linkedin.com/pulse/how-much-plastic-waste-3d-printing-really-generating-ravi-toor-mrzle"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "市場規模": "記載なし（読んだ45頁・検索21回）",
+  "成長率": "記載なし（読んだ45頁・検索21回）",
+  "価格": "記載なし（読んだ45頁・検索21回）",
+  "主要企業": "記載なし（読んだ45頁・検索21回）",
+  "安全・規制・保管": "記載なし（読んだ45頁・検索21回）",
+  "品質・証明": "記載なし（読んだ45頁・検索21回）",
+  "装置縛り・オープン材料": "記載なし（読んだ45頁・検索21回）",
+  "売り方・商流": "記載なし（読んだ45頁・検索21回）",
+  "技術支援": "記載なし（読んだ45頁・検索21回）",
+  "コモディティ化": "記載なし（読んだ45頁・検索21回）",
+  "繰り返し性": "記載なし（読んだ45頁・検索21回）",
+  "日本": "記載なし（読んだ45頁・検索21回）"
+ }
+}

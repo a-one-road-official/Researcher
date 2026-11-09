@@ -1,0 +1,1156 @@
+{
+ "name": "GRAND",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・ベストベンチャー100",
+ "researched_at": "2026-11-09T08:59:24.176930+00:00",
+ "official_url": "https://grd.inc/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2017年2月10日",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2017/02",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "坂上 仁",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   },
+   {
+    "label": "代表者名",
+    "value": "坂上　仁",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "58名",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "オフィスビルのエレベーターで広告メディアを運営。エレベーター空間を中心にESG評価UP/管理情報DX化サイネージを設置し、そこで広告を放映し収益化しているビジネスです。これまで設置した台数の合計は1500台を超えておりそれも、丸の内や新宿、品川などSクラス・高品質オフィスビルに設置されています。都心のオフィスビルシェア率圧倒的No.1、市場と事業が非常に大きく成長しており、業界トップクラスのシェアを誇るメディアです。",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "東京都新宿区四谷三丁目3-1 四谷安田ビル6F",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "「第28回 不動産ソリューションフェア＆シンポジウム」に登壇します",
+    "url": "https://grd.inc/",
+    "pass": 1
+   },
+   {
+    "quote": "大手デベロッパー・投資法人・不動産ファンド・不動産管理会社を中心とする不動産プレイヤーをクライアントに、受注拡大戦略及び見込み顧客獲得戦略の立案、社内外進行管理等を中心とする営業活動を実施します",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、「細かい面（＝放映面数/土地面積）を一つにまとめる（＝媒体力UP/再開発など）と、利益が大きくなる」というビジネスモデルである点では、広告と不動産デベロッパーの考え方は似ているところもありました",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "特にわれわれエレベーターメディアのようなハードウェアの設備投資が必要な領域では、そのCFも不動産の考え方に近いところがあります",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "【GRAND調査】保険『手厚く備える』層はGRAND視聴者の49.0%、一般生活者の約1.6倍｜n=1,036",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "この度、「三菱UFJキャピタル株式会社」「Salesforce Ventures」「みずほキャピタル株式会社」「愛知キャピタル株式会社」「East Ventures」を引受先とした第三者割当増資と、金融機関4社による借入を含む総額8.9億円の資金調達を実施しました",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年9月時点でご支援クライアント数も350社を超え、エンタープライズからベンチャー、スタートアップなど業種、規模関係なく幅広いご支援をさせていただいております",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "㈱Grand Centralは営業領域特化型のコンサルティング会社として特異なポジションを築く企業｡DXによるビジネス変革支援への需要が様々な産業や分野で高まる中､当社事業は業務モデルの変革､新規ビジネスや顧客価値の向上など新たな社会インフラを創出する意味で社会的意義も認められ､また､北口社長はじめ若くバイタリティ溢れるメンバーで構成される当社の成長力に期待も込めて投資を決定致しました",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Central 社はセールス領域に特化したコンサルティング＋BPO サービスを一気通貫で提供するというユニークなポジショニングが特徴であり、大企業からスタートアップまで幅広い層のクライアントをご支援されております",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "愛知キャピタルの母体である愛知銀行グループの取引先を含めた東海地域企業への事業展開支援等、今後一層の支援をしてまいりたいと思います",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "今回調達した資金については、営業生産性革命にむけて弊社の保有する膨大なデータと知見を活用した、生成AI業務統合システムの開発、セールスコンサルティングにおける事業ポートフォリオの拡充、クライアントへより高い付加価値を提供可能にするエキスパート人材の採用強化に投資する計画でございます",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、品質至上主義を掲げるセールスコンサルティングのフロントランナーとして、蓄積した知見を顧客企業および社会に還元し、素晴らしいサービスや事業を世の中に届ける架け橋となる「営業革命を体現するインフラカンパニー」を目指します",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "”営業革命”を体現するインフラカンパニーへというミッションを掲げ、クライアントの営業活動における課題を分析し、戦略立案の提案から、勝ちパターンのスキーム構築、営業代行、インハウス化に向けたDX支援や、定着に向けたセールスイネーブルメントなどのソリューションを提供しております",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "東京本社：東京都港区三田3丁目5-27 住友不動産東京三田サウスタワー15F",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例｜GRAND｜No.1オフィスビル広告で新体験を",
+    "url": "https://tokyo-grand.jp/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "オフィスビルメディア「GRAND」の導入事例をご紹介",
+    "url": "https://office.tokyo-grand.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | Grand Centralのサービスサイト | セールスデベロップメント",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "これまでご支援させていただいたお客様の声を掲載しております",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "医療の最前線へ、ゼロからの新規事業展開",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的な顧客基盤を持つトップブランドの営業改革",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "住友不動産東京三田サウスタワー15F",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "デザイナー、ストラテジスト、ファシリテーターのチームが、より良い体験・プロダクト・サービスの創造を通じて、クライアントのインパクト、価値、成長を支援します",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "23カ国・5大陸・300社以上が、それぞれ独自のアイデンティティとナラティブで運営されており、地域間で一貫性のない顧客体験が生まれていた",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Boost The Change：チェンジメーカープラットフォーム",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の店舗で2,200名以上のチェンジメーカーが本部と接続される実用プラットフォームへと成長",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "150,000顧客と3,000従業員のすべてのタッチポイントを再定義",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "スペイン第5位の銀行のコーポレート戦略とオンラインプレゼンスを再定義する必要があった",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "不動産の保有、売買、賃貸及び管理業務",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の成長にコミットする真のコンサルティングとは",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客への貢献×メンバーの育成」でキャリアを切り拓く",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー】元クライアントの私が、入社を決めたGrand Centralの“分析力”とは",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "オフィスビルのエレベーターで広告メディアを運営",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   },
+   {
+    "quote": "エレベーター空間を中心にESG評価UP/管理情報DX化サイネージを設置し、そこで広告を放映し収益化しているビジネスです",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   },
+   {
+    "quote": "運営会社｜GRAND｜No.1オフィスビル広告で新体験を",
+    "url": "https://tokyo-grand.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは誰もが一番気になる情報、売上・利益情報です",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "弊社はエレベーターメディアの会社なので、売上の規模はズバリ視聴者数（もっと正確には、総視聴時間）の多寡に左右されてしまいます",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "そして「仕入と売上のどちらが難しいか？」がそれぞれのビジネスの特性を決定づけるものだと思います",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "TRUSTART、エレベーターメディアを運営するGRAND株式会社にリデータを導入",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "また今までのリードチャネルの主がリファラル（お客様によるご紹介）であり、提供サービスの品質の高さゆえに、業界水準と比較しても高いプロジェクト継続率を誇っておりましたが、",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "人員不足の影響もありセールス課題がない企業はほとんどなく、弊社からも既に多くの投資先をご紹介できていることから当社事業のポテンシャルの高さを実感しております",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容：セールスコンサルティング／セールスDX／セールスイネーブルメント",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "オフィスビルメディア「GRAND」の導入事例をご紹介",
+    "url": "https://office.tokyo-grand.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "自動車関連が中心だったAI受託開発で、食品業界との新規取引を実現",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "勉強会の運営から補助金リストの整理まで、ロボット事業を支えるGrand Centralの伴走支援",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "ブランドが意味を持ち続けるための、望ましく、実現可能で、収益性のある体験を設計します",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "23カ国・5大陸・300社以上が、それぞれ独自のアイデンティティとナラティブで運営されており、地域間で一貫性のない顧客体験が生まれていた",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "デザインの企画、制作及び販売",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "映像、写真、音響及び各種コンテンツの企画、制作及び販売",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "研修、展示会、セミナーその他イベントの企画及び運営",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解剖】「戦略×現場知見」のオーダーメイドで収益構造を変革する、Grand Central Sales Strategy事業部に迫る",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社 について - GRAND株式会社 — 会社 について - GRAND株式会社 GRAND株式会社 https://grd.inc > about",
+    "url": "https://grd.inc/about",
+    "pass": 3
+   },
+   {
+    "quote": "GRAND 株式 会社 （旧：株式 会社 東京） - ミドルの転職 — GRAND 株式 会社 （旧：株式 会社 東京） - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   },
+   {
+    "quote": "運営 会社 ｜ GRAND ｜No.1オフィスビル広告で新体験を — 運営 会社 ｜ GRAND ｜No.1オフィスビル広告で新体験を tokyo-grand.jp https://tokyo-grand.jp > company",
+    "url": "https://tokyo-grand.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略デザインスタジオ | 株式 会社GRAND — 戦略デザインスタジオ | 株式 会社GRAND GRAND. Design for people https://aboutgrand.com > ...",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "GRAND 株式会社 の求人・採用情報/ 会社概要 - HERP Career — GRAND 株式会社 の求人・採用情報/ 会社概要 - HERP Career herp.careers https://herp.careers > careers > companies > tokyoinc",
+    "url": "https://herp.careers/careers/companies/tokyoinc",
+    "pass": 3
+   },
+   {
+    "quote": "タイムマシン経営の裏側、見せます | GRAND 株式会社 — タイムマシン経営の裏側、見せます | GRAND 株式会社 Wantedly https://www.wantedly.com > GRAND株式会社 > ストーリー",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "GRAND 株式会社 - スピーダ スタートアップ情報リサーチ — GRAND 株式会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "会社について - GRAND株式会社 — 会社について - GRAND株式会社 GRAND株式会社 https://grd.inc > about",
+    "url": "https://grd.inc/about",
+    "pass": 3
+   },
+   {
+    "quote": "GRAND 株式会社（旧：株式会社東京） - ミドルの転職 — GRAND 株式会社（旧：株式会社東京） - ミドルの転職 ミドルの転職 https://mid-tenshoku.com > 掲載企業一覧",
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱地所グループ『 GRAND 』2027年1-3月期 媒体資料を公開 — 三菱地所グループ『 GRAND 』2027年1-3月期 媒体資料を公開 PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000098.000047349.html",
+    "pass": 3
+   },
+   {
+    "quote": "GRAND株式 会社 - スピーダ スタートアップ情報リサーチ — GRAND株式 会社 - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Central、8.9億円の 資金調達 を実施 — Grand Central、8.9億円の 資金調達 を実施 株式会社GrandCentral https://grandcentral.jp > news > grand-central、8-9億円の...",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 Grand Centralの 資金調達 ・出資した ... - 資金繰り総研 — 株式 会社 Grand Centralの 資金調達 ・出資した ... - 資金繰り総研 finance.protocol.ooo https://finance.protocol.ooo > ... > 投資家・調達先図鑑",
+    "url": "https://finance.protocol.ooo/equity/company/grand-central/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 ｜ GRAND ｜No.1オフィスビル広告で新体験を — 導入事例 ｜ GRAND ｜No.1オフィスビル広告で新体験を tokyo-grand.jp https://tokyo-grand.jp > case-study",
+    "url": "https://tokyo-grand.jp/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 - GRAND — 導入事例 - GRAND office.tokyo-grand.jp https://office.tokyo-grand.jp > case",
+    "url": "https://office.tokyo-grand.jp/case",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | セールスデベロップメント - Grand Central — 導入事例 | セールスデベロップメント - Grand Central 株式会社GrandCentral https://service.grandcentral.jp > セールスデベロップメント",
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大級のエレベーターメディア「 GRAND 」 — 国内最大級のエレベーターメディア「 GRAND 」 partnersuccess.jp https://partnersuccess.jp > passport > products",
+    "url": "https://partnersuccess.jp/passport/products/558",
+    "pass": 3
+   },
+   {
+    "quote": "GRAND 株式会社|オフィスビルメディア — GRAND 株式会社|オフィスビルメディア GRAND株式会社 https://grd.inc",
+    "url": "https://grd.inc/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略デザインスタジオ | 株式会社 GRAND — 戦略デザインスタジオ | 株式会社 GRAND GRAND. Design for people https://aboutgrand.com > ...",
+    "url": "https://aboutgrand.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY 株式会社 グランド フリート — COMPANY 株式会社 グランド フリート 株式会社 グランドフリート https://grandfleet.jp > company-profile",
+    "url": "https://grandfleet.jp/company-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - GRAND株式会社 — お問い合わせ - GRAND株式会社 GRAND株式会社 https://grd.inc > contact",
+    "url": "https://grd.inc/contact",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GrandCentral — 株式会社GrandCentral 株式会社GrandCentral https://grandcentral.jp",
+    "url": "https://grandcentral.jp/",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "株式会社東京は、2024年10月31日に三菱地所への子会社化＆グループジョインを発表しました！",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のプロダクトは、14社の上場法人の決算説明会資料に登場しています",
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "pass": 3
+   },
+   {
+    "quote": "東京、三菱地所の子会社化",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "東京、第三者割当増資を実施 シリーズAラウンドにて総額3.6億円を調達",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "東京、第三者割当増資を実施 プレシリーズAラウンドとして総額1.2億円を調達",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Central、8.9億円の資金調達を実施 | 株式会社GrandCentral",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Central、8.9億円の資金調達を実施",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "この度、「三菱UFJキャピタル株式会社」「Salesforce Ventures」「みずほキャピタル株式会社」「愛知キャピタル株式会社」「East Ventures」を引受先とした第三者割当増資と、金融機関4社による借入を含む総額8.9億円の資金調達を実施しました",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   },
+   {
+    "quote": "この度の資金調達において、弊社の事業とチームをご評価頂き、背中を押して頂きました投資家の皆様に、厚く御礼を申し上げます",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "三菱地所グループ『GRAND』2027年1-3月期 媒体資料を公開-オフィス3.2万社超・7,000台でBtoB決裁者へリーチ",
+    "url": "https://initial.inc/companies/A-31221",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Central社が提供するサービスは、営業力に課題を抱える大手企業からスタートアップ企業まで幅広い企業に対し、高い価値を提供できるものと確信しております",
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Grand Central広報 - note Grand Central広報 - note note https://note.com > grandcentral",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "[Warhammer The Old World] A Thorough Guide to Grand ... [Warhammer The Old World] A Thorough Guide to Grand ... note https://note.com > ... > アナログゲーム",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Along with the Mishima Grand Festival, CoDoU also opened ... Along with the Mishima Grand Festival, CoDoU also opened ... note https://note.com > ... > 住まい・暮らし",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How I Passed the Grand Archive Judge Test｜石 - note How I Passed the Grand Archive Judge Test｜石 - note note https://note.com > ... > カードゲーム",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "コーポレート｜ GRAND 株式会社 公式 note コーポレート｜ GRAND 株式会社 公式 note note https://note.com > grd",
+    "url": "https://note.com/grd/m/m5350514b9694",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【特別対談】社外取締役・玉塚元一氏が語る、Grand Centralの現在地と次なる戦略——「AI×構造改革」が日本の営業組織を劇的に変える",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "FY6Grand Conferenceイベントレポート“DEEP DIVE-深く、その先へ-”",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトを持たないからこそ、本質に迫れる。急拡大フェーズのGrand Centralで手にする「最高峰の専門性」と手触り感",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "【メンバー対談】異業種から集う強者たち。圧倒的な熱量と「やり切る覚悟」で進化する、Grand Central名古屋オフィスのリアル",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "【オープン社内報】THE GC TIMES6月号",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解剖】「戦略×現場知見」のオーダーメイドで収益構造を変革する、Grand Central Sales Strategy事業部に迫る",
+    "url": "https://note.com/grandcentral",
+    "pass": 3
+   },
+   {
+    "quote": "[Warhammer The Old World] A Thorough Guide to Grand Cathay!! ~All Units Introduction Edition~｜アミタ",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Warhammer The Old World] A Thorough Guide to Grand Cathay!! ~All Units Introduction Edition~",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "0. Purpose of this article",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I would like to thoroughly introduce all the units of the new army that appeared in Warhammer The Old World,",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those who want to know what kind of army Cathay is in terms of gameplay, please see below.",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since all Cathay units can access strong keyword abilities for their troop type in some way,",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "although there are differences in strength within the army, I don't think there are any units that are completely unusable in the game",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". I would like to introduce them in order from the perspective of versatility that can be used in any roster!",
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Along with the Mishima Grand Festival, CoDoU also opened up to the town! | August 2026 CoDoU Mishima Utilization Report Special Issue｜CoDoU みしま",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Along with the Mishima Grand Festival, CoDoU also opened up to the town! | August 2026 CoDoU Mishima Utilization Report Special Issue",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! This is CoDoU Mishima.",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Saturday, August 15th to Monday, the 17th,",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the Mishima Grand Festival",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "was held! In line with the Mishima Grand Festival, CoDoU Mishima held a",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We look back on the hot and fun 3 days from August 15th to 17th, which we created together with many people",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Written by: PR Team, Yamada",
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How I Passed the Grand Archive Judge Test｜石",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How I Passed the Grand Archive Judge Test",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is based on the Grand Archive rules as of October 2025.",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, due to my low English proficiency, there is a possibility of rule misunderstandings.",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you feel there are any potential misunderstandings, I would appreciate it if you could contact me individually.",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will take responsibility for correcting and disseminating the information.",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Purpose of this article",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have obtained the Grand Archive (hereinafter GA) Judge certification, so this is a declaration of my intentions regarding that promotion and my future activities.",
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GRANDのコーポレートチームの記事です。",
+    "url": "https://note.grd.inc/m/m5350514b9694?gs=7c05ec16762739b0eff331db4b095b87",
+    "pass": 3
+   },
+   {
+    "quote": "GRAND｜コーポレート｜GRAND株式会社 公式note",
+    "url": "https://note.grd.inc/m/m5350514b9694?gs=7c05ec16762739b0eff331db4b095b87",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Grand Central Terminal (@GrandCentralNYC) / X Grand Central Terminal (@GrandCentralNYC) / X X https://x.com > GrandCentralNYC",
+    "url": "https://x.com/GrandCentralNYC",
+    "pass": 3
+   },
+   {
+    "quote": "Steve Grand (@SteveGrandMusic) / X Steve Grand (@SteveGrandMusic) / X X https://x.com > SteveGrandMusic",
+    "url": "https://x.com/SteveGrandMusic",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Chess Tour (@GrandChessTour) / X Grand Chess Tour (@GrandChessTour) / X X https://x.com > GrandChessTour",
+    "url": "https://x.com/GrandChessTour",
+    "pass": 3
+   },
+   {
+    "quote": "City of Grand Rapids (@CityGrandRapids) / X City of Grand Rapids (@CityGrandRapids) / X X https://x.com > CityGrandRapids",
+    "url": "https://x.com/CityGrandRapids",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Grand Home Furnishings - LinkedIn Grand Home Furnishings - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/grand-home-furnishings",
+    "pass": 3
+   },
+   {
+    "quote": "Hilton Grand Vacations | LinkedIn Hilton Grand Vacations | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/hilton-grand-vacations",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Circle Corporation | LinkedIn Grand Circle Corporation | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/grand-circle-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Grand Challenges Canada | LinkedIn Grand Challenges Canada | LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/grand-challenges-canada",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Steve Grand | Chicago IL - Facebook Steve Grand | Chicago IL - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/SteveGrandArtist/",
+    "pass": 3
+   },
+   {
+    "quote": "The Grand Opera House, Wilmington DE - Facebook The Grand Opera House, Wilmington DE - Facebook Facebook https://www.facebook.com > ... > Performance Art Theatre",
+    "url": "https://www.facebook.com/thegrandwilmington/",
+    "pass": 3
+   },
+   {
+    "quote": "Simply Grand Kitchen & Creamery | Grandview MO - Facebook Simply Grand Kitchen & Creamery | Grandview MO - Facebook Facebook https://www.facebook.com > ... > Food & beverage > Cafe",
+    "url": "https://www.facebook.com/simplygrandkc/",
+    "pass": 3
+   },
+   {
+    "quote": "The Grand Hotel of Cape May - Facebook The Grand Hotel of Cape May - Facebook Facebook https://www.facebook.com > GrandCapeMay",
+    "url": "https://www.facebook.com/GrandCapeMay/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://grd.inc/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://grd.inc/service",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://grd.inc/about",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mid-tenshoku.com/agency/a-6132/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-grand.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-31221",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-31221",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomoruba.eiicon.net/articles/4749",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-grand.jp/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://office.tokyo-grand.jp/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aboutgrand.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0031866",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grandfleet.jp/company-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/grandcentral",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GrandCentralNYC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SteveGrandMusic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GrandChessTour",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CityGrandRapids",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/grand-home-furnishings",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hilton-grand-vacations",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/grand-circle-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/grand-challenges-canada",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SteveGrandArtist/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thegrandwilmington/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/simplygrandkc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GrandCapeMay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.grd.inc/m/m5350514b9694?gs=7c05ec16762739b0eff331db4b095b87",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "GRAND 会社概要 資本金 設立",
+   "results": [
+    "https://grd.inc/about",
+    "https://mid-tenshoku.com/agency/a-6132/",
+    "https://tokyo-grand.jp/company/",
+    "https://aboutgrand.com/ja/",
+    "https://herp.careers/careers/companies/tokyoinc",
+    "https://www.in-fra.jp/long-internships/companies/4158",
+    "https://grand-kyoto.co.jp/company/",
+    "https://grand2.com/about/",
+    "https://prtimes.jp/main/html/rd/p/000000042.000047349.html",
+    "https://grand-inc.jimdofree.com/会社概要/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "GRAND 事業内容 売上",
+   "results": [
+    "https://www.wantedly.com/companies/tokyo-inc/post_articles/934321",
+    "https://initial.inc/companies/A-31221",
+    "https://grd.inc/about",
+    "https://mid-tenshoku.com/agency/a-6132/",
+    "https://prtimes.jp/main/html/rd/p/000000098.000047349.html",
+    "https://grandcentral.jp/news/companydeck_gc/",
+    "https://media-radar.jp/company1003138.html",
+    "https://compalyze.co.jp/company/3010001181505",
+    "https://www.buffett-code.com/company/daj9yefvg7/",
+    "https://job.mynavi.jp/28/pc/search/corp296037/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "GRAND 資金調達 株主",
+   "results": [
+    "https://initial.inc/companies/A-31221",
+    "https://grandcentral.jp/news/grand-central%E3%80%818-9%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%82%92%E5%AE%9F%E6%96%BD/",
+    "https://tomoruba.eiicon.net/articles/4749",
+    "https://prtimes.jp/main/html/rd/p/000000012.000090699.html",
+    "https://finance.protocol.ooo/equity/company/grand-central/",
+    "https://www.meti.go.jp/policy/newbusiness/houkokusyo/financeguidance.pdf",
+    "https://www.nikkei.com/article/DGXZQOUC1064R0Q4A211C2000000/",
+    "https://central-startup.jp/blog/news/0708-9/",
+    "https://www.jetro.go.jp/biz/areareports/2021/9bc84b6a37231e40.html",
+    "https://ja.wikipedia.org/wiki/Grand_Central"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "GRAND 導入事例",
+   "results": [
+    "https://tokyo-grand.jp/case-study/",
+    "https://office.tokyo-grand.jp/case",
+    "https://service.grandcentral.jp/client-voice/tag/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://partnersuccess.jp/passport/products/558",
+    "https://grd.inc/",
+    "https://media-radar.jp/detail35660.html",
+    "https://www.wantedly.com/companies/tokyo-inc/about",
+    "https://www.youtube.com/watch?v=sFBdKLiYnlM",
+    "https://www.grandit.jp/showcase/",
+    "https://service.grandcentral.jp/client-voice"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "GRAND 主要取引先",
+   "results": [
+    "https://aboutgrand.com/ja/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?nik_code=0031866",
+    "https://grandfleet.jp/company-profile/",
+    "https://grd.inc/contact",
+    "https://grandcentral.jp/",
+    "https://grand-kyoto.co.jp/news/",
+    "https://grand2.com/about/",
+    "https://www.e-grand.co.jp/profile",
+    "https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N3u00000RgbrhEAB",
+    "https://maonline.jp/articles/20260209"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com GRAND",
+   "results": [
+    "https://note.com/grandcentral",
+    "https://note.com/amita_miniature/n/n8186208ffbbe?hl=en",
+    "https://note.com/codou_mishimachi/n/nb79ff6a42983?hl=en",
+    "https://note.com/iiishihsiii/n/nd758ee994fc5?hl=en",
+    "https://note.com/ekazu_10/n/n5462b6a7d4c3?hl=en",
+    "https://note.com/magic_slug3292/n/nbf96b9ac7c36?hl=en",
+    "https://note.com/grandcentral/m/md8fb68911552",
+    "https://note.com/earlysummerspcl/n/ne77e9c676009?hl=en",
+    "https://note.com/nishimurapiano/n/nf17bc7a3e34a?hl=en",
+    "https://note.com/grand_turkey7304"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com GRAND",
+   "results": [
+    "https://x.com/GrandCentralNYC",
+    "https://x.com/SteveGrandMusic",
+    "https://x.com/GrandChessTour",
+    "https://x.com/CityGrandRapids",
+    "https://x.com/opry",
+    "https://x.com/GrandCentralPub",
+    "https://x.com/M_G_Orchestra",
+    "https://x.com/thegrandwilm",
+    "https://x.com/joegrand",
+    "https://x.com/TyoToys/status/2080754395185094778"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com GRAND",
+   "results": [
+    "https://www.linkedin.com/company/grand-home-furnishings",
+    "https://www.linkedin.com/company/hilton-grand-vacations",
+    "https://www.linkedin.com/company/grand-circle-corporation",
+    "https://ca.linkedin.com/company/grand-challenges-canada",
+    "https://be.linkedin.com/in/camille-grand-32b54a111/en",
+    "https://www.linkedin.com/company/the-grand-world",
+    "https://www.linkedin.com/company/grandhotelresort",
+    "https://www.linkedin.com/company/thegrandhealthcaresystem",
+    "https://www.linkedin.com/company/grand-charter",
+    "https://www.linkedin.com/in/david-grand-phd-31b9115"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com GRAND",
+   "results": [
+    "https://www.facebook.com/SteveGrandArtist/",
+    "https://www.facebook.com/thegrandwilmington/",
+    "https://www.facebook.com/simplygrandkc/",
+    "https://www.facebook.com/GrandCapeMay/",
+    "https://www.facebook.com/TheGrandResortWarrenOhio/",
+    "https://www.facebook.com/thegrandcroton/",
+    "https://www.facebook.com/GrandTheatreKY/",
+    "https://www.facebook.com/Grand.Avenue.St.Paul/",
+    "https://www.facebook.com/crystalgrand/",
+    "https://www.facebook.com/TheGrandHotel/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "GRAND note 社長",
+   "results": [
+    "https://note.com/grd/m/m5350514b9694",
+    "https://www.automesseweb.jp/2025/05/21/1818161",
+    "https://www.grandnote.com/about/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.instagram.com/reel/DJ6J01ETfvX/",
+    "https://grd.inc/about",
+    "https://dimension-note.jp/",
+    "https://nipponia.or.jp/blog/3571/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "GRAND X 投稿",
+   "results": [
+    "https://grandxpal.com/",
+    "https://grandxl.org/",
+    "https://www.instagram.com/grandx__official/",
+    "https://x.com/cs_ikebukuro/status/2097494642543710493",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://grandsummoners.com/web/info/20261030_3_tlo7rc3xhzkq/index.html",
+    "https://www.iijmio.jp/device/blu/grandxlte.jsp",
+    "https://grandx-trade.com/",
+    "https://insights.spovisor.com/x-articles-long-form-guide/",
+    "https://www.tnaflix.com/search?what=japanese+grandmother"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）",
+  "表彰・認定の記録": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索11回）"
+ }
+}

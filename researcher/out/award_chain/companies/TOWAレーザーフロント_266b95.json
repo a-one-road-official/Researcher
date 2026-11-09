@@ -1,0 +1,949 @@
+{
+ "name": "TOWAレーザーフロント",
+ "aliases": [],
+ "context": "東京都・資本金900072万円・健康経営優良法人（中小規模）",
+ "researched_at": "2026-11-09T09:03:14.245085+00:00",
+ "official_url": "https://www.towajapan.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒601-8105 京都府京都市南区上鳥羽上調子町5番地 TEL (075)692-0250 (代表) FAX (075)692-0270 拠点情報はこちら",
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1979年4月17日",
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "9,000,720,173円",
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "TOWA 716名・連結 2,211名 (2026年3月31現在)",
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役 会長 (最高経営責任者)",
+    "value": "岡田 博和",
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新素材、樹脂成形技術、微細加工の研究開発によって主力事業を推進するとともに他分野へも進出しています",
+    "url": "https://www.towajapan.co.jp/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は売上げの80%以上が海外顧客であり、世界中の半導体メーカーから支持されています",
+    "url": "https://www.towajapan.co.jp/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロジスティックスにおける取り組み・2026年度上期実績ご紹介",
+    "url": "https://www.towajapan.co.jp/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "利用が普及している指紋認証センサーの製造を支える樹脂封止技術をご紹介",
+    "url": "https://www.towajapan.co.jp/jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘッドアップディスプレイに使用されるような高品質で高精度な光学部品の製造を支える超精密要素技術をご紹介",
+    "url": "https://www.towajapan.co.jp/jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "ECUや各種車載電子デバイスの信頼性を高める樹脂封止技術ならびにモールディング装置についてご紹介",
+    "url": "https://www.towajapan.co.jp/jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の超精密金型技術、EF技術、射出成形技術の適用により開発した浮遊映像レンズとその応用例のご紹介",
+    "url": "https://www.towajapan.co.jp/jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "小型化・薄型化が求められる指紋認証センサーを製造",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは利用が普及している指紋認証センサーの製造を支える樹脂封止技術をご紹介します",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "指紋認証センサーの製造を支える樹脂封止技術",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "MAP成形から難易度の高いMUF成形まで幅広く半導体製造に対応",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "BGAでは多数の端子を設けることができる上、周辺にリードが張り出さないため実装面積を小さくでき、小型化が必要とされる指紋認証センサーの製造に適した方法となっています",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "トランスファ方式のモールディング装置で長年の販売実績がある当社のYPMシリーズは、BGAパッケージを高い生産性で成形するMAP・BGAから難易度が高いMUF成形まで、幅広く半導体製造に対応しているため、指紋認証センサーの製造にも適用できます",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のCPMシリーズは、ウェハレベルの成形に対応したコンプレッション方式のモールディング装置で、FIWLP(Fan In Wafer Level Package)とも呼ばれるWLCSPに加えて、FOWLP(Fan Out Wafer Level Package)の製造にも対応しています",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "PMCは、累計販売台数が400台を超える、コンプレッション方式で高品質モールディングを実現する装置です",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "製造するためにTOWAの超精密要素技術が活用されています",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "ここではヘッドアップディスプレイに使用されるような高品質で高精度な光学部品の製造を支える超精密要素技術をご紹介します",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品の設計から成形までの製造工程を一貫して対応し、精度を上げて誤差を縮小",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品の製造は、設計、金型製作、樹脂成形といったいくつかの工程に分かれます",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "工程を分けて分業することで、それぞれの段階で検査を実施し、設計時の理想的な形状や性能を最終の樹脂成形において高い歩留まりで製造できます",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、光学部品の設計から樹脂成形までの製造工程に一貫して対応しています",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品を製造するためのすべてのプロセスを理解し実践しているため、お客様が求める特性を最大限に発揮する製品を製造することができます",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "また、高機能部品を製造するために長年にわたって続けている設計から生産までの基礎研究、豊富な材料技術、金型設計技術などを元に、お客様が必要とされる特性への最適化やコスト低減のための方策も提案しています",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い分野に生かせる、光学部品製造技術",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品の製造における設計、金型製作、成形のすべての工程に一貫して対応し、半導体やエレクトロニクス関連部品だけでなく、車載部品、バイオ・医療関連部品、光学関連部品、次世代印刷用部品にも当社の技術が生かせると考えています",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "PMCは、累計販売台数が400台を超える、コンプレッション方式で高品質モールディングを実現する装置です",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/case/ecu/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/case/ecu/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車に使用されている電子デバイスを製造するために",
+    "url": "https://www.towajapan.co.jp/jp/case/ecu/",
+    "pass": 1
+   },
+   {
+    "quote": "ここではECUや各種車載電子デバイスの信頼性を高める樹脂封止技術ならびにモールディング装置についてご紹介します",
+    "url": "https://www.towajapan.co.jp/jp/case/ecu/",
+    "pass": 1
+   },
+   {
+    "quote": "PMCは、累計販売台数が400台を超える、コンプレッション方式で高品質モールディングを実現する装置です",
+    "url": "https://www.towajapan.co.jp/jp/case/ecu/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "TOWAのナノ加工技術を駆使して製作した金型を使って、当社子会社の射出成形工場(クリーンルーム環境)で製造した樹脂製レンズです",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "このレンズは、当社のナノ加工技術を駆使して製作した金型を活用し、当社子会社の射出成形工場(クリーンルーム環境)において製造しています",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "PMCは、累計販売台数が400台を超える、コンプレッション方式で高品質モールディングを実現する装置です",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "この原点に立ち戻って、コア・コンピタンスを活かした事業領域に経営資源を集中し、QCD(Quality品質・Cost原価・Delivery納期)の最適化を図り、収益体質を確立してまいります",
+    "url": "https://www.towajapan.co.jp/jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、「薄型化・微細化・多段化」をテーマに技術革新が続く半導体パッケージ技術の未来を見据え、市場ニーズを先取りするソリューション提案型の開発・生産・販売戦略に取り組んでまいります",
+    "url": "https://www.towajapan.co.jp/jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 坂東和彦が30名の社員と共に「超精密金型」および「半導体製造装置」の製造販売を主な事業目的として東和精密工業株式会社を設立",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大日本スクリーン製造株式会社、株式会社堀場製作所との共同出資により株式会社サークを設立",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国南通に東和半導体設備(南通)有限公司が設立され、精技電子(南通)有限公司の金型製造事業を譲受 (同年11月)",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マレーシアペナン州にTOWA TOOL SDN. BHD.が設立され、K-TOOL ENGINEERING SDN. BHD. の金型製造事業を譲受（同年４月）",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密金型製造で培った技術により生まれた当社エンドミル、ドリルは、高精度、耐摩耗性に優れ、長寿命を実現できる製品です",
+    "url": "https://www.towajapan.co.jp/jp/company/exhibition/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルなマーケットを対象とした取引に加え、中古機器の売買に必要な『買取り』『再生』『販売』『サポート』を一貫して行なっています",
+    "url": "https://www.towajapan.co.jp/jp/company/exhibition/",
+    "pass": 1
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "現在は売上げの80%以上が海外顧客であり、世界中の半導体メーカーから支持されています",
+    "url": "https://www.towajapan.co.jp/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてこれからも、“次世代”をフィールドに、顧客ニーズの1/4歩先を見据えたクォーターリードで、新しい未来を創造していきます",
+    "url": "https://www.towajapan.co.jp/jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "銀行ATMなど様々な場面に普及している指紋認証センサー",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "生体認証の中でも指紋認証は手軽なことから、入退室管理、PCやシステムへのログイン、携帯電話やスマートフォン、銀行のATM(現金自動預払機)など、さまざまな場面で利用されています",
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体やエレクトロニクス関連以外に、車載、バイオ・医療関連、光学関連、次世代印刷用部品にも対応",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品の製造における設計、金型製作、成形のすべての工程に一貫して対応し、半導体やエレクトロニクス関連部品だけでなく、車載部品、バイオ・医療関連部品、光学関連部品、次世代印刷用部品にも当社の技術が生かせると考えています",
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "pass": 1
+   },
+   {
+    "quote": "TOWAのナノ加工技術を駆使して製作した金型を使って、当社子会社の射出成形工場(クリーンルーム環境)で製造した樹脂製レンズです",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "このレンズは、当社のナノ加工技術を駆使して製作した金型を活用し、当社子会社の射出成形工場(クリーンルーム環境)において製造しています",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "ATM、コンビニ端末、受付端末、エレベーターボタン、飲食メニュー端末、デジタルサイネージ・広告 、車載インパネ等の様々なディスプレイ製品の活用に期待できます",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "衛生管理の厳しい医療機器や、飲食店・食品工場で使用される端末にも期待できます",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "京都府八幡市に仮設工場を設け操業を開始、同時に東京営業所を開設",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "京都市南区上鳥羽上調子町5番地に本社・工場が完成し移転",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001の認証を本社・工場、京都東事業所において取得",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "佐賀県鳥栖市「鳥栖北部丘陵新都市」内に九州工場(現九州事業所)を新設",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001の認証を九州工場(現九州事業所)において取得",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001の認証を本社・工場において取得",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "└受入教育/通信教育講座/階層別研修/ビジネススキル研修/社内教育",
+    "url": "https://tenshoku.mynavi.jp/company/302398/",
+    "pass": 3
+   },
+   {
+    "quote": "◆通信教育講座 (年2回開講)",
+    "url": "https://tenshoku.mynavi.jp/company/302398/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント株式会社様導入事例 | 株式会社JSOL",
+    "url": "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント株式会社様導入事例",
+    "url": "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "子育てサポート企業として 「くるみん」認定を受けました",
+    "url": "https://www.towajapan.co.jp/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 坂東和彦が「マルチプランジャ成形システム」により、日本発明振興協会と日刊工業新聞社の共催による「第十二回発明大賞(白井発明功労賞)」を受賞",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業者 坂東和彦が「マルチプランジャ方式を採用した成形用金型の開発」により「科学技術庁長官賞」を受賞",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "TOWAのナノ加工技術を駆使して製作した金型を使って、当社子会社の射出成形工場(クリーンルーム環境)で製造した樹脂製レンズです",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "このレンズは、当社のナノ加工技術を駆使して製作した金型を活用し、当社子会社の射出成形工場(クリーンルーム環境)において製造しています",
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "pass": 1
+   },
+   {
+    "quote": "名和精工株式会社(現TOWATEC株式会社)を子会社化",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Micro Component Technology Malaysia Sdn. Bhd.(現TOWAM Sdn. Bhd.)を子会社化",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "TOWA AMERICA,Inc.が設立され、Intercon Tools,Inc.を子会社化",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪証券取引所市場第二部および京都証券取引所に上場",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大日本スクリーン製造株式会社、株式会社堀場製作所との共同出資により株式会社サークを設立",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "オムロンレーザーフロント株式会社(現 TOWAレーザーフロント株式会社)の株式を取得し子会社化",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Fine International Co., Ltd.（現TOWAファイン株式会社）の株式を取得し子会社化",
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TOWAレーザーフロント 株式会社の 会社概要 - マイナビ転職 — TOWAレーザーフロント 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/302398/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式 会社 — TOWAレーザーフロント 株式 会社 TOWA株式会社 https://www.towajapan.co.jp > network > tlft",
+    "url": "https://www.towajapan.co.jp/jp/network/tlft/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式 会社 の求人・中途採用 情報 - doda — TOWAレーザーフロント 株式 会社 の求人・中途採用 情報 - doda doda https://doda.jp > CompanyJobs > j_id__10090537702",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10090537702/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式 会社 - Compalyze — TOWAレーザーフロント 株式 会社 - Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備",
+    "url": "https://compalyze.co.jp/company/8021001015639",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式会社 — TOWAレーザーフロント 株式会社 TOWA株式会社 https://www.towajapan.co.jp > network > tlft",
+    "url": "https://www.towajapan.co.jp/jp/network/tlft/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式会社 - Metoree — TOWAレーザーフロント 株式会社 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/1153/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント の将来性・業績・ 売上 に関する評判 ... — TOWAレーザーフロント の将来性・業績・ 売上 に関する評判 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths",
+    "url": "https://syukatsu-kaigi.jp/companies/82320/post_items/6/word_mouths",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント株式 会社 - Metoree — TOWAレーザーフロント株式 会社 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/1153/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント株式 会社の転職・企業概要 - doda — TOWAレーザーフロント株式 会社の転職・企業概要 - doda doda https://doda.jp > View > Company > j_id__10090537702",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10090537702/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式会社様 導入事例 - JSOL — TOWAレーザーフロント 株式会社様 導入事例 - JSOL 株式会社JSOL https://www.jsol.co.jp > casestudy > 097_tlf",
+    "url": "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント — TOWAレーザーフロント laserfront https://www.laserfront.jp",
+    "url": "https://www.laserfront.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式会社 - Exhibitor Details — TOWAレーザーフロント 株式会社 - Exhibitor Details 高機能素材 Week https://www.material-expo.jp > en-gb > search > directory",
+    "url": "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.towa%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-bc5b0e52-6bed-4bb7-a04d-2d1558a9adaa.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOWAレーザーフロント 株式会社の中途採用・転職・求人情報 — TOWAレーザーフロント 株式会社の中途採用・転職・求人情報 リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/62697/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.towajapan.co.jp/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/case/fingerprint/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/case/headupdisplay/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/case/ecu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/case/fiu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/company/exhibition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/company/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/company/movie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/ir/corporatereport/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.towajapan.co.jp/jp/wp-content/themes/towa/assets/files/cache/83b5907128171122b3a0d69a45d866fa.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.towajapan.co.jp/jp/wp-content/themes/towa/assets/files/8016/9750/9627/company_011.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tenshoku.mynavi.jp/company/302398/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserfront.jp/company-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserfront.jp/company-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserfront.jp/company-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/1153/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserfront.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.towa%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-bc5b0e52-6bed-4bb7-a04d-2d1558a9adaa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laserfront.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TOWAレーザーフロント 会社概要 資本金 設立",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/302398/",
+    "https://www.laserfront.jp/company-data/",
+    "https://www.towajapan.co.jp/jp/network/tlft/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10090537702/",
+    "https://compalyze.co.jp/company/8021001015639",
+    "https://www.r-agent.com/company/62697/",
+    "https://www.towajapan.co.jp/wp-content/themes/towa/assets/download_file/view/1796/220/2019account.pdf",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014BgH8",
+    "https://metoree.com/companies/1153/",
+    "https://houjin.jp/c/8021001015639"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "TOWAレーザーフロント 事業内容 売上",
+   "results": [
+    "https://www.towajapan.co.jp/jp/wp-content/uploads/sites/2/2026/05/2025FY_end_presentation.pdf",
+    "https://www.towajapan.co.jp/jp/network/tlft/",
+    "https://www.laserfront.jp/company-data/",
+    "https://metoree.com/companies/1153/",
+    "https://syukatsu-kaigi.jp/companies/82320/post_items/6/word_mouths",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10090537702/",
+    "https://www.r-agent.com/company/62697/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014BgH8",
+    "https://www.towajapan.co.jp/jp/wp-content/uploads/sites/2/2025/11/2026_secondquarter_presentation.pdf",
+    "https://catr.jp/companies/2bd68/15365"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "TOWAレーザーフロント 資金調達 株主",
+   "results": [
+    "https://www.laserfront.jp/company-data/",
+    "https://www.towajapan.co.jp/wp-content/themes/towa/assets/download_file/view/1796/220/2019account.pdf",
+    "https://metoree.com/companies/1153/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10090537702/",
+    "https://www.omron.com/jp/ja/news/2018/07/c0705.html",
+    "https://kitaishihon.com/company/6315/business",
+    "https://semirai.com/companies/towa-laserfront",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C10000014BgH8&q_no=2",
+    "https://www.laserfront.jp/japanese/%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E4%BA%A4%E4%BB%A3%E3%81%A8%E5%BD%B9%E5%93%A1%E6%96%B0%E4%BD%93%E5%88%B6%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "https://catr.jp/companies/2bd68/15365"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TOWAレーザーフロント 導入事例",
+   "results": [
+    "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "https://www.laserfront.jp/",
+    "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.towa%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-bc5b0e52-6bed-4bb7-a04d-2d1558a9adaa.html",
+    "https://www.r-agent.com/company/62697/",
+    "https://www.towajapan.co.jp/jp/network/tlft/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10090537702/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014BgH8",
+    "https://www.laserfront.jp/implementation-support/",
+    "https://optronics-media.com/news/20260716/110990/",
+    "https://www.laserfront.jp/solution/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "TOWAレーザーフロント 主要取引先",
+   "results": [
+    "https://www.towajapan.co.jp/wp-content/themes/towa/assets/download_file/view/1796/220/2019account.pdf",
+    "https://www.towajapan.co.jp/jp/network/tlft/",
+    "https://www.laserfront.jp/",
+    "https://www.r-agent.com/company/62697/",
+    "https://shikiho.toyokeizai.net/stocks/6315/corporate",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10090537702/",
+    "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "https://metoree.com/companies/1153/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014BgH8",
+    "https://www.towajapan.co.jp/jp/company/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com TOWAレーザーフロント",
+   "results": [
+    "https://note.com/hsho488/n/ncb545083928d",
+    "https://note.com/medicalconsult/n/nd3021f2ebb82",
+    "https://note.com/gpt_study_manga/n/n9c5198160215",
+    "https://note.com/probablyclass1/n/n9b5b650fbd4e",
+    "https://note.com/nicks701/n/nb76787e7369d",
+    "https://note.com/semiconnavi/n/nacd7b0ac49e2?hl=en",
+    "https://note.com/umaki11/n/n7fccc0d9b8e0",
+    "https://note.com/light13tw/n/n49bbd18a8a60?hl=en",
+    "https://note.com/tatsuya_sabato/n/nead8e32b187a?hl=en",
+    "https://note.com/ramen_boxer/n/n18e93b53a72f"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com TOWAレーザーフロント",
+   "results": [
+    "https://x.com/hololivetoday/all",
+    "https://x.com/1p_semicon",
+    "https://x.com/traintv_pr",
+    "https://x.com/CoachWillems",
+    "https://x.com/futtou_ntv",
+    "https://x.com/NASUHAI/status/2010849276390412330",
+    "https://x.com/AuricGoldfnger",
+    "https://x.com/DIGIUSAGI/status/2111281993531216126",
+    "https://x.com/mgrd33/all",
+    "https://x.com/Tora3_Skywalker/status/1928781487169515839"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com TOWAレーザーフロント",
+   "results": [
+    "https://jp.linkedin.com/in/00jota00",
+    "https://jp.linkedin.com/company/sonatype",
+    "https://www.linkedin.com/in/mattheweichner",
+    "https://www.linkedin.com/in/laurennicolebowers",
+    "https://www.linkedin.com/in/beiyi-wang-81969025a",
+    "https://in.linkedin.com/in/bhoomi-gajjar-259890134",
+    "https://www.linkedin.com/in/aiden-long-a7a097320",
+    "https://sg.linkedin.com/in/jose-angelo-olave-98388744",
+    "https://sg.linkedin.com/in/mark-chavez-40b81089",
+    "https://www.linkedin.com/in/bradbrophy"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com TOWAレーザーフロント",
+   "results": [
+    "https://www.facebook.com/jsolcorporation/posts/%E6%9C%9F%E9%99%90%E5%8E%B3%E5%AE%88%E7%8F%BE%E5%A0%B4%E3%81%AB%E5%AF%84%E3%82%8A%E6%B7%BB%E3%81%86it%E3%81%A7%E6%A5%AD%E5%8B%99%E3%82%92%E7%B6%99%E7%B6%9A%E4%BB%95%E5%85%A5%E5%85%88%E3%81%A8%E3%81%AE%E8%B3%BC%E8%B2%B7%E6%A5%AD%E5%8B%99%E3%81%AB%E9%95%B7%E5%B9%B4%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9Fweb-edi%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E7%B5%82%E4%BA%86%E3%81%A8%E3%81%84%E3%81%86%E8%AA%B2%E9%A1%8C%E3%81%AB%E7%9B%B4%E9%9D%A2%E3%81%97%E3%81%9Ftowa%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98js/122194541588541525/",
+    "https://www.facebook.com/hidepone/?locale=ja_JP",
+    "https://www.facebook.com/seaportmaldives/posts/towa-miter-saw-slide-miter-saw-js-1013nprice-4800-call-7900135-or-7622499-angle-/753324906803886/",
+    "https://www.facebook.com/oyado.towa/",
+    "https://www.facebook.com/UCBerkeleyLaw/posts/steve-zieff-78-and-elaine-leitner-know-its-harder-than-ever-to-carve-a-path-towa/1268771355347690/",
+    "https://www.facebook.com/groups/9857072478/posts/10160929429982479/",
+    "https://www.facebook.com/VirginiaLivingMuseum/videos/are-you-a-space-enthusiast-star-gazing-and-laser-night-is-this-saturday-evening-/3055013481523539/",
+    "https://www.facebook.com/AtlantaGladiators/videos/first-of-the-season-and-he-made-it-look-easy-troock/1497367755602420/",
+    "https://www.facebook.com/BelleFacceMediSpa/posts/-meet-the-artemis-t-shape-looking-for-a-non-invasive-way-to-support-body-contour/1106534555081689/",
+    "https://www.facebook.com/hidepone/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "TOWAレーザーフロント note 社長",
+   "results": [
+    "https://www.laserfront.jp/japanese/%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E4%BA%A4%E4%BB%A3%E3%81%A8%E5%BD%B9%E5%93%A1%E6%96%B0%E4%BD%93%E5%88%B6%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "https://www.towajapan.co.jp/jp/network/tlft/",
+    "https://tenshoku.mynavi.jp/company/302398/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014BgH8",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10090537702/",
+    "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "https://www.material-expo.jp/tokyo/ja-jp/blog/article23.html",
+    "https://metoree.com/companies/1153/",
+    "https://compalyze.co.jp/company/8021001015639",
+    "https://keyman-db.smart-letter.com/keymans/702375"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "TOWAレーザーフロント X 投稿",
+   "results": [
+    "https://www.laserfront.jp/",
+    "https://www.towajapan.co.jp/jp/network/tlft/",
+    "https://www.material-expo.jp/osaka/en-gb/search/2026/directory/details.towa%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-bc5b0e52-6bed-4bb7-a04d-2d1558a9adaa.html",
+    "https://metoree.com/companies/1153/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014BgH8",
+    "https://en-hyouban.com/company/10090537702/",
+    "https://www.jsol.co.jp/casestudy/097_tlf.html",
+    "https://syukatsu-kaigi.jp/companies/82320/post_items/6/word_mouths",
+    "https://x.com/kessan_db/status/2059781409586520430",
+    "https://www.youtube.com/@towa4153"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索11回）",
+  "客は誰か": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部9頁・検索11回）"
+ }
+}

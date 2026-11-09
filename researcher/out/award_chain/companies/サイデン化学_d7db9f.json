@@ -1,0 +1,1513 @@
+{
+ "name": "サイデン化学",
+ "aliases": [],
+ "context": "東京都・資本金30000万円・健康経営優良法人（中小規模）;彩の国工場",
+ "researched_at": "2026-11-09T09:02:10.913535+00:00",
+ "official_url": "https://www.saiden-chem.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1940年12月28日",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1940年12月28日",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1940年12月28日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1940年12月28日",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1940年12月28日",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区日本橋本町3-4-7（新日本橋ビル）",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒103‑0023 東京都中央区日本橋本町3-4-7（新日本橋ビル） TEL：03-3279-4401　FAX：03-3279-1780 アクセス JR 神田駅 南口から徒歩7分 JR 新日本橋駅 6番出口から徒歩2分 地下鉄銀座線 三越前駅 A10出口から徒歩3分",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "103-0023",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区日本橋本町3-4-7 新日本橋ビル",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-3279-4401",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "京都府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "北海道",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "熊本県",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社郵便番号",
+    "value": "103-0023",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区日本橋本町3-4-7 新日本橋ビル",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社電話番号",
+    "value": "03-3279-4401",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "福岡県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "徳島県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "神奈川県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "愛知県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都、富山県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "群馬県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒103-0023\n東京都中央区日本橋本町3-4-7 新日本橋ビル",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "長野県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "熊本県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "岡山県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "島根県",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "本社",
+    "value": "東京都\n\t\t\t\t\t\t\t\t\t\t、大阪府",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "東京本社所在地",
+    "value": "東京都中央区日本橋本町3-4-7（新日本橋ビル）",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "3億円",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "3億円",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "3億円",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "3億円",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "３億円",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "籠島嘉隆󠄁",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "籠島 嘉隆",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役",
+    "value": "籠島 嘉隆",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   }
+  ],
+  "主要取引先": [
+   {
+    "label": "主要取引先",
+    "value": "リンテック株式会社 積水化学工業株式会社 王子ホールディングス株式会社 日本ペイントホールディングス株式会社 ライオン株式会社 伊藤忠商事株式会社",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "主な取引先",
+    "value": "リンテック株式会社、積水化学工業株式会社、王子ホールディングス株式会社、 日本ペイントホールディングス株式会社、ライオン株式会社、伊藤忠商事株式会 社、丸紅株式会社ほか",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "主な取引先",
+    "value": "リンテック(株)、積水化学工業(株)、王子ホールディングス(株)、 日本ペイントホールディングス(株)、ライオン(株)、伊藤忠商事(株)、丸紅(株)ほか",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "水性エマルション、溶剤系粘着剤、液状樹脂の開発・製造・販売",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "水性エマルション樹脂、溶剤型樹脂、液状樹脂の製造、販売",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "水性エマルション樹脂、溶剤型樹脂、液状樹脂の製造、販売",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "水性エマルション、溶剤型樹脂、液状樹脂の開発・製造・販売",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "316名（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "312名（2026年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "231億円（2025年3月期）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "234億円（2026年3月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "会社情報｜サイデン化学株式会社｜企業概要・理念・活動紹介",
+    "url": "https://www.saiden-chem.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜サイデン化学株式会社｜所在地・事業内容・沿革",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "水性エマルション、溶剤系粘着剤、液状樹脂の開発・製造・販売",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "粘着・接着・コーティング剤などの機能性材料を開発・製造しています",
+    "url": "https://www.saiden-chem.co.jp/company/strengths/",
+    "pass": 1
+   },
+   {
+    "quote": "サイデン化学株式会社では、この経営理念をもとに、デンプン系接着剤メーカーとして創業以来時代のニーズを先取りし、石油化学の急速な発展を背景に合成樹脂系接着剤、粘着剤、各種コーティング剤など独自の技術を用いた各種機能性樹脂の製造に取組んでおります",
+    "url": "https://www.saiden-chem.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "中でも、主力製品である「サイビノール」は、直接お客様の目に触れることなくとも、あらゆる産業において活用され、皆様のお役に立っていると自負しております",
+    "url": "https://www.saiden-chem.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "地球環境の保全が人類共通の最重要課題の一つであることを認識し、従業員一人一人が「地球に優しい心を持つ」ことを始めとして、当社の主力製品である環境に優しい「合成樹脂エマルション」等を通じて環境問題に取り組み、地球環境の保全に寄与する活動をめざす",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "5. 製造方法の変更により、製造時のCO2やVOC発生の削減に寄与する製品",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "製造過程で発生する臭気について、外部への影響を防ぐために多面的な対策を行っています",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "サイデン化学は「ポリマーを製造している会社で、塗料や粘着剤などいろいろなものをつくっていておもしろそうだ」と思ったことが入社のきっかけです",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学(株)では、デンプン系接着剤メーカーとして創業以来時代のニーズを先取りし、接着剤、粘着剤、塗料用樹脂各種コーティング剤など独自の技術を用いた各種機能性樹脂の製造に取組んでいます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、主力製品である「サイビノール」は、直接お客様の目に触れることなくとも、あらゆる産業において活用され、皆様のお役に立っていると自負しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学(株)の製造部がある東京工場（住所は埼玉県さいたま市桜区大字下大久保字拾石田１２８０－１）はサイデン化学アリーナのすぐ隣に立地しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "水性エマルション樹脂、溶剤型樹脂、液状樹脂の製造、販売",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学は「ポリマーを製造している会社で、塗料や粘着剤などいろいろなものをつくっていておもしろそうだ」と思ったことが入社のきっかけです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "水性エマルション樹脂、溶剤型樹脂、液状樹脂の製造、販売",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "生活に身近なところでは、圧着ハガキに使われている接着剤や、スマホやタブレット画面タッチパネル用粘着剤など、様々な環境にやさしい製品の開発・製造・販売をしているサイデン化学株式会社",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、社内ネットワークを構築して頂いた接点から、USENさんに「G Suite（旧 Google Apps for Work）」をご紹介頂きました",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学株式会社様は、デンプン系接着剤メーカーで、水性エマルション樹脂や溶剤型樹脂、液状樹脂の製造、販売を行っている企業様です",
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "pass": 3
+   },
+   {
+    "quote": "チェリービーでは、サービスや商品のPR動画や企業紹介動画などの企画&提案を行っています",
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、デンプン系接着剤メーカーとして創業以来時代のニーズを先取りし、接着剤、粘着剤、塗料用樹脂各種コーティング剤など独自の技術を用いた各種機能性樹脂の製造に取組んでいます",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、主力製品である「サイビノール」は、直接お客様の目に触れることなくとも、あらゆる産業において活用され、皆様のお役に立っていると自負しています",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "1、製造工場において重合反応作業により各種接着剤・粘着剤・塗料ベース・塗工剤等の製造",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "2、配合工場において配合作業により各種接着剤・粘着剤などの製造",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "3、製造工場において出来上がった製品の包装容器への充填作業",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は一日ごとに異なる製品を製造しています",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "製品によって製造方法も原料も包装容器も異なるため、朝のチームミーティングで作業の進め方を相談し、状況によって、作業方法を提案したり、見直しを行ったり、チームで相談して決めることが出来るため作業がマンネリ化せず毎日充実した仕事を体感することが出来ます",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場は夜勤がなく残業も極めて少ないです",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "当社はチーム単位で製造しているので、個人に仕事が集中せず、チームで協力して就業時間内に仕事が終わるよう心掛けています",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、製造部門と開発部門が協力し、製品設計に向けて連携しています",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、高校生の柔軟な発想や創造性は、新しいアイデアや視点をもたらし、製造現場に革新をもたらす力となっております",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "製造職の従業員から職場の雰囲気の良さやチームワークをもっとPRして欲しいと言われますが、言葉で説明し、理解して貰うのはなかなか難しいと思っております",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "入社4年目・20代・製造職",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "入社5年以上・20代・製造職",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "水性エマルション、溶剤型樹脂、液状樹脂の開発・製造・販売",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "化学工場の製造現場によくあるようなライン製造ではなく、毎日異なる製品を製造しているため、単調な作業にならずに、毎日チームで考えながら仕事をすることが出来るので退屈しません",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "※技能職手当は製造職と工務課に支給される手当になります",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "『PARTNERS in REDS LADIES』では、レッズレディースを支える企業のみなさんの思いをご紹介します",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "当初は澱粉を主原料とした液状合成樹脂の製造からスタートし、その後もさまざまな液状合成樹脂の開発を手がけ、1969年に現在の社名であるサイデン化学株式会社に改称した",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "直接消費者の目に触れることは少ないものの、同社の主力製品「サイビノール」をはじめ、さまざまな製品があらゆる産業で活用されている",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "サイデンテクノロジー社サンフォード工場竣工",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "サイデン・タイランド社第2工場竣工",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "滋賀工場第3工場竣工",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "サイデン・タイランド社第3工場竣工",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "サイデン化学株式会社では、この経営理念をもとに、デンプン系接着剤メーカーとして創業以来時代のニーズを先取りし、石油化学の急速な発展を背景に合成樹脂系接着剤、粘着剤、各種コーティング剤など独自の技術を用いた各種機能性樹脂の製造に取組んでおります",
+    "url": "https://www.saiden-chem.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、従業員は家庭に於いても省エネルギー、省資源、リサイクルに努める",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "地球環境の保全と生態系の保護を配慮し、省エネルギー、省資源、リサイクルを念頭に置き、常に改善に努める",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "「顧客のニーズに迅速、的確に応えることこそが顧客との共存共栄の原点」との基本理念の下に、顧客からの尚一層の信頼を得るために以下の「品質方針」を設定する",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズと期待を、常に半歩先に組み込み、スピーディーに製品を開発する",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "全社員、ひとり一人が、顧客満足を向上させるよう品質目標の達成に努める",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "全工場の品質データをオンラインで集約・管理しています",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "ニーズの先取りから、不具合低減、教育、改善まで",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "すべてのプロセスを「顧客満足」に直結させています",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "省エネルギーや廃棄物削減、労働安全の推進、健康経営の実践などを通じて、持続可能な社会の実現に貢献してまいります",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "1. 環境マネジメントと省エネルギー",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "CO2排出量削減と省エネルギー",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "省エネルギー・省資源・リサイクルを重視し、製品開発から廃棄までの各段階で改善を進めています",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001：2006年取得、現在は2015年版を認証（本社・支店・工場・研究所）",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "省エネルギー設備の導入や運転の最適化を通じて、CO₂排出量の継続的な削減を推進しています",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの複合的な取り組みにより、大幅なエネルギー消費の抑制とCO₂削減を達成し、外部より高い評価をいただいております",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "目標7: エネルギーをみんなにそしてクリーンに",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "再生可能エネルギー活用の一環として、各拠点に太陽光発電システムを導入しています",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "発電状況はモニターで可視化し、エネルギー利用の最適化に役立てています",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "太陽光発電（東京工場は2026年末完成予定）",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "浦和工場での「ノー残業デー（水曜日）」の実施",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "フラスコスケールからパイロットスケール、工場への引き渡しまで、開発者が行うので達成感が得られます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「研究開発こそがメーカーの基本」という企業理念を掲げているだけあり、研究職が働きやすい職場だ",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学(株)では、デンプン系接着剤メーカーとして創業以来時代のニーズを先取りし、接着剤、粘着剤、塗料用樹脂各種コーティング剤など独自の技術を用いた各種機能性樹脂の製造に取組んでいます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 研究開発こそがメーカーの基本",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学(株)の製造部がある東京工場（住所は埼玉県さいたま市桜区大字下大久保字拾石田１２８０－１）はサイデン化学アリーナのすぐ隣に立地しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデンテクノロジー社サンフォード工場竣工",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン・タイランド社 第2工場竣工",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀工場 第3工場竣工",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修、工場研修",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "フラスコスケールからパイロットスケール、工場への引き渡しまで、開発者が行うので達成感が得られます",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「研究開発こそがメーカーの基本」という企業理念を掲げているだけあり、研究職が働きやすい職場だ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデンテクノロジー社サンフォード工場竣工",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン・タイランド社 第2工場竣工",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "滋賀工場 第3工場竣工",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員研修、工場研修",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "（垣内室長）弊社は化学会社でして、ここ浦和工場ではお客様からのオーダーを受け、生産量などを全社の生産部門をコントロールしています",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "特にここ浦和工場は、研究所としての役割も大きく、容量が大きい機密データを取り扱っていることもあり通信速度とセキュリティを重要視する必要がありました",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "※本導入事例に記載されている内容は2015年7月現在のものです",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学株式会社様は、デンプン系接着剤メーカーで、水性エマルション樹脂や溶剤型樹脂、液状樹脂の製造、販売を行っている企業様です",
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "pass": 3
+   },
+   {
+    "quote": "【お客様の声】～「動画が必要な時代」サイデン化学株式会社様より～こちらから",
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業・大学・自治体など、1000本以上の動画制作実績があります",
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、デンプン系接着剤メーカーとして創業以来時代のニーズを先取りし、接着剤、粘着剤、塗料用樹脂各種コーティング剤など独自の技術を用いた各種機能性樹脂の製造に取組んでいます",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、1. 研究開発こそがメーカーの基本 2. 得意先との共存共栄 3. 信用は無限の財産 を企業（基本）理念に研究者の質の向上に努め、①和親協調 ②積極進取 ③社会へのアプローチを社是をして伸展を重ねてきています",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "1、製造工場において重合反応作業により各種接着剤・粘着剤・塗料ベース・塗工剤等の製造",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "2、配合工場において配合作業により各種接着剤・粘着剤などの製造",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "3、製造工場において出来上がった製品の包装容器への充填作業",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "製品が出来るまでの流れや品質管理のこと、化学工場で作業をする上での安全に関する知識の研修がありました",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "見学にいった際に顧客のニーズに応えるために社員が一丸となって働いている姿に憧れて、入社しました",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "化学工場の製造現場によくあるようなライン製造ではなく、毎日異なる製品を製造しているため、単調な作業にならずに、毎日チームで考えながら仕事をすることが出来るので退屈しません",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学は、「研究開発こそがメーカーの基本」を掲げ、独自の技術で産業界に貢献してきている",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "80年以上の歴史を持つ接着剤をはじめとする液状合成樹脂メーカー",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "同社の研究員は、ときに顧客に直接会いに行き、そのニーズを直接聞く",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "資本金を3億円に増資",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "カナダ・トロント市、ホルテック社及びその子会社ポリコール社を買収",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金を3億円に増資",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホルテック社及びその子会社ポリコール社を買収",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "資本金を3億円に増資",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ホルテック社及びその子会社ポリコール社を買収",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニホンフラッシュ(株)【東証プライム市場上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "(株)タウンニュース社【東証スタンダード上場】",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "「健康経営優良法人2024」に認定",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "「健康経営優良法人2025」に認定",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "「健康経営優良法人2026」に認定",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "健康経営優良法人に3年連続で認定",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "※各年4月1日認定",
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | サイデン化学 株式会社 — 会社概要 | サイデン化学 株式会社 サイデン化学株式会社 https://www.saiden-chem.co.jp > outline",
+    "url": "https://www.saiden-chem.co.jp/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 (株)の新卒採用・ 会社概要 | マイナビ2027 — サイデン化学 (株)の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp206266 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 「社員クチコミ」 就職・転職の採用 ... - OpenWork — サイデン化学 「社員クチコミ」 就職・転職の採用 ... - OpenWork OpenWork https://www.openwork.jp > company",
+    "url": "https://www.openwork.jp/company.php?m_id=a0910000000G18R",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式 会社 – ニューゲートカンパニー — サイデン化学 株式 会社 – ニューゲートカンパニー ニューゲートカンパニー https://newgate-company.com > 掲載企業 > 関東 > 埼玉県",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社の 会社概要 ・製品情報 - Metoree — サイデン化学 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/15322/",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 (株)の新卒採用・会社 概要 | マイナビ2027 — サイデン化学 (株)の新卒採用・会社 概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp206266 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社 概要 | サイデン化学 株式会社 — 会社 概要 | サイデン化学 株式会社 サイデン化学株式会社 https://www.saiden-chem.co.jp > outline",
+    "url": "https://www.saiden-chem.co.jp/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社 の企業情報 - バフェット・コード — サイデン化学 株式会社 の企業情報 - バフェット・コード バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/2g9rdefvg7/",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社 - 東京都・化学業界の企業情報 — サイデン化学 株式会社 - 東京都・化学業界の企業情報 Baseconnect https://baseconnect.in > companies",
+    "url": "https://baseconnect.in/companies/d59a15d7-f2e7-4266-ace3-2ec039dd792f",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社のニュース・株価 - NewsPicks — サイデン化学 株式会社のニュース・株価 - NewsPicks NewsPicks https://newspicks.com > ... > 化学 > 粘着素材・充填材",
+    "url": "https://newspicks.com/company/SPD3QLHMJA6QD633/",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 (株)の会社概要 | マイナビ2028 — サイデン化学 (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp206266 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社（東京都）の会社概要・役員 | Compalyze — サイデン化学 株式会社（東京都）の会社概要・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 化学・素材",
+    "url": "https://compalyze.co.jp/company/3010001044819",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社 - 中小企業投資育成 — サイデン化学 株式会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=0420",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社 様 - USEN GATE 02 — サイデン化学 株式会社 様 - USEN GATE 02 gate02.ne.jp https://www.gate02.ne.jp > 導入事例",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "光学用粘着剤の開発 - サイデン化学 — 光学用粘着剤の開発 - サイデン化学 サイデン化学株式会社 https://www.saiden-chem.co.jp > jirei_kougaku",
+    "url": "https://www.saiden-chem.co.jp/jirei_kougaku.html",
+    "pass": 3
+   },
+   {
+    "quote": "【プロモーション動画】 サイデン化学 株式会社様 - YouTube — 【プロモーション動画】 サイデン化学 株式会社様 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 (株)の新卒採用・会社概要 | マイナビ2027 — サイデン化学 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp206266 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 株式会社 – ニューゲートカンパニー — サイデン化学 株式会社 – ニューゲートカンパニー ニューゲートカンパニー https://newgate-company.com > 掲載企業 > 関東 > 埼玉県",
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ サイデン化学 株式会社｜所在地・事業内容・沿革 — 会社概要｜ サイデン化学 株式会社｜所在地・事業内容・沿革 サイデン化学株式会社 https://www.saiden-chem.co.jp > 会社情報",
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "「 サイデン化学 」の代理店5社 注目ランキング【2026年】 — 「 サイデン化学 」の代理店5社 注目ランキング【2026年】 Metoree https://metoree.com > 会社一覧 > サイデン化学株式会社",
+    "url": "https://metoree.com/companies/15322/distributors/",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "法人向け生成AIチャット“エントリーモデル”の決定版「",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向けインターネット回線やクラウドサービス、データセンターなどのご相談を受け付けています",
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "pass": 3
+   },
+   {
+    "quote": "大手企業・大学・自治体など、1000本以上の動画制作実績があります",
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "PARTNERS in REDS LADIES vol.1 サイデン化学 株式会社 - note PARTNERS in REDS LADIES vol.1 サイデン化学 株式会社 - note note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "PARTNERS in REDS LADIES vol.1 サイデン化学株式会社｜三菱重工浦和レッズレディース公式／URAWA REDS LADIES OFFICIAL",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "PARTNERS in REDS LADIES vol.1 サイデン化学株式会社",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "三菱重工浦和レッズレディース公式／URAWA REDS LADIES OFFICIAL",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "浦和レッズ同様、三菱重工浦和レッドダイヤモンズレディースにも多くのパートナーが協賛し、その活動を支えてくださっています。レッズの理念に共感し、共に歩みを続けてくださるパートナー。",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "『PARTNERS in REDS LADIES』では、レッズレディースを支える企業のみなさんの思いをご紹介します。",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 籠島嘉隆社長 ─ 技術と人間性を重視する経営者がレッズレディースを支援する理由",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学は、「研究開発こそがメーカーの基本」を掲げ、独自の技術で産業界に貢献してきている。",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   },
+   {
+    "quote": "同社は最も力を注ぐ研究開発の拠点を浦和に持ち、特許を取得するなど、業界内では知る人ぞ知る、まさに日本企業の強みを持つ会社だ。",
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "サイデン化学 アリーナさいたま (@saiden_arena) / X サイデン化学 アリーナさいたま (@saiden_arena) / X X https://x.com > saiden_arena",
+    "url": "https://x.com/saiden_arena",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by サイデン化学 アリーナさいたま (@saiden_arena) / X Reposts by サイデン化学 アリーナさいたま (@saiden_arena) / X X https://x.com > saiden_arena > reposts",
+    "url": "https://x.com/saiden_arena/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "埼玉県高体連バレーボール専門部 on X: \" サイデン化学 アリーナ ... 埼玉県高体連バレーボール専門部 on X: \" サイデン化学 アリーナ ... X https://x.com > @SaitamaHSVolley",
+    "url": "https://x.com/SaitamaHSVolley/status/2116825648912364008",
+    "pass": 3
+   },
+   {
+    "quote": "URAWA LABO（浦和ラボ） on X : \" サイデン化学 (株)「東京 ... URAWA LABO（浦和ラボ） on X : \" サイデン化学 (株)「東京 ... X https://x.com > @URAWA_LABO",
+    "url": "https://x.com/URAWA_LABO/status/2052145024964669861",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "小田 純久 - サイデン化学 株式会社 - 顧問 | LinkedIn 小田 純久 - サイデン化学 株式会社 - 顧問 | LinkedIn LinkedIn https://jp.linkedin.com > 純久-小田-759691338",
+    "url": "https://jp.linkedin.com/in/%E7%B4%94%E4%B9%85-%E5%B0%8F%E7%94%B0-759691338",
+    "pass": 3
+   },
+   {
+    "quote": "神園 武英 - サイデン化学 株式会社の営業担当者 - LinkedIn 神園 武英 - サイデン化学 株式会社の営業担当者 - LinkedIn LinkedIn https://jp.linkedin.com > 武英-神園-43010a436",
+    "url": "https://jp.linkedin.com/in/%E6%AD%A6%E8%8B%B1-%E7%A5%9E%E5%9C%92-43010a436",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "サイデン化学 株式会社 - Heim | Facebook サイデン化学 株式会社 - Heim | Facebook Facebook https://www.facebook.com > サイデン化学株式会社",
+    "url": "https://www.facebook.com/pages/%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/139479809409454?locale=is_IS",
+    "pass": 3
+   },
+   {
+    "quote": "サイデン化学 アリーナ - Home | Facebook サイデン化学 アリーナ - Home | Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/178783395308590",
+    "pass": 3
+   },
+   {
+    "quote": "2/21(土)は、 サイデン化学 アリーナで開催される 「さいたま市 ... 2/21(土)は、 サイデン化学 アリーナで開催される 「さいたま市 ... Facebook https://www.facebook.com > ageominori > posts > 221土...",
+    "url": "https://www.facebook.com/ageominori/posts/221%E5%9C%9F%E3%81%AF%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B-%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97%E3%81%AB%E5%87%BA%E5%BA%97%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E9%A0%83%E3%81%AE%E6%84%9F%E8%AC%9D%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E9%96%A2%E9%80%A3%E5%95%86%E5%93%81%E3%82%92%E6%BA%96%E5%82%99%E3%81%97%E3%81%A6%E3%81%BE%E3%81%99%E3%83%96%E3%83%A9/1222345690056160/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.saiden-chem.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiden-chem.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiden-chem.co.jp/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiden-chem.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiden-chem.co.jp/company/strengths/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiden-chem.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saiden-chem.co.jp/company/sustainability/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openwork.jp/company.php?m_id=a0910000000G18R",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/2g9rdefvg7/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3010001044819",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gate02.ne.jp/case/saiden-chem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newgate-company.com/introduce/saiden-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/saiden_arena",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/saiden_arena/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SaitamaHSVolley/status/2116825648912364008",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%B4%94%E4%B9%85-%E5%B0%8F%E7%94%B0-759691338",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%AD%A6%E8%8B%B1-%E7%A5%9E%E5%9C%92-43010a436",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/139479809409454?locale=is_IS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/178783395308590",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ageominori/posts/221%E5%9C%9F%E3%81%AF%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B-%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97%E3%81%AB%E5%87%BA%E5%BA%97%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E9%A0%83%E3%81%AE%E6%84%9F%E8%AC%9D%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E9%96%A2%E9%80%A3%E5%95%86%E5%93%81%E3%82%92%E6%BA%96%E5%82%99%E3%81%97%E3%81%A6%E3%81%BE%E3%81%99%E3%83%96%E3%83%A9/1222345690056160/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/URAWA_LABO/status/2052145024964669861",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サイデン化学 会社概要 資本金 設立",
+   "results": [
+    "https://www.saiden-chem.co.jp/outline.html",
+    "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000G18R",
+    "https://newgate-company.com/introduce/saiden-inc/",
+    "https://metoree.com/companies/15322/",
+    "https://www.saiden-chem.co.jp/company/overview/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=0420",
+    "https://corp.wiki.fc2.com/wiki/%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6",
+    "https://compalyze.co.jp/company/3010001044819",
+    "https://job.mynavi.jp/28/pc/search/corp206266/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "サイデン化学 事業内容 売上",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "https://www.saiden-chem.co.jp/outline.html",
+    "https://www.buffett-code.com/company/2g9rdefvg7/",
+    "https://baseconnect.in/companies/d59a15d7-f2e7-4266-ace3-2ec039dd792f",
+    "https://newspicks.com/company/SPD3QLHMJA6QD633/",
+    "https://jobtalk.jp/companies/28679/answers/7804233",
+    "https://syukatsu-kaigi.jp/companies/90286/post_items/11/word_mouths",
+    "https://corp.wiki.fc2.com/wiki/%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015850355/",
+    "https://www.saiden-chem.co.jp/company/overview/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "サイデン化学 資金調達 株主",
+   "results": [
+    "https://www.saiden-chem.co.jp/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "https://compalyze.co.jp/company/3010001044819",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=0420",
+    "https://www.buffett-code.com/company/2g9rdefvg7/",
+    "https://www.nikkei.com/nkd/company/?nik_code=0011971",
+    "https://www.jaia.gr.jp/cgi-bin/seikaiin.cgi?mode=dit&num=200303182091617",
+    "https://corp.wiki.fc2.com/wiki/%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6",
+    "https://www.openwork.jp/a0910000000G18R/ranking/",
+    "https://www.saiden-chem.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "サイデン化学 導入事例",
+   "results": [
+    "https://www.gate02.ne.jp/case/saiden-chem/",
+    "https://www.saiden-chem.co.jp/jirei_kougaku.html",
+    "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "https://www.fujielectric.co.jp/products/chemical/solution_detail/jirei.html",
+    "https://job.mynavi.jp/27/pc/search/corp206266/outline.html",
+    "https://www.resilire.jp/download-casestudies-chemicals",
+    "https://www.openwork.jp/company.php?m_id=a0910000000G18R",
+    "https://kinouseifilm.com/katudou/2023-2/",
+    "https://www.saiden-chem.co.jp/case-studies/",
+    "https://www.saiden-chem.co.jp/jirei_top.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "サイデン化学 主要取引先",
+   "results": [
+    "https://www.saiden-chem.co.jp/outline.html",
+    "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "https://newgate-company.com/introduce/saiden-inc/",
+    "https://www.saiden-chem.co.jp/company/overview/",
+    "https://metoree.com/companies/15322/distributors/",
+    "https://www.jaia.gr.jp/cgi-bin/seikaiin.cgi?mode=dit&num=200303182091617",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=0420",
+    "https://baseconnect.in/companies/d59a15d7-f2e7-4266-ace3-2ec039dd792f",
+    "https://corp.wiki.fc2.com/wiki/%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6",
+    "https://catr.jp/companies/d8dce/98961/subsidiaries"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com サイデン化学",
+   "results": [
+    "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "https://note.com/cyabashira/n/n1ae2d0988d68",
+    "https://note.com/chaokeai_xia/n/n96215ec26a83",
+    "https://note.com/futsal_times/n/nbdfcfd0379d6",
+    "https://note.com/misslemon/n/n579b2bbf73a2",
+    "https://note.com/tomechan/n/nc730ead51753",
+    "https://note.com/futsal_times/n/n7d40d6c8507f",
+    "https://note.com/futsal_times/n/nc5d253cf401d",
+    "https://note.com/tomechan/n/nb7e5e59c64a0",
+    "https://note.com/tag/%E5%B7%A5%E6%A5%AD%E5%8C%96%E5%AD%A6%E7%A7%91"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com サイデン化学",
+   "results": [
+    "https://x.com/saiden_arena",
+    "https://x.com/SaitamaHSVolley/status/2116831610771542108",
+    "https://x.com/saiden_arena/reposts",
+    "https://x.com/SaitamaHSVolley/status/2116825648912364008",
+    "https://x.com/SaitamaHSVolley/status/2117126066800316848",
+    "https://x.com/SaitamaHSVolley/status/2117106231454396891",
+    "https://x.com/SaitamaHSVolley/status/2116774701527978284",
+    "https://x.com/SaitamaHSVolley/status/2116819814429904896",
+    "https://x.com/SaitamaHSVolley/status/2117096273505595756",
+    "https://x.com/SaitamaHSVolley/status/2117136196749193275"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com サイデン化学",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%B4%94%E4%B9%85-%E5%B0%8F%E7%94%B0-759691338",
+    "https://jp.linkedin.com/in/%E6%AD%A6%E8%8B%B1-%E7%A5%9E%E5%9C%92-43010a436",
+    "https://jp.linkedin.com/in/nomura-junji-67197847",
+    "https://www.linkedin.com/pub/dir/Junji/Junji",
+    "https://jp.linkedin.com/in/takuya-kondo-784b2313b",
+    "https://www.linkedin.com/pub/dir/Takuya/Kondou",
+    "https://jp.linkedin.com/pub/dir/Takuya/Kondo/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Takuya/Kondo",
+    "https://www.linkedin.com/posts/dyna-k-automotive-stampings_on-the-occasion-of-womens-day-at-the-plant-activity-7171882056912625665-mPU7",
+    "https://jp.linkedin.com/in/純久-小田-759691338"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com サイデン化学",
+   "results": [
+    "https://www.facebook.com/pages/%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/139479809409454?locale=is_IS",
+    "https://www.facebook.com/178783395308590",
+    "https://www.facebook.com/saitama.marathon/posts/%E6%9C%AC%E6%97%A5-%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A-%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E8%A6%AA%E5%AD%90%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%95%E3%82%A7%E3%82%A2-%E3%81%AB%E3%81%A6%EF%BD%90%EF%BD%92%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%84%E3%81%BE%E3%81%99%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BF%E3%82%AC%E3%83%81%E3%83%A3%E3%83%9D%E3%83%B3%E3%82%92%E3%81%94%E7%94%A8%E6%84%8F%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9C%E3%81%B2%E3%81%8A%E7%AB%8B%E3%81%A1%E5%AF%84%E3%82%8A%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%83%85/333719539790244/",
+    "https://www.facebook.com/ageominori/posts/221%E5%9C%9F%E3%81%AF%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B-%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97%E3%81%AB%E5%87%BA%E5%BA%97%E3%81%97%E3%81%BE%E3%81%99%E6%97%A5%E9%A0%83%E3%81%AE%E6%84%9F%E8%AC%9D%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E9%96%A2%E9%80%A3%E5%95%86%E5%93%81%E3%82%92%E6%BA%96%E5%82%99%E3%81%97%E3%81%A6%E3%81%BE%E3%81%99%E3%83%96%E3%83%A9/1222345690056160/",
+    "https://www.facebook.com/SaitamaYEG/posts/%E5%A0%B1%E5%91%8A-9%E6%9C%888%E6%97%A5%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%B5%A6%E5%92%8C%E5%B7%A5%E5%A0%B4%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%EF%BC%99%E6%9C%88%E4%BA%8B%E6%A5%AD%E4%BC%81%E6%A5%AD%E8%A6%96%E5%AF%9F%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E8%A9%B3%E7%B4%B0%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E8%B3%87%E8%B3%AA%E5%90%91%E4%B8%8A%E5%A7%94%E5%93%A1%E4%BC%9A/1242007451288589/",
+    "https://www.facebook.com/saitamafukushi/posts/%E5%9F%BC%E7%8E%89%E7%A6%8F%E7%A5%89%E4%BA%8B%E6%A5%AD%E5%8D%94%E4%BC%9A-%E5%A4%A7%E9%81%8B%E5%8B%95%E4%BC%9A%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E3%81%A7%E5%A4%A7%E9%81%8B%E5%8B%95%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%9C%B0%E5%9F%9F%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E7%89%B9%E5%88%A5%E6%94%AF%E6%8F%B4%E5%AD%A6%E6%A0%A1%E3%81%AEpta%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E4%BC%81%E6%A5%AD%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AA%E3%81%A9%E5%A4%9A%E3%81%8F%E3%81%AE%E6%96%B9%E3%80%85%E3%81%AB%E3%81%94%E5%8F%82%E5%8A%A0%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D/1412660711049901/",
+    "https://www.facebook.com/Blind.Football/posts/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%A9%E3%82%A4%E3%82%BC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%83%E3%83%972027%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A2027%E5%B9%B42%E6%9C%8820%E6%97%A5%E5%9C%9F%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E3%81%A7%E3%83%96%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E5%A5%B3%E5%AD%90%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E3%81%AE%E5%9B%BD%E9%9A%9B%E8%A6%AA%E5%96%84%E8%A9%A6%E5%90%88%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99/1583569843782936/",
+    "https://www.facebook.com/saicolofutsal/posts/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BEsaicolo%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E6%A7%98%E7%B4%B9%E4%BB%8B%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%82%93%E3%81%AA%E3%81%8C%E6%AF%8E%E6%97%A5%E4%BD%BF%E3%81%86%E3%81%82%E3%82%8C%E3%81%AB%E3%82%82%E3%81%93%E3%82%8C%E3%81%AB%E3%82%82%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%81%AE%E8%A3%BD%E5%93%81%E3%81%8C%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E8%A9%B3%E3%81%97%E3%81%8F%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-%E5%B0%8F%E5%B3%B6%E9%81%B8%E6%89%8B%E3%81%A8%E7%9F%B3%E5%8E%9F%E9%81%B8%E6%89%8B%E3%81%8C/2756449304459692/",
+    "https://www.facebook.com/hitoshi.yoshida.182/posts/%E5%9F%BC%E7%8E%89%E7%A6%8F%E7%A5%89%E4%BA%8B%E6%A5%AD%E5%8D%94%E4%BC%9A-%E5%A4%A7%E9%81%8B%E5%8B%95%E4%BC%9A%E4%BB%8A%E5%B9%B4%E3%82%82%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E3%81%AB%E3%81%A6%E7%9B%9B%E5%A4%A7%E3%81%AB%E9%96%8B%E5%82%AC%E3%83%95%E3%83%A9%E3%83%95%E3%83%BC%E3%83%97%E8%B5%B0%E3%82%84%E5%A4%A7%E7%8E%89%E9%80%81%E3%82%8A%E3%81%AE%E7%AB%B6%E6%8A%80%E3%81%AB%E3%82%82%E9%A3%9B%E3%81%B3%E5%85%A5%E3%82%8A%E5%8F%82%E5%8A%A0%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E6%A5%BD%E3%81%97%E3%81%84%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%BF%E3%81%AA%E3%81%95%E3%81%BE%E3%81%A8/28575241452138501/",
+    "https://www.facebook.com/masato.deguchi.58/videos/%E7%8C%9B%E6%9A%91%E6%97%A5%E7%B6%9A%E3%81%8D%E3%81%AE%E4%B8%AD%E7%8F%BE%E5%9C%B0%E3%81%A7%E3%81%94%E6%B4%BB%E8%BA%8D%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%AE%E3%81%94%E8%8B%A6%E5%8A%B4%E3%81%AB%E5%BF%83%E3%81%8B%E3%82%89%E6%95%AC%E6%84%8F%E3%82%92%E8%A1%A8%E3%81%97%EF%BC%91%E6%97%A5%E3%82%82%E6%97%A9%E3%81%84%E5%BE%A9%E8%88%88%E3%82%92%E3%81%A8%E5%BF%B5%E3%81%98%E3%82%8B%E6%97%A5%E3%80%85%E3%81%A7%E3%81%99%E3%81%9D%E3%82%93%E3%81%AA%E4%B8%AD%E7%A7%81%E3%81%94%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E3%81%8A%E8%A8%B1%E3%81%97%E4%B8%8B%E3%81%95%E3%81%84%E4%BB%8A%E6%97%A5%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E3%82%A2/1307931641159991/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "サイデン化学 note 社長",
+   "results": [
+    "https://www.saiden-chem.co.jp/company/message/",
+    "https://note.com/redsladies_2005/n/n36da8b9db25e",
+    "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "https://job.mynavi.jp/28/pc/search/corp206266/outline.html",
+    "https://rallys.online/topic/domestic/260502-tnote/",
+    "https://newgate-company.com/introduce/saiden-inc/",
+    "https://syukatsu-kaigi.jp/companies/90286/screening",
+    "https://www.instagram.com/p/DZta-IjGcO-/",
+    "https://www.saiden-chem.co.jp/greeting.html",
+    "https://note.com/alert_shark6484/n/n6c9cc84e95b0"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "サイデン化学 X 投稿",
+   "results": [
+    "https://x.com/URAWA_LABO/status/2052145024964669861",
+    "https://www.saiden-chem.co.jp/news.html",
+    "https://www.youtube.com/watch?v=2LMCmmNkLT8",
+    "https://www.gate02.ne.jp/case/saiden-chem/",
+    "https://syukatsu-kaigi.jp/companies/90286/word_mouths",
+    "https://www.jaia.gr.jp/cgi-bin/seikaiin.cgi?mode=dit&num=200303182091617",
+    "https://www.material-expo.jp/tokyo/en-gb/search/2026mwt0930/directory/details.org-ed39fb6a-9d15-4c11-a37f-8288631c9e5f.html",
+    "https://kinouseifilm.com/wp/wp-content/uploads/20240618-%E6%A9%9F%E8%83%BD%E6%80%A7%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0%E7%A0%94%E7%A9%B6%E4%BC%9A_2024%E5%B9%B4%E5%BA%A66%E6%9C%88%E4%BE%8B%E4%BC%9A%EF%BC%88%E3%82%B5%E3%82%A4%E3%83%87%E3%83%B3%E5%8C%96%E5%AD%A6%E6%A0%AA%EF%BC%89.pdf",
+    "https://x.com/saiden_arena/status/2052188049657024751",
+    "https://en-hyouban.com/company/10005079873/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部21頁・検索11回）"
+ }
+}

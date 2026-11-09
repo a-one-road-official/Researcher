@@ -1,0 +1,1996 @@
+{
+ "name": "ヤマップ",
+ "aliases": [],
+ "context": "東京都・資本金10000万円・地域未来牽引企業;神奈川工業技術開発大賞",
+ "researched_at": "2026-11-09T09:05:13.511201+00:00",
+ "official_url": "https://corporate.yamap.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "春山　慶彦",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "最高経営責任者 春山 慶彦",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "福岡県福岡市博多区博多駅前3-23-20 博多AGビル6F",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 812-0011 福岡県 福岡市 博多区 博多駅前3丁目23-20 博多AGビル6階",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2013/07",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年 7月18日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "株主状況",
+    "value": "VCあり, 事業会社あり, 公的機関資金支援あり",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "登山アウトドア向けWEBサービス・スマートフォンアプリ「YAMAP」開発・運営 「YAMAP STORE」運営 「YAMAP MAGAZINE」運営 「YAMAP TRAVEL」運営 「山と街を巡る旅 環」運営",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "1億円",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "19億7400万円 [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "97人",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "登山や自然を愛する人たちのライフスタイルに寄り添えるよう、アプリ・STORE・メディア・保険といった複数の事業を展開しています",
+    "url": "https://corporate.yamap.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※「YAMAPアウトドア保険」はYAMAPグループが提供する保険の総称です",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "外あそびレジャー保険「2024年日経優秀製品・サービス賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマップグループの「外あそびレジャー保険」が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞しました",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "メーカーとのコラボレーション商品やオリジナル商品の開発にも力を注いでおり、ユニークなラインナップを取り揃えています",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "アウトドアから日常生活までを広範囲に補償する、YAMAPグループの保険の総称",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "登山中のレスキュー費用・ケガを補償する保険を提供しています",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "YAMAPに蓄積された行動データとユーザーのみなさんのコミュニティの力をかけ合わせることも見据え、保険事業を通じて21世紀の新しい共助の仕組みを実現を目指します",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "自然を愛するユーザーとクライアントの間にオンラインやリアルの繋がりをつくり、ファンを生み出す自治体・企業向けサービスです",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー・クライアント双方がお互いに惹かれあう関係性を築き、ブランド価値の向上をサポートします",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "YAMAP BUSINESS | 企業・自治体向けのサービス",
+    "url": "https://corporate.yamap.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "YAMAP BUSINESS | 企業・自治体向けのサービス 読み込まれました",
+    "url": "https://corporate.yamap.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "YAMAP BUSINESS は、法人・自治体向け課題解決型コミュニティサービスです",
+    "url": "https://corporate.yamap.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "これらの強力なアセットを掛け合わせることで、自治体・企業の皆様が直面する「マーケティング戦略、地域活性化、環境保全対策」などの課題に対し、効果的な解決策をご提案します",
+    "url": "https://corporate.yamap.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "※「YAMAPアウトドア保険」はYAMAPグループが提供する保険の総称です",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "登山・アウトドア用品を販売する「YAMAP STORE」や、日常もアウトドアも補償する「YAMAPアウトドア保険」、新たな登山文化をつくるメディア「YAMAP MAGAZINE」、山や自然に特化した「YAMAPふるさと納税」を展開",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "3. 日常もアウトドアも補償「YAMAPアウトドア保険」の販売",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "日常もアウトドアも補償「YAMAPアウトドア保険」の販売",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "※「YAMAPアウトドア保険」はYAMAPグループが提供する保険の総称です",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | 外あそびレジャー保険が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | 外あそびレジャー保険が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞 読み込まれました",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "外あそびレジャー保険が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマップグループの「外あそびレジャー保険」が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞しました",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "日常もアウトドアも補償「YAMAPアウトドア保険」の販売",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "※「YAMAPアウトドア保険」はYAMAPグループが提供する保険の総称です",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "東京都港区六本木3-2-1住友不動産六本木グランドタワー41階",
+    "url": "https://www.bizreach.jp/companies/6363/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都新宿区西新宿6丁目18番1号住友不動産新宿セントラルパークタワー20階",
+    "url": "https://www.bizreach.jp/companies/6363/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの資金調達および損害保険会社設立について｜記者発表会レポート｜YAMAP / ヤマップ",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの資金調達および損害保険会社設立について｜記者発表会レポート",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月28日、ヤマップは約20.4億円の資金調達と損害保険会社設立に関しての記者発表会を行いました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "主な資金使途は損害保険会社の設立とヤマップの保険事業です",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業が少額短期保険や保険会社の代理店をやるケースはあるかと思いますが、自分たち自身で保険会社を作るのは異例なことです",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "古代ギリシャからはじまり、今のような保険の仕組みになったのは14世紀のイタリアと言われています",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "船乗り達が事故にあった時に残された家族を守るため、リスクヘッジのために、仲間同士支え合う共助の仕組みが保険の成り立ちだそうです",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "この共助の仕組みをどのように現代風にしていくのかが大きなテーマなのですが、危険を伴う山の場合特に保険に大きな可能性を感じ、チャレンジしました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの保険は統計データや確率論をベースに保険料を算出していました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンをはじめ、あらゆるデバイスがインターネットとつながる今、行動データやモノのデータから最適な保険料を算出する時代に変わっていくと予想しています",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの行動データをベースにした保険がつくれないか、ここ2,3年ずっと考えてきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "行動データを活用した保険でもっともわかりやすいのはテスラの自動車保険です",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットにつながるテスラ車は、車に乗る距離、急ブレーキの回数などを収集していて、そうした行動データに基づいて保険料を算出しています",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "これはテレマティクス保険と言い、2030年までに市場規模は300億ドルを超えると予測されています",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "この行動データを保険に紐づけることで、データに価値が生まれて、適切な保険料でユーザーにプランを提供できるようになります",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "これをもとに保険料を算出したり、AIを活用しながら、リスクが高い時には、登山そのものを控えるように提案することも自分たちでできるようになります",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "この領域を他社の保険会社さんにお願いするのは非常に難しい",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、自社で損害保険会社を設立するという意志決定をして、今回約20億円の資金調達をさせていただきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップはインシュアテックの先駆けになるべく、行動データにもとづいた保険をグループ会社のネイチャランス損保で展開したいと思います",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つ大事なのが、保険の原点に立ち返ることです",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には損得ではない共助型の保険をつくっていきたい",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "登山者同士でその楽しみを広げていく活動を保険をきっかけにやっていきたいです",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "今回の保険事業は、アウトドアのニッチな領域かもしれませんが、行動データに紐づいた共助型の保険をベンチャーのヤマップが始めることは「保険業界に良質な一石を投じる」と思っています",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヤマップネイチャランス損害保険 代表取締役社長 木村彰宏",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップのデータがあれば、世界で戦えるインシュアテック損害保険会社が作れるかもしれない",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "利益がマイナスとなっている主な要因は、少額短期保険の代理店業から撤退したこと、損害保険会社設立に向け、保険事業に携わるメンバーを採用したこと、資金調達ならびに保険会社設立に想定以上の時間がかかり、保険事業の開始が予定より遅れたこと、円安に伴うサーバー費用の増加、業務拡大に伴う東京オフィスの移転費用などがあげられます",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップネイチャランス損害保険株式会社設立ならびに2つの保険商品販売を開始",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "2) 資金調達、保険会社の設立",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月に、資金調達と損害保険会社設立のご報告をいたしました",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業が、損害保険会社を立ち上げることはほぼ前例がなく、達成までの道のりは険しいものがありました",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、様々な方々のご協力・ご支援のおかげで、無事にヤマップ独自の保険会社を設立することができ、YAMAPアウトドア保険の販売もスタートしております",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "今後、YAMAPの行動データを活用した保険を展開してまいります",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "自治体との遭難対応 & 登山届け連携の拡大",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "第17回ニッポン新事業創出大賞 最優秀賞「中小企業基盤備機構理事長賞」受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "グッドデザイン賞・特別賞「ものづくりデザイン賞（中小企業庁長官賞）」",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "特別賞「ものづくりデザイン賞（中小企業庁長官賞）」受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "2014年10月 - グッドデザイン賞・特別賞「ものづくりデザイン賞（中小企業庁長官賞）」受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E5%B1%B1%E6%85%B6%E5%BD%A6",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "YAMAPが「日本サービス大賞 国土交通大臣賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "」を企業理念に掲げアウトドア事業を行う株式会社ヤマップ（福岡市、代表取締役CEO 春山慶彦、以下ヤマップ）は、革新的な優れたサービスを表彰する「第5回 日本サービス大賞」（主催：公益財団法人日本生産性本部 サービス産業生産性協議会）にて、応募総数768件の中から「国土交通大臣賞」を受賞いたしました",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "外あそびレジャー保険「2024年日経優秀製品・サービス賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマップグループの「外あそびレジャー保険」が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞しました",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "YAMAP流域地図が2024年度「グッドデザイン賞・金賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "」を企業理念に掲げアウトドア事業を行う株式会社ヤマップ（福岡市、代表取締役CEO 春山慶彦、以下ヤマップ）は、2024年度グッドデザイン賞（主催：公益財団法人日本デザイン振興会）において、金賞（経済産業大臣賞）を受賞いたしました",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「Google Play ベスト オブ 2025 ウェアラブル部門」大賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「YAMAP流域地図」が日本地図学会 第19回学会賞「作品・出版賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「日本DX大賞2023 SX・GX部門」大賞受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「日本サブスクリプションビジネス大賞2022」受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "第17回ニッポン新事業創出大賞 最優秀賞「中小企業基盤備機構理事長賞」受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "2022年グッドデザイン賞「グッドデザイン・ベスト100」受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「Ruby biz Grand prix 2021」グランプリ受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "企業成長率ランキング「2021年 日本テクノロジー Fast 50」7位受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「第3回宇宙開発利用大賞・内閣府特命担当大臣（宇宙政策）賞」受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「2017 Red Herring Top 100 Global Winners」受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「Kyushu Startup Pavilion 2015」グランプリ受賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省「新事業創出のための目利き・支援人材育成等事業」認定事業",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "「アジアデジタルアート大賞 エンターテイメント部門」優秀賞",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "第3回宇宙開発利用大賞・内閣府特命担当大臣（宇宙政策）賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省の「J-Startup」50社に選定",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "「2021年 日本テクノロジーFast 50」で７位を受賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "2022年グッドデザイン賞「グッドデザイン・ベスト100」受賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "「サブスク大賞2022」グランプリを受賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "「日本DX大賞2023 SX・GX部門」大賞受賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "YAMAP流域地図が2024年度「グッドデザイン賞・金賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "「Google Play ベスト オブ 2025 ウェアラブル部門」大賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "「第５回 日本サービス大賞 国土交通大臣賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | YAMAPが「日本サービス大賞 国土交通大臣賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | YAMAPが「日本サービス大賞 国土交通大臣賞」を受賞 読み込まれました",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "YAMAPが「日本サービス大賞 国土交通大臣賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "」を企業理念に掲げアウトドア事業を行う株式会社ヤマップ（福岡市、代表取締役CEO 春山慶彦、以下ヤマップ）は、革新的な優れたサービスを表彰する「第5回 日本サービス大賞」（主催：公益財団法人日本生産性本部 サービス産業生産性協議会）にて、応募総数768件の中から「国土交通大臣賞」を受賞いたしました",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "日本サービス大賞は、サービスの高度化と産業の発展を先導する、きらりと光る新しい価値を提供しているサービスや、これまでになかった新しいやり方を実現している「革新的な優れたサービス」を表彰する賞です",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "第5回 日本サービス大賞：",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "この度、日本サービス大賞・国土交通大臣賞という栄えある賞をいただき、心より感謝申し上げます",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | 外あそびレジャー保険が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | 外あそびレジャー保険が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞 読み込まれました",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "外あそびレジャー保険が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマップグループの「外あそびレジャー保険」が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞しました",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "・2022年12月：「サブスク大賞2022」",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "・2022年12月：第17回ニッポン新事業創出大賞 最優秀賞「",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "日本DX大賞2023 SX・GX部門で大賞",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAPが「日本サービス大賞 国土交通大臣賞」を受賞",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "登山アプリ「YAMAP」がGoogle Play ベスト オブ 2025「ウェアラブル部門」大賞を受賞",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "・2022年12月：「サブスク大賞2022」",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "・2022年12月：第17回ニッポン新事業創出大賞 最優秀賞「",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "日本DX大賞2023 SX・GX部門で大賞",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "Braze選定後、運用に向けた準備はどのように進めましたか？",
+    "url": "https://www.braze.com/ja/customers/yamap-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "システム連携を重視したベンダー選定とフィードバックを通じ、付加価値の高い業務に時間を割ける少数精鋭組織を進化させる",
+    "url": "https://aitravel.jp/site/casestudy/yamap",
+    "pass": 3
+   },
+   {
+    "quote": "その選定の背景と運用の手応えについて、CFO 倉内様、経理担当 中川様にお話を伺いました",
+    "url": "https://aitravel.jp/site/casestudy/yamap",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、AI Travelとfreeeが連携しているように、システムが連携しているようなベンダーを選定するようにしています",
+    "url": "https://aitravel.jp/site/casestudy/yamap",
+    "pass": 3
+   },
+   {
+    "quote": "特別賞「ものづくりデザイン賞（中小企業庁長官賞）」受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "- 第3回宇宙開発利用大賞・内閣府特命担当大臣（宇宙政策）賞を受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "「J-Startup」50社に選定",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "12月 - 「2021年 日本テクノロジーFast 50」で７位を受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "「2022 グッドデザイン・ベスト100」受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "12月 - 「サブスク大賞2022」グランプリを受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "6月 - 「日本DX大賞2023」大賞受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "「2024 グッドデザイン金賞」受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "1月 - ヤマップグループの「外あそびレジャー保険」が「2024年日経優秀製品・サービス賞 ファイナンス部門賞」を受賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "株式会社ヤマップ / YAMAP | 事業紹介",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | 事業紹介 読み込まれました",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "店頭や一般のECサイトでは伝えきれていない、つくり手の思いや哲学を読みもので丁寧に紹介しています",
+    "url": "https://corporate.yamap.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "登山・アウトドア用品を販売する「YAMAP STORE」や、日常もアウトドアも補償する「YAMAPアウトドア保険」、新たな登山文化をつくるメディア「YAMAP MAGAZINE」、山や自然に特化した「YAMAPふるさと納税」を展開",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "その意志と思いを込めて、YAMAPという会社を経営し、事業運営に邁進してまいりました",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "1. 登山・アウトドア向け WEB サービス・スマートフォンアプリ「YAMAP」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "2. 登山・アウトドア用品のセレクトオンラインストア「YAMAP STORE」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "3. 日常もアウトドアも補償「YAMAPアウトドア保険」の販売",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "4. これからの登山文化をつくるメディア「YAMAP MAGAZINE」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "5. 自然特化型のふるさと納税ポータルサイト「YAMAPふるさと納税」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "登山・アウトドア向け WEB サービス・スマートフォンアプリ「YAMAP」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "登山・アウトドア用品のセレクトオンラインストア「YAMAP STORE」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "日常もアウトドアも補償「YAMAPアウトドア保険」の販売",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "これからの登山文化をつくるメディア「YAMAP MAGAZINE」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "自然特化型のふるさと納税ポータルサイト「YAMAPふるさと納税」の運営",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "登山・アウトドア向け WEB サービス・スマートフォンアプリ「YAMAP」の運営",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "登山・アウトドア用品のセレクトオンラインストア「YAMAP STORE」の運営",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "日常もアウトドアも補償「YAMAPアウトドア保険」の販売",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "これからの登山文化をつくるメディア「YAMAP MAGAZINE」の運営",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "自然特化型のふるさと納税ポータルサイト「YAMAPふるさと納税」の運営",
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "pass": 1
+   },
+   {
+    "quote": "5月28日から商品の販売を開始し、約12億円の資金を投じていきます",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "２種類の保険を販売",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "長く続けるだけでなくきちんと売上を上げていくこと、登山・アウトドア業界でマーケットシェアを獲得して、ユーザー基盤を構築していることに成長ポテンシャルがあり、期待しています",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "売上高推移と利益推移のグラフを掲載いたします",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "第7期から第11期までの売上高 & 利益推移",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "第10期の売上高は15億6180万円（前年同期28%アップ）、第11期の売上高は19億7400万円（前年同期26.3%アップ）となりました",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "売上高アップの要因は、主軸事業であるYAMAPプレミアム会員数の増加とYAMAP STOREの伸びです",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業として、短期的な売上をつくりながらも、中長期インパクトと長期利益を第一に、組織づくり・事業基盤固め・事業成長へ注力をしていく方針です",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップネイチャランス損害保険株式会社設立ならびに2つの保険商品販売を開始",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、様々な方々のご協力・ご支援のおかげで、無事にヤマップ独自の保険会社を設立することができ、YAMAPアウトドア保険の販売もスタートしております",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "2022年7月から今までの間で、印象深かった本3冊を下記に紹介します",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "note pro運営がすてきと感じた法人noteまとめ",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "また、第8期決算公告の共有にあわせて、ヤマップの「これまで」や「これから」についての一端を紹介していきたいと思います",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "お預かりした資金を経営資源としながら、会社運営・サービス開発に専心してきました",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "目標としていた一定の規模獲得を達成したことから、拡大だけでなく、持続可能な会社となるべく健全な収益化にも注力しはじめ、今に至っています",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "続いて、第8期（2020年7月〜2021年6月）の決算公告をベースに、ヤマップの今を紹介します",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "2年前と比べ売上高は7倍に拡大",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は前年比263％の成長",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は7億6924万円",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みの芽が出はじめ、売上高増につながっています",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの価値向上に継続して取り組みつつ、2019年8月より、持続可能な会社を目指し、収益化にも力を注いでいます",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "短期的な売上アップよりも事業成長による中長期的なインパクトを優先し、”意志ある赤字”は継続していきます",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、これからのヤマップについて、ご紹介いたします",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "note pro運営がすてきと感じた法人noteまとめ",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "5月28日から商品の販売を開始し、約12億円の資金を投じていきます",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "２種類の保険を販売",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "長く続けるだけでなくきちんと売上を上げていくこと、登山・アウトドア業界でマーケットシェアを獲得して、ユーザー基盤を構築していることに成長ポテンシャルがあり、期待しています",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "つくり手の思いや哲学を読みもので紹介する登山・アウトドア用品セレクトショップ「YAMAP STORE（ヤマップストア）」の運営",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "登山を安全に楽しむための知識やスキル、山の楽しみ方を紹介する登山・アウトドアマガジン「YAMAP MAGAZINE」等の展開",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "売上高推移と利益推移のグラフを掲載いたします",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "第7期から第11期までの売上高 & 利益推移",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "第10期の売上高は15億6180万円（前年同期28%アップ）、第11期の売上高は19億7400万円（前年同期26.3%アップ）となりました",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "売上高アップの要因は、主軸事業であるYAMAPプレミアム会員数の増加とYAMAP STOREの伸びです",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー企業として、短期的な売上をつくりながらも、中長期インパクトと長期利益を第一に、組織づくり・事業基盤固め・事業成長へ注力をしていく方針です",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップネイチャランス損害保険株式会社設立ならびに2つの保険商品販売を開始",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "ですが、様々な方々のご協力・ご支援のおかげで、無事にヤマップ独自の保険会社を設立することができ、YAMAPアウトドア保険の販売もスタートしております",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "2022年7月から今までの間で、印象深かった本3冊を下記に紹介します",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "note pro運営がすてきと感じた法人noteまとめ",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "顧客体験の改善と収益基盤の強化を実現 | Braze（ブレイズ)",
+    "url": "https://www.braze.com/ja/customers/yamap-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの事業内容とサービスの特徴を教えてください",
+    "url": "https://www.braze.com/ja/customers/yamap-case-study",
+    "pass": 3
+   }
+  ],
+  "資本金・株主": [
+   {
+    "quote": "シリーズA 1.7億円の資金調達を実施",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズB 約12億円の資金調達を実施",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "シリーズC 約2億円の資金調達を実施",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 1
+   },
+   {
+    "quote": "資本金（資本準備金含む） 1億円",
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "pass": 1
+   },
+   {
+    "quote": "【資本金など】1億円（資本準備金含む）",
+    "url": "https://www.bizreach.jp/companies/6363/",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの資金調達および損害保険会社設立について｜記者発表会レポート｜YAMAP / ヤマップ",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの資金調達および損害保険会社設立について｜記者発表会レポート",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月28日、ヤマップは約20.4億円の資金調達と損害保険会社設立に関しての記者発表会を行いました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "※16名の出資者の方にもご参加いただきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "約20.4億円の資金調達を実施",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "今回、シリーズDラウンドで総額20.4億円の資金調達をしました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "今日は出資いただいた皆様にもお集まりいただきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、自社で損害保険会社を設立するという意志決定をして、今回約20億円の資金調達をさせていただきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "あまり良くないファンディング環境の中、ベンチャーが損害保険会社を作るというチャレンジは、投資家の中でも理解を得ることは難しく、資金調達でも苦労されたかと思います",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの大きな転換点となった、今回の資金調達と損害保険会社設立",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ、ウクライナ・中東での戦争、能登半島での地震・水災害など、絶えず変化する社会情勢の中でも、会社・事業を継続できておりますことは、ご愛顧いただいているユーザーのみなさん、サポートしてくださっている株主・関係パートナーのみなさんのおかげです",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "利益がマイナスとなっている主な要因は、少額短期保険の代理店業から撤退したこと、損害保険会社設立に向け、保険事業に携わるメンバーを採用したこと、資金調達ならびに保険会社設立に想定以上の時間がかかり、保険事業の開始が予定より遅れたこと、円安に伴うサーバー費用の増加、業務拡大に伴う東京オフィスの移転費用などがあげられます",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "2) 資金調達、保険会社の設立",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月に、資金調達と損害保険会社設立のご報告をいたしました",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "pass": 3
+   },
+   {
+    "quote": "ひとえに、ご愛顧いただいているユーザーのみなさん、日頃からサポートしてくださっている株主・関係パートナーのみなさんのおかげです",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "上場の有無に関わらず、会社は「社会の公器」である",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "」の実現に共感いただく株主の方々から「出資」による資金調達を複数回実施してきました",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "事業成長を期待して実施される「出資」は、主に株式の売却益や経営参加権等を対価とする投資のひとつです",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "詳しくは「出資と融資の違い」で検索してみてください",
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの資金調達および損害保険会社設立について｜記者発表会レポート｜YAMAP / ヤマップ",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの資金調達および損害保険会社設立について｜記者発表会レポート",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月28日、ヤマップは約20.4億円の資金調達と損害保険会社設立に関しての記者発表会を行いました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "※16名の出資者の方にもご参加いただきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "約20.4億円の資金調達を実施",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "今回、シリーズDラウンドで総額20.4億円の資金調達をしました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "今日は出資いただいた皆様にもお集まりいただきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、自社で損害保険会社を設立するという意志決定をして、今回約20億円の資金調達をさせていただきました",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "あまり良くないファンディング環境の中、ベンチャーが損害保険会社を作るというチャレンジは、投資家の中でも理解を得ることは難しく、資金調達でも苦労されたかと思います",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップの大きな転換点となった、今回の資金調達と損害保険会社設立",
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップ、第三者割当増資を実施 シリーズDラウンドにてベンチャーデット含め総額20.4億円を調達",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップ、第三者割当増資を実施 シリーズBで約12億円を調達",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "セフリ、資金調達を実施 約1.7億円を調達",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ、ウクライナ・中東での戦争、能登半島での地震・水災害など、絶えず変化する社会情勢の中でも、会社・事業を継続できておりますことは、ご愛顧いただいているユーザーのみなさん、サポートしてくださっている株主・関係パートナーのみなさんのおかげです",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "利益がマイナスとなっている主な要因は、少額短期保険の代理店業から撤退したこと、損害保険会社設立に向け、保険事業に携わるメンバーを採用したこと、資金調達ならびに保険会社設立に想定以上の時間がかかり、保険事業の開始が予定より遅れたこと、円安に伴うサーバー費用の増加、業務拡大に伴う東京オフィスの移転費用などがあげられます",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "2) 資金調達、保険会社の設立",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月に、資金調達と損害保険会社設立のご報告をいたしました",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "pass": 3
+   },
+   {
+    "quote": "3月 - シリーズA 1.7億円の資金調達を実施",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "4月 - シリーズB 約12億円の資金調達を実施",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "3月 - シリーズC 約2億円の資金調達を実施",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "CEO：春山 慶彦、以下「ヤマップ社」）に対して、インパクトエクイティ投資として の出資を実行しましたの",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/240528-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今般のヤマップ社への出資を通じて、登山・アウトド",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/240528-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "資本金等 100 百万円",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/240528-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "livedoorで2006年に上場廃止になった後の2007年に入社し、事業再建、スポンサー探し（LINEに買収される）フェーズにおいて、財務経理（主に財務会計）の仕事に従事した",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMESにおいて、2016年に上場した３年後の2019年に入社し、退職までの５年間、上場会社の取締役会として議論するアジェンダを起案・実行、社内フロー構築など、経営管理本部（総務・法務・財務経理）の仕事に従事した",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "もしIPOが叶うのならば、上場企業（＝社会の公器）としてより大きな社会課題解決に取り組むこと",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社ヤマップ の求人・採用情報 - ビズリーチ — 株式 会社ヤマップ の求人・採用情報 - ビズリーチ ビズリーチ https://www.bizreach.jp > companies",
+    "url": "https://www.bizreach.jp/companies/6363/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヤマップ / YAMAP | 会社概要 — 株式会社 ヤマップ / YAMAP | 会社概要 株式会社ヤマップ / YAMAP https://corporate.yamap.co.jp > about",
+    "url": "https://corporate.yamap.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップ の資金調達および損害保険 会社設立 について — ヤマップ の資金調達および損害保険 会社設立 について YAMAP / ヤマップ https://note.yamap.com > ...",
+    "url": "https://note.yamap.com/n/na3c933832b01",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップ - Wikipedia — ヤマップ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ヤマップ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ヤマップ を徹底解剖｜「仕事と冒険を両立させる ... — 株式 会社ヤマップ を徹底解剖｜「仕事と冒険を両立させる ... 株式会社ソマリ https://somali.co.jp > somalico > company-analysis",
+    "url": "https://somali.co.jp/somalico/company-analysis/p1242/",
+    "pass": 3
+   },
+   {
+    "quote": "第10期、第11期決算公告によせて 〜｜ YAMAP / ヤマップ — 第10期、第11期決算公告によせて 〜｜ YAMAP / ヤマップ YAMAP / ヤマップ https://note.yamap.com > ...",
+    "url": "https://note.yamap.com/n/nc125b0d53ed7",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP （ ヤマップ ）のこれまでとこれから 〜 第8期決算公告 ... — YAMAP （ ヤマップ ）のこれまでとこれから 〜 第8期決算公告 ... YAMAP / ヤマップ https://note.yamap.com > ...",
+    "url": "https://note.yamap.com/n/n0a52e44a6898",
+    "pass": 3
+   },
+   {
+    "quote": "デロイトトーマツ主催 テクノロジー企業成長率ランキング ... — デロイトトーマツ主催 テクノロジー企業成長率ランキング ... 株式会社ヤマップ / YAMAP https://corporate.yamap.co.jp > news",
+    "url": "https://corporate.yamap.co.jp/news/iGz3kUDw",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP （ ヤマップ ）の現在地点とこれから 〜 第9期決算公告 ... — YAMAP （ ヤマップ ）の現在地点とこれから 〜 第9期決算公告 ... YAMAP / ヤマップ https://note.yamap.com > ...",
+    "url": "https://note.yamap.com/n/n0926bdbf0c4a",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップ の 資金調達 および損害保険会社設立について — ヤマップ の 資金調達 および損害保険会社設立について YAMAP / ヤマップ https://note.yamap.com > ...",
+    "url": "https://note.yamap.com/n/na3c933832b01",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヤマップ - スピーダ スタートアップ情報リサーチ — 株式会社 ヤマップ - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > companies",
+    "url": "https://initial.inc/companies/A-11928",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ヤマップ / YAMAP | 沿革 — 株式会社 ヤマップ / YAMAP | 沿革 株式会社ヤマップ / YAMAP https://corporate.yamap.co.jp > history",
+    "url": "https://corporate.yamap.co.jp/history",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップ 、損害保険会社を設立 - PR TIMES — ヤマップ 、損害保険会社を設立 - PR TIMES PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000218.000011352.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例：ヤマップがマーケティング施策のPDCAを回し、エリアに対応... — 消費者に価値のある顧客体験を提供する顧客(カスタマー)エンゲージメントプラットフォームBraze（ブレイズ）の「ヤマップ」の事例ページです。顧客体験の改善と収益基盤の強化を実現した事例をご紹介します。",
+    "url": "https://www.braze.com/ja/customers/yamap-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "AI Travel 導入事例｜株式会社ヤマップ — ユーザー数180万を超える登山地図・登山コミュニティプラットフォームアプリ「YAMAP」をはじめ、登山保険やセレクトオンラインストア「YAMAP STORE」の企画・運営、アウトドア領域の広告宣伝・ブランディングを手がける株式会社ヤマップ。",
+    "url": "https://aitravel.jp/site/casestudy/yamap",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヤマップ - 導入事例 | sitateru CLOUD 衣服の生産・販売を支... — 日本古来の生地で、ユーザーに寄り添ったものづくりを―。「山」に特化した履き心地と機能性の両立への挑戦（株式会社ヤマップ） 導入事例 - sitateru MARKET - 誰でも簡単に、仕入れ・オリジナルアイテム制作ができるECプラットフォーム",
+    "url": "https://sitateru.com/case/yamap/",
+    "pass": 3
+   },
+   {
+    "quote": "AWS削減に続きGoogleCloud削減も実現/株式会社ヤマップ | 株式会社DEL... — Aug 21, 2025 · こんにちは、株式会社DELTAの広報です。 今回は、AWSに引き続きGoogle CloudでもDELTAの「CTO booster」を導入いただいた株式会社ヤマップ様の事例をご紹介いたします。本記事では、株式会社ヤマップ 基盤開発部 部長 松本英高様、株式会社DELTA エンジニアチームで本プロジェクトを担当した浜崎春哉 ...",
+    "url": "https://teamdelta.jp/works/1258/",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP Case Study | RevenueCat — 今回は、導入の背景や意思決定のプロセス、さらに月数十時間単位の工数削減や施策実行のスピード向上といった成果について、株式会社ヤマップCTOの樋口様、アプリエンジニアの落石様、バックエンドエンジニアの溝上様に詳しく伺いました。 課題",
+    "url": "https://www.revenuecat.com/jp/customers/yamap",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップ - Wikipedia — ヤマップ ... 株式会社ヤマップ （英: YAMAP INC.）は、2013年に創業した 福岡県 福岡市 博多区 に 本社 を置く 日本 の 企業。 登山に役立つ地図アプリ「YAMAP」を主に提供している。 春山慶彦 によって設立。 「地球とつながるよろこび。",
+    "url": "https://ja.wikipedia.org/wiki/ヤマップ",
+    "pass": 3
+   },
+   {
+    "quote": "春山慶彦 - Wikipedia — 春山 慶彦 （はるやま よしひこ、1980年9月30日 - ）は、日本の起業家。 株式会社ヤマップ 代表取締役CEO [1]。 福岡県 春日市 出身。",
+    "url": "https://ja.wikipedia.org/wiki/春山慶彦",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヤマップへの出資について — 株式会社ヤマップへの出資について 三井住友信託銀行株式会社(取締役社長:大山 一也、以下「当社」)は、国内の登山アプリ No.1(※)である登山地図 GPS アプリ「YAMAP」を運営する株式会社ヤマップ(本社:福岡県福岡市、代表取締役CEO:春山 慶彦、以下「ヤマップ社」)に対して、インパクト ...",
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/240528-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヤマップ / YAMAP | 地球とつながるよろこび。 — PURPOSE 企業としての存在意義 ヤマップが目指すのは、人と地球環境がともに豊かになる世界。その実現のため、「地球とつながるよろこび。」のきっかけを、事業を通して多くの人々へ届けます。",
+    "url": "https://corporate.yamap.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "香港系MCP、ヤマップに出資 数億円規模で - 日本経済新聞 — Jul 24, 2023 · 香港系投資会社のMCPグループは、登山アプリを提供するヤマップ（福岡市）に出資したと発表した。出資額は数億円規模で、MCPから監査役も1人 ...",
+    "url": "https://www.nikkei.com/article/DGXZQOJC243430U3A720C2000000/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ヤマップへの入社前後に考えたこと｜hirame Mar 1, 2025 · 2025年3月1日から株式会社ヤマップで働くことになりました。入社を決めてから考えたことをnoteに残しておきます。（2024年末～2025年初頭） ヤマップで働く上で個人として設定したイシュー ヤマップは、登山地図アプリ、山歩（さんぽ）保険とSNSコミュニティを中心とした、登山・アウトドア ...",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "登山アプリ『YAMAP』の創業秘話を探ってみた｜YuYaアウトドア旅~Outdo... Jun 4, 2025 · はじめに こんにちは、YuYaです！ 普段は登山やドローン映像などを中心に、アウトドア情報を発信しています。 今回は登山者なら一度は使ったことがあるであろうアプリ 「YAMAP（ヤマップ）」 について、少し掘り下げてご紹介したい思います。 今でこそ当たり前になった登山アプリ ”YAMAP”が ...",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "【3分要約・読書メモ】YAMAP山登りベストコース 関東周辺版：株式会社... Oct 22, 2025 · 1. 著者の紹介：株式会社ヤマップ 著者の 株式会社ヤマップ は、登山地図GPSアプリ「YAMAP」を運営している会社です。 2022年時点で310万人以上のダウンロード数を誇り、国内シェアNo.1を達成しています。 YAMAP は、単なる地図アプリではありません。 GPS機能を使ってオフラインでも自分の位置が ...",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAPアプリはどうやって位置を調べているか｜10works Mar 10, 2025 · ベクトル地図にも対応、オフラインで使える登山地図アプリ｜YAMAP（ヤマップ）ベクトル地図にも対応、オフラインで使える登山地図アプリ｜YAMAP（ヤマップ） 緊急事態宣言が解除され、遠出して紅葉を楽しもうと計画している人も多いと思うが、そんな人 ...",
+    "url": "https://note.com/10works/n/n9f0613534ad4",
+    "pass": 3
+   },
+   {
+    "quote": "春山 慶彦／YAMAP（ヤマップ）代表｜note 1980年生まれ・YAMAP（ヤマップ）代表。 「毎日がひとつの人生」",
+    "url": "https://note.com/yamap55",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ヤマップへの入社前後に考えたこと｜hirame",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月１日から株式会社ヤマップで働くことになりました。入社を決めてから考えたことをnoteに残しておきます。（2024年末～2025年初頭）",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップで働く上で個人として設定したイシュー",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "ヤマップは、登山地図アプリ、山歩（さんぽ）保険とSNSコミュニティを中心とした、登山・アウトドア事業を展開しています。アプリのダウンロード数は460万件を超え、成長を続けています。",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、日本では１年間に１回以上登山をする人口は960万人と言われており、必ずしも市場として大きくありません。",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "そこで浮かんだのは、「ヤマップは、社会課題解決と経済合理性を両立できるのか？」というイシューでした。",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "きっかけは、入社を決めた後に社長の春山さんが推薦してくれた図書「ビジネスの未来」（山口周）を読んだことでした。（この本のエッセンスは、部分的に無料公開されている山口周さんのnoteでも記載されています）",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "山口周さんの本で私が感銘を受けたのは２つの主張です。",
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "pass": 3
+   },
+   {
+    "quote": "登山アプリ『YAMAP』の創業秘話を探ってみた｜YuYaアウトドア旅~Outdoor Journey~",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "登山アプリ『YAMAP』の創業秘話を探ってみた",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "YuYaアウトドア旅~Outdoor Journey~",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "普段は登山やドローン映像などを中心に、アウトドア情報を発信しています。",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "今回は登山者なら一度は使ったことがあるであろうアプリ",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "について、少し掘り下げてご紹介したい思います。",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "▼YAMAPアプリのダウンロードはこちらから",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "1. YAMAPとは？〜登山者の命を支えるアプリ〜",
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "pass": 3
+   },
+   {
+    "quote": "【3分要約・読書メモ】YAMAP山登りベストコース 関東周辺版：株式会社ヤマップ (著)｜こがゆう",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "【3分要約・読書メモ】YAMAP山登りベストコース 関東周辺版：株式会社ヤマップ (著)",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "「これから山登りを始めたいけど、どこに行ったらいいの？」",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "「いつも同じ山ばかりで、新しい場所を見つけたい…」",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "もしあなたがそう思っているなら、その悩みは今日で終わりです。",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "今回ご紹介するのは、登山地図GPSアプリ「",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "『YAMAP山登りベストコース 関東周辺版』",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "＜読み放題サービスKindle Unlimited＞",
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "pass": 3
+   },
+   {
+    "quote": "春山 慶彦／YAMAP（ヤマップ）代表｜note",
+    "url": "https://note.com/yamap55",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "YAMAP / ヤマップ（登山アプリ） (@yamap_inc) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia YAMAP / ヤマップ（登山アプリ） @yamap_inc Nov 5",
+    "url": "https://x.com/yamap_inc",
+    "pass": 3
+   },
+   {
+    "quote": "WIRED.jp on X: \"(5/5) ヤマップ【リジェネラティブ・カンパニー・ア... (1/5) リジェネラティブ・カンパニー・アワード 2026 【受賞カンパニー】 🏆石坂産業 🏆Think Nature 🏆プラネタリーヘルス研究機構 🏆ヤマップ 経済活動を通じて人々のつながり、社会、生態系、経済システムを再生する「THE REGENERATIVE Show more 1 2 5 2.4K WIRED.jp ...",
+    "url": "https://x.com/wired_jp/status/2119656322161615336",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP / ヤマップ（登山アプリ） on X: \"YAMAPが地図制作で全面協力し... YAMAPが地図制作で全面協力した、@sasakitoshinao さんの新刊『フラット登山 日本を歩く旅 60』が発売されました。 全国60コースを掲載した「歩く旅」のガイドブックです。 各コースの地図ページにはYAMAPアプリのモデルコースへアクセスできるQRコードを掲載。登山計画もスムーズに作成できます ...",
+    "url": "https://x.com/yamap_inc/status/2076782501838876950",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP / ヤマップ（登山アプリ） on X: \"本日スタート！「山の日バッ... 本日スタート！「山の日バッジ」今年も始まります🎉 8月11日は「山の日」。 この特別な日に向けて夏の山を楽しんでいただきたいと願いを込めて、どの山に登っても活動日記を公開したらバッジが手に入る「山の日バッジキャンペーン」を開催しています。 【獲得条件】 ・2026年8月8日（土 ...",
+    "url": "https://x.com/yamap_inc/status/2085924607434035456",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP / ヤマップ（登山アプリ） (@yamap_inc) / X 利用者数No.1登山アプリ🔺 累計590万ダウンロード突破！ ⛰ 電波の届かない山の中でも安全にナビゲート ⛰ 山の帰りを待つ家族にも位置情報を自動でお知らせ ⛰ 行ってみたくなる山の情報や地図・登山ノウハウを発信📱",
+    "url": "https://x.com/yamap_inc",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP / ヤマップ（登山アプリ） on X: \" NEW YAMAPアプリから登山届... 🔺🔺🔺NEW 🔺🔺🔺 YAMAPアプリから登山届を提出できるエリアに 【和歌山県】が加わりました！ 🔺🔺🔺🔺🔺🔺🔺🔺 ...",
+    "url": "https://x.com/yamap_inc/status/2118199206565527943",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ヤマップ｜もはや“登山の会社”ではない。地球のWell Beingを... Apr 27, 2023 · しかし、実態は異なる。 ヤマップの主軸事業は登山地図GPSアプリだが、同社が目指すのは人類のWell Beingを達成することであり、ひいては地球のWell Beingの達成だ。 いったいどうして、これほどまでの急成長を遂げられているのだろうか？",
+    "url": "https://jp.linkedin.com/pulse/株式会社ヤマップもはや登山の会社ではない地球のwell-beingを目指すヤマップで壮大な旅路を歩く",
+    "pass": 3
+   },
+   {
+    "quote": "米谷 太揮 - 株式会社ヤマップ - アウトドア事業開発部 西日本統括マ...LinkedIn: Log In or Sign UpLilly Türkiye | LinkedInAndreas Schneck – President of Diagnostic Imaging at Siemens ...Emma Walmsley - Chief Executive Officer-designate, HP Inc ...Judit Csenge Vizi - AI Enablement Coach | Change Management ... 株式会社ヤマップにプロジェクトマネージャーとして参画。 アウトドア事業開発部にて、日本各地で「ローカル×アウトドア」なアイデアを形にする仕事をしています。自社アプリYAMAP及びウェブメディアYAMAPマガジン等の自社サービスと地方自治体の観",
+    "url": "https://jp.linkedin.com/in/太揮-米谷-6a48ba191",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "YAMAP | Fukuoka-shi Fukuoka - Facebook坪谷十九五 - FacebookYAMAP - ヤマップの現在とこれからについて、決算公告とともにご紹介...YAMAP - ️2025年も登るたびに楽しくなる！ \\バッジキャンペーンまとめ...大地の再生 - Facebook【超簡単】ヤマップ（YAMAP）の使い方！ 登山初心者必見3ステップ 登...「3Dリプレイ」が新しくなりました！ 登山の記録を立体的にふりかえる... Oct 29, 2026 · YAMAP, Fukuoka. 53,527 followers · 1,830 talking about this. 山登りを楽しく・安全にサポートするサービスを運営しています。 4 days ago · 2年後🗓⏳👣 猿毛岳， 早朝ウォーキング、 / akihusaの登山データ | YAMAP / ヤマッ",
+    "url": "https://www.facebook.com/yamap.inc/",
+    "pass": 3
+   },
+   {
+    "quote": "坪谷十九五 - Facebook 4 days ago · 2年後🗓⏳👣 猿毛岳， 早朝ウォーキング、 / akihusaの登山データ | YAMAP / ヤマップ 猿毛岳、早朝ウォーキング、 / akihusaの登山データ | YAMAP / ヤマップ",
+    "url": "https://www.facebook.com/tokui.tuboya/",
+    "pass": 3
+   },
+   {
+    "quote": "YAMAP - ヤマップの現在とこれからについて、決算公告とともにご紹介... Nov 5, 2024 · ヤマップの現在とこれからについて、決算公告とともにご紹介しています。 https://note.yamap.com/n/nc125b0d53ed7 事業や組織を深化させながら、これからもユーザーさんによろこんでいただけるサービスをお届けしてまいります。 #YAMAP #ヤマップ",
+    "url": "https://www.facebook.com/yamap.inc/posts/ヤマップの現在とこれからについて決算公告とともにご紹介しています-事業や組織を深化させながらこれからもユーザーさんによろこんでいただけるサービスをお届けしてまい/875107274798999/",
+    "pass": 3
+   },
+   {
+    "quote": "大地の再生 - Facebook【超簡単】ヤマップ（YAMAP）の使い方！ 登山初心者必見3ステップ 登...「3Dリプレイ」が新しくなりました！ 登山の記録を立体的にふりかえる... Oct 26, 2026 · ••┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•• ヤマップが、英彦山神宮さんと共同で英彦山の植樹活 動をはじめたのは2022年。 北部九州の水分（みくま り）の山である英彦山と、その流域圏が今以上に豊か になっていくことを目指してはじめました。 Sep 7, 2025 · 【超簡単】ヤマップ（YAMAP）の使い方！ 登山初心者必見3ステップ📱 登山地図アプリ「ヤマップ」の使い方 超簡単3ステップで紹介するから、ちょっと聞いて。 1つめ、行きたい山の地図を事前にダウンロード🗺️ この時だけネット環境が必要だよ。 Aug 16, 2023 · 「3Dリプレイ」が新しくなりました！ 登山の記",
+    "url": "https://www.facebook.com/daichisaisei/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://corporate.yamap.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.yamap.co.jp/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.yamap.co.jp/service",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.yamap.co.jp/business",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.yamap.co.jp/history",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.yamap.co.jp/news/wI0vKZDu",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.yamap.co.jp/news/f6kcL0_J",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.bizreach.jp/companies/6363/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=4487a777284ad3e0f1aa96c2e8018047",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=69065d937b4d49b9637fa949d291a7b9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.yamap.com/n/n0a52e44a6898?gs=968da1aed34231d6b6b3f1d59328bbfd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.yamap.com/n/na3c933832b01?gs=6e53fdd08b391bdc6e9ce20e85253fc6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-11928",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.yamap.com/n/nc125b0d53ed7?gs=62690edd8b999cdcad48c969a381f4cc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/ja/customers/yamap-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aitravel.jp/site/casestudy/yamap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sitateru.com/case/yamap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%A5%E5%B1%B1%E6%85%B6%E5%BD%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/240528-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koga_yu/n/n4e843a1291d5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/10works/n/n9f0613534ad4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yamap_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wired_jp/status/2119656322161615336",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yamap_inc/status/2076782501838876950",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yamap_inc/status/2085924607434035456",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/株式会社ヤマップもはや登山の会社ではない地球のwell-beingを目指すヤマップで壮大な旅路を歩く",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/太揮-米谷-6a48ba191",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yamap.inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tokui.tuboya/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yamap.inc/posts/ヤマップの現在とこれからについて決算公告とともにご紹介しています-事業や組織を深化させながらこれからもユーザーさんによろこんでいただけるサービスをお届けしてまい/875107274798999/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daichisaisei/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/yamap55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yamap_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yamap_inc/status/2118199206565527943",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヤマップ 会社概要 資本金 設立",
+   "results": [
+    "https://www.bizreach.jp/companies/6363/",
+    "https://corporate.yamap.co.jp/about",
+    "https://note.yamap.com/n/na3c933832b01",
+    "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "https://somali.co.jp/somalico/company-analysis/p1242/",
+    "https://prtimes.jp/main/html/rd/p/000000218.000011352.html",
+    "https://note.yamap.com/n/nc125b0d53ed7",
+    "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/240528-2.pdf",
+    "https://ja.wikipedia.org/wiki/ヤマップ",
+    "https://corporate.yamap.co.jp/history"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ヤマップ 事業内容 売上",
+   "results": [
+    "https://note.yamap.com/n/nc125b0d53ed7",
+    "https://note.yamap.com/n/n0a52e44a6898",
+    "https://corporate.yamap.co.jp/news/iGz3kUDw",
+    "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%83%E3%83%97",
+    "https://note.yamap.com/n/n0926bdbf0c4a",
+    "https://somali.co.jp/somalico/company-analysis/p1242/",
+    "https://initial.inc/companies/A-11928",
+    "https://channel.io/jp/blog/articles/case-yamap_store-9fca09f1",
+    "https://ja.wikipedia.org/wiki/ヤマップ",
+    "https://gurafu.net/jpn/yamap"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ヤマップ 資金調達 株主",
+   "results": [
+    "https://note.yamap.com/n/na3c933832b01",
+    "https://initial.inc/companies/A-11928",
+    "https://note.yamap.com/n/nc125b0d53ed7",
+    "https://corporate.yamap.co.jp/history",
+    "https://prtimes.jp/main/html/rd/p/000000218.000011352.html",
+    "https://x.com/yamap_inc/status/1795359360480378928",
+    "https://www.projectdesign.jp/articles/news/3e2fde44-2d52-4c9f-aad2-3fe7956b82bf",
+    "https://yapp.li/magazine/208/",
+    "https://note.yamap.com/n/n0a52e44a6898",
+    "https://ja.wikipedia.org/wiki/ヤマップ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ヤマップ 導入事例",
+   "results": [
+    "https://www.braze.com/ja/customers/yamap-case-study",
+    "https://aitravel.jp/site/casestudy/yamap",
+    "https://sitateru.com/case/yamap/",
+    "https://teamdelta.jp/works/1258/",
+    "https://www.revenuecat.com/jp/customers/yamap",
+    "https://corporate.yamap.co.jp/business/municipality",
+    "https://corporate.yamap.co.jp/business/enterprise"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ヤマップ 主要取引先",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ヤマップ",
+    "https://ja.wikipedia.org/wiki/春山慶彦",
+    "https://www.smtb.jp/-/media/tb/about/corporate/release/pdf/240528-2.pdf",
+    "https://corporate.yamap.co.jp/",
+    "https://www.nikkei.com/article/DGXZQOJC243430U3A720C2000000/",
+    "https://corporate.yamap.co.jp/about/",
+    "https://note.yamap.com/n/na3c933832b01"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ヤマップ",
+   "results": [
+    "https://note.com/keisukekamiya/n/n2cdc18ec89a6",
+    "https://note.com/yuya_outdoor/n/n5eecb09642bd",
+    "https://note.com/koga_yu/n/n4e843a1291d5",
+    "https://note.com/10works/n/n9f0613534ad4",
+    "https://note.com/mapquest_m/n/n46c7c751a1d7",
+    "https://note.com/manga0307/n/nd88bd4b65d2f",
+    "https://note.com/pon713/n/n641bfb354b0a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ヤマップ",
+   "results": [
+    "https://x.com/yamap_inc",
+    "https://x.com/wired_jp/status/2119656322161615336",
+    "https://x.com/yamap_inc/status/2076782501838876950",
+    "https://x.com/yamap_inc/status/2085924607434035456",
+    "https://x.com/yamap_inc/status/2085562816472531257",
+    "https://x.com/yamap_inc/status/1871126227249201180",
+    "https://x.com/yamap_inc/status/2060984230646313099"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ヤマップ",
+   "results": [
+    "https://jp.linkedin.com/pulse/株式会社ヤマップもはや登山の会社ではない地球のwell-beingを目指すヤマップで壮大な旅路を歩く",
+    "https://jp.linkedin.com/in/太揮-米谷-6a48ba191",
+    "https://www.linkedin.com/",
+    "https://www.linkedin.com/showcase/lilly-turkiye/",
+    "https://de.linkedin.com/in/andreas-schneck-0250093",
+    "https://uk.linkedin.com/in/emmawalmsleyhp",
+    "https://hu.linkedin.com/in/judit-csenge-vizi"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ヤマップ",
+   "results": [
+    "https://www.facebook.com/yamap.inc/",
+    "https://www.facebook.com/tokui.tuboya/",
+    "https://www.facebook.com/yamap.inc/posts/ヤマップの現在とこれからについて決算公告とともにご紹介しています-事業や組織を深化させながらこれからもユーザーさんによろこんでいただけるサービスをお届けしてまい/875107274798999/",
+    "https://www.facebook.com/daichisaisei/",
+    "https://www.facebook.com/ippo25/videos/超簡単ヤマップyamapの使い方登山初心者必見3ステップ登山地図アプリヤマップの使い方超簡単3ステップで紹介するからちょっと聞いて1つめ行きたい山の地図を事前に/2498213177246142/",
+    "https://www.facebook.com/yamap.inc/photos/️2025年も登るたびに楽しくなるバッジキャンペーンまとめ記事を公開しました今年も各地で開催されるデジタルバッジキャンペーンが盛りだくさん登った山の証としてアプ/1026672726309119/",
+    "https://www.facebook.com/yamap.inc/videos/new3dreplaymp4/247823361536455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ヤマップ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/春山慶彦",
+    "https://corporate.yamap.co.jp/founder",
+    "https://note.com/yamap55",
+    "https://note.yamap.com/n/nc125b0d53ed7",
+    "https://note.com/yamaceo",
+    "https://note.yamap.com/n/n0926bdbf0c4a",
+    "https://academy.borderless-japan.com/mentor/haruyamayoshihiko/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ヤマップ X 投稿",
+   "results": [
+    "https://x.com/yamap_inc",
+    "https://x.com/yamap_inc/status/2118199206565527943",
+    "https://yamap.com/",
+    "https://help.yamap.com/hc/ja/articles/900001657403-モーメントを投稿するには",
+    "https://help.yamap.com/hc/ja/articles/900000943566-活動日記に画像-写真-をアップロードするには",
+    "https://yamap.com/moments/1801926",
+    "https://qiita.com/saurus12/items/8db03299c00e7ee8c2b1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "主要取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索11回）"
+ }
+}
