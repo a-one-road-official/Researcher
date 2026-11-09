@@ -9,7 +9,7 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-08T22:42:46.961959+00:00",
+ "researched_at": "2026-11-09T09:26:34.832998+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -20,17 +20,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n49a1efddcfca",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/seankawakami/n/ne8adb65b9909",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/trans_n_ai/n/n2b0fec132349",
+    "url": "https://note.com/tsunobuchi/n/nacac6c295472",
     "status": "ok",
     "method": "http"
    },
@@ -40,12 +30,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
+    "url": "https://note.com/seankawakami/n/ne8adb65b9909",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/matrixflow/n/n02515b5432fb",
+    "url": "https://note.com/kagawatomo/n/n49a1efddcfca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/trans_n_ai/n/n2b0fec132349",
     "status": "ok",
     "method": "http"
    },
@@ -71,6 +66,11 @@
    },
    {
     "url": "https://note.com/bunsekiya_tech/n/n4e79595f4897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.jp/n/n0e68d175d67b?gs=b7e83dc4e1cc33bb28cdc9745fe3bddb",
     "status": "ok",
     "method": "http"
    },
@@ -110,17 +110,27 @@
     "method": "http"
    },
    {
+    "url": "https://data-viz-lab.com/data-quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.future-artisan.co.jp/column/data_scientist_vol1",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://profectus-note.com/blog/manufacturing-dx-sme-success-patterns",
+    "url": "https://www.upr-net.co.jp/articles/knowledge/iot/case-study-manufacturing-industry/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.upr-net.co.jp/articles/knowledge/iot/case-study-manufacturing-industry/",
+    "url": "https://www.mizu-machi.com/blog/totugoutoukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://claria-legal.com/2026/07/15/%E9%80%80%E8%81%B7%E3%81%97%E3%81%9F%E5%85%83%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%8C%E9%A1%A7%E5%AE%A2%E6%83%85%E5%A0%B1%E3%83%BB%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AA%E3%81%A9%E3%81%AE/",
     "status": "ok",
     "method": "http"
    },
@@ -140,17 +150,17 @@
     "method": "http"
    },
    {
+    "url": "https://libguides.bgsu.edu/company_industry/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://journals.sagepub.com/doi/10.1177/08944393241245390",
     "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://guides.library.fresnostate.edu/c.php?g=289116&p=1927840",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://library.phoenix.edu/industry_research",
     "status": "ok",
     "method": "http"
    }
@@ -161,18 +171,18 @@
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） site:note.com",
    "results": [
     "https://note.com/kagawatomo/n/n704995757996",
-    "https://note.com/kagawatomo/n/n49a1efddcfca",
-    "https://note.com/seankawakami/n/ne8adb65b9909",
-    "https://note.com/trans_n_ai/n/n2b0fec132349",
-    "https://note.com/zum_ism/n/nbcf42a2fb3ca",
-    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
     "https://note.com/tsunobuchi/n/nacac6c295472",
-    "https://note.com/kazaneya/n/n320e9d98607f",
+    "https://note.com/zum_ism/n/nbcf42a2fb3ca",
+    "https://note.com/seankawakami/n/ne8adb65b9909",
+    "https://note.com/kagawatomo/n/n49a1efddcfca",
+    "https://note.com/trans_n_ai/n/n2b0fec132349",
     "https://note.com/sakamoto0812/n/n370e97ba6fde",
-    "https://note.com/zshiki/n/n635e2a139739"
+    "https://note.com/kagawatomo/n/n1f921143731e",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -180,7 +190,6 @@
   {
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） note",
    "results": [
-    "https://note.com/matrixflow/n/n02515b5432fb",
     "https://note.com/tender_okapi2413/n/nbd2b6c8e57b0",
     "https://note.com/apollo132/n/n3e485148877e",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
@@ -188,11 +197,12 @@
     "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
     "https://note.com/bunsekiya_tech/n/n4e79595f4897",
     "https://note.jp/n/n0e68d175d67b",
-    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote060/e_rnote057.pdf",
+    "https://note.com/stock_up/n/n2811e4e7d648",
+    "https://note.techtouch.jp/magazines",
     "https://telecom.nikkei.co.jp/blog/3932/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -209,10 +219,10 @@
     "https://aixtal.com/blog-smalldata/",
     "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
     "https://www.future-artisan.co.jp/column/data_scientist_vol1",
-    "https://telecom.nikkei.co.jp/blog/3932/"
+    "https://www.mizu-machi.com/blog/totugoutoukei/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -221,19 +231,21 @@
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） 事例",
    "results": [
     "https://www.salesanalytics.co.jp/column/no00410/",
-    "https://aixtal.com/blog-smalldata/",
-    "https://www.youtube.com/watch?v=yU9r1jKcWsA",
-    "https://www.future-artisan.co.jp/column/data_scientist_vol1",
     "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
+    "https://aixtal.com/blog-smalldata/",
+    "https://data-viz-lab.com/data-quality",
     "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/datapoint.pdf",
-    "https://profectus-note.com/blog/manufacturing-dx-sme-success-patterns",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.future-artisan.co.jp/column/data_scientist_vol1",
+    "https://www.youtube.com/watch?v=yU9r1jKcWsA",
     "https://www.upr-net.co.jp/articles/knowledge/iot/case-study-manufacturing-industry/",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093"
+    "https://www.mizu-machi.com/blog/totugoutoukei/"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "independent study accuracy of company industry classification and employee counts databases small firms coverage",
@@ -241,10 +253,10 @@
     "https://guides.library.cornell.edu/companyandindustry/background",
     "https://library.doc.gov/company/industry",
     "https://www.naics.com/search/",
+    "https://libguides.bgsu.edu/company_industry/industries",
     "https://journals.sagepub.com/doi/10.1177/08944393241245390",
     "https://guides.library.fresnostate.edu/c.php?g=289116&p=1927840",
     "https://library.phoenix.edu/industry_research",
-    "https://libguides.bgsu.edu/company_industry/industries",
     "https://www.federalregister.gov/documents/2022/04/26/2022-08091/small-business-size-standards-manufacturing-and-industries-with-employee-based-size-standards-in",
     "https://belmont.libguides.com/business/industries",
     "https://www.bea.gov/sites/default/files/papers/BEA-WP2022-12.pdf"
@@ -263,14 +275,14 @@
     "https://note.com/tasty_dunlin998/n/nf534ce147ed5",
     "https://note.com/lucid_lynx8370/n/n88c2638de7f1",
     "https://note.com/tasuto11/n/n09b2b5bb4446",
-    "https://note.com/tomohiko_naba/n/ncdc763131c63",
     "https://note.com/powerpoint_jp/n/n19840a713886",
+    "https://note.com/tomohiko_naba/n/ncdc763131c63",
     "https://note.com/sohtanagasaka/n/n4e209489f0aa",
-    "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
-    "https://note.com/sute_aca/n/n7b9fe27ae4b2"
+    "https://note.com/sute_aca/n/n7b9fe27ae4b2",
+    "https://note.com/ichi_twnovel/n/nf3812ef43dcb"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -280,11 +292,11 @@
    "results": [
     "https://x.com/keito_kawabata/status/2086750652827374041",
     "https://x.com/oka_motti/status/2110128455421694163",
-    "https://x.com/GCNrD0O3ThCKSJL/status/2086807318709301440",
+    "https://x.com/takyoevp/status/2078678294589997296",
     "https://x.com/nobunobuno/status/2099611650131452244",
     "https://x.com/hasibiro_maga/status/2037968148000022905",
-    "https://x.com/takyoevp/status/2078678294589997296",
-    "https://x.com/valuefp/status/2073395359246852103"
+    "https://x.com/GCNrD0O3ThCKSJL/status/2086807318709301440",
+    "https://x.com/mie_furu/status/2093814067135909938"
    ],
    "engines": [
     "ddgs:google"
@@ -295,15 +307,15 @@
    "query": "site:linkedin.com 会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114）",
    "results": [
     "https://jp.linkedin.com/in/taitamur",
+    "https://jp.linkedin.com/in/直樹-村田-124935270",
     "https://jp.linkedin.com/company/compliance-data-lab",
     "https://jp.linkedin.com/in/matsu-datalyst/en",
     "https://www.linkedin.com/pulse/従業員ゼロ取締役2名の会社が誕生henngeが始めたai前提の組織実験-駿介-原-zguzc/",
-    "https://jp.linkedin.com/pulse/how-self-service-analytics-saves-money-evgenii-paranin-rzhuc?tl=ja",
     "https://www.linkedin.com/feed/update/urn:li:activity:7508410275025403904/",
-    "https://jp.linkedin.com/in/直樹-村田-124935270"
+    "https://jp.linkedin.com/pulse/how-self-service-analytics-saves-money-evgenii-paranin-rzhuc?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -311,12 +323,12 @@
    "query": "site:facebook.com 会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114）",
    "results": [
     "https://www.facebook.com/kanatanohito2019/",
+    "https://www.facebook.com/honjpnewsblog/posts/弊社グループ元従業員による情報漏洩に関するご報告ニュースリリース日本出版販売株式会社/1481858100612917/",
     "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/",
     "https://www.facebook.com/ipaprjp/posts/プレスリリースデータ連携の仕組みに関するガイドラインの手引き-サプライチェーン共通編-10版を公開しましたサプライチェーンにおける企業間のデータ連携を推進し安全/1553688816761327/",
-    "https://www.facebook.com/london.bbs/posts/キングスカレッジロンドンへの質問話し手または書き手の思考や感情がほぼ表現し尽くされている一まとまりの統一ある言語表現で一つもしくは複数の文①-から成るもの一編の/1497043430503476/",
     "https://www.facebook.com/fukuoka.takken/posts/宅建業法改正に伴う従業者名簿の新様式について本年４月１日より一部施行となる改正宅建業法では第４８条により備付が義務付けられております従業者名簿への記載事項のうち/1391075797604203/",
-    "https://www.facebook.com/ITmedia/posts/日販グループホールディングスと日本出版販売はグループ元従業員1人よる情報漏えいが発覚したと発表した/1770512860861222/",
-    "https://www.facebook.com/kamakura.kokugo/posts/かまくら国語塾が大事にしている書き手の権利10ヶ条は書き手の子どもたちに安心と自由を与えられるように掲げているものです-①共有しない権利②書き直したり消したりす/619205942818906/"
+    "https://www.facebook.com/london.bbs/posts/キングスカレッジロンドンへの質問話し手または書き手の思考や感情がほぼ表現し尽くされている一まとまりの統一ある言語表現で一つもしくは複数の文①-から成るもの一編の/1497043430503476/",
+    "https://www.facebook.com/ITmedia/posts/日販グループホールディングスと日本出版販売はグループ元従業員1人よる情報漏えいが発覚したと発表した/1770512860861222/"
    ],
    "engines": [
     "ddgs:google"
@@ -331,14 +343,14 @@
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.com/majyp/n/n998432985aa7",
     "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
-    "https://www.youtube.com/watch?v=dHhL9VNWO_A",
+    "https://note.com/fresh_viola853/n/n41946b328624",
     "https://note.jp/n/n0e68d175d67b",
-    "https://note.com/ika_yaki/n/ne33a40865eec",
+    "https://www.youtube.com/watch?v=dHhL9VNWO_A",
     "https://www.bizreach.jp/static/articles/jf-071/",
     "https://note.com/lofty_arnica8644/n/n4ebe1250b0c3"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -346,20 +358,22 @@
   {
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） X 投稿",
    "results": [
-    "https://www.youtube.com/watch?v=yU9r1jKcWsA",
     "https://www.pdf.com/ja/empowering-manufacturing-domain-experts-as-citizen-data-scientists/",
-    "https://www.rieti.go.jp/jp/publications/summary/25090017.html",
+    "https://www.youtube.com/watch?v=yU9r1jKcWsA",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.rieti.go.jp/jp/publications/summary/25090017.html",
     "https://fukuoka-ecsite.co.jp/blog/sns/x-posts-viral-sales-strategy/",
     "https://aixtal.com/blog-smalldata/",
-    "https://dcross.impress.co.jp/industry/column/column20190801/common/",
     "https://www.ajsa.or.jp/kentei/sns/x/x-works-for-which-industries.html",
-    "https://www.ipa.go.jp/publish/wp-dx/qv6pgp0000000txx-att/000093706.pdf"
+    "https://geniee.co.jp/media/cdp/demand-forecasting-manufacturing/",
+    "https://www.ipa.go.jp/publish/wp-dx/qv6pgp0000000txx-att/000093706.pdf",
+    "https://claria-legal.com/2026/07/15/退職した元従業員が顧客情報・マニュアルなどの/"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "independent study accuracy of company industry classification and employee counts databases small firms coverage site:linkedin.com",
@@ -370,26 +384,26 @@
     "https://www.linkedin.com/company/milliman",
     "https://www.linkedin.com/company/liberty-mutual-insurance",
     "https://www.linkedin.com/company/heffernan-insurance-brokers",
-    "https://www.linkedin.com/company/farmers-insurance",
-    "https://www.linkedin.com/in/amirsatvat",
-    "https://www.linkedin.com/company/the-hanover-insurance-group",
-    "https://in.linkedin.com/company/dun-&-bradstreet-india"
+    "https://in.linkedin.com/company/dun-&-bradstreet-india",
+    "https://www.linkedin.com/company/nfib",
+    "https://www.linkedin.com/company/oracle",
+    "https://www.linkedin.com/company/farmers-insurance"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ28頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）",
-  "実例": "記載なし（読んだ28頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-08T22:42:46.961959+00:00"
 }

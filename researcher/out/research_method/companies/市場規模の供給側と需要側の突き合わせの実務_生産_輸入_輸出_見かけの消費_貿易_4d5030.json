@@ -9,220 +9,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T22:46:43.607936+00:00",
+ "researched_at": "2026-11-09T09:32:08.596846+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ネットリサーチ（Webアンケート）を実施し、そのデータを必要に応じて拡大推計する形で推計します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模を把握することは、市場の成長性や参入余地の見極め、売上目標や投資額の妥当性の検証など、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "まずは信頼できるデータを集め、定義や対象範囲を整理しながら、複数の情報源を突き合わせて検証するのが基本です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "資料内には出荷量や生産量、事業所数、売上高など、市場規模の推計に直結する指標が数多く掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これらの公開データを土台にして前提条件を整理すれば、推計の客観的な根拠を明確に示せるようになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "し、他の情報源と突き合わせることでデータの信頼性をさらに高めることができます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "産業調査を専門とする調査会社の調査データや民間データベースの強みは、市場規模の推計だけでなく、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "どの企業やチャネルを対象にしているのか、どのような推計ロジックを用いているのか、単なる二次引用が重なったデータではないか、といった点を確認しなければ、見た目は精密でも「根拠の薄い引用」になってしまいます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模の算出方法（専門調査会社に依頼して推計する）",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "自社の課題や目的に合わせた「オーダーメイドの市場規模推計」が可能",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ネットリサーチ（Webアンケート）を用いた市場規模の推計",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この調査手法を用いた市場規模の推計では、主に需要側（消費者・ユーザー起点）のアプローチを活用し、以下のような計算式で市場規模を拡大推計",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定で市場規模を解く型｜需要側・供給側の使い分けから商材別の分解パターンまで解説",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルのケース面接で「〇〇の市場規模を推定してください」と言われた瞬間、何から手をつければよいか迷ってしまう方は少なくないのではないでしょうか",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模のフェルミ推定は、基本の解法手順に加えて「市場規模ならではの型」を持っておくと、迷わず組み立てられるようになります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側と供給側のどちらから攻めるか、市場をどの粒度で定義するかによって、進め方も検証のしやすさも大きく変わるためです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、需要側・供給側アプローチの使い分け、商材タイプ別の分解パターン、市場の定義と粒度の考え方を軸に、実際の統計値と照合する例題まで交えて解説します",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模推定の2大アプローチ｜需要側と供給側の使い分け",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模を解く5つのステップ｜前提確認から検証まで",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ5. 検証・回答",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例題で見る解答プロセス｜推定値と実際の統計を照合する",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側・供給側の数値を突き合わせずに結論を出してしまう",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模の推定は、新規事業への参入検討や海外展開の初期段階で使われる分析の入り口です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定のなかでも市場規模系の問題は、概算の練習にとどまらず、コンサルタントとしての基礎体力を測る問題として位置づけられます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この判断軸をどう使い分けるかが、市場規模のフェルミ推定における最初の分かれ道になります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定対策について詳しく知りたい方は、",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルの市場規模推定では、需要側アプローチと供給側アプローチという2つの型を使い分けます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In situations where estimates exist for the production of certain goods within geographic boundaries, trade analysis can help estimate the local demand for certain goods and services. This estimate for demand for a product within a country, called apparent consumption, takes into account a nation’s production as well as its imports and exports.",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, in 2016 Canada produced an estimated 8.7 million metric tons of barley (according to the UN’s Food and Agriculture Organization). In the same period, it exported 1.2 million metric tons of barley and imported less than 0.1 million metric tons. Therefore, apparent consumption of barley in Canada can be presumed to be approximately 7.5 million metric tons.",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Comparing exports to known production data of a country to identify potentially overestimated flows of goods",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Using value and volume estimates to roughly estimate export price and compare against known or suspected average pricing for goods",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5 Steps to Estimate Your Market Size",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
@@ -745,6 +533,218 @@
     "first_seen": "2026-11-08"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ネットリサーチ（Webアンケート）を実施し、そのデータを必要に応じて拡大推計する形で推計します",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "市場規模を把握することは、市場の成長性や参入余地の見極め、売上目標や投資額の妥当性の検証など、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "まずは信頼できるデータを集め、定義や対象範囲を整理しながら、複数の情報源を突き合わせて検証するのが基本です",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "資料内には出荷量や生産量、事業所数、売上高など、市場規模の推計に直結する指標が数多く掲載されています",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらの公開データを土台にして前提条件を整理すれば、推計の客観的な根拠を明確に示せるようになります",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "し、他の情報源と突き合わせることでデータの信頼性をさらに高めることができます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "産業調査を専門とする調査会社の調査データや民間データベースの強みは、市場規模の推計だけでなく、",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "どの企業やチャネルを対象にしているのか、どのような推計ロジックを用いているのか、単なる二次引用が重なったデータではないか、といった点を確認しなければ、見た目は精密でも「根拠の薄い引用」になってしまいます",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "市場規模の算出方法（専門調査会社に依頼して推計する）",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "自社の課題や目的に合わせた「オーダーメイドの市場規模推計」が可能",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ネットリサーチ（Webアンケート）を用いた市場規模の推計",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この調査手法を用いた市場規模の推計では、主に需要側（消費者・ユーザー起点）のアプローチを活用し、以下のような計算式で市場規模を拡大推計",
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェルミ推定で市場規模を解く型｜需要側・供給側の使い分けから商材別の分解パターンまで解説",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "戦略コンサルのケース面接で「〇〇の市場規模を推定してください」と言われた瞬間、何から手をつければよいか迷ってしまう方は少なくないのではないでしょうか",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "市場規模のフェルミ推定は、基本の解法手順に加えて「市場規模ならではの型」を持っておくと、迷わず組み立てられるようになります",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "需要側と供給側のどちらから攻めるか、市場をどの粒度で定義するかによって、進め方も検証のしやすさも大きく変わるためです",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この記事では、需要側・供給側アプローチの使い分け、商材タイプ別の分解パターン、市場の定義と粒度の考え方を軸に、実際の統計値と照合する例題まで交えて解説します",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "市場規模推定の2大アプローチ｜需要側と供給側の使い分け",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "市場規模を解く5つのステップ｜前提確認から検証まで",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ステップ5. 検証・回答",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例題で見る解答プロセス｜推定値と実際の統計を照合する",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "需要側・供給側の数値を突き合わせずに結論を出してしまう",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "市場規模の推定は、新規事業への参入検討や海外展開の初期段階で使われる分析の入り口です",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェルミ推定のなかでも市場規模系の問題は、概算の練習にとどまらず、コンサルタントとしての基礎体力を測る問題として位置づけられます",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この判断軸をどう使い分けるかが、市場規模のフェルミ推定における最初の分かれ道になります",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "フェルミ推定対策について詳しく知りたい方は、",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "戦略コンサルの市場規模推定では、需要側アプローチと供給側アプローチという2つの型を使い分けます",
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In situations where estimates exist for the production of certain goods within geographic boundaries, trade analysis can help estimate the local demand for certain goods and services. This estimate for demand for a product within a country, called apparent consumption, takes into account a nation’s production as well as its imports and exports.",
+    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For example, in 2016 Canada produced an estimated 8.7 million metric tons of barley (according to the UN’s Food and Agriculture Organization). In the same period, it exported 1.2 million metric tons of barley and imported less than 0.1 million metric tons. Therefore, apparent consumption of barley in Canada can be presumed to be approximately 7.5 million metric tons.",
+    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Comparing exports to known production data of a country to identify potentially overestimated flows of goods",
+    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Using value and volume estimates to roughly estimate export price and compare against known or suspected average pricing for goods",
+    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "5 Steps to Estimate Your Market Size",
+    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
@@ -830,123 +830,46 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Market Sizing for Remote Entry: TAM, SAM and SOM GuideHow to Calculate Apparent Consumption from Production ...Methodology for estimating market size and market forecastApparent Consumption Methodology - furnilytics.comImport Share and Export Exposure Methodology - furnilytics.comDescription of the International Trade Statistical Programest-consumption – ARTIS Manual - GitHub Pages — Nov 2, 2026 ·",
+    "url": "https://www.efinancialmodels.com/market-sizing-for-remote-entry-tam-sam-and-som-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/eartis_lab/n/n7d6cc33d7c8d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/vast_cosmos105/n/n60bfb73819bb",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://note.com/yukunews/n/nbc3224b6ef0a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/osuosu1123/n/nc88e8cd0192e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/rditikuden2026/n/n7accd1456fba",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/rditikuden2026/n/n81c78c1fcb3e",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/ote_walk/n/n84135dbb9b34",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.consulnote.com/articles/strategy/demand-side-strategy/",
+    "url": "https://note.com/_shiripa/n/n1d8773cec829",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/merry_hawk8363/n/nc732b2a88fb5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/minerva_growth/n/nd064bb2d899a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/hori_newh/n/n531bd4a0754c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.m-keiei.jp/musashinocolumn/shizyoukibo",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://prtimes.com/magazine/market-size/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://proffit.jp/column/1/4FNysU9V",
+    "url": "https://note.com/clean_bee375/n/n1cb7aee576eb",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://nvs.nikkei.co.jp/research/20251014-column/",
+    "url": "https://note.com/sho_mktg/n/n9730324ee96d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.cross-m.co.jp/column/marketing/mkc20260109",
+    "url": "https://note.com/quirky_frog4014/n/nb6fadc0b2508",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.ub-speeda.com/document/column_17/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.giken.co.jp/column/demand-forecast-5/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.loyalty.co.jp/column/083/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://merc.e.u-tokyo.ac.jp/shintaku/lecture/s2/lecture/5_SCM_and_Business_Model.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://diamond.jp/articles/-/178529",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jmac.co.jp/column/detail/mchie012.html",
+    "url": "https://note.com/sghr_tkn/n/n08091a6ba8b3",
     "status": "ok",
     "method": "http"
    },
@@ -956,33 +879,63 @@
     "method": "http"
    },
    {
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
+    "url": "https://kuroma-akuto.com/?p=9994",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akagiconsulting.com/blog/fermi-estimate/1202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.growthbrief.jp/insights/market-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.efinancialmodels.com/market-sizing-for-remote-entry-tam-sam-and-som-guide/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sellersgpt.com/knowledge/how-to-calculate-apparent-consumption-from-production-imports-and-exports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://commodityinside.com/research-and-consulting/market-size-market-forecast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furnilytics.com/about/methodology/apparent-consumption/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furnilytics.com/about/methodology/import-share-export-exposure/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.census.gov/foreign-trade/guide/sec2.html",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.boj.or.jp/en/research/brp/ron_2017/data/ron170420a.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.nature.com/articles/s41599-024-02731-0",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.usitc.gov/special_topic_value_added_measurement_trade.htm",
-    "status": "http_403",
     "method": "http"
    }
   ]
@@ -991,1065 +944,197 @@
   {
    "query": "市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115） site:note.com",
    "results": [
-    "https://note.com/eartis_lab/n/n7d6cc33d7c8d",
-    "https://note.com/vast_cosmos105/n/n60bfb73819bb",
-    "https://note.com/yukunews/n/nbc3224b6ef0a",
-    "https://note.com/osuosu1123/n/nc88e8cd0192e",
-    "https://note.com/rditikuden2026/n/n7accd1456fba",
-    "https://note.com/rditikuden2026/n/n81c78c1fcb3e",
-    "https://note.com/better_equation/n/na2801a8c2a72",
-    "https://note.com/frameworkstudy/n/n473465429069",
-    "https://note.com/hirokimiyano/n/nfe47827fa9eb",
-    "https://note.com/strategy_aigov/n/n312758bf6555"
+    "https://note.com/ote_walk/n/n84135dbb9b34",
+    "https://note.com/_shiripa/n/n1d8773cec829",
+    "https://note.com/clean_bee375/n/n1cb7aee576eb",
+    "https://note.com/sho_mktg/n/n9730324ee96d",
+    "https://note.com/quirky_frog4014/n/nb6fadc0b2508",
+    "https://note.com/sghr_tkn/n/n08091a6ba8b3",
+    "https://note.com/ote_walk/n/n6b8e3e787839"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115） note",
    "results": [
+    "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "https://note.com/clean_bee375/n/n1cb7aee576eb",
+    "https://kuroma-akuto.com/?p=9994",
     "https://note.com/ote_walk/n/n84135dbb9b34",
-    "https://www.consulnote.com/articles/strategy/demand-side-strategy/",
-    "https://note.com/merry_hawk8363/n/nc732b2a88fb5",
-    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://note.com/minerva_growth/n/nd064bb2d899a",
-    "https://note.com/vast_cosmos105/n/n60bfb73819bb",
-    "https://note.com/hori_newh/n/n531bd4a0754c",
-    "https://note.com/majgdtg/n/n4f1e72470f35",
-    "https://www.canon-its.co.jp/corporate/station/innovation-insights/vol-05-seconnd-half",
-    "https://akagiconsulting.com/blog/fermi-estimate/3502/"
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://akagiconsulting.com/blog/fermi-estimate/1202/",
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115） やり方",
    "results": [
+    "https://kuroma-akuto.com/?p=9994",
+    "https://www.growthbrief.jp/insights/market-analysis",
+    "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://note.com/ote_walk/n/n84135dbb9b34",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://www.m-keiei.jp/musashinocolumn/shizyoukibo",
-    "https://prtimes.com/magazine/market-size/",
-    "https://proffit.jp/column/1/4FNysU9V",
-    "https://nvs.nikkei.co.jp/research/20251014-column/",
-    "https://www.cross-m.co.jp/column/marketing/mkc20260109",
-    "https://jp.ub-speeda.com/document/column_17/",
-    "https://www.macromill.com/service/column/entry-003/",
-    "https://www.rjc.co.jp/column/262",
-    "https://www.growthbrief.jp/insights/market-analysis"
+    "https://note.com/clean_bee375/n/n1cb7aee576eb"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115） 事例",
    "results": [
-    "https://www.m-keiei.jp/musashinocolumn/shizyoukibo",
+    "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "https://kuroma-akuto.com/?p=9994",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://note.com/clean_bee375/n/n1cb7aee576eb",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://www.consulnote.com/articles/strategy/demand-side-strategy/",
-    "https://www.giken.co.jp/column/demand-forecast-5/",
-    "https://nvs.nikkei.co.jp/research/20251014-column/",
-    "https://biz.loyalty.co.jp/column/083/",
-    "https://merc.e.u-tokyo.ac.jp/shintaku/lecture/s2/lecture/5_SCM_and_Business_Model.pdf",
-    "https://diamond.jp/articles/-/178529",
-    "https://www.jmac.co.jp/column/detail/mchie012.html",
-    "https://akagiconsulting.com/blog/fermi-estimate/3502/"
+    "https://note.com/_shiripa/n/n1d8773cec829",
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "apparent consumption production plus imports minus exports market sizing method trade statistics",
    "results": [
-    "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
+    "https://www.efinancialmodels.com/market-sizing-for-remote-entry-tam-sam-and-som-guide/",
+    "https://sellersgpt.com/knowledge/how-to-calculate-apparent-consumption-from-production-imports-and-exports/",
+    "https://commodityinside.com/research-and-consulting/market-size-market-forecast/",
+    "https://www.furnilytics.com/about/methodology/apparent-consumption/",
+    "https://www.furnilytics.com/about/methodology/import-share-export-exposure/",
     "https://www.census.gov/foreign-trade/guide/sec2.html",
-    "https://www.boj.or.jp/en/research/brp/ron_2017/data/ron170420a.pdf",
-    "https://www.nature.com/articles/s41599-024-02731-0",
-    "https://www.bea.gov/resources/methodologies/nipa-handbook/pdf/chapter-08.pdf",
-    "https://www.usitc.gov/special_topic_value_added_measurement_trade.htm",
-    "https://r.tiid.org/Trade_indicators/trade-and-economy.html",
-    "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr968.pdf",
-    "https://www.ecb.europa.eu/home/pdf/research/compnet/DEVEC_1670.pdf?57a5265fab96f74f6f7a2ab0464575d3",
-    "https://sellersgpt.com/knowledge/how-to-calculate-apparent-consumption-from-production-imports-and-exports/"
+    "https://seafood-globalization-lab.github.io/artis-manual/artis-our-model/est-consumption.html"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "site:note.com 市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115）",
    "results": [
-    "https://note.com/eartis_lab/n/n7d6cc33d7c8d",
-    "https://note.com/yukunews/n/nbc3224b6ef0a",
-    "https://note.com/vast_cosmos105/n/n60bfb73819bb",
-    "https://note.com/osuosu1123/n/nc88e8cd0192e",
-    "https://note.com/rditikuden2026/n/n7accd1456fba",
-    "https://note.com/rditikuden2026/n/n81c78c1fcb3e",
-    "https://note.com/strategy_aigov/n/n312758bf6555",
-    "https://note.com/gridshift/n/n342d58625033",
-    "https://note.com/better_equation/n/na2801a8c2a72",
-    "https://note.com/frameworkstudy/n/n473465429069"
+    "https://note.com/ote_walk/n/n84135dbb9b34",
+    "https://note.com/_shiripa/n/n1d8773cec829",
+    "https://note.com/sho_mktg/n/n9730324ee96d",
+    "https://note.com/clean_bee375/n/n1cb7aee576eb",
+    "https://note.com/quirky_frog4014/n/nb6fadc0b2508",
+    "https://note.com/ote_walk/n/n6b8e3e787839",
+    "https://note.com/sghr_tkn/n/n08091a6ba8b3"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:x.com 市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115）",
-   "results": [
-    "https://x.com/luigi_jpn/status/2117205424495559062",
-    "https://x.com/searched_press/article/2080307760659624367",
-    "https://x.com/KagawaTomo/article/2084485783516332520",
-    "https://x.com/KagawaTomo/article/2080578592044724258",
-    "https://x.com/KagawaTomo/article/2079337659743563951",
-    "https://x.com/client2728770/article/2102749395813126482",
-    "https://x.com/KagawaTomo/article/2077860581412114800",
-    "https://x.com/KagawaTomo/status/2116445181717442741",
-    "https://x.com/searched_press/article/2101113036954378358",
-    "https://x.com/KagawaTomo/status/2110692193677787567"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115）",
    "results": [
-    "https://www.linkedin.com/pulse/quickreleasecoupling%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86-7516365347210391553-tidjf/",
-    "https://www.linkedin.com/pulse/%E9%A3%9F%E5%93%81drink%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E6%B3%A8%E7%9B%AE%E8%AA%B2%E9%A1%8C-mastering-markets-one-insight-at-a-t2e6f/",
-    "https://www.linkedin.com/pulse/polyalphaolefinpaolubricants%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8-7516380737668030464-ioibf/",
-    "https://www.linkedin.com/pulse/diabetesdrugs%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E6%B3%A8%E7%9B%AE%E8%AA%B2%E9%A1%8C-pulsegrid-analytics-mri-lff22-qet9f/",
-    "https://www.linkedin.com/pulse/grainorientedelectrical%E9%8B%BC%E9%89%84%E3%82%B7%E3%83%BC%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8-7516353541536460800-z39cf/",
-    "https://jp.linkedin.com/pulse/screwpressconsumption%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5-7516350106284212224-k7i3f",
-    "https://jp.linkedin.com/pulse/irradiationapparatus%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86-7516352943898529792-2602f",
-    "https://www.linkedin.com/pulse/humidifierhighpressure%E3%83%9D%E3%83%B3%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E6%B3%A8%E7%9B%AE-7516356829031968768-hq9bf/",
-    "https://www.linkedin.com/pulse/auto%E7%BE%8E%E5%AE%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E6%B3%A8%E7%9B%AE%E8%AA%B2%E9%A1%8C-global-market-intelligence-analyti-n361f/",
-    "https://www.linkedin.com/pulse/xylanase%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E6%B3%A8%E7%9B%AE%E8%AA%B2%E9%A1%8C-mri-rx-trend-innovate-fth9f/"
+    "https://jp.linkedin.com/pulse/from-supply-side-gtm-demand-side-marcus-cauchi-yj5kf?tl=ja",
+    "https://jp.linkedin.com/pulse/how-do-you-segment-supply-side-marketplace-mckenna-sweazey-vycxc?tl=ja",
+    "https://www.linkedin.com/pulse/装置case市場の動向と市場展望用途別分析競争環境注目課題-global-market-development-and-comp-02d2f/",
+    "https://www.linkedin.com/pulse/lifescienceanalyticalinstrumentsconsumptio-7516389558620557313-ziv9f/",
+    "https://www.linkedin.com/pulse/juiceextractorconsumption市場の動向と市場展望用途別分析競争環境注目課-7516389408745594880-x7bif/",
+    "https://www.linkedin.com/pulse/higher教育catalogcurriculum管理ソリューション市場の動向と市場展望用途別分-7516365716401475585-bozaf/",
+    "https://www.linkedin.com/pulse/太陽光cellphotovoltaic装置市場の動向と市場展望用途別-7516370276788547585-lxbuf/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115）",
    "results": [
-    "https://www.facebook.com/kaoru.morishita.1291/",
     "https://www.facebook.com/occto.jp/posts/お知らせ以下の容量市場業務マニュアル対象実需給2026年度の意見募集を開始しましたリクワイアメントペナルティ容量確保契約金額容量拠出金関係詳しくはこちら-htt/808219338420130/",
     "https://www.facebook.com/occto.jp/posts/お知らせ-容量市場の実需給2024年度に係る以下の実務に関する説明会を開催します容量拠出金対応開催日-829831参加申込締切823-15時-詳しくはこちらht/301179895790746/",
-    "https://www.facebook.com/occto.jp/posts/お知らせ-容量市場の実需給2025年度に係る以下の実務に関する説明会を開催します容量拠出金対応開催日時-1023-1000-1130参加申込締切-1017-15/544320414810025/",
-    "https://www.facebook.com/Officebeplus/posts/当オフィスではデマンドサイド需要側とサプライサイド供給側のニーズとシーズに合わせてマッチングしサービス販売取引等が円滑に進む様コーディネートします又必要に応じて/491643540848364/",
-    "https://www.facebook.com/occto.jp/posts/お知らせ容量市場の実需給2024年度に係る以下の実務に関する説明会を開催しますリクワイアメントペナルティ容量確保契約金額対応第2回目開催日-118119参加申込/368867469021988/",
     "https://www.facebook.com/occto.jp/posts/お知らせ-容量市場-実務説明会容量停止計画の調整業務対象実需給年度2026年度を開催します是非ご参加ください2024624月-14001530-詳しくはこちら-/468851075690293/",
-    "https://www.facebook.com/occto.jp/posts/288754417033294/"
+    "https://www.facebook.com/occto.jp/posts/お知らせ容量市場の実需給2024年度に係る以下の実務に関する説明会を開催しますリクワイアメントペナルティ容量確保契約金額対応第2回目開催日-118119参加申込/368867469021988/",
+    "https://www.facebook.com/Officebeplus/posts/当オフィスではデマンドサイド需要側とサプライサイド供給側のニーズとシーズに合わせてマッチングしサービス販売取引等が円滑に進む様コーディネートします又必要に応じて/491643540848364/",
+    "https://www.facebook.com/occto.jp/posts/288754417033294/",
+    "https://www.facebook.com/reel/1210113553796178/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115） note 社長",
    "results": [
-    "https://note.com/skomeda/n/nc6db34004152",
+    "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "https://note.com/clean_bee375/n/n1cb7aee576eb",
+    "https://note.com/ote_walk/n/n84135dbb9b34",
+    "https://kuroma-akuto.com/?p=9994",
+    "https://teikoku-no1.jp/industry-research",
     "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "https://note.com/minerva_growth/n/nd064bb2d899a",
-    "https://note.com/bespokepartner/n/n3b0e4b414ebc",
-    "https://www.youtube.com/watch?v=xSgsGquzBWo",
-    "https://note.com/tkano/n/n65869af449d1",
-    "https://agenda-note.com/customer/detail/id=8724",
-    "https://bizzine.jp/article/detail/1373?p=3",
-    "https://dentsu-ho.com/articles/4518",
-    "https://akagiconsulting.com/blog/fermi-estimate/3502/"
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "市場規模の供給側と需要側の突き合わせの実務（生産＋輸入−輸出・見かけの消費・貿易統計の品目番号・在庫の扱い・4-115） X 投稿",
    "results": [
-    "https://www.meti.go.jp/shingikai/energy_environment/doji_shijo_kento/pdf/025_04_00.pdf",
-    "https://www.humancentrix.com/columns/x-btob-marketing",
-    "https://note.com/hori_newh/n/n531bd4a0754c",
-    "https://www.tribalmedia.co.jp/note/marketing-1068/",
-    "https://www.wantedly.com/companies/liddell/post_articles/985591",
-    "https://tatap.jp/knowledge/ec-d2c-x-162/",
-    "https://www.molex.com/ja-jp/blog/mitigating-supply-chain-disruptions-through-demand-planning",
-    "https://prx.dentsuprc.co.jp/blog/c111",
-    "https://www.interfactory.co.jp/blog/x-marketing/",
-    "https://akagiconsulting.com/blog/fermi-estimate/3502/"
+    "https://akagiconsulting.com/blog/fermi-estimate/3502/",
+    "https://kuroma-akuto.com/?p=9994",
+    "https://timewell.jp/columns/market-sizing-tam-sam-som",
+    "https://www.crex-data.com/industry/media-it/telecom-infra/market-size",
+    "https://note.com/clean_bee375/n/n1cb7aee576eb",
+    "https://dataimpulse.com/ja-jp/blog/market-research-data-sources/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "apparent consumption production plus imports minus exports market sizing method trade statistics site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/behind-numbers-how-pakistan-compiles-its-national-accounts-junaid-qqivf",
-    "https://www.linkedin.com/posts/iani-a-chihaia-a3b08611_poultry-qatar-chicken-activity-7509622910819598336-Kukf",
-    "https://www.linkedin.com/pulse/economics-how-measure-countrys-economy-wealth-nataliya-kholod-pkrpe",
-    "https://www.linkedin.com/pulse/eu-ban-destroying-unsold-textiles-how-dpps-agentic-commerce-st%C3%B6cker-hwxte",
-    "https://www.linkedin.com/in/bob-mcnab-1b149a75",
-    "https://www.linkedin.com/in/chansamkim",
-    "https://ng.linkedin.com/in/nkwocha-chima",
-    "https://www.linkedin.com/pulse/navigating-depths-expert-guide-global-mining-project-finance-santos-lqmuf",
-    "https://www.linkedin.com/in/alan-butcher-462606b",
-    "https://fj.linkedin.com/in/lui-kacilala-695720227"
+    "https://www.linkedin.com/advice/0/how-can-you-calculate-balance-trade-skills-economics-mytse",
+    "https://www.linkedin.com/pulse/market-sizing-strategic-approach-understanding-tam-sam-sajal-roy-t7adf?tl=en",
+    "https://uk.linkedin.com/company/container-trades-statistics-limited",
+    "https://www.linkedin.com/pulse/macroeconomics-international-trade-demandsupply-ashish-agarwal",
+    "https://www.linkedin.com/pulse/what-2024-weakening-real-steel-consumption-trend-some-arellano-cfa-9rbsc",
+    "https://www.linkedin.com/pulse/tam-sam-som-comprehensive-guide-strategic-market-sizing-mohidul-alam-cjefc",
+    "https://www.linkedin.com/pulse/market-sizing-techniques-accurate-business-forecasting-munish-syal-cqgpf"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {
-  "突き合わせ・推定": [
+  "検索結果の抜粋": [
    {
-    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
+    "quote": "Market Sizing for Remote Entry: TAM, SAM and SOM GuideHow to Calculate Apparent Consumption from Production ...Methodology for estimating market size and market forecastApparent Consumption Methodology - furnilytics.comImport Share and Export Exposure Methodology - furnilytics.comDescription of the International Trade Statistical Programest-consumption – ARTIS Manual - GitHub Pages — Nov 2, 2026 ·",
+    "url": "https://www.efinancialmodels.com/market-sizing-for-remote-entry-tam-sam-and-som-guide/",
     "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ネットリサーチ（Webアンケート）を実施し、そのデータを必要に応じて拡大推計する形で推計します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模を把握することは、市場の成長性や参入余地の見極め、売上目標や投資額の妥当性の検証など、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "まずは信頼できるデータを集め、定義や対象範囲を整理しながら、複数の情報源を突き合わせて検証するのが基本です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "資料内には出荷量や生産量、事業所数、売上高など、市場規模の推計に直結する指標が数多く掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これらの公開データを土台にして前提条件を整理すれば、推計の客観的な根拠を明確に示せるようになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "し、他の情報源と突き合わせることでデータの信頼性をさらに高めることができます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "産業調査を専門とする調査会社の調査データや民間データベースの強みは、市場規模の推計だけでなく、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "どの企業やチャネルを対象にしているのか、どのような推計ロジックを用いているのか、単なる二次引用が重なったデータではないか、といった点を確認しなければ、見た目は精密でも「根拠の薄い引用」になってしまいます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模の算出方法（専門調査会社に依頼して推計する）",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "自社の課題や目的に合わせた「オーダーメイドの市場規模推計」が可能",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ネットリサーチ（Webアンケート）を用いた市場規模の推計",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この調査手法を用いた市場規模の推計では、主に需要側（消費者・ユーザー起点）のアプローチを活用し、以下のような計算式で市場規模を拡大推計",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定で市場規模を解く型｜需要側・供給側の使い分けから商材別の分解パターンまで解説",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルのケース面接で「〇〇の市場規模を推定してください」と言われた瞬間、何から手をつければよいか迷ってしまう方は少なくないのではないでしょうか",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模のフェルミ推定は、基本の解法手順に加えて「市場規模ならではの型」を持っておくと、迷わず組み立てられるようになります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側と供給側のどちらから攻めるか、市場をどの粒度で定義するかによって、進め方も検証のしやすさも大きく変わるためです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、需要側・供給側アプローチの使い分け、商材タイプ別の分解パターン、市場の定義と粒度の考え方を軸に、実際の統計値と照合する例題まで交えて解説します",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模推定の2大アプローチ｜需要側と供給側の使い分け",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模を解く5つのステップ｜前提確認から検証まで",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ5. 検証・回答",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例題で見る解答プロセス｜推定値と実際の統計を照合する",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側・供給側の数値を突き合わせずに結論を出してしまう",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模の推定は、新規事業への参入検討や海外展開の初期段階で使われる分析の入り口です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定のなかでも市場規模系の問題は、概算の練習にとどまらず、コンサルタントとしての基礎体力を測る問題として位置づけられます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この判断軸をどう使い分けるかが、市場規模のフェルミ推定における最初の分かれ道になります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定対策について詳しく知りたい方は、",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルの市場規模推定では、需要側アプローチと供給側アプローチという2つの型を使い分けます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In situations where estimates exist for the production of certain goods within geographic boundaries, trade analysis can help estimate the local demand for certain goods and services. This estimate for demand for a product within a country, called apparent consumption, takes into account a nation’s production as well as its imports and exports.",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, in 2016 Canada produced an estimated 8.7 million metric tons of barley (according to the UN’s Food and Agriculture Organization). In the same period, it exported 1.2 million metric tons of barley and imported less than 0.1 million metric tons. Therefore, apparent consumption of barley in Canada can be presumed to be approximately 7.5 million metric tons.",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Comparing exports to known production data of a country to identify potentially overestimated flows of goods",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Using value and volume estimates to roughly estimate export price and compare against known or suspected average pricing for goods",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5 Steps to Estimate Your Market Size",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "総務省統計局、統計研究研修所の共同運営",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "自社の調査目的に合致した統計を選択すること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "代表的な業界団体・協会の調査データを下表にまとめました",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "生産統計（数字でわかる！見て学ぶ！2026",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、需要側・供給側アプローチの使い分け、商材タイプ別の分解パターン、市場の定義と粒度の考え方を軸に、実際の統計値と照合する例題まで交えて解説します",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例題で見る解答プロセス｜推定値と実際の統計を照合する",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人口統計を起点にできるため、国内市場全体のようなマクロな対象を推定するときに使いやすいアプローチです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人口や世帯数といった統計は公的機関の数値を引用しやすく、仮定の根拠を面接官に説明しやすい点も需要側アプローチのメリットです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "店舗数や事業者数といった供給側の統計が手に入りやすい、ミクロな対象を推定するときに向いています",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人口や世帯数など公的統計で裏付けられる数値は積極的に使い、感覚に頼る部分は「〇〇程度と仮定します」と明示すると、",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "既知の統計値や身近な感覚と照らし合わせる検証の一手間が、フェルミ推定の説得力を大きく左右します",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側アプローチを使った2つの例題を通じて、推定値と実際の統計値を照合するプロセスを確認しましょう",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "日本自動車販売協会連合会 新車販売台数統計",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人口や世帯数のように公的統計で裏付けられる数値を使わずに、感覚だけで仮置きしてしまうと、面接官から「その数字はどこから来たのか」と問われたときに答えに窮してしまいます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "既知の統計値や身近な感覚と照らし合わせる検証の一手間を省くと、桁違いの数値であっても気づけないまま面接官に伝えてしまいます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "人材紹介大手3社転職実績集計結果",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "前提条件の置き方によって結果が大きく変動します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "結果を左右する重要なパラメータを見極めること",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルのケース面接で「〇〇の市場規模を推定してください」と言われた瞬間、何から手をつければよいか迷ってしまう方は少なくないのではないでしょうか",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ケース面接での使い方｜略語より「どの粒度か」を示す",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルのケース面接で市場規模が問われるのは、単に計算力を測るためではありません",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "電卓が使えれば解ける問題であれば、ケース面接でわざわざ出題する意味がありません",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ケース面接でこの3つの略語を使うこと自体が評価されるわけではありません",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "算出した数値の妥当性を確認しないまま、そのまま回答としてしまうケースもあります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本番のケース面接は、紙に書いて提出する試験ではなく、面接官と対話しながら思考過程を",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本記事のテーマを頭で理解しても、実際のケース面接で使いこなせるかどうかは別問題です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは、MBB内定者・出身者によるマンツーマンの模擬ケース面接指導を提供しています",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本番形式の模擬ケース面接を、",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Strategistsでは、MBB出身者・内定者の講師が実際の過去問で模擬ケース面接を行い、現状のレベルと改善点をその場でフィードバックします",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定のグループディスカッション対策｜個人ケースとの違いと評価される立ち回り方",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "©︎ ケース面接対策塾 Strategists",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For example, in 2016 Canada produced an estimated 8.7 million metric tons of barley (according to the UN’s Food and Agriculture Organization). In the same period, it exported 1.2 million metric tons of barley and imported less than 0.1 million metric tons. Therefore, apparent consumption of barley in Canada can be presumed to be approximately 7.5 million metric tons.",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介 - 【公式】| 市場調査・マーケティングリサーチ会社のアスマーク",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模の調べ方・算出方法は？具体例および情報ソースなどを紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3つの算出方法",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ご自身で算出可能な方法は、既存データで調査する（購入が必要な場合もある）手法とご自身で推計する方法の2つです",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "もう1つの方法は、消費者調査を専門とする調査会社に依頼する方法です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この数値は、対象とする製品や地域といった「市場の範囲」のほか、「集計方法（出荷ベースか販売ベースか、あるいはメーカー売上か小売売上か）」や「期間の設定」によって大きく変動します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、マーケティングにおける商品開発とは何かについて、その進め方や活用できるフレームワーク、さらには成功に導くための重要ポイントなどを解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "短期間で実施しやすく、同じ方法で再検証しやすい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "調査データやレポートを活用する際は、製品範囲や地域などの定義、回答の集計方法、輸出入の扱いを必ずチェックしましょう",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "＜関連コラム＞ 市場調査の依頼方法は？相場（費用感）や成功させるためのポイントなど紹介",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "フェルミ推定で市場規模を解く型｜需要側・供給側の使い分けから商材別の分解パターンまで解説",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模のフェルミ推定は、基本の解法手順に加えて「市場規模ならではの型」を持っておくと、迷わず組み立てられるようになります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側と供給側のどちらから攻めるか、市場をどの粒度で定義するかによって、進め方も検証のしやすさも大きく変わるためです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模を解く5つのステップ｜前提確認から検証まで",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ1. 前提確認",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ2. 要素分解",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ3. 仮定設定",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ4. 計算",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ステップ5. 検証・回答",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ケース面接での使い方｜略語より「どの粒度か」を示す",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "戦略コンサルの市場規模推定では、需要側アプローチと供給側アプローチという2つの型を使い分けます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側アプローチは、その商品・サービスを使う人の数と、1人あたりの利用量・単価を掛け合わせて市場規模を積み上げる方法です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "供給側アプローチは、その商品・サービスを提供する事業者の数と、1事業者あたりの供給量・売上を掛け合わせる方法です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模のフェルミ推定は、行き当たりばったりに数字を当てはめるのではなく、決まった手順で組み立てると精度と説得力が上がります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここでは基本となる5つのステップを解説します",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "5 Steps to Estimate Your Market Size",
-    "url": "https://blog.marketresearch.com/imports-and-exports-the-benefits-of-utilizing-trade-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この手法で最も注意すべきは、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "もう一つの落とし穴は、",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "乖離が大きい場合は、定義のズレや前提の誤りを点検する重要な手がかりになります",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "● 設問設計による回答バイアスを最小限に抑えたい",
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「フェルミ推定」という言葉は聞いたことがあっても、具体的に何を問われ、面接官は何を見ているのかがわかっていない状態では、対策の方向を誤りがちです",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "市場規模のフェルミ推定では、同じような失敗パターンが繰り返し見られます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "代表的な失敗を型として押さえておくと、本番での減点を避けやすくなります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "まず押さえておきたいのは、「市場規模」というお題を受け取った直後、対象範囲を面接官とすり合わせないまま計算に入ってしまう失敗です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "需要側と供給側のどちらか一方だけで計算し、突き合わせをせずに結論としてしまう失敗もあります",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "仮定の数値に根拠を示さず、勢いだけで数字を当てはめてしまう失敗も見られます",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これら4つの失敗に共通するのは、分解の根拠を面接官に説明できていない点です",
-    "url": "https://akagiconsulting.com/blog/fermi-estimate/3502/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-09"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-08T22:46:43.607936+00:00"
 }

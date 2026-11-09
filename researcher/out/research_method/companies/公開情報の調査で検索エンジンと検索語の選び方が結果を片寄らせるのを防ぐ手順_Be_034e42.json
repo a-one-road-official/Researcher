@@ -8,211 +8,17 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-08T22:53:10.357774+00:00",
+ "researched_at": "2026-11-09T09:30:00.712708+00:00",
  "evidence": {
-  "一次情報の探し方": [
+  "突き合わせ・推定": [
    {
-    "quote": "インターネット標準は、高い技術的品質、コミュニティのコンセンサスによるサポート、インターネットに対する全体的なメリットなど、一連の基準に基づいて採用されています",
+    "quote": "真正性：本物であり、検証および信頼できる特性",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "この変換プロセスは、基礎となるプロトコルの述べられたエンドツーエンドプロセス[NATusage]に反するプロセスを促進しているにもかかわらず、広く採用されています",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "の定義も1990年代に発生しましたが、HTTPが開発者によるそのような暗号化層の使用を義務付けていないという事実そして、暗号化の採用が非常に遅れた理由の1つはサービスプロバイダーでした",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここ数年で、SSL/TLSをHTTPベースのアプリケーションの安全なトラフィックレイヤーとして採用する傾向が高まっていますが、World Wide Webでのユビキタスな暗号化の使用はまだ見られていません",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "SSL/TLSの採用も比較的最近の現象であることを考慮することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、暗号化されていないHTTP通信の同様の大量傍受は、国有のISPを制御し、市販の監視、収集、検閲装置を使用することによって、一部の民主主義国でも国レベルでよく採用されています",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "彼らの一部がHTTP通信に対してネットワークトラフィック操作攻撃を実行するために考案および作成した技術は、米国での特許出願の対象でさえある[Googlepatent]",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "広く採用されている場合、適切に設計された耐性のあるP2Pネットワークは、将来の安全で分散されたインターネットの重要なコンポーネントとなり、言論の自由と情報の自由を大規模に実現する可能性があります",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "標準が完全に実装されるのを妨げる特許を知っていますか",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "規範的に実装する必要のあるすべての標準は自由に利用でき、特許侵害の申し立てに対して合理的な保護を提供する必要があります",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "特許は、特に暗号化[Newegg]の分野で、オープンな標準化を阻んだり、オープンな標準を展開しているものに対して使用されてきました",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "オープンスタンダードまたは他のスタンダードへの規範的な参照の特許には、特許の開示[notewell]、ロイヤルティフリーライセンス[特許ポリシー]、または他の何らかの形の合理的な保護が必要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "合理的な特許保護には、暗号プリミティブが含まれますが、これに限定されません",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "[Aryan-etal] Aryan, S., Aryan, H., and J. Alex Halderman, \"Internet Censorship in Iran: A First Look\", 2013, <https://jhalderm.com/pub/papers/iran-foci13.pdf>.",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "[Aryan-etal] Aryan, S., Aryan, H., and J. Alex Halderman、「イランのインターネット検閲：初見」、2013、<https://jhalderm.com/pub/papers/iran-foci13.pdf>",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDF Portable Document Format",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pdf?x32994.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "これらのドキュメントは、このドキュメントに関するあなたの権利と制限について説明しているため、注意深く確認してください",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "彼らは、明確な主張をするのは時期尚早であるが、プロトコル設計の選択が人権に与える影響をより注意深く分析する必要があると主張しています",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "さらに、（1）特定のプロトコルが人権に与える影響の注意深い検討、および（2）人権に関連するプロトコル設計の決定を文書化する慣行の普及に貢献します",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでの評価は、これらのプロトコルに関する一般的な判断ではなく、これらのプロトコルが持つ可能性のある人権に対するすべての潜在的なマイナスまたはプラスの影響の完全なリストではないことに注意することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、DNSSECは現在ドメイン名レジストラで広くサポートまたは展開されていないため、認証して正しく使用することが難しいことに注意することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "攻撃者は、Sybil攻撃を使用して、P2Pネットワークが攻撃者の利点に集合的に行う選択にバイアスをかけることができます",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このコンテキストでのSybil攻撃（たとえば、宇宙飛行）は、P2Pプロトコル以外にも関連があることに注意することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「すべてのインターネットユーザーは、特定のWebサイトにアクセスしようとして失敗したときに、「404 Not Found」ハイパーテキスト転送プロトコル（HTTP）ステータスコードに遭遇しました」[Cath]",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それにもかかわらず、HTTPステータスコード451は検閲のすべての状況を検出するソリューションではないことに注意することが重要です",
+    "quote": "DNSSECによる認証では、レコードの検証パスが作成されます",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -224,118 +30,22 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "このセクションで提供されるガイダンスは、特定のプラクティスを推奨するものではないことに注意してください",
+    "quote": "これらの文書によると、ICTシステムに関連する人権のいくつかの例は、人間の尊厳（第1条UDHR）、非差別（第2条）、生命、自由および安全に対する権利（第3条）、意見の自由および表現（第19条）、集会および結社の自由（第20条）、平等保護の権利、法的救済、公正な裁判、デュープロセス、無罪と推定（第7-11条）、適切な社会的および国際的秩序（第19条） 28）、広報への参加（第21条）、文化生活への参加、知的財産の保護（第27条）、およびプライバシー（第12条）",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "（識別子など、一部の文字列はコンテンツ要素とプロトコル要素の両方であることに注意してください",
+    "quote": "あなたのプロトコルはペイロードデータの正確性を維持、保証、検証しますか？",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "信頼性のために、パケット配信が失敗した場合、サービスがユーザーに通知する必要があります",
+    "quote": "例：データの整合性検証は、脆弱性や中間者攻撃などの攻撃を防ぐために重要です",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "インターネットの根本的にオープンな性質を維持し、インターネットの開発を継続できるようにするには、無許可のイノベーションの維持または削減に対するプロトコルの影響に注意する必要があります",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and structural biases to affect their work and",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Inherent biases in the Internet’s architecture",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "counterbalance such biases by applying",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "correct for their own biases, which may be",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "chances of biased selection, interpretation and",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biases in the data available online. All of",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
    }
   ],
   "実例": [
@@ -515,6 +225,158 @@
    },
    {
     "quote": "making functions – for example, to inform",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "インターネット標準は、高い技術的品質、コミュニティのコンセンサスによるサポート、インターネットに対する全体的なメリットなど、一連の基準に基づいて採用されています",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この変換プロセスは、基礎となるプロトコルの述べられたエンドツーエンドプロセス[NATusage]に反するプロセスを促進しているにもかかわらず、広く採用されています",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "の定義も1990年代に発生しましたが、HTTPが開発者によるそのような暗号化層の使用を義務付けていないという事実そして、暗号化の採用が非常に遅れた理由の1つはサービスプロバイダーでした",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここ数年で、SSL/TLSをHTTPベースのアプリケーションの安全なトラフィックレイヤーとして採用する傾向が高まっていますが、World Wide Webでのユビキタスな暗号化の使用はまだ見られていません",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "SSL/TLSの採用も比較的最近の現象であることを考慮することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、暗号化されていないHTTP通信の同様の大量傍受は、国有のISPを制御し、市販の監視、収集、検閲装置を使用することによって、一部の民主主義国でも国レベルでよく採用されています",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "彼らの一部がHTTP通信に対してネットワークトラフィック操作攻撃を実行するために考案および作成した技術は、米国での特許出願の対象でさえある[Googlepatent]",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "広く採用されている場合、適切に設計された耐性のあるP2Pネットワークは、将来の安全で分散されたインターネットの重要なコンポーネントとなり、言論の自由と情報の自由を大規模に実現する可能性があります",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "標準が完全に実装されるのを妨げる特許を知っていますか",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "規範的に実装する必要のあるすべての標準は自由に利用でき、特許侵害の申し立てに対して合理的な保護を提供する必要があります",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "特許は、特に暗号化[Newegg]の分野で、オープンな標準化を阻んだり、オープンな標準を展開しているものに対して使用されてきました",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "オープンスタンダードまたは他のスタンダードへの規範的な参照の特許には、特許の開示[notewell]、ロイヤルティフリーライセンス[特許ポリシー]、または他の何らかの形の合理的な保護が必要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "合理的な特許保護には、暗号プリミティブが含まれますが、これに限定されません",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "[Aryan-etal] Aryan, S., Aryan, H., and J. Alex Halderman, \"Internet Censorship in Iran: A First Look\", 2013, <https://jhalderm.com/pub/papers/iran-foci13.pdf>.",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "[Aryan-etal] Aryan, S., Aryan, H., and J. Alex Halderman、「イランのインターネット検閲：初見」、2013、<https://jhalderm.com/pub/papers/iran-foci13.pdf>",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF Portable Document Format",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pdf?x32994.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.",
     "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -702,15 +564,57 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
+  "失敗・落とし穴": [
    {
-    "quote": "真正性：本物であり、検証および信頼できる特性",
+    "quote": "これらのドキュメントは、このドキュメントに関するあなたの権利と制限について説明しているため、注意深く確認してください",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "DNSSECによる認証では、レコードの検証パスが作成されます",
+    "quote": "彼らは、明確な主張をするのは時期尚早であるが、プロトコル設計の選択が人権に与える影響をより注意深く分析する必要があると主張しています",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、（1）特定のプロトコルが人権に与える影響の注意深い検討、および（2）人権に関連するプロトコル設計の決定を文書化する慣行の普及に貢献します",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでの評価は、これらのプロトコルに関する一般的な判断ではなく、これらのプロトコルが持つ可能性のある人権に対するすべての潜在的なマイナスまたはプラスの影響の完全なリストではないことに注意することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、DNSSECは現在ドメイン名レジストラで広くサポートまたは展開されていないため、認証して正しく使用することが難しいことに注意することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃者は、Sybil攻撃を使用して、P2Pネットワークが攻撃者の利点に集合的に行う選択にバイアスをかけることができます",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このコンテキストでのSybil攻撃（たとえば、宇宙飛行）は、P2Pプロトコル以外にも関連があることに注意することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「すべてのインターネットユーザーは、特定のWebサイトにアクセスしようとして失敗したときに、「404 Not Found」ハイパーテキスト転送プロトコル（HTTP）ステータスコードに遭遇しました」[Cath]",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それにもかかわらず、HTTPステータスコード451は検閲のすべての状況を検出するソリューションではないことに注意することが重要です",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -722,22 +626,118 @@
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "これらの文書によると、ICTシステムに関連する人権のいくつかの例は、人間の尊厳（第1条UDHR）、非差別（第2条）、生命、自由および安全に対する権利（第3条）、意見の自由および表現（第19条）、集会および結社の自由（第20条）、平等保護の権利、法的救済、公正な裁判、デュープロセス、無罪と推定（第7-11条）、適切な社会的および国際的秩序（第19条） 28）、広報への参加（第21条）、文化生活への参加、知的財産の保護（第27条）、およびプライバシー（第12条）",
+    "quote": "このセクションで提供されるガイダンスは、特定のプラクティスを推奨するものではないことに注意してください",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "あなたのプロトコルはペイロードデータの正確性を維持、保証、検証しますか？",
+    "quote": "（識別子など、一部の文字列はコンテンツ要素とプロトコル要素の両方であることに注意してください",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "例：データの整合性検証は、脆弱性や中間者攻撃などの攻撃を防ぐために重要です",
+    "quote": "信頼性のために、パケット配信が失敗した場合、サービスがユーザーに通知する必要があります",
     "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
     "pass": 3,
     "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インターネットの根本的にオープンな性質を維持し、インターネットの開発を継続できるようにするには、無許可のイノベーションの維持または削減に対するプロトコルの影響に注意する必要があります",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and structural biases to affect their work and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Inherent biases in the Internet’s architecture",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "counterbalance such biases by applying",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "correct for their own biases, which may be",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "chances of biased selection, interpretation and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biases in the data available online. All of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
    }
   ]
  },
@@ -765,7 +765,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/dialogs_develop/n/ndae2681a918d",
+    "url": "https://note.com/re_birth_ai/n/ne9939f58ff51",
     "status": "ok",
     "method": "http"
    },
@@ -781,11 +781,6 @@
    },
    {
     "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
     "status": "ok",
     "method": "http"
    },
@@ -815,6 +810,11 @@
     "method": "http"
    },
    {
+    "url": "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://book.st-hakky.com/purpose/search-engine-information-retrieval-mechanism",
     "status": "ok",
     "method": "http"
@@ -826,8 +826,8 @@
    },
    {
     "url": "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
@@ -859,9 +859,9 @@
     "https://note.com/red_structure/n/na2c79b00d217",
     "https://note.com/chemical_cbs/n/n717792e7b33b",
     "https://note.com/akira_sakai/n/n76af874c644c",
-    "https://note.com/dialogs_develop/n/ndae2681a918d",
+    "https://note.com/re_birth_ai/n/ne9939f58ff51",
     "https://note.com/tkashiwazaki/n/ndf564afbafba",
-    "https://note.com/re_birth_ai/n/ne9939f58ff51"
+    "https://note.com/dialogs_develop/n/ndae2681a918d"
    ],
    "engines": [
     "ddgs:google"
@@ -874,26 +874,28 @@
     "https://note.com/kensho_note/n/n80379e531cfb",
     "https://shiraberu-note.com/osint-basic-tools-guide/",
     "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
     "https://cybersecurity-info.com/column/40141/",
     "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
-    "https://it.miyazaki.tv/osint/"
+    "https://it.miyazaki.tv/osint/",
+    "https://www.octoparse.jp/blog/what-is-osint",
+    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） やり方",
    "results": [
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
     "https://shiraberu-note.com/osint-basic-tools-guide/",
     "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://it.miyazaki.tv/osint/",
-    "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
-    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
     "https://www.octoparse.jp/blog/what-is-osint",
-    "https://note.com/kensho_note/n/n80379e531cfb"
+    "https://it.miyazaki.tv/osint/",
+    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
+    "https://cysec148.hatenablog.com/entry/2024/04/26/234305"
    ],
    "engines": [
     "ddgs:google"
@@ -912,7 +914,7 @@
     "https://cysec148.hatenablog.com/entry/2024/04/26/234305"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -928,7 +930,7 @@
     "https://archive.org/stream/ohchr-berkeley-protocol-on-digital-open-source-investigations/OHCHR-Berkeley-Protocol-on-Digital-Open-Source-Investigations-ENGLISH_djvu.txt"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -940,8 +942,8 @@
     "https://note.com/red_structure/n/na2c79b00d217",
     "https://note.com/7ironote/n/n1c61ab76e738",
     "https://note.com/chemical_cbs/n/n717792e7b33b",
-    "https://note.com/ai_labo26/n/nd63df0f78e84",
-    "https://note.com/re_birth_ai/n/ndbce72552d7d"
+    "https://note.com/tkashiwazaki/n/ndf564afbafba",
+    "https://note.com/ai_labo26/n/nd63df0f78e84"
    ],
    "engines": [
     "ddgs:google"
@@ -951,18 +953,20 @@
   {
    "query": "site:x.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
+    "https://x.com/kzkhykw/status/2081564955183374688",
     "https://x.com/i/trending/2081692852749574391",
     "https://x.com/i/trending/2115189296395153712",
     "https://help.x.com/ja/safety-and-security/remove-x-profile-from-google-search",
-    "https://help.x.com/ja/rules-and-policies/x-search-policies",
+    "https://help.x.com/ja/safety-and-security/public-and-protected-posts",
     "https://x.com/polymarketjapan/status/2081967801707950334",
-    "https://x.com/kzkhykw/status/2081564955183374688",
-    "https://x.com/connect24h/status/2081642425332969877"
+    "https://x.com/yousukezan/status/2115791601700385023",
+    "https://help.x.com/ja/rules-and-policies/x-search-policies"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:linkedin.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
@@ -976,7 +980,7 @@
     "https://jp.linkedin.com/learning/generative-ai-the-evolution-of-thoughtful-online-search-22868413/4519465"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -984,36 +988,35 @@
    "query": "site:facebook.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
     "https://www.facebook.com/manamina.valuesccg/posts/検索キーワード分析検索エンジンと検索エンジン以外の媒体における検索で検索内容や求める情報は異なるのでしょうか-本稿では車検索者を題材に検索エンジンとの比較や閲覧/1163686354578267/",
+    "https://www.facebook.com/cyberagent.advertising/posts/seoラボ主催セミナー開催検索エンジンと検索者が好むウェブサイトとコンテンツ詳細お申し込みはこちらhttpswwwcyberagent-adagencycome/938078633069017/",
     "https://www.facebook.com/pecopla.net/posts/seo対策と検索するとびっくりするくらい多くの情報がヒットします-あまりに情報が多すぎて何が正解なのか見極められないという方も多いのではないでしょうか-そこで本/3852761604826956/",
     "https://www.facebook.com/help/instagram/147542625391305/",
     "https://www.facebook.com/tsuhannews/posts/909372231201690/",
     "https://www.facebook.com/ccs.inc/posts/2347358142012276/",
-    "https://www.facebook.com/nistep.japan/posts/デルファイ調査検索改訂版第12回調査結果追加の公開6242025年5月21日水に科学技術学術政策研究所nistepでは第12回科学技術予測調査-科学技術等の中長/1181689440669787/",
-    "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/"
+    "https://www.facebook.com/nistep.japan/posts/デルファイ調査検索改訂版第12回調査結果追加の公開6242025年5月21日水に科学技術学術政策研究所nistepでは第12回科学技術予測調査-科学技術等の中長/1181689440669787/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） note 社長",
    "results": [
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://note.com/kensho_note/n/n80379e531cfb",
-    "https://it.miyazaki.tv/osint/",
-    "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
-    "https://www.octoparse.jp/blog/what-is-osint",
-    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
     "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://ja.wikipedia.org/wiki/情報検索"
+    "https://shiraberu-note.com/osint-basic-tools-guide/",
+    "https://note.com/kensho_note/n/n80379e531cfb",
+    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "https://cybersecurity-info.com/column/40141/",
+    "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
+    "https://it.miyazaki.tv/osint/",
+    "https://www.octoparse.jp/blog/what-is-osint"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 8
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） X 投稿",
@@ -1023,11 +1026,11 @@
     "https://it.miyazaki.tv/osint/",
     "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
     "https://cybersecurity-info.com/column/40141/",
-    "https://www.octoparse.jp/blog/what-is-osint",
-    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc"
+    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
+    "https://www.octoparse.jp/blog/what-is-osint"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1050,6 +1053,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 10,
+ "runs": 11,
  "first_researched_at": "2026-11-06T17:59:58.829669+00:00"
 }
