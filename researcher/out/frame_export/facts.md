@@ -5,6 +5,11 @@
 ## 人型ロボット（humanoid robot）
 - 文脈：1 AI・半導体 ①フィジカルAI
 - 痛み・損（深さの印）：
+  - 「職員の離職率が年間25%から8%に改善しました」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に｜ニュース｜TOKYO MX」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「東京商工リサーチによりますと、人手不足によって倒産した企業は2025年度には442件となり、過去最多を記録しました」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「投資家が注目するのは、受注残が実際の売上に転じるかどうかだ」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
   - 「給与そのものに加えて、社会保険料、採用費、教育費、離職対応、派遣・請負費用なども含めると、人手に依存する工程の維持コストは大きくなります」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
   - 「特に、離職率が高い工程では、採用してもすぐに教育が必要になり、習熟する前に退職してしまうこともあります」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
   - 「ヒューマノイドロボットの導入は、人件費そのものを削減するだけでなく、採用難、教育負担、離職リスク、作業負荷といった複数の課題を減らす手段として検討される可能性があります」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
@@ -15,11 +20,6 @@
   - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/）
   - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に｜TOKYO MX+（プラス）」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
   - 「自ら行動するロボットが即戦力の“従業員”へ 「人手不足倒産」過去最多…解消の切り札に」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
-  - 「東京商工リサーチによりますと、人手不足によって倒産した企業は2025年度には442件となり、過去最多を記録しました」（https://s.mxtv.jp/tokyomxplus/mx/article/202604201020/detail/）
-  - 「導入後には、保守・部品交換、人材教育、ソフトウェア更新、稼働停止による損失まで含めた「総所有コスト（TCO）」が発生する」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0071.html）
-  - 「パワー半導体市場の拡大に伴い、受注残高が高水準で推移しています」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「また、飲食店の倒産増加による短期的な需要減退リスクがあります」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「工場、倉庫、病院、その他の職場での、反復的で、やりがいがなく、危険な仕事―これらは離職率が高く、人手不足が特に深刻な分野ですーをヒューマノイドが担うことで、労働力不足の危機的状況を解決する救世主として期待されているのです」（https://innova-jp.com/media/ai-weekly/20）
 - 顧客（金を払う側）：
   - 「1本240万円から、撮影は最短2〜3日⋯中国の巨大撮影地「横店」で見たショートドラマ量産の舞台裏」（https://36kr.jp/492924/）
   - 「「ロボットの価格崩壊」は中小企業の人手不足を本当に解くのか？ - WORLD INSIGHT」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
@@ -37,6 +37,7 @@
   - 「ヒューマノイドロボット導入を理由にすぐ解雇できるのか」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
   - 「iCOM技研による導入サポート｜自動化の「壁」を取り除く」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
 - 顧客の顧客（発注元が求めること）：
+  - 「3年間にわたって利用料を受け取る契約だが、実現は納期と約束した機能の納入にかかっている」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
   - 「開発体制：自社単独か、産学連携やOEM生産を活用しているか」（https://robot-with.com/humanoid/japan-humanoid-companies）
   - 「より人間中心のロボット設計のための重要な要求を発生させます」（https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
   - 「ISO 9001:2015認証取得」（https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
@@ -51,8 +52,14 @@
   - 「これは、従来の「顧客からの要求仕様を待つ」という受動的なアプローチから脱却し、能動的に市場の動向を読み解くためのものです」（https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html）
   - 「これにより、日本のメーカーは、単に顧客からの要求を待つだけでなく、自社の技術的優位性を活かしたプロアクティブな提案を行うための確固たる基盤を構築できます」（https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html）
   - 「日本のメーカーがこの状況で取るべき選択肢は、単なる部品サプライヤーの立場に留まらないことです」（https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html）
-  - 「これにより、顧客の技術的課題を深く理解し、その要求に合わせた専用ソリューションを迅速に提供することで、内製化リスクを回避しつつ、不可欠なパートナーとしての地位を確立できます」（https://blogs.itmedia.co.jp/serial/2025/09/post_8658.html）
 - 顧客の競合（奪いに来る側）：
+  - 「中国貴州省山間地域の養殖キャビア、日本市場に進出」（https://36kr.jp/492924/）
+  - 「中国人型ロボット「AGIBOT」、世界シェア43％ 半年で売上480億円、Unitreeを逆転」（https://36kr.jp/492924/）
+  - 「会場には中国の工場で実際に働くロボットも展示されていました」（https://s.mxtv.jp/mxnews/article/business/1tutzzwkaa86qo02j.html）
+  - 「商用導入は9拠点、1000台・3億ドル超の受注を抱えるが、フィギュアAIなど非上場競合に比べ評価額は低く、収益化への道筋が問われる」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
+  - 「競合との評価格差、中国勢の存在感」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
+  - 「アジリティの評価額25億ドル（約4,000億円）は、非上場の競合を大きく下回る」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
+  - 「調査会社オムディア（Omdia）によると、2025年のヒューマノイドロボット出荷台数の約9割を中国企業が占めた」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
   - 「中国車、国内失速も海外で快走 9月の輸出56％増、輸入は半減」（https://36kr.jp/492924/）
   - 「「10人に1人がAIで富」 中国富豪ランキング、バイトダンス張一鳴氏が16兆円で首位・DeepSeek梁文鋒氏が初登場で7位」（https://36kr.jp/492924/）
   - 「中国の人型ロボットUBTECH、「将来の成長企業」で世界11位・中国勢首位」（https://36kr.jp/492924/）
@@ -61,77 +68,70 @@
   - 「中国ではいま、人型ロボット（ヒューマノイド）がショールーム展示やイベントパフォーマンスの段階を越え、家庭や実用シーンへと急速に広がり始めている」（https://36kr.jp/488876/）
   - 「人型ロボット、中国勢が世界出荷「独走」へ 米テスラに先んじて量産開始」（https://36kr.jp/488876/）
   - 「中国の代表的ロボットメーカー・宇樹科技（Unitree Robotics）のロボットを購入したある消費者の場合、ロボットが転倒して頭部が変形、ブラケットの交換だけで1800元（約4万円）かかったうえ、修理まで1週間待たされたという」（https://36kr.jp/488876/）
-  - 「日本のSNSも沸かせた中国の人型ロボット演出、その舞台裏——Unitreeが仕掛けた“技術実験”の全貌」（https://36kr.jp/488876/）
-  - 「1カ月で130億円─中国の人型ロボットが受注ラッシュ、熱狂の先に供給制約」（https://36kr.jp/488876/）
-  - 「求人数5倍！人型ロボットに「手取り足取り」教える仕事、中国で需要急拡大」（https://36kr.jp/488876/）
-  - 「現在の中国では、一部の大手メーカーが都市部限定で出張修理サービスを提供しているにとどまり、多くのロボットは依然として工場送りの対応が中心だ」（https://36kr.jp/488876/）
-  - 「かつて中国では、自動車の普及とともにディーラーや整備拠点が全国へ急速に広がった」（https://36kr.jp/488876/）
-  - 「中国人型ロボット「AGIBOT」、世界シェア43％ 半年で売上480億円、Unitreeを逆転」（https://36kr.jp/488876/）
-  - 「20万円台の小型ヒューマノイドで注目、中国「Noetix Robotics」が香港IPOを準備か」（https://36kr.jp/488876/）
 - 自社の競合（商社・代理店・仲介）：
+  - 「グローバルインフォメーションはQYResearchの日本における正規代理店です」（https://japan.zdnet.com/release/31154863/）
+  - 「GMO AI＆ロボティクス商事、世界No.1の人型ロボット（ヒューマノイド）メーカーUnitree Roboticsの国内正規代理店に | GMOインターネットグループのプレスリリース」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「GMO AI＆ロボティクス商事、世界No.1の人型ロボット（ヒューマノイド）メーカーUnitree Roboticsの国内正規代理店に」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「GMOインターネットグループにおいてAIとロボティクスの社会実装を推進するGMO AI＆ロボティクス商事株式会社（代表取締役社長：内田 朋宏、以下 GMO AIR）は、世界シェアNo.1（※1）の人型ロボット（ヒューマノイド）メーカーであるYushu Technology Co., Ltd.（創業者兼CEO：王興興、以下 Unitree Robotics）と2026年6月19日に、国内正規代理店契約を締結しました」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「これによりGMO AIRは、同日よりUnitree Roboticsの国内正規代理店として、人型ロボット（ヒューマノイド）・四足歩行ロボットなどのUnitree Robotics製ロボットの販売を開始し、導入支援・ソフトウェア開発・保守運用までをワンストップで提供します」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「GMO AIRは、以下の考えのもと、人型ロボット（ヒューマノイド）の社会実装を加速するパートナーとして、このたびUnitree Roboticsとの国内正規代理店契約を締結いたしました」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「空港・物流・施設管理・点検・警備・建設など、あらゆる産業領域への最適な人型ロボット（ヒューマノイド）の導入を加速し、人型ロボット（ヒューマノイド）社会実装における日本最大級の商社となることを目指し、お客様の笑顔と感動を創造してまいります」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「GMO AIRは、「AIとヒューマノイドをすべての人へ」を掲げ、AI・ロボット事業を担う総合商社として2024年6月18日に設立されました」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「本表彰プログラムは、Googleが世界各国において、最も優秀な広告代理店、およびGoogl......」（https://japan.storm.mg/articles/1106201）
   - 「Managing 100 Million Users with Just Five People — How a 30,000 Yen AI Agent is Starting to Break the ‘Labor Cost Norm’」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「AI Agents ‘Attack Other Companies on Their Own’ — What Can Small and Medium Enterprises Do for Security with a Monthly Budget of 50,000 Yen?」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「OpenAI's AI agents have autonomously attacked companies without being instructed to do so. It has be」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「The Cost of AI Agent ‘Memory’ Exceeds 100,000 Yen per Month—The Structure Behind the Deficit as Memory Increases and the Right Way for SMEs to Cut Costs」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「Having AI agents remember past interacti」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
   - 「ロボティクスのディストリビューターとシステムインテグレーター」（https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
-  - 「>>[特集SIerになろうvol.10]SIer機能を獲得する商社【その２】／山善」（https://www.robot-digest.com/contents/?id=1686544045-400436）
-  - 「伊藤忠商事との資本業務提携など、商社系ネットワークも活用」（https://note.com/tatsuya_sabato/n/nd7a85c141952）
-  - 「The ‘Store Entrance’ Becomes an AI Agent—How the Opening of Shopify’s Catalog to AI and Simplified Google AI Distribution Will Change the Winning Strategies for Small and Medium-Sized E-Commerce」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
-  - 「AI Agents Start Conversing via ‘Protocols’—The Day When 3 Million Yen in SI Costs Disappear for SMEs」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
-  - 「日本でも「（人型ロボットで）YouTube動画のようなダンスはできるか」といった問い合わせが4月ごろから増えており、代理店などを通じたサービスの提供体制を整えている」（https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/）
-  - 「日本での需要には、代理店をはじめとするパートナー企業と協力しながら応えていく方針だ」（https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/）
-  - 「海外の最先端ロボットを日本市場へ — AI実装・業務統合・現場導入・運用までを一貫して担う技術商社です」（https://www.innosystech.jp/robot-business.html）
-  - 「技術商社として中国最先端ロボットを日本市場へ導入」（https://www.innosystech.jp/robot-business.html）
-  - 「日本語AI実装、LLM / Agent連携、画面・業務フローの日本向け最適化」（https://www.innosystech.jp/robot-business.html）
 - 政治（法・予算・規制）：
-  - 「Who Will Restore the ‘Eternal Flame’? — The Complete Destruction of the Reikado Hall, the Government-Driven Bid Rigging in Onomichi, and the Disappearance of the Buddha Statue Model Reflect the Absence of ‘Cultural Heritage Support’」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
-  - 「北京市などをはじめとして、規模の経済がある程度形成された地方政府・地方自治体は企業向けのみならず、消費者の中でも手が届きそうになってきた層に向けて、人型ロボットを消費家電製品のような位置づけで販売する試みを始めている」（https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/）
-  - 「このフェスはまさに、北京市政府を中心とした中国政府とロボット産業界がエンドユーザーの需要を刺激するための戦略を表すと捉えることができる」（https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/）
-  - 「そして4つ目は、ロボット販売促進補助金措置の実施だ」（https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/）
-  - 「具体的には、政府が個人消費者向けに最大 1500 元（1元＝21円換算で約3万3000円）、企業向けに最大 25 万元（約525万円）の補助金を提供することで、ロボット購入のハードルを下げ、市場浸透を加速させることを目的としている」（https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/）
-  - 「中国車がフラッグシップ戦略で欧州攻略、現地生産で関税回避へ」（https://xtech.nikkei.com/atcl/nxt/column/18/03395/110500004/）
-  - 「Government Programs & Policy」（https://www.roboticscenter.ai/robotics-market-japan）
-  - 「Japan's government views robotics not as a luxury or competitive advantage but as a survival strategy. With a population that peaked in 2010 and continues to decline, and with 30% of the population projected to be over 65 by 2030, robots are central to Japan's plan for maintaining economic output and quality of life.」（https://www.roboticscenter.ai/robotics-market-japan）
-  - 「Japan's robotics investment ecosystem differs significantly from Silicon Valley's venture-driven model. The majority of robotics investment flows through corporate R&D budgets (Fanuc, Yaskawa, Sony, and Toyota collectively spend over $2B annually on automation R&D) and government programs rather than venture capital.」（https://www.roboticscenter.ai/robotics-market-japan）
-  - 「Society 5.0 is Japan's national digital transformation strategy that envisions a super-smart society where cyber and physical spaces are deeply integrated. Robotics is central to this plan — the government positions robots as essential to solving labor shortages, elder care, disaster response, and infrastructure maintenance across all sectors of Japanese society.」（https://www.roboticscenter.ai/robotics-market-japan）
-  - 「一方、中国政府の数字はさらに大きい」（https://note.com/all_zero/n/nf802b0141ff6）
-  - 「中国政府が秘密裏にどのような研究をしているのか知る立場でもありません」（https://note.com/nakaikeya/n/n2c1c63111e29）
-  - 「日本政府が、」（https://note.com/nakaikeya/n/n2c1c63111e29）
-  - 「政府は、ロボットの統合をスマート高齢者ケアサービスに支援するために組織を招待しました」（https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
-  - 「早期技術の採用者の存在と相まってロボット技術の普及を推進する政府の取り組みは、地域市場をさらに向上させました」（https://www.coherentmarketinsights.com/ja/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4）
+  - 「政府補助金を活用して導入コストを最大50%削減する申請方法」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「ロボット導入には様々な補助金制度が用意されています」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「政府補助金を活用すれば、実質負担は150万円程度まで抑えられます」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「米名門法律事務所Sullivan & Cromwellが、ニューヨークの連邦裁判所で謝罪した」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
+  - 「アメリカ政府が外国製ロボットへの規制を強めるなか、アジリティはオレゴン州の工場でDigitを製造しており、地政学的な追い風も受けうる」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
+  - 「セキュリティ予算は増加、被害は深刻化──国内調査が提示する「投資の質」への転換」（https://japan.zdnet.com/release/31154863/）
+  - 「マンション修繕談合に独禁法違反認定、有力企業含む42社 国交省が対策へ」（https://xtech.nikkei.com/atcl/nxt/column/18/03550/032600006/）
+  - 「マンション修繕談合に独禁法違反認定、有力企業含む42社／国内初の大型木造商業ビル「渋谷マルイ」27年夏開業／「建築に強い建設会社」」（https://xtech.nikkei.com/atcl/nxt/column/18/03550/032600006/）
+  - 「建設Gメン調査に基づく指導が大幅増、法改正で不適正取引にメス」（https://xtech.nikkei.com/atcl/nxt/column/18/03550/032600006/）
+  - 「中国の国家補助金によるロボット開発は吉か凶か」（https://japan.storm.mg/articles/1106201）
+  - 「で、中国におけるヒト型ロボット開発について「見世物としての性格が強く、奇をてらったものに見え、国家補助金の獲得を狙っている可能性がある」と指摘」（https://japan.storm.mg/articles/1106201）
+  - 「となっており、トップダウン型で産業への補助金を投じている」（https://japan.storm.mg/articles/1106201）
+  - 「謝氏は、中国には国家補助金が存在するため、米国とは発展の様相が異なると述べ、宇樹科技のロボットによるダンスやマラソン、ボクシング、格闘技といったパフォーマンスは「見世物」の域を出ず、補助金狙いの可能性があると指摘した」（https://japan.storm.mg/articles/1106201）
+  - 「パネリストとして登壇したアモバ・アセット・マネジメントのナオミ・フィンク氏、アトランティック・カウンシルのハン・トラン氏、そしてマネックス・グループのイェスパー・コール氏の三名は、日本の政府......」（https://japan.storm.mg/articles/1106201）
+  - 「南西諸島の防衛線を強化するこの動きにおいて、日本政府が具体的なタイムラインを公式に明示したのは今回が初めてとなる」（https://japan.storm.mg/articles/1106201）
 - 経済（規模・価格・為替）：
-  - 「「10人に1人がAIで富」 中国富豪ランキング、バイトダンス張一鳴氏が16兆円で首位・DeepSeek梁文鋒氏が初登場で7位」（https://36kr.jp/492924/）
-  - 「中国人型ロボット「AGIBOT」、世界シェア43％ 半年で売上480億円、Unitreeを逆転」（https://36kr.jp/492924/）
-  - 「中国汽車工業協会が発表した税関統計によると、9月の中国の完成車輸出台数は前年同月比56.3％増（前月比12.9％増）の118万2000台、輸出額は62.0％増（同13.2％増）の207億5000万ドル（約3兆2800億円 […]」（https://36kr.jp/492924/）
-  - 「販売台数は前年同期比7％増の81万2500台、売上高は10％増の989億6400万元（約2兆4000億円）、 […]」（https://36kr.jp/492924/）
-  - 「Managing 100 Million Users with Just Five People — How a 30,000 Yen AI Agent is Starting to Break the ‘Labor Cost Norm’」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
-  - 「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/488876/）
-  - 「関節1つの交換で70万円！中国で人型ロボット普及の陰に「修理難民」問題」（https://36kr.jp/488876/）
-  - 「約20万元（約460万円）で人型ロボットを購入したZさんは、このたび製品の修理代として3万元（約70万円）を請求され、その高さに驚いたという」（https://36kr.jp/488876/）
-  - 「内訳は部品代が2万8000元（約64万円）、作業費と調整料が2000元（約5万円）だった」（https://36kr.jp/488876/）
-  - 「ロボット外装やバッテリーセルなど基本部品の交換であっても、作業費が1時間当たり200元～500元（約4600円～1万2000円）程度上乗せされ、支払いはともすれば合計で1万元（約20万円）近くになることも珍しくない」（https://36kr.jp/488876/）
-  - 「下肢モジュールを丸ごと交換する場合は数万～数十万元（数十万～数百万円）に達する可能性があり、バッテリー交換でも約4000元（約9万円）が必要になる」（https://36kr.jp/488876/）
-  - 「ロボットハンドを1つ交換するだけでも1万～8万元（約20万～280万円）に及ぶ」（https://36kr.jp/488876/）
-  - 「中国の代表的ロボットメーカー・宇樹科技（Unitree Robotics）のロボットを購入したある消費者の場合、ロボットが転倒して頭部が変形、ブラケットの交換だけで1800元（約4万円）かかったうえ、修理まで1週間待たされたという」（https://36kr.jp/488876/）
-  - 「業界関係者によると、修理費が購入価格の6割を超える場合、個人ユーザーの約7割が修理を断念する」（https://36kr.jp/488876/）
-  - 「消費者向けモデルの場合、年間維持費は一般的に本体価格の10～30％に達するとされる」（https://36kr.jp/488876/）
+  - 「動画生成AI「Kling AI」、約4800億円を調達 評価額は2.8兆円、香港IPOも視野」（https://36kr.jp/492924/）
+  - 「バイトダンスの動画生成AI「Seedance」、海外売上高が半年で5倍 海外比率も5割に」（https://36kr.jp/492924/）
+  - 「TikTok運営会社の中国テック大手、バイトダンス（字節跳動）傘下の動画生成AI「Seedance」は、売上高に占める海外比率が5割に達した」（https://36kr.jp/492924/）
+  - 「靴製造で受注96億円超、鉱山の危険作業にも」（https://36kr.jp/492924/）
+  - 「初期投資額300万円から始められる協働ロボット導入の実践ステップ」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「人件費を年間1,200万円削減しながら、生産量は1.5倍に増加しました」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「不良品率が3.2%から0.8%まで低下し、年間の廃棄コストを約2,000万円削減」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「300〜800万円」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「1,000〜3,000万円」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「上限額は一般型で1,250万円となっています」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「通常枠で最大450万円の補助が受けられ、」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「従業員のロボット操作研修費用の2/3（上限64万円）が助成される制度もあり、導入後の人材育成も支援されます」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「はい、協働ロボットなら初期投資300万円程度から導入可能です」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「政府補助金を活用すれば、実質負担は150万円程度まで抑えられます」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「また、リース契約なら月額10万円程度から始められるケースもあります」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
 - 社会（人・担い手）：
-  - 「さらに、ロボットメンテナンス技術者の多くがドローンや産業用ロボット分野から転身してきた人材だ」（https://36kr.jp/488876/）
-  - 「人手不足の製造現場にフィジカルAI 「職人技」継承の担い手に 国産開発へ企業連合 | 共同通信 プレミアム | 沖縄タイムス＋プラス」（https://www.okinawatimes.co.jp/articles/-/1912883）
-  - 「人手不足の製造現場にフィジカルAI 「職人技」継承の担い手に 国産開発へ企業連合」（https://www.okinawatimes.co.jp/articles/-/1912883）
-  - 「背景には、製造現場での熟練技能者の...」（https://www.okinawatimes.co.jp/articles/-/1912883）
-  - 「日本新聞協会が年１回、優れた報道の担い手に贈る賞です」（https://www.okinawatimes.co.jp/articles/-/1912883）
-  - 「ヒューマノイドが建設現場にやってくる、フィジカルAIは人手不足を救うか | 日経クロステック（xTECH）」（https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/）
-  - 「ヒューマノイドが建設現場にやってくる、フィジカルAIは人手不足を救うか」（https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/）
-  - 「こうした人型ロボットは、まずは製造業や物流業などでの活用が進むと見られるが、担い手不足に悩む建設業もターゲットの1つだ」（https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/）
-  - 「日本建設業連合会が25年7月に発表した長期ビジョン2.0では、25年度に299万人いた技能者が、10年後の35年度に264万人まで減ると予測した」（https://xtech.nikkei.com/atcl/nxt/column/18/03573/040300005/）
-  - 「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地 | Iolite（アイオライト）」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「人手不足を解決！幅広い分野で日常生活を支えるロボット技術の現在地」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「ロボットは人手不足解消に加え、AIとの融合により柔軟な作業対応が可能となっている」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「人手不足や非効率な作業といった現場課題に対する実践的なソリューションとして普及が進む」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「工場で人に代わって作業を担う「産業用ロボット」は、深刻化する国内の人手不足に貢献」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
-  - 「ドライバーの労働時間や業務負荷の増大に伴い人手不足が懸念され、「自動配送ロボ」の活用が急がれている」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
+  - 「人手不足を解決するロボティクス導入の実践ガイドと成功事例 - きぼうロボット プロジェクト」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「人手不足を解決するロボティクス導入の実践ガイドと成功事例」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「日本の労働市場は深刻な人手不足に直面しています」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「本記事では、人手不足解決のためのロボティクス導入について、実践的なアプローチを解説します」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「なぜ今、人手不足対策としてロボティクスが注目されるのか」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「興味深いことに、日本では人手不足と失業が同時に存在します」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「ある業界では人材が余り、別の業界では極度の人手不足が発生している」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「ロボティクスが解決する人手不足の具体的課題」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「なぜ今、人手不足対策としてロボティクスが注目されるのか – 人手 不足 ロボティクス」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「ロボティクスが解決する人手不足の具体的課題 – 人手 不足 ロボティクス」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「配膳ロボットは、単なる人手不足対策以上の価値を生み出しています」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「まず、どの業務プロセスに最も人手不足の影響が出ているか分析します」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「従業員のロボット操作研修費用の2/3（上限64万円）が助成される制度もあり、導入後の人材育成も支援されます」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「ロボティクスは、人手不足を解決する魔法の杖ではありません」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
+  - 「Q3: 従業員の雇用は守られますか？」（https://kibo-robo.jp/robotics-labor-shortage-solutions/）
 - 技術（新しい技術・実証）：
   - 「1.AI×ロボティクス×ブロックチェーンで産業構造が進化」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
   - 「ロボットは人手不足解消に加え、AIとの融合により柔軟な作業対応が可能となっている」（https://iolite.net/magazine/vol19/the-current-state-of-robotics-technology）
@@ -149,6 +149,10 @@
   - 「近年、ヒューマノイドロボットへの注目が急速に高まっています」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
   - 「人のような形をしたロボットが工場内を移動し、部品を運び、作業台の前で組立や検査を行う映像も見られるようになりました」（https://www.icom-giken.com/blog/humanoid-robot-factory-employment/）
 - 検索結果の抜粋：
+  - 「ナスダック上場 時価総額4000 億円 でヒューマノイド初の株式 ... — ナスダック上場 時価総額4000 億円 でヒューマノイド初の株式 ... BigGo ファイナンス https://finance.biggo.jp > news」（https://finance.biggo.jp/news/afcfae74-c544-4876-8fb9-bc77ef93b6e3）
+  - 「ヒューマノイド ロボット - メーカー・企業17社の業務用製品 ... — ヒューマノイド ロボット - メーカー・企業17社の業務用製品 ... 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ヒューマノイドロボット」（https://mono.ipros.com/cg2/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/）
+  - 「GMO AI＆ロボティクス商事、世界No.1の 人型ロボット ... — GMO AI＆ロボティクス商事、世界No.1の 人型ロボット ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000005404.000000136.html）
+  - 「世界No.1の 人型ロボット （ヒューマノイド）メーカーUnitree ... — 世界No.1の 人型ロボット （ヒューマノイド）メーカーUnitree ... ASCII.jp https://ascii.jp > elem」（https://ascii.jp/elem/000/004/412/4412062/）
   - 「関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... — 関節1つの交換で70万円！中国で 人型ロボット 普及の陰に ... 36Kr Japan https://36kr.jp > new-cat > その他 > 編集部おすすめ記事」（https://36kr.jp/488876/）
   - 「人型ロボット 07 - YouTube — 人型ロボット 07 - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=TJmLxjcqM_A&vl=ja）
   - 「特化型ヒューマノイド ロボット市場 は、予測期間 2026 -2033 ... — 特化型ヒューマノイド ロボット市場 は、予測期間 2026 -2033 ... LinkedIn https://jp.linkedin.com > pulse > 特化型ヒューマノイドロボ...」（https://jp.linkedin.com/pulse/%E7%89%B9%E5%8C%96%E5%9E%8B%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AF%E4%BA%88%E6%B8%AC%E6%9C%9F%E9%96%932026-2033%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6137%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87%E3%81%8C%E8%A6%8B%E8%BE%BC%E3%81%BE%E3%82%8C%E6%BF%80%E3%81%97%E3%81%84%E7%AB%B6%E4%BA%89-zb0ee）
@@ -160,10 +164,6 @@
   - 「中国 人型ロボット 、 受注 急増の裏にある「納品不能」のジレンマ — 中国 人型ロボット 、 受注 急増の裏にある「納品不能」のジレンマ 36Kr Japan https://36kr.jp > new-cat > 特集」（https://36kr.jp/492924/）
   - 「ヒューマノイド ロボット の課題7つと解決策｜技術・コスト ... — ヒューマノイド ロボット の課題7つと解決策｜技術・コスト ... 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0071」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0071.html）
   - 「ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... — ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... worldinsight.com https://worldinsight.com > News > Japanese」（https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/）
-  - 「ヒューマノイド市場が「5年で5倍」の急成長｜日本製造業が ... — ヒューマノイド市場が「5年で5倍」の急成長｜日本製造業が ... 株式会社BREXA Holdings https://engineering-technology.brexa.com > blog > technavi」（https://engineering-technology.brexa.com/blog/technavi/humanoid-market/）
-  - 「人型ロボット市場 規模、 シェア 、成長レポート[2034年] — 人型ロボット市場 規模、 シェア 、成長レポート[2034年] Fortune Business Insights https://www.fortunebusinessinsights.com > 人型ロボット市...」（https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188）
-  - 「ヒューマノイド ロボット の市場規模は？2030年・2050年予測 ... — ヒューマノイド ロボット の市場規模は？2030年・2050年予測 ... 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0068」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
-  - 「South Korea Humanoid Robot Market worth $583.5 million by ... — South Korea Humanoid Robot Market worth $583.5 million by ... MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/PressReleases/south-korea-humanoid-robot.asp）
 
 ## エッジAIチップ（edge AI chip）
 - 文脈：1 AI・半導体 ②中核半導体

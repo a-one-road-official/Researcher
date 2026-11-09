@@ -239,6 +239,8 @@
 - 事業内容：エネルギー転換・新事業領域における事業戦略の策定および新規ビジネスの立ち上げ（https://www.idemitsu.com/jp/recruit/career/index.html・1回目）
 - 取引先：特約販売店、素材メーカー、自動車・家電等各種メーカー、電力会社など（https://kosen-plus.com/company/297767b5-aec0-4990-81d3-82813dd74102/info/・3回目）
 - 株主構成：
+  - 「事業環境が厳しくとも、経営陣が規律ある資本配分を行い、株主還元を強化し、適切に事業ポートフォリオを組み替えていくならば、そこに大きな「安全域（マージン・オブ・セーフティ）」を伴った投資機会が生まれる可能性があるからです」（https://note.com/open_azalea2045/n/n02efab3b92a8・3回目）
+  - 「本分析は、投資における不変の哲学—「自分が理解できるビジネスか（サークル・オブ・コンピテンス）」「永続的な競争優位性（経済的な堀）はあるか」「経営陣は優秀で株主思いか」「株価は本質的価値に対して十分に割安か」—という一貫したフレームワークに基づいて構成されています」（https://note.com/open_azalea2045/n/n02efab3b92a8・3回目）
   - 「新たに親会社をつくり、その下に両社が並ぶ方式でなく、合併を選んだのは早期に「融合」を実現する狙いとみられる」（https://www.nikkei.com/article/DGXZZO94094400X11C15A1000000/・3回目）
   - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/news/?scode=5019・3回目）
   - 「毎年3月末日現在または9月末日現在の当社株主名簿に名前があり、1株以上の当社株式を保有している株主様が「いでみつコネクト」にご登録可能です」（https://idemitsu.premium-yutaiclub.jp/・3回目）
@@ -249,8 +251,6 @@
   - 「入会登録日から遡った直近の9月末日現在または3月末日現在の当社株主名簿に名前があり、1株以上出光興産株式会社の株式を保有していることが条件となります」（https://idemitsu.premium-yutaiclub.jp/・3回目）
   - 「直近で郵送いたしました中間配当もしくは期末配当の計算書または株主総会招集ご通知に同封の書類に記載がございますので、そちらをご覧ください」（https://idemitsu.premium-yutaiclub.jp/・3回目）
   - 「会員以外でも抽選優待や事業所見学会、株主限定イベントへ申込できますか？」（https://idemitsu.premium-yutaiclub.jp/・3回目）
-  - 「抽選優待や事業所見学会、株主様限定イベントへのお申込は、いでみつコネクト上でのみの受付となるため、お申込をご希望の場合は会員登録が必要となります」（https://idemitsu.premium-yutaiclub.jp/・3回目）
-  - 「社長が直接想いをお伝えするイベントや抽選優待など「いでみつコネクト」会員様限定の情報・特典について、毎年、株主様にお届けしています」（https://idemitsu.premium-yutaiclub.jp/・3回目）
 - 創業年度：
   - 「■高圧ガス製造保安責任者甲種機械 ■危険物取扱者乙種第４類 [歓迎] 応募資格をご覧下さい 【フィットする人物像】 応募資格をご覧下さい 【職種名】 【愛知/知多市】設備管理技術スタッフ【愛知】（年収700万円～940万円） 【仕事内容】 ～創業100年を越える東証プライム上場の大手石油元売会社～上流の油田保有からアグリ」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「学校法人関西学院 大学の事務系総合職・専任職員／未経験歓迎／賞与実績6.3カ月 【求人要約】 幼稚園～大学院まで「生徒数2.9万人」の総合学園 【やりがい】未来を担う学生たちの教育や研究を支援 【未経験歓迎】スキルアップできる事務系総合職 未来を担う学生・生徒の教育や研究を支えるポジション 学校運営に関わる多様な業務を担当いただきます ＜注目ポイント＞ ◆高い社会貢献度 教育機関の運営をサポート ◆未経験OK！ 豊富な研修や自己研鑽のサポート制度でスキルアップ可能 ◆ワークライフバランス充実 女性育休取得率100％／定着率95％以上 【関西学院について】 1889年に設立し」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
@@ -317,6 +317,7 @@
   - 「「さらなるグローバル展開」は、海外トレーディング基盤や潤滑油事業の顧客ネットワーク、資源開発・操業の知見など、これまで培ってきた強みを最大限に活かし、潤滑油、ガス・LNG、資源分野を中心にグローバルでの事業展開を加速します」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
   - 「当社アプリ「Drive On」を活用した顧客接点の拡充に加え、カーケアや車販などのサービスを組み合わせながら、サービスステーションの付加価値向上と新たな顧客価値の創出を進めます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
 - 顧客の顧客が求めること（調達方針・要求）：
+  - 「リクエスト元 IP アドレス・User-Agent・リクエストパス・ステータスコード等を保存し、AI クローラー（ClaudeBot, GPTBot 等）と人間のアクセスの比率把握、不正アクセスの検知、配信品質の改善のために利用しています」（https://the-shashi.com/tse/5019/financials/capex/・3回目）
   - 「データセンター建設ラッシュで揺らぐ国の脱炭素方針、JERA「千葉火力2.3兆円」黒船連合の衝撃」（https://diamond.jp/articles/-/363538・3回目）
   - 「北海道でみた脱炭素の壁 根強い油文化、「CO2吸収」に期待大きく」（https://www.nikkei.com/nkd/company/news/?scode=5019・3回目）
   - 「また、一般社団法人潤滑油協会では、潤滑油品質委員会幹事・潤滑油サスティナビリティ分科会長を兼任」（https://jp.ub-speeda.com/document/250930sr/・3回目）
@@ -328,8 +329,8 @@
   - 「・エネルギー業界の今後：脱炭素・再エネ・SAF・水素のトレンド」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
   - 「エネルギー転換 / 脱炭素 採用 / SAF / 水素 / 再生可能エネルギー / 就活 業界研究」（https://www.youtube.com/watch?v=KzqBeq4LMmA・3回目）
   - 「出光興産の新社長が脱炭素投資を「1兆円から8000億円」に軌道修正した理由を解説、次期中計での“非・化石事業”収益計画の見直しも示唆」（https://diamond.jp/articles/-/363538・3回目）
-  - 「事業戦略では「GRIT：既存事業の深化」・「GROWTH：成長事業の創出」・「CNX：低／脱炭素事業への挑戦」の3つのテーマについて、当社の5つの事業セグメント横断で、様々なパートナー企業との共創を通じて推進していきます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
 - 顧客の競合：
+  - 「「まるでミニ天安門事件」…中国人転売屋のiPhone欲しさの暴動がヤバすぎる」（https://diamond.jp/articles/-/363538・3回目）
   - 「統合が実現すると国内のガソリン販売でシェア5割を握る圧倒的なトップとなる」（https://www.nikkei.com/article/DGXZZO94094400X11C15A1000000/・3回目）
   - 「約1万4000の給油所でガソリン販売シェア53%のJXHD・東燃ゼネに対し、出光・昭和シェルは約7000カ所で31%」（https://www.nikkei.com/article/DGXZZO94094400X11C15A1000000/・3回目）
   - 「ベトナム沖で日米ロが資源開発競争 最前線の出光ガス田、採掘の要に」（https://www.nikkei.com/nkd/company/news/?scode=5019・3回目）
@@ -341,7 +342,6 @@
   - 「背景には、単なる物理的な特性だけではなく、異なる土俵で価値を提案することで、他社との差別化を図りたいという狙いがありました」（https://jp.ub-speeda.com/document/250930sr/・3回目）
   - 「また、潤滑油分野の中でも強みを持つ冷凍機油等では、全世界で高いシェアを獲得しており、」（https://www.jpo.go.jp/news/koho/tizai_koro/document/h30_tizai_kourou/panel_208.pdf・3回目）
   - 「国際競争力のある価格で安定的にSAFを供給できる体制を構築することを目的としている」（https://project.nikkeibp.co.jp/ms/atcl/19/news/00001/04827/?ST=msb・3回目）
-  - 「燃料油を中心とする既存事業において、調達から製造、物流、販売までのバリューチェーン全体の競争力強化に向けた取り組みを粘り強くやり抜きます」（https://www.idemitsu.com/jp/sustainability/message/index.html・1回目）
 - 自社の競合（すでに入っている売り手）：
   - 「【高橋弘樹vs鉄道4社】沿線の価値を上げろ！JR東日本・東急・小田急・西武が事業パートナーを募集！高橋が公開ピッチに挑む【ReHacQ】」（https://www.youtube.com/watch?v=PUj7rCBYBZI・3回目）
   - 「昭和シェル石油との経営統合をはじめ、技術企業との提携やスタートアップへの投資など、組織の垣根を越えてオープンイノベーションを推進しています」（https://note.com/tisobro/n/n9b94b4ff088e・3回目）
@@ -421,6 +421,8 @@
   - 「Management strategy (Message from the Chairman and President)」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
   - 「Idemitsu Hokkaido “Drawing Contest”」（https://www.idemitsu.com/jp/recruit/index.html・1回目）
 - 検索結果の抜粋：
+  - 「出光興産 、蒸気井発掘 判断に磨き 秋田・湯沢の地熱開発6本成功 — 出光興産 、蒸気井発掘 判断に磨き 秋田・湯沢の地熱開発6本成功 日刊工業新聞 https://www.nikkan.co.jp > articles > view」（https://www.nikkan.co.jp/articles/view/774028・3回目）
+  - 「出光興産 募集職種 キャリアの求人情報をすべて見る （10,767,014件） — 出光興産 募集職種 キャリアの求人情報をすべて見る （10,767,014件） スタンバイ」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「会社情報 | 出光興産 — 会社情報 | 出光興産 出光興産 https://www.idemitsu.com > company」（https://www.idemitsu.com/jp//company/index.html・3回目）
   - 「出光興産 募集職種 キャリアの求人情報をすべて見る （10,464,731件） — 出光興産 募集職種 キャリアの求人情報をすべて見る （10,464,731件） スタンバイ」（https://jp.stanby.com/search?q=%E5%87%BA%E5%85%89%E8%88%88%E7%94%A3+%E5%8B%9F%E9%9B%86%E8%81%B7%E7%A8%AE+%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2&sr_fr=job_dd&utm_source=yahoosearch&utm_medium=shortcut&utm_campaign=yj_jobquery_st・3回目）
   - 「IR・投資家情報のよくあるご質問について | お問い合わせ — IR・投資家情報のよくあるご質問について | お問い合わせ 出光興産 https://www.idemitsu.com > contact > faq」（https://www.idemitsu.com/jp/contact/faq/ir/index.html・3回目）
@@ -431,14 +433,12 @@
   - 「社員インタビュー : Y.HANADA | 新卒採用情報 - 出光興産 — 社員インタビュー : Y.HANADA | 新卒採用情報 - 出光興産 出光興産 https://www.idemitsu.com > future > interview_y-hanada」（https://www.idemitsu.com/jp/recruit/future/work-people/interview_y-hanada.html・3回目）
   - 「出光興産 【5019】の 大株主 - バフェット・コード — 出光興産 【5019】の 大株主 - バフェット・コード バフェット・コード https://www.buffett-code.com > mainshareholder」（https://www.buffett-code.com/company/5019/mainshareholder・3回目）
   - 「いでみつコネクト: ホーム — いでみつコネクト: ホーム いでみつコネクト https://idemitsu.premium-yutaiclub.jp」（https://idemitsu.premium-yutaiclub.jp/・3回目）
-  - 「出光興産 【5019】の事業内容 - キタイシホン — 出光興産 【5019】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business」（https://kitaishihon.com/company/5019/business・3回目）
-  - 「お 取引先 の登録 | 各種方針・コーポレートガバナンス - 出光興産 — お 取引先 の登録 | 各種方針・コーポレートガバナンス - 出光興産 出光興産 https://www.idemitsu.com > governance > prc_register」（https://www.idemitsu.com/jp/company/governance/prc_register/index.html・3回目）
-- 株主：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部49頁・検索22回）
-- 設立：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部49頁・検索22回）
-- 役員：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部49頁・検索22回）
-- 拠点：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部49頁・検索22回）
-- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部49頁・検索22回）
-- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部49頁・検索22回）
+- 株主：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 設立：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 役員：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 拠点：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 取引銀行：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
+- 許認可：記載なし（3回確認済み：公式40頁／PDF・画像23件／外部50頁・検索22回）
 
 ## 藤倉コンポジット
 - 公式URL：https://www.fujikuracomposites.jp/（search:yahoo_jp:藤倉コンポジット）

@@ -8,11 +8,29 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-08T18:55:44.278448+00:00",
+ "researched_at": "2026-11-09T03:18:52.749632+00:00",
  "evidence": {
-  "手順・やり方": [
+  "一次情報の探し方": [
    {
-    "quote": "最初から一つの「前回比」にまとめないのがコツです",
+    "quote": "今回は、DIが何を数えているのかを計算し、統計表から言えることと言えないことを分けてみましょう",
+    "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ここから先は統計の定義ではなく、ほかの材料も使って組み立てる解釈です",
+    "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "統計の理解と、その日の相場実況は別の作業として扱う方が正確です",
+    "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "仮説が外れた場合も、統計の転記ミスだったのか、別の材料を見落としたのかを分ければ、次の学習課題が具体的になります",
     "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -46,35 +64,17 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "実例": [
+  "手順・やり方": [
    {
-    "quote": "先行きは企業の見通しなので、その後に確定する結果そのものではありません",
+    "quote": "最初から一つの「前回比」にまとめないのがコツです",
     "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
     "pass": 3,
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "今回は、DIが何を数えているのかを計算し、統計表から言えることと言えないことを分けてみましょう",
-    "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ここから先は統計の定義ではなく、ほかの材料も使って組み立てる解釈です",
-    "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "統計の理解と、その日の相場実況は別の作業として扱う方が正確です",
-    "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "仮説が外れた場合も、統計の転記ミスだったのか、別の材料を見落としたのかを分ければ、次の学習課題が具体的になります",
+    "quote": "先行きは企業の見通しなので、その後に確定する結果そのものではありません",
     "url": "https://note.com/fx_shunya/n/n2c0eeaa5d416",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -125,22 +125,22 @@
     "method": "http"
    },
    {
-    "url": "https://ja.exploratory.io/note/exploratory/Difference-in-Differences-tHE3PZT5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.mlit.go.jp/kankocho/tokei_hakusyo/shohidoko.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://yukiyanai.github.io/jp/classes/econometrics2/contents/slides/metrics2_topic06_slides_pub.pdf",
+    "url": "https://ja.exploratory.io/note/exploratory/Difference-in-Differences-tHE3PZT5",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.maff.go.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/isa/applications/ssw/",
     "status": "ok",
     "method": "http"
    },
@@ -180,14 +180,9 @@
     "method": "http"
    },
    {
-    "url": "https://ichikawa-marketing.com/percent-point-20250507/",
+    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kaonavi.jp/dictionary/statistical-discrimination/",
-    "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.ilect.net/post/statistical-thinking-basics",
@@ -195,14 +190,19 @@
     "method": "http"
    },
    {
-    "url": "https://techplay.jp/column/426",
+    "url": "https://www.nli-research.co.jp/report/detail/id=53515?site=nli",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://and-tools.net/guides/percent-vs-percentage-point/",
+    "url": "https://dalab.jp/mag/methods/difference-in-differences/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www2.econ.tohoku.ac.jp/~isgk/lec_material/suri_tokei/SuriTokei_23.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.rebuildlocalnews.org/new-local-journalist-index-reveals-2026-data-on-local-news-crisis/",
@@ -210,13 +210,13 @@
     "method": "http"
    },
    {
-    "url": "https://journalistsresource.org/media/research-quality-news-annual-survey/",
-    "status": "ok",
+    "url": "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
+    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
-    "status": "http_403",
+    "url": "https://journalistsresource.org/media/research-quality-news-annual-survey/",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -230,9 +230,9 @@
     "method": "http"
    },
    {
-    "url": "https://localnewsinitiative.northwestern.edu/posts/2023/05/04/medill-index-anaylsis-stresses-reader-regularity/",
+    "url": "https://www.nber.org/system/files/working_papers/w12707/revisions/w12707.rev0.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    }
   ]
  },
@@ -252,30 +252,30 @@
     "https://note.com/jack4manastalk/n/n92a0ca5ff0f7"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方） note",
    "results": [
     "https://www.boj.or.jp/about/education/oshiete/statistics/h13.htm",
     "https://www.mhlw.go.jp/stf/newpage_05120.html",
-    "https://ja.exploratory.io/note/exploratory/Difference-in-Differences-tHE3PZT5",
     "https://www.mlit.go.jp/kankocho/tokei_hakusyo/shohidoko.html",
-    "https://yukiyanai.github.io/jp/classes/econometrics2/contents/slides/metrics2_topic06_slides_pub.pdf",
+    "https://ja.exploratory.io/note/exploratory/Difference-in-Differences-tHE3PZT5",
     "https://www.maff.go.jp/",
     "https://www.moj.go.jp/isa/applications/ssw/",
-    "https://www.jinji.go.jp/seisaku/kyuyo_seidogaiyo.html",
     "https://www.nomura-am.co.jp/sodateru/stepup/economic-trend-keywords/composite-index.html",
-    "https://keizokuhachikara.info/percent-point/"
+    "https://www.jinji.go.jp/seisaku/kyuyo_seidogaiyo.html",
+    "https://www.city.kobe.lg.jp/",
+    "https://en.wikipedia.org/wiki/Di"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方） やり方",
@@ -287,8 +287,8 @@
     "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88",
     "https://pediatrics.bz/2017/11/ebm/",
     "https://www.stat.go.jp/naruhodo/10_tokucho/sonota.html",
+    "https://www.youtube.com/watch?v=zotuxXqOJ5Q",
     "https://webtan.impress.co.jp/e/2018/06/12/29525",
-    "https://www.reddit.com/r/AskStatistics/comments/tsbdno/is_it_correct_to_do_a_percent_difference_between/?tl=ja",
     "https://and-tools.net/guides/percent-vs-percentage-point/"
    ],
    "engines": [
@@ -300,117 +300,136 @@
   {
    "query": "DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方） 事例",
    "results": [
-    "https://mathwords.net/ptp",
-    "https://webtan.impress.co.jp/e/2018/06/12/29525",
     "https://www.youtube.com/watch?v=FXUEQJjItGI",
-    "https://ichikawa-marketing.com/percent-point-20250507/",
-    "https://www.kaonavi.jp/dictionary/statistical-discrimination/",
+    "https://webtan.impress.co.jp/e/2018/06/12/29525",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://www.ilect.net/post/statistical-thinking-basics",
+    "https://www.nli-research.co.jp/report/detail/id=53515?site=nli",
+    "https://dalab.jp/mag/methods/difference-in-differences/",
+    "https://www2.econ.tohoku.ac.jp/~isgk/lec_material/suri_tokei/SuriTokei_23.pdf",
+    "https://www.jsh.or.jp/lib/files/medical/guidelines/jsh_guidlines/B_v4.pdf",
     "https://techplay.jp/column/426",
-    "https://and-tools.net/guides/percent-vs-percentage-point/",
-    "https://www.youtube.com/watch?v=bDfWhJ-IeOM",
-    "https://papalife-lab.com/統計リテラシーとは？データ社会を生き抜くため/"
+    "https://en.wikipedia.org/wiki/Di"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 19
   },
   {
    "query": "diffusion index percentage points misread statistics journalism",
    "results": [
     "https://www.rebuildlocalnews.org/new-local-journalist-index-reveals-2026-data-on-local-news-crisis/",
-    "https://journalistsresource.org/media/research-quality-news-annual-survey/",
     "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
+    "https://journalistsresource.org/media/research-quality-news-annual-survey/",
     "https://ideas.repec.org/a/fip/fedreb/94368.html",
     "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary",
     "https://www.youtube.com/watch?v=W2ifrvrRrxc",
-    "https://localnewsinitiative.northwestern.edu/posts/2023/05/04/medill-index-anaylsis-stresses-reader-regularity/",
     "https://www.nber.org/system/files/working_papers/w12707/revisions/w12707.rev0.pdf",
-    "https://datafrosch.fun/blog/pitfalls-of-percentages-in-the-news.html",
-    "https://scienceinsights.org/what-is-a-diffusion-index-how-it-works-in-economics/"
+    "https://localnewsinitiative.northwestern.edu/posts/2023/05/04/medill-index-anaylsis-stresses-reader-regularity/",
+    "https://www.niemanlab.org/2026/07/a-quiet-shift-in-how-americans-perceive-local-news/",
+    "https://en.wikipedia.org/wiki/Diffusion"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "site:note.com DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方）",
    "results": [
-    "https://note.com/atom_/n/n6ee37241f46f",
-    "https://note.com/vast_cosmos500/n/n4e83461473c8",
     "https://note.com/betaitohuman/n/n3c1ec4aa9ad6",
-    "https://note.com/fx_shunya/n/n2c0eeaa5d416",
+    "https://note.com/vast_cosmos500/n/n4e83461473c8",
     "https://note.com/reading_monkey/n/n88b8dbe91f9b",
-    "https://note.com/moppynote/n/nf5ba6d6b0150",
-    "https://note.com/gokaku_inshi0320/n/n2a158ce9b6c0",
-    "https://note.com/frievea/n/n14acba219882",
     "https://note.com/humble_loris7474/n/n4343a3e6f5c1",
-    "https://note.com/jack4manastalk/n/n92a0ca5ff0f7"
+    "https://note.com/moppynote/n/nf5ba6d6b0150",
+    "https://note.com/atom_/n/n6ee37241f46f",
+    "https://note.com/frievea/n/n14acba219882",
+    "https://note.com/fx_shunya/n/n2c0eeaa5d416",
+    "https://note.com/jack4manastalk/n/n92a0ca5ff0f7",
+    "https://note.com/tender_garlic620/n/ne3a02baab600"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   },
   {
    "query": "site:x.com DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方）",
    "results": [
-    "https://x.com/haruru_240/status/2089328419733733677",
-    "https://x.com/spi_web/status/2082420919868473425",
-    "https://x.com/drGAeAKWhU47017/status/2104783225772282220",
-    "https://x.com/HiroSupportLabo/status/2081333716375548087",
-    "https://x.com/gab_test11/status/2111064616205967584",
-    "https://x.com/ryota_jyuken/status/2034113135855210569",
-    "https://x.com/L5z0V/status/2088841326045626643"
+    "https://note.com/komuin_help/n/n5813a2d2cf44",
+    "https://note.com/shokumukiso_best/n/nfa55ff922f31",
+    "https://note.com/economic_hero/n/n1a22e2598ea7",
+    "https://note.com/shokumukiso_best/n/naf131f3b99f1",
+    "https://note.com/makememo/n/n7731279fdf2c",
+    "https://note.com/momoen_de/n/n5cf5f4bcf9fd",
+    "https://note.com/sutokei/n/nb754776e2856",
+    "https://note.com/jolly_squid8312/n/n7a81608a7a77",
+    "https://note.com/takeotamashiro/n/n2374aae6a39b",
+    "https://note.com/kankandouritsu/n/n3064a32dc91d"
    ],
    "engines": [
     "ddgs:google"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方）",
    "results": [
-    "https://jp.linkedin.com/pulse/lying-data-real-life-examples-misinterpretation-arif-maharramov-udayf?tl=ja",
-    "https://www.linkedin.com/pulse/社会調査のための統計学-生きた実例で理解する-現場の統計学-昌幸-増田",
-    "https://jp.linkedin.com/pulse/day-2-decoding-data-daily-exploring-statistics-shantanu-singh-chandel-yfmaf?tl=ja",
-    "https://jp.linkedin.com/posts/keisuke-okazaki-100aa22a5_マーケティングの事例でよく語られるのが-ハンバーガー店でのインサイトの取り違えです-activity-7423957007654772736-6y9M",
-    "https://www.linkedin.com/posts/ai-souken_おはようございます-本日は機械学習と統計学の違いについてわかりやすく実例を交えたご-activity-7185762188194725888-STmF",
-    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4361455",
-    "https://jp.linkedin.com/posts/akira-mori-5021a355_アステラス製薬免疫抑制剤取り違え注意グラセプターと後発品-activity-7127458111132475393-kp4Z"
+    "https://note.com/komuin_help/n/n5813a2d2cf44",
+    "https://note.com/shokumukiso_best/n/nfa55ff922f31",
+    "https://note.com/economic_hero/n/n1a22e2598ea7",
+    "https://note.com/shokumukiso_best/n/naf131f3b99f1",
+    "https://note.com/makememo/n/n7731279fdf2c",
+    "https://note.com/momoen_de/n/n5cf5f4bcf9fd",
+    "https://note.com/sutokei/n/nb754776e2856",
+    "https://note.com/jolly_squid8312/n/n7a81608a7a77",
+    "https://note.com/takeotamashiro/n/n2374aae6a39b",
+    "https://note.com/kankandouritsu/n/n3064a32dc91d"
    ],
    "engines": [
     "ddgs:bing"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:facebook.com DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/komuin_help/n/n5813a2d2cf44",
+    "https://note.com/shokumukiso_best/n/nfa55ff922f31",
+    "https://note.com/economic_hero/n/n1a22e2598ea7",
+    "https://note.com/shokumukiso_best/n/naf131f3b99f1",
+    "https://note.com/makememo/n/n7731279fdf2c",
+    "https://note.com/momoen_de/n/n5cf5f4bcf9fd",
+    "https://note.com/sutokei/n/nb754776e2856",
+    "https://note.com/jolly_squid8312/n/n7a81608a7a77",
+    "https://note.com/takeotamashiro/n/n2374aae6a39b",
+    "https://note.com/kankandouritsu/n/n3064a32dc91d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
   },
   {
    "query": "DI・%ポイントと割合の取り違え（統計の読み違いの実例と防ぎ方） note 社長",
    "results": [
     "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://mathwords.net/ptp",
     "https://note.com/sutokei/n/n132a913b997d",
     "https://ja.exploratory.io/note/exploratory/Difference-in-Differences-tHE3PZT5",
-    "https://mathwords.net/ptp",
     "https://note.com/favy_shige_san/n/ne466be8a6784",
+    "https://diamond.jp/articles/-/194567",
+    "https://note.com/nekoai_lab/n/n5a81ebd5c600",
     "https://ichikawa-marketing.com/percent-point-20250507/",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://yukiyanai.github.io/jp/classes/econometrics2/contents/slides/metrics2_topic06_slides_pub.pdf",
+    "https://toukei-lab.com/difference-in-differences",
     "https://and-tools.net/guides/percent-vs-percentage-point/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -423,41 +442,39 @@
     "https://qiita.com/kenta1984/items/317ddc4259352570520c",
     "https://atarimae.biz/archives/16251",
     "https://www.reddit.com/r/AskStatistics/comments/tsbdno/is_it_correct_to_do_a_percent_difference_between/?tl=ja",
+    "https://x.com/dpoint_club/status/2115686258601300253?lang=ar",
     "https://ichikawa-marketing.com/percent-point-20250507/",
-    "https://x.com/dpoint_club/status/2117391807491506602?lang=ar",
     "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BB%E3%83%B3%E3%83%88%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88",
-    "https://www.insource-da.co.jp/dxpedia/2412_01.html",
-    "https://papalife-lab.com/統計リテラシーとは？データ社会を生き抜くため/"
+    "https://www.insource-da.co.jp/dxpedia/2412_01.html"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "diffusion index percentage points misread statistics journalism site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/jason-miller-32110325_the-chart-below-provides-one-piece-of-evidence-activity-7504509443020046336-7jEY",
-    "https://www.linkedin.com/in/jason-miller-32110325",
     "https://www.linkedin.com/posts/krstnmllr_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%98%86-%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B8%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%BC-activity-7513326676307529729-tPkU",
-    "https://www.linkedin.com/posts/karlgauvin_a-widely-circulated-chart-shows-that-the-activity-7507801969567186944-wALw",
+    "https://www.linkedin.com/in/jason-miller-32110325",
+    "https://www.linkedin.com/posts/benracz_today-im-announcing-a-new-habit-when-the-activity-7519331356431187968-77sQ",
     "https://www.linkedin.com/in/nicolas-petrosky-nadeau-a0331333",
     "https://www.linkedin.com/posts/evansohn_jobsreport-labormarket-employment-activity-7435690755777613825-UGgJ",
     "https://www.linkedin.com/posts/raoul-ruparel-obe_for-a-while-ive-been-sceptical-that-ai-is-activity-7519005027844308993-mBvW",
-    "https://www.linkedin.com/in/ziad-elmously-a7064097",
-    "https://www.linkedin.com/in/danzeiger",
-    "https://www.linkedin.com/in/gokcen"
+    "https://www.linkedin.com/in/asani-sarkar-9a8ba83",
+    "https://www.linkedin.com/posts/zsuzsanna-tajti-phd-cfa-frm-prm-cia-scr_financing-and-scaling-innovation-activity-7514214389894422528-Yogi",
+    "https://www.linkedin.com/posts/kevrgordon_cpi-inflation-tariffs-activity-7504177585480728576-_ME-"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 20
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-06T04:24:24.722967+00:00"
 }
