@@ -8,8 +8,22 @@
  ],
  "context": "統計の読み方",
  "kind": "market",
- "researched_at": "2026-11-09T03:39:55.570905+00:00",
+ "researched_at": "2026-11-09T20:09:20.617493+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "経済統計データを参照しながら、中小企業が付加価値を重視する付加価値経営を実践していく考え方や方法について共有していきます",
+    "url": "https://newspicks.com/topics/ogawa-tech/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "先達のやり方は、正解ではない",
+    "url": "https://newspicks.com/topics/ogawa-tech/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "実例": [
    {
     "quote": "この記事では、私たち中小企業が持続的に成長していくための取り組み事例として、東京都の城東地区4社が連携して挑戦する「ものづくり人材・技能継承プラットフォーム」について、そのねらいと概要についてご紹介します",
@@ -45,20 +59,6 @@
   "突き合わせ・推定": [
    {
     "quote": "この記事では、私たちの経済活動を体系的・網羅的に集計した経済統計であるSNAと、企業会計の類似性について、統計データで検証した結果をご紹介します",
-    "url": "https://newspicks.com/topics/ogawa-tech/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "経済統計データを参照しながら、中小企業が付加価値を重視する付加価値経営を実践していく考え方や方法について共有していきます",
-    "url": "https://newspicks.com/topics/ogawa-tech/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "先達のやり方は、正解ではない",
     "url": "https://newspicks.com/topics/ogawa-tech/",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -176,12 +176,12 @@
     "method": "http"
    },
    {
-    "url": "https://newspicks.com/news/10647184/body/",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/category/blog/ogawa2/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.meviy.misumi-ec.com/info/ja/category/blog/ogawa2/",
+    "url": "https://newspicks.com/news/10647184/body/",
     "status": "ok",
     "method": "http"
    },
@@ -221,7 +221,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.machinist.co.jp/2022/10/17371/",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2310/24/news005_2.html",
     "status": "ok",
     "method": "http"
    },
@@ -231,12 +231,17 @@
     "method": "http"
    },
    {
-    "url": "https://monoist.itmedia.co.jp/mn/articles/2310/24/news005_2.html",
+    "url": "https://furukawa-consulting.com/2026/06/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%99%82%E9%96%93%E5%BD%93%E3%81%9F%E3%82%8A%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%80%81%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%82%88%E3%82%8A/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://furukawa-consulting.com/2026/06/%E4%B8%AD%E5%B0%8F%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%81%AE%E6%99%82%E9%96%93%E5%BD%93%E3%81%9F%E3%82%8A%E5%8A%B4%E5%83%8D%E7%94%9F%E7%94%A3%E6%80%A7%E3%80%81%E5%A4%A7%E4%BC%81%E6%A5%AD%E3%82%88%E3%82%8A/",
+    "url": "https://ts-techsup.co.jp/seizou-roudouseisansei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/rd/db/",
     "status": "ok",
     "method": "http"
    },
@@ -256,17 +261,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.brookings.edu/wp-content/uploads/2020/01/es-1.30.20-bailybosworthdoshi.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
     "url": "https://www.nber.org/system/files/chapters/c8452/c8452.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
     "status": "ok",
     "method": "pdf"
    }
@@ -279,8 +284,8 @@
     "https://monoist.itmedia.co.jp/mn/series/22843/",
     "https://mono.ipros.com/news/detail/94709/",
     "https://tokyo-fabhub.com/ogawa-speech-itmedia/",
-    "https://newspicks.com/news/10647184/body/",
     "https://jp.meviy.misumi-ec.com/info/ja/category/blog/ogawa2/",
+    "https://newspicks.com/news/10647184/body/",
     "https://monoist.itmedia.co.jp/mn/articles/2106/14/news001_2.html",
     "https://x.com/OgawaSeisakusho/highlights",
     "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
@@ -299,8 +304,8 @@
     "https://monoist.itmedia.co.jp/mn/series/22843/",
     "https://mono.ipros.com/news/detail/94709/",
     "https://tokyo-fabhub.com/ogawa-speech-itmedia/",
-    "https://newspicks.com/news/10647184/body/",
     "https://jp.meviy.misumi-ec.com/info/ja/category/blog/ogawa2/",
+    "https://newspicks.com/news/10647184/body/",
     "https://monoist.itmedia.co.jp/mn/articles/2106/14/news001_2.html",
     "https://x.com/OgawaSeisakusho/highlights",
     "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
@@ -308,7 +313,7 @@
     "https://tokyo-fabhub.com/ogawa-monoist/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -339,16 +344,16 @@
     "https://monoist.itmedia.co.jp/mn/series/22843/",
     "https://mono.ipros.com/news/detail/94709/",
     "https://tokyo-fabhub.com/ogawa-speech-itmedia/",
-    "https://newspicks.com/news/10647184/body/",
     "https://jp.meviy.misumi-ec.com/info/ja/category/blog/ogawa2/",
+    "https://newspicks.com/news/10647184/body/",
     "https://monoist.itmedia.co.jp/mn/articles/2106/14/news001_2.html",
     "https://x.com/OgawaSeisakusho/highlights",
-    "https://www.mejapan.com/09_172.html",
     "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "https://www.mejapan.com/09_172.html",
     "https://tokyo-fabhub.com/ogawa-monoist/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -359,27 +364,25 @@
     "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
     "https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation",
     "https://www.oecd.org/en/publications/oecd-compendium-of-productivity-indicators-2025_b024d9e1-en/full-report/productivity-in-smes-and-large-firms_968cffa9.html",
-    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
     "https://www.brookings.edu/wp-content/uploads/2020/01/es-1.30.20-bailybosworthdoshi.pdf",
     "https://www.nber.org/system/files/chapters/c8452/c8452.pdf",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
     "https://www.pecc.org/resources/labor/1337-human-capacity-building-in-smes-japanese-experiences-and-regional-challenges/file",
     "https://www.apo-tokyo.org/wp-content/uploads/2025/06/SME-Productivity-and-Innovation-in-Asia_PUB.pdf",
-    "https://www.jcer.or.jp/english/how-productive-is-the-japanese-manufacturing-sector",
-    "https://jpc.jpc-net.jp/eng/stats/index.html"
+    "https://www.rieti.go.jp/jp/publications/pdp/10p007.pdf"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "site:note.com 中小製造業の生産性を統計から読む実務家の連載（小川真由 MONOist「ファクトから考える中小製造業の生きる道」：資本金区分・時間あたり・為替）",
    "results": [
     "https://note.com/xborder/n/n98883cf6a464",
-    "https://note.com/xborder/n/n96a630a86a23",
-    "https://note.com/chic_deer1160/n/n69df2434bb0e",
     "https://note.com/kens_reading1/n/n502ebeaf1635",
+    "https://note.com/chic_deer1160/n/n69df2434bb0e",
+    "https://note.com/xborder/n/n96a630a86a23",
     "https://note.com/keiei_lab_note/n/nbfb89bcc221f",
     "https://note.com/sion_remake0415/n/ne43522d84ca6",
     "https://note.com/ai_funtouki/n/n5fe9657894d3"
@@ -412,12 +415,12 @@
     "https://www.linkedin.com/posts/masayoshi-ogawa1980_連載製造業統計sns下町の町工場はなぜ統計記事を発信するのかx-border-activity-7254695910180356096-ZmhH",
     "https://www.linkedin.com/posts/masayoshi-ogawa1980_連載製造業統計sns下町の町工場はなぜ統計記事を発信するのかx-border-activity-7252165017771376640-EwS2",
     "https://jp.linkedin.com/posts/浩章-藤原-043254394_製造業dx-工場dx-業務改善-activity-7438880367232667648-ov_c",
-    "https://jp.linkedin.com/posts/sei-san-sei_中小企業白書2026年版を読む経営課題と打ち手-株式会社sei-san-sei-activity-7461325108490489856-Jt1O",
     "https://jp.linkedin.com/pulse/製造業の生産性改善でよくある間違い-美徳-鈴木-u8rdc",
-    "https://jp.linkedin.com/pulse/how-measure-employee-productivity-step-by-step-guide-leaders-brown-bvr8c?tl=ja"
+    "https://jp.linkedin.com/posts/sei-san-sei_中小企業白書2026年版を読む経営課題と打ち手-株式会社sei-san-sei-activity-7461325108490489856-Jt1O",
+    "https://jp.linkedin.com/posts/techport-co-jp_なぜ中小製造業の営業は疲弊するのか-受託加工業に潜むマーケティング不在という-activity-7428936151824154624-vBy6"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -433,7 +436,7 @@
     "https://www.facebook.com/hiroshi.kanaya/videos/ビジネスフェア2024企業をつなぐ未来を創る中小企業の未来を支える賃上げと生産性向上のカギ今日は人気経済アナリストの馬渕磨理子さんが中小企業がこれからの時代に取/3621606794797132/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -443,8 +446,8 @@
     "https://monoist.itmedia.co.jp/mn/series/22843/",
     "https://mono.ipros.com/news/detail/94709/",
     "https://tokyo-fabhub.com/ogawa-speech-itmedia/",
-    "https://newspicks.com/news/10647184/body/",
     "https://jp.meviy.misumi-ec.com/info/ja/category/blog/ogawa2/",
+    "https://newspicks.com/news/10647184/body/",
     "https://monoist.itmedia.co.jp/mn/articles/2106/14/news001_2.html",
     "https://x.com/OgawaSeisakusho/highlights",
     "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
@@ -480,28 +483,28 @@
   {
    "query": "SME manufacturing productivity statistics practitioner column Japan per hour capital size site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/djdas",
     "https://www.linkedin.com/in/top5",
     "https://www.linkedin.com/in/subhamadhavan",
     "https://www.linkedin.com/in/jbloom49",
     "https://in.linkedin.com/in/rabindra-sah",
-    "https://www.linkedin.com/in/merrillmchenrycfa",
+    "https://in.linkedin.com/in/saksham-kotiya-8b6b22a2",
     "https://www.linkedin.com/in/nana-menya-ayensu",
     "https://www.linkedin.com/in/soyaseo",
-    "https://in.linkedin.com/in/saksham-kotiya-8b6b22a2",
-    "https://hk.linkedin.com/in/carmanchan"
+    "https://hk.linkedin.com/in/carmanchan",
+    "https://www.linkedin.com/in/wade-colburn-9aba3225",
+    "https://www.linkedin.com/in/walterstorm"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ22頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T12:19:56.082302+00:00"
 }

@@ -1,0 +1,425 @@
+{
+ "name": "非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）",
+ "en": "private company revenue reported vs estimated discrepancy group-wide headcount observation date benchmark industry",
+ "aliases": [
+  "非上場 売上 推定 人数 連結 グループ 違い 注意",
+  "企業ランキング 売上 推定値 方法 注記",
+  "private company revenue estimate headcount mismatch subsidiary group",
+  "Veridion private company revenue methods compared"
+ ],
+ "context": "推定",
+ "kind": "market",
+ "researched_at": "2026-11-09T20:09:50.595907+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/teritamadozo/n/nf377f71b7a76",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/paguinu/n/n96cf07f01cbc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shusuketerada/n/n9d6c40fb02a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n75a7bd9e89ba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n63277421f673",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jafsnet.co.jp/pdf/43_cyuki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.npokaikeikijun.jp/wp-content/uploads/d3b9d4e15f0fdae2dd628937432913d5-2.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ntt.com/about-us/company-profile/finance/kessankoukoku/2022/a_04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekisuihouse-f-chubu.co.jp/pdf/ir/r05_chuki.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jicpa.or.jp/specialized_field/publication/files/2-12-16-2-20141226.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://japanex.jp/book/?p=1886",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jicpa.or.jp/specialized_field/publication/files/2-8-77-2-20110426.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://biz.moneyforward.com/accounting/basic/48267/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://support.yayoi-kk.co.jp/business/faq_Subcontents.html?page_id=1609",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=39",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freee.co.jp/kb/kb-accounting/individual-financial-statements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ishihide-tax.com/tax/financial-statement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiriplus.jp/tips/kobetsuchuukihyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichilife-group.com/investor/library/security/pdf/2024/2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wheat-biz.com/acc/keiri-daiko-renketsu-kessan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indinero.com/blog/financial-benchmarking-for-private-businesses/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gosling.cpa/business-brief-3-types-of-internal-benchmarking-reports-for-businesses/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記） site:note.com",
+   "results": [
+    "https://note.com/teritamadozo/n/nf377f71b7a76",
+    "https://note.com/paguinu/n/n96cf07f01cbc",
+    "https://note.com/shusuketerada/n/n9d6c40fb02a2",
+    "https://note.com/irshukatsu/n/n426fc7c8c112",
+    "https://note.com/tatsuya_sabato/n/n75a7bd9e89ba",
+    "https://note.com/hirokimiyano/n/n63277421f673",
+    "https://note.com/tatsuya_sabato/n/ndfae399d2b33",
+    "https://note.com/paguinu/n/n668cc7419453",
+    "https://note.com/kagawatomo/n/n7bc390332496",
+    "https://note.com/tatsuya_sabato/n/nd1bb6d8f8716"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記） note",
+   "results": [
+    "https://www.jafsnet.co.jp/pdf/43_cyuki.pdf",
+    "https://www.npokaikeikijun.jp/wp-content/uploads/d3b9d4e15f0fdae2dd628937432913d5-2.pdf",
+    "https://www.ntt.com/about-us/company-profile/finance/kessankoukoku/2022/a_04.html",
+    "https://www.sekisuihouse-f-chubu.co.jp/pdf/ir/r05_chuki.pdf",
+    "https://jicpa.or.jp/specialized_field/publication/files/2-12-16-2-20141226.pdf",
+    "https://japanex.jp/book/?p=1886",
+    "https://prime-partners.co.jp/individual-notes-to-financial-statements-examples/",
+    "https://support.yayoi-kk.co.jp/business/faq_Subcontents.html?page_id=1609",
+    "https://biz.moneyforward.com/accounting/basic/48267/",
+    "https://note.com/nayami_answer/n/ncacdf3ca4150"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記） やり方",
+   "results": [
+    "https://jicpa.or.jp/specialized_field/publication/files/2-8-77-2-20110426.pdf",
+    "https://www.npokaikeikijun.jp/wp-content/uploads/d3b9d4e15f0fdae2dd628937432913d5-2.pdf",
+    "https://www.ntt.com/about-us/company-profile/finance/kessankoukoku/2022/a_04.html",
+    "https://www.jafsnet.co.jp/pdf/43_cyuki.pdf",
+    "https://biz.moneyforward.com/accounting/basic/48267/",
+    "https://support.yayoi-kk.co.jp/business/faq_Subcontents.html?page_id=1609",
+    "https://www.sekisuihouse-f-chubu.co.jp/pdf/ir/r05_chuki.pdf",
+    "https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=39",
+    "https://www.freee.co.jp/kb/kb-accounting/individual-financial-statements/",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記） 事例",
+   "results": [
+    "https://www.npokaikeikijun.jp/wp-content/uploads/d3b9d4e15f0fdae2dd628937432913d5-2.pdf",
+    "https://www.ntt.com/about-us/company-profile/finance/kessankoukoku/2022/a_04.html",
+    "https://biz.moneyforward.com/accounting/basic/48267/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://ishihide-tax.com/tax/financial-statement/",
+    "https://www.freee.co.jp/kb/kb-accounting/individual-financial-statements/",
+    "https://keiriplus.jp/tips/kobetsuchuukihyou/",
+    "https://support.yayoi-kk.co.jp/business/faq_Subcontents.html?page_id=1609",
+    "https://www.daiichilife-group.com/investor/library/security/pdf/2024/2024.pdf",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "private company revenue reported vs estimated discrepancy group-wide headcount observation date benchmark industry",
+   "results": [
+    "https://www.indinero.com/blog/financial-benchmarking-for-private-businesses/",
+    "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "https://www.venasolutions.com/blog/average-revenue-per-employee",
+    "https://www.saas-capital.com/blog-posts/revenue-per-employee-benchmarks-for-private-saas-companies/",
+    "https://gosling.cpa/business-brief-3-types-of-internal-benchmarking-reports-for-businesses/",
+    "https://grata.com/resources/how-to-accurately-estimate-private-company-revenue",
+    "https://databar.ai/blog/article/how-to-find-company-revenue",
+    "https://publications.aaahq.org/jfar/article/9/1/23/12866/Auditor-Use-of-Benchmarks-to-Assess-Fraud-Risk-The",
+    "https://theorgchart.com/resources/headcount-reporting/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）",
+   "results": [
+    "https://note.com/ib_pe_hf/n/nda4809c79b91",
+    "https://note.com/irshukatsu/n/n9fd752118742",
+    "https://note.com/tetsuya_cpa/n/n07ccab513492",
+    "https://note.com/domonjo01/n/na400fa59a422",
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5",
+    "https://note.com/bloomo_economics/n/ncd864eb73506",
+    "https://note.com/trex_ai/n/na01d10327073",
+    "https://note.com/kensetsu_keiri/n/n1d4502e77cb7"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com 非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）",
+   "results": [
+    "https://x.com/career_shikaku",
+    "https://x.com/luigi_jpn/status/2094562625690755302",
+    "https://x.com/luigi_jpn/status/2117205424495559062",
+    "https://x.com/GBaseHub",
+    "https://x.com/irbank",
+    "https://x.com/KagawaTomo/article/2078761521900118352",
+    "https://x.com/hurex_hurex",
+    "https://x.com/withmo0111/status/2114997219560669504",
+    "https://x.com/KagawaTomo/article/2085510784835359219",
+    "https://x.com/kaikeishi1/with_replies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 25
+  },
+  {
+   "query": "site:linkedin.com 非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）",
+   "results": [
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/company/works-human-intelligence",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9D%B1%E4%BA%AC%E3%80%91%E8%A1%8C%E5%8B%95%E8%A6%B3%E5%AF%9F%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%E2%97%87%E8%A1%8C%E5%8B%95%E8%A6%B3%E5%AF%9F%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%91%E3%82%A4%E3%82%AA%E3%83%8B%E3%82%A2%EF%BC%8F%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E7%AD%89%E5%83%8D%E3%81%8D%E6%96%B9%E2%97%8E-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488895995",
+    "https://jp.linkedin.com/in/jeffery-fj",
+    "https://jp.linkedin.com/company/evolany",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E6%A1%88%E4%BB%B6no-865%EF%BC%9E%E3%80%90%E5%B9%B4%E5%8F%8E1-000%E4%B8%87%E3%80%9C2-000%E4%B8%87%E3%83%BBm-amp-a%E6%9C%AA%E7%B5%8C%E9%A8%93%E5%8F%AF%E3%80%91%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9dd%E3%83%BB%E6%88%A6%E7%95%A5%E7%AD%96%E5%AE%9A%E3%81%8B%E3%82%89%E5%89%B5%E5%87%BA%E3%81%99%E3%82%8B%E3%80%8Cm-amp-a%E6%88%A6%E7%95%A5%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%E3%80%8D-at-linkard-inc-4453503688",
+    "https://jp.linkedin.com/company/plugandplayjapan",
+    "https://www.linkedin.com/in/piaconsulting",
+    "https://jp.linkedin.com/in/tomoro-tanaka-ipo",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%9C%A8%E5%AE%85%E5%8F%AF%E3%80%91%E3%82%B9%E3%83%88%E3%83%A9%E3%83%86%E3%82%B8%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%EF%BC%8F%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%87%E3%82%A3%E3%83%99%E3%83%AD%E3%83%83%E3%83%97%E3%83%A1%E3%83%B3%E3%83%88%E5%85%BC%E5%8B%99%E2%97%86%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4%EF%BC%8F%E5%8C%BB%E7%99%82%C3%97it%E9%A0%98%E5%9F%9F-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488007784"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記）",
+   "results": [
+    "https://www.facebook.com/morihamadamatsumoto/posts/newsletter-ipo%E3%83%A9%E3%83%81%E3%82%A7%E3%83%83%E3%83%88%E5%9E%8B%E6%96%B0%E6%A0%AA%E4%BA%88%E7%B4%84%E6%A8%A9%E3%81%AE%E6%A6%82%E8%A6%81%E3%81%A8%E3%81%9D%E3%81%AE%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B%E3%81%AE%E8%A7%A3%E8%AA%AC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AC%E3%82%BF%E3%83%BC%E3%81%AE%E6%9C%AC%E6%96%87%E3%81%AF%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E6%AC%84%E3%81%AE%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%88%E3%82%8A%E3%81%94%E8%A6%A7%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E5%BA%A6%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83/1261670819285388/",
+    "https://www.facebook.com/uandfas/",
+    "https://www.facebook.com/nihonma/posts/%E5%B0%B1%E8%81%B7%E4%BA%BA%E6%B0%97%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AB%E3%83%A9%E3%83%B3%E3%82%AF%E3%82%A4%E3%83%B3%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%88%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9F2026%E5%B9%B43%E6%9C%88%E5%8D%9226%E5%8D%92%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E5%B0%B1%E8%81%B7%E4%BA%BA%E6%B0%97%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%A7%E5%BD%93%E7%A4%BE%E3%81%8C%E6%98%A8%E5%B9%B4%E5%90%8C%E6%99%82%E6%9C%9F%E3%81%AE86%E4%BD%8D%E3%81%8B%E3%82%89%E9%A0%86%E4%BD%8D%E3%82%92%E4%B8%8A%E3%81%9273%E4%BD%8D%E3%81%AB%E3%83%A9/1261889795944936/",
+    "https://www.facebook.com/alarmbox/?locale=ja_JP",
+    "https://www.facebook.com/vertex.realestate/",
+    "https://www.facebook.com/jmcaav/",
+    "https://www.facebook.com/nikkei/videos/%E4%BC%81%E6%A5%AD%E3%81%AEma%E5%AF%BE%E6%8A%97tob%E3%82%84mbo%E3%81%AA%E3%81%9C%E6%B5%81%E8%A1%8Chttpswwwnikkeicomarticledgxzqocd0669i0w4a200c2000000n_ciddsprm/1053809475713241/",
+    "https://www.facebook.com/c2cplatformKK/",
+    "https://www.facebook.com/zaikaisapporo/photos/1480599474082561/",
+    "https://www.facebook.com/doshinweb/videos/%E5%8C%97%E6%B5%B7%E9%81%93%E5%86%85%E3%81%AB7%E3%82%AB%E6%89%80%E3%81%82%E3%82%8B%E3%83%93%E3%83%BC%E3%83%88%E3%81%AE%E8%A3%BD%E7%B3%96%E5%B7%A5%E5%A0%B4%E3%81%AE%E4%B8%AD%E3%81%A7%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE%E8%A8%AD%E5%82%99%E3%82%92%E6%93%81%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8C%E5%8D%81%E5%8B%9D%E7%AE%A1%E5%86%85%E8%8A%BD%E5%AE%A4%E7%94%BA%E3%81%AB%E3%81%82%E3%82%8B%E6%97%A5%E6%9C%AC%E7%94%9C%E8%8F%9C%E8%A3%BD%E7%B3%96%E6%97%A5%E7%94%9C%E3%81%AE%E8%8A%BD%E5%AE%A4%E8%A3%BD%E7%B3%96%E6%89%80%E3%81%A0httpswwwhokkaido-npcoj/1368260354947351/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記） note 社長",
+   "results": [
+    "https://www.ntt.com/about-us/company-profile/finance/kessankoukoku/2022/a_04.html",
+    "https://www.npokaikeikijun.jp/wp-content/uploads/d3b9d4e15f0fdae2dd628937432913d5-2.pdf",
+    "https://japanex.jp/book/?p=1886",
+    "https://biz.moneyforward.com/accounting/basic/48267/",
+    "https://koichiro-tax.com/chusho-kaikei-kobetsu-chukihyo/",
+    "https://keiriplus.jp/tips/kobetsuchuukihyou/",
+    "https://www.jpx.co.jp/listing/stocks/new/co3pgt0000001sxv-att/12note-1s.pdf",
+    "https://ishihide-tax.com/tax/financial-statement/",
+    "https://note.com/note_ir/n/n57d288e4fea8",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "非上場の売上で届出と推定が割れたときの確かめ方（グループの人数・観測の年・別業種の基準・ランキングの方法の注記） X 投稿",
+   "results": [
+    "https://www.npokaikeikijun.jp/wp-content/uploads/d3b9d4e15f0fdae2dd628937432913d5-2.pdf",
+    "https://www.ntt.com/about-us/company-profile/finance/kessankoukoku/2022/a_04.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://japanex.jp/book/?p=1886",
+    "https://ishihide-tax.com/tax/financial-statement/",
+    "https://biz.moneyforward.com/accounting/basic/48267/",
+    "https://koichiro-tax.com/chusho-kaikei-kobetsu-chukihyo/",
+    "https://www.freee.co.jp/kb/kb-accounting/individual-financial-statements/",
+    "https://keiriplus.jp/tips/kobetsuchuukihyou/",
+    "https://iri-group.jp/knowledge/knowhow/framework/unlisted-company-sales/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "private company revenue reported vs estimated discrepancy group-wide headcount observation date benchmark industry site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/company/societe-generale",
+    "https://www.linkedin.com/company/the-carlyle-group",
+    "https://www.linkedin.com/company/aig",
+    "https://www.linkedin.com/company/blue-owl-capital",
+    "https://www.linkedin.com/company/credit-agricole-cib",
+    "https://www.linkedin.com/in/lynndanko",
+    "https://www.linkedin.com/in/edwardchang2",
+    "https://www.linkedin.com/company/stone-point-capital",
+    "https://www.linkedin.com/company/vista-equity-partners",
+    "https://www.linkedin.com/company/rsm-us-llp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 24
+  }
+ ],
+ "missing": {
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
+ },
+ "new_this_run": {},
+ "runs": 1,
+ "first_researched_at": "2026-11-09T20:09:50.595907+00:00"
+}

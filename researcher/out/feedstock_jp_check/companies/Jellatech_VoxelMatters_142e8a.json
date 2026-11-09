@@ -1,0 +1,526 @@
+{
+ "name": "Jellatech — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T20:13:56.759966+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookJellatech - FacebookJellatech - G I V E A W A Y Have you ... - FacebookFacebookJellatech - G I V E A W A Y Have you ever dreamed of...CellAgri - \"With Jellatech, we’re solving all these...Jellatech - We are to be a part of this awesome event ... VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter Jellatech, Raleigh, North Car",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellatech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/privacy-center/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/jellatech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ncbiotech.org/news/bioreactors-not-boiling-vats-how-jellatech-plans-stir-collagen-sector",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vIz9ItDCATIS7eEHttEpoU7LVwZ-TkRrlAJXf_HpJ94j9_odRjS",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellatech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accuracy.com/jellatech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellatech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greenqueen.com.hk/jellatech-cell-cultured-human-collagen-recombinant-bioidentical-hugel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/podcasts/03ac16aa-b0cb-4c1c-96a6-9b789d1ea763/episodes/22a2271f-a7ab-4f03-9083-277beee4baf6/peers-229-the-ceo-co-founder-of-jellatech-on-nurturing-your-network",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://music.amazon.co.jp/podcasts/3e8119d8-430e-4a72-833f-fe453d60f240/episodes/85f40f66-9a9f-4449-8b06-708bc5a02a09/business-roundtable-cell-based-collagen-from-jellatech-brt-2-2021---best-of-tech-2021-ar-ai-ev---brt-s02-ep13-60-03-28-2021",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/beisia-%E9%A9%9A%E3%81%8F%E3%81%BB%E3%81%A9%E5%B1%A5%E3%81%8D%E3%82%84%E3%81%99%E3%81%84-%E9%95%B7%E8%A2%96%E9%95%B7%E3%83%91%E3%83%B3%E3%83%84-%E4%B8%8A%E4%B8%8B%E3%82%BB%E3%83%83%E3%83%88-%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2/dp/B0D16KY2QJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/p/5137/2424/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9+%E5%B1%8B%E5%A4%96%E7%94%A8/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01437633/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellatech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/453319-84",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cultivated-x.com/company-news/jellatech-expand-bioidentical-human-collagen-production-new-facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Jellatech — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://jellatech.com/",
+    "https://www.voxelmatters.directory/privacy-center/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://osstell.com/ja/find-distributors/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelmatters.directory/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://jellatech.com/company"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Jellatech — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.linkedin.com/company/jellatech",
+    "https://www.ncbiotech.org/news/bioreactors-not-boiling-vats-how-jellatech-plans-stir-collagen-sector",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://techcrunch.com/2023/09/02/deal-dive-a-cellular-ag-startup-with-a-real-moat/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jellatech — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vIz9ItDCATIS7eEHttEpoU7LVwZ-TkRrlAJXf_HpJ94j9_odRjS",
+    "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "https://shop.exmatelab.com/",
+    "https://www.asahilab.co.jp/product.html",
+    "https://www.brule.co.jp/parts-accessories.html?srsltid=AYCX9vKgykUT4iDQiVwEDAT4xqKT2EfQ1Vb6WpxJF4YQePvX_bFWw-xA",
+    "https://marche.n-pri.jp/products/c9652be3-c74c-11f0-9e9",
+    "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=15348",
+    "https://jellatech.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jellatech — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://shop.exmatelab.com/",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.monotaro.com/s/attr_f5139-%E3%82%A8%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%83%BC/q-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%20pla/?fpu=0&srsltid=AYCX9vIRci5P2iyV3w7eZGm3T9GQ73QiAYskOV-hA3mzOAK-bYBKma2J",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://www.poly-maker.jp/polylite-pla-3.html",
+    "https://www.brule.co.jp/makerbot/makerbot-filament.html?srsltid=AYCX9vINP5aoDZSXLW7g1TdyiomMzMJaa2k6CIl5VElJL6TQ3Vz6J0a4",
+    "http://www.nukumori-pellet.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Jellatech — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://jellatech.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.accuracy.com/jellatech/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.ncbiotech.org/news/bioreactors-not-boiling-vats-how-jellatech-plans-stir-collagen-sector",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.foodnavigator.com/Article/2022/06/29/jellatech-hits-tech-milestone-with-production-of-cell-cultured-type-1-collagen/",
+    "https://thinkcyte.com/company/distributors/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Jellatech — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://jellatech.com/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.greenqueen.com.hk/jellatech-cell-cultured-human-collagen-recombinant-bioidentical-hugel/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://jellatech.com/company",
+    "https://www.foodnavigator.com/Article/2022/06/29/jellatech-hits-tech-milestone-with-production-of-cell-cultured-type-1-collagen/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.reprocell.com/clinical-stem-cell-services/reprocell-japan-gmp-manufacturing-facility",
+    "https://en.wikipedia.org/wiki/Jim_Kerr"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "site:amazon.co.jp Jellatech — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/podcasts/03ac16aa-b0cb-4c1c-96a6-9b789d1ea763/episodes/22a2271f-a7ab-4f03-9083-277beee4baf6/peers-229-the-ceo-co-founder-of-jellatech-on-nurturing-your-network",
+    "https://music.amazon.co.jp/podcasts/3e8119d8-430e-4a72-833f-fe453d60f240/episodes/85f40f66-9a9f-4449-8b06-708bc5a02a09/business-roundtable-cell-based-collagen-from-jellatech-brt-2-2021---best-of-tech-2021-ar-ai-ev---brt-s02-ep13-60-03-28-2021",
+    "https://www.amazon.co.jp/beisia-驚くほど履きやすい-長袖長パンツ-上下セット-ルームウェア/dp/B0D16KY2QJ",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Jellatech — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/5137/2424/",
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/k/store/シューズボックス+屋外用/",
+    "https://www.monotaro.com/g/01437633/",
+    "https://www.monotaro.com/g/01447493/",
+    "https://www.monotaro.com/g/00011092/",
+    "https://www.monotaro.com/p/7366/7825/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jellatech — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://jellatech.com/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://pitchbook.com/profiles/company/453319-84",
+    "https://cultivated-x.com/company-news/jellatech-expand-bioidentical-human-collagen-production-new-facility/",
+    "https://agfundernews.com/jellatech-lands-3-5m-in-new-funds-to-commercialize-animal-free-collagen-for-food-pharma",
+    "https://www.axios.com/local/raleigh/2023/09/08/lab-grown-gelatin-raleigh-jellatech",
+    "https://www.accuracy.com/jellatech/",
+    "https://www.crunchbase.com/organization/jellatech",
+    "https://www.voxelmatters.report/database/",
+    "https://compworth.com/company/jellatech"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:note.com Jellatech — VoxelMatters",
+   "results": [
+    "https://note.com/harashima_kikaku/n/nd02b44fe8ec3",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/on_consul/n/n2e1165fffbb0",
+    "https://note.com/keisemi/n/na16fa9657bbb",
+    "https://note.com/tomo4006685/n/n02e92a45da0b",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Jellatech — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/BioLabsNC/status/1693985504549908711",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/abyssfixsETH/status/2103012849920749644",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/MoldwingETH/status/2110770994940137505",
+    "https://x.com/DeryaTR_/status/2078416189898785159",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/PopBase/status/2116494180054909027"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Jellatech — VoxelMatters",
+   "results": [
+    "https://il.linkedin.com/company/arrakis-bio",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://vc.linkedin.com/company/jellatech",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://in.linkedin.com/posts/jellatech_cult-foods-partners-with-jellatech-to-launch-activity-7052731245826363392-0bef",
+    "https://uk.linkedin.com/posts/foodbev_interview-lab-grown-collagen-is-more-than-activity-7055117974562566145-66QH",
+    "https://co.linkedin.com/in/oriellanovabatista",
+    "https://dk.linkedin.com/in/iben-rebecca-andresén-74b8bb24",
+    "https://www.linkedin.com/posts/john-cumbers-542220_synbiobeta2026-synbio-biotech-share-7475249149848911873-6gVl/",
+    "https://www.linkedin.com/posts/jellatech_jellatech-facility-activity-7259593279707529216-Nwuj"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Jellatech — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/jellatech/about/",
+    "https://www.facebook.com/jellatech/photos/-g-i-v-e-a-w-a-y-have-you-ever-dreamed-of-wearing-some-sweet-jellatech-gear-well/515563240591443/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/jellatech/posts/-g-i-v-e-a-w-a-y-have-you-ever-dreamed-of-wearing-some-sweet-jellatech-gear-well/515563263924774/",
+    "https://www.facebook.com/cellagri/posts/with-jellatech-were-solving-all-these-problems-and-thats-why-were-building-the-f/1729635053883505/",
+    "https://www.facebook.com/jellatech/posts/we-are-to-be-a-part-of-this-awesome-event-join-us/172190041347621/",
+    "https://www.facebook.com/jellatech/",
+    "https://www.facebook.com/BigIdeaVentures/posts/with-jellatech-founded-by-stephanie-michelsen-and-kylie-van-deinsen-hesp-animal-/2844835372421649/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Jellatech — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/author/davidesher/",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.mt.com/content/jp/ja/home/library/podcast/laboratory-division/balancing-the-future-laboratory-podcast.html",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.voxelmatters.report/reports/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Jellatech — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/x-pure-gelatins-for-greater-consistency-in-bioprinting/",
+    "https://jellatech.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.youtube.com/watch?v=kE83qdVhf8s",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

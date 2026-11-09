@@ -1,0 +1,1563 @@
+{
+ "name": "Stackline",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T20:59:31.767389+00:00",
+ "official_url": "https://www.stackline.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$180M",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Atlas gives you a commanding view of the ecommerce landscape—across Amazon, Walmart, Target, and beyond. From traffic to conversions, advertising to microtrends, you’ll uncover the unseen competitive forces shaping consumer behavior.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track competitor ad spend, analyze market share shifts in real time, and measure traffic, reviews, pricing, and product performance with unmatched accuracy across more than one billion products.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Stackline has been instrumental in helping us understand competitors and market size, which has propelled our growth.”",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beacon powers every facet of your commerce ecosystem—delivering unified insights, precise predictions, and intelligent automation across sales, forecasting, advertising, content, and operations.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage omnichannel insights to understand how millions of shoppers act online and in physical stores—from market share to retention and share of wallet.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond insights, it delivers action plans, recommendations with forecasted ROI, creates content, and executes other tasks to help achieve your goals.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“What I love most is how Stackline makes complex data feel simple, breaking down big problems into clear, actionable solutions.”",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ad Manager is Stackline’s enterprise platform for powering advanced retail media across Amazon, Walmart, and more from a single interface. It centralizes campaign management with pre-built integrations, automated budget pacing, targeting, and real-time optimization to maximize ROI.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Stackline's platform gave us a clear direction on how to maximize advertising sales and profitability.”",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What shoppers are telling us about Prime Big Deal Days 2026",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Retail partners benefit from market intelligence, advertising, and API integrations.",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Tech & Data providers",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Principal, Amazon Advertising",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "By combining our AI-powered retail solutions with their deep expertise, SPINS can offer their clients more precise insights, more effective strategies, and a proven path to sustainable growth across a diverse network of omnichannel retailers.",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“This partnership represents a game-changing moment for CPG brands navigating today's omnichannel reality.",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What makes this partnership truly powerful is how we've seamlessly integrated Stackline's unmatched and highly accurate competitive data into SPINS' hierarchy and best-in-class product attributes.",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate pricing strategy with full-market transparency",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Track price compliance and stop margin erosion.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing chaos can quietly erode your margins, damage your brand equity, and create friction with retail partners. Our pricing compliance module gives you the tools to regain control and maintain consistency across every channel.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Track pricing in real time across all major retailers, marketplaces, and sellers to instantly see where discounts are triggered and which marketplace sellers are lowering prices. You’ll know exactly who’s winning the buy box and why, so you can take action before it impacts your revenue.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With built-in MAP compliance monitoring, you can enforce your policies proactively, protect profitability, and avoid the race to the bottom. The platform highlights unauthorized price reductions, flags repeat offenders, and gives your team the evidence needed to resolve issues quickly.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Predict how price moves affect demand and margins.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing decisions shape everything—from sales velocity and margin performance to how your brand is perceived in the market. Our pricing forecasting technology gives you the clarity to make every move with confidence.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "By unifying real-time pricing data across all major retailers, the platform reveals hidden trends, compliance risks, and emerging competitive threats that can disrupt your plans. Powerful AI-driven forecasting models then simulate how every pricing decision will play out across different scenarios, factoring in seasonality, consumer demand shifts, and product life cycles.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scenario planning tools enable your team to test strategies before you commit. See exactly how a price increase will impact revenue and market share, or model the effects of discounts on long-term profitability. With these insights, you can proactively adjust your pricing approach to protect margins and outmaneuver the competition.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Validate pricing moves with real-world shopper insights.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing can make or break your product’s success—and yet it’s often shaped by assumptions instead of evidence. Our pricing research solution puts reliable, real-world data at the center of every decision you make.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Harness a suite of flexible survey tools to uncover how different audiences perceive your prices, how much they’re willing to pay, and what drives their purchase decisions. From everyday essentials to premium offerings, you can measure sensitivity and expectations across demographics, income brackets, and buying behaviors.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Predict how potential price adjustments will influence conversion and profitability before you commit resources.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unify price intelligence across online and offline retail.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing decisions are too important to rely on partial data. Our pricing analytics module gives you an all-encompassing view of the competitive landscape, bringing together live pricing from every major online and brick-and-mortar retailer—including Amazon, Walmart, Home Depot, and Costco.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With this capability, you can monitor competitor products and brands in real time to identify pricing trends, detect shifts in positioning, and uncover gaps you can leverage. Whether you need to benchmark against category leaders or track promotional fluctuations across regions, you’ll have instant access to granular, accurate intelligence.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Visual dashboards and customizable reports make it easy to surface insights that guide confident pricing moves.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We are problem solvers and creative thinkers, engineers and new business builders who put our talents towards solving the most ambitious ideas in retail.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We released the first version of Atlas, which redefined what’s possible in ecommerce competitive intelligence. This breakthrough technology tracked economic performance for more than one billion products across major online retailers.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We invented the Beacon product to automate ecommerce sales intelligence, marketing performance, and operational analytics, allowing brands to focus on strategy while the platform handles complexity behind the scenes.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "As demand accelerated, we extended our footprint to 9 countries, supporting brands across diverse markets through North America and Western Europe.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We received a $50 million investment from Goldman Sachs and launched our retail media advertising technology for consumer brands.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We released the industry's first full-funnel forecasting technology in our Beacon product line that enabled clients to see an accurate view of their future commerce performance.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "From building enterprise platforms that scale globally to pioneering new approaches in consumer data and predictive analytics, our executive team is united by a singular purpose: helping consumer brands unlock growth in an increasingly complex landscape.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Join a team of powerhouse engineers who are leading the industry in building applications for thousands of the largest retail brands powered by AI and LLMs. Our engineers think big and take risks. Together, we’ll create products and tools that redefine the industry.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Professional Services",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Apply creativity and analytical firepower to help brands see their potential more clearly and seize their opportunities more quickly with strategies that utilize our cutting-edge technology, data platforms, and professional services.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Customer Strategy",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our Finance, HR & Operations team is comprised of curious and creative colleagues that anchor us to our foundations and help our company achieve our most ambitious goals.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Finance",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Careers in our Product Management organization will allow you to lead strategic initiatives to build enterprise software applications that are used to power sales, marketing, and operations for thousands of brands.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Every one of us works together to achieve the same objective: delivering an outstanding product for our customers.\"",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Product Management",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Optimizing product positioning and comprehensive shopper research",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "OLLY uncovers Amazon Ads' multi-retailer sales impact with Stackline’s attribution",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Deploying AI to auto-generate executive market insights presentations",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Tide shoppers analyzed for switching and retention insights",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking growth with shopper switching and retention",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Building brand awareness with AMC and Fire TV",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Percent growth in incremental customers from advertising",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Improving retail media with advanced data and automation",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Our checkout technology empowers brands to sell products directly on their own websites while leveraging the fulfillment power of trusted retail partners like Amazon and Walmart. Shoppers enjoy a seamless, branded purchase experience, and orders are automatically processed and shipped through retailers’ logistics networks without requiring your team to manage warehousing or last-mile delivery.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "This approach means you get the best of both worlds: capturing first-party customer data to fuel remarketing and loyalty, while maintaining strong retail relationships and ensuring operational efficiency. Retailers benefit by preserving sales volume, and you gain complete visibility into your customers’ journeys—so you can build deeper connections and drive sustainable growth.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by over 7,000 leading consumer brands",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build mission-critical tools trusted by the world’s top brands.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://theirstack.com/ja/technology/stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://theirstack.com/ja/technology/stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://theirstack.com/ja/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.casestudies.com/company/stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tide & Nehemiah wins market share and strengthens retailer engagement with Stackline | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/stackline/case-study/tide-nehemiah-uncovers-insights-from-879k-shoppers-with-stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tide & Nehemiah wins market share and strengthens retailer engagement with Stackline",
+    "url": "https://www.casestudies.com/company/stackline/case-study/tide-nehemiah-uncovers-insights-from-879k-shoppers-with-stackline",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/stackline/case-study/tide-nehemiah-uncovers-insights-from-879k-shoppers-with-stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/stackline/case-study/tide-nehemiah-uncovers-insights-from-879k-shoppers-with-stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Plantation, FL",
+    "url": "https://pitchbook.com/profiles/company/228974-41",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our AI-powered platform is an integrated suite of capabilities to measure, manage, and grow your brand.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI identifies high‑value audience segments for your brand and allows you to track shopper behavior at granular levels across Amazon, Walmart, Target, and more retailers.",
+    "url": "https://www.stackline.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agency partners access powerful insights and retail media technology.",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing chaos can quietly erode your margins, damage your brand equity, and create friction with retail partners. Our pricing compliance module gives you the tools to regain control and maintain consistency across every channel.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing decisions shape everything—from sales velocity and margin performance to how your brand is perceived in the market. Our pricing forecasting technology gives you the clarity to make every move with confidence.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Even more, a conversational AI shopping agent engages customers in natural dialogue, answering questions, offering tailored advice, and guiding them to the ideal products—all while maintaining your brand’s voice and aesthetic.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "Your most valuable shoppers live on their phones. Mobile apps enable your brand to meet them there with beautifully branded iOS and Android apps ready to launch in the app stores—without months of development or complex integrations.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "Your most influential sales force is already out there—your customers. With our affiliate and influencer platform, you can enable everyday shoppers and passionate fans to amplify your brand story across every channel.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "Our seasoned consultants work alongside your brand to plan, implement, and optimize every aspect of your Shopper OS solution. Whether you’re launching mobile apps, designing loyalty programs, configuring AI-powered recommendations, or building dynamic checkout experiences, our experts ensure each component is deployed to drive measurable impact.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "Measure all keyword-level searches and your brand’s share of voice across every retailer.",
+    "url": "https://www.stackline.com/solutions/improve-seo",
+    "pass": 1
+   },
+   {
+    "quote": "The organic targeting module gives your brand the tools to transform SEO insights into real, measurable advantage. For the first time, you can see exactly how shoppers discover your products—across every major retailer, every keyword, and every digital shelf placement.",
+    "url": "https://www.stackline.com/solutions/improve-seo",
+    "pass": 1
+   },
+   {
+    "quote": "The organic and SEO creative module revolutionizes how brands build the content that fuels search success. In just moments, your team can generate high-quality product titles, images, and marketing copy that align seamlessly with your brand guidelines—without compromising creativity or consistency.",
+    "url": "https://www.stackline.com/solutions/improve-seo",
+    "pass": 1
+   },
+   {
+    "quote": "This suite of capabilities enables your brand to win the digital shelf by transforming raw search intelligence into high-performing product content. Our platform analyzes more than 300 billion annual consumer searches and organic ranking data to pinpoint the precise keywords your shoppers use to discover products like yours across retailers.",
+    "url": "https://www.stackline.com/solutions/improve-seo",
+    "pass": 1
+   },
+   {
+    "quote": "The store locator helps convert digital interest into in-store sales while reinforcing your brand’s commitment to meeting customers wherever they prefer to shop.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Your shoppers crave simplicity—and your login experience is often the first impression they have of your brand. Our universal login technology makes it effortless for customers to engage, browse, and buy without the friction of remembering usernames or passwords.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "With this flexible system, you can reward customers for signing up, completing purchases, or engaging with your brand in other ways.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "With built-in support for Google Pay, Apple Pay, and all major credit cards, your brand can offer the convenience customers expect on every device. Whether they’re shopping on mobile or desktop, customers can sign in and pay instantly, skipping tedious forms and reducing abandoned checkouts.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Customer profiles give shoppers a centralized place to manage their relationship with your brand long after checkout is complete. Through a personal dashboard, customers can view purchase history, check shipping status, track rewards, and access the details that matter most after an order is placed.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Turn shopper relationships into owned data your brand can activate again.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Concierge gives consumer brands control over how their AI shopping and support agent appears, speaks, and engages with shoppers. From the interface design and visual experience to the words, tone, and literal voice used in conversation, every element can be shaped to reflect your brand identity.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "Trained on your brand guidelines, concierge stays consistent across product discovery, buying guidance, recommendations, and support moments.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "Concierge connects customer profiles to every conversation, giving shoppers an easier way to manage their relationship with your brand directly from chat.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "With profile context available in real-time, the Concierge can deliver more helpful support, answer service questions faster, and guide customers through the next best action. This creates a smoother post-purchase experience that reduces friction, strengthens trust, and keeps shoppers engaged with your brand long after the initial purchase.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "Our message channels capability allows your brand to connect with customers effortlessly across every medium that matters.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "Every message you send tells a story about your brand—and your customers’ response writes the next chapter. With our message analytics capability, you gain a transparent, unified view of how your communications perform across every major retailer, channel, and audience segment.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock a new era of loyalty with audience targeting that adapts to every shopper. Our advanced rewards platform empowers your brand to design highly specific incentives for distinct customer segments—so you can drive conversions with pinpoint accuracy.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "Target high-spend shoppers with offers that reinforce their value or entice new customers with introductory rewards that make trying your brand irresistible. With flexible segmentation and real-time analytics, you can continually optimize your strategy, ensuring every reward investment generates measurable ROI.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "Reward customers for joining your club and engaging with your brand.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "Reward customers for creating videos and editorials for your brand.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "Reward customers for inviting their friends to engage with your brand.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "Reward customers for connecting with your brand across retailer partners.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "This future-activated approach ensures your brand enjoys predictable, margin-positive outcomes instead of one-time costs. Each locked reward becomes a reason to re-engage, helping you drive repeat purchases and higher lifetime value while maintaining complete control over reward economics.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "Dive deep into consumer-level and product-level data to understand which segments are responding, which products are accelerating growth, and where your ROI is strongest. With this clarity, you’ll have the confidence to invest in programs that keep customers coming back—and prove the incremental lift your rewards deliver to your brand’s bottom line.",
+    "url": "https://www.stackline.com/rewards",
+    "pass": 1
+   },
+   {
+    "quote": "Affiliate rewards capabilities give your brand unmatched visibility and control over every aspect of your affiliate and influencer partnerships. From the moment a shopper clicks a link to the instant they complete a purchase, every touchpoint is tracked with precision—so you always know which advocates are delivering results.",
+    "url": "https://www.stackline.com/affiliate",
+    "pass": 1
+   },
+   {
+    "quote": "Pacvue is a leading e-commerce SaaS platform that empowers brands, sellers and agencies to programmatically manage and optimize their advertising on Amazon. Created by industry experts, Pacvue combines AI algorithms …",
+    "url": "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Build new revenue streams and enhance your capabilities as part of our thriving ecosystem.",
+    "url": "https://www.stackline.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Track pricing in real time across all major retailers, marketplaces, and sellers to instantly see where discounts are triggered and which marketplace sellers are lowering prices. You’ll know exactly who’s winning the buy box and why, so you can take action before it impacts your revenue.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scenario planning tools enable your team to test strategies before you commit. See exactly how a price increase will impact revenue and market share, or model the effects of discounts on long-term profitability. With these insights, you can proactively adjust your pricing approach to protect margins and outmaneuver the competition.",
+    "url": "https://www.stackline.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We opened our Minneapolis office as we expanded beyond our Seattle headquarters. Plus, we expanded our solutions to support clients in 14 countries and grew our team to 50 employees.",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "“When employees join Stackline, they quickly discover that our ambitious team will help them accomplish their life's best work.”",
+    "url": "https://www.stackline.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Employees are rewarded for their energy and dedication with industry-competitive salaries and benefits.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Employees have the opportunity to receive performance and tenure-based stock option grants.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Access best-in-class health, dental and vision insurance for our employees and dependents.",
+    "url": "https://www.stackline.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a beautifully streamlined, personalized shopping experience that removes barriers to purchase and accelerates conversion. With every interaction, you’ll cultivate trust, inspire confidence, and create loyal customers who keep coming back.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "With our multi-retailer CRM, you can finally break down data barriers, cultivate more meaningful relationships, and orchestrate experiences that keep shoppers engaged wherever they choose to buy. This is customer relationship management—transformed for the omnichannel era.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "Fuel brand growth by turning fans into revenue-generating advocates.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "The threshold gives brands a clear way to plan deal tiers. Hero products that bring new shoppers into a brand's portfolio warrant 30% or more, while supporting items compete at 20 to 25%. Brands that tier discounts this way protect margin across the rest of the assortment.",
+    "url": "https://www.stackline.com/news/what-shoppers-are-telling-us-about-prime-big-deal-days-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent pricing across retailers keeps brands competitive in side-by-side comparisons. With many shoppers unaware of the Walmart and Target events, the brands with live deals, strong content and visible placements on those sites will capture shoppers who arrive to compare and find a better offer there.",
+    "url": "https://www.stackline.com/news/what-shoppers-are-telling-us-about-prime-big-deal-days-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Scenario planning tools let you model how changes to product content, keyword targeting, and optimization strategies will impact performance over time. Instantly visualize the revenue potential of each strategy and make confident decisions about where to invest resources for the highest return.",
+    "url": "https://www.stackline.com/solutions/improve-seo",
+    "pass": 1
+   },
+   {
+    "quote": "Even better, universal login connects our entire network of brands and retail experiences. When a shopper signs in to any participating site, they’re automatically signed in everywhere. This continuity builds familiarity, increases trust, and removes barriers to purchase across every touchpoint.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Each transaction is protected by advanced security and encryption, giving both your team and your customers total peace of mind. By streamlining payment into a seamless, intuitive experience, you remove barriers to purchase and inspire confidence at the moment of decision.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "For brands, this creates a connected path between product discovery, retailer traffic, and measurable sales performance. Closed-loop attribution helps teams understand which pages, campaigns, audiences, and products are driving revenue, while first-party data capture supports remarketing to high-intent shoppers and stronger future campaign outcomes.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "For marketers, this opens new ways to collect customer feedback, encourage participation, strengthen relationships, and increase lifetime value. By tying incentives to shopper behavior, brands can make every page a more effective driver of loyalty and revenue.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "This is especially valuable for ad campaigns, where targeted shoppers arrive with different needs, interests, and purchase triggers. By connecting audience strategy to the concierge experience, brands can keep every interaction on message, personalize the path to purchase, and improve conversion from high-intent campaign traffic.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "By removing language barriers from product discovery and service, brands can create stronger global shopping experiences, improve customer confidence, support international growth, and make concierge assistance feel helpful wherever shoppers engage.",
+    "url": "https://www.stackline.com/concierge",
+    "pass": 1
+   },
+   {
+    "quote": "Announces fresh arrivals to spark interest and excitement.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "This powerful visibility allows your team to validate ROI, compare the effectiveness of different affiliates. You’ll see precisely who is driving engagement and revenue—whether they’re posting on social media, creating blog content, or sharing links via email.",
+    "url": "https://www.stackline.com/affiliate",
+    "pass": 1
+   },
+   {
+    "quote": "Garden of Life faced the fundamental problem plaguing consumer brands: no direct relationship with 99% of their retail shoppers. As a premium supplement brand owned by Nestlé Health Science and sold across Amazon, Walmart, Target, and specialty health stores, their retail distribution model created significant scale, but with barriers to connect with shoppers.",
+    "url": "https://www.stackline.com/case-studies/garden-of-life-building-direct-relationships-with-retail-shoppers",
+    "pass": 1
+   },
+   {
+    "quote": "Download list of 1 companies using Stackline in Japan. This curated list is available for download and comes enriched with vital company specifics, including industry classification, organizational size, geographical location, funding rounds, and revenue figures, among others.",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "You can customize this data to your needs by filtering for geography, industry, company size, revenue, technology usage, job postions and more. You can download the data in Excel or CSV format.",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline Revenue 2025: $27.9M Est., $180M Raised",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline has not published its revenue. GetLatka estimates it at about $27.9M a year (July 2025).",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline CEO & employees",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Lagoni is CEO of Stackline. Stackline has 254 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Stackline's revenue?",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Stackline's revenue at about",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Stackline have?",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline has 250 total employees.",
+    "url": "https://pitchbook.com/profiles/company/228974-41",
+    "pass": 3
+   },
+   {
+    "quote": "What is Stackline’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/228974-41",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Stackline is",
+    "url": "https://pitchbook.com/profiles/company/228974-41",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Shoppers expect brands to meet them where they are—and that means delivering timely, relevant communication across every touchpoint. Our messaging platform equips you to connect effortlessly with customers through text messages, personalized emails, and push notifications.",
+    "url": "https://www.stackline.com/shopper-os",
+    "pass": 1
+   },
+   {
+    "quote": "When a shopper adds products to their cart but leaves without completing their purchase, our platform springs into action. It tracks abandonment events in real time and triggers a personalized follow-up—delivered via email, SMS, or through advertising retargeting—that reminds the shopper what they left behind.",
+    "url": "https://www.stackline.com/retail-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Launch targeted surveys that explore every dimension of your communications, from the channels your audience prefers—like text, email, or push notifications—to the frequency and creative that keep them engaged. Analyze responses by demographic, psychographic, and purchase behavior to understand exactly what motivates each segment.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "Connect across text, email, and push to stay top of mind.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "With this flexible solution, you can craft and deliver messages via text, email, push notifications, or in-app alerts—all from a single, unified platform.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "Whether a customer browses your products online, completes a purchase in-store at Home Depot, or signs up for a subscription on Amazon, your messaging program can instantly respond with relevant, personalized outreach. Send a thank-you email moments after a transaction, a reminder when a product is about to run out, or a special offer when someone hasn’t engaged in weeks.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "Track open rates, clicks, conversions, and downstream sales to understand precisely which messages spark action and which need refinement. Whether you’re reaching customers via email, text, or push notifications, you’ll have access to real-time metrics that reveal what’s working.",
+    "url": "https://www.stackline.com/messaging",
+    "pass": 1
+   },
+   {
+    "quote": "This powerful visibility allows your team to validate ROI, compare the effectiveness of different affiliates. You’ll see precisely who is driving engagement and revenue—whether they’re posting on social media, creating blog content, or sharing links via email.",
+    "url": "https://www.stackline.com/affiliate",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/228974-41",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本でStacklineを使用している企業のリスト (1) | TheirStack.com",
+    "url": "https://theirstack.com/ja/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "日本でStacklineを使用している企業",
+    "url": "https://theirstack.com/ja/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "日本でStacklineを使用している企業のリスト",
+    "url": "https://theirstack.com/ja/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "日本でStacklineを使用している1社のリストをダウンロードしてください",
+    "url": "https://theirstack.com/ja/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Stackline in Japan (1) | TheirStack.com",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Stackline in Japan",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "List of companies using Stackline in Japan",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Download list of 1 companies using Stackline in Japan. This curated list is available for download and comes enriched with vital company specifics, including industry classification, organizational size, geographical location, funding rounds, and revenue figures, among others.",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Stackline を使用している企業 (444) | TheirStack.com — Stackline を使用している 444 社のリストをダウンロードできます。 このリストには、業界、企業規模、所在地、資金調達ラウンド、収益数値などの豊富なデータが含まれています。",
+    "url": "https://theirstack.com/ja/technology/stackline",
+    "pass": 3
+   },
+   {
+    "quote": "日本でStacklineを使用している企業のリスト (1) | TheirStack.com — 日本でStacklineを使用している1社のリストをダウンロードしてください。 この厳選されたリストは、業界分類、組織規模、地理的位置、資金調達ラウンド、収益額などの重要な企業情報を含む形でダウンロード可能です。",
+    "url": "https://theirstack.com/ja/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline - Retail Growth Platform — Stackline is fueling the future of commerce by bringing brands and customers closer together. Stackline tools and teams help leading brands sell products across an ecosystem spanning online marketplaces, retail stores, social media, and direct-to-consumer.",
+    "url": "https://www.stackline.com/?gad=1",
+    "pass": 3
+   },
+   {
+    "quote": "Platform - stackline.com — Leverage proprietary first-party behavioral data from real shoppers across channels. From purchase patterns to survey feedback and engagement data, Stackline gives you a dynamic pulse on consumer needs—fueling ad targeting, personalization, and product innovation.",
+    "url": "https://www.stackline.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Stacklineは、Amazonでブランドが自信を ... - moomoo — 最近のStacklineのブランド能力に関する調査によると、ブランドリーダーの64%が将来のパフォーマンスを予測することに自信がありません。 ビーコンプロは、ブランドが中央集権的な予測とシナリオの計画ソリューションを備えて、この課題を解決します。",
+    "url": "https://www.moomoo.com/ja/news/post/28040376/stackline-introduces-beacon-pro-the-industry-s-first-full-funnel?level=3&data_ticket=1790928339379721",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline - Retail Growth Platform — Stackline is fueling the future of commerce by bringing brands and customers closer together. Stackline tools and teams help leading brands sell products across an ecosystem spanning online marketplaces, retail stores, social media, and direct-to-consumer.",
+    "url": "https://www.stackline.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline - Retail Growth Platform — Join thousands of brands that use Stackline to unify AI, data, and automation in one connected platform. Our AI-powered platform is an integrated suite of capabilities to measure, manage, and grow your brand. Illuminate your position in the marketplace.",
+    "url": "https://www.stackline.com/?gad=1",
+    "pass": 3
+   },
+   {
+    "quote": "Atlas - Stackline — From individual SKUs to global brand portfolios, every data point is captured, validated, and structured to reveal the dynamics shaping your category in the moment they emerge. “If you want a deeper understanding of your business — including your competitors — Stackline is the best solution.”",
+    "url": "https://www.stackline.com/atlas",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Stackline in Japan (1) | TheirStack.com — Download a list of 1 companies that use Stackline in Japan with enriched data including industry, company size, location, funding rounds, and revenue figures.",
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline — Stackline ... Stackline",
+    "url": "https://signin.stackline.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - stackline.com — Learn more about how other leading brands are utilizing Stackline to accelerate their business.",
+    "url": "https://www.stackline.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline B2B Case Studies & Customer Successes — See how Stackline solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/stackline",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tide & Nehemiah wins market share and strengthens ... — Tide & Nehemiah uncovers insights from 87.9K shoppers with Stackline The customer, Tide & Nehemiah, a household supplies manufacturer, faced stagnant growth and rising customer churn in the competitive washing machine cleaner category.",
+    "url": "https://www.casestudies.com/company/stackline/case-study/tide-nehemiah-uncovers-insights-from-879k-shoppers-with-stackline",
+    "pass": 3
+   },
+   {
+    "quote": "18 Stackline Case Studies, Success Stories, & Customer ... — Stackline has a 4.8/5 star rating. Learn what their customers think, get 18 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "PackIt | Stackline — PackIt leveraged Stackline's research solutions to survey 400+ verified baby category purchasers, validating packaging concepts and pricing strategy for a product re-launch.",
+    "url": "https://www.stackline.com/case-studies/optimizing-product-positioning-and-comprehensive-shopper-research",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline Revenue 2025: $27.9M Est., $180M Raised — Oct 30, 2026 · Stackline 2025 estimated revenue: $27.9M. Total funding: $180M across 2 rounds. 254 employees. Industry: Retail Analytics Software. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/stackline.com",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline 2026 Company Profile: Valuation, Funding ...Stackline - 2026 Company Profile, Funding & Competitors - TracxnAbout - StacklineStackline: Funding, Team & Investors | Startup IntrosStackline - Overview, News & Similar companies | ZoomInfo.comStackline — venture-backed company profile | Dealroom — Information on valuation, funding, acquisitions, investors, and executives for Stackline. Use t",
+    "url": "https://pitchbook.com/profiles/company/228974-41",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline - 2026 Company Profile, Funding & Competitors - Tracxn — Jul 19, 2026 · Stackline has raised $180M in funding from Goldman Sachs and TA Associates. The company has 3191 active competitors, including 453 funded and 305 that have exited.",
+    "url": "https://tracxn.com/d/companies/stackline/__e1-53Oha_Rt1n-K_G_eWfpB6OCwNtYJhcrA-79QIqVY",
+    "pass": 3
+   },
+   {
+    "quote": "About - Stackline — Michael Lagoni founded Stackline with $300 in a one-room apartment in Seattle with the mission to build better intelligence and automation technology for consumer brands. Our team partnered with 10 pioneering brands to develop and refine our technology.",
+    "url": "https://www.stackline.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Stackline has raised $180.0M across 2 funding rounds. Most recently, it raised $130.0M Series B in June 2021.",
+    "url": "https://startupintros.com/orgs/stackline",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "stacklineの記事一覧｜note（ノート） こんにちは、Ubie（ユビー）株式会社の Ubie Discovery でソフトウェアエンジニアとして働いている松原です。 これは Ubie Discovery の「ソフトウェアエンジニア (デリバリ… stackline 8か月前 49 stackline 2023年1月27日 10:47",
+    "url": "https://note.com/stackline/all",
+    "pass": 3
+   },
+   {
+    "quote": "stackline｜note 1人目のSoftware Engineer (Delivery & Success)としてUbie Discoveryに転職しました こんにちは、Ubie（ユビー）株式会社の Ubie Discovery でソフトウェアエンジニアとして働いている松原です。これは Ubie Discovery の「ソフトウェアエンジニア (デリバリー&サクセス)」という職種に1人目のエンジニアとして ...",
+    "url": "https://note.com/stackline/",
+    "pass": 3
+   },
+   {
+    "quote": "stackline｜note noteプレミアム note pro 法人向けサービス よくある質問・noteの使い方 マガジン ユーザー ハッシュタグ 安心安全ガイドライン プライバシー ご利用規約 特商法表記 クリエイターへのお問い合わせ フィードバック クリエイターの推薦",
+    "url": "https://note.com/stackline/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "1人目のSoftware Engineer (Delivery & Success)としてUbie Discoveryに転職しました",
+    "url": "https://note.com/stackline/all",
+    "pass": 3
+   },
+   {
+    "quote": "1人目のSoftware Engineer (Delivery & Success)としてUbie Discoveryに転職しました",
+    "url": "https://note.com/stackline",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "STACKLINE PRO (@stacklinepro) / Posts / X 👋 Welcome to STACKLINE.We help businesses build modern, fast, and conversion-focused websites.Follow for web design insights, website tips, and business growth content.🚀 Let's build something great.",
+    "url": "https://x.com/stacklinepro",
+    "pass": 3
+   },
+   {
+    "quote": "stacklinestudio (@stacklinestudio) / X Building Stackline Studio 🚀 | Python & AI dev turning code into products | Creator of Developer Second Brain — an Obsidian vault for coders 🧠",
+    "url": "https://x.com/stacklinestudio",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline (@Stackline1) / Posts / X Stackline 🐝 (@Stackline1) - Posts - #VforVictory | X (formerly Twitter) Ça & la rivalité entre les structures devenait un peu plus saine en début d'année, avec du banter très drôle quand on s'affronte, dommage que ça reparte en couille. Pourquoi tout a besoin d'être un concours de teubs ? On a un bel Esport en France, c'est une chance, profitez en 💛",
+    "url": "https://x.com/Stackline1",
+    "pass": 3
+   },
+   {
+    "quote": "Mitchell Keidan (@mkeidan) / X @mkeidan Online retail analytics @ stacklinehq Seattle, WA stackline.com Joined September 2010 543 Following",
+    "url": "https://x.com/mkeidan",
+    "pass": 3
+   },
+   {
+    "quote": "STACKLINE PRO (@stacklinepro) / Posts / X Jul 13, 2026 · 👋 Welcome to STACKLINE.We help businesses build modern, fast, and conversion-focused websites.Follow for web design insights, website tips, and business growth content.🚀 Let's build something great.",
+    "url": "https://x.com/stacklinepro",
+    "pass": 3
+   },
+   {
+    "quote": "@stacklinehq | X The latest posts from @stacklinehq",
+    "url": "https://x.com/stacklinehq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Stackline - LinkedIn On a mission to fuel the future of commerce by bringing brands and customers closer together, Stackline is the leading AI-enabled retail intelligence and activation platform for the world's most...",
+    "url": "https://www.linkedin.com/company/stackline/",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline: Jobs | LinkedIn Business leaders, product innovators, performance marketers, and financial firms trust Stackline as the single source of commerce truth.",
+    "url": "https://www.linkedin.com/company/stackline/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Emily Dubnicka - Director @ Stackline | Strategic Planning ...Kallia Lamaris - Director, Customer Strategy at Stackline ...Stackline: Culture | LinkedInMichael Lagoni - Stackline | LinkedInSarah Heider - Founder & CEO @ Stackline Talent | | LinkedIn Director @ Stackline | Strategic Planning, Professional Services, Data Analysis, Advertising · Experience: Stackline · Education: Indiana University B",
+    "url": "https://uk.linkedin.com/in/emilydubnicka",
+    "pass": 3
+   },
+   {
+    "quote": "Kallia Lamaris - Director, Customer Strategy at Stackline ...Stackline: Culture | LinkedInMichael Lagoni - Stackline | LinkedInSarah Heider - Founder & CEO @ Stackline Talent | | LinkedIn Director, Customer Strategy at Stackline · Experienced in e-commerce, marketing and brand strategy for the world's largest online retailer. · Experience: Stackline · Education: Queen Mary, U.... Business leaders,",
+    "url": "https://uk.linkedin.com/in/kallia-lamaris-21824989",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Stackline - FacebookStackLine - FacebookStackline Studio - FacebookStackline Studios - FacebookStackline - FacebookStackLine - FacebookStackline - Our CEO is a seriously rad dude. He built a ... Aug 27, 2019 · Ryan Valenza came to Stackline by way of NASA and The Allen Institute for Brain Science. And now he's building state-of-the-art technology to help brands understand and optimize their perfor",
+    "url": "https://www.facebook.com/StacklineHQ/",
+    "pass": 3
+   },
+   {
+    "quote": "StackLine - Facebook Sep 11, 2026 · We designed the website, connected the custom domain, and host the entire platform on our Stackline",
+    "url": "https://www.facebook.com/p/StackLine-61577425118694/",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline Studio - Facebook Feb 24, 2026 · 🚀 Introducing Stackline Studio Fast Sites. Reliable Systems. We're not just another web design agency. At Stackline Studio, we specialize in building high-performance websites and secure digital infrastructure.",
+    "url": "https://www.facebook.com/61576769736433/",
+    "pass": 3
+   },
+   {
+    "quote": "Stackline Studios - Facebook Stackline Studios helps businesses build a strong online presence through modern, professional, and mobile-friendly websites. We help brands showcase their services and connect with customers.",
+    "url": "https://www.facebook.com/p/Stackline-Studios-61594957963878/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.stackline.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/shopper-os",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/news/what-shoppers-are-telling-us-about-prime-big-deal-days-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/solutions/improve-seo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/request-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/retail-checkout",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/concierge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/messaging",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/rewards",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/affiliate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stackline.com/case-studies/garden-of-life-building-direct-relationships-with-retail-shoppers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6809698c0597c9d490910c86/685c47f06824823c37154a77_Website%20-%20Brand%20Logos_Amazon.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6809698c0597c9d490910c86/68751dcb84767b52ec34513c_Consultant%20Logos_McKinsey.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6809698c0597c9d490910c86/685c47f33ac7dad1a86da3ed_Website%20-%20Brand%20Logos_Walmart.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6809698c0597c9d490910c86/68758fce653c34cab38bd9e5_Website%20-%20Partner%20Logos_SPINS%20(1).svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://theirstack.com/ja/technology/stackline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theirstack.com/ja/technology/stackline/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://theirstack.com/en/technology/stackline/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://signin.stackline.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/stackline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/stackline/case-study/tide-nehemiah-uncovers-insights-from-879k-shoppers-with-stackline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.strikingly.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/stackline.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/228974-41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/stackline/__e1-53Oha_Rt1n-K_G_eWfpB6OCwNtYJhcrA-79QIqVY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/stackline/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/stackline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/stacklinepro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stacklinestudio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Stackline1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mkeidan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/stackline/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/stackline/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/emilydubnicka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/kallia-lamaris-21824989",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StacklineHQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/StackLine-61577425118694/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61576769736433/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Stackline-Studios-61594957963878/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/stackline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/stacklinepro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stacklinehq",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Stackline 日本 導入",
+   "results": [
+    "https://theirstack.com/ja/technology/stackline",
+    "https://theirstack.com/ja/technology/stackline/jp",
+    "https://www.stackline.com/?gad=1",
+    "https://www.stackline.com/platform",
+    "https://www.moomoo.com/ja/news/post/28040376/stackline-introduces-beacon-pro-the-industry-s-first-full-funnel?level=3&data_ticket=1790928339379721",
+    "https://saasbrowser.com/ja/saas/71516/stackline",
+    "https://stackline.gaprise.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stackline 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://www.stackline.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.indexpro.co.jp/distributor/search-distributor"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stackline Japan",
+   "results": [
+    "https://www.stackline.com/?gad=1",
+    "https://www.stackline.com/atlas",
+    "https://theirstack.com/en/technology/stackline/jp",
+    "https://signin.stackline.com/",
+    "https://theirstack.com/ja/technology/stackline",
+    "https://getstackline.com/",
+    "https://stackline.gaprise.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stackline manufacturing customer case study",
+   "results": [
+    "https://www.stackline.com/case-studies",
+    "https://www.casestudies.com/company/stackline",
+    "https://www.casestudies.com/company/stackline/case-study/tide-nehemiah-uncovers-insights-from-879k-shoppers-with-stackline",
+    "https://www.featuredcustomers.com/vendor/stackline/case-studies",
+    "https://www.stackline.com/case-studies/optimizing-product-positioning-and-comprehensive-shopper-research",
+    "https://www.catman.global/wp-content/uploads/2024/07/Stackline-Dude-Wipes_CaseStudy_2023-2.pdf",
+    "https://go.stackline.com/rs/135-ASC-470/images/Stackline-Waterpik-Customer-Success+Story-Q2_051022.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stackline white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partner.vw.com/partner",
+    "https://www.strikingly.com/reseller-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stackline founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/stackline.com",
+    "https://pitchbook.com/profiles/company/228974-41",
+    "https://tracxn.com/d/companies/stackline/__e1-53Oha_Rt1n-K_G_eWfpB6OCwNtYJhcrA-79QIqVY",
+    "https://www.stackline.com/about",
+    "https://startupintros.com/orgs/stackline",
+    "https://www.zoominfo.com/c/stackline-inc/357142163",
+    "https://dealroom.co/companies/stackline/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Stackline",
+   "results": [
+    "https://note.com/stackline/all",
+    "https://note.com/stackline/",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/zero_sta1/n/n1a304241ddb1?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/turner55/n/n6ea04907ef7b",
+    "https://note.com/uchita_success/n/n030ad63765d3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Stackline",
+   "results": [
+    "https://x.com/stacklinepro",
+    "https://x.com/stacklinestudio",
+    "https://x.com/Stackline1",
+    "https://x.com/mkeidan",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/BuzzingPop/status/2117864405064892847"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Stackline",
+   "results": [
+    "https://www.linkedin.com/company/stackline/",
+    "https://www.linkedin.com/company/stackline/jobs",
+    "https://uk.linkedin.com/in/emilydubnicka",
+    "https://uk.linkedin.com/in/kallia-lamaris-21824989",
+    "https://www.linkedin.com/company/stackline/life",
+    "https://www.linkedin.com/in/lagoni",
+    "https://www.linkedin.com/in/sarah-heider-a28578416"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Stackline",
+   "results": [
+    "https://www.facebook.com/StacklineHQ/",
+    "https://www.facebook.com/p/StackLine-61577425118694/",
+    "https://www.facebook.com/61576769736433/",
+    "https://www.facebook.com/p/Stackline-Studios-61594957963878/",
+    "https://www.facebook.com/p/Stackline-100076829021568/",
+    "https://www.facebook.com/p/StackLine-100090524105468/",
+    "https://www.facebook.com/StacklineHQ/posts/our-ceo-is-a-seriously-rad-dude-he-built-a-thriving-business-thats-revolutionizi/344705106151686/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stackline note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.stackline.com/leadership",
+    "https://www.stackline.com/team-members/michael-lagoni",
+    "https://note.com/stackline/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/stackline/all",
+    "https://www.linkedin.com/in/lagoni"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stackline X 投稿",
+   "results": [
+    "https://x.com/stacklinepro",
+    "https://x.com/stacklinehq",
+    "https://www.stackline.com/?gad=1",
+    "https://www.stackline.com/sign-in",
+    "https://signin.stackline.com/",
+    "https://stackline.ai/",
+    "https://www.1point3acres.com/bbs/thread-1101544-1-1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

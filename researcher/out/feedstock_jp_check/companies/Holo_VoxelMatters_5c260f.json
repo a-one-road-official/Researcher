@@ -1,0 +1,486 @@
+{
+ "name": "Holo — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:24:27.933115+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3d-printed-prosthetics-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/slicer-virtual-color-mixing-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/3dbentu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/ynu-recyclable-anthracene-photocurable-resin-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.holodesign.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vKjYmdBe7P6RdLZYzRRqCLuFF2LInxtp8a1nHsg5VJPzTT4Cboh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/holo-Originals-Vol-1-%E9%80%9A%E5%B8%B8%E7%9B%A4-%E7%89%B9%E5%85%B8%E3%81%AA%E3%81%97/dp/B0BNKW57BQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/everything-matters-when-comes-commentary/dp/B0G75QVJZQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/g/00511629/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tech-blog.monotaro.com/entry/2026/03/31/090000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04188176/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stockanalysis.com/stocks/holo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seekingalpha.com/symbol/HOLO/income-statement",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://stockanalysis.com/stocks/holo/revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/microcloud-hologram-inc-files-2024-annual-report-on-form-20-f-302408144.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Holo — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/about/",
+    "https://3dprint.com/308483/holos-intricate-metal-3d-printing-assets-acquired-by-mim-producer-greene-group-industries/",
+    "https://globalventuring.com/corporate/industrial/holo-3d-metals-printing/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://fusiontechnology.co.jp/access/",
+    "https://www.voxelmatters.com/top-products/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Holo — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://skhonpo.com/blogs/blog/3d-printed-prosthetics-2026",
+    "https://skhonpo.com/blogs/blog/slicer-virtual-color-mixing-2026",
+    "https://skhonpo.com/blogs/blog/3dbentu",
+    "https://skhonpo.com/blogs/blog/ynu-recyclable-anthracene-photocurable-resin-2026",
+    "https://skhonpo.com/blogs/blog/elegoo-h1-ht-filament-dryer-2026-07",
+    "https://en.wikipedia.org/wiki/Microsoft_HoloLens",
+    "https://www.youtube.com/shorts/LZGj7HVhcXQ",
+    "https://hololive.hololivepro.com/en/goods",
+    "https://www.instagram.com/kpopusaonline/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Holo — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "https://www.holodesign.jp/",
+    "https://www.rakunew.com/items/85356?t=c_gadgets%2Bc_3d_printer_scanner",
+    "https://ja.aliexpress.com/item/1005004065257147.html",
+    "https://rtrp.jp/items/24997767/",
+    "https://polytopi.com/borderlands4-3d-print-cosplay-items/",
+    "https://adaconcept.co/shop/e9a0645887584"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Holo — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://voxelpla.com/?srsltid=AYCX9vKjYmdBe7P6RdLZYzRRqCLuFF2LInxtp8a1nHsg5VJPzTT4Cboh",
+    "https://www.poly-maker.jp/",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJdQTd1V71I92panStArGHdGz4JiSMUVrdIvzmBW80xbtJ-6Bcw",
+    "https://shop.exmatelab.com/",
+    "https://www.youtube.com/watch?v=uWV1J_LOcF0",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://en.wikipedia.org/wiki/Microsoft_HoloLens"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Holo — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.holoor.co.il/distributors/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.tctmagazine.com/metal-parts-manufacturer-acquires-metal-3d-printing-firm-hol/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Holo — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.holoor.co.il/distributors/",
+    "https://en.wikipedia.org/wiki/Hololive_Production"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Holo — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/holo-Originals-Vol-1-通常盤-特典なし/dp/B0BNKW57BQ",
+    "https://www.amazon.co.jp/everything-matters-when-comes-commentary/dp/B0G75QVJZQ",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://pay.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Holo — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00511629/",
+    "https://tech-blog.monotaro.com/entry/2026/03/31/090000",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/04188176/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/g/00250535/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Holo — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://stockanalysis.com/stocks/holo/",
+    "https://seekingalpha.com/symbol/HOLO/income-statement",
+    "https://stockanalysis.com/stocks/holo/revenue/",
+    "https://www.prnewswire.com/news-releases/microcloud-hologram-inc-files-2024-annual-report-on-form-20-f-302408144.html",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.voxelmatters.com/category/money/financials/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Holo — VoxelMatters",
+   "results": [
+    "https://note.com/veedbingo",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/umamusume_sui/n/n1761ebf1f348"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Holo — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Holographicros3",
+    "https://x.com/hololive_En/status/2118554030171451800",
+    "https://x.com/H_O_L_O_",
+    "https://x.com/holo_d0t/status/1854745315611439249",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Holo — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/posts/voxelmatters_metal-am-market-2025-voxelmatters-deep-activity-7285618036043087872-8URk",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7492846001142116354-Qcj7",
+    "https://www.linkedin.com/posts/sinto-advanced-ceramics_𝗕𝗲𝘆𝗼𝗻𝗱-𝘁𝗵𝗲-𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲-𝗪𝗵𝘆-activity-7523668925369438209-W6-4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Holo — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/VoxelMatters/posts/-voxelmatters-metal-am-market-2025-reportwe-are-now-offering-early-access-to-our/1140541171410263/",
+    "https://www.facebook.com/VoxelMatters/posts/the-lessons-of-artemisthe-program-cost-over-93-billion-and-sent-humans-back-to-t/1553291466801896/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/",
+    "https://www.facebook.com/VoxelMatters/videos/not-every-opening-gets-an-electric-unicycle-entrance-this-one-didvoxelmatters-tr/4418310308426998/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Holo — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.voxelmatters.com/",
+    "https://yokotablog.com/sadaaki-kato-profile/",
+    "https://ir.note.jp/message",
+    "https://www.msn.com/ja-jp/money/top-stocks/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Holo — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Senaldol/status/2119718173876670759",
+    "https://x.com/HoloComms",
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://x.com/Holo_Data",
+    "https://x.com/holo_titw/status/2116960689617301965"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

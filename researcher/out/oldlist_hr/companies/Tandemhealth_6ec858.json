@@ -1,0 +1,1191 @@
+{
+ "name": "Tandemhealth",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-09T20:54:53.908602+00:00",
+ "official_url": "https://www.tandemhealth.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：August 2023",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/tandem-health",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜€125/ユーザー/月（年払い）） 無料枠 あり（ノート作成は無制限・独自テンプレートは2つまで）",
+    "url": "https://aipicks.jp/tool/tandem-health",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Stockholm, Stockholms Lan, Sweden",
+    "url": "https://startupintros.com/orgs/tandem-health",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The AI clinical assistant led by clinicians, working in tandem with Europe's leading care providers.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tandem helps clinicians prepare, document, and follow up on visits",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Patients feel that both they and the GP are more present during the consultation.”",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tandem generates clinical documents from your consultations in seconds. It suggests relevant diagnosis and procedure codes, such as ICD-10 and SNOMED, and includes hands-free voice editing.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tandem Health complies with GDPR, ISO 13485, ISO 27001, and NHS DSPT requirements, supporting secure and compliant data handling.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "All data stored and processed within the EU",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "All patient data is processed and stored in data centres within Europe. Tandem has enterprise agreements in place to maintain compliance and strict security standards.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Patient data handled under EU privacy law",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Independently verified protection against common cyber attacks",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“I’ve been dead impressed by how accurate Tandem is. The way it picks out the most important parts of the conversation is really, really good.”",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "General Practitioner, UK",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No copy pasting or extra steps. If you prefer to make manual changes, that option is still there.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Used across general practice, veterinary care, mental health, and other care settings.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement of Ambient Voice Technology: Lessons Learned",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We summarise lessons from more than 50 procurement processes across Europe to help healthcare organisations structure effective procurement of ambient voice technology.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This thesis examines how mental healthcare professionals perceive and adopt an AI-based clinical co-pilot for documentation support, and the factors influencing its integration into routine practice.",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tandem was founded on the principle that someone needs to take care of healthcare in Europe — and on a problem we had lived ourselves: too much time documenting, too little time with patients.",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Building trusted clinical technology requires speed, care, openness, and a constant drive to improve.",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We know that openness leads to the better long-term outcome.",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Private medical insurance in Sweden and the UK, a €1,000 annual health stipend, and mental health support when you need it.",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "30 days of holiday to properly switch off, paid parental leave including parental top-ups in eligible markets, and two company off-sites a year to build connections and plan what's next.",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "One previously unrecorded diagnosis, captured per visit. A 12-week Swedish primary care pilot.",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Primary, specialised, social and older-adult care",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Klippan municipality gave social workers their presence back",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Occupational health provider",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "23 Apr 2026",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "22 Apr 2026",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "1,000 clinicians. 12,500 consultations. A three year NHS rollout at Hertfordshire Community NHS Trust",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Nelson Medical Practice cut documentation time by 58%",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "NHS GP practice, South West London",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Primary care and hospitals",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "From 10,000+ notes to 1 hour gained daily: Doktor.se lightens admin pressure with Tandem",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Digital mental health provider",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Praktikertjänst rolled out Tandem to 35 clinics in 4 months and cut documentation time for two-thirds of clinicians",
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Like many GP clinics, St Wulfstan’s Surgery in Warwickshire faced rising documentation pressures impacting both patient experience and clinician wellbeing. Between February and May 2025, the practice piloted Tandem’s ambient AI scribe - the impact was immediate. Clinicians reported faster documentation, reduced stress, and more time to engage meaningfully with patients.",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "Patient presence and clarity improved by 10%",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "Patients reported greater GP presence (89.9% vs. 83.6%) and better understanding of care plans.",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "GPs said Tandem helped them remember key details and improved satisfaction: “100% of GPs felt it was an improvement over their previous way of working.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "“Very impressed by the AI summary accuracy.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "GPs reported stress falling from 49.3% to 30.4% when Tandem was used. They also said they felt more satisfied, less drained, and more present with patients. 100% agreed that Tandem helped them remember key details and improved their overall workflow",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "“In 100% of cases, GPs felt the AI-scribe helped them remember key aspects of the consultation and represented an improvement over the previous way of working.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "St Wulfstan’s Surgery made governance central to the pilot: DPIA, DCB0160, updated privacy policies, and new EMIS protocols. Once implemented, Tandem passed every safety and quality audit — all notes were rated “clinically appropriate.” Patients also accepted the tool, with none reporting disruption.",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "“Tandem has improved the accuracy of notes — capturing useful information I wouldn’t have recorded due to time constraints. It makes clinic a lot more efficient and less stressful.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "“Patients feel that both they and the GP are more present during the consultation… this could improve communication and reduce complaints.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "Hertfordshire Community NHS Trust | Tandem Health",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "1,000 clinicians. 12,500 consultations. A three year NHS rollout at Hertfordshire Community NHS Trust",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "Hertfordshire Community NHS Trust moves from pilot to a three-year rollout of Accurx Scribe, powered by Tandem, after 12,500 consultations.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "Since September 2025, clinicians at Hertfordshire Community NHS Trust have used Accurx Scribe, powered by Tandem, in more than 12,500 consultations.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "Hertfordshire is one of more than 40 trusts using Accurx Scribe.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "In the announcement, Julie McCall, Head of Digital Programmes, reflects on the early uptake during the pilot. At executive level, CEO Elliot Howard Jones speaks about the ambition to reduce admin and allow clinicians to be more patient facing.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "The clinician reviews and edits the draft, then approves it before transferring it into the medical record with one click. Clinical responsibility remains with the clinician.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "Clinicians describe fewer headaches and more presence",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, one clinician describes the headaches he used to get after hours of typing notes, and how they have stopped. Others speak about feeling more present with patients.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "The three year rollout means this experience will now extend to 1,000 clinicians across Hertfordshire Community NHS Trust.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "Digital mental health provider",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   },
+   {
+    "quote": "Mindler integrated Tandem directly into its platform. Psychologists start Tandem at the beginning of a session, and the tool creates a draft note in real time. After a quick review, the note is transferred into the system. This allows psychologists to stay more present in the conversation while still finishing their workday on time.",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   },
+   {
+    "quote": "“I expected AI to save time, but I didn’t realize how much it would also improve the quality of my sessions. Being able to focus fully on the patient, without thinking about notes, makes the work feel more meaningful and less stressful.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   },
+   {
+    "quote": "Proven results: hours saved and a better workday",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   },
+   {
+    "quote": "Tandem quickly proved its value in the organisation. After the pilot, adoption spread across Mindler’s network of more than 200 psychologists in multiple countries. The combination of speed, trust, and clinical relevance made Tandem a natural part of daily work.",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   },
+   {
+    "quote": "“We are always looking for innovations that create real value for both patients and psychologists. Introducing Tandem’s AI documentation support is part of our strategy to combine clinical expertise with smart technology. It helps us improve quality, reduce friction in daily work, and enable our teams to deliver care at scale.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 10,000+ care organisations across Europe",
+    "url": "https://tandemhealth.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a growing team of clinicians, engineers, and operators — including 100 in-house clinicians — working side by side to build technology that genuinely supports care.",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study here.",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, one clinician describes the headaches he used to get after hours of typing notes, and how they have stopped. Others speak about feeling more present with patients.",
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://tandemhealth.ai/product/solutions/municipal-care-and-social-services",
+    "pass": 1
+   },
+   {
+    "quote": "Ambience Healthcare is the leading AI platform for documentation, coding, and clinical workflows, built to reduce administrative burden and protect revenue integrity at the point of care. Trusted by top …",
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tandem Health becomes a European healthtech leader with PR Agency One | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pr-agency-one/case-study/tandem-health-boosts-share-of-voice-to-281-with-pr-agency-one",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tandem Health becomes a European healthtech leader with PR Agency One",
+    "url": "https://www.casestudies.com/company/pr-agency-one/case-study/tandem-health-boosts-share-of-voice-to-281-with-pr-agency-one",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/pr-agency-one/case-study/tandem-health-boosts-share-of-voice-to-281-with-pr-agency-one",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pr-agency-one/case-study/tandem-health-boosts-share-of-voice-to-281-with-pr-agency-one",
+    "pass": 3
+   },
+   {
+    "quote": "Spermosens is a medical equipment manufacturer that produces technologies for diagnosing male-factor…",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Employees: 200+",
+    "url": "https://tandemhealth.ai/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "43.6% of notes were finished in under a minute. Without it, only 1.37% were that quick, and more than half took longer than three minutes. This shift meant clinicians could close records almost instantly after a consultation, instead of carrying the workload into evenings.",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "Tandem quickly proved its value in the organisation. After the pilot, adoption spread across Mindler’s network of more than 200 psychologists in multiple countries. The combination of speed, trust, and clinical relevance made Tandem a natural part of daily work.",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   },
+   {
+    "quote": "“We are always looking for innovations that create real value for both patients and psychologists. Introducing Tandem’s AI documentation support is part of our strategy to combine clinical expertise with smart technology. It helps us improve quality, reduce friction in daily work, and enable our teams to deliver care at scale.”",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 1
+   },
+   {
+    "quote": "At The Hill Surgery, documentation wasn't just time-consuming - it carried potential legal risk. If nurses or pharmacists generated poor-quality notes, GP partners would be held accountable. As Dr. Radia shares, “If notes are poor… it puts liability on us as partners.” Clinicians found it difficult to maintain eye contact and rapport during consultations when juggling note-taking.",
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-the-hill-surgery",
+    "pass": 1
+   },
+   {
+    "quote": "Edit a note the way you prefer and Tandem carries the change forward automatically, so the next note comes out closer to how you write.",
+    "url": "https://tandemhealth.ai/product/solutions/dentistry",
+    "pass": 1
+   },
+   {
+    "quote": "Edit a note the way you prefer and Tandem carries the change forward automatically, so the next note comes out closer to how you write.",
+    "url": "https://tandemhealth.ai/product/solutions/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "Investor and business leader, currently Chair of Kinnevik, with board experience from Zalando and Spotify and 20 years investing in listed and private companies.",
+    "url": "https://tandemhealth.ai/about/our-story",
+    "pass": 1
+   },
+   {
+    "quote": "Each professional group has its established phrasing. Several staff described regularly adjusting wording to make the text feel like their own. Factoring in that adjustment period is part of a successful implementation.",
+    "url": "https://tandemhealth.ai/product/customer-stories/eslov-municipality",
+    "pass": 1
+   },
+   {
+    "quote": "What the pilot demonstrated is that when documentation no longer takes all the attention, staff have more room for the part of the job that can't be automated: being present with the people who need them.",
+    "url": "https://tandemhealth.ai/product/customer-stories/eslov-municipality",
+    "pass": 1
+   },
+   {
+    "quote": "Pilot carried out December 2025 to May 2026. The evaluation is based on survey data from all 16 participants and usage statistics from the AI assistant. Partners: Klippan municipality, Tieto, Tandem Health.",
+    "url": "https://tandemhealth.ai/product/customer-stories/klippan-municipality",
+    "pass": 1
+   },
+   {
+    "quote": "<img src=\"https://aipicks.jp/api/badge?slug=tandem-health&kind=listed\" alt=\"AI PICKS 掲載認定 2026 AUTUMN｜Tandem Health\" width=\"200\" height=\"236\" loading=\"lazy\" />",
+    "url": "https://aipicks.jp/tool/tandem-health",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare is critical infrastructure, and patient data is among the most sensitive data a society holds. Up until now most clinical AI has run on data centres owned by global hyperscalers. It is crucial Europe can be independent in the AI era, to withstand geopolitical and regulatory changes, ensuring we can lead the way rather than risk being left behind.",
+    "url": "https://tandemhealth.ai/sovereign-health",
+    "pass": 3
+   },
+   {
+    "quote": "Ambience Healthcare is the leading AI platform for documentation, coding, and clinical workflows, built to reduce administrative burden and protect revenue integrity at the point of care. Trusted by top …",
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Klaria (Klaria Pharma Holding AB) is a Swedish listed pharmaceutical company that develops innovative,…",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tandem Health have?",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "第158回日本美容外科学会学術集会",
+    "url": "https://stellanews.life/medicalinformation/10880/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療制度や医療現場、医療ツーリズムを含む",
+    "url": "https://stellanews.life/medicalinformation/10880/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonのアソシエイトとして、株式会社ステラ・メディックスは適格販売により収入を得ています",
+    "url": "https://stellanews.life/medicalinformation/10880/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応や日本の電子カルテとの連携は公式サイトで確認できません",
+    "url": "https://aipicks.jp/tool/tandem-health",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応や日本の電子カルテとの連携は公式サイトで確認できない",
+    "url": "https://aipicks.jp/tool/tandem-health",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応や日本の電子カルテとの連携は公式サイトに記載がないため、国内での利用は事前の確認が必要です",
+    "url": "https://aipicks.jp/tool/tandem-health",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tandem Health、AIクリニックオペレーティングシステム構築のために1... — Sep 14, 2026 · 創業から3年で、Tandemは14か国の欧州市場に拠点を設け、製品はRamsay Santé、Humanitas、NHSを含む1万以上の医療機関に導入されたと同社は述べている。",
+    "url": "https://www.unite.ai/ja/tandem-health-raises-100m-series-b-to-build-ai-clinic-operating-system/",
+    "pass": 3
+   },
+   {
+    "quote": "形成外科向け音声AIカルテ「Tandem Health」がBeauty Through Science... — Tandem Healthは2026年7月21日、形成外科医の国際教育ネットワーク「Beauty Through Science」との提携を発表した。 診察の音声を基に構造化カルテを自動生成するAIの機能と、MDRクラスIIa認証などの位置付けを整理する。",
+    "url": "https://stellanews.life/medicalinformation/10880/",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Healthとは？評判・料金・機能【無料あり】 | AI PICKS — Oct 1, 2026 · Tandem Healthの評判・料金・代替ツールを比較。 Tandem Healthは、診察中の会話からカルテや紹介状、診断書などの文書を自動作成し、ICD-10などのコード候補も示す欧州発のAI医療スクライブです。",
+    "url": "https://aipicks.jp/tool/tandem-health",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health、1億ドル調達で診療所の業務全体を担うAI基盤へ — Sep 20, 2026 · 研究の答え 重要なポイント Tandem HealthはSeries Bで1億ドルを調達し、開示済みの累計調達額は1億6,000万ドルとなった。 ラウンドはEQT運営のScaleup Europe Fundが主導。 同ファンドにとって医療分野で初の投資で、既存投資家も参加した。",
+    "url": "https://www.studioglobal.ai/ja/discover/answers/how-did-swedish-healthtech-startup-tandem-health-s-6aafba10ebd0d4dad81c793d",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health | Microsoft Marketplace — Tandem is used by more than 300 care organizations across primary care, specialty care, hospital care, mental health, rehab, nursing, and more. Tandem Health has local operations in Europe across the Nordics, UK, France, Germany, and Spain.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/tandemhealth.tandem-public",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health — Tandem Health's AI medical assistant for medical note taking transcribes the patient consultation, to create a draft medical note directly afterwards that can be automatically transferred to your medical record system.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/web-apps/tandemhealth.tandem-public",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health | Microsoft Marketplace — Tandem Health's AI medical assistant for medical note taking transcribes the patient consultation, to create a draft medical note directly afterwards that can be automatically transferred to your medical record system.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/tandemhealth.tandem-public",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health — Focus on care while Tandem writes your notes after consultations. Boost healthcare productivity with our AI ambient scribe solution.",
+    "url": "https://tandemhealth.ai/about/clinical-team",
+    "pass": 3
+   },
+   {
+    "quote": "Sovereign Health - Tandem Health — Evaluation of 47 leading AI models using the Tandem harness for medical note generation based on 50 transcripts selected to be representative across European languages and care settings. The models were scored on clinician preference and accuracy.",
+    "url": "https://tandemhealth.ai/sovereign-health",
+    "pass": 3
+   },
+   {
+    "quote": "AI scribe integrations | 130+ systems | Tandem Health — Tandem's AI scribe integrates with 130+ medical record systems & dental, pharmacy, and care management systems. Transfer clinical notes and codes directly, no copy-paste.",
+    "url": "https://tandemhealth.ai/product/integrations",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health B2B Case Studies & Customer Successes — See how Tandem Health solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/tandem-health",
+    "pass": 3
+   },
+   {
+    "quote": "4 Tandem Health Case Studies, Success Stories, & Customer ... — Discover how other companies use Tandem Health, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tandem Health becomes a European healthtech ... — Tandem Health, a new entrant in the AI healthcare technology sector with its medical scribe product, faced the challenge of launching and scaling across Europe's complex markets against heavily funded competitors.",
+    "url": "https://www.casestudies.com/company/pr-agency-one/case-study/tandem-health-boosts-share-of-voice-to-281-with-pr-agency-one",
+    "pass": 3
+   },
+   {
+    "quote": "Mindler | Tandem Health — Psychologists at Mindler were spending up to two hours every day documenting their sessions. This reduced time for recovery, increased cognitive load, and risked burnout. Mindler needed a tool that could reduce administrative work without disrupting therapy. “As a clinical psychologist, I know how much time and energy goes into documentation.",
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 24, 2026 · Tandem Health is a series A company based in Stockholm (Sweden), founded in 2023 by Oliver Astrand and Oscar Boldt-Christmas. It operates as an AI-powered solution that writes medical notes for healthcare providers.",
+    "url": "https://tracxn.com/d/companies/tandemhealth/__3nQdjVE7kOBmu8fHFJQ8yv_VuA2mJ_BRalVqU4zZlbg",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem (Medical Records Systems) 2026 Company Profile ...Tandem Health: Funding, Investors & Team (Nov 2026) - FundedIQTandem Health: Funding, Team & Investors | Startup Introstandem health Changing Healthcare, Enriching LivesTandem Health — venture-backed company profile | Dealroom — Jun 19, 2024 · Information on valuation, funding, cap tables, investors, and executives for Tandem (Medical Record",
+    "url": "https://pitchbook.com/profiles/company/606399-76",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health: Funding, Investors & Team (Nov 2026) - FundedIQ — Tandem Health has raised $110M across 2 funding rounds on record, the most recent a Series B of $100M announced in Sep 2026. That round is above the $5.0M median round size for Health Care companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Tandem Health was founded in 2023 in Sweden by CEO and co-founder Lukas Saari, alongside a team where over 80% are clinicians (excluding tech staff), blending AI expertise with deep medical knowledge.",
+    "url": "https://startupintros.com/orgs/tandem-health",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health – Company Insights & Financial Strength – 2026 — Sep 14, 2026 · Revenue, valuation, and funding figures for Tandem Health are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/tandemhealth-ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Tandem Health team: 2 of 2 have an email address on file, 2 have a LinkedIn profile.",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Melissa Sanderson (@TandemHealth) / X 1 followers · 15 following. Joined Apr 2013. See the latest conversations with @TandemHealth",
+    "url": "https://x.com/TandemHealth",
+    "pass": 3
+   },
+   {
+    "quote": "Raising.fi on X: \" ️ Company: Tandem Health Website: https ... 🏛️ Company: Tandem Health 🔗 Website: tandemhealth.ai 📊 Amount: $100 million 🔄 Round: Series B ⚙️ Industry: Healthcare 🌍 Location: 🔒 Get Pro 🤝 Investors: 🔒 Get Pro 👥 Decision Makers: 🔒 Get Pro",
+    "url": "https://x.com/raisingfi/status/2099531800708038688",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tandem Health - LinkedIn Tandem Health is building a complete AI clinical assistant for clinics across Europe. We embed intelligence directly into clinical workflows, helping clinicians document, decide, and act in real ...",
+    "url": "https://www.linkedin.com/company/tandem-health",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health - LinkedIn Tandem Health is a Federally Qualified Health Center (FQHC) and accredited Patient‑Centered Medical Home (PCMH) committed to providing high‑quality, compassionate healthcare to the Sumter ...",
+    "url": "https://www.linkedin.com/company/tandem-health-sc",
+    "pass": 3
+   },
+   {
+    "quote": "Lukas Saari – CEO & Co-Founder of Tandem Health | LinkedInMedical Operations - Estonia at Tandem Health — Tallinn ...Tandem Healthcare Pvt Ltd | LinkedIn CEO & Co-Founder of Tandem Health · I find it insane that clinicians today waste 40% of their time on admin, and that we as a society waste 3% of global GDP on healthcare admin. Rising costs, shortages of clinicians, and an aging population only ",
+    "url": "https://se.linkedin.com/in/lukas-saari",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Healthcare Pvt Ltd | LinkedIn Tandem Healthcare Pvt Ltd | 493 followers on LinkedIn. The idea behind Tandem is to create a perfect unison of People, Processes & Technology. It is a collaboration to create efficient, standardized, & trusted management & support systems for healthcare delivery. We provide Consulting, Advisory, & Operations & Management services.",
+    "url": "https://in.linkedin.com/company/tandem-healthcare-pvt-ltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tandem Health - FacebookTandem Health | Sumter SC - FacebookMore care. More services. One Tandem Health. From ... - FacebookTandem Health - Celebrating Health Care Facilities ... - FacebookTandem Health - Tandem Health was proud to be part of ...Tandem - Our new family medicine facility at Tandem Health ...Tandem Mental Health Associates, Inc. | Glen Allen VA Aug 20, 2020 · Tandem Health. 16 likes",
+    "url": "https://www.facebook.com/tandemhealth/",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health | Sumter SC - FacebookMore care. More services. One Tandem Health. From ... - FacebookTandem Health - Celebrating Health Care Facilities ... - FacebookTandem Health - Tandem Health was proud to be part of ...Tandem - Our new family medicine facility at Tandem Health ...Tandem Mental Health Associates, Inc. | Glen Allen VA Tandem Health, Sumter. 2,209 followers · 44 talking about this",
+    "url": "https://www.facebook.com/TandemHealthSC/",
+    "pass": 3
+   },
+   {
+    "quote": "Tandem Health - Celebrating Health Care Facilities ... - Facebook Oct 24, 2026 · Celebrating Health Care Facilities & Engineering Week! This week, Tandem Health recognizes the dedicated professionals who work behind the scenes to keep our facilities safe, functional, comfortable...",
+    "url": "https://www.facebook.com/TandemHealthSC/posts/celebrating-health-care-facilities-engineering-weekthis-week-tandem-health-recog/1753682393427484/",
+    "pass": 3
+   },
+   {
+    "quote": "More care. More services. One Tandem Health. From ... - Facebook Sep 3, 2026 · More care. More services. One Tandem Health. From primary and pediatric care to women’s health, behavioral health, dental services, pharmacy and more—we’re here to care for you and your family...",
+    "url": "https://www.facebook.com/TandemHealthSC/videos/more-care-more-services-one-tandem-healthfrom-primary-and-pediatric-care-to-wome/3052986065053854/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tandemhealth.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-st-wulfstans-surgery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories/hertfordshire-community-nhs-trust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories/mindler",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories/nhs-the-hill-surgery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/about/clinical-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/medicine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/mental-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/nursing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/municipal-care-and-social-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/physiotherapy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/dentistry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/pharmacy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/solutions/veterinary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/about/our-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories/eslov-municipality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories/klippan-municipality",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.unite.ai/ja/tandem-health-raises-100m-series-b-to-build-ai-clinic-operating-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stellanews.life/medicalinformation/10880/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/tandem-health",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.studioglobal.ai/ja/discover/answers/how-did-swedish-healthtech-startup-tandem-health-s-6aafba10ebd0d4dad81c793d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/tandemhealth.tandem-public",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/tandemhealth.tandem-public",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/about/clinical-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/sovereign-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tandem-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tandemhealth.ai/product/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pr-agency-one/case-study/tandem-health-boosts-share-of-voice-to-281-with-pr-agency-one",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.resellerclub.com/login",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tandemhealth/__3nQdjVE7kOBmu8fHFJQ8yv_VuA2mJ_BRalVqU4zZlbg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/606399-76",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/tandem-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TandemHealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/raisingfi/status/2099531800708038688",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tandem-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tandem-health-sc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/lukas-saari",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/tandem-healthcare-pvt-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tandemhealth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TandemHealthSC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TandemHealthSC/posts/celebrating-health-care-facilities-engineering-weekthis-week-tandem-health-recog/1753682393427484/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TandemHealthSC/videos/more-care-more-services-one-tandem-healthfrom-primary-and-pediatric-care-to-wome/3052986065053854/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tandemhealth 日本 導入",
+   "results": [
+    "https://www.unite.ai/ja/tandem-health-raises-100m-series-b-to-build-ai-clinic-operating-system/",
+    "https://stellanews.life/medicalinformation/10880/",
+    "https://aipicks.jp/tool/tandem-health",
+    "https://www.studioglobal.ai/ja/discover/answers/how-did-swedish-healthtech-startup-tandem-health-s-6aafba10ebd0d4dad81c793d",
+    "https://marketplace.microsoft.com/ja-jp/product/tandemhealth.tandem-public",
+    "https://marketplace.microsoft.com/ja-jp/product/web-apps/tandemhealth.tandem-public",
+    "https://thebridge.jp/2026/09/tandem-health-series-b-100m-scaleup-europe-fund"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tandemhealth 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tandemhealth Japan",
+   "results": [
+    "https://marketplace.microsoft.com/ja-jp/product/web-apps/tandemhealth.tandem-public",
+    "https://marketplace.microsoft.com/ja-jp/product/tandemhealth.tandem-public",
+    "https://tandemhealth.ai/about/clinical-team",
+    "https://tandemhealth.ai/sovereign-health",
+    "https://tandemhealth.ai/product/integrations",
+    "https://tandemhealth.ai/product/overview",
+    "https://app.tandemhealth.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tandemhealth manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/tandem-health",
+    "https://tandemhealth.ai/product/customer-stories",
+    "https://www.featuredcustomers.com/vendor/tandem-health/case-studies",
+    "https://www.casestudies.com/company/pr-agency-one/case-study/tandem-health-boosts-share-of-voice-to-281-with-pr-agency-one",
+    "https://tandemhealth.ai/product/customer-stories/mindler",
+    "https://www.lumahealth.io/customer-stories/tandem-health-sees-9000-more-patients-and-over-450k-more-in-revenue-annually",
+    "https://www.lumahealth.io/wp-content/uploads/2025/10/Tandem-Health-_-Luma-Case-Study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tandemhealth white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.resellerclub.com/login",
+    "https://www.vizrt.com/partner-program/",
+    "https://sg.ingrammicro-asia.com/about-us/become-a-reseller",
+    "https://www.reseller.co.nz/",
+    "https://reseller.nbtel.iq/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Tandemhealth founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/tandemhealth/__3nQdjVE7kOBmu8fHFJQ8yv_VuA2mJ_BRalVqU4zZlbg",
+    "https://pitchbook.com/profiles/company/606399-76",
+    "https://fundediq.co/tandem-health-tandemhealth-ai-funding/",
+    "https://startupintros.com/orgs/tandem-health",
+    "https://compworth.com/company/tandemhealth-ai",
+    "https://dealroom.co/companies/tandem-health/",
+    "https://tandemhealthsc.org/media/2044/2025-annual-report.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tandemhealth",
+   "results": [
+    "https://note.com/clever_quail8713/n/ncba06807b084?hl=en",
+    "https://note.com/eguweb/n/ncde144f228e6?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/fond_clam2634/n/n9223090b1e5a",
+    "https://note.com/sr_takashima/n/n559ce4c0370d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tandemhealth",
+   "results": [
+    "https://x.com/TandemHealth",
+    "https://x.com/raisingfi/status/2099531800708038688",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/tandemdiabetes",
+    "https://x.com/Tandem_USC_PGY1",
+    "https://x.com/healthintandem",
+    "https://x.com/SkyNews/status/2099133050583957769"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tandemhealth",
+   "results": [
+    "https://www.linkedin.com/company/tandem-health",
+    "https://www.linkedin.com/company/tandem-health-sc",
+    "https://se.linkedin.com/in/lukas-saari",
+    "https://in.linkedin.com/company/tandem-healthcare-pvt-ltd",
+    "https://uk.linkedin.com/jobs/view/bid-manager-at-tandem-health-4476106712",
+    "https://uk.linkedin.com/jobs/view/partnerships-lead-uk-i-at-tandem-health-4485980471",
+    "https://ee.linkedin.com/jobs/view/medical-operations-estonia-at-tandem-health-4318545235"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tandemhealth",
+   "results": [
+    "https://www.facebook.com/tandemhealth/",
+    "https://www.facebook.com/TandemHealthSC/",
+    "https://www.facebook.com/TandemHealthSC/posts/celebrating-health-care-facilities-engineering-weekthis-week-tandem-health-recog/1753682393427484/",
+    "https://www.facebook.com/TandemHealthSC/videos/more-care-more-services-one-tandem-healthfrom-primary-and-pediatric-care-to-wome/3052986065053854/",
+    "https://www.facebook.com/TandemHealthSC/photos/our-new-family-medicine-facility-at-tandem-health-located-at-425-north-salem-is-/1067982271997503/",
+    "https://www.facebook.com/TandemHealthSC/posts/-tandem-health-was-proud-to-be-part-of-the-5th-annual-pink-in-the-city-our-tande/1767306488731741/",
+    "https://www.facebook.com/TandemMentalHealth/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tandemhealth note 社長",
+   "results": [
+    "https://smebusinessreview.com/profiles/profile/tandem-health-cuts-clinician-paperwork-by-automating-medical-notes-lukas-saari-co-founder-&-ceo-tandem-health",
+    "https://tandemhealth.ai/about/clinical-team",
+    "https://tandemhealth.ai/resources/news/changes-to-tandems-board-of-directors",
+    "https://www.bloomberg.com/profile/company/2455312D:DC",
+    "https://www.forbes.com/profile/sahir-jaggi/",
+    "https://healthcare-digital.com/news/deutsche-telekom-backs-tandems-european-health-ai-ambitions",
+    "https://se.linkedin.com/in/lukas-saari"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tandemhealth X 投稿",
+   "results": [
+    "https://app.tandemhealth.ai/tandem-admin",
+    "https://login.tandemhealth.ai/",
+    "https://app.tandemhealth.ai/",
+    "https://tandemhealth.ai/product/overview",
+    "https://tandemhealth.ai/product/downloads",
+    "https://tandemhealth.ai/product/ai-scribe",
+    "https://blog.csdn.net/weixin_31960565/article/details/162382270"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

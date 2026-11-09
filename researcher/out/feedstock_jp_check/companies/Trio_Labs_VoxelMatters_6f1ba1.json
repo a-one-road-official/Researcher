@@ -1,0 +1,510 @@
+{
+ "name": "Trio Labs — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:30:24.442446+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Trio Labs — VoxelMatters - The largest database of additive ... — Trio Labs' mission is to improve lives by enabling the next generation of medical devices. Trio fabricates precision metal parts with unmatched fine resolution that scale seamlessly from prototyping though high volume manufacturing.",
+    "url": "https://www.voxelmatters.directory/company/trio-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Trio Labs — VoxelMatters - The largest database of additive ... — Trio Labs' mission is to improve lives by enabling the next generation of medical devices. Trio fabricates precision metal parts with unmatched fine resolution that scale seamlessly from prototyping though high volume manufacturing. The Resin Infused Powder Lithography (RIPL) process reduces costs and manufacturing times for existin",
+    "url": "https://www.voxelmatters.directory/company/trio-labs/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInVoxelMatters on LinkedIn: Aurora Labs to 3D print UAS ...David Folarin - Trio Labs, Inc. | LinkedIn VoxelMatters is a leading market research and media company specializing in the additive manufacturing industry. We provide in-de",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   },
+   {
+    "quote": "Scott Schiller - Chief Commercial Officer, Trio Labs | Micro ...The heart of additive manufacturing - VoxelMatters NewsTrio Labs — VoxelMatters - The largest database of additive ...Trio Labs CEO, Founder, Key Executive Team, Board of ...Adam T.C. Steege - Executive Bio, Work History, and Contacts ... Leading all commercial operations for Trio Labs, a venture-backed startup that developed RIPL — a",
+    "url": "https://www.linkedin.com/in/jscottschiller",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookTrio Labs - FacebookTrio Labs - FacebookVoxelMatters on Reels - FacebookTrio Labs - FacebookFacebookThe Trio Lab - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Market 2023 report. Facebook is showing information to help you better understand the purpose of a Pa",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://triolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/trio-labs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://triolabs.com/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/trio-labs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://hid-labs.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thorlabs.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://triolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%A9%E3%82%A4%E3%83%B4%E3%83%BB%E3%82%A2%E3%83%83%E3%83%88%E3%83%BB%E3%82%B5%E3%83%A0%E3%82%BF%E3%82%A4%E3%83%A0-%E6%97%A5%E6%9C%AC%E7%8B%AC%E8%87%AA%E4%BC%81%E7%94%BB%E7%9B%A4%E3%80%81%E6%9C%80%E6%96%B0%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%80%81%E6%96%B0%E8%A6%8F%E8%A7%A3%E8%AA%AC%E4%BB%98%E3%81%8D-%E3%83%90%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%83%E3%82%BB%E3%83%AB/dp/B081PZZMB6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sayakobo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://triolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triolab.com/solid-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triolab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/podcasts/90b31acf-f4b4-45f3-a9fe-5ac5065fe0b8/episodes/1768cc1a-45e0-4f5a-a42f-c00a0cad5b95/south-bay-business-growth-by-voxel-micro-video-labs-why-voxel-labs-beat-traditional-soundstages-record-a-month-of-content-in-one-afternoon",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00253777/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00011092/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/7366/7825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/4902/0413/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/trio-labs-inc/397923863",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/trio-labs/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/434978-38",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/trio-labs/nqdu04nwn90waz1ec",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jscottschiller",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Trio Labs — VoxelMatters 代理店",
+   "results": [
+    "https://triolabs.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/trio-labs/",
+    "https://triolabs.com/technology",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.trio-lab.com/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/trio-labs/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://hid-labs.com/",
+    "https://www.thorlabs.co.jp/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://triolabs.com/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.amazon.co.jp/ライヴ・アット・サムタイム-日本独自企画盤、最新マスタリング、新規解説付き-バーニー・ケッセル/dp/B081PZZMB6",
+    "https://x.com/hid_labs/status/2114280192374091813",
+    "https://www.voxelmatters.report/database/",
+    "https://www.am-teams.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "https://sayakobo.com/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://www.kitetsu.biz/shop",
+    "https://www.amazon.co.jp/アクセサリー用接着剤-レジン液/b?node=3055011051"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters Japan distributor",
+   "results": [
+    "https://triolabs.com/",
+    "https://www.triolab.com/solid-distributor/",
+    "https://www.voxelmatters.com/",
+    "https://www.triolab.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.directory/",
+    "https://www.am-teams.com/distribution/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.thorlabs.co.jp/",
+    "https://vectorlabs.com/international-distributors/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Trio Labs — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/podcasts/90b31acf-f4b4-45f3-a9fe-5ac5065fe0b8/episodes/1768cc1a-45e0-4f5a-a42f-c00a0cad5b95/south-bay-business-growth-by-voxel-micro-video-labs-why-voxel-labs-beat-traditional-soundstages-record-a-month-of-content-in-one-afternoon",
+    "https://r.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "https://www.amazon.co.jp/Sumolux-レディース-あったかインナー-手の甲まで暖かい-ストレッチルームウェア/dp/B0G3T93S3S",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://music.amazon.co.jp/podcasts/90b31acf-f4b4-45f3-a9fe-5ac5065fe0b8/episodes/fcc5bad5-3363-482f-8a41-9ba025bf5635/south-bay-business-growth-by-voxel-micro-video-labs-record-30-days-of-video-content-in-one-afternoon-voxel-micro-video-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Trio Labs — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00253777/",
+    "https://www.monotaro.com/g/00011092/",
+    "https://www.monotaro.com/p/7366/7825/",
+    "https://www.monotaro.com/p/4902/0413/",
+    "https://www.monotaro.com/g/01442359/",
+    "https://www.monotaro.com/g/00492268/",
+    "https://www.monotaro.com/g/01410080/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.zoominfo.com/c/trio-labs-inc/397923863",
+    "https://www.reveliolabs.com/companies/trio-labs/employees",
+    "https://pitchbook.com/profiles/company/434978-38",
+    "https://www.thecompanycheck.com/company/b/trio-labs/nqdu04nwn90waz1ec",
+    "https://www.zoominfo.com/pic/trio-labs-inc/397923863",
+    "https://triolabs.com/",
+    "https://triolabs.com/our-team"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Trio Labs — VoxelMatters",
+   "results": [
+    "https://note.com/whsh225/n/n34ef7d4f2016",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/一人ご飯",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/azutani/n/ne65c79cb7bc7",
+    "https://note.com/harunatravel/n/n6a94aa3c3817"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Trio Labs — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Triolabsdm",
+    "https://x.com/Vox_Lab/status/2102063573237219743",
+    "https://x.com/3dpbmPulse/status/1221847936335859713",
+    "https://x.com/3DotWeb/status/2113276489823371737",
+    "https://x.com/VoxelMatters/status/2117637105631326304",
+    "https://x.com/Sparkl_P/status/2119455995306926261"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Trio Labs — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/triolabsinc.",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/voxelmatters_aurora-labs-to-3d-print-uas-components-for-activity-7226142397909397505-0lII",
+    "https://www.linkedin.com/in/davefol"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Trio Labs — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Trio-Labs-235671926298631/",
+    "https://www.facebook.com/p/Trio-Labs-61593785783263/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/Trio-Labs-105942665861234/",
+    "https://www.facebook.com/p/Voxel-Labs-61593638900467/",
+    "https://www.facebook.com/thetriolab/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters note 社長",
+   "results": [
+    "https://triolabs.com/our-team",
+    "https://triolabs.com/",
+    "https://www.linkedin.com/in/jscottschiller",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/trio-labs/",
+    "https://www.cbinsights.com/company/trio-labs/people",
+    "https://people.equilar.com/bio/person/adam-steege-trio-labs-inc/28825031"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trio Labs — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Triolabsdm",
+    "https://triolabs.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.directory/company/trio-labs/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/category/3d-printing-topic/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

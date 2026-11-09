@@ -1,0 +1,504 @@
+{
+ "name": "Mycorena — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T20:25:31.524067+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInRamkumar Nair – Foodtech Entrepreneur | Founder & CEO - SMAQO ...Carlos Núñez Otero, Ph.D. on LinkedIn: Mycorena Develops ... Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ connections on LinkedIn. View Tess Boissonneault’s profile on... I founded and led My",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookMycorena AB | Gothenburg - FacebookFacebookMycorena AB - FacebookVoxelMatters on Reels - FacebookHow Mycorena is... - Embassy of Sweden in Abuja | FacebookMycorena AB | Gothenburg - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Market 2023 report. Mycorena AB, G",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cytivalifesciences.com/ja/jp/support/find-a-distributor",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vegconomist.com/investments-finance/swedens-mycorena-closes-largest-ever-nordic-series-a-investment-in-alt-protein/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foodtech-japan.com/2024/07/17/mycorena-7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.10xgenomics.com/jp/library/ec2288",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kualoa.jp/Default.aspx",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81_%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seafoodsource.com/news/plant-based/revo-foods-announces-collaboration-with-mycorena-to-explore-3d-food-printing-seafood",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seafoodsource.com/news/plant-based/revo-foods-announces-collaboration-with-mycorena-to-explore-3d-food-printing-seafood",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E7%B5%B6%E7%B8%81%E3%83%91%E3%83%83%E3%82%AD%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/7979/9670/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thehub.io/startups/mycorena-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seafoodsource.com/news/plant-based/revo-foods-announces-collaboration-with-mycorena-to-explore-3d-food-printing-seafood",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mycorena — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://www.cytivalifesciences.com/ja/jp/support/find-a-distributor",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vIUdEUQ-b0cE_0763qqPAxf5uPGRTaoHcQdEVTaU8uN5pziGZeP",
+    "https://i-am-marketplace.com/about-us/",
+    "https://www.voxelmatters.directory/submit-company/",
+    "https://idarts.co.jp/3dp/mycorena-revo-foods-3d-printable-mycoprotein/?srsltid=AYCX9vJHMzQW47XtE7MHhqvWJ-q1ummVv_hzKLjO5DcC_TSSEmntlPpe"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Mycorena — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://vegconomist.com/investments-finance/swedens-mycorena-closes-largest-ever-nordic-series-a-investment-in-alt-protein/",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.amazon.co.jp/-/en/HANIDOLL/dp/B08KGB6LMM",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mycorena — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://foodtech-japan.com/2024/07/17/mycorena-7/",
+    "https://www.10xgenomics.com/jp/library/ec2288",
+    "https://www.kualoa.jp/Default.aspx",
+    "https://shop.prc.jp/shop/g/g005281/?srsltid=AYCX9vKuE8ylF9IE6bIeAyVjBlNfSgkvSwj6a3YL-US17ZV6bMDWT7xR",
+    "https://tokyoclass.com/Product/Detail/view/pid/646",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://ginzaxiaoma.com/product/1011750?srsltid=AYCX9vJlrHphPpol_cdfbTlwpQKsQp0pY57dtN-NGXe5b3GyR_Qo9oOs",
+    "https://eleshop.jp/shop/c/c663215AA/?srsltid=AYCX9vKts-9diPzC1AsxsF_qkmj8Px90iQK_byW75zBZGBPatHjqo3a_"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Mycorena — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81_%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0",
+    "https://shop.exmatelab.com/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vLH6qYhuznY4GFQ4c7TCx9XmLcxonsBPJbVYlnhPJBNi1GB97tp",
+    "https://shop.sin.jp/c-item-list?category_id=70&srsltid=AYCX9vJseEv2lG9-5TRSykc9m_Lg1yK6qwoAynlhDemgzDZ0LUtjsR58",
+    "https://www.voxelfactory.com/collections/materio3d-2-85mm-filaments?srsltid=AYCX9vJaFx1MGRbtJ9tp6aOgEduBP4Y5MOavJxCCQFN8cmR-UsveMpaI",
+    "https://ja.aliexpress.com/item/1005008750227593.html",
+    "https://www.monotaro.com/k/store/レジン/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mycorena — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.seafoodsource.com/news/plant-based/revo-foods-announces-collaboration-with-mycorena-to-explore-3d-food-printing-seafood",
+    "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "https://www.voxelmatters.directory/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.curibio.com/distributors",
+    "https://insphero.com/insphero-and-cosmo-bio/",
+    "https://singleron.bio/news/singleron-tomy-partnership-single-cell-japan/",
+    "https://www.tetrapak.com/ja-jp/about-tetra-pak/news-and-events/newsarchive/tetra-pak-collaborates-with-mycorena"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mycorena — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "https://www.seafoodsource.com/news/plant-based/revo-foods-announces-collaboration-with-mycorena-to-explore-3d-food-printing-seafood",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.pixelgen.com/news/press-release-pixelgen-technologies-signs-distribution-agreement-in-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://iiims.jp/en/business",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://insphero.com/insphero-and-cosmo-bio/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Mycorena — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://affiliate.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Mycorena — VoxelMatters",
+   "results": [
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/絶縁パッキン/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/7979/9670/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/p/0992/8834/",
+    "https://www.monotaro.com/p/8920/7526/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mycorena — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "https://www.voxelmatters.report/database/",
+    "https://thehub.io/startups/mycorena-1",
+    "https://www.seafoodsource.com/news/plant-based/revo-foods-announces-collaboration-with-mycorena-to-explore-3d-food-printing-seafood",
+    "https://www.business-sweden.com/try-swedish/swedish-companies/mycorena/",
+    "https://www.greenqueen.com.hk/mycorena-vegan-protein-fungi-funding/",
+    "https://www.ri.se/en/meet-our-partner-companies-mycorena",
+    "https://www.voxelmatters.directory/",
+    "https://cultivated-x.com/company-news/mycorena-files-bankruptcy-seeks-new-ownership-mycoprotein-ingredients/",
+    "https://rocketreach.co/mycorena-profile_b45cd634fc6df3f4"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Mycorena — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/royal_vole835",
+    "https://note.com/tag/ループエンジニアリング",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mycorena — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Mycorena — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/naplasolpromyc/",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://mm.linkedin.com/posts/carlos-núñez-otero-ph-d-686601108_mycorena-develops-circular-food-production-activity-7044272779570868226-L_fY",
+    "https://pe.linkedin.com/posts/protein-production-technology_naplasol-a-member-of-the-veos-group-acquires-activity-7232671639467966464-K_ei",
+    "https://cn.linkedin.com/posts/mycorena_mycorena-receives-15-million-eu-funding-activity-7023956717419778048-wJYL",
+    "https://se.linkedin.com/in/ramnairsweden"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mycorena — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/people/Mycorena-AB/100064344205275/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/Mycorena-AB-1236361046481587/photos/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/SwedeninNigeria/posts/how-mycorena-is-revolutionising-the-food-industry-with-fungus-technology-the-swe/924560556371987/",
+    "https://www.facebook.com/p/Mycorena-AB-100064344205275/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mycorena — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.report/reports/",
+    "https://note.com/deepcore_kernel/m/mf4a86b688089/archive/2023-06",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://answers.irobot.com/ja/news/kevin-lanouette-MCJ7LU4COZQVCIVE3N4D5KM4TSBU",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Mycorena — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/mycorena-and-revo-foods-develop-3d-printable-mycoprotein/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://x.com/voxelmatters",
+    "https://www.instagram.com/mycorena_ab/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

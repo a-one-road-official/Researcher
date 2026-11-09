@@ -1,0 +1,1395 @@
+{
+ "name": "TrendMiner",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial AI / Analytics｜AI送信済み",
+ "researched_at": "2026-11-09T20:32:10.280639+00:00",
+ "official_url": "https://www.trendminer.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$9.2M",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "17-Jul-2008 $1.89M $2.09M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Operational data, sensors, and enterprise applications",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Resource Planning system data",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Share insights, collaborate across teams, and create personalized dashboards to track progress.",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our industrial analytics software has helped numerous industries achieve significant performance improvements. With our cutting-edge technology, we provide actionable insights that drive operational efficiency, reduce costs, and enhance overall productivity.",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get ready to take control of your process and equipment. TrendMiner's wide applicability across your domain means it can provide solutions across areas of expertise and for different roles.",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bayer increases production capacity by 10%",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Arkema boosts production efficiency with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Avebe optimizes starch production with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeiss increases productivity and reduces downtime with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clariant reduces costs and improves efficiency with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-emission Mechanical Seal Monitoring to Avoid Product Contamination",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Want to know how users solved real life projects? Dive into our extensive library from decades worth of use cases.",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing Pump Resonance Failure for Enhanced Reliability Saves Up To $360k Per Equipment Per Day",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive Pump Failure Prevention",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Data into Smarter Chemical Production and a Sustainable Future.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Make advanced analytics part of your suite of license-to-operate tools and significantly improve operational performance.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers can analyze good and bad batches to reduce cycle time and improve product quality using golden batch fingerprints.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Processes Analytics",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI, Done Right: What Data Centers Can Learn from the Process and Power Industries",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Share insights, collaborate across teams, and create personalized dashboards to track progress.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "TrendMiner helps Kuraray to quickly collect the data we need to optimize our production process, with regard to cost, safety, quality and production volume.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "The combination of process information system and TrendMiner is perfect for us. We don’t just collect data. We can now analyze it over a long period of time, increase the efficiency of our plants, and execute very precise damage prevention.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Production losses are typically shown by flare increase, which is an indication of leaking valves. Through a TrendMiner monitor, preventive maintenance helps us avoid multi-ton product losses.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "The data-driven discovery, monitoring, and predictive capabilities of TrendMiner were a game-changer in our constant quest for operational excellence.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Turn time-series data into instant action. Ditch the manual analysis for a production client that actually predicts. Watch this session to see how you can analyze, monitor, and solve process anomalies in seconds.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI & Analytics for Continuous Improvement",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how TrendMiner's Industrial AI empowers chemical engineers to optimize boiler efficiency, reduce cycle times, and drive continuous improvement.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Our Newest Content to Maximize Your Operational Efficiency",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Optimizing Conductive Polymer Production with TrendMiner at Heraeus Epurio",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Heraeus Epurio leverages TrendMiner to optimize conductive polymer production, prevent batch failures, and enhance operational efficiency.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "ESIM Improves Sustainability and Efficiency with Advanced Analytics",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how ESIM Chemicals improved sustainability, reduced energy consumption, and optimized production efficiency through advanced industrial analytics.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Customer presentation",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the transformative journey of LANXESS, a global specialty chemicals company, as it integrates TrendMiner's analytics platform into its operations. This presentation delves into the strategic implementation, challenges, and successes of deploying TrendMiner across diverse facilities, highlighting the pivotal role of data-driven insights in optimizing production processes.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Bayer Increases Production Capacity by 10%",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Bayer improved production capacity, identified root causes of inefficiencies, and enhanced collaboration using industrial analytics.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "We are onboarding customers at a rapid pace with TrendMiner Analytics Agent. Claim your spot in the program.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Data into Smarter Manufacturing and Higher-Quality Products",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Process optimization and consistent quality improvements",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate machines and systems to consolidate fragmented data into one universal client. Streamline manual processes and empower process experts with a strong data foundation combining industrial data, human knowledge and analytics insights. Improve operational efficiency, enhance product quality, and minimize defects.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize cleanroom performance and identify improvement opportunities while ensuring compliance with the highest standards. Detect failures early to avoid downtime, increase reliability, and improve cost-effectiveness. Empower teams with fast, self-service analytics to drive consistent, high-quality production in controlled environments.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gain deeper insights into the relationship between utility systems, facility infrastructure, and core production processes. Empower experts with fast and easy industrial analytics to monitor asset performance, identify inefficiencies, and take action to reduce energy usage, extend asset life, and maintain optimal production conditions.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Share insights, collaborate across teams, and create personalized dashboards to track progress.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "TrendMiner has delivered tangible results for us in the industrial sector. The operators and engineers are now empowered to build dashboards that are tailored to their needs and requirements without any assistance from IT, which has resulted in an increase in productivity and efficiency.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Through the adoption and use of TrendMiner’s self-service data analytics, Umicore’s operators are now able to analyze process data in context, share dashboards at handovers, exchange analytics with maintenance, and understand where their processes can be adjusted for greater yield and speed. We believe in circularity, with TrendMiner we’ve closed the loop on our data. And it’s in everyone’s hands.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "At Heraeus Epurio, user-friendly dashboards provide us with industrial analytics that boost efficiency and performance. With root cause analysis and fingerprinting, we are saving production batches that would otherwise have failed.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The data-driven discovery, monitoring, and predictive capabilities of TrendMiner were a game-changer in our constant quest for operational excellence.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "ZEISS Increases Productivity and Reduces Downtime with Industrial Analytics",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how the global optical leader leveraged TrendMiner to empower engineers with real-time insights, transitioning to predictive maintenance and significantly reducing downtime.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "CUSTOMER PRESENTATION",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Our Newest Content to Maximize Your Operational Efficiency",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A use case on how continuous monitoring of a central cooling lubrication system protects grinding machine availability and uncovers process optimizations.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "From Cycle Counting to Machine Learning: Tool RUL Monitoring in Practice",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A use case on building a three-level tool remaining useful life (RUL) workflow — from cycle counting to gradient boosting ML prediction — using TrendMiner in discrete manufacturing.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A Practical Guide to Cleanroom Energy Optimization and Cost Savings",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "This guide provides a practical framework for reducing energy consumption in cleanroom operations—which can account for up to 60% of total facility energy. It demonstrates how TrendMiner’s Industrial AI platform enables process experts to optimize high-energy assets like chillers, predict maintenance needs for compressors, and automate compliance reporting to meet strict ISO and GMP standards.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Defects through Axis Position Monitoring in High-Tech Grinding Processes",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Spot Z-axis anomalies fast and prevent grinding defects before they happen.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We are onboarding customers at a rapid pace with TrendMiner Analytics Agent. Claim your spot in the program.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "TrendMiner - Industrial AI & Analytics Platform",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We help you reach operational excellence with Industrial AI & Analytics.",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution System data",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your plant and assets running smoothly with 24/7 monitoring and instant alerts.",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "chemical manufacturers*",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our industrial analytics software has helped numerous industries achieve significant performance improvements. With our cutting-edge technology, we provide actionable insights that drive operational efficiency, reduce costs, and enhance overall productivity.",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Arkema boosts production efficiency with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Avebe optimizes starch production with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zeiss increases productivity and reduces downtime with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insights in 5 seconds from 5 years of plant data",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clariant reduces costs and improves efficiency with industrial analytics",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unleash Smart Factory data with Real-time Monitoring & Alerting for High-Tech Manufacturing",
+    "url": "https://www.trendminer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Analytics for Chemical Manufacturing Optimization",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace the value of digital technology to build operational resilience, reduce cost and increase plant safety.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI, Done Right: What Data Centers Can Learn from the Process and Power Industries",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Why an MCP Foundation is Essential for Industrial AI",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your plant and assets running smoothly with 24/7 monitoring and instant alerts.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "The combination of process information system and TrendMiner is perfect for us. We don’t just collect data. We can now analyze it over a long period of time, increase the efficiency of our plants, and execute very precise damage prevention.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Industrial Analytics to Accelerate Data-Driven Decisions",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI & Analytics for Continuous Improvement",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how TrendMiner's Industrial AI empowers chemical engineers to optimize boiler efficiency, reduce cycle times, and drive continuous improvement.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how ESIM Chemicals improved sustainability, reduced energy consumption, and optimized production efficiency through advanced industrial analytics.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Bayer improved production capacity, identified root causes of inefficiencies, and enhanced collaboration using industrial analytics.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Discrete Manufacturing Efficiency | TrendMiner",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Data into Smarter Manufacturing and Higher-Quality Products",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate machines and systems to consolidate fragmented data into one universal client. Streamline manual processes and empower process experts with a strong data foundation combining industrial data, human knowledge and analytics insights. Improve operational efficiency, enhance product quality, and minimize defects.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gain deeper insights into the relationship between utility systems, facility infrastructure, and core production processes. Empower experts with fast and easy industrial analytics to monitor asset performance, identify inefficiencies, and take action to reduce energy usage, extend asset life, and maintain optimal production conditions.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Why an MCP Foundation is Essential for Industrial AI",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Is Your Smart Factory as Smart as Your People?",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your plant and assets running smoothly with 24/7 monitoring and instant alerts.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "TrendMiner has delivered tangible results for us in the industrial sector. The operators and engineers are now empowered to build dashboards that are tailored to their needs and requirements without any assistance from IT, which has resulted in an increase in productivity and efficiency.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Through the adoption and use of TrendMiner’s self-service data analytics, Umicore’s operators are now able to analyze process data in context, share dashboards at handovers, exchange analytics with maintenance, and understand where their processes can be adjusted for greater yield and speed. We believe in circularity, with TrendMiner we’ve closed the loop on our data. And it’s in everyone’s hands.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "At Heraeus Epurio, user-friendly dashboards provide us with industrial analytics that boost efficiency and performance. With root cause analysis and fingerprinting, we are saving production batches that would otherwise have failed.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "ZEISS Increases Productivity and Reduces Downtime with Industrial Analytics",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Analytics for Discrete Manufacturing and Facility Management",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A use case on building a three-level tool remaining useful life (RUL) workflow — from cycle counting to gradient boosting ML prediction — using TrendMiner in discrete manufacturing.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "This guide provides a practical framework for reducing energy consumption in cleanroom operations—which can account for up to 60% of total facility energy. It demonstrates how TrendMiner’s Industrial AI platform enables process experts to optimize high-energy assets like chillers, predict maintenance needs for compressors, and automate compliance reporting to meet strict ISO and GMP standards.",
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Company Overview | TrendMiner Industrial Analytics Platform",
+    "url": "https://www.trendminer.com/company/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "We offer industrial analytics software for process industries, enabling data-driven decisions, asset performance improvement, and operational excellence.",
+    "url": "https://www.trendminer.com/company/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "TrendMiner designs and delivers a fast, powerful, and intuitive platform that drives the adoption of data and analytics ​for everyone in industrial operations to make smarter data-driven decisions​.",
+    "url": "https://www.trendminer.com/company/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "We democratize analytics by giving insights to the people who need answers: the engineers and operators in the plant.",
+    "url": "https://www.trendminer.com/company/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders Worldwide",
+    "url": "https://www.trendminer.com/company/company-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Customers | TrendMiner Industrial Analytics Platform",
+    "url": "https://www.trendminer.com/company/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Chemicals Manufacturing",
+    "url": "https://www.trendminer.com/company/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete manufacturing",
+    "url": "https://www.trendminer.com/company/customers",
+    "pass": 1
+   },
+   {
+    "quote": "TrendMiner is used by the world's leading manufacturing companies",
+    "url": "https://www.trendminer.com/company/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading companies across industries.",
+    "url": "https://www.trendminer.com/company/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock your full industrial potential!",
+    "url": "https://www.trendminer.com/company/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://www.trendminer.com/company/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Partners | TrendMiner Industrial Analytics Platform",
+    "url": "https://www.trendminer.com/partners/overview",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Data Analytics Platform | Industries Served",
+    "url": "https://www.trendminer.com/industries/industries-served",
+    "pass": 1
+   },
+   {
+    "quote": "Chemicals Manufacturing",
+    "url": "https://www.trendminer.com/industries/industries-served",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete manufacturing",
+    "url": "https://www.trendminer.com/industries/industries-served",
+    "pass": 1
+   },
+   {
+    "quote": "From manufacturing to energy and beyond, TrendMiner partners with industries across the globe to harness the power of data, driving efficiency and innovation at every turn.",
+    "url": "https://www.trendminer.com/industries/industries-served",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://www.trendminer.com/industries/industries-served",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock your full industrial potential!",
+    "url": "https://www.trendminer.com/industries/industries-served",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Analytics for Food & Beverages Production",
+    "url": "https://www.trendminer.com/industries/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Why an MCP Foundation is Essential for Industrial AI",
+    "url": "https://www.trendminer.com/industries/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Low-Code and No-Code Industrial AI & Analytics Software",
+    "url": "https://www.trendminer.com/industries/food-and-beverages",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Make advanced analytics part of your suite of license-to-operate tools and significantly improve operational performance.",
+    "url": "https://www.trendminer.com/industries/chemical",
+    "pass": 1
+   },
+   {
+    "quote": "Leading companies around the world trust TrendMiner to manage their revenue-generating assets and processes. From production to enterprise level, we help them optimize their production performance by giving them the answers they need.",
+    "url": "https://www.trendminer.com/industries/other-industries",
+    "pass": 1
+   },
+   {
+    "quote": "The TrendMiner platform is fast, powerful and intuitive for everyone in operations to get insights on any part of the production process. Pattern analysis reduces the complexity & simplifies interpretation of analysis results, while dashboards can be created without technical assistance so everyone can take action based on the data.",
+    "url": "https://www.trendminer.com/industries/other-industries",
+    "pass": 1
+   },
+   {
+    "quote": "1% revenue increase of production line",
+    "url": "https://www.trendminer.com/industries/solutions/cleanroom-optimization",
+    "pass": 1
+   },
+   {
+    "quote": "Avebe captures, retains knowledge as part of its digitalization journey",
+    "url": "https://www.casestudies.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "Sitech achieves $2.4M/year revenue gain and rapid analytics with TrendMiner",
+    "url": "https://www.casestudies.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner Revenue 2025: $9.2M Est., $9.2M Raised",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner has not published its revenue. GetLatka estimates it at about $9.2M a year (July 2025).",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner CEO & employees",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Bert Baeck is CEO of TrendMiner. TrendMiner has 84 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is TrendMiner's revenue?",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates TrendMiner's revenue at about",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does TrendMiner have?",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "8. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "7. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner has 90 total employees.",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "What is TrendMiner’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for TrendMiner is",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "When was TrendMiner acquired?",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner was acquired on 18-Apr-2024.",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired TrendMiner?",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner was acquired by",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TrendMiner - Siemens — TrendMinerは、エンジニアやオペレーターがデータ内の貴重なパターン、異常、相関関係を発見できるように支援し、生産の最適化、効率の向上、ダウンタイムの削減を可能にします。 TrendMinerは直感的でユーザーフレンドリーです。",
+    "url": "https://www.siemens.com/ja-jp/ecosystem/trendminer/",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner - Industrial AI & Analytics Platform — TrendMiner designs and delivers a fast, powerful and intuitive industrial AI & analytics platform for everyone in operations to make smarter, data-driven decisions.",
+    "url": "https://www.trendminer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner - LinkedIn 日本 — TrendMiner 時系列インテリジェンスソフトウェア TrendMiner is an intuitive web-based self-service advanced analytics platform for rapid-fire visualization of time series-based process and asset data. Available as SaaS, On-premises, or Private cloud solution, the TrendMiner plug and play software adds value immediately after ...",
+    "url": "https://jp.linkedin.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner | Microsoft Marketplace — Advanced time-series data analytics for operational experts in the process manufacturing industries to analyze, monitor and predict process and asset performance to improve operational excellence. Use Microsoft Entra ID to manage user access and enable single sign-on with TrendMiner. Requires an existing TrendMiner subscription.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/aad.trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner In Japanese language — Hi @DpatilMT TrendMiner is currently available in the following languages: English German French Spanish Portuguese Dutch Mandarin & Simplified Chinese As you can see, Japanese is currently not yet supported. I’d recommend creating a Product Idea on this community, in which you explain how large the potential Japanese user base is for your ...",
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner - Siemens — TrendMinerは、膨大な量のプロセスデータから洞察を引き出すことで、産業企業を支援するために設計された高度なデータ分析プラットフォームです。高度な機械学習アルゴリズムとパターン認識技術を利用して、産業機器やプロセスによって生成された時系列データを分析します。TrendMinerは ...",
+    "url": "https://www.siemens.com/ja-jp/products/trendminer/",
+    "pass": 3
+   },
+   {
+    "quote": "Overview | TrendMiner - Industrial AI & Analytics Platform — Learn how TrendMiner works: TrendMIner's industrial AI & analytics make process data actionable, unlock hidden value, and help your company succeed.",
+    "url": "https://www.trendminer.com/product/advanced-industrial-analytics",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner | LinkedIn — TrendMiner 時系列インテリジェンスソフトウェア TrendMiner is an intuitive web-based self-service advanced analytics platform for rapid-fire visualization of time series-based process and asset data. Available as SaaS, On-premises, or Private cloud solution, the TrendMiner plug and play software adds value immediately after ...",
+    "url": "https://jp.linkedin.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories | TrendMiner Industrial Analytics — Discover how TrendMiner has helped leading companies in oil & gas, chemicals, water & wastewater, food & beverage industries.",
+    "url": "https://www.trendminer.com/customer-success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Use Cases | OPM, APM & RCS with TrendMiner Industrial Analytics — Sep 14, 2026 · Discover real-world use cases and success stories showcasing how TrendMiner drives operational excellence in process manufacturing.",
+    "url": "https://www.trendminer.com/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Use Cases | Learn & Share | TrendMiner Community — Hello 👋 One of the things we value most in this Community is how much you learn from each other. So when Monument Chemical published an article on their website about how they use TrendMiner and AI, we wanted to share it here as a use case for all of you. The challenge Manufacturing specialty chemicals creates huge amounts of data: temperatures, f",
+    "url": "https://community.trendminer.com/use-cases-46",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner B2B Case Studies & Customer Successes — TrendMiner develops and delivers advanced analytics solutions for the process industry, helping companies with their digital transformation so they can optimize their production processes, increase plant productivity and improve the overall equipment effectiveness.",
+    "url": "https://www.casestudies.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Ashland achieves 95% GMP on-target production ... — As a result, TrendMiner helped solve previously unsolvable production issues, improve quality and control, and increase on-target GMP production from 70% to 95%, while paving the way for real-time monitoring and prediction. Open case study document...",
+    "url": "https://www.casestudies.com/company/trendminer/case-study/how-self-service-industrial-analytics-supports-the-transformation-and-digitalization-of-ashlands-chemical-processing-plant",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner – Valuation, Revenue & Market Scope – 2026 — About This Data Revenue, valuation, and funding figures for TrendMiner are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures. Data Accuracy: While we",
+    "url": "https://compworth.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner Revenue 2025: $9.2M Est. ARR, $9.2M Raised — Sep 2, 2026 · TrendMiner 2025 estimated revenue: $9.2M ARR. Total funding: $9.2M across 5 rounds. 84 employees. Industry: Analytics Platforms Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner - 2026 Company Profile, Team, Funding ... - TracxnTrendMiner 2026 Company Profile: Valuation, Investors ...TrendMiner - Overview, News & Similar companies | ZoomInfo.comTrendMiner - Crunchbase Company Profile & FundingTrendMiner - Products, Competitors, Financials, Employees ... — Sep 13, 2026 · TrendMiner is an acquired company based in Hasselt (Belgium), founded in 2008 by Bert Baeck.",
+    "url": "https://tracxn.com/d/companies/trendminer/__0Bmr7D6cKXJonLRbXKMTMm852GSo3yrNNPow34LCGYs",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner 2026 Company Profile: Valuation, Investors ...TrendMiner - Overview, News & Similar companies | ZoomInfo.comTrendMiner - Crunchbase Company Profile & FundingTrendMiner - Products, Competitors, Financials, Employees ... — Information on acquisition, funding, cap tables, investors, and executives for TrendMiner. Use the PitchBook Platform to explore the full profile. View TrendMiner (www.",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner - Overview, News & Similar companies | ZoomInfo.com — View TrendMiner (www.trendminer.com) location in Brussels Capital, Belgium , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/trendminer/412863052",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "TrendMiner In Japanese language | TrendMiner Community",
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "pass": 3
+   },
+   {
+    "quote": "I am currently using Trend Miner and would like to check if a Japanese language version is available (either UI or documentation). if that is not available, then I would like to ask, if there are any plans to support a Japanese version of Trend Miner.",
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "pass": 3
+   },
+   {
+    "quote": "It would be very helpful for users who prefer Japanese.",
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "pass": 3
+   },
+   {
+    "quote": "As you can see, Japanese is currently not yet supported. I’d recommend",
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "pass": 3
+   },
+   {
+    "quote": "on this community, in which you explain how large the potential Japanese user base is for your company. Other customers can vote it up and add their context, so our Product Team can review the request with extended context.",
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enter your E-mail address. We'll send you an e-mail with instructions to reset your password.",
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "pass": 3
+   },
+   {
+    "quote": "loginBox.register.email_repeat",
+    "url": "https://community.trendminer.com/use-cases-46",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your E-mail address. We'll send you an e-mail with instructions to reset your password.",
+    "url": "https://community.trendminer.com/use-cases-46",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your e-mail address",
+    "url": "https://community.trendminer.com/use-cases-46",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TrendMiner - LinkedIn TrendMiner Time Series Intelligence Software TrendMiner is an intuitive web-based self-service advanced analytics platform for rapid-fire visualization of time series-based process and asset data.",
+    "url": "https://www.linkedin.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner - LinkedIn TrendMiner | TrendMiner is an intuitive web-based self-service advanced analytics platform for rapid-fire visualization of time series-based process and asset data. Available as SaaS, On-premises ...",
+    "url": "https://www.linkedin.com/products/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner | LinkedIn TrendMiner is an intuitive web-based self-service advanced analytics platform for rapid-fire visualization of time series-based process and asset data. Available as SaaS, On-premises, or Private cloud solution, the TrendMiner plug and play software adds value immediately after deployment.",
+    "url": "https://in.linkedin.com/company/trendminer",
+    "pass": 3
+   },
+   {
+    "quote": "Jeroen B. - TrendMiner | LinkedInVeerle Noben - TrendMiner | LinkedInVincent Teran - Solution Sales Manager at TrendMiner | LinkedInKevin Li - TrendMiner | LinkedIn TrendMiner is a self service analytics tool created for the process industry. It enables process experts to easily analyse, monitor and predict their manufacturing process in either batch, grade or continuous processes. As Product Owne",
+    "url": "https://be.linkedin.com/in/jeroenbouvin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TrendMiner Software on X: \"Ask Copilot, ChatGPT, or Claude ... Aug 11, 2026 · Ask Copilot, ChatGPT, or Claude about a batch deviation and get an answer grounded in your actual historian data. That's what TrendMiner's new MCP Server does. Live demo Aug 27, 4pm CEST / 9am CDT. Register: hubs.la/Q04r0xV60",
+    "url": "https://x.com/TrendMining/status/2087189518210175129",
+    "pass": 3
+   },
+   {
+    "quote": "TrendMiner Software on X: \"We just launched the TrendMiner ... Mar 13, 2026 · We just launched the TrendMiner Analytics Agent, bringing agentic AI to industrial analytics. Root-cause analysis in minutes, reporting automated. Read more: bit.ly/4sauhgw #IndustrialAI #AgenticAI #ProcessAnalytics #Manufacturing #TrendMiner",
+    "url": "https://x.com/TrendMining/status/2032464240062214360",
+    "pass": 3
+   },
+   {
+    "quote": "\"#TrendMiner\" - Results on X | Live Posts & Updates Results for \"#TrendMiner\" on X (Twitter). Find the latest posts, discussions, and updates about #TrendMiner. 19 results found.",
+    "url": "https://x.com/hashtag/TrendMiner",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.trendminer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/chemical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/discrete-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/company/company-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/company/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/partners/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/industries-served",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/food-and-beverages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/energy-natural-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/utilities-facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/other-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/company/awards",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/company/reviews-testimonials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/resources/unleash-smart-factory-data-with-real-time-monitoring-alerting-for-high-tech-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/water-wastewater",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/resources/maximizing-performance-in-food-beverages-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/resources/case-study-optimizing-cutting-blade-performance-in-beet-mills",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendminer.com/industries/solutions/cleanroom-optimization",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/65ef13174576693f0c5cbe2a/6877a132e3752ca2255020dd_discrete%20manufacturing%20-%20lens%20production.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65ef13174576693f0c5cbe2a/6877a1316ac0b468d2968318_discrete%20manufacturing%20-%20semiconductors.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65ef13174576693f0c5cbe2a/6878b6eb3ac42c1ad73c70a4_discrete%20manufacturing%20-%20battery%20production.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65ef13174576693f0c5cbe2a/6877a1323bd1d9c1b56b4b56_discrete%20manufacturing%20-%20aviation%20and%20defense.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.siemens.com/ja-jp/ecosystem/trendminer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/trendminer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/aad.trendminer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/products/trendminer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://community.trendminer.com/use-cases-46",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/trendminer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/trendminer",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/trendminer.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/trendminer/__0Bmr7D6cKXJonLRbXKMTMm852GSo3yrNNPow34LCGYs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/56998-00",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/trendminer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/trendminer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/trendminer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/in/jeroenbouvin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TrendMining/status/2087189518210175129",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TrendMining/status/2032464240062214360",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/TrendMiner",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TrendMiner 日本 導入",
+   "results": [
+    "https://www.siemens.com/ja-jp/ecosystem/trendminer/",
+    "https://www.trendminer.com/",
+    "https://jp.linkedin.com/company/trendminer",
+    "https://marketplace.microsoft.com/ja-jp/product/aad.trendminer",
+    "https://www.trendmicro.com/ja_jp/about/newsroom/press-releases/2026/pr-20261019-01.html",
+    "https://www.trendmicro.com/ja_jp/about/customer-stories.html",
+    "https://www.sbbit.jp/article/cont1/188177",
+    "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "https://learn.microsoft.com/ja-jp/entra/identity/saas-apps/trendminer-tutorial"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "TrendMiner 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.trendmicro.com/ja_jp/about.html",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.trendmake.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TrendMiner Japan",
+   "results": [
+    "https://www.trendminer.com/",
+    "https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715",
+    "https://www.siemens.com/ja-jp/products/trendminer/",
+    "https://www.trendminer.com/product/advanced-industrial-analytics",
+    "https://jp.linkedin.com/company/trendminer",
+    "https://www.trendmicro.com/ja_jp/about/newsroom/press-releases/2026/pr-20261019-01.html",
+    "https://trendminer.yara.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TrendMiner manufacturing customer case study",
+   "results": [
+    "https://www.trendminer.com/customer-success-stories",
+    "https://www.trendminer.com/use-cases",
+    "https://community.trendminer.com/use-cases-46",
+    "https://www.casestudies.com/company/trendminer",
+    "https://www.casestudies.com/company/trendminer/case-study/how-self-service-industrial-analytics-supports-the-transformation-and-digitalization-of-ashlands-chemical-processing-plant",
+    "https://www.featuredcustomers.com/vendor/trendminer/case-studies",
+    "https://cdn.prod.website-files.com/65ef13174576693f0c5cbe2a/6834715ca134ecb1fdbcb3e6_Customer+Success+Story+-+Huntsman-Trendminer.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TrendMiner white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://upcloud.com/partner-program/",
+    "https://in.tradingview.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TrendMiner founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/trendminer",
+    "https://getlatka.com/companies/trendminer.com",
+    "https://tracxn.com/d/companies/trendminer/__0Bmr7D6cKXJonLRbXKMTMm852GSo3yrNNPow34LCGYs",
+    "https://pitchbook.com/profiles/company/56998-00",
+    "https://www.zoominfo.com/c/trendminer/412863052",
+    "https://www.crunchbase.com/organization/trendminer",
+    "https://www.cbinsights.com/company/trendminer"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com TrendMiner",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/asabamiyuki",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com TrendMiner",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com TrendMiner",
+   "results": [
+    "https://www.linkedin.com/company/trendminer",
+    "https://www.linkedin.com/products/trendminer",
+    "https://in.linkedin.com/company/trendminer",
+    "https://be.linkedin.com/in/jeroenbouvin",
+    "https://be.linkedin.com/in/veerle-noben-4b1b6912",
+    "https://www.linkedin.com/in/vincent-teran-75004870",
+    "https://www.linkedin.com/in/kli18"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com TrendMiner",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TrendMiner note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.cbinsights.com/company/trendminer/people",
+    "https://pitchbook.com/profiles/company/56998-00",
+    "https://jp.linkedin.com/company/trendminer",
+    "https://www.linkedin.com/company/trendminer",
+    "https://www.trendminer.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TrendMiner X 投稿",
+   "results": [
+    "https://x.com/TrendMining/status/2087189518210175129",
+    "https://x.com/TrendMining/status/2032464240062214360",
+    "https://x.com/hashtag/TrendMiner",
+    "https://www.trendminer.com/",
+    "https://community.trendminer.com/",
+    "https://documentation.trendminer.com/en/developer-and-api-documentation.html",
+    "https://userguide.trendminer.com/en/home-page.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

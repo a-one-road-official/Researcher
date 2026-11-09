@@ -1,0 +1,1355 @@
+{
+ "name": "Vecna Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信失敗",
+ "researched_at": "2026-11-09T20:05:45.064096+00:00",
+ "official_url": "https://www.vecnarobotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Vecna Robotics is proud to design, manufacture and lead support out of Massachusetts.",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive measurable improvements in throughput, efficiency, & workforce productivity",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna Robotics is your trusted long-term automation partner. With proven results and a commitment to exceeding expectations, we deliver flexible solutions that help you achieve your business goals.",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pivotal is the connected software foundation behind Vecna’s automation solutions—linking your systems, people, and automation through a common architecture. It turns operational demand into coordinated action, continuously optimizes performance, and provides the visibility and support needed to keep your operation moving.",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your productivity a serious lift:",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From engineering and manufacturing to ongoing customer support, Vecna Robotics is proudly rooted in Massachusetts. See how we’re building innovative automation solutions backed by local expertise and a commitment to long-term customer success.",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna Robotics takes a flexible approach and has superior technology. Our work together represents a true partnership.",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with Vecna Robotics has helped us increase productivity in our distribution centers and allowed us to move goods in and out with greater efficiency.",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Executive Vice President of Engineering and Technology",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manager, Project Management",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built for complex manufacturing environments — reliable, adaptable, and proven to deliver.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "throughput improvement vs. manual operations",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Move your products from station to station seamlessly and safely.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Free your workers from repetitive tasks and increase their productivity by more than 40% by automating small-movements.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate fixed milk runs, save your material handlers for high-value tasks, and improve safety by automating travel from supermarkets to the line.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "An operator loads materials onto their appropriate carts and programs the Vecna AMR with its delivery destinations.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "A delivery task is triggered by an operator or WMS based on inventory levels or production timing.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously move components from station to station while reducing materials handlers by over 50%. Vecna cuts traffic while improving safety and productivity with dynamic routing that optimizes routes and drop off locations based on real-time availability.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "The system updates, and the AMR process to the next mission.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automate the last steps of your operation. Vecna provides you with optimal delivery times by balancing takt times and demand loads via intelligent fleet orchestration.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "The system notifies an AMR to pick up the fully packaged payload and deliver it to the appropriate outbound staging lane.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate in-between workflows and boost productivity by 40%",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "The operator manually spears the payload and programs the CPJ with its drop-off destination.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "The CPJ navigates to the programmed destination and autonomously drops off the pallet.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade automation for the most demanding environments",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Tidy environments allow robot sensors to operate with greater precision.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Medical Coverage",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "What does it take to deliver on the workforce of the future? Every single one of us. Our people bring unique intelligence, talents, and perspectives to the table – and it’s our favorite thing to celebrate.",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The work we do at Vecna Robotics is vital to helping organizations meet the needs of their business with transformative technology that works seamlessly with workers. I appreciate the value that the company puts into our research efforts and the long-term focus that we have with our customer relationships and corporate culture.”",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "I’m an electrical engineer with a passion for embedded systems design and firmware development. The environment at Vecna gives me the freedom to explore the boundaries of robotics to solve real, complex problems in the physical world. I greatly appreciate seeing the results of our creativity and vision put to work on the warehouse floor, delivering improved throughput and overall efficiency.”",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We approach problems with curiosity and creativity, always looking for better, smarter ways to work.",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "At Vecna, we encourage and celebrate diversity. We commit to a diverse and inclusive hiring process and team—proudly recognized by organizations such as The Society of Women Engineers (SWE).",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our dedication to Diversity and Inclusion includes trainings, the celebration of many different cultures and traditions within the Vecna community and outreach to promote STEM diversity.",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna Robotics does not accept external agency resumes. Resumes sent to our office or electronically (via employees, our ATS or our hiring alias) will be considered our property. As such, we will not be responsible for any agency fees associated with those candidates.",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna Robotics is proud to design, manufacture and lead support in Waltham, Massachusetts!",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a company obsessed by the promise of a new, intelligent industrial workforce that drives transformational efficiency.",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna Robotics proudly designs and manufactures our robots in the USA.",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We have deep roots in robotics innovation that solves everyday problems in manufacturing and warehousing in a measurable way. No wayward science projects here…but we love science.",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With our cloud based, AI-driven platform, we are obsessed with continuous learning and improving the performance of our technology every day. We call it “pallet love”.",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We approach problems with curiosity and creativity, always looking for better, smarter ways to work.",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "or more productivity increase",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in training",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "For years, warehouses have tried to automate case picking. The challenge isn’t moving products—it’s creating a solution that works across real-world operations.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Large-scale automation projects often require significant upfront investment and lengthy implementation timelines.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Many solutions solve one part of the process but lack the orchestration needed to optimize the entire workflow.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "A smarter approach to case picking",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Pivotal dynamically prioritizes work and coordinates workers, robots, and tasks across the operation.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous mobile robots handle travel-intensive movement, delivering product where it’s needed most.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase picking productivity",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Every warehouse is different. That’s why CaseFlow is designed to work across multiple automation platforms, allowing you to select the form factor that best fits your products, workflows, facility constraints, and throughput goals.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Case picking operations with larger, heavier loads",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for facilities handling palletized inventory and bulk product movement",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides flexibility for operations with varying product sizes and weights",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "CaseFlow is designed to deliver value quickly and continue improving over time. From deployment and integration to ongoing optimization and 24/7 support, Vecna partners with your team to help maximize performance and long-term results.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "After deployment, our team stays engaged to monitor performance, identify opportunities for improvement, and help your operation get the most value from CaseFlow.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pivotal Command Center provides around-the-clock remote monitoring, issue resolution, and teleoperation support to help keep your fleet running.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock powerful insights with CaseFlow™ Console—your command center for real-time telemetry and historical analytics. Track performance, uncover trends, and continuously improve your operations with data-driven decision-making.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "“By implementing CaseFlow™, we were able to increase picking efficiency by over 100% while improving worker retention and overall safety.”",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Move a wider range of payloads and pallet types with this versatile robot. This autonomous counterbalanced forklift lifts up to 60″, handing off goods to conveyor belts, and wrappers with ease. Vecna AFL is optimized for these workflows:",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From engineering and manufacturing to ongoing customer support, Vecna Robotics is proudly rooted in Massachusetts. See how we’re building innovative automation solutions backed by local expertise and a commitment to long-term customer success.",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Workflow - Vecna Robotics",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Solutions",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built for complex manufacturing environments — reliable, adaptable, and proven to deliver.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Workflow Solutions",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your plant running smoothly with intelligent automation designed to serve your most critical workflows. Our solution has been tested and tuned for lineside delivery, WIP, finished goods/end-of-line, and material replenishment.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Manufacturing",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimal performance requires Wi-Fi and integrated warehouse management software.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "AMRs vs AGVs: How Autonomous Warehouse Robots Navigate Industrial Facil…",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "I’m an electrical engineer with a passion for embedded systems design and firmware development. The environment at Vecna gives me the freedom to explore the boundaries of robotics to solve real, complex problems in the physical world. I greatly appreciate seeing the results of our creativity and vision put to work on the warehouse floor, delivering improved throughput and overall efficiency.”",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a company obsessed by the promise of a new, intelligent industrial workforce that drives transformational efficiency.",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We have deep roots in robotics innovation that solves everyday problems in manufacturing and warehousing in a measurable way. No wayward science projects here…but we love science.",
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For years, warehouses have tried to automate case picking. The challenge isn’t moving products—it’s creating a solution that works across real-world operations.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Different warehouses have different requirements. Many solutions force operations to adapt to the technology instead of the other way around.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "CaseFlow integrates with your WMS and operational systems to create a real-time view of warehouse demand.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Workers remain focused on high-value picking activities instead of walking long distances throughout the warehouse.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Every warehouse is different. That’s why CaseFlow is designed to work across multiple automation platforms, allowing you to select the form factor that best fits your products, workflows, facility constraints, and throughput goals.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Frequently deployed in manufacturing, healthcare, and industrial facilities",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Well-suited for food & beverage, manufacturing, and high-volume distribution",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "View the full case study",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "“By reducing non-value-added travel and automating repetitive movement, our operators can focus on the activities where human judgment, flexibility, and experience create the greatest value. A big thank you to our teams, customers, and partners Vecna Robotics who helped bring this innovation from concept to reality.”",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Put a heavyweight champion in your corner. This autonomous tugger pulls its weight in fork-free safety, lean manufacturing and high-capacity transport. Vecna ATG is optimized for these workflows:",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The humans behind your performance. Our operators monitor your worksite 24/7/365 and remotely step in when needed to keep your fleet running at 99.9% uptime. All the time.",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "In the past year, warehouses reported a record 490,000 unfilled positions. See how automation helps turn a crisis into competitive advantage.",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "E-commerce is on the rise, and warehouses are struggling to keep up a rocket-fueled pace. See how automation helps you scale, and adapt faster.",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna robots utilize fork carriage-mounted sensors to detect pallet orientation, identify pallet type and payload dimensions, and determine fork pocket positioning. They autonomously execute picks, adjusting as required with side-shift actions. Integrated barcode scanning enables them to identify pallet IDs and confirm via the Warehouse Management System (WMS).",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Vecna’s AMRs are designed to handle even the most complex material handling workflows. The flexibility and intelligence of these robots enable seamless integration into various warehouse setups and processes.",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Smarter automation for a faster, more profitable warehouse",
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse workflow solutions",
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators finish building a mixed-case pallet and request a pickup from a designated staging area.",
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study | Warehousing",
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimal performance requires Wi-Fi and integrated warehouse management software.",
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Robots Provide Crucial Link In Supply Chain",
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Case picking is one of the most labor-intensive and travel-heavy workflows in the warehouse. Vecna’s automation streamlines it by orchestrating picker-robot collaboration that boosts accuracy, reduces fatigue, and dramatically cuts walking time.",
+    "url": "https://www.vecnarobotics.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.vecnarobotics.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss how you can unlock unparalleled efficiency with Vecna solutions—crafted for the unique demands of automotive.",
+    "url": "https://www.vecnarobotics.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Case picking is one of the most labor-intensive and travel-heavy workflows in the warehouse. Vecna’s automation streamlines it by orchestrating picker-robot collaboration that boosts accuracy, reduces fatigue, and dramatically cuts walking time.",
+    "url": "https://www.vecnarobotics.com/solutions/third-party-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 3PL leaders",
+    "url": "https://www.vecnarobotics.com/solutions/third-party-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Case picking is one of the most labor-intensive and travel-heavy workflows in the warehouse. Vecna’s automation streamlines it by orchestrating picker-robot collaboration that boosts accuracy, reduces fatigue, and dramatically cuts walking time.",
+    "url": "https://www.vecnarobotics.com/solutions/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.vecnarobotics.com/solutions/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive - Vecna Robotics",
+    "url": "https://www.vecnarobotics.com/solutions/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Why top automotive organizations choose Vecna Robotics",
+    "url": "https://www.vecnarobotics.com/solutions/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "With competitive pricing tailored towards automotive operating budgets, Vecna’s solutions provide low-risk access to automation at a rapid ROI.",
+    "url": "https://www.vecnarobotics.com/solutions/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.vecnarobotics.com/solutions/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk with our Automotive Industry Manager Today.",
+    "url": "https://www.vecnarobotics.com/solutions/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss how you can unlock unparalleled efficiency with Vecna solutions—crafted for the unique demands of automotive.",
+    "url": "https://www.vecnarobotics.com/solutions/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Global toy manufacturer uses three pallet trucks to move finished goods at $10.55 per hour",
+    "url": "https://www.vecnarobotics.com/resource-filtering/?filter-resource-type=case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna Robotics empowers operations to move smarter. Our intelligent automation systems tackle some of the most complex workflows in warehousing and manufacturing—enhancing speed, safety, and scalability at every turn.",
+    "url": "https://www.vecnarobotics.com/workflows/",
+    "pass": 1
+   },
+   {
+    "quote": "Case picking is one of the most labor-intensive and travel-heavy workflows in the warehouse. Vecna’s automation streamlines it by orchestrating picker-robot collaboration that boosts accuracy, reduces fatigue, and dramatically cuts walking time.",
+    "url": "https://www.vecnarobotics.com/workflows/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators or WMS systems trigger a line-side delivery task for required parts or materials — based on production schedules, low-inventory alerts, or takt-time thresholds.",
+    "url": "https://www.vecnarobotics.com/workflows/",
+    "pass": 1
+   },
+   {
+    "quote": "Materials are delivered directly to the designated line-side location with pinpoint accuracy, enabling operators to keep production moving without interruption.",
+    "url": "https://www.vecnarobotics.com/workflows/",
+    "pass": 1
+   },
+   {
+    "quote": "Pivotal™ is Vecna Robotic’s software architecture that brings every aspect of warehouse automation together in a single platform.",
+    "url": "https://www.vecnarobotics.com/the-vecna-system/pivotal-software-suite/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep rolling even when encountering edge cases, such as obstacles preventing automatic recoveries or pallets staged outside of spec. Our always-on teleoperators help you perform where machines fail.",
+    "url": "https://www.vecnarobotics.com/the-vecna-system/pivotal-software-suite/",
+    "pass": 1
+   },
+   {
+    "quote": "AMRs vs AGVs: How Autonomous Warehouse Robots Navigate Industrial Facil…",
+    "url": "https://www.vecnarobotics.com/the-vecna-system/pivotal-software-suite/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Geodis - Vecna Robotics",
+    "url": "https://www.vecnarobotics.com/resources/case-study-geodis/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Automation",
+    "url": "https://www.vecnarobotics.com/resources/case-study-geodis/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The AMR autonomously navigates to its first delivery location and alerts nearby workers that it has arrived and is ready to be unloaded.",
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna Robotics does not accept external agency resumes. Resumes sent to our office or electronically (via employees, our ATS or our hiring alias) will be considered our property. As such, we will not be responsible for any agency fees associated with those candidates.",
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Many solutions solve one part of the process but lack the orchestration needed to optimize the entire workflow.",
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "pass": 1
+   },
+   {
+    "quote": "Vecna robots utilize fork carriage-mounted sensors to detect pallet orientation, identify pallet type and payload dimensions, and determine fork pocket positioning. They autonomously execute picks, adjusting as required with side-shift actions. Integrated barcode scanning enables them to identify pallet IDs and confirm via the Warehouse Management System (WMS).",
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver retail excellence at scale. From dock to dispatch, downtime is lost revenue. Vecna Robotics’ intelligent AMRs, orchestration software, and real-time visibility ensure your goods flow through distribution centers, fulfillment lanes, and cross-docks optimally—so you can meet rising demands with precision and confidence.",
+    "url": "https://www.vecnarobotics.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Concurrently, Vecna Robotics was established as a wholly owned subsidiary of Vecna Technologies.",
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "60 existing employees transferred to positions in the new company.",
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Barr, Julie (May 5, 2015).",
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Vecna and VGo Are Now One: An Important Robotics Acquisition\"",
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Barrie, Allison (March 29, 2012).",
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Aptiv PLC (NYSE: APTV), a global industrial technology leader, and Vecna Robotics, a pioneer in AI-driven autonomous material handling solutions, today announced a strategic collaboration to co-develop next-generation Autonomous Mobile Robot (AMR) solutions designed to deliver cost-efficient automation.",
+    "url": "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "pass": 3
+   },
+   {
+    "quote": "As part of this collaboration, Aptiv’s advanced perception portfolio and machine learning technologies will be integrated into Vecna Robotics’ platform, delivering reliable, cost-efficient automation at scale across industrial environments. The joint solution combines several key capabilities:",
+    "url": "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse personnel can now delegate work to the robot on demand, decreasing non-value-added travel by 50% per day and allowing humans to focus on value-added tasks and efficiently move a single order at a time if necessary. This teamwork highlights the benefits employees can experience when working alongside robots.",
+    "url": "https://www.automate.org/robotics/case-studies/innovation-at-work-vecna-robotics-helps-milton-cat-develop-a-flexible-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Employees have found that they can spend more time on vital tasks that provide value as opposed to spending time walking laps around the distribution center looking for orders and duplicating repetitive tasks that robots can manage.",
+    "url": "https://www.automate.org/robotics/case-studies/innovation-at-work-vecna-robotics-helps-milton-cat-develop-a-flexible-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics’ automation solutions are powered by self-driving vehicles equipped with Vecna’s own Autonomy Stack, which includes dynamic obstacle avoidance, local decision-making capabilities, and an array of multi-modal sensors for high-confidence navigation.",
+    "url": "https://www.automate.org/robotics/case-studies/innovation-at-work-vecna-robotics-helps-milton-cat-develop-a-flexible-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Case pickers spend as much time walking a distribution center as selecting product, Robotics 24/7 wrote in October 2026. That is the scale of the problem behind the speaker's point that a robot reaching the slot is only half the pick. The other half is a worker arriving at the same slot at the same moment, and nothing in a robot-only dispatcher accounts for where that worker is standing.",
+    "url": "https://www.marketscale.com/industries/industrial-iot/case-picking-automation-fails-when-nobody-schedules-the-human-1257444",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/232326-28",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics has 113 total employees.",
+    "url": "https://pitchbook.com/profiles/company/232326-28",
+    "pass": 3
+   },
+   {
+    "quote": "What is Vecna Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/232326-28",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Vecna Robotics is",
+    "url": "https://pitchbook.com/profiles/company/232326-28",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "and other government agencies to develop the",
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Federal agencies urge cold chain operators to lock down refrigeration controllers",
+    "url": "https://www.marketscale.com/industries/industrial-iot/case-picking-automation-fails-when-nobody-schedules-the-human-1257444",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vecna Robotics : Home — Vecna Robotics : Home Vecna Robotics https://www.vecnarobotics.com",
+    "url": "https://www.vecnarobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics - LinkedIn — Vecna Robotics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics - Wikipedia — Vecna Robotics - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Vec...",
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Autonomous Mobile robots — Vecna Autonomous Mobile robots Vecna Robotics https://www.vecnarobotics.com > vec...",
+    "url": "https://www.vecnarobotics.com/the-vecna-system/vecna-autonomous-mobile-robots/",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics の資金調達・投資家情報 | 海外スタートアップ — Vecna Robotics の資金調達・投資家情報 | 海外スタートアップ FIRST CVC https://www.firstcvc.jp > global > vecnarobotics",
+    "url": "https://www.firstcvc.jp/global/vecnarobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us - Vecna Robotics — Contact us - Vecna Robotics Vecna Robotics https://www.vecnarobotics.com > con...",
+    "url": "https://www.vecnarobotics.com/contact-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics | LinkedIn — Vecna Robotics | LinkedIn LinkedIn https://jp.linkedin.com > company > vecna-robotics",
+    "url": "https://jp.linkedin.com/company/vecna-robotics?trk=public_profile_experience-item_profile-section-card_image-click",
+    "pass": 3
+   },
+   {
+    "quote": "Aptiv and Vecna Robotics to Develop Next Generation ... — Aptiv and Vecna Robotics to Develop Next Generation ... Aptiv https://www.aptiv.com > article > apti...",
+    "url": "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics Company Profile — Vecna Robotics Company Profile A3 Association for Advancing Automation https://www.automate.org > companies",
+    "url": "https://www.automate.org/companies/vecna-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Innovation at Work: Vecna Robotics Helps Milton CAT ... — Innovation at Work: Vecna Robotics Helps Milton CAT ... A3 Association for Advancing Automation https://www.automate.org > case-studies",
+    "url": "https://www.automate.org/robotics/case-studies/innovation-at-work-vecna-robotics-helps-milton-cat-develop-a-flexible-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Resources - Vecna Robotics — Resources - Vecna Robotics Vecna Robotics https://www.vecnarobotics.com > reso...",
+    "url": "https://www.vecnarobotics.com/resource-filtering/",
+    "pass": 3
+   },
+   {
+    "quote": "20 Vecna Robotics Customer Reviews & References — 20 Vecna Robotics Customer Reviews & References Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/vecna-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Ouster Signs Strategic Agreement with Vecna Robotics as ... — Ouster Signs Strategic Agreement with Vecna Robotics as ... Ouster https://investors.ouster.com > ouster-s...",
+    "url": "https://investors.ouster.com/news-releases/news-release-details/ouster-signs-strategic-agreement-vecna-robotics-material",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics — Vecna Robotics Robotics 24/7 https://www.robotics247.com > vecna...",
+    "url": "https://www.robotics247.com/company/vecna_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics 2026 Company Profile - PitchBook — Vecna Robotics 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/232326-28",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics - Overview, News & Similar companies — Vecna Robotics - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > vecna-r...",
+    "url": "https://www.zoominfo.com/c/vecna-robotics/563461995",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In Vecna Robotics Stock | Buy Pre-IPO Shares - EquityZen — Invest In Vecna Robotics Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > vecnarobotics",
+    "url": "https://equityzen.com/company/vecnarobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics - Crunchbase Company Profile & Funding — Vecna Robotics - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > vecna-...",
+    "url": "https://www.crunchbase.com/organization/vecna-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics IPO Timeline and Financing Details - Forge — Vecna Robotics IPO Timeline and Financing Details - Forge Forge Global https://forgeglobal.com > vecna-robot...",
+    "url": "https://forgeglobal.com/vecna-robotics_ipo/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Don't worry. We won't flood your inbox or share your email.",
+    "url": "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/232326-28",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Boston Business Journal on X: \" Vecna Robotics is getting the ... Boston Business Journal on X: \" Vecna Robotics is getting the ... X https://x.com > @BosBizJournal",
+    "url": "https://x.com/BosBizJournal/status/2097837499028582554",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vecna Robotics - LinkedIn Vecna Robotics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Jake Cheuvront - Vecna Robotics - LinkedIn Jake Cheuvront - Vecna Robotics - LinkedIn LinkedIn https://www.linkedin.com > jake-cheu...",
+    "url": "https://www.linkedin.com/in/jake-cheuvront-7028298",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing # robotics #madeinusa #engineering ... - LinkedIn manufacturing # robotics #madeinusa #engineering ... - LinkedIn LinkedIn https://www.linkedin.com > posts > vecna-robotics_manuf...",
+    "url": "https://www.linkedin.com/posts/vecna-robotics_manufacturing-robotics-madeinusa-activity-7523840025713836034-19-b",
+    "pass": 3
+   },
+   {
+    "quote": "Karl Iagnemma - CEO at Vecna Robotics - LinkedIn Karl Iagnemma - CEO at Vecna Robotics - LinkedIn LinkedIn https://www.linkedin.com > karl-iagn...",
+    "url": "https://www.linkedin.com/in/karl-iagnemma-b52186102",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Vecna Robotics | Waltham MA - Facebook Vecna Robotics | Waltham MA - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/vecnarobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Vecna Robotics funding for warehouse autonomous mobile ... Vecna Robotics funding for warehouse autonomous mobile ... Facebook https://www.facebook.com > RobotNationHQ > posts > th...",
+    "url": "https://www.facebook.com/RobotNationHQ/posts/the-robots-nobody-notices-are-getting-funded-bigvecna-robotics-a-company-buildin/122136049023380876/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.vecnarobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/manufacturing-workflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/company/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/caseflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/warehousing-workflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/third-party-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/food-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/solutions/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/resource-filtering/?filter-resource-type=case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/get-started/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/workflows/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/the-vecna-system/pivotal-software-suite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/resources/case-study-geodis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/resources/case-study-dhl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vecnarobotics.com/resources/private-global-candy-company-moves-1500-per-day-at-80-cents-per-move/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.vecnarobotics.com/wp-content/uploads/2025/04/ManufacturingHero2-3.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/robotics/case-studies/innovation-at-work-vecna-robotics-helps-milton-cat-develop-a-flexible-workflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketscale.com/industries/industrial-iot/case-picking-automation-fails-when-nobody-schedules-the-human-1257444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.ouster.com/news-releases/news-release-details/ouster-signs-strategic-agreement-vecna-robotics-material",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/232326-28",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/vecna-robotics/563461995",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://equityzen.com/company/vecnarobotics/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/vecna-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BosBizJournal/status/2097837499028582554",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jake-cheuvront-7028298",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/vecna-robotics_manufacturing-robotics-madeinusa-activity-7523840025713836034-19-b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/karl-iagnemma-b52186102",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vecnarobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RobotNationHQ/posts/the-robots-nobody-notices-are-getting-funded-bigvecna-robotics-a-company-buildin/122136049023380876/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vecna-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vecna Robotics 日本 導入",
+   "results": [
+    "https://www.vecnarobotics.com/",
+    "https://www.linkedin.com/company/vecna-robotics",
+    "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "https://www.vecnarobotics.com/the-vecna-system/vecna-autonomous-mobile-robots/",
+    "https://www.firstcvc.jp/global/vecnarobotics.com",
+    "https://www.aptiv.com/zh/%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83/%E6%96%87%E7%AB%A0/%E5%AE%89%E6%B3%A2%E7%A6%8F%E4%B8%8Evecna-robotics%E6%90%BA%E6%89%8B%E5%BC%80%E5%8F%91%E6%96%B0%E4%B8%80%E4%BB%A3%E8%87%AA%E4%B8%BB%E7%A7%BB%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA",
+    "https://techcrunchjapan.com/2022/01/27/2022-01-26-vecna-gets-65m-to-replace-forklifts-with-robots/",
+    "https://japan.zdnet.com/article/35173743/",
+    "https://note.com/daisuke_bklyn/n/nf24c25e45cdd",
+    "https://ja.reemanrobot.com/news/amr-robotics-company-vecna-partners-with-north-75090892.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vecna Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.vecnarobotics.com/",
+    "https://www.linkedin.com/company/vecna-robotics",
+    "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "https://www.vecnarobotics.com/contact-us/",
+    "https://jp.linkedin.com/company/vecna-robotics?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://blitzportal.com/startups/Vecna-Robotics-ZNKWvpXn",
+    "https://www.firstcvc.jp/global/vecnarobotics.com",
+    "https://ja.reemanrobot.com/news/amr-robotics-company-vecna-partners-with-north-75090892.html",
+    "https://techcrunchjapan.com/2022/01/27/2022-01-26-vecna-gets-65m-to-replace-forklifts-with-robots/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vecna Robotics Japan",
+   "results": [
+    "https://www.vecnarobotics.com/",
+    "https://www.linkedin.com/company/vecna-robotics",
+    "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "https://www.automate.org/companies/vecna-robotics",
+    "https://www.builtinboston.com/company/vecna-robotics",
+    "https://x.com/VecnaRobotics",
+    "https://www.mobile-robots.com/manufacturer/vecna-robotics/",
+    "https://www.therobotreport.com/quiet-inroads-in-robotics-the-vecna-story/",
+    "https://www.vecnarobotics.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Vecna Robotics manufacturing customer case study",
+   "results": [
+    "https://www.vecnarobotics.com/",
+    "https://www.automate.org/robotics/case-studies/innovation-at-work-vecna-robotics-helps-milton-cat-develop-a-flexible-workflow",
+    "https://www.vecnarobotics.com/resource-filtering/",
+    "https://www.marketscale.com/industries/industrial-iot/case-picking-automation-fails-when-nobody-schedules-the-human-1257444",
+    "https://www.featuredcustomers.com/vendor/vecna-robotics",
+    "https://www.robotics247.com/article/vecna-robotics-advances-warehouse-case-picking-automation-with-caseflow",
+    "https://redstamp.com/case-study/vecna-robotics",
+    "https://www.foodlogistics.com/warehousing/automation/news/22963101/vecna-robotics-vecna-robotics-introduces-case-picking-automation-solution",
+    "https://www.vecnarobotics.com/resources/case-study-geodis/",
+    "https://www.casestudies.com/company/vecna-robotics"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vecna Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://www.vecnarobotics.com/",
+    "https://www.linkedin.com/company/vecna-robotics",
+    "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "https://investors.ouster.com/news-releases/news-release-details/ouster-signs-strategic-agreement-vecna-robotics-material",
+    "https://www.robotics247.com/company/vecna_robotics",
+    "https://www.automate.org/companies/vecna-robotics",
+    "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "https://www.youtube.com/shorts/573pBWKYeLA",
+    "https://finance.yahoo.com/technology/articles/vecna-robotics-raises-31-million-110000844.html",
+    "https://www.verkada.com/partners/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vecna Robotics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/232326-28",
+    "https://www.zoominfo.com/c/vecna-robotics/563461995",
+    "https://equityzen.com/company/vecnarobotics/",
+    "https://www.crunchbase.com/organization/vecna-robotics",
+    "https://forgeglobal.com/vecna-robotics_ipo/",
+    "https://www.therobotreport.com/vecna-robotics-50m-logistics-automation/",
+    "https://www.agvnetwork.com/news/vecna-robotics-raises-100m-in-series-c-funding",
+    "https://tracxn.com/d/companies/vecna-robotics/__y9GWAFOMXGCa8NZiT1D_AYM6CSZutJYKpUugj75HtGY",
+    "https://techcrunch.com/2024/11/13/vecna-robotics-raises-14-5m-and-taps-former-motional-ceo-to-lead-startup/",
+    "https://tracxn.com/d/companies/vecnarobotics/__y9GWAFOMXGCa8NZiT1D_AYM6CSZutJYKpUugj75HtGY"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Vecna Robotics",
+   "results": [
+    "https://note.com/kagawatomo/n/n5d9ceb89a7fd",
+    "https://note.com/daisuke_bklyn/n/nf24c25e45cdd",
+    "https://note.com/unicast_robotics/n/nc3e75087164f",
+    "https://note.com/qy_research/n/n2afca53e88ed",
+    "https://note.com/shotar/n/nf0a211458750",
+    "https://note.com/unicast_robotics/m/mf62aec294924/hashtag/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88",
+    "https://note.com/qy_research/n/na6d8696ca55e",
+    "https://note.com/kagawatomo/n/n736f13d75451",
+    "https://note.com/qy_research/n/nb9ec29bff96b",
+    "https://note.com/kagawatomo/n/nec02a950e382"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Vecna Robotics",
+   "results": [
+    "https://x.com/BosBizJournal/status/2097837499028582554",
+    "https://x.com/iimag",
+    "https://x.com/VecnaInc",
+    "https://x.com/MalikaCantor",
+    "https://x.com/karapaia/status/2048327187808288771",
+    "https://x.com/ScrumVenturesJP",
+    "https://x.com/BioShock4DBD/status/2118722070943088841",
+    "https://x.com/BioShock4DBD/status/2115880450887455188",
+    "https://x.com/FallonTonight"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Vecna Robotics",
+   "results": [
+    "https://www.linkedin.com/company/vecna-robotics",
+    "https://www.linkedin.com/in/jake-cheuvront-7028298",
+    "https://www.linkedin.com/posts/vecna-robotics_manufacturing-robotics-madeinusa-activity-7523840025713836034-19-b",
+    "https://www.linkedin.com/in/karl-iagnemma-b52186102",
+    "https://www.linkedin.com/in/cody-upp",
+    "https://www.linkedin.com/in/zachary-dydek-b70bb1a",
+    "https://www.linkedin.com/in/jay-doyle-5668224",
+    "https://www.linkedin.com/in/angelademaral",
+    "https://www.linkedin.com/posts/vecna-robotics_vecna-robotics-raises-31-million-to-meet-activity-7503789944180637696-f9Uz",
+    "https://www.linkedin.com/in/bearman"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Vecna Robotics",
+   "results": [
+    "https://www.facebook.com/vecnarobotics/",
+    "https://www.facebook.com/Aptiv/posts/robotics-is-moving-from-development-to-real-world-deployment-aptiv-is-expanding-/1632127645624469/",
+    "https://www.facebook.com/RobotNationHQ/posts/the-robots-nobody-notices-are-getting-funded-bigvecna-robotics-a-company-buildin/122136049023380876/",
+    "https://www.facebook.com/svtrobotics/",
+    "https://www.facebook.com/DCVelocity/posts/in-our-continuing-series-of-discussions-with-top-supply-chain-company-executives/1745200504273292/",
+    "https://www.facebook.com/SUNTECHMachinery/posts/still-sorting-by-humanlet-automation-take-over-the-routinefaster-moves-smoother-/1564607369016078/",
+    "https://www.facebook.com/flexlineautomation/posts/it-doesnt-take-a-crystal-ball-to-see-that-you-need-to-automate-your-materialhand/1733504765212291/",
+    "https://www.facebook.com/hajiraa.sultanahuda/posts/not-every-founder-conversation-happens-inside-an-officewe-spent-the-afternoon-at/1701456090960219/",
+    "https://www.facebook.com/gsccco/posts/-%F0%9D%97%96%F0%9D%97%B2%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%A7-%F0%9D%97%94%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%AE-%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B4%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%B6-%F0%9D%97%A7%F0%9D%97%BC%F0%9D%97%BC-%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%86-%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%F0%9D%98%80-%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%81-%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%B4%F0%9D%97%B5-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%98%80%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80i-spent-november-4-explor/1744120707721085/",
+    "https://www.facebook.com/DaifukuWynrightCorporation/posts/-reshoring-automation-innovationas-manufacturers-and-supply-chains-continue-to-a/1555402776607694/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Vecna Robotics note 社長",
+   "results": [
+    "https://www.vecnarobotics.com/home-alt/",
+    "https://www.linkedin.com/company/vecna-robotics",
+    "https://www.marketscale.com/creator-hubs/vecna-robotics",
+    "https://www.therobotreport.com/vecna-robotics-autonomous-pallet-jack-modex-2022/",
+    "https://www.logisticsmgmt.com/article/fedex_partners_with_vecna_robotics_as_part_of_automation_growth_strategy",
+    "https://forgeglobal.com/vecna-robotics_ipo/",
+    "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "https://www.linkedin.com/in/karl-iagnemma-b52186102",
+    "https://www.vecnarobotics.com/company/about-us/",
+    "https://www.automatedwarehouseonline.com/iagnemma-new-vecna-ceo-obtains-funding/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vecna Robotics X 投稿",
+   "results": [
+    "https://www.vecnarobotics.com/",
+    "https://www.linkedin.com/company/vecna-robotics",
+    "https://www.aptiv.com/en/newsroom/article/aptiv-and-vecna-robotics-to-develop-next-generation-autonomous-mobile-robots",
+    "https://www.youtube.com/@VecnaRobotics",
+    "https://www.dcvelocity.com/material-handling/order-fulfillment-packing/robotic-picking-and-loading/vecna-robotics-raises-31-million-as-demand-soars-for-u-s-built-robots",
+    "https://www.robotics247.com/company/vecna_robotics",
+    "https://www.facebook.com/vecnarobotics/",
+    "https://en.wikipedia.org/wiki/Vecna_Robotics",
+    "https://www.vecnarobotics.com/resource-hub/",
+    "https://x.com/vecnarobotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部25頁・検索12回）"
+ }
+}

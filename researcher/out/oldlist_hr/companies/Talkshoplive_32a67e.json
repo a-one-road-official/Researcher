@@ -1,0 +1,984 @@
+{
+ "name": "Talkshoplive",
+ "aliases": [],
+ "context": "旧営業リスト｜Live Commerce / Video Shopping｜未接触",
+ "researched_at": "2026-11-09T20:50:04.932628+00:00",
+ "official_url": "https://talkshop.live",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "15-Aug-2023 $7M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "08-Jul-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Aug-2020 $1.75M $1.75M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "label": "Seed-3",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "3,672,988 $0.000010  $0.82 $0.82 1x $0.82 11.94%",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Nashville, TN, USA",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Shred Happens: High Protein, Big Flavor - Signed",
+    "url": "https://talkshop.live/",
+    "pass": 1
+   },
+   {
+    "quote": "Find us on social media",
+    "url": "https://talkshop.live/",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to know about upcoming shows and products!",
+    "url": "https://talkshop.live/",
+    "pass": 1
+   },
+   {
+    "quote": "We work hard to protect your security and privacy. Our site encrypts your information during transmission and we don’t share or sell your credit card or personal information to others.",
+    "url": "https://talkshop.live/product/Kj2PFrSjpdak/dan-o-s-spg-tri-o-seasoning",
+    "pass": 1
+   },
+   {
+    "quote": "More products by Walmart",
+    "url": "https://talkshop.live/product/Kj2PFrSjpdak/dan-o-s-spg-tri-o-seasoning",
+    "pass": 1
+   },
+   {
+    "quote": "Spring Roll To Go Kit",
+    "url": "https://talkshop.live/product/Kj2PFrSjpdak/dan-o-s-spg-tri-o-seasoning",
+    "pass": 1
+   },
+   {
+    "quote": "Find us on social media",
+    "url": "https://talkshop.live/product/Kj2PFrSjpdak/dan-o-s-spg-tri-o-seasoning",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to know about upcoming shows and products!",
+    "url": "https://talkshop.live/product/Kj2PFrSjpdak/dan-o-s-spg-tri-o-seasoning",
+    "pass": 1
+   },
+   {
+    "quote": "We work hard to protect your security and privacy. Our site encrypts your information during transmission and we don’t share or sell your credit card or personal information to others.",
+    "url": "https://talkshop.live/product/KUgU_jpZ3gtM/the-sourdough-hoe-signed",
+    "pass": 1
+   },
+   {
+    "quote": "More products by ReaderLink",
+    "url": "https://talkshop.live/product/KUgU_jpZ3gtM/the-sourdough-hoe-signed",
+    "pass": 1
+   },
+   {
+    "quote": "Bulletproof Angel: A Novel - Signed",
+    "url": "https://talkshop.live/product/KUgU_jpZ3gtM/the-sourdough-hoe-signed",
+    "pass": 1
+   },
+   {
+    "quote": "Find us on social media",
+    "url": "https://talkshop.live/product/KUgU_jpZ3gtM/the-sourdough-hoe-signed",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to know about upcoming shows and products!",
+    "url": "https://talkshop.live/product/KUgU_jpZ3gtM/the-sourdough-hoe-signed",
+    "pass": 1
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "Surprise Sanrio Pouch",
+    "url": "https://www.japanla.com/blogs/live-streams/tagged/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": "Video Streaming App Development",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "High-Risk Pregnancy Remote Monitoring Platform Development",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Procurement Platform",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Super Intelligence (SI)",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Process Automation (RPA)",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "High-Risk Pregnancy Remote Monitoring",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Prediction Marketplace Development →",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "P2P Sports Prediction App",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Sports Prediction Exchange",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Video Streaming App Development →",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "hire top avalanche developers for web3",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Kubernetes Security Engineers",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire C# Developers for Enterprise Application Development",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire ICS/SCADA Security Engineers for Critical Infrastructure Protection",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Haskell/Plutus Developers",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire MCP Agentic AI Infrastructure Developers",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Top Perl Developers for Your Project",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Top Dedicated PHP Developers",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Top Rated Laravel Developers",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Computer Vision Developers",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Add us as a preferred source on Google",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "This blog will explore the key aspects of live shopping platform development, like TalkShopLive, providing valuable insights and guidance for entrepreneurs looking to tap into this burgeoning market.",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you are a startup or an established business, this blog will serve as a comprehensive guide to help you build and launch your live shopping app.",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Key drivers of market growth include the rapid development of e-commerce and live commerce, increased adoption of social media, and the booming influencer culture. Furthermore, technological advancements and the innovative strategies of market participants create substantial opportunities for industry expansion.",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive operates through a streamlined process that facilitates interactive and engaging shopping experiences. Here’s an explanation of how it works:",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Talkshoplive 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a social streaming platform intended for an interactive and live shopping experience. The company's platform lets sellers have live shows, display product details, and chat with buyers in real time, enabling customers to follow brand profiles and be notified when their favorite seller has a live show or sale.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Improvement for a snow shoe binding",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Talkshoplive’s primary industry is Social/Platform Software.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Is Talkshoplive a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Talkshoplive is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive was co-founded in 2018 by siblings Bryan Moore and Tina Moore. Bryan Moore, leveraging his background in social media leadership at Twentieth Century Fox, envisioned a new paradigm for commerce. The founders identified an opportunity to bridge content, community, and commerce through an authentic live video shopping environment where direct interaction drives purchasing.",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": "The platform serves diverse sellers, from individual creators to established brands, leveraging live video for direct sales and audience engagement. TalkShopLive empowers these sellers with broadcasting tools, fostering a dynamic marketplace. Its long-term vision is to cultivate an accessible digital main street for shoppable video, evolving how consumers discover and buy.",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": ": Proprietary multi-embed point-of-sale enables purchases during livestreams across multiple domains simultaneously without interrupting viewing; unique as the only third-party platform for fully shoppable Instagram Live.[1][3][4]",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": ": Streams and sells seamlessly on Facebook, Instagram, YouTube, and more via Shoppable Simulcast, plus new TSL Shoppettes for short-form videos on social reels.[3][4]",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": ": Studio app provides HD broadcasting, real-time metrics, product pinning, comment management, and four-person collaboration from phones, syncing with Shopify.[1]",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Abuela's Plant-Based Desserts - Signed",
+    "url": "https://talkshop.live/product/KUgU_jpZ3gtM/the-sourdough-hoe-signed",
+    "pass": 1
+   },
+   {
+    "quote": "F 337, Industrial Focal Point, Phase 8B, Industrial Area, Sector 74, SAS Nagar, Punjab 160055",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "この開発者は日本語での直接的なサポートを提供していません",
+    "url": "https://apps.shopify.com/talkshoplive?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "米国で急伸のダイレクトEコマースサイト「TalkShopLive」の実力 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN サイトメンテナンスのお知らせ（2026年11月10日（火）18:00〜）",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "– Tagged \"TalkShopLive\"– JapanLA",
+    "url": "https://www.japanla.com/blogs/live-streams/tagged/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": "Check out tons of cute stationery and office items on the JapanLA Stationery Show on TalkshopLive!",
+    "url": "https://www.japanla.com/blogs/live-streams/tagged/talkshoplive",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ライブショッピングの販売チャネル | Shopify App Store動画コマース「トークショップライブ」、D2C起業家の出演に注力：飲食...TalkShopLive®Asia | TalkShopLive®トークショップライブ、ショッパブルなショート形式動画で TikTok に...米国で急伸のダイレクトEコマースサイト「TalkShopLive」の実力Walmart、iHeartMedia、TalkShopLive の幹部がライブ ストリーミング... — 顧客が普段利用している場所で直接アプローチできるように設計された TalkShopLive は、どこからでも商品を購入できる独自のビデオ体験を提供するビデオコマースプラットフォームです。 Apr 16, 2022 · ライブストリーミングプラットフォームの トークショップライブ （TalkShopLive）は2018年の創設以来",
+    "url": "https://apps.shopify.com/talkshoplive?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive® — TalkShopLive is a live commerce platform connecting brands, creators, and celebrities with consumers through interactive, shoppable livestreams.",
+    "url": "https://talkshop.live/",
+    "pass": 3
+   },
+   {
+    "quote": "米国で急伸のダイレクトEコマースサイト「TalkShopLive」の実力 — Mar 12, 2019 · 「TalkShopLiveのコンバージョン率は、一般的なEコマースサイトと比べ、非常に高い」とMooreは話した。 昨年から始動したTalkShopLiveでは、大手ブランドやインフルエンサー、セレブリティたちが独自のプロダクトを販売している。",
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "pass": 3
+   },
+   {
+    "quote": "Walmart、iHeartMedia、TalkShopLive の幹部がライブ ストリーミング... — TalkShopLive は、ライブ放送とホーム ショッピング体験を融合しており、ドリー パートン、ジョナス ブラザーズ、ジョン レジェンド、アナ ウィンター、ジェニファー ロペス、マシュー マコノヒーなどの著名なゲストがプラットフォームに出演しています。",
+    "url": "https://kawase-jp.com/walmart、iheartmedia、talkshoplive-の幹部がライブ-ストリーミングの秘/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia | TalkShopLive® — Asia is an English rock supergroup formed in 1981 by veteran progressive rock musicians: John Wetton (King Crimson), Steve Howe (Yes), Geoff Downes (Yes/Buggles), and Carl Palmer (ELP). They achieved massive global success with their multi-platinum 1982 debut album.",
+    "url": "https://talkshop.live/channels/asia",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive® — Patented shoppable embedded point-of-sale technology. TalkShopLive is a live commerce platform connecting brands, creators, and celebrities with consumers through interactive, shoppable livestreams.",
+    "url": "https://talkshop.live/",
+    "pass": 3
+   },
+   {
+    "quote": "Search results for japan | TalkShopLive® — Search results for \"japan\" on TalkShopLive®. Watch, browse, and shop our curated selection.",
+    "url": "https://talkshop.live/search?query=japan",
+    "pass": 3
+   },
+   {
+    "quote": "Live Streams – Tagged \"TalkShopLive\"– JapanLA — Check out tons of cute stationery and office items on the JapanLA Stationery Show on TalkshopLive!",
+    "url": "https://www.japanla.com/blogs/live-streams/tagged/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive - YouTube — Get the exclusive Orange Vinyl with autograph from Micky Dolenz only on TalkShopLive. The live streaming, social selling online network for anyone, anywhere, to buy and sell almost anything!",
+    "url": "https://www.youtube.com/@TalkShopLive/posts",
+    "pass": 3
+   },
+   {
+    "quote": "Stationery Show on TalkShopLive®! – JapanLA — Check out tons of cute stationery and office items on the JapanLA Stationery Show on TalkshopLive!",
+    "url": "https://www.japanla.com/blogs/live-streams/stationery-show-on-talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": "This is a fantastic case study and talkshoplive® show with ... — Dolly Parton’s use of TalkShopLive is a masterclass on the power and impact of entertainment and video commerce.",
+    "url": "https://www.linkedin.com/posts/bryanmmoore_this-is-a-fantastic-case-study-and-talkshoplive-activity-7255242244528513024-YLN9",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive - A Year in Review - LinkedIn — Dec 20, 2021 · 2021 was a transformative year for TalkShopLive in how we built and expanded our growing footprint across the livestream commerce landscape. We doubled our team, which saw the addition of...",
+    "url": "https://www.linkedin.com/pulse/talkshoplive-year-review-bryan-moore",
+    "pass": 3
+   },
+   {
+    "quote": "Live Shopping Platform Development Like TalkShopLive — This blog will explore the key aspects of live shopping platform development, like TalkShopLive, providing valuable insights and guidance for entrepreneurs looking to tap into this burgeoning market.",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Features | TalkShopLive® — TalkShopLive provides the only barrier-free seamless live shopping experience of its kind that shares data and empowers talent through free-to-use tools and support.",
+    "url": "https://talkshop.live/features/creators",
+    "pass": 3
+   },
+   {
+    "quote": "Talkshoplive 2026 Company Profile: Valuation, Funding ...talkShopLive - 2025 Company Profile, Team, Funding ... - TracxntalkshopliveÂ – Company Profile & Market Insights – 2026talkshoplive: Funding, Team & Investors | Startup IntrosTalkShopLive® Revenue 2025: $5.8M Est.TalkShopLive - Overview, News & Similar companies | ZoomInfo.comtalkshoplive: Funding, Investors & Team (Nov 2026) | FundedIQ — In",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "talkShopLive - 2025 Company Profile, Team, Funding ... - TracxntalkshopliveÂ – Company Profile & Market Insights – 2026talkshoplive: Funding, Team & Investors | Startup IntrosTalkShopLive® Revenue 2025: $5.8M Est.TalkShopLive - Overview, News & Similar companies | ZoomInfo.comtalkshoplive: Funding, Investors & Team (Nov 2026) | FundedIQ — Dec 12, 2025 · talkShopLive is a seed company based in West",
+    "url": "https://tracxn.com/d/companies/talkshoplive/__TnTXgPv1y63vjREEyrLJr59oOeum8P5KKTVTXO2LjjA",
+    "pass": 3
+   },
+   {
+    "quote": "talkshopliveÂ – Company Profile & Market Insights – 2026 — Discover talkshopliveÂ's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/talkshoplivea",
+    "pass": 3
+   },
+   {
+    "quote": "talkshoplive: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · TalkShopLive was co-founded in 2018 by siblings Bryan Moore and Tina Moore. Bryan Moore, leveraging his background in social media leadership at Twentieth Century Fox, envisioned a new paradigm for commerce.",
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive® Revenue 2025: $5.8M Est. — Aug 10, 2026 · TalkShopLive® is a Live Commerce Software company based in Los Angeles, founded in 2018.",
+    "url": "https://getlatka.com/companies/talkshop.live",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "6. White-Label Solutions for Enterprises",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely! We can tailor the app to reflect your brand identity, including logo, color schemes, and unique features.",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "TalkShopLive, a leading live shopping app, has seen substantial success, generating an estimated annual revenue of $8 million",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "while watching a live stream about home appliances, viewers can click on a Product Info tab that shows detailed specifications of the featured washing machine, including energy efficiency ratings, warranty details, and reviews.",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Platforms like TalkShopLive exemplify its financial viability, with an estimated annual revenue of $8 million",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "The monetization strategy of TalkShopLive revolves around leveraging its live shopping platform to create revenue streams from both sellers and buyers while enhancing user engagement. Here are some key monetization strategies that a platform like TalkShopLive employs:",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Advertising Revenue",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "a short video ad for a fashion brand might play before a live stream, or banner ads might appear during the stream for additional revenue.",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "Talkshoplive has 49 total employees.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "What is Talkshoplive’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Talkshoplive is",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us for a free consultation call",
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TalkShopLive (@TalkShopLive) / X What's one little thing you're grateful for today? 💛 @ sephschlueter is going LIVE on TalkShopLive TONIGHT to talk about his new children's book, \"Counting My Blessings,\" a story all about joy, wonder and gratitude.",
+    "url": "https://x.com/TalkShopLive",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive on X: \" HAPPENING NOW: Clutch is LIVE talking ... TalkShopLive on X: \"🎥 HAPPENING NOW: Clutch is LIVE talking all things “Wasted Lands.” Tune in for the interview, drop your questions in the chat & grab a copy with an autographed insert while supplies last. https://t.co/iGKGytKd7V\"",
+    "url": "https://x.com/TalkShopLive/status/2107991884131918335",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive TalkShopLive (@TalkShopLive). 501 likes 3 replies. 📽️@Zaynmalik's full livestream now available on YouTube! #ZaynOnTalkShopLive",
+    "url": "https://x.com/TalkShopLive/status/2037190899667521645",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive on X: \"LET'S GO GIRLS! Tune in tonight at 7PM ... TalkShopLive on X: \"LET'S GO GIRLS! 🤠 Tune in tonight at 7PM ET to hear @ShaniaTwain talk about her upcoming album, \"Little Miss Twain,\" & pre-order your copy with an autographed insert! https://t.co/9dWxCN52WB\"",
+    "url": "https://x.com/TalkShopLive/status/2079589922248237552",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive on X: \"JUST DROPPED! @buckcherry’s Black ... Buckcherry - Black Butterfly - 2LP Orange Signed | TalkShopLive® From talkshop.live 10:30 AM · Nov 13, 2025 119 Views",
+    "url": "https://x.com/TalkShopLive/status/1989038097879695832",
+    "pass": 3
+   },
+   {
+    "quote": "TalkShopLive on X: \"JUST ANNOUNCED Clutch's new album ... JUST ANNOUNCED 🔥 Clutch's new album, “Wasted Lands,” is available for pre-order now on Sea Blue Smoke vinyl with an 11\" x 11\" autographed insert, exclusively on @ TalkShopLive.",
+    "url": "https://x.com/TalkShopLive/status/2103563821625340294",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TalkShopLive® - LinkedIn TalkShopLive® Internet Publishing Nashville, TN 5,345 followers The live streaming, social selling online network for anyone, anywhere, to buy and sell almost anything! About us",
+    "url": "https://www.linkedin.com/company/talkshoplive/",
+    "pass": 3
+   },
+   {
+    "quote": "Bryan Moore - CEO and Co-Founder at TalkShopLive | EY ...Dieter Kaupp - Full Stack Developer at talkshoplive® | LinkedInIvan Soto - VP of Engineering at TalkShopLive | LinkedInJoel Berggren - Product Manager at TalkShopLive | LinkedInSteve Harkins - Excited to join forces with TalkShopLive ...Tina Moore - Co-Founder & Chief Client Officer at ... - LinkedIn Bryan Moore is the Chief Executive Office",
+    "url": "https://www.linkedin.com/in/bryanmmoore",
+    "pass": 3
+   },
+   {
+    "quote": "Dieter Kaupp - Full Stack Developer at talkshoplive® | LinkedInIvan Soto - VP of Engineering at TalkShopLive | LinkedInJoel Berggren - Product Manager at TalkShopLive | LinkedInSteve Harkins - Excited to join forces with TalkShopLive ...Tina Moore - Co-Founder & Chief Client Officer at ... - LinkedIn Full Stack Developer at talkshoplive® · Detail oriented front-end developer with experience buildi",
+    "url": "https://pt.linkedin.com/in/dkaupp",
+    "pass": 3
+   },
+   {
+    "quote": "Ivan Soto - VP of Engineering at TalkShopLive | LinkedInJoel Berggren - Product Manager at TalkShopLive | LinkedInSteve Harkins - Excited to join forces with TalkShopLive ...Tina Moore - Co-Founder & Chief Client Officer at ... - LinkedIn VP of Engineering at TalkShopLive · Experience: talkshoplive® · Education: Universidad de Artes, Ciencias y Comunicación · Location: Greater Vancouver Metropolit",
+    "url": "https://ca.linkedin.com/in/ivansotof",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://talkshop.live/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talkshop.live/product/Kj2PFrSjpdak/dan-o-s-spg-tri-o-seasoning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talkshop.live/product/KUgU_jpZ3gtM/the-sourdough-hoe-signed",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://apps.shopify.com/talkshoplive?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/26028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kawase-jp.com/walmart%E3%80%81iheartmedia%E3%80%81talkshoplive-%E3%81%AE%E5%B9%B9%E9%83%A8%E3%81%8C%E3%83%A9%E3%82%A4%E3%83%96-%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AE%E7%A7%98/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japanla.com/blogs/live-streams/tagged/talkshoplive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@TalkShopLive/posts",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/bryanmmoore_this-is-a-fantastic-case-study-and-talkshoplive-activity-7255242244528513024-YLN9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/talkshoplive-year-review-bryan-moore",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439182-73",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/talkshoplive/__TnTXgPv1y63vjREEyrLJr59oOeum8P5KKTVTXO2LjjA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/talkshoplivea",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/talkshoplive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TalkShopLive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalkShopLive/status/2107991884131918335",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalkShopLive/status/2037190899667521645",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalkShopLive/status/2079589922248237552",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/talkshoplive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bryanmmoore",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pt.linkedin.com/in/dkaupp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/ivansotof",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalkShopLive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalkShopLive/status/1989038097879695832",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalkShopLive/status/2103563821625340294",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Talkshoplive 日本 導入",
+   "results": [
+    "https://apps.shopify.com/talkshoplive?locale=ja",
+    "https://talkshop.live/",
+    "https://forbesjapan.com/articles/detail/26028",
+    "https://kawase-jp.com/walmart、iheartmedia、talkshoplive-の幹部がライブ-ストリーミングの秘/",
+    "https://talkshop.live/channels/asia",
+    "https://digiday.jp/modern-retail/how-talkshoplive-is-courting-dtc-brands-to-use-its-livestream-platform/",
+    "https://digiday.jp/modern-retail/live-commerce-startup-talkshoplive-takes-on-tiktok-with-shoppable-short-form-videos-for-meta/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talkshoplive 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Talkshoplive Japan",
+   "results": [
+    "https://talkshop.live/",
+    "https://talkshop.live/search?query=japan",
+    "https://www.japanla.com/blogs/live-streams/tagged/talkshoplive",
+    "https://www.youtube.com/@TalkShopLive/posts",
+    "https://www.japanla.com/blogs/live-streams/stationery-show-on-talkshoplive",
+    "https://www.youtube.com/channel/UCV1M1bG_UcOO0w0tzk9lE1g",
+    "https://techcrunchjapan.com/2021/02/17/2021-02-16-talkshoplive-seed-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talkshoplive manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/posts/bryanmmoore_this-is-a-fantastic-case-study-and-talkshoplive-activity-7255242244528513024-YLN9",
+    "https://www.linkedin.com/pulse/talkshoplive-year-review-bryan-moore",
+    "https://talkshop.live/",
+    "https://ideausher.com/blog/live-shopping-development-talkshoplive/",
+    "https://talkshop.live/features/creators",
+    "https://www.cbinsights.com/company/talkshoplive/customers",
+    "https://astrskpr.com/work/talkshoplive"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talkshoplive white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talkshoplive founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/439182-73",
+    "https://tracxn.com/d/companies/talkshoplive/__TnTXgPv1y63vjREEyrLJr59oOeum8P5KKTVTXO2LjjA",
+    "https://compworth.com/company/talkshoplivea",
+    "https://startupintros.com/orgs/talkshoplive",
+    "https://getlatka.com/companies/talkshop.live",
+    "https://www.zoominfo.com/c/talkshoplive-llc/480628221",
+    "https://fundediq.co/talkshoplive-talkshop-live-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Talkshoplive",
+   "results": [
+    "https://note.com/",
+    "https://note.com/short_movie_jp/n/n5b019e5d6389?hl=en",
+    "https://note.com/vr_airbnb/n/nfe30e6cf7061?hl=en",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/watarutida/n/n75017e960add",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Talkshoplive",
+   "results": [
+    "https://x.com/TalkShopLive",
+    "https://x.com/TalkShopLive/status/2107991884131918335",
+    "https://x.com/TalkShopLive/status/2037190899667521645",
+    "https://x.com/TalkShopLive/status/2079589922248237552",
+    "https://x.com/hashtag/TalkShopLive",
+    "https://x.com/TalkShopLive/status/2036573443462770832",
+    "https://x.com/TalkShopLive/status/2107984372653523341"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Talkshoplive",
+   "results": [
+    "https://www.linkedin.com/company/talkshoplive/",
+    "https://www.linkedin.com/in/bryanmmoore",
+    "https://pt.linkedin.com/in/dkaupp",
+    "https://ca.linkedin.com/in/ivansotof",
+    "https://ca.linkedin.com/in/joel-berggren-13900a16",
+    "https://www.linkedin.com/in/steve-harkins-35381a7",
+    "https://www.linkedin.com/in/mooretina"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Talkshoplive",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Talkshoplive note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talkshoplive X 投稿",
+   "results": [
+    "https://x.com/TalkShopLive",
+    "https://x.com/TalkShopLive/status/1989038097879695832",
+    "https://x.com/TalkShopLive/status/2103563821625340294",
+    "https://talkshop.live/",
+    "https://x.com/TalkShopLive/status/2113759969686237497",
+    "https://x.com/TalkShopLive/status/2117399004166467731",
+    "https://talkshop.live/channels/talkshoplive"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

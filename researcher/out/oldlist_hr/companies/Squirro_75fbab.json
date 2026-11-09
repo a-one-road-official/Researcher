@@ -1,0 +1,1773 @@
+{
+ "name": "Squirro",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-09T21:00:37.072827+00:00",
+ "official_url": "https://squirro.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$11.5M",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Squirro | The Enterprise GenAI Platform That's Proven",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Product",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Foundations",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI Platform Overview",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On-Premises Enterprise AI",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Search & Insights",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RFP & Proposal Response Agent",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy where the business case is clear, prove ROI in weeks, and let every successful use case accelerate the next.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most enterprise AI never reaches production — not because the technology fails, but because organizations start in the wrong place.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solve a Real Problem First",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The second agent runs on the foundation the first one built - the same connectors, governance, and guardrails. Less to assemble, faster to production, because it isn't starting from scratch.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start where the friction is sharpest — client meeting prep, expense policy, IT helpdesk, regulatory search. Standing it up lays the foundation once: connectors, infrastructure, security, and the context layer.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Value accelerates. Each use case makes the next easier to deploy and stronger — all powered by one enterprise AI platform.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RFP & Proposal Response",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most enterprises rebuild the same plumbing for every AI project — connectors, governance, retrieval, audit. Squirro builds it once. You extend it.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source-cited answers to expense, travel and approval questions, where finance already works.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-classify and tag content against your taxonomy — consistent, governed, at scale.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect prior work, patents and literature so research builds forward, not sideways.",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Clinical Regulatory",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proof, not promises",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Demanding Enterprises",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Lead Software Product Management, ZwickRoell",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision-Engineered AI",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise GenAI Platform",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI Complete Guide",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Land small, prove fast, expand - Explore the Squirro AI Agent Catalog –",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Product",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Foundations",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI Platform Overview",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "On-Premises Enterprise AI",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Search & Insights",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "RFP & Proposal Response Agent",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise AI Platform for Secure, Scalable Manufacturing Intelligence",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together all your critical manufacturing data—from MES, ERP, and SCADA systems to RFI/RFPs, product documentation, and maintenance logs—on one secure, compliant AI platform. Drive higher throughput, improve quality, and reduce operational risk.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce downtime with proactive service guidance",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Speed up knowledge access and onboarding",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Improve quality & innovation",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give engineers and new hires instant, step-by-step guidance grounded in historical fixes and plant data to resolve issues in minutes, not months.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Agent Resolution",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Turn predictive alerts into prescriptive actions: create work orders, parts lists, and optimized maintenance schedules.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Classify by meaning (not keywords) using taxonomies/ontologies and knowledge graphs to power high-precision retrieval and GenAI.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline taxonomy creation, enrichment, and governance to power accurate enterprise AI and activate your structured data faster.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade Security for Proprietary Data",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Squirro gives you complete control over your intellectual property, ensuring that sensitive plans, designs, and production data stay within your secure environment. Granular access permissions guarantee that information is only available to authorized users.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve accurate, trustworthy insights for critical decisions. Every insight is grounded in your verified internal data and provides full data lineage for complete transparency and auditability. This ensures reliable, high-accuracy results and exceptional contextual understanding.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Proven to Handle Global Manufacturing Scale",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Squirro can ingest and analyze terabytes of data, production records from dozens of plants, and thousands of simultaneous queries. The platform scales horizontally to meet emerging needs, maintaining real-time performance as data volumes grow.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Essentials Guide: Transforming Manufacturing with Enterprise GenAI",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How Enhanced RAG + Knowledge Graphs unify fragmented data, harden compliance, and drive productivity across the factory.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI, Deployed Your Way",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Show submenu for Product",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Foundations",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI Platform Overview",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "On-Premises Enterprise AI",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Search & Insights",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "RFP & Proposal Response Agent",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Abraxas Informatik AG is the largest provider of end-to-end IT solutions for the public sector in Switzerland. Abraxas connects Swiss administrations, authorities, companies and the population with efficient, secure and integrated specialist applications and IT services – including sovereign AI solutions for public administration.",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Knowledge offers unparalleled Knowledge, Data, and Information Management consulting services. Focusing on practical solutions, they deliver business value and working software in months instead of years, right-sizing their technical approach to fit your organization's budget and needs.",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "D-fine is a leading European consulting firm that provides design and implementation under one roof. Specializing in the European Stress Test domain, D-fine leverages the Squirro infrastructure and experience to develop all Risk Applications in the FinTech area.",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "FPT Software is a global technology and IT services provider. In the digital transformation space, FPT Software delivers services in Smart factories, Digital platforms, RPA, AI, IoT, Cloud, AR/VR, and more.",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the World's Most",
+    "url": "https://squirro.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise AI Platform for Secure, Scalable Manufacturing Intelligence",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together all your critical manufacturing data—from MES, ERP, and SCADA systems to RFI/RFPs, product documentation, and maintenance logs—on one secure, compliant AI platform. Drive higher throughput, improve quality, and reduce operational risk.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Solve Your Most Critical Manufacturing Challenges",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give engineers and new hires instant, step-by-step guidance grounded in historical fixes and plant data to resolve issues in minutes, not months.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Document Intelligence",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Summarize research, connect experts, and generate hypotheses—reducing search time and increasing discovery across labs and plants.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Why Squirro for Manufacturing",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Proven to Handle Global Manufacturing Scale",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Squirro can ingest and analyze terabytes of data, production records from dozens of plants, and thousands of simultaneous queries. The platform scales horizontally to meet emerging needs, maintaining real-time performance as data volumes grow.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Essentials Guide: Transforming Manufacturing with Enterprise GenAI",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How Enhanced RAG + Knowledge Graphs unify fragmented data, harden compliance, and drive productivity across the factory.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Squirro protect sensitive manufacturing data and trade secrets?",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Manufacturing with Enterprise GenAI",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Unpacking Generative AI vs. Predictive AI for Finance & Manufacturing",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to See What Squirro Can Do for Your Manufacturing Enterprise?",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Book a demo tailored to your specific manufacturing challenges.",
+    "url": "https://squirro.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "FPT Software is a global technology and IT services provider. In the digital transformation space, FPT Software delivers services in Smart factories, Digital platforms, RPA, AI, IoT, Cloud, AR/VR, and more.",
+    "url": "https://squirro.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/industries/banking",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by top Financial Institutions",
+    "url": "https://squirro.com/industries/banking",
+    "pass": 1
+   },
+   {
+    "quote": "Strong governance, access controls, and full regulatory compliance trusted by global financial institutions. Squirro ensures total data sovereignty and end-to-end encryption. You can deploy securely on-premises or in a private cloud to meet strict compliance mandates for sensitive financial data.",
+    "url": "https://squirro.com/industries/banking",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your agency with the secure AI trusted by leading government bodies and global institutions, including",
+    "url": "https://squirro.com/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Strong AI governance, robust access controls, and full regulatory compliance, trusted by government agencies for handling sensitive and classified information.",
+    "url": "https://squirro.com/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. In addition to ISO 27001 certification, Squirro’s platform is penetration-tested and audited by independent third parties. Our solutions are used by highly regulated organizations (including global banks and government agencies), so they meet rigorous security requirements.",
+    "url": "https://squirro.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/industries/healthcare-and-life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/industries/telecom-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how a leading telecoms operator implemented Squirro’s AI platform within its support operations and IoT services unit. This case study details the journey to automate ticket qualification and resolution, the integration with the customer’s existing systems, and the outcomes, including meeting and exceeding strict SLA targets and vastly improving customer service metrics.",
+    "url": "https://squirro.com/industries/telecom-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Strong governance, access controls, and full regulatory compliance, trusted by global telecom providers.",
+    "url": "https://squirro.com/industries/telecom-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Streamlining Customer Service with Graph-Informed GenAI",
+    "url": "https://squirro.com/industries/telecom-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://squirro.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Story · Manufacturing",
+    "url": "https://squirro.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Manufacturing Case Study: 94% Accuracy",
+    "url": "https://squirro.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Across horizontal AI research and industry reports, from banking and manufacturing to oil and gas and government.",
+    "url": "https://squirro.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://squirro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial, Europe",
+    "url": "https://squirro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Finance, Industrial, Europe",
+    "url": "https://squirro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "With over a decade of experience, we expertly combine AI, machine learning, predictive analytics, generative AI, and symbolic AI, such as knowledge graphs, to create solutions that are trusted by central banks and industry leaders.",
+    "url": "https://squirro.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/agent-catalog/portfolio-insight-agent-squirro",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://squirro.com/agent-catalog/portfolio-insight-agent-squirro",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/incident-resolution-ai-augmented-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/document-intelligence-ai-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/automated-compliance-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/smart-mro-predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Give field technicians an AI-powered \"copilot\" that surfaces the right repair procedure from thousands of technical manuals, instantly.",
+    "url": "https://squirro.com/solutions/smart-mro-predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians receive step-by-step repair guidance sourced from all documentation.",
+    "url": "https://squirro.com/solutions/smart-mro-predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/ai-research-development",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/ai-for-financial-advisors-360-client-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Automotive",
+    "url": "https://squirro.com/solutions/intelligent-document-processing-nigo-resolution",
+    "pass": 1
+   },
+   {
+    "quote": "MANUFACTURING 3",
+    "url": "https://squirro.com/hubfs/Manu-Website_White%20Paper%20Banner.webp",
+    "pass": 2
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The Squirro Classifier tags each document as it arrives, with the concepts your experts keep in Squirro Graphite. When it is unsure, a person decides. New terms wait for an editor.",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "Every Document Tagged on Arrival.",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "Every document typed and tagged as it arrives",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "Terms your taxonomy does not have yet arrive in Graphite as candidates, kept apart from the approved hierarchy until an editor accepts, merges, or withdraws each one.",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "New documents are tagged as they arrive. Documents already indexed, and every document after a taxonomy change, are tagged by a planned re-run of the pipeline.",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "The Classifier is part of the Squirro Platform, in Squirro Cloud, your VPC, or your premises.",
+    "url": "https://squirro.com/solutions/data-classification",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically read, validate, and resolve NIGO documents, eliminating manual bottlenecks that delay client onboarding and revenue.",
+    "url": "https://squirro.com/industries/banking",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/industries/banking",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically read, validate, and resolve NIGO documents, eliminating manual bottlenecks that delay client onboarding and revenue.",
+    "url": "https://squirro.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/industries/healthcare-and-life-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/industries/telecom-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "time saved, cutting costs and driving revenues",
+    "url": "https://squirro.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The acquisition of Synaptica in 2024 marks a groundbreaking synergy, combining Squirro’s cutting-edge generative AI with Synaptica’s world-class knowledge graph management. This powerful fusion enhances enterprise intelligence with unparalleled precision, reliability, and speed—setting a new standard for contextual awareness and decision-making.",
+    "url": "https://squirro.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At Squirro, we are at the forefront of AI innovation, providing reliable and accurate AI solutions that employees trust. As the Enterprise GenAI Platform of choice for the most heavily regulated industries, we pride ourselves on delivering precision-engineered AI solutions that enhance quality, accelerate processes, and reduce costs.",
+    "url": "https://squirro.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "CPI and index-linked contract tracking added to the portfolio view — connecting operational performance to the revenue obligations that underpin it.",
+    "url": "https://squirro.com/agent-catalog/portfolio-insight-agent-squirro",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/solutions/incident-resolution-ai-augmented-agents",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/solutions/document-intelligence-ai-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/solutions/automated-compliance-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/solutions/smart-mro-predictive-maintenance",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/solutions/ai-research-development",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/solutions/ai-for-financial-advisors-360-client-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Squirro's AI agents automatically read, validate, and resolve NIGO documents, eliminating the manual bottlenecks that delay client onboarding and revenue.",
+    "url": "https://squirro.com/solutions/intelligent-document-processing-nigo-resolution",
+    "pass": 1
+   },
+   {
+    "quote": "Stop Delaying Revenue. Start Onboarding Clients Faster.",
+    "url": "https://squirro.com/solutions/intelligent-document-processing-nigo-resolution",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate Time-to-Revenue",
+    "url": "https://squirro.com/solutions/intelligent-document-processing-nigo-resolution",
+    "pass": 1
+   },
+   {
+    "quote": "and listed among the most frequently cited knowledge management vendors in client inquiry.",
+    "url": "https://squirro.com/solutions/intelligent-document-processing-nigo-resolution",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to Stop Delaying Revenue?",
+    "url": "https://squirro.com/solutions/intelligent-document-processing-nigo-resolution",
+    "pass": 1
+   },
+   {
+    "quote": "Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …",
+    "url": "https://www.featuredcustomers.com/vendor/squirro/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/squirro/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A big part of a Squirro integration is to think about how to model the data in Squirro. This is covered in the separate section",
+    "url": "https://docs.squirro.com/en/latest/technical/data-loading/labels.html",
+    "pass": 3
+   },
+   {
+    "quote": "for backward compatibility with the legacy starred system.",
+    "url": "https://docs.squirro.com/en/latest/technical/data-loading/labels.html",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro Revenue 2024: $17.8M Est., $11.5M Raised",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro has not published its revenue. GetLatka estimates it at about $17.8M a year (October 2024).",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro CEO, founders & employees",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Dorian Selz founded Squirro in 2012 and runs it as CEO. Squirro had 66 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "What is Squirro's revenue?",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Squirro's revenue at about",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Squirro have?",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (3)",
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "pass": 3
+   },
+   {
+    "quote": "To view Squirro’s complete investments and acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro has 95 total employees.",
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "pass": 3
+   },
+   {
+    "quote": "What is Squirro’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Squirro is",
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "pass": 3
+   },
+   {
+    "quote": "The interesting part of this story is that it is not a failure story. Rather, it reveals the current structure of the industry: 'if you distribute a strong model for free or cheaply, demand will consume the machine's supply capacity first.' From the user's perspective, it means that the more talked-about a model is, the more likely you are to face a waiting list when you actually try to use it.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Strong AI governance, robust access controls, and full regulatory compliance, trusted by government agencies for handling sensitive and classified information.",
+    "url": "https://squirro.com/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. In addition to ISO 27001 certification, Squirro’s platform is penetration-tested and audited by independent third parties. Our solutions are used by highly regulated organizations (including global banks and government agencies), so they meet rigorous security requirements.",
+    "url": "https://squirro.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Squirro Announces OEM Partnership with Vertec to Embed Advanced GenAI into its ERP & CRM Software",
+    "url": "https://squirro.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Value-Added Resellers",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.businesswire.com/news/home/20260721942935/en/New-Booz-Allen-Survey-Finds-Federal-Agencies-Are-Accelerating-Agentic-AI-Adoption-Despite-Significant-Trust-and-Security-Gaps",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.hpcwire.com/aiwire/2026/07/21/booz-allen-survey-federal-agencies-accelerate-agentic-ai-adoption-despite-significant-trust-and-security-gaps/",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.businesswire.com/news/home/20260721942935/en/New-Booz-Allen-Survey-Finds-Federal-Agencies-Are-Accelerating-Agentic-AI-Adoption-Despite-Significant-Trust-and-Security-Gaps",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.hpcwire.com/aiwire/2026/07/21/booz-allen-survey-federal-agencies-accelerate-agentic-ai-adoption-despite-significant-trust-and-security-gaps/",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Absolutely. Squirro offers out-of-the-box connectors and APIs to integrate with policy administration systems, claims management platforms, CRMs, document management systems, and more. It can pull in and unify data from core systems and external sources (emails, PDFs, broker notes, etc.) into one platform. Squirro’s integration framework ensures a seamless fit into your current IT landscape.",
+    "url": "https://squirro.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically monitor all communications (email, chat) and transactions, not just a 1% random sample.",
+    "url": "https://squirro.com/solutions/automated-compliance-monitoring",
+    "pass": 1
+   },
+   {
+    "quote": "Email Domain-Based Permissions",
+    "url": "https://docs.squirro.com/en/latest/products/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/squirro/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/squirro/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Email Domain-Based Permissions",
+    "url": "https://docs.squirro.com/en/latest/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Labels can be created from any additional info about an item which is included in the source of the information. In a variety of sources, such as database records, excel spreadsheets, email messages, etc., there may be some useful information included in addition to the title and body of the item.",
+    "url": "https://docs.squirro.com/en/latest/technical/data-loading/labels.html",
+    "pass": 3
+   },
+   {
+    "quote": "The example below shows a database record which stores an email, along with which fields can be added as labels within the item.",
+    "url": "https://docs.squirro.com/en/latest/technical/data-loading/labels.html",
+    "pass": 3
+   },
+   {
+    "quote": "First, what will the AI read? If you have it read emails or web pages from outside the company, there is a risk that the AI will be swayed by the instructions written there.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Squirro スキュロとは 社内資料の横断検索のAI｜使い方・料金・日本語対応",
+    "url": "https://eeai.tv/tools/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Squirroの日本語対応は確認できていません",
+    "url": "https://eeai.tv/tools/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "This is not just someone else's problem for Japanese office workers. When you hear 'implementing AI,' it sounds like a development issue, but the bottleneck is usually on the side of internal procedures.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Squirroとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Squirroを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/182858/squirro-customer-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro's Latest News and Upcoming Events — Jun 17, 2026 · Stay ahead with Squirro's News and Events page for the latest company updates, partner news, and event information. Connect and grow with us!",
+    "url": "https://squirro.com/news-and-events",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro | ええAI.TV — こんなときに使う：社内資料の横断検索。社内に散らばった書類やデータをつなげて検索し、業務ごとのAI担当者を置ける企業向けのしくみです。銀行や官公庁での導入例があります。ざっくり：社内の書類やデータをまとめて検索し、答えを引き出すなど。",
+    "url": "https://eeai.tv/tools/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro | The Enterprise GenAI Platform That's Proven — Boosts productivity, cuts costs, and enhances decision-making with secure, private, and accurate AI-driven enterprise intelligence at scale",
+    "url": "https://squirro.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforceが投資したAIスタートアップ企業②ビッグデータとAIを用いた... — Oct 30, 2017 · 情報の有効活用をAIによって実現しているSquirroは 現在AIの導入に最も適しているとされている「営業およびマーケティングのスコアリーディング」や「売上予測」といった分野とはまた違った新しい分野の開拓を試みているように思います。",
+    "url": "http://blog.zenoffice.co.jp/b2b-marketing/ビッグデータとaiを用いたcrmシステム「squirro」/",
+    "pass": 3
+   },
+   {
+    "quote": "About Squirro | AI-Powered Insights for Your Enterprise — Squirro is the enterprise generative AI platform that is proven, not promised, delivering real, measurable value to organizations worldwide. As a leader in enterprise-ready generative AI and graph solutions, Squirro specializes in semantic search, insights, and automation, transforming overwhelming volumes of data into clear, actionable ...",
+    "url": "https://squirro.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro | LinkedIn — Squirro エンタープライズサーチソフトウェア The Enterprise AI Platform Built for Regulated Industries Squirro is the enterprise AI platform built for regulated industries, streamlining enterprise search and automating complex, custom workflows.",
+    "url": "https://jp.linkedin.com/company/squirroag",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro Products — Squirro Documentation — May 8, 2025 · Chat: Squirro also offers a standalone generative AI product that can be used to conversationally interact with your own enterprise or website data. Learn more Search: Search enables users to quick...",
+    "url": "https://docs.squirro.com/en/latest/products/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro - LinkedIn — Founded in 2012, Squirro is a fast-growing company with dedicated teams in Switzerland, the United States, the UK, and Singapore.",
+    "url": "https://www.linkedin.com/company/squirroag",
+    "pass": 3
+   },
+   {
+    "quote": "squirro (Squirro) - Hugging Face — Squirro is a leading generative AI-enabled semantic search and insights cloud company for searching, analyzing, and interpreting unstructured data. With that, Squirro empowers organizations across the globe to transform enterprise data into AI-driven insights and tailored recommendations.",
+    "url": "https://huggingface.co/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing Case Study: 90%+ Accuracy | Squirro — How a global advanced manufacturing company reached accuracy above 90% on technical troubleshooting queries by co-optimizing five elements. Read the story.",
+    "url": "https://squirro.com/customers/advanced-manufacturing-ai-troubleshooting-accuracy",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro B2B Case Studies & Customer Successes — Squirro marries data from any source with your intent, and your context to intelligently augment decision-making - right when you need it! Every organization benefits from their scalable Insight Engine to unsilo, connect, and synthesize all data types and generate highly valuable information.",
+    "url": "https://www.casestudies.com/company/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "3 Squirro Case Studies, Success Stories, & Customer Stories — Squirro has a 4.8/5 star rating. Learn what their customers think, get 3 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/squirro/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens ONE Tech: Business Case for Squirro - LinkedIn — Feb 27, 2026 · Squirro helps Siemens Industry scale AI from pilots to production by combining LLM capabilities with enterprise governance (permissions, traceability, auditability) and explicit workflow structure ...",
+    "url": "https://www.linkedin.com/pulse/siemens-one-tech-business-case-squirro-robert-koch-ffame",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro Documentation — Squirro Documentation — Oct 8, 2026 · Reference information, code examples, and how-to guides for all Squirro technology and products, including Squirro Neo, the Squirro Insight Engine, Enterprise Search, and Squirro Chat.",
+    "url": "https://docs.squirro.com/en/latest/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Labels — Squirro Documentation — Aug 24, 2026 · Labels # This page explains labels, which are fields within an item that includes structured metadata which describes the item. Labels can be populated directly from the source of data (like a database record or an Excel spreadsheet), or can be added by an enrichment. Terminology Note # In the Squirro API, the term labels may vary depending on the co",
+    "url": "https://docs.squirro.com/en/latest/technical/data-loading/labels.html",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro Logo & Brand Assets (SVG, PNG and vector) - Brandfetch — Find the Squirro style guide with brand assets such as logos, colors, fonts, and more.",
+    "url": "https://brandfetch.com/squirro.com",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro Revenue 2024: $17.8M Est., $11.5M Raised - LATKA — Oct 29, 2026 · Squirro 2024 estimated revenue: $17.8M (up from $13M in 2023). Total funding: $11.5M across 2 rounds. 48 customers, 66 employees. Updated Oct 29, 2026.",
+    "url": "https://getlatka.com/companies/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro – Company Insights & Financial Strength – 2026 — Discover Squirro's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro 2026 Company Profile: Valuation, Funding & Investors ...Squirro - 2026 Company Profile, Team, Funding & Competitors ...Squirro: Funding, Team & Investors | Startup IntrosSquirro: Funding, Investors & Team (Oct 2026) | FundedIQSquirro - Crunchbase Company Profile & Funding — Squirro FAQs When was Squirro founded? Squirro was founded in 2009. Where is Squirro headquartered? Squirro is headqu",
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro - 2026 Company Profile, Team, Funding & Competitors ...Squirro: Funding, Team & Investors | Startup IntrosSquirro: Funding, Investors & Team (Oct 2026) | FundedIQSquirro - Crunchbase Company Profile & Funding — Mar 11, 2026 · Squirro is a series B company based in Zurich (Switzerland), founded in 2012 by Toni Birrer, Dorian Selz, Felix Hurlimann and Patrice Neff. It operates as a Cloud bas",
+    "url": "https://tracxn.com/d/companies/squirro/__aQCZkXHtmnOUsHvDBbF2FbrIlzFtBNO9SAApczQ0Hhs",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Squirro is a technology company. Squirro provides an enterprise generative AI platform, specializing in semantic search, insights, and automation. It transforms complex, unstructured data into actionable intelligence, leveraging augmented AI and knowledge graph management for precision. The platform delivers secure, private, and ",
+    "url": "https://startupintros.com/orgs/squirro",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Latest! AI Agent News July 22, 2026 Issue | OpenAI agents ... On July 20, Switzerland's Squirro officially launched a catalog featuring 13 ready-made AI agents for accounting, HR, legal, sales, and IT. The goal is to stop building from scratch every time. The second agent inherits the integration and review results of the first.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "최신! AI 에이전트 정보 2026년 7월 22일 자｜OpenAI 에이전트 주간 ... 스위스의 Squirro가 7월 20일, 경리·인사·법무·영업·IT용 기성 AI 에이전트 13종을 갖춘 카탈로그를 정식 출시했다. 목표는 '매번 처음부터 만드는 것'을 그만두는 것이다. 두 번째 에이전트는 첫 번째 에이전트의 연결 설정이나 심사 결과를 이어받는다.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Latest! AI Agent News July 22, 2026 Issue | OpenAI agents reach 10 million weekly users, Anthropic Deputy CISO's '4 questions before deployment', 58% of US government adopting but only 28% confident, a catalog of just 13 agents (Squirro), Kimi K3 too popular causing GPU shortage｜とあるITエンジニア | AIと仕事の仕組み化",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Latest! AI Agent News July 22, 2026 Issue | OpenAI agents reach 10 million weekly users, Anthropic Deputy CISO's '4 questions before deployment', 58% of US government adopting but only 28% confident, a catalog of just 13 agents (Squirro), Kimi K3 too popular causing GPU shortage",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "とあるITエンジニア | AIと仕事の仕組み化",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I explain this on YouTube",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Good morning. It is Wednesday morning, July 22nd. Today is a day for numbers. The number of people using OpenAI's agents has exceeded 10 million. And in the same week, a US government survey revealed that while adoption is progressing, there is a lack of confidence in operating them safely. As the numbers grow, so does the need for verification. Here are those 5 stories, delivered in the usual 3 m",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On July 21, OpenAI announced that the total number of users for its coding tool, Codex, and its general work assistant, ChatGPT Work, has reached 10 million. This is nearly double since the beginning of this month. On the same day, a support program for small and medium-sized enterprises also began.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jason Clinton, Deputy Chief Information Security Officer at Anthropic, published a guide for corporate security officers on July 17. From the perspective that the job is not to eliminate risk to zero, but to make it visible and contain it, he presents four questions to answer before deployment.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a survey published by Booz Allen on July 21, 58% of 105 US federal government IT and security personnel responded that they have already deployed or are testing AI agents, while only 28% said they have high confidence in being able to operate them safely.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "최신! AI 에이전트 정보 2026년 7월 22일 자｜OpenAI 에이전트 주간 사용자 1,000만 명, Anthropic 부CISO의 '도입 전 4가지 질문', 미 정부 도입률 58%이나 자신감은 28%, 13종을 선택하는 카탈로그(Squirro), Kimi K3 인기 폭발로 인한 GPU 부족｜とあるITエンジニア | AIと仕事の仕組み化",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "최신! AI 에이전트 정보 2026년 7월 22일 자｜OpenAI 에이전트 주간 사용자 1,000만 명, Anthropic 부CISO의 '도입 전 4가지 질문', 미 정부 도입률 58%이나 자신감은 28%, 13종을 선택하는 카탈로그(Squirro), Kimi K3 인기 폭발로 인한 GPU 부족",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "とあるITエンジニア | AIと仕事の仕組み化",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "안녕하세요. 7월 22일 수요일 아침입니다. 오늘은 숫자의 날입니다. OpenAI 에이전트를 사용하는 사람이 1,000만 명을 넘어섰습니다. 그리고 같은 주에 미 정부 조사에서 '도입은 진행되고 있으나 안전하게 운영할 자신은 없다'는 수치도 나왔습니다. 늘어난 만큼 확인해야 할 것도 늘어납니다. 그런 5가지 소식을 평소처럼 3분 안에 전해드립니다.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI는 7월 21일, 코딩용 Codex와 업무 전반을 맡기는 ChatGPT Work의 이용자가 합계 1,000만 명에 도달했다고 발표했다. 이달 초부터 거의 두 배가 되었다. 같은 날 중소기업 대상 지원 프로그램도 시작되었다.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic의 부최고정보보안책임자 제이슨 클린턴은 7월 17일, 기업 보안 담당자를 위한 지침을 공개했다. 위험을 제로로 만드는 것이 업무가 아니라, 가시화하고 관리하는 것이 업무라는 입장에서 도입 전 답해야 할 4가지 질문을 제시했다.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "Booz Allen이 7월 21일 발표한 조사에서 미 연방정부 IT·보안 담당자 105명 중 58%가 'AI 에이전트를 도입했거나 시험 중'이라고 답한 반면, 안전하게 운영할 자신감이 높다고 답한 사람은 28%에 그쳤다.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "스위스의 Squirro가 7월 20일, 경리·인사·법무·영업·IT용 기성 AI 에이전트 13종을 갖춘 카탈로그를 정식 출시했다. 목표는 '매번 처음부터 만드는 것'을 그만두는 것이다. 두 번째 에이전트는 첫 번째 에이전트의 연결 설정이나 심사 결과를 이어받는다.",
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Squirro (@Squirro) / X Trusted by Central Banks, Squirro is a leading Enterprise-Ready Generative AI provider for search, insights, and automation.",
+    "url": "https://x.com/squirro",
+    "pass": 3
+   },
+   {
+    "quote": "\"#Squirro\" - Results on X | Live Posts & Updates Results for \"#Squirro\" on X (Twitter). Find the latest posts, discussions, and updates about #Squirro. 20 results found.",
+    "url": "https://x.com/hashtag/Squirro",
+    "pass": 3
+   },
+   {
+    "quote": "Adil on X: \"Check out this quick demo of Squirro and its ... Check out this quick demo of Squirro and its generative AI capabilities! Always exciting to see new AI innovation in action 🚀 #ArtificialIntelligence #Squirro 28 Oct 2026 12:02:29",
+    "url": "https://x.com/Edenwoodfilm/status/2115413895297081423",
+    "pass": 3
+   },
+   {
+    "quote": "Adil on X: \"Witness the power of Squirro Generative AI in ... Witness the power of Squirro Generative AI in this quick demo! Innovation is moving at lightning speed, changing how we interact with data. 🚀 #GenerativeAI #Squirro",
+    "url": "https://x.com/Edenwoodfilm/status/2115279583003947157",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Squirro - LinkedIn Squirro | 14,840 followers on LinkedIn. The enterprise AI platform built for regulated industries, streamlining enterprise search & automating complex workflows | Accurate, Private, and Secure ...",
+    "url": "https://www.linkedin.com/company/squirroag",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro - LinkedIn Squirro | The Enterprise AI Platform Built for Regulated Industries Squirro is the enterprise AI platform built for regulated industries, streamlining enterprise search and automating complex ...",
+    "url": "https://www.linkedin.com/products/squirroag-squirro/",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro | LinkedIn Squirro | 14,846 followers on LinkedIn. The enterprise AI platform built for regulated industries, streamlining enterprise search & automating complex workflows | Accurate, Private, and Secure AI-Driven Enterprise Intelligence at Scale We are the enterprise AI platform built for regulated industries, streamlining enterprise search and automating complex, custom workflows. Secure",
+    "url": "https://in.linkedin.com/company/squirroag",
+    "pass": 3
+   },
+   {
+    "quote": "Squirro - LinkedIn Squirro | 14,821 followers on LinkedIn. The enterprise AI platform built for regulated industries, streamlining enterprise search & automating complex workflows | Accurate, Private, and Secure AI-Driven Enterprise Intelligence at Scale We are the enterprise AI platform built for regulated industries, streamlining enterprise search and automating complex, custom workflows. Secure",
+    "url": "https://sg.linkedin.com/company/squirroag/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Dr. Dorian Selz, CEO & Co-founder of Squirro | CXO Nexus Tour Mar 17, 2026 · Dr. Dorian Selz, CEO & Co-founder of Squirro | CXO Nexus Tour Meet our #AIInnovator: Dr. Dorian Selz, CEO & Co- founder of Squirro. 🚀 At the Worldwide CXO Nexus Tour, he shared how Alibaba Cloud's Cloud and AI ecosystem turns dispersed data into actionable intelligence, enabling secure and sovereign AI transformation at a",
+    "url": "https://www.facebook.com/alibabacloud/videos/dr-dorian-selz-ceo-co-founder-of-squirro-cxo-nexus-tour/928443589932917/",
+    "pass": 3
+   },
+   {
+    "quote": "Squirr Salon & Spa | Edapal - FacebookKMWorld - Dave Clarke @Squirro, walks through how to build ...Piaggio Squirro - FacebookSquirro Trading | Rajkot - FacebookJoin Chris Corrado, CEO Americas and President at Squirro, in ...Facebook SQUIRRO! 🌼 Squirr Salon & Spa wishes you and your loved ones a very Happy Onam! 🌸💛 May this Onam bring happiness, prosperity, togetherness, and countless beautiful m",
+    "url": "https://www.facebook.com/Squirrsalon/",
+    "pass": 3
+   },
+   {
+    "quote": "KMWorld - Dave Clarke @Squirro, walks through how to build ... Nov 13, 2025 · Dave Clarke @Squirro, walks through how to build, guardrail, and scale GenAI systems for real enterprise results. Don't miss it! Register to be there:...",
+    "url": "https://www.facebook.com/KMWorldMagazine/photos/dave-clarke-squirro-walks-through-how-to-build-guardrail-and-scale-genai-systems/1485694170222780/",
+    "pass": 3
+   },
+   {
+    "quote": "Piaggio Squirro - Facebook Jun 28, 2026 · Piaggio Squirro. 73 followers. Digital creator Dans cette vidéo drôle et absurde, une vache rêve de partir en Inde “car là-bas toutes les vaches sont sacrées”, tandis qu’un âne réplique que “ici, n’importe quel âne peut gouverner”. Une critique satirique et humoristique des politiciens, racontée avec le style humour macagne : absurde, décalé et typiquement",
+    "url": "https://www.facebook.com/p/Piaggio-Squirro-100079142527998/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://squirro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/data-classification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/industries/banking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/industries/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/industries/healthcare-and-life-sciences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/industries/telecom-and-utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/agent-catalog/portfolio-insight-agent-squirro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/incident-resolution-ai-augmented-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/document-intelligence-ai-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/automated-compliance-monitoring",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/smart-mro-predictive-maintenance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/ai-research-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/ai-for-financial-advisors-360-client-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://squirro.com/solutions/intelligent-document-processing-nigo-resolution",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://squirro.com/hs-fs/hubfs/Manufacturing-image-mos.webp?width=700&height=618&name=Manufacturing-image-mos.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://squirro.com/hubfs/WEBSITE/Logos/Customer%20logos/Logo-Henkel-1023%202.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://squirro.com/hubfs/Manu-Website_White%20Paper%20Banner.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://squirro.com/hubfs/predictive-vs-generative-ai-blog-header.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/182858/squirro-customer-insights",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eeai.tv/tools/squirro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/squirroag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://docs.squirro.com/en/latest/products/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/squirroag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/squirro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/squirro/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.squirro.com/en/latest/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.squirro.com/en/latest/technical/data-loading/labels.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/squirro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/squirro",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/53843-95",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/squirro/__aQCZkXHtmnOUsHvDBbF2FbrIlzFtBNO9SAApczQ0Hhs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/squirro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Squirro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Edenwoodfilm/status/2115413895297081423",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Edenwoodfilm/status/2115279583003947157",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/squirroag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/squirroag-squirro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/squirroag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/squirroag/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/alibabacloud/videos/dr-dorian-selz-ceo-co-founder-of-squirro-cxo-nexus-tour/928443589932917/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Squirrsalon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KMWorldMagazine/photos/dave-clarke-squirro-walks-through-how-to-build-guardrail-and-scale-genai-systems/1485694170222780/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Piaggio-Squirro-100079142527998/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/squirro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Edenwoodfilm/status/2115413895297081423",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Squirro 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/182858/squirro-customer-insights",
+    "https://squirro.com/news-and-events",
+    "https://eeai.tv/tools/squirro",
+    "https://squirro.com/",
+    "http://blog.zenoffice.co.jp/b2b-marketing/ビッグデータとaiを用いたcrmシステム「squirro」/",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://kuruma-news.jp/post/1131871"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Squirro 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://shiroru.jp/",
+    "https://www.giro-japan.com/",
+    "https://sugurushop.shop-pro.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Squirro Japan",
+   "results": [
+    "https://squirro.com/about",
+    "https://jp.linkedin.com/company/squirroag",
+    "https://docs.squirro.com/en/latest/products/index.html",
+    "https://www.linkedin.com/company/squirroag",
+    "https://huggingface.co/squirro",
+    "https://finance.yahoo.com/news/squirro-drives-almost-60-annual-122900628.html?fr=sycsrp_catchall",
+    "https://squirro.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Squirro manufacturing customer case study",
+   "results": [
+    "https://squirro.com/customers/advanced-manufacturing-ai-troubleshooting-accuracy",
+    "https://squirro.com/hubfs/case-studies/advanced-manufacturing-case-study-squirro.pdf",
+    "https://www.casestudies.com/company/squirro",
+    "https://www.featuredcustomers.com/vendor/squirro/case-studies",
+    "https://www.linkedin.com/pulse/siemens-one-tech-business-case-squirro-robert-koch-ffame",
+    "https://www.casestudies.com/company/squirro/case-study/how-brookson-used-squirro-insights-to-balance-clients-and-customer-service-teams-in-real-time",
+    "https://www.featuredcustomers.com/vendor/squirro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Squirro white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://docs.squirro.com/en/latest/index.html",
+    "https://docs.squirro.com/en/latest/technical/data-loading/labels.html",
+    "https://brandfetch.com/squirro.com",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Squirro founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/squirro",
+    "https://compworth.com/company/squirro",
+    "https://pitchbook.com/profiles/company/53843-95",
+    "https://tracxn.com/d/companies/squirro/__aQCZkXHtmnOUsHvDBbF2FbrIlzFtBNO9SAApczQ0Hhs",
+    "https://startupintros.com/orgs/squirro",
+    "https://fundediq.co/squirro-squirro-com-funding/",
+    "https://www.crunchbase.com/organization/squirro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Squirro",
+   "results": [
+    "https://note.com/vivid_quince2775/n/n458731472043?hl=en",
+    "https://note.com/vivid_quince2775/n/n458731472043?hl=ko",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/clever_hebe598/n/n5ec80ff9bf50",
+    "https://note.com/edutechnology/n/n6918b475fc4f",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/umaki11/n/nb3c1c063d0ed"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Squirro",
+   "results": [
+    "https://x.com/squirro",
+    "https://x.com/hashtag/Squirro",
+    "https://x.com/Edenwoodfilm/status/2115413895297081423",
+    "https://x.com/Edenwoodfilm/status/2115279583003947157",
+    "https://x.com/Edenwoodfilm/status/2115133525372424576",
+    "https://x.com/squirroFN/status/2088021759920398361",
+    "https://x.com/alibaba_cloud/status/2034099796882157650"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Squirro",
+   "results": [
+    "https://www.linkedin.com/company/squirroag",
+    "https://www.linkedin.com/products/squirroag-squirro/",
+    "https://in.linkedin.com/company/squirroag",
+    "https://sg.linkedin.com/company/squirroag/",
+    "https://uk.linkedin.com/in/david-clarke-3477a21",
+    "https://ch.linkedin.com/in/dselz",
+    "https://www.linkedin.com/in/conor-leddy-14114782"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Squirro",
+   "results": [
+    "https://www.facebook.com/alibabacloud/videos/dr-dorian-selz-ceo-co-founder-of-squirro-cxo-nexus-tour/928443589932917/",
+    "https://www.facebook.com/Squirrsalon/",
+    "https://www.facebook.com/KMWorldMagazine/photos/dave-clarke-squirro-walks-through-how-to-build-guardrail-and-scale-genai-systems/1485694170222780/",
+    "https://www.facebook.com/p/Piaggio-Squirro-100079142527998/",
+    "https://www.facebook.com/squirro.trading.9/",
+    "https://www.facebook.com/gsdventurestudios/videos/building-trust-in-generative-and-agentic-ai-for-the-enterprise/25922943147313603/",
+    "https://www.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Squirro note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://squirro.com/news-and-events/squirro-appoints-david-clarke-as-chief-executive-officer-and-dr.-dorian-selz-as-executive-deputy-chairman",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://tracxn.com/d/companies/squirro/__aQCZkXHtmnOUsHvDBbF2FbrIlzFtBNO9SAApczQ0Hhs",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.buildgroup.com/blog-posts/q-a-with-dorian-selz-founder-and-ceo-of-squirro",
+    "https://squirro.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Squirro X 投稿",
+   "results": [
+    "https://x.com/squirro",
+    "https://x.com/Edenwoodfilm/status/2115413895297081423",
+    "https://docs.squirro.com/en/latest/index.html",
+    "https://linktr.ee/squirro",
+    "https://www.instagram.com/squirro/",
+    "https://squirro.com/",
+    "https://x.com/Osikatu39g0/status/2119410671645491520"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

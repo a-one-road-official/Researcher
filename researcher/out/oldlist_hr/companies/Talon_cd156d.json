@@ -1,0 +1,1928 @@
+{
+ "name": "Talon",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T20:28:08.703666+00:00",
+ "official_url": "https://www.talon.one",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$3.4M",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "17-Feb-2017 $2M $2M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Go beyond basic discounts and one-size-fits-all rewards. Talon.One powers the world’s most advanced loyalty and promotion strategies, helping brands grow faster, delight customers, and maximize revenue.",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "No limits. No compromises. Talon.One gives you the flexibility and control to design, launch, and optimize incentives faster than any other platform on the market.",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise loyalty management",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond earn-and-burn. Build loyalty programs that engage customers at every touchpoint, and drive long-term, profitable growth.",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify even the most complex promotions and run them flawlessly at enterprise scale — online, in-store, and everywhere in between.",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized promotions",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Talon.One has transformed the way we launch and create personalized loyalty and promotions for our guests.\"",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Talon.One’s product is built in a way that’s open by design. It gives you peace of mind for the future - with Talon.One, you don’t have to be worried about tomorrow.\"",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to have gained a whole host of recognition in recent years,",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "Gartner's 2025 Market Guide for Loyalty Program Vendors",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "The report includes a breakdown of prominent vendors and their products, with Talon.One included as one of three example vendors.",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "IDC MarketScape Report for Retail Loyalty Software Providers 2024",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "WPP Enterprise Solutions & Talon.One - Solution Partners | Talon.One",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Talon.One and WPP Enterprise Solutions: Data-driven. Human-centered. Scaled for success.",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "AI Transformation, Loyalty Strategy, Martech Consulting Services, Braze Services, Marketing Operations, Experience Strategy, Experience Design, Change Management",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Talon.One's Promotion Engine allows you to meet your changing demand at all times with dedicated auto-scaling Kubernetes server clusters.",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Responsive. Scalable. Compatible. Our API-first approach ensures that your services and products are consistent throughout any platform and interface.",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our partner programs",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise loyalty management",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized promotions",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": ", the first program to turn rent, one of life’s biggest expenses, into a powerful driver of everyday rewards.",
+    "url": "https://www.talon.one/customers/bilt-rewards-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Bringing a program this dynamic to life requires more than vision. It takes a flexible, reliable platform like Talon.One to power every reward, campaign, and customer interaction behind the scenes.",
+    "url": "https://www.talon.one/customers/bilt-rewards-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise loyalty programs",
+    "url": "https://www.talon.one/customers/bilt-rewards-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Sephora has gamified its loyalty program with Talon.One, adding 2M new members along the way.",
+    "url": "https://www.talon.one/customers/bilt-rewards-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise loyalty management",
+    "url": "https://www.talon.one/customers/bilt-rewards-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized promotions",
+    "url": "https://www.talon.one/customers/bilt-rewards-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich customer experiences with automated promotions",
+    "url": "https://www.talon.one/technology-partners/braze",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging Promotions Within an Effective Cross-Channel Strategy",
+    "url": "https://www.talon.one/technology-partners/braze",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how cross-channel promotions drive sales and customer loyalty — explore key benefits and expert tips.",
+    "url": "https://www.talon.one/technology-partners/braze",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise loyalty management",
+    "url": "https://www.talon.one/technology-partners/braze",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized promotions",
+    "url": "https://www.talon.one/technology-partners/braze",
+    "pass": 1
+   },
+   {
+    "quote": "Talon.One for Shopify Enterprise & Plus",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Say goodbye to basic discounts and point-based loyalty. With Talon.One, Shopify merchants get the world's best loyalty programs, promotions, referrals and gamification, all in one elegant solution.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Average member growth for Talon.One-powered programs",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized promotions",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Replace blanket discounts with precise, profitable incentives that boost your brand and grow CLTV.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Higher ROI when shifting mass offers to personalized promotions",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise speed & scale",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proof your loyalty setup with scalable performance that grows with your brand.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized Promotions",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Run any imaginable offer — including complex bundles, advanced referral programs, and \"next time\" offers.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Work with customer data, segments, and behavioral triggers from any source to serve tailored, 1:1 promotions.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize governance with roles, permissions, and approval flows, tailored to any team or level.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise performance",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Built for global enterprises with 50 ms response times, >99.999% uptime, and billions of campaign evaluations per year.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "One program across web, app, and Shopify POS — real-time earn and redeem wherever customers engage.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "See why BioTechUSA — one of Europe’s fastest-growing health and wellness brands — chose Shopify and Talon.One to power its unified incentives, migrating over 1 million program members in just 2 months.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise loyalty management",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Talon.One for Adobe: Real-time loyalty & promotions at enterprise scale",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Average member growth in Talon.One programs",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Reward personalization that protects margin",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Higher ROI shifting mass offers to personalized promos",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise speed, scale & governance",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized Promotions & Incentives",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Speed, Scale & Governance",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Reward any customer behavior — purchases, engagement, advocacy, journey completions — with Talon.One’s rule engine built on Adobe’s real-time profiles and events.",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond earn-and-burn. Redeem points for member exclusives, early access, partner rewards, and challenges with enterprise-grade achievement logic and fulfillment.",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Turn Adobe Real-Time CDP profiles into more than personalized content. Activate audiences as dynamic promotions and rewards that execute instantly at checkout.",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Combine Adobe segmentation with Talon.One rules to target by value, affinity, and lifecycle — so high-value customers get recognition and margin stays protected.",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Adobe Journey Optimizer delivers the code; Talon.One handles unique generation, real-time validation, usage limits, redemption tracking, and fraud prevention.",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "trusted by the world's most ambitious brands",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world’s most ambitious brands",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world’s",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.talon.one/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.talon.one/industries/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "PLATFORM BUILT FOR TRAVEL & HOSPITALITY OPERATORS",
+    "url": "https://www.talon.one/industries/travel",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.talon.one/industries/travel",
+    "pass": 1
+   },
+   {
+    "quote": "Watch the full case study",
+    "url": "https://www.talon.one/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.talon.one/industries/on-demand",
+    "pass": 1
+   },
+   {
+    "quote": "We're thrilled to welcome our new customer, Adidas, one of the largest sportswear manufacturers in the world.",
+    "url": "https://www.talon.one/customers/adidas",
+    "pass": 1
+   },
+   {
+    "quote": "Data warehouse (Google BigQuery)",
+    "url": "https://www.talon.one/customers/dagrofa",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneer Manufacturing (Thailand)様",
+    "url": "https://talon.jp/about/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Manufacturing Sage X3 Customer Story | Inixion",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical Manufacturing",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Ingredient Manufacturers",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "From spreadsheets and guesswork to a connected, visible manufacturing operation",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Finance Director, Talon Manufacturing",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Manufacturing Ltd",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "has been at the forefront of British manufacturing for more than 40 years and is the UK’s leading manufacturer of pipe clips, fixings, fastenings, pipe seals and finishing products.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing from its facility in Gillingham, Kent, UK, Talon produces seven different styles of pipe clips alongside an extensive range of associated products, including the award-winning PipeSnug and FlueSnug airtight pipe sealing systems.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite its continued growth and manufacturing success, Talon was operating with outdated systems and heavily manual processes.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the biggest challenges existed between manufacturing and packing.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Excess inventory on the warehouse floor",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Production disruption caused by missing components and inaccurate stock assumptions",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Finding a partner that understood manufacturing",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "By that stage, Talon had already identified Sage X3 as its preferred ERP platform due to its scalability, SQL database structure, strong reporting capabilities and manufacturing functionality.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Following a series of discovery meetings, demonstrations and discussions, Talon selected Inixion as its partner, based on its manufacturing expertise, ability to understand unique complexities and practical approach to the project.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Says the Finance Director, Talon Manufacturing: “",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Talon team valued Inixion’s straightforward and consultative approach throughout the partner selection process. Rather than overcomplicating the project, Inixion focused on understanding Talon’s operational challenges, tailoring demonstrations around the business’s manufacturing processes, and clearly explaining the implementation methodology and timelines.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "across Talon’s finance, manufacturing, inventory, reporting and warehouse operations, creating a more connected and efficient business platform.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“Now we know what we’ve got on the warehouse floor being prepared for packing. Before, stock was effectively lost in tubs everywhere”,",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon also introduced live operational reporting from manufacturing machines. Previously, production volumes were counted manually during the day, but machine output is now visible almost immediately through Sage X3 reporting. This has improved operational visibility, reduced manual counting activity and provided more accurate production data across the factory floor.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "– Finance Director, Talon Manufacturing",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Since implementing Sage X3 with Inixion, Talon has significantly reduced manual administration, improved operational visibility and created a more efficient manufacturing environment.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The business has removed a major operational blind spot by introducing real-time visibility of work-in-progress inventory. Thousands of tubs containing partially completed products can now be tracked throughout the manufacturing process, helping Talon avoid overproduction, reduce unnecessary production runs and improve raw material planning.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Production teams now have access to live operational data from manufacturing machines, reducing reliance on manual counting and improving day-to-day decision-making across the factory floor.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Improved warehouse organisation and inventory control",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Manufacturing | Imprint Design",
+    "url": "https://imprintdesign.media/case-study/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Glass, Ceramics and Concrete Manufacturing",
+    "url": "https://www.casestudies.com/company/talon-storage",
+    "pass": 3
+   },
+   {
+    "quote": "Capita - Customer Case Study",
+    "url": "https://www.casestudies.com/company/talon-storage",
+    "pass": 3
+   },
+   {
+    "quote": "Cimpress N.V. - Customer Case Study",
+    "url": "https://www.casestudies.com/company/talon-storage",
+    "pass": 3
+   },
+   {
+    "quote": "Metromont Corporation - Customer Case Study",
+    "url": "https://www.casestudies.com/company/talon-storage",
+    "pass": 3
+   },
+   {
+    "quote": "Wayss & Freytag - Customer Case Study",
+    "url": "https://www.casestudies.com/company/talon-storage",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Go beyond basic discounts and one-size-fits-all rewards. Talon.One powers the world’s most advanced loyalty and promotion strategies, helping brands grow faster, delight customers, and maximize revenue.",
+    "url": "https://www.talon.one/",
+    "pass": 1
+   },
+   {
+    "quote": "use Talon.One to turn unified customer data into revenue-driving incentives — with real-time loyalty execution, personalized promotions, and enterprise governance across every channel, including in-store",
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "pass": 1
+   },
+   {
+    "quote": "Transform complex retail challenges into precise, revenue-driving strategies",
+    "url": "https://www.talon.one/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Transform complex retail challenges into precise, revenue-driving strategies",
+    "url": "https://www.talon.one/industries/qsr",
+    "pass": 1
+   },
+   {
+    "quote": "Drive ancillary revenue with timely upgrades, extensions, and partner perks",
+    "url": "https://www.talon.one/industries/travel",
+    "pass": 1
+   },
+   {
+    "quote": "Transform complex retail challenges into precise, revenue-driving strategies",
+    "url": "https://www.talon.one/industries/travel",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce Customer Acquisition Costs without sacrificing customer quality",
+    "url": "https://www.talon.one/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "\"We use Talon.One’s webhooks for our promotion campaigns, increasing our acquisition with features such referrals.\"",
+    "url": "https://www.talon.one/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Transform complex retail challenges into precise, revenue-driving strategies",
+    "url": "https://www.talon.one/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Transform complex retail challenges into precise, revenue-driving strategies",
+    "url": "https://www.talon.one/industries/on-demand",
+    "pass": 1
+   },
+   {
+    "quote": "The EE Store is part of EE’s broader strategy to deepen customer relationships and drive growth beyond mobile.",
+    "url": "https://www.talon.one/customers/ee-the-bt-group-",
+    "pass": 1
+   },
+   {
+    "quote": "registered a 17% increase in revenue in 2024, reaching over DKK 2.8 billion [approximately $430 million USD.] Digital sales now represent an impressive 33% of total business, driven by robust growth on its own platform and third-party delivery services.",
+    "url": "https://www.talon.one/customers/joe-and-the-juice",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent incentives that drive revenue, not just discounts",
+    "url": "https://www.talon.one/blog/talon-one-and-shopify-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Talon.One’s integration with Shopify removes these barriers and unlocks new levels of agility and performance.",
+    "url": "https://www.talon.one/blog/talon-one-and-shopify-integration",
+    "pass": 1
+   },
+   {
+    "quote": "TALONとは、株式会社HOIPOI様の提供するローコード開発ツール製品です",
+    "url": "https://www.khaithac-jp.com/services/lowcode.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、HOIPOI社が提供するローコード開発ツール「TALON」を活用し、",
+    "url": "https://www.khaithac-jp.com/services/lowcode.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dive into our wide array of articles & industry updates.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The Finance Director then began evaluating Sage X3 implementation partners, researching both UK and overseas providers before narrowing the shortlist down to Inixion and two other UK-based Sage X3 partners.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Sage X3 supports revenue growth of more than 200%",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by the Pine Services Group, Inixion is part of one of Sage’s largest global partner networks.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One Revenue 2024: $15M Est., $3.4M Raised",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One has not published its revenue. Owler puts it at about $15M a year (November 2024).",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One CEO, founders & employees",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Christoph Gerber founded Talon.One in 2015 and runs it as CEO. Talon.One had 217 employees (December 2024, LinkedIn), up from 181 a year earlier.",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "What is Talon.One's revenue?",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Owler estimates Talon.One's revenue at about",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Talon.One have?",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "9. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One has 320 total employees.",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "What is Talon.One’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Talon.One is",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "When was Talon.One acquired?",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One was acquired on 01-Jul-2026.",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Talon.One?",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One was acquired by",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "そこで最近注目されているのが「Revenue Orchestration」という考え方",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Learn more about our partner programs",
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Replace blanket discounts with precise, profitable incentives that boost your brand and grow CLTV.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proof your loyalty setup with scalable performance that grows with your brand.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Run any imaginable offer — including complex bundles, advanced referral programs, and \"next time\" offers.",
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our partner programs",
+    "url": "https://www.talon.one/solution-partners/accenture-song",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our partner programs",
+    "url": "https://www.talon.one/solution-partners/deloitte",
+    "pass": 1
+   },
+   {
+    "quote": "Launch referral programs that turn your fans into advocates",
+    "url": "https://www.talon.one/industries/e-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "The part most agencies get wrong.",
+    "url": "https://imprintdesign.media/case-study/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Our Service",
+    "url": "https://imprintdesign.media/case-study/talon-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "TALONとは、株式会社HOIPOI様の提供するローコード開発ツール製品です",
+    "url": "https://www.khaithac-jp.com/services/lowcode.html",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japan - 株式会社インバウンド・バズ",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japanは、日本旅行に特化した情報を発信するWEBメディア",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本旅行に関するあらゆる情報を網羅し、リアルタイムで最新情報を発信するグループ",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本旅行を計画している方や興味を持つ方々に直接リーチできます",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japanなら、日本旅行を計画中・関心のある130万人以上のタイ人ユーザーに直接アプローチ可能！訪日意欲の高いターゲット層へ、効果的に情報を届けられます",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japanでは、日本旅行を計画・実行するタイ人ユーザーに向けて、現地で使えるお得な割引クーポンを掲載することが可能です",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "月間約58万PVを誇るTalon JapanのWebサイトにて、貴社のターゲット層に向けた効果的なバナー広告を掲載できます",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japan にご興味・ご関心をお持ちの方は",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "通常のソフトウェア開発・導入は、特に日本国内では外部のソフトウェア開発企業に全て構築を依頼するか、パッケージソフトの導入が多い傾向があります",
+    "url": "https://talon.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例インタビュー掲載のお知らせ（東芝の新製品「Meister MES NEO」の開発基盤に採用されました）",
+    "url": "https://talon.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japan – Travel Articles & Coupons",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Attractions: Must-Visit Spots You Need to Experience at Least Once",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Recommended Prefectures of Japan",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Festivals Worth Visiting in September",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4-Day, 3-Night Tokyo Trip Plan Following the \"Kimochiii\" Show, By Reiko",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cow Brand Soap Review: A 100-Year-Old Japanese Soap Legend",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japan presents travel plans that will allow you to experience the charm of Japan!",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Cherry Blossom Trip: 2 Days 1 Night of Shopping, Popular Cafes, and Must-See Picnic Spots",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4-Day 3-Night Road Trip: Kanazawa, Fukui, Hikone — Tea House District and Japan's Heritage",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Gunma, Saitama, Ibaraki, Kanagawa, Chiba, Tochigi, Tokyo",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nara, Shiga, Mie, Wakayama, Kyoto, Osaka, Hyogo",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan-style Spots in Thailand",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tips for traveling in Japan",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop and Save at BIC CAMERA Japan, with Coupons of Up to 17% Off",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Save Up to 17% at EDION – Japan's Go-To Destination for Famous Electronics and Home Appliances",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Discount Coupon at Joshin – A Leading Electronics Destination in Japan",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What to Wear in Japan by Season: What to Pack and What to Buy There",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Spectacular Fireworks Festivals Across Japan",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Cute Animal Cafes in Tokyo: A Checklist for Animal Lovers",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Summer School Break: What Do Kids Do?",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Children everywhere look forward to the school break, and Japanese children are no exception. Summer in Japan tends to bring extremely hot weather, so schools and local authorit...",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Fruit Picking Guide: Strawberries, Grapes, Peaches, Apples All Year Round",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "If you're planning a trip to pick fruit in Japan in 2026, this article has everything you need — from the seasons of popular fruits like strawberries, peaches, melons, grapes, a...",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan 1 Day Pass: A Roundup of Travel Cards",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Train 1-Day Passes in Japan",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でいうと「ポイント管理サービス」や「クーポン配信ツール」の超上位互換みたいなイメージですね",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトには日本語対応の明記がなく、管理画面は英語の可能性が高い",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "ただし東京オフィスはないため、日本語でのサポートは期待しにくい",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "率直にいうと、日本のEC企業がすぐに導入するにはハードルがあります",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "日本のEC市場ではまだ知名度が低いですが、グローバルでは確実にスタンダードになりつつあるプラットフォームです",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Have Questions? Contact Us!",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "hello@imprintdesign.media",
+    "url": "https://imprintdesign.media/case-study/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "導入事例 - TALON — ローコード開発／超高速開発ツール「TALON」の事例紹介ページです。実際に導入した企業様がどのように活用しているかをご確認いただく事が出来ます。",
+    "url": "https://talon.jp/about/casestudy/",
+    "pass": 3
+   },
+   {
+    "quote": "導入パターン - TALON — ローコード開発／超高速開発ツール「TALON」を導入する際、4つのパターンからご用途にあった導入方式を選択できます。",
+    "url": "https://talon.jp/products/pattern/",
+    "pass": 3
+   },
+   {
+    "quote": "TALONローコード開発 | カイタックジャパン — 私たちは、HOIPOI社が提供するローコード開発ツール「TALON」を活用し、 企業のDXを力強く推進します。 システム開発の効率化と内製化を両立するTALONの力を最大限に引き出し、 企画・設計から開発、運用、社内導入支援まで、ワンストップでサポートします。",
+    "url": "https://www.khaithac-jp.com/services/lowcode.html",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japan - 株式会社インバウンド・バズ — 日本旅行に関するあらゆる情報を網羅し、リアルタイムで最新情報を発信するグループ。 日本旅行を計画している方や興味を持つ方々に直接リーチできます。 Talon Japanなら、日本旅行を計画中・関心のある130万人以上のタイ人ユーザーに直接アプローチ可能！",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社トーコー技研様、ローコード開発ツール「TALON」導入で複数シ... — Apr 22, 2025 · 日本ソフトウエア株式会社のプレスリリース（2025年4月22日 13時26分）株式会社トーコー技研様、ローコード開発ツール「TALON」導入で複数 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000031.000080710.html",
+    "pass": 3
+   },
+   {
+    "quote": "TALON | ローコード開発ツール — TALON PLATFORM 実績あるローコード基盤を、 AI時代 へ。 500社が使う業務システム基盤・ローコード開発ツール「TALON」を中核に、AI開発・データ活用・設計資産を次のステージへ引き上げる3つのプロダクトを展開しています。",
+    "url": "https://talon.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "LE TALON | ル タロン オフィシャルサイト — \"定番からトレンドまで、ファッション性と使いやすさを兼ねそろえたシューズ、バッグのブランド「LE TALON (ル タロン)」 オフィシャルサイト\"",
+    "url": "https://letalon.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japan – Travel Articles & Coupons — Discover Japan with Talon – travel articles, tips, regional guides, and discount coupons for Thai travelers.",
+    "url": "https://en.talonjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Japan - 株式会社インバウンド・バズ — Talon Japan限定 訪日旅行者向けクーポン掲載サービス Talon Japanでは、日本旅行を計画・実行するタイ人ユーザーに向けて、現地で使えるお得な割引クーポンを掲載することが可能です。 掲載されたクーポンは、ユーザーが来日前に保存し、実際の旅ナカ（旅行中）に活用してもらえるため、来店 ...",
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "LE TALON | ル タロン オフィシャルサイト — \"定番からトレンドまで、ファッション性と使いやすさを兼ねそろえたシューズ、バッグのブランド「LE TALON(ル タロン)」 オフィシャルサイト\"",
+    "url": "https://letalon.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "All Coupons | Talon Japan — Browse all travel coupons and discounts for Japan. Save the best deals and use them on your next trip.",
+    "url": "https://en.talonjapan.com/coupon",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Manufacturing Sage X3 Customer Story | Inixion — Discover how Talon Manufacturing improved production visibility, planning and reporting by replacing spreadsheets with Sage X3 ERP.",
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "A great case study. A productive partnership between Talon ... — Read the full customer story and discover how Talon transformed its manufacturing operations with Sage X3 https://lnkd.in/dSQHMCBs 1,572 followers 528 Posts",
+    "url": "https://www.linkedin.com/posts/kestilwell_a-great-case-study-a-productive-partnership-activity-7488864030065971200-C0nh",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Manufacturing | Imprint Design — Talon Manufacturing required a robust eCommerce transition to move away from a rigid, difficult-to-manage legacy platform. As a leader in their industry, they needed a WordPress-based solution that empowered their internal marketing team to take full control of their digital storefront. The objective was to showcase an extensive catalog of over 100 products w",
+    "url": "https://imprintdesign.media/case-study/talon-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Storage B2B Case Studies & Customer Successes — Talon, a leader in next generation software-defined storage solutions, enables enterprises to centralize and consolidate IT storage infrastructure, while bringing data closer to their users, enabling enterprise global file sharing and collaboration. This results in streamlined IT management and improved end user productivity.",
+    "url": "https://www.casestudies.com/company/talon-storage",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Talon Uses Software & Services — Explore case studies featuring Talon as the customer — learn how vendors and partners helped Talon solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/talon",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One Revenue 2024: $15M Est., $3.4M Raised - LATKA — Oct 30, 2026 · Talon.One 2024 estimated revenue: $15M (up from $6.3M in 2023). Total funding: $3.4M across 1 round. 217 employees. Founded 2015. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/talonone",
+    "pass": 3
+   },
+   {
+    "quote": "TALON - 2026 Company Profile, Team, Funding & Competitors ...Talon - 2026 Company Profile, Team, Funding, Competitors ...Talon.One 2026 Company Profile: Valuation, Investors ...Talon.One Profile 2026: Financials, AI Strategy & ComparisonTALON 2026 Company Profile: Valuation, Funding & Investors ...Talon Revenue 2024: $5M Est. ARR - getlatka.com — Feb 11, 2026 · TALON - About the company TALON is a",
+    "url": "https://tracxn.com/d/companies/talon/__-zKI29_9Ajwy5Ib9-yNphiTYxZrhqWX63CZZBWiGnKA",
+    "pass": 3
+   },
+   {
+    "quote": "Talon - 2026 Company Profile, Team, Funding, Competitors ...Talon.One 2026 Company Profile: Valuation, Investors ...Talon.One Profile 2026: Financials, AI Strategy & ComparisonTALON 2026 Company Profile: Valuation, Funding & Investors ...Talon Revenue 2024: $5M Est. ARR - getlatka.com — Feb 17, 2026 · Talon is a seed company based in London (United Kingdom), founded in 2013 by Eric Newnham. It ope",
+    "url": "https://tracxn.com/d/companies/talon/__bUkApmJ9Yt1CxSBe1LnQSZ-EGLimWl7qugJzbgm0dr8",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One 2026 Company Profile: Valuation, Investors ...Talon.One Profile 2026: Financials, AI Strategy & ComparisonTALON 2026 Company Profile: Valuation, Funding & Investors ...Talon Revenue 2024: $5M Est. ARR - getlatka.com — Information on acquisition, funding, cap tables, investors, and executives for Talon.One. Use the PitchBook Platform to explore the full profile. Explore Talon.One's latest",
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "pass": 3
+   },
+   {
+    "quote": "Talon.One Profile 2026: Financials, AI Strategy & Comparison — Explore Talon.One's latest 2026 profile: USD revenue, employees, and financials insights into Enterprise Loyalty Management, Offer Management & Execution, Personalized Promotions, Talon.One Predict. See how Talon.One compares to .",
+    "url": "https://dexteragent.ai/companies/talonone-1771828402",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【個人的レビュー】TALONGAMES 汎用丸形マウスソールを全種類買ってみ... Mar 24, 2024 · 大量のバリエーション TALONGAMES (以下:TALON)の アマゾン販売ページ を見てみると、このような画像と共に厚さ、滑らかさ、耐久性の紹介がされていました。 なんと 5種類 もバリエーション展開があるとのこと。 （しかもドーナツ型ソールも同じ数展開して ...",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "ジッパーの刻印で古着を読む｜TALON・CONMAR・YKKの見方｜べーやん｜... Dec 24, 2025 · TALON、CONMAR、YKKなど文字が読めるだけで情報が一気に整理できます。 YKKは公式の沿革が公開されていて、1934年創業（San-S Shokai）からの時系列を一次情報で追えます。 2つ目は形。 歯（エレメント）が金属か、樹脂のブロックか、コイル（樹脂のうねり）か。",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "マダラの鉤爪門/Talon Gates of Madara｜kazu1212 Oct 6, 2025 · Talon Gates of Madara / マダラの鉤爪門 土地 — 門 (Gate) マダラの鉤爪門が戦場に出たとき、クリーチャー最大1体を対象とする。それはフェイズ・アウトする。 (T)： ( )を加える。 (1), (T)：好きな色1色のマナ1点を加える。 (4)：あなたの手札にあるマダラの鉤爪門を戦場に出す。 中々トリッキーな ...",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "【Talon.One】$135M調達のロイヤルティ＆プロモーションエンジン、EC... Apr 6, 2026 · まとめ Talon.Oneは、プロモーションとロイヤルティプログラムを本格的に運用したいエンタープライズEC向けのツールです。 $135Mの資金調達、Shopify唯一のPremier Partner認定、270社以上の導入実績と、信頼性は申し分ありません。",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【個人的レビュー】TALONGAMES 汎用丸形マウスソールを全種類買ってみた【豊富なバリエーション】｜Ryota/リョウタ",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "【個人的レビュー】TALONGAMES 汎用丸形マウスソールを全種類買ってみた【豊富なバリエーション】",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "筆者は普段、丸型のソールであればEsports tigerのArc2、別売りソールとしてはCorepad Skatez Proを使っています。",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "しかし執筆時点ではArc2に関して国内の販売がほぼ無い状況。",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "マウスをすべりやすくする、底面に装着されているパーツ",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "TALONGAMES マウスソール 汎用 6mm 円形 マウスフィート 20PCS",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "その他にはギターピック型のソール剥がしツール、汚れ除去用のクリーニングツール、TALONGAMESオリジナルステッカーが同梱。",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "他社製品の場合、ステッカーやピックは無くただソールが入っているだけの事が多い為、",
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "pass": 3
+   },
+   {
+    "quote": "ジッパーの刻印で古着を読む｜TALON・CONMAR・YKKの見方｜べーやん｜会社員×古着屋店主の服にまつわる豆知識",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "ジッパーの刻印で古着を読む｜TALON・CONMAR・YKKの見方",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "べーやん｜会社員×古着屋店主の服にまつわる豆知識",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ、ジッパーを見ると判断しやすくなるのか",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "わずか数ミリの金属に刻まれた進化が、古着の歴史を物語る。",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "ファスナーは「古い部品」ではなく、いまも進化しています。",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばYKKは2025年、遠隔操作で開閉できる「自走式ファスナー」の試作機を公開し、5mの膜を約40秒で接合、シェルター同士を約50秒で連結する実証内容まで出しました。",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "同年には、薄い生地が噛み込みにくい「噛み込み軽減ファスナー（Snag-less）」を中国で開発・発売したことも発表しています。",
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "pass": 3
+   },
+   {
+    "quote": "マダラの鉤爪門/Talon Gates of Madara｜kazu1212",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "マダラの鉤爪門/Talon Gates of Madara",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Gates of Madara / マダラの鉤爪門",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "マダラの鉤爪門が戦場に出たとき、クリーチャー最大１体を対象とする。それはフェイズ・アウトする。",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "(１),(Ｔ)：好きな色１色のマナ１点を加える。",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "(４)：あなたの手札にあるマダラの鉤爪門を戦場に出す。",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "ドレノ様着地時のETBにスタックして、《輪作/Crop Rotation》や《エルフの開墾者/Elvish Reclaimer》などからサーチすることで、ドレノ様をフェイズ・アウトさせて定着させる事が可能（下図）",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "※ドレノ様は次の自分のアンタップステップの開始時にフェイズ・インします。",
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "pass": 3
+   },
+   {
+    "quote": "【Talon.One】$135M調達のロイヤルティ＆プロモーションエンジン、ECマーケター向けに解説｜石井オトヤ（ECマーケマニア）",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "【Talon.One】$135M調達のロイヤルティ＆プロモーションエンジン、ECマーケター向けに解説",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、ECマーケマニアの石井オトヤです。",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "今日はドイツ・ベルリンに拠点を置くスタートアップ企業Talon.One（タロンワン）をご紹介。ECサイトのクーポン、ポイント、ロイヤルティプログラム、キャッシュバックなどあらゆるインセンティブをAPIで統合管理できるプロモーションエンジンです。",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年7月: Silversmith Capital Partners、Meritech Capitalをリードに$135M（約200億円）の大型資金調達を実施。既存投資家CRVも参加（https://www.talon.one/blog/a-new-funding-round-to-power-the-future-of-enterprise-loyalty-and-promotions）",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年5月: Shopify Enterpriseとの公式統合を発表。エンタープライズ級のプロモーション＆ロイヤルティエンジンとしてShopify唯一のPremier Partnerに認定（https://www.businesswire.com/news/home/20250519077843/en/）",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年: Gartner Market Guide for Loyalty Program Vendorsに2年連続で掲載。G2ではLeader認定（Fall 2025）",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   },
+   {
+    "quote": "・2026年1月: Unified Incentives Protocolをアップデートし、エージェンティックコマース領域への展開を発表",
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TALON (@TALON_ESPORTS) / X TALON @TALON_ESPORTS Aug 12, 2025 We made it to the #VCTPacific Stage 2 Playoffs, and we’re teaming up with the #1 Mouse Brand @TeamRazer to celebrate with a Razer DeathAdder V3 Pro giveaway! 🎉🔥 How to join 👇: 📌 Follow @TALON_ESPORTS & @TeamRazer ️ Like + RT this post ️ Comment your favorite #FLIGHTCLUB Show more 605 547 927",
+    "url": "https://x.com/TALON_ESPORTS",
+    "pass": 3
+   },
+   {
+    "quote": "Talon (@TalonVGC) / X Pokemon VGC Commentator / Content Creator 4x Regional Champion, Top Cut Worlds 2025 (19th) he/him",
+    "url": "https://x.com/TalonVGC",
+    "pass": 3
+   },
+   {
+    "quote": "talon. (@talonprotocol) / X to the talon community: thank you. early, loud, growing fast. we see it. day 2 of the whitelist. 1,800+ applications. the numbers above are live. a few things, clearly. every application gets reviewed. in detail. by hand. when you applied means nothing. minute one or last",
+    "url": "https://x.com/TalonProtocol",
+    "pass": 3
+   },
+   {
+    "quote": "Talon (@Talonrtd) / X 5 4 608 Talon @Talonrtd 5h Text me on Telegram for more exclusive content, files and joining my private channels t.me/debaite",
+    "url": "https://x.com/Talonrtd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Talon (by Palo Alto Networks) - LinkedIn Talon transforms the browser into a secure workspace with the market’s most leading Enterprise Browsing Platform, which includes the Talon Enterprise Browser, Talon Extension, and Talon Mobile ...",
+    "url": "https://www.linkedin.com/company/talon-cyber-security/",
+    "pass": 3
+   },
+   {
+    "quote": "TALON - LinkedIn TALON | 4,553 followers on LinkedIn. Making Healthcare Make Sense By Restoring Price Signals, Accountability, and Choice | Healthcare is the largest consumer market in the U.S. that does not ...",
+    "url": "https://www.linkedin.com/company/mms-analytics-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Ofer Ben-Noon - CTO, SASE, Palo Alto Networks - LinkedInTalon - LinkedInSue Frogley - Global CEO, Talon | LinkedInTALON - LinkedInLionel Talon - Président Directeur Général du Groupe SFP ... CTO, SASE, Palo Alto Networks | CoFounder, Talon · Ofer is the SASE (Secure Access Service Edge) CTO at Palo Alto Networks. In this role, he spearheads secure access and networking innovation and the Enterpris",
+    "url": "https://il.linkedin.com/in/oferbennoon",
+    "pass": 3
+   },
+   {
+    "quote": "Talon - LinkedIn Talon is a pioneering independently owned, global Out of Home agency with offices in LDN, MCR, IRE, TO, NYC, TN, DUB, SIN, BE & NL 🇬🇧🇮🇪🇺🇸🇨🇦🇦🇪🇸🇬🇧🇪🇳🇱. We provide our clients with world class service, technology, and collaboration to create exceptional OOH campaigns that deliver measurable results. In our first 10 years, our desire to offer ...",
+    "url": "https://uk.linkedin.com/company/talon-outdoor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Talon - FacebookTALON - FacebookTalon Rods | Woodland WA - FacebookTalon Range & Tactical Outfitters | Midway FL - FacebookTALON ESPORTS | Hong Kong Hong Kong - FacebookPatrice Talon - FacebookLunar Dragon Entertainment - Facebook 2 days ago · Talon. 11,127 followers · 693 talking about this. Talon - The Best of Eagles 礪 . Est. 1997, Talon bring you incredible renditions of your favourite Eagles h",
+    "url": "https://www.facebook.com/TalonMusicUK/",
+    "pass": 3
+   },
+   {
+    "quote": "TALON - FacebookTalon Rods | Woodland WA - FacebookTalon Range & Tactical Outfitters | Midway FL - FacebookTALON ESPORTS | Hong Kong Hong Kong - FacebookPatrice Talon - FacebookLunar Dragon Entertainment - Facebook Sep 2, 2026 · TALON. 1,345 followers · 1 talking about this. TALON IS BACK!!! AFTER 30 YEARS!!! GERMAN HEAVY METAL!!! Oct 27, 2026 · Talon Rods, Woodland. 7,544 followers · 29 talking a",
+    "url": "https://www.facebook.com/TALONOFFICIAL/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Rods | Woodland WA - FacebookTalon Range & Tactical Outfitters | Midway FL - FacebookTALON ESPORTS | Hong Kong Hong Kong - FacebookPatrice Talon - FacebookLunar Dragon Entertainment - Facebook Oct 27, 2026 · Talon Rods, Woodland. 7,544 followers · 29 talking about this · 17 were here. Talon Rods - USA manufacturing. Created roots in 1979 and located Woodland, WA. Try it. Talon Range & Tactic",
+    "url": "https://www.facebook.com/Talonrods/",
+    "pass": 3
+   },
+   {
+    "quote": "Talon Range & Tactical Outfitters | Midway FL - FacebookTALON ESPORTS | Hong Kong Hong Kong - FacebookPatrice Talon - FacebookLunar Dragon Entertainment - Facebook Try it. Talon Range & Tactical Outfitters Charlie Strickland New hat styles in the store. Grab our newest hat patch and hats. Sales tax holiday is here in Florida for the rest of the year. This time it includes silencers and magazines o",
+    "url": "https://www.facebook.com/TalonRange/",
+    "pass": 3
+   },
+   {
+    "quote": "TALON-X - Facebook Dec 12, 2021 · TALON-X. 4,401 likes · 2 talking about this. Talon Esports 舉辦的激鬥峽谷: Icon Series 香港 與 特戰英豪 香港/台灣 挑戰賽之",
+    "url": "https://www.facebook.com/TalonEsportsX/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.talon.one/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/solution-partners/wpp-enterprise-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/customers/bilt-rewards-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/technology-partners/braze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/technology-partners/shopify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/technology-partners/adobe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/technology-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/solution-partners/accenture-song",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/solution-partners/deloitte",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/solution-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/industries/e-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/industries/qsr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/industries/travel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/industries/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/industries/on-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/customers/adidas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/customers/dagrofa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/customers/ee-the-bt-group-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/customers/joe-and-the-juice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talon.one/blog/talon-one-and-shopify-integration",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://a.storyblok.com/f/140059/1801x1800/f272ccce9b/hero_partners_braze_2026.webp/m/3602x0/filters:quality(90)",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://a.storyblok.com/f/140059/720x400/12e195887c/blog_shopify_partnership.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://talon.jp/about/casestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talon.jp/products/pattern/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.khaithac-jp.com/services/lowcode.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://talon.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://letalon.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Teyon_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.talonjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inboundbuzz.co.jp/talon-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://letalon.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inixion.com/customer-success/talon-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/kestilwell_a-great-case-study-a-productive-partnership-activity-7488864030065971200-C0nh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://imprintdesign.media/case-study/talon-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/talon-storage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dor.wa.gov/taxes-rates/retail-sales-tax/reseller-permits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/talonone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/talon/__-zKI29_9Ajwy5Ib9-yNphiTYxZrhqWX63CZZBWiGnKA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/talon/__bUkApmJ9Yt1CxSBe1LnQSZ-EGLimWl7qugJzbgm0dr8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/172922-32",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ryota_gg/n/n62381285895c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dreadnought/n/na485d7033a15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TALON_ESPORTS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalonVGC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalonProtocol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Talonrtd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/talon-cyber-security/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mms-analytics-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/oferbennoon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/talon-outdoor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TalonMusicUK/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TALONOFFICIAL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Talonrods/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TalonRange/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TALON_ESPORTS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalonProtocol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TalonEsportsX/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Talon 日本 導入",
+   "results": [
+    "https://talon.jp/about/casestudy/",
+    "https://talon.jp/products/pattern/",
+    "https://www.khaithac-jp.com/services/lowcode.html",
+    "https://inboundbuzz.co.jp/talon-japan/",
+    "https://prtimes.jp/main/html/rd/p/000000031.000080710.html",
+    "https://www.nsk-japan.co.jp/products/talon/",
+    "https://monstar-lab.com/jp_ja/work/talon-japan-cms-migration-renewal"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://talon.jp/",
+    "https://letalon.jp/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.clix.co.jp/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talon Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Teyon_Japan",
+    "https://en.talonjapan.com/",
+    "https://inboundbuzz.co.jp/talon-japan/",
+    "https://letalon.jp/",
+    "https://en.talonjapan.com/coupon",
+    "https://www.facebook.com/TalonJapan/",
+    "https://prtimes.jp/main/html/rd/p/000000314.000028382.html",
+    "https://talon.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Talon manufacturing customer case study",
+   "results": [
+    "https://inixion.com/customer-success/talon-manufacturing/",
+    "https://www.linkedin.com/posts/kestilwell_a-great-case-study-a-productive-partnership-activity-7488864030065971200-C0nh",
+    "https://imprintdesign.media/case-study/talon-manufacturing/",
+    "https://www.casestudies.com/company/talon-storage",
+    "https://www.casestudies.com/customer/talon",
+    "https://www.cdata.com/case-study/talon/",
+    "https://www.gspann.com/insights/case-study/99-percent-retention-talon-one-loyalty-system-transforms-b2b-cx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talon white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://dor.wa.gov/taxes-rates/retail-sales-tax/reseller-permits",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://resellercph.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talon founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/talonone",
+    "https://tracxn.com/d/companies/talon/__-zKI29_9Ajwy5Ib9-yNphiTYxZrhqWX63CZZBWiGnKA",
+    "https://tracxn.com/d/companies/talon/__bUkApmJ9Yt1CxSBe1LnQSZ-EGLimWl7qugJzbgm0dr8",
+    "https://pitchbook.com/profiles/company/172922-32",
+    "https://dexteragent.ai/companies/talonone-1771828402",
+    "https://pitchbook.com/profiles/company/126145-99",
+    "https://getlatka.com/companies/talon"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Talon",
+   "results": [
+    "https://note.com/ryota_gg/n/n62381285895c",
+    "https://note.com/foreg_lcr/n/n7d02e52b19fb",
+    "https://note.com/dreadnought/n/na485d7033a15",
+    "https://note.com/solvomind_ishii/n/n4a6311684f2a",
+    "https://note.com/darkpedia/n/nc83bb06afc2f",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Talon",
+   "results": [
+    "https://x.com/TALON_ESPORTS",
+    "https://x.com/TalonVGC",
+    "https://x.com/TalonProtocol",
+    "https://x.com/Talonrtd",
+    "https://x.com/DeployTalon",
+    "https://x.com/TalonMidnight",
+    "https://x.com/talonxbt"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Talon",
+   "results": [
+    "https://www.linkedin.com/company/talon-cyber-security/",
+    "https://www.linkedin.com/company/mms-analytics-inc-",
+    "https://il.linkedin.com/in/oferbennoon",
+    "https://uk.linkedin.com/company/talon-outdoor",
+    "https://uk.linkedin.com/in/suefrogley",
+    "https://hk.linkedin.com/company/talon-esports",
+    "https://bj.linkedin.com/in/lionel-talon-07228748"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Talon",
+   "results": [
+    "https://www.facebook.com/TalonMusicUK/",
+    "https://www.facebook.com/TALONOFFICIAL/",
+    "https://www.facebook.com/Talonrods/",
+    "https://www.facebook.com/TalonRange/",
+    "https://www.facebook.com/talonesports/",
+    "https://www.facebook.com/PatriceTalon.PR/",
+    "https://www.facebook.com/LDEntertainment17/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talon note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Talon X 投稿",
+   "results": [
+    "https://x.com/TALON_ESPORTS",
+    "https://x.com/TalonProtocol",
+    "https://ja.jinxxy.com/Talon__/posts",
+    "https://www.facebook.com/TalonEsportsX/",
+    "https://linktr.ee/talon.gg",
+    "https://x-sou.com/ja/u/TalonShade2/2087268074755948961",
+    "https://www.facebook.com/TalonEsportsX/posts/非常感謝所有投稿-ash-精華的粉絲今晚我們專業的-r6-選手-tomorrow-將會仔細觀看各位的投稿更多詳細資料都在連結裡喔-a-huge-thank-yo/109862324411185/",
+    "https://x-sou.com/ja/u/talonss_new/2119756729571479779"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部43頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部43頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部43頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部43頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部43頁・検索12回）"
+ }
+}

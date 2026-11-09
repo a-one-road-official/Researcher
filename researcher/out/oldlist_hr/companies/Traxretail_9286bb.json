@@ -1,0 +1,1085 @@
+{
+ "name": "Traxretail",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T20:21:18.541165+00:00",
+ "official_url": "https://www.traxretail.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Promotional Compliance",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get real-time visibility into pricing and promotional compliance across every store so your teams can close gaps faster and protect sales at scale.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Field Team Productivity",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain instant clarity on what’s happening in the field. AR-powered image recognition and Next Best Action guidance keep every store visit focused, consistent, and productive.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Product Distribution",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm your agreed SKUs are present and correctly ranged across every retail account, and act on real-time data before sales volume is impacted.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Strengthen every retailer conversation with image-verified shelf share, planogram compliance, and promotional execution data to negotiate better placement and more favorable terms.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve On-shelf Availability",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and resolve stockouts, voids, and distribution gaps as they happen, keeping your products available to shoppers in the moments that matter.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track Perfect Store Program Execution",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give HQ and field teams complete visibility into Perfect Store program conditions, gap identification, root causes, and action plans at the category, customer, and field level.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain full visibility into competitor presence, placement, and share of shelf across your retail footprint, so you can refine strategy and strengthen your category position.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A unified view of your Perfect Store program across all markets, with clear breakdowns by pillar, retailer, channel, and category.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trax analyzes in-store performance against Perfect Store KPIs and automatically surfaces a prioritized action list for every sales rep.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trax IR analyzes billions of shelf images to deliver real-time insights into on-shelf availability, share of shelf, pricing, and compliance.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Combined with FORM’s task management and workflow automation, teams can instantly prioritize actions, trigger tasks, and resolve in-store issues on-site—turning retail insights into measurable results.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced capabilities, including automated price detection, faster SKU onboarding, photo stitching, and editable planograms, deliver richer and more reliable data. Backed by one of the largest image recognition datasets in retail, we drive greater accuracy and continuous innovation across your brands and markets.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The unification of Trax and FORM brings together a world-class product and engineering organization with decades of CPG and retail experience.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With a global footprint and strong local expertise, we combine scale with deep category knowledge, delivering strategic guidance to deliver on your KPIS — wherever you operate.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FORM is the new home of Trax IR and the next evolution of retail execution. Discover how integrated retail intelligence and execution help you improve on-shelf availability, drive sales growth, and turn in-store data into a competitive advantage.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promotional Activation",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Mars Petcare, a leading CPG company, leveraged Trax’s powerful insights and data-driven solutions to measure compliance, improve product visibility and on-shelf availability (OSA), and power its retail operations across stores.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the world’s largest producers of beers and spirits with over 200 brands needed an efficient and scalable way to delight customers while providing profitable recommendations at the outlet level.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "GoGo SqueeZ used Trax Image Recognition and saw 11% increase in total points of distribution, 26% sales growth YoY, and 7% sales growth versus the period prior to using Trax.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Trax and Sanofi’s Perfect Store program are in over 30 countries and participating stores are growing at a rate that is 80 percent higher than other stores.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Molson Coors used Trax Retail Execution to unlock new KPIs, improve in-store execution and grow revenue.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A major brewery uses Trax to improve display execution and increase ROI from promotions.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "We use Trax fairly extensively, across over 35 markets now. We went from a very simple set of KPIs with very limited amount of brands to what I believe now is a fairly complex program.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Trax grants you access to an exceptional dashboard that offers unparalleled store-level visibility. Their cutting-edge technology provides us with deep insights and actionable data, empowering our brand to optimize performance and stay ahead of the competition.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "in outlets where the program was deployed",
+    "url": "https://traxretail.com/case-studies/leading-beverage-alcohol-company/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the world’s largest producers of beers and spirits with over 200 brands needed an efficient and scalable way to delight customers while providing profitable recommendations at the outlet level.",
+    "url": "https://traxretail.com/case-studies/leading-beverage-alcohol-company/",
+    "pass": 1
+   },
+   {
+    "quote": "With the help of Trax Image Recognition, their advanced analytics team was able to generate scorecards based on important KPI’s and provide targeted recommendations on how to improve each area. Not only did this information maximize growth for their business, but they were able to help their customers as well.",
+    "url": "https://traxretail.com/case-studies/leading-beverage-alcohol-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Trax acquired US-based Quri, a provider of crowdsourced data on in-store condition",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Announced the acquisition of China’s AI and big data service provider, LenzTech; US-based shopping rewards app, Shopkick; and European provider of image recognition services for retail execution, Planorama",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Launched Signal-Based Merchandising solution, a continuous, signal-driven approach to maximizing return on investment through SKU collection locations with the highest returns",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prado Norte 225, int. 201.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Research Now as CEO in 2016, Gary was Global Chief Data Officer of Wunderman and CEO of KBM Group, where he grew revenue 10x and operating profit 15x, on its way to becoming a global marketing services industry leader.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Trax, Regi served as the CFO of Metromile, Inc, a publicly traded auto insurance technology company. He was responsible for Metromile’s financial management, investor relations and corporate development. Regi helped lead the process to sell Metromile which resulted in its eventual acquisition by Lemonade, another publicly traded insurance technology company.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Karan Khanna is the Chief Technology Officer at Trax, responsible for leading global technology initiatives, overseeing product development, and driving innovation across the company’s engineering teams. With over two decades of experience in the tech industry, Karan has a proven track record of delivering top-tier software solutions and spearheading large-scale engineering projects.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Trax, Karan served as the Chief Technology Officer at Mediaocean, where he led a 400+ person engineering team across multiple continents. During his tenure, he played a pivotal role in integrating AI-driven solutions and transforming Mediaocean’s technology stack, leading to significant increases in productivity and agility.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Mediaocean, Karan co-founded 4C Insights and served as its Chief Technology Officer, where he grew the engineering team and developed a cloud-native ad tech platform used by major media agencies and brands. The platform contributed to the company’s impressive revenue growth, and 4C Insights was eventually acquired by Vista Equity Partners.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Karan has also held senior leadership roles at Salesforce, Amazon, and Microsoft, where he led various product and technology teams. At Amazon, he was part of the core team responsible for the exponential growth of the Kindle content business, and at Microsoft, he contributed to the development of key products like Microsoft Office, Works and CRM.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "David Gottlieb is the Chief Revenue Officer at Trax. David is tasked with ensuring Trax achieves its overall sales and revenue goals, and he works with teams around the world to prioritize markets and solutions that will drive business expansion.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to joining Trax, Kendra held various customer experience and leadership roles at Gusto, where she led teams of over 1,000 employees and drove technology enhancements and process improvements to increase customer satisfaction and operational efficiency at scale. Before her time at Gusto, Kendra served as the Senior Vice President of Global Operations at Western Union.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "In this role, she managed a global team of over 5,000 professionals, implementing innovative technologies and lean/six sigma methodologies to improve customer sentiment, retention, quality, and operational efficiency, as well as the employee experience. Kendra holds a Bachelor of Arts in Public Accounting and Music from Illinois Wesleyan University, graduating with honors.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, Marcus was the SVP of Transformation at Western Union where he led lean and agile centers of excellence to ensure efficient delivery of operational process improvements, customer experience and retention initiatives, and digital transformation, as well as leading change management, communications, and leadership development programs.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "More recently, Marcus has provided outside legal support for private equity mergers and acquisitions and has consulted on agile transformations for global companies.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Paulina Kadman is the Chief of Staff at Trax. Paulina is working with cross-functional operational and strategic projects.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to joining Trax, Paulina enjoyed a unique career being a serial entrepreneur in various fields across gastronomy, culture and fashion, combining her longstanding interest in emerging technologies. Paulina holds B.A. from Tel Aviv University.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Powered by leading technology and proprietary data, Trax connects brands, retailers and shoppers, setting the standard for retail excellence",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Launched Signal-Based Merchandising solution, a continuous, signal-driven approach to maximizing return on investment through SKU collection locations with the highest returns",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Launched Dynamic Merchandising, a first-of-its-kind enterprise-level service to address urgent store issues via an on-demand workforce",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired Survey.com, a provider of prescriptive sales activation and merchandising services",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Announced the acquisition of China’s AI and big data service provider, LenzTech; US-based shopping rewards app, Shopkick; and European provider of image recognition services for retail execution, Planorama",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Trax acquired US-based Quri, a provider of crowdsourced data on in-store condition",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re proud to have the backing of key investors supporting our vision for innovation and growth in retail.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Product and Technology Officer",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prado Norte 225, int. 201.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Research Now as CEO in 2016, Gary was Global Chief Data Officer of Wunderman and CEO of KBM Group, where he grew revenue 10x and operating profit 15x, on its way to becoming a global marketing services industry leader.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Advanced capabilities, including automated price detection, faster SKU onboarding, photo stitching, and editable planograms, deliver richer and more reliable data. Backed by one of the largest image recognition datasets in retail, we drive greater accuracy and continuous innovation across your brands and markets.",
+    "url": "https://traxretail.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Mediaocean, Karan co-founded 4C Insights and served as its Chief Technology Officer, where he grew the engineering team and developed a cloud-native ad tech platform used by major media agencies and brands. The platform contributed to the company’s impressive revenue growth, and 4C Insights was eventually acquired by Vista Equity Partners.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Mediaocean, Karan co-founded 4C Insights and served as its Chief Technology Officer, where he grew the engineering team and developed a cloud-native ad tech platform used by major media agencies and brands. The platform contributed to the company’s impressive revenue growth, and 4C Insights was eventually acquired by Vista Equity Partners.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Have a question for our media team? We’re happy to assist. Contact us at",
+    "url": "https://traxretail.com/get-in-touch/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Top Beverage Manufacturer",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Competitor insights from Trax allowed top beverage manufacturer to successfully increase store-level sales by 5% in 2 weeks.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Mediaocean, Karan co-founded 4C Insights and served as its Chief Technology Officer, where he grew the engineering team and developed a cloud-native ad tech platform used by major media agencies and brands. The platform contributed to the company’s impressive revenue growth, and 4C Insights was eventually acquired by Vista Equity Partners.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Mediaocean, Karan co-founded 4C Insights and served as its Chief Technology Officer, where he grew the engineering team and developed a cloud-native ad tech platform used by major media agencies and brands. The platform contributed to the company’s impressive revenue growth, and 4C Insights was eventually acquired by Vista Equity Partners.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Top Beverage Manufacturing Company achieves 5% store-level sales increase in 2 weeks with Trax Retail | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Top Beverage Manufacturing Company achieves 5% store-level sales increase in 2 weeks with Trax Retail",
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Top Beverage Manufacturing Company - Customer Case Study",
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Top Beverage Manufacturing Company",
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Molson Coors used Trax Retail Execution to unlock new KPIs, improve in-store execution and grow revenue.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "With Trax insights, Henkel optimized share-of-shelf and enabled sales reps to spend more time on revenue generation.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "With store-level actionable tasks delivered in real-time to each sales rep, this global brewer increased revenues by 8-16% in stores using Trax.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Trax acquired US-based Quri, a provider of crowdsourced data on in-store condition",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Announced the acquisition of China’s AI and big data service provider, LenzTech; US-based shopping rewards app, Shopkick; and European provider of image recognition services for retail execution, Planorama",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Research Now as CEO in 2016, Gary was Global Chief Data Officer of Wunderman and CEO of KBM Group, where he grew revenue 10x and operating profit 15x, on its way to becoming a global marketing services industry leader.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Trax, Regi served as the CFO of Metromile, Inc, a publicly traded auto insurance technology company. He was responsible for Metromile’s financial management, investor relations and corporate development. Regi helped lead the process to sell Metromile which resulted in its eventual acquisition by Lemonade, another publicly traded insurance technology company.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Expedia Group, Regi was head of strategy, mergers and acquisitions and business operations at LendingClub. Earlier in his career, he led teams advising financial services and travel firms on growth strategies at McKinsey & Company. He is also the Lead Independent Director and Chair of the M&A committee of Porch Group, a publicly traded home services vertical software company.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Mediaocean, Karan co-founded 4C Insights and served as its Chief Technology Officer, where he grew the engineering team and developed a cloud-native ad tech platform used by major media agencies and brands. The platform contributed to the company’s impressive revenue growth, and 4C Insights was eventually acquired by Vista Equity Partners.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Karan has also held senior leadership roles at Salesforce, Amazon, and Microsoft, where he led various product and technology teams. At Amazon, he was part of the core team responsible for the exponential growth of the Kindle content business, and at Microsoft, he contributed to the development of key products like Microsoft Office, Works and CRM.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "David Gottlieb is the Chief Revenue Officer at Trax. David is tasked with ensuring Trax achieves its overall sales and revenue goals, and he works with teams around the world to prioritize markets and solutions that will drive business expansion.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to joining Trax, Kendra held various customer experience and leadership roles at Gusto, where she led teams of over 1,000 employees and drove technology enhancements and process improvements to increase customer satisfaction and operational efficiency at scale. Before her time at Gusto, Kendra served as the Senior Vice President of Global Operations at Western Union.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "More recently, Marcus has provided outside legal support for private equity mergers and acquisitions and has consulted on agile transformations for global companies.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "As one of Trax’s earliest employees, Paulina has been instrumental in transforming Trax, growing from four people in her living room to the company it is today. During the last 10 years, Paulina drove Trax’s engagement with Fortune 500 consumer goods companies and retailers overseeing business development and partnership efforts to solidify Trax’s market-leading position.",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired Survey.com, a provider of prescriptive sales activation and merchandising services",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Announced the acquisition of China’s AI and big data service provider, LenzTech; US-based shopping rewards app, Shopkick; and European provider of image recognition services for retail execution, Planorama",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Trax acquired US-based Quri, a provider of crowdsourced data on in-store condition",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We are building global teams of amazing, brilliant minds who want to be a part of something big and innovative.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Research Now as CEO in 2016, Gary was Global Chief Data Officer of Wunderman and CEO of KBM Group, where he grew revenue 10x and operating profit 15x, on its way to becoming a global marketing services industry leader.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Trax, Regi served as the CFO of Metromile, Inc, a publicly traded auto insurance technology company. He was responsible for Metromile’s financial management, investor relations and corporate development. Regi helped lead the process to sell Metromile which resulted in its eventual acquisition by Lemonade, another publicly traded insurance technology company.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Expedia Group, Regi was head of strategy, mergers and acquisitions and business operations at LendingClub. Earlier in his career, he led teams advising financial services and travel firms on growth strategies at McKinsey & Company. He is also the Lead Independent Director and Chair of the M&A committee of Porch Group, a publicly traded home services vertical software company.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to Mediaocean, Karan co-founded 4C Insights and served as its Chief Technology Officer, where he grew the engineering team and developed a cloud-native ad tech platform used by major media agencies and brands. The platform contributed to the company’s impressive revenue growth, and 4C Insights was eventually acquired by Vista Equity Partners.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Karan has also held senior leadership roles at Salesforce, Amazon, and Microsoft, where he led various product and technology teams. At Amazon, he was part of the core team responsible for the exponential growth of the Kindle content business, and at Microsoft, he contributed to the development of key products like Microsoft Office, Works and CRM.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "David Gottlieb is the Chief Revenue Officer at Trax. David is tasked with ensuring Trax achieves its overall sales and revenue goals, and he works with teams around the world to prioritize markets and solutions that will drive business expansion.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to joining Trax, Kendra held various customer experience and leadership roles at Gusto, where she led teams of over 1,000 employees and drove technology enhancements and process improvements to increase customer satisfaction and operational efficiency at scale. Before her time at Gusto, Kendra served as the Senior Vice President of Global Operations at Western Union.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "More recently, Marcus has provided outside legal support for private equity mergers and acquisitions and has consulted on agile transformations for global companies.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "As one of Trax’s earliest employees, Paulina has been instrumental in transforming Trax, growing from four people in her living room to the company it is today. During the last 10 years, Paulina drove Trax’s engagement with Fortune 500 consumer goods companies and retailers overseeing business development and partnership efforts to solidify Trax’s market-leading position.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cloud-based Retail Management Solutions - Trax — Optimize shopper experiences, monitor and analyze insights, increase sales and simplify your retail business life with Trax retail management solutions.",
+    "url": "https://traxretail.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success, Case Studies & Testimonials - Trax Retail — Explore all the latest Trax customer success stories, case studies and testimonials and see why we’re trusted by more than 200 manufacturers & retailers.",
+    "url": "https://traxretail.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Trax Retailの概要：店舗分析と売上向上の支援 — トラックスは45か国以上でメーカーに技術と市場データを提供する小売向け画像認識の世界的リーダーです。",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "About Trax Retail — Trax is the world’s leader in image recognition for retail. Providing leading technology & market data services to manufacturers in over 45 countries.",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Trax Retail株式会社（東京都港区） 概要 - 企業情報 — Jul 26, 2019 · Trax Retail株式会社 （トラックスリテイル）は東京都港区にある企業です。法人番号は4010001202680、住所は東京都港区虎ノ門1丁目10番5号KDX虎ノ門一丁目ビルです。本店（主たる事務所）の所在地は東京都千代田区神田神保町2丁目11番15号から変更されました。この法人は2019年（令和元年）7月26日に ...",
+    "url": "https://data-link-plus.com/jp/corporation/4010001202680",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Beverage Alcohol Company - Case Studies - Trax Retail — View our case studies including Leading Beverage Alcohol Company along with other guides and resources at Trax Retail.",
+    "url": "https://traxretail.com/case-studies/leading-beverage-alcohol-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Top Beverage Manufacturing Company achieves 5% ... — Top Beverage Manufacturing Company (Manufacturing) partnered with Trax Retail (Information Technology and Services) to solve key challenges. \"Top Beverage Manufacturing Company - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Chosen Foods - Case Studies - Trax Retail — View our case studies including Chosen Foods along with other guides and resources at Trax Retail.",
+    "url": "http://unitycoding.com/index-766.html",
+    "pass": 3
+   },
+   {
+    "quote": "Trax - Crunchbase Company Profile & FundingRetail analytics Unicorn Trax targeting $3-3.5 billion Nasdaq ...Fishbrain: Funding, Team & Investors | Startup IntrosTrax Retail — Business Software | FinderTRAX - Overview, News & Similar companies | ZoomInfo.com — Trax provides in-store execution tools, market measurement services, and data science solutions for retail. Feb 8, 2022 · Trax expects to be",
+    "url": "https://www.crunchbase.com/organization/traxretail",
+    "pass": 3
+   },
+   {
+    "quote": "Trax Retail — Business Software | Finder — Company Overview Snapshot Founded in March 2010 by Joel Bar-El and Dror Feldheim, Trax Retail operates with over 800 employees. The company has raised over $1.01 billion across 10 funding rounds from 13 investors. In February 2026, Trax Retail was acquired by Form, marking a significant exit for the company. Business overview Trax Retail specializes in pr",
+    "url": "https://finder.startupnationcentral.org/company_page/trax-retail",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "東京都港区虎ノ門1-10-5, 11F",
+    "url": "https://traxretail.jp/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo 105-0001",
+    "url": "https://traxretail.com/company/about-us/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#TraxRetail\" - Results on X | Live Posts & Updates Results for \"#TraxRetail\" on X (Twitter). Find the latest posts, discussions, and updates about #TraxRetail. 20 results found.",
+    "url": "https://x.com/hashtag/TraxRetail",
+    "pass": 3
+   },
+   {
+    "quote": "Please join us in welcoming Karl Johnson as our new Chief ... Trax (@TraxRetail). Please join us in welcoming Karl Johnson as our new Chief Financial Officer and Debbie Simpson as Audit Committee Chair and Trax’s first independent board member.",
+    "url": "https://x.com/TraxRetail/status/1451216707717115913",
+    "pass": 3
+   },
+   {
+    "quote": "Trax Retail (@TraxRetail) Innovates with $50M Boost from ... Startup Scoop (@StartupScoop). 62 views. 💡 Trax Retail (@TraxRetail) Innovates with $50M Boost from Deutsche Bank! #RetailTech #FundingSuccess 💰 ⭐ Key Highlights: ️ Funding amount and round: \"$50 Million in venture debt investment\" ️ Lead investor: Deutsche Bank Private Credit & Infrastructure (@DeutscheBank) ️ Purpose: Enhance Signal-Ba",
+    "url": "https://x.com/StartupScoop/status/1724161731851640966",
+    "pass": 3
+   },
+   {
+    "quote": "Today, we’re proud to share our latest video and a letter to ... Trax (@TraxRetail). 6 likes. Today, we’re proud to share our latest video and a letter to the community from our CEO Justin Behar on how Trax's new vision and ...",
+    "url": "https://x.com/TraxRetail/status/1379060196325142531",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Trax Retail - LinkedIn Trax Retail | 43,193 followers on LinkedIn. Trax is the AI-powered image recognition platform that turns a photo of a store shelf into real-time, SKU-level insight — helping brands and retailers ...",
+    "url": "https://www.linkedin.com/company/trax-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Denis Goldshmidt - Account Director, Sales at Trax na Trax ...Joel Bar-El - Co-Founder & CEO @SwishBasket | LinkedInGeneral Manager, Latin America na empresa Trax Retail ...Trax Retail Jobs in Worldwide (30,000+ Open Roles) | LinkedInMarcus McCarty - Trax Ltd. | LinkedIn Account Director, Sales at Trax na Trax Retail · Experience has taught me that kickstarting change management in retail relies o",
+    "url": "https://br.linkedin.com/in/denis-goldshmidt",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Trax Retail | Boston MA - FacebookTraxretail - FacebookTrax Retail Solutions | Kellyville NSW - FacebookTrax Retail - Trax Mentioned as Leading Technology... | FacebookTrax Retail - Ready to take your retail ... - FacebookPowered by #IoT shelf-edge cameras, Trax Retail Watch helps ...Evaluate Trax Retail on AI Powered Asset Visibility Platforms Oct 8, 2024 · Trax Retail, Boston. 1,758 likes · 14 w",
+    "url": "https://www.facebook.com/TraxRetailTech/",
+    "pass": 3
+   },
+   {
+    "quote": "Traxretail - Facebook Traxretail - Facebook ... Traxretail",
+    "url": "https://www.facebook.com/Traxretail-101872088812812/",
+    "pass": 3
+   },
+   {
+    "quote": "Trax Retail Solutions | Kellyville NSW - FacebookTrax Retail - Trax Mentioned as Leading Technology... | FacebookTrax Retail - Ready to take your retail ... - FacebookPowered by #IoT shelf-edge cameras, Trax Retail Watch helps ...Evaluate Trax Retail on AI Powered Asset Visibility Platforms Trax Retail Solutions, Kellyville. 105 followers · 1 was here. Trax Retail Solutions are a Repairers & a Pre",
+    "url": "https://www.facebook.com/traxretail/",
+    "pass": 3
+   },
+   {
+    "quote": "Trax Retail - Trax Mentioned as Leading Technology... | Facebook Sep 1, 2014 · Trax Mentioned as Leading Technology Provider in Gartner Digital Business Report In Gartner's first detailed look at the retail image recognition sector, Trax was recognized as one of the leading...",
+    "url": "https://www.facebook.com/TraxRetailTech/posts/trax-mentioned-as-leading-technology-provider-in-gartner-digital-business-report/724130700993639/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://traxretail.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/get-in-touch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/case-studies/leading-beverage-alcohol-company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://traxretail.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9_(%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%B9%E3%83%88%E3%82%A2)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tre-x.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.jp/company/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/company/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://traxretail.com/case-studies/leading-beverage-alcohol-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://unitycoding.com/index-766.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/trax-technology-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/traxretail",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/fishbrain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3928955,00.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/TraxRetail",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TraxRetail/status/1451216707717115913",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/StartupScoop/status/1724161731851640966",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TraxRetail/status/1379060196325142531",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/trax-retail",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/in/denis-goldshmidt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TraxRetailTech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Traxretail-101872088812812/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/traxretail/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TraxRetailTech/posts/trax-mentioned-as-leading-technology-provider-in-gartner-digital-business-report/724130700993639/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Traxretail 日本 導入",
+   "results": [
+    "https://traxretail.jp/",
+    "https://traxretail.jp/technology/",
+    "https://traxretail.com/",
+    "https://traxretail.com/case-studies/",
+    "https://newspicks.com/news/4053936/",
+    "https://www.crunchbase.com/organization/traxretail",
+    "https://prtimes.jp/main/html/rd/p/000000006.000054989.html",
+    "https://israeru.jp/business/trax/",
+    "https://news.livedoor.com/article/detail/16759467/",
+    "https://news.3rd-in.co.jp/article/83e67788-75c5-11ef-ba51-9ca3ba083d71"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Traxretail 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ダイレックス_(ディスカウントストア)",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://tre-x.com/",
+    "https://traxretail.jp/",
+    "https://www.trex.co.jp/",
+    "https://www.traxintl.com/",
+    "https://traxretail.com/company/about-us/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Traxretail Japan",
+   "results": [
+    "https://traxretail.jp/",
+    "https://traxretail.jp/company/about-us/",
+    "https://traxretail.com/",
+    "https://traxretail.com/company/about-us/",
+    "https://data-link-plus.com/jp/corporation/4010001202680",
+    "https://compalyze.co.jp/company/4010001202680",
+    "https://jp.linkedin.com/company/trax-retail",
+    "https://traxretail.jp/solutions/trax-execution/",
+    "https://traxretail.jp/solutions/trax-data/",
+    "https://traxretail.jp/technology/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Traxretail manufacturing customer case study",
+   "results": [
+    "https://traxretail.com/case-studies/",
+    "https://traxretail.com/case-studies/leading-beverage-alcohol-company/",
+    "https://www.casestudies.com/company/trax-retail/case-study/top-beverage-manufacturing-company-customer-case-study",
+    "http://unitycoding.com/index-766.html",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.hcltech.com/case-study/hcltech-as-a-manufacturing-engineering-partner-drives-success-for-electric-vehicle-oem",
+    "https://www.microsoft.com/en-us/customers/",
+    "https://traxretail.com/resources_category/case-study/",
+    "https://www.casestudies.com/company/trax-retail/case-study/major-brewery-manufacturing-company-customer-case-study",
+    "https://www.casestudies.com/company/trax-retail/case-study/top-cleaning-products-manufacturing-company-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Traxretail white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://reseller.amazon.com/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Traxretail founded funding employees revenue",
+   "results": [
+    "https://www.cbinsights.com/company/trax-technology-solutions",
+    "https://www.crunchbase.com/organization/traxretail",
+    "https://startupintros.com/orgs/fishbrain",
+    "https://www.calcalistech.com/ctech/articles/0,7340,L-3928955,00.html",
+    "https://finder.startupnationcentral.org/company_page/trax-retail",
+    "https://www.zoominfo.com/c/trax/51232961",
+    "https://techcrunch.com/2021/04/07/singapore-based-retail-analytics-company-trax-raises-640m-series-e-led-by-softbank-vision-fund-2-and-blackrock/",
+    "https://tracxn.com/d/companies/trax/__C4sA3YyoK0tgGu-JsT956WADg9iBCv58McOLx2SrZ-M",
+    "https://pitchbook.com/profiles/company/58309-21",
+    "https://getlatka.com/companies/traxretail.com"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Traxretail",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/kakio_ja",
+    "https://note.com/kogolab",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://note.com/toregeto/n/n9c969209a909",
+    "https://note.com/tsutushi0628/n/nbeec7ce7ca10",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Traxretail",
+   "results": [
+    "https://x.com/hashtag/TraxRetail",
+    "https://x.com/TraxRetail/status/1451216707717115913",
+    "https://x.com/StartupScoop/status/1724161731851640966",
+    "https://x.com/TraxRetail/status/1379060196325142531",
+    "https://x.com/TraxRetail/status/1435241463600893952",
+    "https://x.com/TraxRetail/status/1438865420229005314",
+    "https://x.com/TraxRetail/status/1425456971143069701"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Traxretail",
+   "results": [
+    "https://www.linkedin.com/company/trax-retail",
+    "https://br.linkedin.com/in/denis-goldshmidt",
+    "https://il.linkedin.com/in/joel-bar-el",
+    "https://www.linkedin.com/in/marcus-mccarty",
+    "https://www.linkedin.com/jobs/trax-retail-jobs",
+    "https://www.linkedin.com/jobs/trax-retail-jobs-worldwide",
+    "https://br.linkedin.com/jobs/view/general-manager-latin-america-at-trax-retail-4472128320",
+    "https://www.linkedin.com/in/kendra-ricenbaw-cxo-coo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Traxretail",
+   "results": [
+    "https://www.facebook.com/TraxRetailTech/",
+    "https://www.facebook.com/Traxretail-101872088812812/",
+    "https://www.facebook.com/traxretail/",
+    "https://www.facebook.com/TraxRetailTech/posts/trax-mentioned-as-leading-technology-provider-in-gartner-digital-business-report/724130700993639/",
+    "https://www.facebook.com/TraxRetailTech/posts/-ready-to-take-your-retail-strategy-to-the-next-level-introducing-traxs-revoluti/752058916929416/",
+    "https://www.facebook.com/TraxRetailTech/videos/retail-transformation-starts-at-the-shelf-trax-at-nrf-2020/2413996855395141/",
+    "https://www.facebook.com/fb-answers/evaluate-the-retail-technology-company-trax-retail-on-ai-powered-asset-visibility-platforms/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Traxretail note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/i/trending/2046863236369465539",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.ug-inc.net/blog/sudanote",
+    "https://trial-holdings.inc/company/overview/",
+    "https://ja.wikipedia.org/wiki/エイベックス・ミュージック・クリエイティヴ",
+    "https://www.sanwa-shurui.co.jp/kojinote/",
+    "https://en.wikipedia.org/wiki/Trax_Retail"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Traxretail X 投稿",
+   "results": [
+    "https://www.google.com/",
+    "https://www.crunchbase.com/organization/traxretail",
+    "https://x.com/kimuratomo",
+    "https://traxretail.com/",
+    "https://app.traxsuite.com/",
+    "https://www.truxretail.com/",
+    "https://smartship2.tracxlogis.com/tracking",
+    "https://x.com/TraxRetail",
+    "https://traxretail.com/form/",
+    "https://rltrac.com/login/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

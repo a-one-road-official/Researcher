@@ -1,0 +1,2145 @@
+{
+ "name": "Vendasta",
+ "aliases": [],
+ "context": "旧営業リスト｜AI / Business Process Automation｜未接触",
+ "researched_at": "2026-11-09T20:21:54.385630+00:00",
+ "official_url": "https://www.vendasta.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email open tracking",
+    "value": "- Unlimited Unlimited Unlimited",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "label": "Email support",
+    "value": "",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "label": "Email open tracking",
+    "value": "-",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "label": "Email open tracking",
+    "value": "Unlimited",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$175.2M",
+    "url": "https://getlatka.com/companies/vendasta",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ Country",
+    "value": "",
+    "url": "https://multiples.vc/private-comps/vendasta",
+    "pass": 3
+   },
+   {
+    "label": "HQ City",
+    "value": "San Francisco, CA Boston, MA Los Angeles, CA Toronto",
+    "url": "https://multiples.vc/private-comps/vendasta",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Workforce for Agencies & Local Business Partners | Vendasta",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "leads, and book",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your AI Workforce",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answers instantly, books appointments, and increases profit margins by 15% or more.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protects reputation, responds automatically, and drives more reviews without manual work.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transcribes meetings, summarizes key insights, and provides actionable tips to convert more leads.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Social Media Manager",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creates consistent, on-brand content across web, blog, and social—automatically. No hiring. No editing.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Researches, writes, and publishes a new SEO-optimized article to your WordPress site every week.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 empathetic support via SMS & chat. Resolves issues using the HEARD framework and captures leads.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks visibility in ChatGPT, Gemini and Perplexity, keeps profiles and keywords current, and drafts website fixes.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nurtures prospects, engages leads across channels, and delivers personalized responses to boost conversions.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase profit margins by >30%",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to work across marketing, sales, and customer engagement so no lead is missed and work keeps moving 24/7. Powered by your business data, Vendasta replaces manual work, lowers operating costs with an",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", and turns one-time services into predictable,",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop juggling tools. Vendasta brings acquisition, conversion, and retention together—so the entire customer lifecycle runs from a single tab.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify marketing opportunities across listings, reviews, SEO, and social.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn visitors into leads 24/7 with real-time AI-powered engagement.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Send targeted campaigns to engage leads at the perfect moment.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prove impact with automatically delivered insights that show value.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previous 30 days",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Retention rate using Vendasta AI",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is an AI customer acquisition and engagement platform that combines proprietary business data, automation, and",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to help businesses attract, engage, and retain customers while reducing manual work across marketing, sales, and operations.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is an AI customer acquisition and engagement platform that delivers an AI workforce to help small businesses get more customers and keep them. It combines marketing, sales, and operational capabilities with AI employees that do the work — automating workflows, managing customer interactions, and turning data into action through one integrated, out-of-the-box platform.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is the AI platform for acquiring and keeping customers. We help businesses—and the partners who serve them—automate marketing, sales, and operations using real data and real AI. From single-location SMBs to global partnerships, our platform delivers what manual tools can’t: speed, scale, and results.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "From onboarding to growth, you’re backed by a team that understands what it takes to scale. You + us = incredible.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t hang our values on a wall. We live them. Every decision, every interaction, every line of code. This environment fosters learning and growth, uniting our diverse team in commitment to our mission. By forging strong relationships and solving meaningful problems, our culture drives us forward. At Vendasta, our values are not just words—they fuel our pursuit of excellence.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We didn’t start with a product. We started with a problem—millions of small businesses struggling to grow in a digital world. In 2008, we built our first tools to help them compete. Listings. Reviews. Social. Then we scaled. Fast. Agencies, MSPs, and franchises joined us to serve their clients under one brand.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "StepRep, a reputation management platform, is developed alongside MyFrontSteps. StepRep quickly gains popularity as a free tool, leading to the company's shift in focus.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "StepRep evolves into a white-label Reputation Management platform, generating the company's first revenue.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "VendAsta secures venture capital funding and introduces Social Marketing (now Social AI) and Marketing Services.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Listing Sync Pro, Marketing Services, and the Vendasta blog are launched. Vendasta is named to Canadian Business Magazine's Growth 500.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "VendastaCon is hosted in Austin, Texas, introducing the wholesale Marketplace, Concierge (now Task Manager), and Website Pro.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The Conquer Local Podcast is launched, and VendastaCon takes place in Banff, introducing Customer Voice and Advertising Intelligence.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "In January, Vendasta acquires MatchCraft, a leading global software company specializing in search, display, and social media advertising solutions for digital marketing agencies and resellers. In March, Vendasta acquires Yesware, integrating its sales enablement technology into the platform.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta appoints SurveyMonkey CEO Eric Johnson and Cloudflare CMO Brent Remai to its board as it accelerates its AI workforce vision for small businesses.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SocialPilot featured Vendasta as one of the top seven alternatives to Yext for businesses seeking efficient, AI-powered review and reputation management tools. The article highlighted Vendasta’s white-label platform, automated review generation, and sentiment analysis. Note that the pricing listed was incorrect, Vendasta offers a Starter plan at $89/month, making it more accessible than reported.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Forbes | Franchise Marketing in 2025: Digital Trends That Will Transform Your Strategy",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob McKay, President of McKay Advertising + Activation, outlines six digital marketing trends reshaping franchise strategies in 2025. From hyper-targeted media buying to AI-powered personalization, the article offers practical insights for franchisors and agencies...",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta serves small businesses and the partners that support them, including marketing agencies, media companies, franchisors, MSPs, and other organizations. Small businesses use Vendasta to get more customers and keep them, while partners use the platform to deliver customer acquisition and engagement solutions at scale.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "What problems does Vendasta solve?",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta solves the problem of fragmented tools, disconnected data, and manual work that make customer acquisition and engagement hard for small businesses. By unifying marketing, sales, and operational systems into one platform and applying AI employees to do the work, Vendasta reduces complexity, automates repetitive tasks, and helps businesses grow more efficiently.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is different because it doesn’t just connect tools — it uses AI employees and proprietary business data to do the work across customer acquisition, engagement, and operations. Instead of fragmented point solutions, Vendasta provides a single platform where small businesses and partners collaborate in real time using shared data, workflows, and AI-driven automation.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising Intelligence",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Social Media Manager",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is where smart people come to do the boldest work of their lives. Not optimize. Not iterate. Invent. We’re not hiring for roles. We’re hiring for revolution. This is your chance to shape how millions of businesses work. The AI revolution is here, and you are at the wheel.",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering & Product",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t optimize. We invent. Our engineers solve complex problems with speed and precision. This team powers the core infrastructure behind our AI platform, and ships product. Daily.",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time content generation systems",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "View Engineering & Product roles →",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta designers turn powerful AI into intuitive, beautiful tools people trust. We’re not pixel pushers or wrists for hire. This team drives adoption, action, and acceleration.",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end ownership from research to shipped product",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast prototyping and rapid iteration",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-functional teamwork with Product, Marketing, and Engineering",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t sell software. We help businesses hire their first AI employee, create incredible online experiences. And we stay close to make sure it works.",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner onboarding, education, and enablement",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Front-line feedback loop to product",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by 8.2 million local businesses.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 66,000+ channel partners serving more than 8+ million small and medium businesses",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategiest & Operators",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategists & Operators",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Built on 17 years of local business data, trusted by tens of thousands of resellers worldwide.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B & Manufacturing",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Vendasta, Dale founded a software consulting company that specialized in digital video diagnostics and processing. Customers included Time Warner Cable and his previous employer Vecima Networks. Dale earned a bachelor degree in Engineering Physics from the University of Saskatchewan in 2005 with a dual degree in Computer Science.",
+    "url": "https://www.vendasta.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Lee previously invested in A.L.I. Technologies, Blast Radius, ActiveState, Bycast, and remains active as an angel investor and Director in Pacific Bio-Energy, the leading manufacturer of wood pellet biomass fuel; and D-Wave Systems, developer of the first commercial quantum computer of which he is also Chair.",
+    "url": "https://www.vendasta.com/company/board/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/company/board/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/get-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/franchises/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/franchises/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/software-vendor/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/software-vendor/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/platform/multilocation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/platform/multilocation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/digital-agency-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/digital-agency-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/web-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/web-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/saas/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/saas/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/seo-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/seo-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/social-media-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/social-media-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the ecosystem trusted by 66,000+ partners worldwide.",
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "First Floor, Np28, near Puthiya thalaimurai, SIDCO, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032, India",
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical support situation adds another variable. While Vendasta offers resources including webinars, case studies, and developer documentation, the depth of support needed for complex implementations may exceed what’s readily available, especially for solo operators without technical backgrounds.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Parallel AI’s pricing model changes the calculation entirely. Starting with a free tier for testing, paid plans range from $40-$75/month for solo operators and small teams, with enterprise options for larger operations. White-label functionality is available immediately, not locked behind premium tiers.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "But solopreneurs often scale differently. Industry data suggests solo operators typically max out around 20 clients before hitting capacity constraints, not because they need more features but because they’ve exhausted available time. The growth strategy isn’t adding seats—it’s increasing automation efficiency and raising prices for premium services.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Parallel AI dominates the comparison when you’re operating as a solopreneur or micro-agency focused on AI automation services rather than comprehensive digital marketing. The platform is purpose-built for operators who:",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "But for solopreneurs and micro-agencies focused on AI automation as a core competency, Parallel AI eliminates the overhead that makes Vendasta problematic. The focused feature set, immediate white-label availability, multi-model AI access, rapid implementation timeline, and margin-friendly pricing align perfectly with how solo operators actually work and scale.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The most expensive mistake isn’t choosing the wrong platform—it’s choosing a platform optimized for someone else’s business model and spending months trying to force it to work for yours. Vendasta is brilliant technology solving real problems for a specific type of agency. Parallel AI is equally brilliant technology solving different problems for different operators.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "For solopreneurs and micro-agencies ready to launch AI automation services without enterprise overhead, Parallel AI removes the barriers between decision and revenue. The platform was built for operators who need to start delivering value this week, not next quarter. If that’s your reality, the choice becomes obvious.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "AI Workforce for Agencies & Local Business Partners | Vendasta",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our next live session and discover how top agencies are using AI to automate fulfillment and maximize margins.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", managed service providers (MSPs), and resellers looking to offer full-service digital solutions.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of rebrandable digital products and services you can offer to your clients.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike standalone tools like GoHighLevel, Vendasta goes further with a full-stack platform that unifies marketing, sales, operations, fulfillment, billing, and service — all powered by AI employees and connected data. It eliminates tool sprawl, simplifies daily work, and helps both agencies and SMBs deliver outcomes, not just manage tasks (see",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies, consultants, media companies, MSPs, and franchisors that serve SMBs.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 66,000+ channel partners serving more than 8+ million small and medium businesses",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We didn’t start with a product. We started with a problem—millions of small businesses struggling to grow in a digital world. In 2008, we built our first tools to help them compete. Listings. Reviews. Social. Then we scaled. Fast. Agencies, MSPs, and franchises joined us to serve their clients under one brand.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "StepRep evolves into a white-label Reputation Management platform, generating the company's first revenue.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The Company rebrands as Vendasta and earns a spot on the 'Deloitte Technology' Fast 50' list.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "VendastaCon is rebranded as the Conquer Local Conference in San Diego. Vendasta secures $40 million in growth funding its Marketplace, and moves to new headquarters.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "In January, Vendasta acquires MatchCraft, a leading global software company specializing in search, display, and social media advertising solutions for digital marketing agencies and resellers. In March, Vendasta acquires Yesware, integrating its sales enablement technology into the platform.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SocialPilot featured Vendasta as one of the top seven alternatives to Yext for businesses seeking efficient, AI-powered review and reputation management tools. The article highlighted Vendasta’s white-label platform, automated review generation, and sentiment analysis. Note that the pricing listed was incorrect, Vendasta offers a Starter plan at $89/month, making it more accessible than reported.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob McKay, President of McKay Advertising + Activation, outlines six digital marketing trends reshaping franchise strategies in 2025. From hyper-targeted media buying to AI-powered personalization, the article offers practical insights for franchisors and agencies...",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta serves small businesses and the partners that support them, including marketing agencies, media companies, franchisors, MSPs, and other organizations. Small businesses use Vendasta to get more customers and keep them, while partners use the platform to deliver customer acquisition and engagement solutions at scale.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic selling across agencies, franchises, and multi-locations",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI Partner Program for Agencies, ISVs & Franchises | Vendasta",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI partner program built to turn AI into your next recurring revenue stream",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta gives agencies, software vendors, and franchises an AI customer acquisition and engagement platform to sell as their own. Capture, engage, and retain customers across phone, web, SMS, and review channels, with margins that scale without headcount.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Most partner programs sell you software and walk away. You get a wholesale price, a brand kit, and a sales deck, but you still have to build the marketing, fulfillment, and AI capabilities your SMB customers actually want.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s partner program is different. We give you an all-in-one AI customer acquisition and engagement platform that runs the entire SMB customer journey, from first call to long-term retention. Every product we ship for SMBs becomes inventory you can resell, embed, or productize under your own brand. That’s the program.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta gives you an all-in-one AI customer acquisition and engagement platform to resell, embed, or productize under your brand.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s partner program turns the full AI customer acquisition stack into a catalog you can sell. Pick the inventory that fits your SMB customers today. Add the rest as demand grows, without rebuilding a single integration.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label AI software",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Resell Vendasta’s AI-powered platform under your brand. Custom domain, custom branding, your billing.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore AI white-label software →",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Fulfillment partners hire Vendasta’s services team to deliver listings, website, and social work under your brand. Resell with zero in-house lift.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Browse white-label services →",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "17 audience-specific entry points covering every reseller persona, from agency startups to multi-location franchise CMOs.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The economics of a Vendasta partner program",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Built on 17 years of local business data, trusted by tens of thousands of resellers worldwide.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Three audiences. One AI partner program.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you sell marketing services to local businesses, build SaaS for SMBs, or operate a multi-location franchise brand, the Vendasta partner program adapts to your go-to-market. Same platform, different starting point.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "For digital marketing agencies",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Your SMB customers want reputation management, Conversations AI, and CRM, but building multi-tenant infrastructure from scratch isn’t on the roadmap. Embed Vendasta’s white-label AI Workforce into your platform with standard REST APIs, SOC 2 compliance, and enterprise contract terms.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shipped white-label CRM in <9 months · $4.5M upsell engine · SaaS partner",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "For partners who want to sell more than software, Vendasta operates a white-label fulfillment layer. We deliver the work under your brand. You earn margin on every account without hiring or training a new team.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom content, scheduling, and engagement reporting, fully white-labeled.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Browse all white-label services →",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Vendasta compare to other partner programs?",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Most partner programs offer point solutions. Vendasta offers an integrated AI customer acquisition platform. Here’s how we stack up.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta AI Certified Partners are top marketing agencies with proven track records in delivering big results with Vendasta’s AI customer acquisition and engagement platform. Work with these experts to accelerate your business' growth.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified, AI-enhanced marketing platform (Ui.Marketing) and white-labeled expert team helping agencies plan, launch, and report on campaigns at scale.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "U.S.-based white-label partner that helps agencies sell fully custom and themed do-it-for-me WordPress websites as their own — with end-to-end fulfillment, content, imagery, and sales support.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your brand with Vendasta AI certification",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to take your Vendasta partnership to new heights? Become Vendasta AI Certified to earn big opportunities to reach new leads, build your network, and establish your brand at the forefront of implementing AI for small and medium-sized businesses.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Platform for Growing Digital Agencies",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta gives agencies the platform to resell AI-powered marketing products to SMBs so you scale revenue faster than costs. Expand your revenue stream, reduce operating expenses, and turn one-time service fees into recurring revenue.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s partner program",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": ", built for agencies at exactly this stage.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Why growing agencies build on Vendasta",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Clients will always ask for more. The fastest-growing agencies don’t say no — they expand intelligently. Vendasta’s Marketplace gives you access to proven software and fulfillment options you can offer under your brand, without hiring specialists or rebuilding your delivery model. You stay focused on strategy and relationships while expanding what you can confidently sell.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label fulfillment services for SEO, websites, ads, and content by trusted vendors like",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Each report pulls performance data into a single, client-ready view that highlights wins, uncovers gaps, and recommends the next products or services to deploy. When clients open the report, they’re drawn back into your branded portal, where value is reinforced and expansion opportunities are obvious.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta succeeds when our agency partners succeed",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your brand with Vendasta AI certification",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to take your Vendasta partnership to new heights? Become Vendasta AI Certified to earn big opportunities to reach new leads, build your network, and establish your brand at the forefront of implementing AI for small and medium-sized businesses.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "and B2C markets, honed through key roles at Chargebee, Box, and Microsoft, makes him an invaluable asset to Vendasta’s mission of empowering digital agencies and SMBs.",
+    "url": "https://www.vendasta.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Shakya Abeywickrama is Vendasta's VP and Divisional GM of white-label Marketing Services, one of North America's largest digital agencies. Focused on providing world-class service digital marketing offerings to local businesses, Shakya leads the division of five cross-functional teams with over 140 employees in website development,",
+    "url": "https://www.vendasta.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s AI Certified Partners are the marketing agencies, franchisors, and software vendors who have already built customer acquisition engines for thousands of local businesses using the same AI workforce you’ve been reading about.",
+    "url": "https://www.vendasta.com/get-customers/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Embed AI. Drive Revenue.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See all AI Employees →",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI employees that work like you — only faster. Tailored to your workflows, clients, and business.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop juggling tools. Vendasta brings acquisition, conversion, and retention together—so the entire customer lifecycle runs from a single tab.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Branded portal for clients to track results and manage AI employees.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is an AI customer acquisition and engagement platform that combines proprietary business data, automation, and",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", and keeping everything organized. With AI employees doing the repetitive work and unified data driving decisions, businesses can respond faster, close more deals, and reduce manual effort.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Vendasta is built to work right out of the box. AI employees handle much of the setup and execution for you, so you don’t need to build complex workflows or stitch tools together. Whether you’re an agency owner or an SMB, you can start seeing value quickly with very little lift.",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike standalone tools like GoHighLevel, Vendasta goes further with a full-stack platform that unifies marketing, sales, operations, fulfillment, billing, and service — all powered by AI employees and connected data. It eliminates tool sprawl, simplifies daily work, and helps both agencies and SMBs deliver outcomes, not just manage tasks (see",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is an AI customer acquisition and engagement platform that delivers an AI workforce to help small businesses get more customers and keep them. It combines marketing, sales, and operational capabilities with AI employees that do the work — automating workflows, managing customer interactions, and turning data into action through one integrated, out-of-the-box platform.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to be the #1 AI customer acquisition and engagement platform",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI employees help you attract, convert, and retain customers—without the complexity of managing it all manually.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Vendasta is the AI platform for customer acquisition and engagement. 66,000+ partners. 8.2 million SMBs. Billions in transactions, and we’re moving faster than ever.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "StepRep evolves into a white-label Reputation Management platform, generating the company's first revenue.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "VendAsta reaches 100 employees and launches its CRM Sales & Success Center.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SocialPilot featured Vendasta as one of the top seven alternatives to Yext for businesses seeking efficient, AI-powered review and reputation management tools. The article highlighted Vendasta’s white-label platform, automated review generation, and sentiment analysis. Note that the pricing listed was incorrect, Vendasta offers a Starter plan at $89/month, making it more accessible than reported.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta serves small businesses and the partners that support them, including marketing agencies, media companies, franchisors, MSPs, and other organizations. Small businesses use Vendasta to get more customers and keep them, while partners use the platform to deliver customer acquisition and engagement solutions at scale.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta solves the problem of fragmented tools, disconnected data, and manual work that make customer acquisition and engagement hard for small businesses. By unifying marketing, sales, and operational systems into one platform and applying AI employees to do the work, Vendasta reduces complexity, automates repetitive tasks, and helps businesses grow more efficiently.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta is different because it doesn’t just connect tools — it uses AI employees and proprietary business data to do the work across customer acquisition, engagement, and operations. Instead of fragmented point solutions, Vendasta provides a single platform where small businesses and partners collaborate in real time using shared data, workflows, and AI-driven automation.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "You can get started with Vendasta by requesting a demo or exploring the platform to see how its tools and AI employees help attract customers, streamline operations, and support long-term growth.",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to be the #1 customer acquisition and engagement platform",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI partner program built to turn AI into your next recurring revenue stream",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta gives agencies, software vendors, and franchises an AI customer acquisition and engagement platform to sell as their own. Capture, engage, and retain customers across phone, web, SMS, and review channels, with margins that scale without headcount.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s partner program is different. We give you an all-in-one AI customer acquisition and engagement platform that runs the entire SMB customer journey, from first call to long-term retention. Every product we ship for SMBs becomes inventory you can resell, embed, or productize under your own brand. That’s the program.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta gives you an all-in-one AI customer acquisition and engagement platform to resell, embed, or productize under your brand.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s partner program turns the full AI customer acquisition stack into a catalog you can sell. Pick the inventory that fits your SMB customers today. Add the rest as demand grows, without rebuilding a single integration.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Resell · AI Employees",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Package the AI Workforce (Receptionist, Reputation Specialist, Sales Assistant, etc.) as a managed service. Custom AI Employees included.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Resell · Customer Acquisition",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The full acquisition playbook plus the Snapshot Report sales tool. Use it to win SMB customers for your own business or for theirs.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "See the acquisition stack →",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-channel campaign builders, lead routing, and workflow automation. Bundle with AI Employees for end-to-end customer lifecycle delivery.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner revenue growth in 4 months",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Every new client you land means more fulfillment work, more headcount, and thinner margins — the treadmill speeds up even as revenue grows. Vendasta gives you a full AI-powered product catalog to resell and a platform to manage every client, so you can scale revenue without scaling your team.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "$1M Y1 revenue · 100% client retention · Blackfeather Digital",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Most partner programs offer point solutions. Vendasta offers an integrated AI customer acquisition platform. Here’s how we stack up.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "GoHighLevel is built for agencies running CRM and automations. Vendasta delivers the full AI customer acquisition platform with the AI workforce baked in.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "$1M revenue in year one · 100% client retention",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "2x revenue in 4 months · On track to 3x this year",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“We doubled our revenue in the last four months of the year. And in the first three months of this year, we’re already on track to triple that. These automations solved our immediate pain point. They also solved our future growth problem.”",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s partner program gives agencies, software vendors, and franchises an all-in-one AI customer acquisition and engagement platform to resell, embed, or productize under their own brand. Partners earn margin on every SMB account while Vendasta handles the platform, AI infrastructure, and ongoing updates.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Margins depend on packaging and pricing model, but featured partners hit $1M in year-one revenue (Blackfeather Digital) and $3M+ over three years (Gig Strategic), often at 98–100% client retention. Wholesale economics lets agencies scale revenue faster than headcount. See",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Certified Partners are agencies and consultancies trained to implement Vendasta’s AI Workforce for SMB customers. Certified Partners earn priority placement in the public directory, carry the AI Certified badge as a credibility signal, boost awareness through co-marketing, and get early access to Vendasta’s latest advancements.",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta’s strongest fit is mid-market agencies (11–50 employees, 20+ clients, recurring revenue model) reselling marketing services to local SMBs. The platform also supports software vendors (ISVs), multi-location franchises, MSPs, and media companies. There are 17 audience-specific solution pages covering each fit. See the",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta AI Certification is built for partners who want to specialize in AI implementation for SMBs. Beyond that, foundational platform certifications from Google and Meta remain relevant for tactical execution. The differentiator is showing SMBs you can deploy AI Employees, not just run ad campaigns. See the",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "With Vendasta Blueprint templates, partners start each new client from a setup built and tested for that client’s trade, instead of building the account by hand. Applying a Blueprint sets up the AI Employees, CRM pipeline and follow-ups in one step, for one account or every location. Partners can start from one of ready-made templates or save their own. See how",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta AI Certified Partners are top marketing agencies with proven track records in delivering big results with Vendasta’s AI customer acquisition and engagement platform. Work with these experts to accelerate your business' growth.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta Certified Vendor Partners sell products and services that enhance the results that can be achieved with Vendasta's AI customer acquisition and engagement platform. Add their offerings to your solution to supercharge its value.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue enablement agency that connects brand, marketing, and sales into one AI-powered growth system — built for health, home services, and professional services businesses across the U.S.",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendasta gives agencies the platform to resell AI-powered marketing products to SMBs so you scale revenue faster than costs. Expand your revenue stream, reduce operating expenses, and turn one-time service fees into recurring revenue.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow new revenue streams with Marketplace",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "and a unified inbox, every conversation, opportunity, and task flows through one place, powered by AI employees that work 24/7 on your behalf.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new revenue without building new teams",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "More revenue per client, less operational risk.",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.vendasta.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Shakya Abeywickrama is Vendasta's VP and Divisional GM of white-label Marketing Services, one of North America's largest digital agencies. Focused on providing world-class service digital marketing offerings to local businesses, Shakya leads the division of five cross-functional teams with over 140 employees in website development,",
+    "url": "https://www.vendasta.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Chris was most recently co-founder and CTO of WealthBar, one of Canada’s first robo-advisors, acquired by CI Financial. He is now the CTO for Nicola Wealth and advises their newly launched VC fund. Chris holds a B.Sc(Eng) and and M.Sc in Applied Math from Queen’s University.",
+    "url": "https://www.vendasta.com/company/board/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, Eric served as CEO of LaneOne, scaling the company from launch to more than $32 million in revenue, and advised leadership teams at companies such as Momentive and Yahoo. He also led the CNET Media Group at CBS Interactive, managing global teams and digital properties reaching 250 million monthly visitors. He is a Princeton graduate and is based in San Francisco.",
+    "url": "https://www.vendasta.com/company/board/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Get More Customers: AI Customer Acquisition | Vendasta",
+    "url": "https://www.vendasta.com/get-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How to get more customers with an AI customer acquisition platform",
+    "url": "https://www.vendasta.com/get-customers/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized email and SMS that keep customers coming back",
+    "url": "https://www.vendasta.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/company/board/",
+    "pass": 1
+   },
+   {
+    "quote": "What’s changed in the last 24 months is who runs that engine. Static brochure sites, voicemail, and contact forms used to be the default. Today, more than half of every new lead goes to the business that responds first — and the first responder is increasingly an AI employee.",
+    "url": "https://www.vendasta.com/get-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/get-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/franchises/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/software-vendor/",
+    "pass": 1
+   },
+   {
+    "quote": "Allows your clients to quickly add their customers and engage with them through actions like sending text messages or launching email campaigns. This CRM works seamlessly with various Vendasta Marketplace products, offering a cohesive and efficient experience for your clients.",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Let your clients customize triggers and actions to add a whole new level of ease to their daily operations. From starting email campaigns to product adoption to upsell opportunities, workflow automations in Business App saves your clients a whole lot of time.",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide each of your clients with an inbox that brings together messaging from Facebook, Instagram, email, and more.",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing automation email campaigns",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your multi-location clients with an inbox that brings together messaging from Facebook, Instagram, Google Maps, email, and more, for one, some, or all of their locations.",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Have a large number of clients? Select Vendasta products are available with volume-based discount pricing. Contact us to see which products and services are available, and to see how much you can save.",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Do meaningful email outreach at scale",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocks AI over web chat, Social, Email",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS text marketing. Stay connected with past customers and win more repeat business. Send professional email and text campaigns from one dashboard to promote offers, share updates, and keep your business top of mind.",
+    "url": "https://www.vendasta.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/platform/multilocation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/digital-agency-startup/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/web-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/saas/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/seo-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/social-media-agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated email marketing",
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Create personalized email campaigns with",
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "using smart data. Add engaging and relevant content directly from our platform’s repository of templates into any campaign. Automate the process and have the report emailed in seconds. Measure and optimize campaigns with detailed breakdowns of metrics such as open and click-through rates. Now you can understand how your marketing is performing without digging through dashboards for hours.",
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email marketing should be easy. Now, finally, it is.",
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Marketing",
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales reps were losing valuable time on CRM updates and follow-ups. They had to revisit call transcripts, log notes, and craft emails manually. To reduce that burden, Jacob implemented AI-powered Zap workflows.",
+    "url": "https://zapier.com/blog/vendasta-uses-automation-to-boost-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "A personalized follow-up email is drafted based on the conversation.",
+    "url": "https://zapier.com/blog/vendasta-uses-automation-to-boost-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll email you 1-2 times per week—and never share your information.",
+    "url": "https://zapier.com/blog/vendasta-uses-automation-to-boost-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "For HighLevel agencies specifically, Parallel AI offers documented integration patterns: calendar triggers launching content generation, new leads activating personalized email sequences, monthly reporting triggers generating AI-powered executive summaries. These pre-defined patterns let you deliver sophisticated automation without building from scratch.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Free onboarding includes content strategy, social and blog posts, 50 leads with email outreach, and an AI agent ready to go on your website.",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "CRM: contacts, email marketing, landing pages, forms, tasks, automated follow-up workflows, and a built-in AI assistant",
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Email marketing is one module within a broad suite",
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "It does one job, and does it simply: contacts, email marketing, landing pages and forms, automated follow-up workflows, tasks, and a built-in AI assistant that does the heavy lifting for your customers. It leaves out the reseller machinery — a products marketplace, fulfillment, billing, dozens of marketing services — that you'd only need if you were building a digital-services business.",
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Email is managed so it reaches the inbox",
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Sending email is easy; landing in the inbox is the hard part. If your customers rely on email follow-up, an email that lands in spam is worthless. We give every customer dedicated sending domains and actively manage deliverability, so their messages reach the inbox — where your brand looks good.",
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "date, email",
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Yesware is a sales enablement platform integrated with Gmail and Outlook. Installed over 1.2 million times, it provides email tracking, prospecting, meeting scheduling, and team analytics for small businesses and enterprises with up to 1,000-person teams. Clients including Yelp, Twitter, and Monday.com use it for revenue workflows.",
+    "url": "https://multiples.vc/private-comps/vendasta",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vendasta が自動化と AI で収益を1万ドル回復した方法 | Zapier — Vendasta が自動化と AI で収益を1万ドル回復した方法 | Zapier Zapier https://zapier.com > customer-stories > vendasta",
+    "url": "https://zapier.com/ja/customer-stories/vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Partner Program for Agencies, ISVs & Franchises — The AI Partner Program for Agencies, ISVs & Franchises Vendasta https://www.vendasta.com > partners",
+    "url": "https://www.vendasta.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta : AI Workforce for Agencies & Local Business Partners — Vendasta : AI Workforce for Agencies & Local Business Partners Vendasta https://www.vendasta.com",
+    "url": "https://www.vendasta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に Vendasta を使っている人はいますか？ : r/DigitalMarketing — 実際に Vendasta を使っている人はいますか？ : r/DigitalMarketing Reddit https://www.reddit.com > anyone_actually_use_vendasta",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1mqgvdq/anyone_actually_use_vendasta/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "We.Inc と Vendasta を比較（2026年版）どちらが最適？ — We.Inc と Vendasta を比較（2026年版）どちらが最適？ Website Inc https://we.inc > ホーム > 比較",
+    "url": "https://we.inc/ja/compare/vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta - LinkedIn — Vendasta - LinkedIn LinkedIn India https://in.linkedin.com > vendasta",
+    "url": "https://in.linkedin.com/company/vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta : Why Platforms Must Evolve For AI Agents - Forrester — Vendasta : Why Platforms Must Evolve For AI Agents - Forrester Forrester https://www.forrester.com > blogs > v...",
+    "url": "https://www.forrester.com/blogs/vendasta-shows-why-platforms-become-operating-systems-for-ai-agents/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta Technologies (@ vendasta ) · Saskatoon, SK — Vendasta Technologies (@ vendasta ) · Saskatoon, SK Instagram https://www.instagram.com > vendasta",
+    "url": "https://www.instagram.com/vendasta/",
+    "pass": 3
+   },
+   {
+    "quote": "Read Customer Service Reviews of www. vendasta .com — Read Customer Service Reviews of www. vendasta .com Trustpilot https://ca.trustpilot.com > review > w...",
+    "url": "https://ca.trustpilot.com/review/www.vendasta.com",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Vendasta — Case Studies - Vendasta Vendasta https://www.vendasta.com > case-stud...",
+    "url": "https://www.vendasta.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How Vendasta recovered $1M in revenue with Zapier and AI — How Vendasta recovered $1M in revenue with Zapier and AI Zapier https://zapier.com > blog > vendasta-...",
+    "url": "https://zapier.com/blog/vendasta-uses-automation-to-boost-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "Anyone have experience with Vendasta ? : r/DigitalMarketing — Anyone have experience with Vendasta ? : r/DigitalMarketing Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1aq0gnt/anyone_have_experience_with_vendasta/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Workforce Demo | Vendasta - YouTube — AI Workforce Demo | Vendasta - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=HoKW2GDnaws",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label Web Design & Fulfillment Services - Vendasta — White - Label Web Design & Fulfillment Services - Vendasta Vendasta https://www.vendasta.com > website",
+    "url": "https://www.vendasta.com/services/website/",
+    "pass": 3
+   },
+   {
+    "quote": "White - label strategies and insights | Vendasta Blog — White - label strategies and insights | Vendasta Blog Vendasta https://www.vendasta.com > Blog",
+    "url": "https://www.vendasta.com/blog/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta vs Parallel AI: Which White - Label Platform Actually ... — Vendasta vs Parallel AI: Which White - Label Platform Actually ... parallellabs.app https://parallellabs.app > vendasta-vs-...",
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta vs. WhiteLabelCRM.com by AllClients — Vendasta vs. WhiteLabelCRM.com by AllClients whitelabelcrm.com https://whitelabelcrm.com > vs-vendasta",
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta Partner Program (2026) - xAmplify — Vendasta Partner Program (2026) - xAmplify xamplify.com https://xamplify.com > vendasta",
+    "url": "https://xamplify.com/partner-programs/vendasta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta Revenue 2024: $92.9M Est., $175.2M Raised — Vendasta Revenue 2024: $92.9M Est., $175.2M Raised GetLatka https://getlatka.com > vendasta",
+    "url": "https://getlatka.com/companies/vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Empowering Companies Serving Local Business - Vendasta — Empowering Companies Serving Local Business - Vendasta Vendasta https://www.vendasta.com > company",
+    "url": "https://www.vendasta.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta - 2026 Company Profile & Team - Tracxn — Vendasta - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/vendasta/__Y43B7As80xp4SklLvXu1X2BSq59HrgzIh5HU2Vbvyh0",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta Funding , Investors & Competitors - Multiples.vc — Vendasta Funding , Investors & Competitors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta's Competitors, Revenue , Number of Employees ... — Vendasta's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > vendasta",
+    "url": "https://www.owler.com/company/vendasta",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "CMS、SEOツール、ご自身のStripeを使うEC機能、代理店向けのホワイトラベルプログラムも備えています",
+    "url": "https://we.inc/ja/compare/vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "We.Inc vs Lovable（2026年）：代理店向けの率直な比較",
+    "url": "https://we.inc/ja/compare/vendasta",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vendasta - X Vendasta - X X https://x.com > Vendasta",
+    "url": "https://x.com/Vendasta",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vendasta - LinkedIn Vendasta - LinkedIn LinkedIn https://ca.linkedin.com > vendasta",
+    "url": "https://ca.linkedin.com/company/vendasta",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta India | LinkedIn Vendasta India | LinkedIn LinkedIn India https://in.linkedin.com > vendasta-india",
+    "url": "https://in.linkedin.com/showcase/vendasta-india/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta Yesware - LinkedIn Vendasta Yesware - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/vendasta-yesware/",
+    "pass": 3
+   },
+   {
+    "quote": "Brendan King - Co-Founder & CEO, Vendasta | Building the AI ... Brendan King - Co-Founder & CEO, Vendasta | Building the AI ... LinkedIn https://ca.linkedin.com > brendanking",
+    "url": "https://ca.linkedin.com/in/brendanking",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Vendasta | Saskatoon SK - Facebook Vendasta | Saskatoon SK - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/vendasta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta Official Community | Facebook Vendasta Official Community | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/vendasta/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta (@ vendasta ) - About | Facebook Vendasta (@ vendasta ) - About | Facebook Facebook https://www.facebook.com > ... > Vendasta",
+    "url": "https://www.facebook.com/vendasta/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendasta - 🗞️ PRESS RELEASE 🗞️ Setup is the most... Vendasta - 🗞️ PRESS RELEASE 🗞️ Setup is the most... Facebook https://www.facebook.com > vendasta > photos",
+    "url": "https://www.facebook.com/vendasta/photos/1568033682032931/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.vendasta.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/vendasta-ai-certified-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/mid-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/company/leadership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/company/board/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/get-customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/franchises/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/software-vendor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/platform/multilocation-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/digital-agency-startup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/web-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/saas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/seo-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/social-media-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/solutions/marketing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.vendasta.com/wp-content/uploads/2026/08/Certified-Partners-hero-img.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.vendasta.com/wp-content/uploads/2026/08/vendasta-partners-vendors.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.vendasta.com/wp-content/uploads/2025/05/engage-customers.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.vendasta.com/wp-content/uploads/2025/07/multilocation-company-logos.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://zapier.com/ja/customer-stories/vendasta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vinx.co.jp/blog/teclist/Masanori%20Takeuchi/entry-1460.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mobilitydx.go.jp/event/pdf/ev05_05pdf_ito.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1mqgvdq/anyone_actually_use_vendasta/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://we.inc/ja/compare/vendasta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/vendasta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.forrester.com/blogs/vendasta-shows-why-platforms-become-operating-systems-for-ai-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/vendasta/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.forrester.com/blogs/vendasta-shows-why-platforms-become-operating-systems-for-ai-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zapier.com/blog/vendasta-uses-automation-to-boost-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DigitalMarketing/comments/1aq0gnt/anyone_have_experience_with_vendasta/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelcrm.com/vs-vendasta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/vendasta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/vendasta/__Y43B7As80xp4SklLvXu1X2BSq59HrgzIh5HU2Vbvyh0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://multiples.vc/private-comps/vendasta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Vendasta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/vendasta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/showcase/vendasta-india/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/vendasta-yesware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/brendanking",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vendasta/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/vendasta/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vendasta/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vendasta/photos/1568033682032931/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vendasta 日本 導入",
+   "results": [
+    "https://zapier.com/ja/customer-stories/vendasta",
+    "https://www.stellantis.jp/",
+    "https://www.vinx.co.jp/blog/teclist/Masanori%20Takeuchi/entry-1460.html",
+    "https://www.mobilitydx.go.jp/event/pdf/ev05_05pdf_ito.pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://techblitz.com/expert-insight/svjapan_wil_1/",
+    "https://mdb-biz.jmar.co.jp/news",
+    "https://revenuegeeks.com/ja/software/vendasta",
+    "https://ciroapp.com/ja/software/vendasta"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vendasta 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.vendasta.com/partners/",
+    "https://www.vendasta.com/",
+    "https://www.reddit.com/r/DigitalMarketing/comments/1mqgvdq/anyone_actually_use_vendasta/?tl=ja",
+    "https://we.inc/ja/compare/vendasta",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://business.ntt-west.co.jp/service/assist/winactor/partner.html",
+    "https://www.innoqos.com/kawaraban/partner/",
+    "https://stripe.com/jp/resources/more/how-to-start-an-agency-a-guide",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Vendasta Japan",
+   "results": [
+    "https://www.vendasta.com/",
+    "https://in.linkedin.com/company/vendasta",
+    "https://www.forrester.com/blogs/vendasta-shows-why-platforms-become-operating-systems-for-ai-agents/",
+    "https://www.instagram.com/vendasta/",
+    "https://ca.trustpilot.com/review/www.vendasta.com",
+    "https://docs.vendasta.com/getting-started/",
+    "https://finance.yahoo.com/small-business/articles/vendasta-launches-easy-ai-onboarding-113000357.html",
+    "https://x.com/Vendasta",
+    "https://www.g2.com/products/vendasta-ai-platform/reviews",
+    "https://www.vendasta.com/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vendasta manufacturing customer case study",
+   "results": [
+    "https://www.vendasta.com/case-studies/",
+    "https://www.forrester.com/blogs/vendasta-shows-why-platforms-become-operating-systems-for-ai-agents/",
+    "https://zapier.com/blog/vendasta-uses-automation-to-boost-revenue/",
+    "https://www.reddit.com/r/DigitalMarketing/comments/1aq0gnt/anyone_have_experience_with_vendasta/",
+    "https://www.youtube.com/watch?v=HoKW2GDnaws",
+    "https://www.vendasta.com/content-library/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.hubspot.com/case-studies/directory/manufacturing",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.casestudies.com/company/plato/case-study/vendasta-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vendasta white label OR reseller OR partner program",
+   "results": [
+    "https://www.vendasta.com/services/website/",
+    "https://www.vendasta.com/blog/white-label/",
+    "https://parallellabs.app/vendasta-vs-parallel-ai-which-white-label-platform-actually-scales-for-solopreneurs-without-the-enterprise-overhead-in-2025/",
+    "https://whitelabelcrm.com/vs-vendasta",
+    "https://xamplify.com/partner-programs/vendasta/",
+    "https://www.youtube.com/watch?v=2BE2o16c2Do",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://developers.vendasta.com/vendor/guides/whitelabeling/",
+    "https://www.vendasta.com/marketplace/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Vendasta founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/vendasta",
+    "https://www.vendasta.com/company/",
+    "https://tracxn.com/d/companies/vendasta/__Y43B7As80xp4SklLvXu1X2BSq59HrgzIh5HU2Vbvyh0",
+    "https://multiples.vc/private-comps/vendasta",
+    "https://www.owler.com/company/vendasta",
+    "https://dealroom.co/companies/vendasta/",
+    "https://thelogic.co/news/vendasta-ai-agents/",
+    "https://www.crunchbase.com/organization/vendasta",
+    "https://www.globenewswire.com/news-release/2026/05/07/3290181/0/en/canada-is-funding-the-ai-workforce-for-local-businesses-vendasta-is-building-it.html",
+    "https://compworth.com/company/vendasta"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Vendasta",
+   "results": [
+    "https://note.com/coco_run/n/n29fbdc411c31",
+    "https://note.com/pocketstudio/n/nf5a5e6ddf6fe",
+    "https://note.com/hidemaro_diary/n/na7c432c980f6",
+    "https://note.com/keigosakatsume",
+    "https://note.com/hunter_5160/n/neb1bf44afe25",
+    "https://note.com/ready_gnu3180/n/n493e9288a8f3",
+    "https://note.com/weiden_haus_lab/n/n9a53e02f8bdf",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/katarimasu/n/n38201fed61b0",
+    "https://note.com/keigo_lesson/n/n2f1d41612f42"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Vendasta",
+   "results": [
+    "https://x.com/Vendasta",
+    "https://x.com/Siinda",
+    "https://x.com/matchcraft",
+    "https://x.com/2cdevelopment",
+    "https://x.com/7shifts",
+    "https://x.com/__IamDB___",
+    "https://x.com/columbus_ceo/article/2073744452108349473",
+    "https://x.com/7998l201/status/2115393516025020435",
+    "https://x.com/AnilAgarwal_Ved",
+    "https://x.com/vendasta"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Vendasta",
+   "results": [
+    "https://ca.linkedin.com/company/vendasta",
+    "https://in.linkedin.com/showcase/vendasta-india/",
+    "https://www.linkedin.com/products/vendasta-yesware/",
+    "https://ca.linkedin.com/in/brendanking",
+    "https://www.linkedin.com/posts/jon-neher_vendasta-shows-why-platforms-become-operating-activity-7415493179572953089-9UvQ",
+    "https://www.linkedin.com/company/matchcraft",
+    "https://www.linkedin.com/products/vendasta-platform/",
+    "https://www.linkedin.com/in/johnvars",
+    "https://ca.linkedin.com/in/rylanmorris",
+    "https://www.linkedin.com/company/vendasta/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Vendasta",
+   "results": [
+    "https://www.facebook.com/vendasta/",
+    "https://www.facebook.com/groups/vendasta/",
+    "https://www.facebook.com/vendasta/about/",
+    "https://www.facebook.com/vendasta/photos/1568033682032931/",
+    "https://www.facebook.com/vendasta/posts/we-changed-when-one-email-sends-logins-went-up-more-than-21it-used-to-fire-the-m/1530642902438676/",
+    "https://www.facebook.com/vendasta/posts/%EF%B8%8F-press-release-%EF%B8%8F-setup-is-the-most-expensive-work-an-agency-never-bills-forever/1568034048699561/",
+    "https://www.facebook.com/vendasta/photos/1573381011498198/",
+    "https://www.facebook.com/vendasta/photos/1573381218164844/",
+    "https://www.facebook.com/vendasta/posts/we-asked-our-newest-ai-employee-to-search-for-a-few-thingswhos-azriels-mate-elai/1576731601163139/",
+    "https://www.facebook.com/p/Brendan-King-100058870125289/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vendasta note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.vendasta.com/company/leadership/",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/ai_shacho",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Vendasta X 投稿",
+   "results": [
+    "https://docs.vendasta.com/getting-started/",
+    "https://www.youtube.com/user/Vendasta",
+    "https://www.forrester.com/blogs/vendasta-shows-why-platforms-become-operating-systems-for-ai-agents/",
+    "https://www.youtube.com/watch?v=dN7IpWpNeTM",
+    "https://ca.trustpilot.com/review/www.vendasta.com",
+    "https://www.vendasta.com/social-ai/",
+    "https://www.reddit.com/r/DigitalMarketing/comments/1aq0gnt/anyone_have_experience_with_vendasta/",
+    "https://www.instagram.com/vendasta/",
+    "https://vdevtools.vendasta.com/",
+    "https://x.com/hashtag/Vendasta"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

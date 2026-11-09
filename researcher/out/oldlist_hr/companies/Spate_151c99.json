@@ -1,0 +1,1486 @@
+{
+ "name": "Spate",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜商談中",
+ "researched_at": "2026-11-09T20:45:55.284321+00:00",
+ "official_url": "https://www.spate.nyc",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$1,800,000",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Manhattan, New York, United States",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Predict Consumer Trends with Unmatched Accuracy",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage Spate’s AI-powered market research platform to uncover emerging trends and guide forward-looking decisions with proven accuracy.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover consumer trends across TikTok, Instagram, Reddit and Google Search with an intuitive, self-serve dashboard — powering data-backed product development, competitive advantage, and revenue growth.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Spate’s predictive analytics dashboard offers comprehensive tools to stay ahead of market trends and make smarter, data-driven decisions.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Top Social Content See the top popular posts and videos",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Actionable answers across platforms for comprehensive insights",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "72% Prediction Accuracy",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask the AI Assistant a question or build a report in seconds - no dashboard training required",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Brief creators and lead top content",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Creator discovery, content performance insights, platform trend monitoring",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Kendo Brands (LVMH) rely on Spate data to fuel product innovation and authentic storytelling.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Spate x Bell Flavors & Fragrances: Streamlining Marketing Strategies",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Bell Flavors & Fragrances uses Spate data to strengthen event and email marketing strategies.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "HUNTER taps Spate insights to guide editorial and press strategies with trend-driven storytelling.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Spate’s library of content, tutorials, and press features to get the most out of your experience.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Spate supports marketing, R&D, PR, and other teams by tracking digital trends, predicting future shifts, benchmarking competitors, and identifying whitespace opportunities across beauty, personal care, wellness, and food & beverage.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Spate analyzes trillions of search and social signals to uncover emerging trends, enabling brands to refine marketing strategies, marketing campaigns, and content strategy while gaining a competitive edge. As an AI-powered market intelligence platform, Spate helps teams innovate with confidence using timely insights and advanced data analysis.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate Trend Prediction",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Spate uses data signals from Google Search, TikTok, Reddit and Instagram coupled with proprietary predictive algorithms:",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Growth Metric",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Spate helps brands evaluate performance against competitors across broad consumer verticals, detailed subcategories, and at the product level using competitive analysis and competitive intelligence tools.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Spate identifies macro and micro shifts in consumer preferences, sentiment, and behavior through analysis of Google Search, TikTok, Reddit and Instagram data.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Spate shows leading TikTok and Instagram posts to help brands navigate an increasingly competitive social landscape and improve social media management and campaign performance.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze social media data, engagement metrics, and content performance across platforms",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Spate provides solutions for brands of all sizes to integrate marketing data, customer intelligence, and consumer insights into strategy- including direct API access for teams who want Spate data inside their own tools enabling strategic decision making.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Access valuable insights through an intuitive analytics platform built for enterprise teams",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Find trends by describing what you mean, not just what to type. Smart Search interprets intent from decades and aesthetics to ingredients and occasions - to surface the most relevant matches across every category.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Brief creators and lead top content",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Creator discovery, content performance insights, platform trend monitoring",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "See how Spate leads the way",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmark category and product-level competition using competitive benchmarking, competitive analysis, and key performance indicators, comparing market share and competitor performance.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Contextual data helps brands align messaging across social media, marketing campaigns, and digital marketing with what consumers care about most.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Consumer Market Intelligence Solutions Platform | Spate",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Solutions Tailored to Your Business Needs",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Spate provides scalable solutions for brands of all sizes to integrate data and insights directly into strategy. From customized reporting to seamless integrations, Spate equips enterprise teams to analyze data faster, enable data-driven decision making, and identify emerging trends to stay ahead of consumer demand.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock Enterprise-Ready Insights",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Spate’s enterprise solutions give brands the tools to operationalize consumer trend data across teams, workflows, and strategy.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Access tailored reports and interactive trend workshops that include category deep dives, whitespace analysis, and data visualization of market trends, customer behavior, key performance indicators, and market-specific insights designed to meet your team’s priorities. Between workshops, teams can also build their own reports in seconds with Spate’s AI-powered Report Builder.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Use Spate’s APIs to integrate data directly into internal tools, dashboards, and workflows, ensuring seamless data flows, strong data quality, and timely data access across existing systems and enterprise platforms.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Equip marketing, R&D, insights, and leadership teams with the data they need to improve operational efficiency, align marketing strategies, and drive business performance using data-driven insights.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise packages span six markets — the US, UK, France, South Korea, Japan, and Global — offering both local and worldwide perspectives with reliable insights backed by large-scale data collection and behavioral data analysis.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise clients receive dedicated support and flexible solutions tailored to evolving business needs, including self-service analytics, role-based access control, and secure data ownership for business users and technical users.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Enterprise Growth with Spate",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "With enterprise-ready tools, data integrations, and expert guidance, Spate helps brands transform raw data into valuable insights using AI-powered analytics, data modeling, and data discovery tools. Ask Spate AI a question directly, or hand it off to Report Builder for a saved, auto-refreshing report, no extra tooling required.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Spate’s data is aggregated and anonymized, ensuring a clear and unbiased snapshot of consumer interest across the beauty, personal care, wellness, and food & beverage industries — both now and in the future, powered by advanced analytics, data mining, and predictive analytics models. Enterprise teams can also pull this same data directly into their own dashboards and workflows through Spate’s API.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmark category and product-level competition, comparing consumer interest across mass, prestige, luxury, DTC, and everything in between.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "What is an enterprise analytics platform?",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "An enterprise analytics platform is a centralized solution that helps organizations collect, analyze data, and deliver actionable insights across teams. It combines data integration, data visualization, and AI-powered analytics to support better decision-making at scale.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Spate uses AI-powered insights, machine learning models, and large-scale data analysis to process trillions of search signals and social media data. This allows brands to identify emerging trends, track customer behavior, and uncover market opportunities in timely data.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A consumer data API for CPG brands allows companies to integrate timely consumer insights directly into their internal systems. Spate’s API enables seamless data integration with enterprise platforms, dashboards, and business intelligence tools, improving data access and operational efficiency.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Spate includes an AI Assistant for natural-language trend research, an AI-powered Report Builder that assembles full reports from a prompt, and AI Insights that turn dashboard data into short, written analysis alongside the custom reporting and API options available for Enterprise teams.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Spate delivers comprehensive beauty and personal care data, uncovering market trends, consumer preferences, and the ingredients shaping tomorrow’s products. By tracking behaviors across TikTok, Instagram, Reddit and Google, Spate equips brands to innovate with confidence.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "By combining predictive analytics with expert curation, Spate beauty industry data transforms complex signals into actionable insights — equipping marketing, insights, and R&D teams to move faster, create smarter, and stay ahead in one of the most dynamic consumer industries.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Spate’s team of beauty industry experts delivers curated deep dives and industry reports to inspire product innovation and strategic planning.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Skin care, hair, makeup — from products and ingredients to concerns, looks, and techniques",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the emerging products, ingredients, and techniques shaping the next wave of skin, hair, and makeup innovation.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover the signals shaping tomorrow’s beauty landscape — from emerging ingredients to top beauty product formats — with insights designed to keep beauty experts ahead of the curve.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Medicube leads PDRN brands at 6.5M popularity, and every top 10 brand is K-beauty. Get Spate’s report on formats, concerns, and the gaps Western brands can fill.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "HUNTER taps Spate insights to guide editorial and press strategies with trend-driven storytelling.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Kendo Brands (LVMH) rely on Spate data to fuel product innovation and authentic storytelling.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Uncover consumer trends across TikTok, Instagram, Reddit and Google Search with an intuitive, self-serve dashboard — powering data-backed product development, competitive advantage, and revenue growth.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Media trend tracking, narrative mapping, sentiment analysis",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Spate x Kendo Brands: Innovating and Strengthening Narratives",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Every trend and brand page includes a short, AI-generated narrative explaining what’s happening, why it’s happening, and what’s worth watching- so you get analysis, not just numbers.",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Media trend tracking, narrative mapping, sentiment analysis",
+    "url": "https://www.spate.nyc/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Spate x Kendo Brands: Innovating and Strengthening Narratives",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Media trend tracking, narrative mapping, sentiment analysis",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of industry narratives",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "Media trend tracking, narrative mapping, sentiment analysis",
+    "url": "https://www.spate.nyc/industries/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of industry narratives",
+    "url": "https://www.spate.nyc/industries/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Media trend tracking, narrative mapping, sentiment analysis",
+    "url": "https://www.spate.nyc/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of industry narratives",
+    "url": "https://www.spate.nyc/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Spate x Kendo Brands: Innovating and Strengthening Narratives",
+    "url": "https://www.spate.nyc/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Spate x Kendo Brands: Innovating and Strengthening Narratives",
+    "url": "https://www.spate.nyc/case-studies/spate-innovation-kendo-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Kendo Brands, part of LVMH, use the Spate dashboard to identify consumer-driven beauty trends and respond quickly with innovative products. The data-driven insights empower their teams to pair product innovation with authentic storytelling, ensuring alignment with evolving customer expectations.",
+    "url": "https://www.spate.nyc/case-studies/spate-innovation-kendo-brands",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging Spate’s data, HUNTER enhances its media and editorial strategies. The agency identifies rising trends to inform press narratives, ensuring its clients remain leaders in the evolving social conversation.",
+    "url": "https://www.spate.nyc/case-studies/spate-social-activation-hunter",
+    "pass": 1
+   },
+   {
+    "quote": "ice-scarred ridges. The",
+    "url": "https://ejje.weblio.jp/content/spate",
+    "pass": 3
+   },
+   {
+    "quote": "Spate has 10 total employees.",
+    "url": "https://pitchbook.com/profiles/company/232093-54",
+    "pass": 3
+   },
+   {
+    "quote": "What is Spate’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/232093-54",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Spate is",
+    "url": "https://pitchbook.com/profiles/company/232093-54",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SPATE",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SPATE?",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SPATE have?",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE Revenue 2024: $1.6M Est.",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE has not published its revenue. GetLatka estimates it at about $1.6M a year (October 2024).",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE CEO, founders & employees",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "Yarden Horwitz founded SPATE in 2018 and runs it as CEO. SPATE had 16 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "What is SPATE's revenue?",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SPATE's revenue at about",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SPATE have?",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Bell Flavors & Fragrances uses Spate data to strengthen event and email marketing strategies.",
+    "url": "https://www.spate.nyc/",
+    "pass": 1
+   },
+   {
+    "quote": "Bell Flavors & Fragrances uses Spate data to strengthen event and email marketing strategies.",
+    "url": "https://www.spate.nyc/industries/wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Bell Flavors & Fragrances uses Spate data to strengthen event and email marketing strategies.",
+    "url": "https://www.spate.nyc/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Bell Flavors & Fragrances uses Spate data to strengthen event and email marketing strategies.",
+    "url": "https://www.spate.nyc/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Bell Flavors & Fragrances integrated Spate trend data into its marketing strategies, helping its team stay ahead of shifts in flavor and fragrance. The real-time insights informed events, emails, and marketing collateral, keeping Bell relevant in consumer conversations.",
+    "url": "https://www.spate.nyc/case-studies/spate-marketing-strategy-bell-flavors",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using Spate's Flavor & Fragrance trend data has helped our marketing team stay on top of the trends. We use the data to surface real time insights for events, emails, and marketing collateral.\"",
+    "url": "https://www.spate.nyc/case-studies/spate-marketing-strategy-bell-flavors",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/232093-54",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Enterprise packages span six markets — the US, UK, France, South Korea, Japan, and Global — offering both local and worldwide perspectives with reliable insights backed by large-scale data collection and behavioral data analysis.",
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Access insights across six markets — the US, UK, France, Japan, South Korea, and Global — for both local and worldwide beauty insights.",
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "pass": 1
+   },
+   {
+    "quote": "日本語WordNet(英和)での「spate」の意味",
+    "url": "https://ejje.weblio.jp/content/spate",
+    "pass": 3
+   },
+   {
+    "quote": "spate in Japanese? How to use spate in Japanese. Learn Japanese",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "English - Japanese Dictionary",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Do you know spate in Japanese? How to use spate in Japanese and how to say spate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to write spate in Japanese",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "? Now let's learn how to say spate in Japanese language.",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "spate translate to Japanese meanings:",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "洪水 in Japanese is spate in English.",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to use spate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to say spate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to write spate in Japanese?",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why we should learn Japanese language?",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "About Japanese language",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese language code",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Conclusion on spate in Japanese",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Meaning of spate in Japanese language is:",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other words in Japanese",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "7 reasons to learn a Japanese language",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": ". This is your most common way to say spate in 洪水 language. Click audio icon to pronounce spate in Japanese::",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "The standard way to write \"spate\" in Japanese is:",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "about Japanese language in here",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Writing system in Japanese",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mixed scripts of Kanji (Chinese character) and Kana (Hiragana, Katakana), Japanese Braille",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Speaking Countries and Territories",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Speaking Countries and Territories: Japan.",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese native speakers",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、とっても暑い日が続いています",
+    "url": "https://ejje.weblio.jp/content/spate",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Croda Inc Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-x-croda-inc-spotting-the-next-viral-ingredients",
+    "pass": 1
+   },
+   {
+    "quote": "L'Oréal Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-x-loreal-using-trends-to-capitalize-on-new-and-existing-opportunities",
+    "pass": 1
+   },
+   {
+    "quote": "Givaudan Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-x-givaudan-timely-trend-data-to-stay-ahead-of-fluid-consumer-demand",
+    "pass": 1
+   },
+   {
+    "quote": "e.l.f. Beauty Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-x-e-l-f-cosmetics-activating-on-viral-consumer-moments",
+    "pass": 1
+   },
+   {
+    "quote": "Kendo Brands Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-innovation-kendo-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Shy Bird Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-optimize-offerings-shy-bird",
+    "pass": 1
+   },
+   {
+    "quote": "Bell Flavors Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-marketing-strategy-bell-flavors",
+    "pass": 1
+   },
+   {
+    "quote": "Hunter Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-social-activation-hunter",
+    "pass": 1
+   },
+   {
+    "quote": "Boots Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-retail-brand-strategy-boots",
+    "pass": 1
+   },
+   {
+    "quote": "Reckitt Case Study | Spate",
+    "url": "https://www.spate.nyc/case-studies/spate-consumer-trends-reckitt",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Kendo Brands strengthens beauty trend-driven innovation with Spate | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Kendo Brands strengthens beauty trend-driven innovation with Spate",
+    "url": "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Kendo Brands - Customer Case Study",
+    "url": "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Spate Case Study: Reckitt – Reckitt - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Reckitt - Customer Case Study",
+    "url": "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Reckitt used Spate",
+    "url": "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "英語「spate」の意味・使い方・読み方 | Weblio英和辞書 — spate (countable and uncountable, plural spates) (originally Northern England, Scotland) (countable) A (sudden) flood or inundation of water; specifically, a flood in or overflow of a river or other watercourse due to heavy rain or melting snow; (uncountable, archaic) flooding, inundation.",
+    "url": "https://ejje.weblio.jp/content/spate",
+    "pass": 3
+   },
+   {
+    "quote": "spate in Japanese? How to use spate in Japanese. Learn Japanese — Oct 14, 2026 · Now that you have learned and understood the common ways of saying spate in Japanese is \"洪水\", it's time to learn how to say spate in Japanese. This will hopefully give you a little motivation to study Japanese today.",
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "pass": 3
+   },
+   {
+    "quote": "spate in Japanese - English-Japanese Dictionary | Glosbe — Check 'spate' translations into Japanese. Look through examples of spate translation in sentences, listen to pronunciation and learn grammar.",
+    "url": "https://glosbe.com/en/ja/spate",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Translation of “SPATE” | Collins English-Japanese ... — Japanese Translation of “SPATE” | The official Collins English-Japanese Dictionary online. Over 100,000 Japanese translations of English words and phrases.",
+    "url": "https://www.collinsdictionary.com/dictionary/english-japanese/spate",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies & Success Stories | Spate — Discover how leading CPG brands use Spate's data for innovation, marketing & trend forecasting. Real customer success stories & results.",
+    "url": "https://www.spate.nyc/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "L'Oréal Case Study | Spate — By surfacing timely search and social insights, Spate enables L’Oréal and its partners to spot growth areas as they unfold. With this forward-looking intelligence, the team can confidently anticipate shifts in consumer behavior and act on what’s coming next.",
+    "url": "https://www.spate.nyc/case-studies/spate-x-loreal-using-trends-to-capitalize-on-new-and-existing-opportunities",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Kendo Brands strengthens beauty trend-driven ... — Kendo Brands partnered with Spate (Market Research) to solve key challenges. \"Kendo Brands - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Spate Case Study: Reckitt – Reckitt - Customer Case Study ... — Reckitt partnered with Spate (Market Research) to solve key challenges. \"Reckitt - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "10 Spate Case Studies, Success Stories, & Customer Stories ... — Discover how other companies use Spate, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/spate/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Spate 2026 Company Profile: Valuation, Funding & Investors ...SPATE Revenue, Funding & Valuation - prospeo.ioSpate - 2026 Company Profile, Team, Funding & Competitors ...SPATE Revenue 2024: $1.6M Est. - LATKASPATE: Funding, Team & Investors | Startup IntrosSPATE — Company Profile, Funding & InvestorsSPATE - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, inves",
+    "url": "https://pitchbook.com/profiles/company/232093-54",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE Revenue, Funding & Valuation - prospeo.io — SPATE has raised a total of $1,800,000 across 1 funding rounds. This investment has helped the company grow and expand its operations. SPATE has revenue of $2,224,430, estimated valuation of $7,200,000, $1,800,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Spate - 2026 Company Profile, Team, Funding & Competitors ...SPATE Revenue 2024: $1.6M Est. - LATKASPATE: Funding, Team & Investors | Startup IntrosSPATE — Company Profile, Funding & InvestorsSPATE - Crunchbase Company Profile & Funding — Feb 3, 2026 · Spate is a seed company based in New York City (United States), founded in 2018 by Olivier Zimmer and Yarden Horwitz. It operates as a Provider of ",
+    "url": "https://tracxn.com/d/companies/spate/__83f9D_-jMCHvOdGBaiwwSEyBUuiAtdfheyMOtZwHNbI",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE Revenue 2024: $1.6M Est. - LATKA — Oct 30, 2026 · GetLatka estimates SPATE's revenue at about $1.6M a year (October 2024). The company hasn't published its own figure. How many employees does SPATE have? SPATE had 16 employees in October 2024, according to LinkedIn. Who is the CEO of SPATE? Yarden Horwitz is the CEO of SPATE and founded the company in 2018. Who founded SPATE?",
+    "url": "https://getlatka.com/companies/spate",
+    "pass": 3
+   },
+   {
+    "quote": "SPATE: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Spate was founded in 2018 by Yarden Horwitz and Olivier Zimmer, both former Google employees who spearheaded Google's Trendspotting division, where they identified major consumer trends such as turmeric, face masks, and cold brew coffee.",
+    "url": "https://startupintros.com/orgs/spate",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Spate is your machine intelligence solution for finding the next big consumer trend in beauty and wellness. The Spate dashboard analyzes over 20 billion consumer signals across Google, TikTok, and Instagram to answer: (1) what's the next big trend?, (2) who's owning the trend?, and (3) how can your brand position the trend based on consumer needs?",
+    "url": "https://prospeo.io/c/spate-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SPATE Media (@spatemedia) / X SPATE Media @spatemedia #spatemedia Award winning media brand #hiphop #spatemagazine #spatetv #spateradio NYC linktr.ee/spatehiphopnews",
+    "url": "https://x.com/spatemedia",
+    "pass": 3
+   },
+   {
+    "quote": "Spate on X: \"@Parlohater3 @88nusoicaca88 falsenvke\" / X @Parlohater3 @88nusoicaca88 falsenvke everyone mogs spate 1",
+    "url": "https://x.com/KatieArmpitLick/status/2119600807624720836",
+    "pass": 3
+   },
+   {
+    "quote": "Pra_spate on X: \"@anonoxymoron1 No doubt who ever does ... Pra_spate on X: \"@anonoxymoron1 No doubt who ever does Ramayana we will watch, if it's good defiently watch it twice. But when it comes to support its ONLY YASH 🦁\"",
+    "url": "https://x.com/pra_spate/status/2118626882086375890",
+    "pass": 3
+   },
+   {
+    "quote": "Spate on X: \"@d3adlyr0ses_ idk who you are but you shouldnt ... @d3adlyr0ses_ idk who you are but you shouldnt be speaking here while you look like this",
+    "url": "https://x.com/KatieArmpitLick/status/2119533110966587752",
+    "pass": 3
+   },
+   {
+    "quote": "Spate (@ripplespateart) / Posts / X Mar 16, 2026 · Posts Spate ripplespateart 3h Got me one hell of a portal backlog but it’s looking like a bit of a crowd pleaser, and I’m nothing if not a jester for the people #portal #portal2 #chellportal #fanart #portalfanart #portal2fanart #aperturescience #digitalpainting #digitalart",
+    "url": "https://x.com/ripplespateart",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SPATE - LinkedIn We use data science to predict trends in beauty and food. | Spate is your machine intelligence solution for finding the next big consumer trend in beauty and wellness.",
+    "url": "https://www.linkedin.com/company/spatenyc",
+    "pass": 3
+   },
+   {
+    "quote": "Olivier Zimmer - Cofounder & CEO at SPATE | LinkedInYarden Horwitz - Co-Founder at Spate (ex-Google) | LinkedInAddison Cain - Senior Insights & Marketing Lead at SPATE ...SPATE and NielsenIQ are joining forces tomorrow ... - LinkedInJoseph Spate - Deputy Solicitor General at South Carolina ...Spate’s 2026 Predictions Report is now available in an ... Oct 29, 2015 · Cofounder & CEO at SPATE · Exper",
+    "url": "https://www.linkedin.com/in/olivierzimmer",
+    "pass": 3
+   },
+   {
+    "quote": "Yarden Horwitz - Co-Founder at Spate (ex-Google) | LinkedInAddison Cain - Senior Insights & Marketing Lead at SPATE ...SPATE and NielsenIQ are joining forces tomorrow ... - LinkedInJoseph Spate - Deputy Solicitor General at South Carolina ...Spate’s 2026 Predictions Report is now available in an ... Co-Founder at Spate (ex-Google) · Experience: CEW · Education: Y Combinator · Location: New York · ",
+    "url": "https://www.linkedin.com/in/yarden-horwitz",
+    "pass": 3
+   },
+   {
+    "quote": "Addison Cain - Senior Insights & Marketing Lead at SPATE ...SPATE and NielsenIQ are joining forces tomorrow ... - LinkedInJoseph Spate - Deputy Solicitor General at South Carolina ...Spate’s 2026 Predictions Report is now available in an ... Feb 11, 2014 · Senior Insights & Marketing Lead at SPATE · Experience: SPATE · Education: Parsons School of Design - The New School · Location: New York · 500",
+    "url": "https://www.linkedin.com/in/addison-cain",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Spate Media | New York NY - Facebook Oct 13, 2026 · Spate Media, New York. 40,344 followers · 71 talking about this. Spate Media | SpateVerse is a global Media brand founded by Antoine Maurice King AI Driven",
+    "url": "https://www.facebook.com/spatemedianyc/",
+    "pass": 3
+   },
+   {
+    "quote": "Spate NYC - FacebookSe întâmplă în VÂLCEA! | FacebookTârgu-Cărbunești-orașul nostru | FacebookFacebook - log in or sign upSpate Acre - FacebookSPATE Boutique - Facebook Oct 9, 2026 · Spate's latest report uses its cross platform Popularity Index, powered by Google, TikTok, and Instagram data, to uncover the retailers gaining the most consumer attention, the trending topics fueling their growth, an",
+    "url": "https://www.facebook.com/spatenyc/",
+    "pass": 3
+   },
+   {
+    "quote": "Se întâmplă în VÂLCEA! | Facebook 20 hours ago · Casa este compusa din : -2 dormitoare spatioase -living -bucatarie openspace -2 terase (fata/spate) -baie complet utilata -pod cu posibilitatea mansardarii Locatie foarte buna fiind foarte aproape de oraș (11 km), de magazine, școlil si gradinite. Casa are 120 mp, teren generos ,oferind destul spatiu pentru o familie dornica de mutare.",
+    "url": "https://business.facebook.com/groups/1170141939702622/",
+    "pass": 3
+   },
+   {
+    "quote": "Târgu-Cărbunești-orașul nostru | Facebook 3 days ago · Calin Georgescu si caracatita din spate. Va rog, cititi notele din dosar - poza e CLARA si e infricosatoare (vedeti documentele in linkul din primul comentariu) 👇👇👇 Cine il sustine in continuare pe Calin Georgescu este TRADATOR DE TARA! Nu se poate asa ceva, sa citesti aceste DOVEZI clare si sa-l sustii in continuare!",
+    "url": "https://business.facebook.com/groups/2424771191124411/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.spate.nyc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/solutions-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/features/enterprise-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/industries/beauty-personal-care",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/industries/wellness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/industries/food-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-x-croda-inc-spotting-the-next-viral-ingredients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-x-loreal-using-trends-to-capitalize-on-new-and-existing-opportunities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-x-givaudan-timely-trend-data-to-stay-ahead-of-fluid-consumer-demand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-x-e-l-f-cosmetics-activating-on-viral-consumer-moments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-innovation-kendo-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-optimize-offerings-shy-bird",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-marketing-strategy-bell-flavors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-social-activation-hunter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/subscribe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/reports/what-brands-need-to-know-about-pdrn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-retail-brand-strategy-boots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spate.nyc/case-studies/spate-consumer-trends-reckitt",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/687007b9a91ba29ace4174c3/68b9b7c27abbc0566372b5c0_Multimedia_Logos_PG_logo_black-thumb-big.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ejje.weblio.jp/content/spate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/03/05/408261.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msn.com/ja-jp/autos/%E5%85%A8%E8%88%AC/%E3%83%9B%E3%83%B3%E3%83%80%E6%96%B0%E5%9E%8B-%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0%E3%83%A9-%E6%97%A5%E6%9C%AC%E5%BE%A9%E6%B4%BB%E3%81%B8-%E3%82%BF%E3%82%A4%E3%83%97s%E5%B0%8E%E5%85%A5%E3%81%AB-%E5%BE%85%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%AE%E5%A3%B0-%E5%B7%A6%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AB%E3%82%84%E4%BE%A1%E6%A0%BC%E3%81%AB%E4%B8%8D%E5%AE%89%E3%82%82/ar-AA27Wp0e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAVE_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wikilanguages.net/Japanese/spate.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/spate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glosbe.com/en/ja/spate",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/232093-54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/spate-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/spate/__83f9D_-jMCHvOdGBaiwwSEyBUuiAtdfheyMOtZwHNbI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/spate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/spatemedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KatieArmpitLick/status/2119600807624720836",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pra_spate/status/2118626882086375890",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KatieArmpitLick/status/2119533110966587752",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/spatenyc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/olivierzimmer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yarden-horwitz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/addison-cain",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spatemedianyc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spatenyc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/1170141939702622/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/2424771191124411/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/spatemedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ripplespateart",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Spate 日本 導入",
+   "results": [
+    "https://ejje.weblio.jp/content/spate",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://response.jp/article/2026/03/05/408261.html",
+    "https://www.msn.com/ja-jp/autos/全般/ホンダ新型-インテグラ-日本復活へ-タイプs導入に-待ってました-の声-左ハンドルや価格に不安も/ar-AA27Wp0e",
+    "https://36kr.jp/502580/",
+    "https://limo.media/articles/-/115254",
+    "https://www.autocar.jp/post/1224440"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spate 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://japan.tapestry.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spate Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SAVE_JAPAN",
+    "https://wikilanguages.net/Japanese/spate.html",
+    "https://ejje.weblio.jp/content/spate",
+    "https://glosbe.com/en/ja/spate",
+    "https://www.collinsdictionary.com/dictionary/english-japanese/spate",
+    "https://www.spate.nyc/",
+    "https://reibun-eigo.com/entry-spate/",
+    "https://www3.nhk.or.jp/nhkworld/news/20261006de55489/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Spate manufacturing customer case study",
+   "results": [
+    "https://www.spate.nyc/resources/case-studies",
+    "https://www.spate.nyc/case-studies/spate-x-loreal-using-trends-to-capitalize-on-new-and-existing-opportunities",
+    "https://www.casestudies.com/company/spate/case-study/302c-kendo-brands-customer-case-study",
+    "https://www.casestudies.com/company/spate/case-study/939c-reckitt-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/spate/case-studies",
+    "https://www.onhires.com/en/case-study/how-onhires-helped-spate-scale-its-ai-and-data-engineering-team",
+    "https://www.featuredcustomers.com/vendor/spate"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spate white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spate founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/232093-54",
+    "https://prospeo.io/c/spate-revenue",
+    "https://tracxn.com/d/companies/spate/__83f9D_-jMCHvOdGBaiwwSEyBUuiAtdfheyMOtZwHNbI",
+    "https://getlatka.com/companies/spate",
+    "https://startupintros.com/orgs/spate",
+    "https://acquirezy.com/organization/spate",
+    "https://www.crunchbase.com/organization/spate"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Spate",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Spate",
+   "results": [
+    "https://x.com/spatemedia",
+    "https://x.com/KatieArmpitLick/status/2119600807624720836",
+    "https://x.com/pra_spate/status/2118626882086375890",
+    "https://x.com/KatieArmpitLick/status/2119533110966587752",
+    "https://x.com/KatieArmpitLick/status/2119852116541898984",
+    "https://x.com/KatieArmpitLick/status/2119622102466675133",
+    "https://x.com/KatieArmpitLick/status/2119124323198001183"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Spate",
+   "results": [
+    "https://www.linkedin.com/company/spatenyc",
+    "https://www.linkedin.com/in/olivierzimmer",
+    "https://www.linkedin.com/in/yarden-horwitz",
+    "https://www.linkedin.com/in/addison-cain",
+    "https://www.linkedin.com/posts/spatenyc_spate-and-nielseniq-are-joining-forces-tomorrow-activity-7183102099704946688--miT",
+    "https://www.linkedin.com/in/joseph-spate-aa939270",
+    "https://www.linkedin.com/posts/spatenyc_spates-2026-predictions-report-is-now-available-activity-7429957688102498304-OPtM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Spate",
+   "results": [
+    "https://www.facebook.com/spatemedianyc/",
+    "https://www.facebook.com/spatenyc/",
+    "https://business.facebook.com/groups/1170141939702622/",
+    "https://business.facebook.com/groups/2424771191124411/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/spateacre/",
+    "https://www.facebook.com/shopspate/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spate note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spate X 投稿",
+   "results": [
+    "https://x.com/spatemedia",
+    "https://x.com/ripplespateart",
+    "https://www.instagram.com/spatenyc/",
+    "https://www.youtube.com/@spatex576",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "http://yaraon-blog.com/archives/307990",
+    "https://news.yahoo.co.jp/articles/c433091e5e50d42e2a18d576920e8414bb798cb9"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部36頁・検索12回）"
+ }
+}

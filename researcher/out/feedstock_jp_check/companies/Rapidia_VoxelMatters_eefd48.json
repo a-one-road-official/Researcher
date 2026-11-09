@@ -1,0 +1,454 @@
+{
+ "name": "Rapidia — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:35:01.250130+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We are a team of talented engineers and software developers that are revolutionizing 3D printing technology. We believe in employee ownership. All Rapidia employees become shareholders after their first year.",
+    "url": "https://www.voxelmatters.directory/company/rapidia/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/rapidia/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rapidia — VoxelMatters - The largest database of additive ... — Rapidia was founded in 2015 with the goal of developing a better metal 3D printer. We are a team of talented engineers and software developers that are revolutionizing 3D printing technology. We believe in employee ownership. All Rapidia employees become shareholders after their first year.",
+    "url": "https://www.voxelmatters.directory/company/rapidia/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookAdditive manufacturing is creating new solutions for hard-to ...Rapidia | Vancouver BC - FacebookVoxelMatters on Reels - FacebookVoxelMatters Metal AM Market 2025 Report.... - FacebookJodi Nowak Briney - FacebookLegacy Effects changed the game on the set of Superman (2025 ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicke",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/Rapidus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/rapidia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=729&dispmid=952&TabModule983=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://igaspedia.com/2023/09/28/tn-sanso-rapidia-tech-metal-paste-deposition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dempa-digital.com/article/479292",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinofu.com/uvresin-guide2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunwardshop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternalcollegest.com/books/100yen-resin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/am-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=355-9402349-6740527&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%9E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E8%93%8B%E3%82%B4%E3%83%A0%E3%83%91%E3%83%83%E3%82%AD%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00363547/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapidia.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/voxelmatters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rapidia — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Rapidia — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Rapidus",
+    "https://www.voxelmatters.directory/company/rapidia/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://gacha-radar.com/latest",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.rapidus.inc/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapidia — VoxelMatters 日本 販売",
+   "results": [
+    "https://nsc.jp.nipponsanso.com/jp/news/detail.html?itemid=729&dispmid=952&TabModule983=0",
+    "https://igaspedia.com/2023/09/28/tn-sanso-rapidia-tech-metal-paste-deposition/",
+    "https://dempa-digital.com/article/479292",
+    "https://www.rapidia.com/",
+    "https://www.3dpro.jp/news/rapidia_tech_am_2023/",
+    "https://igaspedia.com/2024/01/24/tn-sanso-tct2024-metal-3d-am/",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=4oISU/U51Zw="
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapidia — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://sunwardshop.com/",
+    "https://fantist.com/articles/1092",
+    "https://eternalcollegest.com/books/100yen-resin",
+    "https://shop.croccha.com/",
+    "https://fantist.com/articles/1017",
+    "https://www.msn.com/ja-jp/news/other/魔法の天使クリィミーマミ-より森沢優が変身した姿-クリィミーマミ-がレジンキットで登場-2027年3月3日ごろ発売/ar-AA2h1Yrq"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapidia — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.rapidia.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://japanesedistributors.com/",
+    "https://igaspedia.com/2023/09/28/tn-sanso-rapidia-tech-metal-paste-deposition/",
+    "https://www.3dpro.jp/news/rapidia_tech_am_2023/",
+    "https://nsc.jp.nipponsanso.com/LinkClick.aspx?fileticket=4oISU/U51Zw="
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapidia — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://japanesedistributors.com/",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.voxelmatters.com/am-japan/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Rapidia — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Rapidia — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/k/store/マンホール蓋ゴムパッキン/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/00363547/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/p/0807/1707/",
+    "https://www.monotaro.com/g/03001937/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapidia — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.rapidia.com/about",
+    "https://www.voxelmatters.com/",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.voxelmatters.com/category/money/financials/",
+    "https://tracxn.com/d/companies/rapidia/__0X2bNm4MrkDtItCuk7FPCHhGj7l9goQ-nZjcGG9hqZU",
+    "https://www.zoominfo.com/c/rapidia/470283221"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rapidia — VoxelMatters",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rapidia — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/rapidia3d",
+    "https://x.com/CMAA_HQ/status/2079982367515533735",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Urfavliar2/status/2117023998710259801",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rapidia — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/rapidia",
+    "https://it.linkedin.com/posts/3dprint-com_rapidia-re-emerges-with-sub-100k-bound-metal-activity-7045011760994553857-QSeB",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/rlpco_rlps-levity-3d-printer-is-breaking-the-law-activity-7342981680502063104-v1Sv",
+    "https://www.linkedin.com/posts/additive-manufacturing-strategies_rapidia-re-emerges-with-sub-100k-bound-metal-activity-7045011761221046272-dLyi",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7492846001142116354-Qcj7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rapidia — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/people/Rapidia/100083474196079/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/posts/-voxelmatters-metal-am-market-2025-reportwe-are-now-offering-early-access-to-our/1140541171410263/",
+    "https://www.facebook.com/jodinwk/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/",
+    "https://www.facebook.com/VoxelMatters/videos/legacy-effects-changed-the-game-on-the-set-of-superman-2025-they-used-bambu-lab-/920879230825681/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rapidia — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Rapidia — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/rapidia3d",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922030947614944",
+    "https://x.com/HKF1515/status/2119589480604881112",
+    "https://x.com/GENMAI_VOCALOID/status/2119721868085411849"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）"
+ }
+}

@@ -1,0 +1,506 @@
+{
+ "name": "Jellagen — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T20:15:55.170518+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters - Pushing boundaries in biomedical... | FacebookJellagen Pty Ltd | Cardiff - FacebookLayer after layer, you’ve now painted your beauty cravings on ...To capture the essence of the unveiling... - Jellagen Pty LtdJellagen Pty Ltd - FacebookJellegen | Colombo - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has k",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - Pushing boundaries in biomedical... | Facebook Oct 9, 2021 · Pushing boundaries in biomedical engineering – Jellagen Pty Ltd introduces first jellyfish bioink for tissue regeneration. #3dprinting #medical...",
+    "url": "https://www.facebook.com/VoxelMatters/posts/pushing-boundaries-in-biomedical-engineering-jellagen-pty-ltd-introduces-first-j/1918896398282476/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/category/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellagen.co.uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scientificlabs.ie/handlers/libraryFiles.ashx?filename=Product_Brochures_J_JEL1000.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ukhealthcarepavilion.com/companies/jellagen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gelomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mignonselect.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuskin.com/catalog/jp/ja/product/86037145",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zimmerbiomet.com/content/dam/zimmer-biomet-japan/Health%20Care%20Professionals/surgical-techniques/surgical/%E3%82%BD%E3%83%95%E3%83%88%E3%82%B0%E3%83%83%E3%82%BA%20%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jellagen.co.uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/resins-and-filaments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256806253929430.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.evermere-shop.jp/products/680",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellagen.co.uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellagen.co.uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ukhealthcarepavilion.com/companies/jellagen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.go.jp/tomodachi/2018/spring2018/cellular_3d_printer_brings_new_hope.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/g/00020485/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jellagen.co.uk/about/our-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/jellagen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/pushing-boundaries-in-biomedical-engineering-jellagen-pty-ltd-introduces-first-j/1918896398282476/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Jellagen — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/category/medical/",
+    "https://jellagen.co.uk/",
+    "https://www.scientificlabs.ie/handlers/libraryFiles.ashx?filename=Product_Brochures_J_JEL1000.pdf",
+    "https://ukhealthcarepavilion.com/companies/jellagen/",
+    "https://pubmed.ncbi.nlm.nih.gov/34436244/",
+    "https://www.voxelmatters.directory/company-category/3d-bioprinting-lab/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://jellagen.co.uk/about/jellagen-news/news/jellagen-and-copner-biotech-complete-world-first-smart-cymru-funded-project-supporting-the-development-of-a-next-generation-bioprinting-system-and-bio-ink/",
+    "https://osstell.com/ja/find-distributors/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Jellagen — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://gelomics.com/",
+    "https://mignonselect.com/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.toshin-dental.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jellagen — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.nuskin.com/catalog/jp/ja/product/86037145",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.zimmerbiomet.com/content/dam/zimmer-biomet-japan/Health%20Care%20Professionals/surgical-techniques/surgical/%E3%82%BD%E3%83%95%E3%83%88%E3%82%B0%E3%83%83%E3%82%BA%20%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0.pdf",
+    "https://www.gazaihanbai.jp/products/detail/product_id/68870.html",
+    "https://www.kkday.com/ja/product/896691?srsltid=AYCX9vIsf4X8Q_4wZODHHo0WTbZuL7VD7oM3WFHw3r7SIi0nAKWUPFpr",
+    "https://www.youtube.com/watch?v=FZvDZhldg2U",
+    "https://shop.exmatelab.com/",
+    "https://inquiry.my.rakuten.co.jp/item/220619/bodycare-1354-381001?ms=1011",
+    "https://www.kaigen-pharma.co.jp/product/precaution_aethtetic/",
+    "https://jellagen.co.uk/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jellagen — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://jellagen.co.uk/",
+    "https://skhonpo.com/collections/resins-and-filaments",
+    "https://ja.aliexpress.com/item/1005006440244182.html",
+    "https://www.evermere-shop.jp/products/680",
+    "https://creator.holoearth.com/shop/products/1020390",
+    "https://iherb.co/pEiS3L",
+    "https://www.amazon.co.jp/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E9%AA%A8/s?k=%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88+%E9%AA%A8",
+    "https://www.veteregen.com/en/%EA%B5%AC%EC%84%B1%EC%84%B1%EB%B6%84%EB%B3%84-%EC%A0%9C%ED%92%88%EB%B3%B4%EA%B8%B0",
+    "https://filgen.jp/Product/Bioscience4/Innotere/index.html",
+    "https://www.monotaro.com/k/store/レジン/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Jellagen — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://jellagen.co.uk/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.reprocell.com/clinical-stem-cell-services/reprocell-japan-gmp-manufacturing-facility",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://ukhealthcarepavilion.com/companies/jellagen/",
+    "https://3dprintingindustry.com/news/jellagen-and-copner-biotech-ink-deal-to-develop-proprietary-jellyfish-bioink-for-tissue-regeneration-197148/",
+    "https://www.jpte.co.jp/en/business/LabCyte/distributors/index.html",
+    "https://www.hoelzel-biotech.com/en/partners/jellagen/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Jellagen — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://jellagen.co.uk/",
+    "https://ukhealthcarepavilion.com/companies/jellagen/",
+    "https://www.japan.go.jp/tomodachi/2018/spring2018/cellular_3d_printer_brings_new_hope.html",
+    "https://3dprintingindustry.com/news/jellagen-and-copner-biotech-ink-deal-to-develop-proprietary-jellyfish-bioink-for-tissue-regeneration-197148/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.voxelmatters.directory/company-category/3d-printed-drugs/",
+    "https://3dbiotek.com/dist_asia.aspx"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:amazon.co.jp Jellagen — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Jellagen — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00020485/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/00871171/",
+    "https://www.monotaro.com/g/00167718/",
+    "https://www.monotaro.com/p/3498/3191/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jellagen — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://jellagen.co.uk/about/our-company/",
+    "https://uk.linkedin.com/company/jellagen",
+    "https://www.voxelmatters.report/",
+    "https://www.gov.uk/government/news/marine-biotechnologies-firm-wins-38-million-investment",
+    "https://www.voxelmatters.directory/",
+    "https://ukhealthcarepavilion.com/companies/jellagen/",
+    "https://growjo.com/company/Jellagen",
+    "https://rwanda.dealroom.co/companies/jellagen",
+    "https://www.konaequity.com/company/jellagen-10400904756/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Jellagen — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/asaimitsunori/n/n3ce27a5955bd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Jellagen — VoxelMatters",
+   "results": [
+    "https://x.com/JellagenLtd",
+    "https://x.com/voxelmatters",
+    "https://x.com:8443/JellagenLtd/status/1523642606965911554",
+    "https://x.com/JellagenLtd/status/1174681440900042752",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Jellagen — VoxelMatters",
+   "results": [
+    "https://kr.linkedin.com/in/%EC%A3%BC%EC%84%B1-%EC%8B%AC-a2988888"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:facebook.com Jellagen — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/pushing-boundaries-in-biomedical-engineering-jellagen-pty-ltd-introduces-first-j/1918896398282476/",
+    "https://www.facebook.com/Jellagen/mentions/",
+    "https://www.facebook.com/Jellagen/posts/to-capture-the-essence-of-the-unveiling-of-our-manufacturing-facility-launch-see/811388082361335/",
+    "https://www.facebook.com/Jellagen-Pty-Ltd-355196311313850/timeline/",
+    "https://www.facebook.com/Jellegen/",
+    "https://www.facebook.com/Jellegen/videos/layer-after-layer-youve-now-painted-your-beauty-cravings-on-your-face-your-dedic/1688629771688420/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jellagen — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://jellagen.co.uk/",
+    "https://www.scientificlabs.ie/handlers/libraryFiles.ashx?filename=Product_Brochures_J_JEL1000.pdf",
+    "https://www.hmpglobalevents.com/sawcspring/news/collagen-derived-barrel-jellyfish-demonstrates-efficacy-next-generation-biomaterial",
+    "https://www.gov.uk/government/news/marine-biotechnologies-firm-wins-38-million-investment",
+    "https://pubmed.ncbi.nlm.nih.gov/34436244/",
+    "https://www.ph.ed.ac.uk/events/2023/83212-collagen-based-innovation-for-tissue-engineering-and-regenerative-medicine-andrew-mearns-spragg",
+    "https://ukhealthcarepavilion.com/companies/jellagen/",
+    "https://www.voxelmatters.group/about/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Jellagen — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/jellagen-to-introduce-world-first-jellyfish-bio-ink-for-tissue-regeneration/",
+    "https://x.com/VoxelMatters",
+    "https://jellagen.co.uk/",
+    "https://bioservuk.com/wp-content/uploads/2021/12/Jellagen_3D_Scaffolds.pdf",
+    "https://www.voxelmatters.com/x-pure-gelatins-for-greater-consistency-in-bioprinting/",
+    "https://www.voxelmatters.report/",
+    "https://www.scientificlabs.ie/handlers/libraryFiles.ashx?filename=Product_Brochures_J_JEL1000.pdf",
+    "https://www.instagram.com/voxelmatters/",
+    "https://x.com/voxelmatters",
+    "https://x.com/JellagenLtd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

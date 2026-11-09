@@ -1,0 +1,2134 @@
+{
+ "name": "Supermetrics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / Data｜リマイン1",
+ "researched_at": "2026-11-09T20:54:35.955920+00:00",
+ "official_url": "https://supermetrics.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Helsinki, Finland",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$50.7M",
+    "url": "https://getlatka.com/companies/supermetrics",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Marketing Intelligence Platform: Supermetrics",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make the right marketing decisions by talking to your",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Load analysis-ready marketing data into BigQuery, Snowflake or whichever warehouse your business runs on.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your own AI agents and apps to the same marketing data through the Supermetrics MCP server and APIs.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your marketing data in the AI tool you already work in, so it can act on what it finds.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect every channel, link campaigns directly to revenue growth, and show marketing's impact in concrete numbers.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver clean, analytics-ready marketing data without ticket backlogs, empowering teams to self-serve.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build customer-facing data products on top of Supermetrics' robust APIs, delivering analytics without rebuilding the plumbing.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a single source of truth for campaign performance, map marketing activity to sales outcomes, and double down on what works.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aggregate client data from any platform, deliver instant dashboards and insights, and prove ROI that keeps retainers growing.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For marketing agencies",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get enterprise-grade marketing intelligence without enterprise overhead. Supermetrics sets up in minutes, offers predictable pricing, and scales as your channels and growth ambitions expand.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise businesses",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle large data volumes with enterprise security and governance. Supermetrics offers region selection, SSO and workspace controls, keeping teams aligned on what moves the needle for the global business.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Typically if a big corporation wants to do sales or marketing mix modeling, the process can take up to one year. However, if we automate the data transfer, it’ll take less time, less manpower, and less cost to do data modeling.”",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The data platform we set up together with S360 & Supermetrics helped us build a strong foundation for success. We were able to gain a full view of our marketing performance. This really helps us focus our advertising going forward.”",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Marketing & Insights",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The impact Supermetrics had has changed not only the process for one client, but also our entire business and the way that we’re able to surface information in a way that is individual and useful.”",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is your marketing data AI-ready?",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In the 2026 Marketing Data Report, 400+ marketers share how they're adopting AI—including what works, what doesn't and a checklist to be AI-ready.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What is agentic campaign management? A practical guide for 2026",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to connect Claude or ChatGPT to your marketing data",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the right partner program for you and enjoy the benefits of working with Supermetrics.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Expert training and enablement",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver the best solutions and services for your clients with the help of our training and enablement resources.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize your company’s growth by partnering with the leading marketing data platform.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Affiliate partner program",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Solution partner program",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No. While being a customer and having product knowledge will definitely help you promote us better, it is not a requirement to join the program.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can I join your program if I'm already participating in your competitors' programs?",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, absolutely. There are no restrictions on this. You are free to continue participating in any other programs you wish to join.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What are the different affiliate tiers in the Supermetrics affiliate program, and how do they impact commission rates and durations?",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "What Supermetrics products can partners promote?",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "You are free to promote any product you can find on our website at supermetrics.com.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No. Self-referral is strictly against our terms and conditions. Your commission will be declined during our fraud check process if the referred license is for your own use or for the company you work for.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can I create a partner website exclusively to promote Supermetrics?",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“I think one of the things that I've found the most useful from it is the data blending tools that Supermetrics provides, which allows us to do a lot of the transformation that we end up doing down the road in our internal reporting system. It allows us to be a lot more strategic about the blending that I can do within that platform before I send it down to the data lake.”",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“No other product apart from Supermetrics gives us the level of data granularity and reporting possibilities that we need in order to ensure we’re efficient, keep us client-focused and track campaign progression.”",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing intelligence for Enterprise",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Unify teams across data, tools, and markets with an end-to-end platform that’s flexible enough for enterprise scale with governance and security at its core.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics for enterprise",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise teams using Supermetrics go from setup to live dashboards in under 5 days on average, thanks to no-code connectors, prebuilt templates, and seamless integrations with tools you already use.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": ", with yearly audits to verify our controls and security practices.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Choose US or EU processing to meet data residency rules.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Pick whether you want the data in a Supermetrics dashboard, spreadsheet, BI tool, warehouse, or even a custom reporting solution.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize global marketing data",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises generate a ton of data. Easily bring data from all your marketing channels—Google, Facebook, and TikTok— to a single destination where it can be stored, processed, and analyzed.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Make better marketing decisions",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Shift your budget and resources to what really moves the needle. Use Supermetrics to figure out what’s happening with your marketing activities across channels, campaigns & customer segments.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Turn insights into immediate action. Activate campaigns in real-time, automate responses to performance changes, and keep your whole team aligned. Make every marketing dollar work harder, automatically.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "“Supermetrics has brought the marketing team, data team, and analytics team closer together and it’s been the core backbone of how to get our data infrastructure in place.”",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Effectiveness Manager - Europe, APAC & LATAM",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "“I'd say we save easily over 100 hours every month by using Supermetrics. The leadership team sees the value of the product as we can now get reports on their desk every Monday with more KPIs and quicker than before.”",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Marketing Operations",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce & Omnichannel Marketing",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "“The marketing team has to figure out how much money to spend and justify the need to the budget holders. And digital marketing is expensive. So using a tool like Supermetrics allows them to see what the campaigns are doing and better justify the costs.”",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "“Running an advanced statistical model like MMM, it’s non-negotiable to have a reliable data infrastructure in place. With the model using Supermetrics and Google Cloud, we’ve improved ROAS by at least 15%.”",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Analytics & Automation Lead",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "“Supermetrics hit the sweet spot for ETAM — great product quality, ease of use, relevant pricing, and real partnership. It wasn't just about buying a tool — it was about co-building a strategy. We felt like Supermetrics believed in our ambition and valued us as a client.”",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Built for how enterprises actually work",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The same data connections also feed the warehouse, code and reporting tools your team already uses.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Load analysis-ready marketing data into BigQuery, Snowflake or whichever warehouse your business runs on.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Pick whether you want the data in a Supermetrics dashboard, spreadsheet, BI tool, warehouse, or even a custom reporting solution.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Global Data and CRM Factory Director",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/solutions/smb",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "“Supermetrics helped us close a new 7-figure client thanks to our data warehouse offering. Along with thousands of hours in time savings, combining Supermetrics for Google Sheets and BigQuery has transformed our analytical capabilities.”",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Supermetrics is used by global networks including Dentsu, Publicis, Accenture, Omnicom, and Havas and supports enterprise data warehouse integrations for agencies managing hundreds of client accounts.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/solutions/ecommerce-dtc",
+    "pass": 1
+   },
+   {
+    "quote": "Global Data and CRM Factory Director",
+    "url": "https://supermetrics.com/solutions/ecommerce-dtc",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/solutions/retail-fmcg",
+    "pass": 1
+   },
+   {
+    "quote": "Global Data and CRM Factory Director",
+    "url": "https://supermetrics.com/solutions/retail-fmcg",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Stream clean data into Google's warehouse for SQL analysis and machine learning.",
+    "url": "https://supermetrics.com/solutions/data-team",
+    "pass": 1
+   },
+   {
+    "quote": "Transfer data to the data warehouse of your choice, including BigQuery, Snowflake, Amazon Redshift and many more.",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Supermetrics helped us close a new 7-figure client thanks to our data warehouse offering. Along with thousands of hours in time savings, combining Supermetrics for Google Sheets and BigQuery has transformed our analytical capabilities.”",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The one metered element is AI Credits, used by our Supermetrics Studio destination. Plans that include Supermetrics Studio come with a set allowance of AI Credits, and if you need more, you can buy them directly from Supermetrics Studio or via our Sales teams.",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & OLG | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Vollrath | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Automotive",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Increasing purchases in the automotive industry with journey orchestration",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Automotive Financing",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How to increase leads in automotive financing",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Accenture Interactive | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Super RTL | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Bygghemma Group & Gapps | Customer case study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Flying Tiger Copenhagen | Customer case study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How S360 helps Flying Tiger Copenhagen move their ecommerce data into a data warehouse with Supermetrics",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Humberview | Customer case study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & GCommerce | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How GCommerce used Supermetrics & Google BigQuery to create a marketing data warehouse",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Tinuiti | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Webprofits | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & dentsu Norway | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Siavak | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Heinemann | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Gravital | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Save the Children UK | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Sleeping Giant Media | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Reload Media | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & EPL Digital | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Supermetrics & Katté & Co | Customer Case Study",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200,000+ companies in 120 countries",
+    "url": "https://supermetrics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Layer & Supermetrics + Claude: Case study(Supermetrics公式)",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "pass": 3
+   },
+   {
+    "quote": "software company Relay42. Its customer data platform is used by companies such as",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Its customers included",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics API, data warehouses, and cloud storage:",
+    "url": "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Data warehouse and cloud storage (Hub):",
+    "url": "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Benefit Cosmetics improves local performance insights with Supermetrics | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-benefit-cosmetics-used-supermetrics-to-boost-customer-reviews-diagnose-regional-performance-and-make-informed-strategic-decisions",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Benefit Cosmetics improves local performance insights with Supermetrics",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-benefit-cosmetics-used-supermetrics-to-boost-customer-reviews-diagnose-regional-performance-and-make-informed-strategic-decisions",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-benefit-cosmetics-used-supermetrics-to-boost-customer-reviews-diagnose-regional-performance-and-make-informed-strategic-decisions",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-benefit-cosmetics-used-supermetrics-to-boost-customer-reviews-diagnose-regional-performance-and-make-informed-strategic-decisions",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Data Speaks achieves 6X ROI and scales to 100+ customers with Supermetrics | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-data-speaks-scaled-its-technology-with-supermetrics-and-grew-to-over-100-customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Data Speaks achieves 6X ROI and scales to 100+ customers with Supermetrics",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-data-speaks-scaled-its-technology-with-supermetrics-and-grew-to-over-100-customers",
+    "pass": 3
+   },
+   {
+    "quote": "Data Speaks, a B2B SaaS marketing attribution platform for ecommerce brands, needed a way to reliably collect customer data and scale its machine-learning models without adding headcount. As its customer base grew, the team needed a flexible, affordable ETL solution that could feed all customer data into one central warehouse for attribution analysis.",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-data-speaks-scaled-its-technology-with-supermetrics-and-grew-to-over-100-customers",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-data-speaks-scaled-its-technology-with-supermetrics-and-grew-to-over-100-customers",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "For marketing agencies",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the right partner program for you and enjoy the benefits of working with Supermetrics.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Affiliate partner program",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Consultants and small agencies",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Solution partner program",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Intelligence Platform for Agencies",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "The Marketing Intelligence Platform for agencies",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize your clients' marketing data, find out what's driving performance, and act on it — without waiting on data teams. From faster budget decisions to automated reporting, Supermetrics is the marketing intelligence platform agencies use to deliver and prove results.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Built for agencies that aim higher",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Why leading agencies choose Supermetrics",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Five ways agencies use Supermetrics to manage client data",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reporting",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Built to support marketing agencies at every scale",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Supermetrics lets agencies manage data connections, dashboards, and automated reports for all their clients from one central hub, with each client's data kept separate.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Can Supermetrics create white-label dashboards for clients?",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Supermetrics supports white-label reporting — agencies can deliver branded dashboards with custom themes and scheduled delivery, with internal tooling hidden from clients. Reports can be built directly in Supermetrics Dashboards, or pushed to Google Sheets, Looker Studio, Power BI, and Excel.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Supermetrics is used by global networks including Dentsu, Publicis, Accenture, Omnicom, and Havas and supports enterprise data warehouse integrations for agencies managing hundreds of client accounts.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies can be up and running in minutes. No coding required — pre-built integrations and ready-made dashboard templates mean most teams are delivering client-ready reports and insights on day one.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Can agencies use Supermetrics to build their own data products?",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Through Build on Supermetrics, agencies can use the Supermetrics API to build white-label analytics portals and client-facing data products — without managing their own data infrastructure. Precis built their",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "What AI capabilities does Supermetrics offer for agencies?",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": ", and Gemini — query Supermetrics data directly and use it inside agentic marketing workflows. Supermetrics also integrates with n8n for no-code automation. These capabilities mean agencies can automate analysis, surface insights, and trigger actions without manual data work.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Does Supermetrics support data activation for agencies?",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Supermetrics includes data activation capabilities that let agencies go beyond reporting — turning insights into action. Agencies can build audience segments from their clients' marketing data and activate them across ad platforms, email, and other channels. This closes the full loop from data to decision to execution, so agencies can prove that what they recommended actually drove results.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "The platform agencies grow with",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Data API to fetch, Platform API to provision access, branded authentication for a seamless, white-labelled flow.",
+    "url": "https://supermetrics.com/solutions/development-team",
+    "pass": 1
+   },
+   {
+    "quote": "Are there special Supermetrics plans for agencies?",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Supermetrics offers tailored solutions for marketing agencies, including multi-team setups, flexible account limits, and access to multiple destinations. Pricing is customized based on the scale of your agency.",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Around half of the company’s customers were marketing agencies.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Connect every channel, link campaigns directly to revenue growth, and show marketing's impact in concrete numbers.",
+    "url": "https://supermetrics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build incremental revenue",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your business through recurring commissions and new service revenue.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join Fortune 500 companies already transforming marketing data into competitive advantage.",
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Take a quick, interactive tour on how marketers transform raw data into revenue growth. No engineering degree required.",
+    "url": "https://supermetrics.com/solutions/smb",
+    "pass": 1
+   },
+   {
+    "quote": "Package white‑label dashboards, benchmarks and AI insights as subscription add‑ons. Generate new recurring revenue while clients enjoy deeper, self‑serve visibility. No extra engineering lift required.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Take a quick, interactive tour on how marketers transform raw data into revenue growth. No engineering degree required.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Track revenue from ad to checkout",
+    "url": "https://supermetrics.com/solutions/ecommerce-dtc",
+    "pass": 1
+   },
+   {
+    "quote": "See which ads, channels, and campaigns actually lead to purchases. Supermetrics connects every click to real revenue so you can optimize what drives results.",
+    "url": "https://supermetrics.com/solutions/ecommerce-dtc",
+    "pass": 1
+   },
+   {
+    "quote": "Unify your marketing, CRM, and booking data to drive smarter acquisition, higher guest satisfaction, and better retention. Supermetrics helps you connect the dots across every channel and customer.",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Tie marketing spend directly to conversions and revenue. Understand which offers, channels, and campaigns fill seats and rooms at the lowest cost.",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Connect all owned and paid marketing channels and personalise every customer journey in real time. Grow customer acquisition, loyalty, and revenue from cross- and upsell offers.",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-Channel Data Manager in the Acquisition team",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Director E-Acquisition",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Take a quick, interactive tour on how marketers transform raw data into revenue growth. No engineering degree required.",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Levi’s levelled up their customer data management by getting a unified view of their online and in-store customers, and then leveraged the data to improve their customer acquisition programs:",
+    "url": "https://supermetrics.com/solutions/retail-fmcg",
+    "pass": 1
+   },
+   {
+    "quote": "Take a quick, interactive tour on how marketers transform raw data into revenue growth. No engineering degree required.",
+    "url": "https://supermetrics.com/solutions/retail-fmcg",
+    "pass": 1
+   },
+   {
+    "quote": "Unite audience, content, and revenue data",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Link editorial decisions to revenue outcomes automatically. Know which stories drive subscriptions and ad income.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor programmatic and direct sales as they happen. React to revenue dips before they become problems.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect content performance to monetization across every property. See which topics, formats, and authors drive revenue. Create content your audience loves and advertisers buy.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Unify programmatic revenue with direct sales data for complete monetization visibility.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect video performance to overall content strategy and revenue goals.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Take a quick, interactive tour on how marketers transform raw data into revenue growth. No engineering degree required.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "Unite your data. Multiply your revenue. Simplify your content success.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "“A part of my consideration process was how much Supermetrics invested in its product development. It was important for us to choose a vendor that could grow with us. I wanted to make sure that Supermetrics kept developing your product and adding new integrations. And they have delivered.”",
+    "url": "https://supermetrics.com/solutions/data-team",
+    "pass": 1
+   },
+   {
+    "quote": "How Ansell got a clear view from click to revenue despite the long B2B sales cycle",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "All full-time Supermetrics employees are owners through equity. Everyone is also part of a personal bonus or commission plan.",
+    "url": "https://supermetrics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enjoy working flexibly from home and in productive and uplifting office environments. Fully remote employees get a stipend to upgrade their home office.",
+    "url": "https://supermetrics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We take recharging from work seriously and encourage you to take all your paid time off. Paid parental leave is part of the package, too, of course, except in our Netherlands office.",
+    "url": "https://supermetrics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm proud to be part of Supermetrics' exceptional team, where we pursue growth, diversity, transparency, honest feedback, and bigger challenges.”",
+    "url": "https://supermetrics.com/careers/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "This bootstrapped financial performance meant that by 2016, the company reported annual revenues of 1.6 million euros, representing a 151 percent year-over-year increase. It achieved this growth with a net profit margin of 63 percent.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "The company had nearly 50 employees, and its revenue grew approximately 770 percent from 2017 to 2019.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "By the end of 2021, the company had around 200 employees across Finland, Lithuania, and the United States.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "In 2022, Supermetrics announced it had surpassed 50 million euros in revenue, maintaining a 40 percent year-over-year growth rate. According to public financial information number of employees were reported as 172 in 2021 and 354 in 2023.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2025, Supermetrics acquired the",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Supermetrics had over 360 employees. They represented more than 40 different nationalities. The company has offices in",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "It functions as a no-code software solution that automates the extraction and transfer of data from a wide array of siloed marketing and sales platforms.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to acquisition of Relay42, Supermetrics began to position its expanded offering as a \"Marketing Intelligence Platform\". It was a move to offer a more complete tool that helps with every step of handling marketing data.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": ", Adverity, FiveTran and Stitch (part of Talend) in this space.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "According to the company, the acquisition of Relay42 represents a strategic effort to move upmarket and compete more directly with comprehensive data platforms by adding data activation as a key differentiator.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Niipola, Jani (2016-12-05).",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Karr, Douglas (2025-01-13).",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Download list of 1 companies using Supermetrics in Japan. This curated list is available for download and comes enriched with vital company specifics, including industry classification, organizational size, geographical location, funding rounds, and revenue figures, among others.",
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "pass": 3
+   },
+   {
+    "quote": "You can customize this data to your needs by filtering for geography, industry, company size, revenue, technology usage, job postions and more. You can download the data in Excel or CSV format.",
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/supermetrics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Which channels created revenue?",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Campaign, source, contacts, deals, orders, revenue",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Current and prior period spend, conversions, revenue, and campaign status",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Build the first query narrowly. For a Google Ads campaign report, choose one account, a fixed date range such as the last 30 completed days, dimensions including Date and Campaign name, and metrics including Cost, Impressions, Clicks, and Conversions. Run the query, inspect the column names and totals, then expand the date range or add fields only after the initial output is correct.",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "For a monthly channel review, export a Supermetrics table with columns for month, channel, spend, impressions, clicks, conversions, revenue, and notes. Include at least two comparable periods, such as August 2026 and September 2026-to-date, only if both periods are labeled clearly. Do not ask AnyGen to infer unavailable attribution, missing revenue, or source-platform definitions.",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ask for a channel comparison table using spend, conversions, revenue, return on ad spend, and period-over-period change where the underlying values exist.",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Best practice: provide AnyGen with the exact Supermetrics export and the reporting question, such as Which channels increased qualified conversions while holding spend flat? This produces a traceable narrative instead of a generic summary.",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Compare at least one account total and one campaign total with the source platform for the same date range, time zone, and currency. Confirm metric definitions, especially for conversions, revenue, attribution windows, and calculated fields, before using the output in a decision meeting.",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   },
+   {
+    "quote": "To view Supermetrics’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics has 399 total employees.",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   },
+   {
+    "quote": "What is Supermetrics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Supermetrics is",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": ", enter your email address, and click Continue. On the next page, select Forgot my password and then click Send Reset Email. Check your inbox for an email from PartnerStack with instructions to complete the password reset.",
+    "url": "https://supermetrics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Supermetrics includes data activation capabilities that let agencies go beyond reporting — turning insights into action. Agencies can build audience segments from their clients' marketing data and activate them across ad platforms, email, and other channels. This closes the full loop from data to decision to execution, so agencies can prove that what they recommended actually drove results.",
+    "url": "https://supermetrics.com/solutions/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Say goodbye to your CDP. Supermetrics sends clean, up-to-date insight back to your ad, email and engagement platforms, automates real-time optimizations, and keeps every team aligned. So every marketing dollar drives greater growth.",
+    "url": "https://supermetrics.com/solutions/ecommerce-dtc",
+    "pass": 1
+   },
+   {
+    "quote": "Consolidate your data to understand how guests move between search, email, social, and web. Deliver more consistent, personalized messaging that drives conversion.",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "increase in email value",
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Say goodbye to your CDP. Supermetrics sends clean, up-to-date insight back to your ad, email and engagement platforms, automates real-time optimizations, and keeps every team aligned. So every marketing dollar drives greater growth.",
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 coverage with tickets, chat & email.",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot Marketing Emails",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Import your own structured data on a schedule via email, URL, or SFTP.",
+    "url": "https://supermetrics.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/supermetrics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/supermetrics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Before connecting a source, identify the least-privileged account that can read the needed data. For example, a weekly Google Ads spend report needs reporting access, not the ability to edit campaigns. Before delivering data to a warehouse or spreadsheet, decide whether the chosen fields include personally identifiable information such as email address, phone number, or customer ID.",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本国内ではあまり知られていませんが、低価格で始められて操作も簡単なレポート自動作成ツールです",
+    "url": "https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でよく使われているGoogle広告やFacebook広告、Google Analytics（現GA4）やX広告（旧Twitter広告）は連携していますが、Yahoo!広告やSmartNews等の国内メディア独自の媒体には連携していません",
+    "url": "https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "社内用では実際の広告費から代理店の手数料を乗せた費用を算出して、広告主共有用のシートを作成します",
+    "url": "https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "全国対応（東京・大阪・名古屋・福岡・金沢・オンライン）",
+    "url": "https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "エリアも東京・名古屋・大阪・福岡・金沢と全国の主要都市に対応している",
+    "url": "https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、欧州のマーケティングデータ企業Supermetricsと、その顧客であるノルウェーの広告代理店Layerの事例をもとに、日本の現場でも真似できるポイントを解説します",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "pass": 3
+   },
+   {
+    "quote": "この機能を実際に使っているのが、25人規模のノルウェーのデジタルマーケティング代理店「Layer」です",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "pass": 3
+   },
+   {
+    "quote": "3. 日本企業への応用ヒント",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "pass": 3
+   },
+   {
+    "quote": "このアカウントでは、海外企業のAI活用事例を、日本語で毎日1本ずつご紹介しています",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "pass": 3
+   },
+   {
+    "quote": "海外ではもう当たり前になっている使い方が、日本ではまだあまり知られていない、ということが実はたくさんあります",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "pass": 3
+   },
+   {
+    "quote": "は本日、主要ブランドや代理店のマーケティング担当者を対象としたグローバル調査に基づく「2026年マーケティング・データ・レポート」を発表しました",
+    "url": "https://www.prnewswire.com/jp/news-releases/supermetricsai6-302708062.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の広告支出の15%を取り扱っているSupermetricsは、ブランドや代理店が今日の進化するデータ環境の中で自信を持ってマーケティングを舵取りできるようサポートしています",
+    "url": "https://www.prnewswire.com/jp/news-releases/supermetricsai6-302708062.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics ETLツールの導入事例一覧｜ITトレンド",
+    "url": "https://it-trend.jp/etl/26992/case",
+    "pass": 3
+   },
+   {
+    "quote": "You need a Yahoo! Japan business account to connect to Supermetrics.",
+    "url": "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "pass": 3
+   },
+   {
+    "quote": "When connecting to LY Ads Display Ads, you need to log in to Yahoo! Japan.",
+    "url": "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your Yahoo! Japan business account credentials.",
+    "url": "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Supermetrics in Japan (1) | TheirStack.com",
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Supermetrics in Japan",
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "pass": 3
+   },
+   {
+    "quote": "List of companies using Supermetrics in Japan",
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Download list of 1 companies using Supermetrics in Japan. This curated list is available for download and comes enriched with vital company specifics, including industry classification, organizational size, geographical location, funding rounds, and revenue figures, among others.",
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、欧州のマーケティングデータ企業Supermetricsと、その顧客であるノルウェーの広告代理店Layerの事例をもとに、日本の現場でも真似できるポイントを解説します",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "この機能を実際に使っているのが、25人規模のノルウェーのデジタルマーケティング代理店「Layer」です",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. 日本企業への応用ヒント",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "このアカウントでは、海外企業のAI活用事例を、日本語で毎日1本ずつご紹介しています",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "海外ではもう当たり前になっている使い方が、日本ではまだあまり知られていない、ということが実はたくさんあります",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "今日は、欧州のマーケティングデータ企業Supermetricsと、その顧客であるノルウェーの広告代理店Layerの事例をもとに、日本の現場でも真似できるポイントを解説します",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "この機能を実際に使っているのが、25人規模のノルウェーのデジタルマーケティング代理店「Layer」です",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "3. 日本企業への応用ヒント",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "このアカウントでは、海外企業のAI活用事例を、日本語で毎日1本ずつご紹介しています",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "海外ではもう当たり前になっている使い方が、日本ではまだあまり知られていない、ということが実はたくさんあります",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Supermetricsを使ってレポート作成を自動化する方法や費用を解説 — Supermetricsの活用事例 Google広告やFacebook広告などと連携しており、低価格でGoogle Spread Sheets等にレポート結果を出力できるSupermetricsですが、具体的にどのような活用方法があるのか幾つかご紹介します。",
+    "url": "https://careerup-jobchange.net/supermetricsを使ってレポート作成を自動化する方法や費/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング分析ツールSupermetricsは、AIとの会話だけで「10時間... — Sep 27, 2026 · 今日は、欧州のマーケティングデータ企業Supermetricsと、その顧客であるノルウェーの広告代理店Layerの事例をもとに、日本の現場でも真似できるポイントを解説します。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetricsの最新レポートによると、AIを完全に導入しているマーケ... — Mar 10, 2026 · Supermetricsはシステム間のデータを接続し、より迅速で信頼性の高い意思決定を可能にすることで、マーケティングチームがAIへの期待と測定可能 ...",
+    "url": "https://www.prnewswire.com/jp/news-releases/supermetricsai6-302708062.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics ETLツールの導入事例一覧｜ITトレンド — Supermetrics ETLツールの導入事例の一覧を紹介します。 導入企業による成功事例や導入効果、選定ポイントのインタビューを紹介します。 業界や従業員規模など自社に合う事例を見てみましょう。",
+    "url": "https://it-trend.jp/etl/26992/case",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetricsの料金｜$29〜のプラン比較と国内媒体の落とし穴【2026年... — Aug 10, 2026 · Supermetricsは月$29〜、BigQuery連携のEnterpriseは月$1,500〜。 LINE広告は2027年3月にAPI終了、国内媒体は要注意です。 2026年時点の料金・日本媒体対応・Windsor.ai/TROCCO/アドヨミAIなど代替を、日本の実務目線で中立に比較します。",
+    "url": "https://evast.jp/blog/supermetrics-pricing-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Intelligence Platform: Supermetrics — Ask your marketing data what is working, then create and manage campaigns from the same conversation. Supermetrics Studio, your AI chat, or the reporting tool you already use.",
+    "url": "https://supermetrics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - Wikipedia — Supermetrics operates within the marketing technology landscape, specifically in the data integration, business intelligence, and analytics sectors. Key competitors include Funnel, Adverity, FiveTran and Stitch (part of Talend) in this space.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Intelligence Platform: Supermetrics — Ask your data what is working, then act on the answer without leaving the conversation. Supermetrics connects your ad platforms, analytics and CRM to Claude, ChatGPT and Supermetrics Studio, so every answer comes from live data.",
+    "url": "https://supermetrics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LY Ads Display Ads connection guide - docs.supermetrics.com — Jul 16, 2025 · Connect your Yahoo! Japan Display Ads data to Supermetrics with our guide. Learn about permissions, connection steps, and supported data destinations.",
+    "url": "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Supermetrics in Japan (1) | TheirStack.com — Download a list of 1 companies that use Supermetrics in Japan with enriched data including industry, company size, location, funding rounds, and revenue figures.",
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics Case Studies — Get to know some of our customers and see how they’re using Supermetrics to move their marketing data and get rid of data silos.",
+    "url": "https://supermetrics.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Benefit Cosmetics improves local performance ... — \"How Benefit Cosmetics used Supermetrics to boost customer reviews, diagnose regional performance, and make informed strategic decisions\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-benefit-cosmetics-used-supermetrics-to-boost-customer-reviews-diagnose-regional-performance-and-make-informed-strategic-decisions",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Data Speaks achieves 6X ROI and scales to 100 ... — With Supermetrics, Data Speaks scaled to more than 100 customers without increasing headcount, improved revenue per ad dollar by 20–40% for clients, and estimated a 6X ROI from saving at least one data engineering resource. View this case study…",
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-data-speaks-scaled-its-technology-with-supermetrics-and-grew-to-over-100-customers",
+    "pass": 3
+   },
+   {
+    "quote": "58 Supermetrics Case Studies, Success Stories, & Customer ... — Discover how other companies use Supermetrics, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/supermetrics/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics Case Studies & Customer Success | CusperaSupermetrics AI Case Study: Workflow automation | AIUseCaseHubSupermetrics case study | Google Cloud — Supermetrics helped Orange Line automate client reporting, saving 25–75 hours per week. The agency used Supermetrics to scale data operations... and manage complex marketing data for clients. Orange Line improved reporting speed and accuracy, ",
+    "url": "https://www.cuspera.com/products/supermetrics-x-12530/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Build On Supermetrics — Headless API's powering the next generation of white-labelled data products, dashboards, AI workflows, and more. All on top of the Supermetrics platform.",
+    "url": "https://supermetrics.com/build-on-supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Build on Supermetrics: APIs for Building White-Label Data ... — Apr 30, 2026 · Build on Supermetrics is a collection of APIs that lets SaaS companies and agencies build, white-label, and scale their own data products without maintaining integrations. Book demo!",
+    "url": "https://supermetrics.com/blog/build-on-supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics: Pricing, Connectors & Setup | AnyGen — Understand Supermetrics pricing, connectors, destinations, setup steps, security, and how to turn marketing data into usable reporting.",
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - Wikipedia — In 2022, Supermetrics announced it had surpassed 50 million euros in revenue, maintaining a 40 percent year-over-year growth rate. According to public financial information number of employees were reported as 172 in 2021 and 354 in 2023.",
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - 2026 Company Profile, Funding & Competitors ... — Mar 30, 2026 · Supermetrics - About the company Supermetrics is a series B company based in Helsinki (Finland), founded in 2013. It operates as an Excel based report automation tools for web and social media data. Supermetrics has raised $51.3M in funding from Highland Europe and OpenOcean.",
+    "url": "https://tracxn.com/d/companies/supermetrics/__wqaWQUBjzxJfmVw9GLThv32Od4_ED954zTXW2n4Rlp0",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics 2026 Company Profile: Valuation, Funding ...Supermetrics Revenue 2024: $89.5M Est., $50.7M Raised - LATKASupermetrics – Business Snapshot & Rival Analysis – 2026Supermetrics Revenue, Funding & Valuation - prospeo.ioSupermetrics - WikipediaSupermetrics - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Supermetrics. Use",
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics Revenue 2024: $89.5M Est., $50.7M Raised - LATKA — Oct 12, 2026 · Supermetrics is a Helsinki-based marketing data integration platform founded in 2013 by Mikael Thuneberg.",
+    "url": "https://getlatka.com/companies/supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics – Business Snapshot & Rival Analysis – 2026 — Discover Supermetrics's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/supermetrics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Marketing analytics tool Supermetrics reduced '10 hours of ... Supermetrics is a European-based marketing data platform company. They provide a mechanism to consolidate data from hundreds of advertising and analytics tools, such as Google Ads, Meta, LinkedIn, TikTok, and Google Analytics 4, and are used by over 200,000 companies worldwide.",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "마케팅 분석 도구 Supermetrics는 AI와의 대화만으로 '10시간 걸리던 ... Sep 26, 2026 · Supermetrics는 유럽을 거점으로 하는 마케팅 데이터 플랫폼 기업입니다. Google Ads, Meta, LinkedIn, TikTok, Google Analytics 4 등 수백 가지에 달하는 광고 및 분석 도구의 데이터를 하나로 모으는 시스템을 제공하며, 전 세계 20만 개 이상의 기업이 이용하고 있습니다.",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "マーケティング分析ツールSupermetricsは、AIとの会話だけで「10時間のレポート作成」を20分に縮めた｜海外AI事例ノート",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング分析ツールSupermetricsは、AIとの会話だけで「10時間のレポート作成」を20分に縮めた",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "毎週10時間かけていたレポート作成が、20分で終わるようになりました。作業をしたのは、エンジニアではなく現場のマーケティング担当者自身です。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「毎週・毎月のレポート作成、正直かなりの時間を取られていませんか？」",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "広告の数字を各媒体からダウンロードし、フォーマットを整え、クライアントや上司向けに体裁を整える。地味ですが、マーケティングや営業の現場では欠かせない作業ですよね。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「ダッシュボードを作れば解決するのでは？」と思うかもしれません。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "……しかし。 ダッシュボードには、実は大きな弱点があります。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「先月と比べてどうか」「このキャンペーンだけ抜き出すとどうか」——そんな一歩踏み込んだ質問が来るたびに、担当者は結局、手作業で数字を集め直すことになります。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング分析ツールSupermetricsは、AIとの会話だけで「10時間のレポート作成」を20分に縮めた｜海外AI事例ノート",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング分析ツールSupermetricsは、AIとの会話だけで「10時間のレポート作成」を20分に縮めた",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "毎週10時間かけていたレポート作成が、20分で終わるようになりました。作業をしたのは、エンジニアではなく現場のマーケティング担当者自身です。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "「毎週・毎月のレポート作成、正直かなりの時間を取られていませんか？」",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "広告の数字を各媒体からダウンロードし、フォーマットを整え、クライアントや上司向けに体裁を整える。地味ですが、マーケティングや営業の現場では欠かせない作業ですよね。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "「ダッシュボードを作れば解決するのでは？」と思うかもしれません。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "……しかし。 ダッシュボードには、実は大きな弱点があります。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "「先月と比べてどうか」「このキャンペーンだけ抜き出すとどうか」——そんな一歩踏み込んだ質問が来るたびに、担当者は結局、手作業で数字を集め直すことになります。",
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Supermetrics (@Supermetrics) / X Join thousands of marketers who've ditched the spreadsheet sprint with Supermetrics for Claude.",
+    "url": "https://x.com/Supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics Status (@SupermetricsS) / Posts / X Cloudflare has implemented a fix, and we are beginning to see Supermetrics services recovering. We will continue to monitor for errors to ensure all systems return to normal.",
+    "url": "https://x.com/SupermetricsS",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics The agencies growing fastest right now aren't adding more account managers. They're building products. Client portals. Live dashboards. Packaged reporting. All under their brand. No big engineering team. Just the right data foundation. Read how Alvie built a marketing performance tool with Build on Supermetrics 🔗 bit.ly/49fmczM",
+    "url": "https://x.com/Supermetrics/status/2062825888572399906",
+    "pass": 3
+   },
+   {
+    "quote": "We're heading to @DataDecoded_HQ ! Supermetrics will be at ... Supermetrics will be at Stand E50 on April 22, and we're bringing two of our own to the stage. Evan Kaeding and Valter Andersson will be sharing real talk on where AI strategies break down and why the modern data stack still has a last-mile problem.",
+    "url": "https://x.com/Supermetrics/status/2042263542435373341",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics Status (@SupermetricsS) / Posts / X Feb 28, 2022 · Cloudflare has implemented a fix, and we are beginning to see Supermetrics services recovering. We will continue to monitor for errors to ensure all systems return to normal.",
+    "url": "https://x.com/SupermetricsS",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Supermetrics - LinkedIn Supermetrics connects hundreds of ad and marketing platforms to your analytics tools, data warehouses, and AI assistants — including native MCP support so you can talk to your data directly.",
+    "url": "https://www.linkedin.com/company/supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - LinkedIn Supermetrics helps turn overwhelming data into clear insight and immediate action. Connect, analyze, shape, and act on your data with the Supermetrics Marketing Intelligence Platform.",
+    "url": "https://www.linkedin.com/products/supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - LinkedIn Supermetrics helps 750k+ marketers and analysts make better decisions with their data. Connect your marketing sources to any destination — from spreadsheets to data warehouses — and activate data...",
+    "url": "https://ie.linkedin.com/company/supermetrics",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - LinkedIn Supermetrics helps 750k+ marketers and analysts make better decisions with their data. Connect your marketing sources to any destination — from spreadsheets to data warehouses — and activate data...",
+    "url": "https://sg.linkedin.com/company/supermetrics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Supermetrics | Helsinki - FacebookSupermetrics - The next era of marketing intelligence is ...Unable to fetch Facebook data from Supermetrics Query in ...Supermetrics - Bring every data source into one platform ...No more searching. Get live marketing insights with our ...Build live, hallucination-free marketing dashboards in Claude ...Supermetrics helps you track all engagement data effortlessly ",
+    "url": "https://www.facebook.com/Supermetrics/",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - The next era of marketing intelligence is ... Nov 5, 2025 · This is more than “just AI features.” Supermetrics AI is built on 15 years of trusted marketing data, a proprietary Knowledge Graph, and hybrid intelligence architecture. The result? Agents that think like marketers, analyze like analysts, and recommend next steps you can trust.",
+    "url": "https://www.facebook.com/Supermetrics/posts/the-next-era-of-marketing-intelligence-is-heremarketers-dont-need-more-data-they/833984105848472/",
+    "pass": 3
+   },
+   {
+    "quote": "Unable to fetch Facebook data from Supermetrics Query in ... I contacted Supermetrics support and they mentioned that the issue is from Facebook end and not from theirs. The issue is with the API as this seems to be a Graph API issue as suggested by Business Facebook support team.",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "Supermetrics - Bring every data source into one platform ... Oct 8, 2026 · What a week for the Supermetrics team! 🌍 From Helsinki to London, Las Vegas to São Paulo — we’ve been showing up where it matters most. @measurecamphel, @shoptalkevents, our Data Activation drinks in London, @cmosummit in Brazil, AND our very first LinkedIn Live with founder, Mikael.",
+    "url": "https://www.facebook.com/Supermetrics/posts/bring-every-data-source-into-one-platform-so-your-team-sees-the-complete-picture/1108761121704101/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "Unable to fetch Facebook data from Supermetrics Query in Google Sheets. - 開発者コミュニティフォーラム - Meta for Developers",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "Unable to fetch Facebook data from Supermetrics Query in Google Sheets.",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "We are using Supermetrics to fetch Facebook data in Google Sheets for reporting. Since last week the data is not getting fetched. I contacted Supermetrics support and they mentioned that the issue is from Facebook end and not from theirs. The issue is with the API as this seems to be a Graph API issue as suggested by Business Facebook support team.",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "The below is a sample error message which is getting displayed in google sheets:",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Error: Unsupported get request. Object with ID 'act_414072115944087' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\"",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "Please let us know how to resolve this query as it is hampering the reporting.",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated turnover time is 48 hours and its been more than 4 days to this question raised and I have not received any revert on this.",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, rather than helping us out with our queries and understanding it, you are closing it without our consent. https://developers.facebook.com/support/bugs/153361262630942/",
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://supermetrics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/smb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/ecommerce-dtc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/travel-hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/retail-fmcg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/media-publishing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/marketing-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/data-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/solutions/development-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/careers/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/careers/engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/careers/life-at-supermetrics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supermetrics.com/book-demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.supermetrics.com/images/dsLogos/FB.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.supermetrics.com/images/dsLogos/FB.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.supermetrics.com/images/dsLogos/AW.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.supermetrics.com/images/dsLogos/GAWA.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/jp/news-releases/supermetricsai6-302708062.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/etl/26992/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theirstack.com/en/technology/supermetrics/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-benefit-cosmetics-used-supermetrics-to-boost-customer-reviews-diagnose-regional-performance-and-make-informed-strategic-decisions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/supermetrics/case-study/how-data-speaks-scaled-its-technology-with-supermetrics-and-grew-to-over-100-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/supermetrics/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.anygen.io/showcase/supermetrics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Supermetrics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/supermetrics/__wqaWQUBjzxJfmVw9GLThv32Od4_ED954zTXW2n4Rlp0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/102388-51",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/supermetrics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Supermetrics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SupermetricsS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Supermetrics/status/2062825888572399906",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Supermetrics/status/2042263542435373341",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/supermetrics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/supermetrics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ie.linkedin.com/company/supermetrics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/supermetrics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Supermetrics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Supermetrics/posts/the-next-era-of-marketing-intelligence-is-heremarketers-dont-need-more-data-they/833984105848472/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/community/threads/228730325154712/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/Supermetrics/posts/bring-every-data-source-into-one-platform-so-your-team-sees-the-complete-picture/1108761121704101/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Supermetrics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SupermetricsS",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Supermetrics 日本 導入",
+   "results": [
+    "https://careerup-jobchange.net/supermetricsを使ってレポート作成を自動化する方法や費/",
+    "https://note.com/kaigai_ai_note/n/n59d30cbfcf29",
+    "https://www.prnewswire.com/jp/news-releases/supermetricsai6-302708062.html",
+    "https://it-trend.jp/etl/26992/case",
+    "https://evast.jp/blog/supermetrics-pricing-alternatives/",
+    "https://www.gate.com/ja/news/detail/supermetrics-lets-claude-build-campaigns-across-six-ad-platforms-25412664",
+    "https://www.data-be.at/magazine/supermetrics/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Supermetrics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://supermetrics.com/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Supermetrics Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Supermetrics",
+    "https://supermetrics.com/",
+    "https://docs.supermetrics.com/docs/ly-ads-display-ads-connection-guide",
+    "https://theirstack.com/en/technology/supermetrics/jp",
+    "https://careerup-jobchange.net/supermetricsを使ってレポート作成を自動化する方法や費/",
+    "https://supermetrics.com/the-data-activation-webinar-series-japac",
+    "https://www.data-be.at/magazine/supermetrics/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Supermetrics manufacturing customer case study",
+   "results": [
+    "https://supermetrics.com/case-studies",
+    "https://www.casestudies.com/company/supermetrics/case-study/how-benefit-cosmetics-used-supermetrics-to-boost-customer-reviews-diagnose-regional-performance-and-make-informed-strategic-decisions",
+    "https://www.casestudies.com/company/supermetrics/case-study/how-data-speaks-scaled-its-technology-with-supermetrics-and-grew-to-over-100-customers",
+    "https://www.featuredcustomers.com/vendor/supermetrics/case-studies",
+    "https://www.cuspera.com/products/supermetrics-x-12530/customer-story",
+    "https://www.aiusecasehub.com/case/supermetrics-builds-an-ai-agent-with-vertex-ai-agent-builder",
+    "https://cloud.google.com/customers/supermetrics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Supermetrics white label OR reseller OR partner program",
+   "results": [
+    "https://supermetrics.com/build-on-supermetrics",
+    "https://partner.vw.com/",
+    "https://supermetrics.com/blog/build-on-supermetrics",
+    "https://www.anygen.io/showcase/supermetrics/index.html",
+    "https://partners.gohighlevel.com/",
+    "https://partners.spectrum.com/",
+    "https://whatagraph.com/reviews/supermetrics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Supermetrics founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Supermetrics",
+    "https://tracxn.com/d/companies/supermetrics/__wqaWQUBjzxJfmVw9GLThv32Od4_ED954zTXW2n4Rlp0",
+    "https://pitchbook.com/profiles/company/102388-51",
+    "https://getlatka.com/companies/supermetrics",
+    "https://compworth.com/company/supermetrics",
+    "https://prospeo.io/c/supermetrics-revenue",
+    "https://www.crunchbase.com/organization/supermetrics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Supermetrics",
+   "results": [
+    "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=en",
+    "https://note.com/kaigai_ai_note/n/n59d30cbfcf29?hl=ko",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Supermetrics",
+   "results": [
+    "https://x.com/Supermetrics",
+    "https://x.com/SupermetricsS",
+    "https://x.com/Supermetrics/status/2062825888572399906",
+    "https://x.com/Supermetrics/status/2042263542435373341",
+    "https://x.com/DaytonDavis/status/2118042662695776750",
+    "https://x.com/Surbhi_Insights/status/2118745645431545888",
+    "https://x.com/mikaelthuneberg"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Supermetrics",
+   "results": [
+    "https://www.linkedin.com/company/supermetrics",
+    "https://www.linkedin.com/products/supermetrics",
+    "https://ie.linkedin.com/company/supermetrics",
+    "https://sg.linkedin.com/company/supermetrics",
+    "https://business.linkedin.com/advertise/partners/find-a-partner/supermetrics",
+    "https://in.linkedin.com/company/supermetrics/life",
+    "https://uk.linkedin.com/in/mattsimmonds"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Supermetrics",
+   "results": [
+    "https://www.facebook.com/Supermetrics/",
+    "https://www.facebook.com/Supermetrics/posts/the-next-era-of-marketing-intelligence-is-heremarketers-dont-need-more-data-they/833984105848472/",
+    "https://developers.facebook.com/community/threads/228730325154712/",
+    "https://www.facebook.com/Supermetrics/posts/bring-every-data-source-into-one-platform-so-your-team-sees-the-complete-picture/1108761121704101/",
+    "https://www.facebook.com/Supermetrics/videos/unlock-your-competitive-edge-with-supermetrics/1047016284558534/",
+    "https://www.facebook.com/Supermetrics/videos/manage-campaigns-with-ai/2155223438728584/",
+    "https://www.facebook.com/Supermetrics/videos/your-marketing-data-now-in-claude/1712733423140758/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Supermetrics note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://supermetrics.com/about",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Supermetrics X 投稿",
+   "results": [
+    "https://x.com/Supermetrics",
+    "https://x.com/SupermetricsS",
+    "https://supermetrics.com/",
+    "https://docs.supermetrics.com/docs/x-organic-twitter-connection-guide",
+    "https://docs.supermetrics.com/docs/x-ads-twitter-connection-guide",
+    "https://github.com/finracofficial-cmd/milbon/tree/claude/x-posting-style-learning-ewdf4s/",
+    "https://github.com/finracofficial-cmd/milbon/blob/claude/x-posting-style-learning-ewdf4s/README.md"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

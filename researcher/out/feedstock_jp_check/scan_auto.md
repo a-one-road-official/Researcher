@@ -12,7 +12,7 @@
 - 図・グラフの見出しに見える引用（4-91）：0件
 - 桁の感覚の外れで外した人数（1,000万人超・4-31）：0件
 - 要確認（文脈不明か年が無い）：84件／84件。この数字は結論に使う前に引用の本文で確かめる
-- 除外の点検（規則ごとに外した数字の件数・4-39）：見出し・題名・検索結果の抜粋（4-5） 36件、金額の階級の境目（4-40） 4件
+- 除外の点検（規則ごとに外した数字の件数・4-39）：見出し・題名・検索結果の抜粋（4-5） 37件、金額の階級の境目（4-40） 4件
 - 短すぎる引用（12字未満・メニューや表の切れ端の疑い・4-39）から取った数字：2件。結論に使う前に本文で確かめる
 - 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：Additive Manufacturing Systems（13件）、Shenzhen Esun Industrial（6件）、CMS（9件）。この品目の引用は全件を本文と照らす
   - ⚠ 翻訳・要約・又聞きの型の引用から取った数字 1件（例：Additive Manufacturing Systems）：元の一次と見比べるまで採る値・裏付けにしない（4-55）
@@ -24,7 +24,7 @@
   - 検索語の向きの片寄り（4-56）：一方の向きの語だけで探している品目 0件／266件
   - 前提を置いた問いの形の品目（4-62）：0件／266件
   - 検索語の数字のこだま（4-63）：数字を入れた品目 1件／266件、そのうち検索語の数字と同じ値を拾った品目 0件
-  - 取得の記録の連鎖（4-55）：b2c50c404e4b（前回 b7b063ce5274 から変わった：足された・消えた・書き換えられた行がある）
+  - 取得の記録の連鎖（4-55）：b2c50c404e4b（前回と同じ）
 - 鍵の欠け率（照合の前の棚卸し・4-42）：年 82/84件（98%）、規模区分 84/84件（100%）、文脈 36/84件（43%）、取得日 0/84件（0%）
 
 ## AITA
@@ -200,8 +200,7 @@
 - 試算値・推計値として事実の向きから外した数字：0件
 
 ## 前回からの変化（採る値・確度・年。4-38）
-- 新しく出た：VTT｜日本の担い手［不明］（%） 100（年不明年）【未確認】
-- 新しく出た：VTT｜規模・親会社［売上・決算］（%） 39（年不明年）【未確認】
+（変化なし）
 
 ## 同じ文の中の割り出し（総額÷人数・4-39）
 （なし）
@@ -231,7 +230,7 @@
 - 注記の記号（※・注・＊）の直後に数字がある引用のある品目：0件（注記の番号が値にくっついて桁が変わる疑い。原表で値と注記を分けてから使う）
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：10件／数字のある品目 19件（53%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
-  - www.thenewbarcelonapost.com と siocast.com：品目の重なり 1/1（100%）
+  - siocast.com と www.thenewbarcelonapost.com：品目の重なり 1/1（100%）
   - www.voxelmatters.com と www.thenewbarcelonapost.com：品目の重なり 0/3（0%）
   - www.voxelmatters.com と www.stocktitan.net：品目の重なり 0/3（0%）
   - www.voxelmatters.com と siocast.com：品目の重なり 0/3（0%）
@@ -258,6 +257,7 @@
 - 3D Ever — VoxelMatters
 - 3DBioFibR — VoxelMatters
 - 3DCeram-Sinto — VoxelMatters
+- 3DCeram-TIWARI — VoxelMatters
 - ADDIMETAL
 - AF-COLOR
 - AKRO-PLASTIC GmbH
@@ -272,6 +272,7 @@
 - Airtech Europe Sarl
 - Alfonso Additive — VoxelMatters
 - Atomik AM — VoxelMatters
+- Axenoll — VoxelMatters
 - Axolotl Biosciences — VoxelMatters
 - Axtra3D — VoxelMatters
 - AzureFilm d.o.o.
@@ -280,6 +281,7 @@
 - BIOFABICS — VoxelMatters
 - Beijing Longyuan Automated Fabrication System Co. Ltd.
 - Bernhardt Kunststoffverarbeitungs GmbH
+- Blesol-Tech — VoxelMatters
 - CH Leading Additive Manufacturing — VoxelMatters
 - CMET — VoxelMatters
 - CURRANT 3D & Sugar Lab — VoxelMatters
@@ -288,16 +290,23 @@
 - Caracol AM — VoxelMatters
 - Carbon — VoxelMatters
 - ChanhonTech — VoxelMatters
+- Chitomed — VoxelMatters
+- Clecell — VoxelMatters
+- Cocuus — VoxelMatters
 - Continuum Powders (formerly Molyworks) — VoxelMatters
 - Cprint 3D
 - Creality — VoxelMatters
+- Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters
 - Dongguan Jiecheng Additive Technology
+- Essent Biologics — VoxelMatters
+- Exentis Group — VoxelMatters
 - FLXR Engineering Co., Ltd.  — VoxelMatters
 - FVMat — VoxelMatters
 - Filkemp S.A.
 - FormFutura B.V.
 - Formnext — VoxelMatters
 - Foundry Lab
+- Fuselab 3D — VoxelMatters
 - GRAFE GmbH & Co. KG
 - GUZTEC POLYMERS SRL
 - Grupo Hi-Tec — VoxelMatters
@@ -307,16 +316,21 @@
 - HYMAG'IN — VoxelMatters
 - Hangzhou Polyful Advanced Material
 - Hangzhou Zhuopu New Materials Technology
+- Holo — VoxelMatters
 - Huizhou Brint Precision
 - IAM3DHUB — VoxelMatters
 - Indurate Alloys — VoxelMatters
 - Inframotion 3D
+- Innoregen — VoxelMatters
 - Interfacial Consultants LLC (EMPOWR3D, M. Holland) — VoxelMatters
 - Ipcon Polymer Material (Suzhou)
+- Jellagen — VoxelMatters
+- Jellatech — VoxelMatters
 - Jeol — VoxelMatters
 - Jiangyin Film-Maker Plastic
 - Jinhua Creation New Material
 - Kangshuo Group — VoxelMatters
+- KeratOPrinter — VoxelMatters
 - Knowhow Wilhelms — VoxelMatters
 - LANDU INNOVATIONS
 - LATI Industria Termoplastici S.p.A.
@@ -333,23 +347,31 @@
 - MAPTEC UAE — VoxelMatters
 - MIMETE S.r.l. — VoxelMatters
 - MULTI3D — VoxelMatters
+- Mantle — VoxelMatters
+- Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.
 - Marvel Labs — VoxelMatters
 - Materialise — VoxelMatters
 - Meshy AI — VoxelMatters
+- MetShape — VoxelMatters
+- MetalPrinting Inc. — VoxelMatters
 - Mex Powder — VoxelMatters
 - Multitrade 3D Systems — VoxelMatters
+- Mycorena — VoxelMatters
 - NANOE SAS
 - Nantong Qiangsheng Graphene Technology
 - Norco — VoxelMatters
 - Norm Holding (Norm Additive, Norm 3D) — VoxelMatters
 - Northbridge New Material Technology (Suzhou)
 - OMEGA MDS — VoxelMatters
+- Ohsung System Co., Ltd.
 - PORIMA POLIMER TEKNOLOJILERI
 - Plansee — VoxelMatters
 - Polymaker B.V.
 - Polyram UK LTD
 - ROSA PLAST Sp. z o.o.
+- Rapidia — VoxelMatters
 - Recreus Industries S.L.
+- Rousselot — VoxelMatters
 - Royal 3DP
 - RusselSmith — VoxelMatters
 - SHANXI RUITUOFENG NEW MATERIALS
@@ -358,19 +380,27 @@
 - Scandium Canada — VoxelMatters
 - Sharing Intelligent Equipment Co., Ltd. — VoxelMatters
 - Shenzhen Huayang New Materials Technology Co. — VoxelMatters
+- Shenzhen Uprise 3D Technology Co. — VoxelMatters
 - Snapmaker — VoxelMatters
+- Solid Lab — VoxelMatters
 - Solukon Maschinenbau GmbH — VoxelMatters
 - Spectrum Group Sp. z o.o.
 - Stardust — VoxelMatters
 - Syensqo — VoxelMatters
 - Synergy Additive Manufacturing — VoxelMatters
+- Syntplant — VoxelMatters
 - TEAMZIEREIS — VoxelMatters
+- TRIDITIVE — VoxelMatters
 - Tangshan Weihao Magnesium Powder Co., Ltd. — VoxelMatters
+- Tessella Biosciences — VoxelMatters
 - TriTech Titanium Parts — VoxelMatters
+- Trio Labs — VoxelMatters
 - Tripo AI by VAST — VoxelMatters
+- Tritone Technologies — VoxelMatters
 - URECORE POLYURETHANE
 - ValCUN — VoxelMatters
 - Vinnotek — VoxelMatters
+- Viscofan Bioengineering — VoxelMatters
 - WINKLE-Laboratorio Geometrico S.L.
 - White Label — VoxelMatters
 - Wuhu R3D Technology
@@ -378,6 +408,7 @@
 - Wuxi Ubest New Materials Technology
 - XIONEER
 - XJet — VoxelMatters
+- Xerion
 - Xiamen Antinsky Industry
 - Xometry — VoxelMatters
 - Z-Polymers — VoxelMatters
@@ -501,8 +532,8 @@
 - 既定の日付（1900/1904/1970年1月1日）が出る引用：0件。空欄・0が日付として読まれた疑いとして、その日付を創業・設立・時点にしない
 - 品目×単位で値が4つ以上あり、平均が中央値の2倍以上か半分以下の組：0組。片寄りの組は中央値を採り、最小・最大の引用から本文で桁と対象を確かめる（4-21・4-107）
 - 刊行終了の年鑑・名簿（帝国データバンク会社年鑑・全国企業あれこれランキングは2025年で終了ほか）を出典にした引用：0件、うち2026年以降の値：0件。最新版として扱わず、2026年以降の値はどこからの写しかを先に疑う
-- 今回捨てた引用の理由の内訳：40件・2種。捨てた情報は新しい事実が出たら見直す（多い理由から、正しい数字まで捨てていないかを正解例で点検・4-38・4-47）
-  - 見出し・題名・検索結果の抜粋（4-5）：36件
+- 今回捨てた引用の理由の内訳：41件・2種。捨てた情報は新しい事実が出たら見直す（多い理由から、正しい数字まで捨てていないかを正解例で点検・4-38・4-47）
+  - 見出し・題名・検索結果の抜粋（4-5）：37件
   - 金額の階級の境目（4-40）：4件
 
 ## 出荷額の重複・産業と品目の出荷額・平均の種類・標準誤差・小さい事業所の数（4-113・機械）

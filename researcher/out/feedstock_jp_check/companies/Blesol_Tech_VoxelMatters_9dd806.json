@@ -1,0 +1,406 @@
+{
+ "name": "Blesol-Tech — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:ceramic-filament",
+ "researched_at": "2026-11-09T20:36:33.972430+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://members.modernvespa.net/safis/uploads/brake_fluid_replacement_procedure_-_vespa_gts_my22_en_13924.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/16654/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blesoltech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blesoltech.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phrozen3d.com/ja-jp/blogs/guides/resin-vs-filament-3d-printing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solventum.com/ja-jp/home/f/b5005524000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.form2.shop/formlabs-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-all.datadesign.co.jp/collections/form4-material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blesoltech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blesoltech.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ia601406.us.archive.org/8/items/unscripted-life-liberty-and-mj-de-marco/UNSCRIPTED_%2BLife%2C%2BLiberty%2C%2Band%2B-%2BMJ%2BDeMarco.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://advisor.morganstanley.com/the-shadden-group",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://gay0day.com/categories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00245406/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01311457/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E6%9F%B1%E8%A1%9D%E7%AA%81%E9%98%B2%E6%AD%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-124371/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/blesol-tech-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/blesol-tech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/blesol-tech-sociedad-limitada",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.blesol_tech_sociedad_limitada.83617eb49bdbef02472ee4f53ba0b1c3.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Blesol-Tech — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.msh-systems.com/partners/",
+    "https://members.modernvespa.net/safis/uploads/brake_fluid_replacement_procedure_-_vespa_gts_my22_en_13924.pdf",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://metoree.com/companies/16654/distributors/",
+    "https://www.vietjetair.com/ja/pages/1597294066507/旅行代理店-1703659319237",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.koaglobal.com/corporate/offices/distributors1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters 日本 販売",
+   "results": [
+    "https://blesoltech.com/",
+    "https://www.voxelmatters.com/",
+    "https://blesoltech.com/about-us",
+    "https://www.voxelmatters.report/database/",
+    "https://blesoltech.com/products",
+    "https://www.tec-sol.shop/",
+    "https://varitec.co.jp/maker/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://phrozen3d.com/ja-jp/blogs/guides/resin-vs-filament-3d-printing",
+    "https://www.solventum.com/ja-jp/home/f/b5005524000/",
+    "https://www.form2.shop/formlabs-materials",
+    "https://shop-formlabs.datadesign.co.jp/collections/form4-material",
+    "https://phrozen3d.com/ja-jp",
+    "https://make.dmm.com/print/material/",
+    "https://formlabs.com/jp/products/materials/",
+    "https://my-best.com/1748"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters Japan distributor",
+   "results": [
+    "https://blesoltech.com/",
+    "https://www.voxelmatters.com/",
+    "https://japanesedistributors.com/",
+    "https://blesoltech.com/about-us",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://ia802903.us.archive.org/30/items/unscripted-life-liberty-and-mj-de-marco/UNSCRIPTED_+Life,+Liberty,+and+-+MJ+DeMarco.pdf",
+    "https://advisor.morganstanley.com/the-shadden-group",
+    "https://gay0day.com/categories/",
+    "https://evergreenfallhomeshow.com/",
+    "https://ia902904.us.archive.org/24/items/in.ernet.dli.2015.461038/2015.461038.Brideshead-Revisited_text.pdf",
+    "https://advisor.morganstanley.com/paul.cox"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Blesol-Tech — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【電子版だけの特典カット付き】大島璃乃１ｓｔ写真集-ＲｉＮｏ-西條彰仁-ebook/dp/B0HPF6WBM6",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Blesol-Tech — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00245406/",
+    "https://www.monotaro.com/g/01311457/",
+    "https://www.monotaro.com/k/store/柱衝突防止/",
+    "https://www.monotaro.com/s/c-124371/",
+    "https://www.monotaro.com/p/3506/7076/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/0807/1707/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://prospeo.io/c/blesol-tech-revenue",
+    "https://www.linkedin.com/company/blesol-tech/",
+    "https://www.crunchbase.com/organization/blesol-tech-sociedad-limitada",
+    "https://www.dnb.com/business-directory/company-profiles.blesol_tech_sociedad_limitada.83617eb49bdbef02472ee4f53ba0b1c3.html",
+    "https://www.einforma.com/informacion-empresa/blesol-tech",
+    "https://blesoltech.com/",
+    "https://www.empresia.es/empresa/blesol-tech/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Blesol-Tech — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Blesol-Tech — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Voxel_Tech",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/xhazeling/status/2114183586970734857",
+    "https://x.com/daniblrm/status/2115982492150948090"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Blesol-Tech — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Blesol-Tech — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/bcresporuiz/",
+    "https://www.facebook.com/PIMInternationalmag/photos/cmg-technologies-recently-celebrated-fifty-years-in-business-established-in-1975/1254417860016984/",
+    "https://www.facebook.com/FraunhoferIFAM/mentions/",
+    "https://www.facebook.com/PIMInternationalmag/photos/1853197291680521/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Blesol-Tech — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）"
+ }
+}

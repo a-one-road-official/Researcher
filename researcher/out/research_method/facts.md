@@ -5483,6 +5483,7 @@
   - 「付属資料には実験コード、架空HTML、実行結果、資料を書き出す補助を収録しました」（https://note.com/ai_hexwrench/n/n9bb6e7c6d135）
 - 検索結果の抜粋：
   - 「スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方Defuddle ─ Web ページの本文だけをきれいな Markdown に変換する、オ...Defuddle — ウェブページ本文抽出ライブラリブラウザを開かない記事抽出ツール — しかもきれいに整える | Thunder... — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置」（https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57）
+  - 「スクレイピング時に本文だけを抽出する最高精度ツールが優秀！【日本...Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方Webページの本文抽出 (主要コンテンツ抽出) - Notes - 64p.orgDefuddle ─ Web ページの本文だけをきれいな Markdown に変換する、オ...Defuddle — ウェブページ本文抽出ライブラリ — スクレイピングでテキストを抽出するとルールベースでは除外できないヘッダーなどが大量に混ざってノイズになりますよね。 それをフィルタリングするツールの最高精度モデル(BoilerNet)が良い感じだったので紹介します。日本語対応版のソースコードも公開しています。 See full list on qiita.com See full list on qiita.com 日本語対応版のソースコード、モデルはこちらに置い」（https://qiita.com/yusukesakata75/items/a2d75e965cd5db963a57）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、本文を高精度に抽出することに特化しています。」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています。 RAGやテキストマイニングの前処理としても有用な「Trafilatura」について、主な特徴や使い方、実際の検証結果を紹介しています。」（https://note.com/niti_technology/n/nf614a498b089）
   - 「Webスクレイピング・本文抽出ツール「Trafilatura」の特徴と使い方 — Feb 7, 2026 · 「Trafilatura」は、Web上のテキストを収集・抽出するために設計されたPythonパッケージおよびコマンドラインツールです。 Webページからナビゲーションバーや広告などのノイズを除去し、 本文を高精度に抽出すること に特化しています [1]。」（https://nititech.jp/blog/trafilatura-content-extraction/）
@@ -7586,6 +7587,8 @@
 ## ファクトチェック団体の検証記事の検索の使い方（FIJ ファクトチェック・ナビ・Google Fact Check Explorer）と、翻訳・要約で離れた文脈を一次と見比べる手順（fact check explorer how to use verify translated summarized claims against original source）
 - 文脈：手順・やり方
 - 手順・やり方：
+  - 「Googleの「AI Overviews」とは？基本的な使い方からSEO・広告への影響まで徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「インタビューで押さえたいコツ！事前準備から当日の進行、記事公開後まで徹底解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「【オンライン商談の進め方】ツール比較から資料作成のコツまでを徹底解説！」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「Grok（グロック）の使い方を徹底解説！ChatGPTとの違いや料金プラン、活用事例まで網羅」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「マーケティング戦略のコンセプトは「コンテンツとコードへの集中投資」小さなチームが勝てる方法を徹底して実践する」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7599,8 +7602,6 @@
   - 「マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「【PR動画事例】阪本高生堂のクールグリースを魅力的に魅せるコツとは」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「【ウェビナー採録】オウンドメディア構築とコンテンツ企画で成果を出す方法」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「AI時代に「選ばれる」ホワイトペーパーの条件とは？BtoBマーケティングの勝機は“提案型×二刀流”にあり！｜FUNGRY Planner’s FILE #01」（https://fungry.co.jp/cnaps/blog/fact-check/）
-  - 「集客とマーケティングは違う？成果を出す戦略と目的ごとに有効な集客方法を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
 - 突き合わせ・推定：
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「複数の信頼できる情報源から内容をクロスチェックすることで、情報の真偽を確認しましょう」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -12026,7 +12027,7 @@
   - 「たとえば、生年月日が未来の日付になっているケースや、郵便番号と住所が一致しないケースなどが対象となります」（https://jp.sansan.com/media/aggregation-of-names/）
   - 「例えば、企業名や住所、電話番号の3項目をキーに設定する場合、ほかの情報に相違があっても同一企業であるとみなされます」（https://jp.sansan.com/media/aggregation-of-names/）
   - 「ただし、企業名は合併による社名変更や略称、後株、前株などのゆれにともない、異なる情報が登録されているケースがあるため注意が必要です」（https://jp.sansan.com/media/aggregation-of-names/）
-- 一次情報の探し方：記載なし（読んだ16頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
 
 ## 決算公告の貸借対照表を内訳の合計と資産合計で照合して読む実務と、株式会社以外の法人（医療法人・協同組合・社団）の決算の科目の違い（開示ワイヤー 決算公告ガイドの書き手）（reading Japanese statutory balance sheet notices verify totals non-stock corporations accounts）
 - 文脈：手法
@@ -12112,6 +12113,7 @@
   - 「are the alternative the guideline explicitly supports, and depositing the search data and method descriptions in a repository produces a citable, permanent record with its own identifier, which is useful where a journal's supplementary handling is restrictive or where you want the search available independently of the paper.」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「How to search grey literature for a systematic review: which sources to check (theses, trial registries, conference abstracts, preprints, government/NGO reports), how to translate a search strategy where Boolean syntax isn’t supported, and how to document the search under PRISMA-S so it satisfies PRISMA 2020 reporting.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
 - 突き合わせ・推定：
+  - 「2019年の紙の出版物の推定販売金額は前年比4.3％減の1兆2,360億円、電子出版市場は23.9％増の2,593億円：紙と電子を合算した出版市場は前年比0.2％増の1兆5,432億円」（https://current.ndl.go.jp/car/43342）
   - 「There is a figure that the developers of PRISMA-S use to explain why the guideline was necessary, and it is worth sitting with. Estimates of search reproducibility in published systematic reviews range from」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「McAuley L, Pham B, Tugwell P, Moher D. Does the inclusion of grey literature influence estimates of intervention effectiveness reported in meta-analyses?」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「ファベット学習 ABC の A」に相当し，ここで仮説」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
@@ -12126,7 +12128,6 @@
   - 「Review Managerを活用したデータ抽出では、自動検証機能が入力ミスを72%防止するという結果が報告されています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
   - 「具体的な解析プロトコルでは、ノード間の一貫性検証に」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
   - 「特に匿名化処理では、3段階検証システム（自動処理・手動確認・第三者チェック）が個人情報漏洩リスクを82%低減します」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
-  - 「測定値の不一致が生じた場合、3段階検証フロー（再測定・機器点検・専門家相談）を採用する機関では、データ廃棄率を56%削減しています」（https://editverse.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%AE%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86%EF%BC%9Aprisma%E5%A3%B0%E6%98%8E2020%E3%81%AB/）
 - 一次情報の探し方：
   - 「The PRISMA-S checklist is available for download in Word and portable document format (PDF) formats from the PRISMA Statement website [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「https://www.york.ac.uk/media/crd/Systematic_Reviews.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
@@ -12160,6 +12161,7 @@
   - 「が偏って収録されており，バイアスの削減を達成す」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
   - 「索方法にバイアスがかかる可能性がある 67, 68） が，」（https://static1.squarespace.com/static/65b880e13b6ca75573dfe217/t/65badbf81df7265877e04da6/1706744831271/PRISMA-S+in+Japanese.pdf）
 - 実例：
+  - 「last two examples provide some justification in the」（https://jmla.mlanet.org/ojs/jmla/article/download/962/1274）
   - 「PRISMA-S emerged from health information practice, and its examples are clinical, but its design scope is explicit: the checklist was built」（https://www.scribelabwriter.com/blog/prisma-s-and-documenting-your-search-what-reproducible-reporting-actually-requires）
   - 「Systematic Review Abstract Example」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
   - 「— A section-by-section walkthrough of the PRISMA 2020 for Abstracts checklist, with a full illustrative composite systematic review abstract example.」（https://casrai.org/guides/searching-grey-literature-for-a-systematic-review）
@@ -12174,7 +12176,6 @@
   - 「]). In these cases, authors may choose to include the web address of the database in the text or the bibliography to provide clarity for their readers.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「]. Government, nonprofit organization, and pharmaceutical company websites, for example, contain a wealth of information not published elsewhere [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
   - 「>), by citing the websites in the bibliography, or by listing the website with corresponding web address in supplementary material, as shown in the examples above.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
-  - 「Examples,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC8270366/）
 
 ## e-Stat の統計表の前処理で単位の行・結合した見出し・注記・欠損の記号（-・***・X・秘匿）・和暦のシート名を扱い、全国の合計で原典と突き合わせる実務（stats47 の書き手）（e-Stat table preprocessing unit row merged header footnotes missing symbols japanese era year verify totals）
 - 文脈：手法
@@ -14472,7 +14473,7 @@
   - 「この記事では、経済統計(SNA: System of National Accounts)の体系について、家計・企業・政府の関係性を中心に図解した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
   - 「この記事では、中小製造業の技術を自社製品として昇華し、その販路開拓を伴走する合同会社メイクスアンドシングスと町工場プロダクツの取り組み事例をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
   - 「この記事では、私たちの経済活動を体系的・網羅的に集計した経済統計であるSNAと、企業会計の類似性について、統計データで検証した結果をご紹介します」（https://newspicks.com/topics/ogawa-tech/）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
 
 ## 登記簿をまたいで会社のつながり（親会社・役員・株主）をたどる実務（OpenCorporates・GIJN の企業記録の手引き・登記番号・届出の日付・住所の共有は根拠にしない）（tracing companies across corporate registries officers shareholders filing dates methodology OpenCorporates GIJN）
 - 文脈：裏取り

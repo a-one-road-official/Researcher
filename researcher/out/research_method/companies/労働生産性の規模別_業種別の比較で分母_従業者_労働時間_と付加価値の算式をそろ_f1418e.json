@@ -7,120 +7,8 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-09T03:06:19.322535+00:00",
+ "researched_at": "2026-11-09T20:15:47.958049+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "since 1950.1 The productivity level estimates are based on the industry-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "technological areas during the past decade. Nevertheless, recent estimates",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "were derived from the ICP estimates.",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "based on sectoral estimates. See Mulder and Maddison (1993) for a detailed account of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bis 1988, Wiesbaden). It should be emphasized that our estimates for Germany are based",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "many, and 2,161 in Japan. These estimates refer to \"actual hours,\"",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Source: See table I and tables A-3 and A-4. All estimates are based on the geometric average of the UVRs at own country",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "uted part of the estimated gain of U.S. manufacturing output compared",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "benchmark estimates of relative productivity levels for 1987 to obtain",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Source: See table 4 for manufacturing estimates. For total economy, GDP (in national currencies) and employment 1960",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "our manufacturing estimates, the total economy figures are converted to U.S. dollars with Fisher PPPs for 1985 (provided",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Estimates of labor productivity can be referred to as \"single factor",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "parative measures of per capita income. Sectoral estimates of labor",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "comparability of the official estimates for the various countries is very",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "weak. We then converted these capital stock estimates into U. S. dollars,",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "to considerable biases. First, expenditure-based PPPs include prices of",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "high distribution margins in Japan and therefore to a substantial bias in",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "systematic bias in our UVRs across industries. 1 In branches that in-",
-    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "実例": [
    {
     "quote": "tivity levels have a vast array of applications in, for example, the study",
@@ -305,9 +193,121 @@
     "first_seen": "2026-11-08"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "since 1950.1 The productivity level estimates are based on the industry-",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "technological areas during the past decade. Nevertheless, recent estimates",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "were derived from the ICP estimates.",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "based on sectoral estimates. See Mulder and Maddison (1993) for a detailed account of",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bis 1988, Wiesbaden). It should be emphasized that our estimates for Germany are based",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "many, and 2,161 in Japan. These estimates refer to \"actual hours,\"",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Source: See table I and tables A-3 and A-4. All estimates are based on the geometric average of the UVRs at own country",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "uted part of the estimated gain of U.S. manufacturing output compared",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "benchmark estimates of relative productivity levels for 1987 to obtain",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Source: See table 4 for manufacturing estimates. For total economy, GDP (in national currencies) and employment 1960",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "our manufacturing estimates, the total economy figures are converted to U.S. dollars with Fisher PPPs for 1985 (provided",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Estimates of labor productivity can be referred to as \"single factor",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "parative measures of per capita income. Sectoral estimates of labor",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "comparability of the official estimates for the various countries is very",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "weak. We then converted these capital stock estimates into U. S. dollars,",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "primary source. For manufacturing the best source is the national census",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "to considerable biases. First, expenditure-based PPPs include prices of",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "high distribution margins in Japan and therefore to a substantial bias in",
+    "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "systematic bias in our UVRs across industries. 1 In branches that in-",
     "url": "https://www.brookings.edu/wp-content/uploads/1993/01/1993b_bpeamicro_vanark.pdf",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -318,19 +318,19 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
+    "url": "https://note.com/bizgram/n/n9a587c22ec50",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
+    "url": "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "url": "https://www.rieti.go.jp/jp/publications/dp/10j022.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
@@ -338,128 +338,222 @@
     "method": "http"
    },
    {
-    "url": "https://www.jpc-net.jp/research/rd/db/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
+    "url": "https://www.mof.go.jp/pri/research/discussion_paper/ron319.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "url": "https://www.asahi.com/sdgs/article/15660750",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.motivation-cloud.com/hr2048/c489",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/8845/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/trend/bpo-27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/database/R-JIP2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpc-net.jp/research/list/comparison.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.miidas.jp/assessment/11118/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tayori.com/blog/labor-productivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/202212_1.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.rieti.go.jp/en/publications/summary/18040004.html",
+    "url": "https://www.salesforce.com/jp/blog/jp-labor-productivity/?bc=OTH",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.rieti.go.jp/en/database/JIP2023/",
+    "url": "https://ayusawa-partners.jp/column/seisansei-bunseki",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jpc.jpc-net.jp/eng/stats/index.html",
+    "url": "https://www.rieti.go.jp/jp/publications/pdp/10p007.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jil.go.jp/english/estatis/eshuyo/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mckinsey.com/~/media/mckinsey/mckinsey+global+institute/our+research/a+microscope+on+small+businesses+the+productivity+opportunity+by+country/a-microscope-on-small-businesses-japan.pdf",
-    "status": "network_error:ReadTimeout",
     "method": "pdf"
    },
    {
-    "url": "https://www.meti.go.jp/english/press/2026/0424_003.html",
+    "url": "https://www.rieti.go.jp/en/special/policy-update/063.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/19e005.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/05e022.pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
  "search_log": [
   {
    "query": "労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/bizgram/n/n9a587c22ec50"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
   },
   {
    "query": "労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料） note",
    "results": [
-    "https://ayusawa-partners.jp/column/seisansei-bunseki",
-    "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/10j022.pdf",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
-    "https://www.jpc-net.jp/research/rd/db/",
-    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf"
+    "https://www.mof.go.jp/pri/research/discussion_paper/ron319.pdf",
+    "https://www.asahi.com/sdgs/article/15660750",
+    "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
+    "https://www.motivation-cloud.com/hr2048/c489",
+    "https://canon.jp/biz/trend/bpo-27",
+    "https://www.issoh.co.jp/column/details/8845/",
+    "https://www.jpc-net.jp/research/assets/pdf/Productivity_report_vol20.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料） やり方",
    "results": [
-    "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
-    "https://ayusawa-partners.jp/column/seisansei-bunseki",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "https://www.rieti.go.jp/jp/publications/dp/10j022.pdf",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
-    "https://www.jpc-net.jp/research/rd/db/",
-    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf"
+    "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
+    "https://www.mof.go.jp/pri/research/discussion_paper/ron319.pdf",
+    "https://www.asahi.com/sdgs/article/15660750",
+    "https://www.motivation-cloud.com/hr2048/c489",
+    "https://www.issoh.co.jp/column/details/8845/",
+    "https://canon.jp/biz/trend/bpo-27",
+    "https://www.rieti.go.jp/jp/database/JIP2014/ans.html",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 20
   },
   {
    "query": "労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料） 事例",
    "results": [
-    "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
-    "https://ayusawa-partners.jp/column/seisansei-bunseki",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/10j022.pdf",
+    "https://www.motivation-cloud.com/hr2048/c489",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
-    "https://www.jpc-net.jp/research/rd/db/",
-    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf"
+    "https://www.jpc-net.jp/research/list/comparison.html",
+    "https://corp.miidas.jp/assessment/11118/",
+    "https://tayori.com/blog/labor-productivity/",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/202212_1.pdf",
+    "https://www.salesforce.com/jp/blog/jp-labor-productivity/",
+    "https://ayusawa-partners.jp/column/seisansei-bunseki"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 18
   },
   {
    "query": "labor productivity SME comparison denominator hours value added definition Japan RIETI",
    "results": [
-    "https://www.rieti.go.jp/en/publications/summary/18040004.html",
-    "https://www.rieti.go.jp/en/database/JIP2023/",
-    "https://jpc.jpc-net.jp/eng/stats/index.html",
-    "https://www.jil.go.jp/english/estatis/eshuyo/index.html",
-    "https://www.mckinsey.com/~/media/mckinsey/mckinsey+global+institute/our+research/a+microscope+on+small+businesses+the+productivity+opportunity+by+country/a-microscope-on-small-businesses-japan.pdf",
-    "https://www.meti.go.jp/english/press/2026/0424_003.html",
-    "https://www.jpc-net.jp/research/list/comparison.html?Sid=1"
+    "https://www.rieti.go.jp/jp/publications/pdp/10p007.pdf",
+    "https://www.rieti.go.jp/en/special/policy-update/063.html",
+    "https://www.boj.or.jp/en/research/wps_rev/wps_2022/data/wp22e10.pdf",
+    "https://www.imf.org/-/media/files/publications/wp/2019/wpiea2019137.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/19e005.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/05e022.pdf",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/reigniting-productivity-growth_67b7a182.html",
+    "https://www-apache.anderson.ucla.edu/faculty_pages/marvin.lieberman/docs/Lieberman_POSCO.pdf",
+    "https://openknowledge.worldbank.org/server/api/core/bitstreams/e3175392-2d03-5e2e-a26e-00affa9506aa/content",
+    "https://www.rieti.go.jp/en/publications/summary/18040004.html"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "site:note.com 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/ogawa_tech/n/n50af1e1e8268",
+    "https://note.com/kens_reading1/n/n502ebeaf1635",
+    "https://note.com/chic_deer1160/n/n69df2434bb0e",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/chushohakusho/n/n184c33138dcd",
+    "https://note.com/chushohakusho/n/n3ea85d56980c",
+    "https://note.com/kens_reading1/n/n6269a71289e8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:x.com 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）",
@@ -470,28 +564,34 @@
     "https://x.com/OgawaSeisakusho/status/2035840562528768337",
     "https://x.com/KEC_shindanshi/status/2072977648926818669",
     "https://x.com/OgawaSeisakusho/status/2114826491607560531",
-    "https://x.com/meti_NIPPON/status/2047632692297253059"
+    "https://x.com/meti_NIPPON/status/2047632692297253059",
+    "https://jf.x.com/images/media-preview/2099870031811322199",
+    "https://jf.x.com/images/media-preview/2099346745830547510",
+    "https://x.com/OgawaSeisakusho/status/2040572639996170529"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 14
   },
   {
    "query": "site:linkedin.com 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）",
    "results": [
     "https://www.linkedin.com/news/story/労働生産性の国際比較-日本は27位-5083057/",
+    "https://jp.linkedin.com/news/story/労働生産性-日本はg7中最下位-5351378/",
     "https://jp.linkedin.com/pulse/guide-measuring-employee-productivity-how-measure-use-thoughtful-xvjjc?tl=ja",
     "https://jp.linkedin.com/pulse/how-why-measure-analyze-employee-productivity-miguel-moriel?tl=ja",
     "https://www.linkedin.com/posts/mckinsey-japan_エンプロイーヘルスマネジメント従業員の心身の健康を保ち組織の生産性を高める-activity-7087316323554246656-Jvio",
     "https://jp.linkedin.com/pulse/how-measure-employee-productivity-step-by-step-guide-leaders-brown-bvr8c?tl=ja",
-    "https://jp.linkedin.com/pulse/maximizing-workforce-productivity-comprehensive-rozra-pgdm-hr--da8jf?tl=ja",
-    "https://jp.linkedin.com/pulse/技術者こそ企業経営トップを目指せ-ー-第2章-生産性向上への考え方ビット生産性bと量子ビット生産性q-mitsunobu-koshiba"
+    "https://jp.linkedin.com/pulse/技術者こそ企業経営トップを目指せ-ー-第2章-生産性向上への考え方ビット生産性bと量子ビット生産性q-mitsunobu-koshiba",
+    "https://jp.linkedin.com/pulse/maximizing-workforce-productivity-comprehensive-rozra-pgdm-hr--da8jf?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "site:facebook.com 労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料）",
@@ -499,67 +599,71 @@
     "https://www.facebook.com/jpc0301/posts/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883787067651/",
     "https://www.facebook.com/jpc0301/photos/労働生産性の国際比較2025を公表日本の時間当たり労働生産性は601ドル5720-円で-oecd加盟38カ国中28位-oecdデータに基づく2024年の日本の時/1381883597067670/",
     "https://www.facebook.com/jpc0301/photos/生産性新聞125号紙面のご案内生産性新聞125号の紙面を公開しました1面には1月8日に開催した日本生産性本部正副会長年頭会見の要旨を掲載していますまた2面には1/1146848403904525/",
+    "https://www.facebook.com/nipponishinnokai/videos/-労働生産性の向上には高い労働流動性が必要-2026年7月9日-参議院-厚生労働委員会-日本維新の会-参議院議員-猪瀬直樹猪瀬議員労働市場の流動性を高めることは/1777806196685875/",
     "https://www.facebook.com/yilin.yang.9/videos/会社の規模で一生のお金はここまで変わるでも人生は会社だけで決まらない/1375934954680800/",
     "https://www.facebook.com/SAPConcurJapan/photos/ブログ公開生産性の向上を目指す際に焦点を当てるべきは従業員ではなくシステム従業員の生産性を上げるためにビジネスリーダーにできることは何でしょうか効率的なシステム/1135990588572307/",
-    "https://www.facebook.com/photo/?fbid=1444875890336586",
-    "https://www.facebook.com/e.gyousyu/posts/290945902732289/"
+    "https://www.facebook.com/photo/?fbid=1444875890336586"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料） note 社長",
    "results": [
-    "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
-    "https://ayusawa-partners.jp/column/seisansei-bunseki",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/10j022.pdf",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
-    "https://www.jpc-net.jp/research/rd/db/",
-    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf"
+    "https://www.mof.go.jp/pri/research/discussion_paper/ron319.pdf",
+    "https://www.asahi.com/sdgs/article/15660750",
+    "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
+    "https://www.motivation-cloud.com/hr2048/c489",
+    "https://canon.jp/biz/trend/bpo-27",
+    "https://www.issoh.co.jp/column/details/8845/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&statdisp_id=0004004001"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "労働生産性の規模別・業種別の比較で分母（従業者・労働時間）と付加価値の算式をそろえる方法（財務総研・RIETI の研究会資料） X 投稿",
    "results": [
-    "https://taxjudge.com/2026/05/27/labor-productivity-formula-benchmark/",
-    "https://ayusawa-partners.jp/column/seisansei-bunseki",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2020/chusho/b1_2_2.html",
+    "https://www.rieti.go.jp/jp/publications/dp/12j026.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/10j022.pdf",
     "https://www.chusho.meti.go.jp/pamflet/hakusyo/2022/chusho/b1_1_6.html",
-    "https://www.jpc-net.jp/research/rd/db/",
-    "https://www.mof.go.jp/pri/reference/ssc/zaimu/zaimu01_18.pdf",
-    "https://plus.nbc-consul.co.jp/blog/labor-productivity-formula"
+    "https://www.mof.go.jp/pri/research/discussion_paper/ron319.pdf",
+    "https://www.asahi.com/sdgs/article/15660750",
+    "https://www.rieti.go.jp/jp/publications/summary/18040004.html",
+    "https://www.jpc-net.jp/research/detail/007846.html",
+    "https://megdai.jp/markebatake/saiyou/6359/",
+    "https://canon.jp/biz/trend/bpo-27",
+    "https://ayusawa-partners.jp/column/seisansei-bunseki"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "labor productivity SME comparison denominator hours value added definition Japan RIETI site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/michal-trunec-aa243835_japan-is-the-worlds-4th-largest-economy-activity-7471046265364033536-qWHc",
-    "https://www.linkedin.com/posts/kraubex_msmeproductivityjapan-activity-7393935524606013440-ICAJ",
-    "https://www.linkedin.com/posts/ryo1989_the-shift-in-sme-productivity-from-back-office-activity-7442573780780216320-l-wg",
-    "https://www.linkedin.com/pulse/rethinking-productivity-why-japans-business-models-must-mari-ono-mba-y4snc",
-    "https://www.linkedin.com/posts/garyschrader_japan-economy-workforce-activity-7284826703279935488-IUxs",
-    "https://www.linkedin.com/posts/yutaro-akami_japanjobs-workculture-foreignprofessionals-activity-7458900311617753088-jKdk",
-    "https://www.linkedin.com/posts/yukitoshifujimura_what-is-labor-productivity-japans-labor-activity-7352475294781353985-syy8"
+    "https://ca.linkedin.com/in/tunjos",
+    "https://it.linkedin.com/in/cristinapellegrino73"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 2
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T15:55:38.065368+00:00"
 }

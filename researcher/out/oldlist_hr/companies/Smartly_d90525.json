@@ -1,0 +1,1591 @@
+{
+ "name": "Smartly",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜リマイン1",
+ "researched_at": "2026-11-09T20:49:06.997352+00:00",
+ "official_url": "https://www.smartly.io/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区新富1-15-3\n新富ミハマビル4階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2019年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Smartly | AI Advertising Platform",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine launching your campaigns with creative and media in sync from the start —powered by AI for deeper connections, less chaos, and ads that finally hit the mark.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock your real performance when your creative and media finally team up. Bridge that gap early, so you never settle for average ads again.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine launching your campaigns with creative and media in sync from the start—deeper connections, less chaos, and ads that finally hit the mark.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Get ahead when your ideas and media work as one from the very beginning—no more missed targets, just ads that connect and perform.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Let your campaigns shine by bringing creative and media together before launch. You’ll leave confusion behind and inspire ads that truly deliver.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Feel the difference when creative and media connect before the rush starts. You’ll set the stage for smarter, sharper ads—every single time.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Better ads. Fewer breakdowns. Quicker turn around.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly brings AI into every step of advertising—from production to cross channel performance—so your team can create, optimize, and scale with confidence.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "This is the future of advertising.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly AI Advertising Platform",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ads Built to Perform, Powered by AI.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smarter Ads. Better Results. Faster.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Raise brand awareness and deepen brand love using real-time measurement and enhanced transparency with Smartly Brand Pulse.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Engage your consumers across the open web and leading social media channels.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce beautiful resonating creative at scale while achieving desired performance goals.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "About Us | Smartly | AI advertising Platform",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Build smarter cross channel ads in one-third the time with an AI-powered platform that actually understands how creative and media can work together.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Design, scale, and launch high-quality creative faster with AI-powered automation built for modern marketing teams.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Activate, manage, and optimize media across channels with AI-powered automation that improves efficiency and performance.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Turn performance insights into Intelligent Creative automatically, so every campaign improves as it runs.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on big ideas while AI handles production at scale, so you can stop being a human file converter.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "See what the AI-driven advertising revolution looks like, with proof, pictures, and (gasp) metrics.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver AI-optimized CTV ads across 200+ streaming services.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Run personalized, high-impact ads across all major DSPs.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scale and optimize video ads with AI-powered creative templates.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Make complex B2B advertising easier to scale.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Based on insights from 500 marketers, this report explores how AI is reshaping marketing roles, workflows, creative development, and measurement.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "700+ industry leaders. One day. No filler, no fluff, just the conversations that actually move advertising forward.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly helps the world’s most ambitious brands launch faster, scale smarter, and deliver ads that don’t just show up—they show results. We’re not a media platform. We’re not a creative studio. We’re where the two finally stop pretending they don’t know each other.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the best ads don’t happen by accident. They happen by design.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Founded by Kristo Ovaska and Tuomo Riekko, Smartly was born in the chaos of early Facebook advertising - a time when launching ads meant spreadsheets, guesswork, and a little bit of prayer. They built a better way.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized as an industry leader by Forrester and PriceWaterhouseCoopers",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in ads that work because they connect—visually, emotionally, and strategically. That’s not art for art’s sake. That’s creative with a job to do.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "It’s not just thumb-stopping. It’s storytelling at speed. Whether it’s 6 seconds or 60, video is the format that delivers attention, emotion, and performance—all in one frame.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Surprise! A marketing email you'll want to read.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Put a little power in your inbox and see how we're uniting the marketing industry with AI, intelligence, and innovation.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Build smarter cross channel ads in one-third the time with an AI-powered platform that actually understands how creative and media can work together.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Design, scale, and launch high-quality creative faster with AI-powered automation built for modern marketing teams.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Activate, manage, and optimize media across channels with AI-powered automation that improves efficiency and performance.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Turn performance insights into Intelligent Creative automatically, so every campaign improves as it runs.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on big ideas while AI handles production at scale, so you can stop being a human file converter.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "See what the AI-driven advertising revolution looks like, with proof, pictures, and (gasp) metrics.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver AI-optimized CTV ads across 200+ streaming services.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Run personalized, high-impact ads across all major DSPs.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Scale and optimize video ads with AI-powered creative templates.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Make complex B2B advertising easier to scale.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Based on insights from 500 marketers, this report explores how AI is reshaping marketing roles, workflows, creative development, and measurement.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "700+ industry leaders. One day. No filler, no fluff, just the conversations that actually move advertising forward.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Need a hand sourcing the partners and integrations that will take your social and digital marketing to the next level? Explore the Smartly Partner Marketplace, a robust, global directory of trusted channel, technology and service partners. We're here to help you find the right solution for your business.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Connect previously siloed platforms in one workspace. Manage dynamic creative and media across all channels while reclaiming hours of manual work.",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "\"Setting up a campaign with Smartly for Tiktok was 5x faster. In retrospect it took me a maximum of 2-3 working days building TikTok campaigns via Smartly, while manually setting up campaigns without Smartly was almost a month-long process.”",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "“Smartly is saving us so much time during the whole process which means we can then put time in and actually get a more quality output for our clients.”",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Products & Services Officer - GroupM Germany",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "\"The possibility to step out of standardized format limitations was refreshing and it created a new way of working between our creative and advertising teams.\"",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "What if your team could produce in a third of the time? Smartly's platform delivers the tools agencies need to create, optimize, and report without the usual headaches.",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Turn one idea into hundreds of on-brand ads",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Let Smartly AI handle the heavy lifting of creative production while you focus on the strategy that keeps clients coming back.",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Transform how you work and how your brand connects with consumers. For real this time.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Change how you work and how your brand connects with consumers. For real this time.",
+    "url": "https://www.smartly.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your brand messaging across platforms without sacrificing quality or waiting weeks for creative updates.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your brand messaging across platforms without sacrificing quality or waiting weeks for creative updates.",
+    "url": "https://www.smartly.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies all over the world trust Smartly.",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies everywhere grow faster and smarter with Smartly.",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies around the globe streamline success with Smartly AI.",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "What if your team could produce in a third of the time? Smartly's platform delivers the tools agencies need to create, optimize, and report without the usual headaches.",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Certification for Agencies",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock the full potential of Smartly for you and your clients. The Smartly Certification Program empowers you to gain hands-on expertise through a self-paced, interactive learning experience designed for agencies that want to go further, faster. Email",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Certified Partner Agencies",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Make video your brand’s superpower",
+    "url": "https://www.smartly.io/solutions/brand-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your brand messaging across platforms without sacrificing quality or waiting weeks for creative updates.",
+    "url": "https://www.smartly.io/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Acquired Viralspace.ai, a fast growing startup in AI for creative",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired AdLib, expanding into the Google ecosystem to bring creative and media even closer together",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "WPP Netherlands decrease traffic acquisition costs by 25%",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Traffic Acquisition Costs",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Under Armour Drives 113% Revenue Lift with AI-powered Dynamic Product Ads Scaling",
+    "url": "https://www.smartly.io/resource-categories/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Predictive Budget Allocation Boosts HungerStation Acquisition Efficiency by 19%",
+    "url": "https://www.smartly.io/resource-categories/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Under Armour Drives 113% Revenue Lift with AI-powered Dynamic Product Ads Scaling",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22CPG%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Predictive Budget Allocation Boosts HungerStation Acquisition Efficiency by 19%",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22CPG%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Under Armour Drives 113% Revenue Lift with AI-powered Dynamic Product Ads Scaling",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Financial+Services+%26+Insurance%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Predictive Budget Allocation Boosts HungerStation Acquisition Efficiency by 19%",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Financial+Services+%26+Insurance%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Under Armour Drives 113% Revenue Lift with AI-powered Dynamic Product Ads Scaling",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Media+%26+Entertainment%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Predictive Budget Allocation Boosts HungerStation Acquisition Efficiency by 19%",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Media+%26+Entertainment%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Under Armour Drives 113% Revenue Lift with AI-powered Dynamic Product Ads Scaling",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Automotive%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Predictive Budget Allocation Boosts HungerStation Acquisition Efficiency by 19%",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Automotive%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Under Armour Drives 113% Revenue Lift with AI-powered Dynamic Product Ads Scaling",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Travel%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Predictive Budget Allocation Boosts HungerStation Acquisition Efficiency by 19%",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Travel%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Under Armour Drives 113% Revenue Lift with AI-powered Dynamic Product Ads Scaling",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Telecom%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "Smartly Predictive Budget Allocation Boosts HungerStation Acquisition Efficiency by 19%",
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Telecom%22%5D",
+    "pass": 1
+   },
+   {
+    "quote": "倉田 直樹 / 投資銀行、CFO、事業側の立場でスタートアップの上場を経験、IPO支援のプロ",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月にはマイクロアド子会社のエンハンスが、",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "④Real-Time Translation: Communicate across borders without barriers using multi-language real-time translation.",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.AI Revenue 2024: $859.1K Est., $438.4K Raised",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.AI has not published its revenue. GetLatka estimates it at about $859.1K a year (October 2024).",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Hicham Tahiri founded Smartly.AI in 2012 and runs it as CEO. Smartly.AI had 7 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Smartly.AI's revenue?",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Smartly.AI's revenue at about",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Smartly.AI have?",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "From that day on, I started researching the \"dependency walls\" thoroughly. And today, I will share with you, and only you, the \"smart way for moms to work\" that I finally arrived at.",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At companies with 101 or more employees, you may become eligible for social insurance starting at 1.06 million yen if you meet certain conditions. Please check with your employer.",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Behave Naturally and Smartly at a Hotel Cafe Without Feeling Embarrassed｜お宿太郎🛖",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Behave Naturally and Smartly at a Hotel Cafe Without Feeling Embarrassed",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Here, I will introduce \"5 basics\" to avoid embarrassment when you actually go, and small observations that make you look first-class.",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Surprise! A marketing email you'll want to read.",
+    "url": "https://www.smartly.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock the full potential of Smartly for you and your clients. The Smartly Certification Program empowers you to gain hands-on expertise through a self-paced, interactive learning experience designed for agencies that want to go further, faster. Email",
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Surprise! A marketing email you'll want to read.",
+    "url": "https://www.smartly.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Customer data is scattered across email, WhatsApp, and other channels, making it difficult to fully grasp customer procurement needs and cooperation intentions, ultimately affecting order conversion.",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us for exclusive solutions, or experience the efficiency improvements brought by automated operations immediately.",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "坂本 達夫 / Smartly.io 日本事業責任者 外資系スタートアップの日本第1号社員として日本進出を主導 | シェアボス",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "日本にアリババを広めた海外販路・売上獲得のプロ",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "友澤 大輔 / 現パーソルHD CDO、元ヤフーマーケティング＆コミュニケーション本部長、日本のマーケティング業界を牽引",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "坂本 達夫 / Smartly.io 日本事業責任者 外資系スタートアップの日本第1号社員として日本進出を主導",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.io Solutions株式会社",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年2月より日本への本格展開を進めるSmartly.ioの日本第1号社員として日本展開をリードする",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年2月より日本への本格展開を開始し、坂本は日本第1号社員（日本事業責任者）として日本展開をリードしている",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ合衆国カリフォルニア州パロアルトに本社を置き、サンフランシスコ、ニューヨーク、ダブリン、北京、東京、ソウル、ベルリンなど世界各地の主要都市にオフィスを構えている",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人は2016（平成24年）年4月に設立されている",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "坂本は日本第一号社員として、大手アプリ企業とのビジネスデベロップメントおよび他の広告事業者とのアライアンス構築",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "アプリ広告としては日本最大級である月間数億円の売上規模にまで成長させる",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "Google日本法人は2001（平成13）年8月にアメリカ国外に初めて設立された現地法人である",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年 東京大学経済学部 卒業",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "第6回目は、Smartly.io Japan Sales Directorの坂本達夫さんにお話を伺いました",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.io Solutions（本社：フィンランド、日本事業責任者：坂本 達夫）が展開するソーシャル広告の運用ツール “Smartly.io”（スマートリー）は、このたび Adobe Inc. が提供する総合クリエイティブプラットフォーム “Adobe Creative Cloud” と連携し、両ツールを横断したクリエイティブの制作・入稿・最適化をシームレスに実施可能にしました",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、ハンズオンで広告主や代理店のクリエイティブ制作を支援する専門チーム “Creative Studio” の設立も発表します",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "https://twitter.com/tatsuosakamoto",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.facebook.com/tatsuojapan",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "https://jp.linkedin.com/in/tatsuosakamoto",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/tatsuojapan",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "https://angl.jp/tatsuojapan",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "同サービスを活用している広告主業種はeコマース、旅行、ゲーム、リテールが多く、日本企業の事例では",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "また今回事例となったプロモーション戦略をマットレス以外の製品でも展開し、今後は日本市場でも同戦略を横展開していくとの事（instagram上でKoalaマットレスの動画広告はたまに見かけるので既に実施されている模様）",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "・日本でも消費財/EC系業種で活用増えそう",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "同ツールは日本でも以下条件に当てはまる企業は使用価値が高そうです",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "日本の広告主はインハウスではなく代理店を介して広告運用を行っている企業も多く同ツールが提供するメリット・リターンは代理店でカバーできてしまうのでは？とも思ってしまいました",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "毎月大量のクリエイティブをインハウスで制作しSNS広告に莫大な予算を割いている広告主であれば本ツールは最適なソリューションになりえますが、代理店が介入している場合はSmartly.ioを使用する意味や妥当性を見極めるのが難しいなぁという印象です",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "SNS広告運用ツール最大手Smartly.io、AIによるクリエイティブ最適化スタートアップViralspace.aiを買収 | Smartly.io Solutions株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャル広告の運用プラットフォームを展開する Smartly.io Solutions (本社：フィンランド、CEO：Kristo Ovaska、日本事業責任者：坂本 達夫、以下 Smartly.io) は、AIによるクリエイティブの最適化を行う急成長中のスタートアップ Viralspace.ai (本社：アメリカ合衆国、CEO：Hiro Tien) を買収します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "この買収によって、Smartly.io は広告主・広告代理店のお客様への提供価値を一層強化します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "Uber, Spotify, マクドナルド, ウォルマートを含む世界中のトップブランド、 またエン・ジャパン, LIFULL を含む日本の各業界のトップ広告主に活用されており、 年間で 2,500 億円以上のソーシャル広告が Smartly.io を使って運用されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "2019 年 2 月より日本への本格展開を開始しており、楽天・Google を経て米ユニコーン企業 AppLovin の日本展開を推進した坂本 達夫 (さかもと たつお) が日本事業の責任者を務めています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.io Solutions株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区新富1-15-3",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "マーケター、代理店、企業が数秒で高性能な広告、クリエイティブアセット、ソーシャル投稿を生成し、コストを大幅に削減し、成果を向上させることを可能にします",
+    "url": "https://www.toolmage.com/ja/tool/smartly/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、マーケターや代理店はクリエイティブ制作を効率化し、キャンペーンのパフォーマンスを最適化し、常にトップクラスの成果を達成して時間と広告費用対効果（ROAS）を最大化できます",
+    "url": "https://www.toolmage.com/ja/tool/smartly/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Smartly | AI Advertising Platform — Smartly powers better ai advertising. Fuel better cross platform advertising performance with ai marketing tool, Smartly. Launch, manage, and update campaigns",
+    "url": "https://www.smartly.io/?hsLang=ja-jp",
+    "pass": 3
+   },
+   {
+    "quote": "坂本 達夫 / Smartly.io 日本事業責任者 外資系スタートアップの日本...【調べてみた】SNS広告運用の自動化プラットフォーム Smartly.ioとは...SNS広告運用ツール最大手Smartly.io、AIによるクリエイティブ最適化ス...「導入は進んだが、成果はまだ」 デル新社長が指摘する日本企業の“AI...Smartly | クロスチャネル最適化のためのAI搭載広告プラットフォーム ...「なぜ日本企業はAI導入が遅いのか」BBC報道が突きつける現実と、個人... — Smartly.io Solutions株式会社日本事業責任者。2019年2月より日本への本格展開を進めるSmartly.ioの日本第1号社員として日本展開をリードする。 大学卒業後、楽天株式会社に入社。企業戦略及び楽天オークションのモバイルマーケティングに従事する。その後、Google、AppLovi",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "【調べてみた】SNS広告運用の自動化プラットフォーム Smartly.ioとは... — May 31, 2020 · 同社Paid Media ManagerのIsabelle ZonderlnadはSmartly.ioを導入した事で広告パフォーマンスが向上しただけでなく、運用効率化のおかげでプロモーション戦略に集中することができたと話しています。",
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "pass": 3
+   },
+   {
+    "quote": "SNS広告運用ツール最大手Smartly.io、AIによるクリエイティブ最適化ス... — May 20, 2021 · Smartly.io Solutions株式会社のプレスリリース（2021年5月20日 07時30分）SNS広告運用ツール最大手Smartly.io、AIによるクリエイティブ最適化 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly | クロスチャネル最適化のためのAI搭載広告プラットフォーム ... — Aug 9, 2025 · Smartlyは、世界最大級の広告主向けに設計されたAI搭載の広告プラットフォームです。ソーシャル広告のあらゆるステップを自動化し、より高いパフォーマンスと創造性を引き出します。このプラットフォームは、Meta、Google、TikTok、Pinterestなどの主要プラットフォームを横断するクロスチャネル ...",
+    "url": "https://www.toolmage.com/ja/tool/smartly/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly | AI Advertising Platform — Smartly powers better ai advertising. Fuel better cross platform advertising performance with ai marketing tool, Smartly. Launch, manage, and update campaigns",
+    "url": "https://www.smartly.io/?region=japan",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly | Careers — Smartly is a place to learn, grow, and make a mark. We foster a culture of global collaboration and empower our people to lead, take risks, and work autonomously—all while enjoying work-life balance.",
+    "url": "https://www.smartly.io/careers",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly | LinkedIn — Smartly is the AI-powered advertising technology company transforming ad experiences for brands and their consumers. Our comprehensive advertising platform seamlessly integrates the capabilities of media, creative, and intelligence to power more than 800 billion impressions and generate more than 300 billion creatives annually, delivering tangible business outcomes for brands ",
+    "url": "https://jp.linkedin.com/company/smartly-io",
+    "pass": 3
+   },
+   {
+    "quote": "坂本 達夫 / Smartly.io 日本事業責任者 外資系スタートアップの日本... — Oct 15, 2020 · Smartly.io Solutions株式会社日本事業責任者であり、日本第1号社員。大学卒業後、楽天株式会社に入社。企業戦略及び楽天オークションのモバイルマーケティングに従事した後、Google、AppLovinを経て現職。",
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Customer Case Studies | Unified Data ... — In the manufacturing sector's global expansion, long sales cycles, complex follow-ups, and sales collaboration difficulties are common. This case study demonstrates how manufacturing enterprises use SaleSmartly to solve data fragmentation, unify customer management and sales processes, and achieve stable follow-ups and efficient conversions.",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly case studies — Feb 26, 2026 · Published on Feb 26, 2026 1 minute (s) read Focus Listen Follow Case Studies on the Smartly website",
+    "url": "https://docs.smartly.io/docs/smartly-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly | Resources — Case Studies Foot Locker Boosts Reach and ROAS with Brand Pulse and Predictive Budget Allocation",
+    "url": "https://www.smartly.io/resource-categories/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly in real life — Feb 26, 2026 · For a full list of all automation fields and example values in Smartly, see this table . If you have an automation case in mind and you can't find instructions for implementing it, do reach out to Smartly support or your CSM.",
+    "url": "https://docs.smartly.io/docs/smartly-in-real-life",
+    "pass": 3
+   },
+   {
+    "quote": "Client Case Studies | Cross-Industry Online Customer Service ... — SaleSmartly has successful case studies in online customer service and private domain growth across industries such as retail, education, healthcare, manufacturing, logistics, tourism, and used cars. Through multi-channel message aggregation, AI-powered customer service, automated processes, tagging and user profiling, mass outreac",
+    "url": "https://www.salesmartly.com/en/customer-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly ARR, revenue, valuation and headcount (2026) — Smartly.io is an AI-powered advertising technology company based in Helsinki, Finland. Founded in 2013, it aims to enhance advertising experiences for brands and consumers. The company manages an impressive annual ad… Marketing & Advertising ARR $101M revenue (est.) as of Oct 2026 Employees 918 as of Oct 2026 Valuation — latest round ARR ...",
+    "url": "https://ai.lounge.ai/arr/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.io – Growth Analysis & Alternative Companies – 2026 — Discover Smartly.io's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/smartly-io",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.AI Revenue 2024: $859.1K Est., $438.4K Raised - LATKA — Oct 30, 2026 · Smartly.AI 2024 estimated revenue: $859.1K (up from $689.8K in 2023). Total funding: $438.4K across 2 rounds. 7 employees. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/smartlyai",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly.io 2026 Company Profile: Valuation, Funding ...Smartly — Funding, Revenue & Fractional Roles | Go FractionalSmartly Revenue 2025: $101M Est. - getlatka.comSmartly.io - 2026 Company Profile, Team, Funding ... - Tracxn — Information on valuation, funding, acquisitions, investors, and executives for Smartly.io. Use the PitchBook Platform to explore the full profile. Oct 27, 2026 · Smartly (Ad",
+    "url": "https://pitchbook.com/profiles/company/62584-93",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly — Funding, Revenue & Fractional Roles | Go Fractional — Oct 27, 2026 · Smartly (Advertising Services): $500M–$1B estimated revenue, $22.8M raised · Series Unknown (Nov 2019), 1,054 employees Plus 1 open fractional & interim role.",
+    "url": "https://www.gofractional.com/companies/smartlyio",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing Customer Case Studies | Unified Data, Standardized Sales Process, Enhanced Conversion Efficiency | SaleSmartly",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Global manufacturers face long cycles and low conversions. Standardized processes, unified messaging, and cross-team collaboration help protect leads and increase repeat sales.",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing industry faces growth challenges",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding Your Manufacturing Export Business? Get an Export Growth Strategy.",
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[No More Confusion!] The Complete Guide to the \"1.03 Million ... It's about 'navigating it smartly'.\" That one sentence was a real eye-opener for me. That's it! It's painful because I see the wall as an enemy. If I truly understand what the wall is and learn the rules, I can control how I work! From that day on, I started researching the \"dependency walls\" thoroughly.",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Behave Naturally and Smartly at a Hotel Cafe Without ... Nov 9, 2025 · How to Behave Naturally and Smartly at a Hotel Cafe Without Feeling Embarrassed お宿太郎🛖 Nov 9, 2025 20:18",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[No More Confusion!] The Complete Guide to the \"1030k and 1.3 Million Yen Walls\" for Working Smartly Within Dependency｜AI_moe｜在宅ワークと個人事業の実務ノート",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[No More Confusion!] The Complete Guide to the \"1030k and 1.3 Million Yen Walls\" for Working Smartly Within Dependency",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI_moe｜在宅ワークと個人事業の実務ノート",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To you who are tired of year-end shift adjustments, thinking, \"It's only a few more ten thousand yen...\"",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*This article contains promotions (affiliate links).",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Maybe I can put in a few more shifts next month... oh, but I have to calculate my dependency status...\"",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Every time the end of the year approaches, you find yourself staring at a calculator. Are you worried about the documents you have to submit to your husband's company or the complicated calculations, even though you just want to earn a few more ten thousand yen?",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Truth be told, I used to be in that position too, feeling apologetic when my part-time job manager asked, \"Could you adjust your shifts a little in December?\" and feeling conflicted because I actually wanted to work more.",
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Behave Naturally and Smartly at a Hotel Cafe Without Feeling Embarrassed｜お宿太郎🛖",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Behave Naturally and Smartly at a Hotel Cafe Without Feeling Embarrassed",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am Oyado Taro, turning \"I want to stay there someday\" into \"I want to stay there next.\"",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My self-introduction is summarized in the note title below.",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "An adult's composure is determined by how they notice things.",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before going to a luxury hotel cafe, have you ever felt anxious, thinking,",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"What if I look out of place?\"",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"What if they think I don't know the manners?\"",
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Smartly.io (@smartlyio) / Posts / X Pulse Check Introducing Smartly Brand Pulse: The industry's first solution designed for the new consumer journey, connecting full-funnel performance in real-time ...",
+    "url": "https://x.com/smartlyio",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly (@smartlyai) / X @smartlyai Smartly Digital Advertising Platform Powering beautifully effective ads across verticals #worksmartly New York, NY smartly.io Joined January 2025 0 Following 1 Followers Mention Follow Pinned Smartly @smartlyai Jan 16, 2025 Throwback to #ConnectSmartly in Sydney! 🇦🇺 We had an incredible time bringing together our amazing customers and digital marketing leaders t",
+    "url": "https://x.com/SmartlyAI",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly Labs (@smartlylabs) / X 97 Smartly Labs @smartlylabs Aug 6 beta stats so far: 1.3K+ monthly active users. 500+ agents created. 400+ agents deployed. hundreds of deployment outcomes + human evaluations already captured. now building the learning layer across feedback, failures and what actually happens after deployment. early days 🫡",
+    "url": "https://x.com/smartlylabs",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly AI (@smartly_ai) / X Smartly AI @smartly_ai We help you boost your customer relations with chatbots 🚀 Paris, Ile-de-France smartly.ai",
+    "url": "https://x.com/smartly_ai",
+    "pass": 3
+   },
+   {
+    "quote": "@smartlyeng | X The latest posts from @smartlyeng",
+    "url": "https://x.com/smartlyeng",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Smartly - LinkedIn Smartly is the AI-powered advertising technology company transforming ad experiences for brands and their consumers. Our comprehensive advertising platform seamlessly integrates the capabilities ...",
+    "url": "https://www.linkedin.com/company/smartly-io",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly - LinkedIn Smartly is the AI-powered advertising technology company transforming ad experiences for brands and their consumers. Our comprehensive advertising platform seamlessly integrates the capabilities of media, creative, and intelligence to power more than 800 billion impressions and generate more than 300 billion creatives annually, delivering tangible business outcomes for brands an",
+    "url": "https://ad.linkedin.com/company/smartly-io",
+    "pass": 3
+   },
+   {
+    "quote": "Laura Desmond - Chief Executive Officer @ Smartly | AI ...Smartly | LinkedIn Marketing PartnersSmartly | LinkedInSmartly: Culture | LinkedInSmartly: Jobs | LinkedIn Chief Executive Officer @ Smartly | AI Transformer I SaaS, Digital Marketing I Board Member Adobe & Double Verify I Investor in the Chicago Sky & Chicago Red Stars · At the helm of Smartly, our ... Smartly is the AI-powered advertising",
+    "url": "https://www.linkedin.com/in/lauradesmond",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly | LinkedIn Marketing Partners Smartly is the AI-powered advertising technology company transforming ad experiences for brands and their consumers. Smartly helps brands manage creative and media across channels from one connected platform.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "Smartly | LinkedIn Marketing Partners",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "Scale Personalized Creative for Business Growth with Smartly for LinkedIn",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about Smartly",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly is the AI-powered advertising technology company transforming ad experiences for brands and their consumers. Smartly helps brands manage creative and media across channels from one connected platform.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "How Smartly and LinkedIn work together",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly for LinkedIn brings LinkedIn campaign management, creative, and reporting into Smartly’s cross-channel workflow. By combining LinkedIn’s professional audience targeting with Smartly’s creative automation and campaign workflows, advertisers can personalize creative at scale, launch campaigns more efficiently, and understand performance alongside other channels.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "Personalize creative at scale:",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   },
+   {
+    "quote": "Create tailored image and video variations for different audiences, markets, and formats while maintaining brand consistency.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Smartly.io - FacebookSmartly Technologies | San Diego CA - FacebookSmartly - FacebookSmartly Organized, LLC | Chatham NJ - FacebookSmartly.io | New York NY - FacebookSmartly - FacebookThe Smartly | Scottsdale AZ - Facebook Oct 22, 2026 · Smartly.io. 32,495 followers · 7 talking about this · 17 were here. Smartly is one of the world's largest SaaS digital advertising platforms. Aug 16, 2024 · Smart",
+    "url": "https://www.facebook.com/smartly.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly Technologies | San Diego CA - Facebook Aug 16, 2024 · Smartly Technologies, San Diego. 223 likes. Smartly Technologies is your go-to Managed Solutions Provider for IT Support, IT Management, Cyber Security...",
+    "url": "https://www.facebook.com/smartlyit/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly - FacebookSmartly Organized, LLC | Chatham NJ - FacebookSmartly.io | New York NY - FacebookSmartly - FacebookThe Smartly | Scottsdale AZ - Facebook Jan 16, 2020 · Smartly is a robo-advisor for the cryptocurrency mar... It has been a busy few months over here at Smartly as we have been working hard to innovate in the asset management space. We are excited to share with you our latest develo",
+    "url": "https://www.facebook.com/smartlysg/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartly Organized, LLC | Chatham NJ - FacebookSmartly.io | New York NY - FacebookSmartly - FacebookThe Smartly | Scottsdale AZ - Facebook Smartly Organized, LLC, Chatham. 1,949 followers · 17 talking about this. Certified Professional Organizer® and Redesign Expert specializing in moving and downsizing. Andrea@smartlyorganized.com Smartly.io, New York. 63 likes · 23 were here. Smartly.io New York.",
+    "url": "https://www.facebook.com/SmartlyOrganized/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.smartly.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/solutions/agency-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/solutions/performance-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/solutions/brand-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/solutions/creative-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/solutions/b2b-marketers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/resource-categories/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22CPG%22%5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Financial+Services+%26+Insurance%22%5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Media+%26+Entertainment%22%5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Automotive%22%5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Travel%22%5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartly.io/resource-categories/case-studies?industry_equal=%5B%22Telecom%22%5D",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suna072/n/n5f54ea997a20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/smartly-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/smartly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesmartly.com/en/industry/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.smartly.io/docs/smartly-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.smartly.io/docs/smartly-in-real-life",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.strikingly.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ai.lounge.ai/arr/smartly",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/smartly-io",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/smartlyai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/62584-93",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/smartlyio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SmartlyAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smartlylabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smartly_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/smartly-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ad.linkedin.com/company/smartly-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lauradesmond",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/smartly.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smartlyit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smartlysg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartlyOrganized/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SmartlyAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smartlyeng",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Smartly 日本 導入",
+   "results": [
+    "https://www.smartly.io/?hsLang=ja-jp",
+    "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "https://note.com/suna072/n/n5f54ea997a20",
+    "https://prtimes.jp/main/html/rd/p/000000009.000056131.html",
+    "https://www.toolmage.com/ja/tool/smartly/",
+    "https://www.itmedia.co.jp/enterprise/articles/2610/28/news032.html",
+    "https://news.yahoo.co.jp/expert/articles/3dacae0a3ba4dfdd3952000727820a5fea587c30"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartly 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartly Japan",
+   "results": [
+    "https://www.smartly.io/?region=japan",
+    "https://www.smartly.io/careers",
+    "https://jp.linkedin.com/company/smartly-io",
+    "https://www.toolmage.com/ja/tool/smartly/",
+    "https://shareboss.net/p/boss/tatsuo-sakamoto/",
+    "https://www.linkedin.com/jobs/view/2666346694",
+    "https://prtimes.jp/main/html/rd/p/000000009.000056131.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartly manufacturing customer case study",
+   "results": [
+    "https://www.salesmartly.com/en/industry/manufacturing/",
+    "https://docs.smartly.io/docs/smartly-case-studies",
+    "https://www.smartly.io/resource-categories/case-studies",
+    "https://docs.smartly.io/docs/smartly-in-real-life",
+    "https://www.salesmartly.com/en/customer-cases/",
+    "https://www.cuspera.com/products/smartlyio-x-5287/customer-story",
+    "https://www.smartly.io/resources/vistaprint-scales-video-testing-with-ai-powered-templates"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartly white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.strikingly.com/reseller-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.remitly.com/us/en/landing/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartly founded funding employees revenue",
+   "results": [
+    "https://ai.lounge.ai/arr/smartly",
+    "https://compworth.com/company/smartly-io",
+    "https://getlatka.com/companies/smartlyai",
+    "https://pitchbook.com/profiles/company/62584-93",
+    "https://www.gofractional.com/companies/smartlyio",
+    "https://getlatka.com/companies/smartly.io",
+    "https://tracxn.com/d/companies/smartlyio/__Z-iyY4RnJ9GwYU5SvI0TyIrCKzniKpY2jwPXNmw6AIo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Smartly",
+   "results": [
+    "https://note.com/ai_moe/n/n6fa1fc382494?hl=en",
+    "https://note.com/oyado_taro/n/n4b452b94b5fc?hl=en",
+    "https://note.com/hitomihoumu/n/n46afb1776d9a?hl=en",
+    "https://note.com/tak255/n/n3a92944aa2cf",
+    "https://note.com/tatatann/n/n45d79049f18a?hl=en",
+    "https://note.com/famous_sable4236/n/n9274e5817bd4?hl=en",
+    "https://note.com/sakiintheus/n/n287bb9ceca1b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Smartly",
+   "results": [
+    "https://x.com/smartlyio",
+    "https://x.com/SmartlyAI",
+    "https://x.com/smartlylabs",
+    "https://x.com/smartly_ai",
+    "https://x.com/smartly_works",
+    "https://x.com/hashtag/Smartly",
+    "https://x.com/smartlyapp"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Smartly",
+   "results": [
+    "https://www.linkedin.com/company/smartly-io",
+    "https://ad.linkedin.com/company/smartly-io",
+    "https://www.linkedin.com/in/lauradesmond",
+    "https://business.linkedin.com/advertise/partners/find-a-partner/smartly",
+    "https://de.linkedin.com/company/smartly-io",
+    "https://sg.linkedin.com/company/smartly-io/life",
+    "https://in.linkedin.com/company/smartly-io/jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Smartly",
+   "results": [
+    "https://www.facebook.com/smartly.io/",
+    "https://www.facebook.com/smartlyit/",
+    "https://www.facebook.com/smartlysg/",
+    "https://www.facebook.com/SmartlyOrganized/",
+    "https://www.facebook.com/smartly.io.newyork/",
+    "https://www.facebook.com/TheSmartly/",
+    "https://www.facebook.com/thesmartlyco/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartly note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://smartnote.jp/company/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartly X 投稿",
+   "results": [
+    "https://x.com/SmartlyAI",
+    "https://x.com/smartlyeng",
+    "https://docs.smartly.io/",
+    "https://www.smartly.io/social-media",
+    "https://www.smartly.io/",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f",
+    "https://www.koukoku.jp/service/suketto/marketer/learn/【x｜投稿作成】xで投稿してみよう/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

@@ -1,0 +1,522 @@
+{
+ "name": "Essent Biologics — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T20:18:35.280408+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookAlloSource - As an AlloSource new venture, Essent... | FacebookAlloSource - “Essent has a unique opportunity to provide...AlloSource - \"This is an important milestone in getting...3Printr.com - Essent Biologics presents bone matrix for 3D ...Facebook3dheals - #EssentBiologic supplier of human-derived cell... Full breakdown, only on VoxelMatters 🍒 #AdditiveManufacturing #3DPr",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company-category/bioink-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtantmedical.com/biologics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aspectbiosystems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Anthony_Newley",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cpacanada.ca/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prepiska.com/finance/site/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.10xgenomics.com/jp/library/ec2288",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eleshop.jp/shop/c/c663215AA/?srsltid=AYCX9vIv9bX0xD7Td0XfX1ateHqe9q9zdEZ3VMgafilu-yMmsfxW9Qao",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nuskin.com/catalog/jp/ja/product/03137385",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dfs.idarts.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ilexlife.com/collections/hydrogels-scaffolds-biomatrices?srsltid=AYCX9vImfre7Ne7d7fmJS-23_jSL27Q4tiCawjeL4ZWqrd5BRyw5kmyQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/bmg-inc/product/detail/2000616546/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/bioink-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://renzoku-biologics.com/en/company-en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/g/01437633/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00006050/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00020964/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drugdiscoverytrends.com/essent-biologics-debuts-stem-cell-offerings-for-biopharma-and-cell-therapy-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/bioink-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Essent Biologics — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company-category/bioink-manufacturer/",
+    "https://www.voxelmatters.com/category/medical/",
+    "https://xtantmedical.com/biologics/",
+    "https://www.aspectbiosystems.com/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://humabiologics.com/applications/",
+    "https://lifenethealth.org/news/lifenet-health-continues-pioneering-regenerative-medicine-efforts-acquisition-scaffold-free-3d",
+    "https://www.voxelmatters.directory/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Anthony_Newley",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.cpacanada.ca/",
+    "https://prepiska.com/finance/site/",
+    "https://www.nissin-tw.com/",
+    "https://www.sanyeicorp.com/",
+    "https://hir.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.10xgenomics.com/jp/library/ec2288",
+    "https://eleshop.jp/shop/c/c663215AA/?srsltid=AYCX9vIv9bX0xD7Td0XfX1ateHqe9q9zdEZ3VMgafilu-yMmsfxW9Qao",
+    "https://www.nuskin.com/catalog/jp/ja/product/03137385",
+    "https://tokyoclass.com/Product/Detail/view/pid/646",
+    "https://www.cellink.com/jp/%E7%A7%91%E7%A0%94%E8%B2%BB%E7%94%B3%E8%AB%8B%E3%81%AE%E6%8F%90%E6%A1%88%E3%81%AB%E6%9C%80%E9%81%A9%EF%BC%81%E3%83%90%E3%82%A4%E3%82%AA3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E8%B2%A9%E5%A3%B2%E3%81%AE/",
+    "https://blog.spatial.com/ja/medical-additive-manufacturing",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vL2IXAZWhifTQ8RDa22nzXxVKgT3lFFu7RNZYnVr7TJqD5uIb1r",
+    "https://creator.holoearth.com/shop/products/1020133"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/collections/filament",
+    "https://3dfs.idarts.co.jp/",
+    "https://ilexlife.com/collections/hydrogels-scaffolds-biomatrices?srsltid=AYCX9vImfre7Ne7d7fmJS-23_jSL27Q4tiCawjeL4ZWqrd5BRyw5kmyQ",
+    "https://pr.mono.ipros.com/bmg-inc/product/detail/2000616546/",
+    "https://nature3d.net/materials/",
+    "https://cellbase.com/collections/scaffolds-biomaterials",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://store.reprocell.com/collections/3d-cell-culture",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJB-U0CEUyIGT4VDZh9zbu7cXYlBlRRkqNo2cYciGQVkhDZ6RkX",
+    "https://ja.wikipedia.org/wiki/レジン"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/bioink-manufacturer/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/",
+    "https://precisionbiologic.com/distributors/",
+    "https://www.exone.com/en/",
+    "https://thinkcyte.com/company/distributors/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://renzoku-biologics.com/en/company-en",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://insphero.com/insphero-and-cosmo-bio/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:amazon.co.jp Essent Biologics — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/",
+    "https://relay.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Essent Biologics — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01437633/",
+    "https://www.monotaro.com/g/00006050/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/00020964/",
+    "https://www.monotaro.com/g/00345856/",
+    "https://www.monotaro.com/g/02888691/",
+    "https://www.monotaro.com/g/00683943/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.drugdiscoverytrends.com/essent-biologics-debuts-stem-cell-offerings-for-biopharma-and-cell-therapy-research/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/company-category/bioink-manufacturer/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/analysis/",
+    "https://www.voxelmatters.group/insights/",
+    "https://revenuebase.ai/companies/3d-bioprinting-additive-manufacturing-companies/united-states",
+    "https://www.genomeweb.com/business-news/",
+    "https://ir.essentgroup.com/financials/annual-reports"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Essent Biologics — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/uirodet/n/n2b6763fae312",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Essent Biologics — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Sanemavcil/status/2117704976281837787",
+    "https://x.com/zensrvsETH/status/2109306484907487348",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/kenn_ronin/status/2062555065483772233",
+    "https://x.com/abyssfixsETH/status/2103012849920749644",
+    "https://x.com/WhiteHouse/status/2117601073124778410",
+    "https://x.com/faveda12/status/2118266963164303828",
+    "https://x.com/dammiedammie35/status/2115726596917150090",
+    "https://x.com/drgfromnyc/status/2117850084365025391"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Essent Biologics — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/in/cuchulainngray",
+    "https://de.linkedin.com/in/marco-zappia-9b5a9b31",
+    "https://nl.linkedin.com/in/jos-olijve-8b08859",
+    "https://www.linkedin.com/in/kenneth-sibley-90053329",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://in.linkedin.com/posts/itdigest_essent-biologics-launches-revolutionary-human-activity-7024023703260672000--dn2",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://rs.linkedin.com/posts/3dprint-com_essent-biologics-advances-human-biologic-activity-7074380928399147008-IxPH",
+    "https://www.linkedin.com/posts/voxelmatters_essent-biologics-launches-micronized-bone-activity-7013784862201393152-Po-R"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Essent Biologics — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/AlloSource/posts/as-an-allosource-new-venture-essent-biologics-is-a-trailblazer-in-the-regenerati/3959168380809931/",
+    "https://www.facebook.com/AlloSource/posts/essent-has-a-unique-opportunity-to-provide-human-derived-biomaterials-for-the-ne/3931173210276115/",
+    "https://www.facebook.com/3printr/posts/533483705467669/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/3dheals/posts/essentbiologic-supplier-of-human-derived-cell-and-scaffold-materials-announced-m/5741484302599782/",
+    "https://www.facebook.com/AlloSource/posts/this-is-an-important-milestone-in-getting-our-products-into-the-hands-of-brillia/4269657503094349/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11875024/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.youtube.com/watch?v=f_pEDBOtM5E",
+    "https://www.instagram.com/reel/DU88GIGAdRX/",
+    "https://post.parliament.uk/research-briefings/post-pn-0620/",
+    "https://www.voxelmatters.directory/company/essent-biologics/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 25
+  },
+  {
+   "query": "Essent Biologics — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/x-pure-gelatins-for-greater-consistency-in-bioprinting/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/category/medical/",
+    "https://www.youtube.com/watch?v=Vw9CyC6f6bg",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.instagram.com/reel/DU88GIGAdRX/",
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

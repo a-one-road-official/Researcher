@@ -1,0 +1,1168 @@
+{
+ "name": "Velt",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T20:05:47.808921+00:00",
+ "official_url": "https://velt.dev",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Mar-2022 $2.77M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/493335-10",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Velt | Add a pull request to your product — Review SDK",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Add Review and Approvals to Your App",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Velt brings governance to your product. AI and humans review together and work only ships once a human approves.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Q3 Pricing",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Proposed Pro price was $92, above the approved Q3 band. I suggest $85, the band maximum.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "running in production at OpenEnvoy",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Your users need to review and approve what your product generates. Building that takes two quarters.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "If your product has work that more than one of your users reviews or approves, this is for you. If it doesn't, it isn't.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers ask \"do you support approval workflows?\" and the honest answer costs a quarter.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Feedback about work in your product happens in Slack screenshots.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "A regulated deal stalled on \"who approved this?\"",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Let agents propose, not touch.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Every agent suggestion becomes a comment a human approves. On approval, the change is applied through your webhook, with a permanent record of who allowed what.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Seven primitives. Any review workflow.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "<VeltProvider apiKey=",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Contextual threads from humans or agents, on any element, doc, cell, or canvas.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Chris Bakke · Head of Product @X",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "newValue: { qty: 7, price: 99 },",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Propose edits inline, accept or reject like a diff.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "\"marketing-copy-approval\"",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Marketing copy approval\"",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Approval flows",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Saved 3 FTEs and will boost retention.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Q3 Pricing One-Pager · run #214",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "proposed change to cell C4",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Products using Velt to boost engagement and growth.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "From Google and Pendo to fast-moving startups, teams ship Velt collaboration to millions of users. Explore the products that run on Velt.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Velt gave us 1-on-1 attention in our own private Slack channel. The team was quick to add features we needed, and the components were extremely customizable, letting us keep a cohesive look and feel. Highly recommended.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Product Manager · Google",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The team was quick to add the features we needed, and we were extremely happy with how customizable Velt's components were, allowing us to keep a cohesive look and feel to our product.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Saved 3 FTEs and will boost retention.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Implementing Velt took weeks, not the quarters it would have taken us to build in-house even with 3 FTE engineers. We're already seeing added value for our users and anticipate increased retention.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Velt provides the critical commenting functionality our customers rely on, saving us massive development effort. Migration from our previous vendor was seamless.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Lead · CloudFactory",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Commenting was something we knew we wanted in our app, but with limited resources, it wasn't going to be prioritized until we found Velt. The team was fantastic to work with.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Velt is a great product that sped up our feature development. It saved us weeks of work.",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Velt Pricing: Collaboration SDK Plans & Free Tier | Velt",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Usage-based pricing on monthly active documents, not seats, not connections. Start free, scale when your product does.",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "BILLED ON MADS, NOT SEATS",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan ships all 15+ features, pre-built components, and full customization. You only scale the document volume.",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For hackathons or side projects",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100 MADs",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No Production Deployment",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security (SOC 2 Type 2, HIPAA with BAA)",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Support SLAs",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "running in production at OpenEnvoy",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing, answered.",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Velt provides enterprise-grade security. Our products are SOC 2 Type II and HIPAA compliant. You can also run all of Velt inside your own cloud account.",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GCP: available. AWS and Azure: private beta.",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We provide 99.999% uptime and a highly scalable infrastructure for our growth and enterprise plans.",
+    "url": "https://velt.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams shipping collaboration in production",
+    "url": "https://velt.dev/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Embeddable review and approval for AI-native apps. Agents do the work, humans decide.",
+    "url": "https://velt.dev/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Thermoform Product Handling",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Emergency Robot Vision Support Restores Automated Production",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A leading sterilization facility partnered with AMT to automate its material handling processes, improving efficiency and compliance while addressing labor shortages. By integrating robotic palletizing/depalletizing and AI-based vision systems, the facility increased throughput, ensured 100% pallet integrity, and optimized product flow for continuous operations.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Manufacturing Technologies (AMT) partnered with Dematic to design, build, and install a robotic AI-enabled system at an American multinational consumer goods corporation. The system removes a layer or layers of product from a pallet and optimizes the placement of the product in totes for induction into an automated storage and retrieval system (ASRS). AMT’s Robotic Induction System (",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Manufacturing Technologies (AMT) worked with Gojo Industries to create two robotic cells for de-tray and layer forming operations. In designing the de-tray and layer forming robotic cells, the engineers solved several high-level technical challenges, including writing a new program for the 3D vision system and creatively solving robot speed issues to meet cycle time requirements.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Timpte, a commercial grain trailer body manufacturer wanted to increase production by 75% without hiring additional staff. AMT conducted a Current State Manufacturing Analysis (CSMA) to identify a course of action to help Timpte meet future production goals.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Wolverine Forest Park - Production and Pack Out Automation",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Wolverine Packing Co. needed a high-speed automated case packing and palletizing solution for the company’s new greenfield meat processing facility in Forest Park, MI. The equipment needed to be installed in several distinct phases to accommodate the facility’s startup timeline and evolving needs.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Reach reviewers in-app, by email, in Slack and Teams, before the deadline slips.",
+    "url": "https://velt.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/493335-10",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Velt Customers: Trusted by Google, Pendo & More | Velt",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Lead · CloudFactory",
+    "url": "https://velt.dev/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams shipping collaboration in production",
+    "url": "https://velt.dev/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Case Studies - Applied Manufacturing Technologies",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Manufacturing Technologies (AMT) partnered with Dematic to design, build, and install a robotic AI-enabled system at an American multinational consumer goods corporation. The system removes a layer or layers of product from a pallet and optimizes the placement of the product in totes for induction into an automated storage and retrieval system (ASRS). AMT’s Robotic Induction System (",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Manufacturing Technologies (AMT) worked with Gojo Industries to create two robotic cells for de-tray and layer forming operations. In designing the de-tray and layer forming robotic cells, the engineers solved several high-level technical challenges, including writing a new program for the 3D vision system and creatively solving robot speed issues to meet cycle time requirements.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Timpte Grain Trailer Body Manufacturing Analysis",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Timpte, a commercial grain trailer body manufacturer wanted to increase production by 75% without hiring additional staff. AMT conducted a Current State Manufacturing Analysis (CSMA) to identify a course of action to help Timpte meet future production goals.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Safety System",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "In mid-2018, a well-known aerospace company tasked AMT with designing a safety system at a test facility. Their current arrangement was an open environment with multiple robots performing tasks without any kind of safety guarding in place to control human access to operating workspaces.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing System Throughput Simulation",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A dental appliance manufacturer needed to increase production in their Mexico plant and believed that part of their process would create a bottleneck. AMT helped them make the necessary changes to the conveyor software, saving them approximately $350,000.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "For a major glass manufacturer, AMT produced a complete quotation including engineering and build. The Integrator completed the installation of the first system and there are several more on the schedule.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Alternative Energy Manufacturing Initiative",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "When a startup solar company was struggling to transition from the prototype level to large-scale manufacturing, AMT developed an initial workout period, saving them approximately $1.2 million and developing them into a high-volume, global manufacturer.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "219 Kay Industrial Drive",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AMT was engaged on a project to upgrade an existing Rockwell Automation Allen-Bradley PLC-5 to ControlLogix platform and implement a new product tracking system utilizing carrier barcode and product packing label generation in handshake with an ERP system.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "In mid-2018, a well-known aerospace company tasked AMT with designing a safety system at a test facility. Their current arrangement was an open environment with multiple robots performing tasks without any kind of safety guarding in place to control human access to operating workspaces.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A dental appliance manufacturer needed to increase production in their Mexico plant and believed that part of their process would create a bottleneck. AMT helped them make the necessary changes to the conveyor software, saving them approximately $350,000.",
+    "url": "https://appliedmfg.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock More Revenue for Your Agency With a White Label Website Builder",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "Velt has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/493335-10",
+    "pass": 3
+   },
+   {
+    "quote": "What is Velt’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/493335-10",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Velt is",
+    "url": "https://pitchbook.com/profiles/company/493335-10",
+    "pass": 3
+   },
+   {
+    "quote": "Velt Revenue 2024: $2M Est.",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Velt has not published its revenue. GetLatka estimates it at about $2M a year (December 2024).",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Velt CEO, founders & employees",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Rakesh Goyal founded Velt in 2020 and runs it as CEO. Velt had 13 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "What is Velt's revenue?",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Velt's revenue at about",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Velt have?",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "+13 Best White Label Software (SaaS Reseller) - YouTube",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "+13 Best White Label Software (SaaS Reseller)",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "Best White Label Software",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "TUDO SOBRE PRIVATE LABEL E WHITE LABEL NA AMAZON - Seller Cast #77",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock More Revenue for Your Agency With a White Label Website Builder",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "Here are the best white label SaaS software:",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "👉‍ See our article on best AI white label software:",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   },
+   {
+    "quote": "– Best White Label Software",
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Velt 2026 Company Profile: Valuation, Funding & Investors — Velt 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/493335-10",
+    "pass": 3
+   },
+   {
+    "quote": "Velt Revenue 2024: $2M Est. - GetLatka — Velt Revenue 2024: $2M Est. - GetLatka GetLatka https://getlatka.com > companies > velt",
+    "url": "https://getlatka.com/companies/velt.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Velt - Crunchbase Company Profile & Funding — Velt - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > velt",
+    "url": "https://www.crunchbase.com/organization/velt",
+    "pass": 3
+   },
+   {
+    "quote": "Velt (YC W22) has raised $2.77 million in seed funding to ... — Velt (YC W22) has raised $2.77 million in seed funding to ... LinkedIn https://www.linkedin.com > posts > y-combinator_velt-yc...",
+    "url": "https://www.linkedin.com/posts/y-combinator_velt-yc-w22-has-raised-277-million-in-activity-7137853328436207616-JDYQ",
+    "pass": 3
+   },
+   {
+    "quote": "A Y Combinator-backed startup called Velt wants to make ... — A Y Combinator-backed startup called Velt wants to make ... TechCrunch https://techcrunch.com > 2023/12/04",
+    "url": "https://techcrunch.com/2023/12/04/a-y-combinator-backed-startup-called-velt-wants-to-make-more-apps-collaborative/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "今日の一枚 Velt / Still Human｜KondoFumiya/cinapth - note 今日の一枚 Velt / Still Human｜KondoFumiya/cinapth - note note https://note.com > 音楽 > 音楽全般",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "今日の一枚 Velt / Still Human｜KondoFumiya/cinapth",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   },
+   {
+    "quote": "今日の一枚 Velt / Still Human",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   },
+   {
+    "quote": "あらゆる状況に置かれている皆様、お疲れ様でございます。",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   },
+   {
+    "quote": "↑Stationheadリスニング配信アーカイブ",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   },
+   {
+    "quote": "リズム要素強めなポスト・クラシック。ミニマルっぽさもあって非常に好み。",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   },
+   {
+    "quote": "明瞭さと軽快さを感じるんだけど、多分リズム要素が強いからだと思う。",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   },
+   {
+    "quote": "夜に聴くにはピッタリな仄暗い雰囲気も相まってジワーっと響いてくる。",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   },
+   {
+    "quote": "興奮と鎮静の間にあるエアポケットみたいな丁度いい場所を埋めてくれる絶妙な楽曲達なんだよなー。",
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "VeltPvP - X VeltPvP - X X https://x.com > VeltPvP",
+    "url": "https://x.com/VeltPvP",
+    "pass": 3
+   },
+   {
+    "quote": "Velt Young/囡子   on X: \"episodes 7 through 9 of Seven ... Velt Young/囡子   on X: \"episodes 7 through 9 of Seven ... X https://x.com > @811011593Velt",
+    "url": "https://x.com/811011593Velt/status/2113620034434294032",
+    "pass": 3
+   },
+   {
+    "quote": "Drew Scuilla on X: \"If you blindly look at the stats, Velt has ... Drew Scuilla on X: \"If you blindly look at the stats, Velt has ... X https://x.com > @DrewScuilla",
+    "url": "https://x.com/DrewScuilla/status/2117662259677974625",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Velt - LinkedIn Velt - LinkedIn LinkedIn https://www.linkedin.com > veltjs",
+    "url": "https://www.linkedin.com/company/veltjs",
+    "pass": 3
+   },
+   {
+    "quote": "Velt | LinkedIn Velt | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/veltjs-velt-yc/",
+    "pass": 3
+   },
+   {
+    "quote": "Jake (James) Velt - Associate at Intrepid Investment Bankers Jake (James) Velt - Associate at Intrepid Investment Bankers LinkedIn https://www.linkedin.com > jake-jame...",
+    "url": "https://www.linkedin.com/in/jake-james-velt",
+    "pass": 3
+   },
+   {
+    "quote": "Mihir S - Building Velt & Superflow - LinkedIn Mihir S - Building Velt & Superflow - LinkedIn LinkedIn India https://in.linkedin.com > mihir-sodaw...",
+    "url": "https://in.linkedin.com/in/mihir-sodawalla",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Velt (@Veltproducts) - Facebook Velt (@Veltproducts) - Facebook Facebook https://www.facebook.com > ... > Brand > Bags/Luggage",
+    "url": "https://www.facebook.com/Veltproducts/",
+    "pass": 3
+   },
+   {
+    "quote": "Velt Sports - Facebook Velt Sports - Facebook Facebook https://www.facebook.com > Pages > Other > Brand",
+    "url": "https://www.facebook.com/p/Velt-Sports-100083235337428/",
+    "pass": 3
+   },
+   {
+    "quote": "Velt Company - Facebook Velt Company - Facebook Facebook https://www.facebook.com > ... > Footwear store",
+    "url": "https://www.facebook.com/p/Velt-Company-61584490721433/",
+    "pass": 3
+   },
+   {
+    "quote": "Jaiden Velt - Facebook Jaiden Velt - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/jaiden.velt/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://velt.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://velt.dev/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://velt.dev/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://velt.dev/book-demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://velt.dev/images/customers/google.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://velt.dev/images/customers/pendo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://velt.dev/images/customers/varonis.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://velt.dev/images/customers/altana.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nyk.com/news/2026/20260407_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/fullload/1064925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/17909/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1204",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meteorapac.jp/wp/wp-content/uploads/2026/03/SKB_shoplist_20260303.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.valt-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/valt-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://herp.careers/v1/valtjapan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-28779",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLZdBGE9eWBwr4kbf25ddUqqSnfWx-GxN-5KCoNdf2uajRpIOoT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appliedmfg.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493335-10",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/velt.dev",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/velt",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_velt-yc-w22-has-raised-277-million-in-activity-7137853328436207616-JDYQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/VeltPvP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/811011593Velt/status/2113620034434294032",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DrewScuilla/status/2117662259677974625",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/veltjs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/veltjs-velt-yc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jake-james-velt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/mihir-sodawalla",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Veltproducts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Velt-Sports-100083235337428/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Velt-Company-61584490721433/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jaiden.velt/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Velt 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.nyk.com/news/2026/20260407_02.html",
+    "https://bestcarweb.jp/fullload/1064925",
+    "https://trafficnews.jp/post/725198",
+    "https://press.jal.co.jp/ja/release/202412/008517.html",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://velt.co.jp/",
+    "https://www.velt.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Velt 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/17909/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1204",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.meteorapac.jp/wp/wp-content/uploads/2026/03/SKB_shoplist_20260303.pdf",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://ecnomikata.com/blog/51120/",
+    "https://m-belt.com/partner-registration/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://ja.wikipedia.org/wiki/ベルトラ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Velt Japan",
+   "results": [
+    "https://www.valt-japan.com/",
+    "https://www.wantedly.com/companies/valt-japan",
+    "https://herp.careers/v1/valtjapan",
+    "https://initial.inc/companies/A-28779",
+    "https://x.com/valt_japan",
+    "https://xtech.mec.co.jp/articles/11757",
+    "https://velt.co.jp/",
+    "https://veltojapan.com/collections/all",
+    "https://www.velt.jp/",
+    "https://databasesets.com/company/JP_2010401198133"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Velt manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLZdBGE9eWBwr4kbf25ddUqqSnfWx-GxN-5KCoNdf2uajRpIOoT",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://appliedmfg.com/case-studies/",
+    "https://www.l2l.com/case-studies",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://velt.dev/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Velt white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-business-software/",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Velt founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/493335-10",
+    "https://getlatka.com/companies/velt.dev",
+    "https://www.crunchbase.com/organization/velt",
+    "https://www.linkedin.com/posts/y-combinator_velt-yc-w22-has-raised-277-million-in-activity-7137853328436207616-JDYQ",
+    "https://techcrunch.com/2023/12/04/a-y-combinator-backed-startup-called-velt-wants-to-make-more-apps-collaborative/",
+    "https://fi.co/benchmarks",
+    "https://gaps.com/finance/",
+    "https://www.ycombinator.com/companies/velt",
+    "https://mark43.com/press/faster-cheaper-younger-meet-30-under-30-rising-stars-of-enterprise-technology/",
+    "https://prospeo.io/c/velt-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Velt",
+   "results": [
+    "https://note.com/kf_cinapth/n/n4e333c52ffca",
+    "https://note.com/tsukasa_yamato/n/n4f1de0e8682c?hl=en",
+    "https://note.com/ace_katsuragi/m/m57a0e5687ddd/hashtag/%E3%83%86%E3%83%AC%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC",
+    "https://note.com/jirokichi2021/n/n0c46c0c27f23",
+    "https://note.com/tag/YOURS",
+    "https://note.com/hiura_co6970/n/nea1b806e1a71",
+    "https://note.com/kf_cinapth/n/ne01a01f22fa0",
+    "https://note.com/sigyuuka/n/n2d61c934da05?hl=en",
+    "https://note.com/bishamonbaby/n/ne2c4fc84be55?hl=en"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Velt",
+   "results": [
+    "https://x.com/VeltPvP",
+    "https://x.com/811011593Velt/status/2113620034434294032",
+    "https://x.com/DrewScuilla/status/2117662259677974625",
+    "https://x.com/FAU_Owls_Nest/status/2115955504874746145",
+    "https://x.com/RealShowstopper/status/2119417844400033941",
+    "https://x.com/811011593Velt/status/2110308164667388356?lang=ar",
+    "https://x.com/RaggiNaT/status/1624457421958651905",
+    "https://x.com/Momoyanky_/status/2099095902300549137",
+    "https://x.com/DrewScuilla/status/2118536939200516523",
+    "https://x.com/veltdev"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Velt",
+   "results": [
+    "https://www.linkedin.com/company/veltjs",
+    "https://www.linkedin.com/products/veltjs-velt-yc/",
+    "https://www.linkedin.com/in/jake-james-velt",
+    "https://in.linkedin.com/in/mihir-sodawalla",
+    "https://www.linkedin.com/posts/y-combinator_velt-yc-w22-just-launched-a-full-stack-activity-7176653799296569345-3dDR",
+    "https://nl.linkedin.com/in/hannesvelt",
+    "https://www.linkedin.com/in/traceyvelt",
+    "https://www.linkedin.com/in/rmgoyal",
+    "https://www.linkedin.com/in/lexapope",
+    "https://in.linkedin.com/company/velt-as"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Velt",
+   "results": [
+    "https://www.facebook.com/Veltproducts/",
+    "https://www.facebook.com/p/Velt-Sports-100083235337428/",
+    "https://www.facebook.com/p/Velt-Company-61584490721433/",
+    "https://www.facebook.com/jaiden.velt/",
+    "https://www.facebook.com/media/set/?vanity=Veltproducts&set=a.506152451516775",
+    "https://www.facebook.com/media/set/?vanity=Veltproducts&set=a.1231855920159219",
+    "https://www.facebook.com/VeltDesigns/",
+    "https://www.facebook.com/nathan.velt/",
+    "https://www.facebook.com/velt.photostudio/posts/velt-family-portraits-with-itsmeimtimyears-at-velt-freshly-freelance-as-a-social/1143142961403028/",
+    "https://www.facebook.com/veltvzw/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Velt note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Velt X 投稿",
+   "results": [
+    "https://vertx.io/docs/",
+    "https://projects.eclipse.org/projects/rt.vertx",
+    "https://github.com/eclipse-vertx/vert.x",
+    "https://en.wikipedia.org/wiki/Vert.x",
+    "https://www.youtube.com/watch?v=yuXYiSqD9rM",
+    "https://developers.redhat.com/blog/2018/03/29/rest-vert-x",
+    "https://alexey-soshin.medium.com/understanding-vert-x-event-bus-c31759757ce8",
+    "https://vert-x3.github.io/advanced-vertx-guide/index.html",
+    "https://hackernoon.com/going-beyond-spring-exploring-vertx-for-reactive-java-development",
+    "https://x.com/veltdev"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

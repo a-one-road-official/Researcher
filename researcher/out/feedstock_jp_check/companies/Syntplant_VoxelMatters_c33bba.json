@@ -1,0 +1,482 @@
+{
+ "name": "Syntplant — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T20:21:22.411438+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInFederico Sher - Co-founder of VoxelMatters | LinkedInA mix of technologies. | Marcin Wątrobiński - LinkedIn IndiaMarcin Wątrobiński on LinkedIn: How to show on the essence of ...Marcin Wątrobiński on LinkedIn: We are looking forward to the ... Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amste",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   },
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInA mix of technologies. | Marcin Wątrobiński - LinkedIn IndiaMarcin Wątrobiński on LinkedIn: How to show on the essence of ...Marcin Wątrobiński on LinkedIn: We are looking forward to the ... VoxelMatters is a leading market research and media company specializing in the additive manufacturing industry. We provide in-depth analysis, insights, and",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/our-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/kpopusaonline/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/understanding-true-economics-behind-high-end-shoichiro-tanaka-uch6c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/unique-3d-printed-furniture-made-possible-with-pellet-extrusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upnano.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/farsoon-partners-japan-3d-printer-co-ltd-new-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upnano.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF+%E6%98%87%E9%99%8D%E8%A3%85%E7%BD%AE/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0848/7202/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E8%80%90%E7%81%AB%E3%83%91%E3%83%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/VoxelMatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Syntplant — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://i-am-marketplace.com/about-us/",
+    "https://www.voxelmatters.directory/submit-company/",
+    "https://www.voxelmatters.report/methodology/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Syntplant — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/kpopusaonline/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.linkedin.com/pulse/understanding-true-economics-behind-high-end-shoichiro-tanaka-uch6c",
+    "https://www.instagram.com/ms.sue1979/",
+    "https://kimini.online/blog/archives/39927",
+    "https://www.trade.gov/buyusa-japan-find-us-products-and-services"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Syntplant — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://3dprinter.co.jp/",
+    "https://ja.3dsystems.com/materials",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://ja.aliexpress.com/item/4000832268680.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2212/05/news015_2.html",
+    "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja",
+    "https://intamsys.jp/",
+    "https://sonicwire.com/product/C2628"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Syntplant — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://ja.3dsystems.com/unique-3d-printed-furniture-made-possible-with-pellet-extrusion",
+    "https://www.poly-maker.jp/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJmANsDyaZtt0g1DZzf6IVMkUpp8mqiVyEDgnGaqvLGWFPTpgW2",
+    "https://shop.exmatelab.com/",
+    "https://sunwardshop.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Syntplant — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/",
+    "https://www.upnano.com/distributors/",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.group/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/en/tct/product",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Syntplant — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/farsoon-partners-japan-3d-printer-co-ltd-new-market/",
+    "https://www.upnano.com/distributors/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.3dnatives.com/en/events/tct-japan/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Syntplant — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:monotaro.com Syntplant — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/トラック+昇降装置/",
+    "https://www.monotaro.com/p/0848/7202/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/耐火パテ/",
+    "https://www.monotaro.com/s/c-100772/attr_f2-M12/",
+    "https://www.monotaro.com/g/05139465/",
+    "https://www.monotaro.com/g/00347026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Syntplant — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://x.com/VoxelMatters",
+    "https://revenuebase.ai/companies/browse/3d-additive-manufacturing-companies",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://dealroom.co/lists/additive-manufacturing-startups/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.inven.ai/company-lists/top-21-3d-printing-companies-in-massachusetts",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Syntplant — VoxelMatters",
+   "results": [
+    "https://note.com/beloved_tomoka/all",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/furuxchi/n/nc3a76ce0fd13",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/takaponpon/n/nf5a0d7c10da8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Syntplant — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/richtosho/status/2117484572887695600",
+    "https://x.com/cdmblogs/status/2064651749432905954",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Blond1n1/status/2117719313754808471",
+    "https://x.com/xhazeling/status/2114183586970734857"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Syntplant — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/syntplant-ltd",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://in.linkedin.com/posts/marcin-wątrobiński-945597176_biomaterials-implants-activity-7051240181550452736-8Ye3",
+    "https://kg.linkedin.com/posts/marcin-wątrobiński-945597176_we-are-looking-forward-to-the-clinical-evaluation-activity-7064903733045817344-SeQk",
+    "https://tz.linkedin.com/posts/marcin-wątrobiński-945597176_how-to-show-on-the-essence-of-thermosensitivity-activity-7054729390231842816-DZQF"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Syntplant — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/groups/205237919847679/",
+    "https://www.facebook.com/groups/flstudioproducersgroup/posts/5222913921052850/",
+    "https://www.facebook.com/groups/freevstplugins/posts/2781375895350810/",
+    "https://www.facebook.com/tamberofficial/posts/transform-any-synth-with-just-your-hands-and-a-webcam-this-is-synplant-by-sonicc/122127391089260862/",
+    "https://www.facebook.com/SonicCharge/videos/phenotype-is-a-free-script-for-synplant-2-that-lets-you-generate-synth-patches-f/1551091839688397/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Syntplant — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=OTjo_jd4nrA",
+    "https://www.voxelmatters.report/methodology/",
+    "https://note.com/tag/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Syntplant — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.group/",
+    "https://www.voxelmatters.com/events/ams-x/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.directory/contact-us/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）"
+ }
+}

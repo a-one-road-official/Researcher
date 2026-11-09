@@ -1,0 +1,1018 @@
+{
+ "name": "Uplane",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T20:24:35.711234+00:00",
+ "official_url": "https://uplane.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "06-Dec-2025 $4.5M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Uplane, the AI marketing team that runs your ads",
+    "url": "https://uplane.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We run your performance marketing end to end as your AI growth partner.",
+    "url": "https://uplane.com/",
+    "pass": 1
+   },
+   {
+    "quote": "License the Uplane platform so your team makes on-brand ads and pages on demand.",
+    "url": "https://uplane.com/",
+    "pass": 1
+   },
+   {
+    "quote": "About Uplane, building the future of performance marketing | Uplane",
+    "url": "https://uplane.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We run your performance marketing end to end as your AI growth partner.",
+    "url": "https://uplane.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "License the Uplane platform so your team makes on-brand ads and pages on demand.",
+    "url": "https://uplane.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Careers at Uplane, build the future of digital advertising | Uplane",
+    "url": "https://uplane.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We run your performance marketing end to end as your AI growth partner.",
+    "url": "https://uplane.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "License the Uplane platform so your team makes on-brand ads and pages on demand.",
+    "url": "https://uplane.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed growth, the best marketing team you will ever have | Uplane",
+    "url": "https://uplane.com/managed-growth/",
+    "pass": 1
+   },
+   {
+    "quote": "We run your performance marketing end to end as your AI growth partner.",
+    "url": "https://uplane.com/managed-growth/",
+    "pass": 1
+   },
+   {
+    "quote": "License the Uplane platform so your team makes on-brand ads and pages on demand.",
+    "url": "https://uplane.com/managed-growth/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 22, 2026, 7:50 AM",
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "クレディセゾンはなぜ独自開発からChatGPT Enterpriseへ「方針転換」したのか",
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta is the largest social media company in the world, boasting more than 3.5 billion monthly active users worldwide.",
+    "url": "https://newspicks.com/news/16493606/",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane: Replace marketing agencies with AI | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Replace marketing agencies with AI",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Companies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: Higher ROAS for enterprises and effortless, expert-level marketing for SMBs.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Managed 7-digit monthly ad spend as a Marketing Director of one of the fastest-growing D2C brands in Europe. Scaled a lead platform from 0 to >$10M monthly revenue in just 12 weeks.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Has 15 years of fullstack experience, was Head of Engineering at two former YC companies and won Product of the Month at Product Hunt.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 15, 2026",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane: Replace your marketing agency.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane (YC F25) is building AI software to replace marketing agencies.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Their AI has already created thousands of ads and landing pages, delivering a 20-50% increase in return on ad spend for their customers.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane builds an all-in-one marketing platform that uses AI to create, launch, and test ad campaigns across Meta, Google, Taboola, TikTok, and others. The software delivers new, creative ideas, and gives full flexibility to ensure every marketing message is on brand and compliant.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "In marketing, speed and analytics are essential. Humans simply can’t catch up with the speed and precision of AI.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "For years, the promise of digital marketing has been data-driven revenue growth at scale. The reality for most marketers, however, is a losing battle fought with manual work.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing teams and their agencies are drowning in a sea of spreadsheets, unreliable data, and siloed ad platforms. They are buried in repetitive tasks: endlessly creating and testing ad variations, designing new landing pages, trying to make sense of the data, and manually shifting budgets across ads and channels. This makes it impossible to move at the speed and precision the market demands.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "The result: billions of dollars are lost due to low-performing marketing campaigns. No human can do the manual work that is required to do the job right.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane analyzes the target audience, brand style, ads, competitors' ads, and even real-time market trends. It uses these insights to instantly generate thousands of ads and matching landing pages.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Select your favorite ads, and with a single click, campaigns go live across all channels. Uplane takes over, managing everything 24/7. It monitors performance and shifts budget to the ads and channels that deliver the highest return.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Built-in dashboards give instant transparency. The insights from the data are not just useful for marketers but also for our AI. It continuously tracks ad performance, identifies best value propositions and designs, and gets smarter with every conversion. Thus, it creates better ads with every iteration.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane is working hand-in-hand with ambitious companies that want to scale their marketing profitably, eliminate manual work, and make marketing that their customers love.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "AI Marketing Strategist - San Francisco",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "AI Marketing Strategist Intern - San Francisco",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "AI Marketing Strategist Intern - Berlin (German Speaking)",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "AI Marketing Strategist - Berlin (German Speaking)",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a marketing automation platform designed to create, manage, and optimize advertising campaigns across digital channels.",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Is Uplane a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "How Uplane Raised $4.5 Million to Build a Smart Platform Competing with Traditional Marketing Agencies | Jawlah",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "UAE's Multipolitan raises $2 million in pre-seed round",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "How Uplane Raised $4.5 Million to Develop a Smart Platform That Competes With Traditional Marketing Agencies",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane has raised $4.5 million in a seed round, planning to replace traditional marketing agencies with AI-powered solutions. The US-based platform is leading a push to enable companies to...",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "19 April, 2026",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane has raised $4.5 million in a seed round, planning to replace traditional marketing agencies with AI-powered solutions. The US-based platform is leading a push to enable companies to manage their own digital ad campaigns without needing external agencies.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane lets clients launch and test ad campaigns across multiple platforms including Meta, Google, TikTok, and LinkedIn, automatically allocating budgets to the best-performing campaigns. The platform provides tools for producing text, display, and video ads, alongside automated landing page testing and development. Clients can use their own creative assets or generate new designs using AI.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "The funding round was led by Play Ventures, with participation from Y Combinator and other funds including 20VC, Rebel Fund, and Multimodal Ventures. Uplane was founded last November by Julius Corvign, Lukas Vollmer, and Marvin Abdelmessih, all of whom have experience in digital marketing.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "The company focuses on businesses spending over $100,000 monthly on digital marketing, offering its services via an annual fee. Early Uplane clients include health and wellness company Aonic, Australian fintech Wagetap, and Deutsche Bahn.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Co-founder Corvign says clients have seen a 30% improvement in return on ad spend within about six weeks, with improvements reaching 60% in some cases such as Aonic. He notes that Deutsche Bahn was able to execute its campaigns more efficiently and quickly compared to what it received from its previous ad agency.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "AIスタートアップ「Uplane」はマーケティング代理店をAIで置き換えようとしている",
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "450万ドルを調達した14枚のピッチデックはこちら【独占公開】 | Business Insider Japan",
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIスタートアップ「Uplane」はマーケティング代理店をAIで置き換えようとしている",
+    "url": "https://newspicks.com/news/16493606/",
+    "pass": 3
+   },
+   {
+    "quote": "450万ドルを調達した14枚のピッチデックはこちら【独占公開】 (Business Insider Japan)",
+    "url": "https://newspicks.com/news/16493606/",
+    "pass": 3
+   },
+   {
+    "quote": "Business Insider Japan",
+    "url": "https://newspicks.com/news/16493606/",
+    "pass": 3
+   },
+   {
+    "quote": "『AIスタートアップ「Uplane」はマーケティング代理店をAIで置き換えようとしている",
+    "url": "https://newspicks.com/news/16493606/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIスタートアップ「 Uplane 」はマーケティング代理店をAIで ... — AIスタートアップ「 Uplane 」はマーケティング代理店をAIで ... Business Insider Japan https://www.businessinsider.jp > ビジネス",
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIスタートアップ「 Uplane 」はマーケティング 代理店 をAIで ... — AIスタートアップ「 Uplane 」はマーケティング 代理店 をAIで ... Business Insider Japan https://www.businessinsider.jp > ビジネス",
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIスタートアップ「 Uplane 」はマーケティング 代理店 をAIで ... — AIスタートアップ「 Uplane 」はマーケティング 代理店 をAIで ... NewsPicks https://newspicks.com > news",
+    "url": "https://newspicks.com/news/16493606/",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane launches AI marketing platform, boosts ad ROI by 20 ... — Uplane launches AI marketing platform, boosts ad ROI by 20 ... LinkedIn https://www.linkedin.com > posts > y-combinator_uplane-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_uplane-yc-f25-is-building-ai-software-to-activity-7386068685431595008-C5cG",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane : Replace marketing agencies with AI | Y Combinator — Uplane : Replace marketing agencies with AI | Y Combinator Y Combinator https://www.ycombinator.com > uplane",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane 2026 Company Profile: Valuation, Funding & Investors — Uplane 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "How Uplane Raised $4.5 Million to Develop a Smart Platform ... — How Uplane Raised $4.5 Million to Develop a Smart Platform ... jawlah.co https://jawlah.co > ...",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane has raised $4.5M in seed funding to replace marketing ... — Uplane has raised $4.5M in seed funding to replace marketing ... LinkedIn https://www.linkedin.com > posts > ju...",
+    "url": "https://www.linkedin.com/posts/julius-koerfgen_excited-to-announce-uplane-has-raised-45m-activity-7450214801521377280-9ZsP",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Uplane: Replace marketing agencies with AI | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Replace marketing agencies with AI",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Companies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: Higher ROAS for enterprises and effortless, expert-level marketing for SMBs.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane (YC F25) is building AI software to replace marketing agencies.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing teams and their agencies are drowning in a sea of spreadsheets, unreliable data, and siloed ad platforms. They are buried in repetitive tasks: endlessly creating and testing ad variations, designing new landing pages, trying to make sense of the data, and manually shifting budgets across ads and channels. This makes it impossible to move at the speed and precision the market demands.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "How Uplane Raised $4.5 Million to Build a Smart Platform Competing with Traditional Marketing Agencies | Jawlah",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "How Uplane Raised $4.5 Million to Develop a Smart Platform That Competes With Traditional Marketing Agencies",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane has raised $4.5 million in a seed round, planning to replace traditional marketing agencies with AI-powered solutions. The US-based platform is leading a push to enable companies to...",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane has raised $4.5 million in a seed round, planning to replace traditional marketing agencies with AI-powered solutions. The US-based platform is leading a push to enable companies to manage their own digital ad campaigns without needing external agencies.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "In its pitch deck, Uplane argued that existing solutions — such as integrated ad platforms, analytics tools, automated ad creation tools, and even traditional marketing agencies — only address individual parts of the process and do not offer a complete, closed-loop marketing solution. There are clear gaps:",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Managed 7-digit monthly ad spend as a Marketing Director of one of the fastest-growing D2C brands in Europe. Scaled a lead platform from 0 to >$10M monthly revenue in just 12 weeks.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "For years, the promise of digital marketing has been data-driven revenue growth at scale. The reality for most marketers, however, is a losing battle fought with manual work.",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is Uplane’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Uplane is",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   },
+   {
+    "quote": "UAE's Multipolitan raises $2 million in pre-seed round",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane competes with other players in the market, such as Smartly and Pomo. The company plans to invest the new funding in expanding its team, which currently has 15 employees, attracting new clients, and integrating with more digital ad platforms.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane is also aiming to reach around $200,000 in monthly recurring revenue by expanding its scope and adding more engineers and technologies to increase daily output in ads, landing pages, and budget allocation.",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane's plan to reach $100 million in annual revenue relies on targeting two client segments:",
+    "url": "https://jawlah.co/en/53854",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Uplane - LinkedIn Uplane - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/uplane-com",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane launches AI marketing platform, boosts ad ROI by 20 ... Uplane launches AI marketing platform, boosts ad ROI by 20 ... LinkedIn https://www.linkedin.com > posts > y-combinator_uplane-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_uplane-yc-f25-is-building-ai-software-to-activity-7386068685431595008-C5cG",
+    "pass": 3
+   },
+   {
+    "quote": "Julius Korfgen - Uplane (YC F25) - LinkedIn Julius Korfgen - Uplane (YC F25) - LinkedIn LinkedIn https://www.linkedin.com > julius-ko...",
+    "url": "https://www.linkedin.com/in/julius-koerfgen",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane has raised $4.5M in seed funding to replace marketing ... Uplane has raised $4.5M in seed funding to replace marketing ... LinkedIn https://www.linkedin.com > posts > ju...",
+    "url": "https://www.linkedin.com/posts/julius-koerfgen_excited-to-announce-uplane-has-raised-45m-activity-7450214801521377280-9ZsP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Uplane has a platform where brands can launch and test ad ... Uplane has a platform where brands can launch and test ad ... Facebook https://www.facebook.com > businessinsider > posts > upl...",
+    "url": "https://www.facebook.com/businessinsider/posts/uplane-has-a-platform-where-brands-can-launch-and-test-ad-campaigns-on-digital-c/1324590739539207/",
+    "pass": 3
+   },
+   {
+    "quote": "Uplane Consult | Accra - Facebook Uplane Consult | Accra - Facebook Facebook https://www.facebook.com > ... > Accounting Service",
+    "url": "https://www.facebook.com/uplaneconsult/",
+    "pass": 3
+   },
+   {
+    "quote": "Umesh Uplane on Reels - Facebook Umesh Uplane on Reels - Facebook Facebook https://www.facebook.com > ... > Umesh Uplane > Videos",
+    "url": "https://www.facebook.com/umesh.uplane.2025/videos/1101242622724263/",
+    "pass": 3
+   },
+   {
+    "quote": "Pickerington library HVAC project drive- up lane closure Pickerington library HVAC project drive- up lane closure Facebook https://www.facebook.com > posts > update-the-crane-is-g...",
+    "url": "https://www.facebook.com/PickeringtonPublicLibrary/posts/update-the-crane-is-gone-and-the-drive-up-lane-is-now-open%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5-%F0%9D%97%97%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BD-%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B2/1545464084283210/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://uplane.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uplane.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uplane.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uplane.com/managed-growth/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://uplane.com/assets/logos/investors/yc.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://uplane.com/assets/logos/investors/20vc-ink.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://uplane.com/assets/logos/investors/play-ventures-ink.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://uplane.com/assets/logos/investors/multimodal-icon.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BIJapan/status/2046735546098004247",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newspicks.com/news/16493606/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jal.co.jp/en-us/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expedia.com/Destinations-In-Japan.d89.Flight-Destinations",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aa.com/en-us/flights-to-japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.united.com/en/us/deals/flights-to-japan",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.athenaswc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advancemediany.com/manufacturing-company-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nice.com/blog/4-case-studies-that-prove-the-value-of-using-the-best-customer-experience-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLhBozjPX_wsVsycrWF0RaW5MTunu3NjRCt4EcMkmp88CPaWM0o",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/smm-tips/best-white-label-saas-companies-to-partner-with",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1132126-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jawlah.co/en/53854",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/julius-koerfgen_excited-to-announce-uplane-has-raised-45m-activity-7450214801521377280-9ZsP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/uplane-com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_uplane-yc-f25-is-building-ai-software-to-activity-7386068685431595008-C5cG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/julius-koerfgen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/julius-koerfgen_excited-to-announce-uplane-has-raised-45m-activity-7450214801521377280-9ZsP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/businessinsider/posts/uplane-has-a-platform-where-brands-can-launch-and-test-ad-campaigns-on-digital-c/1324590739539207/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/uplaneconsult/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/umesh.uplane.2025/videos/1101242622724263/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PickeringtonPublicLibrary/posts/update-the-crane-is-gone-and-the-drive-up-lane-is-now-open%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5-%F0%9D%97%97%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BD-%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B2/1545464084283210/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Uplane 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://www.startyourengines.net/pressrelease/455187/",
+    "https://www.webcg.net/articles/-/54505",
+    "https://carislife.hatenablog.com/entry/20250729/1753783200",
+    "https://hinterlandgroup.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Uplane 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/",
+    "https://x.com/BIJapan/status/2046735546098004247",
+    "https://newspicks.com/news/16493606/",
+    "https://www.manageengine.jp/pace/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://note.com/jofie/n/n206cdfee2467",
+    "https://support.appsflyer.com/hc/ja/articles/207034106-%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Uplane Japan",
+   "results": [
+    "https://www.jal.co.jp/en-us/",
+    "https://www.expedia.com/Destinations-In-Japan.d89.Flight-Destinations",
+    "https://www.aa.com/en-us/flights-to-japan",
+    "https://www.united.com/en/us/deals/flights-to-japan",
+    "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123",
+    "https://www.ana.co.jp/en/jp/",
+    "https://www.skyscanner.com/flights-to/jp/cheap-flights-to-japan.html",
+    "https://www.flightaware.com/live/fleet/JAL",
+    "https://www.researchgate.net/publication/322569627_Japanese_Upland_Rice",
+    "https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Uplane manufacturing customer case study",
+   "results": [
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.advancemediany.com/manufacturing-company-case-study/",
+    "https://www.nice.com/blog/4-case-studies-that-prove-the-value-of-using-the-best-customer-experience-software",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLhBozjPX_wsVsycrWF0RaW5MTunu3NjRCt4EcMkmp88CPaWM0o",
+    "https://www.linkedin.com/posts/y-combinator_uplane-yc-f25-is-building-ai-software-to-activity-7386068685431595008-C5cG",
+    "https://upsun.com/blog/case-studies/",
+    "https://tulip.co/case-studies/",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.upbound.io/customer-stories",
+    "https://www.casestudies.com/company/upland-software/case-study/aerospace-manufacturing-company-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "Uplane white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://www.cloudcampaign.com/smm-tips/best-white-label-saas-companies-to-partner-with",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Uplane founded funding employees revenue",
+   "results": [
+    "https://www.ycombinator.com/companies/uplane",
+    "https://pitchbook.com/profiles/company/1132126-39",
+    "https://jawlah.co/en/53854",
+    "https://www.linkedin.com/posts/julius-koerfgen_excited-to-announce-uplane-has-raised-45m-activity-7450214801521377280-9ZsP",
+    "https://www.linkedin.com/posts/y-combinator_uplane-yc-f25-is-building-ai-software-to-activity-7386068685431595008-C5cG",
+    "https://www.crunchbase.com/organization/uplane",
+    "https://uplane.com/about-us/",
+    "https://www.businessinsider.com/pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai-2026-4",
+    "https://www.tamradar.com/funding-rounds/uplane-seed-4-5m",
+    "https://startupintros.com/orgs/uplane"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Uplane",
+   "results": [
+    "https://note.com/jofie/n/n206cdfee2467",
+    "https://note.com/adinnovation/n/nf9c5d8396062",
+    "https://note.com/lil_bit_rusty26/n/n68acaf7019c5?hl=en",
+    "https://note.com/oubi110/n/n67fb525c58b6?hl=en",
+    "https://note.com/crownkoen/n/nc80e8bda7597?hl=en",
+    "https://note.com/sazawe/n/naf05eaf31155?hl=en",
+    "https://note.com/josebadjuku/n/nbcc48f50b2af",
+    "https://note.com/yukaikayukako/n/ncaef9f06ee9a",
+    "https://note.com/crownkoen/n/n5a21e9c74aa1?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Uplane",
+   "results": [
+    "https://x.com/AGTPinsights/status/2109681266295751137",
+    "https://x.com/BIJapan/status/2046735546098004247",
+    "https://x.com/AGTPinsights/status/2109681266295751137?lang=ar",
+    "https://x.com/GahannaScanning/status/2114458863105716465?lang=ar-x-fm",
+    "https://x.com/NLEXexpressways/status/2013369587924967690",
+    "https://x.com/apopey/status/2102485944796676138",
+    "https://x.com/KNSKashmir/status/2115657186328363175",
+    "https://x.com/CSMIA_Official/status/2020183432790253651",
+    "https://x.com/KRD_forum/status/1791742929922584797",
+    "https://x.com/DriveBC/status/2102833577499230535"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "site:linkedin.com Uplane",
+   "results": [
+    "https://www.linkedin.com/company/uplane-com",
+    "https://www.linkedin.com/posts/y-combinator_uplane-yc-f25-is-building-ai-software-to-activity-7386068685431595008-C5cG",
+    "https://www.linkedin.com/in/julius-koerfgen",
+    "https://www.linkedin.com/posts/julius-koerfgen_excited-to-announce-uplane-has-raised-45m-activity-7450214801521377280-9ZsP",
+    "https://www.linkedin.com/posts/julius-koerfgen_were-building-uplane-to-replace-the-marketing-activity-7501324733754265600-NgBb",
+    "https://www.linkedin.com/in/lukasvollmer",
+    "https://www.linkedin.com/in/patrick-pfeiffer",
+    "https://www.linkedin.com/company/up-lane",
+    "https://www.linkedin.com/in/danielexler"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Uplane",
+   "results": [
+    "https://www.facebook.com/businessinsider/posts/uplane-has-a-platform-where-brands-can-launch-and-test-ad-campaigns-on-digital-c/1324590739539207/",
+    "https://www.facebook.com/uplaneconsult/",
+    "https://www.facebook.com/umesh.uplane.2025/videos/1101242622724263/",
+    "https://www.facebook.com/PickeringtonPublicLibrary/posts/update-the-crane-is-gone-and-the-drive-up-lane-is-now-open%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%98%F0%9D%97%A5-%F0%9D%97%97%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BD-%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B2/1545464084283210/",
+    "https://www.facebook.com/groups/101169643307511/posts/28918731237791301/",
+    "https://www.facebook.com/VirginiaTechFB/posts/lighting-up-lane-letsgohokies/1385116320471994/",
+    "https://www.facebook.com/BlueChipsBBN/posts/times-almost-up-lane-kiffin-lamontvizttbbn-bigbluenation-catsby90-weareuk-kentuc/1127346849804131/",
+    "https://www.facebook.com/keycnewsnow/posts/heads-up-lane-restrictions-will-start-in-november-on-highway-14-near-the-minneso/1697889801697285/",
+    "https://www.facebook.com/libertyvillesavingsbank/posts/attention-keosauqua-customersour-drive-up-lane-and-atm-lane-will-be-closed-today/1733818895410810/",
+    "https://www.facebook.com/CityofUpland/posts/-reminder-regularly-scheduled-city-council-meeting-tonight-at-600-pm-in-the-city/1500733928749768/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Uplane note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/fujitsu_pr/n/n5fa1299be8c7",
+    "https://note.com/saladdays/n/n4bf8a5d5abaa",
+    "https://note.com/yosuke77",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://ja.wikipedia.org/wiki/Note_(%E4%BC%81%E6%A5%AD)",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Uplane X 投稿",
+   "results": [
+    "https://forums.x-plane.org/",
+    "https://developer.x-plane.com/blog/",
+    "https://github.com/Marginal/X-Publish",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://www.youtube.com/user/XPlaneOfficial",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://discuss.ardupilot.org/t/x-uav-clouds-maiden-flight-full-auto-take-off-arduplane-3-7/15552",
+    "https://note.com/munou_ac/n/nee5132ba7a2f",
+    "https://www.youtube.com/watch?v=4mYmH5IHzUs",
+    "https://x.com/uplane_com"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 30
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部32頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

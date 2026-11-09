@@ -8,7 +8,7 @@
  ],
  "context": "手法",
  "kind": "market",
- "researched_at": "2026-11-09T03:18:16.311676+00:00",
+ "researched_at": "2026-11-09T20:20:14.710379+00:00",
  "evidence": {
   "実例": [
    {
@@ -317,72 +317,32 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "url": "https://note.com/minna_no_ai/n/n43b5a6963d2d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.sansan.com/media/data-cleaning/",
+    "url": "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sysdig.com/jp/content-library?1923723f_page=5&d1f03509_page=222",
+    "url": "https://note.com/anomaly_inc/n/n15611efccadc",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://jp.sansan.com/media/tag/aggregation-of-names/",
+    "url": "https://note.com/ai_scout_jp/n/n91cff96707e1",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://usonar.co.jp/blog/5890.html",
+    "url": "https://note.com/tender_clam9623/n/n5116d5a7bd28",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups11-b-10.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://jp.sansan.com/user-guide/advanced/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://it.impress.co.jp/articles/-/28648",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp-help.sansan.com/hc/ja/articles/206508497-%E5%90%8D%E5%AF%84%E3%81%9B%E3%82%92%E8%A7%A3%E9%99%A4%E3%81%99%E3%82%8B",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://winpure.com/record-linkage-software/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://dataladder.com/importance-data-cleansing-process-record-linkage/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arxiv.org/abs/1907.08667",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://users.cecs.anu.edu.au/~Peter.Christen/Febrl/febrl-0.3/febrldoc-0.3/node6.html",
+    "url": "https://note.com/leon_1215/n/n827bf4a03ead",
     "status": "ok",
     "method": "http"
    },
@@ -392,8 +352,28 @@
     "method": "http"
    },
    {
-    "url": "https://textbook.coleridgeinitiative.org/chap-link.html",
+    "url": "https://dataladder.com/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recordlinker.com/name-normalization-matching/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matchdatapro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/html/2601.21138",
+    "status": "http_404",
     "method": "http"
    }
   ]
@@ -402,111 +382,70 @@
   {
    "query": "名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手） site:note.com",
    "results": [
-    "https://jp.sansan.com/media/aggregation-of-names/",
-    "https://jp.sansan.com/media/data-cleaning/",
-    "https://www.sysdig.com/jp/content-library?1923723f_page=5&d1f03509_page=222",
-    "https://jp.sansan.com/media/tag/aggregation-of-names/",
-    "https://usonar.co.jp/blog/5890.html",
-    "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups11-b-10.pdf",
-    "https://jp-help.sansan.com/hc/ja/articles/206508497-%E5%90%8D%E5%AF%84%E3%81%9B%E3%82%92%E8%A7%A3%E9%99%A4%E3%81%99%E3%82%8B",
-    "https://it.impress.co.jp/articles/-/28648",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
-    "https://note.com/tanakaminoru_/n/n7b5a04d7b858"
+    "https://note.com/minna_no_ai/n/n43b5a6963d2d",
+    "https://note.com/kanai_sho/n/nff1ff5d30eac",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
+    "https://note.com/ai_scout_jp/n/n91cff96707e1",
+    "https://note.com/tender_clam9623/n/n5116d5a7bd28",
+    "https://note.com/leon_1215/n/n827bf4a03ead",
+    "https://note.com/ai_komon/n/n9b96b57f965c",
+    "https://note.com/tanakaminoru_/n/n7b5a04d7b858",
+    "https://note.com/sr_mako/n/n611995af6f74",
+    "https://note.com/anomaly_inc/n/n6d00441f4ed8"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 12
   },
   {
    "query": "名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手） note",
-   "results": [
-    "https://jp.sansan.com/media/aggregation-of-names/",
-    "https://jp.sansan.com/media/data-cleaning/",
-    "https://www.sysdig.com/jp/content-library?1923723f_page=5&d1f03509_page=222",
-    "https://jp.sansan.com/media/tag/aggregation-of-names/",
-    "https://usonar.co.jp/blog/5890.html",
-    "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups11-b-10.pdf",
-    "https://jp.sansan.com/user-guide/advanced/",
-    "https://it.impress.co.jp/articles/-/28648",
-    "https://jp-help.sansan.com/hc/ja/articles/206508497-%E5%90%8D%E5%AF%84%E3%81%9B%E3%82%92%E8%A7%A3%E9%99%A4%E3%81%99%E3%82%8B"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手） やり方",
-   "results": [
-    "https://jp.sansan.com/media/aggregation-of-names/",
-    "https://jp.sansan.com/media/data-cleaning/",
-    "https://www.sysdig.com/jp/content-library?1923723f_page=5&d1f03509_page=222",
-    "https://jp.sansan.com/media/tag/aggregation-of-names/",
-    "https://usonar.co.jp/blog/5890.html",
-    "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups11-b-10.pdf",
-    "https://jp.sansan.com/user-guide/advanced/",
-    "https://it.impress.co.jp/articles/-/28648",
-    "https://jp-help.sansan.com/hc/ja/articles/206508497-%E5%90%8D%E5%AF%84%E3%81%9B%E3%82%92%E8%A7%A3%E9%99%A4%E3%81%99%E3%82%8B"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手） 事例",
-   "results": [
-    "https://jp.sansan.com/media/aggregation-of-names/",
-    "https://jp.sansan.com/media/data-cleaning/",
-    "https://www.sysdig.com/jp/content-library?1923723f_page=5&d1f03509_page=222",
-    "https://jp.sansan.com/media/tag/aggregation-of-names/",
-    "https://usonar.co.jp/blog/5890.html",
-    "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups11-b-10.pdf",
-    "https://jp-help.sansan.com/hc/ja/articles/206508497-%E5%90%8D%E5%AF%84%E3%81%9B%E3%82%92%E8%A7%A3%E9%99%A4%E3%81%99%E3%82%8B",
-    "https://it.impress.co.jp/articles/-/28648",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "record linkage data cleansing impossible values renamed companies former names matching",
    "results": [
-    "https://winpure.com/record-linkage-software/",
-    "https://dataladder.com/importance-data-cleansing-process-record-linkage/",
-    "https://arxiv.org/abs/1907.08667",
-    "https://users.cecs.anu.edu.au/~Peter.Christen/Febrl/febrl-0.3/febrldoc-0.3/node6.html",
     "https://en.wikipedia.org/wiki/Record_linkage",
-    "https://textbook.coleridgeinitiative.org/chap-link.html",
-    "https://semarchy.com/blog/data-matching-explained/",
-    "http://www.aaronflaaen.com/uploads/3/1/2/4/31243277/wasi_flaaen_statarecordlinkageutilities_20140401.pdf",
-    "https://www.linkedin.com/pulse/record-linkage-how-match-records-across-multiple-source-systems-ko2ie",
-    "https://recordlinker.com/name-normalization-matching/"
+    "https://dataladder.com/",
+    "https://recordlinker.com/name-normalization-matching/",
+    "https://dataladder.com/record-linkage-techniques-for-incomplete-data/",
+    "https://matchdatapro.com/",
+    "https://arxiv.org/html/2601.21138",
+    "https://zenodo.org/records/13961108/files/Comparing+Open-Source+Record+Linkage+Software+to+Existing+Approaches+A+Case+Study+using+Census+Data.pdf"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:note.com 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）",
    "results": [
-    "https://note.com/egao_it/n/ndfe59f03492f",
     "https://note.com/tanakaminoru_/n/n7b5a04d7b858",
     "https://note.com/sr_mako/n/n611995af6f74",
     "https://note.com/ai_scout_jp/n/n91cff96707e1",
+    "https://note.com/egao_it/n/ndfe59f03492f",
     "https://note.com/kanai_sho/n/nff1ff5d30eac",
     "https://note.com/anomaly_inc/n/n6d00441f4ed8",
     "https://note.com/moridaisukepub/n/nbdb21894e731"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -516,32 +455,37 @@
     "https://x.com/numakura_lab/status/2078984249349435880",
     "https://x.com/hhayashiss/status/2068967239894843745",
     "https://x.com/ExploratoryJP/status/2032406919806349764",
+    "https://x.com/kensumi_ai/status/2108875320069861533",
     "https://x.com/edinetdb/status/2029142380398719118",
-    "https://x.com/PapalotX/status/2063527360281145553",
-    "https://x.com/takuyasan_0307/status/2109506753448874303",
-    "https://x.com/twitter/status/2028021494400647480"
+    "https://x.com/gendai_biz/status/2081485708725006581",
+    "https://x.com/i/trending/2066463022311428198",
+    "https://x.com/1gyo_mujun_bot",
+    "https://x.com/nexustoolseees/status/2115947094397850048",
+    "https://x.com/PapalotX/status/2063527360281145553"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 11
   },
   {
    "query": "site:linkedin.com 名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手）",
    "results": [
-    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%96%B0%E6%A8%AA%E6%B5%9C%E3%80%91hr%EF%BC%88%E3%83%AA%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%8F%E6%8E%A1%E7%94%A8%E6%8B%85%E5%BD%93%EF%BC%89%E2%97%86%E6%9C%AA%E7%B5%8C%E9%A8%93%E8%80%85%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%8F%E3%80%8C%E7%B5%8C%E5%96%B6%E9%9D%A9%E6%96%B0%E6%8E%A8%E9%80%B2%E8%B3%9E%E3%80%8D%E5%8F%97%E8%B3%9E%E6%AD%B4%E3%81%82%E3%82%8A-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488008815?position=48&pageNum=0&refId=IPBupy%2FxVrBNek2ghUsq9A%3D%3D&trackingId=oJ%2BTkDX%2FDF3aXKmGC6XZQw%3D%3D",
-    "https://jp.linkedin.com/jobs/view/%E3%80%90%E5%85%B5%E5%BA%AB-%E6%92%AD%E7%A3%A8%E3%80%91%E7%B7%8F%E5%8B%99%EF%BC%88%E7%A4%BE%E4%BF%9D%E6%89%8B%E7%B6%9A%E3%83%BB%E5%8A%B4%E5%8B%99%E7%AD%89%EF%BC%89-%E2%80%BB%E5%A4%A7%E6%89%8B%E4%BC%81%E6%A5%AD%E3%83%BB%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E3%81%A8%E5%8F%96%E5%BC%95%EF%BC%8F%E5%B9%B4%E4%BC%91125%E6%97%A5%EF%BC%8F%E6%AE%8B%E6%A5%AD20h%E7%A8%8B-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4486401994",
     "https://jp.linkedin.com/pulse/inconsistencies-ai-chris-bare-soflc?tl=ja",
     "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
-    "https://jp.linkedin.com/pulse/mastering-logic-ai-converting-natural-language-elvin-baghele-hgitc?tl=ja",
     "https://jp.linkedin.com/posts/manjumoto-daishi-a63256219_aiに長文を任せると矛盾だらけになる全体像から組み立てる構成術-aiに長文-activity-7434727256406650880-cUvv",
+    "https://jp.linkedin.com/pulse/mastering-logic-ai-converting-natural-language-elvin-baghele-hgitc?tl=ja",
     "https://jp.linkedin.com/pulse/ai-contradictions-wild-when-language-models-say-yes-singh-xfydf?tl=ja",
     "https://jp.linkedin.com/pulse/when-ai-gets-mixed-signals-what-happens-prompts-conflict-deweese-vsuoe?tl=ja",
-    "https://jp.linkedin.com/learning/office-365-access-essential-training-3/3528068"
+    "https://jp.linkedin.com/learning/office-365-access-essential-training-3/3528068",
+    "https://www.linkedin.com/pulse/18-linkedin-scams-i-fell-so-you-dont-have-jan-tegze-shcxe",
+    "https://jp.linkedin.com/pulse/logical-fallacies-types-neuroscienceltd-k4qbf?tl=ja"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing",
+    "ddgs:google"
    ],
    "n_hits": 9
   },
@@ -550,78 +494,50 @@
    "results": [
     "https://www.facebook.com/masahiro.oyanagi/videos/件数の多さも驚きだが-本当に怖いのは名寄せだ９月２４日から１０月１６日までの２３日間国内の企業が公表した個人情報の流出恐れを含むは主要１２件だけで延べ１億件を超/1666935744848778/",
     "https://www.facebook.com/gendaibusiness/posts/高市総理が提出した陳述書に時系列崩壊の重大疑義徹底分析で見えた致命的な矛盾の全貌/1480425410554224/",
-    "https://www.facebook.com/michiko.ando/videos/️このニュースおかしくない️ai調べこの映像や報道を見て感じる違和感は技術的法的な観点そして事件捜査の現実から見ても完全に的を射ています違和感の正体を整理すると/1680131947064868/",
     "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
+    "https://www.facebook.com/michiko.ando/videos/️このニュースおかしくない️ai調べこの映像や報道を見て感じる違和感は技術的法的な観点そして事件捜査の現実から見ても完全に的を射ています違和感の正体を整理すると/1680131947064868/",
     "https://www.facebook.com/100069742365985/posts/昨日首帳の名寄せ個人別台帳が作成されていたとおぼしき記述が清良記内閣本14上05に記述されている旨報吿した今朝さらにネットで首帳を検索すると下記関原首帳福嶋家-/1350208483980551/",
     "https://www.facebook.com/JSDA.PR/posts/-最新の個人株主の動向についてを公開日証協は各種公表資料に基づき個人株主数の推移やその増減の要因等を取りまとめ2025年度末の個人株主の動向を公表しました個人株/1347014447566984/",
     "https://www.facebook.com/100007770257072/videos/748255204490755/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手） note 社長",
-   "results": [
-    "https://jp.sansan.com/media/aggregation-of-names/",
-    "https://jp.sansan.com/media/data-cleaning/",
-    "https://www.sysdig.com/jp/content-library?1923723f_page=5&d1f03509_page=222",
-    "https://jp.sansan.com/media/tag/aggregation-of-names/",
-    "https://usonar.co.jp/blog/5890.html",
-    "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups11-b-10.pdf",
-    "https://jp-help.sansan.com/hc/ja/articles/206508497-%E5%90%8D%E5%AF%84%E3%81%9B%E3%82%92%E8%A7%A3%E9%99%A4%E3%81%99%E3%82%8B",
-    "https://it.impress.co.jp/articles/-/28648",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "名寄せで論理的に矛盾する値（未来の日付・郵便番号と住所の不一致）と社名変更・前株後株を先に洗う手順（Sansan 営業DX Handbook・データビズラボの書き手） X 投稿",
-   "results": [
-    "https://jp.sansan.com/media/aggregation-of-names/",
-    "https://jp.sansan.com/media/data-cleaning/",
-    "https://www.sysdig.com/jp/content-library?1923723f_page=5&d1f03509_page=222",
-    "https://jp.sansan.com/media/tag/aggregation-of-names/",
-    "https://usonar.co.jp/blog/5890.html",
-    "https://www.sas.com/content/dam/SAS/ja_jp/doc/event/sas-user-groups/usergroups11-b-10.pdf",
-    "https://jp-help.sansan.com/hc/ja/articles/206508497-%E5%90%8D%E5%AF%84%E3%81%9B%E3%82%92%E8%A7%A3%E9%99%A4%E3%81%99%E3%82%8B",
-    "https://it.impress.co.jp/articles/-/28648",
-    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "record linkage data cleansing impossible values renamed companies former names matching site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/seanlachhander",
-    "https://www.linkedin.com/in/unmesh-edwankar",
-    "https://www.linkedin.com/in/jimpack",
-    "https://www.linkedin.com/in/ben-goihman",
-    "https://www.linkedin.com/in/justincmarks",
-    "https://www.linkedin.com/in/ebollens",
-    "https://www.linkedin.com/in/dixitha-kasturi",
-    "https://www.linkedin.com/in/vikrant-deshpande",
-    "https://www.linkedin.com/in/jasonallen1",
-    "https://www.linkedin.com/posts/shahjeetraj_fintech-creditcards-digitalbanking-activity-7515617907490619392-KoaU"
+    "https://www.linkedin.com/pulse/recordlinkagedata-matching-deduplication-duilio-paolini-zc2zf",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7352721892031492097/",
+    "https://de.linkedin.com/pulse/art-science-matching-why-every-record-linkage-business-vivek-agarwal-1j16e?tl=de",
+    "https://dk.linkedin.com/pulse/recordlinkagedata-matching-deduplication-duilio-paolini-zc2zf?tl=da",
+    "https://www.linkedin.com/pulse/organization-record-linkage-notes-sudharsan-asaithambi",
+    "https://www.linkedin.com/pulse/record-linkage-join-based-string-similarity-manoj-pal",
+    "https://www.linkedin.com/pulse/what-entity-resolution-how-works-why-matter-midhun-mathew-iuulc"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ16頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T15:58:40.692820+00:00"
 }

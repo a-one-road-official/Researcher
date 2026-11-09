@@ -1,0 +1,1539 @@
+{
+ "name": "Tractable",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T20:35:28.492224+00:00",
+ "official_url": "https://tractable.ai/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "メディアお問い合わせ先",
+    "value": "press@tractable.ai",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$150M",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "29-Jun-2015    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "2,759,806 $0.000010  $0.68 $0.68 1x $0.68 4.92%",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Driving the Future of Auto Appraisal with Intelligent Automation",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "– the latest innovation to improve your Fixed Ops",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture more leads through the power of AI",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At Tractable, we harness AI’s vast potential to solve real-world problems today, not tomorrow. Built on applied research and trained with millions of data-rich images, our AI delivers fast, accurate assessments for vehicles and properties, transforming industries through:",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI delivers ultra-precise damage assessments by analyzing images down to the pixel. Certainty scores accompany every estimate, factoring in visibility, image quality, and damage severity, ensuring accuracy and speed for even the most complex claims.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for high-demand industries, our AI processes thousands of claims daily while also identifying salvaged parts for repair. Scalable across global markets, it transforms workflows to deliver unprecedented efficiency.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With every deployment, our AI learns and improves. Real-world data and client feedback allow us to refine solutions continuously, ensuring we stay ahead of industry needs while solving real problems faster.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to work with",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable Named to Everest Group Top 50™ P&C Insurance Technology Providers 2026",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for LumaScanner - The Digital Fingerprint of your vehicle?",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Join a global network of industry leads",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with industry leaders to deliver AI-powered solutions that enhance damage assessment, claim processing, and repair planning.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive efficiency and innovation across the automotive and property claims ecosystems through seamless integrations with trusted platforms.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "pre-populate estimatics",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "for streamlined claim and repair processing in",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered estimatics pre-population",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce claim and repair cycle times and improve the",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain access to Tractable’s industry leading Auto AI to power your products and services",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable helps body shops bring in more leads across multiple channels – online, referrals, phone, walk-ins. Once Tractable provides the customer details, your team can quickly follow-up to convert into paying jobs.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, it assesses additional damage likelihood and part replacements, ensuring comprehensive repair plans.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for LumaScanner - The Digital Fingerprint of your vehicle?",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Covéa, France’s leading property and liability insurer through its three brands MAAF, MMA, and GMF, and Tractable, a leader in applied AI, today announced the renewal of their partnership for a period of three years to continue automating and accelerating the auto claims settlement process.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "Following a successful collaboration since 2018, this renewal reinforces the Covéa group’s commitment to digital excellence. By using Tractable’s AI to analyze photos of auto damage in real time, Covéa continues to simplify the process for its millions of members, ensuring faster decision- making and reduced repair times.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "“The renewal of our partnership with Tractable illustrates our commitment to offering our members an increasingly smooth, fast, and reliable claims process. By integrating AI into the heart of our operations, we are strengthening our commitment to digital excellence for all. This collaboration enables us to accelerate our processes, support our repairer networks, and continue to innovate to",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "Covéa is a solid and dynamic financial player, the leading property and liability insurer in France through its three brands MAAF, MMA, and GMF , and a leading global reinsurer with the PartnerRe brand. A major economic player in the regions, thanks to its 24,000 employees in France and around the world, Covéa protects 11.3 million customers and members in France.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover more related content",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable Named to Everest Group Top 50™ P&C Insurance Technology Providers 2026",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for LumaScanner - The Digital Fingerprint of your vehicle?",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI helps people to repair, assess, and protect what matters most",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "combine the latest computer vision research and machine learning to revolutionize visual assessment. Using customer images, our AI enables fast, accurate damage appraisals, speeding up accident recovery by up to ten times.",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we’re extending our award-winning AI to accelerate other processes, from salvaging car parts to property assessments. Our mission is to transform how people live and work across industries—freeing employee time for higher-value tasks,",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "improving customer experiences",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply yourself to problems that matter, in a fast-moving AI company that’s changing lives",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Nexsyis Partners with Tractable as Official AI Provider",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our press releases",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable Named to Everest Group Top 50™ P&C Insurance Technology Providers 2026",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to be recognised as a leading AI employer",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for LumaScanner - The Digital Fingerprint of your vehicle?",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Solve meaningful problems at a life-changing AI Company",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re an AI company transforming lives by solving real-world problems every day. Our products help millions recover faster from accidents, rescue parts, and save time, while constantly innovating for the next big impact.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Care deeply about what we’re building. Take pride and go the extra mile. Outsized impact leads to outsized reward.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Always keep the goal in mind, work backwards and never go into autopilot. Get under the hood of problems and avoid preconceptions.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Act creatively and courageously. Reason from first principles and attempt big step changes.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering AI for good. Introducing AI theory and learning to real-world problems.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Turning deep learning breakthroughs into world-leading products. Introducing AI theory and learning to real-world problems.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bringing game-changing AI products to global businesses.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for LumaScanner - The Digital Fingerprint of your vehicle?",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Covéa is a solid and dynamic financial player, the leading property and liability insurer in France through its three brands MAAF, MMA, and GMF , and a leading global reinsurer with the PartnerRe brand. A major economic player in the regions, thanks to its 24,000 employees in France and around the world, Covéa protects 11.3 million customers and members in France.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/kirmac-collision-using-tractable-to-digitally-engage-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/kirmac-collision-using-tractable-to-digitally-engage-customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/case-studies/aviva-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/case-studies/aviva-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "$22,667 in additional revenue per month",
+    "url": "https://tractable.ai/regina-auto-body/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/regina-auto-body/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/regina-auto-body/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/nexsyis-partners-with-tractable-as-official-ai-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/nexsyis-partners-with-tractable-as-official-ai-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "$36,800 in additional revenue per month",
+    "url": "https://tractable.ai/dcr-and-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://tractable.ai/dcr-and-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://tractable.ai/dcr-and-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、Tractableが競合しているのは、CCC Intelligent SolutionsやSolera Holdingsといった、米国市場を中心とした上場企業やPE傘下のグローバルプレイヤーであり、技術だけでなく保険業界向けSaaSとしての実装力が問われるフェーズに入っています",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Revenue 2024: $79.4M, $150M Raised",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable's annual revenue was $79.4M in December 2024 (source not recorded), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable CEO, founders & employees",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Venkat Sathyamurthy founded Tractable in 2014 and runs it as CEO. Tractable has 188 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tractable's revenue?",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable's annual revenue was",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tractable have?",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable has 224 total employees.",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tractable’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tractable is",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Drive efficiency and innovation across the automotive and property claims ecosystems through seamless integrations with trusted platforms.",
+    "url": "https://tractable.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable is a leader in automotive AI. Tractable’s AI uses cutting-edge computer vision technology to assess vehicle damage and streamline every step, from repairs and pickups to claims reporting, helping businesses and customers move forward faster.",
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable is a leader in AI for automotive, applying cutting-edge computer vision to assess vehicle damage and streamline everything from repairs and trade-ins to insurance claims—helping businesses and customers move forward faster.",
+    "url": "https://tractable.ai/regina-auto-body/",
+    "pass": 1
+   },
+   {
+    "quote": "This partnership underscores Nexsyis and Tractable’s commitment to advancing the automotive repair industry with innovative, AI-driven solutions. As the industry continues to evolve, bodyshops using Nexsyis can expect enhanced automation, improved speed and accuracy, and a more seamless customer experience.",
+    "url": "https://tractable.ai/nexsyis-partners-with-tractable-as-official-ai-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable is a global leader in AI for accident and disaster recovery. Using advanced Computer Vision AI, Tractable helps insurers, automotive companies, and repairers assess damage and process repairs with speed and precision. Tractable’s solutions are used worldwide to accelerate recovery, improve decision-making, and enhance the repair experience.",
+    "url": "https://tractable.ai/nexsyis-partners-with-tractable-as-official-ai-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "DCR Systems and Tractable are highlighting the continued success of their strategic partnership, which has successfully integrated advanced Artificial Intelligence (AI) into DCR’s patented lean manufacturing collision repair model.",
+    "url": "https://tractable.ai/dcr-and-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "DCR Systems, based in Mentor, Ohio, operates a network of world-class accident repair centers using a unique, patented lean manufacturing model (U.S. Patent No. 12,094,006). By partnering with auto dealers, DCR provides a turnkey, factory-certified repair environment focused on team-based culture and proprietary sequential workflows. For more information, visit",
+    "url": "https://tractable.ai/dcr-and-tractable/",
+    "pass": 1
+   },
+   {
+    "quote": "All 4 Comms Case Study: Tractable – Tractable - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable - Customer Case Study",
+    "url": "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Tractable used All 4 Comms",
+    "url": "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo is the heart of our Asia Pacific operation",
+    "url": "https://tractable.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Tractable Inc.、Tractable Ltd.、及び Tractable 株式会社の建物ソリューション事業の",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エヌ・ティ・ティ エムイーへの譲渡について",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エヌ・ティ・ティ エムイー （本社：東京都新宿区／代表取締役社⾧ 池田 敬、以下",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Ltd.（英国ロンドン／CEO Venkatesan Sathyamurthy）および Tractable 株式会社（本",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社：東京都港区／取締役 Razvan Ranca） （以下総称して「トラクタブル」という",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ブルが日本国内で損害保険各社に提供している最先端の画像認識 AI を用いた「建物ソリューショ",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NTT-ME は、NTT 東日本グループの一員として地域の皆さまに安心・安全で信頼性の高い",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トラクタブルが日本国内で損害保険会社各社に提供している「建物ソリューション事業」に",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このラウンドでは、日本のソフトバンクグループが運営する「ソフトバンク・ビジョン・ファンド2」がリードインベスターを務めたことで注目を集めました",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、損保ジャパン、東京海上日動火災保険、MS&ADインシュアランスグループといった大手保険会社がすでにTractableのAIソリューションを導入しています",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "・損害保険ジャパンの事例: 日本で初めてAIのみによる「全損判定」を実現し、2025年までに年間100万件の物損事故対応のうち40%を自動化するという野心的な目標を掲げています",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Inc.、Tractable Ltd.、及びTractable株式会社の建物ソリューション事業の株式会社エヌ・ティ・ティ エムイーへの譲渡について | NTT ME株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Inc.、Tractable Ltd.、及びTractable株式会社の建物ソリューション事業の株式会社エヌ・テ�ィ・ティ エムイーへの譲渡について",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エヌ・ティ・ティ エムイー（本社：東京都新宿区／代表取締役社長 池田 敬、以下「NTT-ME」という",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "）とTractable Inc.（米国デラウェア州／CEO Venkatesan Sathyamurthy）、Tractable Ltd.（英国ロンドン／CEO Venkatesan Sathyamurthy）およびTractable株式会社（本社：東京都港区／取締役 Razvan Ranca）（以下総称して「トラクタブル」という",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "）は、トラクタブルが日本国内で損害保険各社に提供している最先端の画像認識AIを用いた「建物ソリューション事業」について、NTT-MEに譲渡する事業譲渡契約を締結しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "NTT-MEは、NTT東日本グループの一員として地域の皆さまに安心・安全で信頼性の高い電気通信サービスを提供してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "トラクタブルが日本国内で損害保険会社各社に提供している「建物ソリューション事業」に関する全事業をNTT-MEが譲り受けます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都新宿区西新宿3-19-2",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車保険会社世界トップ100社のうち、20社以上がTractableを導入し、日本ではSOMPO、東京海上、三井住友海上、あいおいニッセイ同和損保などが顧客となっています",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "北米、ヨーロッパ、アジアなどのグローバル展開も強化されたり、台風が多い日本では建物の損害査定事業をメインに展開したりと、市場特性を合わせた戦略を打ち出しています",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "東京海上日動火災保険がフィンランドの衛星スタートアップICEYEと協業して、自然災害に対する保険商品を変革したりと、壮大な変革が注目されるInsurTech",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About us - Tractable — TractableとNTT-ME、日本における損害保険事業に関する戦略的合意を発表 損害調査分野で「仕事の本質的な変化」を促すTractable AI – 損害保険ジャパン株式会社 保険金サービス企画部 損害調査グループリーダー 亀井義之 お客さまと社会のために。",
+    "url": "https://tractable.ai/ja/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初のAIのみでの全損判定を実現 - tractable.ai — ニューヨーク州ニューヨーク – 2025年8月29日 – 画像認識AIを構築するTractable（以降「トラクタブル」）は本日、株式会社エヌ・ティ・ティ エムイー（以降「NTT-ME」）との間で、トラクタブルの日本における建物ソリューション事業をNTT-MEが買収する最終 ...",
+    "url": "https://tractable.ai/ja/tractable-and-ntt-me/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Inc.、Tractable Ltd.、及び Tractable 株式会社の建物ソリ... — ctable Ltd.、及び Tractable 株式会社の建物ソリューション事業の 株式会社エヌ・ティ・ティ エムイーへの譲� atesan Sathyamurthy) および Tractable 株式会社 (本社:東京都港区/取締役 Razvan Ranca) (以下総称して「トラクタブル」という。) は、トラクタブルが日本国内で ...",
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable: 画像認識AIで自動車および建物の査定プロセスを効率化 — Aug 21, 2025 · Tractableは2014年創業のAIスタートアップで、中核となるのは「コンピュータビジョン」と呼ばれる技術で、AIが人間の目のように画像を「見て」「理解する」能力を持ちます。主な活用分野は、保険・自動車業界です。たとえば自動車事故による損傷や、台風・洪水といった自然災害による住宅 ...",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Inc.、Tractable Ltd.、及びTractable株式会社の建物ソリュ... — Sep 1, 2025 · Tractable Inc.、Tractable Ltd.、及びTractable株式会社の建物ソリューション事業の株式会社エヌ・ティ・ティ エムイーへの譲渡について",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Tractable — 自動車および建物の損害査定を行う画像認識AIのリーディング企業であるトラクタブル（Tractable）は、ソフトバンク・ビジョン・ファンド2が主導するシリーズEラウンドで6,500万ドルを調達しました。",
+    "url": "https://tractable.ai/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable and NTT-ME Announce Strategic Agreement for Japan ... — May 15, 2025 · Tractable announces the acquisition of its Japan Property business by NTT-ME to accelerate innovation and focus on its core automotive AI platform.",
+    "url": "https://tractable.ai/tractable-and-ntt-me/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Japan - FacebookTractable | LinkedInTractable | Japan DevTractable - TokyoDev — Oct 31, 2022 · Tractable Japan. 7 likes. We develop artificial intelligence for accident and disaster recovery. Based in London, New York, and Tokyo Tractable | LinkedInのフォロワー数36,585人。We apply AI to assess, repair and protect cars and homes | Our AI-first solutions bring the latest computer vision research an",
+    "url": "https://www.facebook.com/TractableJapan/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable | LinkedIn — Tractable | LinkedInのフォロワー数36,585人。We apply AI to assess, repair and protect cars and homes | Our AI-first solutions bring the latest computer vision research and machine learning techniques to visual assessment. Using customer images, our AI products started enabling fast, accurate damage appraisal to help make recovery from accidents up to ten times faster. We’re now ...",
+    "url": "https://jp.linkedin.com/company/tractable",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable B2B Case Studies & Customer Successes — Tractable B2B Case Studies & Customer Successes Tractable AI-first solutions bring the latest computer vision research and machine learning techniques to visual assessment. Using customer images, their AI products started enabling fast, accurate damage appraisal to help make recovery from accidents up to ten times faster.",
+    "url": "https://www.casestudies.com/company/tractable",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 Comms Case Study: Tractable – Tractable - Customer Case ... — Tractable (Computer Software) partnered with All 4 Comms (Marketing & Advertising) to solve key challenges. \"Tractable - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Admiral Seguros: Tractable delivers outstanding customer ... — Before Admiral Seguros used a digitized solution, auto insurance claims handling was a manual process. It required appraisers to review customer images of vehicle damage sent by email or through other channels in order to make estimations.",
+    "url": "https://tractable.ai/case-studies/admiral-seguros/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Tractable — Explore how some of our customers have used our AI to streamline and supercharge their businesses Case Study Kirmac Collision Using Tractable to Digitally Engage Customers Case Study Realizing the potential of AI to support and empower technical experts View our latest news and insights Press Release 2026-05-06",
+    "url": "https://tractable.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "2 Tractable Case Studies, Success Stories, & Customer Stories ... — Discover how other companies use Tractable, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/tractable/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable - 2026 Company Profile, Team, Funding & Competitors ...Tractable Revenue 2024: $79.4M, $150M Raised - getlatka.comTractable 2026 Company Profile: Valuation, Funding ...Tractable – Company Profile & Market Insights – 2026Tractable: Funding, Team & Investors | Startup IntrosTractable: Funding, Investors & Team (Oct 2026) | FundedIQTractable - Overview, News & Similar companies | ZoomInfo.c",
+    "url": "https://tracxn.com/d/companies/tractable/__0slV_6NXj5mS1LbDlY-mZgIlU6gdmx3XBQ7AA-Fqakw",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable Revenue 2024: $79.4M, $150M Raised - getlatka.com — Oct 30, 2026 · Tractable 2024 revenue: $79.4M. Valuation (2023): $1B. Total funding: $150M across 3 rounds. 188 employees. Founded 2014. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable 2026 Company Profile: Valuation, Funding ...Tractable – Company Profile & Market Insights – 2026Tractable: Funding, Team & Investors | Startup IntrosTractable: Funding, Investors & Team (Oct 2026) | FundedIQTractable - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Tractable. Use the PitchBook Platform to e",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable – Company Profile & Market Insights – 2026 — Tractable Revenue & Valuation Tractable's current annual revenue estimate stands at $79.4M. At Tractable, each employee is estimated to contribute about $354.6K in annual revenue. Tractable has secured approximately $185M through various funding rounds. Tractable's estimated valuation is believed to be around $1B.",
+    "url": "https://compworth.com/company/tractable",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Who founded Tractable? Tractable was founded in 2014 by Razvan Ranca (Co-Founder and CTO) and Alexandre Dalyac (Founder & CEO). How much funding has Tractable raised? Tractable has raised $185.0M in total across 6 funding rounds. Who are Tractable's investors? Tractable's investors include Nahoko Hoshino, Insight Partners, Dann",
+    "url": "https://startupintros.com/orgs/tractable",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Tractable: 画像認識AIで自動車および建物の査定プロセスを効率化 Aug 21, 2025 · Tractableは2014年創業のAIスタートアップで、中核となるのは「コンピュータビジョン」と呼ばれる技術で、AIが人間の目のように画像を「見て」「理解する」能力を持ちます。主な活用分野は、保険・自動車業界です。たとえば自動車事故による損傷や、台風・洪水といった自然災害による住宅 ...",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "Why intractable means 'difficult to handle/unmanageable ... May 7, 2026 · tractable (easy to handle) and others all share the same etymology. Especially important is tractable. tractable tractable: easy to handle, obedient This means 'able to be pulled' ↓ 'able to be led in the desired direction'. When the negative prefix in- is added to it, intractable 'cannot be led' 'cannot be controlled' 'unma",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "intractable が「扱いにくい・手に負えない」になる理由ーtract「引っ... May 7, 2026 · intractable の語源 まずは語源を分解してみましょう。 in- ：否定「〜でない」（not） tract ：引っぱる（pull） -able ：〜できる（can） つまり、「引っぱることができない」というのが intractable の原義です。 この tract は、ラテン語 trahere（引っぱる）に由来します。英語では「引っぱる」という ...",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ7.保険× 画像認識AI〜新時代の保険体験を牽引するTractable〜... Aug 25, 2024 · ⑤ デジタルネイティブ世代の顧客ニーズの変化 今回は、保険業界のAI活用を促進して、デジタルトランスフォーメーションを加速するTractableという海外スタートアップを参考に日常のDXの可能性を考えます！ ︎多様な進化を遂げるInsurTech",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Tractable: 画像認識AIで自動車および建物の査定プロセスを効率化｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable: 画像認識AIで自動車および建物の査定プロセスを効率化",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "Tractableは2014年創業のAIスタートアップで、中核となるのは「コンピュータビジョン」と呼ばれる技術で、AIが人間の目のように画像を「見て」「理解する」能力を持ちます。主な活用分野は、保険・自動車業界です。たとえば自動車事故による損傷や、台風・洪水といった自然災害による住宅被害を、数枚の写真からAIが自動で分析・査定します。",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "従来、こうした損害評価には数日から数週間かかっていましたが、Tractableの導入により数分で完了するようになりました。この劇的な効率化は、世界中の大手保険会社に受け入れられ、同社を評価額10億ドル（約1,500億円）超の「ユニコーン企業」へと成長しています。",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で取り上げるTractableは、保険業界における「損害査定」というプロセスに目を付けました。自動車事故を経験したことがある人なら、その後の手続きの煩雑さを思い出すかもしれませんが、保険業界における「損害査定」は長年にわたり「遅い・不正確・高コスト」という三重苦を抱えてきました。",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": ": 事故後すぐに保険会社に連絡しても、査定員（アジャスター）が来るには数日を要します。あるいは、修理工場に車を持ち込む方法もありますが、見積もりが出るまで何日も待たされることも珍しくありません。",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": ": 査定結果は「人の目」に依存しているため、経験やスキルに左右されます。同じ損傷でもA社とB社で大きく異なる、といったことは、消費者にとって不信感の原因となります。",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": ":全国に査定員を配置し、現場を訪問して目視で確認し、報告書を作成するという一連の作業には、莫大な人件費と時間が費やされています。",
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "pass": 3
+   },
+   {
+    "quote": "Why intractable means 'difficult to handle/unmanageable' - Understanding it from the etymology of tract 'to pull'｜掛谷拓也",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why intractable means 'difficult to handle/unmanageable' - Understanding it from the etymology of tract 'to pull'",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The etymology of intractable",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, let's break down the etymology.",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, 'cannot be pulled' is the original meaning of intractable.",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This tract comes from the Latin trahere (to pull). In English, from the image of 'pulling',",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "to direct a conversation in a certain direction",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "to deal with a problem",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "intractable が「扱いにくい・手に負えない」になる理由ーtract「引っぱる」の語源から理解する｜掛谷拓也",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "intractable が「扱いにくい・手に負えない」になる理由ーtract「引っぱる」の語源から理解する",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、「引っぱることができない」というのが intractable の原義です。",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "この tract は、ラテン語 trahere（引っぱる）に由来します。英語では「引っぱる」というイメージから、",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "intractable problem（手に負えない問題）",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "intractable disease（治療困難な病気）",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "intractable conflict（解決困難な対立）",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "英語では「導く」「処理する」を「引っぱる」で表すことが多くあります。",
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ7.保険× 画像認識AI〜新時代の保険体験を牽引するTractable〜（イギリス）｜あむろ",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "リサーチ7.保険× 画像認識AI〜新時代の保険体験を牽引するTractable〜（イギリス）",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "保険の起源は、紀元前3世紀のバビロニアやギリシャ、ローマで商人たちが貨物の損失リスクを分散する貸付から始まり、中世ヨーロッパのギルドで共同基金を設立されたことが現代の保険の前身とされています。",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "17世紀のイギリスで、ロンドンのロイズ・コーヒーハウスが海上保険の引受所として機能し始めたことで保険業界は急速に発展し、火災保険や生命保険などが次々に開発されました。",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "このように共同によるリスク分散の社会インフラとして歴史の深い保険業界は、下記のような課題に遭遇して、変革を迎えています。",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "①テクノロジー活用のためのレガシーなシステムからのリプレイスコスト",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "④個人情報保護などの規制とコンプライアンスの厳格化",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ デジタルネイティブ世代の顧客ニーズの変化",
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tractable (@tractable_ai) / X Tractable Auto Reviewer uses automated data capture to find claims that can be processed automatically to insurers’ standards, automate estimate review and even help facilitate disputes between parties.",
+    "url": "https://x.com/tractable_ai",
+    "pass": 3
+   },
+   {
+    "quote": "tractable (@Tractablev) / Posts / X tractable (@Tractablev) - Posts - just looking at royale high posts and updates, please dont follow me. main: @jamieblehh | X (formerly Twitter)",
+    "url": "https://x.com/Tractablev",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable (@tractable_ai_jp) / Posts / X tractable_ai_jp Aug 17 メディア掲載：BizZine BizZineの「強いビジョンが軸となる──Tractable堀田氏が語るグローバルビジネスとミドルマネジメントの本質」と題した記事にて Coupa株式会社 代表取締役社長 小関様との対談記事を掲載いただきました。 詳しくは ...",
+    "url": "https://x.com/tractable_ai_jp",
+    "pass": 3
+   },
+   {
+    "quote": "Again being a tractable/Acquiescent/malleable woman saved her ... Again being a tractable/Acquiescent/malleable woman saved her from getting called the names that my Shayla was called for her looks. She didn’t get the “U tag” this season only bc she was very subservient so there was no reason to really speak on her https://t.co/3UvcEdKHYR",
+    "url": "https://x.com/Mrkainebinduom/status/2119572193809932627",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable (@tractable_ai_jp) / Posts / X Feb 7, 2022 · tractable_ai_jp Oct 26 メディア掲載：BizZine BizZineの「日本企業のグローバル展開で欠けている「外から内」の視点とは──真のグローバル化における東京の可能性」と題した記事にて 日本カントリーマネージャー兼APAC統括責任者 堀田の記事を掲載いただきました。",
+    "url": "https://x.com/tractable_ai_jp",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable (@tractable_ai) / X We apply AI to assess, repair and protect cars and homes. Based in London, New York, and Tokyo",
+    "url": "https://x.com/tractable_ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tractable - LinkedIn Tractable | 36,586 followers on LinkedIn. We apply AI to assess, repair and protect cars and homes | Our AI-first solutions bring the latest computer vision research and machine learning ...",
+    "url": "https://www.linkedin.com/company/tractable",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable - LinkedIn Tractable | 4 followers on LinkedIn. Helping businesses bring their AI and computer vision ideas to life",
+    "url": "https://www.linkedin.com/company/tractable-cv",
+    "pass": 3
+   },
+   {
+    "quote": "Razvan Ranca - Co-Founder & CTO at Tractable | LinkedInMark Hornsey - COO at Tractable | LinkedInAlex Dalyac - YouSquared AI | LinkedInVenkat Sathyamurthy - CEO, Tractable | LinkedInFelix Lau - Tractable | LinkedIn Co-Founder & CTO at Tractable · Experience: Tractable · Education: University of Cambridge · Location: London · 500+ connections on LinkedIn. View Razvan Ranca’s profile on LinkedIn, a ",
+    "url": "https://uk.linkedin.com/in/razvan-ranca-ab81b727",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Hornsey - COO at Tractable | LinkedInAlex Dalyac - YouSquared AI | LinkedInVenkat Sathyamurthy - CEO, Tractable | LinkedInFelix Lau - Tractable | LinkedIn COO at Tractable · Tech executive with 15 years scaling SaaS and AI companies through hyper-growth, international expansion, and transformation. Currently Chief Operating Officer at Tractable; the UK’s first computer vision unicorn, I lead ",
+    "url": "https://uk.linkedin.com/in/mark-hornsey-0a742727",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tractable - FacebookTractable - FacebookTractable - 𝙀𝙫𝙚𝙧𝙮 𝙪𝙨𝙚𝙙 𝙘𝙖𝙧 𝙝𝙖𝙨 𝙝𝙞𝙙𝙙𝙚𝙣 𝙥𝙤𝙩...Tractable - 𝐎𝐧𝐞 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦. 𝐓𝐨𝐭𝐚𝐥 𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡...𝗘𝘃𝗲𝗿𝘆 𝗱𝗲𝗮𝗹𝗲𝗿𝘀𝗵𝗶𝗽 𝘄𝗮𝗻𝘁𝘀 𝘁𝗼 𝗴𝗿𝗼𝘄 𝗳𝗶𝘅𝗲...With just a few weeks left, something big is rolling into ...Grammar Freaks | . WORD OF THE DAY: TRACTABLE | Facebook Jun 15, 2026 · Tractable. 928 followers. The speed and accuracy of AI. Now applied to visual assessment. Sep 12, 2020",
+    "url": "https://www.facebook.com/TractableAI/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable - FacebookTractable - 𝙀𝙫𝙚𝙧𝙮 𝙪𝙨𝙚𝙙 𝙘𝙖𝙧 𝙝𝙖𝙨 𝙝𝙞𝙙𝙙𝙚𝙣 𝙥𝙤𝙩...Tractable - 𝐎𝐧𝐞 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦. 𝐓𝐨𝐭𝐚𝐥 𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡...𝗘𝘃𝗲𝗿𝘆 𝗱𝗲𝗮𝗹𝗲𝗿𝘀𝗵𝗶𝗽 𝘄𝗮𝗻𝘁𝘀 𝘁𝗼 𝗴𝗿𝗼𝘄 𝗳𝗶𝘅𝗲...With just a few weeks left, something big is rolling into ...Grammar Freaks | . WORD OF THE DAY: TRACTABLE | Facebook Sep 12, 2020 · Tractable. 26 likes. LONDON, March 24 2020 – Willowbrook, Il based Tractable, has been named among Top 50 Tech Disrupters ",
+    "url": "https://www.facebook.com/GOTRACTABLE/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable - 𝙀𝙫𝙚𝙧𝙮 𝙪𝙨𝙚𝙙 𝙘𝙖𝙧 𝙝𝙖𝙨 𝙝𝙞𝙙𝙙𝙚𝙣 𝙥𝙤𝙩... Jan 9, 2026 · Intelligence at Tractable, will present during the June 18 CIECA Webinar, \"ADAS Calibration Issues, Challenges and Opportunities.\" Spears will talk about the advantages of having ADAS repair procedures early in the AI estimation process and theproliferation of AI auto-damage scanners. He will also discuss the need to have ADAS",
+    "url": "https://www.facebook.com/TractableAI/posts/𝙀𝙫𝙚𝙧𝙮-𝙪𝙨𝙚𝙙-𝙘𝙖𝙧-𝙝𝙖𝙨-𝙝𝙞𝙙𝙙𝙚𝙣-𝙥𝙤𝙩𝙚𝙣𝙩𝙞𝙖𝙡-𝙞𝙛-𝙮𝙤𝙪-𝙠𝙣𝙤𝙬-𝙬𝙝𝙚𝙧𝙚-𝙩𝙤-𝙡𝙤𝙤𝙠trade-in-evaluation/1307950971138346/",
+    "pass": 3
+   },
+   {
+    "quote": "Tractable - 𝐎𝐧𝐞 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦. 𝐓𝐨𝐭𝐚𝐥 𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡... Jan 14, 2026 · Tractable CIECA Collision Industry Electronic Commerce Association James Spears, Head of Automotive – Artificial Intelligence at Tractable, will present during the June 18 CIECA Webinar, \"ADAS Calibration Issues, Challenges and Opportunities.\" Spears will talk about the advantages of having ADAS repair procedures early in the AI estimation",
+    "url": "https://www.facebook.com/TractableAI/posts/𝐎𝐧𝐞-𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦-𝐓𝐨𝐭𝐚𝐥-𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡𝐢𝐩-𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞from-the-service-drive-to-the-auction-/1311450680788375/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tractable.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/covea-renewal-tractable/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/kirmac-collision-using-tractable-to-digitally-engage-customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/case-studies/aviva-testimonial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/regina-auto-body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/nexsyis-partners-with-tractable-as-official-ai-provider/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractable.ai/dcr-and-tractable/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tractable.ai/wp-content/uploads/2025/01/Tractable-Partners-Growth-02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tractable.ai/wp-content/uploads/2025/01/Tractable-Partners-Growth-01.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/TractableJapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/tractable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tractable/__0slV_6NXj5mS1LbDlY-mZgIlU6gdmx3XBQ7AA-Fqakw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/tractable.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/113083-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/tractable",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n8dd415caca6f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaketani/n/n67f5f714aa45",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amuro_human/n/n091feb37cf5c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tractable_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Tractablev",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tractable_ai_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mrkainebinduom/status/2119572193809932627",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tractable",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tractable-cv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/razvan-ranca-ab81b727",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/mark-hornsey-0a742727",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TractableAI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GOTRACTABLE/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TractableAI/posts/𝙀𝙫𝙚𝙧𝙮-𝙪𝙨𝙚𝙙-𝙘𝙖𝙧-𝙝𝙖𝙨-𝙝𝙞𝙙𝙙𝙚𝙣-𝙥𝙤𝙩𝙚𝙣𝙩𝙞𝙖𝙡-𝙞𝙛-𝙮𝙤𝙪-𝙠𝙣𝙤𝙬-𝙬𝙝𝙚𝙧𝙚-𝙩𝙤-𝙡𝙤𝙤𝙠trade-in-evaluation/1307950971138346/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TractableAI/posts/𝐎𝐧𝐞-𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦-𝐓𝐨𝐭𝐚𝐥-𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡𝐢𝐩-𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞from-the-service-drive-to-the-auction-/1311450680788375/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tractable_ai_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tractable_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tractable 日本 導入",
+   "results": [
+    "https://tractable.ai/ja/about-us/",
+    "https://tractable.ai/ja/tractable-and-ntt-me/",
+    "https://www.ntt-me.co.jp/topics/pdf/release_20250829.pdf",
+    "https://note.com/gen_ai/n/n8dd415caca6f",
+    "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "https://www.sompo-japan.co.jp/-/media/SJNK/files/news/2021/20210709_2.pdf?la=ja-JP",
+    "https://prtimes.jp/main/html/rd/p/000000055.000162351.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractable 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://tractable.ai/ja/",
+    "https://translate.google.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractable Japan",
+   "results": [
+    "https://tractable.ai/ja/",
+    "https://tractable.ai/tractable-and-ntt-me/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000168796.html",
+    "https://www.facebook.com/TractableJapan/",
+    "https://jp.linkedin.com/company/tractable",
+    "https://japan-dev.com/companies/tractable",
+    "https://www.tokyodev.com/companies/tractable"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractable manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/tractable",
+    "https://www.casestudies.com/company/all-4-comms/case-study/tractable-customer-case-study",
+    "https://tractable.ai/case-studies/admiral-seguros/",
+    "https://tractable.ai/",
+    "https://www.featuredcustomers.com/vendor/tractable/case-studies",
+    "https://www.hubspot.com/case-studies/tractable",
+    "https://ignyto.com/case-studies/tractable/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractable white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractable founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/tractable/__0slV_6NXj5mS1LbDlY-mZgIlU6gdmx3XBQ7AA-Fqakw",
+    "https://getlatka.com/companies/tractable.ai",
+    "https://pitchbook.com/profiles/company/113083-21",
+    "https://compworth.com/company/tractable",
+    "https://startupintros.com/orgs/tractable",
+    "https://fundediq.co/tractable-tractable-ai-funding/",
+    "https://www.zoominfo.com/c/tractable-ltd/430000490"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tractable",
+   "results": [
+    "https://note.com/gen_ai/n/n8dd415caca6f",
+    "https://note.com/kaketani/n/n67f5f714aa45?hl=en",
+    "https://note.com/kaketani/n/n67f5f714aa45",
+    "https://note.com/amuro_human/n/n091feb37cf5c",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/mamopu/n/n2456b1d6942a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tractable",
+   "results": [
+    "https://x.com/tractable_ai",
+    "https://x.com/Tractablev",
+    "https://x.com/tractable_ai_jp",
+    "https://x.com/Mrkainebinduom/status/2119572193809932627",
+    "https://x.com/tetmin/status/2114850475636101208",
+    "https://x.com/grok/status/2119412806059507786",
+    "https://x.com/edgarpavlovsky"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tractable",
+   "results": [
+    "https://www.linkedin.com/company/tractable",
+    "https://www.linkedin.com/company/tractable-cv",
+    "https://uk.linkedin.com/in/razvan-ranca-ab81b727",
+    "https://uk.linkedin.com/in/mark-hornsey-0a742727",
+    "https://www.linkedin.com/in/adalyac",
+    "https://www.linkedin.com/in/venkatsathyamurthy",
+    "https://www.linkedin.com/in/felixlau"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tractable",
+   "results": [
+    "https://www.facebook.com/TractableAI/",
+    "https://www.facebook.com/GOTRACTABLE/",
+    "https://www.facebook.com/TractableAI/posts/𝙀𝙫𝙚𝙧𝙮-𝙪𝙨𝙚𝙙-𝙘𝙖𝙧-𝙝𝙖𝙨-𝙝𝙞𝙙𝙙𝙚𝙣-𝙥𝙤𝙩𝙚𝙣𝙩𝙞𝙖𝙡-𝙞𝙛-𝙮𝙤𝙪-𝙠𝙣𝙤𝙬-𝙬𝙝𝙚𝙧𝙚-𝙩𝙤-𝙡𝙤𝙤𝙠trade-in-evaluation/1307950971138346/",
+    "https://www.facebook.com/TractableAI/posts/𝐎𝐧𝐞-𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦-𝐓𝐨𝐭𝐚𝐥-𝐝𝐞𝐚𝐥𝐞𝐫𝐬𝐡𝐢𝐩-𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞from-the-service-drive-to-the-auction-/1311450680788375/",
+    "https://www.facebook.com/groups/1767378576911892/posts/2396638473985896/",
+    "https://www.facebook.com/TractableAI/videos/𝗘𝘃𝗲𝗿𝘆-𝗱𝗲𝗮𝗹𝗲𝗿𝘀𝗵𝗶𝗽-𝘄𝗮𝗻𝘁𝘀-𝘁𝗼-𝗴𝗿𝗼𝘄-𝗳𝗶𝘅𝗲𝗱-𝗼𝗽𝘀-𝗿𝗲𝘃𝗲𝗻𝘂𝗲-with-lumascanner-ai-automatical/921143646929234/",
+    "https://www.facebook.com/TractableAI/videos/with-just-a-few-weeks-left-something-big-is-rolling-into-sema-2025-at-tractable-/1008507491400731/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractable note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://tractable.ai/ja/about-us/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.wantedly.com/companies/company_6920374/members",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tractable X 投稿",
+   "results": [
+    "https://x.com/tractable_ai_jp",
+    "https://tractable.ai/",
+    "https://tractable.ai/ja/",
+    "https://x.com/tractable_ai",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://www.choge-blog.com/hobby/discordxtwitterautopost/",
+    "https://uravation.com/media/x-auto-post-ai-guide-2026/",
+    "https://stillworks-lab.hatenablog.com/entry/2026/05/28/130343"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部36頁・検索12回）"
+ }
+}

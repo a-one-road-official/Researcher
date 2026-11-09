@@ -1,0 +1,1941 @@
+{
+ "name": "Stay",
+ "aliases": [],
+ "context": "旧営業リスト｜Subscription Management Platform｜AI送信済み",
+ "researched_at": "2026-11-09T20:40:12.654947+00:00",
+ "official_url": "https://stay.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/stay",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Level 11, 307 Queen Street, Brisbane Qld 4000, Australia",
+    "url": "https://startupintros.com/orgs/stay",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "“Been using Stay for a couple of years now – very easy interface and we love the new punch card feature. We have gained a ton of insights into retention via the retention engine, and could not have nicer things to say about our account rep! Thanks Stay!”",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay leads the market with innovative solutions that engage customers using easy-to-navigate,",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". Plus, you’ll partner with the most proactive success team in the industry to leave no stone unturned in growing your revenue.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You're never left on your own at Stay. Our team is ready with proactive support before, during, and after migration.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay’s simple, drag-and-drop tools make it easy for teams to customize their subscription programs without technical expertise.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your subscription program",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay is the only subscription solution that harnesses proprietary machine learning and reinforcement models to supercharge the growth of reliably recurring revenue.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gifts for predicted churn risk customers",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive Smart Dunning",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading Shopify brands leverage Stay AI to enhance their subscription programs. Our case studies show measurable gains in customer retention, lifetime value, and revenue growth.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely! Stay is proud to integrate with",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Stay AI improve the customer experience?",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "which allows subscribers to swap in and out bundled products directly in the customer portal, as well as manage the rest of their subscription experience. Use features like the dynamic product carousel and in-portal banners to boost AOV by making add-ons totally seamless.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay AI is a great fit for Shopify businesses aiming to catalyze the growth of their subscription programs.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". Stay’s AI-powered tools, intuitive interface, and top-tier support help Shopify brands not only launch subscription programs but also sustain and scale them; maximizing revenue, reducing churn, and delivering an exceptional subscriber experience.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to our team of experts to find out if Stay is the right solution for you (spoiler: it probably is)!",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At Stay, we provide white-glove support for your migration, ensuring everything goes off without a hitch — for you and your subscribers.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Stay AI’s Workflows tool to set up custom sequences so you can manage a more sophisticated subscription program.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepaid subscriptions",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Allow customers to prepay for a subscription upfront. This is the perfect structure for subscription programs that last for a finite amount of time.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Allow customers to try products with lower commitment.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay powers a split portal experience, so gift givers and recipients can manage their preferences and payments for a seamless experience for all.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging custom date selections allows you to create unique subscription offers and programs.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Build Quick Actions and Pre-filled checkout links easily to increase retention and acquisition efforts with our URL Builder.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Make it easy for customers to become subscribers by creating one-click checkout URLs. Create one-click checkout URLs to drive new subscriptions. Embed one-click checkout URLs directly in emails or SMS from any platform. Configure special discounts on checkout links to increase conversion. You can even create checkout URLs for one-time products",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Bundling complementary products and offering discounts for customers who purchase the set incentivizes them to try something new! Give customers the ability to build their own custom subscription: let them pick their products and create a bundled subscription with tiered discounts. Our build-a-box features are available out of the box and ready to go.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay integrates with Shopify checkout for a unified experience. When you switch to Stay, our team will build a beautiful, branded, conversion-optimized buy box to sit on your PDPs. We’ll ensure it expertly highlights your subscription offer and any additional program value propositions.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Allow subscribers to swap in and out bundled products directly in the customer portal—no more duplicating products and tinkering in Shopify. With Stay, just set the ground rules for product minimums and discount offerings. Throughout their customer lifetime, subscribers can easily swap which items are in their bundles or add new items to upcoming orders.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing built for brands that want to grow.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal for Shopify merchants looking to start or scale their subscription program.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "For larger brands looking to supercharge their subscription program.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepaid Subscriptions",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“The biggest wins for us are that we seamlessly migrated six figures of subs with no issues. Save rate has improved ~25% → 29%. We’re able to AB test easily. Exports are minutes to download vs. DAYS. And we’re continuously unlocking data improvements thanks to Staylien and now especially with the Stay x Claude MCP.”",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Take your subscription program to",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Engage your audience like never before with hyper-personalized content and seamless, strategic upselling that drives long-term loyalty.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Minimize churn, maximize retention",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively retain subscribers with advanced retention strategies, including automated dunning processes and tailored win-back campaigns that keep customers coming back.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Use predictive analytics to uncover upsell opportunities, boost revenue, and maximize the value of every subscriber.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Migration could take up to 2 weeks for the entire process, from meeting the team to your post-migration call.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "A kick off call with your designated Onboarding Manager to guide you through the experience. They’ll work with you to develop a thorough list on the details of your migration.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation + QA to review both the creative and functionality of buy boxes and the customer portal according to your preferences. Our engineers will be with you through each step to help configure your settings.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale with your strategic partners on a continual basis through monthly update calls, strategy discussions, and best practices.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "You are not tied to any forecast. When designing your enterprise plan, we create flat rate pricing tiers that incentivize, not punish your growth.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“Stay AI helped us take our subscription experience to the next level. We were able to use their features to create an exclusive Black Friday promotion for our Wine Club members (subscribers) directly in their subscription portal, and we saw an impressive 300%+ growth in add-on revenue.”",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Customer Experience",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Cowboy Colostrum Grew Recurring Revenue 57% by Optimizing Subscriber Retention with Stay AI",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Alice Mushrooms Went from No Package Protection on their Subscriptions to 58% Coverage",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, Pierson and Gina founded Lunar Solar Group, one of the fastest-growing digital marketing agencies. Pierson led acquisition, while Gina championed retention marketing, which covered strategy for email, SMS, loyalty, referrals, and subscription management.",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Their work in subscription management helped launch and scale ecommerce programs for top brands like Olipop, Super Coffee, and VitaCoco.",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "“There were no tools in the market that allowed you to run A/B tests or market new products to subscribers. Once you got a subscriber, you just hoped they didn’t cancel.”- Gina",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Product",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Retention Strategy",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our dedicated onboarding team provides a seamless migration with white-glove support.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Migrating platforms can be simple when you have the right support! At Stay, we understand why brands want to minimize any potential struggles of switching to new platforms. That’s why we provide white-glove support for your migration, ensuring everything goes off without a hitch — for you and your subscribers.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience a fully supported migration process tailored to your needs. In just 5 simple steps, we’ll ensure a smooth transition with no downtime.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Kick off your migration process on a call with your designated onboarding manager, who will guide you through the whole experience!",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Our dedicated onboarding engineers help configure your settings and build new buy boxes to match your theme.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow up a successful migration with a post-launch call that includes an intro to the customer success team. Our experts will be there for monthly update calls, strategy discussions, and best practice recommendations!",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading brands use Stay AI to transform their subscription programs. Our case studies show measurable gains in customer retention, lifetime value, and revenue growth.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "“We truly appreciate the help Stay's team provided throughout the onboarding process. Trust us when we say that this has been the easiest and most seamless transition of all the migrations we've done! ”",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by top Shopify brands",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by these top Shopify brands",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Entire House Rental Iwai Farm - Rice Planting Harvest, Pizza Making, BBQ, Campfire, Game Meat, Wood Stove, Mochi Pounding, Satoyama Experience",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Root Cause Analysis Examples: 5 Manufacturing Case Studies Walked Through - PPAP Documents | Production Part Approval Process",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Root Cause Analysis Examples: 5 Manufacturing Case Studies Walked Through",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Root cause analysis is best understood through real scenarios. This article walks through five manufacturing case studies: a dimensional nonconformance, a repeat customer complaint, a machine breakdown, an incoming material failure, and an audit finding. Each example shows the investigation process from problem identification through corrective action.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Dimensional Nonconformance on a Machined Component",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "A Tier 2 automotive supplier receives a customer rejection for a machined aluminum housing. The bore diameter on 340 parts measures 25.12 to 25.18 mm against a specification of 25.00 +/- 0.05 mm. All rejected parts were produced during second shift on a single CNC machining center over a two-day period.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Why was the counter not set? The second-shift setup operator was not trained on the counter reset procedure. First-shift operators had been handling this task, and the procedure was passed informally rather than documented.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Revise the setup work instruction to include the counter reset step with visual aids. Retrain all operators on all shifts. Add counter verification to the startup checklist. Update the PFMEA to reflect the tool life management risk and the new control.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Repeat Customer Complaint on Cosmetic Defects",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 3: Recurring Machine Breakdown",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Replace the fatigued spring immediately. Add wire feed assembly spring replacement to the PM schedule at an interval consistent with the manufacturer’s recommendation. Review all similar welding robots to verify their PM schedules include this component. Add a feed tension check to the weekly operator maintenance checklist as a secondary control.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 4: Incoming Material Failure",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 5: Internal Audit Finding on Document Control",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "A root cause analysis example walks through a real or realistic problem scenario showing the investigation method, the chain of cause and effect, the systemic root cause identified, and the corrective action implemented. The case studies above demonstrate this process across five common manufacturing situations.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the most common root cause in manufacturing?",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Can these examples be adapted for non-manufacturing environments?",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. The investigation structure (define the problem, contain the damage, analyze the cause, implement corrective action, verify effectiveness) applies to any industry. Replace the manufacturing-specific details with your process context and the methodology works the same way.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Current on Automotive Quality",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build a Lean Culture in an Automotive Manufacturing Plant",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Lean Manufacturing Tools: The 10 Most Effective Techniques for the Shop Floor",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "8ºPlanta",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Stay not only seamlessly integrates directly with Shopify but with 100+ of the top tech solutions you have in your brand’s tech stack. We value building frictionless integrations with top tools that move your business forward.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "100+ of the top tech solutions in your brand’s tech stack.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agency Partner Spotlight",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, Pierson and Gina founded Lunar Solar Group, one of the fastest-growing digital marketing agencies. Pierson led acquisition, while Gina championed retention marketing, which covered strategy for email, SMS, loyalty, referrals, and subscription management.",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with agency partner",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "Stays booked via online travel agencies are not eligible",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ". Plus, you’ll partner with the most proactive success team in the industry to leave no stone unturned in growing your revenue.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay is the only subscription solution that harnesses proprietary machine learning and reinforcement models to supercharge the growth of reliably recurring revenue.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading Shopify brands leverage Stay AI to enhance their subscription programs. Our case studies show measurable gains in customer retention, lifetime value, and revenue growth.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Vita Coco’s Custom Cadence Subscription Plans Support 52% Yearly Growth in First-Time Subscription Revenue",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OLIPOP Grows Subscription Revenue 35% with Stay AI",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With 500+ migrations and tens of millions of subscribers moved flawlessly, Stay AI’s dedicated team makes switching your Shopify subscription app easy—no revenue loss or downtime, just smooth sailing.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". Stay’s AI-powered tools, intuitive interface, and top-tier support help Shopify brands not only launch subscription programs but also sustain and scale them; maximizing revenue, reducing churn, and delivering an exceptional subscriber experience.",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Shopify Subscription Acquisition | Stay AI",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Build Quick Actions and Pre-filled checkout links easily to increase retention and acquisition efforts with our URL Builder.",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Buy boxes that drive acquisition",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Use predictive analytics to uncover upsell opportunities, boost revenue, and maximize the value of every subscriber.",
+    "url": "https://stay.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure consistent recurring revenue",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscriber Acquisition",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Surely wine continues scaling recurring subscription revenue 76% QoQ with Stay AI",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“Stay AI helped us take our subscription experience to the next level. We were able to use their features to create an exclusive Black Friday promotion for our Wine Club members (subscribers) directly in their subscription portal, and we saw an impressive 300%+ growth in add-on revenue.”",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale Subscription Revenue",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Cowboy Colostrum Grew Recurring Revenue 57% by Optimizing Subscriber Retention with Stay AI",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Bravo Pouches Grew Recurring Revenue 563% and Scaled Past 1,400 Subscribers",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How OLIPOP Converted ~90% of Clicks Into Add-On Purchases With a Single CTA",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Feals Implemented Stay, Launched a New Flavor, and Grew Add-On Revenue +458%",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, Pierson and Gina founded Lunar Solar Group, one of the fastest-growing digital marketing agencies. Pierson led acquisition, while Gina championed retention marketing, which covered strategy for email, SMS, loyalty, referrals, and subscription management.",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Their work in subscription management helped launch and scale ecommerce programs for top brands like Olipop, Super Coffee, and VitaCoco.",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with incredible brands like Graza, Olipop, Magic Spoon, and more. At Stay, your work truly impacts some of the most recognizable brands.",
+    "url": "https://stay.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "All active and canceled subscriptions are migrated to the Stay platform with minimal downtime and no revenue loss. Stay’s team is on call to support and ensure everything goes smoothly.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading brands use Stay AI to transform their subscription programs. Our case studies show measurable gains in customer retention, lifetime value, and revenue growth.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "After installing Stay AI, our subscription revenue grew by 73%.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Momofuku Grows Quarterly Recurring Subscription Revenue 132% with Stay AI",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "How Bravo Pouches Grew Recurring Revenue 563% and Scaled Past 1,400 Subscribers - Stay AI",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "How Bravo Pouches Grew Recurring Revenue 563% and Scaled Past 1,400 Subscribers",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "recurring subscription revenue growth",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "total subscription revenue growth",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Solo Media Group, Bravo Pouches turned a fast-growing energy pouch brand into a recurring revenue engine on Stay AI.",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bravo Pouches found early traction fast and knew subscriptions were the path to turning that momentum into durable, recurring revenue.",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "recurring subscription revenue climbed",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "and total subscription revenue (checkout plus recurring) grew",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "The growth wasn’t a one-time spike. It’s a compounding curve. New subscriber acquisition climbed from 67 in February to 780 in June, with July already at 743 new subscribers before the month was halfway through. Recurring orders grew in lockstep, from 45 to 322 (+616%) at a $33.12 average order value.",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cohort revenue tells the same story: the June 2026 cohort of 780 subscribers has already generated nearly $30K, and July’s partial-month cohort has brought in over $22K.",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "With acquisition proven, the next phase focuses on deepening the customer portal — letting subscribers easily swap flavors within their bundles — and building out an email and lifecycle strategy alongside Stay AI’s Cancellation Survey and Decision Engine to convert that momentum into long-term retention.",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "in recurring subscription revenue",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "in total subscription revenue",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bravo Pouches turned a hot product into a subscription growth engine — pairing a conversion-first bundle builder with Stay AI’s platform to grow recurring revenue over 5x on a steep, compounding acquisition curve. With Solo Media Group steering strategy and Stay powering the platform, the runway is wide open.",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "4. 「Select which properties this token can access」は「All owned by account」",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A key principle is contributing revenue to offset the occupied table: ordering just a low-cost drink bar (around 300 yen) for several hours can be seen as unprofitable or inconsiderate, especially if it hinders turnover during busier times. Staff and financial analyses indicate that long stays become problematic without",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "generally tolerate courteous extended presence as part of their function as flexible venues that accommodate various activities.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "However, opinions among staff vary, with some preferring plates left as served to prevent issues like residue spread or difficulty in carrying, and recommending instead that customers move dishes to the table's edge or aisle side for easier access.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "Selecting off-peak periods is essential for solo diners wishing to remain comfortably in Japanese family restaurants for extended periods without causing inconvenience. Arriving during less crowded times allows visitors to linger respectfully while minimizing impact on staff and other customers who may need tables.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "Solo diners should plan their arrival for mid-afternoon or late evening windows, when customer volume typically decreases significantly. These periods provide a quieter environment, more tolerant staff attitudes toward longer stays, and greater overall ease in extending time at the table.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "Such durations are commonly accepted during quieter periods, reflecting the flexible nature of these establishments, which often accommodate relaxed use of tables for reading, working, or resting as long as revenue is generated and space is not blocked unnecessarily.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "Average customer spend (around 844 yen) underscores the expectation of supplementary orders to offset low-revenue items during longer visits.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "In Japanese family restaurants, the acceptance of long stays occupies a middle position among various dining venues, allowing extended periods when polite and revenue-contributing but less permissive than some contexts and more lenient than others.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "Family restaurants align somewhat with cafés in tolerating extended presence but typically expect additional small orders (such as drinks or desserts) to offset occupancy and support ongoing revenue, distinguishing them from minimal-order lingering.",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "The best part of our holiday in Japan. The nice contact with the people (mother and daughter), the way they showed and told us about the surroundings and japanese culture. The traditional meals also were very nice and the explanation of lifestyle, culture were splendid. We really felt at home and a connection to the landlady.",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Part Submission Warrant (PSW)",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "A subscription management solution that uses machine learning to optimize recurring revenue for e-commerce businesses. It integrates with Shopify and 100+ other tools, offering retention analytics and churn prediction capabilities.",
+    "url": "https://startupintros.com/orgs/stay",
+    "pass": 3
+   },
+   {
+    "quote": "Stay 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   },
+   {
+    "quote": "3. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   },
+   {
+    "quote": "Stay has 75 total employees.",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is Stay’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Stay is",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   },
+   {
+    "quote": "When was Stay acquired?",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Smart timing for Winback emails",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A Pup Above Lets Branding Shine with Stay AI's Stunning Subscription Emails",
+    "url": "https://stay.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Make it easy for customers to become subscribers by creating one-click checkout URLs. Create one-click checkout URLs to drive new subscriptions. Embed one-click checkout URLs directly in emails or SMS from any platform. Configure special discounts on checkout links to increase conversion. You can even create checkout URLs for one-time products",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "Compatible with multiple email/SMS tools",
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, Pierson and Gina founded Lunar Solar Group, one of the fastest-growing digital marketing agencies. Pierson led acquisition, while Gina championed retention marketing, which covered strategy for email, SMS, loyalty, referrals, and subscription management.",
+    "url": "https://stay.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "“We genuinely enjoy working with Stay AI, which is certainly saying something if you've worked with other subscription apps. The features are there, but more importantly to us, the customer support is phenomenal. Hopping on calls, quick replies to emails & chats, whatever we've needed, Stay has helped us get it live.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is available to you through scheduled calls, in-app chat, and email.",
+    "url": "https://stay.ai/platform-migration/",
+    "pass": 1
+   },
+   {
+    "quote": "With acquisition proven, the next phase focuses on deepening the customer portal — letting subscribers easily swap flavors within their bundles — and building out an email and lifecycle strategy alongside Stay AI’s Cancellation Survey and Decision Engine to convert that momentum into long-term retention.",
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "pass": 1
+   },
+   {
+    "quote": "Confirmation Email Sent",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Click the link in the confirmation email to complete your registration.",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "If you do not receive an email within several hours",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter the email address registered to your account, and we'll send a link to reset your password.",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Click the link in the confirmation email to reset your password.",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why were the revisions not distributed to this workstation? Because the document control coordinator distributed revisions via email to supervisors, and this supervisor did not print and replace the document at the workstation.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "The document control distribution process does not include a verification step to confirm that updated documents have been received and posted at the workstation. The process relies entirely on email distribution to supervisors without a feedback loop.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "STAY JAPAN 民泊運営支援サービスの導入事例一覧｜ITトレンド",
+    "url": "https://it-trend.jp/minpaku-management-support-service/22871/case",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANとは？価格や機能・使い方を解説",
+    "url": "https://it-trend.jp/minpaku-management-support-service/22871/case",
+    "pass": 3
+   },
+   {
+    "quote": "『STAY JAPAN』とよく比較されている民泊運営支援サービス",
+    "url": "https://it-trend.jp/minpaku-management-support-service/22871/case",
+    "pass": 3
+   },
+   {
+    "quote": "◆ まずはSTAY JAPANに会員登録 3ページ",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "STAYJAPANの予約受付方法には、お客様",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、この段階ではまだSTAY JAPAN上で物件を公開することはできません ので",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注意：登録が完了しただけでは、物件をSTAY JAPAN上に公開することはで",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① STAY JAPAN管理者が許認可画像と登録内容を審査する（※）",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "② 登録内容に問題ない場合、STAY JAPAN管理者はホストに承認メールを送信する",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "動で行われ、STAY JAPAN管理者により",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "希望の場合は、STAY JAPANのカスタマー",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "support@stayjapan.com",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN の予約受付方法には、お客様",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "→ STAY JAPANでの販売額（旅行者支払額）は、12,650円 です",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANでは、ホスト様が設定した宿泊料金に手配料（旅行者サービ",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANのカレンダーに、Airbnb, Booking.com, Beds24.com, AirHost, Vrbo（旧",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANのカレンダーに同期され る",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "上記手順で外部サイトの予約情報を STAY JAPANに反映させることができますが、正",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しい連携のためには STAY JAPANの予約情報を外部サイトに反映させる（ STAY",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "JAPANのiCal URLを外部サイトに登録する）必要があります",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN上で申し込まれた予約と、外部",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6/16〜17 はSTAY JAPAN上の予約に",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN上で予約が入るのを防ぐこ",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "他サイトにおいて予約が取り消された場合には、STAY JAPANのカレンダーからも自",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "他サイトで受け付けた予約をSTAY JAPANから取り消し操作を行うことはできませ",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外部サイトにSTAY JAPANのiCal URLを登録し、連携を開始した後にSTAY JAPAN上",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "非公開にする場合、外部サイトからSTAY JAPANのiCal URLの登録を一時",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANは、beds24との在庫連携機能を備えており、これを用いて施設を",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三光ソフランホールディングス株式会社 Stay JAPAN株式会社 | 導入事例 | 株式会社ジール",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "三光ソフランホールディングス株式会社 Stay JAPAN株式会社",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャー精神を大切に挑戦し続ける同グループは、2017年4月に、「暮らすようにステイする」をコンセプトに宿泊事業を行う「Stay JAPAN」を設立した",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は「Stay SAKURA」、「Palm Spring」などのブランドで東京、京都、宮古島を中心に約50棟の宿泊施設を展開し、地域の魅力を発信することで社会貢献につなげている",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "導入支援を行ったジールの宇田川 勝正も「今回、ホテル業の経験者をアサインすることで、Stay JAPAN様の目線からさまざまな提案をしました",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "アフターコロナの観光産業復活へ、新たな価値創造に挑戦を続け、地域社会の発展に貢献するStay JAPANの取り組みを、ZEUSCloudが支えていく",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "三光ソフランホールディングス株式会社/Stay JAPAN株式会社",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "〒103-0028 東京都中央区八重洲1-3-7",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "https://stay-japan.co.jp/",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "同グループが2017年4月に設立した「Stay JAPAN」は東京、京都、宮古島を中心に約50棟の宿泊施設を展開",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN掲載で損しない運営ノウハウ7選 | 民泊大学",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN掲載で損しない運営ノウハウ7選",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "中でもSTAY JAPANは、法律順守を前提とした安心感と、国内・インバウンド双方への訴求力が特徴的なプラットフォームです",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、STAY JAPANへの掲載方法の基本から、予約を取りやすくするページ作り、収益最大化の運営ノウハウ、他サイトとの併用戦略まで、損をしないための実践的なポイントを体系的に解説します",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANの概要と他の民泊サイトとの違い",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANに物件を掲載する主なメリット",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN利用時のデメリットと注意点",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANへの物件掲載方法と登録の流れ",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANで収益を最大化する運営ノウハウ",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "他OTAと組み合わせたSTAY JAPAN活用戦略",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANは、農家民泊や古民家、一棟貸し宿など、日本各地の「地域ならではの滞在体験」を強みとする民泊・宿泊予約サイトです",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "国内旅行者・インバウンドの「日本らしい宿」ニーズ",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "合法性・安全性・地域体験性を重視する物件であれば、STAY JAPANは「質の高い集客チャネル」として機能しやすい",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "先にSTAY JAPANの得意分野を理解した上で掲載可否を検討することが重要です",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANが得意とする物件タイプと顧客層",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANは、いわゆる「都市型Airbnb」とは少し違い、",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "日本文化や田舎体験を重視するインバウンド旅行者",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "を価値として提供できる物件ほど、STAY JAPANとの相性が良くなります",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANで損をしないためには、",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "競合物件と単純に表面価格だけを比較するのではなく、手数料控除後の手取りベースで収益シミュレーションを行うと、STAY JAPANでの採算ラインが把握しやすくなります",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPANに掲載するメリットは、単なる集客チャネルの追加にとどまらず、",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   },
+   {
+    "quote": "日本人利用が比較的多く、「農泊」「古民家」「地方エリア」などローカル志向の需要を取り込みやすい",
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "STAY JAPAN 民泊運営支援サービスの導入事例一覧｜ITトレンド — STAY JAPAN 民泊運営支援サービスの導入事例の一覧を紹介します。 導入企業による成功事例や導入効果、選定ポイントのインタビューを紹介します。 業界や従業員規模など自社に合う事例を見てみましょう。",
+    "url": "https://it-trend.jp/minpaku-management-support-service/22871/case",
+    "pass": 3
+   },
+   {
+    "quote": "261028_V3.10.1_ホスト向けマニュアル - STAY JAPAN — STAY JAPANのカレンダーに、Airbnb, Booking.com, Beds24.com, AirHost, Vrbo(旧HomeAway)上の予約や売止を自動で反映させる機能です。 複数の予約サイトを利用されている場合、カレンダー管理にあたっては必須の機能となりますのでぜひご利用ください。",
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "三光ソフランホールディングス株式会社 Stay JAPAN株式会社 | 導入事...STAY JAPAN掲載で損しない運営ノウハウ7選 | 民泊大学ホテル運営代行 | 事業内容 | StayJAPAN株式会社 — 三光ソフランホールディングス株式会社 Stay JAPAN株式会社は、ジールのZEUSCloudを導入し、データ分析基盤を構築。 運用負荷を軽減し、KPIの可視化で意思決定を迅速化。 多くの社員がデータを活用できる環境を整え、新たな戦略創出を目指す。 Apr 27, 2026 · 民泊事業者にとって、どのOTAにどう掲載するかは収益を大きく左右します。 中でもSTAY JAPANは、法律順守を前提とした安心感と、国内・インバウンド双方への訴求力が特徴的なプラットフォームです。 Stay JAPANなら 小・中規模ホテル、 簡易宿所の 収益最大化 を実現します 20〜100室の小・",
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN掲載で損しない運営ノウハウ7選 | 民泊大学 — Apr 27, 2026 · 民泊事業者にとって、どのOTAにどう掲載するかは収益を大きく左右します。 中でもSTAY JAPANは、法律順守を前提とした安心感と、国内・インバウンド双方への訴求力が特徴的なプラットフォームです。",
+    "url": "https://minpaku-daigaku.com/stay-japan掲載で損しない運営ノウハウ7選/",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル運営代行 | 事業内容 | StayJAPAN株式会社 — Stay JAPANなら 小・中規模ホテル、 簡易宿所の 収益最大化 を実現します 20〜100室の小・中規模ホテルの特性を理解した専門チームが、 運営・集客・設備計画まで 一気通貫でサポートします。 エリア特性や施設のポテンシャルを活かし、",
+    "url": "https://stay-japan.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "Rakuten STAY - 楽天ステイ公式サイト — 楽天プロデュースの安心・安全の宿泊施設ブランドRakuten STAY（楽天ステイ）。世界中のゲストを心躍るユニークな宿泊体験でお迎えします。楽しみ方はあなた次第。誰と行く？何をする？つぎはあなたの番です。さあ、Rakuten STAYに出かけましょう。",
+    "url": "https://stay.rakuten.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Long Stay Etiquette in Japanese Family Restaurants — Long stay etiquette in Japanese family restaurants (known as famiresu in Japanese) encompasses the informal but widely observed guidelines that allow customers, particularly solo diners, to occupy tables for extended periods—often 1–2 hours or l…",
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN｜Business and Vacation Rentals — Japan's first ever licensed vacation rental site, \"STAY JAPAN\". Offering various accommodations in country side stays, farm stays, home stays, temple stays, Japanese traditional stays, and many more all throughout Japan.",
+    "url": "https://en.stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN（ステイジャパン）で宿泊予約を｜民泊・農泊・貸別荘・コ... — STAY JAPANは、民泊・農泊・貸別荘・コテージ・古民家や、城泊・寺泊（宿坊）など個性的な宿を集めた予約サイト です。 田舎体験、農業体験、1人旅、大人数でのグループ旅行など、いつもと違う旅を楽しみたい方にピッタリ。",
+    "url": "https://stayjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "STAY JAPAN — Stray Kids OFFICIAL FANCLUB STAY JAPANではここでしか見られないオリジナルコンテンツをお楽しみいただけます！",
+    "url": "https://skz-stayjapan.com/s/n105/page/about",
+    "pass": 3
+   },
+   {
+    "quote": "Search Vacation Rentals and Service Apartments - STAY JAPANSTAY JAPAN（ステイジャパン）で宿泊予約を｜民泊・農泊・貸別荘・コ...STAY JAPAN | STAY JAPAN MOBILEJapan Vacation Rentals (5 out of 5) - Airbnb — Check out these business and vacation rentals available at STAY JAPAN. Find the perfect room for your journey today at great prices and near world-renowned attractions. Embark on new experiences and discover Japan in the mos",
+    "url": "https://en.stayjapan.com/search",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Tata Consultancy Services — Nov 12, 2025 · Creating future-ready manufacturing enterprises, one success at a time Explore our case studies from Manufacturing – to help you stay future-ready Filter",
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Archive - Stay AI — “Stay AI helped us take our subscription experience to the next level. We were able to use their features to create an exclusive Black Friday promotion for our Wine Club members (subscribers) directly in their subscription portal, and we saw an impressive 300%+ growth in add-on revenue.”",
+    "url": "https://stay.ai/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Ai B2B Case Studies & Customer Successes — See how Stay Ai solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/stay-ai",
+    "pass": 3
+   },
+   {
+    "quote": "STAY – Overview – Funding, Revenue & Growth – 2026 – Madrid — Discover STAY's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/stay",
+    "pass": 3
+   },
+   {
+    "quote": "Stay: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2010, this is a cloud-based hotel management platform serving over 1,000 hotels across 58 countries. It helps hoteliers streamline staff processes and improve guest satisfaction by adapting to mobile-first guest expectations.",
+    "url": "https://startupintros.com/orgs/stay",
+    "pass": 3
+   },
+   {
+    "quote": "Stay - 2026 Company Profile, Funding & Competitors - TracxnStay 2026 Company Profile: Valuation, Funding & Investors ...The Stay Foundation Revenue, Funding & Valuation10 Bootstrapped Startups That Won in 2026 Without VC MoneySTAY App - Crunchbase Company Profile & Funding — Stay is a seed company based in Sao Paulo (Brazil), founded in 2023. It operates as a Platform providing employee benefits, ",
+    "url": "https://tracxn.com/d/companies/stay/__S8efbSyKUK9EfHkioQrbzFoJhddqLemnYnMkp7W1Ivk",
+    "pass": 3
+   },
+   {
+    "quote": "Stay 2026 Company Profile: Valuation, Funding & Investors ...The Stay Foundation Revenue, Funding & Valuation10 Bootstrapped Startups That Won in 2026 Without VC MoneySTAY App - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Stay. Use the PitchBook Platform to explore the full profile. The Stay Foundation has revenue of $85,555, ",
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "pass": 3
+   },
+   {
+    "quote": "The Stay Foundation Revenue, Funding & Valuation — The Stay Foundation has revenue of $85,555, estimated valuation of $273,776. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/the-stay-foundation-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "英語歌詞和訳:STAY (The Kid LAROI, Justin Bieber) Sep 11, 2024 · お前ほど大事な人なんていないんだ I need you to stay, need you to stay, hey なあ、だからここにいて、ここにいてよ I do the same thing I told you that I never would もう2度としないって言ったけど、きっとまた同じことをするんだ I told you I'd change, even when I knew I never could",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "[2026 Edition] Amex Gold Preferred \"Free Stay Gift\" Complete ... Aug 24, 2026 · The Free Stay Gift is a complimentary domestic hotel stay voucher presented annually to premium Amex card members. A special program is prepared for Gold Preferred members, allowing them to stay for free for one night for up to two people at 40 hotels nationwide listed in the exclusive program.",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why People Stay in Broken Relationships｜しげやん From the perspective of psychology and neuroscience, the reasons why people stay in relationships often lie much deeper than 'love'. It is— the fear of losing security. In this article, we will unravel 'why people continue to stay in broken relationships' through the mechanisms of human nerves and psychological structures.",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit｜note Stay edit | People 東京で再会 Stay Edit Culture | さをり織り Stay Edit Journal | 「また帰りたくなる街」の理由 Stay Edit Culture| 京都に泊まり続けて、わかってきたこと",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "英語歌詞和訳:STAY (The Kid LAROI, Justin Bieber)｜ema_uemuu",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "英語歌詞和訳:STAY (The Kid LAROI, Justin Bieber)",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "女から何度もやめて欲しいと訴えられた何かを男はやめられず、毎回その場限りの反省と謝罪で済ませ、また同じことを繰り返して女を傷付けていた。ついに愛想をつかした女に出ていかれ、そこではじめて、自分にとっていかに女の存在が大切だったかに気付く男。自暴自棄になりながら、女に戻ってきてくれ、とうったえる、そんな男の歌。",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "与えてくれてばかりだった女に甘えきり、お前がいないとダメなんだ！と、のたまう男。",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "それに関しては触れてないのよね。。。勝手な男だ。愛ではなく、それは依存という。",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "I do the same thing I told you that I never would",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "もう2度としないって言ったけど、きっとまた同じことをするんだ",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "I told you I'd change, even when I knew I never could",
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "pass": 3
+   },
+   {
+    "quote": "[2026 Edition] Amex Gold Preferred \"Free Stay Gift\" Complete Guide | A Thorough Explanation of All 40 Eligible Hotels Ranked by Prefecture｜りょ@元SNKRSガレージ創設者",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[2026 Edition] Amex Gold Preferred \"Free Stay Gift\" Complete Guide | A Thorough Explanation of All 40 Eligible Hotels Ranked by Prefecture",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[2026 Edition] American Express Gold Preferred \"Free Stay Gift\" Complete Guide to All 40 Eligible Hotels",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"Free Stay Gift\" is a renewal benefit for the American Express Gold Preferred Card (annual fee 39,600 yen, tax included). By spending 2 million yen or more annually on the card and renewing your membership, you can stay for free for one night for up to two people at eligible hotels nationwide. This is one of the card's biggest and most attractive benefits.",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will explain all 40 eligible hotels for the 2026 edition (eligible period: April 1, 2026, to March 31, 2027) in the form of a recommended ranking by prefecture. In addition to basic information such as location and history, we have delved into standard room rates, hotel rankings, and the size of the rooms eligible for free stays, aiming to create a complete guide that allows yo",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The structure of this article is as follows.",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chapters 1 & 2: Basic rules of the program and an overview of the 2026 eligible hotels",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chapters 3–19: Detailed explanation of all 40 hotels by prefecture (in the form of recommended rankings within each prefecture)",
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why People Stay in Broken Relationships｜しげやん",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why People Stay in Broken Relationships",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The psychological structure of being bound by an 'illusion of security' rather than love",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Maybe it's just not working anymore.'",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many people feel this way, yet they cannot end the relationship.",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Conversations dwindle, hearts no longer connect, and mutual understanding is lost. Yet, the relationship persists. From the outside, relationships that make people wonder 'why don't they just break up?' are actually not rare.",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "People do not break up simply because love is gone, nor do they stay together just because love remains.",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From the perspective of psychology and neuroscience, the reasons why people stay in relationships often lie much deeper than 'love'.",
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit Journal ホテルや旅館を紹介するのではなく、「なぜその滞在が人の記憶に残るのか」を編集する。",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit Culture｜ハローキティをきっかけに知った、東の桐生",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   },
+   {
+    "quote": "Stay edit | People 東京で再会",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit Culture | さをり織り",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit Journal | 「また帰りたくなる街」の理由",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit Culture| 京都に泊まり続けて、わかってきたこと",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit Fashion |ホテルと、何を着るか。",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   },
+   {
+    "quote": "Stay Edit Culture | 日本式、ティフアニーで朝食を。",
+    "url": "https://note.com/hisaeyanai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "★stay★ (@skzwithstay8) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia ★stay★ @skzwithstay8 Jan 1",
+    "url": "https://x.com/skzwithstay8",
+    "pass": 3
+   },
+   {
+    "quote": "Stay (@Stay__YT) / X This is my first ever sketch of Stay, this sketch was the start of the whole world i have now. It's really crazy looking back at where i started but i always had the vision",
+    "url": "https://x.com/Stay__YT",
+    "pass": 3
+   },
+   {
+    "quote": "Stay informed on national and global events | X Help Center What’s happening is replacing Happening Now on x.com and will help you stay informed about important national and global events. We created What’s happening so you are up-to-date with the latest news.",
+    "url": "https://help.x.com/en/using-x/whats-happening",
+    "pass": 3
+   },
+   {
+    "quote": "STAYC (스테이씨) on X: \"2026 STAYC FAN CONCERT TOUR [STAY CLOSER ... May 19, 2026 · 2026 STAYC FAN CONCERT TOUR [STAY CLOSER] ANNOUNCE BEYOND DISTANCE STAY CLOSER https://t.co/KHOouXUJee #STAYC #스테이씨 #STAY_CLOSER #2026_STAYC_FANCON_TOUR",
+    "url": "https://x.com/STAYC_official/status/2056570540522123759",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "STAY - LinkedIn The Guest Experience Platform built for hotel chains. | Top hotel chains use STAY’s Guest Experience OS to provide access to all hotel services from guests’ smartphones.",
+    "url": "https://www.linkedin.com/company/stay-app",
+    "pass": 3
+   },
+   {
+    "quote": "Gina Perrelli - Stay AI | LinkedInTsai Chi-yu - Stay | LinkedInStay | LinkedInStay Inc. - LinkedInSTAY - LinkedInAdriènne Kelbie CBE - Trusted advisor and coach to leaders in ... About I’m Gina, the co-founder and CEO of Stay AI. We work with leading brands, including… Sou cofundador e CEO da Stay, plataforma de previdência corporativa, incentivos de longo… · Experiência: Stay · Formação acadêmica",
+    "url": "https://www.linkedin.com/in/ginaperrelli",
+    "pass": 3
+   },
+   {
+    "quote": "Tsai Chi-yu - Stay | LinkedInStay | LinkedInStay Inc. - LinkedInSTAY - LinkedInAdriènne Kelbie CBE - Trusted advisor and coach to leaders in ... Sou cofundador e CEO da Stay, plataforma de previdência corporativa, incentivos de longo… · Experiência: Stay · Formação acadêmica: Sciences Po · Localidade: São Paulo · + de 500 conexões no LinkedIn. Veja o perfil de Tsai Chi-yu no LinkedIn, uma comunida",
+    "url": "https://br.linkedin.com/in/tsai-chiyu",
+    "pass": 3
+   },
+   {
+    "quote": "Stay | LinkedIn Para os colaboradores, criamos o jeito mais fácil de investir nos seus sonhos - a Stay traz paz de espírito hoje e um futuro tranquilo amanhã. Construímos uma solução 100% digital, simples e...",
+    "url": "https://br.linkedin.com/company/seja-stay",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "If I Stay - FacebookJesse Stay - FacebookFacebook - log in or sign upStay: A Four Paw Resort | Oklahoma City OK - FacebookStay Hospitality - FacebookSTAY Hotel Bangkok - FacebookLiv Ciara and Kelly Clarkson team up for a powerful duet of ... Feb 12, 2019 · If I Stay. 2,629,874 followers · 719,310 talking about this. Available now on DIGITAL: http://apple.co/2AGVJIy Jesse Stay. 334,634 followers · ",
+    "url": "https://www.facebook.com/ifistay/",
+    "pass": 3
+   },
+   {
+    "quote": "Jesse Stay - FacebookFacebook - log in or sign upStay: A Four Paw Resort | Oklahoma City OK - FacebookStay Hospitality - FacebookSTAY Hotel Bangkok - FacebookLiv Ciara and Kelly Clarkson team up for a powerful duet of ... Jesse Stay. 334,634 followers · 4 talking about this. 🌟Early Growth Hacker 🌟Engineering AI-native growth systems since 2005 🌟Fortune 5 validated... Connect with friends and the w",
+    "url": "https://www.facebook.com/stay/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay: A Four Paw Resort | Oklahoma City OK - FacebookStay Hospitality - FacebookSTAY Hotel Bangkok - FacebookLiv Ciara and Kelly Clarkson team up for a powerful duet of ... Stay: A Four Paw Resort, Oklahoma City. 1,485 followers · 18 talking about this · 263 were here. Oklahoma City / Edmond's premiere Dog and Cat Boarding... 1 day ago · Stay Hospitality. 455 followers · 4 talking about this. Sout",
+    "url": "https://www.facebook.com/Stayokc/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://stay.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.ai/product/subscriber-acquisition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.ai/platform-migration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.ai/casestudy/how-bravo-pouches-grew-recurring-revenue-563-and-scaled-past-1400-subscribers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://it-trend.jp/minpaku-management-support-service/22871/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minpaku-daigaku.com/stay-japan%E6%8E%B2%E8%BC%89%E3%81%A7%E6%90%8D%E3%81%97%E3%81%AA%E3%81%84%E9%81%8B%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A67%E9%81%B8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stay.rakuten.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.stayjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stayjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skz-stayjapan.com/s/n105/page/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/about-us/case-studies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/stay",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/stay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/stay/__S8efbSyKUK9EfHkioQrbzFoJhddqLemnYnMkp7W1Ivk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/222985-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hisaeyanai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/skzwithstay8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Stay__YT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://help.x.com/en/using-x/whats-happening",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/STAYC_official/status/2056570540522123759",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/stay-app",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ginaperrelli",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/in/tsai-chiyu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/seja-stay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ifistay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/stay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Stayokc/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Stay 日本 導入",
+   "results": [
+    "https://it-trend.jp/minpaku-management-support-service/22871/case",
+    "https://stayjapan.com/manual/stayjapan_host_manual.pdf",
+    "https://www.zdh.co.jp/customer/sanko-soflan-hd/",
+    "https://minpaku-daigaku.com/stay-japan掲載で損しない運営ノウハウ7選/",
+    "https://stay-japan.co.jp/service/",
+    "https://solution-store.honichi.com/solutions/stayjapan/",
+    "https://stayjp.jp/ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stay 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://stay.rakuten.co.jp/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stay Japan",
+   "results": [
+    "https://grokipedia.com/page/Long_Stay_Etiquette_in_Japanese_Family_Restaurants",
+    "https://en.stayjapan.com/",
+    "https://stayjapan.com/",
+    "https://skz-stayjapan.com/s/n105/page/about",
+    "https://en.stayjapan.com/search",
+    "https://stayjapan.com/info/about",
+    "https://skz-stayjapan.com/",
+    "https://www.airbnb.com/japan/stays"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Stay manufacturing customer case study",
+   "results": [
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://stay.ai/case-studies/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.casestudies.com/company/stay-ai",
+    "https://www.johnsoncontrols.com/customer-stories",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stay white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.resellercluster.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stay founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/stay",
+    "https://startupintros.com/orgs/stay",
+    "https://tracxn.com/d/companies/stay/__S8efbSyKUK9EfHkioQrbzFoJhddqLemnYnMkp7W1Ivk",
+    "https://pitchbook.com/profiles/company/222985-72",
+    "https://prospeo.io/c/the-stay-foundation-revenue",
+    "https://www.crunchbase.com/organization/stay-app",
+    "https://imfounder.com/entrepreneurship/bootstrapped-startups-2026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Stay",
+   "results": [
+    "https://note.com/ema_uemuu/n/n4a0bf5156fda",
+    "https://note.com/snkrs_hack/n/ne5c9266e3c21?hl=en",
+    "https://note.com/kansyasy/n/nbab5a08140b1?hl=en",
+    "https://note.com/hisaeyanai",
+    "https://note.com/kiki_skz_143_/n/n8f4e0e8a39f0?hl=en",
+    "https://tales.note.com/hikawa_2023/wp0tx1cxu0bls",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Stay",
+   "results": [
+    "https://x.com/skzwithstay8",
+    "https://x.com/Stay__YT",
+    "https://help.x.com/en/using-x/whats-happening",
+    "https://x.com/STAYC_official/status/2056570540522123759",
+    "https://x.com/StayDrunkI/status/2119513886764277863",
+    "https://help.x.com/en/using-x/stay-connected",
+    "https://x.com/stay9olden/status/2119667081440587781"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Stay",
+   "results": [
+    "https://www.linkedin.com/company/stay-app",
+    "https://www.linkedin.com/in/ginaperrelli",
+    "https://br.linkedin.com/in/tsai-chiyu",
+    "https://br.linkedin.com/company/seja-stay",
+    "https://ca.linkedin.com/company/staywithstay",
+    "https://uk.linkedin.com/company/stayworldwide",
+    "https://ky.linkedin.com/in/adriennekelbie"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Stay",
+   "results": [
+    "https://www.facebook.com/ifistay/",
+    "https://www.facebook.com/stay/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/Stayokc/",
+    "https://www.facebook.com/stay.hospitalityfb/",
+    "https://www.facebook.com/stayhotelbangkok/",
+    "https://www.facebook.com/NBCTheVoice/videos/liv-ciara-and-kelly-clarkson-team-up-for-a-powerful-duet-of-stay-the-voice-nbc-a/944611858536958/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stay note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://stay-note.com/about/",
+    "https://note.com/stayway01",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stay X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

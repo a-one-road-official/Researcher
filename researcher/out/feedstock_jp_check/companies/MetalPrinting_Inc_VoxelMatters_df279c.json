@@ -1,0 +1,504 @@
+{
+ "name": "MetalPrinting Inc. — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:24:32.306988+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We are a team of talented engineers and software developers that are revolutionizing 3D printing technology. We believe in employee ownership. All Rapidia employees become shareholders after their first year.",
+    "url": "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact)",
+    "url": "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Markforged (part of Nano Dimension)",
+    "url": "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/metalprinting-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-metals.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/blog/metal-3d-printing-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.thevirtualfoundry.com/collections/metal-filament?srsltid=AYCX9vIu1EB1C0dLDEb9t1JDkKoDUeCb6MA0z3az4j_uHkTM_BS7ePIP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%96%E3%83%AA%E3%83%BC%E3%83%95%E3%82%B1%E3%83%BC%E3%82%B9-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%90%E3%83%83%E3%82%B0-15-6%E3%82%A4%E3%83%B3%E3%83%81%E5%AF%BE%E5%BF%9C-%E7%9C%9F%E9%8D%AE%E3%83%95%E3%82%A1%E3%82%B9%E3%83%8A%E3%83%BC-%E3%82%B7%E3%83%A7%E3%83%AB%E3%83%80%E3%83%BC%E4%BB%98%E3%81%8D/dp/B0FYCTT4V7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%9B%A8%E5%AE%BF%E3%82%8A%E3%81%AE%E6%86%A7%E6%86%AC-Lia/dp/B0HGWWDC47",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00497458/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1510608-61",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MetalPrinting — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://xactmetal.com/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://metalprintinginc.com/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://wurthadditive.com/password?srsltid=AYCX9vLfh1C1XsPXb7gXFbVa66JmXDBh5Xq4qUYJR_Ym91BIuEKFd0TE",
+    "https://china3dprint.com/archives/1235.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/metalprinting-inc/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.e-metals.net/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://jpn.mizuno.com/shop/mizunoshop_shinsaibashi",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "https://markforged.com/jp/resources/blog/metal-3d-printing-materials",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://3dprinter.co.jp/",
+    "https://pr.mono.ipros.com/ckb/product/detail/2000943162/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.voxelmatters.com/am-japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://shop.thevirtualfoundry.com/collections/metal-filament?srsltid=AYCX9vIu1EB1C0dLDEb9t1JDkKoDUeCb6MA0z3az4j_uHkTM_BS7ePIP",
+    "https://www.unipos.net/products/filamet-3d-filament/",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://www.voxelmatters.com/about/join/",
+    "https://www.poly-maker.jp/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://make.dmm.com/print/material/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "https://www.exone.com/en/",
+    "https://www.voxelmatters.com/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.youtube.com/watch?v=YKFgFfUF6zg",
+    "https://xactmetal.com/",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.ifukuseimitsu.com/en/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp MetalPrinting — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/ブリーフケース-ビジネスバッグ-15-6インチ対応-真鍮ファスナー-ショルダー付き/dp/B0FYCTT4V7",
+    "https://www.amazon.co.jp/雨宿りの憧憬-Lia/dp/B0HGWWDC47",
+    "https://r.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/660f6397-73b8-43ce-9c9a-4569342d36f8/voxelmatters-podcast-from-nuclear-fusion-to-massive-metal-am-production-with-james-demuth-ceo-of-seurat-technologies",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f0e44b44-08ea-40f8-9b8a-2d3b0c08be88/the-voxelmatters-podcast-discover-valcun's-molten-metal-deposition-mmd-technology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com MetalPrinting — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00497458/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/7366/7825/",
+    "https://www.monotaro.com/g/01377183/",
+    "https://www.monotaro.com/g/00347026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/1510608-61",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.voxelmatters.directory/company/metalprinting-inc/",
+    "https://www.voxelmatters.report/reports/",
+    "https://all3dp.com/6/top-10-metal-3d-printing-companies-in-2024-by-revenue/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles_new/eos-lead-list.html",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:note.com MetalPrinting — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kagawatomo/n/nf65a446ed216",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/fukubiyori/n/n4bea216f13f4",
+    "https://note.com/glossy_pika3109/n/n7c99eb8ee64d",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MetalPrinting — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/metalprinting",
+    "https://x.com/Prusa3D/status/2031054780668252591",
+    "https://x.com/VoxelMatters/status/2110656132385575001",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MetalPrinting — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_metal-am-market-2025-voxelmatters-deep-activity-7285618036043087872-8URk",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://by.linkedin.com/posts/kirkabolafia_check-out-my-newest-article-featured-in-voxelmatters-activity-7070047623491055616-FKRp",
+    "https://de.linkedin.com/posts/additive-magazin_3dprinting-additivemanufacturing-metalam-activity-7303331063756435458-79KJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MetalPrinting — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/posts/behind-the-scenes-of-desktop-metals-event3dprinting-additivemanufacturing-3dprin/1244171075755015/",
+    "https://www.facebook.com/VoxelMatters/posts/spee3d-release-metal-3d-printing-simulator-an-innovative-way-for-users-to-intera/1802325219939595/",
+    "https://www.facebook.com/VoxelMatters/posts/-voxelmatters-metal-am-market-2025-reportwe-are-now-offering-early-access-to-our/1140541171410263/",
+    "https://www.facebook.com/VoxelMatters/posts/the-top-10-metal-am-companies-by-revenueeos-leads-a-group-of-key-players-in-meta/845175904280126/",
+    "https://www.facebook.com/VoxelMatters/posts/markforged-releases-new-material-for-metal-x-3d-printer-h13-tool-steel-for-high-/1082465435258914/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "http://enmetalprintinginc.com/",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/",
+    "https://www.voxelmatters.report/product/metal-am-market-2025/",
+    "https://www.voxelmatters.directory/company/metalprinting-inc/",
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MetalPrinting — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.metalprintinginc.com/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

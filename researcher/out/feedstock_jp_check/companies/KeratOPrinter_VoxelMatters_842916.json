@@ -1,0 +1,526 @@
+{
+ "name": "KeratOPrinter — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T20:21:46.710150+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookCrowdhelix - \"This isn’t just a tool for scientists. It’s ...EU-backed Keratoprinter project to... - 3D Printing Industry ...VoxelMatters on Reels - FacebookFacts - Science Just Printed Sight! For the first time ever ...Science - A research team demonstrated that a human-cornea ...VoxelMatters - The Gravity 2021 3D printer: a new thermal... VoxelMatters. 2,907 followers · 4 ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keratoprinter-project.eu/news-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/keratoprinter-aims-to-restore-vision-for-millions-with-bioprinting-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mattek.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/ceramic-am-market-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vJKIaIRxzJWJ2BN5Rm_hU2o614KMnrJ0DvdLRgSS9AnFQrDKszK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/keratoprinter-aims-to-restore-vision-for-millions-with-bioprinting-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keratoprinter-project.eu/news-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keratoprinter-project.eu/news-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/p/7366/7825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00497458/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/7365/7684/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/keratoprinter-aims-to-restore-vision-for-millions-with-bioprinting-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "KeratOPrinter — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.keratoprinter-project.eu/news-events",
+    "https://www.voxelmatters.group/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.youtube.com/watch?v=D7cxgFRZ5lo"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.com/keratoprinter-aims-to-restore-vision-for-millions-with-bioprinting-technology/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://www.mattek.com/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107",
+    "https://www.kyoceraprecisiontools.com/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://prizma3d.com/",
+    "https://www.loewe.com/jpn/ja/pd/stores-ourcasas/casa-loewe-ginza.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2025/",
+    "https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://store.creality.com/jp/",
+    "https://ja.aliexpress.com/item/1005007249951325.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja",
+    "https://shop.exmatelab.com/",
+    "https://www.voxelmatters.com/keratoprinter-aims-to-restore-vision-for-millions-with-bioprinting-technology/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vJKIaIRxzJWJ2BN5Rm_hU2o614KMnrJ0DvdLRgSS9AnFQrDKszK",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://shop.exmatelab.com/",
+    "https://shop-green-ocean.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/keratoprinter-aims-to-restore-vision-for-millions-with-bioprinting-technology/",
+    "https://www.keratoprinter-project.eu/news-events",
+    "https://www.linkedin.com/posts/keratoprinter_keratoprinter-horizoneurope-bioprinting-activity-7441823617526464512-dTJy",
+    "https://cordis.europa.eu/project/id/101191726",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.keratoprinter-project.eu/news-events",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.linkedin.com/posts/keratoprinter_keratoprinter-horizoneurope-bioprinting-activity-7441823617526464512-dTJy",
+    "https://www.upnano.com/distributors/",
+    "https://cordis.europa.eu/project/id/101191726",
+    "https://www.japan.go.jp/tomodachi/2018/spring2018/cellular_3d_printer_brings_new_hope.html",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp KeratOPrinter — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com KeratOPrinter — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/7366/7825/",
+    "https://www.monotaro.com/g/00497458/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/7365/7684/",
+    "https://www.monotaro.com/p/0807/1707/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/p/3506/6902/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/g/01398396/",
+    "https://www.monotaro.com/g/02600946/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/keratoprinter-aims-to-restore-vision-for-millions-with-bioprinting-technology/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.keratoprinter-project.eu/",
+    "https://revenuebase.ai/companies/3d-bioprinting-additive-manufacturing-companies/united-kingdom",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com KeratOPrinter — VoxelMatters",
+   "results": [
+    "https://note.com/fufufufujitani/n/n0553abef8044",
+    "https://note.com/sane_sorrel3767/n/nfc4a4680e981",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kanjikotoyori/n/n668ac05cedd1",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/imobie_jp/n/n6140c3ac2b32",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/luciferlove",
+    "https://note.com/tag/生徒会"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com KeratOPrinter — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/MuseeLouvre/status/2113583246034313432",
+    "https://x.com/__x",
+    "https://x.com/EricLDaugh/status/2118337487076524423",
+    "https://x.com/obua24/status/2116037294964498506",
+    "https://x.com/ChloeBailey/status/2114751478493765921",
+    "https://x.com/weirdnotwild/status/2114199180243857583"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com KeratOPrinter — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/keratoprinter_keratoprinter-horizoneurope-bioprinting-activity-7441823617526464512-dTJy",
+    "https://www.linkedin.com/posts/readily3d_horizoneu-eueic-biofabrication-activity-7508817776309088256-iDhx",
+    "https://at.linkedin.com/in/stefan-scheurer-11b810a9",
+    "https://ie.linkedin.com/in/andrew-salomon-0ba5a3296",
+    "https://www.linkedin.com/posts/voxelmatters_keratoprinter-aims-to-restore-vision-for-activity-7313124991321964544-XRYq",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://tn.linkedin.com/company/amires-s-rl/",
+    "https://es.linkedin.com/in/ana-viñas-52730872",
+    "https://pe.linkedin.com/posts/asphalion_eufunded-horizoneurope-4dbioprinting-activity-7328746248188944385-lyTt"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com KeratOPrinter — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/3dPrintingIndustry/posts/eu-backed-keratoprinter-project-to-3d-print-human-corneas-using-sustainable-biom/1070866358406949/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/VoxelMatters/posts/the-gravity-2021-3d-printer-a-new-thermal-additive-manufacturing-system-by-wemat/1671577806347671/",
+    "https://www.facebook.com/crowdhelix/posts/this-isnt-just-a-tool-for-scientists-its-a-pipeline-to-change-how-we-treat-blind/1197136965755316/",
+    "https://www.facebook.com/photo/?fbid=1332759215561777",
+    "https://www.facebook.com/FactsUnveiled.eyeplus/photos/-science-just-printed-sightfor-the-first-time-ever-scientists-have-3d-printed-hu/122182970996048893/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.youtube.com/watch?v=D7cxgFRZ5lo",
+    "https://www.asphalion.com/news/keratoprinter-website-launch/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "KeratOPrinter — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.keratoprinter-project.eu/news-events",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://www.youtube.com/watch?v=x_-Q0qXfXHg",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

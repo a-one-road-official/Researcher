@@ -1,0 +1,1008 @@
+{
+ "name": "Todoscomemos",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T20:42:25.027691+00:00",
+ "official_url": "https://todoscomemos.com/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "admin@todoscomemos.com",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "admin@todoscomemos.com",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "4. Equity Crowdfunding",
+    "value": "01-Sep-2021 $53.9K   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/todos-comemos",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Bogotá, Colombia",
+    "url": "https://startupintros.com/orgs/todos-comemos",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Más que un distribuidor: somos tu brazo comercial y operativo. Ejecución en canales, logística multitemperatura, trade marketing y tecnología en una sola operación.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Congelado, refrigerado y ambiente, con centros de distribución en las principales ciudades de Colombia y México, y control total de tu operación desde nuestro sistema propietario.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Tu producto en los anaqueles que importan",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Distribuimos y representamos marcas propias y de terceros en retail, conveniencia, farmacias, quick commerce y food service.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Producir bien es difícil. Distribuir bien es casi imposible.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "La mayoría de las marcas de alimentos que llegan a Colombia y México se estancan no por su producto, sino por todo lo que viene después de la planta.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Montar refrigeración, transporte y última milla propia consume el capital que necesitas para producir.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "El trade marketing se queda sin dueño",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Somos la solución todo-en-uno que permite a los productos locales llegar al mercado y crecer de forma exponencial.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "El primer servicio integrado de ventas y logística que permite a los productores crecer de forma exponencial en múltiples canales de venta.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "No somos tu proveedor. Somos tu socio y tu distribuidor in-house.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Los costos operativos directos son abiertos y se cobran de forma transparente al productor. Ves exactamente en qué se gasta cada peso.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "En el servicio exclusivo logístico cobramos entre el 6% y el 14% sobre las ventas, según el canal y los servicios logísticos. Sin fees de entrada, ni de listado, ni sorpresas.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Representación comercial full",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Construimos contigo una ruta de precios en conjunto, diseñada para garantizar el éxito del producto en cada canal.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Ventas, logística y trade marketing por primera vez en el mismo lugar, con un solo responsable de tu crecimiento.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Cubrimos toda la cadena: importación, distribución, comercialización, gestión comercial y trade marketing en punto de venta. Tú eliges hasta dónde nos necesitas.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Trade marketing en PDV",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Representamos tu marca en todo el país",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Nos hacemos cargo de la operación comercial completa: abrimos los canales, negociamos, ejecutamos en punto de venta y te reportamos. Tú produces, nosotros vendemos.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Trade marketing para cada canal",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Súmate a las más de 40 empresas que confían en Todos Comemos para distribuir sus productos en Colombia y México.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Empieza a crecer hoy y lanza tu producto al mercado.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Un proceso claro, con responsables y tiempos definidos desde el primer día.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Revisamos tu portafolio, estructura de costos, capacidad de producción y documentación sanitaria.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Fresh procurement made easy",
+    "url": "https://huntscreens.com/ja/products/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "More than a distributor: we are your commercial and operating arm. Channel execution, multi-temperature logistics, trade marketing and technology in a single operation.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Frozen, chilled and ambient, with distribution centers in the main cities of Colombia and Mexico, and full control of your operation from our proprietary system.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We handle everything that happens after your production facility",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Your product, on the shelves that matter",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We distribute and represent our own and third-party brands across retail, convenience, pharmacies, quick commerce and food service.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Producing well is hard. Distributing well is nearly impossible.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Most food brands arriving in Colombia and Mexico stall not because of their product, but because of everything that happens after the production facility.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Building your own refrigeration, transport and last mile burns the capital you need to produce.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Nobody owns trade marketing",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We're the one-stop solution that allows local products to reach the market, enabling producers to achieve exponential growth.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "The first integrated sales and logistic service that enables producers to grow exponentially in multiple sales channels.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We're not your provider. We're your partner and in-house distributor.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Direct operational costs are open and transparently charged to producers. You see exactly where every dollar goes.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "For the logistics-only service we charge between 6% and 14% on sales, depending on the channel and the logistics services provided. No onboarding fees, no listing fees, no surprises.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Full commercial representation",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We build a pricing roadmap together with you, designed to guarantee the product's success in every channel.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Sales, logistics and trade marketing in one same place for the first time, with a single owner of your growth.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We cover the whole chain: import, distribution, commercialization, commercial management and trade marketing at the point of sale. You choose how far you need us.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Trade marketing at POS",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We represent your brand nationwide",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We take over the entire commercial operation: we open the channels, negotiate, execute at the point of sale and report back. You produce, we sell.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Trade marketing for every channel",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Join the 40+ companies that trust Todos Comemos to distribute their products in Colombia and Mexico.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Start growing today and launch your product onto the market.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "From production facility to shelf in 4 weeks",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "But Latam also has entrepreneurs that take into account these vulnerable populations and are building solid businesses in the process. Case and point is",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "As its name subtly suggests, this enterprise wants to ensure that everyone gets to eat, regardless of whether you're the startup's customer or a hungry family.",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "There are entrepreneurs that take months, (sometimes even",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "depending on the industry) to develop a product prototype worth validating.",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "managed to build their prototype in",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "—though we don't exactly know how many users that represent.",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": ", a user can request pre-made food like pizza, lasagna,",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "It's an approach that's been tried in the United States but it's a novelty in Latin America.",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "The entrepreneurs said that through the accelerator they'll be focusing on attracting and retaining users. The experience has inspired them to think at a more global scale and build valuable connections with other founders.",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Nos encargamos de todo lo que pasa después de tu planta",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "La mayoría de las marcas de alimentos que llegan a Colombia y México se estancan no por su producto, sino por todo lo que viene después de la planta.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "De la planta al anaquel en 4 semanas",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Operamos multitemperatura: congelado, refrigerado y ambiente. Nuestra experiencia de portafolio cubre helados, congelados, refrigerados, cárnicos y proteína, snacks, listos para comer y plant based, con infraestructura diseñada para mantener la temperatura desde tu planta hasta el punto de venta.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Create, deliver and audit every order with filters by warehouse, store, channel, SKU, city and delivery date.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Every shipment monitored from the warehouse to the shelf, with confirmation at the point of sale.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "A frozen food manufacturer arrived in Colombia with no commercial operation, no cold logistics and no channel presence. Within six months they were leading their category, selling nationwide in more than 1,000 points of sale, with controlled inventory and logistics costs visible day by day.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We run multi-temperature: frozen, chilled and ambient. Our portfolio expertise covers ice cream, frozen foods, refrigerated products, meat and protein, snacks, ready to eat and plant based, with infrastructure designed to hold temperature from your production facility to the point of sale.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Operamos como una extensión de tu equipo comercial y logístico, no como un intermediario más en la cadena.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Si ya tienes tu equipo comercial, usas únicamente nuestra infraestructura: almacenamiento multitemperatura, transporte y última milla con cadena de frío.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "¿Qué tipo de productos aceptan?",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Operamos en Colombia y México con 8 centros de distribución. En Colombia: Bogotá, Tocancipá, Medellín, Cali y Barranquilla, con cobertura nacional, cadena de frío y entregas en 24 horas. En México: Ciudad de México, Monterrey y Guadalajara.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "No. Trabajamos como tu distribuidor in-house, es decir, como una extensión de tu equipo. Puedes mantener tus clientes y canales actuales mientras nosotros abrimos y operamos los canales nuevos.",
+    "url": "https://www.todoscomemos.com/es",
+    "pass": 1
+   },
+   {
+    "quote": "Most food brands arriving in Colombia and Mexico stall not because of their product, but because of everything that happens after the production facility.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "A frozen food manufacturer arrived in Colombia with no commercial operation, no cold logistics and no channel presence. Within six months they were leading their category, selling nationwide in more than 1,000 points of sale, with controlled inventory and logistics costs visible day by day.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We operate in Colombia and Mexico with 8 distribution centers. In Colombia: Bogotá, Tocancipá, Medellín, Cali and Barranquilla, with nationwide coverage, cold chain and 24-hour deliveries. In Mexico: Mexico City, Monterrey and Guadalajara.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "62 employees",
+    "url": "https://www.techstartupslist.com/startup/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "With the mission of improving people's lives in LATAM by enabling pre-made food access to millions of people, TodosComemos is pushing forward the actual barriers of the industry in LATAM by:",
+    "url": "https://www.techstartupslist.com/startup/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "To view Todos Comemos’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos has 38 total employees.",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "What is Todos Comemos’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Todos Comemos is",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "With the mission of improving people's lives in LATAM by enabling pre-made food access to millions of people, TodosComemos is pushing forward the actual barriers of the industry in LATAM by:",
+    "url": "https://startupintros.com/orgs/todos-comemos",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TodosComemos - 2026 Company Profile, Funding | The Company Check — TodosComemos offers products and services including Integrated Sales Platform, Logistics Service, and ERP Solution. Its focus areas include Food and Agriculture Tech, Food Tech, Internet First Restaurant and Pre prepared Ready to Heat Meals.",
+    "url": "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos — admin@todoscomemos.com ... +57 302 845 5466 Escríbenos por WhatsApp → ... Nombre de la empresa",
+    "url": "https://www.todoscomemos.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos: ラテンアメリカの食生活を進化させる — TodosComemosは、ラテンアメリカの調理済み食品業界を改革し、健康的な食事を簡単に提供します。 先端技術を用いた調理済み食品と、サブスクリプションサービスで、生活を豊かにします。",
+    "url": "https://huntscreens.com/ja/products/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos 2026 Company Profile: Valuation, Funding ... — Contact Information Website www.todoscomemos.com Ownership Status Privately Held (backing) Financing Status",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos - Y Combinator — Building TodosComemos to transform the food industry in LATAM taking it from 1 to 1000 in the premade food spectrum. Formerly Co-founder & CEO of enlau.co now Ubanku, Delirato, El Cotero.",
+    "url": "https://www.ycombinator.com/companies/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos - 2026 Company Profile, Funding | The Company Check — TodosComemos offers products and services including Integrated Sales Platform, Logistics Service, and ERP Solution. Its focus areas include Food and Agriculture Tech, Food Tech, Internet First Restaurant and Pre prepared Ready to Heat Meals. Its legal entity is WE ALL EAT CORPORATION.",
+    "url": "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos (YC S20) Updates, Team, and Funding Progress ... — With TodosComemos, pre-made ingredients, customers can prepare at home thousands of different meals in less than 15 minutes, paying on average 2USD per ...",
+    "url": "https://wefunder.com/todos.comemos",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos | Food distribution and refrigerated logistics ... — Join the 40+ companies that trust Todos Comemos to distribute their products in Colombia and Mexico.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos | Distribución de alimentos y logística ... — Congelado, refrigerado y ambiente, con centros de distribución en las principales ciudades de Colombia y México, y control total de tu operación desde nuestro sistema propietario. Vendemos, distribuimos y ejecutamos tu marca en el punto de venta, con visibilidad total de la operación.",
+    "url": "https://www.todoscomemos.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos brings social impact to Y Combinator - Contxto — Aug 7, 2020 · Case and point is Colombian TodosComemos, which was recently accepted into Y Combinator 's Summer 2020 Batch. As its name subtly suggests, this enterprise wants to ensure that everyone gets to eat, regardless of whether you're the startup's customer or a hungry family.",
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos — Taking from 1 to 100 the premade food ... — With the mission of improving people's lives in LATAM by enabling pre-made food access to millions of people, TodosComemos is pushing forward the actual barriers of the industry in LATAM by: 1.",
+    "url": "https://www.techstartupslist.com/startup/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "How Todos Comemos is Revolutionizing Food Access in Latin America — Todos Comemos revolutionizes Latin America's food industry by providing access to healthy pre-made meals and empowering brands to reach millions more customers.",
+    "url": "https://reforgers.com/startups/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos - 2026 Company Profile, Funding | The Company Check — TodosComemos is a Consumer company based in Bogota (Colombia) founded in 2020 by Andres Alfonso Franco Maestre and Mateo Cardenas. Pre-prepared meals are delivered via online platform by TodosComemos. TodosComemos has raised $150 thousand across 1 funding round from investors including Y Combinator.",
+    "url": "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos: Revenue, Worth, Valuation & Competitors 2025 — TodosComemos has an estimated revenue of $9.3M, and 43 employees. Alternatives of TodosComemos are Schmieding Produce, Skratch Labs and MycoTechnology...",
+    "url": "https://compworth.com/company/todoscomemos",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Todos Comemos. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Todos Comemos? Todos Comemos was founded in 2020 by Santiago Espinosa (Founder) and Mateo Cardenas Huertas (Founder). How much funding has Todos Comemos raised? Todos Comemos has raised $1.2M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "Todos Comemos Revenue 2024: $1M Est. ARR, $3M Valuation — Apr 10, 2025 · Todos Comemos 2024 estimated revenue: $1M ARR. Valuation: $3M. 62 employees. Founded 2020. HQ: Colombia Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/todoscomemos.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We sell, distribute and execute your brand at the point of sale, with full visibility of the operation.",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "We represent your brand nationwide",
+    "url": "https://www.todoscomemos.com/en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We track 2,877 open engineering roles on startup careers boards right now. Get one email a week with the new ones. No login, unsubscribe anytime.",
+    "url": "https://www.techstartupslist.com/startup/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "Double opt-in. One email a week, only when there's something new.",
+    "url": "https://www.techstartupslist.com/startup/todos-comemos",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Todos Comemos - LinkedIn Todos Comemos | 3322 seguidores en LinkedIn. www.todoscomemos.com 🇨🇴 🇲🇽 | Foodtech líder en el desarrollo de la categoría de alimentos congelados en Colombia y la región.",
+    "url": "https://co.linkedin.com/company/todoscomemos",
+    "pass": 3
+   },
+   {
+    "quote": "Mateo Cardenas Huertas - Todos Comemos | LinkedInTodosComemos: crearon un prototipo en 5 días y lograron ...Nicolás García Del Pino - Todos Comemos | LinkedIn#sialparis2026 #todoscomemos #desarrollodenegocios - LinkedIn#magnumcolombia #todoscomemos #somosheladeros #icecreamvibes ...Nicolás García Del Pino - Todos Comemos | LinkedIn Experiencia: Todos Comemos · Educación: Y Combinator · Ubicación: ",
+    "url": "https://co.linkedin.com/in/mateocardenas",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos: crearon un prototipo en 5 días y lograron ... Ahora Todos Comemos se suma a la familia. Vamos a cambiar la experiencia de las personas a la hora de cocinar, mientras juntos ayudamos a los demás.",
+    "url": "https://www.linkedin.com/posts/mateocardenas_todoscomemos-crearon-un-prototipo-en-5-días-activity-6686820730946093056-fExp",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolás García Del Pino - Todos Comemos | LinkedIn Experience: Todos Comemos · Education: Universidad Sergio Arboleda · Location: Mexico City Metropolitan Area · 500+ connections on LinkedIn. View Nicolás García Del Pino’s profile on...",
+    "url": "https://mx.linkedin.com/in/salesman12/en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TodosComemos - FacebookTodosComemos - Conoce nuestros servicios en Todos... | FacebookCNM - ¡Atención beneficiarios de Comemos Todos! Si ...TodosComemos - Ya está aquí nuestra nueva plataforma MI ...En tu mes y todo el año despreocúpate de la cocina con un ...Atención beneficiari@s del... - Gobierno de Quintana Roo ...⚠️Atenció... - Secretaría de Desarrollo Social de Quintana ... Jul 25, 2022 · Ya",
+    "url": "https://www.facebook.com/TodosComemos/",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos - Conoce nuestros servicios en Todos... | Facebook Conoce nuestros servicios en Todos Comemos!🙌🏼 Nuestro objetivo es hacerte la vida más fácil. Haz click en el link de nuestra bio para más información...",
+    "url": "https://www.facebook.com/TodosComemos/posts/conoce-nuestros-servicios-en-todos-comemosnuestro-objetivo-es-hacerte-la-vida-má/564587928572163/",
+    "pass": 3
+   },
+   {
+    "quote": "TodosComemos - Ya está aquí nuestra nueva plataforma MI ... May 10, 2022 · TodosComemos May 10, 2022 Ya está aquí nuestra nueva plataforma MI MENÚ🤩 La forma de comer en casa fácil y rápido a tan solo un click. Ingresa al link de nuestra bio y conoce acerca de",
+    "url": "https://www.facebook.com/TodosComemos/posts/ya-está-aquí-nuestra-nueva-plataforma-mi-menúla-forma-de-comer-en-casa-fácil-y-r/545116073852682/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.todoscomemos.com/es",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.todoscomemos.com/es",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/todos-comemos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://wefunder.com/todos.comemos",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.todoscomemos.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.todoscomemos.com/es",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techstartupslist.com/startup/todos-comemos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/todos-comemos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wefunder.com/todos.comemos",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/todoscomemos",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/459128-80",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/todos-comemos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://co.linkedin.com/company/todoscomemos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://co.linkedin.com/in/mateocardenas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mateocardenas_todoscomemos-crearon-un-prototipo-en-5-días-activity-6686820730946093056-fExp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/salesman12/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TodosComemos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TodosComemos/posts/conoce-nuestros-servicios-en-todos-comemosnuestro-objetivo-es-hacerte-la-vida-má/564587928572163/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TodosComemos/posts/ya-está-aquí-nuestra-nueva-plataforma-mi-menúla-forma-de-comer-en-casa-fácil-y-r/545116073852682/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Todoscomemos 日本 導入",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "https://www.todoscomemos.com/",
+    "https://huntscreens.com/ja/products/todos-comemos",
+    "https://pitchbook.com/profiles/company/459128-80",
+    "https://www.ycombinator.com/companies/todos-comemos",
+    "https://www.todoscomemos.com/en",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Todoscomemos 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://str.toyokeizai.net/databook/dbs_kaigaishin_country/",
+    "https://www.nokia.com/ja_jp/about-us/data/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Todoscomemos Japan",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "https://wefunder.com/todos.comemos",
+    "https://www.todoscomemos.com/en",
+    "https://www.todoscomemos.com/",
+    "https://sebien.qroo.gob.mx/comemostodasytodos/",
+    "https://www.ycombinator.com/companies/todos-comemos",
+    "https://pitchbook.com/profiles/company/459128-80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Todoscomemos manufacturing customer case study",
+   "results": [
+    "https://contxto.com/en/colombia/todos-comemos-social-impact-y-combinator/",
+    "https://www.techstartupslist.com/startup/todos-comemos",
+    "https://reforgers.com/startups/todos-comemos",
+    "https://wefunder.com/todos.comemos",
+    "https://www.todoscomemos.com/en",
+    "https://www.todoscomemos.com/",
+    "https://www.ycombinator.com/companies/todos-comemos"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Todoscomemos white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Todoscomemos founded funding employees revenue",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "https://compworth.com/company/todoscomemos",
+    "https://pitchbook.com/profiles/company/459128-80",
+    "https://startupintros.com/orgs/todos-comemos",
+    "https://getlatka.com/companies/todoscomemos.com",
+    "https://seedtable.com/companies/todos-comemos",
+    "https://www.emis.com/php/company-profile/CO/Todos_Comemos_Sas_en_13493276.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Todoscomemos",
+   "results": [
+    "https://note.com/",
+    "https://note.com/samueldorino/n/n737d46750bb2",
+    "https://note.com/fasmcckd/n/nabb30d694401",
+    "https://note.com/sankaku_tech/n/nd2b204116ac4",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kannsou_dustbox/n/n560c8384d4bf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Todoscomemos",
+   "results": [
+    "https://x.com/hashtag/ComemosTodos",
+    "https://x.com/EnBogaMx/status/2030055235536728133",
+    "https://x.com/ReporterosMX_/status/2044585667695612213",
+    "https://x.com/elheraldoqroo/status/2055377680208699544",
+    "https://x.com/GobQuintanaRoo/status/2031074582686208377",
+    "https://x.com/GobQuintanaRoo/status/1905699765909881003",
+    "https://x.com/MaraLezama/status/2092998485914104021"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Todoscomemos",
+   "results": [
+    "https://co.linkedin.com/company/todoscomemos",
+    "https://co.linkedin.com/in/mateocardenas",
+    "https://www.linkedin.com/posts/mateocardenas_todoscomemos-crearon-un-prototipo-en-5-días-activity-6686820730946093056-fExp",
+    "https://mx.linkedin.com/in/salesman12/en",
+    "https://es.linkedin.com/posts/david-cardenas-huertas_sialparis2026-todoscomemos-desarrollodenegocios-activity-7520879811788021760-8Tlw",
+    "https://es.linkedin.com/posts/todoscomemos_magnumcolombia-todoscomemos-somosheladeros-activity-7401393879930859520-obsA",
+    "https://mx.linkedin.com/in/salesman12"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Todoscomemos",
+   "results": [
+    "https://www.facebook.com/TodosComemos/",
+    "https://www.facebook.com/TodosComemos/posts/conoce-nuestros-servicios-en-todos-comemosnuestro-objetivo-es-hacerte-la-vida-má/564587928572163/",
+    "https://www.facebook.com/Canal8QuintanaRooMX/posts/-atención-beneficiarios-de-comemos-todossi-formas-parte-del-programa-comemos-tod/900417135914877/",
+    "https://www.facebook.com/TodosComemos/posts/ya-está-aquí-nuestra-nueva-plataforma-mi-menúla-forma-de-comer-en-casa-fácil-y-r/545116073852682/",
+    "https://www.facebook.com/TodosComemos/videos/en-tu-mes-y-todo-el-año-despreocúpate-de-la-cocina-con-un-plan-de-alimentación-q/482944676659652/",
+    "https://www.facebook.com/GobQuintanaRoo/posts/atención-beneficiaris-del-programa-comemos-todsles-invitamos-a-recoger-su-paquet/1230385379132431/",
+    "https://www.facebook.com/BienestarQRoo/posts/️atención-beneficiaris-del-programa-comemos-tods-edición-2025-te-invitamos-a-rec/1253098936863475/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Todoscomemos note 社長",
+   "results": [
+    "https://www.cbinsights.com/company/todoscomemos/people",
+    "https://www.thecompanycheck.com/company/b/todoscomemos/vlclo6btkebqhglqm",
+    "https://torre.ai/santiago",
+    "https://www.todoscomemos.com/",
+    "https://theorg.com/org/todos-comemos/teams/leadership-team",
+    "https://mentionfox.com/funding/yc-todos-comemos",
+    "https://co.linkedin.com/in/mateocardenas"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Todoscomemos X 投稿",
+   "results": [
+    "https://www.todoscomemos.com/",
+    "https://linktr.ee/todoscomemos",
+    "https://www.instagram.com/todoscomemoscol/",
+    "https://www.todoscomemos.com/en",
+    "https://x-sou.com/ja",
+    "https://51chguac.cc/archives/contribute/",
+    "https://www.twidouga.net/jp/ranking_t1.php"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

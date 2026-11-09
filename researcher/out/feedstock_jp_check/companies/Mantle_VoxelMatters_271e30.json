@@ -1,0 +1,550 @@
+{
+ "name": "Mantle — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:26:36.498268+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInTess Boissonneault - Freelance Content Writer, Editor | LinkedInMatilde Francioni - Sales Account Manager | VoxelMatters ...Francesco Pulimeni - Co-founder and CRO at VoxelMatters ...Mantle secures $20 Million in Series C funding | VoxelMatters VoxelMatters is a leading market research and media company specializing in the additive manufacturing",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   },
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInMatilde Francioni - Sales Account Manager | VoxelMatters ...Francesco Pulimeni - Co-founder and CRO at VoxelMatters ...Mantle secures $20 Million in Series C funding | VoxelMatters Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ connections on LinkedIn. View ",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters - FAME 3D will take up the mantle from Aleph...FacebookVoxelMatters on Reels - FacebookVoxelMatters Early H3C Unboxing - FacebookVoxelMatters spent two months... - Prusa Research 3D printers ...Her Mantle Matters - Facebook VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter FAME 3D will take up the mantle from A",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - FAME 3D will take up the mantle from Aleph... FAME 3D will take up the mantle from Aleph Objects Inc, carrying on its tradition of open sourced 3D printing. The acquisition means Lulzbot 3D printer production will continue. #3dprinting...",
+    "url": "https://www.facebook.com/VoxelMatters/posts/fame-3d-will-take-up-the-mantle-from-aleph-objects-inc-carrying-on-its-tradition/1336286146543507/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/angstrom-group-acquires-mantle-to-expand-industrial-3d-printing-for-toolmaking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mantle3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bybyjapan.com/ja/relx-%E9%9B%BB%E5%AD%90%E3%82%BF%E3%83%90%E3%82%B3-%E3%83%8B%E3%82%B3%E3%83%81%E3%83%B3%E5%85%A5%E3%82%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sansei-vietnam.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/42007004",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vI2pmP34o7oGxLrWsWUc6DqP2rZwUfcFEfATXZRs3ILNgxk-geg",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%9A%E3%83%BC%E3%82%B8/149/?%2FPG99vhs%2F",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.sunlu.com/ja/collections/3d-printer-filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vL9ZtuF4Y4nMv_za1BBfU8I1HQ_Lzwp9ermDgVkG9eqWuqlakmU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/321903/tier-1-auto-supplier-angstrom-group-acquires-3d-printed-tooling-specialist-mantle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/321903/tier-1-auto-supplier-angstrom-group-acquires-3d-printed-tooling-specialist-mantle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sellercentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/2351/6788/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/mantle",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Mantle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mantlesecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cbinsights.com/company/voxelmatters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/fame-3d-will-take-up-the-mantle-from-aleph-objects-inc-carrying-on-its-tradition/1336286146543507/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mantle — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/angstrom-group-acquires-mantle-to-expand-industrial-3d-printing-for-toolmaking/",
+    "https://mantle3d.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/",
+    "https://3dprint.com/321903/tier-1-auto-supplier-angstrom-group-acquires-3d-printed-tooling-specialist-mantle/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://mantle3d.com/about/",
+    "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "https://www.voxelmatters.directory/company/mantle/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Mantle — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://sansei-vietnam.com/",
+    "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "https://www.fritzhansen.com/ja/Categories/By-Series/PK11/pk11",
+    "https://kimini.online/blog/archives/39927",
+    "https://luxuchrono.com/buy-rolex-abroad/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.instagram.com/antenna_ts/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mantle — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://creator.holoearth.com/shop/products/42007004",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vI2pmP34o7oGxLrWsWUc6DqP2rZwUfcFEfATXZRs3ILNgxk-geg",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%9A%E3%83%BC%E3%82%B8/149/?%2FPG99vhs%2F",
+    "https://www.brule.co.jp/materials.html?srsltid=AYCX9vIAEhRfKShiCB__gleLiBjeDGOmVxQ-hpr5wvkhgOR9uqIT84g8",
+    "https://sunstella.co.jp/collections/material-list?srsltid=AYCX9vIGgcvbv_ZP_mkJILkeuqGzqXZnFCKXT8TlezRVhGUQEtscbthF",
+    "https://ja.aliexpress.com/item/1005009223580296.html",
+    "https://eleshop.jp/shop/c/c663306/?srsltid=AYCX9vLOZmj_7ZwRq_TRBh9tqmnT6EAi8VBC7bbFFTo7HhS62i_QVBbV",
+    "https://marche.n-pri.jp/products/c9652be3-c74c-11f0-9e9",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mantle — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://store.sunlu.com/ja-jp/collections/3d-printer-filament",
+    "https://skhonpo.com/collections/filament",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vL9ZtuF4Y4nMv_za1BBfU8I1HQ_Lzwp9ermDgVkG9eqWuqlakmU",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://shop.exmatelab.com/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Mantle — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://3dprint.com/321903/tier-1-auto-supplier-angstrom-group-acquires-3d-printed-tooling-specialist-mantle/",
+    "https://mantle3d.com/",
+    "https://www.linkedin.com/company/mantle3d",
+    "https://www.voxelmatters.report/methodology/",
+    "https://nano3dprint.com/2023/06/13/nano3dprint-announces-new-japanese-distribution-channel/?srsltid=AYCX9vL7QIZFjNMwalHZIU3Xek2aajb4h94xiz69xS_dC-BWmqcL8W9y",
+    "https://www.spectrumplastics.com/about/news-events/mantle-metal-3d-printing/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Mantle — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://3dprint.com/321903/tier-1-auto-supplier-angstrom-group-acquires-3d-printed-tooling-specialist-mantle/",
+    "https://www.tctmagazine.com/automotive-supplier-angstrom-group-acquires-mantle/",
+    "https://mantle3d.com/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.youtube.com/watch?v=3S6B935deoI",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 24
+  },
+  {
+   "query": "site:amazon.co.jp Mantle — VoxelMatters",
+   "results": [
+    "https://sellercentral.amazon.co.jp/",
+    "https://affiliate.amazon.co.jp/",
+    "https://relay.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.amazon.co.jp/ダイヤモンドZAi-ザイ-2026年-11月号-10年配当株／人気の株500＆米国株150激辛診断／最新理論株価/dp/B0HCNBGGG6",
+    "https://www.amazon.co.jp/gp/css/homepage.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Mantle — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/login",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/k/store/非接触+ドアオープナー/",
+    "https://www.monotaro.com/s/c-23764/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/p/3465/8723/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Mantle — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://compworth.com/company/mantle",
+    "https://growjo.com/company/Mantle",
+    "https://www.linkedin.com/company/mantlesecurity",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles_new/eos-lead-list.html",
+    "https://www.voxelmatters.com/eos-and-blt-lead-list-of-top-10-metal-am-companies-2025-by-revenue/",
+    "https://www.linkedin.com/company/stori-mantel",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.lse.co.uk/rns/MNTL/full-year-results-1f0iag922n0kgi7.html",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Mantle — VoxelMatters",
+   "results": [
+    "https://note.com/tag/ループエンジニアリング",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mantle — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Mantle_Official/status/2118720409990533357",
+    "https://x.com/shalarsha2/status/2028602734933577887",
+    "https://x.com/0xMantle",
+    "https://x.com/Mantle_Official",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/isaiahrmartin/status/2117871814625972663"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mantle — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/voxelmatters_mantle-reports-five-new-customer-installations-activity-7307725003863515155-DRhn",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/posts/voxelmatters_mantle-secures-20-million-in-series-c-funding-activity-7217203497497174017-4LeJ"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mantle — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/fame-3d-will-take-up-the-mantle-from-aleph-objects-inc-carrying-on-its-tradition/1336286146543507/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/hermantlematters/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mantle — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.voxelmatters.com/angstrom-group-acquires-mantle-to-expand-industrial-3d-printing-for-toolmaking/",
+    "https://www.voxelmatters.com/mantle-reports-five-new-customer-installations-of-its-p200-3d-printers/",
+    "https://note.com/cybozu_design/n/nb9cc05288638",
+    "https://note.com/tag/社長ブログ",
+    "https://www.facebook.com/hiroaki.arai.315/",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.voxelmatters.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Mantle — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Mantle_Official/status/2118720409990533357",
+    "https://www.voxelmatters.com/",
+    "https://x.com/0xMantleJP/status/2090346310666764360",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://x.com/Mantle_Official/status/2119777107299742022",
+    "https://www.voxelmatters.report/product/metal-am-market-2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索15回）"
+ }
+}

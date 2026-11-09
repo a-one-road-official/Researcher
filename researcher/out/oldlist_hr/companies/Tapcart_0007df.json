@@ -1,0 +1,1643 @@
+{
+ "name": "Tapcart",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AI送信済み",
+ "researched_at": "2026-11-09T20:29:56.171613+00:00",
+ "official_url": "https://www.tapcart.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$50M",
+    "url": "https://getlatka.com/companies/tapcart",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "23-Jul-2019 $4M $5.1M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/226949-77",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "31-May-2017 $1.1M $1.1M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/226949-77",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "5,035,243 $0.000100 8% $0.79 $0.79 1x $0.79 14.43%",
+    "url": "https://pitchbook.com/profiles/company/226949-77",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "3,140,887 $0.000100 8% $0.37 $0.37 1x $0.37 9%",
+    "url": "https://pitchbook.com/profiles/company/226949-77",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tapcart AI combines shopper behavior, user attributes, and data from over 100M orders processed by Tapcart merchants to create the best 1:1 experience for every shopper. Behind it is your App Agent, Tapcart's proactive AI. It watches your app around the clock, personalizes every push, feed, and offer, and brings you the next move, ready to approve.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your always-on growth partner. App Agent spots trends and anomalies as they happen, builds Smart Segments, and delivers a daily action plan with campaigns and assets ready to approve in one click.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Place your products or model images into curated environments instantly, and add them right into your app — no photoshoots, no delays.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate busy work with automated workflows that detect campaigns, sync website content, and build blocks for you.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With new loyalty centers, limitless design flexibility, and upgraded cutting edge features like OTP, custom onboarding, and faster apps, your mobile storefronts have never looked or functioned better.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conditional App Content",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The All-New, AI-Powered Marketing Suite",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach customers in ways you never thought possible, with push notifications, in-app pop-overs, personalized offers, inbox, and more. Tapcart's marketing suite covers every base. Upgrade to Tapcart AI’s App Agent and you don't have to work out what to send or who to send it to: it recommends the campaign, finds the audience, and has everything ready for your approval.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Processing 30% of revenue for the fastest growing Shopify brands.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in-app user retention",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The team has been amazing to work with and keeps us updated on new product releases as well as works closely with us to build out features for our ever-evolving needs.”",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Manager",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Push notifications are free dollars. It increases loyalty and retention, and it has introduced a new type of consumer for the BÉIS brand.”",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I probably spend about an hour and a half a week in Tapcart. I write the push, get a quick thumbs-up, schedule it, and we’re good—no creative, no 3 a.m. launches.”",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart Partner Program",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart is the mobile commerce platform of leading DTC brands, powering mobile apps that have processed over $6.6+ Billion in ecommerce sales. With a majority of ecommerce traffic on mobile devices, Tapcart helps brands meet consumers’ digital expectations by elevating the mobile customer experience and turning casual consumers into brand advocates. Ready to join the Tapcart ecosystem?",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Why join our Partner Program?",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Profit-Sharing Incentives",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure heightened visibility and expanded reach for your business with Tapcart's directory listing and co-marketing opportunities.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new revenue streams by leveraging referrals for service projects, enabling you to capitalize on opportunities and grow your business.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Training & Development",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your Tapcart expertise with on-demand training and development resources to help you excel in your partnership.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart never fails to predictably drive revenue for our Shopify Plus clients. In a time of data uncertainty, and rising ad costs, Tapcart stands out as a must-have conversion tactic.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart never fails to predictably drive revenue for our Shopify Plus clients. In a time of data uncertainty, and rising ad costs, Tapcart stands out as a must-have conversion tactic.\"",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to join our Agency Partner Program?",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "First, apply for the program. Once you’re accepted, you’ll be connected with your partner manager and get access to a folder of Tapcart enablement materials including pre-written emails, social assets, and more.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Share us with your Shopify ecomm network to help us spread the mobile-app love and track everything in your partner dashboard.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "App exclusive products & collections",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Constructor is the AI-driven ecommerce product search & discovery platform",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Omnichannel Marketing & Search",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Drive in–app conversions and retention with the AI–powered marketing platfo",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize checkout conversions with predictive search behavior.",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Scale personalized lifecycle marketing across every customer channel",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Engage in a seamless shoppable video commerce experience",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "A mobile omnichannel loyalty program",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Collect and display product reviews and ratings to build trust",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Capture Email & SMS leads through pop ups and web experiences that convert",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "B2C CRM and marketing automation for retail and ecommerce brands",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your sales with Shoppable videos and Live stream shopping.",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "A loyalty program that goes beyond points and rewards",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Drive immediate revenue with on-site video",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Stream 3D content without limits",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Provide reliable delivery estimates in your app with Narvar’s Ship",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your shipping problems into profit.",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Sell earlier platform that takes the headache out of pre-order operations",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce support costs and increase revenue with package protection, tracking",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Interactive shoppable videos to boost engagement",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Create your own mobile-optimized loyalty and rewards program",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "In-app referral marketing tailored to your brand’s identity and goals",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Create shoppable and interactive videos without impacting speed",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Create interactive shoppable video experiences",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Send Email/SMS/Mobile Push alerts for back in stock products",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Build a customizable, retention-driving loyalty program",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Dominate BFCM with proven strategies that increase customer spend. Get the data.",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "LSKD's bold app marketing strategy drives 40% of BFCM sales",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Princess Polly sees a 98.4% in-app user retention rate",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile App Marketing Resources",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the latest in retention, customer experience, and mobile app marketing",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition + Retention",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new paths to integration, revenue opportunities, and co-marketing benefits",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Processing 30% of revenue for the fastest growing Shopify brands.",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "higher revenue per session than web",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Having the app lets me be more aggressive on acquisition because it’s a reliable & efficient sales channel that increases our MER.\"",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hans Harris,",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "higher revenue per session on app vs. web",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "higher revenue per session",
+    "url": "https://www.tapcart.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock a range of incentives, including revenue sharing, spiffs, and various other rewards, to maximize your earnings potential with Tapcart",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new revenue streams by leveraging referrals for service projects, enabling you to capitalize on opportunities and grow your business.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Chronos is a big fan of Tapcart! We use Tapcart to help our brands build a brand new revenue channel while creating stronger customer relationships. Brands that want to win the DTC game cannot afford to ignore Tapcart.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart never fails to predictably drive revenue for our Shopify Plus clients. In a time of data uncertainty, and rising ad costs, Tapcart stands out as a must-have conversion tactic.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Chronos is a big fan of TapCart! We use TapCart to help our brands build a brand new revenue channel while creating stronger customer relationships. Brands that want to win the DTC game cannot afford to ignore TapCart.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart never fails to predictably drive revenue for our Shopify Plus clients. In a time of data uncertainty, and rising ad costs, Tapcart stands out as a must-have conversion tactic.\"",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Drive immediate revenue with on-site video",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Commerce Experience Platform helping brands increase engagement and revenue",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Automate returns. Retain revenue with incentivized store credit/exchanges.",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Loyalty and referrals platform for Shopify created to drive revenue",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce support costs and increase revenue with package protection, tracking",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Where intent turns into revenue with The Wishlist",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Send unlimited push notifications to engage loyal customers and drive revenue",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition + Retention",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new paths to integration, revenue opportunities, and co-marketing benefits",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "See how Tapcart drives more revenue without adding headcount",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Send unlimited, high-converting push notifications that drive repeat purchases and boost mobile revenue.",
+    "url": "https://www.tapcart.com/product/push-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "A refined, on-brand flow with saved fit and favorites, loyalty wallet, and one-tap checkout concentrates high-intent traffic in your app—lifting CVR/AOV and revenue per session beyond mobile web while protecting full-price positioning.",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart AI merchandises from real behavior and sends thousands of one-to-one push messages in seconds—no manual lists or creative assembly—so you acquire, convert, and retain more with less team effort and lower reacquisition cost.",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Push meets customers on the home screen with timely, on-brand alerts—accelerating sell-through, reducing reliance on paid reacquisition, and giving you a dependable way to bring shoppers back.",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "of total revenue via mobile app",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "“50% of our revenue comes from repeat customers. Our app was an investment to nurture the second, third, and fourth purchases and continue that customer life cycle.”",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Our app customers have a unique relationship with the brand. It lives on their phone, becomes part of their routine, and creates a level of stickiness that’s hard to replicate through other channels.”",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Get the data from 120M shoppers and $31.5B in revenue that proves that launching a mobile app adds incremental revenue.",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Launch an on-brand app that lifts conversion, AOV, and repeat revenue",
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your Shopify store into a mobile app in minutes and generate revenue hands-free.",
+    "url": "https://www.tapcart.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "The solution? Repeat revenue through retention with an app.",
+    "url": "https://www.tapcart.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "Engage your shoppers on-demand and see instant spikes in revenue with cost-free push notifications.",
+    "url": "https://www.tapcart.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile apps increase retention, order frequency, and lifetime value by putting repeat revenue on autopilot.",
+    "url": "https://www.tapcart.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "The solution? Repeat revenue through a channel designed to convert on mobile.",
+    "url": "https://www.tapcart.com/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "See why Art of Tea's revenue-per-session is",
+    "url": "https://www.tapcart.com/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly reach your audience on the lock screen of their phones and see immediate surges in revenue and subscriptions.",
+    "url": "https://www.tapcart.com/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Not to get all jargon-y on you, but mobile apps increase heavy hitters like order frequency and lifetime value by putting repeat revenue on autopilot.",
+    "url": "https://www.tapcart.com/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "The solution? Repeat revenue through a channel designed to convert on mobile.",
+    "url": "https://www.tapcart.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "With cost-free push notifications, you can instantly notify your audience with branded messages and see immediate revenue surges.",
+    "url": "https://www.tapcart.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Wellness requires maintenance. Mobile apps increase order frequency and lifetime value by putting repeat revenue and healthy choices on autopilot.",
+    "url": "https://www.tapcart.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "See how top Shopify brands like BEIS, Credo, Princess Polly, and Culture Kings use Tapcart to increase repeat purchases, deepen loyalty, and turn mobile into their highest-performing revenue channel.",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How ATTN and Midnight Hour Drove a 95% Revenue Surge Through App-First Gamification",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Credo Beauty Hit a 6-Month Revenue Goal in 2 Months with a Tapcart Mobile App",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The Oodie’s MER strategy: How adding a mobile app drove new revenue streams",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "BrüMate’s mobile app: A strategic sales and marketing channel for resilient revenue growth",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Type One Style proves the value of a mobile app in a niche market — with 204% higher revenue per session",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How RipNDip uses its app to drive revenue with their loyal fanbase",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Patta surged revenue 8x in two hours with push notifications",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "higher revenue per session than web",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re not this fast fashion acquisition brand that's going out there trying to spend boatloads of cash to get new customers in every week. We want to develop our community — and that comes from executing well-planned out marketing campaigns and listening to what customers want.”",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "biggest re-engagement and acquisition channels were Meta and email. Prior to building their app, Meta ads were the driving force for the business. However, these channels had limitations, like rising costs and diminishing returns, making it difficult to grow their customer base. They needed a more efficient, direct, and cost-effective channel to engage and acquire customers.",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "LSKD’s app launch generates 35% of total revenue in three months",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "How LSKD created an immediate revenue spike in two months",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "The app launch was a resounding success. LSKD’s total revenue increased by 32.5% in the app’s first month and 45.3% in the second month after launch. Despite selling its products online for over ten years, LSKD’s app generated 35% of its total revenue in just three months.",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "So, after a few hours, they sent out a push notification promoting a few deep-discounted, high-selling items, and they saw an instant revenue increase.",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "of total US revenue comes from app",
+    "url": "https://www.tapcart.com/case-studies/beis",
+    "pass": 1
+   },
+   {
+    "quote": "“We want to be where the consumer is, but we also want to be where we think the consumer is going to be in the future… And so I thought of introducing a mobile application not just as another revenue channel for us, but also to introduce an additional way for us to have an experience for our consumers. A two-way conversation. It was kind of a no-brainer”",
+    "url": "https://www.tapcart.com/case-studies/beis",
+    "pass": 1
+   },
+   {
+    "quote": "“The metrics speak for themselves,” Julie said. “In terms of the engagement rates and in the repeat purchase rates that we see from the mobile application in expanding our reach and diversifying our acquisition strategies.”",
+    "url": "https://www.tapcart.com/case-studies/beis",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Tapcart Partner Program",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Become an agency partner",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Browse agency partners",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Why join our Partner Program?",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to join our Agency Partner Program?",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "In-app referral marketing tailored to your brand’s identity and goals",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "The AI size-and-fit solution for your shoppers, your teams, your brand",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Browse Agency Partners",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "tailored to your brand",
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "pass": 1
+   },
+   {
+    "quote": "Lean into your brand look and feel",
+    "url": "https://www.tapcart.com/product/push-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "A mobile storefront as holistic as your brand.",
+    "url": "https://www.tapcart.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to create a high-performing mobile experience that reflects your brand’s identity and values?",
+    "url": "https://www.tapcart.com/case-studies/olukai",
+    "pass": 1
+   },
+   {
+    "quote": "Tapcart is a white-label mobile app solution for ecommerce. There will be no Tapcart branding in your app.",
+    "url": "https://www.tapcart.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Agency Partner",
+    "url": "https://www.tapcart.com/community",
+    "pass": 1
+   },
+   {
+    "quote": "Browse Agency Partners",
+    "url": "https://www.tapcart.com/community",
+    "pass": 1
+   },
+   {
+    "quote": "tailored to your brand",
+    "url": "https://www.tapcart.com/community",
+    "pass": 1
+   },
+   {
+    "quote": "Set up your list of authorized agencies",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "AppsFlyer Partner Marketplace profile setup for agencies",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "First, apply for the program. Once you’re accepted, you’ll be connected with your partner manager and get access to a folder of Tapcart enablement materials including pre-written emails, social assets, and more.",
+    "url": "https://www.tapcart.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Capture Email & SMS leads through pop ups and web experiences that convert",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Send Email/SMS/Mobile Push alerts for back in stock products",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Enable customer interactions across phone, chat, email, social, and more",
+    "url": "https://www.tapcart.com/integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Advertise on the most exclusive piece of real estate—your customers' lock screens. With the highest deliverability of any channel and a click through rate (CTR) 7x that of email, you’ll drive immediate traffic and sales from customers that actually want to hear from you.",
+    "url": "https://www.tapcart.com/product/push-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "Does Tapcart push work alongside Klaviyo, Attentive, and my existing email/SMS tools?",
+    "url": "https://www.tapcart.com/product/push-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Tapcart push notifications are designed to complement, not replace, your existing email and SMS stack. Push works seamlessly alongside Klaviyo and Attentive. Many brands use push for high-frequency, zero-cost reach when promoting flash sales, new drops, and back-in-stock alerts, while keeping their Klaviyo or Attentive flows for longer lifecycle campaigns. Learn more about the",
+    "url": "https://www.tapcart.com/product/push-notifications",
+    "pass": 1
+   },
+   {
+    "quote": "10x higher engagement rate with push notifications vs. email",
+    "url": "https://www.tapcart.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "10x higher engagement rate with push notifications vs. email",
+    "url": "https://www.tapcart.com/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "10x higher engagement rate with push notifications vs. email",
+    "url": "https://www.tapcart.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "biggest re-engagement and acquisition channels were Meta and email. Prior to building their app, Meta ads were the driving force for the business. However, these channels had limitations, like rising costs and diminishing returns, making it difficult to grow their customer base. They needed a more efficient, direct, and cost-effective channel to engage and acquire customers.",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "“A big win of the app is being able to exercise our unique brand experience and voice within that platform. How we sound as a brand on email or on the website is very different from how we sound in a push notification. When you get a push on your phone, it feels like a personalized message. We use this platform and how it's perceived to add value to our community and not just sell.”",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "LSKD’s app marketing strategy (and brand strategy as a whole) can be summed up in one sentence: They’re not afraid to take big swings. Their bold strategy focuses on building hype across digital touchpoints, including push notifications, social media, email, and SMS.",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "Push notifications are inherently a lower lift to create and send to customers compared to email and SMS, and LSKD does a great job of capitalizing on that. They can create and send out a push notification within a few hours.",
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "pass": 1
+   },
+   {
+    "quote": "After all, there's value in the number of downloads and push subscribers. Julie says that focusing on exclusive content and app previews has been an effective way for the brand to build that list in the same way that SMS and email subscribers are an asset. Plus, once customers have the app, it's much easier to stay in touch with them until they're ready to buy again.",
+    "url": "https://www.tapcart.com/case-studies/beis",
+    "pass": 1
+   },
+   {
+    "quote": "“For the last couple of months, we've seen around 12% growth in terms of the revenue that's coming from those push notifications. And again, those are free, right? So every time you send an SMS or an email, that costs you, but when you're sending a push notification, that doesn't cost you a dime. It costs nothing to communicate with your consumer from your mobile application.”",
+    "url": "https://www.tapcart.com/case-studies/beis",
+    "pass": 1
+   },
+   {
+    "quote": "But with Shopify and Tapcart pairing seamlessly, and Tapcart’s drag-and-drop app capabilities, the workload has been minimal and well worth the effort. To save time but still pack a big punch, the Princess Polly team repurposes website and email content. That way, they’re not doubling their efforts—and it’s paying off.",
+    "url": "https://www.tapcart.com/case-studies/princess-polly",
+    "pass": 1
+   },
+   {
+    "quote": "OluKai approached its mobile app rollout with the same level of intention and orchestration as a product launch. The team activated a cross-channel campaign—email, SMS, paid social, homepage takeovers, and organic posts—to drive awareness and downloads.",
+    "url": "https://www.tapcart.com/case-studies/olukai",
+    "pass": 1
+   },
+   {
+    "quote": "EmailLabs integration with AppsFlyer",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/226949-77",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "How BWH Plant Co drives more sales, loyalty, and connection with Tapcart",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Tapcart is the leading mobile commerce platform for the fastest-growing Shopify brands, helping marketers and ecommerce operators increase brand strength and differentiate the customer experience.",
+    "url": "https://www.tapcart.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Fashion Accessories Manufacturing",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Sugar and Confectionery Product Manufacturing",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "BWH Plant Co drives more sales and loyalty with Tapcart",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Fashion Accessories Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Sugar and Confectionery Product Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tapcart scales customer success and reduces churn with Gainsight | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/gainsight/case-study/how-tapcart-took-a-comprehensive-approach-to-scaling-customer-success-impact",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tapcart scales customer success and reduces churn with Gainsight",
+    "url": "https://www.casestudies.com/company/gainsight/case-study/how-tapcart-took-a-comprehensive-approach-to-scaling-customer-success-impact",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/gainsight/case-study/how-tapcart-took-a-comprehensive-approach-to-scaling-customer-success-impact",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/gainsight/case-study/how-tapcart-took-a-comprehensive-approach-to-scaling-customer-success-impact",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Google Ads（AdWords）｜代理店向けの連携設定",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "複数の代理店／MCCのGoogle Adsアカウントの計測",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Yahoo! Japan検索広告のキャンペーン設定",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ：代理店キャンペーンデータの完全可視化",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "お知らせ：代理店が管理するトラフィックのセキュリティ強化",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Xpend - 代理店向けのコストレポート機能",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "代理店向けのData Lockerレポート",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tapcart | Mobile Apps for Shopify Stores — Tapcart gives Shopify stores a powerful mobile commerce channel that retains and converts better than web and strengthens customer relationships with personalized, exclusive app experiences. Now powered by Tapcart AI.",
+    "url": "https://www.tapcart.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Tapcart — Read Tapcart case studies to see how other Shopify merchants are finding success with mobile ecommerce apps for Shopify.",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart integration – ナレッジベース — Tapcart makes it easy to send your data to AppsFlyer and utilize its capabilities. When developing your app with Tapcart, the AppsFlyer SDK is implemented in the app as a default.",
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "pass": 3
+   },
+   {
+    "quote": "TapcartとBrazeを統合する — Tapcart はShopifyを採用したブランド向けの業界をリードするモバイルコマースプラットフォームで、顧客が好むパーソナライズされた魅力的なショッピング体験を提供するカスタムモバイルアプリの作成を可能にします。 この統合はTapcartによって管理されます。",
+    "url": "https://www.braze.com/docs/ja/partners/ecommerce/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Grove Collaborativeが技術をアップグレード：Shopify、Ordergroove、... — Sep 12, 2024 · ニューヨーク - 持続可能な消費者製品のリーダーであり、世界初のプラスチックニュートラル小売業者であるGrove Collaborative Holdings, Inc. (NYSE: GROV)は、Shopify、Ordergroove、Tapcartを自社のインフラに統合する技術的刷新に着手しました。",
+    "url": "https://jp.investing.com/news/company-news/article-93CH-865678",
+    "pass": 3
+   },
+   {
+    "quote": "Plans & Pricing | Tapcart — Tapcart is a monthly subscription. There is no credit card required since you are charged directly through Shopify on your monthly invoice. Pricing varies depending on the plan you subscribe to; please review the plans on this page.",
+    "url": "https://www.tapcart.com/pricing?lang=en-US",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce stores using Tapcart in Japan - storeleads.app — Launch a mobile app for your Shopify store with no coding required. Get more information from the Tapcart website. Tapcart is currently installed on 8 ecommerce stores in Japan. In this report, we'll cover the following statistics on usage of Tapcart on ecommerce stores.",
+    "url": "https://storeleads.app/reports/technology/Tapcart/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart | Mobile Apps for Shopify Stores | Product Updates — Tapcart gives Shopify stores a powerful mobile commerce channel that retains and converts better than web and strengthens customer relationships with personalized, exclusive app experiences.",
+    "url": "https://product.tapcart.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart | LinkedIn — We power mobile apps that have processed over $9+ Billion in sales for brands like LSKD, Shoe Palace, BÉIS, Princess Polly, BYLT Basics, and 2,000+ others. Tapcart is proud to be a Shopify...",
+    "url": "https://ja.linkedin.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Tapcart — Case Studies Breakthrough results from today’s leading mobile-first brands. See how top Shopify brands like BEIS, Credo, Princess Polly, and Culture Kings use Tapcart to increase repeat purchases, deepen loyalty, and turn mobile into their highest-performing revenue channel.",
+    "url": "https://www.tapcart.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart B2B Case Studies & Customer Successes — See how Tapcart solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "43 Tapcart Case Studies, Success Stories, & Customer Stories — FeaturedCustomers has 2,119,495+ validated customer references including reviews, case studies, success stories, customer stories, testimonials and customer videos that will help you make better software purchasing decisions.",
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tapcart scales customer success and reduces churn ... — Tapcart (Internet) partnered with Gainsight (Computer Software) to solve key challenges. \"How TapCart Took a Comprehensive Approach to Scaling Customer Success Impact\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/gainsight/case-study/how-tapcart-took-a-comprehensive-approach-to-scaling-customer-success-impact",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart Case Studies - Copy by RebeccaCASE STUDY TAPCART Tapcart - cdn.featuredcustomers.comG FUEL replatforms from custom app to Tapcart to elevate ... — Jul 17, 2024 · Tapcart promotes their clients’ success stories with case studies, video clips, strategy highlights, and their annual Tappy Awards. I’ve been writing for Tapcart since 2019, and their case studies have grown more specific, helpful",
+    "url": "https://www.copybyrebecca.com/portfolio/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart – Financials, Industry Trends & Funding Info – 2026 — With 141 employees generating $150.5K in revenue per person, the company shows strong productivity metrics. Founded 9 years ago, Tapcart is past the early startup phase.",
+    "url": "https://compworth.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart Revenue 2024: $27.3M Est., $50M Raised - getlatka.com — Aug 10, 2026 · Tapcart 2024 estimated revenue: $27.3M. Total funding: $50M across 1 round. 105 employees. Industry: App Store Optimization Software. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart - 2026 Company Profile, Team, Funding & Competitors ...Tapcart 2026 Company Profile: Valuation, Funding & Investors ...Tapcart Revenue, Funding & Valuation - prospeo.ioTapcart - Overview, News & Similar companies | ZoomInfo.comTapcart: Funding, Investors & Team (Oct 2026) | FundedIQ — Mar 24, 2026 · Tapcart has raised $64M in funding from investors like Greycroft, SignalFire and Left Lane.",
+    "url": "https://tracxn.com/d/companies/tapcart/__aqXCeRJecUMWb7CVHPznau5he8NkpeqQA2m_klpL7cU",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart 2026 Company Profile: Valuation, Funding & Investors ...Tapcart Revenue, Funding & Valuation - prospeo.ioTapcart - Overview, News & Similar companies | ZoomInfo.comTapcart: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Tapcart. Use the PitchBook Platform to explore the full profile. Tapcart has revenue of $2,5",
+    "url": "https://pitchbook.com/profiles/company/226949-77",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart Revenue, Funding & Valuation - prospeo.io — Tapcart has revenue of $2,500,000, estimated valuation of $8,000,000, $65,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/tapcart-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tapcart (@tapcart_app) / X Today we're launching Gen AI Video in Tapcart AI so brands can turn static hero images and product shots into lifelike, on-brand videos right inside their mobile apps.",
+    "url": "https://x.com/tapcart_app",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart on X: \"We started Tapcart with a simple belief ... Soon, Tapcart app experiences will reshape themselves in real time with personalized shopping feeds, dynamic offers, and more AI-powered in-app features. The next generation of shoppers want experiences built for them, and Tapcart AI makes it all possible.",
+    "url": "https://x.com/tapcart_app/status/1998840941395021919",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart on X: \"We're pumped to announce @Forever21 is now on ... We're pumped to announce @ Forever21 is now on Tapcart! One of the most iconic fast-fashion brands in the world built a fully custom, enterprise-grade mobile app in just 10 days — powered by @ Shopify, built Tapcart.",
+    "url": "https://x.com/tapcart_app/status/2066595700880920964",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tapcart - LinkedIn Tapcart is the mobile commerce platform of leading brands, helping build stronger customer relationships through fully custom, personalized mobile shopping experiences.",
+    "url": "https://www.linkedin.com/company/tapcart",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Netsch - Tapcart | LinkedInTapcart Jobs in United States (7,000+ Open Roles) | LinkedInSina Mobasser - UCLA - Corona del Mar, California, United ...Stephen Andrew - VP, Operations & Finance @ Tapcart | ex-PE ...Clinton Carlisle - Tapcart | LinkedInSahand A. - Problem solver @Tapcart | LinkedIn Customer Service @Tapcart. HMU · Experience: Tapcart · Location: Los Angeles · 500+ connections on L",
+    "url": "https://www.linkedin.com/in/ericnetsch",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart Jobs in United States (7,000+ Open Roles) | LinkedIn Today’s top 7,000+ Tapcart jobs in United States. Leverage your professional network, and get hired. New Tapcart jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/tapcart-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Sina Mobasser - UCLA - Corona del Mar, California, United ...Stephen Andrew - VP, Operations & Finance @ Tapcart | ex-PE ...Clinton Carlisle - Tapcart | LinkedInSahand A. - Problem solver @Tapcart | LinkedIn I love to make things. ⁍ Founder of Tapcart, mobile apps for Shopify merchants… · Experience: Noibu · Education: UCLA · Location: Corona del Mar · 500+ connections on LinkedIn. VP, Operations ",
+    "url": "https://www.linkedin.com/in/mobass",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tapcart Inc. - Facebook Built on Tapcart, powered by Shopify. When Barnes & Noble migrated to Shopify, they wanted a mobile experience worthy of one of the most beloved retail brands in America. That meant going fully custom, with deep integrations, proprietary APIs, and features well beyond a typical ecommerce app.",
+    "url": "https://www.facebook.com/61576104190254/about_contact_and_basic_info/",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart Mobile Apps | Santa Monica CA - Facebook Aug 14, 2025 · channel amplifies the other. Sahand Barati, VP of Customer Success at Tapcart, shares our vision on the future of retail and how we’re helping brands use mobile apps to extend the retail experience and deepen customer relationships: - Location-based push notifications that trigger in-store - Segmented experiences powered by Shopify cu",
+    "url": "https://www.facebook.com/tapcartHQ/",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart Global - Facebook Jun 11, 2025 · Tapcart Global. The mobile commerce platform powering mobile apps that have processed over $9+ Billion in ecommerce sales.",
+    "url": "https://www.facebook.com/p/Tapcart-Global-61576006934425/",
+    "pass": 3
+   },
+   {
+    "quote": "Tapcart Inc. - The mandate for 2026 is clear. Teams are ... Feb 18, 2026 · Cult Gaia Launches Mobile App with Tapcart CULT GAIA was founded on the idea that every piece is a beautiful heirloom, built to live in your closet forever. Named after Gaia, the goddess of Mother Earth, it's a brand rooted in art, nature, and Objets d'Art that make you look twice. Their mobile app carries that same intenti",
+    "url": "https://www.facebook.com/61576104190254/posts/the-mandate-for-2026-is-clear-teams-are-being-tasked-with-extracting-more-value-/122171232824870139/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tapcart.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/datastories/bfcm-2024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/product/push-notifications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/industries/beauty-cosmetics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/industries/food-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/industries/health-wellness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/case-studies/lskd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/case-studies/beis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/case-studies/princess-polly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/case-studies/olukai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/community",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/lp/for-womens-luxury-fashion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapcart.com/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/616f0a7a027baaf59a43390b/62fe99b9a549da6b48c22f67_partnershipPhone_Floating1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/616f0a7a027baaf59a43390b/62fe99b9a549da2c63c22f62_partnershipPhone_Floating%202.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/616f0a7a027baaf59a43390b/69395594092c0d7d5f3aafd2_wlxf_logos.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/616f0a7a027baaf59a43390b/69395594a141577481bae644_wlxf_logos-2.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.braze.com/docs/ja/partners/ecommerce/tapcart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storeleads.app/reports/technology/Tapcart/country/JP",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://product.tapcart.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tapcart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gainsight/case-study/how-tapcart-took-a-comprehensive-approach-to-scaling-customer-success-impact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/tapcart",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/tapcart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tapcart/__aqXCeRJecUMWb7CVHPznau5he8NkpeqQA2m_klpL7cU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/226949-77",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/tapcart_app",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tapcart_app/status/1998840941395021919",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tapcart_app/status/2066595700880920964",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tapcart",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ericnetsch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/tapcart-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mobass",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61576104190254/about_contact_and_basic_info/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tapcartHQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Tapcart-Global-61576006934425/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61576104190254/posts/the-mandate-for-2026-is-clear-teams-are-being-tasked-with-extracting-more-value-/122171232824870139/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tapcart_app",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tapcart 日本 導入",
+   "results": [
+    "https://www.tapcart.com/",
+    "https://www.tapcart.com/case-studies",
+    "https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration",
+    "https://www.braze.com/docs/ja/partners/ecommerce/tapcart",
+    "https://jp.investing.com/news/company-news/article-93CH-865678",
+    "https://1-president.com/services-japan-absence/",
+    "https://note.com/nightfly2002/n/nb291feea7e0f"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tapcart 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/templates/990/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tapcart Japan",
+   "results": [
+    "https://www.tapcart.com/",
+    "https://www.tapcart.com/pricing?lang=en-US",
+    "https://storeleads.app/reports/technology/Tapcart/country/JP",
+    "https://product.tapcart.com/",
+    "https://ja.linkedin.com/company/tapcart",
+    "https://www.tapcart.studio/",
+    "https://www.tapcart.app/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tapcart manufacturing customer case study",
+   "results": [
+    "https://www.tapcart.com/case-studies",
+    "https://www.casestudies.com/company/tapcart",
+    "https://www.featuredcustomers.com/vendor/tapcart/case-studies",
+    "https://www.casestudies.com/company/gainsight/case-study/how-tapcart-took-a-comprehensive-approach-to-scaling-customer-success-impact",
+    "https://www.copybyrebecca.com/portfolio/tapcart",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/gainsight_tapcart_777135.pdf",
+    "https://www.tapcart.com/case-studies/g-fuel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tapcart white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tapcart founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/tapcart",
+    "https://getlatka.com/companies/tapcart",
+    "https://tracxn.com/d/companies/tapcart/__aqXCeRJecUMWb7CVHPznau5he8NkpeqQA2m_klpL7cU",
+    "https://pitchbook.com/profiles/company/226949-77",
+    "https://prospeo.io/c/tapcart-revenue",
+    "https://www.zoominfo.com/c/tapcart/371547975",
+    "https://fundediq.co/tapcart-tapcart-com-funding/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tapcart",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/manabu_ikarashi/n/nd048c74206eb",
+    "https://note.com/crisp_shark/n/n2af9c6e882fd",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/momiji_man_10/n/n62ea2d9a9a9a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tapcart",
+   "results": [
+    "https://x.com/tapcart_app",
+    "https://x.com/tapcart_app/status/1998840941395021919",
+    "https://x.com/tapcart_app/status/2066595700880920964",
+    "https://x.com:2096/tapcart_app/status/2048823003656647096",
+    "https://x.com/tapcart_app/status/2103535980653449326",
+    "https://x.com/tapcart_app/reposts",
+    "https://x.com/tapcart_app/status/1916951710737788952"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tapcart",
+   "results": [
+    "https://www.linkedin.com/company/tapcart",
+    "https://www.linkedin.com/in/ericnetsch",
+    "https://www.linkedin.com/jobs/tapcart-jobs",
+    "https://www.linkedin.com/in/mobass",
+    "https://www.linkedin.com/in/sandrew1",
+    "https://www.linkedin.com/in/clintoncarlisle",
+    "https://www.linkedin.com/in/sahandansari"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tapcart",
+   "results": [
+    "https://www.facebook.com/61576104190254/about_contact_and_basic_info/",
+    "https://www.facebook.com/tapcartHQ/",
+    "https://www.facebook.com/p/Tapcart-Global-61576006934425/",
+    "https://www.facebook.com/61576104190254/posts/the-mandate-for-2026-is-clear-teams-are-being-tasked-with-extracting-more-value-/122171232824870139/",
+    "https://www.facebook.com/61576104190254/videos/2097021274276799/",
+    "https://www.facebook.com/61576104190254/videos/1033719349052062/",
+    "https://www.facebook.com/profile.php/?id=61575956205032"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tapcart note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.linkedin.com/company/tapcart",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tapcart X 投稿",
+   "results": [
+    "https://x.com/tapcart_app",
+    "https://www.tapcart.com/",
+    "https://www.instagram.com/tapcart/",
+    "https://www.tiktok.com/@tapcart",
+    "https://www.tapcart.studio/",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://news.yahoo.co.jp/articles/c433091e5e50d42e2a18d576920e8414bb798cb9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

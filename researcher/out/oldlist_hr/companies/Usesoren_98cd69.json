@@ -1,0 +1,528 @@
+{
+ "name": "Usesoren",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T20:26:02.869558+00:00",
+ "official_url": "https://usesoren.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": ". We combine elite engineers with AI-powered delivery to turn your AI ambitions into production-ready systems in weeks.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We take an AI-native approach to business transformation, combining human expertise with AI agents to deliver results.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers and researchers from MIT, Harvard, and Stanford. Deep technical talent and real business judgment, working directly on the business problems that matter.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI powers everything we do, from understanding a client's business to shipping production code. The result is smarter solutions in a fraction of the time, on every project.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team stays on long after launch, from ongoing support to finding new opportunities. Every system keeps improving as the business grows, with the same people behind it.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Procedures, precedents and past matters lived across shared drives, email and a few people's memories. Finding an answer meant searching folders or interrupting a partner, often for half an hour.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A Private Equity Firm",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to produce portfolio reporting",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The firm now produces portfolio reporting in about five minutes, and its portfolio companies save more than 20 hours a week. One partner for the firm and its portfolio.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every cycle brought months of manual data entry into Salesforce and first-pass review of 38,000 applications, handled by seasonal hires.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We built an AI first pass inside the fund's own cloud, connected to Salesforce. It checks financial-aid letters, transcripts and GPA minimums, flags anything missing, writes a short summary of each applicant and keeps a follow-up queue. Staff make every decision.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The fund now reviews a full cycle in about two weeks without seasonal hires, and its staff spend their time on decisions instead of data entry.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "seasonal hires needed",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate everyday work with AI built for your business. We handle setup, training, and support.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See our Privacy Policy",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by businesses worldwide. Supported by the best.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "250+ Employees",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "employees on one firm brain",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50+ Employees",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "200+ Employees",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Procedures, precedents and past matters lived across shared drives, email and a few people's memories. Finding an answer meant searching folders or interrupting a partner, often for half an hour.",
+    "url": "https://soren-ai.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://soren-ai.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://soren-ai.com/brand/logos/harvard.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://soren-ai.com/brand/logos/yc.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://soren-ai.com/brand/logos/openai.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://soren-ai.com/brand/logos/xai.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/agency-types",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/soren-ai-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://japan.uso.org/stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soren-ai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=s2z44Ra4A10",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.controleng.com/four-ai-case-study-successes-in-industrial-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eightgen.ai/case-studies/case-study-4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/blog/white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/thefounderai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epoch.ai/data/ai-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=mvu4dD4Trqk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/marketwatch/posts/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation/1459575662709417/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Usesoren 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.startyourengines.net/pressrelease/455187/",
+    "https://www.nikkei.com/article/DGXZQOUC047AA0U6A101C2000000/",
+    "https://www.netdenjd.com/archives/708202",
+    "http://www.excite.co.jp/news/article/Trafficnews_725198/",
+    "https://x.com/usesoren",
+    "https://prtimes.jp/main/html/searchrlp/company_id/5101"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usesoren 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://b-seeds.com/column/agency-types",
+    "https://usen.com/portal/partner/",
+    "https://usen-networks.ne.jp/agent/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.provej.jp/column/distributor-vs-agent-2026/",
+    "https://web-repo.jp/articles/1451",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usesoren Japan",
+   "results": [
+    "https://www.linkedin.com/company/soren-ai-inc",
+    "https://japan.uso.org/stories",
+    "https://soren-ai.com/",
+    "https://www.youtube.com/watch?v=s2z44Ra4A10",
+    "https://www.japan-guide.com/e/e2292.html",
+    "https://www.japanhouse.jp/en/stories/06-onsen.html",
+    "https://japanese-onsen.com/",
+    "https://www.nishoren.org/en/",
+    "https://www.usj.co.jp/company/company_e/",
+    "https://jizzex.com/en/categories/japanese-uncensored/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usesoren manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://www.controleng.com/four-ai-case-study-successes-in-industrial-manufacturing/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://eightgen.ai/case-studies/case-study-4",
+    "https://www.leewayhertz.com/ai-use-cases-in-manufacturing/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJIsjHGE2UD6AmW-88evuuuqsAkJYKQhY6hgO_aAHZHQ8B-qJdL",
+    "https://www.youtube.com/watch?v=qHwK8ughSNk",
+    "https://www.zenml.io/llmops-database/implementing-generative-ai-in-manufacturing-a-multi-use-case-study",
+    "https://svitla.com/blog/ai-use-cases-in-manufacturing/",
+    "https://www.coursehero.com/file/126990843/Soren-Chemical-Case-Analysisdocx/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Usesoren white label OR reseller OR partner program",
+   "results": [
+    "https://www.agentz.ai/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.soci.ai/partners-reseller/",
+    "https://www.sensflo.ai/partnerships/partner-programs/reseller",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Usesoren founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/thefounderai.com",
+    "https://epoch.ai/data/ai-companies",
+    "https://www.youtube.com/watch?v=mvu4dD4Trqk",
+    "https://www.facebook.com/marketwatch/posts/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation/1459575662709417/",
+    "https://datacenter.news/story/ai-firms-set-new-highs-for-revenue-per-employee-efficiency",
+    "https://www.theinformation.com/newsletters/ai-agenda/ai-native-startups-double-annualized-revenue-30-billion-seven-months",
+    "https://gaps.com/finance/",
+    "https://www.linkedin.com/company/soren-ai-inc",
+    "https://www.tryspecter.com/companies",
+    "https://startupintros.com/orgs/soren"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Usesoren",
+   "results": [
+    "https://note.com/maikeru427/n/nc138de0478f4?hl=en",
+    "https://note.com/wao_fe777/n/n55e4850fa0c6?hl=en",
+    "https://note.com/pion_mtg/n/nae0db382209b?hl=en",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/rapid_ixora9921/n/n0af2d67dd21e?hl=en",
+    "https://note.com/musescore_step/n/nf4af12a27759?hl=en",
+    "https://note.com/feles_nigra/n/n7e48044b4b45",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Usesoren",
+   "results": [
+    "https://x.com/Waterstones/status/992656388168925184",
+    "https://x.com/Shikarius",
+    "https://x.com/namma_vjy/status/2116112992135962892",
+    "https://x.com/Maddoox123",
+    "https://x.com/RamiRanger",
+    "https://x.com/squishcakesart/status/1952158675864600712",
+    "https://x.com/squishcakesart/status/1952158670265147544",
+    "https://x.com/loichecht",
+    "https://x.com/usesoren",
+    "https://x.com/usesoren/with_replies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Usesoren",
+   "results": [
+    "https://www.linkedin.com/company/soren-ai-inc",
+    "https://www.linkedin.com/posts/kevinxie06_i-left-mit-and-started-soren-yc-f25-because-activity-7470132604042788864-0OAB",
+    "https://www.linkedin.com/posts/kevinxie06_today-were-launching-soren-yc-f25-over-activity-7454574720940851201-5koU",
+    "https://www.linkedin.com/in/grant-gallagher-53a538229",
+    "https://www.linkedin.com/in/kevinxie06",
+    "https://www.linkedin.com/posts/darpatel_founderstory-sola-agenticai-activity-7366869704071688192-wBT-",
+    "https://www.linkedin.com/in/katelyn-luu8",
+    "https://www.linkedin.com/in/youngwoo-tahk",
+    "https://www.linkedin.com/in/green-c",
+    "https://id.linkedin.com/in/yafi-s-a48272265"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Usesoren",
+   "results": [
+    "https://www.facebook.com/groups/3554171514794476/posts/4032190343659255/",
+    "https://www.facebook.com/61594235561294/",
+    "https://www.facebook.com/PhilosophyEverydays/posts/people-demand-freedom-of-speech-as-a-compensation-for-the-freedom-of-thought-whi/122252493662251497/",
+    "https://www.facebook.com/PhilosophyFuse/posts/people-demand-freedom-of-speech-as-a-compensation-for-the-freedom-of-thought-whi/784121734461972/",
+    "https://www.facebook.com/PhilosophyEverydays/posts/s%C3%B8ren-kierkegaardpeople-demand-freedom-of-speech-as-a-compensation-for-the-freed/122255946896251497/",
+    "https://www.facebook.com/PhilosophyEverydays/posts/s%C3%B8ren-kierkegaardpeople-demand-freedom-of-speech-as-a-compensation-for-the-freed/122265930344251497/",
+    "https://www.facebook.com/BobonBooks/posts/people-demand-freedom-of-speech-as-a-compensation-for-the-freedom-of-thought-whi/1340569304179035/",
+    "https://www.facebook.com/attila.madaras.3/posts/people-demand-freedom-of-speech-as-a-compensation-for-the-freedom-of-thought-whi/10229634775470130/",
+    "https://www.facebook.com/groups/730485222531586/posts/1417985170448251/",
+    "https://www.facebook.com/use.soren/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Usesoren note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7%E3%83%96%E3%83%AD%E3%82%B0",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://biz.note.com/n/n96bd2a2931c2",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Usesoren X 投稿",
+   "results": [
+    "https://help.x.com/en/using-x/how-to-post",
+    "https://help-creator.ci-en.net/hc/ja/articles/8564348283033-X%E3%81%A7%E8%A8%98%E4%BA%8B%E6%8A%95%E7%A8%BF%E3%82%92%E8%87%AA%E5%8B%95%E3%83%9D%E3%82%B9%E3%83%88%E3%81%97%E3%81%9F%E3%81%84",
+    "https://lp.yoom.fun/fb-templates/343316",
+    "https://qiita.com/free-honda/items/c8d72698484b5914d30c",
+    "https://beak-promo.jp/news/x-post-templates-7/",
+    "https://www.lancers.jp/menu/detail/1264510?srsltid=AYCX9vKCB8Gl4B_OTIDfsqJ3juKEy38QLFrp56y-2DYwgOlpTAwgZ4Ay",
+    "https://pochilog.jp/23318",
+    "https://internet.watch.impress.co.jp/docs/yajiuma/2073178.html",
+    "https://soren-ai.com/",
+    "https://x.com/usesoren/with_replies"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

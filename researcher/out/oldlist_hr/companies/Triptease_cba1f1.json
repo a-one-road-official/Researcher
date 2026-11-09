@@ -1,0 +1,1667 @@
+{
+ "name": "Triptease",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-09T20:13:20.041288+00:00",
+ "official_url": "https://triptease.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$4M",
+    "url": "https://getlatka.com/companies/triptease",
+    "pass": 3
+   },
+   {
+    "label": "5. Seed Round",
+    "value": "19-Feb-2015    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/61066-99",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "15-Aug-2014 $1.86M $2.78M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/61066-99",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "20-Dec-2013 $691K $918K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/61066-99",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Triptease: Increase direct bookings. Full funnel hotel marketing",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Marketing Platform",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated bidding using your price, market & guest data",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-match OTA prices on metasearch & your website",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach new guests, display live prices & save ad budget",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring back high-value guests with custom, personalized ads",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically focus marketing on your priority dates and drive more bookings when you need them most.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored marketing for every guest & better CRM data for you",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "THE DATA MARKETING PLATFORM FOR HOTELS",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hotels use the Triptease platform to grow profits and reduce OTA dependence. Powered by hotel- and guest-specific data, it makes multichannel marketing easier, more personalized and more effective.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Winning bookings back from OTAs means less commission and fewer cancellations. Triptease helps grow profits, not just revenue, by driving direct bookings across multiple guest touchpoints.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make sure the best price is always direct with Triptease Price Match. Auto-match OTA prices in real time across metasearch and your website — with zero manual checking or effort.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not all web traffic is worth the same. Attract guests who are more likely to book with a marketing system built on live pricing and intent data, personalization, and deep hotel industry expertise.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every guest is an individual. Make them feel like one by personalizing their direct booking experience. Evoke emotion, build trust and drive urgency with targeted content that converts more effectively.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Triptease combines hotel pricing information, guest data and marketing automation in one full-funnel platform.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-driven campaigns go live across the marketing channels you’ve chosen.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Full-funnel marketing",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get more value from the Triptease platform by activating data across multiple marketing channels.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Defend your brand from OTAs that steal the click. Drive conversion with live pricing in ads.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring high-value guests back to your website with personalized display advertising.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn website visitors into bookers with targeted, personalized content that speaks to their needs.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beat OTA prices automatically.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Target priority dates before cutting rates.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand advertising to raise awareness and attract new guests.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Marketing Platform",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Automated bidding using your price, market & guest data",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-match OTA prices on metasearch & your website",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Reach new guests, display live prices & save ad budget",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Bring back high-value guests with custom, personalized ads",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically focus marketing on your priority dates and drive more bookings when you need them most.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored marketing for every guest & better CRM data for you",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Live price and guest data collected from every step of the booking journey is automatically applied to your paid channel bidding strategy to bring the right guests to your website, while personalized website messaging ensures that they convert and advanced data capture increases the power of your CRM.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Display (and automatically adjust) live prices on metasearch and your website so you outsmart OTAs and ensure guests always book direct.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Beat OTA prices automatically",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Price Match uses precision discounting to automatically adjust your price on metasearch and the booking engine so you always have the best price direct.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "You select which OTAs you’d like to price match and the range of discounts you’re happy to provide. Triptease then automatically applies the right discount to ensure that you only ever reduce your price by the minimum amount needed to win a booking. You stay in full control of your rate strategy, but OTA undercutting is no longer an issue.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimization with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Being in parity can increase conversions rates by up to 34%. The more your direct price is undercut by OTAs, the lower your conversion rate will typically be. On metasearch, having the best rate can triple direct bookings.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Bring the right guests to your website by showing the best price across all paid channels.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Paid Search and Metasearch are where guests decide which hotel to book, and what channel to book it on. If you’re not present in these channels, you won’t be up for consideration - but if you’re not bidding intelligently using live price, market and guest data you’ll be wasting money.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Triptease Paid Search uses price data intelligently too, by highlighting your ‘from’ price directly in your ads. This means potential guests can instantly see if your hotel is within their budget. The result? You don’t pay for clicks from guests who wouldn’t have booked your hotel anyway.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Build a website that speaks to every guest as an individual, showing them messages, content and offers that will nudge them through the booking process and increase conversions on your website.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Every guest is different, but most hotel websites are the same for all visitors. Great eCommerce websites drive conversions by providing a seamless, personalized website experience - and there’s no reason why hoteliers can’t do the same!",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "‘Likelihood to convert’ is applied to Retargeting bid strategies, to increase bids for the right guests, while bespoke price data is displayed in Retargeting ads to show your best nightly rate to guests who have not yet run a search, and their unique price and dates to customers who have.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for ambitious Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimisation with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Data Marketing Platform",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Automated bidding using your price, market & guest data",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-match OTA prices on metasearch & your website",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Reach new guests, display live prices & save ad budget",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Bring back high-value guests with custom, personalized ads",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically focus marketing on your priority dates and drive more bookings when you need them most.",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored marketing for every guest & better CRM data for you",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your technology with Triptease and deliver greater value to the hoteliers you serve. Designed for booking engines, property management systems, revenue management systems, CRMs, channel managers, and other hospitality tech solutions.",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Companies that bring Triptease to the hoteliers they serve alongside their own services. A selective program, by region and vertical.",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "TRUSTED BY HOTELS WORLDWIDE",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TRUSTED BY HOTELS WORLDWIDE",
+    "url": "https://www.triptease.com/en/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/tripteasef/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Defend your brand from OTAs that steal the click. Drive conversion with live pricing in ads.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Consultants, agencies, and advisors who recommend Triptease to the hotels they work with. Earn a payout for every hotel that signs through your referral.",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "You're a tech company, a consultant, or a reseller. Fill out the form and our partnerships team will be in touch.",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Parity blackout - protect your brand",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Alongside those seasonal shifts were three longer-term objectives: increasing direct bookings, reducing reliance on OTAs (online travel agencies), and making every marketing dollar work harder by staying agile enough to respond as demand changed.",
+    "url": "https://www.triptease.com/customer-stories/grand-traverse-resort-and-spa",
+    "pass": 1
+   },
+   {
+    "quote": ". Both campaigns feature pre-built email templates that do not require HTML input and include customizable text. This allows you to highlight your direct booking advantages and ensure your brand’s tone remains consistent.",
+    "url": "https://www.triptease.com/customer-stories/amarante",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce dependency on online travel agencies (OTAs)",
+    "url": "https://pndatasol.com/tag/triptease-clients-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital marketing agencies",
+    "url": "https://pndatasol.com/tag/triptease-clients-japan/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solving major direct revenue challenges for hotels",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Winning bookings back from OTAs means less commission and fewer cancellations. Triptease helps grow profits, not just revenue, by driving direct bookings across multiple guest touchpoints.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue, marketing, e-commerce: one platform that works across commercial teams.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Ever since we've been eliminating those higher OTA commissions and shrinking that channel a little bit, [the leadership team] has seen the measurable revenue growth and cost-savings over the past few years.\"",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Over $1 million in booking value delivered, with 23% of website revenue driven by Triptease — the resort's best fiscal year in 45 years.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Grand Traverse hit a 45-year revenue record →",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Direct website bookings grew from 7% to 11% — over 50% growth — with 91% of rates cheaper or in parity and 31% of direct revenue driven by Metasearch.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "$5 million in direct booking revenue annually · $190K driven by Metasearch · ~$100K from Retargeting in Q3 2025 alone",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Triptease is built for hotel marketing, revenue and eCommerce teams that want to grow direct revenue, protect margins from OTA commission, and manage performance across channels from a single platform. It works for independent hotels, groups, and resort properties.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimization with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for ambitious Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimisation with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "A personalized website to increase conversions and revenue",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue, Marketing & eCommerce Teams",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your technology with Triptease and deliver greater value to the hoteliers you serve. Designed for booking engines, property management systems, revenue management systems, CRMs, channel managers, and other hospitality tech solutions.",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimization with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for ambitious Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimisation with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A personalized website to increase conversions and revenue",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue, Marketing & eCommerce Teams",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimization with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for ambitious Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimisation with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "A personalized website to increase conversions and revenue",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue, Marketing & eCommerce Teams",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimization with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "The number one tool for ambitious Revenue, Marketing and eCommerce teams",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain competitive pricing and build strategies for revenue optimisation with full visibility of your direct price vs OTAs for every search - including metasearch prices.",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "A personalized website to increase conversions and revenue",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue, Marketing & eCommerce Teams",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "AI is part of how we operate every day, helping us move faster and make smarter decisions. We share what we learn and make it an advantage for the hotels we work with.",
+    "url": "https://www.triptease.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our team of Customer Success Managers offer tailored support and guidance to tackle unique challenges and maximize the benefits of Triptease tools. They'll direct your team's focus toward activities that drive the biggest impact for direct bookings and revenue, providing personalized assistance and timely support.",
+    "url": "https://www.triptease.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Assistant Director of Revenue & Reservations, Carlton Hotel Singapore",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Triptease is a complete direct booking solution that touches on every part of the customer journey. You often wonder what’s coming next from them!\"",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/customer-stories",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resort & spa · Acme, Michigan, USA · Metasearch, Retargeting, Messages & Email",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It is the connected platform that unifies guest, pricing, and parity data across all Triptease products, enabling coordinated campaigns, cross-channel reporting, and consistent performance across metasearch, paid search, on-site, and email.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Triptease Email sends automated cart abandonment reminders at 2 hours and 24 hours after a guest leaves the booking engine without completing a reservation, stopping automatically if the guest books.",
+    "url": "https://www.triptease.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Send automated Cart abandonment emails to guests who didn’t complete their booking, and capture the details from customers who saw no availability so you can send an automated email if their room becomes free.",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Send cart abandonment emails automatically when a guest does not complete their booking, or alert a guest who saw no availability if a room becomes available. Get all guest data sent directly to your CRM too!",
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Send automated Cart abandonment emails to guests who didn’t complete their booking, and capture the details from customers who saw no availability so you can send an automated email if their room becomes free.",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Send cart abandonment emails automatically when a guest does not complete their booking, or alert a guest who saw no availability if a room becomes available. Get all guest data sent directly to your CRM too!",
+    "url": "https://www.triptease.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Send automated Cart abandonment emails to guests who didn’t complete their booking, and capture the details from customers who saw no availability so you can send an automated email if their room becomes free.",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Send cart abandonment emails automatically when a guest does not complete their booking, or alert a guest who saw no availability if a room becomes available. Get all guest data sent directly to your CRM too!",
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Send automated Cart abandonment emails to guests who didn’t complete their booking, and capture the details from customers who saw no availability so you can send an automated email if their room becomes free.",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Send cart abandonment emails automatically when a guest does not complete their booking, or alert a guest who saw no availability if a room becomes available. Get all guest data sent directly to your CRM too!",
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cart abandonment emails",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Availability alert emails",
+    "url": "https://www.triptease.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Automated emails achieve 297x ROI within two months of go-live",
+    "url": "https://www.triptease.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How EOS Hospitality generated $200k with Triptease Email Capture",
+    "url": "https://www.triptease.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Not every guest is ready to book right away. Some leave to compare options, others simply get distracted before completing their reservation, and Display Retargeting alongside Cart Abandonment emails gave Grand Traverse Resort and Spa another opportunity to bring those guests back.",
+    "url": "https://www.triptease.com/customer-stories/grand-traverse-resort-and-spa",
+    "pass": 1
+   },
+   {
+    "quote": "combined with Cart Abandonment emails, recovered bookings that would otherwise have been lost.",
+    "url": "https://www.triptease.com/customer-stories/grand-traverse-resort-and-spa",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?case=increase-your-direct-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?case=increase-your-direct-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions?case=increase-your-direct-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Send automated Cart abandonment emails to guests who didn’t complete their booking, and capture the details from customers who saw no availability so you can send an automated email if their room becomes free.",
+    "url": "https://www.triptease.com/solutions?case=increase-your-direct-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?case=increase-your-direct-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Send cart abandonment emails automatically when a guest does not complete their booking, or alert a guest who saw no availability if a room becomes available. Get all guest data sent directly to your CRM too!",
+    "url": "https://www.triptease.com/solutions?case=increase-your-direct-bookings",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?case=beat-ota-prices-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?case=beat-ota-prices-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions?case=beat-ota-prices-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Send automated Cart abandonment emails to guests who didn’t complete their booking, and capture the details from customers who saw no availability so you can send an automated email if their room becomes free.",
+    "url": "https://www.triptease.com/solutions?case=beat-ota-prices-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?case=beat-ota-prices-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Send cart abandonment emails automatically when a guest does not complete their booking, or alert a guest who saw no availability if a room becomes available. Get all guest data sent directly to your CRM too!",
+    "url": "https://www.triptease.com/solutions?case=beat-ota-prices-automatically",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recovery emails & segmented CRM data",
+    "url": "https://www.triptease.com/solutions?case=take-care-of-rate-parity-issues",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic pricing & automated emails to maximize direct revenue",
+    "url": "https://www.triptease.com/solutions?case=take-care-of-rate-parity-issues",
+    "pass": 1
+   },
+   {
+    "quote": "Use automated emails and smart Retargeting ads to bring guests who didn’t book back to your website.",
+    "url": "https://www.triptease.com/solutions?case=take-care-of-rate-parity-issues",
+    "pass": 1
+   },
+   {
+    "quote": "Send automated Cart abandonment emails to guests who didn’t complete their booking, and capture the details from customers who saw no availability so you can send an automated email if their room becomes free.",
+    "url": "https://www.triptease.com/solutions?case=take-care-of-rate-parity-issues",
+    "pass": 1
+   },
+   {
+    "quote": "Recapture lost revenue with automated cart abandonment emails",
+    "url": "https://www.triptease.com/solutions?case=take-care-of-rate-parity-issues",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Triptease: Increase direct bookings. Full funnel hotel marketing — \"Switching to Triptease was one of the best decisions for our hotel’s booking strategy. It not only helped us increase direct bookings but also gave us the tools to compete with OTAs more effectively.\"",
+    "url": "https://www.triptease.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease Platform — The Triptease Data Marketing Platform is a full funnel marketing solution to help hotels grow direct bookings, beat OTAs and win more valuable guests.",
+    "url": "https://www.triptease.com/en/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease で Revinate Partners を使用してより重要なホテル宿泊客デ... — Hotel Tech Report による直接予約プラットフォームの第 1 位に選ばれた Triptease は、ゲストの予約データと自動化を使用して、価値の高い顧客をホテルのウェブサイトに誘導し、予約プロセス全体で体験をパーソナライズします。",
+    "url": "https://hoteltechreport.com/ja/news/revinate-triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease - LinkedIn 日本 — Triptease is a SaaS startup building software to help the hotel industry increase their direct bookings. Our offices are in London, New York, Barcelona and Singapore.",
+    "url": "https://jp.linkedin.com/company/triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease: Increase direct bookings. Full funnel hotel marketing — Triptease helps hotels increase direct bookings with full funnel hotel marketing tools powered by your unique price, market and customer data.",
+    "url": "https://www.triptease.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease: Increase direct bookings. Full funnel hotel marketing — Triptease is a direct booking platform built specifically for hotels. It combines pricing data, guest data, and marketing automation to help hotels increase direct bookings and reduce reliance on OTAs.",
+    "url": "https://www.triptease.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact our team - Triptease — Triptease provides full-funnel marketing for hotels, powered by your unique price, market and customer data. Get in touch with our team today.",
+    "url": "https://www.triptease.com/en/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease | LinkedIn — Attract and convert high-value guests on your hotel website with the award-winning direct booking platform. Triptease is a SaaS startup building software to help the hotel industry increase their...",
+    "url": "https://jp.linkedin.com/company/triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease Clients Japan – PN Data Solutions Inc. — PN Data Solutions Inc offers a highly accurate and verified Triptease Customers List, helping businesses connect directly with hotel owners, revenue managers, marketing directors, digital commerce leaders, general managers, and hospitality technology decision-makers.",
+    "url": "https://pndatasol.com/tag/triptease-clients-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease Platform — Welcome back! Please sign in to continue.",
+    "url": "https://app.triptease.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Triptease — Our customers are like you. Hear from them how using Triptease changed their business.",
+    "url": "https://www.triptease.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease B2B Case Studies & Customer Successes — See how Triptease solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/tripteasef",
+    "pass": 3
+   },
+   {
+    "quote": "How Gumloop helped Triptease win +200% more revenue — Sep 23, 2024 · Triptease is one of Gumloop's first success stories and a big reason we knew we were on the right path in the very early days. They started off with a single user poking around the product and have since onboarded over 60 employees onto Gumloop in order to boost efficiency organization-wide with AI.",
+    "url": "https://www.gumloop.com/blog/triptease-enterprise-case-study-ai-assisted-sales",
+    "pass": 3
+   },
+   {
+    "quote": "48 Triptease Case Studies, Success Stories, & Customer Stories — Narrow down 5 case studies by company size & industry to find out how Triptease works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/tripteasef/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "List of Triptease Customers - Apps Run The World — Since 2010, our global team of researchers has been studying Triptease customers around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/triptease/",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease – Market Position & Workforce Comparison – 2026 — Triptease Revenue & Valuation Triptease's operations are expected to yield yearly revenues near $40.1M. The company’s workforce productivity is estimated at $273.1K in annual revenue per employee. Funding raised by Triptease over the years amounts to $24M.",
+    "url": "https://compworth.com/company/triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease Revenue 2024: $7.3M Est., $4M Raised - LATKA — Dec 23, 2024 · Triptease 2024 estimated revenue: $7.3M (up from $5.1M in 2023). Total funding: $4M across 1 round. 10K customers, 136 employees. Updated Dec 23, 2024.",
+    "url": "https://getlatka.com/companies/triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease 2026 Company Profile: Valuation, Funding ...Triptease - 2026 Company Profile, Funding & Investors | The ...Triptease - 2026 Company Profile, Team, Funding, Competitors ...Triptease Revenue, Funding & Valuation - prospeo.ioTriptease Information - RocketReach — Information on valuation, funding, cap tables, investors, and executives for Triptease. Use the PitchBook Platform to explore the ",
+    "url": "https://pitchbook.com/profiles/company/61066-99",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease - 2026 Company Profile, Funding & Investors | The ... — Oct 17, 2026 · Founded in 2012 and based in London, United Kingdom, Triptease operates in the hospitality technology sector. A web widget is provided for integration with hotel booking engines, displaying live prices from online travel agencies.",
+    "url": "https://www.thecompanycheck.com/company/b/triptease/19emfsp3e49pvhh5s",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease - 2026 Company Profile, Team, Funding, Competitors ...Triptease Revenue, Funding & Valuation - prospeo.ioTriptease Information - RocketReach — Aug 12, 2026 · Triptease - About the company Triptease is a series B company based in London (United Kingdom), founded in 2012 by Charlie Osmond and Alasdair Snow. It operates as a SaaS-driven distribution solution for hotels. Triptease has raised",
+    "url": "https://tracxn.com/d/companies/triptease/__Oc2D3yl4jrmFHnfVrHQV6wOY6g8noRjsqFKd1E1JOCM",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Triptease Clients Japan - PN Data Solutions Inc.",
+    "url": "https://pndatasol.com/tag/triptease-clients-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "All posts tagged: Triptease Clients Japan",
+    "url": "https://pndatasol.com/tag/triptease-clients-japan/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Triptease (@Triptease) / X Product experts from Triptease and @SHR_Global recently joined forces to answer your most pressing questions about Google and metasearch. Watch the recording or read the write-up here.",
+    "url": "https://x.com/triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Hospitality Net on X: \"Introducing the Triptease Data ... Introducing the Triptease Data Marketing Platform | By Holly Groom - https://t.co/bMTdaxXOiM - https://t.co/bMTdaxXOiM",
+    "url": "https://x.com/hospitalitynet/status/1623747326006132737",
+    "pass": 3
+   },
+   {
+    "quote": "Sean Bennett Triptease (@skbat) / X Sean Bennett Triptease @skbat Sep 18, 2019 Hotel Tech Report on why Triptease's unique Direct Bookings Platform is the No.1 choice for hotel chains buff.ly/2O7ar5z Sean Bennett Triptease @skbat Sep 17, 2019 Starwood, Wyndham and Sands on Why Hotels Must Change Their Approach to Distribution buff.ly/2HLdbRc Sean Bennett Triptease @skbat Sep 12, 2019",
+    "url": "https://x.com/skbat",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Triptease (@Triptease) / X One week till @ Triptease 's Direct Booking Summit takes place in Miami where Alysia and Caroline want to show you an easier way to get more bookings and manage your revenue!",
+    "url": "https://x.com/Triptease/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Triptease - LinkedIn Triptease is a SaaS startup building software to help the hotel industry increase their direct bookings. Our offices are in London, New York, Barcelona and Singapore.",
+    "url": "https://www.linkedin.com/company/triptease/",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease - LinkedIn Triptease is a SaaS startup building software to help the hotel industry increase their direct bookings. Our offices are in London, New York, Barcelona and Singapore.",
+    "url": "https://uk.linkedin.com/company/triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease - LinkedIn Triptease is a SaaS startup building software to help the hotel industry increase their direct bookings. Our offices are in London, New York, Barcelona and Singapore.",
+    "url": "https://sg.linkedin.com/company/triptease",
+    "pass": 3
+   },
+   {
+    "quote": "Charlie Osmond - Co-Founder, TRIPTEASE | LinkedInTriptease - LinkedInSoftware Engineer - (Mid Level) at Triptease — United Kingdom ...Isaac Boudreau - Mid-Market Manager @ Triptease | Commercial ... Co-Founder, TRIPTEASE · Triptease helps hotels get more direct bookings. We're the industry leader in delivering personalization across hotel websites and booking engines. Triptease is a SaaS startup b",
+    "url": "https://www.linkedin.com/in/charlieo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Triptease - Facebook Nov 20, 2025 · The new EP from paperclip maximizer aka @triptease. live’s Francesco is out today! The Shoe is the Sign is the debut EP from Francesco’s solo project. No sequencers were harmed in the production of these tracks, they are just a temporary coagulation of guitars and drumloops.",
+    "url": "https://www.facebook.com/triptease.live/",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease - https://youtu.be/tSqUWTzTDnM?si=9fHY9GqWX1ytdQXE ... May 16, 2024 · Triptease invite their favourite musicians to dive into an open, gear-driven jam session - analog, digital, modular, and everything in between. Joining the flow: our friends Acido Lucido from Switzerland, exploring the wonderful world of modular synthesis and analog textures, skillfully blending machines with tradition",
+    "url": "https://www.facebook.com/triptease.live/posts/7215ee9c/897309645703126/",
+    "pass": 3
+   },
+   {
+    "quote": "TripTease - Facebook May 7, 2026 · TripTease. 31 followers. Psychedelia through filters Based in Athens, GR",
+    "url": "https://www.facebook.com/p/TripTease-61556934053485/",
+    "pass": 3
+   },
+   {
+    "quote": "Triptease.Travel - Facebook Not a weekend you forgot. Thailand. Bali. Vietnam. Any destinations you want. Zero basic itineraries. Triptease is India’s first travel company built specifically for bachelor trips. Hard, dreamy, wild — we do all three, and we do it well. Your last trip as a single man deserves better than a group chat nobody followed through on.",
+    "url": "https://www.facebook.com/61578979839234/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.triptease.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions?role=ecommerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions?role=revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions?role=marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories/grand-traverse-resort-and-spa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories/how-song-hotel-sydney-worked-with-triptease-to-minimize-ota-undercuts-and-boost-direct-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories/business-or-pleasure-how-royal-group-drives-direct-bookings-across-segments-with-triptease",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions?case=increase-your-direct-bookings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions?case=beat-ota-prices-automatically",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions?case=take-care-of-rate-parity-issues",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/solutions?case=drive-more-high-value-traffic-to-your-website",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories/dream-inn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/resources/outsmart-the-otas-with-dynamic-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories/amarante",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories/carlton-hotel-singapore",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.triptease.com/hubfs/triptease_2024/solutions/Revenue_3-2x.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.triptease.com/hubfs/2026/Logos/mews.logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.triptease.com/hubfs/2026/Logos/siteminder-logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.triptease.com/hubfs/2026/Logos/duetto-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.triptease.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/en/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoteltechreport.com/ja/news/revinate-triptease",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/triptease",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.triptease.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.triptease.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/en/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/triptease",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pndatasol.com/tag/triptease-clients-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triptease.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tripteasef",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gumloop.com/blog/triptease-enterprise-case-study-ai-assisted-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tripteasef/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/triptease",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/triptease",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/61066-99",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/triptease/19emfsp3e49pvhh5s",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/triptease",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hospitalitynet/status/1623747326006132737",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/skbat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/triptease/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/triptease",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/triptease",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/charlieo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/triptease.live/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/triptease.live/posts/7215ee9c/897309645703126/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/TripTease-61556934053485/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61578979839234/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/triptease",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Triptease/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Triptease 日本 導入",
+   "results": [
+    "https://www.triptease.com/",
+    "https://www.triptease.com/en/platform",
+    "https://hoteltechreport.com/ja/news/revinate-triptease",
+    "https://jp.linkedin.com/company/triptease",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "https://japan.storm.mg/articles/1167881"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triptease 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.triptease.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triptease Japan",
+   "results": [
+    "https://www.triptease.com/",
+    "https://www.triptease.com/en/contact",
+    "https://jp.linkedin.com/company/triptease",
+    "https://pndatasol.com/tag/triptease-clients-japan/",
+    "https://app.triptease.io/",
+    "https://www.youtube.com/playlist?list=PLOe-ZhqtgxjoFTPsdbbUHu0IiW4-LEXMy",
+    "http://asakusa-rockza.com/?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triptease manufacturing customer case study",
+   "results": [
+    "https://www.triptease.com/customer-stories",
+    "https://www.casestudies.com/company/tripteasef",
+    "https://www.gumloop.com/blog/triptease-enterprise-case-study-ai-assisted-sales",
+    "https://www.featuredcustomers.com/vendor/tripteasef/case-studies",
+    "https://www.appsruntheworld.com/customers-database/products/view/triptease/",
+    "https://www.triptease.com/",
+    "https://valuecore.ai/valuehub/category/hospitality_software/triptease/business-documents"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triptease white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Triptease founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/triptease",
+    "https://getlatka.com/companies/triptease",
+    "https://pitchbook.com/profiles/company/61066-99",
+    "https://www.thecompanycheck.com/company/b/triptease/19emfsp3e49pvhh5s",
+    "https://tracxn.com/d/companies/triptease/__Oc2D3yl4jrmFHnfVrHQV6wOY6g8noRjsqFKd1E1JOCM",
+    "https://prospeo.io/c/triptease-revenue",
+    "https://rocketreach.co/triptease-profile_b5eb7ed2f42e849a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Triptease",
+   "results": [
+    "https://note.com/tag/dots",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/gomizaru5336/n/n837e3b98d89b",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/momiji_man_10/n/n62ea2d9a9a9a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Triptease",
+   "results": [
+    "https://x.com/triptease",
+    "https://x.com:2096/Triptease/with_replies",
+    "https://x.com/hospitalitynet/status/1623747326006132737",
+    "https://x.com/skbat",
+    "https://x.com/TheTripTease/status/403507471714889728",
+    "https://x.com/TheTripTease/status/443402183728717824",
+    "https://x.com/ChimmyKalu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Triptease",
+   "results": [
+    "https://www.linkedin.com/company/triptease/",
+    "https://uk.linkedin.com/company/triptease",
+    "https://sg.linkedin.com/company/triptease",
+    "https://www.linkedin.com/in/charlieo",
+    "https://es.linkedin.com/company/triptease",
+    "https://uk.linkedin.com/jobs/view/software-engineer-mid-level-at-triptease-4455706645",
+    "https://ca.linkedin.com/in/isaac-boudreau"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Triptease",
+   "results": [
+    "https://www.facebook.com/triptease.live/",
+    "https://www.facebook.com/triptease.live/posts/7215ee9c/897309645703126/",
+    "https://www.facebook.com/p/TripTease-61556934053485/",
+    "https://www.facebook.com/61578979839234/",
+    "https://www.facebook.com/p/Triptease-100069729571157/",
+    "https://www.facebook.com/playaproducts/videos/the-scent-of-a-vacation-youll-never-forget-triptease-perfume-oil-for-body-and-al/29241295742142255/",
+    "https://www.facebook.com/groups/610275402499593/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triptease note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://www.buffett-code.com/company/5243/governance"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triptease X 投稿",
+   "results": [
+    "https://x.com/triptease",
+    "https://x.com:2096/Triptease/with_replies",
+    "https://x.com/Triptease/reposts",
+    "https://www.triptease.com/",
+    "https://www.nudevista.com/?q=striptease&s=t",
+    "https://www.eroticbeauties.net/category/striptease/?videos",
+    "https://x.com/malestrippersex"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

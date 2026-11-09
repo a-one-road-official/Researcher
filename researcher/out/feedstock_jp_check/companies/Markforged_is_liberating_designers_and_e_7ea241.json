@@ -1,0 +1,512 @@
+{
+ "name": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:27:23.877288+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Markforged - FacebookFrom stronger parts to serious scale — the Markforged FX20 is ...MARKFORGED - THE FUTURE OF... - Total CNC Products - FacebookMetal 3D printing to save lead time and part cost - FacebookSiemens saves over 8000€ per component and over 35 weeks of ...3D - MRO Engineering has significantly improved their ...We purchased a Markforged X7 3D printer to address the long ... Jun 16, 2",
+    "url": "https://www.facebook.com/markforged/",
+    "pass": 3
+   },
+   {
+    "quote": "MARKFORGED - THE FUTURE OF... - Total CNC Products - Facebook Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. Total CNC have secured the agency to sell this exciting product in New Zealand.",
+    "url": "https://www.facebook.com/totalcnc/posts/markforged-the-future-of-manufacturing-23-x-stronger-than-abs-parts-print-with-c/1567316529989088/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://static.markforged.com/downloads/Markforged_The_Additive_Movement_Has_Arrived.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/company/markforged",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datadesign.co.jp/markforged/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.co.jp/brand/markforged/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/en/cg3/Industrial%203D%20Printers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.co.jp/resources/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/markforged",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mark3d.com/en/economics-of-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/blog/understanding-rapid-prototyping-with-3d-printing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/jp/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/markforged",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/blog/3d-printing-supply-chain-5-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/markforged",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://static.markforged.com/downloads/Markforged_The_Additive_Movement_Has_Arrived.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/company/markforged",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%80%90Amazon-co-jp%E9%99%90%E5%AE%9A%E3%80%91-ASUS-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC-VG27AQ3A-Compatible/dp/B0CJ56JD6R",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/gp/video/browse/?serviceToken=v0_Cl0KJDMzMjZiNDg0LWYzMjAtNGZhMy05MTFhLWRhMTQ5ZjU3N2ZmMBDgpaDH3zMaLDR6R2Vsa3lyWVVHSW9CcTNmUlJKK1U4V0c0TWluS0RsbGtXRXdBYmtCMG89IAESBXF1ZXJ5GAEqB2RlZmF1bHQyBmNlbnRlcjoGc2VhcmNoUglCNnloclJzbXJ6AIIB2wISKTE6MVNaWlZVRlBFRUJZSyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNGoECcXMtb2ZmZXJfdHlwZT0xJnFzLWNvdW50cnktY29kZT1VUyZmaWVsZC13YXlzX3RvX3dhdGNoPTM3NDYzMzAwNTEmYWR1bHQtcHJvZHVjdD0wJnNlYXJjaC1hbGlhcz1pbnN0YW50LXZpZGVvJmJxPShhbmQgYXZfZnZvZF9pbl90ZXJyaXRvcnk6J0pQJyAobm90IGVudGl0eV90eXBlOidQcm9tb3Rpb258VHJhaWxlcnxCb251cyBDb250ZW50JykpJnB2X2Jyb3dzZV9pbnRlcm5hbF9vZmZlcj1zdm9kJnB2X2Jyb3dzZV9pbnRlcm5hbF9sYW5ndWFnZT1hbGwiJOeEoeaWmeOCqOODlOOCveODvOODieOBjOOBguOCi-S9nOWTgTAAUABwAA==&jic=8%7CEgRzdm9k",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Total-Quality-Management-TQM-Real-World-ebook/dp/B0GQ1PS1P8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/UNIVERSAL-CREATIVITIES-Creations-People-Liberating-Creativity-ebook/dp/B0B6RBG9J5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04600824/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/06271760/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/07762395/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/en/industry-2/3d-printer-manufacturer-stratasys-acquires-markforged-for-425-million-us-dollars-47157659/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/stratasys-acquires-markforged-from-nano-dimension-for-42-5-million/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinting.com/news/nano-dimension-acquires-markforged-to-strengthen-position-in-additive-manufacturing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additive-x.com/blog/3d-printer-price-vs-long-term-cost-reductions-with-markforged/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/markforged/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/totalcnc/posts/markforged-the-future-of-manufacturing-23-x-stronger-than-abs-parts-print-with-c/1567316529989088/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. 代理店",
+   "results": [
+    "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "https://static.markforged.com/downloads/Markforged_The_Additive_Movement_Has_Arrived.pdf",
+    "https://www.linkedin.com/company/markforged",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://www.mark3d.com/en/markforged-3d-printing-application-review/",
+    "https://www.facebook.com/3Dnatives/videos/stratasys-just-bought-markforged-for-425m-cash-a-company-that-changed-hands-twic/26988867004068696/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/984/stratasys-to-acquire-markforged-inc-expanding-aerospace",
+    "https://www.ellisontechnologies.com/markforged-3d-printing",
+    "https://develop3d.com/3d-printing/markforged-acquired-by-stratasys/",
+    "https://markforged.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.datadesign.co.jp/markforged/",
+    "https://apple-tree.co.jp/brand/markforged/",
+    "https://mono.ipros.com/en/cg3/Industrial%203D%20Printers/",
+    "https://www.stratasys.co.jp/resources/events/",
+    "https://formlabs.com/jp/blog/additive-manufacturing/",
+    "https://monoist.itmedia.co.jp/mn/series/1620/",
+    "https://news.sharelab.jp/3dp-news/plastics-3dprinter/apple-tree-markforged-onyx-pro-231228/",
+    "https://www.datadesign.co.jp/markforged/overview/",
+    "https://metoree.com/categories/5523/",
+    "https://shop.markforged.com/shop/s/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. 日本 販売",
+   "results": [
+    "https://markforged.com/resources/blog/roi-for-metal-3d-printers",
+    "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "https://www.linkedin.com/company/markforged",
+    "https://www.mark3d.com/en/economics-of-3d-printing/",
+    "https://markforged.com/",
+    "https://www.sec.gov/Archives/edgar/data/1816613/000095017025046869/mkfg-20241231.htm",
+    "https://3dprinter.co.jp/cms3d/wp-content/uploads/2022/09/J3P_Markforged_0808_WEB.pdf",
+    "https://www.datadesign.co.jp/markforged/",
+    "https://www.youtube.com/watch?v=yPreJsetWj8",
+    "https://markforged.com/partners"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://markforged.com/jp/resources/blog/understanding-rapid-prototyping-with-3d-printing",
+    "https://markforged.com/jp/resources/case-studies/caldwell-manufacturing",
+    "https://www.linkedin.com/company/markforged",
+    "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "https://www.additive-x.com/blog/3d-printer-price-vs-long-term-cost-reductions-with-markforged?srsltid=AYCX9vKGQVjyDQiC_tTIrXbBLkaxrXhB9BE56tUZ98jMWE-eewIsl1YX",
+    "https://www.creat3d.solutions/markforged-composite-3d-printers",
+    "https://www.ellisontechnologies.com/markforged-3d-printing",
+    "https://www.reddit.com/r/3Dprinting/comments/1c5nm2y/we_now_have_fdm_metal_desktop_3d_printing_hope/?tl=ja",
+    "https://www.youtube.com/watch?v=ub85aPZZsTM",
+    "https://ja.wikipedia.org/wiki/レジン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. Japan distributor",
+   "results": [
+    "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "https://markforged.com/resources/blog/3d-printing-supply-chain-5-examples",
+    "https://www.linkedin.com/company/markforged",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://investors.stratasys.com/news-events/press-releases/detail/984/stratasys-to-acquire-markforged-inc-expanding-aerospace",
+    "https://www.ellisontechnologies.com/markforged-3d-printing",
+    "https://www.facebook.com/3Dnatives/videos/stratasys-just-bought-markforged-for-425m-cash-a-company-that-changed-hands-twic/26988867004068696/",
+    "https://www.mark3d.com/en/markforged-3d-printing-application-review/",
+    "https://develop3d.com/3d-printing/markforged-acquired-by-stratasys/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.goengineer.com/3d-printing/markforged-3d-printers",
+    "https://static.markforged.com/downloads/Markforged_The_Additive_Movement_Has_Arrived.pdf",
+    "https://www.linkedin.com/company/markforged",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://develop3d.com/3d-printing/markforged-acquired-by-stratasys/",
+    "https://www.facebook.com/3Dnatives/videos/stratasys-just-bought-markforged-for-425m-cash-a-company-that-changed-hands-twic/26988867004068696/",
+    "https://investors.stratasys.com/news-events/press-releases/detail/984/stratasys-to-acquire-markforged-inc-expanding-aerospace",
+    "https://www.ellisontechnologies.com/markforged-3d-printing",
+    "https://www.mark3d.com/en/markforged-3d-printing-application-review/",
+    "https://newji.ai/japan-industry/beyond-borders-the-global-appeal-of-japanese-business-partnerships/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.",
+   "results": [
+    "https://www.amazon.co.jp/【Amazon-co-jp限定】-ASUS-ゲーミングモニター-VG27AQ3A-Compatible/dp/B0CJ56JD6R",
+    "https://www.amazon.co.jp/gp/video/browse/?serviceToken=v0_Cl0KJDMzMjZiNDg0LWYzMjAtNGZhMy05MTFhLWRhMTQ5ZjU3N2ZmMBDgpaDH3zMaLDR6R2Vsa3lyWVVHSW9CcTNmUlJKK1U4V0c0TWluS0RsbGtXRXdBYmtCMG89IAESBXF1ZXJ5GAEqB2RlZmF1bHQyBmNlbnRlcjoGc2VhcmNoUglCNnloclJzbXJ6AIIB2wISKTE6MVNaWlZVRlBFRUJZSyMjTVpRV0daTFVNVlNFR1lMU041MlhHWkxNGoECcXMtb2ZmZXJfdHlwZT0xJnFzLWNvdW50cnktY29kZT1VUyZmaWVsZC13YXlzX3RvX3dhdGNoPTM3NDYzMzAwNTEmYWR1bHQtcHJvZHVjdD0wJnNlYXJjaC1hbGlhcz1pbnN0YW50LXZpZGVvJmJxPShhbmQgYXZfZnZvZF9pbl90ZXJyaXRvcnk6J0pQJyAobm90IGVudGl0eV90eXBlOidQcm9tb3Rpb258VHJhaWxlcnxCb251cyBDb250ZW50JykpJnB2X2Jyb3dzZV9pbnRlcm5hbF9vZmZlcj1zdm9kJnB2X2Jyb3dzZV9pbnRlcm5hbF9sYW5ndWFnZT1hbGwiJOeEoeaWmeOCqOODlOOCveODvOODieOBjOOBguOCi-S9nOWTgTAAUABwAA==&jic=8|EgRzdm9k",
+    "https://www.amazon.co.jp/Total-Quality-Management-TQM-Real-World-ebook/dp/B0GQ1PS1P8",
+    "https://www.amazon.co.jp/UNIVERSAL-CREATIVITIES-Creations-People-Liberating-Creativity-ebook/dp/B0B6RBG9J5",
+    "https://www.amazon.co.jp/Hazards-Travel-Joyce-Carol-Oates/dp/006286100X",
+    "https://www.amazon.co.jp/LIBERATING-YOUR-LEADERSHIP-POTENTIAL-Self-Limiting-ebook/dp/B07HPDJKBB",
+    "https://www.amazon.co.jp/Voice-High-Announces-Liberating-Revelation/dp/0529124149",
+    "https://www.amazon.co.jp/Unchained-Traveler-Liberating-Experiencing-Preparedness-ebook/dp/B0GX7W2PKL",
+    "https://www.amazon.co.jp/BIM-Handbook-Information-Designers-Contractors/dp/1119287537"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:monotaro.com Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.",
+   "results": [
+    "https://www.monotaro.com/g/04600824/",
+    "https://www.monotaro.com/g/06271760/",
+    "https://www.monotaro.com/g/07762395/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. employees revenue parent company",
+   "results": [
+    "https://3druck.com/en/industry-2/3d-printer-manufacturer-stratasys-acquires-markforged-for-425-million-us-dollars-47157659/",
+    "https://www.voxelmatters.com/stratasys-acquires-markforged-from-nano-dimension-for-42-5-million/",
+    "https://3dprinting.com/news/nano-dimension-acquires-markforged-to-strengthen-position-in-additive-manufacturing/",
+    "https://www.additive-x.com/blog/3d-printer-price-vs-long-term-cost-reductions-with-markforged/",
+    "https://purpleplatypus.com/stratasys-markforged-acquisition/",
+    "https://www.mark3d.com/de/en/",
+    "https://3dprint.com/313285/nano-dimension-to-buy-markforged-to-create-3d-printing-behemoth/",
+    "https://en.wikipedia.org/wiki/Markforged",
+    "https://markforged.com/about/company",
+    "https://markforged.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.",
+   "results": [
+    "https://note.com/sleepydragon/n/n78272c94053b?hl=en",
+    "https://note.com/prodouga/n/nd422a1acb07a?hl=en",
+    "https://money.note.com/us-companies/MKFG",
+    "https://note.com/555_design/n/nb223a792d822?hl=en",
+    "https://note.com/japanmarketing/n/n918f7c5901bb?hl=en",
+    "https://note.com/ikedamax/n/n97d253669e51?hl=en",
+    "https://note.com/kis_project/n/n3ed6157527e4?hl=en",
+    "https://note.com/92soft/n/n0083c8aa21c8?hl=en",
+    "https://note.com/qy_research/n/n29e68ce885d5?hl=en",
+    "https://note.com/dapper_jaguar454/n/ndcbf6dabab4c?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.",
+   "results": [
+    "https://jf.x.com/images/media-preview/2115641482975863111",
+    "https://x.com/Markforged/status/1227991582185590784",
+    "https://x.com/MorsaDesigns/status/1159233673926856704"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:linkedin.com Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.",
+   "results": [
+    "https://www.linkedin.com/company/markforged/",
+    "https://www.linkedin.com/posts/richardelving_3dprinting-additivemanufacturing-manufacturing-activity-7237589644106682368-Nj8B",
+    "https://pe.linkedin.com/posts/suraj-s-b355b756_great-to-see-how-eni-manufacturing-ltd-in-activity-7317385796112601089-heU8",
+    "https://pe.linkedin.com/posts/gsc3d_by-leveraging-markforged-3d-printing-technology-activity-7196902098242842624-vmrW",
+    "https://hr.linkedin.com/posts/richardelving_west-australian-wallis-drilling-turns-to-activity-7066904458760245248-_A2a",
+    "https://www.linkedin.com/posts/jebruno22_siemens-energy-innovation-center-3d-printing-activity-7350509648354959360-L0_Q",
+    "https://www.linkedin.com/posts/markforged_additivemanufacturing-markforged-activity-7467853537897758720-S9XF",
+    "https://lr.linkedin.com/posts/abhimanyu-chavan-3dprinting_mro-engineering-boosts-delivery-lead-times-activity-7011556393690263552-2pQy",
+    "https://tw.linkedin.com/posts/suraj-sethi-b355b756_the-digital-forge-activity-7033941115250610176-LTiI"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing.",
+   "results": [
+    "https://www.facebook.com/markforged/",
+    "https://www.facebook.com/hawkridgesystems/videos/from-stronger-parts-to-serious-scale-the-markforged-fx20-is-changing-the-game-bi/668619249143329/",
+    "https://www.facebook.com/totalcnc/posts/markforged-the-future-of-manufacturing-23-x-stronger-than-abs-parts-print-with-c/1567316529989088/",
+    "https://www.facebook.com/markforged/videos/metal-3d-printing-to-save-lead-time-and-part-cost/507049993215748/",
+    "https://www.facebook.com/Mark3DGmbH/videos/siemens-saves-over-8000-per-component-and-over-35-weeks-of-waiting-time-with-mar/571295563547268/",
+    "https://www.facebook.com/3dmonotech.in/photos/mro-engineering-has-significantly-improved-their-delivery-lead-times-with-the-he/532077362277454/",
+    "https://www.facebook.com/pmpincbiz/videos/our-markforged-x7-3d-printer/909972259383242/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Markforged",
+    "https://markforged.com/",
+    "https://markforged.com/about/company",
+    "https://www.rapid3devent.com/rapid-me/markforged/",
+    "https://www.designdevelopmenttoday.com/industries/manufacturing/news/22878560/new-markforged-3d-printer-promises-to-cut-costs-lead-times",
+    "https://www.asme.org/topics-resources/content/markforgeds-greg-mark-3d-metal-printing-additive",
+    "https://www.voxelmatters.directory/company/markforged/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Markforged is liberating designers and engineers from the long lead times and high costs of traditional manufacturing. X 投稿",
+   "results": [
+    "https://x.com/markforged",
+    "https://markforged.com/",
+    "https://markforged.com/resources/case-studies/",
+    "https://www.additive-x.com/blog/3d-printer-price-vs-long-term-cost-reductions-with-markforged/",
+    "https://www.casestudies.com/company/markforged/case-study/siemens-gas-power-cuts-custom-tool-lead-times-from-3-weeks-to-days-with-markforged",
+    "https://www.linkedin.com/posts/markforged_are-long-lead-times-high-costs-and-reliance-activity-7392229607002914818-ig1-",
+    "https://www.markforgedus.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

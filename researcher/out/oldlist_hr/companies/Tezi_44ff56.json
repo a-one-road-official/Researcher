@@ -1,0 +1,931 @@
+{
+ "name": "Tezi",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-09T20:40:24.867467+00:00",
+ "official_url": "https://tezi.ai",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Menlo Park, CA, USA",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "31-Jul-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hoodies, tees and shorts made for class, the beach and everywhere in between. Printed to order, with a size chart on every product.",
+    "url": "https://tezi.us/",
+    "pass": 3
+   },
+   {
+    "quote": "Size chart on every product",
+    "url": "https://tezi.us/",
+    "pass": 3
+   },
+   {
+    "quote": "YOUNG AND PRETTY LIVE",
+    "url": "https://www.youtube.com/watch?v=Y_zjEygiCzo",
+    "pass": 3
+   },
+   {
+    "quote": "TRACY / Groovin'Trippers [VHS Video]",
+    "url": "https://www.youtube.com/watch?v=Y_zjEygiCzo",
+    "pass": 3
+   },
+   {
+    "quote": "RIVERS OF POSITRONIC BLOOD (OFFICIAL VIDEO)",
+    "url": "https://www.youtube.com/watch?v=Bw7lxNwXLb0",
+    "pass": 3
+   },
+   {
+    "quote": "Stay organized, prioritize with ease, and get things done faster. Our all-in-one task management tool keeps your team aligned and on track.",
+    "url": "https://tezi.co/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Boosting Open Rates: How SyncMaster Improved Email Engagement by 50%",
+    "url": "https://tezi.co/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Order Processing Delays",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Quotes and price estimates often get lost in your messages, making them hard to find.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From Hindi to Tamil, Marathi to Gujarati—Tezi makes every regional language conversation feel natural. Connect with customers in their preferred language, instantly.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Customer since 2020",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why switch apps when you can do everything in one place? Let customers browse products, place orders, and share details—all within your conversation.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Business Partner",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Make every customer feel special with custom pricing and exclusive offers. Tezi makes it easy to boost sales and build strong relationships.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Access inventory, pricing, and order history right in your conversations. Tezi brings your business data to life in every chat.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Product Suite",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Solutions for",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From AI-powered communications to trade fair management and visitor control, Tezi provides the complete toolkit for business growth and efficiency.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In-chat product ordering",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Complete hardware solution for exhibition visitor management. Professional device with voice registration, real-time analytics, and AI insights - delivered ready to use.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Transform products into customer experiences with smart QR codes. Enable rewards, loyalty programs, product information, and warranty management through a single scan.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ready to transform your business operations with our complete product suite?",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi connects with your existing systems to provide accurate, up-to-date business information instantly",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi develops autonomous artificial intelligence designed to manage the entire hiring process. Its core product, Max, operates as an AI recruiting agent, proactively handling candidate sourcing, screening, and interview scheduling. This sophisticated AI is trained by experienced hiring managers and recruiters, aiming to significantly streamline the recruitment workflow for organizations.",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2024 by Jason James and Raghavendra Prabhu, Tezi originated from the insight that substantial parts of recruitment could be optimized through specialized AI. The founders sought to alleviate recruiters from mundane tasks, enabling them to focus on strategic engagement and human elements of talent acquisition.",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi serves heads of talent and established talent teams aiming to enhance recruitment efficiency and scale operations. The company's vision centers on transforming talent acquisition by integrating intelligent AI agents that automate repetitive aspects, empowering organizations to attract and secure top talent more effectively.",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous and Proactive Capabilities",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": ": Handles end-to-end workflows—sourcing from 750M profiles, screening thousands of resumes instantly, scheduling via calendars, and providing 24/7 candidate support—reducing time-to-hire from weeks to minutes.[1][2][4]",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": ": Built by founders who hired 1,000+ employees, with input from elite recruiters, ensuring meticulous, real-world optimized experiences.[3]",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": ": Works with existing systems, focusing on objective criteria to boost candidate experience without demographic biases.[2][5]",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an autonomous artificial intelligence-based recruiting software designed to lead the end-to-end hiring process.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an autonomous artificial intelligence-based recruiting software designed to lead the end-to-end hiring process. The company's software is trained by hiring managers and recruiters who proactively source, screen applications, schedule interviews, and collect scorecards, helping businesses to hire faster with less hassle and for a lower cost.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an autonomous artificial intelligence-based recruiting software designed to lead the end-to-end hiring proc",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": ", a Private Equity-Backed company based in Waltham, MA.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Is Tezi a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に Raghavendra Prabhu 氏と Jason James 氏によって設立されました",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "2438 JAPAN 924回視聴 11 年前",
+    "url": "https://www.youtube.com/watch?v=Y_zjEygiCzo",
+    "pass": 3
+   },
+   {
+    "quote": "2438 JAPAN",
+    "url": "https://www.youtube.com/watch?v=Y_zjEygiCzo",
+    "pass": 3
+   },
+   {
+    "quote": "2438 JAPAN 228回視聴 11 年前",
+    "url": "https://www.youtube.com/watch?v=Bw7lxNwXLb0",
+    "pass": 3
+   },
+   {
+    "quote": "2438 JAPAN",
+    "url": "https://www.youtube.com/watch?v=Bw7lxNwXLb0",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Tezi が具体的にどのような問題を解決し、どのような仕組みで動作しているのか、さらに資金調達や導入事例、価格設定、競合との比較、そして差別化のポイントまでを詳しく見ていきます",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tezi — Tezi is a street college label inspired by the coast, built on easy fits for everyday wear. Broken-in tees, soft hoodies and shorts for the walk to class, the drive to the beach and the bonfire after.",
+    "url": "https://tezi.us/",
+    "pass": 3
+   },
+   {
+    "quote": "TEZI Teenage Tribute TRACY - YouTube — TEZI from JapanTribute TRACY Teenage TEZI from Japan Tribute TRACY Teenage …...more",
+    "url": "https://www.youtube.com/watch?v=Y_zjEygiCzo",
+    "pass": 3
+   },
+   {
+    "quote": "TEZI Liar Tribute TRACY - YouTube — TEZI Liar Tribute of TRACY",
+    "url": "https://www.youtube.com/watch?v=Bw7lxNwXLb0",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: Tezi Authentic Classic te0054 Organic Cotton ... — Product description Tieasy Authentic Classic Teasy Authentic Classic is a brand that produces high-quality cut and sew standards with high quality cotton and traditional Japanese manufacturing methods, mainly in East Japan. TE0054 Tieasy Original Cardigan. Tieasy's classic cardigan based on 0052, a classic cardigan.",
+    "url": "https://www.amazon.co.jp/-/en/Authentic-Cardigan-Selectable-Tieasy-ORIGINAL/dp/B0D34Y2JNT",
+    "pass": 3
+   },
+   {
+    "quote": "ds- (Summary) Tezi My Holder 20P MC202-12 A4S Pink [x30 sets] — Find ds- (Summary) Tezi My Holder 20P MC202-12 A4S Pink [x30 sets] on Mercari Japan – top-quality goods from Japan, safe payment, shipped to United States.",
+    "url": "https://japan.us.mercari.com/en/items/01ec4be6-5ce9-42bd-b042-502bfeafa6a9?variant=fce90cb7-3364-4fee-92a1-8bd94c678799",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi - Business Growth, Mentorship & Lifestyle Coaching — Learn, grow, and scale your business with Tezi Programs. Mentorship, systems, monetization, and Zen lifestyle strategies for high-performing entrepreneurs.",
+    "url": "https://tezi.co/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi | The AI-Native Communication Platform for B2B Growth — Transform your business communications with Tezi's AI-powered platform. Seamless ERP integration, real-time translation, and intelligent insights for B2B growth.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi - 2025 Company Profile, Team, Funding & Competitors - TracxnTezi: Funding, Team & Investors | Startup IntrosTezi 2026 Company Profile: Valuation, Investors, Acquisition ...Tezi Company Profile | DHRMapTezi Stock Price, Funding, Valuation, Revenue & Financial ...Tezi - Crunchbase Company Profile & FundingTezi - Products, Competitors, Financials, Employees ... — Nov 26, 2025 · Tezi is a seed co",
+    "url": "https://tracxn.com/d/companies/tezi/__2ZLWJfwhXE-jH1gXv-_MbYgkHctYlReOQRq4BO_QJMo",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Tezi was founded in 2024 by Raghavendra Prabhu (CEO) and an unnamed COO, both seasoned leaders with extensive hiring experience—each having hired over 300 people across top tech firms like Covariant AI, Thumbtack, Pinterest, X (formerly Twitter), Google, Microsoft, Instacart, and Intercom. [3]",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi 2026 Company Profile: Valuation, Investors, Acquisition ...Tezi Company Profile | DHRMapTezi Stock Price, Funding, Valuation, Revenue & Financial ...Tezi - Crunchbase Company Profile & FundingTezi - Products, Competitors, Financials, Employees ... — Jul 31, 2024 · Tezi is a Private company. What is Tezi’s current revenue? The current revenue for Tezi is . How much funding has Tezi raised over",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi Company Profile | DHRMap — Tezi is headquartered in Menlo Park, California, USA, United States. When was Tezi founded? Tezi was founded in 2024. Who founded Tezi? Tezi was founded by Raghavendra Prabhu, Jason James. How much funding has Tezi raised? Tezi has raised $9M to date, per DHRMap records.",
+    "url": "https://www.dhrmap.com/companies/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi Stock Price, Funding, Valuation, Revenue & Financial ... — Mar 31, 2026 · See Tezi funding rounds, investors, investments, exits and more. Evaluate their financials based on Tezi's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/tezi/financials",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Streamlining Task Management for Remote Teams: A Case Study",
+    "url": "https://tezi.co/case-study",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Boosting Open Rates: How SyncMaster Improved Email Engagement by 50%",
+    "url": "https://tezi.co/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Potential customers move on when quotes aren't followed up on time, directly impacting revenue.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Transform products into customer experiences with smart QR codes. Enable rewards, loyalty programs, product information, and warranty management through a single scan.",
+    "url": "https://teziapp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2024 by Jason James and Raghavendra Prabhu, Tezi originated from the insight that substantial parts of recruitment could be optimized through specialized AI. The founders sought to alleviate recruiters from mundane tasks, enabling them to focus on strategic engagement and human elements of talent acquisition.",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi serves heads of talent and established talent teams aiming to enhance recruitment efficiency and scale operations. The company's vision centers on transforming talent acquisition by integrating intelligent AI agents that automate repetitive aspects, empowering organizations to attract and secure top talent more effectively.",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": ": Built by founders who hired 1,000+ employees, with input from elite recruiters, ensuring meticulous, real-world optimized experiences.[3]",
+    "url": "https://startupintros.com/orgs/tezi",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "2. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tezi’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tezi is",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "When was Tezi acquired?",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi was acquired on 31-Mar-2026.",
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Tezi: AIエージェントが面接の候補者探しから日程調整までを自動化 Aug 19, 2025 · Tezi は、7.5 億件の候補者データベースとマルチエージェント型の生成AI によって独自の強みを発揮し、候補者発掘から面接調整までを一気通貫で自動化している点が際立っています。",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Tezi: AIエージェントが面接の候補者探しから日程調整までを自動化｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi: AIエージェントが面接の候補者探しから日程調整までを自動化",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   },
+   {
+    "quote": "本記事で取り上げる Tezi は、生成AI領域において大きな注目を集めているスタートアップの一つです。2023年に Raghavendra Prabhu 氏と Jason James 氏によって設立されました。採用業務に関する課題、たとえば 「候補者探しに時間がかかる」「面接日程の調整が煩雑」 などを、AIエージェント「Max」による完全自動化を通じて解決するのが彼らのビジネスの核心です。",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi は、7.5 億件の候補者データベースとマルチエージェント型の生成AI によって独自の強みを発揮し、候補者発掘から面接調整までを一気通貫で自動化している点が際立っています。",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Tezi が具体的にどのような問題を解決し、どのような仕組みで動作しているのか、さらに資金調達や導入事例、価格設定、競合との比較、そして差別化のポイントまでを詳しく見ていきます。読者の方が生成AIの概念に馴染みがない場合でも理解しやすいよう、専門用語は可能な限りかみ砕いて解説を入れています。",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   },
+   {
+    "quote": "「生成AI事例集」では、「勝ち馬」シリーズと称して、アメリカの成功している生成AIスタートアップを詳細に解説しています。週2記事のペースで記事を公開しています。毎週、1記事は無料記事、もう1記事は有料記事です。（本記事は有料記事です）",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   },
+   {
+    "quote": "毎月4本程度の有料記事が公開されるため、個別記事をご購入いただくよりも、メンバーシップの方がお得です。",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   },
+   {
+    "quote": "個人版メンバーシップでは記事のみ、法人版メンバーシップでは、記事・詳細解説スライド・企業リスト（スプレッドシート）をご利用いただけます。個人版と法人版の違いを含む、生成AI事例集の勝ち馬シリーズの詳細は、こちらをご覧ください。",
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tezi (@TezizWorld) / X Tezi @TezizWorld he den caught a body then he told so it drop he’s rank @ trip7gaming Los Angeles, CA TeziWorld.com",
+    "url": "https://x.com/TezizWorld",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi (@tezibtw) / X 🥶🌎 @tezibtw hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/tezibtw",
+    "pass": 3
+   },
+   {
+    "quote": "TEZI! (@TeziMagazine) / Posts / X Rare Board Games is a leading provider of rare, out of print, and collectible board games. Follow @RareBoardGames if you love #Boardgames! 💬0 🔄0 🤍1 0 📎 TEZI!TeziMagazine Jul 6",
+    "url": "https://x.com/TeziMAGAZINE",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi_K ⚡️ (@Tezi_K) / Posts / X Tezi_K 🤘🏻⚡️ (@Tezi_K) - Posts - I'm a Hawthorn FC tragic 🤎💛, mother of a four legged furry friend 😺, a lover of all things chocol... | X (formerly Twitter)",
+    "url": "https://x.com/Tezi_K",
+    "pass": 3
+   },
+   {
+    "quote": "tezi (@suiicream) / Posts / X 🤍 1235 📊 26002 📎 tezi 🦭 suiicream 8h my university forces me to go to tutoring after my chem class and theyve replaced the tutor 3 times already.. what are they doing to these people😭",
+    "url": "https://x.com/suiicream",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tezi AI - LinkedIn Tezi AI Technology, Information and Internet Menlo Park, California 2,900 followers Tezi offers AI agents & assistants for the recruiting workflow",
+    "url": "https://www.linkedin.com/company/teziai/",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi - LinkedIn Tezi | 99 followers on LinkedIn. Helping creators & entrepreneurs grow, monetize & automate their online business with Tezi 🚀 | 🚀 At Tezi, we help creators, influencers, and entrepreneurs ...",
+    "url": "https://www.linkedin.com/company/tezi-co",
+    "pass": 3
+   },
+   {
+    "quote": "Balkrishna Agarwal - Founder @TeziApp - The communication ...تیزی Tezi by IEL - Integrated Equities Limited | LinkedIn[TR] Bitirme tezi çalışmamızı 8th EurAsia Waste Management ...\"TEZI Ltd.\" Production Company / Продуцентска Къща \"ТЕЗИ\"Dogma Yayın, ekime bomba gibi bir kitapla giriyor. Atakan ... Founder @TeziApp - The communication & marketing OS for B2B domain - Join me for #FoundersWalk to mee",
+    "url": "https://in.linkedin.com/in/krishna-teziapp",
+    "pass": 3
+   },
+   {
+    "quote": "تیزی Tezi by IEL - Integrated Equities Limited | LinkedIn[TR] Bitirme tezi çalışmamızı 8th EurAsia Waste Management ...\"TEZI Ltd.\" Production Company / Продуцентска Къща \"ТЕЗИ\"Dogma Yayın, ekime bomba gibi bir kitapla giriyor. Atakan ... Tezi is an investing app from Integrated Equities Limited (iel.net.pk), a Pakistan Stock… · Experience: Integrated Equities Limited · Location: Pakistan · 500+ co",
+    "url": "https://pk.linkedin.com/in/sardar-ali-wattoo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tezi by IEL - Facebook Oct 20, 2026 · Tezi by IEL. 39 followers · 102 talking about this. Tezi is an investing app from Integrated Equities Limited (iel.net.pk), a Pakistan Stock Exchange member broker licensed by the SECP and operating...",
+    "url": "https://www.facebook.com/TEZIbyIEL/",
+    "pass": 3
+   },
+   {
+    "quote": "Tezi App - Facebook Tezi App 1w · Public Financial Times Tesla and SpaceX have established special committees to explore a potential merger, one that would create a massive conglomerate worth approximately $3.6tn, ranking it among the world's most valuable companies alongside Nvidia, Apple, and Microsoft.",
+    "url": "https://www.facebook.com/p/Tezi-App-61593622190497/",
+    "pass": 3
+   },
+   {
+    "quote": "TEZI - Facebook TEZI. 1 follower. A learning game that is always being updated. Education for teachers and ages 5 and up!",
+    "url": "https://www.facebook.com/TeziGame/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tezi.ai",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tezi.us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y_zjEygiCzo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Bw7lxNwXLb0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Authentic-Cardigan-Selectable-Tieasy-ORIGINAL/dp/B0D34Y2JNT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tezi.co/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teziapp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/about-us/case-studies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tezi/__2ZLWJfwhXE-jH1gXv-_MbYgkHctYlReOQRq4BO_QJMo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/tezi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/591116-50",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dhrmap.com/companies/tezi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/n8ea59b236fba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TezizWorld",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tezibtw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TeziMAGAZINE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Tezi_K",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/teziai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tezi-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/krishna-teziapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pk.linkedin.com/in/sardar-ali-wattoo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TEZIbyIEL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Tezi-App-61593622190497/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TeziGame/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/suiicream",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tezi 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tezi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.toshin-dental.com/",
+    "https://www.elastic.co/jp/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Tezi Japan",
+   "results": [
+    "https://tezi.us/",
+    "https://www.youtube.com/watch?v=Y_zjEygiCzo",
+    "https://www.youtube.com/watch?v=Bw7lxNwXLb0",
+    "https://www.amazon.co.jp/-/en/Authentic-Cardigan-Selectable-Tieasy-ORIGINAL/dp/B0D34Y2JNT",
+    "https://japan.us.mercari.com/en/items/01ec4be6-5ce9-42bd-b042-502bfeafa6a9?variant=fce90cb7-3364-4fee-92a1-8bd94c678799",
+    "https://www.linkedin.com/company/teziai/",
+    "https://www.tisi.jp/en/",
+    "https://ja.wikipedia.org/wiki/TEAM_JAPAN",
+    "https://www.tezumi.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Tezi manufacturing customer case study",
+   "results": [
+    "https://tezi.co/case-study",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://teziapp.com/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.casestudies.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tezi white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tezi founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/tezi/__2ZLWJfwhXE-jH1gXv-_MbYgkHctYlReOQRq4BO_QJMo",
+    "https://startupintros.com/orgs/tezi",
+    "https://pitchbook.com/profiles/company/591116-50",
+    "https://www.dhrmap.com/companies/tezi",
+    "https://www.cbinsights.com/company/tezi/financials",
+    "https://www.crunchbase.com/organization/tezi",
+    "https://www.cbinsights.com/company/tezi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tezi",
+   "results": [
+    "https://note.com/gen_ai/n/n8ea59b236fba",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/araratsan/n/n1c8ff4156c80",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tezi",
+   "results": [
+    "https://x.com/TezizWorld",
+    "https://x.com/tezibtw",
+    "https://x.com/TeziMAGAZINE",
+    "https://x.com/Tezi_K",
+    "https://x.com/Tezi_K/status/2080542445134295285",
+    "https://x.com/Tezi_K/status/2103065920235356161",
+    "https://x.com/tezionn"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tezi",
+   "results": [
+    "https://www.linkedin.com/company/teziai/",
+    "https://www.linkedin.com/company/tezi-co",
+    "https://in.linkedin.com/in/krishna-teziapp",
+    "https://pk.linkedin.com/in/sardar-ali-wattoo",
+    "https://tr.linkedin.com/posts/deren-yaren-batur_tr-bitirme-tezi-çalışmamızı-8th-eurasia-activity-7524061801869893632-HG4r",
+    "https://bg.linkedin.com/company/tezi",
+    "https://tr.linkedin.com/posts/yusuf-gurfidan_dogma-yayın-ekime-bomba-gibi-bir-kitapla-activity-7511494402389803008-RAVr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tezi",
+   "results": [
+    "https://www.facebook.com/TEZIbyIEL/",
+    "https://www.facebook.com/p/Tezi-App-61593622190497/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/TeziGame/",
+    "https://www.facebook.com/OfficialTeZi/",
+    "https://www.facebook.com/tezi.islam/photos/",
+    "https://www.facebook.com/tezi.brother/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tezi note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tezi X 投稿",
+   "results": [
+    "https://x.com/suiicream",
+    "https://news.yahoo.co.jp/articles/c433091e5e50d42e2a18d576920e8414bb798cb9",
+    "https://x.com/",
+    "https://ameblo.jp/ostrum6/entry-12983938512.html",
+    "https://x.com/PressSec_JP",
+    "https://x.com/sponichi_baTAI/status/2110599918637449260",
+    "https://coki.jp/article/column/97065/",
+    "https://x.com/_tezi_tezi_",
+    "https://www.tiktok.com/@_tezi_i",
+    "https://www.youtube.com/@Tezi-r8x"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

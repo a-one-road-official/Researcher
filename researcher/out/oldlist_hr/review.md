@@ -248,3 +248,153 @@
 - 「「日本企業とコラボレーションできることを楽しみにしています」（https://techblitz.com/startup-interview/verdigristechnologies/）
 - 「特に製造業は先進的なテクノロジーを持った日本企業が多いですからね」（https://techblitz.com/startup-interview/verdigristechnologies/）
 - 「Jabil, a 50-year-old global manufacturing services company with over 175,000 employees and 90 facilities around the world, used Verdigris to identify over 50% energy savings in their facilities.」（https://www.verdigris.co/resources/case-studies/jabil-video-case-study）
+
+## Uplane（https://uplane.com）
+- 「450万ドルを調達した14枚のピッチデックはこちら【独占公開】 | Business Insider Japan」（https://www.businessinsider.jp/article/2604-pitch-deck-uplane-raised-funding-to-replace-marketing-agencies-ai/）
+- 「450万ドルを調達した14枚のピッチデックはこちら【独占公開】 (Business Insider Japan)」（https://newspicks.com/news/16493606/）
+- 「Business Insider Japan」（https://newspicks.com/news/16493606/）
+
+## UpKeep（https://upkeep.com/）
+- 「日本語WordNet(英和)での「upkeep」の意味」（https://ejje.weblio.jp/content/upkeep）
+
+## Upfort（https://www.upfort.com）
+- 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter p」（https://www.salesforge.ai/blog/white-label-software）
+- 「You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.」（https://www.salesforge.ai/blog/white-label-software）
+- 「$199/month (monthly billing, as listed on the vendor's pricing page)」（https://www.salesforge.ai/blog/white-label-software）
+
+## Upbanx（https://dash-internal.upbanx.net/）
+- 「The second meeting you’re not in: how Japan deals get approved」（https://www.techinasia.com/upbanx-launches-chatgptlike-product-id-content-creators）
+
+## Unschool（https://www.unschool.in/）
+- 「1968–69 Japanese university protests」（https://en.wikipedia.org/wiki/Unschooling）
+- 「Rahul Varma founded Unschool in 2019 and runs it as CEO. Unschool had 1,179 employees (December 2024, LinkedIn).」（https://getlatka.com/companies/unschool.in）
+
+## Typeface（https://trakkr.ai）
+- 「Uses with artwork from Japan」（https://fontsinuse.com/locations/114/japan）
+- 「Japan Pavilion, Expo 2025」（https://fontsinuse.com/locations/114/japan）
+- 「日本語にも対応しておりとても良いのですが、プリント機能がついていません」（https://apps.apple.com/jp/app/typeface-4/id1062679359?mt=12）
+
+## Trytoku（https://www.trytoku.com/）
+- 「Beyond its headquarters in Santiago, Toku has recorded locations in Chile, Canada, Japan and Turkey.」（https://graphiq.ai/dossier/toku）
+
+## Tryriot（https://tryriot.com）
+- 「The content on Riot is available in English, Spanish, German, French, Mandarin, Portuguese, Dutch, Italian, Japanese, Korean and more, and is automatically adapted to the favorite language of your employees.」（https://tryriot.com/pricing/）
+
+## Truefit（https://www.truefit.com）
+- 「Tokyo, Japan」（https://pitchbook.com/profiles/company/60072-31）
+
+## Trove（https://trove.com）
+- 「Japan, decoded for visitors and fans.」（https://japantrove.com/）
+- 「First Time in Japan: 20 Things to Know Before You Go」（https://japantrove.com/）
+- 「The Perfect 7-Day Japan Itinerary for First-Timers (Tokyo, Kyoto & Osaka)」（https://japantrove.com/）
+
+## Triptease（https://triptease.com）
+- 「Triptease Clients Japan - PN Data Solutions Inc.」（https://pndatasol.com/tag/triptease-clients-japan/）
+- 「All posts tagged: Triptease Clients Japan」（https://pndatasol.com/tag/triptease-clients-japan/）
+
+## Trigify（https://www.trigify.io）
+- 「AIツールの情報を、日本のユーザーに向けて紹介しませんか」（https://my-best.ai/ai-tools/trigify/）
+- 「Today, we're excited to announce that the Trigify team is joining HubSpot (NYSE: HUBS).」（https://www.trigify.io/）
+
+## TrendMiner（https://www.trendminer.com/）
+- 「TrendMiner In Japanese language | TrendMiner Community」（https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715）
+- 「I am currently using Trend Miner and would like to check if a Japanese language version is available (either UI or documentation). if that is not available, then I would like to ask, if there are any plans to support a Japanese version of Trend Miner.」（https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715）
+- 「It would be very helpful for users who prefer Japanese.」（https://community.trendminer.com/questions-answers-44/trendminer-in-japanese-language-715）
+
+## Thehotelsnetwork（https://thehotelsnetwork.com）
+- 「Hotel in Japan increased website conversions by 90% with Price Comparison」（https://info.thehotelsnetwork.com/case-studies）
+- 「米ヒルトン、NYSEからナスダックへ上場市場を移籍 アプリでの即時ポイント決済機能も同時ローンチ」（https://arigatrip.net/world-news/chatgpt-direct-hotel-booking-revolution/）
+
+## Testgorilla（https://www.testgorilla.com/）
+- 「グローバルの公式サイトではSovaかTestGorillaのどちらかだよって記載されてるんですが、日本ではTestGorillaばかり出ているようですね」（https://note.com/gen_ll/n/ne39f70ba613c）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/testgorilla/case-studies）
+
+## Techwolf（https://www.techwolf.ai）
+- 「今回のSAP・TechWolf連合が注目される背景には、日本を含む多くの企業が直面する「スキルの見えない化」問題があります」（https://media.fun-garage.co.jp/sap-techwolf-acquisition-ai-skills-intelligence/）
+- 「一般的なEV/EBITDA倍率（企業価値÷利益の目安）としては、M&A全般で8〜10倍、日本の中堅・中小企業の売却で2〜10倍程度という解説がある〔推定〕」（https://note.com/ma_strategynews/n/n9f7825af1ab4）
+- 「日本の会社の話ではなく、日本企業に直接の影響もありません」（https://note.com/happy_orca1495/n/n3cd5becab000?hl=en）
+- 「How to build skills intelligence across 250,000 employees」（https://www.techwolf.ai/customer-stories）
+
+## Taurob（https://taurob.com/）
+- 「, International Conference on Management of Engineering & Technology (PICMET), Kanazawa, Japan, 2014」（https://en.wikipedia.org/wiki/Taurob_tracker）
+- 「Kanazawa, Japan」（https://ieeexplore.ieee.org/document/6921010）
+
+## Taqtile（https://taqtile.com/）
+- 「In May 2021, we rebranded to Headline, together with e.ventures, which invests in the US and Europe and with whom we have collaborated for 10 years to discover unicorns globally. Infinity Ventures will continue to focus on our investment strategy in Asia, centered on Japan, as Headline Asia.」（https://note.com/headline_asia/n/n0192e8b5bf7e?hl=en）
+- 「Infinity VenturesはHeadline Asiaとして、これからも日本を中心としたアジアへの投資戦略に焦点を当ててまいります」（https://note.com/headline_asia/n/n0192e8b5bf7e）
+- 「PTC (NASDAQ: PTC) is a global technology provider of the leading IoT and AR platform and field-proven solutions that transform how companies create, operate, and service products. With PTC, global …」（https://www.featuredcustomers.com/vendor/taqtile/case-studies）
+
+## Tapcart（https://www.tapcart.com）
+- 「Yahoo! Japan検索広告のキャンペーン設定」（https://support.appsflyer.com/hc/ja/articles/4411720533905-Tapcart-integration）
+
+## Talkshoplive（https://talkshop.live）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/talkshoplive?locale=ja）
+- 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/26028）
+- 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/26028）
+
+## Taktile（https://www.taktile.com）
+- 「taktile - USB CONTROLLER KEYBOARD | KORG (Japan)」（https://www.korg.com/jp/products/computergear/taktile/）
+- 「A subsidiary of the Brazilian edtech company Arco, Isaac provides schools with upfront tuition payments, enabling them to maintain a consistent cash flow. Families benefit from greater payment flexibility and access to Isaac’s easy, automated payments system.」（https://taktile.com/customer-stories/isaac-and-taktile）
+
+## SWELLEnterprise（https://swellsystem.com/）
+- 「* 読みやすいように、コメントの一部を日本語に翻訳しました」（https://jp.colormango.com/product/swellenterprise_166280.html）
+
+## Swell（https://www.swell.is）
+- 「必須③ WP Multibyte Patch（日本語サポート）」（https://leolab.blog/swell-install-guide/）
+- 「なにをしてくれる？ WordPressはもともと英語圏で作られているので、日本語環境だとファイル名やメール送信、検索などで小さな不具合が出ます」（https://leolab.blog/swell-install-guide/）
+- 「WordPress日本語版の公式が同梱を推奨しているレベルの定番です」（https://leolab.blog/swell-install-guide/）
+
+## Supermetrics（https://supermetrics.com）
+- 「日本国内ではあまり知られていませんが、低価格で始められて操作も簡単なレポート自動作成ツールです」（https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/）
+- 「日本でよく使われているGoogle広告やFacebook広告、Google Analytics（現GA4）やX広告（旧Twitter広告）は連携していますが、Yahoo!広告やSmartNews等の国内メディア独自の媒体には連携していません」（https://careerup-jobchange.net/supermetrics%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BD%9C%E6%88%90%E3%82%92%E8%87%AA%E5%8B%95%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%82%84%E8%B2%BB/）
+- 「今日は、欧州のマーケティングデータ企業Supermetricsと、その顧客であるノルウェーの広告代理店Layerの事例をもとに、日本の現場でも真似できるポイントを解説します」（https://note.com/kaigai_ai_note/n/n59d30cbfcf29）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/supermetrics/case-studies）
+
+## Stylitics（https://stylitics.com）
+- 「Ecommerce stores using Stylitics in Japan」（https://storeleads.app/reports/technology/Stylitics/country/JP）
+- 「Stylitics is currently installed on 3 ecommerce stores in Japan.」（https://storeleads.app/reports/technology/Stylitics/country/JP）
+- 「Here are the top 3 stores in Japan running Stylitics ordered by store rank.」（https://storeleads.app/reports/technology/Stylitics/country/JP）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/stylitics/case-studies）
+
+## Stammer.ai（https://stammer.ai）
+- 「英語、日本語、中国語、韓国語、ヨーロッパ諸言語など豊富な言語ペアに対応し、自由に翻訳先言語を切り替えられます」（https://my-best.ai/ai-tools/stammer/）
+- 「：英語、日本語、中国語、韓国語、ヨーロッパ諸言語など豊富な言語ペアに対応し、自由に翻訳先言語を切り替えられます」（https://my-best.ai/ai-tools/stammer/）
+- 「AIツールの情報を、日本のユーザーに向けて紹介しませんか」（https://my-best.ai/ai-tools/stammer/）
+- 「Companies using Stammer.ai range from small businesses with 0-100 employees - 100%, to mid-sized firms with 101-1,000 employees - 0%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.」（https://www.appsruntheworld.com/customers-database/products/view/stammer-ai）
+
+## Stackline（https://www.stackline.com）
+- 「日本でStacklineを使用している企業のリスト (1) | TheirStack.com」（https://theirstack.com/ja/technology/stackline/jp）
+- 「日本でStacklineを使用している企業」（https://theirstack.com/ja/technology/stackline/jp）
+- 「日本でStacklineを使用している企業のリスト」（https://theirstack.com/ja/technology/stackline/jp）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/stackline/case-studies）
+
+## Squirro（https://squirro.com/）
+- 「Squirro スキュロとは 社内資料の横断検索のAI｜使い方・料金・日本語対応」（https://eeai.tv/tools/squirro）
+- 「Squirroの日本語対応は確認できていません」（https://eeai.tv/tools/squirro）
+- 「This is not just someone else's problem for Japanese office workers. When you hear 'implementing AI,' it sounds like a development issue, but the bottleneck is usually on the side of internal procedures.」（https://note.com/vivid_quince2775/n/n458731472043?hl=en）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/squirro/case-studies）
+
+## Sqreen（https://www.sqreen.com/）
+- 「(Article written about Sqreen in Japanese:」（https://note.com/y_ukyk/n/n6edf335f73c0?hl=en）
+- 「（日本語でSqreenについて書かれている記事:」（https://note.com/y_ukyk/n/n6edf335f73c0）
+- 「, a United Kingdom based Retail organisation with 8239 employees and revenues of $2.85 billion,」（https://www.appsruntheworld.com/customers-database/products/view/sqreen）
+
+## Sprii（https://www.sprii.io）
+- 「独立した相互作用から持続的表現を形成する学習原理SPRII | 日本フィジカルAI新聞」（https://physicalainews.jp/papers/2609.34604）
+
+## Speak（https://www.speak.com）
+- 「English speakers can use Speak to learn Spanish, French, Korean, Japanese, Italian, and Simplified Chinese. The app delivers AI conversation practice, real-time feedback on pronunciation and phrasing, and lessons matched to your level — all at your own pace, without the pressure of speaking to anoth」（https://www.speak.com/）
+- 「Whether you're learning Spanish, French, Korean, Japanese, Italian, or Simplified Chinese, you can try Speak with a 7-day free trial at」（https://www.speak.com/）
+- 「Speak is also used by non-English speakers around the world who want to build English speaking confidence. Learners across South Korea, Japan, Taiwan, Europe, Latin America, and beyond use Speak to practice spoken English through the same AI conversation and feedback experience. See the "Does Speak 」（https://www.speak.com/）
+- 「Speak Phone is available only with the higher-tier 'Premium Plus' plan, one of Speak's two paid plans. The prices listed on the Speak Help Center are as follows (it is noted that prices may change depending on campaigns).」（https://note.com/jk_ai_bu/n/nf84ff4f9f625?hl=en）
+
+## Spate（https://www.spate.nyc）
+- 「Enterprise packages span six markets — the US, UK, France, South Korea, Japan, and Global — offering both local and worldwide perspectives with reliable insights backed by large-scale data collection and behavioral data analysis.」（https://www.spate.nyc/features/enterprise-solutions）
+- 「Access insights across six markets — the US, UK, France, Japan, South Korea, and Global — for both local and worldwide beauty insights.」（https://www.spate.nyc/industries/beauty-personal-care）
+- 「日本語WordNet(英和)での「spate」の意味」（https://ejje.weblio.jp/content/spate）
+
+## Smartlead（https://www.smartlead.ai）
+- 「日本国内での電話利用可否については、公式サイトで確認することをおすすめします」（https://aitool-eye.com/smartlead-kanzen-guide/）
+- 「実際に送受信するメール本文は日本語で作成・管理できます」（https://aitool-eye.com/smartlead-kanzen-guide/）
+- 「日本語でコールドメールのシーケンスを組み、日本語でリードを管理することに支障はありません」（https://aitool-eye.com/smartlead-kanzen-guide/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/smartlead/case-studies）

@@ -1,0 +1,1499 @@
+{
+ "name": "Stammer.ai",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T20:38:38.604047+00:00",
+ "official_url": "https://stammer.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金プラン",
+    "value": "4 種類（無料プランあり）",
+    "url": "https://my-best.ai/ai-tools/stammer/",
+    "pass": 3
+   },
+   {
+    "label": "料金",
+    "value": "無料プランあり（有料プランは月額15米ドル〜）",
+    "url": "https://my-best.ai/ai-tools/stammer/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "XX",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI chat and voice agents that handle customer support, qualify leads, and book appointments 24/7. Deployed across every channel your business needs.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We have plans starting at $49/mo. See our pricing for details.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Can you tell me the square footage and preferred timeline?",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approximately 700 sq ft, flexible next month.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Easy to use and always improving!\"",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy intelligent agents that handle conversations, capture leads, and drive revenue.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy an AI chatbot that answers questions, captures leads, and books meetings, trained on your business data.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build and Sell AI-powered solutions that work across every channel your customers prefer",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture and qualify leads automatically",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Preparing calendar availability",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional appearance = charge premium prices",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give every client a branded dashboard showing what their AI agents handled: calls, chats, leads and bookings.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Calls handled, leads captured, appointments booked",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Each client sees a monthly summary of conversations, leads and booked appointments from their agents.\"",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Connect an agent to a client's CRM and calendar so new leads and bookings sync automatically.\"",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Position As YOUR Product",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Prices, Your Plans",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero revenue sharing (keep 100% of your profit)",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy on website, social media, and messaging platforms",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your agent a name, description, and clear instructions (prompt) so it knows exactly how to act and respond.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your agent for free or charge a monthly fee. You control the price, usage and who gets access.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build recurring subscription revenue with AI agent packages, usage-based pricing, and premium implementation fees.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "High-Priority Customer Support",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our support works 24/7, answering all your Stammer questions. Backed by high-priority reliable human support.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Access our comprehensive white-label API with",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform our enterprise AI platform into your branded solution.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Private AI Marketplace",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy AI agents under your own domain with full branding control and professional appearance.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your clients with a personalized dashboard featuring your branding and analytics.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Offer AI agent solutions as your own product to expand your service portfolio.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Sell It At Your Own Price",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Set your own pricing structure and keep 100% of the markup on all AI agent solutions.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI masters your business, products, and processes instantly.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Website, WhatsApp, SMS, social media etc. One AI, all channels.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Keep All of Your Profits",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "You set the pricing, you keep all profits. No revenue sharing required.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Agencies",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Add AI chatbots and voice agents to the services you already offer. Launch them under your own brand, manage every client from one dashboard, and set your own pricing.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Your own pricing, with no revenue share",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Add AI agents to your product without building the infrastructure yourself. Use the white label API to deploy chat and voice agents inside your platform for your users.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Create and manage agents programmatically",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Custom integrations, SSO and self-hosting on Enterprise",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Answer every chat and call, capture leads, and book appointments 24/7, even after hours. Set it up yourself without code, starting at $49/mo.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Website chat agent that captures leads",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, scalable pricing",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Access to premium AI models is available on Pro and Enterprise plans.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label branding is available on Pro and Enterprise plans.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro (White Label) +",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Support & Onboarding",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create website chatbots, integrate with social media channels or CRM platforms to handle customer support, knowledge recall, sales outreach, lead generation, and scheduling.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Agency Wallet is your prepaid balance for usage on the Stammer platform. Each time a chat agent replies or a voice agent answers a call, the cost for usage is taken from your wallet.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Standard plan users get an included amount of credit added to their wallet every month for chat and voice usage. Pro plan subscribers get a free credit added to their Agency Wallet to help test both chat and voice agents before selling to your first client.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Charge a one-time onboarding fee when you build and launch an agent for a client.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You decide what to charge. Agencies commonly offer setup fees, monthly subscriptions, and usage-based pricing for messages and call minutes.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your clients pre-load funds into their Sub-Account Wallet. Each time a chat agent sends a message or a voice agent takes a call, funds are deducted at the price you set. When their balance runs low, they add more funds to their wallet. 100% of these funds gets sent to you as new revenue.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you are just exploring or looking for a general demo/ product walkthrough ->",
+    "url": "https://api.leadconnectorhq.com/widget/form/otd7BnwawZVGgEF1D3k2",
+    "pass": 1
+   },
+   {
+    "quote": "Embedded in our product",
+    "url": "https://api.leadconnectorhq.com/widget/form/otd7BnwawZVGgEF1D3k2",
+    "pass": 1
+   },
+   {
+    "quote": "When are you hoping to have agents live in production?",
+    "url": "https://api.leadconnectorhq.com/widget/form/otd7BnwawZVGgEF1D3k2",
+    "pass": 1
+   },
+   {
+    "quote": "Please provide any additional notes or topics you'd like to discuss.",
+    "url": "https://api.leadconnectorhq.com/widget/form/otd7BnwawZVGgEF1D3k2",
+    "pass": 1
+   },
+   {
+    "quote": "Before Stammer.ai, Co-Founder & CEO Ross Fledderjohn had been operating a successful website development and digital marketing agency across a multitude of platforms, including Shopify, Webflow, WordPress, HighLevel, and more.",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White Label AI Agents for Chat & Voice | Stammer AI",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "1,300+ agencies",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Their white-label AI solution is not only powerful and reliable but also fully customizable making it incredibly easy to align with our business goals.\"",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Brand, Your Domain",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A rebrandable API lets you connect AI agents to your clients' existing CRMs, websites and apps.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Full API access with your branding",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Easy but powerful setup for AI agencies with no coding needed",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label with Your Branding",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Add your custom domain, logo and color scheme to completely rebrand the entire platform to be your own.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Access our comprehensive white-label API with",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rated excellent by AI agencies",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label branding is available on Pro and Enterprise plans.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro (White Label) +",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stammer.ai lets you build, sell, and manage both chat-based AI agents and voice-based AI agents under your own brand at scale. You can customize everything - name, logo, colors, links - so it looks and feels like your own platform.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How do agencies make money with Stammer?",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies can monetize Stammer in a few different ways:",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You decide what to charge. Agencies commonly offer setup fees, monthly subscriptions, and usage-based pricing for messages and call minutes.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label SaaS | Stammer.ai",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "🏗️ White Label SaaS for Agency Owners",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Platform",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Transform our enterprise AI platform into your branded solution.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "White Label API included for rapid deployment",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "#1 White Label SaaS Platform for AI",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Transform our AI platform into your branded solution with these powerful customization features.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Change every link from our platform to yourdomain.com. Your clients only see your brand.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Exclusive marketplace of AI agents only shown to your white label clients.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your clients with a personalized dashboard featuring your branding and analytics.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate AI capabilities seamlessly into existing systems with our rebrandable API.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Why Agencies Choose Our",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Built specifically for agencies, consultants, and resellers who want to offer AI services under their own brand.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "See how different agencies use Stammer AI to sell AI chat and voice agents to their clients.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Agencies",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Add AI chatbots and voice agents to the services you already offer. Launch them under your own brand, manage every client from one dashboard, and set your own pricing.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Fully white-labeled platform on your own domain",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Add AI agents to your product without building the infrastructure yourself. Use the white label API to deploy chat and voice agents inside your platform for your users.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "White label API and webhooks",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "White Label SaaS for Agency Owners 🏗️",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Stammer.ai was built from the ground up for agencies who are white labeling software and selling it to others.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "🚀 Everything is fully white labeled",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "✅ (New) White Label API",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Stammer AI | White Label AI Agents",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label branding is available on Pro and Enterprise plans.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro (White Label) +",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Stammer.ai lets you build, sell, and manage both chat-based AI agents and voice-based AI agents under your own brand at scale. You can customize everything - name, logo, colors, links - so it looks and feels like your own platform.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How do agencies make money with Stammer?",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies can monetize Stammer in a few different ways:",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You decide what to charge. Agencies commonly offer setup fees, monthly subscriptions, and usage-based pricing for messages and call minutes.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Established agencies with 50+ clients",
+    "url": "https://api.leadconnectorhq.com/widget/form/otd7BnwawZVGgEF1D3k2",
+    "pass": 1
+   },
+   {
+    "quote": "Here is a quick overview of how Stammer.ai was developed to be the #1 platform for AI Agencies.",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "After playing around with ChatGPT for a few months and figuring out the capabilities of building personalized solutions for customers, Ross has the idea for a white label AI SaaS platform that is specifically built for agencies.",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Relying on the feedback and insights from our Alpha agencies about specific use cases, we developed and launched the fully white-labeled, first public version of the platform in late June to early July.",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Amidst the growing popularity of the \"AAA\" model (AI & Automation Agencies) and the success of numerous agencies selling AI solutions, our team expanded by hiring several new engineers and support staff to scale up operations and optimize all of the",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "As agencies continue to use the platform, our",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "and more agencies start to share how they are using and selling Stammer.ai to their clients. Lead Generation and Automated Scheduling features begin development.",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": ") for the past decade and once AI popped onto the scene I knew it had incredible potential to help my existing clients optimize their websites and marketing funnels - and realized a lot of other agencies were starting to think the same thing...\"",
+    "url": "https://stammer.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "White-label AIエージェンシーの運営において、最も退屈な作業はナレッジベース（KB）のメンテナンスだ",
+    "url": "https://qiita.com/renatomarinho/items/98586825e61e5ab3cf5d",
+    "pass": 3
+   },
+   {
+    "quote": "What is White Labeling?",
+    "url": "https://docs.stammer.ai/stammer.ai-docs",
+    "pass": 3
+   },
+   {
+    "quote": "White Label (Your) Marketplace",
+    "url": "https://docs.stammer.ai/stammer.ai-docs",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Free Trials",
+    "url": "https://docs.stammer.ai/stammer.ai-docs",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai is a white label AI SaaS platform that allows you to build and sell custom AI agents. Agencies who build websites, run ads, manage social media etc. for businesses are selling these custom AI agents to their clients using Stammer.ai.",
+    "url": "https://docs.stammer.ai/stammer.ai-docs",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Deploy intelligent agents that handle conversations, capture leads, and drive revenue.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Offer AI agents as part of your own service lineup. No developers needed to build or maintain the platform.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero revenue sharing (keep 100% of your profit)",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build recurring subscription revenue with AI agent packages, usage-based pricing, and premium implementation fees.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your clients pre-load funds into their Sub-Account Wallet. Each time a chat agent sends a message or a voice agent takes a call, funds are deducted at the price you set. When their balance runs low, they add more funds to their wallet. 100% of these funds gets sent to you as new revenue.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Additional Revenue Source",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Create new recurring revenue streams by reselling AI agent technology to your clients.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Track Usage & Revenue",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "You set the pricing, you keep all profits. No revenue sharing required.",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Your own pricing, with no revenue share",
+    "url": "https://stammer.ai/white-label-SaaS",
+    "pass": 1
+   },
+   {
+    "quote": "Your clients pre-load funds into their Sub-Account Wallet. Each time a chat agent sends a message or a voice agent takes a call, funds are deducted at the price you set. When their balance runs low, they add more funds to their wallet. 100% of these funds gets sent to you as new revenue.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Part of buying committee",
+    "url": "https://api.leadconnectorhq.com/widget/form/otd7BnwawZVGgEF1D3k2",
+    "pass": 1
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 10 employees and revenues of $1.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a France based Professional Services organisation with 10 employees and revenues of $1.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Stammer.ai, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a United Kingdom based Consumer Packaged Goods organization with 50 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services company with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Life Sciences organization with 800 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Stammer.ai range from small businesses with 0-100 employees - 100%, to mid-sized firms with 101-1,000 employees - 0%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using Stammer.ai?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of Stammer.ai include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified Stammer.ai customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of Label Management (Printing and Designing).",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "(revenue, employees, asset)",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai revenue by industry",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai revenue by geography",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai revenue by company size",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai revenue by revenue type",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai revenue by channel",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai revenue by product",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Professional Services organization with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Life Sciences company with 800 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Stammer.ai",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Stammer.ai?",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Stammer.ai have?",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/stammer.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/stammer.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/stammer.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Automatically capture visitor names, emails, and details before or during conversations.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer inbound phone calls, replace voicemail, handle repetitive conversations, make outbound calls for lead qualification, and transfer to humans when needed.",
+    "url": "https://stammer.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically capture visitor names, emails, and details before or during conversations.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Answer inbound phone calls, replace voicemail, handle repetitive conversations, make outbound calls for lead qualification, and transfer to humans when needed.",
+    "url": "https://stammer.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Stammer.ai, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "英語、日本語、中国語、韓国語、ヨーロッパ諸言語など豊富な言語ペアに対応し、自由に翻訳先言語を切り替えられます",
+    "url": "https://my-best.ai/ai-tools/stammer/",
+    "pass": 3
+   },
+   {
+    "quote": "：英語、日本語、中国語、韓国語、ヨーロッパ諸言語など豊富な言語ペアに対応し、自由に翻訳先言語を切り替えられます",
+    "url": "https://my-best.ai/ai-tools/stammer/",
+    "pass": 3
+   },
+   {
+    "quote": "AIツールの情報を、日本のユーザーに向けて紹介しませんか",
+    "url": "https://my-best.ai/ai-tools/stammer/",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.aiは、代理店がAIチャット・音声エージェントを自社ブランドで顧客に再販できるホワイトレーベル基盤だ",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.aiは、技術を自前で作らずにAIエージェントを売りたい代理店向けのサブスクリプションだ",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "公式が挙げる数字は稼働中のホワイトレーベルAIエージェント3万5000体、導入代理店1300社",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "1社のサイトに置くチャットボットではなく、1つの代理店が数十社の顧客をまとめて運用するためのAIエージェント構築ツールである",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AIチャットボットの再販を狙う代理店には、同時に3つ必要になる",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "返信、音声分数、追加エージェントは前払いの代理店ウォレットから引かれ、売価は代理店が決める",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "動作はブラウザのみでデスクトップアプリはなく、想定利用者は代理店であって、エージェントを1体だけ置きたい企業ではない",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング代理店・AI代理店：すでにサイト制作や広告、自動化を売っていて、継続収入を足したい場合",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "この代理店向けAIチャットボットは電話対応も担うため、2つの商品を同じ月額にまとめられる",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "代理店ウォレットのおかげで、固定パッケージを値付けして差分を被るのではなく、顧客の利用分だけを払えば済む",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "単発案件に継続収入を足したい代理店：チャットボットの月額は毎月の売上になり、代理店ウォレットは顧客の利用分を立替ではなく転嫁できるコストに変える",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "複数ブランドを抱える代理店：アカウントごとにドメイン、ロゴ、配色を持てるため、10社の顧客が同じベンダーの10コピーには見えない",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ProとEnterpriseではStammer.aiのブランドが外れ、代理店は自社ドメインでホワイトレーベルチャットボットを運営できる",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "返信1件、音声1分、追加エージェント1体が前払いのウォレットから引かれ、上乗せ分は代理店が決める",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ProではOpenAIやAnthropicのAPIキーを自分で入れられるため、モデル費用とベンダーとの関係を代理店が直接握れる",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントは会話の前後で氏名、メール、選別用の情報を集め、その記録を代理店か顧客に渡す",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Proは代理店ブランドでAPIエンドポイントを公開するため、アシスタントを組み込む顧客が見るのは自社ドメインで、Stammer.aiではない",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ドメイン、ロゴ、配色、APIエンドポイントがすべて代理店ブランドになる",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "代理店はチャットボットや電話エージェントを組み、自社ブランドを付け、対応した会話に対して顧客へ請求する",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Stammer.aiの運用管理をAIエージェントへ：MCPによるナレッジベース更... — White-label AIエージェンシーの運営において、最も退屈な作業はナレッジベース（KB）のメンテナンスだ。新しいドキュメントを読み込ませたり、Q&Aを追加したりするために、わざわざStammer.aiのダッシュボードにログインし、対象のチャットボットを探し、設定画面...",
+    "url": "https://qiita.com/renatomarinho/items/98586825e61e5ab3cf5d",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Stammer.ai | Stammer.ai Docs — Stammer.ai is a white label AI SaaS platform that allows you to build and sell custom AI agents. Agencies who build websites, run ads, manage social media etc. for businesses are selling these custom AI agents to their clients using Stammer.ai.",
+    "url": "https://docs.stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai：ホワイトレーベルAIエージェント基盤 Features, Pricing ... — Stammer.ai は、代理店が自社ブランドで顧客へ再販できるAIチャット・音声エージェントのホワイトレーベル基盤。リード獲得、予約受付、従量課金を備え、月額49ドルから。",
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agency - Use Cases | Stammer.ai — AI & Automation Agencies love Stammer.ai because it takes care of all the credit, billing and management of AI agents.",
+    "url": "https://stammer.ai/ai-agency",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Stammer.ai | Stammer.ai Docs — Hello and welcome to Stammer.ai! Stammer.ai is a white label AI SaaS platform that allows you to build and sell custom AI agents. Agencies who build websites, run ads, manage social media etc. for businesses are selling these custom AI agents to their clients using Stammer.ai. The best part about Stammer.ai? You can white label (rebrand) the entire platfor",
+    "url": "https://docs.stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai: レビュー、機能、価格、ガイド、代替品 — Stammer.aiの機能、ユーザーレビュー、代替品を発見してください。Stammer.aiは、オンラインエージェンシーがAI駆動のチャットボットやエージェントを構築、カスタマイズ、販売できるホワイトラベルのAI SaaSプラットフォームです。",
+    "url": "https://aipure.ai/jp/products/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "About Stammer.ai | Stammer.ai Docs — Jul 26, 2024 · How Stammer.ai was Created 👉 Our adventure began in 2023, from our co-founder Ross's extensive background in web development and digital marketing, alongside the inspiration drawn from OpenAI's ChatGPT. Recognizing the potential for a specialized AI service for agencies, we quickly moved from an idea to a MVP product with paying customers by May ",
+    "url": "https://docs.stammer.ai/stammer.ai-docs/welcome/about-stammer.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai Enterprise – White-Label AI Chat & Voice Platform — Launch your own AI-powered chat and voice agents under your brand. Stammer.ai Enterprise offers white-label solutions, API access, HIPAA compliance, and dedicated support for agencies and resellers.",
+    "url": "https://enterprise.stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "List of Stammer.ai Customers - Apps Run The World — Each quarter our research team identifies companies that have purchased Stammer.ai for Label Management (Printing and Designing) from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location, implementation status, partner involvement ...",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "List of Stammer.ai Customers - Apps Run The World — Each quarter our research team identifies companies that are using Stammer.ai applications such as Stammer.ai for Label Management (Printing and Designing) and many others from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location ...",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Agents for Chat & Voice | Stammer AI — Fully White Labeled Remove all Stammer.ai branding and use your own domain, logo, and colors. Resell AI Usage Set your own prices and resell chat replies, voice minutes, and agents to clients.",
+    "url": "https://stammer.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai Revenue, Funding & Valuation — Stammer.ai has revenue of $598,885, estimated valuation of $2,000,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai - Crunchbase Company Profile & FundingStammer.ai - 2026 Company Profile & Team - TracxnStammer AI - Products, Competitors, Financials, Employees ...Stammer.ai - 2025 Company Profile & Team - TracxnStammer.ai Information - RocketReach — Stammer.ai is a white-label AI SaaS for online agencies that create an AI-powered customer service chatbot . Feb 16, 2026 · Stammer.ai is an unfunded com",
+    "url": "https://www.crunchbase.com/organization/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stammer.ai - 2026 Company Profile & Team - Tracxn — Feb 16, 2026 · Stammer.ai is an unfunded company based in Henderson (United States), founded in 2023 by Timothy Bramlett and Ross F. It operates as a Provider of white-label platform for building and selling AI chat and voice agents. Stammer.ai has not raised any funding yet. The company has 1330 active competitors, including 176 funded and 71 th",
+    "url": "https://tracxn.com/d/companies/stammerai/__0TEwq693y-F9fUZMSJ9VVl8tbHR6UU0sjgS7bbL-FLM",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Stammer.ai - LinkedIn Stammer.ai | 291 followers on LinkedIn. AI agents at enterprise scale. No infrastructure to build. Production-ready in days. | White label A.I. software platform for online agencies.",
+    "url": "https://www.linkedin.com/company/stammer-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Ross F. - AI Agents for Enterprise | Building Stammer.ai ...How Two Guys Turned an AI Idea Into Hundreds of Paying ...Celebrated more Stammer.ai milestones at the Ritz Carlton ...Deploy AI Agents at Scale with Stammer.ai - LinkedInBuilding software with customers, not for them. Stammer.ai ...Miranda Kay - Stammer.ai | LinkedIn Stammer.ai helps enterprises deploy AI agents at scale, without buildin",
+    "url": "https://www.linkedin.com/in/rfledderjohn",
+    "pass": 3
+   },
+   {
+    "quote": "Celebrated more Stammer.ai milestones at the Ritz Carlton ... Celebrated more Stammer.ai milestones at the Ritz Carlton Laguna Niguel last night! 🚀 It’s insane that Stammer was started only a year ago and how far it’s come! You always remember the moment you make key decisions in your life and I was actually in a hotel in Mumbai when I texted Ross and said “Yeah let’s do it!”. Then we all started ",
+    "url": "https://pe.linkedin.com/posts/timothybbramlett_celebrated-more-stammerai-milestones-at-activity-7208147764759728129-PhIG",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy AI Agents at Scale with Stammer.ai - LinkedIn Most companies waste 6-12 months building AI infrastructure they didn't need to build. Engineering teams spin up, budgets balloon past $500K, and the product still isn't live. There's a better way ...",
+    "url": "https://www.linkedin.com/posts/stammer-ai_most-companies-waste-6-12-months-building-activity-7434745180559376385-uu2O",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Stammer.ai - FacebookI’m super proud to announce that my new app @stammer.ai is ...My new app @stammer.ai is now open to the public ... - FacebookFrom Weakness to Strength: How One Man's Stammer Became an AI ...Ai Robotic Exoskeleton? 6 Millon Dollar Woman ... - FacebookMy arrogant mother-in-law actually... - The meaning of life ...Stamma - Facebook Mar 22, 2025 · Revealing @stammer.ai 2025 produc",
+    "url": "https://www.facebook.com/stammerai/",
+    "pass": 3
+   },
+   {
+    "quote": "I’m super proud to announce that my new app @stammer.ai is ... I’m super proud to announce that my new app @stammer.ai is live! After seeing the power of ChatGPT-4 when it was released a few months ago I immediately started using it to create simple apps and tools.",
+    "url": "https://www.facebook.com/rfledderjohn/videos/im-super-proud-to-announce-that-my-new-app-stammerai-is-liveafter-seeing-the-pow/237954795680329/",
+    "pass": 3
+   },
+   {
+    "quote": "My new app @stammer.ai is now open to the public ... - Facebook My new app @stammer.ai is now open to the public! The last 2 months have been wild 🤯 My team and I have been heads down 🧑💻 working on a SaaS platform...",
+    "url": "https://www.facebook.com/rfledderjohn/videos/my-new-app-stammerai-is-now-open-to-the-publicthe-last-2-months-have-been-wild-m/982054779616081/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://stammer.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/white-label-SaaS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://api.leadconnectorhq.com/widget/form/otd7BnwawZVGgEF1D3k2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://qiita.com/renatomarinho/items/98586825e61e5ab3cf5d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.stammer.ai/stammer.ai-docs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my-best.ai/ai-tools/stammer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextfor.ai/ja/products/stammer-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jabra.com/ja-jp/where-to-buy/authorized-distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thermofisher.com/us/en/home/about-us/profile.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://vialtopartners.com/ja/home-page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://starlink.com/jp/support/article/9b7746f8-e2ee-0fd4-7ffb-3bbe0ab35cbc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.stammer.ai/stammer.ai-docs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipure.ai/jp/products/stammer-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.stammer.ai/stammer.ai-docs/welcome/about-stammer.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/best-white-label-ai-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resellportal.com/resell-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/ai-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/stammer-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/stammer.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/stammer-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/stammerai/__0TEwq693y-F9fUZMSJ9VVl8tbHR6UU0sjgS7bbL-FLM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/stammer-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rfledderjohn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/timothybbramlett_celebrated-more-stammerai-milestones-at-activity-7208147764759728129-PhIG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/stammer-ai_most-companies-waste-6-12-months-building-activity-7434745180559376385-uu2O",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/stammerai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rfledderjohn/videos/im-super-proud-to-announce-that-my-new-app-stammerai-is-liveafter-seeing-the-pow/237954795680329/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rfledderjohn/videos/my-new-app-stammerai-is-now-open-to-the-publicthe-last-2-months-have-been-wild-m/982054779616081/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Stammer.ai 日本 導入",
+   "results": [
+    "https://qiita.com/renatomarinho/items/98586825e61e5ab3cf5d",
+    "https://docs.stammer.ai/",
+    "https://my-best.ai/ai-tools/stammer/",
+    "https://www.nextfor.ai/ja/products/stammer-ai",
+    "https://stammer.ai/",
+    "https://stammer.ai/integrations-api",
+    "https://roadmap.stammer.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stammer.ai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jabra.com/ja-jp/where-to-buy/authorized-distributors",
+    "https://www.thermofisher.com/jp/ja/home/about-us/profile.html",
+    "https://vialtopartners.com/ja/home-page",
+    "https://starlink.com/jp/support/article/9b7746f8-e2ee-0fd4-7ffb-3bbe0ab35cbc",
+    "https://japan-company.net/",
+    "https://compalyze.co.jp/company/6010003047429",
+    "https://boomi.com/ja/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stammer.ai Japan",
+   "results": [
+    "https://stammer.ai/ai-agency",
+    "https://docs.stammer.ai/",
+    "https://aipure.ai/jp/products/stammer-ai",
+    "https://docs.stammer.ai/stammer.ai-docs/welcome/about-stammer.ai",
+    "https://enterprise.stammer.ai/",
+    "https://status.stammer.ai/",
+    "https://stammer.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stammer.ai manufacturing customer case study",
+   "results": [
+    "https://www.appsruntheworld.com/customers-database/products/view/stammer-ai",
+    "https://stammer.ai/",
+    "https://stammer.ai/ai-agency",
+    "https://www.appsruntheworld.com/customers-database/vendors/view/stammer-ai",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://docs.stammer.ai/",
+    "https://pe.linkedin.com/posts/imglorycom_how-two-guys-turned-an-ai-idea-into-hundreds-activity-7266684016026640384-TqHk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stammer.ai white label OR reseller OR partner program",
+   "results": [
+    "https://stammer.ai/",
+    "https://www.unite.ai/best-white-label-ai-tools/",
+    "https://resellportal.com/resell-ai/",
+    "https://www.articsledge.com/post/ai-reseller-programs",
+    "https://www.fusioncalling.com/whitelabel/reseller-program",
+    "https://resellaitools.com/top-10-ai-reseller-programs",
+    "https://botpenguin.com/blogs/white-label-reseller-program"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stammer.ai founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/stammer-ai-revenue",
+    "https://getlatka.com/companies/stammer.ai",
+    "https://www.crunchbase.com/organization/stammer-ai",
+    "https://tracxn.com/d/companies/stammerai/__0TEwq693y-F9fUZMSJ9VVl8tbHR6UU0sjgS7bbL-FLM",
+    "https://www.cbinsights.com/company/stammer-ai",
+    "https://tracxn.com/d/companies/stammer.ai/__0TEwq693y-F9fUZMSJ9VVl8tbHR6UU0sjgS7bbL-FLM",
+    "https://rocketreach.co/stammerai-profile_b7168a4ec4c027eb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Stammer.ai",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Stammer.ai",
+   "results": [
+    "https://x.com/sakthivignesh_c/status/2044133436068376909",
+    "https://x.com/stammer",
+    "https://x.com/WolfStammer",
+    "https://x.com/hasantoxr/status/1943307471470367022",
+    "https://x.com/TimothyBramlett/status/1904930120630259979",
+    "https://x.com/Soul420sugar/status/2110847300591603933",
+    "https://x.com/KelacuMelam"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Stammer.ai",
+   "results": [
+    "https://www.linkedin.com/company/stammer-ai",
+    "https://www.linkedin.com/in/rfledderjohn",
+    "https://pe.linkedin.com/posts/timothybbramlett_celebrated-more-stammerai-milestones-at-activity-7208147764759728129-PhIG",
+    "https://www.linkedin.com/posts/stammer-ai_most-companies-waste-6-12-months-building-activity-7434745180559376385-uu2O",
+    "https://www.linkedin.com/posts/timothybbramlett_i-will-never-build-software-again-unless-activity-7393376611309424640-uKY4",
+    "https://www.linkedin.com/in/miranda-kay-371153232",
+    "https://pe.linkedin.com/posts/imglorycom_how-two-guys-turned-an-ai-idea-into-hundreds-activity-7266684016026640384-TqHk"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Stammer.ai",
+   "results": [
+    "https://www.facebook.com/stammerai/",
+    "https://www.facebook.com/rfledderjohn/videos/im-super-proud-to-announce-that-my-new-app-stammerai-is-liveafter-seeing-the-pow/237954795680329/",
+    "https://www.facebook.com/rfledderjohn/videos/my-new-app-stammerai-is-now-open-to-the-publicthe-last-2-months-have-been-wild-m/982054779616081/",
+    "https://www.facebook.com/shaul.michael.5/videos/from-weakness-to-strength-how-one-mans-stammer-became-an-ai-innovation-highlight/1394401428682377/",
+    "https://www.facebook.com/wearestamma/",
+    "https://www.facebook.com/darcizzleoffshore/videos/ai-robotic-exoskeleton-6-millon-dollar-woman-catches-monster-offshore-florida/1451522883578824/",
+    "https://www.facebook.com/themeaningoflife88/posts/my-arrogant-mother-in-law-actually-dialed-911-and-demanded-the-police-force-me-o/1677580640427295/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Stammer.ai note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Stammer.ai X 投稿",
+   "results": [
+    "https://x.com/stammer_ai",
+    "https://docs.stammer.ai/",
+    "https://www.cxgn.cn/stammer-ai",
+    "https://stammer.ai/",
+    "https://stammer.ai/integrations-api",
+    "https://x.com/TimothyBramlett/status/1904930120630259979",
+    "https://coki.jp/article/column/97177/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部27頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

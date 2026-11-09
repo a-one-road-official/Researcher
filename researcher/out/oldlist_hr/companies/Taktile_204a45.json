@@ -1,0 +1,1174 @@
+{
+ "name": "Taktile",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-09T20:45:59.182290+00:00",
+ "official_url": "https://www.taktile.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Paris, France",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Charleston, United States",
+    "url": "https://taktile.com/customer-stories/breakout-finance-and-taktile",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "New York",
+    "url": "https://taktile.com/customer-stories/capchase-and-taktile",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "London, United Kingdom",
+    "url": "https://taktile.com/customer-stories/zilch-and-taktile",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "São Paulo, Brazil",
+    "url": "https://taktile.com/customer-stories/zippi-and-taktile",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, United States",
+    "url": "https://taktile.com/customer-stories/how-branch-uses-data-to-iterate-on-models",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "São Paulo, Brazil",
+    "url": "https://taktile.com/customer-stories/isaac-and-taktile",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Antwerp (Burcht), Belgium",
+    "url": "https://taktile.com/customer-stories/build-or-buy-credix",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "New York, United States",
+    "url": "https://taktile.com/customer-stories/greenlight-rent-and-taktile",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "31-Aug-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Apr-2020 $68.5M $68.5M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Automate routine work, get agentic support on complex cases, and continuously improve outcomes.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate checks, accelerate complex reviews, and reduce friction without compromising on risk.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bank-grade KYB/KYC went live in 3 weeks. Run by the team who owns the process. No in-house build, no engineering dependencies.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "less time to loan approval",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hour-long underwriting decisions are history. Now they take as little as 3 minutes. Application processing capacity increased 3–5x.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "automated onboarding rate",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents now onboard most businesses in under 24 hours. 3x onboarding capacity without adding headcount.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approve consumer credit faster, without increasing risk",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "more claims processed straight through",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move beyond pilots and into production",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring AI agents, decision logic, and expert judgment together across onboarding, underwriting, and claims. Automate routine decisions and give your experts a head start on edge cases with AI agents.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give business and engineering teams a shared way to build, test, and improve decisions. The people closest to the policies can move faster, while engineering retains overall control.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn from every decision to improve the next one",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how decisions perform, test what could work better, and turn proven improvements into everyday practice. Build a continuous optimization system that keeps improving the speed, quality, and consistency of your decisions.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make faster, more consistent decisions that improve over time, built on your existing stack.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Existing Conditions",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Decide with precision and confidence",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pinning this chart to the dashboard makes it available across your organization. Your Copilot chat stays private.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Claim Value Tied Up in Manual Review by Product Line",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dashboards, backtesting, and live experimentation (A/B) enable you to build a self-learning system and continuously improve outcomes.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can you please review the Acme Inc. onboarding flow?",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitoring, alerting, model risk management, versioning and sign-off procedures, granular permissions, and detailed audit trails for every decision.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI initiatives stall before they show a return. Taktile’s experts in AI, banking, and insurance get your initiatives safely into production and help tell your value story internally.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "faster time to production (Faire)",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Taktile gave us the tools to purposefully build AI into the core of our health claims operations. We’ve gone from a manual, time-consuming process to an agentic workflow that’s already delivering massive value globally.",
+    "url": "https://taktile.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Allianz Partners used AI agents to boost straight-through claims processing 30% and cut turnaround from days to minutes | Taktile",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "How Allianz Partners used AI agents to boost straight-through claims processing 30% and cut turnaround from days to minutes",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in straight-through processing",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Allianz Partners' claim reviews took days. Taktile agents now clear them in minutes with experts in the loop, lifting straight-through processing 30%.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Allianz Partners, a global leader in insurance and assistance services, partnered with Taktile to embed agentic AI across multiple lines of business, starting with its health claims process. By deploying AI on Taktile, which enables experts to easily monitor and collaborate with agents, the Allianz Partners team:",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Lifted straight-through processing of claims by 30%",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "in a production pilot, with direct cost impact",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Improved adjudication quality by 4–6% on selective claims journeys,",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced claims processing time from days to minutes",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "and improved customer satisfaction significantly",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Now the team is expanding the new agentic process to its full portfolio of more than 30 million claims per year.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "\"Taktile gave us the tools to purposefully build AI into the core of our health claims operations. We’ve gone from a manual, time-consuming process to an agentic workflow that’s already delivering massive value globally.\"",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "The opportunity: Build a more efficient health claims process by combining AI agents with expert oversight",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "For Allianz Partners, these hurdles presented a clear case for innovation. As one of their senior leaders explains:",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "“Our health claims process was a compelling use case for AI transformation: high volume, high complexity, and significant manual effort.”",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Allianz Partners required a solution capable of mastering this organizational and product complexity—and one built for high-stakes, regulated environments.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "identifying whether an uploaded document is an invoice and ensuring only valid invoices proceed.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "extracting relevant information from invoices (like dates, provider details, currency, and itemized treatments and costs), into a standard format.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "applying the company’s coverage, eligibility, and fraud rules to the claim and invoice details to produce a coverage decision or flag issues for review.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "By standardizing data and applying consistent checks, this system enables straight-through processing for clear-cut cases while flagging nuanced issues for expert review. Specialists can follow the logic from the original document through every agent step to the final outcome, providing the",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "full traceability required for rigorous audit and compliance protocols.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "The outcome: Claims processed in minutes instead of days, fewer manual reviews, and a better customer experience",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Allianz Partners’ systematic implementation of agentic AI is helping reshape its health claims operations. These wins come from three reinforcing drivers: improved straight-through processing rates, better identification of fraud and leakage, and faster processing time.",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "An initial 6-month production pilot validated the new agentic workflow bottom-up, with confirmed impact across three key levers:",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "30% increase in straight-through processing of claims, with further gains imminent:",
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "We give teams control over the decisions that define their performance—and enable them to constantly improve with AI.",
+    "url": "https://taktile.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The promise feels limitless.",
+    "url": "https://taktile.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder and President",
+    "url": "https://taktile.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product, DeepMind",
+    "url": "https://taktile.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the latest announcements, milestones, and press from Taktile.",
+    "url": "https://taktile.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Property-based testing with Claude",
+    "url": "https://taktile.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We hire ambitious, high-ownership people who obsess over creating real value for our customers, take responsibility beyond their role, and are determined to find a way when things get hard. People who challenge in pursuit of growth and win as one team.",
+    "url": "https://taktile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers trust us with their highest-stakes decisions. Five values guide how we earn that trust and who we hire.",
+    "url": "https://taktile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“I love the variety of work here, from customer-driven projects to improving the developer experience and going deep into the tech stack. Building Taktile’s MCP and seeing customers adopt it was a highlight.”",
+    "url": "https://taktile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Marketing Lead",
+    "url": "https://taktile.com/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Photo gallery. Drag to turn it, use the arrow keys to move between photos, or choose one to open it.",
+    "url": "https://taktile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A new revenue product reached the market about 2 months sooner, while engineering stayed focused on the core product and operations handled the build.",
+    "url": "https://taktile.com/customer-stories/faire-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "By bridging the gap between buyer flexibility and a vendor maximizing their working capital, Capchase facilitates faster sales, more revenue, and a smoother customer experience. Since its founding in 2020, Capchase has",
+    "url": "https://taktile.com/customer-stories/capchase-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "\"Taktile’s user interface made it so much easier to break down and explain each part of a decision flow and the rules we were discussing. It brought transparency to the process, making even complex logic easy for everyone on the team to understand,\"",
+    "url": "https://taktile.com/customer-stories/zippi-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Isaac reduced delinquencies by 11% with smarter collections—boosting revenue, cutting policy deployment time by 99%, and enabling rapid experimentation.",
+    "url": "https://taktile.com/customer-stories/isaac-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "– directly boosting collections revenue and company profitability.",
+    "url": "https://taktile.com/customer-stories/isaac-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Brazilian private schools face a significant cash flow crisis. Brazilian law prevents schools from un-enrolling non-paying students mid-year, and schools are obligated to keep paying teachers and operating costs. If families stop paying monthly tuition, a portion of expected revenue vanishes – creating a massive financial gap. Isaac solves this problem.",
+    "url": "https://taktile.com/customer-stories/isaac-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "A subsidiary of the Brazilian edtech company Arco, Isaac provides schools with upfront tuition payments, enabling them to maintain a consistent cash flow. Families benefit from greater payment flexibility and access to Isaac’s easy, automated payments system.",
+    "url": "https://taktile.com/customer-stories/isaac-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Every single one of our employees is committed to reducing delinquencies – it’s a huge pillar of our business model. We’re continuously optimizing our decision-making and our collections policies, and Taktile has helped us significantly. We can see that in the delinquency rates lowering year after year",
+    "url": "https://taktile.com/customer-stories/isaac-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Millions of Americans face steep moving costs, with the first month’s rent, moving fees, and security deposits due all at once. These upfront costs create a barrier for renters, slowing the rental process for property managers. Greenlight Rent exists to address both sides of this challenge.",
+    "url": "https://taktile.com/customer-stories/greenlight-rent-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/taktile/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile has 224 total employees.",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   },
+   {
+    "quote": "What is Taktile’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Taktile is",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Important: Taktile will never ask for payments or sensitive financial information during the application process. All official communication will come from a @taktile.com email address.",
+    "url": "https://taktile.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/taktile/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/taktile/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Processing over tens of millions of USD monthly and planning to grow 2x this year, Zippi is expanding access to financial services for underserved communities across Brazil – breaking decades of financial exclusion for small business operators.",
+    "url": "https://taktile.com/customer-stories/zippi-and-taktile",
+    "pass": 1
+   },
+   {
+    "quote": "SaveIN - Customer Case Study",
+    "url": "https://www.casestudies.com/company/taktile",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/taktile/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Taktile、Goldman Sachs主導でシリーズC 1億1000万ドルを調達 — Jun 25, 2026 · Taktileを導入した顧客は既に具体的な成果を上げている。 世界最大規模の保険会社の一つは、Taktileを通じて複数のユースケースを実行し、保険金請求処理において9000万ドルを超えるコスト削減を見込んでいる。",
+    "url": "https://aiedgeline.jp/articles/2026-06-25-taktile-secures-110m-in-goldman-sachs-led-series-c-to-power--3qgy4w/",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile | The Agentic Decision Platform for Banking and Insurance — The Agentic Decision Platform for Banking and Insurance. Combine AI automation with human oversight to approve customers, catch more fraud and stay compliant.",
+    "url": "https://taktile.com/",
+    "pass": 3
+   },
+   {
+    "quote": "taktile - USB CONTROLLER KEYBOARD | KORG (Japan)About | Taktileダウンロード | taktile | KORG (Japan)Taktile Labs — Applied AI Research for Financial Decision-MakingA Groundbreaking Japanese Invention to Protect the Visually ...Korg Taktile-49 MIDI Controller Keyboard 49 Keys USB DAW ... — 指1本から両手まで。常に想像力を刺激する。アイディア飛び出すコントローラー、taktile 登場。 Taktile empowers risk teams to build, test, and optimize AI-driven",
+    "url": "https://www.korg.com/jp/products/computergear/taktile/",
+    "pass": 3
+   },
+   {
+    "quote": "About | Taktile — Taktile empowers risk teams to build, test, and optimize AI-driven decision workflows across financial services, safely and at scale.",
+    "url": "https://taktile.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile Labs — Applied AI Research for Financial Decision-Making — Oct 28, 2026 · Taktile Labs is an applied research group focused on advancing the frontier of AI in financial decisions: exploring, testing and proving new techniques across the areas that matter in banking and insurance, and sharing the evidence.",
+    "url": "https://labs.taktile.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Korg Taktile-49 MIDI Controller Keyboard 49 Keys USB DAW ... — Nov 1, 2026 · This item is100% authentic from Japan. TheTaktile series fromKorg is designed to inspire creativity, allowing everything from single-finger input to full two-hand performances. Oneknob is missing.",
+    "url": "https://www.ebay.com/itm/147202319559",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Taktile — Discover how leading financial institutions like Zilch, Branch, and Credix transformed risk management with Taktile's AI-driven Decision Platform.",
+    "url": "https://taktile.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile B2B Case Studies & Customer Successes — Taktile is a technology company building cloud-native software that underpins the financial products of the future. They focus on financial services, because they are a critical backbone of modern society, helping individuals and companies finance their dreams and insure against adverse scenarios.",
+    "url": "https://www.casestudies.com/company/taktile",
+    "pass": 3
+   },
+   {
+    "quote": "15 Taktile Case Studies, Success Stories, & Customer Stories — Narrow down 15 case studies by company size & industry to find out how Taktile works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/taktile/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile Case Study: Silvr – How SME lender Silvr grew its ... — Silvr (Financial Services) partnered with Taktile (Computer Software) to solve key challenges. \"How SME lender Silvr grew its signed loan fundings by 8X\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/taktile/case-study/how-sme-lender-silvr-grew-its-signed-loan-fundings-by-8x",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile – Financials, Industry Trends & Funding Info – 2026 — Facts about Taktile: estimated revenue of $32M, team of around 200+ employees, from NY-New York, with a growing influence in its sector.",
+    "url": "https://compworth.com/company/taktile",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile 2026 Company Profile: Valuation, Funding & Investors ...Taktile - 2026 Company Profile, Team, Funding & Competitors ...Taktile Information - RocketReachTaktile: Funding, Investors & Team (Nov 2026) | FundedIQTaktile raises $54M to enable risk experts to take control of ...Taktile: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and exe",
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile - 2026 Company Profile, Team, Funding & Competitors ...Taktile Information - RocketReachTaktile: Funding, Investors & Team (Nov 2026) | FundedIQTaktile raises $54M to enable risk experts to take control of ...Taktile: Funding, Team & Investors | Startup Intros — Jun 9, 2026 · Taktile is a series B company based in Berlin (Germany), founded in 2020 by Maik Taro Wehmeyer and Maximilian Eber.",
+    "url": "https://tracxn.com/d/companies/taktile/__AmK86Tn5cMHY4b4RqsJsI0nDkHOBn4wzm3aq6yOdznU",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile Information - RocketReachTaktile: Funding, Investors & Team (Nov 2026) | FundedIQTaktile raises $54M to enable risk experts to take control of ...Taktile: Funding, Team & Investors | Startup Intros — Taktile is a Financial Services, Business/Productivity Software, and Operating Systems Software company located in New York, New York with $23.9 million in revenue and 237 employees. Find top ",
+    "url": "https://rocketreach.co/taktile-profile_b43d8b86c19c8867",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile: Funding, Investors & Team (Nov 2026) | FundedIQ — Taktile: Funding, Investors & Team (Nov 2026) Taktile is a software platform that enables companies to create, implement, and assess automated decision flows more quickly and with greater reliance on data than ever before. Our platform assists businesses in bringing goods to market more quickly, adapting to change more quickly, and consist",
+    "url": "https://fundediq.co/taktile-taktile-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "taktile - USB CONTROLLER KEYBOARD | KORG (Japan)",
+    "url": "https://www.korg.com/jp/products/computergear/taktile/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Taktile (@taktile_org) / X Transforming financial services with reliable agents - built on applied AI research from Taktile Labs.",
+    "url": "https://x.com/taktile_org",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile Labs and @p0 just published a new benchmark that puts ... taktile_org (Taktile). 5 likes 0 replies. Taktile Labs and @p0 just published a new benchmark that puts agents to the test on a core KYB task: adverse media search.",
+    "url": "https://x.com/taktile_org/status/2039751753328132555",
+    "pass": 3
+   },
+   {
+    "quote": "Time to reveal who let the out ;) Today, @Taktile launches ... Maik Taro Wehmeyer (@MaikTWehmeyer). 82 likes 17 replies. Time to reveal who let the 🦞 out ;) Today, @Taktile launches Taktile Labs. We dropped the lobster on Wall Street to ask the question: are banks ready for autonomous agents? With our applied AI research institute, we aim to bridge the gap between what frontier models can now do -",
+    "url": "https://x.com/MaikTWehmeyer/status/2031748084556833097",
+    "pass": 3
+   },
+   {
+    "quote": "Maik Taro Wehmeyer (@MaikTWehmeyer) / X The role Taktile powers millions of decisions a day for cutting-edge financial institutions, and some of the most interesting work we do happens alongside leading advisory firms.",
+    "url": "https://x.com/MaikTWehmeyer",
+    "pass": 3
+   },
+   {
+    "quote": "Taktile (@Taktile1) / Posts / X Nov 8, 2020 · Taktile. Taktile1. Joined: Nov 8, 2020. 1 Posts. 11 Following. 1 Followers. Posts. Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/Taktile1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Taktile - LinkedIn Taktile | 31,096 followers on LinkedIn. Mission control for the decisions that define performance in banking and insurance. | Taktile enables financial institutions to transform into AI-native ...",
+    "url": "https://www.linkedin.com/company/taktile1",
+    "pass": 3
+   },
+   {
+    "quote": "Maik Taro Wehmeyer - Co-Founder & CEO @ Taktile (YC S20 ...TAKTILE - LinkedInDr. Niklas Guske - Taktile | LinkedInDavid Ahn - Taktile | LinkedInAnnie Wachsmuth - COO @Taktile | McK | QB | LinkedInTaktile Design Studio Inc. - LinkedIn Maik Taro Wehmeyer Co-Founder & CEO @ Taktile (YC S20) | Building the mission control for frontier financial institutions. TAKTILE | 41 followers on LinkedIn. TAKTILE",
+    "url": "https://www.linkedin.com/in/maik-taro-wehmeyer",
+    "pass": 3
+   },
+   {
+    "quote": "TAKTILE - LinkedIn TAKTILE | 41 followers on LinkedIn. TAKTILE er et dansk designbrand, som producerer unik og æstetisk vægdekoration i træfliser; såkaldte Taktiles. Vores Taktiles tager udgangspunkt i en simpel ...",
+    "url": "https://www.linkedin.com/company/taktile",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Niklas Guske - Taktile | LinkedInDavid Ahn - Taktile | LinkedInAnnie Wachsmuth - COO @Taktile | McK | QB | LinkedInTaktile Design Studio Inc. - LinkedIn Experience: Taktile · Education: Y Combinator · Location: New York City Metropolitan Area · 500+ connections on LinkedIn. View Dr. Niklas Guske’s profile on LinkedIn, a professional community ... Experience: Taktile · Education: University of ",
+    "url": "https://www.linkedin.com/in/guskeniklas",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Taktile Design Studio - Facebook Apr 15, 2025 · Taktile Design Studio. 67 followers. We are a design hub offering services in website design (specialist in Word Press), textile development, graphic design, branding, and digital content. We are...",
+    "url": "https://www.facebook.com/taktiledesignstudio/",
+    "pass": 3
+   },
+   {
+    "quote": "Taktila - FacebookTAKTILE - FacebookTAKTILE - FacebookMidi Controler Korg Taktile 49key Ae cần lh ☎️:0359873715 ...FYI for Windows 11 users having trouble with MIDI controllers ...Korg Triton Taktile 49 Keys Synthesizer/Controller Import ... Feb 14, 2025 · Taktila. 112 followers. Taktile skilt- og ledesystemer. TAKTILA® er en serie norskproduserte taktile elementer i høy kvalitet. Oppmerksomhetsfe",
+    "url": "https://www.facebook.com/taktila.no/",
+    "pass": 3
+   },
+   {
+    "quote": "TAKTILE - Facebook Aug 17, 2016 · TAKTILE. 423 likes. Performance Art Monica Vasquez and 7 others 8 TAKTILE Jul 11, 2016 · #TAKTILE#LUXURYHALLPUEBLATAKTILELa artista poblana Lorena Vazquez Mellado intervino una de las esculturas de TAKTILE durante la inauguración en Luxury Hall.#LorenaVázqueMelladoTAKTILE Jon Maram and 3 others 4 TAKTILE Jul 9, 2016 #TAKTILE# ...",
+    "url": "https://www.facebook.com/TAKTILE-467580613435721/",
+    "pass": 3
+   },
+   {
+    "quote": "TAKTILE - FacebookMidi Controler Korg Taktile 49key Ae cần lh ☎️:0359873715 ...FYI for Windows 11 users having trouble with MIDI controllers ...Korg Triton Taktile 49 Keys Synthesizer/Controller Import ... TAKTILE. 217 likes. TAKTILE, bogstaveligt talt det nyeste skud på stammen indenfor design og vægdekoration. Midi Controler Korg Taktile 49key Ae cần lh ☎️:0359873715 Thưởng Võ Ship Cod Toàn Quốc",
+    "url": "https://www.facebook.com/taktile.dk/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://taktile.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/allianz-partners-and-taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/solutions/business-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/faire-and-taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/solutions/business-underwriting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/breakout-finance-and-taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/solutions/consumer-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/capchase-and-taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/solutions/consumer-underwriting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/zilch-and-taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/solutions/claims-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/product/infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/zippi-and-taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/how-branch-uses-data-to-iterate-on-models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/isaac-and-taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/build-or-buy-credix",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories/greenlight-rent-and-taktile",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.sanity.io/images/o8dlvrl5/production/fa75237099b03c1ec6c1341ab3ee901a2fb41ec5-812x580.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/o8dlvrl5/production/b5520ada50b18a11bb7a6135d269dd04165cd94f-812x580.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taktile.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fo8dlvrl5%2Fproduction%2F307884f80898cb1d03f141c13b4a78cb79a829dd-3840x2160.jpg%3Fw%3D1920%26q%3D100&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taktile.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fo8dlvrl5%2Fproduction%2F4cc7c6af0a4822e6322166224d1b2548388e7e4f-3408x1916.png%3Fw%3D1920%26q%3D100&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aiedgeline.jp/articles/2026-06-25-taktile-secures-110m-in-goldman-sachs-led-series-c-to-power--3qgy4w/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktil.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuichiroito.substack.com/p/agentic-decision-platformtaktile",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korg.com/jp/products/computergear/taktile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labs.taktile.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatejapan.com/blog/tactile-paving-blocks-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/taktile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/taktile/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taktile.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/taktile",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/443243-08",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/taktile/__AmK86Tn5cMHY4b4RqsJsI0nDkHOBn4wzm3aq6yOdznU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://rocketreach.co/taktile-profile_b43d8b86c19c8867",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/taktile_org",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/taktile_org/status/2039751753328132555",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MaikTWehmeyer/status/2031748084556833097",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MaikTWehmeyer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/taktile1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/maik-taro-wehmeyer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/taktile",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/guskeniklas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taktiledesignstudio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taktila.no/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TAKTILE-467580613435721/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taktile.dk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/taktile_org",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Taktile1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Taktile 日本 導入",
+   "results": [
+    "https://aiedgeline.jp/articles/2026-06-25-taktile-secures-110m-in-goldman-sachs-led-series-c-to-power--3qgy4w/",
+    "https://taktile.com/",
+    "https://taktil.jp/",
+    "https://yuichiroito.substack.com/p/agentic-decision-platformtaktile",
+    "https://note.com/placida_tactile/n/n78dd4efb676a",
+    "https://www.cs-improving-lab.com/tactile",
+    "https://jsci.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taktile 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://taktile.com/",
+    "https://www.tattile.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taktile Japan",
+   "results": [
+    "https://www.korg.com/jp/products/computergear/taktile/",
+    "https://taktile.com/about",
+    "https://labs.taktile.com/",
+    "https://innovatejapan.com/blog/tactile-paving-blocks-japan",
+    "https://www.ebay.com/itm/147202319559",
+    "https://taktile.com/",
+    "https://www.korg.com/jp/support/download/product/0/143/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taktile manufacturing customer case study",
+   "results": [
+    "https://taktile.com/customer-stories",
+    "https://www.casestudies.com/company/taktile",
+    "https://www.featuredcustomers.com/vendor/taktile/case-studies",
+    "https://taktile.com/",
+    "https://www.casestudies.com/company/taktile/case-study/how-sme-lender-silvr-grew-its-signed-loan-fundings-by-8x",
+    "https://www.usedby.ai/tools/taktile",
+    "https://www.deel.com/case-studies/taktile/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taktile white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taktile founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/taktile",
+    "https://pitchbook.com/profiles/company/443243-08",
+    "https://tracxn.com/d/companies/taktile/__AmK86Tn5cMHY4b4RqsJsI0nDkHOBn4wzm3aq6yOdznU",
+    "https://rocketreach.co/taktile-profile_b43d8b86c19c8867",
+    "https://fundediq.co/taktile-taktile-com-funding/",
+    "https://taktile.com/articles/taktile-raises-54m-series-b",
+    "https://startupintros.com/orgs/taktile"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Taktile",
+   "results": [
+    "https://note.com/umalog_keiba",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/royalcreative_/n/na81d71411e42",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/n35w5/n/n3230130b66e6",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Taktile",
+   "results": [
+    "https://x.com/taktile_org",
+    "https://x.com/taktile_org/status/2039751753328132555",
+    "https://x.com/MaikTWehmeyer/status/2031748084556833097",
+    "https://x.com/MaikTWehmeyer",
+    "https://x.com/MaikTWehmeyer/status/2115898979708002741",
+    "https://x.com/rokanstark/status/2115449815257485723",
+    "https://x.com/naval/status/2072914445668590003"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Taktile",
+   "results": [
+    "https://www.linkedin.com/company/taktile1",
+    "https://www.linkedin.com/in/maik-taro-wehmeyer",
+    "https://www.linkedin.com/company/taktile",
+    "https://www.linkedin.com/in/guskeniklas",
+    "https://www.linkedin.com/in/davidahn821",
+    "https://www.linkedin.com/in/annie-wachsmuth",
+    "https://www.linkedin.com/company/taktile-design-studio-inc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Taktile",
+   "results": [
+    "https://www.facebook.com/taktiledesignstudio/",
+    "https://www.facebook.com/taktila.no/",
+    "https://www.facebook.com/TAKTILE-467580613435721/",
+    "https://www.facebook.com/taktile.dk/",
+    "https://www.facebook.com/thuong.organ/videos/midi-controler-korg-taktile-49keyae-cần-lh️0359873715-thưởng-võship-cod-toàn-quố/1398461608389843/",
+    "https://www.facebook.com/marketplace/item/1678645273305226/",
+    "https://www.facebook.com/groups/361165013897141/posts/27353892274197716/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taktile note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/maik-taro-wehmeyer",
+    "https://taktile.com/newsroom/taktile-s-next-chapter-we-raised-110m-to-power-the-agentic-financial-institutions-of-the-future",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taktile X 投稿",
+   "results": [
+    "https://x.com/taktile_org",
+    "https://x.com/Taktile1",
+    "https://taktile.com/docs-help-center",
+    "https://taktile.com/",
+    "https://pinzuba.news/articles/-/18554?page=1",
+    "https://x.com/takithubo/status/2119311869571993769",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

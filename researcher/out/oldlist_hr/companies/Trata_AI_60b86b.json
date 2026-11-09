@@ -1,0 +1,723 @@
+{
+ "name": "Trata AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T20:20:28.426998+00:00",
+ "official_url": "https://www.trata.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Dover, Delaware, United States",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Deals Aren't Lost on Leads,",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional training doesn't prepare them for real objections. When pressure hits, they hesitate and the deal slips.",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "New reps spend months learning by trial and error. Without structured, repeatable practice, every customer call becomes an experiment.",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI conversation coach seamlessly integrates into your existing workflow, providing real-time insights and coaching across every customer interaction.",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rep Onboarding AI Agent",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Emphasizes faster training with live coaching and roleplay",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice, Certify &",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track metrics that matter. Spot patterns, coaching priorities, and rep-level trends over time with powerful dashboards.",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For individuals or small teams looking to explore AI-powered simulations and practice real-world customer conversations.",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "2 Pre-Built Scenarios and Personas",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "5 LinkedIn Profile Extracts",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Practice Calls (within session time limits)",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Scenarios, Personas & Practice Sessions",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "50 LinkedIn Profile Extracts",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus:",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Integrations & API Access",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A reseller program built for agencies, trainers, and coaches. Help your clients win with AI sales coaching—top partners add up to $100K in monthly topline.",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule a personalized demo to see how our AI-powered sales training platform can transform your team's performance.",
+    "url": "https://www.trata.ai/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Managers get the power of a virtual ride-along without leaving their desk. Reps get live coaching and roleplay practice with hyper-realistic AI sparring partners that help them ramp faster and sell more consistently.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Badger Fire Protection",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Trata AI has approximately",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trata AI - AI Roleplay & Conversation Intelligence for Automotive Teams",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The #1 AI Sales Coaching Platform for Automotive Dealerships",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Book a Demo - Trata.ai | AI Roleplay & Conversation Intelligence for Automotive Teams",
+    "url": "https://www.trata.ai/book-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Trata AI is transforming the multi-trillion-dollar automotive industry by unlocking intelligence from the most important and overlooked dataset: Dealership Conversations.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "A reseller program built for agencies, trainers, and coaches. Help your clients win with AI sales coaching—top partners add up to $100K in monthly topline.",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "15-minute AI Sparring Session",
+    "url": "https://www.trata.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trata AI Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Trata AI",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "From the showroom floor to the service lane to the BDC phone center, sales and service teams use Trata AI to capture every face-to-face and phone conversation. Our AI automatically transcribes, analyzes, and coaches in real time, helping teams close more cars, upsell more services, and recover missed revenue opportunities.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Managers get the power of a virtual ride-along without leaving their desk. Reps get live coaching and roleplay practice with hyper-realistic AI sparring partners that help them ramp faster and sell more consistently.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Trata AI?",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Trata AI generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Trata AI have?",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Trata AI | AI-Driven Telemetry Treatment & Autonomous Fleet ... — Trata AI is a lightweight, embedded edge AI engine that treats telemetry data at the source. Cut 90% of redundant vehicle logs, guard against sensor pollution, and predict hardware failures before they happen.",
+    "url": "https://www.trata.autos/",
+    "pass": 3
+   },
+   {
+    "quote": "Buy Japan Travel Insurance Online from India | Tata AIGTrata | Buyside ConversationsBuy Japan Travel Insurance Online from India | Tata AIGTrata AI - LinkedInTATA AIG Japan Travel Insurance 2026 | Best Plans from India ... — Get Japan travel insurance with coverage for emergencies, theft, and travel mishaps. Buy online from ₹25.6/day with worldwide assistance and cashless care. Trata hosts convers",
+    "url": "https://www.tataaig.com/travel-insurance/travel-insurance-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Buy Japan Travel Insurance Online from India | Tata AIGTrata AI - LinkedInTATA AIG Japan Travel Insurance 2026 | Best Plans from India ... — Buy Travel Insurance for Japan from India Affordable Prices Loss/Delay of Baggage 24x7 Claim Assistance Medical Cover Upto $10,00000. Visit Tata AIG to buy travel insurance for japan. Trata AI is transforming the multi-trillion-dollar automotive industry by u",
+    "url": "https://www.tataaig.com/travel-insurance/japan-visa",
+    "pass": 3
+   },
+   {
+    "quote": "Trata AI - LinkedIn — Trata AI is transforming the multi-trillion-dollar automotive industry by unlocking intelligence from the most important and overlooked dataset: Dealership Conversations. From the showroom floor ...",
+    "url": "https://www.linkedin.com/company/trata-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Trata AI Revenue, Funding & Valuation - prospeo.io — Trata AI has revenue of $256,665, estimated valuation of $821,328. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Trata AI (@TrataAI) / Posts / X Aug 23, 2024 · Trata AI. TrataAI. Joined: Aug 23, 2024. 0 Posts. 1 Following. 4 Followers. Posts. Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/TrataAI",
+    "pass": 3
+   },
+   {
+    "quote": "Trata (YC W25) on X: \"Today, Trata is excited to share the ... Today, Trata is excited to share the revised Hedge-Bench: our benchmark tying open-ending reasoning to prediction capabilities. We constructed 92 real-world environments derived from hedge fund analysts’ reasoning traces. Agents reason from frozen information snapshots, and their forecasts are evaluated against future real-world outcom",
+    "url": "https://x.com/trytrata/status/2116235577976836399",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Trata AI - LinkedIn Trata AI is transforming the multi-trillion-dollar automotive industry by unlocking intelligence from the most important and overlooked dataset: Dealership Conversations. From the showroom floor ...",
+    "url": "https://www.linkedin.com/company/trata-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Trata AI on LinkedIn: Trata AI Trata identifies and nurtures leads like a seasoned sales pro. • Chameleon AI: Adapt Trata AI’s personality to match your brand's unique voice and style.",
+    "url": "https://www.linkedin.com/posts/trata-ai_trata-ai-activity-7243886095371825152-Z0WK",
+    "pass": 3
+   },
+   {
+    "quote": "Abhishek Sinha - Co-Founder - Trata AI | Building First ... Co-Founder - Trata AI | Building First Showroom Revenue Intelligence for Automotive Dealerships · Experience: Trata AI · Education: ICFAI Business School · Location: India · 500+ connections on LinkedIn. View Abhishek Sinha’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://in.linkedin.com/in/abhsi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TATA AIG | Mumbai - FacebookTATA AIG - Why pay more when you can save ... - FacebookFacebookVESPASIANO CIDADE MARAVILHOSA | Facebook\" SALUD Y BELLEZA - FacebookTata Aig - FacebookTATA AIG | Facebook Nov 1, 2026 · TATA AIG, Mumbai. 196,097 followers · 7,077 talking about this · 855 were here. Insurance that protects. Assurance that lasts. With You, Like Family. 🚗 Why pay more when you can save more",
+    "url": "https://www.facebook.com/TATAAIGINDIA/",
+    "pass": 3
+   },
+   {
+    "quote": "VESPASIANO CIDADE MARAVILHOSA | Facebook 4 days ago · Não se trata de condenar alguém pelo nome que aparece em uma planilha. Trata-se de não aceitar que milhões de reais circulem pela vida pública sem que ninguém pergunte de onde vêm, por que chegam e que interesses podem estar em jogo. Afinal, o dinheiro não fala. Mas deixa rastros.",
+    "url": "https://business.facebook.com/groups/752464401537379/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.trata.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trata.ai/book-demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://literas-ai.jp/column-ai-adoption-rate-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiteller.jp/blog/sekai-ai-katsuyo-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trata.autos/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tataaig.com/travel-insurance/travel-insurance-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tataaig.com/travel-insurance/japan-visa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://artificial-intelligence-wiki.com/industry-ai/manufacturing-and-industrial-automation/ai-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/artificial-intelligence-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiformanufacturing.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/trata-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/746580-16",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/drata.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/trytrata.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TrataAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trytrata/status/2116235577976836399",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/trata-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/trata-ai_trata-ai-activity-7243886095371825152-Z0WK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/abhsi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TATAAIGINDIA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/752464401537379/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TrataAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Trata AI 日本 導入",
+   "results": [
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://literas-ai.jp/column-ai-adoption-rate-japan",
+    "https://aiteller.jp/blog/sekai-ai-katsuyo-data",
+    "https://www.generativeai.tokyo/media/ai-adoption-survey-2026-sme/",
+    "https://techtionary.jp/5000/",
+    "https://anataai.com/ai-knowledge/ai-adoption-rate/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trata AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.anthropic.com/news/opening-our-tokyo-office",
+    "https://www.houjin.info/detail/3700150005031/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trata AI Japan",
+   "results": [
+    "https://www.trata.autos/",
+    "https://www.tataaig.com/travel-insurance/travel-insurance-japan",
+    "https://www.trata.com/",
+    "https://www.tataaig.com/travel-insurance/japan-visa",
+    "https://www.linkedin.com/company/trata-ai",
+    "https://www.nriol.com/tata-aig/travel-insurance-for-japan/",
+    "https://www.trata.ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trata AI manufacturing customer case study",
+   "results": [
+    "https://artificial-intelligence-wiki.com/industry-ai/manufacturing-and-industrial-automation/ai-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/artificial-intelligence-case-studies/",
+    "https://aiformanufacturing.org/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://aiformanufacturing.org/case-studies",
+    "https://www.automate.org/ai/industry-insights/ai-in-the-real-world-4-case-studies-of-success-in-industrial-manufacturing"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trata AI white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.databricks.com/partners",
+    "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454",
+    "https://www.namesilo.com/reseller",
+    "https://blog.vendoo.co/reselling-101-how-to-become-a-reseller-start-making-a-profit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trata AI founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/trata-ai-revenue",
+    "https://pitchbook.com/profiles/company/746580-16",
+    "https://getlatka.com/companies/drata.com",
+    "https://getlatka.com/companies/trytrata.com",
+    "https://startupintros.com/orgs/trata",
+    "https://prospeo.io/c/trata-yc-w25-revenue",
+    "https://www.fastaijobs.com/companies/trata"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Trata AI",
+   "results": [
+    "https://note.com/royal_vole835",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/tag/日付シート",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/cruise0/n/n66491db8ac56",
+    "https://note.com/mamopu/n/n2456b1d6942a"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Trata AI",
+   "results": [
+    "https://x.com/TrataAI",
+    "https://x.com/trytrata/status/2116235577976836399",
+    "https://x.com/TATAAIGIndia",
+    "https://x.com/Tataaig_PMFBY/status/2119014497343914003",
+    "https://x.com/TATAAIGIndia/with_replies",
+    "https://x.com/TATAAIGIndia/status/2119273786134642771",
+    "https://x.com/TATAAIGIndia/status/2116165004227747848"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Trata AI",
+   "results": [
+    "https://www.linkedin.com/company/trata-ai",
+    "https://www.linkedin.com/posts/trata-ai_trata-ai-activity-7243886095371825152-Z0WK",
+    "https://in.linkedin.com/company/tata-aig",
+    "https://in.linkedin.com/in/abhsi",
+    "https://ro.linkedin.com/pulse/stop-treating-ai-like-project-before-you-kill-your-patrycja-pielaszek-s3xqe?tl=ro",
+    "https://hn.linkedin.com/in/elias-ramos-1112631b7",
+    "https://pe.linkedin.com/posts/hari-narayanan-59426221_routine-calls-piling-up-too-many-calls-but-activity-7254858192499691523-aesg"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Trata AI",
+   "results": [
+    "https://www.facebook.com/TATAAIGINDIA/",
+    "https://business.facebook.com/groups/752464401537379/",
+    "https://business.facebook.com/groups/salud.belleza1/",
+    "https://www.facebook.com/TataAig/",
+    "https://www.facebook.com/TATAAIGINDIA/ad_center/",
+    "https://www.facebook.com/TATAAIGINDIA/posts/-why-pay-more-when-you-can-save-more-get-tata-aig-car-insurance-starting-at-just/1556115469895044/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trata AI note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://japan.cnet.com/article/35254573/",
+    "https://www.asahi.com/articles/ASV7J107RV7JULFA023M.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trata AI X 投稿",
+   "results": [
+    "https://x.com/TrataAI",
+    "https://www.trata.ai/",
+    "https://x.com/ai_jitann/status/2119686563579973846",
+    "https://digirise.ai/chaen-ai-lab/x/",
+    "https://note.com/ai_study_hub/n/nd29f13a89983",
+    "https://note.com/pengoo_writer/n/ndb01b4fc83dd",
+    "https://techgym.jp/column/x-twitter/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

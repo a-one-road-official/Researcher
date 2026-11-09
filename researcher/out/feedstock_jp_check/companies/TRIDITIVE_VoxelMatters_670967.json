@@ -1,0 +1,475 @@
+{
+ "name": "TRIDITIVE — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:33:08.450505+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/triditive/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TRIDITIVE — VoxelMatters - The largest database of additive ...購入先一覧 - パナソニック - PanasonicFORMULATRIX® - Laboratory Automation Solutions車両アクセサリー - Official Porsche Website海外ネットワーク | グローバルネットワーク | 企業情報 | 信越化学工...Vital Materials | From Source to Solutions — TRIDITIVE is OEM of AMCELL®, the definitive seamlessly integrated solution both hardware and software; automated, scalable and modular to enable ",
+    "url": "https://www.voxelmatters.directory/company/triditive/",
+    "pass": 3
+   },
+   {
+    "quote": "TRIDITIVE — VoxelMatters - The largest database of additive ...研究：金属3Dプリンティング市場は26％成長triditive | VoxelMatters - Le cœur de la fabrication additive — TRIDITIVE is OEM of AMCELL®, the definitive seamlessly integrated solution both hardware and software; automated, scalable and modular to enable industry mass produce 3D printed metal parts quickly and affordable, up and running 24/7 autonomously. Dec",
+    "url": "https://www.voxelmatters.directory/company/triditive/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInFederico Sher - Co-founder of VoxelMatters | LinkedInJose Fernando Diaz Gonzalez - 𝐂𝐎𝐎 en Triditive S.L | LinkedInMatilde Francioni - Sales Account Manager | VoxelMatters ... Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ connections on LinkedIn. View Tess B",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters - Directory Blog: Triditive signs... | FacebookTriditive | Gijón - FacebookTriditive SL | Meres - FacebookFacebookVoxelMatters - Visualising a complex technological... | FacebookNot every opening gets an electric unicycle entrance. This ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campai",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - Directory Blog: Triditive signs... | Facebook Feb 11, 2019 · Directory Blog: Triditive signs partnerships with Tecnalia and Idonial Technology Center that will allow the development of new materials and mechanical...",
+    "url": "https://www.facebook.com/VoxelMatters/posts/directory-blog-triditive-signs-partnerships-with-tecnalia-and-idonial-technology/1122102664628524/",
+    "pass": 3
+   },
+   {
+    "quote": "Triditive | Gijón - FacebookTriditive SL | Meres - FacebookFacebookVoxelMatters - Visualising a complex technological... | FacebookNot every opening gets an electric unicycle entrance. This ... Nov 15, 2022 · Triditive, Gijón. 1,175 followers · 1 talking about this · 64 were here. Next-generation 3D Printing platform for automated mass production of metal and... Con nuestras máquinas AMCELL y nues",
+    "url": "https://www.facebook.com/Triditive/",
+    "pass": 3
+   },
+   {
+    "quote": "Triditive SL | Meres - FacebookFacebookVoxelMatters - Visualising a complex technological... | FacebookNot every opening gets an electric unicycle entrance. This ... Con nuestras máquinas AMCELL y nuestro software EVAM, Triditive ofrece una solución de fabricación automatizada y escalable, preparada para crecer según las necesidades de producción. Connect and share with friends, family, and the wo",
+    "url": "https://www.facebook.com/Triditive.AAM/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/triditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://formulatrix.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tridivite.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://triditive.com/es/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/triditive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B8%E3%83%B3%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunwardshop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.croccha.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/am-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cartadistribution.com/distributors/pokemon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenpan-b2b.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://read.amazon.co.jp/landing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01300359/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02627837/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00492268/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/triditive/yoy9haedlniigxc9b",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/triditive",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/triditive-sl-profile_b6a5447dc87fea0c",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/triditive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/directory-blog-triditive-signs-partnerships-with-tecnalia-and-idonial-technology/1122102664628524/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Triditive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Triditive.AAM/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TRIDITIVE — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.voxelmatters.directory/company/triditive/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://formulatrix.com/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://en.vitalchem.com/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.unival.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://tridivite.com/",
+    "https://triditive.com/es/",
+    "https://www.voxelmatters.directory/company/triditive/",
+    "https://www.voxelmatters.com/fr/triditive-2-2/",
+    "https://triditive.com/distributors/",
+    "https://3druck.com/ja/産業/金属3dプリンティングの研究市場は26％成長-57124904/",
+    "https://triditive.com/industrial-parts/",
+    "https://www.voxelmatters.com/it/triditive-2-2/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://ja.wikipedia.org/wiki/レジンキャスト",
+    "https://www.voxelmatters.com/",
+    "https://sunwardshop.com/",
+    "https://shop.croccha.com/",
+    "https://craft-dream.com/shopbrand/ct54/",
+    "https://www.youtube.com/hashtag/レジン",
+    "https://www.creema.jp/blog/934/detail",
+    "https://www.monotaro.com/s/q-レジン/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters Japan distributor",
+   "results": [
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/am-japan/",
+    "https://cartadistribution.com/distributors/pokemon",
+    "https://zenpan-b2b.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.europesays.com/japan/79430/",
+    "https://www.voxelmatters.directory/",
+    "https://triditive.com/distributors/",
+    "https://www.voxelmatters.com/",
+    "https://tridivite.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:amazon.co.jp TRIDITIVE — VoxelMatters",
+   "results": [
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://affiliate.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://read.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【旧モデル】Wpc-UVO-折りたたみ傘-親骨55cm-レディース/dp/B0HJ6RZKG4",
+    "https://www.amazon.co.jp/fmc/furusato/ranking/weekly/household?almBrandId=oOXbMNXnBg",
+    "https://www.amazon.co.jp/お金を増やす秘密の習慣（プレジデント2025年12-19号）-プレジデント社/dp/B0G15YT5FX",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:monotaro.com TRIDITIVE — VoxelMatters",
+   "results": [
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/01300359/",
+    "https://www.monotaro.com/g/02627837/",
+    "https://www.monotaro.com/g/00492268/",
+    "https://www.monotaro.com/p/5842/9436/",
+    "https://www.monotaro.com/g/01447493/",
+    "https://www.monotaro.com/p/0807/1707/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/triditive/yoy9haedlniigxc9b",
+    "https://compworth.com/company/triditive",
+    "https://rocketreach.co/triditive-sl-profile_b6a5447dc87fea0c",
+    "https://startupintros.com/orgs/triditive",
+    "https://pitchbook.com/profiles/company/398927-17",
+    "https://aventure.vc/companies/triditive-gijon-es",
+    "https://triditive.com/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com TRIDITIVE — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com TRIDITIVE — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/Triditive",
+    "https://x.com/TRIDITIVE/status/700804419491917824",
+    "https://x.com/CMAA_HQ/status/2079982367515533735",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com TRIDITIVE — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://bz.linkedin.com/company/triditive-aam",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://es.linkedin.com/in/jfdiazgonz",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com TRIDITIVE — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/directory-blog-triditive-signs-partnerships-with-tecnalia-and-idonial-technology/1122102664628524/",
+    "https://www.facebook.com/Triditive/",
+    "https://www.facebook.com/Triditive.AAM/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/posts/visualising-a-complex-technological-landscape-our-interactive-map-for-additive-m/1190656517773138/",
+    "https://www.facebook.com/VoxelMatters/videos/not-every-opening-gets-an-electric-unicycle-entrance-this-one-didvoxelmatters-tr/4418310308426998/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TRIDITIVE — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://tridivite.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/fr/triditive-2-2/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索15回）"
+ }
+}

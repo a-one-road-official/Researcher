@@ -1,0 +1,2077 @@
+{
+ "name": "Triplewhale",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜返信あり",
+ "researched_at": "2026-11-09T20:37:19.759314+00:00",
+ "official_url": "https://www.triplewhale.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$55.4M",
+    "url": "https://getlatka.com/companies/triplewhale.com",
+    "pass": 3
+   },
+   {
+    "label": "Investors",
+    "value": "NFX, Elephant, Shopify",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email id",
+    "value": "[email protected]",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded year",
+    "value": "Founded year：2021",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   },
+   {
+    "label": "Founded Year",
+    "value": "Founded Year：2021 2019 2019 2018 2023 2020",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing Strategy",
+    "value": "Starter, Pro, Enterprise",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue (Annual)",
+    "value": "$15 Million(2025) $25 Million(2025)",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Columbus, Ohio, United States Austin, Texas, United States El Segundo, California, United States Herzliya, Tel Aviv District, Israel Vilnius, Lithuania Paris, France",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "For more information on how we process your personal information and what rights you have in this respect, please see our",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For marketing, ecommerce, and data leaders",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An LLM with limited context provides an answer.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Moby turns ecommerce analytics into clear, prioritized recommendations.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In marketing measurement",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top choice for SMB, Mid-Market, and Enterprise brands.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compass unifies Attribution, Marketing mix Modeling (MMM), and Incrementality into one trusted view of performance everywhere you sell, online and offline.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture the total impact of marketing everywhere you sell — from DTC and Amazon to retail.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shift spend in real time toward the channels, campaigns, and ads driving performance.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Review each recommendation and see the evidence behind it. Then approve, reject, or adjust the action.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let Moby handle routine advertising actions, send daily performance reports, and ping you in Slack when needed.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "True Classic automated their Meta ads and saw",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Moby can solve real problems. It’s not just reporting. Most operators today look at AI as research and reporting. It’s moved past that. Now it’s solving real-world problems we either didn’t have the bandwidth to solve, or didn’t even know existed.”",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Once we switched from our previous solution to Triple Whale, we discovered so many additional capabilities—beyond attribution—that have transformed our operations.”",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "9B+ events processed per day",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR & CCPA compliant",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I agree to the privacy policy including to Triple Whale using my contact details to contact me for marketing purposes.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing — Triple Whale",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that scales with how you actually work.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify what makes your best ads work, then generate new creative variations to test.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Run holdouts, geo-lift tests, and marketing mix modeling in one place. Replace disconnected tools with one source of truth.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Retail and wholesale data, custom integrations, custom onboarding & migration, and dedicated success coverage.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise security and controls",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type 2 and the tailored agreements your procurement team requires, with seamless SSO and comprehensive audit logs coming soon.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every paid plan includes daily Moby, sized to your business. Automate and Enterprise add more capacity, and Moby shifts from answering questions to running your business within your guardrails.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Turn richer data into repeat revenue with segment syncing to advertising and retention platforms.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Moby can solve real problems. It’s not just reporting. Most operators today look at AI as research and reporting. It’s moved past that. Now it’s solving real-world problems we either didn’t have the bandwidth to solve, or didn’t even know existed.”",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All prices are based on a combination of your brand's annual GMV and the package you choose: Foundation, Automate, or Enterprise. Every paid plan includes unlimited users and integrates with as many stores as needed.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What's the difference between Foundation, Automate, and Enterprise?",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "As your business grows (as most do using Triple Whale), you'll automatically move to a plan that aligns with your revenue tier, and we'll notify you well in advance. If you're on an annual prepaid plan, you lock in your tier for the entire year, even as you continue to scale.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Foundation, Automate, and Enterprise are 12-month subscriptions. You can choose how you're billed: monthly, or annually with two months free. Choosing the annual prepaid cadence also locks in your tier for the full year. The Free plan, of course, is free with no commitment.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Sonar is included in every new paid package. Both Sonar Send and Sonar Optimize come standard with Foundation, Automate, and Enterprise at no additional cost.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Security and privacy compliance, including SOC 2, are available on every tier. Enterprise customers get additional capabilities that procurement teams typically require (SSO, comprehensive audit logs, custom security review) because those are table stakes at that size.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data Storage & Retention",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest historical data to provide full business context to understand past performance and trends.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary pixel technology that captures data other platforms miss — the foundation for accurate attribution.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Triple Whale's proprietary multi-touch attribution model that incorporates Post-Purchase Survey data.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Compare performance, track profitability, marketing efficiency, shipping and product performance across your portfolio.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Track customer retention and LTV over time, filterable by customer segments.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze your entire catalog by category, item, SKU. Includes product-level ROAS, LTV, and more.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze creatives across platforms — what designs and copy work across ads, segments, genders, and more.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Retention & LTV Analysis for Brands | Triple Whale",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Turn ad spend into profitable customer growth",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize ad ROI with precise targeting and attribution",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Improve performance by sending first-party data to ad platforms.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Turn ad spend into profitable customer growth.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "and works with your approval.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "For more information on how we process your personal information and what rights you have in this respect, please see our",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Retention that runs on autopilot",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional platforms miss the signals that drive retention. Sonar Send captures them and triggers more flows, while Moby Agents work behind the scenes to uncover missed opportunities — so you grow repeat revenue automatically.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Don't just react to churn — prevent it. Triple Whale’s pre-built retention dashboards and AI agents monitor purchase patterns, predict lifetime value, and surface personalized recommendations that keep your most valuable customers coming back.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Retention Agents",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Triple Whale’s RFM segmentation identifies your most valuable customers and prospects, then syncs them to your marketing channels—automatically. Reach the right people, with the right message, exactly when it matters most. And with 50–100% larger segments than typical segmentation tools, you’re reaching more of the right people, too.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect Audiences (coming soon)",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "ROAS improvement from RFM segments",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & Ecommerce Director, Simba Sleep",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Email & SMS Marketing, Paw.com",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "including to Triple Whale using my contact details to contact me for marketing purposes.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Mix Modeling (MMM)",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 65,000+ top brands globally",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Moby can solve real problems. It’s not just reporting. Most operators today look at AI as research and reporting. It’s moved past that. Now it’s solving real-world problems we either didn’t have the bandwidth to solve, or didn’t even know existed.”",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 65,000+ top brands globally",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Push cleaned, enriched, attribution-aware Triple Whale data into your data warehouse for headless and BI-team workflows.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Operators using Triple Whale",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Moby can solve real problems. It’s not just reporting. Most operators today look at AI as research and reporting. It’s moved past that. Now it’s solving real-world problems we either didn’t have the bandwidth to solve, or didn’t even know existed.”",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse Export",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sync your Triple Whale data outbound at scale via API — for your warehouse, BI tool, or internal app.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A fully-managed, AI-optimized data warehouse at your fingertips",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "A fully-managed warehouse to store your lifetime of data. No limits.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full Case Study",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders in commerce.",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Moby can solve real problems. It’s not just reporting. Most operators today look at AI as research and reporting. It’s moved past that. Now it’s solving real-world problems we either didn’t have the bandwidth to solve, or didn’t even know existed.”",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 65,000 brands",
+    "url": "https://www.triplewhale.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse, Moby Chat, Sonar",
+    "url": "https://www.triplewhale.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", an AI leading performance agency that leverages persona driven creative and measurement strategies, took over day-to-day management of the account, inheriting one of the most data-rich, complex DTC media buying programs in operation today. What followed is a case study in how a brand and an agency can co-pilot the same AI-powered media buyer through a major transition without losing momentum.",
+    "url": "https://www.triplewhale.com/case-studies/trueclassic-realeyes",
+    "pass": 1
+   },
+   {
+    "quote": "is a made-in-America apparel company with factories in North Carolina and Maine. The company began with jujitsu gis and has expanded into boots, jeans, hoodies, and other menswear, all sourced and assembled domestically.",
+    "url": "https://www.triplewhale.com/case-studies/origin-moby-2",
+    "pass": 1
+   },
+   {
+    "quote": "“The best time to plant a tree is 20 years ago. The second best time is today.” — Justin Parker, Director of Ecommerce, Origin",
+    "url": "https://www.triplewhale.com/case-studies/origin-moby-2",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Agents interact with your fully-managed warehouse of business data through customizable analytical workflows, performing a wide range of tasks from data retrieval and analysis to making recommendations.",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Agents are built to expedite your workflows and processes, not add complexity. They run analyses every day, week, or month, and they deliver insights to wherever you prefer — your email, Slack / Microsoft Teams, data warehouse, or any other system via webhook.",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "A fully-managed warehouse to store your lifetime of data. No limits.",
+    "url": "https://www.triplewhale.com/bookdemo",
+    "pass": 1
+   },
+   {
+    "quote": "Triple Whale, the AI operating system for ecommerce used by more than 60,000 ecommerce and retail brands, today announced the general availability of Moby 2.",
+    "url": "https://stellagent.ai/ja/insights/triple-whale-moby-2-ai-operating-system",
+    "pass": 3
+   },
+   {
+    "quote": "\"Can Triple Whale work for a Japanese ecommerce brand? How is it different from RevenueScope?\" These are the two questions I hear most often from operators. The short answer: the two tools live in",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "This post is an honest 7-axis breakdown plus a 4-criterion decision framework, written for operators who want to pick the right tool the first time.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Customers include Marine Layer, Travelpro, Peloton, OUAI, Origin, True Classic, and Milk Bar — a SMB-to-enterprise D2C mix.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "For a team where every weekly KPI review needs to happen in Japanese — including non-bilingual operators who have to challenge the numbers — that's not a minor friction. I've watched solo founders adopt English tools and stop opening them after week three.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale operates on US data centers. For Japanese EC operators, this surfaces a documentation question under Japan's revised Telecommunications Business Act (external transmission rules) and the Personal Information Protection Act: how confidently can you account for \"third-party processor\" responsibility? RevenueScope runs production on Supabase's Northeast Asia (Tokyo) region.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": ", not a marketing line — for compliance-conscious operators it's a real evaluation axis.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Curious what other operators have hit when picking between full-stack vs focused tools — happy to swap notes in the comments.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Customers.ai Case Study: Triple Whale – Triple Whale - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale - Customer Case Study",
+    "url": "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Triple Whale used Customers.ai",
+    "url": "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale is an agent-powered intelligence platform designed to help e-commerce brands make faster, more confident decisions. By integrating AI agents atop a fully-managed data warehouse, the platform offers tools for acquisition, conversion, retention, and operations, transforming complex data into actionable insights for profitable growth.",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, the movement of revenue and capital has not stopped. While OpenAI is adding watermarks to comply with regulations, it is also trying to grow ChatGPT, which is said to be used by 1.2 billion people, into an advertising medium. Etched, which makes semiconductors for inference, is on the verge of being valued at over $40 billion while its product track record is still limited.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Watermarking is useful in situations where large volumes of text are handled by machines. For example, it can be used by platforms to statistically investigate whether fake reviews or posts for public opinion manipulation are being mass-produced by AI. Knowing the overall trend is sufficient, rather than the accuracy of each individual piece.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company has previously established a company-wide agent platform called 'Mizuho Wiz Base' and an 'Agent Factory' for creating numerous agents. This new platform is positioned for entrusting tasks where the method changes each time, rather than just tasks with fixed procedures.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Increase in new customer revenue within 90 days.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s face it: Media buying teams spend too much time managing strategies by hand, leading to missed revenue and wasted spend. There’s a better way.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clicks & Deterministic Views helped us see more of the halo effect from upper-funnel Meta and gave us more confidence in that strategy. Compass incrementality testing has become our true north star for understanding whether a channel is creating additional revenue before we change spend.”",
+    "url": "https://www.triplewhale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn richer data into repeat revenue with segment syncing to advertising and retention platforms.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in revenue QoQ",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Lifetime flow revenue from Sonar Send",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What happens if my revenue grows?",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "As your business grows (as most do using Triple Whale), you'll automatically move to a plan that aligns with your revenue tier, and we'll notify you well in advance. If you're on an annual prepaid plan, you lock in your tier for the entire year, even as you continue to scale.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your marketing budget for maximum performance. Our MMM understands your most efficient channel mix and recommends the best budget allocation by channel, so you can scale revenue most efficiently.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Test causal lift through GeoLift and Conversion Lift studies to know exactly what channels or campaigns are driving net-new revenue.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Incremental Revenue Reporting",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See incremental revenue per channel — what each channel actually drove vs. what it would have driven anyway.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify more visitors and send more email/SMS flows to generate incremental revenue.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock incremental flow revenue from customers that standard pixels miss",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "See what drives revenue across every channel for daily optimization.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock incremental revenue from shoppers standard pixels miss.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional platforms miss the signals that drive retention. Sonar Send captures them and triggers more flows, while Moby Agents work behind the scenes to uncover missed opportunities — so you grow repeat revenue automatically.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from Sonar Send",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our abandoned cart emails have always performed well, but since integrating Sonar, they’ve become one of our top-performing flows. We’ve seen a 14.2% increase in revenue from these flows alone, and the unsubscribe rates have stayed low, which is really encouraging. Sonar has been a win-win for us, especially since it integrates seamlessly with Klaviyo.\"",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Agents for Customer Acquisition",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with Triple Whale to make your data part of the source of truth brands rely on to truly understand performance, make decisions, and take action every day.",
+    "url": "https://www.triplewhale.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of our global ecosystem where leading technology partners connect, collaborate, and grow together.",
+    "url": "https://www.triplewhale.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Pura Vida Bracelets grew BFCM top-line revenue 175%+ with Triple Whale and Moby, reaching its 3x to 4x blended ROAS target.",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabeled used Triple Whale and Moby Media Buyer to make Meta the most profitable channel in a key client account, increasing revenue 17% YoY while cutting spend 26%.",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Hat Club Uncovered a 413% Lift in TikTok-Attributed Revenue with Clicks & Deterministic Views",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Hat Club uncovered TikTok’s true revenue impact with Triple Whale's Clicks & Deterministic Views attribution, driving a 413% lift in attributed revenue and reshaping the platform into a measurable, conversion-driving channel.",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "SFERRA Fine Linens increases ROAS 3x and generates $300K+ in incremental revenue with Triple Whale",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "By unifying fragmented marketing data into a single source of truth, SFERRA gained real-time clarity that drove a 2x increase in ROAS, $300K+ in incremental flow revenue, and significant time savings with Moby AI.",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue tracked in last 365 days",
+    "url": "https://www.triplewhale.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "From the start, Shopify brands embraced the product, helping Triple Whale reach product-market fit quickly and organically. Today, backed by Shopify and other leading investors, Triple Whale has continued to expand that vision: giving every ecommerce and retail brand access to the kind of intelligence once reserved only for the Fortune 500, and turning data into profitable action.",
+    "url": "https://www.triplewhale.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At Triple Whale, we believe in fostering the innovation that will make our vision a reality, and do so by empowering our employees to practice our values, that are built around remote connectedness, and bringing our exciting vision to life.",
+    "url": "https://www.triplewhale.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "True Classic's finance team used to hand-calculate daily budget targets and feed them to media buyers. Moby Media Buyer now does this work in real time. It derives daily budgets from monthly revenue goals, factors in known sales events like Memorial Day and weekend lift, adjusts ad sets based on rolling performance, and flags whenever the account is more than 10% off pace.",
+    "url": "https://www.triplewhale.com/case-studies/trueclassic-realeyes",
+    "pass": 1
+   },
+   {
+    "quote": "Origin makes smarter decisions with Moby AI and generates $450K+ incremental revenue with Sonar Send",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "Generating Incremental Klaviyo Revenue with Sonar Send",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "Triple Whale's Sonar Send generated significant incremental Klaviyo revenue for Origin by identifying more website visitors, leading to improved email flow triggering. Origin uses a stack of enrichment solutions including Elevar and Retention.com, but noted that Sonar Send generates an incremental 15-20% more events on top of those solutions.",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "\"Within a year of setting up Sonar Send, it generated $450k in incremental revenue for us. At roughly 40% margins, that's $168,000 of profit generated by Sonar. The value of Sonar alone makes the ROI of Triple Whale significant. It pays for itself many times over.\"",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "\"I asked Moby to forecast revenue for a 4-day sale we were planning, keeping in mind cross-selling and historical velocity. In five minutes, Moby gave us conservative, expected, and optimistic forecasts, daily revenue projections, bundle recommendations, and even inventory alerts for products that may sell out due to current inventory levels, which it was correct about.\"",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "$450K+in incremental revenue:",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "Sonar Send generated over $450,000 in lifetime revenue by identifying more customers and triggering more effective email flows",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "For example, an email that Klaviyo claimed to have generated $118k in revenue actually showed only $44k in Triple Whale, when accounting for attribution to other touchpoints in the customer journey",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're doing all of this without a growth team. I carry growth as one of many hats, we have an out-of-house media-buying agency, and Triple Whale. That's it.\"",
+    "url": "https://www.triplewhale.com/case-studies/brightland",
+    "pass": 1
+   },
+   {
+    "quote": "What mattered was trust and breadth. Brightland needed a single place to see the whole funnel, new versus returning customer mix, channel attribution, and acquisition health, in real time, rather than stitching together exports. And as the team leaned into Moby, Triple Whale's AI, the bar was that it had to be genuinely useful and credible, not generic AI output.",
+    "url": "https://www.triplewhale.com/case-studies/brightland",
+    "pass": 1
+   },
+   {
+    "quote": "\"For Sumo Citrus, organic channels drove outsized impact. PR, gifting, and partnerships created real momentum, and the community response to the collaboration was immediate and measurable. That gave us the confidence to push acquisition spend without sacrificing contribution margin. We sold through more than 3x faster than our KPI.\"",
+    "url": "https://www.triplewhale.com/case-studies/brightland",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've been able to run really efficiently this year, and that is a large part of how we're using the tool.\"",
+    "url": "https://www.triplewhale.com/case-studies/brightland",
+    "pass": 1
+   },
+   {
+    "quote": "\"We added Triple Whale almost immediately after launching YSE because we knew we wanted to build a modern, data-driven business from day one. I was an ecommerce team of one for the first year. Triple Whale gave us confidence that we could scale aggressively with deeper visibility into acquisition efficiency, customer quality, and profitability.\"",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Three years later, Triple Whale and Moby 2 run across acquisition, retention, merchandising, and forecasting at YSE.",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Marina turned on Sonar Send to recover revenue that the standard Klaviyo flows were missing. Since setup, Sonar Send has driven over $45,000 in incremental revenue for YSE, with no additional work from the retention team.",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Customer quality and LTV. Susan asks Moby 2 which acquisition campaigns are bringing in the highest-LTV customers who come back and purchase again, then optimizes for long-term value rather than front-end ROAS alone.",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Before Triple Whale, YSE was reacting to topline performance changes after they had already materially impacted efficiency, particularly around new customer acquisition. Now the team is proactive, and most decisions are made in real time.",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Three years in, YSE Beauty is an eight-figure DTC business with strong retention, efficient acquisition, and a lean operating model. The headline numbers since launch:",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "revenue growth since April 2023",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "in incremental revenue generated by Sonar Send",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Moby 2 acts as a new teammate alongside Susan and Marina. Instead of stitching reports together or staffing a dedicated analyst, the team moves directly from insight to action across acquisition, retention, merchandising, and forecasting.",
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Media buying carried the biggest risk on budget",
+    "url": "https://www.triplewhale.com/case-studies/origin-moby-2",
+    "pass": 1
+   },
+   {
+    "quote": "Because Moby Media Buyer is always on, it keeps a concrete record of what happened and what results followed. Justin contrasts that with media buying that runs on instinct more than on data and history. He also says controlled business context, including PII guardrails, expense guardrails, and uploaded files, is part of why he trusts the system.",
+    "url": "https://www.triplewhale.com/case-studies/origin-moby-2",
+    "pass": 1
+   },
+   {
+    "quote": "The channel creating demand and the channel receiving the purchase were not always the same. A customer might discover a product through a Meta campaign but complete the purchase on Amazon, leaving the growth team without a reliable way to connect its advertising investment to the revenue it created.",
+    "url": "https://www.triplewhale.com/case-studies/gorilla-mind",
+    "pass": 1
+   },
+   {
+    "quote": "Using Compass, which has since become a core part of how Gorilla Mind shapes its media strategy, the growth team could now measure how advertising affected revenue across Shopify and Amazon, quantify halo effects that direct reporting missed, and give leadership a clearer view of what marketing is actually driving.",
+    "url": "https://www.triplewhale.com/case-studies/gorilla-mind",
+    "pass": 1
+   },
+   {
+    "quote": "“Compass takes a complex test and simplifies it into something our CEO and CFO can understand. We can show our CEO and CFO what Meta drove across Shopify and Amazon, where the increased revenue appeared, and why that investment matters. That gives us stronger proof to explain marketing’s impact and defend the budget.”",
+    "url": "https://www.triplewhale.com/case-studies/gorilla-mind",
+    "pass": 1
+   },
+   {
+    "quote": "How much additional revenue were Meta, Google, and TikTok actually creating?",
+    "url": "https://www.triplewhale.com/case-studies/gorilla-mind",
+    "pass": 1
+   },
+   {
+    "quote": "The team began with channel-level tests across Meta, Google, and TikTok, with the goal of understanding how each channel affected the business as a whole before moving into narrower questions around campaigns, products, audiences, and creative.",
+    "url": "https://www.triplewhale.com/case-studies/gorilla-mind",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Know how your brand shows up in AI search",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All prices are based on a combination of your brand's annual GMV and the package you choose: Foundation, Automate, or Enterprise. Every paid plan includes unlimited users and integrates with as many stores as needed.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Track how often and where your brand appears in AI-generated answers, including recommendations, comparisons, and lists—showing your share of voice versus competitors.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and refine creative grounded in your brand.",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Agents for Agencies",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Technology Partner Program — Triple Whale",
+    "url": "https://www.triplewhale.com/tech-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabeled turns Meta into a client’s most profitable channel with Moby Media Buyer",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabeled used Triple Whale and Moby Media Buyer to make Meta the most profitable channel in a key client account, increasing revenue 17% YoY while cutting spend 26%.",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Perhaps most valuable is the time saved through unified reporting. What once required multiple team members manually pulling data from different platforms can now be accomplished quickly in one interface supercharged with Moby AI, creating alignment across global teams and agency partners.",
+    "url": "https://www.triplewhale.com/case-studies/travelpro",
+    "pass": 1
+   },
+   {
+    "quote": "Triple Whale is that neutral third party that provides clarity and unbiased data, which is something we couldn't achieve with other tools or agencies.”",
+    "url": "https://www.triplewhale.com/case-studies/travelpro",
+    "pass": 1
+   },
+   {
+    "quote": "Ekster switched to Triple Whale in August 2024, initially based on a recommendation from their agency partner, Soar With Us. The platform's AI-native approach to attribution and analytics offered the visibility and efficiency they were seeking.",
+    "url": "https://www.triplewhale.com/case-studies/ekster",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Moby Agents, the first AI agents purpose-built to boost your brand’s customer acquisition, conversion, retention, and business operations.",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Generate and refine creative grounded in your brand.",
+    "url": "https://www.triplewhale.com/bookdemo",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Agents for Agencies",
+    "url": "https://www.triplewhale.com/bookdemo",
+    "pass": 1
+   },
+   {
+    "quote": "The post-purchase survey uncovered that 45% of Simba’s sales came from referrals or existing customers—significantly higher than previous tools identified. This led Simba to prioritize their referral program and retention strategies, ensuring that once a customer buys, they become a strong advocate.",
+    "url": "https://www.triplewhale.com/case-studies/simba-sleep",
+    "pass": 1
+   },
+   {
+    "quote": "Want to achieve holistic attribution and uncover new growth opportunities for your brand?",
+    "url": "https://www.triplewhale.com/case-studies/simba-sleep",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Triple Whale can help your brand achieve similar results.",
+    "url": "https://www.triplewhale.com/case-studies/paw-com",
+    "pass": 1
+   },
+   {
+    "quote": "There are limits to what can be done with city ordinances. AI development itself takes place outside the city, and the city's direct reach should be limited to areas such as provision within the city, procurement by city agencies, and the protection of users within the city. It is also highly likely that this will be contested legally.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The attack process had distinct characteristics. According to The Korea Times, the targets were not the core systems of the banks, but rather peripheral areas such as employee terminals, connection points for contractors, and systems for loan agencies. A technique of testing large volumes of IDs and passwords leaked from other locations in the past was also used.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The second is that the level of defense is determined by the 'weakest entry point.' No matter how much you fortify the core, if the connection points for contractors or agencies are weak, they will be used to gain entry.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese financial institutions also have many connections through contractors and agencies. It is entirely possible that the same type of attack could be directed at Japan, and this is not a matter that can be dismissed as something happening on the other side of the ocean.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Schedule reports to send automatically to email or Slack.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email & SMS Integrations",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify more visitors and send more email/SMS flows to generate incremental revenue.",
+    "url": "https://www.triplewhale.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our abandoned cart emails have always performed well, but since integrating Sonar, they’ve become one of our top-performing flows. We’ve seen a 14.2% increase in revenue from these flows alone, and the unsubscribe rates have stayed low, which is really encouraging. Sonar has been a win-win for us, especially since it integrates seamlessly with Klaviyo.\"",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Email & SMS Marketing, Paw.com",
+    "url": "https://www.triplewhale.com/retain-customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"When you see how many purchases Wirecutter influences, it guides all of our interactions with that partner. We've really scaled up our work with them over the past two years, including exclusive promotional emails—things we would have never done because we didn't know the true impact before the Post-Purchase Survey,\"",
+    "url": "https://www.triplewhale.com/case-studies/travelpro",
+    "pass": 1
+   },
+   {
+    "quote": "Triple Whale's Sonar Send generated significant incremental Klaviyo revenue for Origin by identifying more website visitors, leading to improved email flow triggering. Origin uses a stack of enrichment solutions including Elevar and Retention.com, but noted that Sonar Send generates an incremental 15-20% more events on top of those solutions.",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "Email Performance Analysis & Ideas Agent",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "- analyzing email flows and campaigns while generating ideas for new email content",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "Sonar Send generated over $450,000 in lifetime revenue by identifying more customers and triggering more effective email flows",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "Improved Email/SMS attribution accuracy:",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "For example, an email that Klaviyo claimed to have generated $118k in revenue actually showed only $44k in Triple Whale, when accounting for attribution to other touchpoints in the customer journey",
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "pass": 1
+   },
+   {
+    "quote": "Surface optimal send times, pricing strategies, and messaging for each email and SMS audience",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Agents work where you already do — inside your Attribution table, Summary page, and more. Get actionable summaries and recommendations delivered directly to Slack, email, or mobile so your team never misses a beat, no matter where they work.",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Configure how often insights are generated, where they're sent, and how they integrate with your existing workflows — whether that's email, Slack, or to a dashboard directly in Triple Whale.",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "While our prompt engineering team has defined many of these workflows for you based on extensive customer research, users can tweak these workflows in natural language or SQL, and agents can execute tasks in parallel or sequence, with outputs delivered to various destinations like dashboards or email.",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Moby Agents are built to expedite your workflows and processes, not add complexity. They run analyses every day, week, or month, and they deliver insights to wherever you prefer — your email, Slack / Microsoft Teams, data warehouse, or any other system via webhook.",
+    "url": "https://www.triplewhale.com/moby-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Simba Sleep used Triple Whale’s optimize marketing spend and uncover hidden opportunities. Key results included a +30% Meta ROAS improvement using high-value segments and a 10% revenue boost in Klaviyo email flows through Sonar Send. Triple Whale provided Simba with the insights needed to refine strategy, enhance targeting, and drive sustainable growth.",
+    "url": "https://www.triplewhale.com/case-studies/simba-sleep",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to improving paid media efficiency, Simba used Triple Whale’s Sonar Send to better identify and send email flows to customers who abandoned their carts or browsing sessions. This more accurate identification led to enhanced email flows that generated an incremental 10% in email revenue over the last 30 days alone.",
+    "url": "https://www.triplewhale.com/case-studies/simba-sleep",
+    "pass": 1
+   },
+   {
+    "quote": "“Sonar revealed more abandoned cart customers, boosting email flow revenue +10%” – Jon Moore, Marketing & Ecommerce Director",
+    "url": "https://www.triplewhale.com/case-studies/simba-sleep",
+    "pass": 1
+   },
+   {
+    "quote": "Triple Whale provided a consolidated dashboard for all of Paw.com’s marketing data, offering a comprehensive view of ad performance and eliminating the need for manual reporting. The Sonar tool further enhanced the effectiveness of their Klaviyo email flows, adding incremental revenue and improving customer engagement.",
+    "url": "https://www.triplewhale.com/case-studies/paw-com",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced Email Marketing Performance with Sonar",
+    "url": "https://www.triplewhale.com/case-studies/paw-com",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Email & SMS Marketing",
+    "url": "https://www.triplewhale.com/case-studies/paw-com",
+    "pass": 1
+   },
+   {
+    "quote": ": enrichment automations、Email/SMS フロー強化",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "— enrichment automations powering email/SMS flows",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Triple Whaleって日本のECで使えるの？正直に比較した｜広告費と売上の関係を1画面で見られる「RevenueScope」公式note",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleって日本のECで使えるの？正直に比較した",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "「Triple Whaleって、日本のECでも使えますか？」 — EC事業者の方から最近よく聞かれる問いです",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、私が日本のSMB EC事業者向けにRevenueScopeを設計してきた立場から正直に言うと、",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "ただし英語UI・USD建て・US時間サポート・日本オフィスなしという「日本市場対応の壁」がある",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "RevenueScope はコア4指標（Revenue・AOV・RPS・CVR）+ Sessions = 5 KPIカードに絞った日本SMB EC向けの軽量ツール",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleは2026年5月時点で日本語LP・JPY価格・日本オフィスの公開情報は確認できず、UIは英語のみ・サポートは米時間・日本語ドキュメントなし、という前提で導入することになります",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のチームで毎週ダッシュボードを開いて運用する」という現場では、英語UIの存在感は意外と大きい",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "1人で触るならまだしも、チーム全員が日本語でないとレビューがそもそも回らない事業者は実在します",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": ": チームが英語OKか、日本語必須か",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "私の経験上、日本のSMB EC事業者で",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "「日本SMB EC向け」はどこで効いてくるか",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場のEC事業者にとっては、改正電気通信事業法（外部送信規律）と個人情報保護法の観点で「個人関連情報の取扱者をどこまで自社責任として説明できるか」という論点があります",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "RevenueScope はSupabaseのNortheast Asia (Tokyo) リージョンで本番環境を運用しており、",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "「Triple Whaleの機能は魅力的だが、英語UIとUSデータセンターが現場で響かない」「日本語のシンプルなツールでまずコア4指標を回してみたい」 — そういう事業者には、RevenueScopeが摩擦の少ない入口になります",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の運用は RevenueScope で日次に回し、グローバル全体のMMM分析は Triple Whale で四半期に行う",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale vs RevenueScope｜価格・機能・日本対応の違い",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "日本のEC事業者にとっても、この潮流は対岸の出来事ではありません",
+    "url": "https://stellagent.ai/ja/insights/triple-whale-moby-2-ai-operating-system",
+    "pass": 3
+   },
+   {
+    "quote": "仮にTriple Whaleが日本展開を本格化しなくとも、同様のアーキテクチャを志向するプレイヤーが国内でも登場することは想像に難くありません",
+    "url": "https://stellagent.ai/ja/insights/triple-whale-moby-2-ai-operating-system",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店や社内マーケチームが存在し、運用の高度化に投資できる企業",
+    "url": "https://kikushiru.net/2026/02/06/%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E6%B3%A8%E7%9B%AE%EF%BC%81triple-whale-analytics%E3%81%8C%E9%81%B8%E3%81%B0%E3%82%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "【EC最新ニュース2026】日本郵便が、メール配信の委託先への不正アクセスで、国際郵便マイページ会員のメールアドレスが漏えいしたおそれがあると知らせました",
+    "url": "https://kikushiru.net/2026/02/06/%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E6%B3%A8%E7%9B%AE%EF%BC%81triple-whale-analytics%E3%81%8C%E9%81%B8%E3%81%B0%E3%82%8C/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Can Triple Whale work for a Japanese ecommerce brand? How is it different from RevenueScope?\" These are the two questions I hear most often from operators. The short answer: the two tools live in",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "I've been building RevenueScope for the Japan SMB EC market, so I have a stake in the comparison. But after pulling May 2026 official data from both sides and lining them up across seven axes, the conclusion is structural, not promotional:",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "RevenueScope is built for Japan SMB EC and limits itself to core 4 metrics",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "— Revenue, AOV, RPS, CVR — plus Sessions, displayed as five KPI cards. It installs through GTM in five minutes via dataLayer pickup, ships in Japanese, and runs on three fixed plans (¥2,980 / ¥9,800 / ¥29,800 / month).",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "The seven axes (language, feature scope, technical needs, pricing, ad-API integration, supported platforms, Japan-market readiness) trace a clean split",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "— pick Triple Whale when English-first teams need full-stack measurement, pick RevenueScope when Japanese-first teams want lean, opinionated weekly KPI rituals.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Japan-market readiness",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": ". As of May 2026 I cannot find Triple Whale Japan pricing pages, JPY billing options, or a Japan office in public sources. The UI is English, support runs on US hours, and documentation is English-only. Shopify storefront currency display in JPY is fine, but UI / support / pricing are English + USD by default.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "For a team where every weekly KPI review needs to happen in Japanese — including non-bilingual operators who have to challenge the numbers — that's not a minor friction. I've watched solo founders adopt English tools and stop opening them after week three.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "— English-first team or Japanese required?",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "a Japanese SMB EC team adopting a full-stack tool and never actually using it",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale operates on US data centers. For Japanese EC operators, this surfaces a documentation question under Japan's revised Telecommunications Business Act (external transmission rules) and the Personal Information Protection Act: how confidently can you account for \"third-party processor\" responsibility? RevenueScope runs production on Supabase's Northeast Asia (Tokyo) region.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Data residency in Japan is a deliberate operational choice",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Japan operations on RevenueScope daily, global MMM on Triple Whale quarterly",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Pick Triple Whale when you have an English-first team, want full-stack measurement (MMM/MTA/SQL/inventory/ROAS in one app), and can leverage 60+ direct ad-API integrations. Pick RevenueScope when you have a Japanese team, want a 5 KPI card weekly ritual, run on GTM, and are fine delegating ROAS calculation to your ad consoles.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Full breakdown with detailed pricing tables, source URLs, and Japan-market notes is at",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale vs RevenueScope: Pricing, Features & Japan EC Comparison",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | Triple Whale | Claude by Anthropic",
+    "url": "https://claude.com/ja/customers/triple-whale",
+    "pass": 3
+   },
+   {
+    "quote": "While voices questioning safety are growing stronger, business expansion is actually accelerating. The gap between these two speeds is the central theme running through all of yesterday's news. Below, we will first examine the contents of the hearing, then look at the incident in South Korea, OpenAI's two announcements, the movement of capital, and the case in Japan, in that order.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese financial institutions also have many connections through contractors and agencies. It is entirely possible that the same type of attack could be directed at Japan, and this is not a matter that can be dismissed as something happening on the other side of the ocean.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "13. Mizuho Cowork: Agent Adoption in Japanese Financial Institutions",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Japan, there was an announcement from Mizuho Financial Group. On October 5, the company announced that it had developed an autonomous AI agent platform called 'Mizuho Cowork' and would begin trials for its application in business operations.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The challenge for Japan is not to just passively follow these movements. As in the Mizuho case, the fact that the adopting side demonstrates its own safety design is a preparation that is less likely to be swayed by overseas regulatory trends.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the development side, OpenAI has begun testing image advertisements, Etched has received funding proposals at a valuation exceeding $40 billion, and Reflection AI has released an open model to compete with Chinese counterparts. In Japan, Mizuho has unveiled an agent infrastructure with an eye toward deployment on a scale of 30,000 employees.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Today (AFP) \"'Reckless' AI firms can't control models, says whistleblower\"",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://japantoday.com/category/tech/'reckless'-ai-firms-can't-control-models-says-whistleblower",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Triple Whaleって日本のECで使えるの？正直に比較した — May 4, 2026 · 「Triple Whaleって、日本のECでも使えますか？ 」 — EC事業者の方から最近よく聞かれる問いです。 海外で60,000以上のブランドが採用していると公式が謳う ecommerce intelligence platform。 たしかに、機能を見ているだけでも「ここまでできるのか」と惹かれます。",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleが「EC向けAI OS」Moby 2を一般提供──分析から自律実行へ... — May 20, 2026 · Triple WhaleがMoby 2を正式リリース。 MMM・インクリメンタリティ・1stパーティ計測を基盤に、媒体運用・クリエイティブ・LPまで自律実行するAIエージェント群を投入しました。",
+    "url": "https://stellagent.ai/ja/insights/triple-whale-moby-2-ai-operating-system",
+    "pass": 3
+   },
+   {
+    "quote": "詳細分析ダッシュボードに注目！Triple Whale Analyticsが選ばれる理... — Feb 6, 2026 · 導入〜活用のステップ：初心者がつまずかないためのポイント ステップ1：Shopifyと広告アカウントの連携 Triple Whale導入時は、まず次の連携を完了させることが重要です。",
+    "url": "https://kikushiru.net/2026/02/06/詳細分析ダッシュボードに注目！triple-whale-analyticsが選ばれ/",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale:リアルタイムデータ、カスタマイズ可能なダッシュボード... — Triple WhaleはShopifyを中心としたECブランド向けの包括的な分析ソリューションです。 複数ソースのデータを統合ダッシュボードで可視化し、販売・マーケティング・業務指標をリアルタイムで監視できます。",
+    "url": "https://moge.ai/ja/product/triple-whale",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale — Make waves. — Triple Whale is the AI operating system built for modern commerce. It sees your whole business in real time, tells you what’s actually driving growth, and executes when you say go.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale vs RevenueScope — A 7-Axis Comparison for SMB EC ... — May 4, 2026 · Full breakdown with detailed pricing tables, source URLs, and Japan-market notes is at Triple Whale vs RevenueScope: Pricing, Features & Japan EC Comparison. Curious what other operators have hit when picking between full-stack vs focused tools — happy to swap notes in the comments.",
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleって日本のECで使えるの？正直に比較した — May 4, 2026 · GMV連動価格・60,000+ブランド採用・コア4指標特化など実機データに基づき、自社EC事業者がどちらを選ぶべきかの判定基準と住み分けの考え方を整理しています。 参考： Triple Whale 公式 https://www.triplewhale.com/ Triple Whale Pricing https://www.triplewhale.com/pricing",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale — Make waves. — Triple Whale — Make waves. Know what’s actually working. Act on it instantly. Triple Whale is the AI operating system built for modern commerce. It sees your whole business in real time, tells you what’s actually driving growth, and executes when you say go.",
+    "url": "https://www.triplewhale.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrations — Triple Whale — With a growing list of over 60 pre-built integrations, you can easily give Triple Whale all of the context it needs to help you see what’s working, what’s not and take action on what to do next. Your connected ecommerce platform that powers your Triple Whale account.",
+    "url": "https://www.triplewhale.com/our-integrations",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Triple Whale Help Center — Learn how to analyze customer segments, cohorts, LTV, retention performance, product behavior, and add-ons like Sonar Send and Retention Add-On. Track how customers find and talk about your brand with AI Visibility, Social Monitoring, and Keyword Intelligence.",
+    "url": "https://kb.triplewhale.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories — Triple Whale — Customer stories See how 65,000+ brands scale with Triple Whale. From advanced measurement to channel-level attribution, see how leading brands rely on Triple Whale to make high-stakes decisions with confidence.",
+    "url": "https://www.triplewhale.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories — Triple Whale — Once that alignment happened, it felt like the system was finally working toward the definition of success we care about — driving an increase in new customer purchases by 213%.”",
+    "url": "https://www.triplewhale.com/case-studies?product=customer-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Customers.ai Case Study: Triple Whale – Triple Whale ... — Triple Whale (Computer Software) partnered with Customers.ai (Internet) to solve key challenges. \"Triple Whale - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale Claude Platform (API) case study | Claude by ... — Triple Whale reduces reporting time by over 70%. Read the case study to see how they build on the Claude Platform.",
+    "url": "https://claude.com/customers/triple-whale",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Triple Whale Uses Software & Services — Explore case studies featuring Triple Whale as the customer — learn how vendors and partners helped Triple Whale solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/triple-whale",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale Revenue 2025: $21.6M, $55.4M Raised — Oct 7, 2026 · Triple Whale 2025 revenue: $21.6M. Total funding: $55.4M across 3 rounds. 196 employees. Industry: E-Commerce Analytics Software. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/triplewhale.com",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale 2026 Company Profile: Valuation, Funding ...Triple Whale - 2026 Company Profile, Team, Funding ... - TracxnTriple Whale Profile 2026: Financials, AI Strategy & Hyros ...About Triple WhaleTriple Whale - Overview, News & Similar companies - ZoomInfoTriple Whale – Performance Metrics & Competitor Intelligence –… — Information on valuation, funding, cap tables, investors, and executives f",
+    "url": "https://pitchbook.com/profiles/company/482189-14",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale - 2026 Company Profile, Team, Funding ... - Tracxn — May 21, 2026 · Triple Whale is a series B company based in Columbus (United States), founded in 2021 by Aj Orbach and Maxx Blank. It operates as a Provider of data solutions for e-commerce businesses. Triple Whale has raised $52.7M in funding from NFX and Elephant Venture Capital.",
+    "url": "https://tracxn.com/d/companies/triplewhale/__0H_VrbhvGoR4ictAKCoHD35fugtEnMdAkqjJ61bxqFI",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale Profile 2026: Financials, AI Strategy & Hyros ... — Triple Whale has raised $25 million in funding, with investors including NFX, Elephant, and Shopify. The company has 125 employees and serves over 50,000 brands globally. Triple Whale is an agent-powered intelligence platform designed to help e-commerce brands make faster, more confident decisions.",
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale – Performance Metrics & Competitor Intelligence –… — Triple Whale continues to expand with estimated revenue of $34.5M, team of around 100+ employees, currently in Columbus, staying relevant in changing times.",
+    "url": "https://compworth.com/company/triple-whale",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Deep Dive into Today's AI News | October 6, 2026 |｜宮野宏樹 Oct 6, 2026 · Partners tracking everything from clicks to purchases include AppsFlyer, Triple Whale, Adjust, Branch, Singular, and Kochava, and companies that measure the overall contribution of ads and companies that compare effectiveness by changing ad placements by region have also joined.",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleって日本のECで使えるの？正直に比較した｜広告費と売上... May 4, 2026 · 「Triple Whaleって、日本のECでも使えますか？ 」 — EC事業者の方から最近よく聞かれる問いです。 海外で60,000以上のブランドが採用していると公式が謳う ecommerce intelligence platform。 たしかに、機能を見ているだけでも「ここまでできるのか」と惹かれます。",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Shopifyも出資するAIアナリティクスプラットフォーム「Triple Whale（... Sep 22, 2025 · Triple Whaleは複数の販売・マーケティングチャネルのデータを一元化し、アナリティクス、アトリビューション（広告貢献度測定）、マーチャンダイジング、需要予測に至るまで、幅広い機能をオールインワンで備えるデータ分析プラットフォームだ。",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Deep Dive into Today's AI News | October 6, 2026 |｜宮野宏樹",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Dive into Today's AI News | October 6, 2026 |",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decoding the Sworn Testimony of 4 AI Companies",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Yesterday (October 5), in the chambers of the New York City Council, executives from four companies—Anthropic, OpenAI, Google, and Meta—testified under oath regarding the dangers of AI. It was not a national congress or a state legislature, but a single city council that demanded accountability from the world's most well-funded technology companies, in a format where they could be held liable for ",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "※This article is a deep-dive version. If you want to grasp the main points in 3 minutes, please see the breaking news version: \"7 AI News Stories of the Day | October 6, 2026 | 4 AI Companies Give Sworn Testimony.\"",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Why yesterday's news is important",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you line up yesterday's news, it becomes clear that the debate surrounding AI has shifted from \"future worries\" to \"who is responsible now?\"",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Until now, discussions about AI safety have centered on promises companies made themselves and meetings held by various national governments. The flow has been: companies announce safety policies, and governments set up working groups and wait for recommendations. The U.S. administration's \"Superintelligence Force\" mentioned in yesterday's article also has a 120-day deadline for recommendations, a",
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleって日本のECで使えるの？正直に比較した｜広告費と売上の関係を1画面で見られる「RevenueScope」公式note。",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleって日本のECで使えるの？正直に比較した",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "広告費と売上の関係を1画面で見られる「RevenueScope」公式note。",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "「Triple Whaleって、日本のECでも使えますか？」 — EC事業者の方から最近よく聞かれる問いです。海外で60,000以上のブランドが採用していると公式が謳う ecommerce intelligence platform。たしかに、機能を見ているだけでも「ここまでできるのか」と惹かれます。",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、私が日本のSMB EC事業者向けにRevenueScopeを設計してきた立場から正直に言うと、",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "「使える / 使えない」 ではなく 「住み分けの話」",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "だと思っています。今日はその輪郭を、自分なりに整理してみます。",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale は60,000+ブランド採用のフル機能プラットフォーム。ただし英語UI・USD建て・US時間サポート・日本オフィスなしという「日本市場対応の壁」がある",
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "pass": 3
+   },
+   {
+    "quote": "Shopifyも出資するAIアナリティクスプラットフォーム「Triple Whale（トリプル・ホエール）」｜CEREAL TALK（シリアルトーク）",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   },
+   {
+    "quote": "Shopifyも出資するAIアナリティクスプラットフォーム「Triple Whale（トリプル・ホエール）」",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   },
+   {
+    "quote": "「bootstrap（Day1から黒字化を目指す）」",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   },
+   {
+    "quote": "型のD2Cブランドが増加した。外部からの資金調達をせず自己資金のみで、創業者と数人の最小チームで売り上げ数億円規模まで成長させる戦略だ。",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   },
+   {
+    "quote": "こうした最小人員でのブランド運営を後押ししているのがAIの進化だ。特にデータ活用や会計、在庫管理、需要予測といったバックエンドツールの進化によってブランド運営にまつわる業務が効率化され、少ない人数でも売り上げを大幅に成長させることができるようになった。",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中で、2021年創業から多くのShopifyブランドに導入され急成長しているのがAIアナリティクスプラットフォーム",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   },
+   {
+    "quote": "導入後90日でブランドの新規顧客売上が平均42%も向上",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whaleは複数の販売・マーケティングチャネルのデータを一元化し、アナリティクス、アトリビューション（広告貢献度測定）、マーチャンダイジング、需要予測に至るまで、幅広い機能をオールインワンで備えるデータ分析プラットフォームだ。",
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Triple Whale (@triplewhale) / X As businesses use AI across more tools, Triple Whale MCP gives them secure access to analyze trusted, real-time Triple Whale data wherever they work. Available on Foundation, Automate, and Enterprise plans.",
+    "url": "https://x.com/triplewhale",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale (@triplewhale) / Posts and Replies / X Claude Opus 4.7 is here — and Triple Whale has been featured again in @AnthropicAI 's latest launch. It’s the strength of these models that powers Moby 2 and the next generation of AI inside Triple Whale.",
+    "url": "https://x.com/triplewhale/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale on X: \"Today we're officially launching Moby 2 ... We’re also launching: • Moby Specialists, purpose-built AI specialists for media buying, creative, and conversion optimization • Compass, our new unified measurement system combining attribution, incrementality, and MMM • New upgrades to Sonar Optimize (including attribution passback) and Clicks & Deterministic Views Attribution Built",
+    "url": "https://x.com/triplewhale/status/2056802597571547449",
+    "pass": 3
+   },
+   {
+    "quote": "Big news: Anteater is joining Triple Whale. AEO meets one ... Triple Whale 🐳 (@triplewhale). 7 likes 488 views. 💥 Big news: Anteater is joining Triple Whale. 💥 AEO meets one unified intelligence platform 🤝 → Measure AI visibility. → See citations. → Take action with Moby.",
+    "url": "https://x.com/triplewhale/status/1993427267800944963",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Triple Whale: Jobs | LinkedIn Triple Whale | 49,012 followers on LinkedIn. The AI operating system built for modern commerce. | Triple Whale is the AI operating system built for modern ecommerce.",
+    "url": "https://www.linkedin.com/company/triple-whale/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Whale - LinkedIn Triple Whale is the AI operating system built for modern ecommerce. We pull every signal in your business into one place, put it on the most trusted measurement foundation in the industry, and...",
+    "url": "https://il.linkedin.com/company/triple-whale",
+    "pass": 3
+   },
+   {
+    "quote": "Triplewhale Jobs in United States (5,000+ Open Roles) | LinkedIn Today’s top 5,000+ Triplewhale jobs in United States. Leverage your professional network, and get hired. New Triplewhale jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/triplewhale-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Marcy Tatelbaum - VP of People at Triple Whale - LinkedIn VP of People at Triple Whale - Triple Whale is the AI operating system built for modern commerce.",
+    "url": "https://www.linkedin.com/in/marcy-tatelbaum-08360533",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.triplewhale.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/retain-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/tech-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/trueclassic-realeyes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/travelpro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/origin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/brightland",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/yse-beauty",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/origin-moby-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/gorilla-mind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/ekster",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/moby-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/bookdemo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/simba-sleep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.triplewhale.com/case-studies/paw-com",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.triplewhale.com/assets/tech-partner/integrations-panel.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.triplewhale.com/assets/about/press/press-anteater.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.triplewhale.com/assets/homepage-v2/decisions/icon-customers.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stellagent.ai/ja/insights/triple-whale-moby-2-ai-operating-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikushiru.net/2026/02/06/%E8%A9%B3%E7%B4%B0%E5%88%86%E6%9E%90%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E6%B3%A8%E7%9B%AE%EF%BC%81triple-whale-analytics%E3%81%8C%E9%81%B8%E3%81%B0%E3%82%8C/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/triple-whale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://claude.com/ja/customers/triple-whale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/triplewhale.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/482189-14",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/triplewhale/__0H_VrbhvGoR4ictAKCoHD35fugtEnMdAkqjJ61bxqFI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/revenuescope/n/n6a0614412145",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cerealtalk/n/naacb79575548",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/triplewhale",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/triplewhale/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/triplewhale/status/2056802597571547449",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/triplewhale/status/1993427267800944963",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/triple-whale/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/triple-whale",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/triplewhale-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/marcy-tatelbaum-08360533",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Triplewhale 日本 導入",
+   "results": [
+    "https://note.com/revenuescope/n/n6a0614412145",
+    "https://stellagent.ai/ja/insights/triple-whale-moby-2-ai-operating-system",
+    "https://kikushiru.net/2026/02/06/詳細分析ダッシュボードに注目！triple-whale-analyticsが選ばれ/",
+    "https://moge.ai/ja/product/triple-whale",
+    "https://www.triplewhale.com/",
+    "https://claude.com/ja/customers/triple-whale",
+    "https://note.com/cerealtalk/n/naacb79575548"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triplewhale 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.triplewhale.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://tryall.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Triplewhale Japan",
+   "results": [
+    "https://dev.to/toshihiro_shishido/triple-whale-vs-revenuescope-a-7-axis-comparison-for-smb-ec-brands-1h0d",
+    "https://note.com/revenuescope/n/n6a0614412145",
+    "https://www.triplewhale.com/",
+    "https://www.triplewhale.com/our-integrations",
+    "https://kb.triplewhale.com/en/",
+    "https://status.triplewhale.com/",
+    "https://kb.triplewhale.com/en/articles/16046642-understanding-triple-whale-plans-foundation-automate-and-enterprise"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triplewhale manufacturing customer case study",
+   "results": [
+    "https://www.triplewhale.com/case-studies",
+    "https://www.triplewhale.com/case-studies?product=customer-journey",
+    "https://www.casestudies.com/company/customersai/case-study/triple-whale-customer-case-study",
+    "https://claude.com/customers/triple-whale",
+    "https://www.casestudies.com/customer/triple-whale",
+    "https://www.featuredcustomers.com/vendor/triple-whale/case-studies",
+    "https://kb.triplewhale.com/en/articles/9573873-understanding-the-triple-whale-advantage"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triplewhale white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.resellercluster.com/",
+    "https://www.triplewhale.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Triplewhale founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/triplewhale.com",
+    "https://pitchbook.com/profiles/company/482189-14",
+    "https://tracxn.com/d/companies/triplewhale/__0H_VrbhvGoR4ictAKCoHD35fugtEnMdAkqjJ61bxqFI",
+    "https://dexteragent.ai/companies/triple-whale-1771298132",
+    "https://compworth.com/company/triple-whale",
+    "https://www.triplewhale.com/about",
+    "https://www.zoominfo.com/c/triple-whale-inc/564582849"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Triplewhale",
+   "results": [
+    "https://note.com/hirokimiyano/n/n02cc6bbaa77a?hl=en",
+    "https://note.com/revenuescope/n/n6a0614412145",
+    "https://note.com/cerealtalk/n/naacb79575548",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/hattori0819/n/n51da4d4760a1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Triplewhale",
+   "results": [
+    "https://x.com/triplewhale",
+    "https://x.com/triplewhale/with_replies",
+    "https://x.com/triplewhale/status/2056802597571547449",
+    "https://x.com/triplewhale/status/1993427267800944963",
+    "https://x.com/triplewhale/status/2050263982746017953",
+    "https://x.com/triplewhale/status/2082121903485977000",
+    "https://x.com/triplewhale/status/2071992906618130790"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Triplewhale",
+   "results": [
+    "https://www.linkedin.com/company/triple-whale/jobs",
+    "https://il.linkedin.com/company/triple-whale",
+    "https://www.linkedin.com/jobs/triplewhale-jobs",
+    "https://www.linkedin.com/in/marcy-tatelbaum-08360533",
+    "https://www.linkedin.com/company/triple-whale",
+    "https://il.linkedin.com/in/aharon-bloch-4bb551296",
+    "https://www.linkedin.com/posts/triple-whale_triple-whale-now-integrates-directly-with-activity-7394752792646701056-LXU8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Triplewhale",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Triplewhale note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Triplewhale X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部31頁・検索12回）"
+ }
+}

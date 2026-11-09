@@ -1,0 +1,506 @@
+{
+ "name": "Rousselot — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T20:28:15.664573+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters on Reels - FacebookVincent Rousselot (@vrousselot) • Facebook, Connect with friendsFacebookXavier Rousselot (@xavier.rousselot1) • Facebook, Connect ...VoxelMatters - DMC and DyeMansion collaborate to provide...Rousselot - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for it",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/contribute/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.darlingii.com/rousselot/products/biomaterials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://webudding.com/ja/store/product/detail/29798/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vINUTQ2yTBZoX7Qz3tU49NcJLIZDNdGkR5RkdjP3FwJW2D0sgb1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vIx-PzpVuAra6JB5eiP9Mbi9dJ8ebjehC_WEHYmiB8KCMNI_P6o",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/about-us/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%90%E3%83%B3%E3%83%89+20mm/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leadiq.com/c/rousselot/5a1d97032300005b0085a80b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rousselot — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.darlingii.com/rousselot/products/biomaterials",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vK6x3b2y3UsNThUE1jp2VWb19k4HFAUtAXIE8Hh0n8c8hEjkGrO",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://i-am-marketplace.com/about-us/",
+    "https://www.darlingii.com/rousselot"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Rousselot — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://little-polish.net/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rousselot — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "https://webudding.com/ja/store/product/detail/29798/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vINUTQ2yTBZoX7Qz3tU49NcJLIZDNdGkR5RkdjP3FwJW2D0sgb1",
+    "https://shop.exmatelab.com/",
+    "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=3420",
+    "https://www.brule.co.jp/parts-accessories.html?srsltid=AYCX9vJY2DtHWH36EZlahPpitdpwSPQ1Oq2R2S7ts2BkyFNcK2JC_9Ue",
+    "https://www.cream-dot.co.jp/html/page150.html",
+    "https://rtrp.jp/items/26209426/",
+    "https://www.unitec-shop.com/shopdetail/000000000117/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rousselot — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/collections/filament",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vIx-PzpVuAra6JB5eiP9Mbi9dJ8ebjehC_WEHYmiB8KCMNI_P6o",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://shop.exmatelab.com/",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://ja.aliexpress.com/i/33033695063.html",
+    "https://www.brule.co.jp/makerbot/makerbot-filament.html?srsltid=AYCX9vKBZnX8ZUXA2rvE_JbJrrl9o3cCSQQC6GsF9enBrIxEoK6fs8H0",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "http://www.nukumori-pellet.com/",
+    "https://shop.croccha.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Rousselot — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.upnano.com/distributors/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rousselot — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.upnano.com/distributors/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.inprocess-lsp.com/press-release-our-distributor-in-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Rousselot — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://pay.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://www.amazon.co.jp/タカラトミー-トランスフォーマー-ctc技術実証機仕様-takara-tomy/dp/b0hq2t22vm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Rousselot — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/ステンレスバンド+20mm/",
+    "https://www.monotaro.com/g/00026914/",
+    "https://www.monotaro.com/g/07916739/",
+    "https://www.monotaro.com/p/1766/2383/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rousselot — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.directory/",
+    "https://leadiq.com/c/rousselot/5a1d97032300005b0085a80b",
+    "https://pitchbook.com/profiles/company/54510-76",
+    "https://www.voxelmatters.com/category/money/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://bullfincher.io/",
+    "https://www.voxelmatters.group/insights/",
+    "https://compworth.com/company/rousselot"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Rousselot — VoxelMatters",
+   "results": [
+    "https://note.com/beloved_tomoka/all",
+    "https://note.com/diparururun",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rousselot — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/RousselotGlobal",
+    "https://x.com/rousselotbio",
+    "https://x.com/hashtag/Rousselot",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rousselot — VoxelMatters",
+   "results": [
+    "https://nl.linkedin.com/in/jos-olijve-8b08859",
+    "https://www.linkedin.com/top-content/design/3d-design-techniques/bioprinting-strategies/",
+    "https://www.linkedin.com/posts/stable-micro-systems_could-3d-bioprinting-replace-animal-models-activity-7495449568801845248-EAGj",
+    "https://www.linkedin.com/top-content/engineering/biomedical-engineering-tissue-engineering/tissue-engineering-for-diabetes-treatment/",
+    "https://it.linkedin.com/in/davide-ribezzi-phd-5a312a175"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "site:facebook.com Rousselot — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/vrousselot/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/xavier.rousselot1/",
+    "https://www.facebook.com/VoxelMatters/posts/dmc-and-dyemansion-collaborate-to-provide-polymer-am3dprinting-additivemanufactu/1716322958539822/",
+    "https://www.facebook.com/RousselotGlobal/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rousselot — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://note.com/ptcjapan/n/n1199578f209b",
+    "https://www.voxelmatters.report/methodology/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://note.com/nagoya_ura/n/n5fb2a2db4a67",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Rousselot — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/x-pure-gelatins-for-greater-consistency-in-bioprinting/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/wp-content/uploads/2024/02/VoxelMatters-VMFocus2024-eBook-Medical-AM-Update.pdf",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.voxelmatters.com/optimizing-gelatin-hydrogels-for-volumetric-3d-bioprinting/",
+    "https://x.com/voxelmatters",
+    "https://x.com/RousselotGlobal"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

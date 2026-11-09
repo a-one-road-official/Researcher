@@ -1,0 +1,1595 @@
+{
+ "name": "UpKeep",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T20:07:54.471433+00:00",
+ "official_url": "https://upkeep.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金ページへの価格掲載",
+    "value": "あり、EssentialとPremiumの両方を掲載 なし。 limble.com/pricingは金額を一切公開せず、「Calculate my price」ツールに誘導する",
+    "url": "https://resources.rework.com/ja/tools/asset-management/upkeep-vs-limble",
+    "pass": 3
+   },
+   {
+    "label": "料金",
+    "value": "実際にCMMSが含まれているプランはどれか",
+    "url": "https://resources.rework.com/ja/tools/asset-management/upkeep-vs-limble",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$48.8M",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "UpKeep is the CMMS platform trusted by 4,000+ companies to bring work orders, compliance and preventive maintenance together. With AI that adapts to how your team works, UpKeep helps maintenance teams reduce downtime, extend asset life, and work safer.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect and automate work orders, PMs, parts, and asset history in one place, and move your team from firefighting to planned, predictable work.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn turns your SOPs and completed work orders into structured training, so courses match how the job is actually done.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Driving Real Productivity",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create work orders in seconds with photos, checklists, and real-time updates from any device. Technicians close work on the spot, reducing admin time and improving response speed.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated Preventive Maintenance",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shift from reactive firefighting to proactive planning with automated schedules based on actual usage. Smart scheduling keeps assets running longer and minimizes downtime.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Report safety events from any device. Just scan a QR code, no downloads or logins needed. AI turns incidents into preventive actions so small issues don't become big problems.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch equipment problems before they stop production. Give floor techs a mobile app they'll actually use.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage work across all your properties from one place. No more separate systems that don't talk to each other.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent breakdowns, stay audit-ready, and never lose what your team knows.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move from reactive repairs to preventive maintenance. Catch problems before they shut you down.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connected safety procedures and automated compliance, so every task is audit-ready.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every asset, repair, and procedure, captured and searchable. Training built from how you actually work.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing thousands of water-exposed parts across four states with spreadsheets caused delays and unexpected downtime. UpKeep helped shift from reactive to preventive maintenance, positioning the company to grow to 200 locations.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With limited connectivity 70% of the time, paper processes weren't cutting it. UpKeep's offline mobile mode lets technicians capture work details in real-time, syncing automatically when connection returns.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Small teams or single-site operations getting off spreadsheets/paper for the first time.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Growing maintenance teams ready to move from reactive to preventive maintenance.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Scheduling for Discrete Plants",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "54% of small and mid-sized plants track production on paper or in spreadsheets, according to IoT Analytics. For those plants, the promise date a...",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We asked 500+ maintenance and operations professionals, from technicians to VPs, how AI is changing their work. Their answers show adoption moving from the...",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does AI improve a CMMS?",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work orders, preventive maintenance on runtime, condition monitoring, and safety recordkeeping on one platform your technicians will actually open on the floor.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Every hour of unplanned downtime is production you do not get back. These are the four things plants tell us they are trying to fix.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Asset history, procedures, and past repairs live on the asset record. Whoever picks up the work order can see what was done last time and what it took.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "PMs get written on a calendar and skipped when production needs the line. Nobody finds out until something breaks.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The plant manager asks what downtime cost last month and the answer takes two days in a spreadsheet.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The assigned technician gets the procedure for that repair, and the record shows whether they are signed off on it.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The incident and the fix stay linked for the OSHA 300 log, so recordkeeping is a by-product of the work.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Nova is UpKeep's AI assistant, and it builds apps. Describe the tracking or approval your plant needs in plain language and Nova builds it against your own asset and work order data. No developer, no separate system to keep in sync.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Work orders, preventive maintenance, asset history, and parts. The system of record everything else hangs off.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Procedures, courses, and certifications tied to the people who do the work.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventive Maintenance",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing preventive maintenance",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspections, non-conformances, and corrective actions against the asset that produced the defect.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Requisitions, approvals, and purchase orders tied to the work order and storeroom that triggered them.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Shifted work from reactive to preventive and brought maintenance costs down with it.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Keeps kitchen equipment running across a footprint measured in thousands of sites.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Moved campus crews off paper and onto digital preventive maintenance and work orders.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A CMMS is a computerized maintenance management system: the software a plant uses to schedule preventive maintenance, run work orders, track asset history, and manage spare parts.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "In a plant it is what replaces the whiteboard, the binder of PM checklists, and the spreadsheet of what broke last quarter. The point is knowing what is due, what failed, and what it cost, per asset and per line.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "UpKeep is priced per user per month, so cost scales with how many people create and close work orders rather than how many assets you have.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Requesters, operators reporting a problem, do not need a paid seat, which is what keeps it affordable to roll out across a whole floor. See the pricing page for current tiers.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A CMMS is focused on maintaining equipment: work orders, PMs, parts, and technicians. An EAM takes a wider view of the asset over its whole life, adding capital planning, depreciation, and long-range replacement.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "UpKeep covers CMMS work in full and adds the EAM-style pieces, asset condition and replacement forecasting, through Capital Planning. Plants running a large formal EAM programme on Maximo or SAP usually keep it and use UpKeep where the floor actually works.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, and it is not trying to replace it. The ERP stays the financial system of record; parts consumption and purchase orders flow back to it through the API and prebuilt connectors.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "UpKeep is also not an MES. It does not schedule production, run the line, or sequence jobs through your PLCs. Plants that need production scheduling and on-machine quality keep those where they are and run maintenance alongside.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance, sanitation, and cold chain on one system, with the inspection record produced by doing the work rather than assembled the night before an audit.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Audit trail as a by-product",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A food plant runs on two clocks at once: production and sanitation. These are the four things plants tell us they are trying to fix.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A cooler drifts overnight and nobody knows until the morning check finds product out of spec.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Audit prep means a week of pulling paper together and hoping the checklists were signed.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The procedure and the sign-off requirement travel with it, so a new hire runs it the same way.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Work orders, preventive maintenance, asset history, and parts. The system of record everything else hangs off.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Procedures, courses, and certifications tied to the people who do the work.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventive Maintenance",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "food plant preventive maintenance",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "on hours run or dates, so lines are serviced around production and audits.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": ", so a temperature excursion is caught before product is at risk.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Requisitions, approvals, and purchase orders tied to the work order and storeroom that triggered them.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "UpKeep is the CMMS platform trusted by 4,000+ companies to bring work orders, compliance and preventive maintenance together. With AI that adapts to how your team works, UpKeep helps maintenance teams reduce downtime, extend asset life, and work safer.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ Companies",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A maintenance system built for your technicians",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create work orders in seconds with photos, checklists, and real-time updates from any device. Technicians close work on the spot, reducing admin time and improving response speed.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CMMS for Manufacturing",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Outdated asset management required technicians to be in the office to submit work orders. UpKeep enabled the team to track equipment and fulfill requests from anywhere.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With limited connectivity 70% of the time, paper processes weren't cutting it. UpKeep's offline mobile mode lets technicians capture work details in real-time, syncing automatically when connection returns.",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Scheduling for Discrete Plants",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "54% of small and mid-sized plants track production on paper or in spreadsheets, according to IoT Analytics. For those plants, the promise date a...",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We asked 500+ maintenance and operations professionals, from technicians to VPs, how AI is changing their work. Their answers show adoption moving from the...",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Of the 3.8 million manufacturing jobs the industry needs to fill by 2033, 2.8 million will open because of retirement. So when a technician...",
+    "url": "https://upkeep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance Software for Manufacturing | UpKeep",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "CMMS Software for Manufacturing",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Work orders, preventive maintenance on runtime, condition monitoring, and safety recordkeeping on one platform your technicians will actually open on the floor.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Offline on the plant floor",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ industrial teams",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "What a CMMS changes in a plant",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Every hour of unplanned downtime is production you do not get back. These are the four things plants tell us they are trying to fix.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The plant manager asks what downtime cost last month and the answer takes two days in a spreadsheet.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Results from manufacturing maintenance teams",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturer",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance workflows across a manufacturing plant",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A plant does not run on work orders alone. These are the hand-offs that matter most on a manufacturing site.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The work order lands in the same queue as the rest of the plant, not a separate system.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Build the thing your plant asks for on Monday",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Nova is UpKeep's AI assistant, and it builds apps. Describe the tracking or approval your plant needs in plain language and Nova builds it against your own asset and work order data. No developer, no separate system to keep in sync.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance software features for manufacturing",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing preventive maintenance",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers running on UpKeep",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Dental device manufacturing",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "MEMS device manufacturing",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Replaced paper tracking and manual data entry across the plant using Nova.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthetic turf manufacturing",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "CMMS for manufacturing: common questions",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "What is a CMMS in manufacturing?",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance Software for Food & Beverage Manufacturing | UpKeep",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "CMMS Software for Food & Beverage Manufacturing",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ industrial teams",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "What a CMMS changes in a food plant",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A food plant runs on two clocks at once: production and sanitation. These are the four things plants tell us they are trying to fix.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance workflows across a food and beverage plant",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sanitation, cold chain, and mechanical maintenance are the same job in a food plant. These are the hand-offs that matter.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Build the checklist your plant keeps asking for",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "These are apps, not an edition. Most plants start with the CMMS and add Edge and Safety as the audit requirements grow.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "food plant preventive maintenance",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Snack food manufacturing",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Dental device manufacturing",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturer",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "What is a CMMS for food manufacturing?",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A CMMS is the system a food plant uses to schedule preventive maintenance and sanitation, run work orders, track asset history, and keep the inspection record.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "In a food plant the distinguishing requirement is that maintenance and sanitation share a schedule and an audit trail, because both touch the same equipment and both get inspected.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "It is not a food safety management system and does not write your HACCP plan or manage your CCP determinations. Plants keep those where they are and use UpKeep for the equipment and inspection evidence.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How much does maintenance software cost for a food plant?",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "UpKeep is priced per user per month, based on the people creating and closing work orders rather than the number of assets. Operators reporting a problem do not need a paid seat. See the pricing page for current tiers.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Weeks. Most plants start with one line: import the asset list, set the PMs and sanitation schedules that matter most, and get technicians on the mobile app. Sensors usually come second, once the work order habit holds.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "A fully staffed plant still loses hours to failures a retired technician would have caught in minutes. This playbook reframes the problem: knowledge is disappearing because no system was built to capture it. It lays out a three-part framework for closing that gap and shows what changed at one plant that stopped hiring its way out and instead started capturing what its people already knew.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "UpKeep runs maintenance for 4,000+ teams across manufacturing plants, distribution",
+    "url": "https://upkeep.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 4,000+ industrial teams",
+    "url": "https://upkeep.com/solutions/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Receiving closes the loop, and the technician who asked sees the part arrive.",
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Both live in one queue against the same asset, so the conflict is visible when it is scheduled rather than when the crew arrives.",
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring cost and revenue to the forefront under one umbrella to look past WHAT teams are doing to the impact they are making. In this Forrester Wave™ report featuring UpKeep, a manufacturing company was able to achieve incredible results, including:",
+    "url": "https://upkeep.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "IDC Analyst Connection: How Asset Operations Management Gets a Seat at the Revenue Table",
+    "url": "https://upkeep.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "IDC Analyst Juliana Beauvais answers questions posed by UpKeep on how shifting asset operations from a cost center to a revenue-generating asset operations management center can build trust among operations, reliability, and maintenance teams.",
+    "url": "https://upkeep.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Requests arrive by text, email and hallway, so the queue is whatever the lead remembers.",
+    "url": "https://upkeep.com/solutions/maintenance-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "A requisition starts from the work order, so the request carries the asset with it.",
+    "url": "https://upkeep.com/solutions/maintenance-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance spend arrives as invoices with no link to the equipment that caused it.",
+    "url": "https://upkeep.com/solutions/operations-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace-or-repair is argued from that asset history rather than from a condition survey that aged the week it arrived.",
+    "url": "https://upkeep.com/solutions/operations-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Carrying cost and stockouts show what the storeroom is actually doing.",
+    "url": "https://upkeep.com/solutions/operations-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Failure codes are captured on close as part of the job, so the history is structured from the start.",
+    "url": "https://upkeep.com/solutions/reliability-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Completion carries a timestamp, a photo, and who did it. Overdue work is visible by site before it becomes a failure.",
+    "url": "https://upkeep.com/solutions/owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand standard inspections arrive as a PDF and get filled in the night before.",
+    "url": "https://upkeep.com/solutions/owners/",
+    "pass": 1
+   },
+   {
+    "quote": "The corrective work carries an owner, a due date, and an escalation if it slips.",
+    "url": "https://upkeep.com/solutions/safety-managers/",
+    "pass": 1
+   },
+   {
+    "quote": "Reports arrive with a location and a photo, and can be submitted anonymously where your policy calls for it.",
+    "url": "https://upkeep.com/solutions/safety-managers/",
+    "pass": 1
+   },
+   {
+    "quote": "Capital requests arrive as a number with a story attached.",
+    "url": "https://upkeep.com/solutions/executives/",
+    "pass": 1
+   },
+   {
+    "quote": "A request arrives with the evidence already attached.",
+    "url": "https://upkeep.com/solutions/executives/",
+    "pass": 1
+   },
+   {
+    "quote": ", so capital asks carry the evidence with them.",
+    "url": "https://upkeep.com/solutions/executives/",
+    "pass": 1
+   },
+   {
+    "quote": "Condition and repair history accumulate from the work you already do, so an asset arrives at the funding conversation with its own record rather than an anecdote. Capital Planning turns that into a funded and unfunded view by year.",
+    "url": "https://upkeep.com/solutions/executives/",
+    "pass": 1
+   },
+   {
+    "quote": "Requests arrive by email, text, hallway conversation, and sticky note. Some get done twice and some never get done.",
+    "url": "https://upkeep.com/solutions/facility-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Work on critical plant carries its permit and method statement on the work order, and closure requires them.",
+    "url": "https://upkeep.com/solutions/data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendors do much of the work and the operator carries the risk. These are the hand-offs.",
+    "url": "https://upkeep.com/solutions/data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "The PM carries the checklist, the readings to take, and the permit required.",
+    "url": "https://upkeep.com/solutions/data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": ", the history, and the access they need before they arrive on site.",
+    "url": "https://upkeep.com/solutions/data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "No, and for a large asset-intensive utility that distinction matters. A full EAM carries deep asset lifecycle, work management, and regulatory modules built for that scale, and utilities standardized on one usually keep it.",
+    "url": "https://upkeep.com/solutions/energy-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Facilities and equipment maintenance for hospitals, clinics, and senior living, with the inspection record ready when the surveyor arrives.",
+    "url": "https://upkeep.com/solutions/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Asset Warranty Tracking",
+    "url": "https://upkeep.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "To train new employees, Anita has repurposed UpKeep’s presentation deck. “It explains the workflows really well,” she pointed out. “We also compiled a lot of UpKeep’s training videos to create a training program.”",
+    "url": "https://upkeep.com/customers/glidewell/",
+    "pass": 1
+   },
+   {
+    "quote": ", and warranty costs.",
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "In this case, owners were expected to cover all the expenses on the arrangement and",
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "206% revenue growth last year",
+    "url": "https://www.insightpartners.com/ideas/upkeep-raises-36-million-series-b-to-reimagine-maintenance-and-facilities-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep Revenue 2024: $22.4M Est., $48.8M Raised",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep has not published its revenue. GetLatka estimates it at about $22.4M a year (October 2024).",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep CEO, founders & employees",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Advait Shinde founded UpKeep in 2014. Ryan Chan is CEO. UpKeep had 165 employees (December 2024, LinkedIn), up from 145 a year earlier.",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "What is UpKeep's revenue?",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates UpKeep's revenue at about",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does UpKeep have?",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Apply to join the UpKeep Partner Program today.",
+    "url": "https://upkeep.com/resources/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "PM intervals were set years ago by a copy of the OEM manual and never revisited.",
+    "url": "https://upkeep.com/solutions/reliability-teams/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Requests arrive by text, email and hallway, so the queue is whatever the lead remembers.",
+    "url": "https://upkeep.com/solutions/maintenance-teams/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, through Providers. Vendors receive work orders directly, and what they did lands on the asset record instead of an email thread. Insurance certificates and expiry dates are tracked in Vendor Management.",
+    "url": "https://upkeep.com/solutions/owners/",
+    "pass": 1
+   },
+   {
+    "quote": "Requests arrive by email, text, hallway conversation, and sticky note. Some get done twice and some never get done.",
+    "url": "https://upkeep.com/solutions/facility-management/",
+    "pass": 1
+   },
+   {
+    "quote": "The work order is assigned to the contractor rather than emailed to them.",
+    "url": "https://upkeep.com/solutions/facility-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Method statements and permits live in email until an incident makes them matter.",
+    "url": "https://upkeep.com/solutions/data-centers/",
+    "pass": 1
+   },
+   {
+    "quote": "(chat, text, email, and phone)",
+    "url": "https://upkeep.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Implementation — Contact Us",
+    "url": "https://upkeep.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "With UpKeep, you get all of the tools you need to succeed. You can count on personalized support around the clock through email, live chat, or joining a webinar.",
+    "url": "https://upkeep.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“UpKeep was new not only for our technician team but also for our service requesters,” Anita said. “They were used to submitting requests through email, phone calls, and messages.”",
+    "url": "https://upkeep.com/customers/glidewell/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語WordNet(英和)での「upkeep」の意味",
+    "url": "https://ejje.weblio.jp/content/upkeep",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "英語「 upkeep 」の意味・使い方・読み方 | Weblio英和辞書 — 英語「 upkeep 」の意味・使い方・読み方 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典",
+    "url": "https://ejje.weblio.jp/content/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "\"2026年版 UpKeep vs Limble：保守チームに合うCMMSは ... — \"2026年版 UpKeep vs Limble：保守チームに合うCMMSは ... Rework https://resources.rework.com > tools > upkeep-vs-limble",
+    "url": "https://resources.rework.com/ja/tools/asset-management/upkeep-vs-limble",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep とは？ | 機能や料金、 導入 事例をご紹介【キャプテラ】 — UpKeep とは？ | 機能や料金、 導入 事例をご紹介【キャプテラ】 capterra.jp https://www.capterra.jp > ... > UpKeep",
+    "url": "https://www.capterra.jp/software/145635/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "英語での upkeep の意味 - Cambridge Dictionary — 英語での upkeep の意味 - Cambridge Dictionary Cambridge Dictionary https://dictionary.cambridge.org > english > upkeep",
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "upkeep の意味「維持」読み方・発音・例文 - モチタン辞典 — upkeep の意味「維持」読み方・発音・例文 - モチタン辞典 MotiTown https://motitown.com > vocabulary > word > upkeep",
+    "url": "https://motitown.com/vocabulary/word/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Questions/tips about Japanese apartment upkeep ? - Reddit — Questions/tips about Japanese apartment upkeep ? - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/japanlife/comments/ckji0a/questionstips_about_japanese_apartment_upkeep/",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep Customers — UpKeep Customers UpKeep https://upkeep.com > customers",
+    "url": "https://upkeep.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep Raises $36 Million Series B to Reimagine ... — UpKeep Raises $36 Million Series B to Reimagine ... Insight Partners https://www.insightpartners.com > ideas",
+    "url": "https://www.insightpartners.com/ideas/upkeep-raises-36-million-series-b-to-reimagine-maintenance-and-facilities-management-software/",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep Revenue 2024: $22.4M Est., $48.8M Raised - GetLatka — UpKeep Revenue 2024: $22.4M Est., $48.8M Raised - GetLatka GetLatka https://getlatka.com > upkeep",
+    "url": "https://getlatka.com/companies/upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep - 2026 Company Profile, Funding & Competitors — UpKeep - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/upkeep/__fHclewZDRBqHF1AzgRnN11l72QFhn9e7VSIhma5kC2U",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep - Crunchbase Company Profile & Funding — UpKeep - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > upkee...",
+    "url": "https://www.crunchbase.com/organization/upkeep-maintenance-management",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep Technologies Hits $49 Million in Funding — UpKeep Technologies Hits $49 Million in Funding Los Angeles Business Journal https://labusinessjournal.com > upkee...",
+    "url": "https://labusinessjournal.com/technology/upkeep-technologies-hits-49-million-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "BABTEE ✌️✌️ on X: \"August upkeep will drop this week ... BABTEE ✌️✌️ on X: \"August upkeep will drop this week ... X https://x.com > @iambabtee",
+    "url": "https://x.com/iambabtee/status/2093996836226822384",
+    "pass": 3
+   },
+   {
+    "quote": "BABTEE ✌️✌️ on X: \"The June/July Upkeep have continue ... BABTEE ✌️✌️ on X: \"The June/July Upkeep have continue ... X https://x.com > @iambabtee",
+    "url": "https://x.com/iambabtee/status/2084210340749853109",
+    "pass": 3
+   },
+   {
+    "quote": "dmg04 on X: \"@seCurityDNiED Nah. Just general upkeep and ... dmg04 on X: \"@seCurityDNiED Nah. Just general upkeep and ... X https://x.com > @A_dmg04",
+    "url": "https://x.com/A_dmg04/status/2118010085117177987",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "UpKeep - LinkedIn UpKeep - LinkedIn LinkedIn https://www.linkedin.com > on-upkeep",
+    "url": "https://www.linkedin.com/company/on-upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Anthony Frattali - SVP of Sales at UpKeep - LinkedIn Anthony Frattali - SVP of Sales at UpKeep - LinkedIn LinkedIn https://www.linkedin.com > anthonyf...",
+    "url": "https://www.linkedin.com/in/anthonyfrattali",
+    "pass": 3
+   },
+   {
+    "quote": "Ryan Chan, CMRP - UpKeep - LinkedIn Ryan Chan, CMRP - UpKeep - LinkedIn LinkedIn https://www.linkedin.com > ryan-cha...",
+    "url": "https://www.linkedin.com/in/ryan-chan-upkeep",
+    "pass": 3
+   },
+   {
+    "quote": "Upkeep Media Inc. - LinkedIn Upkeep Media Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/upkeep-media",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "UpKeep | Los Angeles CA - Facebook UpKeep | Los Angeles CA - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/onupkeep/",
+    "pass": 3
+   },
+   {
+    "quote": "Upkeep | Milford IA - Facebook Upkeep | Milford IA - Facebook Facebook https://www.facebook.com > ... > Home Improvement",
+    "url": "https://www.facebook.com/UpkeepHandyman/",
+    "pass": 3
+   },
+   {
+    "quote": "Is this EVERY upkeep or my upkeep ? Just making sure I'm ... Is this EVERY upkeep or my upkeep ? Just making sure I'm ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/595178781644273/posts/1652871822541625/",
+    "pass": 3
+   },
+   {
+    "quote": "UpKeep Cleaning Services | Memphis TN - Facebook UpKeep Cleaning Services | Memphis TN - Facebook Facebook https://www.facebook.com > ... > Cleaning Service",
+    "url": "https://www.facebook.com/UpKeepClean/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://upkeep.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/food-beverage-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/resources/partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/maintenance-teams/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/operations-teams/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/reliability-teams/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/owners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/safety-managers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/executives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/facility-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/data-centers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/energy-utilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/solutions/healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/reviews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/customers/industrial-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upkeep.com/customers/glidewell/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://upkeep.com/solutions/_assets/images/solutions/manufacturing.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://upkeep.com/solutions/_assets/logos/customers/alto-products.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://upkeep.com/solutions/_assets/logos/customers/columbia-fruit.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://upkeep.com/solutions/_assets/logos/customers/foertmeyer-and-sons.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ejje.weblio.jp/content/upkeep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/ja/tools/asset-management/upkeep-vs-limble",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/145635/upkeep",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/ja/dictionary/english/upkeep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecnomikata.com/blog/51120/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaking.jp/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uplink-app.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lithub.com/dealing-with-the-dead-in-japan-on-cleaning-up-after-the-departed/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2022.00700",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/japanlife/comments/ckji0a/questionstips_about_japanese_apartment_upkeep/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.commonwealthfund.org/international-health-policy-center/countries/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmaintainx.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tractian.com/en/blog/5-predictive-maintenance-success-stories-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ftmaintenance.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wpbuffs.com/plans/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maintastic.com/en/white-label-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightpartners.com/ideas/upkeep-raises-36-million-series-b-to-reimagine-maintenance-and-facilities-management-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/upkeep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/upkeep/__fHclewZDRBqHF1AzgRnN11l72QFhn9e7VSIhma5kC2U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/upkeep-maintenance-management",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/iambabtee/status/2093996836226822384",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iambabtee/status/2084210340749853109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/A_dmg04/status/2118010085117177987",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/on-upkeep",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/anthonyfrattali",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ryan-chan-upkeep",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/upkeep-media",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onupkeep/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UpkeepHandyman/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/595178781644273/posts/1652871822541625/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UpKeepClean/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onupkeep/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "UpKeep 日本 導入",
+   "results": [
+    "https://ejje.weblio.jp/content/upkeep",
+    "https://resources.rework.com/ja/tools/asset-management/upkeep-vs-limble",
+    "https://www.capterra.jp/software/145635/upkeep",
+    "https://dictionary.cambridge.org/ja/dictionary/english/upkeep",
+    "https://motitown.com/vocabulary/word/upkeep",
+    "https://dictionary.scandict.com/ja/dictionary/upkeep-qjvq2",
+    "https://engoo.jp/app/words/word/upkeep/zga0ELstQmCjlQAAAD9I9g",
+    "https://kotobank.jp/ejword/upkeep",
+    "https://www.linguee.jp/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%BF%BB%E8%A8%B3/maintenance+and+upkeep.html",
+    "https://earthkey.blog/global/upkeep/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "UpKeep 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ecnomikata.com/blog/51120/",
+    "https://www.kaking.jp/agent/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "http://www.uplink-app.com/partner/",
+    "https://www.manageengine.jp/pace/",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://growth-dx.com/column/agency_system_column/",
+    "https://fc-kamei.net/CT2",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "UpKeep Japan",
+   "results": [
+    "https://lithub.com/dealing-with-the-dead-in-japan-on-cleaning-up-after-the-departed/",
+    "https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2022.00700",
+    "https://www.reddit.com/r/japanlife/comments/ckji0a/questionstips_about_japanese_apartment_upkeep/",
+    "https://www.commonwealthfund.org/international-health-policy-center/countries/japan",
+    "https://www.oldhousesjapan.com/blog/home-maintenance-checklist-for-japanese-houses-keep-your-property-in-top-shape",
+    "https://jp.usembassy.gov/services/doctors/",
+    "https://en.wikipedia.org/wiki/Health_care_system_in_Japan",
+    "https://www3.nhk.or.jp/nhkworld/en/shows/9999z22/",
+    "https://japanlivinglife.com/articles/car-maintenance-repair-japan-guide",
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-4870858fe2d82a7901a898ea0100037839e02596.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "UpKeep manufacturing customer case study",
+   "results": [
+    "https://upkeep.com/customers/",
+    "https://www.getmaintainx.com/case-studies",
+    "https://tractian.com/en/blog/5-predictive-maintenance-success-stories-in-manufacturing",
+    "https://ftmaintenance.com/resources/case-studies/",
+    "https://fiixsoftware.com/resource-center/case-studies/",
+    "https://www.cmms.app/case-studies",
+    "https://www.emaint.com/resources/customer-stories",
+    "https://www.fabrico.io/blog/upkeep-review-manufacturing/",
+    "https://eworkorders.com/case-studies/",
+    "https://www.casestudies.com/company/upkeep/case-study/food-manufacturing-company-reduces-reactive-maintenance-up-to-60"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "UpKeep white label OR reseller OR partner program",
+   "results": [
+    "https://wpbuffs.com/plans/white-label/",
+    "https://maintastic.com/en/white-label-software/",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://hosting.com/learn/what-is-white-label-reseller-hosting/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "UpKeep founded funding employees revenue",
+   "results": [
+    "https://www.insightpartners.com/ideas/upkeep-raises-36-million-series-b-to-reimagine-maintenance-and-facilities-management-software/",
+    "https://getlatka.com/companies/upkeep",
+    "https://tracxn.com/d/companies/upkeep/__fHclewZDRBqHF1AzgRnN11l72QFhn9e7VSIhma5kC2U",
+    "https://www.crunchbase.com/organization/upkeep-maintenance-management",
+    "https://labusinessjournal.com/technology/upkeep-technologies-hits-49-million-funding/",
+    "https://upkeep.com/about-us/",
+    "https://www.thomasnet.com/insights/upkeep-raises-36-million-to-advance-mobile-capabilities-of-facilities-maintenance-teams/",
+    "https://www.linkedin.com/company/on-upkeep",
+    "https://pitchbook.com/profiles/company/113726-98",
+    "https://compworth.com/company/upkeep"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com UpKeep",
+   "results": [
+    "https://note.com/grassjellygecko/n/nef638d1e9ef3?hl=en",
+    "https://note.com/shun_mtg/n/n3a6a60c479cd?hl=en",
+    "https://note.com/tiwawanotikuwa/n/n98e524ea45d0?hl=en",
+    "https://note.com/escaper/n/n26624f34dec7?hl=en",
+    "https://note.com/pion_mtg/n/n03ffcc5ee8d5?hl=en",
+    "https://note.com/rithmety/n/n9be1a166f92c?hl=en",
+    "https://note.com/brave_tern9585/n/nbebf891a4eeb?hl=en",
+    "https://note.com/pion_mtg/n/n729d8c424549?hl=en",
+    "https://note.com/escaper/n/nb2296f0c69ce?hl=en",
+    "https://note.com/takepon555/n/naf51474e6c1f?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com UpKeep",
+   "results": [
+    "https://x.com/iambabtee/status/2093996836226822384",
+    "https://x.com/NELFUND/with_replies",
+    "https://x.com/iambabtee/status/2084210340749853109",
+    "https://x.com/A_dmg04/status/2118010085117177987",
+    "https://x.com/NELFUND/status/1958452036468379823",
+    "https://x.com/Ajelenbogen/status/1594522614546022403",
+    "https://x.com/NELFUND/status/2103102207100915809",
+    "https://x.com/MacAllisterInc/status/2117671671079309514/photo/1",
+    "https://x.com/iambabtee/status/2077671335006732714",
+    "https://x.com/onupkeep"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com UpKeep",
+   "results": [
+    "https://www.linkedin.com/company/on-upkeep",
+    "https://www.linkedin.com/in/anthonyfrattali",
+    "https://www.linkedin.com/in/ryan-chan-upkeep",
+    "https://www.linkedin.com/company/upkeep-media",
+    "https://jp.linkedin.com/company/on-upkeep?trk=products_details_guest_organization_name",
+    "https://www.linkedin.com/jobs/upkeep-jobs",
+    "https://www.linkedin.com/company/upkeephomes",
+    "https://www.linkedin.com/jobs/view/customer-success-manager-at-upkeep-4439846949",
+    "https://www.linkedin.com/in/tamara-gunaratna",
+    "https://www.linkedin.com/products/upkeep-maintenance-management-upkeep"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com UpKeep",
+   "results": [
+    "https://www.facebook.com/onupkeep/",
+    "https://www.facebook.com/UpkeepHandyman/",
+    "https://www.facebook.com/groups/595178781644273/posts/1652871822541625/",
+    "https://www.facebook.com/UpKeepClean/",
+    "https://www.facebook.com/theupkeepgames/",
+    "https://www.facebook.com/groups/123397977725098/posts/26499840272987509/",
+    "https://www.facebook.com/groups/595178781644273/posts/1547757586386383/",
+    "https://www.facebook.com/monthlyupkeep/",
+    "https://www.facebook.com/groups/595178781644273/posts/874783603683788/",
+    "https://www.facebook.com/KSLANews12/posts/family-claims-poor-upkeep-at-shreveport-cemetery/10157573242971500/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "UpKeep note 社長",
+   "results": [
+    "https://finance.yahoo.com/markets/stocks/articles/upkeep-announces-strategic-growth-investment-110000353.html",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://upkeep.com/blog/upkeep-series-b-funding-announcement/",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "UpKeep X 投稿",
+   "results": [
+    "https://developers.onupkeep.com/",
+    "https://upkeep.com/resources/product-releases/",
+    "https://www.facebook.com/onupkeep/",
+    "https://upkeepx.com/about-us/",
+    "https://www.instagram.com/upkeepaom/",
+    "https://www.reddit.com/r/magicTCG/comments/cucdjm/deadly_designs_is_the_upkeep_step_going_extinct/",
+    "https://github.com/api-evangelist/upkeep",
+    "https://www.youtube.com/watch?v=dx7cKbXfyjs",
+    "https://up-keep.vercel.app/",
+    "https://x.com/onupkeep"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

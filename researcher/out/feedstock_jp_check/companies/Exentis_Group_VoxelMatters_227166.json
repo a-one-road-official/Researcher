@@ -1,0 +1,569 @@
+{
+ "name": "Exentis Group — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:24:46.240002+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "The customer then decides whether the components should be produced by Exentis or whether to purchase their own production license and produce them on site. In this case, Exentis supplies the process know-how, the Exentis 3D production unit(s), printing screens, pastes, services and, if required, the operating personnel as part of a one-stop shop.",
+    "url": "https://www.voxelmatters.directory/company/exentis-group/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Exentis Group — VoxelMatters - The largest database of additive manufacturing companies",
+    "url": "https://www.voxelmatters.directory/company/exentis-group/",
+    "pass": 3
+   },
+   {
+    "quote": "As a technology company, Exentis develops holistic product solutions for our customers as part of development projects and at the same time offers the production of components and semi-finished products. A particular focus is on the development of customer-specific materials.",
+    "url": "https://www.voxelmatters.directory/company/exentis-group/",
+    "pass": 3
+   },
+   {
+    "quote": "The customer then decides whether the components should be produced by Exentis or whether to purchase their own production license and produce them on site. In this case, Exentis supplies the process know-how, the Exentis 3D production unit(s), printing screens, pastes, services and, if required, the operating personnel as part of a one-stop shop.",
+    "url": "https://www.voxelmatters.directory/company/exentis-group/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/exentis-group/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Exentis Group — VoxelMatters - The largest database of ...Exentis Group AG sells 9 machines in the US - voxelmatters.comExentis technology - Exentis GroupExentis signs $27.5 million framework deal for 15 production ...代理店・取扱店を検索｜正規代理店・全国対応|Metoree車両アクセサリー - Official Porsche WebsiteExentis Group Preps for IPO with Novel Metal 3D Printing Tech ... — As a technology company, Exentis develops holistic",
+    "url": "https://www.voxelmatters.directory/company/exentis-group/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookExentis Group AG | Stetten - FacebookExentis Group AG | Stetten - FacebookFacebookContexto Colima - FacebookFittime - fitstudio Praha 9 | Kbely - Facebookالمصحف الجامع | Kumburgaz - Facebook Full breakdown, only on VoxelMatters 🍒 #AdditiveManufacturing #3DPrinting #FoodSafe #FoodGrade #Manufacturing 3DPrintingTips Ballet has asked dancers to suffer for beauty for two centuri",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exentis-group.com/en/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ChQ_-RhYYh0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/exentis-group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exentis-group.com/en/technology/exentis-technology/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/exentis-signs-27-5-million-framework-deal-for-15-production-systems-in-asia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinto.co.jp/ir/news/2415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000058550.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exentis-group.com/en/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/exentis-secures-22-million-in-us-additive-manufacturing-sales/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/tech-3d-screen-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exentis-group.com/app/uploads/2022/12/Exentis-Press-Release-16.12.2022-Successful-start-up-of-first-Exentis-3D-system-in-Japan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/exentis-secures-22-million-in-us-additive-manufacturing-sales/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/UGREEN-iPhone18-%E3%81%9D%E3%81%AE%E4%BB%96USB-C%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9-PSE%E6%8A%80%E8%A1%93%E5%9F%BA%E6%BA%96%E9%81%A9%E5%90%88-2022%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E8%B3%9E/dp/B091BGMKYS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02888688/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00213068/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01398396/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exentis-group.com/app/uploads/2025/06/Exentis-Group-Annual-Report-2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.linkedin.com/company/exentis-group-ag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/465383-98",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Exentis Group — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "https://www.exentis-group.com/en/",
+    "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "https://www.youtube.com/watch?v=ChQ_-RhYYh0",
+    "https://www.exone.com/en/",
+    "https://www.voxelmatters.com/about/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.exentis-group.com/en/production-systems-for-industrial-applications/",
+    "https://note.com/kbtfn744/n/ncd5b574aea91"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Exentis Group — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/exentis-group/",
+    "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "https://www.exentis-group.com/en/technology/exentis-technology/",
+    "https://www.voxelmatters.com/exentis-signs-27-5-million-framework-deal-for-15-production-systems-in-asia/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://3dprint.com/307183/exentis-group-preps-for-ipo-with-novel-metal-3d-printing-tech-we-have-questions/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Exentis Group — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.sinto.co.jp/news/2415",
+    "https://prtimes.jp/main/html/rd/p/000000069.000058550.html",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://3dprinter.co.jp/",
+    "https://jampt.jp/",
+    "https://form.3fit.net/",
+    "https://aspect.jpn.com/",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://www.sinto.co.jp/app/wp/wp-content/uploads/2022/08/%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_20220830.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Exentis Group — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://www.poly-maker.jp/",
+    "https://shop.exmatelab.com/",
+    "https://nextshapes.com/ja/accessories/",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vKrGx777EWpoVcgfpeSKn5kMmnwt59yCs9pg_wDJFMKcpDkpwCA",
+    "https://3dfs.idarts.co.jp/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Exentis Group — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.exentis-group.com/en/",
+    "https://manufacturing-today.com/news/exentis-secures-22-million-in-us-additive-manufacturing-sales/",
+    "https://www.voxelmatters.directory/company-category/tech-3d-screen-printing/",
+    "https://www.voxelmatters.com/ipo-ready-exentis-shows-off-metal-3d-screen-printing-for-mass-am-production/",
+    "https://www.exone.com/en/",
+    "https://www.youtube.com/watch?v=ChQ_-RhYYh0",
+    "https://partners.solize.com/en/manufacturing",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.exentis-group.com/en/about-exentis/where-we-head-for/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Exentis Group — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.exentis-group.com/en/2022/12/16/successful-start-up-of-the-first-exentis-3d-system-in-japan/",
+    "https://www.voxelmatters.directory/company-category/bound-metal-printing/",
+    "https://manufacturing-today.com/news/exentis-secures-22-million-in-us-additive-manufacturing-sales/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.exone.com/en/",
+    "https://www.exentis-group.com/en/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.exentis-group.com/en/2026/04/22/another-large-exentis-production-system-launched-in-japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "site:amazon.co.jp Exentis Group — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/UGREEN-iPhone18-その他USB-Cデバイス-PSE技術基準適合-2022レッド・ドット・デザイン賞/dp/B091BGMKYS",
+    "https://kdp.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://shigoto.amazon.co.jp/",
+    "https://pay.amazon.co.jp/signin",
+    "https://www.amazon.co.jp/new-balance-ニューバランス-マジックテープファーストシューズ-IZ996/dp/B0GTY77727",
+    "https://read.amazon.co.jp/",
+    "https://www.amazon.co.jp/foveitaa-ジャケット-レディース-大きいサイズ/dp/B0HDT3JXGV",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://www.amazon.co.jp/amazonプライム会員-ログイン/s?k=amazonプライム会員+ログイン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:monotaro.com Exentis Group — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/02888688/",
+    "https://www.monotaro.com/g/00213068/",
+    "https://www.monotaro.com/g/01398396/",
+    "https://www.monotaro.com/login",
+    "https://www.monotaro.com/k/store/ラインレーザー/",
+    "https://www.monotaro.com/s/c-124371/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/g/00683943/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/00022409/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Exentis Group — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.exentis-group.com/app/uploads/2025/06/Exentis-Group-Annual-Report-2024.pdf",
+    "https://www.linkedin.com/company/exentis-group-ag",
+    "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "https://pitchbook.com/profiles/company/465383-98",
+    "https://manufacturing-today.com/news/exentis-secures-22-million-in-us-additive-manufacturing-sales/",
+    "https://www.voxelmatters.report/database/",
+    "https://3dprint.com/315225/exentis-sells-22-4m-in-metal-3d-printers-to-u-s-customers/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.directory/",
+    "https://www.exentis-group.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Exentis Group — VoxelMatters",
+   "results": [
+    "https://note.com/info/n/nf1f5ac6c3f7b",
+    "https://note.com/engiro/n/na6af3ca74783",
+    "https://note.com/hashtag/python",
+    "https://note.com/ideal_condor7782/n/n5941517efbf8",
+    "https://note.com/suzuki_ai_coach/n/n337ac15653c5",
+    "https://note.com/fufufufujitani/n/n0553abef8044",
+    "https://note.com/booskanoriri/n/n8ae2791a3ec6",
+    "https://note.com/hashtag/遊戯王",
+    "https://note.com/lucille_aion2/n/n3ad672c95c75",
+    "https://note.com/tolove/n/nde5384477324"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Exentis Group — VoxelMatters",
+   "results": [
+    "https://x.com/3DOSNetwork",
+    "https://x.com/voxelmatters",
+    "https://x.com/spencerpratt/status/2117629972919542039",
+    "https://x.com/BoLoudon/status/2114084817499513004",
+    "https://x.com/TakeshiKovac69/status/2116278666728718808",
+    "https://x.com/abdulbasitaka/status/2115913589441843427",
+    "https://x.com/Cindtrillella/status/2114732205645681116",
+    "https://x.com/Bidaultfabrice/status/2111490756586185089",
+    "https://x.com/AirtechOfficial",
+    "https://x.com/3DPrint_com/status/1661766460618801155"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com Exentis Group — VoxelMatters",
+   "results": [
+    "https://sg.linkedin.com/company/c3d-ceramics",
+    "https://ch.linkedin.com/in/alain-stebler-1578476",
+    "https://fr.linkedin.com/in/gr%C3%A9gory-etchegoyen-a64a0139",
+    "https://nl.linkedin.com/in/jos-olijve-8b08859",
+    "https://il.linkedin.com/in/sava-hmelnitski-a0b3765",
+    "https://fr.linkedin.com/in/eric-kerman",
+    "https://www.linkedin.com/company/exentis-group-ag",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://ch.linkedin.com/company/exentis-group-ag",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Exentis Group — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/p/Exentis-Group-AG-100083362657687/",
+    "https://www.facebook.com/people/Exentis-Group-AG/100083362657687/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/ContextoColima/",
+    "https://www.facebook.com/fittime.cz/",
+    "https://www.facebook.com/mosshaf/",
+    "https://www.facebook.com/3printr/posts/975590411256994/",
+    "https://www.facebook.com/metalAMmag/photos/exentis-group-ag-announced-that-it-has-received-a-major-order-from-a-strategic-p/1450084680458706/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-3dpbm-has-rebranded-to-voxelmatters-and-xaba-closed-a-/2229888943849297/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Exentis Group — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/ipo-ready-exentis-shows-off-metal-3d-screen-printing-for-mass-am-production/",
+    "https://www.exentis-group.com/en/",
+    "https://www.youtube.com/watch?v=ChQ_-RhYYh0",
+    "https://manufacturing-today.com/news/exentis-secures-22-million-in-us-additive-manufacturing-sales/",
+    "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "https://note.com/kbtfn744/n/ncd5b574aea91",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/insights/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Exentis Group — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/ipo-ready-exentis-shows-off-metal-3d-screen-printing-for-mass-am-production/",
+    "https://www.exentis-group.com/en/",
+    "https://www.youtube.com/watch?v=ChQ_-RhYYh0",
+    "https://www.voxelmatters.com/exentis-group-ag-sells-9-machines-in-the-us/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.exone.com/en/",
+    "https://www.youtube.com/watch?v=3pttF8x6NTQ",
+    "https://www.exentis-group.com/",
+    "https://www.exentis-group.com/en/technology/exentis-technology/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

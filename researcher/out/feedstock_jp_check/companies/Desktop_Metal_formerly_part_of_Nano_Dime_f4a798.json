@@ -1,0 +1,457 @@
+{
+ "name": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bound-metal-printing",
+ "researched_at": "2026-11-09T20:20:10.599267+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.desktopmetal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/DesktopMetal/comments/1dubcue/nano_dimension_to_acquire_desktop_metal_creating/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.com/320755/arc-takes-over-desktop-metal-with-a-focus-on-ai-and-u-s-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nano-dimension-completes-acquisition-of-desktop-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.desktopmetal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.desktopmetal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=5KJrSQmI1lU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.desktopmetal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AdditiveManufacturing/comments/1mcitcn/desktop_metal_is_out_of_business/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/ELECTRO-HARMONIX-Metal-%E3%83%8E%E3%82%A4%E3%82%BA%E3%82%B2%E3%83%BC%E3%83%88%E6%90%AD%E8%BC%89-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/dp/B08TJ4QDNB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%AB%E3%83%B4%E3%82%A1%E3%83%A1%E3%82%BFNow-Dr-Metal-Factory/dp/B00214MCUY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Fanless-Desktop-Computer-Pentium-BM10/dp/B0FXDPHY3V",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/TAMASHII-NATIONS-HI-METAL-Dimension-Pre-Painted/dp/B0BRX6H6GL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/s/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02599171/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/nano-dimension-acquires-desktop-metal-in-all-cash-transaction-of-135m/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Desktop_Metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.nano-di.com/press-releases/news-details/2024/Nano-Dimension-to-Acquire-Desktop-Metal-Creating-a-Leader-in-Additive-Manufacturing/default.aspx",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "https://www.desktopmetal.com/",
+    "https://www.reddit.com/r/DesktopMetal/comments/1dubcue/nano_dimension_to_acquire_desktop_metal_creating/",
+    "https://www.potteranderson.com/insights/cases/desktop-metal-inc-v-nano-dimension-ltd-et-al-c-a-no-2024-1303-ksjm-del-ch-mar-23-2025-mccorkmick-c",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://en.wikipedia.org/wiki/Desktop_Metal",
+    "https://www.nano-di.com/",
+    "https://www.youtube.com/watch?v=EHrkeZ1eodU"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://3dprint.com/320755/arc-takes-over-desktop-metal-with-a-focus-on-ai-and-u-s-manufacturing/",
+    "https://www.voxelmatters.com/nano-dimension-completes-acquisition-of-desktop-metal/",
+    "https://fabscene.com/new/news/desktop-metal-bankruptcy-nano-dimension-2025/",
+    "https://news.sharelab.jp/3dp-news/ir/nanodimension-desktopmetal-250731/",
+    "https://threelike.co.jp/products/1651",
+    "https://sekapri.com/business/20250917-19843/",
+    "https://creator.holoearth.com/shop/products/1021609"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://www.desktopmetal.com/",
+    "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "https://3dprint.com/320755/arc-takes-over-desktop-metal-with-a-focus-on-ai-and-u-s-manufacturing/",
+    "https://investors.nano-di.com/press-releases/news-details/2025/Nano-Dimension-Completes-Acquisition-of-Desktop-Metal/default.aspx",
+    "https://www.businesswire.com/news/home/20240703252122/en/Nano-Dimension-to-Acquire-Desktop-Metal-Creating-a-Leader-in-Additive-Manufacturing",
+    "https://www.metal-am.com/nano-dimension-completes-desktop-metal-acquisition/",
+    "https://3dprintingindustry.com/news/desktop-metal-assets-acquired-by-arc-impact-to-focus-on-advanced-manufacturing-244464/",
+    "https://www.automesseweb.jp/2026/10/15/1997575"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.desktopmetal.com/",
+    "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "https://www.youtube.com/watch?v=5KJrSQmI1lU",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1mcitcn/desktop_metal_is_out_of_business/",
+    "https://investors.nano-di.com/press-releases/news-details/2025/Nano-Dimension-Completes-Acquisition-of-Desktop-Metal/default.aspx",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://www.potteranderson.com/insights/cases/desktop-metal-inc-v-nano-dimension-ltd-et-al-c-a-no-2024-1303-ksjm-del-ch-mar-23-2025-mccorkmick-c",
+    "https://en.wikipedia.org/wiki/Desktop_Metal",
+    "https://www.prnewswire.com/news-releases/arc-impact-acquires-desktop-metal-assets-relaunching-as-an-ai-driven-advanced-manufacturing-platform-302556933.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "https://www.desktopmetal.com/",
+    "https://www.reddit.com/r/AdditiveManufacturing/comments/1mcitcn/desktop_metal_is_out_of_business/",
+    "https://www.potteranderson.com/insights/cases/desktop-metal-inc-v-nano-dimension-ltd-et-al-c-a-no-2024-1303-ksjm-del-ch-mar-23-2025-mccorkmick-c",
+    "https://investors.nano-di.com/press-releases/news-details/2025/Nano-Dimension-Completes-Acquisition-of-Desktop-Metal/default.aspx",
+    "https://www.youtube.com/watch?v=5KJrSQmI1lU",
+    "https://en.wikipedia.org/wiki/Desktop_Metal",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://en.wikipedia.org/wiki/Jim_Kerr"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/ELECTRO-HARMONIX-Metal-ノイズゲート搭載-ディストーション/dp/B08TJ4QDNB",
+    "https://www.amazon.co.jp/カヴァメタNow-Dr-Metal-Factory/dp/B00214MCUY",
+    "https://www.amazon.co.jp/Fanless-Desktop-Computer-Pentium-BM10/dp/B0FXDPHY3V",
+    "https://www.amazon.co.jp/-/en/TAMASHII-NATIONS-HI-METAL-Dimension-Pre-Painted/dp/B0BRX6H6GL",
+    "https://www.amazon.co.jp/-/en/TAMASHII-NATIONS-Dimension-Approximately-Pre-Painted/dp/B0BCF5CC42",
+    "https://www.amazon.co.jp/-/en/Hosokawa-Micron-Quasi-Drug-Medicated-Prevents/dp/B0B96ZSXWJ",
+    "https://www.amazon.co.jp/CCSTOYS-MORTAL-『エヴァンゲリオンANIMA』-エヴァンゲリオン最終号機［ULTIMUS-塗装済み可動フィギュア/dp/B0FL6QLV9Q"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/s/",
+    "https://www.monotaro.com/g/02599171/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/nano-dimension-acquires-desktop-metal-in-all-cash-transaction-of-135m/",
+    "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "https://en.wikipedia.org/wiki/Desktop_Metal",
+    "https://investors.nano-di.com/press-releases/news-details/2024/Nano-Dimension-to-Acquire-Desktop-Metal-Creating-a-Leader-in-Additive-Manufacturing/default.aspx",
+    "https://elevenflo.com/blog/desktop-metal-bankruptcy",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://www.linkedin.com/pulse/bad-management-timing-rise-fall-desktop-metal-collapse-schiavo-5fsce",
+    "https://www.reddit.com/r/DesktopMetal/comments/1dubcue/nano_dimension_to_acquire_desktop_metal_creating/",
+    "https://growjo.com/company/Desktop_Metal",
+    "https://www.voxelmatters.directory/company/desktop-metal/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters",
+   "results": [
+    "https://money.note.com/us-companies/DM",
+    "https://note.com/mrkshi/n/n3b9219286bff?hl=en",
+    "https://note.com/babymetal_one/n/n40077b367080",
+    "https://note.com/ozza_1228/n/nd0f9f72a8359?hl=en",
+    "https://note.com/2378tcdf/n/nb26f494d97b2",
+    "https://note.com/sho_ai_info/n/n4ed06400a9ac?hl=en",
+    "https://note.com/bright_llama373/n/nfd8c540c5b72?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters",
+   "results": [
+    "https://x.com/desktopmetal",
+    "https://x.com/Arc_Impact",
+    "https://x.com/NanoDimensionX",
+    "https://x.com/Arc_Impact/status/1280180882603720710",
+    "https://jf.x.com/images/media-preview/2092445811015573767",
+    "https://about.x.com/en",
+    "https://x.com/DesktopMetal/status/1215303430975229953"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/voxelmatters_nano-dimension-acquires-desktop-metal-in-activity-7214900881933115392-5BmP",
+    "https://www.linkedin.com/posts/metalammagazine_additivemanufacturing-3dprinting-defense-activity-7374849862321803264-vOpA",
+    "https://www.linkedin.com/posts/piminternationalmagazine_additivemanufacturing-3dprinting-defense-activity-7374427019096461312-J-U1",
+    "https://www.linkedin.com/posts/3dprint-com_arc-takes-over-desktop-metal-with-a-focus-activity-7373687925060018176-pkOo",
+    "https://www.linkedin.com/posts/desktopmetal_arc-impact-solutions-focused-additive-manufacturing-activity-7444362222895783936-U3LE",
+    "https://www.linkedin.com/posts/activity-7371256192352043008-hqli",
+    "https://www.linkedin.com/company/desktopmetal",
+    "https://www.linkedin.com/posts/desktopmetal_arc-takes-over-desktop-metal-with-a-focus-activity-7373697311312617472-huYP",
+    "https://www.linkedin.com/posts/piminternationalmagazine_additivemanufacturing-3dprinting-manufacturing-activity-7371135364595384320-lGmR",
+    "https://www.linkedin.com/posts/3dprint-com_nano-dimensions-post-acquisition-focus-turns-activity-7331658701654683648-yHrl"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/ArcImpactCorp/",
+    "https://www.facebook.com/ArcImpactCorp/posts/desktop-metals-live-studio-software-integrates-the-studio-system-metal-3d-printe/1215509600584523/",
+    "https://www.facebook.com/ArcImpactCorp/posts/which-easy-adopt-desktop-metal-3d-printing-technology-is-right-for-you-from-the-/1280974544038028/",
+    "https://www.facebook.com/PIMInternationalmag/posts/following-the-news-that-arc-impact-acquisition-corporation-arc-impact-has-acquir/1341898847935551/",
+    "https://www.facebook.com/ArcImpactCorp/posts/at-the-heart-of-many-of-desktop-metals-machines-including-the-shop-system-is-bin/574432634692226/",
+    "https://www.facebook.com/ArcImpactCorp/posts/metal-3d-printing-made-easymetal-3d-printing-for-quick-turn-toolingmetal-3d-prin/1011440270991458/",
+    "https://www.facebook.com/PIMInternationalmag/photos/the-us-bankruptcy-court-for-the-southern-district-of-texas-has-approved-a-deal-t/1333529362105833/",
+    "https://www.facebook.com/ArcImpactCorp/videos/introducing-live-suite-a-new-package-of-powerful-software-programs-that-allows-u/129823956483377/",
+    "https://www.facebook.com/ArcImpactCorp/posts/the-worlds-first-metal-binder-jetting-system-designed-for-machine-shops-the-shop/1875412022662460/",
+    "https://www.facebook.com/ArcImpactCorp/posts/the-production-system-p-1-is-an-open-platform-binder-jetting-solution-for-proces/1096865049115646/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://www.potteranderson.com/insights/cases/desktop-metal-inc-v-nano-dimension-ltd-et-al-c-a-no-2024-1303-ksjm-del-ch-mar-23-2025-mccorkmick-c",
+    "https://www.desktopmetal.com/",
+    "https://en.wikipedia.org/wiki/Desktop_Metal",
+    "https://investors.nano-di.com/investor-relations/default.aspx",
+    "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "https://www.linkedin.com/company/desktopmetal",
+    "https://elevenflo.com/blog/desktop-metal-bankruptcy"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.industryweek.com/technology-and-iiot/additive/news/55317262/desktop-metal-comes-back-nano-dimension-may-be-going",
+    "https://www.reddit.com/r/DesktopMetal/comments/1dubcue/nano_dimension_to_acquire_desktop_metal_creating/",
+    "https://www.youtube.com/watch?v=5KJrSQmI1lU",
+    "https://www.desktopmetal.com/",
+    "https://www.bizjournals.com/boston/news/2025/09/16/desktop-metal-gets-new-private-equity-owner.html",
+    "https://3dprint.com/320755/arc-takes-over-desktop-metal-with-a-focus-on-ai-and-u-s-manufacturing/",
+    "https://www.youtube.com/desktopmetal",
+    "https://www.prnewswire.com/news-releases/arc-impact-acquires-desktop-metal-assets-relaunching-as-an-ai-driven-advanced-manufacturing-platform-302556933.html",
+    "https://www.voxelmatters.directory/company/desktop-metal/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）"
+ }
+}

@@ -1,0 +1,621 @@
+{
+ "name": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130）",
+ "en": "Japan Census of Manufacture Economic Structure Survey revision policy retrospective revision benchmark",
+ "aliases": [
+  "経済構造実態調査 遡及改定 方針 site:meti.go.jp",
+  "工業統計調査 確報 訂正 公表 site:meti.go.jp",
+  "経済構造実態調査 製造業事業所調査 改定 利用上の注意 速報 確報 差"
+ ],
+ "context": "統計・改定の方針",
+ "kind": "market",
+ "researched_at": "2026-11-09T20:07:59.897514+00:00",
+ "evidence": {},
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jagat.or.jp/archives/99010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkj-st.go.jp/about/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yurokyo.or.jp/contents/pdf/5798-2",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000757584.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/kkj-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000749845.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kako.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000832071.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?tstat=000001221300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/info/kenkyu/kkj/pdf/giji04-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001063128.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kantoko.com/blog/2025/09/90946/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result1_2025_2.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/key-policy-insights_e3384128.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://d-infra.ier.hit-u.ac.jp/English/ltes/a000.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 人手不足 受注 断る",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://worker-training.com/back-office/somu/keizaikouzoujittaichousa/",
+    "https://www.tama5cci.or.jp/hp/yanagida/?p=4723",
+    "https://www.kkj-st.go.jp/about/",
+    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 受注残 人手不足",
+   "results": [
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.miyazaki.lg.jp/tokeichosa/kense/toke/20240117102304.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 人手不足 損失 億円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.e-stat.go.jp/stat-search?toukei=00200555",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://www.yurokyo.or.jp/contents/pdf/5798-2",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.soumu.go.jp/main_content/000757584.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130）",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.soumu.go.jp/main_content/000757584.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 推移",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.jagat.or.jp/archives/99010",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.soumu.go.jp/main_content/000757584.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 統計 PDF",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.soumu.go.jp/main_content/000757584.pdf",
+    "https://www.stat.go.jp/info/kenkyu/kkj/pdf/giji04-1.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.toukei.metro.tokyo.lg.jp/homepage/bun11.htm",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/haishi.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 従業者規模別",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/gaiyo.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/r4seizogyojigyoshochosa.html",
+    "https://www.e-stat.go.jp/stat-search/files?cycle=0&layout=datalist&page=1&result_page=1&tclass1val=0&toukei=00200555",
+    "https://www.city.otaru.lg.jp/docs/2020121200019/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 1人当たり 万円",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "http://www.etisa.or.jp/kkj-1.htm",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035153",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.pref.saga.lg.jp/toukei/kiji0038099/index.html",
+    "https://kantoko.com/blog/2025/09/90946/",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） 2015 2025",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.e-stat.go.jp/stat-search?page=1&toukei=00200555&toukei_kind=6",
+    "https://www.pref.toyama.jp/sections/1015/lib/keizai/index-keizai.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000343.html",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.niigata.lg.jp/site/tokei/keizaikouzou-r7.html",
+    "https://kantoko.com/blog/2025/09/90946/",
+    "https://www.soumu.go.jp/main_content/000757584.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Japan Census of Manufacture Economic Structure Survey revision policy retrospective revision benchmark Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.unescap.org/sites/default/d8files/event-documents/CST2-INF14_ENG_0.pdf",
+    "https://www.stat.go.jp/english/data/e-census/2026/outline.html",
+    "https://dsbb.imf.org/sddsplus/dqaf-base/country/JPN/category/IND00",
+    "https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2026_54cc833d-en/full-report/key-policy-insights_e3384128.html",
+    "https://d-infra.ier.hit-u.ac.jp/English/ltes/a000.html",
+    "https://www.mof.go.jp/english/pri/publication/pp_review/ppr21_4_01.pdf",
+    "https://www.consensuseconomics.com/publications/asia-pacific-consensus-forecasts/japan-economic-forecasts/",
+    "https://www.nstac.go.jp/en/create/public/",
+    "https://www.stat.go.jp/english/data/e-census/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130）",
+   "results": [
+    "https://note.com/itlawyer/n/n0d8b178124c2",
+    "https://note.com/hirokimiyano/n/nf106195bc922",
+    "https://note.com/lucid_lotus6287/n/n094eee3a68f9",
+    "https://note.com/kagawatomo/n/nd985c3959405",
+    "https://note.com/bizgram/n/n9a587c22ec50",
+    "https://note.com/lucid_lotus6287/n/n6789c7f8eeb8",
+    "https://note.com/lucid_lotus6287/n/n271a59a02c76",
+    "https://note.com/hirokimiyano/n/n5cf477b308f9",
+    "https://note.com/hirokimiyano/n/n9618b746d9e4",
+    "https://note.com/hirokimiyano/n/na44693a32d73"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130）",
+   "results": [
+    "https://x.com/KagawaTomo/article/2088407532465471916",
+    "https://x.com/luigi_jpn/article/2060618872278192235",
+    "https://x.com/KagawaTomo/article/2080578592044724258",
+    "https://x.com/HiromitsuTakagi/status/2114323153182699946",
+    "https://x.com/masa_mynews",
+    "https://x.com/abcxyz1215134?utm_medium=search&utm_source=yjfinance",
+    "https://x.com/Joint_kaigo/status/2031315117179285999",
+    "https://x.com/kido_office/status/2089094854446125168",
+    "https://x.com/AmadaReport/status/2082047902910926880",
+    "https://x.com/tokei_ibaraki/status/2038550140701851845"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com 工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130）",
+   "results": [
+    "https://jp.linkedin.com/in/日比野-hibino-守男-morio-132b2411b",
+    "https://jp.linkedin.com/company/n-v-bridge-group",
+    "https://www.linkedin.com/feed/update/urn:li:share:7503858045324623873",
+    "https://jp.linkedin.com/pulse/経済財政運営と改革の基本方針2026骨太方針2026-ai創薬より前に必要なのは構造を見るaiではないか-michio-okazaki-04rvc",
+    "https://jp.linkedin.com/posts/natsuko-andoh-5ba178231_経産省が公表した2040年の就業構造推計改訂版の衝撃的な内容人口減少でも-activity-7429229751438848000-_lKj",
+    "https://jp.linkedin.com/posts/知也-大角-55509aa4_医療制度の構造的見直しと2026年度診療報酬改定の方向性をまとめてみた出典-activity-7392062757455679489-5fuk",
+    "https://jp.linkedin.com/posts/邦親-久保田-bb6644218_人間力重視で依存防ぐ内閣府がai基本計画改定作業中勝ち筋を描け-ニュースイッチ-activity-7456599113384501248-qsAo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130）",
+   "results": [
+    "https://www.facebook.com/camarajaponesapy/?locale=da_DK",
+    "https://www.facebook.com/100064515737150?locale=cx_PH",
+    "https://www.facebook.com/groups/813342132068841/",
+    "https://www.facebook.com/henoko.base.opposite/posts/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E3%81%AE%E9%BA%BB%E7%97%BA%E8%A7%A3%E6%B6%88%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E3%82%AC%E3%82%BD%E3%83%AA%E3%83%B3%E8%BB%BD%E6%B2%B9%E4%BE%A1%E6%A0%BC%E3%81%8C%E9%AB%98%E6%AD%A2%E3%81%BE%E3%82%8A%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AFcnn-20261015%E3%83%BC%E3%83%BC%E3%83%BC-%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E3%81%AE%E9%80%9A%E8%88%AA%E3%81%8C%E9%BA%BB%E7%97%BA%E3%81%BE%E3%81%B2%E7%8A%B6%E6%85%8B%E3%82%92%E8%84%B1%E3%81%97%E3%81%9F%E3%81%AB%E3%82%82%E3%81%8B%E3%81%8B/1415465217337826/",
+    "https://www.facebook.com/stat.japan/posts/3月27日総務省統計局からお知らせします2025年経済構造実態調査一次集計結果-産業横断調査企業等に関する集計-総務省及び経済産業省は2025年6月に実施した2/1369600878537270/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
+    "https://www.facebook.com/ohmurahideaki/posts/29日総務省経済産業省が発表した-経済構造実態調査結果-の-製造品出荷額等-において愛知県が1977年から47年連続で全国第1位を獲得2023年の愛知県の製造品/1237778375030502/",
+    "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
+    "https://www.facebook.com/zentekkin/posts/この改訂が我々の請負金額に反映されるかが重要だ-建設工業新聞-国交省積算基準改定現場実態考慮し歩掛かり設定鉄筋工は市場単価廃止-国土交通省が２月２７日に公表した/1263926802501527/",
+    "https://www.facebook.com/zentekkin/photos/この改訂が我々の請負金額に反映されるかが重要だ-建設工業新聞-国交省積算基準改定現場実態考慮し歩掛かり設定鉄筋工は市場単価廃止-国土交通省が２月２７日に公表した/1263926739168200/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） note 社長",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://www.pref.nagasaki.jp/bunrui/kenseijoho/toukeijoho/tokeichosa/kogyo/",
+    "https://www.city.okaya.lg.jp/soshikikarasagasu/kikakuka/66/652/55/6941.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
+    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "https://www.soumu.go.jp/main_content/000757584.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "工業統計・経済構造実態調査の改定の方針（確報の後に直すか・遡及改定の有無・基準改定の年・直しが小さいのは直さない方針か・4-130） X 投稿",
+   "results": [
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
+    "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.stat.go.jp/data/kkj/index.html",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://laws.e-gov.go.jp/law/431M60000408001/",
+    "https://www.jagat.or.jp/archives/99010",
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r6keizaikouzou.html",
+    "https://www.soumu.go.jp/menu_news/s-news/01toukei05_01000245.html",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Japan Census of Manufacture Economic Structure Survey revision policy retrospective revision benchmark site:linkedin.com",
+   "results": [
+    "https://uk.linkedin.com/in/sarahbeth-olson",
+    "https://za.linkedin.com/in/martina-mchenga-phd-1164b827",
+    "https://www.linkedin.com/in/aramnamavar",
+    "https://uk.linkedin.com/in/katietucker",
+    "https://www.linkedin.com/pulse/japan-liclo4-market-manufacturing-efficiency-ejbff",
+    "https://www.linkedin.com/pulse/japan-strong-ramming-hammer-market-manufacturing-pewxf",
+    "https://www.linkedin.com/pulse/japan-atbs-market-manufacturing-efficiency-benchmark-znryf",
+    "https://www.linkedin.com/pulse/japan-product-lifecycle-management-qaxrc",
+    "https://www.linkedin.com/pulse/japan-tv-table-market-operational-automation-benchmark-sjvgc",
+    "https://www.linkedin.com/pulse/japan-contract-manufacture-organization-cmo-decision-making-eu4wc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ49頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ49頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ49頁・検索18回）",
+  "受注金額・加工賃収入": "記載なし（読んだ49頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ49頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ49頁・検索18回）",
+  "10年推移": "記載なし（読んだ49頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ49頁・検索18回）"
+ }
+}

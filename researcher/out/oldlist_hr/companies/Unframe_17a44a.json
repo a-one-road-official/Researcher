@@ -1,0 +1,1622 @@
+{
+ "name": "Unframe",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜返信あり",
+ "researched_at": "2026-11-09T20:16:08.091905+00:00",
+ "official_url": "https://www.unframe.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "$20M $20M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Applied AI for the Enterprise | The Applied AI Lab | Unframe AI",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The unified layer for agents and solutions across the enterprise.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Different challenges call for different approaches. Find yours.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From a use-case to production, with our ownership of the outcome.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform powering every solution. Built for speed, governance and enterprise scale.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Unframe platform provides the foundation for every solution - proven building blocks, access to enterprise data and context, and the orchestration layer for agents, models and tools.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The reason we wanted to work with Unframe was to improve our quality and take our proofreading team’s capabilities to the next level with AI. They have been a very inspiring and incredible partner to work with.\"",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "NZZ's AI proofreading assistant sharpens style, lifts accuracy, and flags early fact issues - speeding up newsroom review with confidence.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Highland Europe chose Unframe for its ability to deliver immediate value while fundamentally improving how the team sources and prioritizes opportunities.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With AI-native capabilities now in production, Cushman & Wakefield can demonstrate to clients that it is genuinely an AI-forward organization.",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply Chain & Procurement",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent stockouts. Maximize savings.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering BOM and procurement synchronization",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end product genealogy tracking",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer breakdowns. Continuous production.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Critical-line failure prevention",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Production & Operations",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Frontline Intelligence",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Retained expertise. Faster shift onboarding.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Standard operating procedure compliance audits",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "\"The reason we wanted to work with Unframe was to improve our quality and take our proofreading team’s capabilities to the next level with AI. They have been a very inspiring and incredible partner to work with.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Swish by Unframe has helped us better understand those trends across our support experience and identify opportunities for improvement.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“Scaling AI requires a smart ‘build, buy, or borrow’ approach. For us, Unframe provides a clear ‘buy’ path, with reusable foundations that drastically shorten the road to impact. What sets them apart is their deeply collaborative spirit.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“Unframe went into impressive depth to understand our workflows and set an important puzzle piece for NZZ's AI strategy. We are building toward a long-term success story together.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe built VISION, a comprehensive case management and image-matching platform specifically designed for missing children investigations. This is Advanced AI focused on what truly matters: saving children’s lives.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "\"We’ve approached it department by department, use case by use case, and what’s powerful is how those AI solutions start to build on each other across the business. As we expand into new use cases, that value will only continue to grow.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Every facility's data lives in a different system, so by the time AI could touch real production data, months have gone into integration instead of results.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Months of integration work before AI can touch real production data",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global enterprises need compliance wherever they operate. We build it in from day one.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Different challenges call for different approaches. Find yours.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "From a use-case to production, with our ownership of the outcome.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Unframe brings together AI expertise, technology and delivery on a shared enterprise foundation. Each solution can reuse existing integrations, capabilities and business context, making it easier to expand AI across operations and plants.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Your data never leaves your environment. Unframe deploys within your own infrastructure — on-prem or private cloud — with no training on your data and full audit trails across every workflow.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "By continuously monitoring equipment data and surfacing failure signals weeks before breakdown — so maintenance teams act before production stops, not after.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with us to accelerate enterprise AI",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Good partnerships compound. Join the Unframe Partner Program and hand your customers managed AI proven before they've fully committed.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Take Unframe solutions to market and build the customer outcomes and services around them. You own the engagement; we back it with a platform built to prove value fast.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Plug your cloud, models, data platform or enterprise applications into Unframe, and put your technology at the center of how enterprises actually deploy AI.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Shape the customer's AI agenda and identify where Unframe should be used. Turn AI advisory work into a recurring practice built on a platform, not a one-off engagement.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build differentiated AI propositions without assembling and maintaining a complex technology stack.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Move use cases from idea to production quickly, creating earlier customer impact and more repeat business.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Make AI economics predictable",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Predictable pricing removes the uncertainty of token-based economics and helps unblock procurement and business cases.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unframe's architecture enables accurate, precise outcomes that drive confidence, adoption and production usage.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "An ecosystem built for enterprise scale",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unframe deploys inside Microsoft Azure, so Microsoft-anchored enterprises can bring Unframe in without moving where data lives.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Our partnership with Unframe has been instrumental in expanding MasterTel USA's ability to deliver enterprise AI solutions that solve real business challenges. What sets Unframe apart is its ability to rapidly transform complex AI opportunities into practical, scalable solutions that integrate with customers' existing environments.\"",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“We already bridge the world's sharpest security technology into Europe's toughest regulatory environments. That's the shortcut, without the risk. Wth Unframe's Platform, the same bridge carries AI projects too.”",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"At Keyrus AI, we’re focused on helping our clients turn AI innovation into real business value. Partnering with Unframe allows us to bring enterprise AI capabilities to our customers without the complexity and lengthy implementation cycles.\"",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President Global Alliances & Strategic Initiatives",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“ I have the utmost confidence in Shay and the team to redefine how software is built and delivered to the enterprise world and work alongside businesses to ensure they stay ahead.”",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program guide",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Register an opportunity before you bring us in, and protect your investment from day one.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unframe is available through Google Cloud Marketplace, Microsoft Azure Marketplace and AWS Marketplace. Buying through a marketplace lets customers draw down cloud commitments they've already made instead of opening a new procurement cycle.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "In the Partner Program Guide. Request it at",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "First approved registration holds. If a second partner registers the same opportunity, we'll tell them the account is already covered without disclosing who holds it.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "180 days from approval. If the opportunity is still active when it expires, you can extend.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Registration is what protects your position in the account and makes you eligible for partner margin. An unregistered deal is not a partner deal.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Manufacturing | Manufacturing use cases | Unframe AI",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Applied AI for Manufacturing. Eliminate unplanned downtime, resolve critical supply chain gaps and keep your operations audit-ready.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plant, supplier and back-office system working together — one complete picture of your operations. Always current.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing use cases",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Unframe powers AI for manufacturing operations",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Why AI is hard in manufacturing",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plant runs different systems with different data formats",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Manufacturer achieves 100% visibility into supplier commitments",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Unframe help manufacturers scale AI beyond the first use case?",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Unframe brings together AI expertise, technology and delivery on a shared enterprise foundation. Each solution can reuse existing integrations, capabilities and business context, making it easier to expand AI across operations and plants.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does AI help reduce unplanned downtime in manufacturing?",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Why do most manufacturing AI projects fail to deliver results?",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Most stall because they're built on fragmented data and disconnected systems that were never designed to support AI. A pilot that works in isolation rarely survives contact with real production data across multiple plants and systems.",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Manufacturer achieves 100% visibility into supplier commitments",
+    "url": "https://www.unframe.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Property management systems, market data, CRM and legacy warehouses connected without disrupting your existing systems.",
+    "url": "https://www.unframe.ai/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "NZZ AI Proofreading Case Study: Editorial Fixes Halved | Unframe AI",
+    "url": "https://www.unframe.ai/customer-stories/nzz",
+    "pass": 1
+   },
+   {
+    "quote": "Cushman & Wakefield AI Lease Abstraction Case Study | Unframe AI",
+    "url": "https://www.unframe.ai/customer-stories/cushman-wakefield",
+    "pass": 1
+   },
+   {
+    "quote": "Nutrisens Case Study: AI-Powered Order Entry Automation | Unframe AI",
+    "url": "https://www.unframe.ai/customer-stories/nutrisens",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than automating everything, the platform surfaces ambiguous or non-standard orders to Nutrisens' operators for review and correction. This human-in-the-loop approach preserves accuracy where it matters most: patient-safety-critical decisions.",
+    "url": "https://www.unframe.ai/customer-stories/nutrisens",
+    "pass": 1
+   },
+   {
+    "quote": "AST Case Study: Recruiting Pipeline Tracking Automation | Unframe AI",
+    "url": "https://www.unframe.ai/customer-stories/ast",
+    "pass": 1
+   },
+   {
+    "quote": "Material planners were responsible for monitoring thousands of supplier purchase orders across plants, but manual processes and unstructured supplier communication limited their ability to proactively track commitments. Most follow-ups happened through email and spreadsheets, allowing planners to actively manage only a small portion of open orders.",
+    "url": "https://www.unframe.ai/customer-stories/supplier-commitment-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "This created blind spots in the critical 3–6 week production window where delayed or partial deliveries could disrupt manufacturing schedules. Without scalable monitoring of supplier confirmations, planners often discovered supply risks too late, increasing the likelihood of production interruptions and reactive firefighting.",
+    "url": "https://www.unframe.ai/customer-stories/supplier-commitment-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "By automating supplier communication and response interpretation while keeping JD Edwards as the system of record, the manufacturer gained continuous visibility into supplier commitments and enabled planners to focus on resolving production risks rather than chasing updates.",
+    "url": "https://www.unframe.ai/customer-stories/supplier-commitment-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Industry",
+    "url": "https://www.viewpointanalysis.com/post/who-are-unframe",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Manufacturer achieves 100% visibility into supplier commitments",
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“We already bridge the world's sharpest security technology into Europe's toughest regulatory environments. That's the shortcut, without the risk. Wth Unframe's Platform, the same bridge carries AI projects too.”",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Bank digitizes legacy archives",
+    "url": "https://www.unframe.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Manufacturer achieves 100% visibility into supplier commitments",
+    "url": "https://www.unframe.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.",
+    "url": "https://www.unframe.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce revenue leakage and improve commercial performance.",
+    "url": "https://www.unframe.ai/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "parses offering memorandums, rent rolls and loan documents to produce structured deal data in minutes instead of days, letting acquisition teams screen more deals without adding analyst headcount.",
+    "url": "https://www.unframe.ai/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Previously co-founded Noname Security, acquired by Akamai for approximately $500M. He started Unframe on a bet most people questioned: one platform would win enterprise AI transformation.",
+    "url": "https://www.unframe.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A decade scaling enterprise tech companies through IPO and M&A, she brought that global experience built across North America, Europe and APAC — to strategy and operations at Unframe.",
+    "url": "https://www.unframe.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Shortlisted on the 2026 AI Awards list",
+    "url": "https://www.unframe.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unframe is now a strategic relationship for us and a core part of our platform for delivering on the promise of artificial intelligence. We're delivering in excess of 15 projects, and we expect that to grow as we move forward.\"",
+    "url": "https://www.unframe.ai/customer-stories/cushman-wakefield",
+    "pass": 1
+   },
+   {
+    "quote": "Flexibility also played an important role. Rather than relying on rigid filters, Unframe allows investors to dynamically adjust how companies were prioritized across different investment theses, without narrowing the opportunity set too early.",
+    "url": "https://www.unframe.ai/customer-stories/highland-europe",
+    "pass": 1
+   },
+   {
+    "quote": "Unframeは、ステルスモードから出て間もないにもかかわらず、すでに数十のフォーチュン500企業にサービスを提供し、年間再発行収入（ARR）で数百万ドルを達成しています",
+    "url": "https://www.unite.ai/ja/unframe-emerges-from-stealth-with-50m-to-transform-enterprise-ai-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "IPO、M&A、国際展開を経験しています",
+    "url": "https://www.unite.ai/ja/unframe-emerges-from-stealth-with-50m-to-transform-enterprise-ai-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの大規模なデットファイナンスやIPO準備といった財務責任者としての経験、私の強みがダイレクトに活かせるポジションをご提案いただきました",
+    "url": "https://un-frame.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "As with any enterprise technology investment, independent evaluation matters. Unframe's own positioning and customer references tell one part of the story; reference calls with existing customers in comparable sectors and a structured proof-of-concept process will give you the evidence base to make a well-informed decision.",
+    "url": "https://www.viewpointanalysis.com/post/who-are-unframe",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "To view Unframe’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe has 150 total employees.",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "What is Unframe’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Unframe is",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe was founded in 2024 by CEO Shay Levi, COO Larissa Schneider, and VP R&D Adi Azarya, all former executives at cybersecurity company Noname Security, which was acquired by Akamai for approximately $500 million. Levi was co-founder and CTO of Noname, Schneider led global marketing operations, and Azarya managed parts of the company’s R&D activity.",
+    "url": "https://www.calcalistech.com/ctechnews/article/sjzf1rfyzl",
+    "pass": 3
+   },
+   {
+    "quote": "According to the company, revenue from existing customers has grown by 400%, while Unframe now works with global organizations across multiple sectors, including Fortune 500 companies.",
+    "url": "https://www.calcalistech.com/ctechnews/article/sjzf1rfyzl",
+    "pass": 3
+   },
+   {
+    "quote": "Levy said the $100 million in signed contracts carry average terms of three to five years.",
+    "url": "https://www.calcalistech.com/ctechnews/article/sjzf1rfyzl",
+    "pass": 3
+   },
+   {
+    "quote": "・Wanting to lower the barrier to entry for creators",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Good partnerships compound. Join the Unframe Partner Program and hand your customers managed AI proven before they've fully committed.",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"Resellers can now quickly deploy AI solutions and showcase their value to customers, enhancing their offerings, attracting and retaining customers, and growing their business with AI.\"",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner program guide",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "In the Partner Program Guide. Request it at",
+    "url": "https://www.unframe.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AST is a government contractor delivering mission-critical solutions across defense, intelligence, and federal civilian agencies, including the Department of Defense, Department of Homeland Security, and the broader national security community.",
+    "url": "https://www.unframe.ai/customer-stories/ast",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "General tools are built for productivity — drafting emails, summarising documents. Financial services AI is built for operational decisions on your actual data — compliance reporting, AML screening, LP reporting — with the governance regulators expect.",
+    "url": "https://www.unframe.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Material planners were responsible for monitoring thousands of supplier purchase orders across plants, but manual processes and unstructured supplier communication limited their ability to proactively track commitments. Most follow-ups happened through email and spreadsheets, allowing planners to actively manage only a small portion of open orders.",
+    "url": "https://www.unframe.ai/customer-stories/supplier-commitment-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "The solution monitors supplier communications to detect commitment changes early, identifies orders at risk within the production planning horizon, and surfaces exceptions that require attention. It analyzes supplier emails and responses, classifies updates such as confirmed, delayed, partial shipment, or no response, and enables automated supplier follow-ups at scale.",
+    "url": "https://www.unframe.ai/customer-stories/supplier-commitment-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "アンフレームの強みは、すでに複数の導入事例で実証されている",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "アンフレームはすでに日本市場での実績を積み上げている",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本に拠点を置く企業にもサービスを提供しています",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "すべてのソリューションは最初から多言語対応しており、日本語も標準でサポートしています」",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "既にアンフレームを導入している日本企業の姿勢について、レビ氏は感銘を受けたと語る",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、日本の読者に向けて力強いメッセージを送った",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "アンフレームは日本市場でも必ず成果を出せると信じています",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "3-11-6 Ikejiri, Setagaya-ku, Tokyo-to 154-0001",
+    "url": "https://unframe-tokyo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月、既存の人材紹介の枠組みを超え、人と組織の可能性を最大化するべく「株式会社UnFrame」を設立",
+    "url": "https://un-frame.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区東品川2丁目2-4 天王洲ファーストタワー7F",
+    "url": "https://un-frame.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京モノレール「天王洲アイル駅」徒歩1分 / りんかい線「天王洲アイル駅」徒歩5分",
+    "url": "https://un-frame.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "— 海外サプライヤーの日本・アジア市場向け営業代理、仕様調整、商談、現地ニーズのフィードバックを支援します",
+    "url": "https://unframeinc.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社UnFrame｜入力の心理的ハードルが消え、面談に時間が戻った | Empro導入事例",
+    "url": "https://getempro.jp/case-studies/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社UnFrame様は、Series A〜Dのスタートアップを中心に、CxO・VP・マネージャー層のミドル〜ハイクラス採用を支援する人材紹介会社です",
+    "url": "https://getempro.jp/case-studies/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エボルグ 代表取締役（Empro 開発・提供）",
+    "url": "https://getempro.jp/case-studies/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社UnFrame | キャリアの「枠」を超える転職エージェント",
+    "url": "https://un-frame.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "取引先顧客の資金調達NEWS ～シェルパ・アンド・カンパニー株式会社～",
+    "url": "https://un-frame.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本発スタートアップが世界へ！KDDIのグローバル加速支援に見る「海外展開」を牽引するビジネス人材の価値",
+    "url": "https://un-frame.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成果ゼロなら支払いゼロ ステルス脱却の Unframe が挑む企業の ... — 成果ゼロなら支払いゼロ ステルス脱却の Unframe が挑む企業の ... TECHBLITZ https://techblitz.com > startup-interview > unframe",
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe 、50億円の資金調達で企業AIの 導入 を変える - Unite.AI — Unframe 、50億円の資金調達で企業AIの 導入 を変える - Unite.AI Unite.AI https://www.unite.ai > unframe-emerges-from-stealth-with...",
+    "url": "https://www.unite.ai/ja/unframe-emerges-from-stealth-with-50m-to-transform-enterprise-ai-deployment/",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】池尻大橋・三宿のシェアオフィス unframe （アン ... — 【公式】池尻大橋・三宿のシェアオフィス unframe （アン ... unframe-tokyo.com https://unframe-tokyo.com",
+    "url": "https://unframe-tokyo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社UnFrame — 会社情報 - 株式会社UnFrame 株式会社UnFrame https://un-frame.jp > company",
+    "url": "https://un-frame.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – unframe 株式会社 — 会社概要 – unframe 株式会社 unframeinc.com https://unframeinc.com > about",
+    "url": "https://unframeinc.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 UnFrame ｜入力の心理的ハードルが消え - Empro — 株式会社 UnFrame ｜入力の心理的ハードルが消え - Empro getempro.jp https://getempro.jp > 導入事例",
+    "url": "https://getempro.jp/case-studies/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "スタートアップインターン。学生中心で運営します！ UnFRAME — スタートアップインターン。学生中心で運営します！ UnFRAME Wantedly https://www.wantedly.com > projects",
+    "url": "https://www.wantedly.com/projects/292261",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe — Unframe 株式会社アンフレーム https://unframe.co.jp",
+    "url": "https://unframe.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 UnFrame | キャリアの「枠」を超える転職エージェント — 株式会社 UnFrame | キャリアの「枠」を超える転職エージェント 株式会社UnFrame https://un-frame.jp",
+    "url": "https://un-frame.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe , Inc. - App Store - Apple — Unframe , Inc. - App Store - Apple Apple https://apps.apple.com > developer > unframe-inc",
+    "url": "https://apps.apple.com/jp/developer/unframe-inc/id686047949",
+    "pass": 3
+   },
+   {
+    "quote": "unframe 」にて1日限りの体験型オープニングイベントを5/24 ... — unframe 」にて1日限りの体験型オープニングイベントを5/24 ... ORDERMADE TOKYO https://ordermade-tokyo.jp > JOURNAL > EVENT",
+    "url": "https://ordermade-tokyo.jp/journal/event/unframe_firstpiece/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI Customer Stories | Unframe AI — Enterprise AI Customer Stories | Unframe AI Unframe AI https://www.unframe.ai > customers",
+    "url": "https://www.unframe.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Cushman & Wakefield AI Lease Abstraction Case Study — Cushman & Wakefield AI Lease Abstraction Case Study Unframe AI https://www.unframe.ai > cushman-w...",
+    "url": "https://www.unframe.ai/customer-stories/cushman-wakefield",
+    "pass": 3
+   },
+   {
+    "quote": "Who are Unframe ? - Viewpoint Analysis — Who are Unframe ? - Viewpoint Analysis Viewpoint Analysis https://www.viewpointanalysis.com > ...",
+    "url": "https://www.viewpointanalysis.com/post/who-are-unframe",
+    "pass": 3
+   },
+   {
+    "quote": "A Defining Moment for Unframe and Enterprise AI — A Defining Moment for Unframe and Enterprise AI Unframe AI https://www.unframe.ai > Blog",
+    "url": "https://www.unframe.ai/blog/a-defining-moment-for-unframe-and-enterprise-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe 2026 Company Profile: Valuation, Funding & Investors — Unframe 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe Achieves $100M in Funding , 400% Net Revenue ... — Unframe Achieves $100M in Funding , 400% Net Revenue ... LinkedIn https://www.linkedin.com > posts > se...",
+    "url": "https://www.linkedin.com/posts/seanthompson8_ai-enterpriseai-unframe-activity-7462523074320646144-QU1l",
+    "pass": 3
+   },
+   {
+    "quote": "AI startup Unframe raises $50 million Series B after ... - CTech — AI startup Unframe raises $50 million Series B after ... - CTech calcalistech.com https://www.calcalistech.com > article",
+    "url": "https://www.calcalistech.com/ctechnews/article/sjzf1rfyzl",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe Hits $100M in 12 Months with 400% Net Revenue ... — Unframe Hits $100M in 12 Months with 400% Net Revenue ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/hasantoxr_this-ai-company-just-hit-100m-in-contract-activity-7462502863055859712-y1wW",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "UnFRAME (アンフレーム) - note UnFRAME (アンフレーム) - note note https://note.com > unframe",
+    "url": "https://note.com/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "UnFRAME Culture Guide - note UnFRAME Culture Guide - note note https://note.com > キャリア > 起業・独立",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "アート集団 UnFRAME 、始めました。 - note アート集団 UnFRAME 、始めました。 - note note https://note.com > 創作系 > 創作ノウハウ",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターとアーティストの違いについて｜ UnFRAME (アン ... クリエイターとアーティストの違いについて｜ UnFRAME (アン ... note https://note.com > デザイン > デザイン全般",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【急募】グラフィックデザイナーさん、来てください。",
+    "url": "https://note.com/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "UnFRAME構想の経緯について、語ります。",
+    "url": "https://note.com/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "UnFRAME、初めての交流会を行いました。",
+    "url": "https://note.com/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "UnFRAMEの活動に関するnoteをまとめています。",
+    "url": "https://note.com/unframe",
+    "pass": 3
+   },
+   {
+    "quote": "UnFRAME Culture Guide｜UnFRAME(アンフレーム)",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "UnFRAME Culture Guide",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "UnFRAME is home to many creators across a wide range of genres.",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While many are freelancers (or aspiring freelancers) who work primarily on their own, everyone gathers at UnFRAME under a shared culture to engage in creative work.",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this note, I have summarized the culture shared at UnFRAME.",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I hope to work at UnFRAME with people who resonate with these values and want to help nurture them.",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The origins of our culture lie in the personal experiences of our representative, 423.",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The foundation of the culture shared at UnFRAME comes from the personal experiences of our representative, 423.",
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "アート集団UnFRAME、始めました。｜UnFRAME(アンフレーム)",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "今回、新たに立ち上げた団体であるUnFRAMEが一体どのようなグループであり、何を行っていくのかのご紹介をしようと思います。",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "「専門機関に通えていない、将来独立したい、仲間を作りたいクリエイター志望のためのジャンル不問グループ」",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、僕もそうですが、イラストやデザインをやっていきたいと思ってはいたものの専門の大学や学校に通うことができていない人や、すでに社会人として生活していながらもクリエイターとしての夢を諦めたくない人がこのUnFRAMEには集っています。",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "ひとりで何をすれば良いのか、何を学べば良いのか悩むのではなく、みんなで手を取り合い、学び合い、高め合っていくことを目標にしています。",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "2019年10月に結成したばかりのUnFRAMEですが、これから下記のような活動に皆で取り組んでいく予定です。",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "都心(主に渋谷、新宿、池袋)を中心に月に1回集まり、様々なジャンルのクリエイター同士で交流を行います。皆がどのような活動をしているのかを知り合い、",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "「繋がり」を作っていくことがこの定例会の最大の目標です。",
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイターとアーティストの違いについて｜UnFRAME(アンフレーム)",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、未経験からプロを目指すクリエイター集団UnFRAMEです。",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   },
+   {
+    "quote": "「クリエイターとアーティストの違いってなに？」",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   },
+   {
+    "quote": "というテーマについて、代表の423(シブサン)がまとめていこうと思います。",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   },
+   {
+    "quote": "そもそも「クリエイター」と「アーティスト」って、ものづくりをしてる人という意味では同じじゃないの？",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   },
+   {
+    "quote": "という理解の人が多いのではないでしょうか。",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   },
+   {
+    "quote": "趣味で絵を描いている自分は「クリエイター」だ！と普通に思っていました。",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、美大の友人や、フリーランスでビデオグラファーをしている友人などと話をしているうちに",
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "渡邊 卓哉｜ UnFrame 代表 (@TakuyaWatanabeO) / X 渡邊 卓哉｜ UnFrame 代表 (@TakuyaWatanabeO) / X X https://x.com > TakuyaWatanabeO",
+    "url": "https://x.com/TakuyaWatanabeO",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Unframe - LinkedIn Unframe - LinkedIn LinkedIn https://www.linkedin.com > unframe-ai",
+    "url": "https://www.linkedin.com/company/unframe-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Operationalizing AI with Unframe for Enterprise-Grade Solutions Operationalizing AI with Unframe for Enterprise-Grade Solutions LinkedIn https://www.linkedin.com > posts > unframe-ai_ai-native-...",
+    "url": "https://www.linkedin.com/posts/unframe-ai_ai-native-companies-win-not-because-they-activity-7429577008457871360-qPgG",
+    "pass": 3
+   },
+   {
+    "quote": "Kai Ganter - Regional GM @ Unframe AI - LinkedIn Kai Ganter - Regional GM @ Unframe AI - LinkedIn LinkedIn https://de.linkedin.com > kaiganter",
+    "url": "https://de.linkedin.com/in/kaiganter/en",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe Raises $50M in Funding Led by Highland Europe Unframe Raises $50M in Funding Led by Highland Europe LinkedIn https://www.linkedin.com > posts > te...",
+    "url": "https://www.linkedin.com/posts/tech-funding-news_highland-europe-back-unframes-50m-raise-activity-7462499234034978816-6zGJ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Unframe - Facebook The Unframe. 160 likes. Display photos, cards and other keepsakes quickly and easily!",
+    "url": "https://www.facebook.com/TheUnframe/",
+    "pass": 3
+   },
+   {
+    "quote": "Unframe - Facebook Nov 15, 2025 · Unframe. 73 likes. Event Planner So get ready to learn, connect, and rediscover what it means to focus, not just with your eyes, but with your passion. Stay tuned for the official date and details — trust us, you won’t wanna miss this.#Unframe#GetReadyToFocus#UnframeYourVision#CreativeCommunity#MiniSeminar#FocusMode#BeyondTheFrame#StayTuned#UnlockYourPotential Chr",
+    "url": "https://www.facebook.com/people/Unframe/61583439200109/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unframe.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/industries/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/industries/real-estate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customer-stories/nzz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customer-stories/cushman-wakefield",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customer-stories/highland-europe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customer-stories/nutrisens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customer-stories/freed-people",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customer-stories/ast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unframe.ai/customer-stories/supplier-commitment-intelligence",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6a84d8f86195ae16c9438dbb/6aba5b9403c5d9427cd1482b_manufacturing-icon-black.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a84d8f86195ae16c9438dbb/6aaaf796070ef87eb9c3ee06_manufacturing-hero.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a84d8f86195ae16c9438dbb/6aab023c248cbbf423adadf9_manufacturing-tab-1.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a84d8f86195ae16c9438dbb/6aab02407f2c922c9bdb301a_manufacturing-tab-2.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://techblitz.com/startup-interview/unframe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/unframe-emerges-from-stealth-with-50m-to-transform-enterprise-ai-deployment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unframe-tokyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://un-frame.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unframeinc.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getempro.jp/case-studies/unframe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unframe.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unframe-tokyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://un-frame.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/jp/developer/unframe-inc/id686047949",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.viewpointanalysis.com/post/who-are-unframe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dx1u4hsp2EVQ&q=EgQw2eP1GNLUyNcGIjBMYAksmnyocjASYlWax-3l9X889H8NOVxOB_e9P3eCjTw_QQzRD-zTVCGpsaMCTAQyAnJSWgFDYKTy4qr585zrIA",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/770453-20",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/seanthompson8_ai-enterpriseai-unframe-activity-7462523074320646144-QU1l",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/sjzf1rfyzl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unframe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unframe/n/n0006a13666ed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/unframe/n/nea9cce1e96ea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TakuyaWatanabeO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unframe-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/unframe-ai_ai-native-companies-win-not-because-they-activity-7429577008457871360-qPgG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/kaiganter/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tech-funding-news_highland-europe-back-unframes-50m-raise-activity-7462499234034978816-6zGJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheUnframe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Unframe/61583439200109/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/unframe",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Unframe 日本 導入",
+   "results": [
+    "https://techblitz.com/startup-interview/unframe/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.unite.ai/ja/unframe-emerges-from-stealth-with-50m-to-transform-enterprise-ai-deployment/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://unframe-tokyo.com/",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://www.msn.com/ja-jp/money/other/リアルゲイト-世田谷に複合拠点-unframe-開業/ar-AA21r8Xn",
+    "https://zaikei.co.jp/article/20260422/851373.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Unframe 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://unframe-tokyo.com/",
+    "https://un-frame.jp/company/",
+    "https://unframeinc.com/about/",
+    "https://getempro.jp/case-studies/unframe",
+    "https://www.wantedly.com/projects/292261",
+    "https://www.bgent.net/plus/article/7044",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://ja.wikipedia.org/wiki/UDリテール"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Unframe Japan",
+   "results": [
+    "https://unframe.co.jp/",
+    "https://unframe-tokyo.com/",
+    "https://un-frame.jp/",
+    "https://apps.apple.com/jp/developer/unframe-inc/id686047949",
+    "https://ordermade-tokyo.jp/journal/event/unframe_firstpiece/",
+    "https://www.instagram.com/unframe_official/",
+    "https://www.linkedin.com/company/unframe-ai",
+    "https://www.merriam-webster.com/dictionary/unframe",
+    "https://www.youtube.com/@UnframeAI",
+    "https://unframe.co.jp/en/aboutus/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Unframe manufacturing customer case study",
+   "results": [
+    "https://www.unframe.ai/customers",
+    "https://c3.ai/customers",
+    "https://www.unframe.ai/customer-stories/cushman-wakefield",
+    "https://www.viewpointanalysis.com/post/who-are-unframe",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJPy9j01VZcibzwAZAwVRxJVmEjt29Pwsbam8iOU26kzBAidCPo",
+    "https://www.linkedin.com/company/unframe-ai",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.customertimes.com/blogs/ai-and-the-future-of-manufacturing-5-key-insights-from-industry-leaders",
+    "https://www.thoughtindustries.com/resources/case-study/",
+    "https://www.casestudies.com/company/unframe/case-study/a-leading-automotive-engineering-company-processes-100-of-requirements-in-under-10-minutes-with-unframe"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Unframe white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.agentz.ai/partners",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.channele2e.com/news/unframe-introduces-partner-program-focused-on-enterprise-ai-outcomes",
+    "https://www.unframe.ai/partners",
+    "https://www.intermedia.com/resellers",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Unframe founded funding employees revenue",
+   "results": [
+    "https://www.unframe.ai/blog/a-defining-moment-for-unframe-and-enterprise-ai",
+    "https://pitchbook.com/profiles/company/770453-20",
+    "https://www.linkedin.com/posts/seanthompson8_ai-enterpriseai-unframe-activity-7462523074320646144-QU1l",
+    "https://www.calcalistech.com/ctechnews/article/sjzf1rfyzl",
+    "https://www.linkedin.com/posts/hasantoxr_this-ai-company-just-hit-100m-in-contract-activity-7462502863055859712-y1wW",
+    "https://getlatka.com/companies/unframe.ai",
+    "https://www.crunchbase.com/organization/unframe-ai",
+    "https://www.trendingtopics.eu/unframe-enterprise-ai-startup-raises-50m-and-hits-100m-tcv-in-12-months/",
+    "https://tracxn.com/d/companies/unframe-ai/__SujPM7jiKOXeVI9H1t_VrS9Uti9aXKSETMuo3W4B_Lc",
+    "https://tracxn.com/d/companies/unframeai/__SujPM7jiKOXeVI9H1t_VrS9Uti9aXKSETMuo3W4B_Lc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Unframe",
+   "results": [
+    "https://note.com/unframe",
+    "https://note.com/unframe/n/n52309e2ad891?hl=en",
+    "https://note.com/unframe/n/n0006a13666ed",
+    "https://note.com/unframe/n/nea9cce1e96ea",
+    "https://note.com/unframe_ai",
+    "https://note.com/skincarelove",
+    "https://note.com/birthverseberth/m/maeb1916cfcc5/hashtag/14950",
+    "https://note.com/unframe_ai/n/n955eed35b1ef",
+    "https://note.com/omanyuk/n/n707746e56d6d",
+    "https://note.com/unframe/n/nf2abd220fcdc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Unframe",
+   "results": [
+    "https://x.com/shaylevi2",
+    "https://x.com/TakuyaWatanabeO",
+    "https://x.com/LiquidStella/status/2028095600869474443",
+    "https://x.com/mitoujr/status/2112533876518330844",
+    "https://x.com/realgate_office/status/2118283430731624679",
+    "https://x.com/DFGHarajuku/status/2019259715210137776",
+    "https://x.com/uzu_byflowfushi/status/1098200440263499777",
+    "https://x.com/atcosmenet/status/1050561818098204674",
+    "https://x.com/realgate_office/status/2118283430731624679/photo/3",
+    "https://x.com/UnframeAI"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:linkedin.com Unframe",
+   "results": [
+    "https://www.linkedin.com/company/unframe-ai",
+    "https://www.linkedin.com/posts/unframe-ai_ai-native-companies-win-not-because-they-activity-7429577008457871360-qPgG",
+    "https://de.linkedin.com/in/kaiganter/en",
+    "https://www.linkedin.com/posts/tech-funding-news_highland-europe-back-unframes-50m-raise-activity-7462499234034978816-6zGJ",
+    "https://il.linkedin.com/in/shaylevi2",
+    "https://www.linkedin.com/in/judahberger",
+    "https://il.linkedin.com/in/nir-fogel-a100b926",
+    "https://il.linkedin.com/in/avihu-yefet-090669114",
+    "https://il.linkedin.com/in/gal-green-59bb9a101",
+    "https://il.linkedin.com/company/unframe-ai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:facebook.com Unframe",
+   "results": [
+    "https://www.facebook.com/TheUnframe/",
+    "https://www.facebook.com/people/Unframe/61583439200109/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/unframe.art/",
+    "https://www.facebook.com/unframe.edit/",
+    "https://www.facebook.com/unframe.mc/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unframe note 社長",
+   "results": [
+    "https://note.com/unframe",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/n357c90362be4",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://ja.wikipedia.org/wiki/池田直渡"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "Unframe X 投稿",
+   "results": [
+    "https://www.youtube.com/@UnframeAI",
+    "https://www.unframe.ai/customers",
+    "https://unframe.black/",
+    "https://unframe.london/",
+    "https://www.linkedin.com/company/unframe-ai",
+    "https://www.youtube.com/watch?v=2_Ry9uMwWaM",
+    "https://www.unframefestival.com/cart",
+    "https://publish.x.com/",
+    "https://www.unframe.ai/",
+    "https://x.com/unframephoto"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

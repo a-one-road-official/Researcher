@@ -1,0 +1,1634 @@
+{
+ "name": "Smartlead",
+ "aliases": [],
+ "context": "旧営業リスト｜Sales Automation｜状態なし",
+ "researched_at": "2026-11-09T20:52:08.517939+00:00",
+ "official_url": "https://www.smartlead.ai",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Emails per month",
+    "value": "50,000 100,000",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Email Verification",
+    "value": "別途 メールアドレスの有効性検証",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "料金（最安有料）",
+    "value": "$32/月〜（年払い、約5,060円）",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "label": "料金（最安有料・年払い）",
+    "value": "$32/月 $37.6/月 $55/月（Emailプラン）",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "label": "料金プラン",
+    "value": "Basic $39 / M, Pro $94 / M, Custom $174 / M Professional $97 / M, Scale $297 / M",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Add unlimited mailboxes and store unlimited leads—no storage fees; pay only for what you send.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage senders and leads easily so your team can spend more time closing deals.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Access a private, reward‑based, limited‑access network, engineered to build sender reputation and boost inbox placement.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our warm‑up engine simulates real opens, reads and replies to make your domain look organic and trustworthy.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "3x verified leads",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Each prospect is verified across three independent sources to keep bounce rates low.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced filters and live intent signals pinpoint prospects who are actually ready to buy.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mailboxes optimised for the primary inbox",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-screened domains and trusted infrastructure",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple providers at lower costs",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Spread your campaigns across Google and Outlook to avoid deliverability bottlenecks and take advantage of discounted pricing per account.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI reply manager prioritises hot leads, triggers next steps and syncs everything back to your CRM so nothing slips through the cracks.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Make calls and send emails from a single dashboard, with parallel dialing and local‑presence numbers to boost live connections.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s build your intelligent enterprise outreach engine",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get AI-native operating system for your enterprise sales team",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We build an infrastructure product, and OutboundSync communicates with Smartlead itself. I love the webhook and API. They're really well done and keep getting better.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Axoleads",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing large volumes of emails through multiple inboxes used to be a logistical nightmare. With Smartlead, the process is seamless. We book thousands of discovery calls through cold emails. These campaigns are generating leads at a scale we never thought possible.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead has been a game-changer for us. It increased our appointment volume, improved ease of use, and offered valuable features. 80% increase in appointments/month, peak of 276 appointments in a single month.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach to crafting conversational emails led to reply rates that many of my peers thought were unattainable.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We've grown on zero capital, zero marketing, purely cold emailing - and that's the story we love to tell. The best approach is no approach if you can't handle domain meltdown. The second best is something like Smartlead that's built from the ground up for deliverability at scale.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's white-labeling and automation let us punch above our weight. The 12M euros sales potential? That's what happens when you combine human creativity with Smartlead's precision.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At the end of the day, you have to take a bet on one tool or another. It was a no-brainer taking that bet on Smartlead. We had to even turn down the volume of our marketing campaigns - Smartlead was capable of driving more volume than our sales team was able to fulfill.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder & MD, Prospectiv",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect Smartlead to your AI assistant and manage campaigns, leads and replies by typing what you want.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Tirvio – Cold‑proof Offer Engines for B2B SaaS",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "For quick access, subscribe to a Pro plan",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Find your preferred expert",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manage 100,000s of leads with ease",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "How the affiliate program works?",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead help businesses streamline their sales processes, attracting customers seeking powerful APIs, premium email deliverability and so much more.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Access a range of promotional resources to aid in your success as an affiliate.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s build your intelligent enterprise outreach engine",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Get AI-native operating system for your enterprise sales team",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We build an infrastructure product, and OutboundSync communicates with Smartlead itself. I love the webhook and API. They're really well done and keep getting better.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Axoleads",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Managing large volumes of emails through multiple inboxes used to be a logistical nightmare. With Smartlead, the process is seamless. We book thousands of discovery calls through cold emails. These campaigns are generating leads at a scale we never thought possible.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead has been a game-changer for us. It increased our appointment volume, improved ease of use, and offered valuable features. 80% increase in appointments/month, peak of 276 appointments in a single month.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach to crafting conversational emails led to reply rates that many of my peers thought were unattainable.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We've grown on zero capital, zero marketing, purely cold emailing - and that's the story we love to tell. The best approach is no approach if you can't handle domain meltdown. The second best is something like Smartlead that's built from the ground up for deliverability at scale.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's white-labeling and automation let us punch above our weight. The 12M euros sales potential? That's what happens when you combine human creativity with Smartlead's precision.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "At the end of the day, you have to take a bet on one tool or another. It was a no-brainer taking that bet on Smartlead. We had to even turn down the volume of our marketing campaigns - Smartlead was capable of driving more volume than our sales team was able to fulfill.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Founder & MD, Prospectiv",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "So if you recommend users who send loads of emails, i.e they upgrade to the higher tiered plans, you'll see your earnings really start to soar.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pro Plan: $94/month",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Smart: $174/month; Unlimited Prime: $379/month",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "You will become eligible for a commission at least 45 days after your referred customer converts from a trial to a paid account, provided that the total amount owing reaches USD 50 or more. For instance, if your referred customer upgrades their account on June 15th, you can anticipate receiving your commission on August 1st.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "To prevent any potential confusion among potential customers and to align with Smartlead's marketing strategies, it is prohibited to use your affiliate link in any paid media, including search engine ads, Facebook ads, or any similar platforms that may compete with Smartlead's marketing efforts.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "How can I track my progress toward earning a badge?",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Managed, pre-warmed infrastructure",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-warmed mailbox installation",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated one-on-one onboarding call",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Verified Prospect Emails per month",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Verified Prospect Emails",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Infrastructure",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your Email Network (Private OAuth)",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Slack Channel",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "(Eligible for Ultrapremium)",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Are you an AI agent? Read our pricing",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use accurate email placement data to improve your deliverability and consistently land in your lead's primary folder, closing more deals.",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Smartlead listens to the agencies and customers and builds according to what people want, that has really made things easier for us.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's white-labeling and automation let us punch above our weight. The 12M euros sales potential? That's what happens when you combine human creativity with Smartlead's precision.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Partner Now!",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead listens to the agencies and customers and builds according to what people want, that has really made things easier for us.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's white-labeling and automation let us punch above our weight. The 12M euros sales potential? That's what happens when you combine human creativity with Smartlead's precision.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Full Whitelabel Access",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ Businesses, from Best agencies to Fortune 500 Companies",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What is the pricing for whitelabeling, and which plan includes it?",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabeling is available as an add-on at $29/month per client workspace. The whitelabelling lets agencies brand the platform as their own and manage each client from a separate workspace. Option to add clients is available from Pro Plan onwards and on the highest plan which is the Unlimited Prime - you already get 3 clients/workspaces added.",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead is used by over 100,000 businesses, from solo founders and sales teams to lead generation agencies and Fortune 500 companies. The Base plan suits early-stage outreach; Pro fits growing sales teams; Unlimited Smart and Prime are built for agencies and high-volume enterprise outreach.",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead listens to the agencies and customers and builds according to what people want, that has really made things easier for us.",
+    "url": "https://www.smartlead.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's white-labeling and automation let us punch above our weight. The 12M euros sales potential? That's what happens when you combine human creativity with Smartlead's precision.",
+    "url": "https://www.smartlead.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead listens to the agencies and customers and builds according to what people want, that has really made things easier for us.",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's white-labeling and automation let us punch above our weight. The 12M euros sales potential? That's what happens when you combine human creativity with Smartlead's precision.",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "4. Customized White Labelling (ホワイトラベリング対応)",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead.ai is an AI-powered cold email platform for sales teams and agencies, focused on maximizing deliverability and scaling outreach by simulating human-like conversations, rotating emails across unlimited mailboxes, and using AI for hyper-personalization, all managed through a unified master inbox to boost replies and book meetings.",
+    "url": "https://www.casestudies.com/company/smartlead",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "What do you mean by \"unibox to handle your entire revenue cycle\"?",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The \"unibox\" is one of the unique features of Smartlead cold email outreach tool, and it's a game-changer when it comes to managing your revenue cycle. The master inbox or the unibox consolidates all your outreach channels, responses, sales follow-ups, and conversions into one centralized, user-friendly mailbox.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead helps you with the right experts to use our tool and achieve more revenue from win-win experts",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Work with the best to drive more revenue using cold emails.",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "more revenue earned with our experts",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Because our system is intertwined with email verification and sending emails, the potential to compound your revenue is extremely high.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ Businesses, from Best agencies to Fortune 500 Companies",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead is used by over 100,000 businesses, from solo founders and sales teams to lead generation agencies and Fortune 500 companies. The Base plan suits early-stage outreach; Pro fits growing sales teams; Unlimited Smart and Prime are built for agencies and high-volume enterprise outreach.",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Relentless Used Smartlead to Generate 170,000+ Lead Replies and Multiple 7-Figures in Revenue",
+    "url": "https://www.smartlead.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What do you mean by \"unibox to handle your entire revenue cycle\"?",
+    "url": "https://www.smartlead.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The \"unibox\" is one of the unique features of Smartlead cold email outreach tool, and it's a game-changer when it comes to managing your revenue cycle. The master inbox or the unibox consolidates all your outreach channels, responses, sales follow-ups, and conversions into one centralized, user-friendly mailbox.",
+    "url": "https://www.smartlead.ai/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Before ever touching an automation tool, he spent the first part of his career doing outreach manually: building lists by hand, sending one by one, tracking replies in spreadsheets.",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "His philosophy is simple and deliberate. No mass random targeting, no shortcuts that burn domains. No tactics that get clients blacklisted two months after launch. Just infrastructure built to last, copy that looks like it came from a human who did their homework, and systems that keep performing after the initial setup is done.",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "tooling. Previously, filtering leads across platforms like Apollo required heavy manual work to narrow down to genuinely relevant contacts by title, location, and company fit.",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "As campaigns mature and the A/B testing data narrows down what is resonating, that number scales. Fritz's clients are now averaging 8+ interested leads per week, doubling the baseline, with 50 to 70 qualified responses tracked across a six-month campaign window.",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "His advice is direct and earned through years of fixing systems that broke before he arrived.",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "30+ Qualified Leads & $500,000+ in Revenue by Agile B2B Sales Using Smartlead",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/smartlead/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Danish Lead Co. Achieves $30M in Closed Revenue with Smartlead",
+    "url": "https://www.casestudies.com/company/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "LeadHaste Achieves $100K Revenue in 9 Months with Smartlead",
+    "url": "https://www.casestudies.com/company/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "Pump.co generates $200K in revenue with Smartlead",
+    "url": "https://www.casestudies.com/company/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "RēLENTLESS achieves 170,000+ lead replies and multiple 7-figure revenue with Smartlead",
+    "url": "https://www.casestudies.com/company/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLead Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SmartLead",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SmartLead?",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLead generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SmartLead have?",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Smartlead | Cold Email Software for Sales Teams That Run Outbound at Scale",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every three emails you send earns you a verified lead—so your pipeline scales as you do.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "keep your emails out of spam.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Make calls and send emails from a single dashboard, with parallel dialing and local‑presence numbers to boost live connections.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically verify numbers, skip voicemails and dial tones, and connect only with real decision‑makers.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's combination of automation, unlimited inboxes, and easy campaign management has completely transformed how we run cold email campaigns.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Cold Email Hackers",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With SmartDelivery, you can put all of that in the hands of the tool. It ensures your emails land in inboxes, and by running a simple test, you can see if you're hitting the mark.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliverability is the cornerstone of cold email outreach. You could have the best email copy in the world, but if no one is seeing it, it's useless. I really love the feature where you can actually give client accesses to your clients.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing large volumes of emails through multiple inboxes used to be a logistical nightmare. With Smartlead, the process is seamless. We book thousands of discovery calls through cold emails. These campaigns are generating leads at a scale we never thought possible.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We came for the unlimited inboxes, and we stayed for the API. 1.5M cold emails/month, 7,767+ inboxes managed.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead has been our cold email backbone from day one. The platform evolves constantly, keeping pace with how deliverability and personalization need to work today. 21% overall reply rate, $175K in 4 months for multiple B2B clients.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach to crafting conversational emails led to reply rates that many of my peers thought were unattainable.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We've grown on zero capital, zero marketing, purely cold emailing - and that's the story we love to tell. The best approach is no approach if you can't handle domain meltdown. The second best is something like Smartlead that's built from the ground up for deliverability at scale.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Since starting the business in January of this year, we've already generated $200K in sales exclusively from cold email. Smartlead has been central to our operations and has exceeded our expectations.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "There's so much stuff built on top of it. I would be dead if I had to rebuild it with another tool. I can manage hundreds of senders easily. I can send hundreds of thousands of emails.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What is Smartlead's cold email outreach software?",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The \"unibox\" is one of the unique features of Smartlead cold email outreach tool, and it's a game-changer when it comes to managing your revenue cycle. The master inbox or the unibox consolidates all your outreach channels, responses, sales follow-ups, and conversions into one centralized, user-friendly mailbox.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Smartlead help improve my email deliverability rates?",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, our cold emailing software is designed to significantly improve your email deliverability rates. It enhances email deliverability through AI-powered email warmups across providers, unique IP rotating for each campaign, and dynamic ESP matching.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time AI learning refines strategies based on performance, optimizing deliverability without manual adjustments. Smartlead's advanced features and strategies are designed to improve email deliverability rates, making it a robust choice for enhancing cold email campaign success.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Certainly, Smartlead cold email tool is designed for seamless integration with a wide range of tools and platforms. Smartlead offers integration with HubSpot, Salesforce, Pipedrive, Clay, Listkit, and more. You can leverage webhooks and APIs to integrate the tools you use.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What is Smartlead, and how can it enhance my cold email campaigns?",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Smartlead, as a cold emailing tool, automate the cold email process?",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead’s robust cold email API and automation infrastructure streamline outbound communication by transforming the campaign creation and management processes. It seamlessly integrates data across software systems using APIs and webhooks, adjusts settings, and leverages AI for personalised content.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Book more meetings, fix your cold email infrastructure, scale your outreach with leading email marketers.",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Experts who send 100k emails / fortnight.",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Ethical Cold Email",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Work with the best to drive more revenue using cold emails.",
+    "url": "https://www.smartlead.ai/certified-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Recommend and share Smartlead to your clients, followers and friends who will get aFREE6000 Email Verification creditswith their first paid plan purchase.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead help businesses streamline their sales processes, attracting customers seeking powerful APIs, premium email deliverability and so much more.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead's combination of automation, unlimited inboxes, and easy campaign management has completely transformed how we run cold email campaigns.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Cold Email Hackers",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "With SmartDelivery, you can put all of that in the hands of the tool. It ensures your emails land in inboxes, and by running a simple test, you can see if you're hitting the mark.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliverability is the cornerstone of cold email outreach. You could have the best email copy in the world, but if no one is seeing it, it's useless. I really love the feature where you can actually give client accesses to your clients.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Managing large volumes of emails through multiple inboxes used to be a logistical nightmare. With Smartlead, the process is seamless. We book thousands of discovery calls through cold emails. These campaigns are generating leads at a scale we never thought possible.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We came for the unlimited inboxes, and we stayed for the API. 1.5M cold emails/month, 7,767+ inboxes managed.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead has been our cold email backbone from day one. The platform evolves constantly, keeping pace with how deliverability and personalization need to work today. 21% overall reply rate, $175K in 4 months for multiple B2B clients.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach to crafting conversational emails led to reply rates that many of my peers thought were unattainable.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We've grown on zero capital, zero marketing, purely cold emailing - and that's the story we love to tell. The best approach is no approach if you can't handle domain meltdown. The second best is something like Smartlead that's built from the ground up for deliverability at scale.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Since starting the business in January of this year, we've already generated $200K in sales exclusively from cold email. Smartlead has been central to our operations and has exceeded our expectations.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "There's so much stuff built on top of it. I would be dead if I had to rebuild it with another tool. I can manage hundreds of senders easily. I can send hundreds of thousands of emails.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "So if you recommend users who send loads of emails, i.e they upgrade to the higher tiered plans, you'll see your earnings really start to soar.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Because our system is intertwined with email verification and sending emails, the potential to compound your revenue is extremely high.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "We will announce weekly and monthly performance in our Slack Community and through email.",
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "pass": 1
+   },
+   {
+    "quote": "SmartServices plans compared: Growth and Scale. Both plans include every feature; the only difference is email volume.",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Done-for-you email campaigns: built, launched, and managed",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cold email outreach copy crafted for your offer",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email inbox and domain setup",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Verified Prospect Emails per month",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Emails Sent Per Month",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Verified Prospect Emails",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your Email Network (Private OAuth)",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "90,000 Email sends",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "30,000 Verified Emails",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "150,000 Email sends",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "50,000 Verified Emails",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "500,000 Email sends",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "170,000 Verified Emails",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "30,000 Verified emails",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 100,000+ Businesses, from Best agencies to Fortune 500 Companies",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Smartlead is used by over 100,000 businesses, from solo founders and sales teams to lead generation agencies and Fortune 500 companies. The Base plan suits early-stage outreach; Pro fits growing sales teams; Unlimited Smart and Prime are built for agencies and high-volume enterprise outreach.",
+    "url": "https://www.smartlead.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How an Ethical Cold Email Partner 2x'd Clients' Weekly Lead Flow to 8+ Per Week with Smartlead | Smartlead Case Study",
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/smartlead/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本国内での電話利用可否については、公式サイトで確認することをおすすめします",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "実際に送受信するメール本文は日本語で作成・管理できます",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語でコールドメールのシーケンスを組み、日本語でリードを管理することに支障はありません",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ユーザーには導入ハードルになる可能性があります",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. SmartLeadに日本語対応はありますか？",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、日本語のメール本文を送信・管理することは問題なくできます",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語でコールドメールシーケンスを組み、日本語で返信を管理することは可能です",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 日本でコールドメールを送っても問題ありませんか？",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "日本には「特定電子メール法」があり、受信者の事前同意なしに広告・宣伝メールを送ることは規制されています",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLeadを使う場合も、日本の法規制への準拠は利用者の責任で確認・対応が必要です",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Typelessの日本語対応は？音声認識精度とフィラー削除を徹底検証",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: 日本語のメールに対応しているか？",
+    "url": "https://ai-keiei-lab.jp/ai/smartlead-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の文字を含むメールを作成できる場合でも、AI 機能の文面品質や管理画面の日本語対応は別に確認が必要です",
+    "url": "https://ai-keiei-lab.jp/ai/smartlead-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の文面は、担当者が送信前に確認してください",
+    "url": "https://ai-keiei-lab.jp/ai/smartlead-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Before Afterでわかる！Yoom導入事例集",
+    "url": "https://lp.yoom.fun/blog-posts/smartlead-ai-api-integration-guide-and-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Smartleadの料金・機能アップデート・代替ツール情報を日本語でお届けします",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "営業チームや複数のアカウントを扱う代理店でも、全体の進捗や対応漏れを防ぎながら、効率よくリード管理が行えます",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "：例）SaaS、製造、広告代理店など",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "B2B営業を行う企業全般、特にコールドメールによるリード獲得を強化したい**営業チームや代理店（マーケティングエージェンシー）**に最適です",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. 日本語には対応していますか？",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での対応やガイドは用意されていないため、導入・運用時には一定の英語スキルが必要です",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SmartLeadとは？料金・機能・使い方を徹底解説【2026年最新・コールド... — Apr 26, 2026 · コールドメール自動化SaaS「SmartLead」の全てを解説。無制限メールボックス・無料ウォームアップ・AIエージェントなど主要機能から料金・評判まで網羅。BtoB営業・エージェンシーに最適なアウトバウンドツールを詳しく紹介。",
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead AI でコールドメール開封率を改善 中小企業の営業リスト運... — Aug 2, 2026 · Smartlead AI の機能・料金・導入ステップを解説。中小企業の営業担当者がコールドメールの開封率を改善し、リスト運用を自動化するための具体的な使い方を紹介します。",
+    "url": "https://ai-keiei-lab.jp/ai/smartlead-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartleadの使い方5ステップとAI SDRとの使い分け完全ガイド — Jun 23, 2026 · Smartleadはコールドアウトリーチのデリバリビリティを最大化する優れたツールだ。 しかし「全てのメール対応に使える」と思って導入するのは誤りで、インバウンドリードに定型シーケンスを当てると、温度の高い見込み客ほど離れていく。",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "【Smartlead.ai API】各種アプリとの連携方法から活用事例まで徹底解... — Nov 17, 2025 · Smartlead.aiのリード登録やキャンペーン管理、まだ手作業で行っていませんか？本記事では、プログラミング不要でSmartlead.aiのAPIを使い、業務を自動化する具体的な方法を解説します。GoogleフォームやCRMとの連携により、リード追加・分析・レポート作成などを一気に効率化！ノーコードツール ...",
+    "url": "https://lp.yoom.fun/blog-posts/smartlead-ai-api-integration-guide-and-use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead｜営業メールを収益に変えるAI自動化ツール – OAI Market — Smartleadは、AIがコールドメールを確実に届けて反応率をアップ。無制限送信・自動化・配信最適化で、営業メールを安定収益に変える次世代ツール。",
+    "url": "https://oai-market.com/products/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead | Cold Email Software for Sales Teams That Run ... — Smartlead is a robust cold emailing software designed to transform cold emails into reliable revenue streams. Trusted by over 100,000 businesses, Smartlead excels in email deliverability, lead generation, cold email automation, and sales outreach.",
+    "url": "https://www.smartlead.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead - LinkedIn — Smartlead | AI-native Outbound OS for Sales Teams and GTM Engineers Smartlead started with the hardest part - deliverability and scale. Now we’re building the future of outbound. It's time to replace your cold outreach stack with an AI-native outbound OS - every sales team and GTM engineer didn’t know they needed - until now.",
+    "url": "https://jp.linkedin.com/products/smartlead-ai-smartlead/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead 使い方・料金【2026年版】｜AIコールドメール自動化＆ウォ... — Aug 20, 2026 · SmartleadはAIパーソナライズメール＋メールウォームアップでスパム判定を回避するコールドアウトリーチツール。月$39〜・Proで無制限メールアカウント。Lemlist・Instantly AIとの違いも解説。",
+    "url": "https://genai-compare.com/articles/smartlead-howto",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - smartlead.ai — Proven results. Verified metrics. Dive into Smartlead case studies to see how high-performing teams turn outbound into a revenue engine.",
+    "url": "https://www.smartlead.ai/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "6 Smartlead Case Studies, Success Stories, & Customer Stories — Narrow down 6 case studies by company size & industry to find out how Smartlead works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/smartlead/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead B2B Case Studies & Customer Successes — Smartlead.ai is an AI-powered cold email platform for sales teams and agencies, focused on maximizing deliverability and scaling outreach by simulating human-like conversations, rotating emails across unlimited mailboxes, and using AI for hyper-personalization, all managed through a unified master inbox to boost replies and book meetings.",
+    "url": "https://www.casestudies.com/company/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "A Leadzen Case Study: 3x Response Rate Surge with Smartlead — Smartlead's distinct features, the master inbox and tagging capability, revolutionized campaign management for Leadzen, resulting in a daily time saving of 2.5 to 3 hours. A game-changing impact was observed with Smartlead's introduction, catapulting response rates by 3 times - jumping from 40 to an impressive 80-120 per 1,000 prospects",
+    "url": "https://www.smartlead.ai/case-study/case-study-leadzen",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Smartlead Uses Software & Services — Explore case studies featuring Smartlead as the customer — learn how vendors and partners helped Smartlead solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLead – Performance Metrics & Competitor Intelligence – 2026 — Discover SmartLead's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLead Revenue, Funding & Valuation - prospeo.io — SmartLead has revenue of $10,000,000, estimated valuation of $32,000,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLead - Crunchbase Company Profile & FundingSmartLead Information - RocketReachSmartLead - Overview, News & Similar companies | ZoomInfo.comInside Smartlead: Tools Behind $7M Revenue [2026] - techlist.aiSmartLead - Products, Competitors, Financials, Employees ... — Track Midwestern US Companies With Fewer Than 100 Employees (Top 10K) 9,669 Number of Organizations • $114.2B Total Funding Amount",
+    "url": "https://www.crunchbase.com/organization/smartlead",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLead Information - RocketReach — SmartLead is an Advertising Services, Lead Management, and Lead Nurturing company located in Cedar Rapids, Iowa with $11.9 million in revenue and 39 employees. Find top employees, contact details and business statistics at RocketReach.",
+    "url": "https://rocketreach.co/smartlead-profile_b5c6cacbf42e0cca",
+    "pass": 3
+   },
+   {
+    "quote": "SmartLead - Overview, News & Similar companies | ZoomInfo.com — View SmartLead (www.smartlead.com) location in Iowa, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/smartlead/1051754",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Smartleadの使い方5ステップとAI SDRとの使い分け完全ガイド Jun 23, 2026 · 今回のブログでは、Smartleadが得意な領域と苦手な領域を整理したうえで、AI SDRとの適切な使い分けを解説している。 記事の要点： ・Smartleadのセットアップ5ステップ（ウォームアップから始める理由） ・コールドとインバウンドリードでツールを分けるべき ...",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Smartleadの使い方5ステップとAI SDRとの使い分け完全ガイド｜DynaMeet 公式｜AI SDRを新たな営業戦力に",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "Smartleadの使い方5ステップとAI SDRとの使い分け完全ガイド",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "DynaMeet 公式｜AI SDRを新たな営業戦力に",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "メール自動化を導入してから商談が減った、という話がある。",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "逆説的に聞こえるが、理由は単純だ。アウトバウンド向けに設計されたツールを、インバウンドリードへの対応にそのまま使っているからだ。ツール自体に問題があるのではなく、対象リードとツールのミスマッチが起きている。",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "Smartleadはコールドアウトリーチのデリバリビリティを最大化する優れたツールだ。しかし「全てのメール対応に使える」と思って導入するのは誤りで、インバウンドリードに定型シーケンスを当てると、温度の高い見込み客ほど離れていく。",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "今回のブログでは、Smartleadが得意な領域と苦手な領域を整理したうえで、AI SDRとの適切な使い分けを解説している。",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   },
+   {
+    "quote": "・Smartleadのセットアップ5ステップ（ウォームアップから始める理由）",
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Smartlead on X: \"Introducing SmartServices, a fully managed ... Introducing SmartServices, a fully managed cold email service from Smartlead. We handle your outbound from start to finish, so you can focus on growing your business. Here's what we take care of: ️ Setting up and managing your email infrastructure ️Building fresh lead lists every week using live buying signals ️ Replacing underperform",
+    "url": "https://x.com/smartlead_ai/status/2117226700434178062",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead (@smartlead_ai) / X AI-native Outbound OS for Sales Teams and GTM Engineers Spend less time clicking, more time closing.",
+    "url": "https://x.com/smartlead_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead on X: \"Calling 50 leads shouldn't mean clicking 50 ... Calling 50 leads shouldn't mean clicking 50 times And now, with Auto Dialing on SmartDialer, it doesn't have to. Simply select the leads you want to call, hit Start Dialing, and SmartDialer will automatically dial them one after another. No need to manually start every call. Just focus on the c…",
+    "url": "https://x.com/smartlead_ai/status/2110703214328955262",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead on X: \"everyone's talking about GTM engineers. but ... everyone's talking about GTM engineers. but what do they actually do? we sat down with Jatin Gupta, founding GTM engineer at Exa, to talk about how he landed the role, what the job involves, and why he thinks low-code tools are on their way out. full episode 👇",
+    "url": "https://x.com/smartlead_ai/status/2119769477696864465",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead on X: \"Using AI for one part of outbound isn’t ... On Oct 29, Matteo Fois will build an AI-powered outbound system live from an empty Smartlead account. Research → List → Messaging → Launch 📅 October 29 ⏰ 11 AM EDT | 8:30 PM IST | 4 PM BST 📍 Live on Zoom Save your seat 👉 https://t.co/F6q7AGrlhz",
+    "url": "https://x.com/smartlead_ai/status/2114794189518970947",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Smartlead - LinkedIn Smartlead | 43,269 followers on LinkedIn. AI-native Outbound OS for Sales Teams and GTM Engineers | Smartlead started with the hardest part - deliverability and scale. Now we’re building the ...",
+    "url": "https://www.linkedin.com/company/smartlead-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead - LinkedIn Smartlead | AI-native Outbound OS for Sales Teams and GTM Engineers Smartlead started with the hardest part - deliverability and scale. Now we’re building the future of outbound. It's time ...",
+    "url": "https://www.linkedin.com/products/smartlead-ai-smartlead/",
+    "pass": 3
+   },
+   {
+    "quote": "Vaibhav Namburi - Founder @ Smartlead | 1x Exit | Always ...Visha Garg - SEO Growth Link Builder @Smartlead | AI SEO ...Sunny Smartlead - 领英SmartLead - LinkedInSmartLEAD LLC - LinkedIn Nov 9, 2020 · Founder @ Smartlead | 1x Exit | Always Hiring The Best · I like buying coffees, leading passionate people and building great products - FAST. I'm recommended by C - Level Execs of Billion $ companies, ",
+    "url": "https://au.linkedin.com/in/vaibhavnamburi",
+    "pass": 3
+   },
+   {
+    "quote": "Visha Garg - SEO Growth Link Builder @Smartlead | AI SEO ...Sunny Smartlead - 领英SmartLead - LinkedInSmartLEAD LLC - LinkedIn SEO Growth Link Builder @Smartlead🚀 | AI SEO & LLM Outreach Expert | Driving Results | Helping Brands Scale Organically · My journey in SEO has been defined by my unwavering commitment to achieving measurable results. I specialize in developing holistic SEO strategies that e",
+    "url": "https://in.linkedin.com/in/vishagarg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Smartlead AI | Sydney NSW - Facebook Oct 22, 2026 · Smartlead AI, Sydney. 644 followers · 232 talking about this. Unlimited emails, warmups, and team members. 1 powerful master inbox. Automate your entire deal flow.",
+    "url": "https://www.facebook.com/smartleadai/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead Marketing - FacebookSmartlead Academy - For Financial Advisors - FacebookCold email was already working for them. What wasn’t working ...They hired an automation agency. Then hired in-house. Weeks ...Still clicking through dashboards to run outbound? This setup ...Profitable Cold Email System By Smartlead.ai | Facebook Oct 30, 2026 · At Smartlead Marketing, we help businesses stay in fro",
+    "url": "https://www.facebook.com/SmartleadMktng/",
+    "pass": 3
+   },
+   {
+    "quote": "Smartlead Academy - For Financial Advisors - Facebook Jan 30, 2024 · Smartlead Academy is the ultimate online course for learning how to create a Client Acquisition Machine that consistently generates new Leads for you every single day. If you're a Financial Professional, this is an absolute must-have!",
+    "url": "https://www.facebook.com/smartleadacademy/",
+    "pass": 3
+   },
+   {
+    "quote": "Profitable Cold Email System By Smartlead.ai | Facebook I’m looking for someone who has real experience running cold-email campaigns inside Instantly or Smartlead — managing multiple client accounts, monitoring deliverability, and improving reply rates.",
+    "url": "https://www.facebook.com/groups/2905333369789093/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.smartlead.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartlead.ai/certified-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartlead.ai/affiliate-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartlead.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartlead.ai/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smartlead.ai/case-study/fritz-jairus-pelaez",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6204a703ff61516512c04f55/698c472b591c846faebe6480_certified-partners-ico.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6204a703ff61516512c04f55/698c472b50152c93a429afe0_AffiliatePartners-ico.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-keiei-lab.jp/ai/smartlead-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.yoom.fun/blog-posts/smartlead-ai-api-integration-guide-and-use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oai-market.com/products/smartlead",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/products/smartlead-ai-smartlead/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/smartlead/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/smartlead",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/smartlead",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/smartlead-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/smartlead",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/smartlead-profile_b5c6cacbf42e0cca",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/smartlead_ai/status/2117226700434178062",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smartlead_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smartlead_ai/status/2110703214328955262",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smartlead_ai/status/2119769477696864465",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/smartlead-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/smartlead-ai-smartlead/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/vaibhavnamburi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/vishagarg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smartleadai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartleadMktng/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smartleadacademy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/2905333369789093/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smartlead_ai/status/2114794189518970947",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Smartlead 日本 導入",
+   "results": [
+    "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "https://ai-keiei-lab.jp/ai/smartlead-ai/",
+    "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "https://lp.yoom.fun/blog-posts/smartlead-ai-api-integration-guide-and-use-cases",
+    "https://oai-market.com/products/smartlead",
+    "https://genai-compare.com/articles/smartlead-howto",
+    "https://www.smartread.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartlead 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartlead Japan",
+   "results": [
+    "https://www.smartlead.ai/",
+    "https://aitool-eye.com/smartlead-kanzen-guide/",
+    "https://oai-market.com/products/smartlead",
+    "https://jp.linkedin.com/products/smartlead-ai-smartlead/",
+    "https://genai-compare.com/articles/smartlead-howto",
+    "https://www.smartlead.ai/all-expert",
+    "https://www.smartread.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartlead manufacturing customer case study",
+   "results": [
+    "https://www.smartlead.ai/case-study",
+    "https://www.featuredcustomers.com/vendor/smartlead/case-studies",
+    "https://www.casestudies.com/company/smartlead",
+    "https://www.smartlead.ai/case-study/case-study-leadzen",
+    "https://www.casestudies.com/customer/smartlead",
+    "https://valuecore.ai/valuehub/organizations/smartlead-ai/business-documents",
+    "https://www.softwareloop.shop/post/case-study-transforming-cold-email-outreach-with-smartlead-the-success-story-of-zenith-solutions"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartlead white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Smartlead founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/smartlead",
+    "https://prospeo.io/c/smartlead-revenue",
+    "https://www.crunchbase.com/organization/smartlead",
+    "https://rocketreach.co/smartlead-profile_b5c6cacbf42e0cca",
+    "https://www.zoominfo.com/c/smartlead/1051754",
+    "https://techlist.ai/smartlead.com",
+    "https://www.cbinsights.com/company/smartlead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Smartlead",
+   "results": [
+    "https://note.com/dynameet_ai/n/nc52661ed3c0a",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/dobokutorisetsu/n/ne3a94a016790",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Smartlead",
+   "results": [
+    "https://x.com/smartlead_ai/status/2117226700434178062",
+    "https://x.com/smartlead_ai",
+    "https://x.com/smartlead_ai/status/2110703214328955262",
+    "https://x.com/smartlead_ai/status/2119769477696864465",
+    "https://x.com/smartlead_ai/status/2108519452698665113",
+    "https://x.com/smartlead_ai/status/2116169532582801846",
+    "https://x.com/smartlead_ai/status/2034585437738828086"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Smartlead",
+   "results": [
+    "https://www.linkedin.com/company/smartlead-ai/",
+    "https://www.linkedin.com/products/smartlead-ai-smartlead/",
+    "https://au.linkedin.com/in/vaibhavnamburi",
+    "https://in.linkedin.com/in/vishagarg",
+    "https://cn.linkedin.com/company/sunny-smartlead",
+    "https://www.linkedin.com/company/smartleadworks",
+    "https://www.linkedin.com/company/smartlead-llc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Smartlead",
+   "results": [
+    "https://www.facebook.com/smartleadai/",
+    "https://www.facebook.com/SmartleadMktng/",
+    "https://www.facebook.com/smartleadacademy/",
+    "https://www.facebook.com/groups/2905333369789093/",
+    "https://www.facebook.com/smartleadai/videos/scale-cold-email-without-paying-more/1472593014547371/",
+    "https://www.facebook.com/smartleadai/videos/smartagents-replaced-their-automation-team/812148364851991/",
+    "https://www.facebook.com/smartleadai/videos/run-outbound-with-commands-not-clicks/2274447916695780/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartlead note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smartlead X 投稿",
+   "results": [
+    "https://x.com/smartlead_ai/status/2114794189518970947",
+    "https://www.smartlead.ai/",
+    "https://nubiapage.com/zh/smartlead-review-2026-app-login-career-alternatives-pricing/",
+    "https://www.smartlead.ai/blog/smartlead-mcp-setup-guide",
+    "https://linktr.ee/smartlead.ai",
+    "https://helpcenter.smartlead.ai/en",
+    "https://x.com/smartlead_ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像2件／外部31頁・検索12回）"
+ }
+}

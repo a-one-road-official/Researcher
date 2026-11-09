@@ -1,0 +1,630 @@
+{
+ "name": "Tagsafe",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T20:36:48.062364+00:00",
+ "official_url": "https://www.tagsafe.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Privacy Policy — TagSafe",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "This Privacy Policy describes how TagSafe (“Company”, “we”, “us”, or “our”) collects, uses, and protects your information when you use the TagSafe web platform and mobile application (collectively, the “Service”). By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "This information is used to create and manage your account and provide the core functionality of TagSafe.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "The App does not record video or take photos without your explicit action.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "If you capture or upload photos (for example, item photos or profile images), these images may be securely stored on our servers to provide App functionality. Photos are never accessed without your action and are not shared publicly unless you explicitly choose to make information visible.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "This information helps us improve TagSafe and maintain its reliability.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "When a finder contacts you through TagSafe (via our anonymous call relay or contact form), we process the communication metadata (such as timestamps and call duration) required to deliver the service. Finder phone numbers and identities are not shared with you, and your personal contact details are never shared with finders.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "Provide and maintain App and web platform functionality",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "Improve performance and user experience",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure security and prevent misuse or fraud",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "Send important service notifications (not marketing without consent)",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "4. Data Storage and Processing",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "Data may be processed outside your country of residence. Where required by law, we implement appropriate safeguards for international data transfers in compliance with GDPR and applicable regulations.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "5. Data Retention",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "6. Your Rights (GDPR & Data Protection)",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "If you are located in the European Union or other regions with similar data protection laws, you have the right to:",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "Restrict or object to processing",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": ". You also have the right to lodge a complaint with your local data protection authority.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "7. Children's Privacy",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "TagSafe is not directed to children under the age of 13. We do not knowingly collect personal data from children under 13. If we become aware that such data has been collected, we will delete it promptly. If you believe a child has provided personal data, please contact us immediately.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "We implement appropriate technical and organisational security measures, including:",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "Anonymous call relay to protect user phone numbers",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "While we strive to protect your data, no method of transmission over the Internet is 100% secure.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "TagSafe uses third-party services — such as cloud infrastructure, payment processing, and authentication providers — to support its functionality. These providers process data in accordance with their own privacy policies and applicable laws. We only share data that is strictly necessary for service functionality and never permit third parties to use your data for their own marketing purposes.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "We comply with applicable platform policies, including Google Play Developer Program Policies and Apple App Store Guidelines. Specifically:",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "To exercise your rights, contact us at",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "TagSafe is not directed to children under the age of 13. We do not knowingly collect personal data from children under 13. If we become aware that such data has been collected, we will delete it promptly. If you believe a child has provided personal data, please contact us immediately.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "12. Contact Us",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "If you have any questions about this Privacy Policy or your personal data, please contact us:",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TagSafe - Medication & Supplement Tracking — TagSafe helps you track medications and supplements with confidence. Tap, confirm, and never double-dose again.",
+    "url": "https://tagsafe.co/",
+    "pass": 3
+   },
+   {
+    "quote": "TagSafe - 2026 Company Profile & Competitors - Tracxn — TagSafe - About the company TagSafe is an unfunded company based in Vietnam. It operates as a Provider of fleet management software and hardware for tracking assets. TagSafe has not raised any funding yet. The company has 4303 active competitors, including 131 funded and 170 that have exited. Its top competitor s include companies like Wright",
+    "url": "https://tracxn.com/d/companies/tagsafe/__UgfMy0HHWLMA-Q_CZhIFEISM9ASUaTYpHP1izP2zAGo",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy - TagSafe — TagSafe uses third-party services — such as cloud infrastructure, payment processing, and authentication providers — to support its functionality. These providers process data in accordance with their own privacy policies and applicable laws.",
+    "url": "https://www.tag-safe.com/privacy",
+    "pass": 3
+   },
+   {
+    "quote": "TAGSAFE Trademark - Serial Number 87280846 :: Justia Trademarks — Filed in December 26 (2016), the TAGSAFE covers Electronic tags; wireless tracking devices for locating and tracking luggage, bags and travel accessories using short range wireless communications; electronic devices for locating and tracking luggage, bags and travel accessories using short range wireless communications; computer sof",
+    "url": "https://trademarks.justia.com/872/80/tagsafe-87280846.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tagsafe - Crunchbase Company Profile & Funding — Tagsafe provides open-source tag management and SaaS analytics tools for managing third-party scripts and tracking product and revenue data.",
+    "url": "https://www.crunchbase.com/organization/tagsafe",
+    "pass": 3
+   },
+   {
+    "quote": "Tagsafe Comparables - aVenture — Oct 16, 2026 · Tagsafe - Comparables Location Employees Disclosed Funding Last Round Operating Status Ownership Main Product Revenue Customer Geographic Exposure Tagsafe Los Angeles, CA, US 6 $500k Pre-Seed Operating Venture-backed Analytics, Data Recurring Enterprise, Small Business Global Add Comparison",
+    "url": "https://aventure.vc/companies/tagsafe-los-angeles-ca-us/compare",
+    "pass": 3
+   },
+   {
+    "quote": "Tagsafe - aVenture Company Research — How much disclosed funding has Tagsafe raised? As of Apr 5, 2023, Tagsafe has disclosed funding of $500k (USD). Undisclosed round amounts are excluded.",
+    "url": "https://aventure.vc/companies/tagsafe-los-angeles-ca-us",
+    "pass": 3
+   },
+   {
+    "quote": "Tagsafe, YC Winter 2023 (W23) company | GPAgent — Tagsafe builds tag monitoring and performance analytics software for B2B teams that manage third-party scripts on their websites. Tagsafe is a YC Winter 2023 (W23) company.",
+    "url": "https://www.gpagent.ai/yc/company/tagsafe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "#Tagescafé - Search / X We are a Perth based family business with over 16yrs experience. We provide general electrical needs as well as workplace fire and electrical compliance. TagSafe @TagSafe_ Patrick @tagescafe41 Tageslage @Tageslage_BRD",
+    "url": "https://x.com/hashtag/Tagescafé?f=user",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TagSafe - LinkedIn Website https://tagsafe.co External link for TagSafe Industry Technology, Information and Internet Company size 2-10 employees Headquarters London, England Type Privately Held",
+    "url": "https://www.linkedin.com/company/tagsafe",
+    "pass": 3
+   },
+   {
+    "quote": "I'm excited to take part in the Y Combinator W23 batch as the ... I'm excited to take part in the Y Combinator W23 batch as the Co-Founder of Tagsafe. The web is flooded with third party tags that pose all sorts of performance and security vulnerabilities to ...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7023773705205936128/",
+    "pass": 3
+   },
+   {
+    "quote": "Tag Safe Inspections ltd posted on LinkedIn Tag Safe Inspections ltd 6 followers 6mo V3 Group (UK) Limited 404 followers 6mo Announcement | V3-GROUP.COM 2",
+    "url": "https://www.linkedin.com/posts/tagsafe-inspections_announcement-v3-groupcom-activity-7125429030828302336-T9iJ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tag Safe Scaffold Inspections - Facebook Apr 23, 2026 · DM your enquiries to work together or call 07761 493 894 #london #tagsafe #scaffold #scaffolding #construction #conservation #safety Tag Safe Scaffold Inspections is in London, United Kingdom. These 2 blocks of apartments at Homerton have scaffold installed to bring the insulation up to current fire regs.",
+    "url": "https://www.facebook.com/tagsafe1/",
+    "pass": 3
+   },
+   {
+    "quote": "Tagsafe Ltd - FacebookTagSafe - FacebookTagsafe Ltd - With help to make a working scaffold... | FacebookAdd your TagSafe product in under 60 seconds. Quick, simple ...TagSafe - FacebookTagsafe Ltd - Scaffold inspections are a vital part of ... Oct 11, 2025 · The team at Tagsafe Ltd are getting busy Checking and approving scaffolds across London & the South East Feel free to contact us for more inf",
+    "url": "https://www.facebook.com/tagsafeltd/",
+    "pass": 3
+   },
+   {
+    "quote": "TagSafe - FacebookTagsafe Ltd - With help to make a working scaffold... | FacebookAdd your TagSafe product in under 60 seconds. Quick, simple ...TagSafe - FacebookTagsafe Ltd - Scaffold inspections are a vital part of ... TagSafe. 2 likes. Identifying lost property and reuniting it with its owner. Oct 21, 2020 · Hounslow. London Plaxtol, Kent Brighton , Sussex Cannon Street, London Crowborough, Ea",
+    "url": "https://www.facebook.com/TagSafe/",
+    "pass": 3
+   },
+   {
+    "quote": "Tagsafe Ltd - With help to make a working scaffold... | Facebook Oct 21, 2020 · Hounslow. London Plaxtol, Kent Brighton , Sussex Cannon Street, London Crowborough, East Sussex Woking, Surrey Ealing, west London Folkestone , Kent Coast Lewisham. london Do you need your scaffolds to be checked ? Concerned Contractors are altering the scaffold ? Reach out for help and advice. +6 Tagsafe Ltd Aug 16, 2",
+    "url": "https://www.facebook.com/tagsafeltd/posts/with-help-to-make-a-working-scaffold-compliant-feel-free-to-contact-us-email-hel/364074745009420/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tagsafe.io",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sbbit.jp/article/cont1/188177",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://scaledagile.com/jp-jirei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_bunyaodan/software/015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crepha.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nozominetworks.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tagsafe.co/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.accessible-japan.com/list-of-banned-and-restricted-medications-in-japan-late-2025-early-2026-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tagsafe/__UgfMy0HHWLMA-Q_CZhIFEISM9ASUaTYpHP1izP2zAGo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tag-safe.com/privacy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corerfid.com/rfid-case-studies/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/tagsafe",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aventure.vc/companies/tagsafe-los-angeles-ca-us/compare",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tagsafe/__UgfMy0HHWLMA-Q_CZhIFEISM9ASUaTYpHP1izP2zAGo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aventure.vc/companies/tagsafe-los-angeles-ca-us",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Tagescafé?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tagsafe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7023773705205936128/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tagsafe-inspections_announcement-v3-groupcom-activity-7125429030828302336-T9iJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tagsafe1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tagsafeltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TagSafe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tagsafeltd/posts/with-help-to-make-a-working-scaffold-compliant-feel-free-to-contact-us-email-hel/364074745009420/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tagsafe 日本 導入",
+   "results": [
+    "https://www.sbbit.jp/article/cont1/188177",
+    "https://scaledagile.com/jp-jirei/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_bunyaodan/software/015.html",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://news.yahoo.co.jp/articles/82a32d3cf6c0ca76f13b11dddcfc54f722724546",
+    "https://www.trendmicro.com/ja_jp/about/customer-stories/2023/takasago-2023012-01.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tagsafe 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.crepha.jp/company/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jpmktg.winbond.com/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tagsafe Japan",
+   "results": [
+    "https://tagsafe.co/",
+    "https://www.accessible-japan.com/list-of-banned-and-restricted-medications-in-japan-late-2025-early-2026-guide/",
+    "https://tracxn.com/d/companies/tagsafe/__UgfMy0HHWLMA-Q_CZhIFEISM9ASUaTYpHP1izP2zAGo",
+    "https://www.tag-safe.com/privacy",
+    "https://trademarks.justia.com/872/80/tagsafe-87280846.html",
+    "https://www.tag-safe.com/",
+    "https://tagsafe.co/index.php/shop/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tagsafe manufacturing customer case study",
+   "results": [
+    "https://corerfid.com/rfid-case-studies/case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.casestudies.com/",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.idplate.com/case-studies/global-leader-uses-rfid-improve-manufacturing-process/",
+    "https://rfid.averydennison.com/en/home/news-insights/case-studies/rfid-case-study-automotive-near-real-time-data-to-drive-manufacturing-efficiency-with-rfid.html",
+    "https://rfid.averydennison.com/en/home/news-insights/case-studies.html",
+    "https://scaledagile.com/insights-customer-stories/",
+    "https://framework.scaledagile.com/case-studies."
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Tagsafe white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.namesilo.com/reseller",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tagsafe founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/tagsafe",
+    "https://aventure.vc/companies/tagsafe-los-angeles-ca-us/compare",
+    "https://tracxn.com/d/companies/tagsafe/__UgfMy0HHWLMA-Q_CZhIFEISM9ASUaTYpHP1izP2zAGo",
+    "https://aventure.vc/companies/tagsafe-los-angeles-ca-us",
+    "https://www.gpagent.ai/yc/company/tagsafe",
+    "https://www.cbinsights.com/company/tagsafe",
+    "https://compworth.com/company/tags"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tagsafe",
+   "results": [
+    "https://note.com/tag/safetensors",
+    "https://note.com/tag/ハート・オブ・ビースト",
+    "https://note.com/tag/文藝大賞2026",
+    "https://note.com/hijiki06/n/na680ba6c0bca",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/fujkta/n/nfef25b417793",
+    "https://note.com/sadaki_nakagishi/n/nc26b4915da68"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tagsafe",
+   "results": [
+    "https://x.com/",
+    "https://x.com/c_tgsafe",
+    "https://x.com/hashtag/Tagescafé?f=user",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/DGrayTexas45/status/2118845666394771581",
+    "https://x.com/starseeker1334/status/2119562498680471699"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tagsafe",
+   "results": [
+    "https://www.linkedin.com/company/tagsafe",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7023773705205936128/",
+    "https://www.linkedin.com/posts/tagsafe-inspections_announcement-v3-groupcom-activity-7125429030828302336-T9iJ",
+    "https://www.linkedin.com/company/thearmoredgroup",
+    "https://www.linkedin.com/posts/alexalater_im-excited-to-take-part-in-the-y-combinator-activity-7024054966537375744-dvLh",
+    "https://www.linkedin.com/posts/the-arcticom-group_toachievegreatness-tagsafe-safetyfirst-activity-7394041251702104065-Js3V",
+    "https://www.linkedin.com/company/total-automation-group-inc."
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tagsafe",
+   "results": [
+    "https://www.facebook.com/tagsafe1/",
+    "https://www.facebook.com/tagsafeltd/",
+    "https://www.facebook.com/TagSafe/",
+    "https://www.facebook.com/tagsafeltd/posts/with-help-to-make-a-working-scaffold-compliant-feel-free-to-contact-us-email-hel/364074745009420/",
+    "https://www.facebook.com/TagSafeMedicalID/videos/add-your-tagsafe-product-in-under-60-secondsquick-simple-setup-so-your-emergency/2024783508450190/",
+    "https://www.facebook.com/p/TagSafe-61578639842528/",
+    "https://www.facebook.com/tagsafeltd/posts/scaffold-inspections-are-a-vital-part-of-keeping-workers-safe-thats-why-we-use-t/366304014786493/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tagsafe note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tagsafe X 投稿",
+   "results": [
+    "https://tagsafe.co/",
+    "https://github.com/jerryfoxo/TagSafe",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.careerkoumei.jp/articles/x-toukou-shikata-gazou-hashtag-pc",
+    "https://dojin.dmm.co.jp/help/twitter",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

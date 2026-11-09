@@ -1,0 +1,1381 @@
+{
+ "name": "Taiv",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T20:34:07.255695+00:00",
+ "official_url": "https://taiv.tv",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "start free on the TVs you already have | Taiv",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$85,000",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$7,800,000",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "12-Nov-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "400-321 McDermot Ave, Winnipeg, Manitoba, CA",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Business TV advertising and venue revenue | Taiv",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "commercial breaks into their in-house promotions and revenue engines.",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Block junk, run promos, and earn from every commercial break.",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple locations? Taiv Enterprise",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Taiv measures campaigns down to the sale: footfall, on-premise POS, web and app lift, brand lift, and tune-in.",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "100% Viewability and Impression Delivery",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Pepsi has 100% impression delivery with Taiv",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us measure and improve the site.",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Lets us measure ads and tailor messaging.",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Pepsi impression delivery case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Betting, fantasy & prediction, 21+",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising terms defined",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Advertiser results and proof",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Pepsi has 100% impression delivery with Taiv",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Viewability and Impression Delivery",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign has been nominated for several creative awards using the proof of play videos provided by Taiv.",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Viewability and impression delivery",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us measure and improve the site.",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Lets us measure ads and tailor messaging.",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Pepsi has 100% impression delivery with Taiv",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Viewability and Impression Delivery",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A regional casino lifts property visits 63.7% with Taiv",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Lift in Property Visits",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Impressions Delivered",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "More Impressions Than CTV",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "More Property Visits Than CTV",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Impressions Per Customer",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A national CPG brand lifts product consideration 39.9% with Taiv",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in Product Consideration",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "See how operators turn their commercial breaks into their own promotions, more sales, and a share of the revenue.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Fionn MacCool's lifted food and drink sales 6.5% and event turnout 70% across four Irish pubs by promoting their own specials during commercial breaks with Taiv.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us measure and improve the site.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Lets us measure ads and tailor messaging.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing: start free on the TVs you already have | Taiv",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan runs on the TVs you already have. Paid pricing is quote-based and scoped to your locations.",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "1 of 6 ad slots for your content",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "3 of 6 ad slots for your content",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Content creation every quarter",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Premium",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "All 6 ad slots for your content",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Free plan is the full product, at one venue or across many: Taiv runs your screens, blocks",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "competitor ads, shows your promotions during the breaks, and pays you a share of the ad revenue.",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Premium and Enterprise hand more of every break to your own content, with install and support",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Gas stations and convenience stores run a different product:",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us measure and improve the site.",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Lets us measure ads and tailor messaging.",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Taiv is a smart TV platform that connects venues, advertisers, and retailers. We put the right content on the right screens at the right moments.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "profitable, and easier to manage",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "commercial break and the screen started promoting a rival spot down the street.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ad impressions a second",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "5.2B+ monthly impressions",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Ad and promotion impressions across the network.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "No mute necessary: Taiv replaces live TV ads at bars with custom content",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Taiv lands $14.4-million CAD Series A to put targeted ads on bar and restaurant TVs across North America",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Jordan is the CTO and Co-Founder of Taiv. He leads engineering across software, hardware, and AI. His team built and operates the technology powering thousands of venues, from the in-venue device through to the ad-serving infrastructure. Jordan was named to Forbes 30 Under 30 and is one of the technical leaders defining how AI shows up in physical spaces.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Avi joined Taiv as a Co-Founder, bringing over a decade of sales experience with him. As CRO, he oversees commercial strategy across the business and runs the advertising side day-to-day. He has built Taiv's ad offering into something valuable for some of the world's largest consumer brands.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team turning the screens people already watch into something better. If that sounds like your kind of problem, come build it with us.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us measure and improve the site.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Integrate your brand in live games crowds are already watching, targeted to the moment.",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/figure-lending/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/bacardi/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/regional-casino-resort/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/sportsbook-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/regional-casino/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your brand and goals. We'll show you how Taiv reaches your audience on live TV in bars and restaurants.",
+    "url": "https://www.taiv.tv/case-study/cpg-brand/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Business TV advertising and venue revenue | Taiv",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "commercial breaks into their in-house promotions and revenue engines.",
+    "url": "https://www.taiv.tv/",
+    "pass": 1
+   },
+   {
+    "quote": "Betr beats its acquisition benchmark by 4x with Taiv",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "New Customer Acquisition Cost",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "CoinFlip lifts new user acquisition 29% with Taiv",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in New User Acquisition",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "See how operators turn their commercial breaks into their own promotions, more sales, and a share of the revenue.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "15% revenue share",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "competitor ads, shows your promotions during the breaks, and pays you a share of the ad revenue.",
+    "url": "https://www.taiv.tv/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mitch started working in the restaurant industry at the age of 14. Before Taiv, Mitch was the Manager of Growth Team and Ancillary Revenue at SkipTheDishes, where he and his team signed 12,000+ locations, achieved 99% saturation of the top brands in Canada, and drove more than $3B in GMV.",
+    "url": "https://www.taiv.tv/about/",
+    "pass": 1
+   },
+   {
+    "quote": "This led to increase in interest revenue and a 9.45x ROAS.",
+    "url": "https://www.taiv.tv/case-study/figure-lending/",
+    "pass": 1
+   },
+   {
+    "quote": "Bacardi used Taiv to increase on-premise sales by specifically targeting bars that carried the product. Their ad played on 200 screens during every commercial break at the point of purchase.",
+    "url": "https://www.taiv.tv/case-study/bacardi/",
+    "pass": 1
+   },
+   {
+    "quote": "Bacardi also targeted high-value accounts that did not yet carry Bacardi Spiced in order to build awareness and sell into these accounts.",
+    "url": "https://www.taiv.tv/case-study/bacardi/",
+    "pass": 1
+   },
+   {
+    "quote": "60% of the venues who did not initially carry Bacardi Spiced and showed the ads started carrying the product by the end of the campaign.",
+    "url": "https://www.taiv.tv/case-study/bacardi/",
+    "pass": 1
+   },
+   {
+    "quote": "The operator was launching in a brand new legal state and needed to drive installs and first-time deposits quickly. Live sports broadcasts carry advertising restrictions on betting brands, particularly during NCAA content. That blocks reach against the audience most likely to download a sportsbook app.",
+    "url": "https://www.taiv.tv/case-study/sportsbook-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "トヨタ自動車(株)の子会社で米国において人工知能等の研究開発を行うToyota Research Institute（以下、TRI）が昨年設立したベンチャーキャピタルファンド「Toyota AI Ventures」（以下、TAIV）は、TRIとともに、ベンチャー企業支援に関するグローバルプログラム「Call for Innovation」を立ち上げました",
+    "url": "https://global.toyota/jp/newsroom/corporate/23390208.html",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv provides the equipment, handles installation, and offers full support at no cost. Venues also earn a share of ad revenue, creating an effortless new income stream.",
+    "url": "https://www.taiv.tv/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Venues receive revenue-sharing payments based on the number of ads displayed in their location. They receive a portion of all ads that are played in their venue, so more ads means more money. Venues get paid shortly after funds are received from the advertiser.",
+    "url": "https://www.taiv.tv/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Access detailed revenue reporting to see how much your venue is earning daily.",
+    "url": "https://www.taiv.tv/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Home Warranty Companies",
+    "url": "https://www.forbes.com/profile/taiv/",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Taiv",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Taiv?",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Taiv have?",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   },
+   {
+    "quote": "To view Taiv’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv has 139 total employees.",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Taiv’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Taiv is",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Pepsi impression delivery case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "See how operators turn their commercial breaks into their own promotions, more sales, and a share of the revenue.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Figure web conversion case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/figure-lending/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW reach case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW was blocked from advertising during NBA playoffs on linear and CTV channels due to losing the automotive sponsorship bid to Kia.",
+    "url": "https://www.taiv.tv/case-study/bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "Bacardi sales lift case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/bacardi/",
+    "pass": 1
+   },
+   {
+    "quote": "Casino resort consideration case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/regional-casino-resort/",
+    "pass": 1
+   },
+   {
+    "quote": "Sportsbook launch case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/sportsbook-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional casino visit lift case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/regional-casino/",
+    "pass": 1
+   },
+   {
+    "quote": "Our certified technicians handle the plug-and-play installation, connecting the Taiv device to your existing TVs and cable or streaming system. It’s fast, secure, and requires no technical experience, or, your IT team can install Taiv yourself if you prefer.",
+    "url": "https://www.taiv.tv/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "CPG consideration lift case study | Taiv",
+    "url": "https://www.taiv.tv/case-study/cpg-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Taiv",
+    "url": "https://www.casestudies.com/customer/taiv",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/figure-lending/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/bmw/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/bacardi/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/regional-casino-resort/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/sportsbook-launch/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/regional-casino/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.taiv.tv/case-study/cpg-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Toyota AI Ventures、ベンチャー企業向けファンドプログラム「Call for Innovation」を立ち上げ | コーポレート | グローバルニュースルーム | トヨタ自動車株式会社 公式企業サイト",
+    "url": "https://global.toyota/jp/newsroom/corporate/23390208.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Taiv - AIツールレビュー | AIniche — 概要 Taivは、既存のケーブルテレビのボックスに連携させ、店舗内のテレビやデジタルサイネージをインテリジェントに自動化するハードウェアプラットフォームです。リアルタイム映像を分析するAIモデルを活用し、CMの時間帯や特定の時間帯に合わせて、ケーブル、ストリーミング、サイネー ...",
+    "url": "https://ainiche.net/ja/tools/taiv",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタAIベンチャーズが1億ドルの第2号ファンド立ち上げ (米国) | ビ... — May 20, 2019 · ベンチャーキャピタルのトヨタAIベンチャーズ（TAIV）は5月2日、1億ドルの第2号ファンドを新たに立ち上げることを発表した。自動運転およびロボティックスといった分野での革新的技術や、新規事業モデルの開発を行う ...",
+    "url": "https://www.jetro.go.jp/biznews/2019/05/43e61f0956958b07.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota AI Ventures、ベンチャー企業向けファンドプログラム「Call fo... — Jul 11, 2018 · トヨタ自動車(株)の子会社で米国において人工知能等の研究開発を行うToyota Research Institute（以下、TRI）が昨年設立したベンチャーキャピタルファンド「Toyota AI Ventures」（以下、TAIV）は、TRIとともに、ベンチャー企業支援に関するグローバルプログラム「Call for Innovation」を立ち上げました。本 ...",
+    "url": "https://global.toyota/jp/newsroom/corporate/23390208.html",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店で流れるテレビCMをメニュー紹介に置き換えて効果的なマーケテ... — Mar 24, 2020 · インタビューに答えたのは、Taivを導入したギリシャ料理店「Kristina」の経営者。 店舗のメニューを宣伝するためTaivを導入すると、売上が14％も ...",
+    "url": "https://gigazine.net/news/20200324-taiv/",
+    "pass": 3
+   },
+   {
+    "quote": "Business TV advertising and venue revenue | Taiv — Taiv turns live TV in venues into revenue, control, and measurable advertising. Choose the path for your venue, retail store, or brand.",
+    "url": "https://www.taiv.tv/",
+    "pass": 3
+   },
+   {
+    "quote": "Login - Taiv — Sign in to Taiv. Venue partners log in to manage their screens and promotions; advertisers log in to manage live-sports campaigns. Choose your account to continue.",
+    "url": "https://www.taiv.tv/login/",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv FAQs: how it works, cost, and control | Taiv — Answers to common questions about Taiv, including how it works, what venues pay, how revenue share works, and how screen control stays with you.",
+    "url": "https://www.taiv.tv/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv - Forbes — Jan 1, 2026 · Taiv helps businesses play their own house or partner ads, promote specials and events, block distasteful TV commercials, and automate and remotely schedule programming.",
+    "url": "https://www.forbes.com/profile/taiv/",
+    "pass": 3
+   },
+   {
+    "quote": "TAIV — Username: Password: Keep me logged in Forgot Password Powered By RideScheduler.com",
+    "url": "https://taiv.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies | Taiv — Real campaigns from real brands. See how Pepsi, BMW, and Bacardi drove measurable sales lifts and awareness in bars and restaurants with Taiv.",
+    "url": "https://www.taiv.tv/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Taiv — See how Taiv enhances live TV in bars & restaurants by reading case studies from some of our customers.",
+    "url": "http://www.taiv.cc/case-studies.html",
+    "pass": 3
+   },
+   {
+    "quote": "CPG consideration lift case study | Taiv — How a national CPG brand used Taiv to reach football fans in sports bars, lifting consideration 39.9% across a 25.5M-impression study.",
+    "url": "https://www.taiv.tv/case-study/cpg-brand/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Taiv Uses Software & Services — Explore case studies featuring Taiv as the customer — learn how vendors and partners helped Taiv solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/taiv",
+    "pass": 3
+   },
+   {
+    "quote": "How Taiv achieved 6x growth with Mux | Mux — Oct 15, 2025 · Taiv turns bar/restaurant TVs into revenue sources. Mux's Video API standardized their video, enabling 6x growth while freeing engineers to focus on AI.",
+    "url": "https://www.mux.com/blog/taiv",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv – Financial Footprint & Growth Factors – 2026 — Discover Taiv's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/taiv",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv Revenue, Funding & Valuation - prospeo.io — Taiv has revenue of $5,500,000, estimated valuation of $17,600,000, $7,800,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv 2026 Company Profile: Valuation, Funding & Investors ...Taiv - 2026 Company Profile, Team, Funding & Competitors - TracxnTaiv Revenue 2024: $3.1M Est. - getlatka.comTaiv: Funding, Investors & Team (Nov 2026) - FundedIQTaiv — venture-backed company profile | Dealroom — Taiv has 106 total employees. What industry is Taiv in? Taiv’s primary industry is Media and Information Services (B2B). Is Ta",
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv - 2026 Company Profile, Team, Funding & Competitors - TracxnTaiv Revenue 2024: $3.1M Est. - getlatka.comTaiv: Funding, Investors & Team (Nov 2026) - FundedIQTaiv — venture-backed company profile | Dealroom — Feb 12, 2026 · Taiv is a series B company based in Winnipeg (Canada), founded in 2018 by Noah Palansky, Jordan Davis and Avi Stoller. It operates as a Provider of technology that enhances",
+    "url": "https://tracxn.com/d/companies/taiv/__lTVy4Ze043-JLUjNG62aSZoMMlyc0l_ujcUgzC902Rc",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv Revenue 2024: $3.1M Est. - getlatka.com — Oct 30, 2026 · Taiv 2024 estimated revenue: $3.1M (up from $2M in 2023). 31 employees. Industry: Video Advertising Software. Founded 2020. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/taiv",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Taiv Molchan (@2025TaivMolchan) / Posts / X 📎 Taiv Molchan2025TaivMolchan Apr 10 Another relief appearance last week.1 inning1 k10 p80 % strikes0 h0 bb0 r2 lob 💬1 🔄3 🤍9 📊636 📎 Taiv Molchan2025TaivMolchan Apr 10 2025TaivMolchan @Rvale_Baseball @fungogolf25 @tnballplayers 💬0 🔄0 🤍0 📊139 📎 🔁Reposted by Taiv Molchan Ryan Day ryandaytime Apr 9 💬0 🔄2426 ...",
+    "url": "https://x.com/2025TaivMolchan",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv Head (@HeadTaiv8173) / Posts / X Taiv Head. HeadTaiv8173. Joined: Jul 11, 2025. 24 Posts. 195 Following. 2 Followers. Posts. Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/HeadTaiv8173",
+    "pass": 3
+   },
+   {
+    "quote": "Tai (@Taiv1gki) / X https://t.co/kZ5mbZKkRz Joined October 2026 0Following 8Followers Mention Follow RepostsRepostsMediaMedia Tai @Taiv1gki 25m 00:34 Content warning: Adult Content",
+    "url": "https://x.com/Taiv1gki",
+    "pass": 3
+   },
+   {
+    "quote": "taiv (@hulk_gooner) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia taiv @hulk_gooner Oct 7 listening to boyf geek out with our friend about cephalopods and other sea creatures while I get cozy in bed #boneralert",
+    "url": "https://x.com/hulk_gooner",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv (@noiviat) / X 224 followers · 187 following. behind you. Joined Sep 2016. See the latest conversations with @noiviat",
+    "url": "https://x.com/noiviat",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Taiv - LinkedIn Taiv | 4,978 followers on LinkedIn. The Missing Layer of Sports Media | Digital video and live sports advertising in venues across the US | Taiv connects venues and advertisers by putting the right content on TVs in the moments people notice most with best-in-class targeting, execution, and measurement. Brands and agencies get premium access to the moments people actually watch. Ad",
+    "url": "https://ca.linkedin.com/company/taiv",
+    "pass": 3
+   },
+   {
+    "quote": "Avi Stoller - Co-founder & CRO @ Taiv | LinkedIn Co-founder & CRO @ Taiv · We are transforming the TVs in restaurants/bars across North America into a network that can play customized ads during the commercial breaks. · Experience: Taiv ...",
+    "url": "https://www.linkedin.com/in/avistoller",
+    "pass": 3
+   },
+   {
+    "quote": "Noah Palansky - CEO & Co-Founder at Taiv | YC W20 ...Brandon Hood - Taiv | LinkedInTaiv - LinkedInJoon Lee - Taiv | LinkedInTaiv raises $10.5M to accelerate business TV growth - LinkedIn CEO & Co-Founder at Taiv | YC W20 | Forbes 30 under 30 | Endeavor Entrepreneur · CEO & Co-Founder at Taiv. We're putting AI inside the TVs in businesses to make them more valuable, interesting, and fun. · Experien",
+    "url": "https://ca.linkedin.com/in/noahpalansky",
+    "pass": 3
+   },
+   {
+    "quote": "Brandon Hood - Taiv | LinkedInTaiv - LinkedInJoon Lee - Taiv | LinkedInTaiv raises $10.5M to accelerate business TV growth - LinkedIn I’m a dynamic digital media sales leader with 15+ years of experience driving… · Experience: Taiv · Location: Chicago · 500+ connections on LinkedIn. View Brandon Hood’s profile on ... Taiv | 2,613 followers on LinkedIn. Taiv uses custom AI to transform business TVs",
+    "url": "https://www.linkedin.com/in/brandonhood33",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Taiv | Winnipeg MB - FacebookTaiv - We’ve been busy. Taiv is now live in 30+ cities ...TAIV | Tomahawk WI - FacebookTaiv - We're proud to announce that Taiv has been... | FacebookTaiv - What if your TVs paid you every month? With Taiv ...Taiv - We just launched our new website! ️ ... - FacebookTaiv - We’re excited to welcome Zech Noiseux to Taiv as ... Oct 14, 2026 · Taiv, Winnipeg. 181 followers ",
+    "url": "https://www.facebook.com/taivbox/",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv - We’ve been busy. Taiv is now live in 30+ cities ... Dec 23, 2025 · Taiv is now live in 30+ cities - helping bars and restaurants turn their TVs into a new revenue stream, while giving brands access to engaged audiences",
+    "url": "https://www.facebook.com/taivbox/posts/weve-been-busytaiv-is-now-live-in-30-cities-helping-bars-and-restaurants-turn-th/1221495306747395/",
+    "pass": 3
+   },
+   {
+    "quote": "TAIV | Tomahawk WI - FacebookTaiv - We're proud to announce that Taiv has been... | FacebookTaiv - What if your TVs paid you every month? With Taiv ...Taiv - We just launched our new website! ️ ... - FacebookTaiv - We’re excited to welcome Zech Noiseux to Taiv as ... Jan 23, 2025 · TAIV, Tomahawk. 184 followers · 8 were here. We provide non-medical, non-professional volunteer assistance to seniors",
+    "url": "https://www.facebook.com/lovetaiv/",
+    "pass": 3
+   },
+   {
+    "quote": "Taiv - We're proud to announce that Taiv has been... | Facebook Jun 17, 2026 · We're proud to announce that Taiv has been recognized as the Emerging ScaleUP of the Year at the 2026 ScaleUP Awards. This award goes to companies achieving significant growth while exemplifying...",
+    "url": "https://www.facebook.com/taivbox/posts/were-proud-to-announce-that-taiv-has-been-recognized-as-the-emerging-scaleup-of-/1363291429234448/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.taiv.tv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/pepsi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/figure-lending/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/bmw/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/bacardi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/regional-casino-resort/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/sportsbook-launch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/regional-casino/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/enterprise/get-started/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.taiv.tv/logos/about/y-combinator.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiv.tv/logos/about/idc-ventures.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiv.tv/logos/about/emerging.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiv.tv/logos/about/garage-capital.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ainiche.net/ja/tools/taiv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2019/05/43e61f0956958b07.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://global.toyota/jp/newsroom/corporate/23390208.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gigazine.net/news/20200324-taiv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.taiv.tv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/login/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/faqs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/profile/taiv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiv.tv/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.taiv.cc/case-studies.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.taiv.tv/case-study/cpg-brand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/taiv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextiva.com/company/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/taiv",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/taiv-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/264841-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/taiv/__lTVy4Ze043-JLUjNG62aSZoMMlyc0l_ujcUgzC902Rc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/2025TaivMolchan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HeadTaiv8173",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Taiv1gki",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hulk_gooner",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/taiv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/avistoller",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/noahpalansky",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brandonhood33",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taivbox/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taivbox/posts/weve-been-busytaiv-is-now-live-in-30-cities-helping-bars-and-restaurants-turn-th/1221495306747395/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lovetaiv/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taivbox/posts/were-proud-to-announce-that-taiv-has-been-recognized-as-the-emerging-scaleup-of-/1363291429234448/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/noiviat",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Taiv 日本 導入",
+   "results": [
+    "https://ainiche.net/ja/tools/taiv",
+    "https://www.jetro.go.jp/biznews/2019/05/43e61f0956958b07.html",
+    "https://global.toyota/jp/newsroom/corporate/23390208.html",
+    "https://gigazine.net/news/20200324-taiv/",
+    "https://www.yomiuri.co.jp/politics/20260813-GYT1T00174/",
+    "https://www.fnn.jp/articles/-/1136201",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taiv 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.weblio.jp/content/総代理店",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taiv Japan",
+   "results": [
+    "https://www.taiv.tv/",
+    "https://www.taiv.tv/login/",
+    "https://www.taiv.tv/faqs/",
+    "https://www.forbes.com/profile/taiv/",
+    "https://taiv.org/",
+    "https://taivi.jp/",
+    "https://selfdrivenews.com/tier-iv-successfully-completes-robotaxi-pilot-tests-in-tokyo/",
+    "https://en.wikipedia.org/wiki/Second_Taiwan_Strait_Crisis",
+    "https://www.taiv.tv/careers/",
+    "https://x.com/grok/status/2038707620316434743"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Taiv manufacturing customer case study",
+   "results": [
+    "https://www.taiv.tv/case-studies/",
+    "http://www.taiv.cc/case-studies.html",
+    "https://www.taiv.tv/case-study/cpg-brand/",
+    "https://www.casestudies.com/customer/taiv",
+    "https://www.mux.com/blog/taiv",
+    "https://exlitem.com/jury-verdicts-settlements/taiv-wins-patent-case-against-mychoice-barboards",
+    "https://www.infor.com/customer-stories",
+    "https://www.taiv.tv/case-study/bacardi/",
+    "https://www.casestudies.com/company/mux/case-study/taiv-achieves-6x-growth-with-mux",
+    "https://www.jweicut.com/newsInfo/costomer-case-taiv-professional-because-of-ardently-love.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Taiv white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nextiva.com/company/partners",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taiv founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/taiv",
+    "https://prospeo.io/c/taiv-revenue",
+    "https://pitchbook.com/profiles/company/264841-21",
+    "https://tracxn.com/d/companies/taiv/__lTVy4Ze043-JLUjNG62aSZoMMlyc0l_ujcUgzC902Rc",
+    "https://getlatka.com/companies/taiv",
+    "https://fundediq.co/taiv-taiv-tv-funding/",
+    "https://dealroom.co/companies/taiv/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Taiv",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/power_uncovered/n/n7fbd3966fdff",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/sekasu/n/n985d4263a09c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Taiv",
+   "results": [
+    "https://x.com/2025TaivMolchan",
+    "https://x.com/HeadTaiv8173",
+    "https://x.com/Taiv1gki",
+    "https://x.com/hulk_gooner",
+    "https://x.com/Taiv",
+    "https://x.com/noiviat",
+    "https://x.com/_taiv3on"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Taiv",
+   "results": [
+    "https://ca.linkedin.com/company/taiv",
+    "https://www.linkedin.com/in/avistoller",
+    "https://ca.linkedin.com/in/noahpalansky",
+    "https://www.linkedin.com/in/brandonhood33",
+    "https://et.linkedin.com/company/taivbox",
+    "https://www.linkedin.com/in/joonucla",
+    "https://www.linkedin.com/posts/taivbox_fundingnews-adtech-aiforbusiness-activity-7337946701711712256-macS"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Taiv",
+   "results": [
+    "https://www.facebook.com/taivbox/",
+    "https://www.facebook.com/taivbox/posts/weve-been-busytaiv-is-now-live-in-30-cities-helping-bars-and-restaurants-turn-th/1221495306747395/",
+    "https://www.facebook.com/lovetaiv/",
+    "https://www.facebook.com/taivbox/posts/were-proud-to-announce-that-taiv-has-been-recognized-as-the-emerging-scaleup-of-/1363291429234448/",
+    "https://www.facebook.com/taivbox/posts/what-if-your-tvs-paid-you-every-monthwith-taiv-they-dowe-share-ad-revenue-with-y/1295042806059311/",
+    "https://www.facebook.com/taivbox/posts/we-just-launched-our-new-website-️taivs-new-and-improved-website-makes-it-easier/669222668641331/",
+    "https://www.facebook.com/taivbox/posts/were-excited-to-welcome-zech-noiseux-to-taiv-as-vice-president-strategic-partner/1232853972278195/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taiv note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taiv X 投稿",
+   "results": [
+    "https://www.taiv.tv/login/",
+    "https://x.com/noiviat",
+    "https://x.com/i/trending/2119810846389858422",
+    "https://help.x.com/ja",
+    "https://xvideo-jp.com/archives/tag/投稿",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://www.sponichi.co.jp/entertainment/news/2026/10/19/kiji/20261019s00041000135000c.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

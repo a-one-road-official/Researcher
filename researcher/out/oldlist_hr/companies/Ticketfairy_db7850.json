@@ -1,0 +1,2115 @@
+{
+ "name": "Ticketfairy",
+ "aliases": [],
+ "context": "旧営業リスト｜Event Management / Ticketing｜未接触",
+ "researched_at": "2026-11-09T20:41:38.607696+00:00",
+ "official_url": "https://www.ticketfairy.com/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Contacts you can store",
+    "value": "Unlimited Unlimited Unlimited Unlimited Unlimited Unlimited",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Email marketing",
+    "value": "Klaviyo $720 a month for 50,000 profiles You keep your contacts at no charge. Marketing sends draw from your shared usage balance",
+    "url": "https://www.ticketfairy.com/pricing/compare",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "06-Jun-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/96833-80",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "20-May-2015 $485K $485K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/96833-80",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$2,500,000",
+    "url": "https://prospeo.io/c/ticket-fairy-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/ticket-fairy-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "1800 Vine St, Los Angeles, California 90028, US",
+    "url": "https://prospeo.io/c/ticket-fairy-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2011",
+    "url": "https://prospeo.io/c/ticket-fairy-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your Script Produced! International Film Festival",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bassbunny Presents: Dillinja",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PAPAYA PLAYA PROJECT Presents • STARLIGHT •",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Papaya Playa Project, Tulum",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PAPAYA PLAYA PROJECT Presents • THE FULL MOON •",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ANYMA presents ÆDEN THE LOST TEMPLE TULUM",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thursdays will be the new weekends in Puerto Vallarta this November. The heat is rising! Strip down, cool down with premium drinks, enjoy jaw-dropping coastal views and mesmerizing sunsets on a luxurious catamaran cruise to a secluded beach where it will be all merrymaking, connecting and having a good time, surrounded by floor-thumping music. Get…",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mallorca is set to rattle with floor-shaking sets from 150 talented artists next year. Otherways Festival makes its presence felt in Mallorca, Spain, for the very first time from April 30 to May 2, 2027. It will feature three stunning main stages, mind-boggling sound system takeovers, unmissable after-parties, meticulously curated stages, secret sets, scrumptious food…",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BSideLA Presents MIRROR MODE: Machinedrum F2F Rohaan +more",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BSideLA Presents: Sub.Mission Takeover",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Promoter's Playbook",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The 2026 Conference ROI Playbook: From Defining Metrics to Proving Value",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to measure and prove event success with this 2026 conference ROI playbook. From defining goals to tracking key conference ROI metrics (financial returns, leads, satisfaction, learning) and turning data into compelling stakeholder reports – discover real-world techniques to prove your conference’s value and justify every dollar.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Peer Referral Programs for Conferences: How Word-of-Mouth Fills Seats",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how a conference referral program turns attendees into powerful promoters. This in-depth guide shows how word-of-mouth referral marketing for events fills seats cost-effectively – with real examples, incentive ideas, and step-by-step tips to increase conference attendance through referrals and maximize ROI.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Attendee Data to Program Panels That Fill Seats Year After Year",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to level up your fan convention? Learn how to integrate show-stopping esports tournaments with our comprehensive 2026 guide to esports event planning. From reliable internet and gaming rigs to shoutcasters, live streams, and game publisher partnerships – we share real examples and pro tips to electrify both hardcore gamers and casual attendees at your event.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can't make it? Resell your ticket at face value through our secure marketplace. No scalpers, no inflated prices.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every ticket is personalised to prevent fraud. Quick ID check at the door means no fakes, no hassle.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the event you want to attend, select your ticket type and quantity, and proceed to checkout. You can pay securely with credit/debit cards and other local payment methods. Your tickets are delivered instantly to your email and are also available in your Ticket Fairy account.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Ticket Fairy is an authorised primary ticketing platform that event organizers have used for 25,000+ events worldwide. Every ticket sold on Ticket Fairy is genuine and comes directly from the event organizer. We operate in more than 10 countries with secure payment processing and dedicated customer support.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No hidden fees. The total price including any ticketing fee is shown clearly before you complete your purchase. Free events are always free with no charges. For paid events, any applicable fees are displayed transparently at checkout so you know exactly what you're paying.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I use a payment plan to spread the cost?",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the referral rewards programme?",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When you buy tickets, you get a unique sharing link. Share it with friends, and if they buy tickets through your link, you earn a cash rebate. It's a simple way to get rewarded for spreading the word about events you love. Rebate amounts vary by event.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each sponsor joins your event with their tier, from Presenting and Platinum to Media, In-Kind and Community. You move them from Prospecting to Committed, Contracted, Paid and Fulfilled as the deal progresses.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "You record the cash amount and the in-kind value of each deal. You list each deliverable you promised, such as a logo on the stage screens or a branded bar. You keep every sponsor deal on the event it helps pay for.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "You see a version history of every change to a sponsor, and you see when a colleague has the same sponsor open, so two people never overwrite each other's notes. The sponsors you record count as sponsorship income in your event budget, so production plans with the money you have signed and finance sees the same figure.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ": from Prospecting to Fulfilled for each sponsor",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ": each promise on your task board with an owner",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Brightline Energy signs as presenting partner for $60,000 in cash. Its stage screens and branded bar become tasks for Ana and Tom, and the deal moves from Contracted to Fulfilled as they deliver.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "You can show a prospective sponsor who buys your tickets: their ages and gender, their job titles and employers, and the countries, regions and cities they live in.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Each sponsor gets their own page. They see the deliverables you promised, how many are done, and the clicks and sales through their tracking link.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "with a price you agreed gives their customers a reason to buy through it. You mark each sponsor promise fulfilled as you deliver it, from the logo to the activation and the posts. Their page then shows how many are done beside the results of their link, ready for the renewal meeting.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising & tracking",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "A sponsor with a stand can be an exhibitor too. Their booth staff scan each visitor from a lead scanner link. Fai drafts a follow-up email to each visitor for the sponsor to approve, so the next morning the sponsor follows up the people they paid to meet. The sponsor's results show how many visitors they met and followed up.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The money arrives in your Vault balance. A receiving account in another country lets an overseas sponsor pay you in their own currency. You see which invoices are still unpaid, and approve the invoice reminders Fai prepares.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Each sponsor is saved as a billing customer in Vault, so next year's invoice starts with their details already in. Your finance team sees the same invoices and payments in Vault, so nobody keeps a separate spreadsheet of who has paid.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Brightline Energy pays in 3 invoices, each its own: the deposit invoice is paid, the second is due on 1 December and the balance on 1 March. Fai drafts the reminder for the second invoice, you approve it, and it goes out.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Keep each sponsor conversation and promise on record",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Run your sponsorships like a company many times your size. Fai files the email about each event into its Inbox, marked by subject, such as sponsorship, and by priority, so you find each sponsor's emails on the event they concern.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Where the call made it clear, each follow-up shows who took it on and by when, so every promise made on a call has an owner. Notes to share are ready to send to everyone on the call, so the sponsor and your team leave with the same record.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "When a colleague takes over an account, the event's Inbox, Meetings and the sponsor's version history show what was agreed, by whom and when. Nobody has to search a former colleague's mailbox before the renewal call. Fai can also add a sponsor or move a deal to its next stage from what was agreed, once you approve the change.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "A festival with a presenting partner",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The team turns the presenting partner's branded bar, stage screens and guest list into tasks with owners, and on the day, the partner's page shows each deliverable done and the tickets sold through their link.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The Professions section shows last year's delegates by job title and employer, and the team opens each pitch with it.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Exhibiting sponsors scan visitors at their booths and the next morning approve the follow-ups Fai drafted.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Fai prepares the reminder when the balance is overdue.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Its live sales report shows the hospitality package it co-branded, so the on-air reads follow what is selling.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The drinks brand names its promotional staff for passes on its own page and books its delivery into an arrival time.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Concert Promoter Software for Every Client, Show and Roster",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "One promoter roster,",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Northside Crew, your roster of 24 promoters, joined once from one link and sells for 3 clients, each at the commission that client pays: 412 tickets for Nightjar Fridays at 10% of sales, 1,240 for Harbor Festival at an amount per ticket and 386 for Riverside Live at an amount per order.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Each promoter's commission is worked out for you.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Each client sees the ads, posts and promoters that sold their tickets.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "One login lets a small promoter or agency team work like a big one. Each name buyers know your events by, such as a club night, a festival or a venue you program, can be its own brand.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Each brand holds a brand kit with its tagline, tone of voice, colors, fonts and logos. Your designers and copywriters work from the right kit for each client. When Fai prepares posts, emails or event copy for a brand, she drafts in that brand's tone of voice. A club night that speaks in lower case and a corporate festival that never uses slang both sound like themselves.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Independent promoters and agencies work the same way. You sell a concert, a club night and a festival from the same account.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Build one promoter roster and send it wherever you sell",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Your own promoter roster works as a collective, apart from any one brand. You can invite promoters by email or share a private join link in your group chat.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Peer Referral Programs for Conferences: How Word-of-Mouth Fills Seats",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how a conference referral program turns attendees into powerful promoters. This in-depth guide shows how word-of-mouth referral marketing for events fills seats cost-effectively – with real examples, incentive ideas, and step-by-step tips to increase conference attendance through referrals and maximize ROI.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "white-label ticketing",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You connect Meta, TikTok, Google and the other networks you advertise on once for your brand, and each ad, post and partner can have its own tracking link that shows what it sold.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Once your brand's Gmail or Outlook mailbox is connected, Fai files each conversation about the event into its Inbox a few minutes after it arrives. The notetaker joins calls from a link you paste, or from your connected calendar.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "A brand owner opens the Vault account for your brand and finishes a verification check. Only brand owners use Vault. Vault is part of Ticket Fairy, a fintech company, not a bank or lender, and Vault accounts are held for you through regulated partners.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Move between your brands and clients with one login",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You accept the invitation each client sends from their own brand. Your Brands page then lists each brand you own or work on, so your team moves from one client to the next without signing out. Each brand keeps its own events, team, figures and payout details, so one client never sees another client's sales.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Independent promoters and agencies work the same way. You sell a concert, a club night and a festival from the same account.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "New events go on sale faster. You can start from a template or a copy of a night you already ran, keep each event on brand and run all your brands from one login.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You connect Meta, TikTok, Google and the other networks you advertise on once for your brand, and each ad, post and partner can have its own tracking link that shows what it sold.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Promoters and agencies: your questions about Ticket Fairy",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Promoters and agencies",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Your permanent staff belong on your brand team, and your street team in a collective. A brand team belongs to one brand and reaches each event under it. A collective belongs to you. You send it to any of your events, brands and tours, and to venues that invite you. A promoter on both is listed on the brand's Promoters report with all their sales.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Does Ticket Fairy suit independent promoters and agencies?",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Independent promoters and agencies run concerts, music events and club nights with Ticket Fairy, with their promoters, clients and promoter ticketing in one account. Each promoter gets their own link and artwork for every show, and you see live sales by promoter.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "What promoters and agencies ask about clients and commission",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Ticketing for Sales, Guest Details and Entry",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label ticketing",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Promoters and agencies",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Ticketing for Sales, Attendee Details and Entry",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Ticketing lets you set ticket choices, collect useful attendee details, sell extras and welcome guests quickly.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep Your Brand Visible From Event Page to Ticket",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your brand visible wherever buyers see tickets",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Our team sets up co-branded event and product pages, so buyers see your brand while they buy.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep each white-label client separate",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep Your Brand at the Center of the Buying Experience",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers can lose confidence when checkout stops looking like your brand.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "As an agency, venue or white-label partner, you need different logos and settings for each brand you sell for.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Put Your Brand Across the Ticket Buying Experience",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Choose where your brand appears and start selling",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep Your Buyers Trusting Your Brand Through Checkout",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Ticketing That Keeps Your Brand in Front of the Buyer",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "You can ask our team to set up co-branding when that suits your event. When you want checkout to show only your brand, your development team can build it with the React and React Native SDKs.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Sell Tickets With a Buying Experience That Looks Like Your Brand",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies, multi-brand promoters, and venue and festival groups",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your brands share $500 of Fai usage each month",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your brands can share one annual amount of Fai usage",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "of Fai usage by adding a card, when your brand is eligible. Plus then continues at",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$500, shared across your brands",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each of your events can have its own page and site. With the Website Builder, you can also create a website for your brand.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You set it once for your brand and can change it for any event.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You can add your own fee to each paid ticket, as a percentage, a fixed amount or both in each currency, set once for your brand and changed for any event.",
+    "url": "https://www.ticketfairy.com/pricing/fees",
+    "pass": 1
+   },
+   {
+    "quote": "On Business, the fees of all your brands count together, and they cover your extra brands too.",
+    "url": "https://www.ticketfairy.com/pricing/plan-cover",
+    "pass": 1
+   },
+   {
+    "quote": "Your fee is a percentage, a fixed amount or both, per ticket and per currency, set once for your brand and changed for any event. On a $50 ticket in the United States, with your own fee of 5% plus $0.50, your buyer pays $58 and you receive $53.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "With the Website Builder, you can also create a website for your brand.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Unused cover does not roll over, usage packs are never covered, and on Business the fees of all your brands count together.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Promoters and agencies",
+    "url": "https://www.ticketfairy.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Fai drafts each settlement and works out the final fee on a percentage deal. You and the tour manager start from the same numbers. Approved crew hours go into your costs at each shift's hourly rate. The Spend tab for your brand shows what each event cost, by section and supplier. It also shows the cost for each person scanned in. You can compare this year with last year and with your other events.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Your festival website lives where you sell your tickets. You can start from more than 30 designs, with looks made for festivals, and change the colors, fonts and buttons to match your branding.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Ticket Fairy suggests your last edition: the same name without the year, about a year earlier, at the same venue. With an owner, admin or producer login, you can choose another of your brand's events or turn the comparison off. Another brand's figures are never used.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "With Klaviyo or Mailchimp connected, buyers who agree at checkout join your list. You add your Meta, TikTok and Google ad tracking once for your brand, and can send your sales data to Zapier or your own system with a webhook.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Ticket Fairy is event ticketing software for concerts, club nights, conferences, fairs and sports events as well as festivals. Each event keeps its own ticket types and reports under your brand.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You choose your own ticket types and releases, door times for each day, purchase limits and which add-ons go with which tickets. Your event pages, festival website and campaigns carry your logo, colors and fonts. If you want the ticketing platform under your music festival's own name, our team sets up custom white-label branding with you.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "When you invite a promoter to your brand, they get their own link and QR code for each night you run, including nights you create later.",
+    "url": "https://www.ticketfairy.com/solutions/nightclubs-and-club-nights",
+    "pass": 1
+   },
+   {
+    "quote": ": one street team across your brands and clubs",
+    "url": "https://www.ticketfairy.com/solutions/nightclubs-and-club-nights",
+    "pass": 1
+   },
+   {
+    "quote": "The Customers page, your nightclub CRM, shows every regular you have: everyone who has bought from your brand, one row per person, with the nights they bought for and how much they paid.",
+    "url": "https://www.ticketfairy.com/solutions/nightclubs-and-club-nights",
+    "pass": 1
+   },
+   {
+    "quote": "New events go on sale faster. You can start from a template or a copy of a night you already ran, keep each event on brand and run all your brands from one login.",
+    "url": "https://www.ticketfairy.com/solutions/nightclubs-and-club-nights",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your Instagram account connects to your brand first, directly or through the Facebook Page it is linked to. Instagram allows one private message per comment, for 7 days after the comment.",
+    "url": "https://www.ticketfairy.com/solutions/nightclubs-and-club-nights",
+    "pass": 1
+   },
+   {
+    "quote": "Offers and settlements work whether you rent rooms as a promoter or run the booking for your own music venue, across every event your brand runs. You see what you paid each act last time and how many tickets those shows sold, and you can add a radius clause to the contract.",
+    "url": "https://www.ticketfairy.com/solutions/concerts-and-live-music-venues",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Find the event you want to attend, select your ticket type and quantity, and proceed to checkout. You can pay securely with credit/debit cards and other local payment methods. Your tickets are delivered instantly to your email and are also available in your Ticket Fairy account.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! You can purchase tickets and enter the recipient's name and email during checkout. They'll receive the tickets directly. For events with name-matching entry, make sure you enter the attendee's real name.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your tickets are emailed to you immediately after purchase and are also available in your Ticket Fairy account under 'My Tickets'. You can access them on your phone at the event — no printing required.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have trouble at entry, event staff can look up your ticket using your name or email. Make sure you're showing the most recent version of your ticket from your email or account. Our support team is also available to help resolve any issues.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, many events let you add merchandise, parking passes, camping add-ons, or other extras after your initial purchase. Check your order confirmation email or your account for available add-ons.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If an event is cancelled, Ticket Fairy processes refunds in line with the event organiser's instructions and applicable law. The refund may cover part or all of the ticket's face value; ticketing fees are usually not refundable. We email you when your refund is processed.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can reach our support team through live chat on the website, by email, or through our help centre. We're here to help with ticket issues, payment questions, account problems, and anything else you need.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I didn't receive my confirmation email. What do I do?",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Event organizers handle on-site support, but our team is also available remotely during events to help with ticket and account issues. If you have problems at the door, ask event staff to verify your ticket by name or email.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you experience an issue with an event, contact us through live chat or email. We take all reports seriously and work with event organizers to resolve problems. For urgent safety concerns, always contact local emergency services first.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A sponsor with a stand can be an exhibitor too. Their booth staff scan each visitor from a lead scanner link. Fai drafts a follow-up email to each visitor for the sponsor to approve, so the next morning the sponsor follows up the people they paid to meet. The sponsor's results show how many visitors they met and followed up.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Run your sponsorships like a company many times your size. Fai files the email about each event into its Inbox, marked by subject, such as sponsorship, and by priority, so you find each sponsor's emails on the event they concern.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ": sponsor email filed under the event it concerns",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Read it later or share it with your team. We email you a link to the PDF.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Can sponsor emails show up on the event without anyone forwarding them?",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The sponsor downloads its leads from its own page, and each time the list is opened or downloaded it is recorded. Email addresses and phone numbers show only for visitors who can be contacted, and each visitor gets one follow-up email at most.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Each brand holds a brand kit with its tagline, tone of voice, colors, fonts and logos. Your designers and copywriters work from the right kit for each client. When Fai prepares posts, emails or event copy for a brand, she drafts in that brand's tone of voice. A club night that speaks in lower case and a corporate festival that never uses slang both sound like themselves.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Your own promoter roster works as a collective, apart from any one brand. You can invite promoters by email or share a private join link in your group chat.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The line-up poster can load before the announcement and stay hidden, or appear to promoters at a moment you schedule. The promoters on the event then get an email that it is ready to post. Your promoters find the right piece with tags, folders and channel filters, even when a festival has dozens of pieces of artwork for each wave.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Read it later or share it with your team. We email you a link to the PDF.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You get answers about your sales in seconds, Fai takes on your event setup, promotions and emails, and she prepares your finance work. You approve every change first.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The event report opens from Social Home, and you can print it or save it as a PDF. It shows the tickets and revenue from social after refunds, the best posts and how fans felt, beside the last edition when the event is part of a series. Owners and admins can also have it emailed to them every week before the event and once after it.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Read it later or share it with your team. We email you a link to the PDF.",
+    "url": "https://www.ticketfairy.com/features/ticket-types-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, SMS and marketing",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Choose branding for emails and PDF tickets",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "You can choose standard, co-branded or partner-logo-only branding for the emails and PDF tickets your buyers receive.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Our support team is there around the clock to help your ticket buyers with any question, by email, chat and social media.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "You can get support by email, WhatsApp and video call on Zoom or Google Meet, plus a help center full of guides and FAQs.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Emails and tickets show the wrong brand",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "You choose whether buyer emails and tickets show standard, co-branded or partner-logo-only branding.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Ticket Fairy staff can add your logo to co-branded event and product pages and configure the separate branding choice for buyer emails and PDF tickets. For a fully unbranded buying experience, your development team can use Ticket Fairy's React and React Native SDKs.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Set up your pages, emails and tickets",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Add your chosen logo treatment to event pages, emails and PDF tickets.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "You can sell on co-branded pages and choose the branding on buyer emails and PDF tickets. Whether you are an agency, a venue or a partner, your buyers keep seeing the brand they already trust.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan, Free included, comes with a dedicated account manager and 24/7 support by email, WhatsApp and video call on Zoom or Google Meet.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "a month unless you cancel or switch to Free first, and Ticket Fairy reminds you by email and in your dashboard 3 days before the first charge.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Meetings: find a time with your team and outside guests, meeting types, invites from your Google Calendar with Zoom links, and reminder emails",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email designer, campaigns and automatic event messages",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Support Inbox for chat, email, forms, texts, Instagram and Messenger",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and attendance reports, buyer demographics, sales across events, forecasts, returning buyers and reports by email",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fai usage a month, for campaigns, content, texts, voice, Concierge, meetings, images, marketing emails and background work",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fai's help with emails, documents and meetings",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated account manager and 24/7 support by email, WhatsApp and video call on Zoom or Google Meet",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Usage-based marketing emails",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your team can answer chat, email, forms, texts, Instagram and Messenger in the Support Inbox. AI answers to buyers use your plan’s included usage. Additional usage follows the published rates.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email and text marketing",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automated email confirmations",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "a month unless you cancel or switch to Free first. Ticket Fairy reminds you by email and in your dashboard 3 days before the first charge, and you can cancel at any time. The trial lasts 30 days, needs a card and includes",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Existing included email allowances and agreed terms apply first.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing emails you send draw from your shared usage balance.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free includes ticketing, checkout, scanning, the box office, promoters, resale, marketing emails, a website, the Support Inbox, your sales reports and the",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Buyer support: Your team can answer chat, email, forms, texts, Instagram and Messenger in the Support Inbox.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Email and text marketing: You can design campaigns and switch on automatic event messages, such as reminders and thank-yous.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Free's limits: Unlimited team members, door staff, promoters and volunteers; one Website Builder site on a Ticket Fairy address; Fai with limited usage; usage-based marketing emails; one connected social account; dashboard testing.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Existing included email allowances and agreed terms apply first.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing emails you send draw from your shared usage balance.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan, Free included, comes with a dedicated account manager and 24/7 support by email, WhatsApp and video call on Zoom or Google Meet.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "From day 31 the trial continues as Plus at $20 a month unless you cancel or switch to Free first, and Ticket Fairy reminds you by email and in your dashboard 3 days before the first charge. You can cancel at any time.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Read it later or share it with your team. We email you a link to the PDF.",
+    "url": "https://www.ticketfairy.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": ". Attendees pay by credit or debit card, Apple Pay, Google Pay or PayPal, and each attendee gets their ticket by email as a QR code on their phone. Festivals of every size sell this way, and our team can put the event ticketing platform under your festival's own name.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ": recorded on each deal and carried to the budget",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Your sponsor opens their results whenever they like, so you no longer put a report together each time they ask. Their tracking link counts the visits, orders and revenue their audience brought in. A",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "A live sales report link can cover the tickets a sponsor has a stake in, such as a hospitality package they co-branded. They see the number sold, the stock left and the revenue as it changes. They need no role on your event, and you choose whether they see day-by-day sales or totals only.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ": clicks, orders and revenue for each sponsor",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The sponsor gets an allocation they hand out to their own guests from their own link. On their own page, the sponsor's team names its people for passes and sends you its insurance. The team also books its activation build into an arrival time at your gate.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ": vehicles booked into an arrival time at your gate",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Show day for a sponsor: their activation van arrives at the gate at the 08:30 slot they booked, their guests come in on tickets from their own link, and the staff they named collect their passes.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The money arrives in your Vault balance. A receiving account in another country lets an overseas sponsor pay you in their own currency. You see which invoices are still unpaid, and approve the invoice reminders Fai prepares.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "A sponsorship package often comes in stages: a deposit on signing and a balance before the event. Each one is its own invoice with its own due date, and you move the sponsor to Paid when the money arrives. Payment links suit a smaller package sold to many local businesses. Each business pays from the link, and you have no invoice to chase.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "The drinks brand names its promotional staff for passes on its own page and books its delivery into an arrival time.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "You can pay artists, suppliers and crew from your ticket money as it arrives, give your team cards with limits, and collect deposits and invoices into the same balance.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Ticket sales and revenue update live, with a report for each part of your sales that you can share with your partners. You find out which sites send you visitors, plan around your venue's weather and export your orders.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Your site is ready before the gates open. You map your site, hire lists come from riders, deliveries book into arrival times and kit goes out and back by scan.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "What you receive. Revenue on a tracking link is your share after Ticket Fairy's fees, not what the buyer paid. A sale counts when the buyer opens that link and buys in the same browser. Tracking links belong to one event, so create one for each event a sponsor supports.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Once your brand's Gmail or Outlook mailbox is connected, Fai files each conversation about the event into its Inbox a few minutes after it arrives. The notetaker joins calls from a link you paste, or from your connected calendar.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "A brand owner opens the Vault account for your brand and finishes a verification check. Only brand owners use Vault. Vault is part of Ticket Fairy, a fintech company, not a bank or lender, and Vault accounts are held for you through regulated partners.",
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "pass": 1
+   },
+   {
+    "quote": ": your clients' events listed beside your own once each brand says yes",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and commission then shows each event's tickets, revenue and commission owed, with each promoter's own figures underneath, so on pay day you read the amounts from a list. A venue that hires you sees your team's total, and each promoter's name only when you share it.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": ": tickets, revenue and commission owed for each event",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Each newsletter, influencer and poster can have its own tracking link or QR code, with the clicks, orders and revenue it brought in. The client opens a live sales report whenever they like.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": ": clicks, orders and revenue for each placement",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": ": sold, stock left and revenue for each client",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Ticket sales and revenue update live, with a report for each part of your sales that you can share with your partners. You find out which sites send you visitors, plan around your venue's weather and export your orders.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You can pay artists, suppliers and crew from your ticket money as it arrives, give your team cards with limits, and collect deposits and invoices into the same balance.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Your permanent staff belong on your brand team, and your street team in a collective. A brand team belongs to one brand and reaches each event under it. A collective belongs to you. You send it to any of your events, brands and tours, and to venues that invite you. A promoter on both is listed on the brand's Promoters report with all their sales.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Is the revenue on a tracking link what the buyer paid?",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No. Revenue is the brand's share after Ticket Fairy's fees, not what the buyer paid. A sale counts towards a link when the buyer opens that link and buys in the same browser. Tracking links belong to one event, so create them on each event you promote.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The event report opens from Social Home, and you can print it or save it as a PDF. It shows the tickets and revenue from social after refunds, the best posts and how fans felt, beside the last edition when the event is part of a series. Owners and admins can also have it emailed to them every week before the event and once after it.",
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You can set part of a ticket type aside for an artist's guest list, a radio giveaway or a sponsor whose contract names a number.",
+    "url": "https://www.ticketfairy.com/features/ticket-types-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each reserve carries the name of the person or partner it is for, so you can see who took what. Held tickets leave the public on-sale as soon as you save, and your sales figures stay the same. When you invite people to buy from a reserve, it shrinks as they buy, and whatever is left goes back on sale when you remove the reserve.",
+    "url": "https://www.ticketfairy.com/features/ticket-types-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A queue turns itself on when arrivals climb and moves buyers into checkout in turn, showing each buyer their place.",
+    "url": "https://www.ticketfairy.com/features/ticket-types-and-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can ask questions for the whole order or each attendee, so your team gets the information it needs before arrival.",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Fai taking calls and carrying out tasks in the background",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unused monthly usage carries over",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "It is the same on every plan, and free tickets carry no fee.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free tickets carry no fee",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tickets under $20 carry one flat ticketing fee of $2.00",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tickets from $20 to $99.99 carry a ticketing fee of 10%",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tickets from $100 to $249.99 carry a ticketing fee of 9%",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tickets from $250 upwards carry a ticketing fee of 8%",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Deposits fall due long before doors open. With daily ticket income, you can pay venue, production and supplier bills as they arrive.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers pay the standard fee on paid tickets, and free tickets carry no fee.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your ticket price is only part of the cost. You can compare each platform's published fees on the same ticket, then see what marketing, support and production tools cost when you buy them separately. Your whole team joins any Ticket Fairy plan with no per-seat price.",
+    "url": "https://www.ticketfairy.com/pricing/compare",
+    "pass": 1
+   },
+   {
+    "quote": "Free to publish. Paid tickets carry a per-ticket service fee and, in some countries, a per-order processing fee, which buyers pay by default. A Premium subscription and paid ads are optional.",
+    "url": "https://www.ticketfairy.com/pricing/compare",
+    "pass": 1
+   },
+   {
+    "quote": "You can stay on Free. It has no monthly fee, your buyers pay the ticketing fee only on paid tickets, and free tickets carry no fee.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "You can include the fee in your ticket price instead, event by event, so buyers see one price with nothing added at checkout. Free tickets carry no fee either way.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Your included usage resets every month, and unused usage does not carry over.",
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "pass": 1
+   },
+   {
+    "quote": "Each part of the house has its own price, and a whole run sells from one seat map. You can keep the best seats for your guests, sell programs and interval drinks with the ticket, and give front of house the answers on the night. Seat booking, comps and the box office for your theater run together.",
+    "url": "https://www.ticketfairy.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Ticket sales and revenue update in real time while your festival is on sale. You see them by ticket type, promo code and promoter, and can share live sales with a co-promoter or sponsor without adding them to your event. Your sales export to a spreadsheet with a row for each order or ticket, or reach your own reporting tools through a webhook.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Your heads of department can carry Vault cards with the limits you choose, and you can invoice your sponsors from Vault too. With payment approvals on, a second owner sends every payment, so no single login can empty the festival's account. The Vault Events page shows where each event's ticket money goes, its payout and any Capital still to repay.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "You pay no setup fee and no required monthly fee to sell your festival tickets on Ticket Fairy's event ticketing platform. Each paid ticket carries a ticketing fee that includes payment processing, and you decide whether fans pay it at checkout or you include it in a single all-in price. You can get paid daily as fans pay, or after the event if you prefer.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Each accreditation pass carries its zones, days and meals, and your desk team hands each one out. Traders apply on your own page, pay their invoice and book a load-in time. You drag each trader onto a pitch on your site map. Every camping and campervan plot sits on your site plan, and your campsite crew checks campers in from a desk link.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "A promoter with a spring festival and a summer festival sells both with festival ticketing software that carries its own branding.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Your door team scans tickets on their own phones and fastens the right wristband on each guest. Walk-ups buy at the door, and you see who has arrived as the night goes on.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Ticket sales and revenue update live, with a report for each part of your sales that you can share with your partners. You find out which sites send you visitors, plan around your venue's weather and export your orders.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "You can pay artists, suppliers and crew from your ticket money as it arrives, give your team cards with limits, and collect deposits and invoices into the same balance.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Your site is ready before the gates open. You map your site, hire lists come from riders, deliveries book into arrival times and kit goes out and back by scan.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "One live control log covers your site, you see the pass holders in each zone and official weather warnings for your venue, and medical care, barriers and permits stay on track.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "Outside India, each resale carries a 10% resale fee. The seller gets the ticket price back in full, and the fee is charged separately to their original card. Your event page can tell sellers about it.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   },
+   {
+    "quote": "The analytics and reporting in your music festival ticketing software show revenue, sales by day and how you compare with last year as sales come in. You can share live sales with a co-promoter or sponsor through a link, without adding them to your event. You can export the orders behind any figure to a spreadsheet.",
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Warehouse Venue Ticketing Platform",
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by event organizers worldwide",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Nightclubs, music clubs, day clubs, lounges and weekly warehouse parties sell tickets and take table bookings with Ticket Fairy. You get the ticketing features nightclubs need, from the guest list to table bookings, and your door team sees every booking.",
+    "url": "https://www.ticketfairy.com/solutions/nightclubs-and-club-nights",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by event organizers worldwide",
+    "url": "https://www.ticketfairy.com/event-ticketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Dealers and manufacturers book their vehicle deliveries into build-up slots at each gate, where the gate team checks each vehicle in by its number plate.",
+    "url": "https://www.ticketfairy.com/solutions/trade-shows-and-exhibitions",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Mega Festivals in China – Navigating Scale, Culture & Regulation",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how mega music & cultural festivals thrive in China’s unique landscape. This in-depth case study reveals how organizers handle strict permits, huge crowds, cultural differences, and government oversight in Beijing, Shanghai & beyond. Essential insights for festival producers eyeing China’s booming market.",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Latin American Festivals – Balancing Heat, Heritage, and Urban Challenges",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Year-Round Content & Festival Memberships",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Data-Driven Festival Pricing & Yield Strategies",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Optimizing the Festival Food & Beverage Mix",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how top festivals optimize food & beverage operations for success. This detailed case study reveals how balancing portion sizes & pricing, clear allergen labeling, and shorter queues can immensely boost attendee satisfaction and per-capita spending at events.",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the perks, pricing strategies, and pitfalls of VIP festival ticket programs in this detailed case study — with lessons from five major festivals.",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: VIP & Premium Festival Upsell Models – Perks, Pricing, and Fairness",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Sponsor Portfolios that Add Utility",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "How do top festivals supercharge fan engagement through user-generated content while keeping legal rights clear? This case study dives into Coachella, Tomorrowland, Lollapalooza, Sunburn and more – comparing how they handle consent, influencer whitelisting, and asset sharing.",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Creator & UGC Programs with Clear Rights at Festivals",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Creatibly Case Study: The Ticket Fairy – The Ticket Fairy - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy - Customer Case Study",
+    "url": "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how The Ticket Fairy used Creatibly",
+    "url": "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ticketing platforms in Japan, compared (2026) - ticketfairy.com — 7 ticketing platforms that sell in Japan, and Ticket Fairy, compared on fees in JPY, payouts and features. Checked October 2026.",
+    "url": "https://www.ticketfairy.com/compare/ticketing/japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy - IBM — イベントチケット販売業界は、少数の大手販売・流通会社が独占しています。そして、この事実上の寡占市場に付随して、多額のサービス料、転売、独占契約が発生し、多くの人はそれらが会場やアーティストを利用していると考えています。The Ticket Fairyは、IBM Cloudantと呼ばれるハイブリッド ...",
+    "url": "https://www.ibm.com/jp-ja/case-studies/the-ticket-fairy-cloud-cloudant",
+    "pass": 3
+   },
+   {
+    "quote": "Find Events & Buy Tickets Near You | Ticket Fairy — Discover amazing events and buy tickets online. Find concerts, festivals, and experiences near you. Plus, powerful event ticketing platform for organizers with transparent fees.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店とは何か？代理店、販売店との違いと英語契約書の場合 – KATH...総代理店とは？一般的な代理店との違い | 代理店本舗「総代理店」と「代理店」の違いとは？分かりやすく解釈 | 違い比較辞...総代理店とは？一手販売権・独占販売契約の仕組みやメリット・デメリ...Log In - Ticket Fairy Dashboard総代理店 - English translation – Linguee — 総代理店とは独占販売権を持つ代理店（販売店）のことです。 「輸入総代理店」や「日本総代理店」のように、輸入ブランド品を販売する場面で目にすることが多い言葉でしょう。 総代理店はメーカー（もしくは販売元）と独占販売契約を結び、メーカーは決めたエリア・商品では総代理店だけに販売します。 See full list on kathalo.com 総代理店と似ている言葉との違いを見ながら、総",
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "pass": 3
+   },
+   {
+    "quote": "Find Events & Buy Tickets Near You | Ticket Fairy — How do I buy tickets on Ticket Fairy? Find the event you want to attend, select your ticket type and quantity, and proceed to checkout. You can pay securely with credit/debit cards and other local payment methods. Your tickets are delivered instantly to your email and are also available in your Ticket Fairy account.",
+    "url": "https://www.ticketfairy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ticket Fairy Ticketing Fees by Country | Every Market and ... — Standard buyer-paid ticket fees include payment processing and customer service for your ticket buyers. Taxes, optional services, bank installments and custom agreements may change the total. What do your buyers pay in each country? These are the standard rates for a new account.",
+    "url": "https://www.ticketfairy.com/pricing/fees",
+    "pass": 3
+   },
+   {
+    "quote": "Ticket Fairy Platform: Event Management, Ticketing and Marketing — Chalfest has used Ticket Fairy since we began in 2017. We have remained a loyal customer of theirs for a number of reasons. They are quick to respond and always willing to help. The functionality of the system is really great too and we have certainly benefited from recent upgrades and features.",
+    "url": "https://www.ticketfairy.com/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Ticket Fairy Pricing | Run Every Event With No Monthly Fee — Run every event with no monthly fee. Upgrade when Fai is doing the work for you. Fai, the AI teammate in your dashboard, takes the routine admin off your hands, so you can run your events like a company many times your size. You approve every change first. Your tickets, door, website and production plans come with no monthly fee.",
+    "url": "https://www.ticketfairy.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Ticket Fairy Promoter Blog — Oct 23, 2025 · This detailed case study reveals how balancing portion sizes & pricing, clear allergen labeling, and shorter queues can immensely boost attendee satisfaction and per-capita spending at events.",
+    "url": "https://www.ticketfairy.com/blog/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Category: Case Studies - Ticket Fairy Promoter Blog — This detailed case study reveals how balancing portion sizes & pricing, clear allergen labeling, and shorter queues can immensely boost attendee satisfaction and per-capita spending at events.",
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy - Customer Case Study — The Ticket Fairy partnered with Creatibly to solve key challenges. \"The Ticket Fairy - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "www.ticketfairy.com — Explore 80 definitive festival case studies covering community promotion, innovative programming, scaling logistics, and revenue strategies for event producers. Explore real-world festival case studies from around the globe.](https://www.ticketfairy.com/blog/wp-content/uploads/2025/11/inside-80-festival-case-studies-the-ultimate-playbook-for ...",
+    "url": "https://www.ticketfairy.com/blog/category/case-studies.md",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy 2026 Company Profile: Valuation, Funding ...The Ticket Fairy - 2025 Company Profile, Team, Funding ...Ticket Fairy Revenue, Funding & ValuationThe Ticket Fairy Revenue 2024: $6.3M Est. - getlatka.comThe Ticket Fairy — Company Profile & Funding (2026) | Indexed.vcTheticketfairy - Overview, News & Similar companies ...The Ticket Fairy: Funding, Team & Investors | Startup Intros — Au",
+    "url": "https://pitchbook.com/profiles/company/96833-80",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy - 2025 Company Profile, Team, Funding ... — Aug 3, 2025 · The Ticket Fairy is a seed company based in San Francisco (United States), founded in 2011 by Jigar Patel and Ritesh Patel. It operates as an Online event discovery platform provider. The Ticket Fairy has raised $2.62M in funding from investors like Y Combinator, 500 Global and Wefunder.",
+    "url": "https://tracxn.com/d/companies/the-ticket-fairy/__p4XyQLzifEzYDlTTNTODIFJ6Y9LE1YUxmAV47EV7Obs",
+    "pass": 3
+   },
+   {
+    "quote": "Ticket Fairy Revenue, Funding & Valuation — Ticket Fairy is helping large and small events maximise their revenue potential in Australia, New Zealand, India, the United States, and the United Kingdom and Europe, with closed beta trials in East Africa, Singapore, Thailand and Malaysia.",
+    "url": "https://prospeo.io/c/ticket-fairy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy Revenue 2024: $6.3M Est. - getlatka.com — Aug 10, 2026 · How many employees does The Ticket Fairy have? The Ticket Fairy had 40 employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ticketfairy.com",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy — Company Profile & Funding (2026) | Indexed.vc — The Ticket Fairy is helping large and small events maximise their revenue potential in Australia, New Zealand, India, the United States, and the United Kingdom and Europe, with closed beta trials in East Africa, Singapore, Thailand and Malaysia.",
+    "url": "https://indexed.vc/companies/ticket-fairy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "RDC2025｜わら (Daisuke Fujiwara) - note（ノート） Aug 3, 2025 · 経歴の動き：2016年にバリ島に移住し、Deaと共に”Studio Esotika”（オーディオファイル志向のレコードショップ）を設立。 バリのライフスタイルと音楽文化に根ざした活動を展開しています ticketfairy.com+2klymax.co+2Honeycombers+2。",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "「レインボーディスコクラブ（Rainbow Disco Club、以下RDC）」は、2010年に東京・晴海客船ターミナルで始まった日本発のダンスミュージックフェスティバルです",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES+6Qetic+6Time Out Tokyo+6",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "東京駅から熱海まで新幹線に乗って、熱海から伊豆急行（踊り子号）で会場近くの伊豆稲取駅まで電車に揺られ出演するアーティストの音源を聴き、伊豆の海の景色を楽しみながら、会場で始まっているGilesPetersonに一刻も早く会場に着きたいという想いが混じる気持ちで乗ってました",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "ハウスやテクノなど有名海外アーティストが出演するので、バスに乗っても客層は日本人だけでなく、半数以上が欧米の方も多く来てるなーという印象でした",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "RDC2025｜わら(Daisuke Fujiwara)",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。こちらも3か月経ってしまいましたが4月中旬ごろ行われたRDC2025（RainbowDiscoClub）に初めて行ってきたのでそちらのレポートを記憶をたどりながら思い出したいと思います。",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "RainbowDiscoClubとはいったいどんなイベントなのかまず、ChatGPTにまとめてもらいました。",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "「レインボーディスコクラブ（Rainbow Disco Club、以下RDC）」は、2010年に東京・晴海客船ターミナルで始まった日本発のダンスミュージックフェスティバルです。初回はDJ Harveyをヘッドライナーに迎え、都市型野外フェスとしてスタートしました。その後、2015年からは静岡県東伊豆町のクロスカントリーコースに会場を移し、自然に囲まれたキャンプインフェスとして進化を遂げました。この移転により、RDCは国内外の音楽ファンから高い評価を得るようになりました。",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "：ハウス、テクノ、ディスコを中心に、国内外のトップアーティストが出演。過去にはJeff Mills、Four Tet、Moodymann、Theo Parrish、DJ Nobuなどがラインナップされました。",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "：REALROCKDESIGNやVJ Manamiによる独自のアートワークやステージデザインが、非日常的な空間を演出します。",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "TOKION - カッティングエッジなカルチャー＆ファッション情報+4スピンコースター+4rainbowdiscoclub.com+4",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   },
+   {
+    "quote": "：自然の中でのキャンプ体験と音楽を融合させたスタイルが特徴で、家族連れでも楽しめるフェスとして親しまれています。",
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TicketFairy (@Ticket_Fairy) / Posts / X TicketFairy (@Ticket_Fairy) - Posts - All your #ticketfairy tweets in one place, whether it's free, face value or a competition - get yo... | X (formerly Twitter)",
+    "url": "https://x.com/Ticket_Fairy",
+    "pass": 3
+   },
+   {
+    "quote": "TicketFairy (@TicketFairy_App) / X @TicketFairy_App The Android Application that helps 'gig-goers' go to gigs Dublin, Ireland Joined November 2013 7Following 33Followers Mention Follow RepliesRepliesRepostsRepostsMediaMedia",
+    "url": "https://x.com/TicketFairy_App",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ticketfairy\" - Results on X | Live Posts & Updates Results for \"#ticketfairy\" on X (Twitter). Find the latest posts, discussions, and updates about #ticketfairy. 19 results found.",
+    "url": "https://x.com/hashtag/ticketfairy",
+    "pass": 3
+   },
+   {
+    "quote": "TicketFairy (@TicketFairyIRL) / Posts / X ← ↗ TicketFairy TicketFairyIRL Joined: Nov 12, 2013 0Posts 0Following 63Followers Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/TicketFairyIRL",
+    "pass": 3
+   },
+   {
+    "quote": "TICKET FAIRY® (@TicketFairy) / X We are excited to partner with Proton blockchain, creating NFT workflows for live events! Proton supports every major cryptocurrency, has no gas fees and a rapidly growing NFT artist and collector community 🙌🏾 $ XPR ⚛️ @ protonxpr #TicketFairy #Metaverse #NFT",
+    "url": "https://x.com/ticketfairy",
+    "pass": 3
+   },
+   {
+    "quote": "TICKETFAIRY (@ticketfairy_) / Posts / X TICKETFAIRY (@ticketfairy_) - Posts - TICKET FAIRY🧚♀️🪄 | TICKET BOOKING SERVICE รับกดบัตร กรอกฟอร์ม Review👉🏻 #นางฟ้ากดบัตร สนใจจอ... | X (formerly Twitter)",
+    "url": "https://x.com/ticketfairy_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "6,000+ Ticketfairy Careers jobs in United States - LinkedIn Today’s top 6,000+ Ticketfairy Careers jobs in United States. Leverage your professional network, and get hired. New Ticketfairy Careers jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/ticketfairy-careers-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Jigar Patel - CEO at Ticket Fairy | LinkedInRodolfo Abarca Rodriguez - Engineering Manager Ticketfairy ...2000+empleos de Esquema De Pagos De Ticketfairy en MéxicoSUPPLIERS DAY | CAINTRA Nuevo León - LinkedIn The Ticket Fairy® is a next-generation, socially responsible, online ticketing, event management, social marketing and business intelligence platform, currently operational in North America,.",
+    "url": "https://ae.linkedin.com/in/thisisjigar",
+    "pass": 3
+   },
+   {
+    "quote": "Rodolfo Abarca Rodriguez - Engineering Manager Ticketfairy ...2000+empleos de Esquema De Pagos De Ticketfairy en MéxicoSUPPLIERS DAY | CAINTRA Nuevo León - LinkedIn · Experiencia: The Ticket Fairy · Educación: ESCOM · Ubicación: Yucatán · 499 contactos en LinkedIn. Mira el perfil de Rodolfo Abarca Rodriguez en LinkedIn, una red profesional de más de... Los 2,000+ empleos más populares para el pues",
+    "url": "https://mx.linkedin.com/in/r9software",
+    "pass": 3
+   },
+   {
+    "quote": "2000+empleos de Esquema De Pagos De Ticketfairy en México Los 2,000+ empleos más populares para el puesto de Esquema De Pagos De Ticketfairy en México hoy. Saca el máximo partido a tu red profesional y consigue que te contraten.",
+    "url": "https://mx.linkedin.com/jobs/esquema-de-pagos-de-ticketfairy-empleos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Diane Eljodi (@theticketfairy) • Facebook, Connect with friendsTicketfairy - FacebookTicket Fairy PH - FacebookFINAL WAVE 3 OF TICKET SALES FOR THE... - The Ticket Fairy ...♀️ The Ticket Fairy ♀️ - Facebook Diane Eljodi is on Facebook. Join Facebook to connect with Diane Eljodi and others you may know. Facebook gives people the power to share and makes the world more open and connected. Posts Tick",
+    "url": "https://www.facebook.com/theticketfairy/",
+    "pass": 3
+   },
+   {
+    "quote": "Ticketfairy - Facebook Posts Ticketfairy Apr 10 🔥 NETON VEGA en MIA TULUM 🔥 🗓️ Sábado 19 de abril | 🕐 1:00 PM 📍 Mia Restaurant & Beach Club – Tulum 🎟️ ¡Entradas con 20% de DESCUENTO por tiempo limitado! 👉 Compra ya tus boletos antes que se agoten: TICKETFARY.COM Ticketfary.com SHOP NOW Josue Montiel and 4 others 5 1 ...",
+    "url": "https://www.facebook.com/61575068974622/",
+    "pass": 3
+   },
+   {
+    "quote": "♀️ The Ticket Fairy ♀️ - Facebook With a new year underway, and after being at this for just over a year and learning as I grow, it felt like time for an update. <3 The Ticket Fairy is a community driven ticket service offering direct ticket sales, ticket brokerage, and light concierge style support for live events.",
+    "url": "https://www.facebook.com/groups/1595646441234802/",
+    "pass": 3
+   },
+   {
+    "quote": "The Ticket Fairy - Facebook Sep 17, 2026 · The Ticket Fairy. 17,135 followers · 11 talking about this. Ticket Fairy® is here to change how you attend clubs, gigs and festivals forever.",
+    "url": "https://www.facebook.com/ticketfairy/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ticketfairy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/sponsorship-and-partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/promoters-and-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/features/ticket-types-and-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/event-ticketing/white-label-ticketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/pricing/fees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/pricing/plan-cover",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/pricing/compare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/pricing/questions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/festivals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/nightclubs-and-club-nights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/concerts-and-live-music-venues",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/conferences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/conventions-and-fan-events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/event-ticketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/guides/give-your-promoters-artwork-to-post",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/guides/let-a-partner-hand-out-their-own-tickets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ticketfairy.com/solutions/trade-shows-and-exhibitions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ticketfairy.com/resources/images/logos/tf_white_long.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ticketfairy.com/resources/images/logos/tf_white_logo_only.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ticketfairy.com/resources/images/client_logos/white/mayanwarrior_long.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ticketfairy.com/resources/images/client_logos/white/forbidden_forest.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://portai.jp/ferry-e-ticket-qr-boarding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/case-studies/the-ticket-fairy-cloud-cloudant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/96833-80",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/the-ticket-fairy/__p4XyQLzifEzYDlTTNTODIFJ6Y9LE1YUxmAV47EV7Obs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/ticket-fairy-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/ticketfairy.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/warazi03/n/n8c020c2447bc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Ticket_Fairy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TicketFairy_App",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ticketfairy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TicketFairyIRL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/ticketfairy-careers-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ae.linkedin.com/in/thisisjigar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/r9software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/jobs/esquema-de-pagos-de-ticketfairy-empleos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theticketfairy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61575068974622/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1595646441234802/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ticketfairy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ticketfairy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TicketFairyIRL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ticket_Fairy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ticketfairy_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ticketfairy 日本 導入",
+   "results": [
+    "https://www.ticketfairy.com/compare/ticketing/japan",
+    "https://portai.jp/ferry-e-ticket-qr-boarding/",
+    "https://www.ibm.com/jp-ja/case-studies/the-ticket-fairy-cloud-cloudant",
+    "https://www.ticketfairy.com/",
+    "https://japan.cnet.com/article/35248653/",
+    "https://utilly.ne.jp/article/ticket-system/",
+    "https://www.asahi.com/articles/ASVBX2V2WVBXULFA02FM.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ticketfairy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.ticketfairy.com/",
+    "https://manage.ticketfairy.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ticketfairy Japan",
+   "results": [
+    "https://www.ticketfairy.com/compare/ticketing/japan",
+    "https://www.ticketfairy.com/",
+    "https://www.ticketfairy.com/pricing/fees",
+    "https://www.ticketfairy.com/platform",
+    "https://www.ticketfairy.com/pricing",
+    "https://www.ticketfairy.com/about/",
+    "https://www.ticketfairy.com/features"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ticketfairy manufacturing customer case study",
+   "results": [
+    "https://www.ticketfairy.com/blog/category/case-studies/",
+    "https://blog.ticketfairy.com/blog/category/festival-production/case-studies/",
+    "https://www.casestudies.com/company/creatibly/case-study/the-ticket-fairy-customer-case-study",
+    "https://www.ticketfairy.com/blog/category/case-studies.md",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.ibm.com/case-studies/the-ticket-fairy-cloud-cloudant",
+    "https://www.ibm.com/cn-zh/case-studies/the-ticket-fairy-cloud-cloudant"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ticketfairy white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ticketfairy founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/96833-80",
+    "https://tracxn.com/d/companies/the-ticket-fairy/__p4XyQLzifEzYDlTTNTODIFJ6Y9LE1YUxmAV47EV7Obs",
+    "https://prospeo.io/c/ticket-fairy-revenue",
+    "https://getlatka.com/companies/ticketfairy.com",
+    "https://indexed.vc/companies/ticket-fairy",
+    "https://www.zoominfo.com/c/theticketfairy/355033256",
+    "https://startupintros.com/orgs/the-ticket-fairy"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ticketfairy",
+   "results": [
+    "https://note.com/warazi03/n/n8c020c2447bc",
+    "https://note.com/fair_fairy870/n/n4e51e2d1cfbe?hl=en",
+    "https://note.com/takejoe_dm/n/na2c45dc9090b?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/gay_fairy7360/n/ne74e18499354?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ticketfairy",
+   "results": [
+    "https://x.com/Ticket_Fairy",
+    "https://x.com/TicketFairy_App",
+    "https://x.com/hashtag/ticketfairy",
+    "https://x.com/TicketFairyIRL",
+    "https://x.com/ticketfairy_",
+    "https://x.com/ticketfairy",
+    "https://x.com/TicketFairyIN"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ticketfairy",
+   "results": [
+    "https://www.linkedin.com/jobs/ticketfairy-careers-jobs",
+    "https://ae.linkedin.com/in/thisisjigar",
+    "https://mx.linkedin.com/in/r9software",
+    "https://mx.linkedin.com/jobs/esquema-de-pagos-de-ticketfairy-empleos",
+    "https://es.linkedin.com/posts/caintra-nl_suppliers-day-activity-7450710128670093312-7fzn",
+    "https://www.linkedin.com/company/ticket-fairy",
+    "https://ae.linkedin.com/company/ticket-fairy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ticketfairy",
+   "results": [
+    "https://www.facebook.com/theticketfairy/",
+    "https://www.facebook.com/61575068974622/",
+    "https://www.facebook.com/groups/1595646441234802/",
+    "https://www.facebook.com/ticketfairy/",
+    "https://www.facebook.com/ticketfairyae/",
+    "https://www.facebook.com/p/Ticket-Fairy-PH-61573787971009/",
+    "https://www.facebook.com/ticketfairy/posts/final-wave-3-of-ticket-sales-for-the-starladder-budapest-major-2025-playoffs-are/1432831081601533/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ticketfairy note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ticketfairy X 投稿",
+   "results": [
+    "https://x.com/ticketfairy",
+    "https://x.com/TicketFairyIRL",
+    "https://x.com/Ticket_Fairy",
+    "https://x.com/ticketfairy_",
+    "https://x.com/TicketFairy_App",
+    "https://x.com/TicketFairy_App/reposts",
+    "https://www.ticketfairy.com/guides/set-up-an-x-twitter-pixel"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}
