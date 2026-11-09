@@ -374,6 +374,15 @@ def rows_from_doc(topic, d):
                     if re.search(r"(上位|下位|トップ|ボトム|top|bottom)\s*$", q[max(0, m.start() - 5):m.start()], re.I) and m.group(2) in ("%", "％"):
                         drop(topic, "分位の名前（上位・下位10%・4-81）"); continue
                     v, u = norm(*m.groups())
+                    # 2026-11-09 94回目の走査の失敗から（4-119）：mfg_capacity の金型の品目で、金型新聞の「10年に1兆873億円まで落ち込んだ」
+                    # 「17年には1兆5257億円」が 873億円・5257億円として入った（兆の部分を落とし、12分の1以下の桁違い）。
+                    # 数字の直前が「N兆」なら兆の分を足し、「N億」の直後の万円（3億5000万円）も億の分を足す。原文の数字にも前の部分を残す
+                    _pre_big = ""
+                    if u == "万円" and m.group(2) in ("億円", "万円", "千万円"):
+                        _pm = re.search(r"(\d+(?:\.\d+)?)\s*兆\s*$", q[max(0, m.start() - 12):m.start()]) if m.group(2) == "億円" else re.search(r"(\d{1,3}(?:,\d{3})*|\d+)\s*億\s*$", q[max(0, m.start() - 12):m.start()])
+                        if _pm:
+                            v += float(_pm.group(1).replace(",", "")) * (1e8 if m.group(2) == "億円" else 1e4)
+                            _pre_big = _pm.group(0).strip()
                     # 2026-11-06 4-56 走査の失敗から：mfg_capacity の「日本造船工業会・国交省の年ごとの新造船受注量」の %（10年推移）の欄に、
                     # 世界の建造量の国別シェア（中国 約50%・日本 8%〜16%）と前年比の増減（12%減・15%増・バルカー45%増）が同じ欄で並び、【裏付けあり】と出た。
                     # % は数字の直後の語で「増減率」「シェア・構成比」に分け、同じ欄で突き合わせない
@@ -384,6 +393,12 @@ def rows_from_doc(topic, d):
                             ctx_n = "増減率"
                         elif re.search(r"(シェア|構成比|割合|占め|のうち|share)", bef + aft, re.I):
                             ctx_n = "シェア・構成比"
+                    # 2026-11-09 94回目の走査の失敗から（4-119）：gdfreak の「前年比13.4%減の1,092億円」が増減率 +13.4 として入り、
+                    # 減った系列が増えた向きに読めた。増減率の % で直後が「減・低下・下落・縮小」、または前に「減少率」があれば負にする
+                    neg_pct = False
+                    if u == "%" and ctx_n == "増減率" and v > 0:
+                        if re.match(r"\s*\)?\s*(の)?(減|低下|下落|縮小|マイナス|down|decrease|decline)", q[m.end():m.end() + 8], re.I) or re.search(r"減少率\s*(は|が)?\s*$", q[max(0, m.start() - 8):m.start()]):
+                            v, neg_pct = -v, True
                     pre = q[max(0, m.start() - 2):m.start()]
                     neg = bool(NEGMARK.search(pre)) or (u == "万円" and pre.endswith("(") and q[m.end():m.end() + 1] == ")" and bool(FINTABLE.search(q)))  # 4-35：括弧は決算の表の文脈だけ
                     if u == "万円" and v <= 0: drop(topic, "0以下の金額"); continue
@@ -404,7 +419,7 @@ def rows_from_doc(topic, d):
                     # 2026-11-09 93回目の走査の失敗から（4-118）：mfg_capacity の金型（HS8480）の輸入のミラーの品目で、gdfreak.com の
                     # 「2023年の輸入額は前年比6.6%増の21.0億円」が「受注金額・加工賃収入」の欄に入った。輸出入の額は受託の受注・加工賃ではない。
                     # 数字の前30字に輸入・輸出の額の語があれば、金額・増減率の文脈を「貿易額（輸出入）」に分けて同じ欄で突き合わせない
-                    if re.search(r"(輸入|輸出)(額|高|金額)|(import|export)s?\s*(value)?", q[max(0, m.start() - 30):m.start()], re.I) and u in ("万円", "%"):
+                    if re.search(r"(輸入|輸出)(額|高|金額)|(import|export)s?\s*(value)?", q[max(0, m.start() - 30):m.start()], re.I) and u in ("万円", "%") and ctx_n != "シェア・構成比":  # 94回目：相手国の構成比（米国向け31.2%）を増減率にしない
                         ctx_n = "貿易額（輸出入）" if u == "万円" else "貿易額（輸出入）の増減率"
                     yield {"品目": name, "区分": cat, "文脈": ctx_n, "年": y, "値": round(v, 4), "単位": u,
                            "一次": kind, "立場": standing(url, kind),
@@ -414,9 +429,9 @@ def rows_from_doc(topic, d):
                            # 2026-11-05：mfg_capacity の引用は first_seen が無く「記録が欠けた数字 1488/1488」になった。ファイルの researched_at を取得日に使う
                            "取得日": it.get("first_seen", "") or (d.get("researched_at", "") or "")[:10],
                            "予測": "予測" if y and int(y) > NOW_YEAR else "見通し" if OUTLOOK.search(q) else "試算" if TRIAL.search(q) else "仮置き" if ASSUME.search(q) else "",
-                           "年の補正": yfix, "符号": "負" if neg and u == "万円" else "",
+                           "年の補正": yfix, "符号": "負" if (neg and u == "万円") or neg_pct else "",
                            "出典": urlparse(url).netloc, "URL": url,
-                           "原文の数字": m.group(0).strip()[:40],
+                           "原文の数字": (_pre_big + m.group(0).strip())[:40],
                            "引用": q[:QHEAD] if m.end() <= QHEAD else (QCUT.__setitem__(topic, QCUT.get(topic, 0) + 1) or q[:100] + " … " + q[max(100, m.start() - 50):m.end() + 10])}
 
 
@@ -3326,6 +3341,34 @@ def scan(topic):
                f"- 同じ品目に「ポイント」と「%の増減」が混ざる品目：{len(_mx)}件。割合の差と割合の伸びを同じ欄で比べない",
                *(f"  - {k[:30]}：ポイント {a}件・%増減 {b}件" for k, a, b in _mx[:4]),
                f"- 転載・配信の印がある引用：{len(_syn)}件。元の記事を探して出どころ1件に束ねる（4-1・4-118）",
+               ""]
+    except Exception: pass
+    # 2026-11-09 4-119（EBU Spotlight「Financial OSINT: Guide to tracing corporate assets & networks」：登記の住所は地図で
+    # 実在を確かめ、住宅・私書箱の住所は実態の証拠にしない。取った資料は時刻と一緒に保ち、後で中身が変わっても元が分かるようにする。
+    # Social Links「Due Diligence: Closing the Verification Gap」2026：否定的な記述をすぐ証拠にせず重みを付ける。出どころの不一致は深い確認に上げる）。
+    # ①引用に バーチャルオフィス・レンタルオフィス・私書箱 などの語＝その住所を工場・生産の実態の証拠にしない
+    # ②同じURL・同じ品目・同じ区分で、取得日によって値が違う＝ページが書き換わった。新しい日の値を採り、古い値も時点の印付きで残す
+    # ③倒産・破産・行政処分・違反・訴訟・リコールの語が、品目の中で出どころ1か所だけ＝手がかりどまり（独立2か所か一次の公表で確かめる）
+    try:
+        _vo = [r for r in rows if re.search(r"バーチャルオフィス|レンタルオフィス|シェアオフィス|コワーキング|私書箱|住所貸し|登記専用|virtual office|P\.?O\.? Box|registered agent", r.get("引用", "") or "", re.I)]
+        _bu = {}
+        for r in rows:
+            u = canon_url(r.get("URL", "") or "")
+            if not u or not r.get("取得日") or r.get("値") in (None, ""): continue
+            _bu.setdefault((u, r["品目"], r["区分"]), {}).setdefault(r["取得日"][:10], set()).add(str(r["値"]))
+        _chg = [(k, d) for k, d in _bu.items() if len(d) >= 2 and len({frozenset(v) for v in d.values()}) >= 2]
+        _ng = {}
+        for r in rows:
+            if re.search(r"倒産|破産|民事再生|廃業|行政処分|指名停止|業務停止|違反|訴訟|提訴|リコール|bankrupt|lawsuit|recall|sanction", r.get("引用", "") or "", re.I):
+                _ng.setdefault(r["品目"], set()).add(src_key(r))
+        _ng1 = [k for k, s in _ng.items() if len(s) == 1]
+        md += ["## 登記の住所の型、書き換わったページ、否定的な記述の重み（4-119・機械）",
+               f"- バーチャルオフィス・レンタルオフィス・私書箱などの語がある引用：{len(_vo)}件。その住所を工場・人員・生産能力の証拠にせず、事業所の所在は許認可・届出（PRTR・水濁法の特定事業場など）か年金の適用事業所で確かめる（4-119）",
+               *(f"  - {r['品目'][:30]}（{r['出典']}）" for r in _vo[:4]),
+               f"- 同じURL・品目・区分で取得日により値が違う組：{len(_chg)}組（ページが書き換わった）。新しい取得日の値を採り、古い値は時点の印を付けて残す（4-61・4-119）",
+               *(f"  - {k[1][:25]}／{k[2]}：" + "、".join(f"{d}={'/'.join(sorted(v))}" for d, v in sorted(dd.items())[-3:]) for k, dd in _chg[:4]),
+               f"- 倒産・処分・違反・訴訟・リコールの語が出どころ1か所だけの品目：{len(_ng1)}件。手がかりどまりにし、独立の2か所か一次の公表（官報・所管の処分の公表）で確かめるまで結論に使わない（4-119）",
+               *(f"  - {k[:40]}" for k in _ng1[:4]),
                ""]
     except Exception: pass
     ds = DIMSPLIT.get(topic)
