@@ -3681,6 +3681,30 @@ def scan(topic):
         md += [f"- 同じ品目・区分・単位で、最大が最小の10倍以上の欄（桁のずれ）：{len(_mag)}欄。平均・中央値で丸めず、先に単位（千円・万円・百万円）と範囲（全社・1事業所・1人）の読み違いを元の表で確かめる（4-31・4-126）",
                *(f"  - {k[0][:30]}／{k[1][:15]}：{lo:g}〜{hi:g}{k[2]}" for k, lo, hi in _mag[:5]), ""]
     except Exception: pass
+    # 2026-11-09 4-127（ONS「Asymmetries in trade data: a UK perspective」2017：貿易の値は同じ国でも基準（通関か国際収支か・一般か特別か）で版が複数あり、
+    # 評価（CIF/FOB・申告の裾切り・為替）と範囲・秘匿の規則で食い違う。Sun&R.Lab「その数字は、誰が計ったのか」note：手順が公開されない市場規模は主体が名乗っていても検証できない。
+    # Woozle Research「Expert calls」：人の声は同じ問いの型で複数人に聞き、要の数字は記録の原文で確かめ、単独の逸話にしない）
+    try:
+        _MKT = re.compile(r"市場規模|市場は.{0,12}(億|兆)|market size", re.I)
+        _HOW = re.compile(r"調査方法|推計方法|算出方法|母数|母集団|回答|対象[はに]|ベース[でに]|集計方法|methodology", re.I)
+        _mkt = [r for r in rows if r.get("値") not in (None, "") and _MKT.search(r.get("引用", "") or "")]
+        _mkt_nohow = [r for r in _mkt if not _HOW.search(r.get("引用", "") or "")]
+        _TRD = re.compile(r"輸出|輸入|貿易|export|import", re.I)
+        _BASIS = re.compile(r"通関|国際収支|CIF|FOB|一般貿易|特別貿易|保税|再輸出|原産国|仕向", re.I)
+        _trd = [r for r in rows if r.get("値") not in (None, "") and _TRD.search((r.get("品目", "") or "") + (r.get("引用", "") or ""))]
+        _trd_nob = [r for r in _trd if not _BASIS.search((r.get("品目", "") or "") + (r.get("引用", "") or ""))]
+        _VOICE = re.compile(r"専門家|元社員|元従業員|インタビュー|ヒアリング|担当者は|関係者は|話す|語る")
+        _voice = [r for r in rows if r.get("値") not in (None, "") and _VOICE.search(r.get("引用", "") or "")]
+        _vh = {}
+        for r in _voice: _vh.setdefault(r.get("品目", ""), set()).add(r.get("出典", ""))
+        _v1 = [k for k, s in _vh.items() if len(s) < 2]
+        md += ["## 手順の無い市場規模・貿易の基準・人の声の単独（4-127・機械）",
+               f"- 市場規模の数字の行：{len(_mkt)}件のうち、引用に調査・推計の方法・母数・対象の語が無い行：{len(_mkt_nohow)}件。主体が名乗っていても手順が公開されない推計は【未検証】止まりにし、主体・時期・母数・手順の4点が取れるまで採る値の根拠にしない（4-115・4-127）",
+               *(f"  - {r['品目'][:30]}：{r.get('値')}{r.get('単位', '')}（{r.get('出典', '')}）" for r in _mkt_nohow[:4]),
+               f"- 貿易（輸出・輸入）の数字の行：{len(_trd)}件のうち、基準（通関か国際収支か・CIF/FOB・一般か特別か・原産国か仕向国か）の語が無い行：{len(_trd_nob)}件。基準の違う値を同じ欄で比べず、ミラーの食い違いはゼロにならない前提で型（評価・範囲・時期・相手国の付け方・秘匿）を書く（4-117・4-127）",
+               f"- 人の声（専門家・元社員・関係者の話）の数字の行：{len(_voice)}件、品目で{len(_vh)}品目。うち出典が1か所だけの品目：{len(_v1)}品目。同じ問いの型で2人以上に当てるまで証言どまりにし、要の数字は話の原文で確かめる（4-106・4-127）",
+               *(f"  - {k[:40]}" for k in _v1[:4]), ""]
+    except Exception: pass
     ds = DIMSPLIT.get(topic)
     if ds:
         md.insert(3, f"- 食い違いの次元の集計（4-60・4-61）：【食い違い】{ds[0] + ds[1]}欄のうち、次元で分かれた {ds[0]}欄・分かれない {ds[1]}欄（{ds[1] / (ds[0] + ds[1]):.0%}）。分かれない欄は同じ対象か・単位の読みを本文で先に確かめる")
