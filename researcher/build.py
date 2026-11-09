@@ -24,9 +24,12 @@ def pending() -> list[str]:
 
 def main() -> int:
     # 2026-11-09 本人の最優先（表彰リスト起点の芋づる）を先に回す。他の名簿づくりは止めずに後ろで続ける
-    for b in sorted(pending(), key=lambda b: b != "researcher.build_award_chain"):
+    # 2026-11-09 本人：世界のAM原料メーカー名簿を最優先。1回90分で区切り、残りは次の回に続ける（award_chain を止めない）
+    order = {"researcher.build_feedstock_dir": 0, "researcher.build_award_chain": 1}
+    for b in sorted(pending(), key=lambda b: order.get(b, 2)):
         print(f"build {b}", flush=True)
-        importlib.import_module(b).main()
+        m = importlib.import_module(b)
+        m.main(90 * 60) if b == "researcher.build_feedstock_dir" else m.main()
     return 0
 
 
