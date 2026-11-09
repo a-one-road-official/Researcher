@@ -8,8 +8,76 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T00:59:01.219032+00:00",
+ "researched_at": "2026-11-09T12:14:57.424061+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes",
+    "url": "https://lanes.info/un-comtrade-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴",
+    "url": "https://lanes.info/un-comtrade-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本記事では、登録からデータの落とし穴、類似データベースとの使い分けまでを一気に解説します",
+    "url": "https://lanes.info/un-comtrade-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "データの落とし穴3点",
+    "url": "https://lanes.info/un-comtrade-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "「報告国によるデータの欠落・遅延」「鏡像統計の不一致」「再輸出・経由地の扱い」の3点を押さえると、数字の読み間違いを防げます",
+    "url": "https://lanes.info/un-comtrade-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "注意したいのは、2023年に旧サイトから新プラットフォーム「UN Comtrade Plus」（comtradeplus.un.org）へ移行している点です",
+    "url": "https://lanes.info/un-comtrade-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ベトナム側の報告とは一致しません（理由は後述の落とし穴②で説明します）",
+    "url": "https://lanes.info/un-comtrade-guide/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Recognising the challenge of adjusting trade in goods data from an overseas trade statistics (OTS) to a balance of payments (BoP) basis, we are reviewing our balance of payments adjustments and we will continue to investigate the potential of alternative reconciliation analysis such as the measurement of bias in global asymmetries.",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "pitfalls of commonly used trade asymmetry measures and is therefore more suited for",
+    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "trade balance using unmirrored (one-sided) data will naturally be biased due to the structural",
+    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(Farhad et al., 2023). Alternatively, compositional bias can be addressed using complex",
+    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes",
@@ -331,74 +399,6 @@
    },
    {
     "quote": "guidelines or valuation methods are guaranteed to induce certain types of discrepancies, such",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本記事では、登録からデータの落とし穴、類似データベースとの使い分けまでを一気に解説します",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データの落とし穴3点",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「報告国によるデータの欠落・遅延」「鏡像統計の不一致」「再輸出・経由地の扱い」の3点を押さえると、数字の読み間違いを防げます",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "注意したいのは、2023年に旧サイトから新プラットフォーム「UN Comtrade Plus」（comtradeplus.un.org）へ移行している点です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ベトナム側の報告とは一致しません（理由は後述の落とし穴②で説明します）",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Recognising the challenge of adjusting trade in goods data from an overseas trade statistics (OTS) to a balance of payments (BoP) basis, we are reviewing our balance of payments adjustments and we will continue to investigate the potential of alternative reconciliation analysis such as the measurement of bias in global asymmetries.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "pitfalls of commonly used trade asymmetry measures and is therefore more suited for",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "trade balance using unmirrored (one-sided) data will naturally be biased due to the structural",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "(Farhad et al., 2023). Alternatively, compositional bias can be addressed using complex",
     "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -1246,12 +1246,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
+    "url": "https://note.com/kagawatomo/n/n01fac79cb116",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n01fac79cb116",
+    "url": "https://note.com/kagawatomo/n/n56f2676ca976",
     "status": "ok",
     "method": "http"
    },
@@ -1266,12 +1266,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
+    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
+    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
     "status": "ok",
     "method": "http"
    },
@@ -1286,7 +1286,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "url": "https://tradigi.jp/tradigi-plus/post-1182/",
     "status": "ok",
     "method": "http"
    },
@@ -1301,7 +1301,7 @@
     "method": "http"
    },
    {
-    "url": "https://hunade.com/trade-tools/trade-insight",
+    "url": "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
     "status": "ok",
     "method": "http"
    },
@@ -1311,7 +1311,7 @@
     "method": "http"
    },
    {
-    "url": "https://lanes.info/un-comtrade-guide/",
+    "url": "https://hunade.com/trade-tools/trade-insight",
     "status": "ok",
     "method": "http"
    },
@@ -1321,14 +1321,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.customs.go.jp/toukei/srch/index.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.mof.go.jp/pri/publication/research_paper_staff_report/research12.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/suii/html/time.htm",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.rieti.go.jp/jp/columns/a01_0362.html",
@@ -1361,12 +1361,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
+    "url": "https://growthlab.hks.harvard.edu/wp-content/uploads/2025/10/2025-07-glwp-251-tackling-discrepancies-in-trade-data.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://growthlab.hks.harvard.edu/wp-content/uploads/2025/10/2025-07-glwp-251-tackling-discrepancies-in-trade-data.pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1376,9 +1376,9 @@
     "method": "http"
    },
    {
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
+    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    }
   ]
  },
@@ -1389,8 +1389,8 @@
     "https://note.com/hirokimiyano/n/n5cd5eb7cda32",
     "https://note.com/hirokimiyano/n/n7aec801c5f4c",
     "https://note.com/hirokimiyano/n/na7ae1d5b292b",
-    "https://note.com/kagawatomo/n/n56f2676ca976",
     "https://note.com/kagawatomo/n/n01fac79cb116",
+    "https://note.com/kagawatomo/n/n56f2676ca976",
     "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
     "https://note.com/ichi_twnovel/n/nb85aec486947",
     "https://note.com/reading_monkey/n/n935f8f56943b",
@@ -1407,14 +1407,14 @@
    "query": "貿易統計のミラー分析と食い違いの元（輸入CIF・輸出FOB・計上時点・相手国の帰属・再輸出・UN IMTS の編集の手引き・World Customs Journal・日本の財務省の説明・4-117） note",
    "results": [
     "https://www.customs.go.jp/toukei/info/",
-    "https://note.com/todobuono/n/n5d38cbc70d73",
     "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
+    "https://note.com/todobuono/n/n5d38cbc70d73",
     "https://note.com/skater_24/n/n8b2baf742fcc",
     "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
-    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
     "https://tradigi.jp/tradigi-plus/post-1182/",
-    "https://officekaisuiyoku.com/trade/",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
     "https://www.rieti.go.jp/jp/columns/a01_0362.html",
+    "https://officekaisuiyoku.com/trade/",
     "https://note.com/ianak_20251121/n/n43e3dbafea1a"
    ],
    "engines": [
@@ -1430,26 +1430,26 @@
     "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_plan/material/20171129/kank20171129siryo2.pdf",
     "https://tradigi.jp/tradigi-plus/post-1076/",
     "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
-    "https://hunade.com/trade-tools/trade-insight",
     "https://officekaisuiyoku.com/trade/",
-    "https://lanes.info/un-comtrade-guide/",
-    "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://hunade.com/trade-tools/trade-insight",
     "https://ndlsearch.ndl.go.jp/rnavi/business/post_102099",
+    "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://digitalpr.jp/r/11671",
     "https://note.com/ianak_20251121/n/n43e3dbafea1a"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "貿易統計のミラー分析と食い違いの元（輸入CIF・輸出FOB・計上時点・相手国の帰属・再輸出・UN IMTS の編集の手引き・World Customs Journal・日本の財務省の説明・4-117） 事例",
    "results": [
-    "https://www.customs.go.jp/toukei/srch/index.htm",
     "https://www.mof.go.jp/pri/publication/research_paper_staff_report/research12.pdf",
     "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
     "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://www.customs.go.jp/toukei/suii/html/time.htm",
     "https://www.rieti.go.jp/jp/columns/a01_0362.html",
     "https://www.mri.co.jp/knowledge/insight/dep/2014/uploadfiles/dep20140127-01.pdf",
     "https://note.com/skater_24/n/n8b2baf742fcc",
@@ -1458,7 +1458,7 @@
     "https://note.com/ianak_20251121/n/n43e3dbafea1a"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1468,13 +1468,13 @@
    "results": [
     "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
     "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
     "https://growthlab.hks.harvard.edu/sites/projects.iq.harvard.edu/files/2025-07-glwp-251-tackling-discrepancies-in-trade-data.pdf",
-    "https://oecdecoscope.blog/2017/12/22/statistical-insights-merchandise-trade-statistics-without-asymmetries/",
     "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "https://escoe-website.s3.amazonaws.com/wp-content/uploads/2020/07/13153449/ESCoE-DP-2018-01-smaller.pdf",
+    "https://oecdecoscope.blog/2017/12/22/statistical-insights-merchandise-trade-statistics-without-asymmetries/",
+    "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
     "https://www.unescap.org/sites/default/files/AWP%20No.%20156.pdf",
-    "https://www.researchgate.net/publication/357227528_Mirror_data_asymmetry_in_international_trade_by_commodity_group_the_case_of_intra-Community_trade",
+    "https://escoe-website.s3.amazonaws.com/wp-content/uploads/2020/07/13153449/ESCoE-DP-2018-01-smaller.pdf",
+    "https://www.wcoesarocb.org/wp-content/uploads/2017/03/11-Mirror-analysis-guide-FINAL-EN.pdf",
     "https://casrai.org/guides/un-comtrade"
    ],
    "engines": [
@@ -1489,8 +1489,8 @@
     "https://note.com/hirokimiyano/n/n5cd5eb7cda32",
     "https://note.com/hirokimiyano/n/n7aec801c5f4c",
     "https://note.com/hirokimiyano/n/na7ae1d5b292b",
-    "https://note.com/kagawatomo/n/n01fac79cb116",
     "https://note.com/kagawatomo/n/n56f2676ca976",
+    "https://note.com/kagawatomo/n/n01fac79cb116",
     "https://note.com/ichi_twnovel/n/nf3812ef43dcb",
     "https://note.com/ichi_twnovel/n/nb85aec486947",
     "https://note.com/reading_monkey/n/n935f8f56943b",
@@ -1507,15 +1507,15 @@
    "query": "site:x.com 貿易統計のミラー分析と食い違いの元（輸入CIF・輸出FOB・計上時点・相手国の帰属・再輸出・UN IMTS の編集の手引き・World Customs Journal・日本の財務省の説明・4-117）",
    "results": [
     "https://x.com/crx7601/status/1804154052156035124",
+    "https://x.com/SakemotoMasao/status/2053274689854906556",
     "https://x.com/_596_/status/2072631023310176295",
     "https://x.com/yutakarlson/status/691942858312564736",
-    "https://x.com/SakemotoMasao/status/2053274689854906556",
     "https://x.com/YoichiTakahashi/status/691888060464758784",
     "https://x.com/quant_turk/status/2118443912419303828",
     "https://x.com/MOF_Japan/status/2046799023903027556"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1531,7 +1531,7 @@
     "https://jp.linkedin.com/posts/fronteo_1222-セミナーサプライチェーン研究の新展開産業連関表企業データai-activity-7406257880074530816-IuCP"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1541,9 +1541,9 @@
     "https://www.facebook.com/Japan.Customs/posts/貿易統計神戸税関は令和8年7月分の神戸港貿易概況速報を発表しました-7月分の神戸港の輸出は鉄鋼などが減少したものの非鉄金属原動機などが増加し7119億円対前年同/1471717808325064/",
     "https://www.facebook.com/Japan.Customs/posts/貿易統計神戸税関は令和8年8月分の神戸港貿易概況速報を発表しました-8月分の神戸港の輸出は重電機器などが減少したものの精油香料及び化粧品類プラスチックなどが増加/1495097772653734/",
     "https://www.facebook.com/Japan.Customs/posts/貿易統計神戸税関は令和7年分及び令和7年12月分の神戸港貿易概況速報を発表しました-令和7年の神戸港は輸出が無機化合物などが減少したものの非鉄金属原動機などが増/1295742605922586/",
-    "https://www.facebook.com/Japan.Customs/posts/貿易統計横浜税関は２０２６年３月分横浜港の貿易速報等を発表しました２０２６年３月分について横浜港の輸出額は9090億円対前年同月比122増となり１４か月連続の増/1371609821669197/",
     "https://www.facebook.com/masato.suzuki.564/videos/簗農水大臣の道路予算大幅カット発言に高橋洋一氏が反論国交省データと食い違いオールドメディアの報道姿勢にも疑問オールドメディア界のニューメディア静岡朝日テレビの情/1753220275790307/",
     "https://www.facebook.com/457163418126981/posts/統計答弁とメール食い違い-元秘書官の影響否定官邸意識にじむ記載朝日新聞デジタルhttpsprimenewsfunp28731/547438649099457/",
+    "https://www.facebook.com/Japan.Customs/posts/貿易統計横浜税関は２０２６年３月分横浜港の貿易速報等を発表しました２０２６年３月分について横浜港の輸出額は9090億円対前年同月比122増となり１４か月連続の増/1371609821669197/",
     "https://www.facebook.com/hakusuit/posts/見てみてモトランサー3倍ミラーモトランサー等倍ミラー最後臼歯部の見え方が違います白水貿易-モトランサーミラー-3倍ミラー歯科医師歯科衛生士/1636895967974176/"
    ],
    "engines": [
@@ -1557,12 +1557,12 @@
     "https://note.com/glad_auklet4142/n/n3696cc049baf",
     "https://newscast.jp/smart/news/3295086",
     "https://researchmap.jp/myom/presentations/21420428",
-    "https://note.com/mbaai/n/neb69427a2412",
+    "https://note.com/hirokimiyano/n/n7aec801c5f4c",
     "https://str.toyokeizai.net/files/user/images/magazine/toyo/teisei/%E9%80%B1%E5%88%8A%E6%9D%B1%E6%B4%8B%E7%B5%8C%E6%B8%8811%E6%9C%8811%E6%97%A5%E5%8F%B7_p72%E8%A8%82%E6%AD%A3.pdf",
     "https://acy.com/ja/market-news/market-analysis/Japan-121047/?zhihu=article",
-    "https://note.com/hirokimiyano/n/n7aec801c5f4c",
-    "https://www.nikkei.com/article/DGXZQOGN12CXY0S5A510C2000000/",
     "https://news.infoseek.co.jp/article/shueisha_258844/?tpgnr=busi-econ",
+    "https://www.keidanren.or.jp/pri/theme/data/241031_report_eu.pdf",
+    "https://note.com/hirokimiyano/n/n5cd5eb7cda32",
     "https://note.com/ianak_20251121/n/n43e3dbafea1a"
    ],
    "engines": [
@@ -1575,21 +1575,19 @@
    "query": "貿易統計のミラー分析と食い違いの元（輸入CIF・輸出FOB・計上時点・相手国の帰属・再輸出・UN IMTS の編集の手引き・World Customs Journal・日本の財務省の説明・4-117） X 投稿",
    "results": [
     "https://www.customs.go.jp/toukei/info/",
-    "https://tradigi.jp/tradigi-plus/post-1182/",
-    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
-    "https://www.youtube.com/watch?v=ZG8BJmPhzNo",
     "https://www2.econ.osaka-u.ac.jp/jsie/14-1.pdf",
+    "https://www.ide.go.jp/Japanese/Library/Rnavi/stats07.html",
+    "https://tradigi.jp/tradigi-plus/post-1182/",
     "https://digitalpr.jp/r/11671",
     "http://www.world-economic-review.jp/impact/article1723.html",
+    "https://www.youtube.com/watch?v=ZG8BJmPhzNo",
     "https://www.mof.go.jp/pri/publication/research_paper_staff_report/research12.pdf",
-    "https://www.rieti.go.jp/jp/columns/a01_0362.html",
-    "https://note.com/ianak_20251121/n/n43e3dbafea1a"
+    "https://x.com/TMiyajima1115/status/2112699905441739034"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "mirror statistics bilateral trade asymmetry CIF FOB reconciliation method Comtrade site:linkedin.com",
@@ -1598,1235 +1596,18 @@
     "https://www.linkedin.com/posts/confiacontrolsystem-livemart_internationaltrade-supplychainstrategy-logistics-activity-7420814827603865600-Yn90",
     "https://www.linkedin.com/pulse/what-difference-between-mirror-data-regular-importexport-schuck-wei-gddbc",
     "https://www.linkedin.com/posts/pudasainimohan_statsforum-imfdata-tradeasymmetry-activity-7395282989091414017-3qng",
+    "https://www.linkedin.com/posts/davieingram_globaltrade-macroeconomics-dataanalytics-activity-7360719329161584640-S2-5",
     "https://www.linkedin.com/posts/ankitattri07_internationaltrade-logistics-supplychain-activity-7343299551937626114-tzNM",
-    "https://www.linkedin.com/pulse/incoterms-2020-fob-cif-patrick-chan-630je",
     "https://www.linkedin.com/posts/steven-cassimon-93560210b_glad-to-have-contributed-to-the-newly-released-activity-7323992331748007936-vyTM"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "基本の検索手順——指定するのは4点だけ",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "毎回この手順を踏むのが大変なら——地図で見る選択肢",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "なお、日本の輸入に絞って相手国シェアやHHI（輸入集中度）を財務省貿易統計で調べる通し手順は、別記事「",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "単発の調査なら、本記事のComtradeの手順で十分です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "輸入依存度の調べ方｜貿易統計とHSコードで相手国シェア・HHIを計算する3ステップ",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "IMTS Bilateral asymmetries – how to measure, analyze, reduce and way forward",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "• variations in data compilation and estimation methods, and confidentiality among other reasons.",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Step I. Check existence of bilateral asymmetries",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Step II. Examine sources of differences",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Methods for estimating freight and insurance on imports",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "application of partner attribution may impact adjustment methodology.",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "methods for estimating the difference due to a time lag should be derived.",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Step III. Applying Adjustment and Conduct Initial Analysis",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "An i ndicator of remaining asymmetries (RA) can be computed by applying methodological related",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In the same way as the methodology is used for total trade, it can also be used for commodity",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Step IV. Unexplained discrepancies",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "discrepancies (i.e., reporting errors) . As the first step , relevant raw data from original customs",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "As part of bilateral asymmetrical studies, strateg ies and methods can be developed to conduct",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "• Enhance estimation methods and using additional data sources e.g. sample surveys.",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "How to Access UN Comtrade data?",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "How to create an account",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "How to Delete Your Account",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "How to use UN Comtrade via World Integrated Trade Solution (WITS)",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "How to retrieve data for “World” exports to a country in UN Comtrade?",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Methodology and Manuals",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Compilation Methodology",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Reflecting Methodological Causes of Bilateral Asymmetry for the Forthcoming Revision of IMTS Concepts and Definition (2021):",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Trade asymmetries exist for many reasons including coverage and methodological differences, timing and valuation differences and discrepancies in the currency conversions of the final estimates. These reasons are",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Methodological notes (BPM6)",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Some of the UK trade asymmetries described above are large, but it is important to remember that all countries have trade asymmetries. Within the EU, all countries use the same framework for compiling trade statistics. Nonetheless, large asymmetries still exist.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Valuation differences (for example, differences in methods of estimating value of exports (CIF) and imports (FOB); differences in declaration thresholds; exchange rate fluctuations).",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Differences in coverage and methodology (for example, differences in survey methods; exclusions of particular types of goods or services; differences in disclosure control rules and so on).",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Common reporting frameworks aimed at standardising trade surveillance. These have quite recently been harmonised, especially for trade in services (introduced only in 2014 through ESA 2010). Many lower-income countries have limited resources to implement new frameworks.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "8.1 Common reporting frameworks",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Common reporting frameworks include the International Monetary Fund’s (IMF’s) Balance of Payments and International Investment Position Manual (BPM6), Eurostat’s European System of National and Regional Accounts (ESA 2010) and the System of National Accounts (SNA 2008). Implementation of BPM6 is voluntary and for many low- and middle-income countries, challenging to resource.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "U.S. International Economic Accounts: Concepts and Methods",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "3. Methods for measuring discrepancies in trade reporting ................................ .................. 7",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "methods for measuring reporting discrepancies in international merchandise trade and provides",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "reasons related to the valuation methods and reporting guidelines for international merchandise",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "structural discrepancies. An example of this structural discrepancy occurs in valuation methods",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "discrepancies that cannot entirely be explained by differences in valuation methods (Carrère &",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "comprehensive methodology that considers re-exporting on a global scale. The challenge of",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Therefore, structural constraints, such as differences in valuation methods, result in many",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "An important question then is how to infer whether the observed discrepancy is “expected,” i.e.,",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "3. Methods for measuring discrepancies in trade reporting",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "comparison between trade values recorded under different valuation methods. That is, bilateral",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "discussed, because of differences in valuation methods the average 𝐷𝐼𝑎 should ideally be",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "discrepancy that occurs in the valuation method. We empirically demonstrate this point by",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the study. Finding these countries is a crucial step in empirical investigations, as analysis that",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Next, we explore how to apply the trade reporting indicators to decide when the use of mirror",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "guidelines or valuation methods are guaranteed to induce certain types of discrepancies, such",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本記事では、登録からデータの落とし穴、類似データベースとの使い分けまでを一気に解説します",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データの落とし穴3点",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「報告国によるデータの欠落・遅延」「鏡像統計の不一致」「再輸出・経由地の扱い」の3点を押さえると、数字の読み間違いを防げます",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "注意したいのは、2023年に旧サイトから新プラットフォーム「UN Comtrade Plus」（comtradeplus.un.org）へ移行している点です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ベトナム側の報告とは一致しません（理由は後述の落とし穴②で説明します）",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Recognising the challenge of adjusting trade in goods data from an overseas trade statistics (OTS) to a balance of payments (BoP) basis, we are reviewing our balance of payments adjustments and we will continue to investigate the potential of alternative reconciliation analysis such as the measurement of bias in global asymmetries.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "pitfalls of commonly used trade asymmetry measures and is therefore more suited for",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "trade balance using unmirrored (one-sided) data will naturally be biased due to the structural",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "(Farhad et al., 2023). Alternatively, compositional bias can be addressed using complex",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "為替レートに関連して貿易収支が取り上げられる場合、そのデータ元は「国際収支統計」（財務省・日本銀行）",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ただ、国際収支統計は実績値が明らかになるまで時間がかかります",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "速報性が高いのは貿易統計（財務省）における貿易収支",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "と表記されていますが、計算の考え方は国際収支統計と同じです",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2023年３月の貿易統計の速報値は４月20日に公表されてます",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "国際収支統計の貿易収支の赤字は、貿易統計のそれより少ない",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "国際収支統計の貿易収支の赤字は、貿易統計の「貿易収支」より少ない傾向",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "下の図は、それぞれの統計の輸出額から輸入額を差し引いた貿易収支を比較したものです",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "そして、貿易統計の貿易収支から国際収支統計の貿易収支を差し引いた金額を緑色の棒グラフで示しています",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "国際収支統計の貿易収支は貿易統計の貿易収支よりも少ない傾向にあることがわかります",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "（出典）「貿易統計」（財務省）、「国際収支統計」（財務省・日本銀行）をもとに作成",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "輸入額の違いが両統計の貿易収支の違いの主因",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "なぜ国際収支統計における貿易収支の赤字幅が、貿易統計のそれより小さくなる",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "下の図は、貿易統計の輸入額と国際収支統計の輸入額を折れ線グラフで、貿易統計の輸入額から国際収支統計の輸入額を差し引いたものと、緑色の棒グラフで示しています",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "棒グラフは上向き、すなわち、貿易統計の輸入額が一貫して国際収支統計の輸入額より大きいことがわかります",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "国際収支統計の貿易収支と貿易統計（通関ベース）との相違点",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "貿易収支は、財務省関税局が発表している貿易統計（以下「貿易統計」といいます）を基礎資料として作成しています",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "しかし、両統計には以下のように、計上する範囲や時期などの基準が異なるため、国際収支統計に計上する際には、ＩＭＦの基準に従って所要の調整を行っています",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "貿易統計として公表される輸入金額は、我が国通関地点における貨物価格（ＣＩＦ：Cost, Insurance and Freight、貨物代金に加えて、仕向地までの運賃・保険料が含まれた価格）を集計したものです",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "他方、国際収支統計においては、物の取引と、サービスの取引とは区別して計上することを原則としているため、貿易収支には、輸出国における船積み価格（ＦＯＢ：Free On Board、本船渡し価格）を計上し、運賃・保険料等の諸経費については、サービス収支に計上しています",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "貿易統計は、我が国の税関における貨物の通関という観点に立ち、物の輸出入を物理的に捕らえ、税関を通過した時点（関税境界）を計上する時期・範囲としています",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "しかし、国際収支統計は、税関を通過したかどうかに関わらず、居住者と非居住者の間で所有権が移転した貨物を計上しています",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、日本がアメリカ製の人工衛星を購入し、アメリカで打ち上げるケースについては、人工衛星の所有権がアメリカから日本に移転した時点で国際収支統計の貿易収支には計上されますが、人工衛星は関税境界を越えませんので、貿易統計には計上されません",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "※貿易統計に関する詳細については、",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴 | Lanes",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "貿易ニュース×統計×企業データを1画面に集約する分析アプリ",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtradeの使い方｜世界の貿易統計を無料で調べる手順とデータの落とし穴",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "答えの筆頭が、国連の貿易統計データベース「UN Comtrade」です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtradeは約200カ国・地域が国連に報告する公式貿易統計を集約したデータベースで、1962年以降の輸出入を品目（HSコード）単位で検索できます",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "「報告国によるデータの欠落・遅延」「鏡像統計の不一致」「再輸出・経由地の扱い」の3点を押さえると、数字の読み間違いを防げます",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtradeは、国連統計部が運営する国際貿易統計データベースです",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "各国の税関統計をもとに、約200カ国・地域の輸出入を1962年から収録しています",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここで選んだ国の税関統計が数字の出どころになります",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "たとえばReporterを日本、Partnerをベトナムにした輸入額は、日本の税関統計から見た数字です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "対象国の報告が欠けている期間は、相手国側の報告（鏡像統計）で補って読むのが実務の定石です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "なお、日本の輸入に絞って相手国シェアやHHI（輸入集中度）を財務省貿易統計で調べる通し手順は、別記事「",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UN Comtrade（comtradeplus.un.org）: 国連統計部の公式貿易統計データベース",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "WTO Stats（stats.wto.org）: WTOの統計ポータル",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "取引先や調達先の国が「何で稼ぎ、何に頼っているか」を、貿易統計で確かめるための入口です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4 For IFFs, see for example: https://www.oecd.org/corruption/Illicit_Financial_Flows_from_Developing_Countries.pdf",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "5 For more information, see https://unstats.un.org/unsd/trade/eg-imts/IMTS%202010%20(English).pdf",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://www150.statcan.gc.ca/n1/en/pub/13-605-x/2018001/article/54962-eng.pdf?st=DUPYB3kM",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://unstats.un.org/unsd/tradekb/Knowledgebase/50231/Asymmetry-in-foreign-trade-statistics-in-Mediterranean-",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "trade-statistics-in-Mediterranean-partner-countries",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The UN Comtrade databases, the primary source of official merchandise trade data collected",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "例えば、みずほ銀行チーフ・マーケット・エコノミストの唐鎌大輔氏は、下記のnote(comemo）で",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、最新の2023年３月の実績値が公表されたのは2023年5月11日で１ヵ月強かかっています",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、あるモノ（財）を海外に送ると、貿易統計上は輸出とカウントされます",
-    "url": "https://note.com/todobuono/n/n5d38cbc70d73",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "例えば、日本がアメリカ製の人工衛星を購入し、アメリカで打ち上げるケースについては、人工衛星の所有権がアメリカから日本に移転した時点で国際収支統計の貿易収支には計上されますが、人工衛星は関税境界を越えませんので、貿易統計には計上されません",
-    "url": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/difference.html",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "結果の見方で重要なのは、表示される金額が「Reporterに選んだ国の報告値」だという点です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "publications on bilateral asymmetries and to offer step-by-step guidance, with templates and examples,",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "inclusion of commodities (scope) . In these cases, compensating adjustments are needed if the",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "i. in the case of imports, the country of origin should be recorded,6",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ii. in the case of exports, the country of last known destination should be recorded.",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "reliable valuation of goods in all cases, especially for problem atic categories and irrespective of",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4 For IFFs, see for example: https://www.oecd.org/corruption/Illicit_Financial_Flows_from_Developing_Countries.pdf",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "different economic meaning. For example, if the US would record imports on the country of consignment basis then all",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "From examples above, many commodities can be impacted by asymmetries whether they are primary",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "9 The case study is adapted from Statistics Canada (2018), Comparing Canada’s and China’s bilateral trade data. URL:",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Example: Trade between Canada (CAN) and China (CHN)",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "and needs to be assessed further. In this example, inbound trade covers CAN imports and CHN exports,",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Example: Trade between CAN and CHN",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "11 For an example, see MEDSTAT II: Asymmetry in foreign trade statistics in Mediterranean partner countries",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "(see trade system above). Almost in all cases the information of the country of consignment is crucial",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Example: Country of consignment between CAN and CHN",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Showcases in Visualization Labs",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "in the case of imports, the country of origin should be recorded;",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "in the case of exports, the country of last known destination should be recorded.",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "When goods and services are traded (imported and exported) between countries, the transactions are reported twice: once by each country in the bilateral relationship. Simplistically the credits (exports) and debits (imports) that each country records should be identical. In reality, this is rarely the case and the discrepancy is known as an “asymmetry”.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "There are different ways to measure asymmetries and work on this subject is well documented by HM Revenue and Customs (HMRC), for example in HMRC’s publication",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This measures goods imports and exports as they move across borders. So, for example, if a good moves across the UK border it will be an import or export as measured on an OTS basis.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The special trade basis excludes those goods that have been brought into a country but are not in free circulation. For example, if the goods are moved into a bonded warehouse. General trade has a broader definition, capturing those goods.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Those less familiar with international trade data may find the multiplicity of estimates available difficult to navigate. Standard international sources appear to offer multiple versions of UK trade data. For example:",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Valuation differences (for example, differences in methods of estimating value of exports (CIF) and imports (FOB); differences in declaration thresholds; exchange rate fluctuations).",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Differences in coverage and methodology (for example, differences in survey methods; exclusions of particular types of goods or services; differences in disclosure control rules and so on).",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "7.2 Illustrative example",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Example of persistent asymmetries",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This describes an example for the UK of the type of work done to resolve asymmetries – and in doing so illustrates why we expect some asymmetries to persist.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "HM Revenue and Customs (HMRC) also take part in a bi-annual Eurostat-led asymmetries exercise for goods. Recent discussion with Germany proved useful for both countries whilst HMRC has had successes outside the EU with changes in measurement of natural gas imported from Norway, for example.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "For example, to better understand and potentially reduce trade in services asymmetries with the US, we are prioritising further bilateral discussions with the Bureau of Economic Analysis (BEA) and we will continue our bilateral discussions more widely.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2016, Marko Javorsek. Asymmetries in international merchandise trade statistics: A case study of selected countries in Asia and the Pacific . ARTNeT Working Paper Series No. 156, 2016, Bangkok, ESCAP. Available at:",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "case studies of Senegal and the trade relationship between",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "5.3. The case of Senegal ................................ ................................ ................................ ...38",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "outlines the study’s key findings and results along with examples and country case studies.",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "structural discrepancies. An example of this structural discrepancy occurs in valuation methods",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "structurally create transactions without a corresponding mirror in cases where exports pass",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "through intermediate countries before reaching their final destination. In such cases, reported",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "asymmetry measures will indicate import overreporting in cases where import records simply",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "discrepancies. For example, if the Discrepancy Index of a bilateral transaction is -0.6, the",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "acknowledge that in some cases, transport costs may not be a linear function of the size of",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "For example, the distribution presented in Figure 2 was obtained by allowing A and B to vary",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "example, Lebanon in 2017 had a ratio of six, a clear outlier compared with other countries.",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "consider the case of trade balances. Trade surpluses and deficits are often important drivers of",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "As an example, consider the trade between Madagascar and France. France has consistently",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "in Figure 8. For example, in 2015, Madagascar reported a trade surplus of 253 million USD with",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "0.95, showing little (if any) account of this value in Madagascar’s imports. Therefore, in case of",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "【示唆】「どこで作られたか」を知りたいときは、再輸出を除いた国産品輸出（Domestic Export）を選べるか確認するか、経由地を挟まない相手国側の輸入報告と突き合わせて読むのが安全です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "補足すると、BACIはComtradeの生データからCIF費用を推計して取り除き、報告国の信頼性で重み付けすることで、輸出側と輸入側の食い違いを1つの値に調整した研究用データセットです（現行版は202601、HS17版は2017〜2024年を収録）",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "鏡像の突き合わせを自分でやりたくない分析には、BACIのような調整済みデータが向きます",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "HSコードを調べ、ReporterとPartnerを切り替え、鏡像を突き合わせる——一度なら数十分でも、月次のルーチンにするには重い作業です",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データは鏡像調整済みのCEPII BACI（HS17）なので、輸出側・輸入側の報告を自分で突き合わせる必要もありません",
-    "url": "https://lanes.info/un-comtrade-guide/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "differences, including undetected under and over -declaration of values, different value estimates for",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Source: UN Comtrade estimates",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Estimate of the import value impacted by time lag $",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Estimate as percent (%) of R total imports %",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The m ethod to estimate time lags would depend on dominant mode of transport. In case of sea",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Estimate of the import value in million impacted by time lag $234",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Estimate as percent (%) of CAN total imports 0.5%",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CIF/FOB valuation estimate –",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "*CIF/FOB estimate 1.2",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "*CIF/FOB estimate 0",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "*CIF/FOB estimate 9",
-    "url": "https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Seaborne Trade Estimates – Archive",
-    "url": "https://uncomtrade.org/docs/bilateral-asymmetries/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Trade asymmetries exist for many reasons including coverage and methodological differences, timing and valuation differences and discrepancies in the currency conversions of the final estimates. These reasons are",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Trade asymmetries are, as a share of global trade volumes, very small (IMF estimates global current account asymmetries vary between 0.1 to 1.0% in most years). Even though they are relatively small as a percentage of total trade, asymmetries can look large expressed in billions of dollars, and between bilateral pairs of trading partners.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Those less familiar with international trade data may find the multiplicity of estimates available difficult to navigate. Standard international sources appear to offer multiple versions of UK trade data. For example:",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "shows the value of these adjustments in aggregate as well as the OTS data from HMRC (excluding HMRCs estimate of non-monetary gold, which we estimate separately from a different source). These adjustments are described in more detail in our published balance of payments",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In the UK we use over 30 different data sources to estimate trade in services including our detailed and recently improved quarterly international trade in services survey. Our",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "UK Trade in Goods estimates and the ‘Rotterdam Effect’",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "For trade in goods data collection HMRC has special below-threshold procedures for EU data that is sourced through the Intrastat survey. This means that for trade below a certain value the HMRC estimates the value of exports and imports. This accounts for around 3% by value for dispatches (exports) and 7% by value for arrivals (imports) of total trade in goods.",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ") and remove the reporting burden on the exporter. Whilst this has the obvious short-coming of not addressing the underlying measurement issues, it is cost effective, pragmatic and reliably produces a single set of trade estimates for the same trade flow. A similar approach is being implemented by the EU for intra-EU trade through the",
-    "url": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/asymmetriesintradedataaukperspective/2017-07-13",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Carrère and Grigoriou (2015) estimated that as much as 23% of recorded trade flows on the",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "rate is estimated (and removed) via a gravity-type model before discrepancies are further",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "threshold is a useful, yet rough estimate. This facilitates the need for bilateral asymmetry",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "as weight for the DI. While average and median give an estimate of how most transactions are",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "reported, the weighted average gives an estimate of how most of the trade value is reported.",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "from both accounts is taken as weight for the DI. While average and median give an estimate of",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "how most transactions are reported, weighted average gives an estimate of how most of trade",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "between a pair of countries. However, both export and import values can be estimated using",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "can construct similar profiles and estimates of trade balances by using the software tools",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Mirror data, therefore, is a necessary tool for deriving correct estimates of trade balances. Yet,",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the disagreements between FOB and CIF estimates can range from very mild (Argentina) to",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "remain the only way to estimate imports. Tables 3 through 14 in the Appendix show the number",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "considers only reported imports (or exports) to estimate international trade flows will inevitably",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "one implies that looking at mirror data might be a better way to estimate the volume of imports",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "mirror data remains the only way to estimate imports. All visualizations relate to 2017, and",
-    "url": "https://documents1.worldbank.org/curated/en/099743506042435986/pdf/IDU-c7240652-37ed-4409-a8be-d65d86b26564.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-09T00:59:01.219032+00:00"
 }

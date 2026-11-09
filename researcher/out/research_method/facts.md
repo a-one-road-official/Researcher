@@ -10518,6 +10518,7 @@
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...必須 No.1 法規・公共測量 ｜測量士 午後 記述式 解き方の型と過去5年...10-51. 原点/基準/アンカー/単位：18.伊能忠敬の測量手順 Copilotによ... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、そ」（https://note.com/kasano/n/n5300393c2f30）
   - 「【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10 ...」（https://note.com/logic_magic/n/nf5651ba8baea）
   - 「戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。」（https://note.com/hidetoshi_h_/m/m40eef6dece29）
+  - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...上谷 良吉 ～解析空中三角測量システムの開発と実用化～10-51. 原点/基準/アンカー/単位：18.伊能忠敬の測量手順 Copilotによ... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に」（https://note.com/kasano/n/n5300393c2f30）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式...上谷 良吉 ～解析空中三角測量システムの開発と実用化～ — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、その考察の妥当性については特に定量的調査を」（https://note.com/kasano/n/n5300393c2f30）
   - 「トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 客観性を高めるうえで多角化は重要と感じていましたが、先人の同様な考え方に出会うことが出来ました。 ※ノーマン・K・デンジンさんが1978年に著書のなかで提唱したものだそうです。」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「Triangulation (social science) — [1] Denzin identified four primary types of triangulation, each serving to deepen understanding and address limitations inherent in single-method studies. Data triangulation employs varied data sources—such as observations from different individuals, times, or settings—to identify patterns and convergences within the same phenomenon.」（https://grokipedia.com/page/Triangulation_(social_science)）
@@ -10529,7 +10530,6 @@
   - 「研究における三角測量とは？信頼できる調査結果への道 — Oct 8, 2023 · これと同様に、研究における三角測量は、対象を様々な視点から検証することで、収束的かつ徹底的な理解を生み出すことを目的としている。 研究者は、三角測量を用いることで、単一の方法やデータソースに存在する欠点や偏りを減らそうとする。」（https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/）
   - 「トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 社会科学の分野において、トライアンギュレーション (triangulation)という言葉があります。 日本語訳は、「三角測量」です。 測量方法を表す言葉ですが、データソースや検証方法を複数化（複眼化）し、研究の妥当性を高める方法として考案されました。」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
   - 「4． 三角測量（基線測量・角測量） - 広島大学 — 1. 目的 基準点の位置を正確に知るための三角測量を体験する.工学部東側において,図 1 のような三角網を設置する.各班で 1 つの辺の基線長(Pn~Qn)と,2 つの頂点(Pn,Qn)に関わる全ての内角を計測する.」（https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf）
-  - 「三角測量とは｜基本原理・三角法・歴史・GNSSとの違いを解説 — Jul 11, 2026 · 三角測量とは、基線と角度から位置を求める測量技術です。 基本原理と正弦定理を使った計算、三角網、日本での歴史、地形図や建設工事への応用、GNSS測量との違いを解説します。」（https://construction-dx.com/ict/triangulation）
 
 ## 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）（market sizing top-down bottom-up reconcile assumptions table）
 - 文脈：推定
@@ -12627,7 +12627,7 @@
   - 「case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question」（https://metricgate.com/blogs/survivorship-bias/）
   - 「It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See」（https://metricgate.com/blogs/survivorship-bias/）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
 
 ## 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）（data reconciliation single source of truth per metric tolerance thresholds discrepancy log）
 - 文脈：突き合わせ
@@ -14213,14 +14213,18 @@
 - 文脈：手法・報道
 - 失敗・落とし穴：
   - 「Teaching and learning about common data pitfalls」（https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data）
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 検索結果の抜粋：
+  - 「GitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data – Global Investigative ...The Quartz guide to bad dataNewsroom Guides | Data Journalism ResourcesQuartz/bad-data-guide | GitHubAtlasRecognize Bad Data | Hands-On Data Visualization — An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. As a reporter your 」（https://github.com/Quartz/bad-data-guide）
+  - 「The Quartz guide to bad dataNewsroom Guides | Data Journalism ResourcesQuartz/bad-data-guide | GitHubAtlasRecognize Bad Data | Hands-On Data Visualization — Jul 21, 2022 · The Quartz guide to bad data This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who ... The Quartz Guide to Bad Dat」（https://qz.com/572338/the-quartz-guide-to-bad-data）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）（credit risk assessment adjusting book net assets private company financial statements）
 - 文脈：手法・企業調査
 - 手順・やり方：
+  - 「相続税の申告に必要な財産の把握方法｜土地・家屋と預金について」（https://dma-office.jp/2019/09/04/yuushi-jittai/）
   - 「ミルシートとは？用途・発行方法・記載内容を徹底解説」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
   - 「不要な単管パイプの処理方法とは？４つの選択肢のご紹介」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
   - 「何故に急に赤サビ！！？”もらいサビ”のメカニズムと対処方法」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
@@ -14235,7 +14239,6 @@
   - 「調査方法は自社調査・信用調査会社への依頼・インターネット公開情報の収集の3通りです」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「ステップ2：評価と格付け」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「ステップ3：与信限度額の設定」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
-  - 「算出方法は後述の3つの計算式から選択します」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
 - 突き合わせ・推定：
   - 「白サビの効果的な落とし方！サビ取り消しゴムとクリーナーの検証」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
   - 「知らないと損をする"サイクル試験"の実力とは？！その目的と鋼管の信頼性を検証する具体的な方法を詳しく解説」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
@@ -14285,6 +14288,7 @@
   - 「それぞれ具体的な手順と注意点について解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
   - 「それぞれ具体的な手法や取得できる情報、注意点などを解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
 - 実例：
+  - 「AWSペネトレーションテストは申請不要？事前承認なしで実施できる範囲と禁止行為・申請が必要なケースを解説」（https://catalog.monex.co.jp/article/?p=49812）
   - 「実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「調査結果を基に、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「信用調査の結果を踏まえ、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
@@ -14299,7 +14303,6 @@
   - 「想定は「新規取引先A社（卸売業・自社純資産8,000万円）」で、月商法・純資産基準・売掛債権基準を組み合わせるケースです」（https://catalog.monex.co.jp/article/?p=49812）
   - 「取引先の業績が右肩上がりで、取引額の増加が事業拡大の反映であるケースです」（https://catalog.monex.co.jp/article/?p=49812）
   - 「数年前に設定した限度額を放置しており、現状と乖離していたケースです」（https://catalog.monex.co.jp/article/?p=49812）
-  - 「月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です」（https://catalog.monex.co.jp/article/?p=49812）
 
 ## 競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ）（analysis of competing hypotheses empirical study base rates Dhami Mandel intelligence analysts）
 - 文脈：手法・情報分析
@@ -14771,11 +14774,11 @@
 
 ## 規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109）（using regulatory inspection and filing records in investigative reporting IRE public records data）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ22頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
-- 実例：記載なし（読んだ22頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 上場の取引先・顧客・同業の開示から非上場の会社と業界の向きを読む実務（証券アナリストの書き手・CFA Institute Enterprising Investor・Inderes・会社の発表の楽観の割り引き・4-109）（analyst using listed suppliers customers peers disclosures to infer private company industry trends blog）
 - 文脈：探し先

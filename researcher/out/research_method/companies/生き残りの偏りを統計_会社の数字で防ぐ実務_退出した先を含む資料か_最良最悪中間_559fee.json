@@ -8,41 +8,103 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-09T01:37:56.460093+00:00",
+ "researched_at": "2026-11-09T12:17:08.258145+00:00",
  "evidence": {
-  "手順・やり方": [
+  "実例": [
    {
-    "quote": "The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.",
+    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.",
+    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "Static pool (cohort) method:",
+    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "How to Correct for It",
+    "quote": "The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The",
     "url": "https://metricgate.com/blogs/survivorship-bias/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "How to Detect It Before It Burns You",
+    "quote": "Double selection — worst case",
     "url": "https://metricgate.com/blogs/survivorship-bias/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "framework delivers, and a",
+    "quote": "case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
+    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "survivor mean is no longer an unbiased estimate of",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Re-estimate under pessimistic assumptions about the dropouts to bracket how far the bias could move your conclusion.",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "imitate behaviors that failed firms shared in equal measure — the data simply forgot the failures. Engineers who estimate",
+    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "estimate is itself misleading — a tight interval around the wrong center is still wrong.",
     "url": "https://metricgate.com/blogs/survivorship-bias/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -230,101 +292,39 @@
     "first_seen": "2026-11-07"
    }
   ],
-  "実例": [
+  "手順・やり方": [
    {
-    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
+    "quote": "The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
+    "quote": "In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
+    "quote": "Static pool (cohort) method:",
     "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "The table below contrasts what the naive survivor-only view reports against the unbiased full-universe value for the fund example. The",
+    "quote": "How to Correct for It",
     "url": "https://metricgate.com/blogs/survivorship-bias/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "Double selection — worst case",
+    "quote": "How to Detect It Before It Burns You",
     "url": "https://metricgate.com/blogs/survivorship-bias/",
     "pass": 3,
     "first_seen": "2026-11-07"
    },
    {
-    "quote": "case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "survivor mean is no longer an unbiased estimate of",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Parts that failed early are often discarded before measurement, biasing mean-time-to-failure estimates upward.",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Re-estimate under pessimistic assumptions about the dropouts to bracket how far the bias could move your conclusion.",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "imitate behaviors that failed firms shared in equal measure — the data simply forgot the failures. Engineers who estimate",
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "estimate is itself misleading — a tight interval around the wrong center is still wrong.",
+    "quote": "framework delivers, and a",
     "url": "https://metricgate.com/blogs/survivorship-bias/",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -380,14 +380,14 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/honmaru_mh/n/n4b244ecb1da9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "status": "ok",
     "method": "browser"
+   },
+   {
+    "url": "https://note.com/honmaru_mh/n/n4b244ecb1da9",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
@@ -395,19 +395,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.zentsuken.net/journal/file/144_5.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://nan.ac/solutions/23663",
+    "url": "https://nan.ac/solutions/23631",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vLk0eWcoqOC9yG-Npk6cNu9NrVoZHH-a6CPkvt7egBkQeWoJC2h",
+    "url": "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vJxRdo1KXsQu0WGlQ5UozBKiEsFCSB0nLGzWUBU804NDP3mdHJ-",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.nishi.or.jp/shisei/gyoseikeiei/shiteikanrishaseido/uneihyokasheet.files/R7doboku_4kabutoyamakankyou.pdf",
+    "status": "http_404",
+    "method": "pdf"
    },
    {
     "url": "https://higashiyamato.net/thinking/wp-content/uploads/sites/10/2019/05/8d49dfc2224ec69571737d6e158eaa7a.pdf",
@@ -420,8 +420,8 @@
     "method": "browser"
    },
    {
-    "url": "https://www.lib.nerima.tokyo.jp/manage/contents/upload/69b22916a05ca.pdf",
-    "status": "network_error:ConnectTimeout",
+    "url": "https://www.jswa.jp/wp2/wp-content/uploads/pdf/nintei_kikaku_ichiran.pdf",
+    "status": "ok",
     "method": "pdf"
    },
    {
@@ -430,9 +430,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "url": "https://wakara.co.jp/mathlog/20251230",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
     "url": "https://analytics.leverages.jp/entry/2025/01/20/160000",
@@ -443,11 +443,6 @@
     "url": "https://www.albits.jp/column/seturitsu/572",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "http://benesse.jp/news/kyouiku/trend/20130919120052.html",
-    "status": "robots_disallowed",
-    "method": ""
    },
    {
     "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2307.pdf",
@@ -465,12 +460,12 @@
     "method": "http"
    },
    {
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "url": "https://algoseek.com/blog/data-guides/survivorship-bias-in-backtesting-what-to-ask-a-data-vendor/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.jeffwinterinsights.com/insights/survivorship-bias",
+    "url": "https://thedecisionlab.com/biases/survivorship-bias",
     "status": "ok",
     "method": "http"
    },
@@ -480,7 +475,7 @@
     "method": "http"
    },
    {
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "url": "https://www.jeffwinterinsights.com/insights/survivorship-bias",
     "status": "ok",
     "method": "http"
    }
@@ -514,33 +509,35 @@
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
     "https://note.com/knowledge_a/n/n960db4a7cf65",
     "https://note.com/keyplayers/n/nbe74635bc99b",
-    "https://note.com/honmaru_mh/n/n4b244ecb1da9",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://note.com/honmaru_mh/n/n4b244ecb1da9",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://note.com/note_ir/n/n9bf235511a14",
     "https://www.bizreach.jp/static/articles/jf-071/",
-    "https://note.com/momiji1/n/n3217ab514f81"
+    "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ） やり方",
    "results": [
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://nan.ac/solutions/23663",
-    "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vLk0eWcoqOC9yG-Npk6cNu9NrVoZHH-a6CPkvt7egBkQeWoJC2h",
+    "https://nan.ac/solutions/23631",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://www.meijishoin.co.jp/news/index.php?book_no=98633&changeview=pc&srsltid=AYCX9vJxRdo1KXsQu0WGlQ5UozBKiEsFCSB0nLGzWUBU804NDP3mdHJ-",
+    "https://www.nishi.or.jp/shisei/gyoseikeiei/shiteikanrishaseido/uneihyokasheet.files/R7doboku_4kabutoyamakankyou.pdf",
     "https://higashiyamato.net/thinking/wp-content/uploads/sites/10/2019/05/8d49dfc2224ec69571737d6e158eaa7a.pdf",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://www.bizreach.jp/static/articles/jf-071/",
-    "https://www.lib.nerima.tokyo.jp/manage/contents/upload/69b22916a05ca.pdf",
-    "https://wakara.co.jp/mathlog/20251230"
+    "https://www.jswa.jp/wp2/wp-content/uploads/pdf/nintei_kikaku_ichiran.pdf",
+    "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -550,40 +547,36 @@
    "results": [
     "https://www.mof.go.jp/pri/reference/ssc/summary/shiryou01_20230327.pdf",
     "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://www.zentsuken.net/journal/file/144_5.html",
-    "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "https://wakara.co.jp/mathlog/20251230",
     "https://analytics.leverages.jp/entry/2025/01/20/160000",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://note.com/honmaru_mh/n/n4b244ecb1da9",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://www.albits.jp/column/seturitsu/572",
-    "http://benesse.jp/news/kyouiku/trend/20130919120052.html",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2307.pdf",
-    "https://wakara.co.jp/mathlog/20251230"
+    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2307.pdf"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 9
   },
   {
    "query": "survivorship bias correction business data closed firms best worst case assumption",
    "results": [
     "https://casrai.org/guides/survivorship-bias",
     "https://metricgate.com/blogs/survivorship-bias/",
+    "https://algoseek.com/blog/data-guides/survivorship-bias-in-backtesting-what-to-ask-a-data-vendor/",
     "https://thedecisionlab.com/biases/survivorship-bias",
-    "https://www.jeffwinterinsights.com/insights/survivorship-bias",
     "https://forum.commoncog.com/t/stop-worrying-about-survivorship-bias-with-this-one-weird-trick-commoncog/3187",
-    "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "https://www.jeffwinterinsights.com/insights/survivorship-bias",
     "https://www.reddit.com/r/explainlikeimfive/comments/129r4xg/eli5_what_is_the_survivorship_bias_and_how_does/",
-    "https://quali-fi.com/learn/survivorship-bias",
-    "https://www.investopedia.com/terms/s/survivorship-bias-risk.asp",
-    "https://paradigm.red/survivorship-bias/"
+    "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "https://quali-fi.com/learn/survivorship-bias"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 9
   },
   {
    "query": "site:note.com 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）",
@@ -592,15 +585,15 @@
     "https://note.com/modern_flea8708/n/nf4965455aa56",
     "https://note.com/miyashita_pitin/n/n681960dc7177",
     "https://note.com/ikedon0505/n/n3d4e402301e3",
+    "https://note.com/dnx_vc/n/n72ec0125eb0e",
     "https://note.com/all_zero/n/nba067e8fe027",
     "https://note.com/shindan_kaichi/n/n271d269a20ba",
-    "https://note.com/dnx_vc/n/n72ec0125eb0e",
-    "https://note.com/sohtanagasaka/n/n4e209489f0aa",
     "https://note.com/son_jon/n/n8dc10e94fcda",
+    "https://note.com/sohtanagasaka/n/n4e209489f0aa",
     "https://note.com/clever_turkey674/n/n589808b31108"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -610,15 +603,15 @@
    "results": [
     "https://x.com/tomoida",
     "https://x.com/yuzo_hashimoto/status/2108121722318725393",
-    "https://x.com/_mas_0723_GF/status/2105834914470154539",
     "https://x.com/sota_sline/status/2069910950732525937",
-    "https://x.com/japan2025change/status/2112143209090695276",
+    "https://x.com/_mas_0723_GF/status/2105834914470154539",
     "https://x.com/TNF1475031/status/2105427876472561890",
-    "https://x.com/jinzaishokai_/status/2113169199627383133",
-    "https://x.com/SAITO_KENTA/status/2109830229904720340"
+    "https://x.com/japan2025change/status/2112143209090695276",
+    "https://x.com/skillty_nakatsu/status/2118484421892620463",
+    "https://x.com/jinzaishokai_/status/2113169199627383133"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -629,10 +622,10 @@
     "https://business.linkedin.com/learn/customer-success-center/product-updates",
     "https://jp.linkedin.com/posts/shinroh_代表日記数字から勝てる事業をどう逆算するか統計と求人倍率の歪みから勝ち筋-activity-7523621089772752896-tvsZ",
     "https://jp.linkedin.com/pulse/2024年8月25日sun-52-オレが転職した会社は特殊だったのか統計的に考えてみた-憲一-gohara-san-合原-ov04c",
-    "https://www.linkedin.com/posts/funaisoken_社長の経営判断が遅れるリスクを防ぐ取り組むべき数字の管理-activity-7123475497912516608-c34Z",
     "https://www.linkedin.com/posts/comodobiz_会社を守れ倒産時代の生き残り対策を教えますオンライン決裁者交流会ランマッチ-activity-7310805003516919808-Op0N",
-    "https://jp.linkedin.com/posts/tsbproject_続関係者外秘損害保険代理店-生き残り戦術実践編-証跡で語れるかどうか-activity-7369295909542625285-nJ4U",
-    "https://jp.linkedin.com/pulse/データ分析の本質数字の独り歩きを防ぐには-michio-okazaki-m8vfc"
+    "https://www.linkedin.com/posts/funaisoken_社長の経営判断が遅れるリスクを防ぐ取り組むべき数字の管理-activity-7123475497912516608-c34Z",
+    "https://jp.linkedin.com/pulse/データ分析の本質数字の独り歩きを防ぐには-michio-okazaki-m8vfc",
+    "https://jp.linkedin.com/learning/data-science-foundations-fundamentals-22851503/4518082"
    ],
    "engines": [
     "ddgs:bing"
@@ -646,8 +639,8 @@
     "https://www.facebook.com/miyatazaimu/videos/売上は覚えているでは粗利率は即答できなかった社長へ感覚で会社を伸ばせる時代は終わりましたこれからは自社の数字を読める社長だけが生き残りますでも安心してください数/1780623016275778/",
     "https://www.facebook.com/DiamondHBR/posts/6333747623371081/",
     "https://www.facebook.com/cbase.co.jp/photos/人事ブログ公開mbo評価制度に偏りはありませんか定量数字だけに頼るのはリスク成果と行動の両方をきちんと評価することでより納得される制度になります実務で役立つポイ/1313972833764462/",
-    "https://www.facebook.com/karacchii/posts/人事制度って過去に所属した会社の経験に引っ張られがちで考え方に偏りが出ますでも人事制度って会社の思想を言語化しつつ運用に耐えられる仕組みに落とさないといけないの/10241895982844339/",
     "https://www.facebook.com/takeshi.shimane/videos/事業承継の現場で会社の数字やスキームばかりに目を奪われていませんか社長は会社の代表であると同時にひとりの人間ですみなさんは面談時社長の個人や家族の状況までしっか/1457251206541457/",
+    "https://www.facebook.com/karacchii/posts/人事制度って過去に所属した会社の経験に引っ張られがちで考え方に偏りが出ますでも人事制度って会社の思想を言語化しつつ運用に耐えられる仕組みに落とさないといけないの/10241895982844339/",
     "https://www.facebook.com/yorozufukuoka/photos/経営知識をつけて黒字倒産を防ぐ対面新セミナーのお知らせ10月27日火-13301500利益は出てるのに何でお金が足りないの損益とキャッシュフローの違いセミナー創/3497141210378246/"
    ],
    "engines": [
@@ -665,12 +658,12 @@
     "https://note.com/keyplayers/n/nbe74635bc99b",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://l-c-style.co.jp/startup-academy/column/most-startups-fail/",
     "https://note.com/kenichiro/n/n3e3b2c6efdc4",
+    "https://l-c-style.co.jp/startup-academy/column/most-startups-fail/",
     "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -680,17 +673,17 @@
    "results": [
     "https://www.soumu.go.jp/main_content/000626568.pdf",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
     "https://dashboard.co.jp/column/data-fallacies/",
     "https://www.smartnews.com/ja-jp/article/5009067168684322515",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "http://benesse.jp/news/kyouiku/trend/20130919120052.html",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://contents.xj-storage.jp/xcontents/33500/1665a577/3fd8/4d30/88c2/fb54396252b3/140120240208530999.pdf",
     "https://prtimes.jp/main/html/rd/p/000000112.000080381.html",
-    "https://toyokeizai.net/articles/-/956688?display=b",
     "https://ja.wikipedia.org/wiki/生存者バイアス"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -700,14 +693,14 @@
    "results": [
     "https://www.linkedin.com/posts/sahilbloom_the-most-dangerous-trap-in-business-is-invisible-activity-7383471708399390722-TFrN",
     "https://www.linkedin.com/pulse/survivorship-bias-why-we-study-success-learn-failure-qhse-standard-530uf",
-    "https://www.linkedin.com/pulse/survivorship-bias-avoid-mistake-stephen-lynch",
     "https://www.linkedin.com/pulse/falling-victim-survivorship-bias-product-management-what-mihael-simic",
+    "https://www.linkedin.com/pulse/survivorship-bias-avoid-mistake-stephen-lynch",
     "https://www.linkedin.com/posts/jeffreyrwinter_success-stories-are-statistically-dishonest-activity-7414691024624730112-Y-zp",
     "https://www.linkedin.com/pulse/understanding-confirmation-bias-survivor-igor-osipov-5dewe",
-    "https://www.linkedin.com/pulse/survivorship-bias-higher-education-stuart-norton-wcjcc",
     "https://www.linkedin.com/posts/josh-braun_lets-talk-about-survivorship-bias-in-sales-activity-7371157996485230592-qIDL",
     "https://www.linkedin.com/posts/helenbevanhealthcare_survivorship-bias-is-a-big-problem-in-the-activity-7341527502839869440-Cw7G",
-    "https://www.linkedin.com/posts/petersena_youre-copying-dead-companies-you-just-dont-activity-7421911423712251905-QPOX"
+    "https://www.linkedin.com/posts/petersena_youre-copying-dead-companies-you-just-dont-activity-7421911423712251905-QPOX",
+    "https://www.linkedin.com/posts/pratapdaruka_survivorship-bias-or-survival-bias-is-the-activity-6834180890005000192-0C2H"
    ],
    "engines": [
     "ddgs:google",
@@ -717,162 +710,9 @@
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ29頁・検索12回）"
  },
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "The fix in credit is the static pool or cohort method: fix the population at a start date, follow every member forward, and record every exit with its reason. A withdrawn rating is a censored observation, not a deleted one.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In credit and fund studies, a stopped series carries information. Treat it with survival analysis methods, which use the partial history rather than discarding it.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Static pool (cohort) method:",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Survivorship Bias in Quantitative Analysis",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Survivorship bias in quantitative analysis explained: why dropping dead funds, delisted stocks and defaulters invents alpha, with a closed-form result, a ten-year zero-alpha fund simulation, index backtests and the fixes.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "1. Survivorship Bias in Plain English",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The crucial point is that the bias does not need anyone to cheat. Nobody deletes the losers on purpose. Closed funds stop reporting, delisted tickers vanish from the vendor file the analyst happens to download, and defaulted borrowers are archived to a different system. Survivorship bias is a property of",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Sampling Bias in Financial Research",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Selection Bias in Financial Datasets",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Two lessons fall straight out of the formula. First, the bias is proportional to σ. Double the dispersion of the population and you double the fake alpha, which is why survivorship matters far more for hedge funds, small caps and emerging market equities than for investment-grade bond funds. Second, the bias grows with the attrition rate",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Notice what the formula does not contain: the true mean. The bias is added on top of whatever the true average is. A population with genuinely negative average alpha after fees can therefore look flat or positive once the failures leave the room, which is a far more damaging outcome than an exaggerated but still positive number.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ", indistinguishable from the true zero. The returns themselves were never biased. The bias came entirely from deleting histories after the fact.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "3.2 Where in time the bias sits",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The result many people find surprising is that the bias is largest in the",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Common Biases in Hedge Fund Performance Data",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Look-Ahead Bias and Statistical Research",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Common Backtesting Mistakes",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "the sample was drawn, which is why it is best understood as one specific case of the broader problem covered in",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Start with the simplest possible case. Suppose a set of funds has true excess returns that are normally distributed with mean zero and standard deviation σ. No fund has any skill. Now remove the worst fraction",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "3. Worked Example: Zero-Alpha Funds Over Ten Years",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "What makes survivorship bias distinctive is its direction. Most sampling problems add noise or a bias of unknown sign. Removing the failures almost always pushes estimated returns up and estimated risk down, so it produces exactly the kind of result people are hoping to find.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Removing the worst paths also removes the worst drawdowns, so volatility, tail risk and maximum drawdown estimates are flattered too. A risk model calibrated on survivors understates the loss distribution it is supposed to describe.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Probability of default models must be estimated on cohorts that retain defaults, withdrawals and early repayments. Data migrations are a prime moment for defaulted names to vanish, so the default count should be reconciled before and after any system change.",
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 5,
+ "new_this_run": {},
+ "runs": 6,
  "first_researched_at": "2026-11-07T21:03:48.122490+00:00"
 }
