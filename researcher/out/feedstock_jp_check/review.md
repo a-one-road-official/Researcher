@@ -32,3 +32,10 @@
 
 ## SUNLU (Guangdong) Technology Co.,Ltd. — VoxelMatters（https://bit.ly/3zUkyBr）
 - 「Malaysia and Thailand supplied the largest contingents of international visitors, followed by Russia, Singapore, the United States, Indonesia, Japan, South Korea, Brazil, and Vietnam. Seven of the ten leading international visitor markets were in Asia.」（https://www.voxelmatters.com/formnext-asia-shenzhen-2026-closes-with-record-attendance-up-65/）
+
+## Guangdong Fenghua Zhuoli Technology Co., Ltd（https://bit.ly/3zUkyBr）
+- 「Main Markets: North America, South America, Europe, Southeast Asia/ Mideast, East Asia(Japan/ South Korea), Australia, Domestic」（https://www.madeinchina.com/supplier/fhzl-3d/introduce/）
+- 「上場会社（証券コード： 83914 ）」（https://jp.made-in-china.com/co_fhzl-3d/product_OEM-Customized-Sand-3D-Printer-Spare-Parts-Auto-Engine-Block-Cylinder-Head-Case-by-Rapid-Prototyping-with-3D-Printing-Sand-Casting-Machining_ouhoenihg.html）
+
+## Laempe Mössner Sinto — VoxelMatters（https://bit.ly/3zUkyBr）
+- 「The incorporation of Hottinger and Röperwerk in 2009 enabled us to acquire further valuable know-how and expertise. Laempe sales offices and a network of around 25 sales partners and representatives ensure competent support at a high level around the globe. Since 2015 there is also a strategic partn」（https://www.voxelmatters.directory/company/laempe-mossner-sinto/）

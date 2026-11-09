@@ -1,0 +1,1425 @@
+{
+ "name": "Neural Concept",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-09T19:14:07.555628+00:00",
+ "official_url": "https://www.neuralconcept.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$143.1K",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Raise your enterprise AI to the standards of your best engineers.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build intelligence with every new program.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Neural Concept deployments across automotive, consumer electronics, aerospace & defense, energy, and semiconductors.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "more results evaluated every day in production. From 50 to 1,500.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "90% of product development will soon be handled by agents interacting with human designers.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The modular environment for human-agent collaboration across the full product development cycle.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Born from leading AI research and built by engineers, we help organizations transform their product development with frontier Engineering AI.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer presentation with JLR",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The new engineering playbook: how AI design copilots are reshaping product development",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI transformation",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": "more results evaluated every day in production. From 50 to 1,500.",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": "General Motors brings 11 vehicle programs of knowledge to pedestrian safety",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": ": General Motors brings 11 vehicle programs of knowledge to pedestrian safety",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Expanding AI-driven engineering across key product lines.",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": "OPmobility rethinks product design for hybrid and electric vehicles",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": ": OPmobility rethinks product design for hybrid and electric vehicles",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Announcements, leadership perspectives, events and press coverage.",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic AI Engineering: Neural Concept and NVIDIA NemoClaw in Practice",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Native Aerodynamic Engineering in Practice with JLR",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Improving Crash Box Performance by 10% with DLR",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "F1 Aerodynamics — Shape Predictions & Optimization With Neural Concept",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "In the Quest for Breaking the World Record: Collaboration with SP80 to Optimize Ventilated Hydrofoils Profiles",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept provides the intelligence layer for engineering, enabling companies to design and develop complex, high-performance products faster and more efficiently. Its AI-native platform embeds physics-aware intelligence directly into design and simulation workflows, empowering engineering teams to make continuous, AI-augmented decisions at every stage of product development.",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Approved for publication. Copy it as it is.",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Interviews, brand assets and media inquiries",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "neuralconcept@5wpr.com",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Valerie Serino, 5WPR — response within two working days",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "AI that designs the world’s most advanced physical products, up to complete systems.",
+    "url": "https://www.neuralconcept.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Everyone at Neural Concept, from research to our customer-facing teams, is here for the same reason: so engineers can build better products, faster than they ever could alone.",
+    "url": "https://www.neuralconcept.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Vice President, Vertical Solutions",
+    "url": "https://www.neuralconcept.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Extend proven workflows across teams and programs.",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "from first design campaign to production.",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "Starting points proven in production",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "of our deployments start from a blueprint: a reference design campaign built on our own track record.",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "neuralconcept@5wpr.com",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "We build the AI that engineering teams use to design better physical products, faster. Our team brings together engineers, AI researchers, and business minds, working alongside global industry leaders.",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing, Communications and Branding",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Quality Engineer & Test Automation - India",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Engineer | Design Engineering Knowledge",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Technology Marketing Manager",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Field Marketing Lead – United States",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Field Marketing Manager - Korea",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Marketing Engineer",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "GTM Talent Acquisition Specialist",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering is entering a new era, and we’re looking for the people who will lead it. We hire those who share our values and want to transform how physical products are designed, alongside the customers who build them.",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our hiring process is divided into five stages.",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "In this 30-45 online minutes interview, we will get to know you, understand what is important for you and introduce the company.",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This stage includes several interviews. Depending on the position, they may include a coding challenge, a take-home project, and/or an online technical interview.",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Outcome · Product performance",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Improving a mature component is the hardest kind of engineering, and the most valuable.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Across the automotive industry, engineering teams are under pressure to deliver high-performing, energy-efficient products at an ever faster pace. They must balance complex trade-offs against manufacturing constraints and tight timelines, while traditional design processes slow them down with long iteration cycles.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept’s Engineering AI copilots, tailored to MAHLE’s own data and processes, explored more than 30 million virtual blower designs in record time. MAHLE’s engineers set the performance goals, domain constraints and design parameters. The copilots instantly predicted real-world performance and proposed geometries that met or exceeded the specification.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Aerodynamics, noise and efficiency across millions of variants were all accessible in a single interface. Development moved from sequential, time-consuming iterations to a continuous, AI-assisted co-design process, guided by MAHLE’s engineers at every step.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Dr. Uli Christian Blessing · Vice President Product Development, Thermal and Fluid Systems · MAHLE · Neural Concept Connect 2025",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Unveiled at Auto Shanghai 2025, the new blower creates a more compact, symmetrical air-conditioning unit, an edge in EVs where space is at a premium. It also cements MAHLE’s leadership on one of its most widely used components.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "MAHLE is set to establish processes to use AI-powered development across its engineering projects.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "At NVIDIA GTC 2025, General Motors presented an AI co-pilot built on the Neural Concept platform and trained on crash simulation data from 11 vehicle programs. Validated by GM’s engineers, it assesses a key pedestrian safety metric for new designs, turning what once took weeks of simulation into real-time feedback.",
+    "url": "https://www.neuralconcept.com/industry-stories/general-motors-pedestrian-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Pedestrian safety rarely sells a car. But it protects the people most exposed on the road.",
+    "url": "https://www.neuralconcept.com/industry-stories/general-motors-pedestrian-safety",
+    "pass": 1
+   },
+   {
+    "quote": "For pedestrians and cyclists, the vehicle’s front end is their protection. In the US alone, a pedestrian was killed every 72 minutes in traffic crashes in 2023, according to NHTSA. Global standards such as GTR and NCAP make vulnerable road user protection a requirement for every new vehicle, for adults and children alike.",
+    "url": "https://www.neuralconcept.com/industry-stories/general-motors-pedestrian-safety",
+    "pass": 1
+   },
+   {
+    "quote": "A single design iteration can take weeks, and safety competes with other attributes. A bumpier hood might better protect pedestrians, yet degrade aerodynamics, reduce range and clash with styling. When every extra iteration puts the program timeline at risk, designers may settle on a compromise where a better one could have been found.",
+    "url": "https://www.neuralconcept.com/industry-stories/general-motors-pedestrian-safety",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Proven Neural Concept deployments across automotive, consumer electronics, aerospace & defense, energy, and semiconductors.",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From ship hulls to consumer goods, performance is decided long before the first physical part. The manufacturers who decide it earliest keep the margin.",
+    "url": "https://www.neuralconcept.com/industry-stories/other-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Leonardo and Neural Concept Expand Engineering AI Collaboration Across Aerospace Teams",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2019, Neural Concept serves leading OEMs and engineering organizations across automotive, aerospace, energy, consumer electronics, semiconductors and defense. Headquartered in Switzerland with offices across Europe, North America and Asia, the company is backed by global investors including Goldman Sachs, Forestay Capital and the D. E. Shaw group.",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Automotive Vehicle Solution Owner",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Across the automotive industry, engineering teams are under pressure to deliver high-performing, energy-efficient products at an ever faster pace. They must balance complex trade-offs against manufacturing constraints and tight timelines, while traditional design processes slow them down with long iteration cycles.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Its engineers had a bold idea, drawn from the drag-reducing shape of a penguin’s fin. But turning biological inspiration into a high-performance industrial design takes a leap of faith and heavy engineering work. That’s where Neural Concept came in.",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace is one of the hardest places to bring AI into engineering.",
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace also asks more of AI than most industries do. Aircraft noise is regulated, certification is demanding, and European aviation authorities are still working out how AI itself will be certified.",
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "pass": 1
+   },
+   {
+    "quote": "Leonardo and Neural Concept Expand Engineering AI Collaboration Across Aerospace Teams",
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "pass": 1
+   },
+   {
+    "quote": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA (GTC Berlin 2026)",
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "pass": 1
+   },
+   {
+    "quote": "How AI and accelerated computing are reshaping aerospace engineering workflows (AIAA SciTech 2026 panel)",
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive · Industry stories · Neural Concept",
+    "url": "https://www.neuralconcept.com/industry-stories/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "From turbines to transformers, a single point of efficiency is the whole business case. The manufacturers who find it earliest win the contract.",
+    "url": "https://www.neuralconcept.com/industry-stories/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace & Defense · Industry stories · Neural Concept",
+    "url": "https://www.neuralconcept.com/industry-stories/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial & construction AI",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept is an AI platform for engineering teams at OEMs and suppliers in automotive, aerospace and industry.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "10 of them are confirmed by a published case study, quote or press release.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "The largest group: Automotive Manufacturing companies with more than 1,000 employees (6 companies).",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Manufacturing (8)",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense (4)",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing (3)",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "7 industries among 19 customers. 42% are in Automotive Manufacturing. Of the 16 with a known size, 75% have more than 1,000 employees.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Which Industrial & construction AI tools companies use, by industry:",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept is an AI platform for engineering teams at OEMs and suppliers in automotive, aerospace and industry. It plugs into CAD and simulation tools so engineers can evaluate designs early. Domain-specific AI models predict multi-physics behaviour and support generative CAD, cutting design iterations.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI that monitors machines, predicts failures and supports maintenance teams in manufacturing plants.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI and data platform that contextualizes operational data and runs AI agents for asset-heavy industries.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial & construction AI ranking →",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "The industries with the most Neural Concept customers are Automotive Manufacturing (8), Aerospace & Defense (4), and Manufacturing (3).",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Case study, named quote or press release.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how leading companies solve complex challenges with Ansys simulation—unlocking innovation across automotive, aerospace, energy, healthcare, and more.",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys empowers industries to design smarter and innovate faster with advanced simulation—driving progress in automotive, aerospace, energy, healthcare, and beyond.",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/other-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "Tokyo 100-0004",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions Engineer - Japan",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Forward Deployed Engineer - Japan",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/general-motors-pedestrian-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/jlr-nvidia-gtc-aerodynamic-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/consumer-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/semiconductors",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept Connect 2026 · Bay Area ✓ · Next: Munich (Nov 24) · Tokyo (Feb 3, 2027)",
+    "url": "https://www.neuralconcept.com/industry-stories/aerospace-defense",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Leonardo makes AI-driven aircraft design part of everyday engineering",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leonardo makes AI-driven aircraft design part of everyday engineering",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": ": Leonardo makes AI-driven aircraft design part of everyday engineering",
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "pass": 1
+   },
+   {
+    "quote": "GTM Talent Acquisition Specialist",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "In the traditional process, that insight arrives in steps: engineers modify the geometry, launch simulations and assess results once the data becomes available. For JLR, the question was no longer model performance, but how to embed AI across real engineering systems with the robustness and traceability that production engineering demands.",
+    "url": "https://www.neuralconcept.com/industry-stories/jlr-nvidia-gtc-aerodynamic-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Presented on stage at NVIDIA GTC, the results show AI working as part of JLR’s aerodynamic engineering, not beside it. Development is shifting from sequential execution toward continuous, data-driven decisions, with the repeatability and traceability needed to scale across vehicle programs.",
+    "url": "https://www.neuralconcept.com/industry-stories/jlr-nvidia-gtc-aerodynamic-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "In Leonardo’s helicopters and aircraft, a single design decision can carry years of consequence. On every programme, engineers would like to explore more alternatives than the time allows. Certification and design optimization require large numbers of simulations, while the industry faces growing pressure to shorten time-to-market as designs become more complex.",
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "pass": 1
+   },
+   {
+    "quote": "Every gram, every certification step and every test campaign carries a high cost. The programs that narrow the design space earliest let testing confirm rather than discover.",
+    "url": "https://www.neuralconcept.com/industry-stories/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Leonardo makes AI-driven aircraft design part of everyday engineering",
+    "url": "https://www.neuralconcept.com/industry-stories/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": ": Leonardo makes AI-driven aircraft design part of everyday engineering",
+    "url": "https://www.neuralconcept.com/industry-stories/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "The largest group: Automotive Manufacturing companies with more than 1,000 employees (6 companies).",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "7 industries among 19 customers. 42% are in Automotive Manufacturing. Of the 16 with a known size, 75% have more than 1,000 employees.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Employees per company. Every proof level counts, job posts included. A company with no stored size gets its own column, never counted as small.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Revenue 2024: $3.6M Est., $143.1K Raised",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept revenue",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept has not published its revenue. GetLatka estimates it at about $3.6M a year (October 2024).",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept CEO, founders & employees",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Pierre Baque founded Neural Concept in 2018 and runs it as CEO. Neural Concept had 47 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "What is Neural Concept's revenue?",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Neural Concept's revenue at about",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Neural Concept have?",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Narrative I/O, Inc.",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Founded in 2019, Neural Concept serves leading OEMs and engineering organizations across automotive, aerospace, energy, consumer electronics, semiconductors and defense. Headquartered in Switzerland with offices across Europe, North America and Asia, the company is backed by global investors including Goldman Sachs, Forestay Capital and the D. E. Shaw group.",
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "New entrants, electrification and tighter regulation leave no room for late design changes. The OEMs and suppliers who decide earlier are setting the pace.",
+    "url": "https://www.neuralconcept.com/industry-stories/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Concept is an AI platform for engineering teams at OEMs and suppliers in automotive, aerospace and industry.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept is an AI platform for engineering teams at OEMs and suppliers in automotive, aerospace and industry. It plugs into CAD and simulation tools so engineers can evaluate designs early. Domain-specific AI models predict multi-physics behaviour and support generative CAD, cutting design iterations.",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "中国の大量生産/コスト安を武器に各国に輸出しているのに対して、既存OEMは生産コスト削減を求めて設計プロセスの効率化/迅速化を目指す",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "contact@neuralconcept.com",
+    "url": "https://www.neuralconcept.com/get-started",
+    "pass": 1
+   },
+   {
+    "quote": "AI-info@cybernet.co.jp",
+    "url": "https://www.cybernet.co.jp/ncs/",
+    "pass": 3
+   },
+   {
+    "quote": "If you're facing engineering challenges, our team is here to assist. With a wealth of experience and a commitment to innovation, we invite you to reach out to us. Let's collaborate to turn your engineering obstacles into opportunities for growth and success. Contact us today to start the conversation.",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Neural Concept 、AI統合 導入 を加速し、企業による 導入 が100 ... — Neural Concept 、AI統合 導入 を加速し、企業による 導入 が100 ... Business Wire https://www.businesswire.com > news > home",
+    "url": "https://www.businesswire.com/news/home/20250926919715/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Studio(NCS - サイバネットシステム — Neural Concept Studio(NCS - サイバネットシステム サイバネットシステム株式会社 https://www.cybernet.co.jp > ncs",
+    "url": "https://www.cybernet.co.jp/ncs/",
+    "pass": 3
+   },
+   {
+    "quote": "New collaboration between Neural Concept & CYBERNET ... — New collaboration between Neural Concept & CYBERNET ... Neural Concept https://www.neuralconcept.com > neu...",
+    "url": "https://www.neuralconcept.com/press-release/neural-concept-cybernet-japan-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Studio（NCS）ご紹介 — Neural Concept Studio（NCS）ご紹介 JAPAN INTERNATIONAL AEROSPACE EXHIBITION 2024 PDF https://www.japanaerospace.jp > materialfile",
+    "url": "https://www.japanaerospace.jp/exhibitor/materialfile/67/en/3",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept 、ソウルにアジア太平洋地域初のオフィスを ... — Neural Concept 、ソウルにアジア太平洋地域初のオフィスを ... PR Newswire https://www.prnewswire.com > news-releases > neural-con...",
+    "url": "https://www.prnewswire.com/jp/news-releases/neural-conceptai-302793301.html",
+    "pass": 3
+   },
+   {
+    "quote": "Join Us | Neural Concept — Join Us | Neural Concept Neural Concept https://www.neuralconcept.com > car...",
+    "url": "https://www.neuralconcept.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept のRegional Sales Director ( Japan ) — 東京 — Neural Concept のRegional Sales Director ( Japan ) — 東京 LinkedIn https://jp.linkedin.com > jobs > view > regional-sales-dire...",
+    "url": "https://jp.linkedin.com/jobs/view/regional-sales-director-japan-at-neural-concept-4397056226",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept : AI-first engineering platform — Neural Concept : AI-first engineering platform Neural Concept https://www.neuralconcept.com",
+    "url": "https://www.neuralconcept.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Working at Neural Concept | Glassdoor — Working at Neural Concept | Glassdoor Glassdoor https://www.glassdoor.com > Overview",
+    "url": "https://www.glassdoor.com/Overview/Working-at-Neural-Concept-EI_IE3039011.11,25.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Forward Deployed Engineer - Japan - Neural Concept - Built In — Forward Deployed Engineer - Japan - Neural Concept - Built In Built In https://builtin.com > ... > Jobs",
+    "url": "https://builtin.com/job/ml-application-engineer-japanese-speaking/7771121",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Manufacturing AI for Efficiency and Growth — Smart Manufacturing AI for Efficiency and Growth Neural Concept https://www.neuralconcept.com > post",
+    "url": "https://www.neuralconcept.com/post/harnessing-smart-manufacturing-ai-for-enhanced-efficiency-and-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Who uses Neural Concept ? 14 companies (Oct 2026) — Who uses Neural Concept ? 14 companies (Oct 2026) usedby.ai https://www.usedby.ai > neural-concept",
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept revolutionizing engineering with AI ... - YouTube — Neural Concept revolutionizing engineering with AI ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=G_l2-r_6tYE",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept to Demonstrate Accelerated AI-Driven ... — Neural Concept to Demonstrate Accelerated AI-Driven ... Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20241216783440/en/Neural-Concept-to-Demonstrate-Accelerated-AI-Driven-Product-Design-at-CES-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept - LinkedIn — Neural Concept - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/neuralconcept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept SA | Ansys Technology Partner - Synopsys — Neural Concept SA | Ansys Technology Partner - Synopsys Ansys https://ansys.synopsys.com > neural-c...",
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Revenue 2024: $3.6M Est., $143.1K Raised — Neural Concept Revenue 2024: $3.6M Est., $143.1K Raised GetLatka https://getlatka.com > neural-concept",
+    "url": "https://getlatka.com/companies/neural-concept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Closes $100M Series C Led by Goldman Sachs — Neural Concept Closes $100M Series C Led by Goldman Sachs Neural Concept https://www.neuralconcept.com > neu...",
+    "url": "https://www.neuralconcept.com/press-release/neural-concept-closes-100m-funding-round",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Secures $100M Series C Funding ... - LinkedIn — Neural Concept Secures $100M Series C Funding ... - LinkedIn LinkedIn https://www.linkedin.com > posts > neuralconcept_neural...",
+    "url": "https://www.linkedin.com/posts/neuralconcept_neuralconcept-goldmansachs-funding-activity-7407460017576046592-65Cc",
+    "pass": 3
+   },
+   {
+    "quote": "NeuralConcept - 2026 Company Profile, Funding & Competitors — NeuralConcept - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/neuralconcept/__319an4XwlNLgpX6NLCyoLGUj87XXZPpLhNgsmgOHVDk",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Closes $100M Funding Round Led by Growth ... — Neural Concept Closes $100M Funding Round Led by Growth ... Goldman Sachs Asset Management https://am.gs.com > Homepage > News and Media",
+    "url": "https://am.gs.com/en-us/advisors/news/press-release/2025/neural-concept-closes--100m-funding-round-led-by-growth-equity-a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "設計工程の自動化/効率化をAIで実現する NeuralConcept が調達 ... 設計工程の自動化/効率化をAIで実現する NeuralConcept が調達 ... note https://note.com > Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "設計工程の自動化/効率化をAIで実現するNeuralConceptが調達実施、事業拡大へ｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   },
+   {
+    "quote": "設計工程の自動化/効率化をAIで実現するNeuralConceptが調達実施、事業拡大へ",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   },
+   {
+    "quote": "3D環境下での深層学習/独自AIによる設計プロセスの効率化/迅速化を実現するSWを展開するNeuralConceptが2700万ドルを調達しました。",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   },
+   {
+    "quote": "同社のSWでEV開発期間を1/3程度に短縮することが可能としており、日系でもSubaruなどが採用しています。",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   },
+   {
+    "quote": "中国勢のEVへの対抗にはプロセス短縮化/効率化が求めらるところで、今後の成長には欠かせない機能となりそうです。",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   },
+   {
+    "quote": "1;NeuralConceptによる資金調達",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   },
+   {
+    "quote": "今回のラウンドはSeries-Bで合計2700万ドルを金融投資家から調達し、これまでの調達総額は3800万ドルに。今回ラウンドはForestay Capitalがリードし、新規投資家;D.E.Shawに加えて既存投資家;Alven/Constantia New Business/HTGF/AsterGroupが参加",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   },
+   {
+    "quote": "今回以前には[Series-A;900万ドル(22/03)][Seed;200万ドル(2020)]のラウンドを経験、今回の資金は従業員採用及びAPAC/米国への進出に用いる",
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Neural Concept (@neural_concept_) / X Neural Concept (@neural_concept_) / X X https://x.com > neural_concept_",
+    "url": "https://x.com/neural_concept_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Neural Concept - LinkedIn Neural Concept - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/neuralconcept",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept Expands in India with Engineering AI Solutions Neural Concept Expands in India with Engineering AI Solutions LinkedIn https://www.linkedin.com > posts > n...",
+    "url": "https://www.linkedin.com/posts/neuralconcept_engineeringintelligence-engineeringai-activity-7503712788566126592-nZtV",
+    "pass": 3
+   },
+   {
+    "quote": "Dialogue with the CEO of Neural Concept , just named ... Dialogue with the CEO of Neural Concept , just named ... LinkedIn https://www.linkedin.com > pulse > di...",
+    "url": "https://www.linkedin.com/pulse/dialogue-ceo-neural-concept-just-named-technology-pioneer-monnier-4nnse",
+    "pass": 3
+   },
+   {
+    "quote": "Neural Concept - LinkedIn Neural Concept - LinkedIn LinkedIn https://jp.linkedin.com > company > neuralconcept",
+    "url": "https://jp.linkedin.com/company/neuralconcept",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Exploring the Concept of Beautiful Neural Canvas (BNC) in Art Exploring the Concept of Beautiful Neural Canvas (BNC) in Art Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/469992587543597/posts/1807233093819533/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.neuralconcept.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/other-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/newsroom/company-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/who-we-are",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/get-started",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/mahle-radial-blower-neural-concept",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/general-motors-pedestrian-safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/jlr-nvidia-gtc-aerodynamic-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/leonardo-ai-driven-aircraft-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/consumer-electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/semiconductors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neuralconcept.com/industry-stories/aerospace-defense",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.businesswire.com/news/home/20250926919715/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ncs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scsk.jp/product/common/ncs/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/ncs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scsk.jp/product/common/ncs/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanaerospace.jp/exhibitor/materialfile/67/en/3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/regional-sales-director-japan-at-neural-concept-4397056226",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.glassdoor.com/Overview/Working-at-Neural-Concept-EI_IE3039011.11,25.htm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usedby.ai/tools/neural-concept",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=G_l2-r_6tYE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/neuralconcept",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/neural-concept",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/neuralconcept_neuralconcept-goldmansachs-funding-activity-7407460017576046592-65Cc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/neuralconcept/__319an4XwlNLgpX6NLCyoLGUj87XXZPpLhNgsmgOHVDk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/neural_concept_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/neuralconcept",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/neuralconcept_engineeringintelligence-engineeringai-activity-7503712788566126592-nZtV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/dialogue-ceo-neural-concept-just-named-technology-pioneer-monnier-4nnse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/469992587543597/posts/1807233093819533/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/neural_concept_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/neuralconcept",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Neural Concept 日本 導入",
+   "results": [
+    "https://www.businesswire.com/news/home/20250926919715/ja",
+    "https://www.cybernet.co.jp/ncs/",
+    "https://www.scsk.jp/product/common/ncs/index.html",
+    "https://www.neuralconcept.com/press-release/neural-concept-cybernet-japan-partnership",
+    "https://www.japanaerospace.jp/exhibitor/materialfile/67/en/3",
+    "https://prtimes.jp/main/html/rd/p/000000421.000004714.html",
+    "https://guide.jsae.or.jp/topics/429196/",
+    "https://www.cybernet.co.jp/ncs/download/007/",
+    "https://rescale.com/ja/news/rescale-and-neural-concept-revolutionize-ai-physics/",
+    "https://genbajapan.com/companies/neural-concept"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Neural Concept 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.cybernet.co.jp/ncs/",
+    "https://www.scsk.jp/product/common/ncs/index.html",
+    "https://www.neuralconcept.com/press-release/neural-concept-cybernet-japan-partnership",
+    "https://www.japanaerospace.jp/exhibitor/materialfile/67/en/3",
+    "https://www.prnewswire.com/jp/news-releases/neural-conceptai-302793301.html",
+    "https://www.businesswire.com/news/home/20250926919715/ja",
+    "https://cloud.watch.impress.co.jp/docs/news/1439632.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2203/18/news051.html",
+    "https://prtimes.jp/main/html/rd/p/000000421.000004714.html",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Neural Concept Japan",
+   "results": [
+    "https://www.neuralconcept.com/careers",
+    "https://jp.linkedin.com/jobs/view/regional-sales-director-japan-at-neural-concept-4397056226",
+    "https://www.neuralconcept.com/",
+    "https://www.glassdoor.com/Overview/Working-at-Neural-Concept-EI_IE3039011.11,25.htm",
+    "https://builtin.com/job/ml-application-engineer-japanese-speaking/7771121",
+    "https://www.cybernet.co.jp/ncs/",
+    "https://kyodonewsprwire.jp/release/202606090556",
+    "https://startup.jobs/solutions-engineer-japan-neural-concept-8819882",
+    "https://www.linkedin.com/company/neuralconcept",
+    "https://www.neuralconcept.com/ncc-2027-tokyo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Neural Concept manufacturing customer case study",
+   "results": [
+    "https://www.neuralconcept.com/post/harnessing-smart-manufacturing-ai-for-enhanced-efficiency-and-growth",
+    "https://www.usedby.ai/tools/neural-concept",
+    "https://www.youtube.com/watch?v=G_l2-r_6tYE",
+    "https://c3.ai/customers",
+    "https://www.businesswire.com/news/home/20241216783440/en/Neural-Concept-to-Demonstrate-Accelerated-AI-Driven-Product-Design-at-CES-2025",
+    "https://edrmedeso.com/products/ai-for-engineering/",
+    "https://www.engineering.com/neural-concepts-ai-substitutes-for-simulation/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKbxuVKcygReCdmLtFv32vWLOX3uR99rqxtXJf3fwOhULPnvSSW",
+    "https://www.switt.ch/system/files?file=case_study/documents/NEURAL%20CONCEPT%20-%20EMPOWERING%20ORGANIZATIONS%20WITH%20ENGINEERING%20INTELLIGENCE.pdf",
+    "https://www.neuralconcept.com/customer-stories"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Neural Concept white label OR reseller OR partner program",
+   "results": [
+    "https://www.neuralconcept.com/",
+    "https://www.linkedin.com/company/neuralconcept",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.agentz.ai/partners",
+    "https://newo.ai/insights/building-a-profitable-reseller-business-with-white-label-services-and-custom-software",
+    "https://multiples.vc/private-comps/neural-concept",
+    "https://aws.amazon.com/marketplace/seller-profile?id=seller-lpmsmomlznvom",
+    "https://www.capterra.com/p/10050228/Neural-Concept/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Neural Concept founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/neural-concept",
+    "https://www.neuralconcept.com/press-release/neural-concept-closes-100m-funding-round",
+    "https://www.linkedin.com/posts/neuralconcept_neuralconcept-goldmansachs-funding-activity-7407460017576046592-65Cc",
+    "https://tracxn.com/d/companies/neuralconcept/__319an4XwlNLgpX6NLCyoLGUj87XXZPpLhNgsmgOHVDk",
+    "https://am.gs.com/en-us/advisors/news/press-release/2025/neural-concept-closes--100m-funding-round-led-by-growth-equity-a",
+    "https://www.zoominfo.com/c/neural-concept-sa/465923315",
+    "https://www.linkedin.com/posts/fondation-innovation-technologie_vdtech-swisstech-startupfit-activity-7414251920602914816-NxJT",
+    "https://www.crunchbase.com/organization/neural-concept",
+    "https://multiples.vc/private-comps/neural-concept",
+    "https://pitchbook.com/profiles/company/234686-08"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Neural Concept",
+   "results": [
+    "https://note.com/suzuken0331/n/nc8a4f3f7bd64",
+    "https://note.com/shi3zblog/n/n221b9901207d?hl=en",
+    "https://note.com/rock204/n/n02303613e63a?hl=en",
+    "https://note.com/opqrst_inc/n/n3835b4f61f6a?hl=en",
+    "https://note.com/strictlyes/n/nebc831a895b8?hl=en",
+    "https://note.com/hibara428/n/n45d5d8aa5686?hl=en",
+    "https://note.com/symbol_emerg/n/n7b86019aaff6?hl=en",
+    "https://note.com/morikita/n/n71f25000bc39?hl=en",
+    "https://note.com/nishimura_osteo/n/n3aa5603c9271?hl=en",
+    "https://note.com/suzuken0331/n/nc8a4f3f7bd64?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Neural Concept",
+   "results": [
+    "https://x.com/neural_concept_",
+    "https://x.com/PierreBaqu1",
+    "https://x.com/AnthropicAI/status/1983584141909389542",
+    "https://x.com/sairahul1/article/2057740928908161461",
+    "https://x.com/SchmidhuberAI/status/2095203142455410988",
+    "https://blog.x.com/engineering/graph-neural-networks-through-the-lens-of-differential-geometry-",
+    "https://x.com/AnthropicAI/status/2074185354035245553",
+    "https://x.com/bengoertzel/article/2053072200987545755",
+    "https://x.com/AnthropicAI/status/1570087876053942272",
+    "https://x.com/neuralconcept"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Neural Concept",
+   "results": [
+    "https://www.linkedin.com/company/neuralconcept",
+    "https://www.linkedin.com/posts/neuralconcept_engineeringintelligence-engineeringai-activity-7503712788566126592-nZtV",
+    "https://www.linkedin.com/pulse/engineering-intelligence-brief-2-neuralconcept-0j49f",
+    "https://www.linkedin.com/pulse/dialogue-ceo-neural-concept-just-named-technology-pioneer-monnier-4nnse",
+    "https://www.linkedin.com/posts/neuralconcept_engineeringintelligence-neuralconcept-activity-7504117136525783040-4JWz",
+    "https://www.linkedin.com/in/nirmaljp6",
+    "https://www.linkedin.com/posts/neuralconcept_neuralconcept-engineeringintelligence-activity-7416464526990245888-ilgT",
+    "https://www.linkedin.com/posts/neuralconcept_neuralconcept-goldmansachs-funding-activity-7407460017576046592-65Cc",
+    "https://www.linkedin.com/posts/neuralconcept_engineeringintelligence-neuralconcept-activity-7515425411967811585-Kats",
+    "https://ch.linkedin.com/company/neuralconcept"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Neural Concept",
+   "results": [
+    "https://www.facebook.com/WevolverApp/videos/this-video-introduces-temporal-event-based-neural-networks-tenns-lightweight-ene/1112114073421657/",
+    "https://www.facebook.com/groups/1685507044817357/posts/26559774123630638/",
+    "https://www.facebook.com/AutoNews/posts/by-2030-humanoid-robots-will-perform-most-standing-jobs-in-automotive-factories-/1613415270644200/",
+    "https://www.facebook.com/groups/469992587543597/posts/1807233093819533/",
+    "https://www.facebook.com/61568751478861/posts/-most-people-think-deep-learning-is-just-one-thingits-notits-an-entire-family-of/122182366538625049/",
+    "https://research.facebook.com/publications/year/2020/",
+    "https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/?share=x&nb=1",
+    "https://ai.facebook.com/blog/-turing-award-presented-to-yann-lecun-geoffrey-hinton-and-yoshua-bengio",
+    "https://www.facebook.com/SwissConsulateMumbai/videos/neural-concept/1089888866203260/",
+    "https://www.facebook.com/NeuralNetworksConcepts/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Neural Concept note 社長",
+   "results": [
+    "https://am.gs.com/en-us/advisors/news/press-release/2025/neural-concept-closes--100m-funding-round-led-by-growth-equity-a",
+    "https://www.neuralconcept.com/press-release/neural-concept-appoints-three-leaders",
+    "https://www.startupticker.ch/en/news/neural-concept-closes-100m-funding-round-to-scale-ai-native-engineering",
+    "https://www.venture-leaders.ch/Neural-Concept-closes-USD-100M-Series-C-to-scale-AInative-engineering",
+    "https://www.linkedin.com/posts/high-tech-gruenderfonds_pierre-baqu%C3%A9-ceo-founder-of-neural-concept-activity-7435237986406969344-X4Cn",
+    "https://www.cybernet.co.jp/ncs/",
+    "https://proceedings.neurips.cc/paper_files/paper/2024/file/8402cf3031d649066ada24514739f0dd-Paper-Conference.pdf",
+    "https://www.businesswire.com/news/home/20250926919715/ja",
+    "https://www.scsk.jp/news/2022/pdf/20220913.pdf",
+    "https://www.neuralconcept.com/who-we-are"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Neural Concept X 投稿",
+   "results": [
+    "https://x.com/neural_concept_",
+    "https://www.neuralconcept.com/",
+    "https://jp.linkedin.com/company/neuralconcept",
+    "https://www.weforum.org/organizations/neural-concept",
+    "https://www.youtube.com/watch?v=KIsbmSoA3sg",
+    "https://ansys.synopsys.com/partner-ecosystem/technology-partners/neural-concept",
+    "https://news.siemens.com/en-us/neural-concept-simcenter/",
+    "https://www.youtube.com/@neural-concept",
+    "https://zhuanlan.zhihu.com/p/598310233",
+    "https://www.neuralconcept.com/platform"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

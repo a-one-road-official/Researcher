@@ -1,0 +1,994 @@
+{
+ "name": "Foundry Lab",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:14:31.140594+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "contact@foundrylabs.co.jp",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "contact@foundrylabs.co.jp",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "本件に関するお問い合わせ: contact@foundrylabs.co.jp",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/234971-56",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "TOKYO, JP",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Startup building, enterprise AI deployment and decades of operating in Japan. Our founders bring experience across the business, engineering and operational sides of putting AI to work.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Startup founder. Tokyo AI founder.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Ilya brings a background in quantitative research and machine learning, with experience building startups in Singapore and New York. Through Tokyo AI, he connects Japan’s founders, researchers and investors with the global AI community.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "From individual contributor to Enterprise Lead, Declan led teams of Forward Deployed Engineers and Deployment Strategists in the UK, Germany and Japan. His deployment experience spans healthcare, defence and manufacturing.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "20+ years in Japan’s tech sector.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Cedric’s experience spans Stability AI, TaskUs and Gengo. He has led AI data strategy, operations and cross-functional teams, combining international AI experience with two decades of working in Japan’s technology ecosystem.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Rooted in the Tokyo AI community.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "TOKYO, JP",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup building, enterprise AI deployment and decades of operating in Japan. Our founders bring experience across the business, engineering and operational sides of putting AI to work.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup founder. Tokyo AI founder.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Ilya brings a background in quantitative research and machine learning, with experience building startups in Singapore and New York. Through Tokyo AI, he connects Japan’s founders, researchers and investors with the global AI community.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "From individual contributor to Enterprise Lead, Declan led teams of Forward Deployed Engineers and Deployment Strategists in the UK, Germany and Japan. His deployment experience spans healthcare, defence and manufacturing.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "20+ years in Japan’s tech sector.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Cedric’s experience spans Stability AI, TaskUs and Gengo. He has led AI data strategy, operations and cross-functional teams, combining international AI experience with two decades of working in Japan’s technology ecosystem.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Rooted in the Tokyo AI community.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs株式会社、「OpenAI Select Partner」に認定：東京新聞 × PR TIMES：東京新聞デジタル",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs株式会社、「OpenAI Select Partner」に認定",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月7日 東京 - 最新のAI技術で日本企業の実課題解決を支援するエンタープライズAIパートナー、Foundry Labs株式会社(本社:東京、CEO: Ilya Kulyatin、以下「Foundry Labs」)は本日、OpenAI Partner Networkにおいて「OpenAI Select Partner」に認定されたことを発表しました",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本企業にとって最も価値のある資産は、これまで文書化されてこなかった暗黙知です",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI Select Partnerとしての私たちの役割は、企業がすでに持っている知を、測定可能な成果へと変えることです」(Foundry Labs株式会社 CEO Ilya Kulyatin)",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labsは、AIコンサルティング、AI教育、AIリサーチを通じて、業界を問わず日本の企業を支援しています",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの実績には、日本有数の知的財産(IP)ホルダーに向けたAI売上予測ダッシュボードの構築、大手マーケティング企業のマーケティング戦略を最適化するカスタムAIシステムの開発、大手邦銀におけるエージェント型AIソリューションのシステムインテグレーションなどがあります",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、Foundry Labsは、OpenAIのフロンティアモデルを基盤とした日本企業向けの新たなソリューション開発を進め、お客様のAIへの意欲をビジネス成果へと転換する支援を続けてまいります",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs株式会社は、2025年に東京で設立された、日本企業のためのエンタープライズAIパートナーです",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "New Member: Foundry Labs | British Chamber of Commerce in Japan",
+    "url": "https://bccjapan.com/news/new-member-foundry-labs",
+    "pass": 3
+   },
+   {
+    "quote": "'A decade of deploying AI across the UK, Europe and Japan taught me a simple truth:",
+    "url": "https://bccjapan.com/news/new-member-foundry-labs",
+    "pass": 3
+   },
+   {
+    "quote": "That is why our truly international team of engineers chose Tokyo as the place to build Foundry Labs. In the white heat of this technological revolution, Japanese enterprise has what matters most: the will to do the thing seriously, and to do it well.'",
+    "url": "https://bccjapan.com/news/new-member-foundry-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs K.K., MIEUX Shibuya Building 8F, 5-3 Maruyamacho, Shibuya-ku, Tokyo 150-0044",
+    "url": "https://bccjapan.com/news/new-member-foundry-labs",
+    "pass": 3
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "Four sessions for Forward Deployed Engineers and five for Deployment Strategists. Choose either track or both, with two-hour workshops built around your team’s real customer work.",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Four sessions for Forward Deployed Engineers and five for Deployment Strategists. Choose either track or both, with two-hour workshops built around your team’s real customer work.",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Part of something bigger",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Part of something bigger",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Lab has 28 total employees.",
+    "url": "https://pitchbook.com/profiles/company/234971-56",
+    "pass": 3
+   },
+   {
+    "quote": "What is Foundry Lab’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/234971-56",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Foundry Lab is",
+    "url": "https://pitchbook.com/profiles/company/234971-56",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Foundry Lab — Foundry Lab FoundryLab https://foundrylab.com",
+    "url": "https://foundrylab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI, built inside your business - Foundry Labs — AI, built inside your business - Foundry Labs Foundry Labs https://www.foundrylabs.co.jp > ...",
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs - LinkedIn — Foundry Labs - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/foundry-labs-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Azure AI Foundry Labs : A hub for the latest AI ... — Introducing Azure AI Foundry Labs : A hub for the latest AI ... Microsoft Azure https://azure.microsoft.com > blog > i...",
+    "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-ai-foundry-labs-a-hub-for-the-latest-ai-research-and-experiments-at-microsoft/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs — AI, built inside your business — Foundry Labs — AI, built inside your business Foundry Labs https://www.foundrylabs.co.jp",
+    "url": "https://www.foundrylabs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs 株式会社 - LinkedIn — Foundry Labs 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > foundry-labs-kk",
+    "url": "https://jp.linkedin.com/company/foundry-labs-kk",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs 株式会社、「OpenAI Select Partner」に認定 — Foundry Labs 株式会社、「OpenAI Select Partner」に認定 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article198840",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "Azure AI Foundry Labs の紹介: Microsoftでの最新AI研究と実験 ... — Azure AI Foundry Labs の紹介: Microsoftでの最新AI研究と実験 ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "New Member: Foundry Labs — New Member: Foundry Labs British Chamber of Commerce in Japan https://bccjapan.com > news > new-m...",
+    "url": "https://bccjapan.com/news/new-member-foundry-labs",
+    "pass": 3
+   },
+   {
+    "quote": "US Army Validates Foundry Lab's Digital Metal Casting with ... — US Army Validates Foundry Lab's Digital Metal Casting with ... 3DPrint.com https://3dprint.com > us-army-validat...",
+    "url": "https://3dprint.com/314726/us-army-validates-foundry-labs-digital-metal-casting-with-startups-first-sale/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial disclosures - Foundry Labs — Commercial disclosures - Foundry Labs Foundry Labs https://www.foundrylabs.co.jp > toku...",
+    "url": "https://www.foundrylabs.co.jp/tokushoho.html?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Lab Journal 30 Day Challenge: Where your ideas get ... — Foundry Lab Journal 30 Day Challenge: Where your ideas get ... Amazon.jp https://www.amazon.co.jp > Foundry-Lab-Journal-Day-C...",
+    "url": "https://www.amazon.co.jp/Foundry-Lab-Journal-Day-Challenge/dp/B0H6VG72M6",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Lab - Valuation, Funding & Investors - PitchBook — Foundry Lab - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/234971-56",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Lab - Crunchbase Company Profile & Funding — Foundry Lab - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > found...",
+    "url": "https://www.crunchbase.com/organization/foundry-lab",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "2026年9月7日 東京 - 最新のAI技術で日本企業の実課題解決を支援するエンタープライズAIパートナー、Foundry Labs株式会社(本社:東京、CEO: Ilya Kulyatin、以下「Foundry Labs」)は本日、OpenAI Partner Networkにおいて「OpenAI Select Partner」に認定されたことを発表しました",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI Partner Networkは、パートナー企業がOpenAIとともにAIソリューションを構築・販売・提供するためのグローバルプログラムです",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI Partner Networkの詳細:",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Azure AI Foundry Labs の紹介: Microsoftでの最新AI研究と実験 ... Azure AI Foundry Labs の紹介: Microsoftでの最新AI研究と実験 ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs 最新情報 — 2026年4月｜daka | Microsoft | AI Foundry Labs 最新情報 — 2026年4月｜daka | Microsoft | AI note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Azure AI Foundry Labsの紹介: Microsoftでの最新AI研究と実験のハブ｜daka | Microsoft | AI",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "Azure AI Foundry Labsの紹介: Microsoftでの最新AI研究と実験のハブ",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "daka | Microsoft | AI",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "AI + machine learning Blog が良かったのでまとめてみた。",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "The Future Of AI: Deconstructing Contoso Chat - Learning GenAIOps in practice",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "Azure AI Foundry Labs",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "は、Microsoftでの最新AI研究を開発者や企業が実際のアプリケーションに活かすための新たなハブ",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "など、研究に基づく多彩なプロジェクトが提供されている",
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs 最新情報 — 2026年4月｜daka | Microsoft | AI",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs 最新情報 — 2026年4月",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   },
+   {
+    "quote": "daka | Microsoft | AI",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   },
+   {
+    "quote": "最新の研究モデルなどは Labs にてチェック可能！",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   },
+   {
+    "quote": "What's new in Foundry Labs - April 2026 | Microsoft Community Hub",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs は最新情報をキャッチアップできる場所",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   },
+   {
+    "quote": "AI イノベーションのスピードはただ速いだけではありません。これまで私たちが見てきたものとは根本的に異なるものです。新しいアーキテクチャ、新しいモダリティ、毎週のように塗り替えられるベンチマーク。開発者にとって、追いついていくことは「あったらいいな」ではなく、競争上の必須事項です。",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、最先端が常に動き続けている中で、最先端にとどまり続けるのは困難です。",
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Foundry Lab - LinkedIn Foundry Lab - LinkedIn LinkedIn https://www.linkedin.com > foundrylab",
+    "url": "https://www.linkedin.com/company/foundrylab",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs - LinkedIn Foundry Labs - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/foundry-labs-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs - LinkedIn Foundry Labs - LinkedIn LinkedIn https://uk.linkedin.com > company",
+    "url": "https://uk.linkedin.com/company/ucl-ai-foundry",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Labs 株式会社 - LinkedIn Foundry Labs 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > foundry-labs-kk",
+    "url": "https://jp.linkedin.com/company/foundry-labs-kk",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Print Foundry Lab | London - Facebook Print Foundry Lab | London - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/PrintFoundryLab/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced manufacturing startup Foundry Lab is seeking to ... Advanced manufacturing startup Foundry Lab is seeking to ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/NBR.co.nz/videos/foundry-lab-moves-out-of-stealth-mode/504270663915664/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://foundrylab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foundrylabs.co.jp/?lang=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/foundry-labs-studio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/blog/introducing-azure-ai-foundry-labs-a-hub-for-the-latest-ai-research-and-experiments-at-microsoft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chaos.com/pricing/resellers?srsltid=AYCX9vI3fw3BV2X8V6MZadTP4Wzzx7q4rsviMcPpM42F7gSubcoettac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vermicular.jp/takanawa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aitech-eng.co.jp/business/automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foundrylabs.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/foundry-labs-kk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://azure.microsoft.com/ja-jp/pricing/details/ai-foundry-models/black-forest-labs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/the-virtual-foundry-filament%E3%81%8Cbambu-lab%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E5%A4%89-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://idarts.co.jp/3dp/bambu-lab-the-virtual-foundry-partner-metal-3d-printing/?srsltid=AYCX9vK519Tyg-Rkt_zbneGWbaxVoqP5lQA13hpaPiesf3o3qOrC9Q9r",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foundrylabs.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bccjapan.com/news/new-member-foundry-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundrylab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/foundry-labs-kk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bccjapan.com/news/new-member-foundry-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kimurafoundry.com/about-kfa/made-in-the-usa-domestic-manufacturing-global-innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moderncasting.com/articles/2022/06/07/kimura-foundry-creates-its-niche",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://foundrylab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Foundry-Lab-Journal-Day-Challenge/dp/B0H6VG72M6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/AI-103-EXAM-PREP-2026-2027-Hands/dp/B0HFMBQSTR",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/My-Olfactive-Diary-Fragrance-collectors/dp/B08BF14LHL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/b?ie=UTF8&node=16391968051",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/g/00114948/?srsltid=AYCX9vL8h9BQ9ZmbTR6PvxuVZRoH2RNM61wrYqVC8bR2WYpDwLgLzR12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/2929/0566/?srsltid=AYCX9vIh9PATw_c9Zgbc2vmeE69QMRgsAwDGTN2Q8uBBYiu-uRwvEuJy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-%E3%83%9A%E3%83%87%E3%82%B9%E3%82%BF%E3%83%AB/?srsltid=AYCX9vK6PYAwRYBfaslPGRfiYK3fo9Audf2xvafnkncK-SLmlpeh54HE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6514/5423/?srsltid=AYCX9vKgSvxXDLegOkNTycf16qBC9xeJo3CzshodK4flEwqC4D0eaOIl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/234971-56",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/foundry-group/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/foundry-labs-studio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/foundry-lab",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/daka1/n/nbbb8cf8a827f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/foundrylab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/foundry-labs-studio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/ucl-ai-foundry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/foundry-labs-kk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PrintFoundryLab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NBR.co.nz/videos/foundry-lab-moves-out-of-stealth-mode/504270663915664/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/daka1/n/n84af8dfb6154",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/foundrylab",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Foundry Lab 代理店",
+   "results": [
+    "https://foundrylab.com/",
+    "https://www.foundrylabs.co.jp/?lang=ja",
+    "https://www.linkedin.com/company/foundry-labs-studio",
+    "https://azure.microsoft.com/en-us/blog/introducing-azure-ai-foundry-labs-a-hub-for-the-latest-ai-research-and-experiments-at-microsoft/",
+    "https://foundry-lab.xyz/",
+    "https://www.foundrylabs.com.au/",
+    "https://foundry-labs.app/",
+    "https://note.com/daka1/n/n84af8dfb6154",
+    "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "https://foundrylab.com/contact"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Foundry Lab 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.chaos.com/pricing/resellers?srsltid=AYCX9vI3fw3BV2X8V6MZadTP4Wzzx7q4rsviMcPpM42F7gSubcoettac",
+    "https://www.vermicular.jp/takanawa/",
+    "https://formlabs.com/jp/company/",
+    "https://www.aitech-eng.co.jp/business/automation",
+    "https://www.cbc.co.jp/news/5218/",
+    "https://www.gii.co.jp/publisher/veri/",
+    "https://www.amd.com/ja/ventures/portfolio.html",
+    "https://www.infineon.com/ja/contact-us/where-to-buy",
+    "https://www.3dsystems.com/",
+    "https://foundrylab.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Foundry Lab 日本 販売",
+   "results": [
+    "https://www.foundrylabs.co.jp/",
+    "https://jp.linkedin.com/company/foundry-labs-kk",
+    "https://azure.microsoft.com/ja-jp/pricing/details/ai-foundry-models/black-forest-labs/",
+    "https://adv.tokyo-np.co.jp/prtimes/article198840/",
+    "https://note.com/daka1/n/n84af8dfb6154",
+    "https://www.foundrylabs.co.jp/company-info.html",
+    "https://www.borndigital.co.jp/campaign/foundry-release-subscription/",
+    "https://qiita.com/hisaho/items/d2ffd306ee6a8a7d1a09",
+    "https://www.nvidia.com/ja-jp/ai/foundry/",
+    "https://foundrylab.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Foundry Lab フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://thevirtualfoundry.com/",
+    "https://3druck.com/ja/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E6%9D%90%E6%96%99/the-virtual-foundry-filament%E3%81%8Cbambu-lab%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E5%A4%89-2/",
+    "https://idarts.co.jp/3dp/bambu-lab-the-virtual-foundry-partner-metal-3d-printing/?srsltid=AYCX9vK519Tyg-Rkt_zbneGWbaxVoqP5lQA13hpaPiesf3o3qOrC9Q9r",
+    "https://skhonpo.com/",
+    "https://jp.store.bambulab.com/collections/bambu-lab-3d-printer-filament?srsltid=AYCX9vLPomecOb0w1n1U97Ovd54U4vdKZ3kqkTZB1cwCfPf4bWsbajRc",
+    "https://x.com/idarts_jp/status/1871054599362359388",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://formlabs.com/jp/products/materials/",
+    "https://www.form2.shop/formlabs-materials?srsltid=AYCX9vKQhz241YKxgWSNddcdcubq4ztRIC_ho9pmVftxNVRqCYzmKC4E",
+    "https://www.monotaro.com/s/q-レジン/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Foundry Lab Japan distributor",
+   "results": [
+    "https://www.foundrylabs.co.jp/",
+    "https://bccjapan.com/news/new-member-foundry-labs",
+    "https://foundrylab.com/",
+    "https://jp.linkedin.com/company/foundry-labs-kk",
+    "https://3dprint.com/314726/us-army-validates-foundry-labs-digital-metal-casting-with-startups-first-sale/",
+    "https://www.fabbaloo.com/news/foundry-lab-launches-direct-3d-metal-casting-service-for-faster-production",
+    "https://www.voxelmatters.directory/company/foundry-lab/",
+    "https://www.youtube.com/watch?v=ohpErF_Q-Kg",
+    "https://www.nisshinbo-microdevices.co.jp/en/products/foundry-service/cot/",
+    "https://www.foundrylabs.co.jp/company-info.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Foundry Lab distributor Japan OR Japanese partner",
+   "results": [
+    "https://bccjapan.com/news/new-member-foundry-labs",
+    "https://www.kimurafoundry.com/about-kfa/made-in-the-usa-domestic-manufacturing-global-innovation/",
+    "https://www.moderncasting.com/articles/2022/06/07/kimura-foundry-creates-its-niche",
+    "https://foundrylab.com/",
+    "https://www.foundrylabs.co.jp/tokushoho.html?lang=ja",
+    "https://gf.com/news-and-events/news/globalfoundries-selected-to-operate-two-new-semiconductor-fabs-in-new-york-under-landmark-us-japan-initiative/",
+    "https://www.youtube.com/watch?v=ohpErF_Q-Kg",
+    "https://www.sanyo-si.com/en/for-overseas-manufacturers",
+    "https://mono.ipros.com/en/company/detail/2053014/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Foundry Lab",
+   "results": [
+    "https://www.amazon.co.jp/Foundry-Lab-Journal-Day-Challenge/dp/B0H6VG72M6",
+    "https://www.amazon.co.jp/AI-103-EXAM-PREP-2026-2027-Hands/dp/B0HFMBQSTR",
+    "https://www.amazon.co.jp/My-Olfactive-Diary-Fragrance-collectors/dp/B08BF14LHL",
+    "https://www.amazon.co.jp/-/en/b?ie=UTF8&node=16391968051",
+    "https://www.amazon.co.jp/Foundry-Sands-Heinrich-Ries/dp/103683798X",
+    "https://www.amazon.co.jp/-/en/Poster-Foundry/dp/B0CH1RX62J",
+    "https://www.amazon.co.jp/-/en/Crucible-Tongs-Foundry-Refining-Casting/dp/B0B5HPKTCD",
+    "https://www.amazon.co.jp/Bandao-%E3%83%95%E3%82%A1%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AA%E3%83%88%E3%83%B3%E3%82%B0%E3%80%81%E6%BA%B6%E8%A7%A3%E3%82%8B%E3%81%A4%E3%81%BC%E3%83%88%E3%83%B3%E3%82%B0%E3%82%8B%E3%81%A4%E3%81%BC%E3%83%A9%E3%83%9C%E3%82%8B%E3%81%A4%E3%81%BC%E6%BA%B6%E8%A7%A3%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%9F%E9%A8%93%E5%AE%A4%E7%94%A8%E3%82%8B%E3%81%A4%E3%81%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E6%B3%A8%E3%81%90%E9%8B%B3%E9%80%A0%E3%80%81%E7%B2%BE%E8%A3%BD/dp/B09VFYWBM9",
+    "https://www.amazon.co.jp/-/en/Poster-Foundry/dp/B07RHQG2N6",
+    "https://www.amazon.co.jp/-/en/PartyKindom-Crucible-Foundry-Laboratory-Stainless/dp/B0DDXMW2BH"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:monotaro.com Foundry Lab",
+   "results": [
+    "https://www.monotaro.com/g/00114948/?srsltid=AYCX9vL8h9BQ9ZmbTR6PvxuVZRoH2RNM61wrYqVC8bR2WYpDwLgLzR12",
+    "https://www.monotaro.com/p/2929/0566/?srsltid=AYCX9vIh9PATw_c9Zgbc2vmeE69QMRgsAwDGTN2Q8uBBYiu-uRwvEuJy",
+    "https://www.monotaro.com/s/q-%E3%83%9A%E3%83%87%E3%82%B9%E3%82%BF%E3%83%AB/?srsltid=AYCX9vK6PYAwRYBfaslPGRfiYK3fo9Audf2xvafnkncK-SLmlpeh54HE",
+    "https://www.monotaro.com/p/6514/5423/?srsltid=AYCX9vKgSvxXDLegOkNTycf16qBC9xeJo3CzshodK4flEwqC4D0eaOIl",
+    "https://www.monotaro.com/g/06158387/?srsltid=AYCX9vKs0rGcmvtukT3x18IpGGm65FI-TDmCBx94ltlOI01phfrWIa86",
+    "https://www.monotaro.com/g/00133120/",
+    "https://www.monotaro.com/g/00264261/",
+    "https://www.monotaro.com/g/00201693/",
+    "https://www.monotaro.com/g/00263785/",
+    "https://www.monotaro.com/g/00017212/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Foundry Lab employees revenue parent company",
+   "results": [
+    "https://pitchbook.com/profiles/company/234971-56",
+    "https://www.reveliolabs.com/companies/foundry-group/employees",
+    "https://www.linkedin.com/company/foundry-labs-studio",
+    "https://www.crunchbase.com/organization/foundry-lab",
+    "https://foundrylab.com/",
+    "https://www.callaghaninnovation.govt.nz/stories/foundry-lab-wnt-ventures-from-backyard-project-to-series-b-capital-raise/",
+    "https://www.owler.com/company/foundry4",
+    "https://nzvc.co.nz/companies/foundry-lab",
+    "https://builtin.com/company/diamond-foundry/faq/stability-growth",
+    "https://compworth.com/company/foundry-lab"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Foundry Lab",
+   "results": [
+    "https://note.com/daka1/n/n84af8dfb6154",
+    "https://note.com/daka1/n/nbbb8cf8a827f",
+    "https://note.com/practicalcompass/n/n0c638c415e8e",
+    "https://note.com/aicu/n/n3cde5dca2f49?hl=en",
+    "https://note.com/visioneo/n/na0c98800d33c?hl=en",
+    "https://note.com/daka1/n/n4d29e898e9b2",
+    "https://note.com/daka1/n/n1178e2a300fc",
+    "https://note.com/daka1/n/nf5ae018124c4",
+    "https://note.com/daka1/n/n12321f739c9e",
+    "https://note.com/it_skill_trend/n/ne9ff516f4ceb?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Foundry Lab",
+   "results": [
+    "https://x.com/molecularfndry",
+    "https://x.com/BerkeleyLab/status/2112951558287605814",
+    "https://x.com/baselabs/status/2095561531400540623",
+    "https://x.com/BerkeleyLab/with_replies",
+    "https://x.com/SemiAnalysis_/status/2078117818453647705",
+    "https://x.com/LBNLcs",
+    "https://x.com/BibleClub_Fuji/status/1982253926821810192",
+    "https://x.com/LightwheelAI/status/2079605956154208315",
+    "https://x.com/CarnegieMellon/status/2092265866016473277",
+    "https://x.com/xfoundrylab"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Foundry Lab",
+   "results": [
+    "https://www.linkedin.com/company/foundrylab",
+    "https://www.linkedin.com/company/foundry-labs-studio",
+    "https://uk.linkedin.com/company/ucl-ai-foundry",
+    "https://jp.linkedin.com/company/foundry-labs-kk",
+    "https://www.linkedin.com/company/lean-education-agile-foundry-laboratory",
+    "https://nz.linkedin.com/in/david-moodie-b7b92ab",
+    "https://www.linkedin.com/posts/jaron-garcia-847388236_foundry-day-from-molten-metal-to-precision-activity-7403209009769750528-4_Aj",
+    "https://www.linkedin.com/company/foundry-ai-labs",
+    "https://www.linkedin.com/posts/nelsonlim_photogrammetry-crowmuseum-vfx-activity-7378901148302311425-hmAM",
+    "https://www.linkedin.com/company/foundry-lab-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Foundry Lab",
+   "results": [
+    "https://www.facebook.com/PrintFoundryLab/",
+    "https://www.facebook.com/wanderingJamie/posts/last-minute-fill-in-at-the-foundry-first-time-here/1088917903523956/",
+    "https://www.facebook.com/NBR.co.nz/videos/foundry-lab-moves-out-of-stealth-mode/504270663915664/",
+    "https://www.facebook.com/thefoundrybuffalo/",
+    "https://www.facebook.com/groups/293974777651067/posts/2809841796064340/",
+    "https://www.facebook.com/groups/389831211637256/posts/1397684104185290/",
+    "https://www.facebook.com/foundrymusiclab/",
+    "https://www.facebook.com/groups/293974777651067/posts/2189392738109252/",
+    "https://www.facebook.com/bostonmagiclab/posts/the-first-magic-lab-of-season-8-was-music-to-our-ears-literally-we-have-missed-t/1752540446686674/",
+    "https://www.facebook.com/foundry.lab.18/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Foundry Lab note 社長",
+   "results": [
+    "https://www.foundrylabs.co.jp/",
+    "https://note.com/daka1/n/n84af8dfb6154",
+    "https://www.linkedin.com/company/foundrylab",
+    "https://github.com/microsoft-foundry/Foundry_Toolkit_for_VSCode_Lab",
+    "https://microsoftlearning.github.io/mslearn-agent-quickstart/Instructions/Labs/01-get-started-in-foundry.html",
+    "https://techfoundry.ucdavis.edu/education-support",
+    "https://foundry.lbl.gov/user-program/applying-for-access/",
+    "https://learn.microsoft.com/en-us/azure/foundry-local/",
+    "https://www.cometfoundry.com/leadership/founder",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Foundry Lab X 投稿",
+   "results": [
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-labs--build-2026/4524581",
+    "https://itnext.io/research-you-can-actually-run-a-deep-dive-into-microsoft-foundry-labs-18414eb3c5c9",
+    "https://labs.ai.azure.com/",
+    "https://foundrylab.com/",
+    "https://docs.priorlabs.ai/integrations/foundry",
+    "https://www.foundrylabs.co.jp/blog.html?lang=ja",
+    "https://x.com/molecularfndry",
+    "https://www.briotech.com/news-azure-ai-foundry-labs/",
+    "https://www.youtube.com/watch?v=igkRXAjZ20g",
+    "https://x.com/FoundryLab_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部46頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部46頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部46頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部46頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部46頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部46頁・検索15回）"
+ }
+}

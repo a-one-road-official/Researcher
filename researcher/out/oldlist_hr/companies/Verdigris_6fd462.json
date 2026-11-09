@@ -1,0 +1,1932 @@
+{
+ "name": "Verdigris",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-09T19:53:18.105849+00:00",
+ "official_url": "https://www.verdigris.co/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Standard monitoring samples once a second. Failures move in milliseconds. Verdigris reads 8,000 samples a second, catching them before alarms fire and freeing the 15 to 25 percent of capacity that slow data leaves stranded.",
+    "url": "https://www.verdigris.co/",
+    "pass": 1
+   },
+   {
+    "quote": "A 200 ms harmonic spike from a degrading rectifier looks like a normal reading at 1 Hz. At 8 kHz, the same event produces 1,600 data points - enough to identify the failure signature.",
+    "url": "https://www.verdigris.co/",
+    "pass": 1
+   },
+   {
+    "quote": "$1.3M to $3M projected 3-year value, 6:1 ROI",
+    "url": "https://www.verdigris.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous waveform analysis caught the harmonic shifts that precede equipment failure. The result: 21 days of runway to schedule replacement before any breaker opened, and a 5-month payback.",
+    "url": "https://www.verdigris.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Circuit-level visibility revealed over 1 MW of recoverable capacity at a single facility, with roughly $100M projected across the portfolio.",
+    "url": "https://www.verdigris.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The electrical signal carries more information than legacy instruments were designed to see. We capture it at sub-cycle resolution, interpret it with physics and machine learning, and turn it into decisions operators can act on: where capacity is stranded, where failure is forming, where a load is behaving in ways no averaged dataset would reveal.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mark and Jon converged at NetLogic, building some of the most advanced network processors of the era. Along the way, they developed an algorithm that could extract meaningful signal from a single stream of noisy data. That technique stayed with them.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fifteen years of power-system instrumentation, combined with the team's original expertise in silicon and single-stream signal extraction, turned out to be the capability the AI era would demand. A single rack of high-density GPU compute draws over 120 kW of pulsating, non-linear load. The harmonics and transients those systems produce live where older instruments were never designed to look.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise / Infrastructure",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "CRO, proteanTecs; Former EVP, Cadence Design Systems",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Former President and CEO, Rockefeller Group Investment Management",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Former Chief Privacy Officer and General Counsel, Meta",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "President and CEO, USTelecom",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Advisors who have shaped the company. Nearly every one has a pre-existing relationship with the team. They know our capabilities because they've watched us build.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "The system boundary of silicon is shifting. What was once a multithreaded CPU is now parallel GPUs coordinated at the rack, the row, and the AI factory. Energy and compute are no longer separate system problems. They are the same problem, expressed in the same signal.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris sits where those systems meet, in the signal between the power that moves through critical infrastructure and the compute that now shapes nearly every industry. The grid is being asked to do more: power AI, absorb renewables, stay reliable under loads it was not designed for. Electrical intelligence is how that grid becomes responsive rather than reactive.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris Press Release",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on Process Innovation",
+    "url": "https://www.verdigris.co/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're first principle thinkers who innovate process constantly.",
+    "url": "https://www.verdigris.co/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Stay Humble, Seek Feedback, Improve",
+    "url": "https://www.verdigris.co/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We embrace difficult problems and value teamwork over heroism.",
+    "url": "https://www.verdigris.co/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive health, dental, and vision insurance",
+    "url": "https://www.verdigris.co/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development budget",
+    "url": "https://www.verdigris.co/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are not hiring for specific roles at the moment. Check back soon, or get to know what we are building in the meantime.",
+    "url": "https://www.verdigris.co/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Data Center",
+    "url": "https://www.verdigris.co/partners/cni",
+    "pass": 1
+   },
+   {
+    "quote": "EV2 Pro",
+    "url": "https://www.verdigris.co/partners/cni",
+    "pass": 1
+   },
+   {
+    "quote": "Data Center Monitoring Pricing & SKUs | Verdigris",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A subscription for most AI-DC fleets, a CapEx license for finance teams that need to own it, and an audit-grade tier for regulated workloads.",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise, contact us",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pick your usage profile",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Anomaly detection, predictive maintenance, and workflow automation ramping over the term.",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Telemetry + 1-yr retention + included credit pool",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Order-of-magnitude estimate. Not a quote. Final pricing scoped on a deployment call with our engineers.",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What's the pricing basis?",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We charge by deployed capacity in megawatts. Cloud starts at $25,000 per MW per year. For pilots or sites under 1 MW, we charge per gateway, then switch to per-MW pricing once you cross about 50 gateways or 2 MW deployed. We share specific numbers on a scoping call after we see your fleet. T-Mobile measured 6:1 ROI on 800 rectifiers.",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You do. Forge is a perpetual license, so your team owns the hardware on the balance sheet and the software license. Verdigris provides maintenance and platform updates under an ongoing service agreement.",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Proven at fleet scale",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "120–140 kW Blackwell racks move in milliseconds; once-a-second monitoring was built for slow loads. Verdigris reads 8,000 samples a second and gives back the 15 to 25% of capacity that slow measurement strands, with validated operating limits so training-job SLA isn't gated by guesswork.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "A 120 kW NVIDIA Blackwell NVL72 rack approaches infrastructure design limits today. NVIDIA's Rubin architecture (2027) is expected to require 600 kW to 1 MW per rack. Your training-job SLA depends on whether you can run that hardware closer to design capacity than your competitors. Without unplanned outages or shortening equipment life.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "fold into harmonic content",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Not nameplate. Not a projection from historical CPU-workload data. The measured-safe envelope for your current operating environment, refreshed continuously as the workload mix shifts.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": ". Run closer to design capacity because you can see when you are actually approaching a real limit, not a 30%-margin assumption baked in by the spec sheet.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Training-job SLA that survives synchronized phases",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility into the synchronized training cycles that drive coordinated demand across racks. See when peaks are creeping toward safety limits before the training job dies.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Measured power tied back to training-job phase. The foundation for tokens-per-watt KPIs as the field defines them. Validate that your power infrastructure isn't bottlenecking your training throughput.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "When you're modeling the next deployment, base it on measured limits from your current operating environment. Not nameplate ratings calibrated for CPU workloads.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "When training jobs die and the GPU logs don't explain it",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Three Approaches to Predictive Maintenance in AI Data Centers",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule, condition, and physics-based comparison. Where each approach detects relative to a UPS-rectifier failure event.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "How validated operating limits are produced from continuous physics measurement, and why nameplate ratings were never calibrated for AI workloads.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Power quality standards were written for motor loads, not GPU compute. The load profile changed. The measurement approach needs to change with it.",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Goldman Sachs projects $250–650 billion in AI infrastructure capital expenditure by 2026. Total data center capex is forecast to reach $3 trillion by 2030, growing at 14% annually. A growing share of that money is going into colocation. And the tenants writing those checks are pushing power density well beyond what most existing white-space designs were sized for.",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "AI infrastructure capex projection through 2026 (Goldman Sachs)",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "Total data center capex by 2030. 14% CAGR pulled by AI workloads",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "The capacity-vs-SLA problem",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "A 200 A PDU rated for steady-state server load has different effective capacity under a GPU load with elevated harmonic content. Heating from 5th and 7th harmonic THD reduces real headroom. Your spec sheet doesn't capture that.",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "One zone has legacy CPU racks, the next has a GPU tenant pushing 120 kW racks. The transformers, switchgear, and paralleling between them see a load profile no one designed for. Harmonic stress accumulates on equipment rated for clean sinusoidal current.",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "Per-zone capacity numbers from your monitoring don't reflect the shared-infrastructure penalty above. When the tenant deploys and a protection event happens, you're explaining a downtime credit to a customer with competitive alternatives a phone call away.",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "Three tenant zones (legacy 8 kW CPU, mixed, GPU-dense 130 kW) feed a shared paralleling bus and upstream transformer. As the tenant mix shifts, the shared bus sees changing harmonic profile (H1, H5, H7) AND changing RMS current (1× to 15× of legacy baseline). The transformer is stressed differently at each extreme: K-class limit at 100% legacy, amperage limit at 100% GPU.",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Verdigris builds the sensing and analytics that reveal what's actually happening inside electrical systems, from commercial buildings to industrial facilities to the GPU-dense data centers now powering AI.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "The electrical signal carries more information than legacy instruments were designed to see. We capture it at sub-cycle resolution, interpret it with physics and machine learning, and turn it into decisions operators can act on: where capacity is stranded, where failure is forming, where a load is behaving in ways no averaged dataset would reveal.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "They founded Verdigris in 2011. Thomas, Mark's brother, rejoined to build something that mattered. The early thesis: humans drove energy consumption, and better insight would change behavior. For over a decade, Verdigris instrumented the buildings and factories that form the backbone of the economy.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Teams Operating Critical Infrastructure",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams operating critical infrastructure worldwide.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Walsin Lihwa Corporation (global wire and cable manufacturer)",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "The system boundary of silicon is shifting. What was once a multithreaded CPU is now parallel GPUs coordinated at the rack, the row, and the AI factory. Energy and compute are no longer separate system problems. They are the same problem, expressed in the same signal.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial Partner: EnergyHUB 360 | Verdigris",
+    "url": "https://www.verdigris.co/partners/cni",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://www.verdigris.co/partners/cni",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading AI data center operators",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Read the T-Mobile case study",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Electrical Intelligence for AI Factories | Verdigris",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Industries / AI Factory",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "A GPU supercluster, run like a warehouse",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI factory operations play it conservative. They derate 20–40% to leave headroom for unknowns their existing telemetry doesn't resolve. At a 40% derate on a 1 GW campus, that's roughly $4 billion of compute capacity sitting idle (estimate based on industry-typical capex per kW of GPU compute).",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": ". When the underlying physics shifts (equipment degradation, electrical signature drift, peaks creeping up), Verdigris flags it days to weeks earlier than threshold-based monitoring, which fires only after the breaker has already opened. T-Mobile saw degradation 21 days before failure on UPS rectifiers (validated in our T-Mobile case study).",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "What changes for AI factory operations",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Recover stranded capacity in your AI factory",
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Most colo operators confront the same compounding bind:",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "What changes for colo operators",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "When operators lack real-time visibility into their power infrastructure, they don't only lose control; they lose money.",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "Operators get an average of 4,484 alerts per day. 67% are ignored. The signals that actually predict failure live below the measurement floor of incumbent BMS. Verdigris adds physics-validated early warning that cuts noise and gives you 21 days of advance notice before equipment fails.",
+    "url": "https://www.verdigris.co/industries/enterprise-data-center",
+    "pass": 1
+   },
+   {
+    "quote": "What enterprise operators are up against",
+    "url": "https://www.verdigris.co/industries/enterprise-data-center",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris doesn't replace your existing Schneider, Eaton, Vertiv, or ABB BMS. It layers physics-validated signals on top of them. Your operators keep the control surface they already trust. They get fewer, more accurate signals about what's actually degrading. Your audit trail captures the measurement-grade evidence that prediction was grounded in real waveform data, not pattern matching.",
+    "url": "https://www.verdigris.co/industries/enterprise-data-center",
+    "pass": 1
+   },
+   {
+    "quote": "What changes for enterprise operators",
+    "url": "https://www.verdigris.co/industries/enterprise-data-center",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial Buildings | Verdigris",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Industries / Commercial & Industrial",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial Buildings",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris now focuses on electrical intelligence for data centers. For commercial real estate and industrial buildings, we work with our partner EnergyHUB 360. Customers including Jabil, Katerra, JLL, and ARM Holdings used Verdigris to find efficiency wins and improve building performance.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris now focuses on electrical intelligence for data centers. For commercial real estate and industrial buildings, we work with our partner",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "The Verdigris team is focused on a specific problem: electrical intelligence purpose-built for data centers and the validation needs of GPU-density operations. For commercial real estate and industrial buildings, we work with our partner",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": ". They bring deep expertise in building energy optimization, M&V, and demand response across both commercial and industrial facilities.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "If you are an existing Verdigris customer in commercial real estate or manufacturing, your deployment continues with full Verdigris support.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "What Verdigris did for manufacturing & industrial customers",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris' AI classification gives us unprecedented visibility into our manufacturing energy patterns.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Circuit-level visibility uncovered half of the facility's electrical waste, with cost-allocation breakdowns by production line and shift.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Manufacturing at Vention Medical",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Energy intelligence as the foundation of a sustainable-manufacturing program. How visibility drove operational efficiency wins.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Manufacturing at Katerra",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris AI classification gave Katerra unprecedented visibility into manufacturing energy patterns and cost-attribution.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with our commercial & industrial partner",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris now focuses on electrical intelligence for data centers. For commercial real estate and industrial buildings, we work with our partner EnergyHUB 360. They bring dedicated expertise in building energy optimization, M&V, and demand response across both commercial and industrial facilities.",
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "pass": 1
+   },
+   {
+    "quote": "S&P Global Factory in Korea",
+    "url": "https://www.verdigris.co/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Manufacturing Made More Efficient with 8 kHz Smart Meters",
+    "url": "https://www.verdigris.co/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris Teams With Leap to Expand Virtual Power Plant Energy Network",
+    "url": "https://www.verdigris.co/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris takes on comfort for enterprises and industrial sites",
+    "url": "https://www.verdigris.co/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Rack-to-plant topology.",
+    "url": "https://www.verdigris.co/resources/case-studies/stranded-capacity-recovery-capex-deferral",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://www.verdigris.co/resources/blog/verdigris-appoints-industry-leaders",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://www.verdigris.co/pricing?from=industries-ai-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://www.verdigris.co/pricing?from=industries-colocation",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://www.verdigris.co/pricing?from=industries-enterprise-data-center",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "See how Jabil, a global manufacturing services company, used Verdigris to identify over 50% energy savings in their facilities.",
+    "url": "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This case study reflects Verdigris's work with commercial and industrial facilities. Today, Verdigris provides",
+    "url": "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Jabil, a 50-year-old global manufacturing services company with over 175,000 employees and 90 facilities around the world, used Verdigris to identify over 50% energy savings in their facilities.",
+    "url": "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Mission-Critical Manufacturing with Real-Time Monitoring | Verdigris",
+    "url": "https://www.verdigris.co/resources/case-studies/vention-medical-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This case study reflects Verdigris's earlier work in manufacturing. See below for how this technology applies to",
+    "url": "https://www.verdigris.co/resources/case-studies/vention-medical-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Vention Medical is a global leader in complex medical device design development, manufacturing, and assembly. With 13 facilities and FDA-approved clean room requirements, Vention needed a reliable system to detect equipment degradation before it could compromise sensitive manufacturing environments.",
+    "url": "https://www.verdigris.co/resources/case-studies/vention-medical-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A single HVAC failure in a clean room can contaminate materials, halt production, and require costly remediation. Standard monitoring systems only alert after problems occur, too late for mission-critical operations. Vention needed proactive detection to protect their manufacturing environments and meet increasingly stringent sustainability requirements from hospital customers.",
+    "url": "https://www.verdigris.co/resources/case-studies/vention-medical-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Sub-second detection requirements. Medical device manufacturing needs detection before standard monitoring catches problems. AI workloads with rapid load transitions have the same requirement.",
+    "url": "https://www.verdigris.co/resources/case-studies/vention-medical-case-study",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We build the sensing and analytics that reveal what's actually happening inside electrical systems. The electrical signal carries more information than legacy instruments were designed to see.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "The electrical signal carries more information than legacy instruments were designed to see. We capture it at sub-cycle resolution, interpret it with physics and machine learning, and turn it into decisions operators can act on: where capacity is stranded, where failure is forming, where a load is behaving in ways no averaged dataset would reveal.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "In 2008, a $600 utility bill arrived at Mark's house. No tool could explain it. The question sharpened with the arrival of their children. What they knew about silicon and signal had a new place to go.",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, CS Technology (acquired by Accenture); Operating Partner, DigitalBridge",
+    "url": "https://www.verdigris.co/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "8 kHz waveform capture on the circuits feeding each zone resolves harmonic content through the 25th order. The Verdigris Signals layer translates that into the actual safe capacity for each circuit given the load it's currently carrying. Not the nameplate. Not the historical assumption. The validated electrical limit, today.",
+    "url": "https://www.verdigris.co/industries/colocation",
+    "pass": 1
+   },
+   {
+    "quote": "Most enterprise and telco data centers carry a mix of equipment vintages and vendors. Schneider, Eaton, Vertiv, ABB, Honeywell. Installed across multiple expansions over a decade or more. Each generation came with its own monitoring stack. Each vendor's \"predictive maintenance\" offering covers part of the failure surface but not all of it.",
+    "url": "https://www.verdigris.co/industries/enterprise-data-center",
+    "pass": 1
+   },
+   {
+    "quote": "JP Rosato is an experienced operator and investor with a 30-year track record in complex technology environments. As an Operating Partner at DigitalBridge, he advances strategic growth across a global portfolio. Previously, he founded CS Technology, delivering visionary advisory services to Fortune 2000 clients, leading to its acquisition by Accenture.",
+    "url": "https://www.verdigris.co/company/team",
+    "pass": 1
+   },
+   {
+    "quote": "The engineering team knew the one-lines were unreliable. But they had no alternative source of truth. Every expansion decision carried the same risk: either over-build and waste capital, or under-estimate and face costly outages and SLA violations. The margin of error was measured in millions of dollars per facility.",
+    "url": "https://www.verdigris.co/resources/case-studies/stranded-capacity-recovery-capex-deferral",
+    "pass": 1
+   },
+   {
+    "quote": "Verdigris is now specified alongside switchgear and generators in the design standards for new builds and acquisitions.",
+    "url": "https://www.verdigris.co/resources/case-studies/stranded-capacity-recovery-capex-deferral",
+    "pass": 1
+   },
+   {
+    "quote": "Jabil, a 50-year-old global manufacturing services company with over 175,000 employees and 90 facilities around the world, used Verdigris to identify over 50% energy savings in their facilities.",
+    "url": "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "OpenAI都關掉Sora了，AI影片新創Runway怎麼在Google、字節夾擊下ARR翻倍？",
+    "url": "https://meet.bnext.com.tw/articles/view/53078",
+    "pass": 3
+   },
+   {
+    "quote": "年燒上百萬Token養出的AI團隊免費開源！YC執行長Garry Tan在想什麼？",
+    "url": "https://meet.bnext.com.tw/articles/view/53078",
+    "pass": 3
+   },
+   {
+    "quote": "Symptoms of toxicity include nausea, anemia and death, although widespread acquired immunity has been documented, as occurred with female workers in",
+    "url": "https://en.wikipedia.org/wiki/Verdigris",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s seasons enrich our hearts with a myriad of colors. Among these, the traditional Japanese color ‘Verdigris (緑青色(ろくしょういろ))’ carries a deep narrative woven from nature and history. This article delves into the allure of Verdigris, exploring how this hue has become embedded in Japanese culture.",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "A Verdigris case study is the proof artifact for a single customer engagement. It carries one anchor metric, one named operator’s voice, and one closing invitation for the reader to replicate the work in their own facility. The Notion",
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "pass": 3
+   },
+   {
+    "quote": ". Surrounding prose carries secondary observations; secondary observations are NEVER bolded as competing metrics.",
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "pass": 3
+   },
+   {
+    "quote": "Carries: executive summary, problem, outcome prose around the anchor metric, quote framing. The body register throughout.",
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "pass": 3
+   },
+   {
+    "quote": "Carries: approach section, the technical specifics that establish “we did this work, not just described it.”",
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "pass": 3
+   },
+   {
+    "quote": "Carries: the closing prose around Replicate that gestures past this one engagement. Used sparingly.",
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "pass": 3
+   },
+   {
+    "quote": "These are the words Kaoru said to Keitaro, who was barricaded alone in the fireworks factory.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews tend to dismiss it as 'all about the visual beauty,' but I feel differently. This blue might be the very 'poison of lost tradition' that modern Japan carries.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The texture of the explosion exceeds live-action. The sound is an arrangement of 'Aoba' by Shuta Hasunuma x imase, a contrast between roaring sound and silence.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'s arrival was met with",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The theater where the show was held was packed with guests hiding their faces and eyes behind strange masks and veils, creating an eerie atmosphere like a masquerade ball. At the banquet, a strange combination of alcohol and baked goods was served, and the snacks carried a somewhat familiar, unsettling aura. Also, lurking in the shadows of the audience seats were",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "on a piece of paper, and stuffed it into one of the tubes chosen from a set of 100 arranged in a 10x10 grid. Then,",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No email required. Configure your deployment and watch the estimate update live.",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise, contact us",
+    "url": "https://www.verdigris.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For press inquiries, contact us at:",
+    "url": "https://www.verdigris.co/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "), attached to outbound emails. Static rendering of the same content.",
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Verdigris Technologiesは日本企業とのコラボレーションにも積極的だ",
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本企業とコラボレーションできることを楽しみにしています",
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "特に製造業は先進的なテクノロジーを持った日本企業が多いですからね",
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "難しいのは法規制やセールスにおいての文化など、日本展開する上で知らないことが多いということです",
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "tokyo.startupisland.tw",
+    "url": "https://meet.bnext.com.tw/articles/view/53078",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導體供應鏈出資！Taravine首檔基金目標60億日圓，瞄準台灣B輪前半導體、深科技新創",
+    "url": "https://meet.bnext.com.tw/articles/view/53078",
+    "pass": 3
+   },
+   {
+    "quote": "LIQUID BRONZE & VERDIGRIS - PORTER’S PAINTS JAPAN［ポーターズペイント公式サイト］",
+    "url": "https://porters-paints.com/products/liquid-bronzeverdigris/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Verdigris (緑青色, ろくしょういろ) – History, Origin, and Color Codes | NIPPOLLE",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese traditional culture, goods, places and information",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional Japanese Colors",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Flesh Color (肌色, はだいろ) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Verdigris (緑青色, ろくしょういろ) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s seasons enrich our hearts with a myriad of colors. Among these, the traditional Japanese color ‘Verdigris (緑青色(ろくしょういろ))’ carries a deep narrative woven from nature and history. This article delves into the allure of Verdigris, exploring how this hue has become embedded in Japanese culture.",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris (緑青色(ろくしょういろ)) refers to a shade of teal, a blue-green color that evokes the beautiful greenery of nature and is deeply connected with the Japanese environment and culture. From the verdant scenery crafted by waterside plants and moss to the patina formed on copper plates used in ancient architecture, Verdigris naturally integrates into the Japanese way of life.",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Flax Color (亜麻色, あまいろ) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Colors are a mirror reflecting culture, and their subtle nuances have spun many stories over time. Among Japan's traditi...",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Eggplant Navy (茄子紺, なすこん) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese traditional colors are renowned worldwide for their unique beauty. Among them, \"Nasukon (茄子紺 - なすこん)\" captivate...",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Kneaded Color (練色, ねりいろ) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese traditional colors, with their unique beauty and deep history, have captivated people around the world. Among t...",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Matcha Green (抹茶色, まっちゃいろ) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "In the quiet of the afternoon, inspired by a sip of bittersweet matcha, the Japanese traditional color 'Matcha Green (抹茶...",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Brown (茶色, ちゃいろ) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "\"あなたは日本の情報を英語圏の人々に伝えるWebメディアの翻訳者です",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "以下の記事をHTMLタグを含めたまま日本語記事を英語に翻訳してください",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Brown (褐色, かっしょく) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's traditional colors, renowned for their unique textures and deep cultural significance, captivate audiences world...",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Wasabi Green (山葵色, わさびいろ) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Pale Green (白緑, びゃくろく) – History, Origin, and Color Codes",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Tourist Spots",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Traditional Crafts",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "[Movie Review] 'On the Day the Verdigris Dawns' (1) | Thoughts on Japanese Entertainment Since the COVID-19 Pandemic｜シミズ",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Movie Review] 'On the Day the Verdigris Dawns' (1) | Thoughts on Japanese Entertainment Since the COVID-19 Pandemic",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It feels as though it depicts the state of entertainment after the COVID-19 pandemic, and I felt it was a story that could only have been born in modern-day Japan.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The long-established Tatewaki Fireworks Factory is being forced to relocate due to town redevelopment. Keitaro Tatewaki, who grew up there, has been struggling alone to complete the legendary firework known as <Shuhari> in place of his father, who vanished. On the last day of summer, Kaoru, a childhood friend living in Tokyo, returns to their hometown.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan today, entertainment has fully recovered. Attendance at music concerts and movies has bounced back, and it is even said that the numbers have grown beyond what they were before the pandemic.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through the COVID-19 pandemic, Japanese entertainment has evolved and become resilient. (Of course, there are fields that were weeded out as a result, and I have complicated feelings about that.)",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I felt that 'On the Day the Verdigris Dawns' depicts the path that such Japanese entertainment has followed.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Perhaps it was a story that could only be depicted by Director Yoshitoshi Shinomiya, who also has a face as a Japanese-style painter.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is the feature-length directorial debut of Japanese painter Yoshitoshi Shinomiya and a joint Japanese-French production. The film was officially selected for the competition section of the Berlin International Film Festival.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Then, his childhood friend Kaoru (voiced by Kotone Furukawa), who lives in Tokyo, returns after four years. Dragging in Keitaro's older brother Sentaro (voiced by Miyu Irino), who works at the city hall, the three make a plan to create and launch fireworks in their final two days.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, I do not want to dismiss this film as 'just another youth anime.' This is because the 'gaze' that Director Shinomiya has cultivated as a Japanese painter transcends the skeleton of the story and shakes the very senses of the viewer.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The phantom fireworks 'Shuhari.' This is not just the name of a firework. It is the very philosophy of 'Shu-Ha-Ri' (protect, break, detach) that director Yoshitoshi Shinomiya inherited from the tradition of Japanese painting.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the climax launch scene, the blue that spreads across the night sky is not just any color. The actual Japanese painting pigment called Verdigris (Hanarokusei) is a 'poisonous blue' made from copper. It shines beautifully, but if handled incorrectly, it can corrode the skin.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason Kaoru returned from Tokyo also connects here. Because of a past incident (a childhood accident at the factory), she had chosen to 'detach.'",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Director Shinomiya values the 'space between the lines' as a Japanese painter. I believe the scarcity of dialogue and the abundance of silence are devices to project the viewer's 'own scenery' onto the film.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, Verdigris changes color and becomes more toxic when oxidized. The director, who has been researching Japanese painting materials for many years, says, 'Beautiful things are always precarious.'",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Reviews tend to dismiss it as 'all about the visual beauty,' but I feel differently. This blue might be the very 'poison of lost tradition' that modern Japan carries.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is repeatedly mentioned in director interview magazines is the 'lost landscape.' The project started in 2016. In 10 years, Shinomiya's own environment, family, and Japan have all changed.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "5. Analysis of drawing and sound techniques: The miracle of Japanese painting expanding anime",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Director Shinomiya says, 'I will expand the limits of anime with the techniques of Japanese painting.'",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hand-drawn based on Japanese painting mineral pigments. Each particle of light is mixed with toxic Verdigris, creating a subtle toxicity.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With character designs by Utsushita (Minami Laboratory), the 'pauses' in expressions function like the negative space in Japanese painting.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "His unique sense of form feels more in line with the dignity of German or European Informel than that of a Japanese artist, and this work clearly expresses the essence of Kimura's art.",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビルの電力使用量を「見える化」するVerdigris Technologies – TECHBL... — Aug 11, 2018 · スマートビルディングで電気代を削減 Verdigris Technologies はビルや病院、ホテルなどにハードウェアセンサーとエネルギー管理プラットフォームを提供している。ビルなどのエネルギー管理はとても複雑で、通常は電力会社に頼りきりだ。しかもエネルギー管理といっても、電力会社が顧客に使用 ...",
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigrisのレビュー、機能、価格、メリット・デメリット — Verdigrisの料金 Verdigrisの料金は同社のウェブサイトで公開されていません。 同社はエンタープライズ向けの営業モデルを採用しており、施設の規模、監視対象となる配電盤の数、必要となるソフトウェアモジュールに応じて価格がカスタマイズされます。",
+    "url": "https://apps.list.solar/ja/tools/verdigris/",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Technologies | BLITZ Portal イノベーション情報プラット... — 米国 カリフォルニア州にあるVerdigris Technologiesの会社情報・製品・サービスの紹介です。IoTを使った効率的なBMS (ビル管理システム) でエネルギー消費データをリアルタイムに取得し、省エネ化を図る管理プラットフォーム。",
+    "url": "https://blitzportal.com/startups/Verdigris-Technologies-D7jb5LKm",
+    "pass": 3
+   },
+   {
+    "quote": "台裔矽谷新創Verdigris獲北美電纜巨頭Southwire戰略投資，用次秒級電... — Mar 6, 2026 · 台裔新創用AI解開全球40%能源消耗黑盒子 全球有高達40%的能源消耗來自於建築，而建築能源浪費多發生於「電力使用不可視」的情境。 Verdigris共同創辦人Mark Chung一次度假回國後，發現無人房屋電費暴增的日常痛點，因而注意到這個用電痛點。",
+    "url": "https://meet.bnext.com.tw/articles/view/53078",
+    "pass": 3
+   },
+   {
+    "quote": "VERDIGRIS - DXies — DXiesでは、デジタルトランスフォーメーションに欠かせない世界のクラウド製品をカテゴリーごとに掲載。貴重な日本語で ...",
+    "url": "https://dxies.com/products/verdigris/",
+    "pass": 3
+   },
+   {
+    "quote": "Electrical Ground Truth for AI Data Centers | Verdigris — BMS and meters sample once a second. Verdigris reads 8,000 samples a second to catch failures early and validate capacity headroom in AI data centers.",
+    "url": "https://www.verdigris.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris - Wikipedia — Verdigris (/ ˈvɜːrdɪɡriː (s)/) [1] is a common name for any of a variety of somewhat toxic [2][3][4] copper salts of acetic acid, which range in colour from green to a bluish-green depending on their chemical composition. [5]: 132 Once used as a medicine [6][7] and pharmaceutical preparation, [8]: 176 [9] verdigris occurs naturally ...",
+    "url": "https://en.wikipedia.org/wiki/Verdigris",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris and old bronze: a Japanese color palette (5 ... — Rokushō is verdigris, the corrosion product of copper, and it is the great exception in the Japanese green family: most of the family's greens are two dyes layered, and this one is a mineral. It does not fade the way vegetable greens do, which is why it is the green of surviving objects rather than of surviving textiles. The set runs from",
+    "url": "https://japanesecolors.com/palettes/verdigris/",
+    "pass": 3
+   },
+   {
+    "quote": "LIQUID BRONZE & VERDIGRIS - PORTER’S PAINTS JAPAN[ポーターズペイ... — ミディアムブラウンのマットな質感に、VERDIGRIS（反応材）を塗布することで、厳然とした緑青を纏った古びた青銅を表現することができます。 壁面、ドア枠、建築用モールディング、植木鉢、装飾品などに古代青銅の美しさを再現することができます。",
+    "url": "https://porters-paints.com/products/liquid-bronzeverdigris/",
+    "pass": 3
+   },
+   {
+    "quote": "About Japan’s Traditional Color, Verdigris (緑青色, ろくしょうい... — May 9, 2024 · Japan’s seasons enrich our hearts with a myriad of colors. Among these, the traditional Japanese color ‘Verdigris (緑青色 (ろくしょういろ))’ carries a deep narrative woven from nature and history. This article delves into the allure of Verdigris, exploring how this hue has become embedded in Japanese culture.",
+    "url": "https://nippolle.net/en/article/694/",
+    "pass": 3
+   },
+   {
+    "quote": "What is verdigris (rokushō)? An explanation of the origin ... — Dec 6, 2025 · Verdigris is a type of blue-green color, but it is a specific Japanese traditional color name that refers specifically to the color of rusted copper. While general blue-green encompasses a wide range of shades, verdigris has cultural nuances, including its historical background as a pigment and its unique depth and textu",
+    "url": "https://iro-code.com/en/緑青-rokushou/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Verdigris — Manufacturing AI-Powered Manufacturing Made More Efficient with 8 kHz Smart Meters Katerra See how Verdigris helped Katerra identify energy usage anomalies, phase imbalances, and compressor short-cycling. \"Verdigris' technology represents a paradigm shift in smart buildings and unlocks unprecedented potential for fully autonomous buildings.\"",
+    "url": "https://www.verdigris.co/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Verdigris Design System — A Verdigris case study is the proof artifact for a single customer engagement. It carries one anchor metric, one named operator’s voice, and one closing invitation for the reader to replicate the work in their own facility. The Notion Sales Collateral Cheat Sheet lists four published case studies (Rectifier, Cooling Tower, Fortune 50 Telecom CapEx, Fortune ",
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "pass": 3
+   },
+   {
+    "quote": "Jabil Identifies 50% Energy Savings with Verdigris | Verdigris — Case Study Jabil Identifies 50% Energy Savings with Verdigris See how Jabil, a global manufacturing services company, used Verdigris to identify over 50% energy savings in their facilities.",
+    "url": "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Technologies Case Study: Katerra – Cutting-Edge ... — Katerra (Construction) partnered with Verdigris Technologies (Internet) to solve key challenges. \"Cutting-Edge Manufacturing Made More Efficient with AI Smart Meters\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/verdigris-technologies/case-study/cutting-edge-manufacturing-made-more-efficient-with-ai-smart-meters",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Technologies Case Study: Vention Medical ... — Vention Medical (Medical Devices) partnered with Verdigris Technologies (Internet) to solve key challenges. \"Sustainable Manufacturing Starts with Energy Insights\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/verdigris-technologies/case-study/sustainable-manufacturing-starts-with-energy-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris - 2026 Company Profile, Team, Funding & Competitors ...Verdigris - 2026 Company Profile, Funding & Investors | The ...Verdigris Technologies – Overview – Funding, Revenue & Growth …Verdigris 2026 Company Profile: Valuation, Funding ...Verdigris Technologies: Funding, Team & Investors | Startup ...Verdigris Revenue 2024: $10.4M Est., $44.4M RaisedVerdigris Technologies — venture-backed co",
+    "url": "https://tracxn.com/d/companies/verdigris/__xYX7Hyj163QIB6jFDExHzF2YlVlxwgN3dpORlhN_BGM",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · Verdigris is a Technology company based in Mountain View, United States, founded in 2011. It has raised $41.8M across 16 funding rounds.",
+    "url": "https://www.thecompanycheck.com/company/b/verdigris/on070cdm456x788t3",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Technologies – Overview – Funding, Revenue & Growth … — What makes Verdigris Technologies unique: estimated revenue of $12.7M, team of around 80+ employees, built in Mountain View, shaping a clear business narrative.",
+    "url": "https://compworth.com/company/verdigris-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris 2026 Company Profile: Valuation, Funding ...Verdigris Technologies: Funding, Team & Investors | Startup ...Verdigris Revenue 2024: $10.4M Est., $44.4M RaisedVerdigris Technologies — venture-backed company profile ... — Information on valuation, funding, cap tables, investors, and executives for Verdigris. Use the PitchBook Platform to explore the full profile. Jul 13, 2026 · Verdigris Te",
+    "url": "https://pitchbook.com/profiles/company/58696-39",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Technologies: Funding, Team & Investors | Startup ... — Jul 13, 2026 · Verdigris Technologies is an AI-driven energy management company that builds hardware-enabled SaaS solutions for smart building efficiency, focusing on real-time, circuit-level electrical monitoring and adaptive automation.",
+    "url": "https://startupintros.com/orgs/verdigris-technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Movie Review] 'On the Day the Verdigris Dawns' (1 ... What are the futures that Keitaro and the others will grasp when the hopes entrusted to the legendary fireworks and the 'verdigris' that holds the key to them ignite, illuminating the night and welcoming a new morning? —What is verdigris? A green pigment that turns blue when burned.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Review of 'On the Day the Verdigris Dawns': 'Inheriting ... Apr 1, 2026 · The animated film 'On the Day the Verdigris Dawns,' released on March 6, 2026. It is the feature-length directorial debut of Japanese painter Yoshitoshi Shinomiya and a joint Japanese-French production. The film was officially selected for the competition section of the Berlin International Film Festival. The runtime is only",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jiro Kimura 'From Ancient History...' Thumbhole Oil Painting ... Mysterious blue-greens reminiscent of verdigris and deep crimson colors overlap in a complex manner, unfolding a world that seems to awaken memories of the distant past and traces of civilization.",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anime \"The Apothecary Diaries\" Season 3 Episode 53 \"White ... A Visit to the Verdigris House and an Invitation to a Mysterious Show Next, Bai Niangniang demonstrated the \"Yellow-White Art\", in which she dipped a copper plate into a special liquid to turn it silver, then held it over a flame to change it into a brilliant gold. Furthermore, she thrilled the ...",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Movie Review] 'On the Day the Verdigris Dawns' (1) | Thoughts on Japanese Entertainment Since the COVID-19 Pandemic｜シミズ",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Movie Review] 'On the Day the Verdigris Dawns' (1) | Thoughts on Japanese Entertainment Since the COVID-19 Pandemic",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I wish I had seen this in a movie theater! (I watched it on U-NEXT.)",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "No, it really is wonderful.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's a work that I feel I want as many people as possible to see.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The scenery, painted as beautifully as a watercolor, looks like it could be a postcard no matter which moment you capture.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Not only that, but the film is packed with devices to entertain the audience, such as scenes that suddenly switch to stop-motion animation, making it a joy to watch just for the visuals alone.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the appeal of this work is not limited to its visual aspects.",
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Review of 'On the Day the Verdigris Dawns': 'Inheriting tradition is like drinking deadly poison. The true meaning of \"Shuhari\" and the moment the philosophy of Shu-Ha-Ri dwells in fireworks'｜末(スエ)",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Review of 'On the Day the Verdigris Dawns': 'Inheriting tradition is like drinking deadly poison. The true meaning of \"Shuhari\" and the moment the philosophy of Shu-Ha-Ri dwells in fireworks'",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The moment the screen faded to black, I am sure I was not the only one who let out a breath in the darkness of the theater.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The animated film 'On the Day the Verdigris Dawns,' released on March 6, 2026.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is the feature-length directorial debut of Japanese painter Yoshitoshi Shinomiya and a joint Japanese-French production. The film was officially selected for the competition section of the Berlin International Film Festival.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The runtime is only 76 minutes. Despite its brevity, there is a strange sense of fulfillment that leaves you speechless, wondering, 'What did I just watch?'",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The story is set at the 'Tachiwaki Fireworks Shop,' a long-established fireworks factory surrounded by a lush forest. This place, which boasts a 330-year tradition, is being forced to relocate due to a town redevelopment project.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The protagonist, Keitaro Tachiwaki (voiced by Riku Hagiwara), has been struggling alone to complete the 'phantom fireworks <Shuhari>' in place of his father, who disappeared.",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jiro Kimura 'From Ancient History...' Thumbhole Oil Painting, Memories of Antiquity, Fantasy World of Verdigris and Crimson, Wax-Seal-Like Layered Matiere｜筑波商会画廊",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jiro Kimura 'From Ancient History...' Thumbhole Oil Painting, Memories of Antiquity, Fantasy World of Verdigris and Crimson, Wax-Seal-Like Layered Matiere",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Ancient History...",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a fantastic masterpiece titled 'From Ancient History' by the avant-garde artist Jiro Kimura, who was born in Hyogo.",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jiro Kimura was born in 1936. Since his high school years, he has repeatedly won selections and awards at various public exhibitions and art group shows. While he received high praise from art professionals and curators, he deliberately chose not to pursue the path of a professional painter, instead maintaining his own unique creative activities.",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a result, his works are extremely rare in the market, and he remains a figure known only to those in the know.",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As the title suggests, this work is themed around 'ancient history,' but it does not depict specific ruins or figures.",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mysterious blue-greens reminiscent of verdigris and deep crimson colors overlap in a complex manner, unfolding a world that seems to awaken memories of the distant past and traces of civilization.",
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anime \"The Apothecary Diaries\" Season 3 Episode 53 \"White Snake Fairy\"｜tty",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anime \"The Apothecary Diaries\" Season 3 Episode 53 \"White Snake Fairy\"",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ A Visit to the Verdigris House and an Invitation to a Mysterious Show",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", and his subordinate,",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", appeared at the Verdigris House, a brothel in the pleasure district.",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'s arrival was met with",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'s usual cold and harsh treatment, as she bluntly called her foster brother",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"you\" and \"a miser second only to the madam\"",
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "'Those fireworks cut out the universe—' that line might be a declaration to reclaim the lost forest and the lost time. It can also be read as a 'poem of resistance' against the world. Keitaro 'holes up,' Kaoru 'returns,' and Sentaro 'fights within the rules.'",
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Verdigris Holdings (@VerdigrisInc) / Posts / X Verdigris, the parent co. of @BrightFi_Serv and the @mybrightfi service, is excited to share the expanded MyBrightFi app. The app helps consumers that need better banking access and gives smaller community groups a solution for access as well.",
+    "url": "https://x.com/VerdigrisInc",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Athletics (@VerdigrisCards) / X VERDIGRIS ATHLETICS TICKETS ARE CASH ONLY Your support matters! Every dollar goes directly back to our student athletes- helping cover officials/ umpires, uniforms & equipment. Thank you for standing behind our athletic programs & making a difference! GO CARDINALS!!",
+    "url": "https://x.com/VerdigrisCards",
+    "pass": 3
+   },
+   {
+    "quote": "Pokémon Verdigris (@PkmnVerdigris) / Posts / X Pokémon Verdigris takes place in the region of Fusis, inspired by the mythology and culture of Greece. It also features an array of new mechanics, a cast of new and returning characters, and an original OST in the HGSS/BW style.",
+    "url": "https://x.com/PkmnVerdigris",
+    "pass": 3
+   },
+   {
+    "quote": "verdigris (@verdigris947) / X 2 4 44 verdigris @verdigris947 Sep 11 holy crap i really drew a lot of things i may be posting them slowly in following days",
+    "url": "https://x.com/verdigris947",
+    "pass": 3
+   },
+   {
+    "quote": "肘窩 (@verdigris___) / Posts and Replies / X 肘窩 (@verdigris___) - Posts and Replies - 切った爪はプラごみに捨てる | X (formerly Twitter)",
+    "url": "https://x.com/verdigris___/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris (Bday in 1 month) on X: \"「黒閃！」 #DBLegends #レジェ... Verdigris 🌙 (Bday in 1 month) on X: \"「黒閃！ 」 #DBLegends #レジェンズ\" Verdigris 🌙 (Bday in 1 month) @Verdigris_227",
+    "url": "https://x.com/Verdigris_227/status/2102679320103616941",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Verdigris - LinkedIn Verdigris provides AI-driven, real-time electrical intelligence for the most power-intensive and complex data center operations. Our full-stack energy management platform combines cloud-edge ...",
+    "url": "https://www.linkedin.com/company/verdigris",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Group - LinkedIn The Verdigris Group is a company built by founders, for founders. We are a boutique consulting firm that specializes in guiding early-stage startups, innovation ecosystem players, and advanced ...",
+    "url": "https://www.linkedin.com/company/verdigrisgroup/",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris - LinkedIn Verdigris | 3,926 位 LinkedIn 關注者。Modern Energy Intelligence for AI-Driven Data Centers | Verdigris provides AI-driven, real-time electrical intelligence for the most power-intensive and complex data center operations. Our full-stack energy management platform combines cloud-edge architecture with advanced analytics, delivering unmatched reliability, resilience, and capacity op",
+    "url": "https://tw.linkedin.com/company/verdigris",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Chung - Verdigris | LinkedInThomas Chung - Verdigris | LinkedInNathan Padgett - Chief Postmaster & Editor-in ... - LinkedInJonathan Chu - Cofounder, CTO at Verdigris | LinkedIn Verdigris represents my deep belief that technical innovation can make a difference in… · Experience: Verdigris · Education: Stanford University · Location: Sunnyvale · 500+ connections on ... I'm a Co-Founder and the ",
+    "url": "https://www.linkedin.com/in/markchung",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Town of Verdigris | Claremore OK - FacebookVerdigris Restaurant at Oxford Oaks Distillery | Oxford NCBuy and Sell in Verdigris, Oklahoma | Facebook MarketplaceTown of Verdigris - FacebookAll About Verdigris - FacebookThe Verdigris: In Search of Will Rogers - FacebookVerdigris Vintage - Facebook Sep 2, 2026 · Town of Verdigris, Claremore. 1,242 likes · 2 were here. This is the official page for the",
+    "url": "https://www.facebook.com/TownofVerdigris/",
+    "pass": 3
+   },
+   {
+    "quote": "Verdigris Restaurant at Oxford Oaks Distillery | Oxford NCBuy and Sell in Verdigris, Oklahoma | Facebook MarketplaceTown of Verdigris - FacebookAll About Verdigris - FacebookThe Verdigris: In Search of Will Rogers - FacebookVerdigris Vintage - Facebook Oct 20, 2026 · Verdigris Restaurant at Oxford Oaks Distillery, Oxford. 6,762 followers · 237 talking about this · 1,754 were here. Best dining expe",
+    "url": "https://www.facebook.com/VerdigrisRestaurant/",
+    "pass": 3
+   },
+   {
+    "quote": "Buy and Sell in Verdigris, Oklahoma | Facebook Marketplace Shop electronics, cars, furniture, clothing, and more for sale in Verdigris on Facebook Marketplace. Find great deals from local sellers or list your items for free.",
+    "url": "https://apps.facebook.com/marketplace/109264632424968/",
+    "pass": 3
+   },
+   {
+    "quote": "Town of Verdigris - Facebook This group allows Town of Verdigris residents to access and download meeting agendas, engage in discussions concerning town business and participate in...",
+    "url": "https://www.facebook.com/groups/townofverdigris/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.verdigris.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/partners/cni",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/industries/ai-factory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/industries/colocation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/industries/enterprise-data-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/industries/commercial-and-industrial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/company/team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/company/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/resources/case-studies/stranded-capacity-recovery-capex-deferral",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/resources/blog/verdigris-appoints-industry-leaders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/pricing?from=industries-ai-factory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/pricing?from=industries-colocation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/pricing?from=industries-enterprise-data-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/resources/case-studies/vention-medical-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verdigris.co/resources/case-studies/jll-block-300-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.verdigris.co/images/logos/brand/logo-green.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.verdigris.co/images/logos/brand/logo-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.verdigris.co/images/logos/customers/t-mobile.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.verdigris.co/images/logos/customers/google.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.list.solar/ja/tools/verdigris/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blitzportal.com/startups/Verdigris-Technologies-D7jb5LKm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meet.bnext.com.tw/articles/view/53078",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Verdigris",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesecolors.com/palettes/verdigris/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://porters-paints.com/products/liquid-bronzeverdigris/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nippolle.net/en/article/694/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://design.verdigris.co/categories/case-studies/guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/verdigris-technologies/case-study/cutting-edge-manufacturing-made-more-efficient-with-ai-smart-meters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/verdigris/__xYX7Hyj163QIB6jFDExHzF2YlVlxwgN3dpORlhN_BGM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/verdigris/on070cdm456x788t3",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/verdigris-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/58696-39",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/VerdigrisInc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VerdigrisCards",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PkmnVerdigris",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/verdigris947",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/verdigris",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/verdigrisgroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/company/verdigris",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/markchung",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TownofVerdigris/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VerdigrisRestaurant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apps.facebook.com/marketplace/109264632424968/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/townofverdigris/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/verdigris947",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/verdigris___/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Verdigris_227/status/2102679320103616941",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Verdigris 日本 導入",
+   "results": [
+    "https://techblitz.com/startup-interview/verdigristechnologies/",
+    "https://apps.list.solar/ja/tools/verdigris/",
+    "https://blitzportal.com/startups/Verdigris-Technologies-D7jb5LKm",
+    "https://meet.bnext.com.tw/articles/view/53078",
+    "https://dxies.com/products/verdigris/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verdigris 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.verdigris.co/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verdigris Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Verdigris",
+    "https://japanesecolors.com/palettes/verdigris/",
+    "https://porters-paints.com/products/liquid-bronzeverdigris/",
+    "https://nippolle.net/en/article/694/",
+    "https://iro-code.com/en/緑青-rokushou/",
+    "https://www.researchgate.net/publication/281062976_Studies_on_the_Conservation_of_Verdigris_on_Paper",
+    "https://www.sciencedirect.com/science/article/pii/S1386142507004623",
+    "https://color.adobe.com/meanings/verdigris",
+    "https://iro-code.com/en/verdigris/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Verdigris manufacturing customer case study",
+   "results": [
+    "https://www.verdigris.co/resources/case-studies",
+    "https://design.verdigris.co/categories/case-studies/guide",
+    "https://www.verdigris.co/resources/case-studies/jabil-video-case-study",
+    "https://www.casestudies.com/company/verdigris-technologies/case-study/cutting-edge-manufacturing-made-more-efficient-with-ai-smart-meters",
+    "https://www.casestudies.com/company/verdigris-technologies/case-study/sustainable-manufacturing-starts-with-energy-insights",
+    "https://www.featuredcustomers.com/vendor/verdigris-technologies/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/verdigris-technologies_vention-medical_58228.pdf",
+    "https://www.casestudies.com/company/verdigris-technologies",
+    "https://www.verdigris.co/resources/case-studies/how-katerra-leaned-on-verdigris-ai-to-make-manufacturing-processes-more-efficient",
+    "https://design.verdigris.co/categories/slides/customer-201"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Verdigris white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Verdigris founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/verdigris/__xYX7Hyj163QIB6jFDExHzF2YlVlxwgN3dpORlhN_BGM",
+    "https://www.thecompanycheck.com/company/b/verdigris/on070cdm456x788t3",
+    "https://compworth.com/company/verdigris-technologies",
+    "https://pitchbook.com/profiles/company/58696-39",
+    "https://startupintros.com/orgs/verdigris-technologies",
+    "https://getlatka.com/companies/verdigris",
+    "https://dealroom.co/companies/verdigris-technologies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Verdigris",
+   "results": [
+    "https://note.com/disk12111234/n/n923e32b5c2de?hl=en",
+    "https://note.com/sane_ibis5312/n/n38121c6c0ba1?hl=en",
+    "https://note.com/dumadairi/n/n6870e3b97803?hl=en",
+    "https://note.com/apt_hyena2536/n/n337ea2cc9a1e?hl=en",
+    "https://note.com/ranats_mimi/n/ndbc89e911976",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kigyo_navi/n/n65c1f254e315",
+    "https://note.com/hiromimatsune/n/n0b038c572835?hl=en",
+    "https://note.com/real_badger491/n/na4694ee0bf3f",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Verdigris",
+   "results": [
+    "https://x.com/VerdigrisInc",
+    "https://x.com/VerdigrisCards",
+    "https://x.com/PkmnVerdigris",
+    "https://x.com/verdigris947",
+    "https://x.com/verdigristea",
+    "https://x.com/Verdigris_227/status/2115111280449401203",
+    "https://help.x.com/en/using-x/download-the-x-app"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Verdigris",
+   "results": [
+    "https://www.linkedin.com/company/verdigris",
+    "https://www.linkedin.com/company/verdigrisgroup/",
+    "https://tw.linkedin.com/company/verdigris",
+    "https://www.linkedin.com/in/markchung",
+    "https://www.linkedin.com/in/chungty",
+    "https://www.linkedin.com/in/nathan-padgett-a3642037a",
+    "https://www.linkedin.com/in/jonathanchu1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Verdigris",
+   "results": [
+    "https://www.facebook.com/TownofVerdigris/",
+    "https://www.facebook.com/VerdigrisRestaurant/",
+    "https://apps.facebook.com/marketplace/109264632424968/",
+    "https://www.facebook.com/groups/townofverdigris/",
+    "https://www.facebook.com/groups/allaboutverdigris/",
+    "https://www.facebook.com/theverdigris/",
+    "https://www.facebook.com/verdigrisvintage/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verdigris note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.maharam.com/maharam/products/note/colors/006-verdigris",
+    "https://note.com/sadaaki",
+    "https://x.com/i/trending/2046863236369465539",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verdigris X 投稿",
+   "results": [
+    "https://x.com/verdigris947",
+    "https://x.com/verdigris___/with_replies",
+    "https://x.com/Verdigris_227/status/2102679320103616941",
+    "https://www.instagram.com/verdigris.x/",
+    "https://x.com/verdigris947/status/2098747852680056997",
+    "https://x.com/Verdigris_227/status/2119526337664999576",
+    "https://x.com/Verdigris_227/status/2117729536720658732"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

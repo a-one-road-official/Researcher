@@ -1,0 +1,1607 @@
+{
+ "name": "Mantis Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-09T19:18:59.162424+00:00",
+ "official_url": "https://mantis-robotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "米国カリフォルニア州",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Pleasanton, California, United States",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "label": "Established",
+    "value": "Established：2020",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "30-Sep-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "21-Apr-2022 $2.9M $2.9M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "label": "Seed-3",
+    "value": "716,900 $0.000010 8% $0.86 $0.86 1x $0.86 3.1%",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "135,600 $0.000010 8% $0.59 $0.59 1x $0.59 0.59%",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "In the era of physical AI, intelligent machines are operating in ever more complex environments. Mantis gives robots the reflexes they need to perform in the real world, providing the ultimate safety infrastructure that enables every robot, industrial or humanoid, to respond instantly and predictably alongside people.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by Mantis SafetyCore, MR-1 is the original model that proves that maximum productivity can be achieved without sacrificing safety. With speeds up to 10 m/s and third-party certification to ISO 10218-1 and ISO 13849-1, the MR-1 combines safety and efficiency, with user-friendly programming that allows for faster deployment.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Also powered by Mantis SafetyCore, MR-X builds off the success of MR-1 by introducing a dual-arm form factor that allows for more complex tasks and higher rates of productivity. MR-X is also designed to meet ISO 10218-1 and ISO 13849-1 standards with speeds up to 10 m/s.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to be backed by these investors.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you for applying. We’re excited about your interest in the MR-X beta program and will reach out",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We put people at the center of the automation universe. Our robots are designed to adapt to humans, not the other way around. This makes them the ultimate extension of human capability—enhancing productivity, empowering individuals, and transforming industries.",
+    "url": "https://mantis-robotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "In the early days, this vision took shape in a scrappy garage, where the first proof-of-concept was born. This wasn’t just about building robots; it was about reimagining them. The Mantis team poured their energy into designing and building the foundational technologies that would make this vision a reality – the Mantis Safety Core, Mantis Studio, and our proprietary sensor suites.",
+    "url": "https://mantis-robotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we stand with offices across 3 continents, a team representing over 10 nationalities, and a powerful concentration of expertise, with 90% of our engineers holding Master’s or PhD degrees. But at our heart, we remain driven by that original vision.",
+    "url": "https://mantis-robotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "In February 2026, Mantis Robotics received certification to ISO 10218-1 and ISO 13849-1, the preeminent robotics safety standards. This certification was not only a major milestone for Mantis Robotics and the MR-1 robot, but also quite newsworthy for the industry, as it was the first fenceless, high-speed industrial robot to be safety certified.",
+    "url": "https://mantis-robotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve accuracy in every order",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s a simple pick-and-place operation or a more complicated task like screwdriving, inserting or dispensing, the MR-1 can easily automate your assembly processes.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve accuracy in screwdriving tasks",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase throughput in production cells",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent costly product damage during high-speed sorting and palletizing",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy directly into existing workflows without complex safety infrastructure Screwdriving, inserting or dispensing : Whether it’s a simple pick-and-place operation or a more complicated task like screwdriving, inserting or dispensing, the MR-1 can easily automate your assembly processes.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase throughput in production cells.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The MR-1 performs high-speed, accurate pick-and-place operations, seamlessly transferring items between processes with minimal setup and industry-leading high-speed safety.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Using advanced sensing and real-time perception, the MR-1 identifies defects and inconsistencies, helping ensure every product meets your quality standards.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch inconsistencies before products ship",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve inspection speed and accuracy",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce shortages, ergonomic strain and quality issues are common across manufacturing and warehousing. Mantis addresses these challenges through safe, compact and easily deployable automation.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "With thousands of changing SKUs and strict regulations, MR-1 delivers effortless changeovers, ensuring compliant production and precise track-and-trace reliability.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "MR-1 automates processes secondary packaging, including pick-and-place, kitting and quality checks for traceability.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Where space comes at a premium, MR-1 optimizes your floor space, allowing associates to work safely in fast-paced operations coexisting with robots.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you for applying. We’re excited about your interest in the MR-X beta program and will reach out",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020, the company produces industrial",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2022, Mantis Robotics secured funding as part of the inaugural cohort of the Amazon Industrial Innovation Fund.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "The company markets its safety system as SafetyCore, which it describes as continuously processing the robot's surroundings and altering its path when a person enters it, rather than relying on external sensors or fixed exclusion zones. Mantis states that the MR-1 contains 47 embedded safety functions rated to Performance Level d, and refers to its proximity-detection sensing as STAR.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Mantis Robotics. 24 February 2026",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": ". 21 April 2022",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Amazon. 21 April 2022",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Emerald leads $5M investment in Mantis Robotics\"",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Emerald Technology Ventures. December 2024",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Mantis Robotics",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Deutsche Messe. 2025",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Mantis Robotics. 22 June 2026",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "DIC’s investment in Mantis Robotics will bring together its accumulated technologies in high-performance materials, sensing and processing and the U.S. company’s safety and control technologies. The two companies will explore collaboration in such areas as tactile and sensing technologies for robots, robotic fingers and lightweight, advanced components.",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shinsuke Kotera, President, DIC D2S Ventures AG",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "Going forward, DIC will continue to accelerate the creation of new business opportunities by pursuing strategic investments in and collaboration with promising startups in the physical AI domain.",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "Related press releases",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "DIC Steps Up Collaboration with the European Physical AI Ecosystem to Create New Businesses in this Promising Area (August 2026)",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "Representative: Gerry Vannuffelen, Co-Founder and CEO",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "RobotToday Industry Briefing graphic: a blueprint-style humanoid robot outline with annotations for perception, actuation and mobility, next to the Industry Briefing wordmark.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics aims to revolutionize automation with the MR-X, which builds on the success of its predecessor, the MR-1, known for its certified fenceless operation. CEO Gerry Vannuffelen emphasized that the MR-X is not just another humanoid robot, but a first-in-class dual-arm system that surpasses both collaborative robots and humanoids in speed and safety.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Visitors to Booth 1261 in the South Hall at Automate 2026 can witness the MR-X's capabilities firsthand, interact with the MR-1, and explore the technology that enables rapid deployment without disruption. Mantis Robotics invites attendees to schedule personalized walkthroughs and learn about priority access for early customers.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "This briefing is an independently written summary based on publicly available reporting and is provided for industry information and news discovery. The original report and source publication are credited and linked where applicable. RobotToday does not claim ownership of third-party source material.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "with the relevant URL and details. We will review the matter and take appropriate action where warranted.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "EMEA Humanoid Robot Summit 2027 – Munich, Apr 13–14",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "FAIR plus 2027 – Shenzhen, Apr 21–23, 2027",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Taiwan-based robotic system integrator founded 2013; 1,000+ robot projects in automotive, aerospace, and metal manufacturing.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "German sales subsidiary of Janome Industrial Equipment (Japan), distributing servo presses and desktop/Cartesian robots in Europe since 1984.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Software & Algorithm Provider",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Techman Robot is a Taiwanese cobot maker producing AI-powered collaborative robots with integrated built-in vision for manufacturing automation.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Maker of Proxie, a swerve-drive autonomous mobile manipulator that moves materials alongside people without facility changes.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "RSF defines a common language for robot service capability, lifecycle operations, certification pathways, and service-provider networks.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Daily robotics news, in-depth analysis, conference highlights, and discussions with professionals worldwide.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens on Robots, Agentic AI and the \"Last 3%\" Problem",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "SYNCERE Raises $11M Pre-Seed Led by a16z Speedrun",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial speed without the cage",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From manufacturing to logistics, helping teams increase throughput, reduce risk, and deploy automation faster than ever before.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In the era of physical AI, intelligent machines are operating in ever more complex environments. Mantis gives robots the reflexes they need to perform in the real world, providing the ultimate safety infrastructure that enables every robot, industrial or humanoid, to respond instantly and predictably alongside people.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Industrial Fund",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mantis Robotics achieves safety certification of the world’s first fenceless, high-speed industrial robot",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From those humble beginnings, Mantis has grown into a global force, revolutionizing robotic automation with the invention of the first fenceless, autonomous robot arms for manufacturing and e-commerce fulfillment.",
+    "url": "https://mantis-robotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "In February 2026, Mantis Robotics received certification to ISO 10218-1 and ISO 13849-1, the preeminent robotics safety standards. This certification was not only a major milestone for Mantis Robotics and the MR-1 robot, but also quite newsworthy for the industry, as it was the first fenceless, high-speed industrial robot to be safety certified.",
+    "url": "https://mantis-robotics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial speed without the cage",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "From manufacturing to logistics, helping teams increase throughput, reduce risk, and deploy automation faster than ever before.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce shortages, ergonomic strain and quality issues are common across manufacturing and warehousing. Mantis addresses these challenges through safe, compact and easily deployable automation.",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "MR-1 brings fenceless industrial speed directly to brownfield automation",
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "American industrial robotics company",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "is an American manufacturer of physically intelligent, human-centered robotics.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020, the company produces industrial",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2022, Mantis Robotics secured funding as part of the inaugural cohort of the Amazon Industrial Innovation Fund.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2024, Mantis Robotics announced that it had raised an additional $5 million in funding led by Emerald Technology Ventures, with participation from the Amazon Industrial Innovation Fund.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": ", citing its work on a high-speed industrial robot with onboard three-dimensional spatial perception.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis described the arm as the first fenceless high-speed industrial robot to receive such certification.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis' robot arms are designed for manufacturing and e-commerce warehouse fulfillment environments, where the company states they can operate directly alongside human workers without the safety cages or fencing typically required for industrial robot arms.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mantis Robotics Achieves Safety Certification of World's First Fenceless, High-Speed Industrial Robot\"",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mantis Robotics and the emergence of the fenceless industrial robot\"",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Meet the first 5 startups in Amazon's new $1B industrial innovation fund\"",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Introducing the $1 billion Amazon Industrial Innovation Fund\"",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mantis Robotics Extends Potential of Physical AI with New Dual-Arm Fenceless Robot for Industrial and Retail Automation\"",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Equipment News",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing companies established in 2020",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "A Pioneer in Fenceless High-Speed Industrial Robots | News 2026 | DIC Corporation",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "A Pioneer in Fenceless High-Speed Industrial Robots",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "Business: Development and manufacturing of fenceless industrial robots and full-stack safety technologies",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics Extends Potential of Physical AI with New Dual-Arm Fenceless Robot for Industrial and Retail Automation - RobotToday",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Physical AI",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics Extends Potential of Physical AI with New Dual-Arm Fenceless Robot for Industrial and Retail Automation",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics has introduced its latest innovation, the MR-X dual-arm robot, at Automate 2026 in Chicago, showcasing advancements in physical AI for industrial and retail automation. This high-performance robot, capable of lifting up to 70 lbs and operating at speeds of 10.6 m/s, is designed to function without safety fences, allowing for flexible deployment in complex environments.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese Manufacturers Boost Industrial Robotics Amid Rising Global Competition",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding Physical AI Safety in Industrial Robots When Authority Is Withdrawn",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "ISO 9001:2026 Introduces Key Changes for Manufacturers to Enhance Quality Management",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers Must Rethink Data Center Power and Thermal Management Amid AI Infrastructure Growth",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Impact of New Global Robot Safety Standards on Manufacturers Discussed at A3 Conference",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of the world's first certified fenceless high-speed industrial robot with embedded human-safe AI.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Da Shiang Automation Industrial Co. Ltd. 達詳自動化工業股份有限公司",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Taiwan-based robotic system integrator founded 2013; 1,000+ robot projects in automotive, aerospace, and metal manufacturing.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Janome Industrial Equipment Europe GmbH",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "German sales subsidiary of Janome Industrial Equipment (Japan), distributing servo presses and desktop/Cartesian robots in Europe since 1984.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Technology Research Institute (ITRI) 工業技術研究院",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese manufacturer of mecanum wheels, omnidirectional wheel bases, and mobile robotic platforms for AGV applications.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Techman Robot is a Taiwanese cobot maker producing AI-powered collaborative robots with integrated built-in vision for manufacturing automation.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Seoul display maker (KRX:034220, NYSE:LPL), formed 1999, that launched plastic OLED humanoid-robot face panels for industrial settings in 2026.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Who Really Buys Humanoid Robots? Mostly Not Factories",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of human-robot collaboration technology designed to improve flexibility in factories and warehouses. The company's robot makes automation flexible by building fenceless industrial robots for manufacturing and warehouse fulfillment that work safely with people without sacrificing productivity, enabling businesses to use robotic automation that can work safely with people.",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Industrial Innovation Fund",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics is the next frontier in flexible Human-Robot Collaboration. By completely rethinking safe human-robot collaboration, we are creating the first truly responsive robots for flexible factories and warehouses, where human and robot can work together without sacrificing productivity.",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "DIC's investment in the fenceless robot manufacturer Mantis Robotics is a proposal for a new way to use robots｜ZINTEC コンサルティング",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DIC's investment in the fenceless robot manufacturer Mantis Robotics is a proposal for a new way to use robots",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DIC makes a strategic investment in US-based Mantis Robotics, a high-speed, fenceless industrial robot company—First startup investment through its European investment hub, considering collaboration in the physical AI domain—",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DIC Corporation is a global chemical manufacturer that boasts the world's top market share in products such as printing inks, organic pigments, and PPS compounds.",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is not such a simple story; it is about how to perceive a robot that is a \"high-speed, fenceless industrial robot.\"",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ The key is that it is a fenceless industrial robot, not a collaborative robot.",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "High speed. No barriers.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "■ＤＩＣ、欧州ディープテック拠点に投資管理子会社「DIC D2S Ventures AG」を設立（2026年5月発表）",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "quote": "DICを中心に世界全体でSun Chemical Corporationを含む約160の子会社によってグループが構成され、60を超える国と地域で事業を展開しています",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2022, Mantis Robotics secured funding as part of the inaugural cohort of the Amazon Industrial Innovation Fund.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, the company announced that its MR-1 arm had been certified to the ISO 10218 and ISO 13849 safety standards by SGS Fimko Oy, a subsidiary of",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "with the relevant URL and details. We will review the matter and take appropriate action where warranted.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "German sales subsidiary of Janome Industrial Equipment (Japan), distributing servo presses and desktop/Cartesian robots in Europe since 1984.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Seoul display maker (KRX:034220, NYSE:LPL), formed 1999, that launched plastic OLED humanoid-robot face panels for industrial settings in 2026.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "5. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics has 45 total employees.",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mantis Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Mantis Robotics is",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "When was Mantis Robotics acquired?",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics was acquired on 28-Sep-2026.",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Mantis Robotics?",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics was acquired by",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Gerry Vannuffelen is listed as CEO at Mantis Robotics.",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mantis Robotics have?",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ＤＩＣ、高速・フェンスレス産業用ロボットの米国Mantis Robotics社に戦略的出資を実行 | ニュース 2026年 | DIC株式会社",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＩＣ株式会社（本社：東京都中央区、社長執行役員：池田尚志、以下「ＤＩＣ」）は、フィジカルAI分野における新規事業創出を加速するため、人と同じ空間で安全に稼働できる高速・フェンスレス産業用ロボットを開発する米国Mantis Robotics Inc.（本社：米国カリフォルニア州、Co-Founder & CEO：Gerry Vannuffelen、以下「Mantis社」）に戦略的出資を行いました（出資額：非公開）",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "quote": "DICは日本で有数のファインケミカルメーカーです",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company later announced further investment from the Taiwanese conglomerate ABICO Group, linked to a plan to distribute its robot arms in Taiwan and Japan.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "German sales subsidiary of Janome Industrial Equipment (Japan), distributing servo presses and desktop/Cartesian robots in Europe since 1984.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Because of this, the Japanese media has written that DIC will combine its knowledge of sensor-integrated robot fingers like \"MoR\" with RT's development capabilities. Similarly, it is written that",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is no other company in Japan, or even in the world, that clearly defines robots in this way. (Strictly speaking, fenceless industrial robots depend more on how the cell is built than on the robot itself.)",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The maximum speed of industrial robots that are not collaborative is generally around 10 m/s for Japanese-made ones,",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the Denso Wave COBOTTA PRO, said to be the fastest collaborative robot in Japan, is 1.8 m/s without a soft cover, 2 m/s with a soft cover, and 2.5 m/s in non-collaborative mode; incidentally, the company's non-collaborative VS087 is 11 m/s.",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, neither collaborative nor non-collaborative robots are ever used at maximum speed continuously, and collaborative robots in particular are often used at about half their maximum speed in Japan, with efforts made to ensure that even if a collision occurs, it is as painless and injury-free as possible",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese collaborative robots, even the FANUC green robot CR/50F-16B, are designed to be used at a speed where even if you run into them at full speed, it will only hurt a little and you won't get injured, but",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DIC株式会社は、印刷インキや有機顔料、PPSコンパウンドなどの製品で世界トップシェアを誇るグローバルな化学メーカーです",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "DICは2026年1月6日、株式会社アールティへ戦略的出資",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "このことから、日本のマスコミはDICのセンサ一体型ロボットフィンガー「MoR」などの知見とアールティの開発力を組み合わせる、と書いています",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "日本というよりも世界でもこの定義のロボットを明確にうたっているのはほかにはありません",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "人協働ではない産業用ロボットの最高速度は日本製でだいたい10m/s程度",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "日本の人協働ロボットで最も速いといわれているデンソーウェーブ製のコボッタプロはソフトカバーなしで1.8m/s、ソフトカバー付きで２m/s、非協働で2.5m/s、ちなみに同社の人協働ロボットではないVS087は11m/s",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、人協働ロボットも非人協働ロボットも最高速で使い続けることはまずなく、特に人協働ロボットは日本では最高速の半分くらいで使うことが多く、万が一にもぶつかっても、できるだけ痛くもなくケガしないように工夫しています",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "中国はこの分野に詳細スペックを明確に公開していないのでわからないことが多いですが、珞石 ROKAEは最高速6m/sとしていますが、IDECファクトリーソリューションという日本のFA商社が入って国内では人協働ロボットとして売っていますのでそれなりの安全を考えているはずです",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "艾利特 Eliteや節卡 JAKAはもともとの最高速度が1～2m/sと日本と同じで、かつ日本の商社が入って売っているので安全対策はできているはず",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "日本の人協働ロボットはファナックの緑ロボCR/50F-16Bであっても全力疾走でぶつかっていってもぶつかったらちょっと痛い程度でケガしない速度で使うようになっていますが、",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "DIC、高速・フェンスレス産業用ロボットの米国Mantis Robotics社に戦... — Sep 28, 2026 · DIC（旧 大日本インキ化学工業）2026年のニュース「DIC、高速・フェンスレス産業用ロボットの米国Mantis Robotics社に戦略的出資を実行」を掲載しています。",
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics - LinkedIn — Mantis Robotics | 6,968 followers on LinkedIn. Robotic reflex engine for Physical AI Era | As AI models enter physical space, real-world autonomy faces a critical bottleneck: real-time spatial ...",
+    "url": "https://www.linkedin.com/company/mantis-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics - Wikipedia — Mantis' robot arms are designed for manufacturing and e-commerce warehouse fulfillment environments, where the company states they can operate directly alongside human workers without the safety cages or fencing typically required for industrial robot arms.",
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics | Robotic Reflexes for the Physical AI Era — Mantis gives robots the reflexes they need to perform in the real world, providing the ultimate safety infrastructure that enables every robot, industrial or humanoid, to respond instantly and predictably alongside people. Our vision for the future is simple: Mantis inside every robot, everywhere.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DIC Makes Strategic Investment in U.S.-Based Mantis Robotics, — Sep 28, 2026 · Tokyo, Japan—DIC Corporation announced today that it has made a strategic investment in Mantis Robotics, Inc., a U.S.-based startup that develops fenceless, high-speed industrial robots that work safely alongside people, to accelerate business creation in the physical AI domain—an area DIC has designated as a growth bus",
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics Secures New Funding from Taiwan ABICO Group — Aug 28, 2026 · Mantis Robotics secured new venture funding from ABICO Group in Taiwan to expand fenceless industrial robotic arms across Taiwan and Japan. The partnership supports factory automation, safer work environments, and increased mass production capability.",
+    "url": "https://mantis-robotics.com/archives/103",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s DIC Backs Mantis Robotics With Undisclosed Funding — Sep 29, 2026 · Japanese chemicals company DIC Corp. has made an undisclosed strategic investment in California-based Mantis Robotics. Mantis develops high-speed industrial robots designed to work alongside people without fences or segregated areas.",
+    "url": "https://theaiinsider.tech/2026/09/29/japans-dic-backs-mantis-robotics-with-undisclosed-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics | Robotic Reflexes for the Physical AI Era — Mantis gives robots the reflexes they need to perform in the real world, providing the ultimate safety infrastructure that enables every robot, industrial or humanoid, to respond instantly and predictably alongside people.",
+    "url": "https://mantis-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics Extends Potential of Physical AI with New ... — Jun 22, 2026 · Mantis Robotics has introduced its latest innovation, the MR-X dual-arm robot, at Automate 2026 in Chicago, showcasing advancements in physical AI for industrial and retail automation.",
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics - 2026 Company Profile, Team, Funding ... — Feb 14, 2026 · It operates as a Manufacturer of an arm-based collaborative robot. Mantis Robotics has raised $7.32M in funding from Emerald Technology Ventures and Amazon Industrial Innovation Fund.",
+    "url": "https://tracxn.com/d/companies/mantisrobotics/___ixlny32NVaemyO8HgpHuXffmPEhpIuB1IACXEgT_wA",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics 2026 Company Profile: Valuation, Funding ...Mantis Robotics – Revenue, Valuation & Top Competitors – 2026Mantis Robotics: Funding, Investors & Team (Nov 2026)Mantis Robotics - 2025 Company Profile, Funding & Competitors ...Mantis Robotics’s Competitors, Revenue, Number of Employees ...Mantis Robotics: Startup Profile and Funding (2026) — Information on valuation, funding, cap table",
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics – Revenue, Valuation & Top Competitors – 2026 — Discover Mantis Robotics's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/mantis-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics: Funding, Investors & Team (Nov 2026) — Mantis Robotics is the next frontier in flexible Human-Robot Collaboration. By completely rethinking safe human-robot collaboration, we are creating the first truly responsive robots for flexible factories and warehouses, where human and robot can work together without sacrificing productivity. www.mantis-robotics.com LinkedIn Pleasanton, Uni",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics - 2025 Company Profile, Funding & Competitors ... — Sep 5, 2025 · It operates as a Manufacturer of an arm-based collaborative robot. Mantis Robotics has raised $7.32M in funding from Emerald Technology Ventures and Amazon Industrial Innovation Fund.",
+    "url": "https://tracxn.com/d/companies/mantis-robotics/___ixlny32NVaemyO8HgpHuXffmPEhpIuB1IACXEgT_wA",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "DIC's investment in the fenceless robot manufacturer Mantis ... On September 28, 2026, DIC DIC makes a strategic investment in US-based Mantis Robotics, a high-speed, fenceless industrial robot company—First startup investment through its European investment hub, considering collaboration in the physical AI domain— issued a news release.",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Kato Mechatro #226] The Evolution of Dual-Arm Robots—Mantis ... Sep 3, 2026 · Mantis Robotics has announced a new dual-arm fenceless robot for industrial and retail automation. Conventional industrial robots were predicated on physical isolation for safety: metal fences, thick glass windows, and emergency stop buttons.",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #226】デュアルアームロボットの進化——Mantisがフェン... Sep 3, 2026 · Mantis Roboticsの登場は、その境界線を曖昧にする。 フェンスレス、あるいはコボット（協調ロボット）という分野は、URやFranka Emikaなどが先陣を切った。 しかし、彼らの多くは、単一アームか、あるいは軽量な作業に特化していた。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "DICのフェンスレスロボメーカーの米Mantis Roboticsへの出資は新たな... Oct 2, 2026 · DICが2026年9月28日にDIC、高速・フェンスレス産業用ロボットの米国Mantis Robotics社に戦的出資を実行―欧州投資拠点を通じた初のスタートアップ投資、フィジカルAI領域で協業を検討―とニュースリリースしました。",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "DIC's investment in the fenceless robot manufacturer Mantis Robotics is a proposal for a new way to use robots｜ZINTEC コンサルティング",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DIC's investment in the fenceless robot manufacturer Mantis Robotics is a proposal for a new way to use robots",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 28, 2026, DIC",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DIC makes a strategic investment in US-based Mantis Robotics, a high-speed, fenceless industrial robot company—First startup investment through its European investment hub, considering collaboration in the physical AI domain—",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "issued a news release.",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Why did DIC invest?",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DIC Corporation is a global chemical manufacturer that boasts the world's top market share in products such as printing inks, organic pigments, and PPS compounds.",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #226】デュアルアームロボットの進化——Mantisがフェンスレス設計で産業・小売自動化を拡大｜KeiTy",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #226】デュアルアームロボットの進化——Mantisがフェンスレス設計で産業・小売自動化を拡大",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Roboticsが発表した。産業および小売自動化向けの新規デュアルアームフェンスレスロボットだ。従来の産業用ロボットは、安全のための物理的隔離を前提としていた。金属製のフェンス。厚いガラス窓。緊急停止ボタン。人間と機械が共存する空間は、事実上存在しなかった。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "この製品は、その前提を崩す。同社はこれを単なるアームの延長ではないと位置づけている。フィジカルAIの可能性を拡張する製品だ。文字通り、物理的な世界でAIが動くための足場である。フェンスレスという言葉は、単なる空間の解放ではない。監視と制御の粒度が変わることを意味する。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "従来のセル型ラインでは、ロボットは箱の中に入っていた。箱の外に出ることは、事故の同義語だった。Mantisの設計思想は、その箱を溶かすことにある。センサーと制御アルゴリズムの進化が、物理的な壁の必要性を相対的に下げてきた。その結果として生まれたのが、このデュアルアーム構成の本体だ。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "小売業のバックヤード。製造業の組立ライン。ここにはまだ、人間の影が薄くない。あるいは、逆に人が多すぎることによるボトルネックがある。このロボットは、その隙間を埋めるために設計されている。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "組立ラインで協調動作する二つのロボットハンドは、単独では困難な連続作業を可能にする。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "デュアルアーム、すなわち二つの腕を持つ構造は、単なる冗長性ではない。片腕だけでは完結できない作業を、連続的に処理するための戦略的選択だ。片方の腕で部品を保持し、もう片方の腕で工具を操作する。あるいは、片方が移動し、もう片方が精密な組立を行う。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #226】デュアルアームロボットの進化——Mantisがフェンスレス設計で産業・小売自動化を拡大｜KeiTy",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #226】デュアルアームロボットの進化——Mantisがフェンスレス設計で産業・小売自動化を拡大",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Roboticsが発表した。産業および小売自動化向けの新規デュアルアームフェンスレスロボットだ。従来の産業用ロボットは、安全のための物理的隔離を前提としていた。金属製のフェンス。厚いガラス窓。緊急停止ボタン。人間と機械が共存する空間は、事実上存在しなかった。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "この製品は、その前提を崩す。同社はこれを単なるアームの延長ではないと位置づけている。フィジカルAIの可能性を拡張する製品だ。文字通り、物理的な世界でAIが動くための足場である。フェンスレスという言葉は、単なる空間の解放ではない。監視と制御の粒度が変わることを意味する。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "従来のセル型ラインでは、ロボットは箱の中に入っていた。箱の外に出ることは、事故の同義語だった。Mantisの設計思想は、その箱を溶かすことにある。センサーと制御アルゴリズムの進化が、物理的な壁の必要性を相対的に下げてきた。その結果として生まれたのが、このデュアルアーム構成の本体だ。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "小売業のバックヤード。製造業の組立ライン。ここにはまだ、人間の影が薄くない。あるいは、逆に人が多すぎることによるボトルネックがある。このロボットは、その隙間を埋めるために設計されている。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "組立ラインで協調動作する二つのロボットハンドは、単独では困難な連続作業を可能にする。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "デュアルアーム、すなわち二つの腕を持つ構造は、単なる冗長性ではない。片腕だけでは完結できない作業を、連続的に処理するための戦略的選択だ。片方の腕で部品を保持し、もう片方の腕で工具を操作する。あるいは、片方が移動し、もう片方が精密な組立を行う。",
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＩＣのフェンスレスロボメーカーの米Mantis Roboticsへの出資は新たなロボットの使い方提言ですね｜ZINTEC コンサルティング",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＩＣのフェンスレスロボメーカーの米Mantis Roboticsへの出資は新たなロボットの使い方提言ですね",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "ＤＩＣ、高速・フェンスレス産業用ロボットの米国Mantis Robotics社に戦的出資を実行―欧州投資拠点を通じた初のスタートアップ投資、フィジカルAI領域で協業を検討―",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "DIC株式会社は、印刷インキや有機顔料、PPSコンパウンドなどの製品で世界トップシェアを誇るグローバルな化学メーカーです。",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.dic-global.com/ja/",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "そんなDICがなぜ米国のMantis Robotics社に出資したのかというと、おそらくですが、この会社の新事業にかかわっていると思います。",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   },
+   {
+    "quote": "〇人が物体表面をなぞった時の触感を増幅させる画期的な触覚デバイス「Tacthancer™（タクトハンサー）」",
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Reposts by Mantis Robotics (@Mantisbots) / X HQ - Pleasanton, CA, USA mantis-robotics.com Joined April 2026 6 Following 32 Followers RepostsRepostsMediaMedia",
+    "url": "https://x.com/Mantisbots/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Mantis Robotics (@Mantisbots) / X Robots are now laying tiles on construction sites. 🤖🏗️ This automated system uses a robotic arm to pick, position, and lay floor tiles with consistent spacing and precision.",
+    "url": "https://x.com/Mantisbots/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Almond Robotics on X: \"Announcing Mantis UMI, a pair of ... Aug 10, 2026 · Data collected with Mantis transfers directly to Axol. Mantis runs on Open Source software and is modular so you can chose the tracker that works best you: Vive Tracker, Quest Controllers, and more.",
+    "url": "https://x.com/almond_robotics/status/2086838814790856941",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Mantis Robotics (@Mantisbots) / X China’s robotics sector is scaling up impressive job-site automation. If it handles corner fitting and prep work well, this will significantly accelerate commercial fit-outs",
+    "url": "https://x.com/Mantisbots/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mantis Robotics - LinkedIn True autonomy requires instant, deterministic physical awareness. Mantis builds robotic reflexes for Physical AI, closing the gap between high-level AI models and real-world execution.",
+    "url": "https://www.linkedin.com/company/mantis-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Robotics - LinkedIn Mantis Robotics is the next frontier in flexible Human-Robot Collaboration. By completely rethinking safe human-robot collaboration, we created the first human-centered robots with physical...",
+    "url": "https://be.linkedin.com/company/mantis-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Gerry Vannuffelen - CEO @ Mantis Robotics | Entrepreneur ...Gertjan Maenhout - Mantis Robotics | LinkedInPo-Chih Chen - Robotic Systems Engineer | LinkedInMantis Robotics Secures $5M to Redefine Robotics through ...Kian Entezari - Computer Vision Engineer @ Mantis Robotics ... CEO @ Mantis Robotics | Entrepreneur | Robotics & Physical AI · Experience: Mantis Robotics · Location: San Francisco Bay ",
+    "url": "https://www.linkedin.com/in/gerryv",
+    "pass": 3
+   },
+   {
+    "quote": "Gertjan Maenhout - Mantis Robotics | LinkedInPo-Chih Chen - Robotic Systems Engineer | LinkedInMantis Robotics Secures $5M to Redefine Robotics through ...Kian Entezari - Computer Vision Engineer @ Mantis Robotics ... Experience: Mantis Robotics · Education: KU Leuven · Location: Flemish Region · 470 connections on LinkedIn. View Gertjan Maenhout’s profile on LinkedIn, a professional community of ",
+    "url": "https://be.linkedin.com/in/gertjanmaenhout",
+    "pass": 3
+   },
+   {
+    "quote": "Gerry Vannuffelen - CEO @ Mantis Robotics | Entrepreneur ...About - mantis-robotics.comDIC、高速・フェンスレス産業用ロボットの米国Mantis Robotics社に戦...Episode 152 - Gerry Vannuffelen, CEO & Founder, Mantis RoboticsMantis Robotics 2026 Company Profile: Valuation, Funding ... CEO @ Mantis Robotics | Entrepreneur | Robotics & Physical AI · Experience: Mantis Robotics · Location: San Francisco Bay Area · 500+ connections",
+    "url": "https://www.linkedin.com/in/gerryv",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mantis Robotics, Inc. | Pleasanton CA - FacebookMantis Hacks - FacebookMantis Robot - FacebookAll3 unveils Mantis, an AI-powered robot built for real ...The Genius Gear Trick Inside Robotic Claws | Mantis Gripper ...Meet Mantis™: our new DST®-enabled robotic welding system ...In heavy fabrication, Mantis™ tackles rising costs and labour ... Apr 22, 2022 · Mantis Robotics, Inc., Pleasanton. 32 foll",
+    "url": "https://www.facebook.com/MantisRobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Mantis Hacks - FacebookMantis Robot - FacebookAll3 unveils Mantis, an AI-powered robot built for real ...The Genius Gear Trick Inside Robotic Claws | Mantis Gripper ...Meet Mantis™: our new DST®-enabled robotic welding system ...In heavy fabrication, Mantis™ tackles rising costs and labour ... Oct 3, 2026 · Mantis Hacks. 57,060 followers · 33 talking about this. Mantis Hacks - My maker projects an",
+    "url": "https://www.facebook.com/mantisrobot/",
+    "pass": 3
+   },
+   {
+    "quote": "All3 unveils Mantis, an AI-powered robot built for real ...The Genius Gear Trick Inside Robotic Claws | Mantis Gripper ...Meet Mantis™: our new DST®-enabled robotic welding system ...In heavy fabrication, Mantis™ tackles rising costs and labour ... All3 Mantis Construction Robot All3 unveils Mantis, an AI-powered robot built for real construction sites Springlily Liu and 1.1K others Jul 31, 2026 ·",
+    "url": "https://www.facebook.com/SpaceTechnologyPage/videos/all3-mantis-construction-robot/750334667844811/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mantis-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mantis-robotics.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mantis-robotics.com/automation-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mantis-robotics.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mantis-robotics.com/careers-submit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mantis-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mantis-robotics_every-time-we-begin-conversations-with-customers-activity-7467586476478726145-7tVi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mantisrobotics/___ixlny32NVaemyO8HgpHuXffmPEhpIuB1IACXEgT_wA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/495681-76",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/mantis-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keity717/n/n2546aae5ae8e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Mantisbots/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mantisbots/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/almond_robotics/status/2086838814790856941",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mantis-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/company/mantis-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gerryv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/in/gertjanmaenhout",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MantisRobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mantisrobot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SpaceTechnologyPage/videos/all3-mantis-construction-robot/750334667844811/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gerryv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mantisbots/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mantis Robotics 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Mantis Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "https://www.linkedin.com/company/mantis-robotics",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mantis Robotics Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "https://mantis-robotics.com/",
+    "https://www.dic-global.com/en/news/2026/ir/20260928061217.html",
+    "https://mantis-robotics.com/archives/103",
+    "https://theaiinsider.tech/2026/09/29/japans-dic-backs-mantis-robotics-with-undisclosed-funding/",
+    "https://mantis_robotics.roboind.com/introduce/",
+    "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mantis Robotics manufacturing customer case study",
+   "results": [
+    "https://mantis-robotics.com/automation-solutions",
+    "https://mantis-robotics.com/",
+    "https://www.linkedin.com/posts/mantis-robotics_every-time-we-begin-conversations-with-customers-activity-7467586476478726145-7tVi",
+    "https://robottoday.com/industry-briefing/mantis-robotics-extends-potential-of-physical-ai-with-new-dual-arm-fenceless-robot-for-industrial-and-retail-automation/6399",
+    "https://paladinrobotics.com/work/mantis-expeditionary-robotic-manufacturing/",
+    "https://emerald.vc/portfolio/mantis-robotics",
+    "https://www.atlas-robotics.com/mantis"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mantis Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.iqreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mantis Robotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/mantisrobotics/___ixlny32NVaemyO8HgpHuXffmPEhpIuB1IACXEgT_wA",
+    "https://pitchbook.com/profiles/company/495681-76",
+    "https://compworth.com/company/mantis-robotics",
+    "https://fundediq.co/mantis-robotics-mantis-robotics-com-funding/",
+    "https://tracxn.com/d/companies/mantis-robotics/___ixlny32NVaemyO8HgpHuXffmPEhpIuB1IACXEgT_wA",
+    "https://www.owler.com/company/mantis-robotics",
+    "https://www.311institute.com/startups/mantis-robotics/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mantis Robotics",
+   "results": [
+    "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=en",
+    "https://note.com/keity717/n/n2546aae5ae8e?hl=en",
+    "https://note.com/keity717/n/n2546aae5ae8e",
+    "https://note.com/clear_aster2543/n/n6dad8950bf08",
+    "https://note.com/keity717/n/n2546aae5ae8e?hl=ko",
+    "https://note.com/clear_aster2543/n/n6dad8950bf08?hl=ko",
+    "https://note.com/genial_hornet377/n/nc24d08c2d64b?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mantis Robotics",
+   "results": [
+    "https://x.com/Mantisbots/reposts",
+    "https://x.com/mantisrobot",
+    "https://x.com/Mantisbots/with_replies",
+    "https://x.com/almond_robotics/status/2086838814790856941",
+    "https://x.com/mantisrobot/with_replies",
+    "https://x.com/Mantisbots",
+    "https://x.com/Mantisbots/status/2084221250373669285"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mantis Robotics",
+   "results": [
+    "https://www.linkedin.com/company/mantis-robotics",
+    "https://be.linkedin.com/company/mantis-robotics",
+    "https://www.linkedin.com/in/gerryv",
+    "https://be.linkedin.com/in/gertjanmaenhout",
+    "https://tw.linkedin.com/in/pcchen0106",
+    "https://www.linkedin.com/posts/mantis-robotics_mantis-robotics-secures-5m-to-redefine-robotics-activity-7274462957453873153-TE5d",
+    "https://www.linkedin.com/in/kian-entezari-821a572b5"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mantis Robotics",
+   "results": [
+    "https://www.facebook.com/MantisRobotics/",
+    "https://www.facebook.com/mantisrobot/",
+    "https://www.facebook.com/mantisrobotmx/",
+    "https://www.facebook.com/SpaceTechnologyPage/videos/all3-mantis-construction-robot/750334667844811/",
+    "https://www.facebook.com/61561576280528/videos/1673011217139914/",
+    "https://www.facebook.com/FBR.ltd/videos/meet-mantis-the-future-of-automated-welding-from-fbr/1859664234893096/",
+    "https://www.facebook.com/reel/1235771868326448/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mantis Robotics note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Mantis_Robotics",
+    "https://mantis-robotics.com/",
+    "https://www.linkedin.com/in/gerryv",
+    "https://mantis-robotics.com/about",
+    "https://digitalpr.jp/r/144401",
+    "https://www.youtube.com/watch?v=x6biOYMrLUk",
+    "https://pitchbook.com/profiles/company/495681-76"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mantis Robotics X 投稿",
+   "results": [
+    "https://x.com/Mantisbots/with_replies",
+    "https://mantis-robotics.com/",
+    "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "https://www.cna.com.tw/news/afe/202607120177.aspx",
+    "https://x.com/Mantisbots",
+    "https://mantis-robotics.com/mantis-mr-x",
+    "https://humanoid2026.hatenablog.com/entry/2026/06/28/221043"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

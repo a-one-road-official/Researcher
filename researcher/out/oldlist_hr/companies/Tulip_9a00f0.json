@@ -1,0 +1,2224 @@
+{
+ "name": "Tulip",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / MES / Industrial Data｜日本進出済",
+ "researched_at": "2026-11-09T19:24:53.638333+00:00",
+ "official_url": "https://tulip.co",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$152.5M",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tulip | The Industry's Leading Frontline Operations Platform | Tulip",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce searchable electronic batch records automatically. Prevent deviations by enforcing SOPs, automating data capture, and flagging out-of-range entries.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us your challenges, and get a solution blueprint built with Tulip AI",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your Production System",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Focus your quality review on what matters. Document and address deviations as they happen. Every review and approval is captured with an immutable audit trail.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Global Manufacturing Operations",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Give every site, team, and system a single place to build, connect, and improve. Governed for the enterprise, flexible enough for every operation.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services Delivered by Manufacturing Experts",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn SOPs, photos, diagrams, videos, and ideas into connected digital solutions that reflect how your operation actually runs. Accelerate authoring with generative AI, purpose-built AI agent, and a library of ready-made solutions. Start fast, shape it to fit, and continuously adapt.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your teams with AI where it matters. Auto-translate instructions, extract insights, provide trained chats, and identify opportunities. Create agents, while keeping human-in-the-loop and restrict what content, inside or outside the platform, agents can access.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Where Machine Data Meets Enterprise Action",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your entire operation, from CNC machines, devices, and legacy equipment to ERPs, WMSs, and enterprise systems through hundreds of pre-built connectors and drivers. Replace manual transcription and create a hub of contextualized data for AI insights, agentic workflows, and investigations.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Set role-based permissions to limit who can see, edit, or deploy solutions, and enforce them across every team and site. Customize approval workflows, track versions, and automate audit trails to support scalable, compliant operations at every site. Give your Center of Excellence a live view of what's running, who's running it, and whether it's compliant.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Tulip is GxP-ready and FedRAMP Moderate equivalent, giving manufacturers the compliance foundation they need from day one. Manage critical data, enforce data entry standards, and get alerts as nonconformances occur. Accelerate product or batch releases by reviewing the highlighted exceptions, and ensure audit-readiness with a full digital history record.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Our open ecosystem enables you to integrate the systems you want to create the solutions you need. Browse our AI, device, and software partners. Explore our library of pre-built connectors.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“We went from relying on paper and guesswork to having real-time insights and control over our entire operation. This transformation wasn't just about improving efficiency, it was about preparing TICO for the future.”",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Product Operations",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“[Tulip] digitizes our data so information that used to live on paper or in people's heads can actually be leveraged to gain insights and drive action.”",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“We've had several AS9100 audits recently. Tulip helps with audit readiness by giving us traceability across production and quality, and it gives us a practical way to address findings as they come up.”",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Expert Professional Services",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover support for workforce development, learning, and training",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you bring technology, expertise, or both, Tulip's ecosystem connects innovators and industry experts with the manufacturers who need them most. Join a network that's already helping customers across industries digitize their operations and transform their frontlines.",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Let's Solve Complex Problems Together",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive new revenue and grow your business by providing crucial expertise to customers digitally transforming their operations",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Training Software",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Tracking Software",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare your students for top jobs in operations by integrating no code into your curriculum. The Tulip platform is free for professors and students.",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re bringing together forwarding thinking universities and companies who know that real change starts with the workforce. We work with our partners to develop university-level curricula, deliver on the job training, and build talent pipelines. Together, as an ecosystem, we’ll make sure our current and future workforce are ready to thrive in this foundational sector.",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare students for jobs with world’s leading manufacturers. Train for high demand, highly transferable skills. Keep your research program on the cutting edge.",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform the workforce by upskilling and reskilling",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Upskill your workforce with workshops and self-serve training. Connect with top universities and attract students from top programs. Empower your workforce with the curriculum developed with the world’s top universities.",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Bridge the gap between student and engineer as students solve practical problems in a physical space",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Put coursework into practice with capstone projects",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Tulip supports researchers as industry partners, and through access to the Tulip platform for research programs",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Alexander Albers, Doctoral Candidate and Research Associate",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Tulip shows that MES systems do not have to be complex and can bring tangible benefits with little effort. Our students were impressed by the ease of use and simplicity of the Tulip platform.\"",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Antonio Padovano, Assistant Professor of Industrial Systems Engineering",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With its intuitive, no-code platform, Tulip empowers our students at UNICAL to design and deploy custom applications, enriching their understanding of human-centered industrial processes within the brewing operations of our learning factory.\"",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Ana Sofia Jesus Gonsalves, PhD Candidate",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "At ENSAM, we previously used a traditional MES for teaching, but it lacked flexibility. However, after transitioning to Tulip, we were able to create new features that benefit both students and researchers. This shift has truly revolutionized our approach, enhancing the educational experience and driving relevant research outcomes.",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "See the recent news about our education program",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re collaborating with MIT to support the upskilling of the industrial workforce",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "From Paper-Processes to a Composable MES",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "From its early days, TICO relied on paper-based processes for quality inspections, SOPs, and production dashboards. However, as onboarding and retaining operators became more challenging, this approach proved inefficient.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "In hopes of making process guidance more accessible for operators, TICO introduced PDFs for work instructions and BOMs. While these improved onboarding, they were still risky—operators could easily reference the wrong instructions. Additionally, production tracking remained a challenge.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "To address these issues, TICO started evaluating digital production systems that could scale with them.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We were really looking for something scalable and that could grow with us. I wanted to find something that fit our do-it-yourself approach that we could build up ourselves and customize. I found a couple of softwares where you could edit easily, but that is all you could do. There wasn’t the possibility of doing additional things\" — Mike Rousch, Director of Production Operations, TICO Tractors",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "—reducing errors, speeding up onboarding, and easing the burden on supervisors. Leveraging the flexibility of the Tulip platform and the scalability and agility of the AWS cloud, they expanded their Tulip apps. Integrating barcode readers to streamline order data collection, TICO deployed apps to track orders throughout their production and record relevant data (completion times, operator, etc.).",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product Operations, TICO Tractors",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "Barcode readers aren’t the only device powering TICO’s efficiency. TICO has leveraged other connected devices, like Andons and location devices, to explore innovative solutions for driving productivity and efficiency.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "is a large-scale 3D real-time location system (RTLS) that digitizes the precise 3D location of critical assets in real time. By attaching ZeroKey’s devices to the",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "torque drivers, TICO can associate the torque used with the specific bolt within a 1.5mm accuracy – adding a new layer of traceability and quality assurance to their bolt sequencing. All of this data is tracked within Tulip, ensuring confidence and proof that TICO delivers only high-quality products.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "I was a little intimidated because it’s new technology but the setup process was so easy. Once we mounted the [ZeroKey] anchors and walked around with the mobile device to calibrate, it was a couple of minutes before we were receiving positioning data [in Tulip].",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "As a leader in the terminal industry, TICO’s product quality has been at the forefront of its reputation, and maintaining the quality of its products as it scaled production was critical. This was difficult to do with paper-based checklists and hand-written defect logs. “Everything was handwritten,” Mike explained. “That physical sheet, there is only one copy.”",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "You would have to interpret what the inspector wrote down, who did it, and then you have verification that it was actually done.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "assurance challenges, they worked with their quality team to deploy apps on mobile tablets to guide operators through the inspection process. If the operator discovers a defect, they can easily log defects using standardized defect codes, add a description with voice-to-text, and take a photo via the tablet’s camera.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "By digitizing the quality inspection and defect reporting process, the TICO team now has the data they need centralized – enabling them to identify trends and uncover insights with a holistic view of their operations.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "and data, managers can address training and personnel challenges, while quality leads can assess whether process improvements are needed. Mike estimates that the quality app has cut the time and effort for quality inspection and rework “down by 50%-60%, if not more,”.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators run each step in sequence with enforced checks and electronic signatures.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“Although the techniques of jewelry manufacturing may not have changed in the last a hundred years or so, Tulip has allowed us to be nimble and change on a dime while still ensuring the same quality and aesthetic is met.”",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Manufacturing, Tiffany & Co.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“Composability drives sustainable excellence. When sites know that there are standards they can work on and customize to meet their factory's needs, the value of their automation work is significantly better.”",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Global Manufacturing Operations, Stanley Black & Decker",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Manufacturing",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Global Manufacturing Operations",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services Delivered by Manufacturing Experts",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Tulip is GxP-ready and FedRAMP Moderate equivalent, giving manufacturers the compliance foundation they need from day one. Manage critical data, enforce data entry standards, and get alerts as nonconformances occur. Accelerate product or batch releases by reviewing the highlighted exceptions, and ensure audit-readiness with a full digital history record.",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Engineering Manager",
+    "url": "https://tulip.co/",
+    "pass": 1
+   },
+   {
+    "quote": "MES for Aerospace and Defense",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead the revolution with your expertise for the future of manufacturing",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you bring technology, expertise, or both, Tulip's ecosystem connects innovators and industry experts with the manufacturers who need them most. Join a network that's already helping customers across industries digitize their operations and transform their frontlines.",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is always evolving and so are the opportunities to best support them. Tulip's composable platform means more integrations, more use cases, and a longer runway for mutual growth.",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into Tulip's growing network of manufacturers across industries. Co-sell, co-market, and get in front of customers who are already invested in digital transformation and ready to buy.",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your market visibility by bringing innovative integrations to manufacturers worldwide",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Training Software",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Dashboards",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare students for jobs with world’s leading manufacturers. Train for high demand, highly transferable skills. Keep your research program on the cutting edge.",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your lean manufacturing simulation into the digital era",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Antonio Padovano, Assistant Professor of Industrial Systems Engineering",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With its intuitive, no-code platform, Tulip empowers our students at UNICAL to design and deploy custom applications, enriching their understanding of human-centered industrial processes within the brewing operations of our learning factory.\"",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re collaborating with MIT to support the upskilling of the industrial workforce",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering Operator 5.0: human-centric design of an augmented reality tool for a learning factory",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Tulip CEO Natan Linder Joins Massachusetts Advanced Manufacturing Collaborative as Industry Rep",
+    "url": "https://tulip.co/education-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "After decades of manufacturing terminal tractors to support its terminal services arm, TICO introduced its equipment to the retail market in 2008. Since then, the demand for their equipment has grown significantly.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "From its early days, TICO relied on paper-based processes for quality inspections, SOPs, and production dashboards. However, as onboarding and retaining operators became more challenging, this approach proved inefficient.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "In hopes of making process guidance more accessible for operators, TICO introduced PDFs for work instructions and BOMs. While these improved onboarding, they were still risky—operators could easily reference the wrong instructions. Additionally, production tracking remained a challenge.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "assurance challenges, they worked with their quality team to deploy apps on mobile tablets to guide operators through the inspection process. If the operator discovers a defect, they can easily log defects using standardized defect codes, add a description with voice-to-text, and take a photo via the tablet’s camera.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "See why leading contract manufacturers trust Tulip to help eliminate quality defects, drive continuous improvement, and deliver products to customers more quickly.",
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "pass": 1
+   },
+   {
+    "quote": "High-Value Aerospace Testing",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Testing high-value serialized aerospace parts left little room for error as volumes grew and traceability and documentation demands increased.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "is a specialized testing and inspection manufacturer serving aerospace, power generation, medical, and automotive customers. Each year, the team performs spin testing, balancing, machining, and inspection on 10,000–12,000 high-value serialized parts, where every step must be completed in order and documented for long-term traceability.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians must follow SOPs to set up the parts in the test rig before testing begins, documenting every step.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Facing growing volume and rising risk, the team needed stronger process control and traceability — without slowing operators down or adding administrative headcount. That inflection point pushed Test Devices to pursue a more flexible, digital approach.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "“With these being high-value aerospace parts, we have almost zero tolerance for risk and scrap.”",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Darren O’Neil, Industrial Engineering Manager, SCHENCK USA Corp.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Get more insights like these from leaders in Aerospace and Defense Industry on adapting production to engineering changes and traceable builds →",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Each serialized part now follows a defined digital route controlled in tables. Technicians scan a part’s barcode and the system tells them exactly what comes next, enforcing flow through every operation. Operators scan the part or traveler and immediately see the correct next step, eliminating guesswork and preventing steps from being skipped.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators follow steps with straightforward guided workflows, rich with images and videos, to prevent confusion and errors.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Nonconformance workflows are now embedded directly into the production process. Any out-of-tolerance result automatically generates a nonconformance and places the part in quality hold until it’s reviewed and released. When an issue occurs, operators and quality leaders receive alerts immediately and can review details in real time.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "As operators perform workflows, out of tolerance results are flagged in automatic non-conformance reports.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Tool scanning ensures that only calibrated equipment is used at each step. Technicians scan tools during use to validate calibration status, and quality teams receive automatic alerts if a tool is out of calibration. This adds another layer of compliance while reducing reliance on manual checks and handwritten logs.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "In less than a year, Test Devices transformed how work is executed and documented across its core production lines. Paper travelers were eliminated and replaced with connected digital workflows and a centralized system that logs every action, measurement, and approval.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Because many of Test Devices' customers are in the aerospace and defense industry, strict security and compliance are essential. Test Devices deployed Tulip on AWS GovCloud to ensure ITAR compliance and to align with the Federal Risk and Authorization Management Program (FedRAMP) standards for cloud security.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "By continuing to connect data, workflows, and decision-making, Test Devices is building an operation that can adapt to new requirements without reverting to paper or workarounds — ensuring serialized aerospace work stays controlled, efficient, and ready for whatever comes next.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "See why leading aerospace and defense manufacturers trust Tulip to help eliminate quality defects, drive continuous improvement, and deliver products to customers more quickly.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We had piles of paper moving around the shop floor, and trying to trace back quality issues was like searching for a needle in a haystack.\"",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators had limited visibility into whether the material they produced matched what the system recorded, creating daily friction and limiting the team’s ability to act on quality issues quickly",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "To ensure every run started correctly, VEKA replaced paper diagrams and generic checklists with dynamic, order‑driven workflows. When operators log in, they receive the exact setup steps and inspection criteria for the active order—aligned with product specifications, customer requirements, and ERP data.",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "A required first‑piece inspection acts as a gating step. Operators must validate the first part before production can continue, preventing incorrect setups from advancing and reducing early‑run errors. What once took operators 10–20 minutes now takes about five, and every run begins with an accurate, order-aligned setup.",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "Once the first piece passes inspection, operators shift into production mode with clarity on what to produce and how to maintain quality throughout the run. Real‑time, order‑specific instructions stay visible at the line, ensuring operators follow the correct steps and criteria.",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "In‑process inspections trigger automatically at defined intervals, adjusting dynamically to the profile and order. These inspections reinforce quality expectations and maintain alignment with ERP data as production progresses. Operators record good and bad pieces directly in the system and select scrap reasons at the line, creating end‑to‑end traceability.",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated scales and digital calipers captured measurements instantly, translating inspections that once took several minutes into quick, guided actions. Operators no longer needed to complete handwritten notes, and supervisors could view results in real-time.",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "Order changes—historically the leading cause of mislabels—are now supported by proactive guidance. The system surfaces upcoming transitions, flags required material or die changes, and prompts operators with the correct sequence of steps. This reduces confusion, prevents premature order advancement, and minimizes scrap during color or material changes.",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, these changes created a more predictable, connected, and operator-centered manufacturing system.",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   },
+   {
+    "quote": "“Some of the most exciting things are the AI tools that will let us capture the brain of our most experienced operators.”",
+    "url": "https://tulip.co/case-studies/veka/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Drive new revenue and grow your business by providing crucial expertise to customers digitally transforming their operations",
+    "url": "https://tulip.co/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The approach worked, but it strained as volumes increased. Preparing travelers took time, retrieving records meant searching through storage, and issues discovered late in the process carried serious consequences. A single part can be worth $20,000 to $80,000, and procedural errors during spin testing risk scrapping parts, damaging equipment, and taking test rigs offline for weeks.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "Darren O’Neil, Industrial Engineering Manager, SCHENCK USA Corp.",
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "A qualification record is held against a specific operation and carries an expiry date, so the status lapses instead of standing forever. Add a qualification check to a production app and it reads that record when the operator opens the job, then holds them at the step or lets them through.",
+    "url": "https://tulip.co/digital-guidance/manufacturing-training-software/",
+    "pass": 1
+   },
+   {
+    "quote": "The Tulip Light Kit drives eight channels of LED strip from an Edge device, so the app can light one bin at a time, light a group of bins for a multi-part pick, and change colour to signal a different action. Where a rack gets rearranged, the bin mapping is app configuration.",
+    "url": "https://tulip.co/digital-guidance/kitting-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Great energy, ownership, and ‘Get Shit Done’ attitude—these are the intangible qualities in Tulip’s DNA that are special and give me great pride to be part of this awesome team.",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Katie Scherbel, Head of Revenue Marketing",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear Katie discuss her journey to Tulip, the strategic function of Revenue Marketing, and the draw of the platform, people, and shift to AI within the company.",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations Engineer",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Strategy & Data Analytics Lead",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Revenue Operations Manager, Post Sales",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Revenue Operations Manager, Sales",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Components, tools, operators and inspections are tied to each serial or lot by barcode, vision or RFID, so warranty claims move faster. For OEM suppliers, genealogy can feed supplier portals, and datasets can go to the OEM through the API.",
+    "url": "https://tulip.co/industries/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer warranty claims from one record",
+    "url": "https://tulip.co/industries/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Work instructions, inspections, machine data and genealogy for a serial sit on one shared data model, so a warranty claim or containment question can be answered in one place. Engineers can ask questions of that data in plain language with AI Insights and get charts back.",
+    "url": "https://tulip.co/industries/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, and running both in one system keeps genealogy from breaking at the handoff, where a chemistry, coating or formulation step feeds cell, stack or module assembly. Tulip runs both process types in one app architecture and carries lot history to the serial number of every unit built from that lot.",
+    "url": "https://tulip.co/industries/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pharma operations have to keep changing, and each change carries compliance risk. Keeping up takes a system that holds controlled steps steady while leaving room to improve the rest.",
+    "url": "https://tulip.co/industries/pharma-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Once a process runs right, carry it to the next line or site without rebuilding it. A central team holds the standard while each line or site adapts locally, and IT doesn't have to build compliance infrastructure from scratch.",
+    "url": "https://tulip.co/industries/pharma-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "CarryC Long Interchangeable Bamboo Knitting Needle Set Komorebi Green is featured in “Laine Anniversary Issue”.",
+    "url": "https://en.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "CarryC Cable (3¾\" needle tips)",
+    "url": "https://amirisu-kurumi.com/collections/tulip",
+    "pass": 3
+   },
+   {
+    "quote": "CarryC Interchangeable Bamboo Knitting Needle Set",
+    "url": "https://amirisu-kurumi.com/collections/tulip",
+    "pass": 3
+   },
+   {
+    "quote": "CarryC Fine Gauge Interchangeable Bamboo Knitting Needle Set",
+    "url": "https://amirisu-kurumi.com/collections/tulip",
+    "pass": 3
+   },
+   {
+    "quote": "CarryT Interchangeable Bamboo Tunisian Hooks",
+    "url": "https://amirisu-kurumi.com/collections/tulip",
+    "pass": 3
+   },
+   {
+    "quote": "CarryC Long Fine Gauge Interchangeable Bamboo Knitting Needle Set",
+    "url": "https://amirisu-kurumi.com/collections/tulip",
+    "pass": 3
+   },
+   {
+    "quote": "Millions of blooms in a vast array of hues",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "The park's expansive tulip fields are neatly arranged into broad rows of red, yellow and orange. The effect of being surrounded by all these colors can be quite overwhelming, as though you've just wandered into a van Gogh painting. A small river runs through the park, and there are waterwheels, bridges, and walking paths.",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "In this webinar, you’ll learn: Scale 1:1 outreach to your entire customer base Spend far less time task setting and more time connecting Turn customer actions into targeted campaigns Use automation to ensure tasks are never missed Run personalized outreach campaigns without it becoming your day job Retailers know personalization drives loyalty and revenue. But […]",
+    "url": "https://www.tulip.com/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Luxury Brand The luxury fashion market declined, and revenue from clienteling still grew A strong conversion rate in a",
+    "url": "https://www.tulip.com/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "“Tulip lets us connect with customers through an omnichannel journey and consistently delivers the high-touch personal experiences we’re known for. Clienteling is an important part of our business and Tulip’s …",
+    "url": "https://www.featuredcustomers.com/vendor/tulip-interfaces",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/tulip-interfaces",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Revenue 2025: $50M, $152.5M Raised",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip's annual revenue was $50M in June 2025.",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip CEO & employees",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Natan Linder is CEO of Tulip. Tulip has 340 employees (June 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tulip's revenue?",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip's annual revenue was",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tulip have?",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of June 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "The MIT Startup Exchange hosts events + arranges introductions that can lead to opportunities for emerging companies like ML spinoff Tulip.",
+    "url": "https://www.media.mit.edu/articles/manufacturing-software-company-tulip-raises-100-million-to-give-factory-workers-cloud-based-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "This study assumed fields where bulbs are produced, but bulbs bought for home use are not unrelated. Takii Seed's disease commentary states that \"latent infection,\" where bulbs that show no symptoms carry the fungus, can also become a source of infection, and the company also recommends planting when the soil temperature has dropped sufficiently (to about 15°C or lower).",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Point the pointed end upward. According to the cooperative, the largest leaves tend to emerge from the flat side of the bulb when viewed from above. If using a round pot, arranging them with the flat side facing outward will cause the leaves to spread outward, creating a well-balanced look.",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Finding the flat part and deciding which way to face it. This task of arranging the bulbs is something that can easily be left to children.",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Well, today, as part of the music and artists that influenced me in my youth, I introduced KISS last time.",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And another band that I absolutely must not forget, for better or worse, whether the person wants it or not, has become part of my flesh and blood, yes, it's Tulip.",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They completely reproduced the 10-minute-plus epic \"Suite: Koshien,\" which occupies half of side B of the album \"Nippon\" with the Hinomaru bento jacket, in a live performance, and there is also a song where the chorus part of \"Kaze no Melody\" (Wind Melody) is exactly Jigsaw's \"Sky High\"!",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, underground, it has been recorded that pea roots can distinguish the subtle vibration sounds of water flowing through sealed thin tubes and grow straight toward the sound source. By growing in the direction from which the vibrations of water flow arrive, they efficiently acquire moisture and dissolved nutrients while avoiding drought and nutrient deficiency.",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA 公式ブログ、「Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived」 内容紹介",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "“Interfaces” are devices that run applications on Tulip Player, such as a touchscreen at a physical workstation, a tablet, a mobile phone, a dashboard on a screen, an app running on a browser, and an application running on OEM equipment.",
+    "url": "https://tulip.co/plans/",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Manager",
+    "url": "https://tulip.co/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Components, tools, operators and inspections are tied to each serial or lot by barcode, vision or RFID, so warranty claims move faster. For OEM suppliers, genealogy can feed supplier portals, and datasets can go to the OEM through the API.",
+    "url": "https://tulip.co/industries/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How can suppliers meet OEM traceability requirements?",
+    "url": "https://tulip.co/industries/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Nine questions, two minutes. Find out what kind of clienteling program fits your brand, how far along you are, and where to start.",
+    "url": "https://www.tulip.com/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "The Tulip Partner Portal is a platform exclusive to Tulip Channel Partners that provides our partners with a central repository for key sales and marketing resources, and management of their sales processes, including deal registration and tracking of ongoing deals.",
+    "url": "https://support.tulip.co/docs/tulip-partner-portal",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to learn more",
+    "url": "https://tulip.co/plans/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to our support via email and get a response within a maximum of 24 hours.",
+    "url": "https://tulip.co/plans/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tulip-interfaces",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tulip-interfaces",
+    "pass": 3
+   },
+   {
+    "quote": "If you have any questions prior to registering your new lead (ex: is this a good use case for Tulip?), please contact your assigned Channel Manager or email channel@tulip.co",
+    "url": "https://support.tulip.co/docs/tulip-partner-portal",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Somerville, Munich, Budapest, Singapore, Tel Aviv and Tokyo.",
+    "url": "https://tulip.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "APAC · Japan · Minato-ku",
+    "url": "https://tulip.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Somerville, Massachusetts, USA, with offices in Munich, Budapest, Singapore, Tel Aviv and Tokyo.",
+    "url": "https://tulip.co/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "ＦＰＴジャパンホールディングスがT Projectと代理店契約を締結～ 国内製造業の継続成長支援へ、ローコードDX実現プラットフォーム「TULIP」の販売を開始 ～ | ＦＰＴジャパンホールディングス",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＰＴジャパンホールディングスがT Projectと代理店契約を締結～ 国内製造業の継続成長支援へ、ローコードDX実現プラットフォーム「TULIP」の販売を開始 ～",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＰＴジャパンホールディングスは、「TULIP」の販売・サポートを行うT Projectと代理店契約を締結しました",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナムIT最大手ＦＰＴソフトウェアの日本法人であるＦＰＴジャパンホールディングス株式会社(東京都港区、代表取締役社長：ド・ヴァン・カック、以下 ＦＰＴジャパンホールディングス)と、DXプラットフォーム「TULIP（チューリップ）」の販売・サポートを行う株式会社T Project（本社：東京都江東区、代表取締役：荒谷茂伸、以下 T Project）は、本年2月1日に代理店契約を締結しました",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "T Projectと代理店契約を締結の経緯",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "T Project、ＦＰＴジャパンホールディングスの両社では、こうした経験を経た企業から全社・製造拠点すべてのデータを統合、活用できるよう、全体最適を実現するソリューションへの要望や、提案を行う機会が増加しており、今回の代理店契約に至りました",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "なお、日本市場における「TULIP」導入後の効果として、不良率削減は59%、教育時間削減は67％、生産性向上は18%となっています",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都江東区枝川3丁目1番4号 DMG MORI 東京デジタルイノベーションセンタ",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社T Projectは、2020年9月の設立以来、米国Tulipが開発したクラウドベースの製造支援アプリケーション作成プラットフォーム「TULIP（チューリップ ）」の日本国内での販売サービスを行っています",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "実際にTULIPを体験できる「TULIP Experience Center」も国内6か所に設けています（東京、名古屋、浜松、金沢、仙台、奈良",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＰＴジャパンホールディングス株式会社について",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "社名：ＦＰＴジャパンホールディングス株式会社",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都港区芝公園一丁目7番6号KDX浜松町プレイス6階",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＰＴジャパンホールディングスは、ベトナムのICTリーディングカンパニーであるＦＰＴグループで、海外に特化し IT 事業を担うＦＰＴソフトウェアの日本法人です",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "ベトナムと日本両国の文化・経済・知識の交流の懸け橋となり、先進技術を活用したサービスやソリューションを通じて日本のお客様に最大限の価値を届けることを目的に、2005年に設立されました",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "DMG森精機プレシジョンコンポーネンツ株式会社",
+    "url": "https://tprj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TULIPによる業務改善 -DMG森精機株式会社",
+    "url": "https://tprj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "DMG MORI Japan 3,199回視聴 3 年前",
+    "url": "https://www.youtube.com/watch?v=UqvUGUDzxaE",
+    "pass": 3
+   },
+   {
+    "quote": "Road to Front Runner Vol. 85「株式会社平沢機関修理工場」最新加工機を使った複雑形状加工と工程集約の達人",
+    "url": "https://www.youtube.com/watch?v=UqvUGUDzxaE",
+    "pass": 3
+   },
+   {
+    "quote": "【会社紹介】 DMG森精機 東京グローバルヘッドクォータ/東京デジタルイノベーションセンタのご紹介",
+    "url": "https://www.youtube.com/watch?v=UqvUGUDzxaE",
+    "pass": 3
+   },
+   {
+    "quote": "ネクスティ エレクトロニクスがT Projectと代理店契約を締結 | 株式会社ネクスティ エレクトロニクスのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "豊田通商グループのエレクトロニクス商社、株式会社ネクスティ エレクトロニクス(本店：東京都港区、代表取締役社長：柿原 安博、以下：ネクスティ エレクトロニクス)と、DXプラットフォーム「TULIP（チューリップ）」の販売・サポートを行う株式会社T Project（本社：東京都江東区、代表取締役：荒谷 茂伸、以下：T Project）は、10月1日に、代理店契約を締結しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業をはじめとしたあらゆる現場のDXをローコード※1で実現する「TULIP」の導入を加速し、日本における製造現場のDXの実現に貢献していきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "ネクスティ エレクトロニクスとT Projectは、「TULIP」の販路拡大による日本の製造業のDXを促進するために、代理店契約を締結しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場における「TULIP」導入後の効果として、不良率削減は59%※2、教育時間削減は67％※3、生産性向上は18%※4となっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ネクスティ エレクトロニクスが代理店を務める高精度屋内位置測位システム「ZEROKEY」 と組み合わせることで、サブセンチメートルクラス※5の位置情報を活用したトレーサビリティーの確保や、作業品質の向上を実現します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "活用方法を実際に見ていただけるよう、ネクスティ エレクトロニクスは名古屋市伏見にショールームを開設しており、T Projectは東京都、名古屋市、浜松市、金沢市、仙台市、奈良市にショールーム「TULIP Experience Center」を開設しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都江東区枝川3丁目1番4号 DMG MORI 東京デジタルイノベーションセンタ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社T Projectは、2020年9月の設立以来、米国Tulipが開発したクラウドベースの製造支援アプリケーション作成プラットフォーム「TULIP（チューリップ ）」の日本国内での販売サービスを行っています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "（東京都、名古屋市、浜松市、金沢市、仙台市、奈良市）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社名：株式会社ネクスティ エレクトロニクス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都港区港南2-3-13 品川フロントビル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区港南2-3-13",
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "pass": 3
+   },
+   {
+    "quote": "Partner-パートナー募集 | テクニウム株式会社TULIPのご紹介",
+    "url": "https://tprj.co.jp/partners_resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip will participate in NEPCON JAPAN 2026",
+    "url": "https://en.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip will participate in SEMICON Japan 2025",
+    "url": "https://en.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "広島針の製造・販売はチューリップ株式会社 - Tulip Company Limited -",
+    "url": "https://www.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "11月のワークショップ開催のお知らせ at “TULIP CRAFT CAFE Tokyo”",
+    "url": "https://www.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【注意喚起】TikTokにおける、チューリップ株式会社のなりすましアカウントに関する重要なお知らせ",
+    "url": "https://www.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tonami Tulip Park | Travel Japan - Japan National Tourism Organization (Official Site)",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Seasonal Flowers in Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Off the Beaten Track in Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's National Parks",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Nature (Experiences in Japan)",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Outdoor (Experiences in Japan)",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Tea Ceremony",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Cultural Experiences in Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Local Cuisine Eastern Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Local Cuisine Western Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Sake Breweries",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Anime and Comics",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Wellness Travel in Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Ryokan Guide",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "A Guide to Stargazing in Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Local Treasures",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Travel in JAPAN",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19: Practical Information for Traveling to Japan",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ローコードDX実現プラットフォーム「 TULIP 」の販売を開始 — ローコードDX実現プラットフォーム「 TULIP 」の販売を開始 FPTソフトウェア https://fptsoftware.jp > newsroom > press-release",
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "pass": 3
+   },
+   {
+    "quote": "テクニウム株式会社 TULIP ご紹介 — テクニウム株式会社 TULIP ご紹介 tprj.co.jp https://tprj.co.jp",
+    "url": "https://tprj.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip ニュースルーム｜ Tulip — Tulip ニュースルーム｜ Tulip tulip.co https://tulip.co > press",
+    "url": "https://tulip.co/ja/press/",
+    "pass": 3
+   },
+   {
+    "quote": "TULIP 製造現場をデジタル化 - YouTube — TULIP 製造現場をデジタル化 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=UqvUGUDzxaE",
+    "pass": 3
+   },
+   {
+    "quote": "ローコードで製造現場のDXを実現するプラットフォーム ... — ローコードで製造現場のDXを実現するプラットフォーム ... ネクスティ エレクトロニクス https://www.nexty-ele.com > actual > detail > tulip",
+    "url": "https://www.nexty-ele.com/actual/detail/tulip/",
+    "pass": 3
+   },
+   {
+    "quote": "現場の変化に合わせて即座に追従する生産システム — 現場の変化に合わせて即座に追従する生産システム tulip.co https://tulip.co > ...",
+    "url": "https://tulip.co/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner-パートナー募集 | テクニウム株式会社 TULIP のご紹介 — Partner-パートナー募集 | テクニウム株式会社 TULIP のご紹介 tprj.co.jp https://tprj.co.jp > partners_resellers",
+    "url": "https://tprj.co.jp/partners_resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーポリシー || チューリップ 株式会社 — プライバシーポリシー || チューリップ 株式会社 チューリップ株式会社 https://www.tulip-japan.co.jp > privacy",
+    "url": "https://www.tulip-japan.co.jp/privacy/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Company Limited — Tulip Company Limited Tulip Company Limited https://en.tulip-japan.co.jp",
+    "url": "https://en.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip - amirisu Kurumi — Tulip - amirisu Kurumi amirisu Kurumi https://amirisu-kurumi.com > tulip",
+    "url": "https://amirisu-kurumi.com/collections/tulip",
+    "pass": 3
+   },
+   {
+    "quote": "広島針の製造・販売は チューリップ 株式会社 - Tulip Company ... — 広島針の製造・販売は チューリップ 株式会社 - Tulip Company ... チューリップ株式会社 https://www.tulip-japan.co.jp",
+    "url": "https://www.tulip-japan.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Tonami Tulip Park | Travel Japan — Tonami Tulip Park | Travel Japan Japan National Tourism Organization (JNTO) https://www.japan.travel > spot",
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "pass": 3
+   },
+   {
+    "quote": "チューリップ 株式会社 (@tulipjapan_official) - Instagram — チューリップ 株式会社 (@tulipjapan_official) - Instagram Instagram https://www.instagram.com > tulipjapan_official",
+    "url": "https://www.instagram.com/tulipjapan_official/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Index - Tulip Interfaces — Case Studies Index - Tulip Interfaces tulip.co https://tulip.co > case-studies",
+    "url": "https://tulip.co/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Case Studies : 19 Customer Stories (2026) | ERP Research — Tulip Case Studies : 19 Customer Stories (2026) | ERP Research ERP Research https://www.erpresearch.com > tulip",
+    "url": "https://www.erpresearch.com/erp-add-ons/manufacturing-mes-plm/tulip/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Tulip Retail — Customer Stories - Tulip Retail tulip.com https://www.tulip.com > customer-sto...",
+    "url": "https://www.tulip.com/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "97 Tulip Customer Reviews & References | FeaturedCustomers — 97 Tulip Customer Reviews & References | FeaturedCustomers Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/tulip-interfaces",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip raises $120M Series D at $1.3B valuation to scale AI for ... — Tulip raises $120M Series D at $1.3B valuation to scale AI for ... MIT Media Lab https://www.media.mit.edu > posts > t...",
+    "url": "https://www.media.mit.edu/posts/tulip-raises-120m-series-d-at-1-3b-valuation-to-scale-ai-for-frontline-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Partner Portal - Tulip Knowledge Base — Tulip Partner Portal - Tulip Knowledge Base Tulip Knowledge Base https://support.tulip.co > docs > tulip-...",
+    "url": "https://support.tulip.co/docs/tulip-partner-portal",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Secures $120M Series D to Give Frontline Workers AI ... — Tulip Secures $120M Series D to Give Frontline Workers AI ... tulip.co https://tulip.co > Press",
+    "url": "https://tulip.co/press/tulip-secures-120m-series-d/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Revenue 2025: $50M, $152.5M Raised - GetLatka — Tulip Revenue 2025: $50M, $152.5M Raised - GetLatka GetLatka https://getlatka.com > companies > tulip",
+    "url": "https://getlatka.com/companies/tulip.co",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip's Competitors, Revenue , Number of Employees ... - Owler — Tulip's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > tulip2",
+    "url": "https://www.owler.com/company/tulip2",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Software Company Tulip Raises $100 Million ... — Manufacturing Software Company Tulip Raises $100 Million ... MIT Media Lab https://www.media.mit.edu > articles",
+    "url": "https://www.media.mit.edu/articles/manufacturing-software-company-tulip-raises-100-million-to-give-factory-workers-cloud-based-tools/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip - 2026 Company Profile, Team, Funding & Competitors — Tulip - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/tulip/__FEmf1L52c8fp-vOP5riyN7Kgq0odQDabKPhyIUtbBKY",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Is it still too early to plant tulip bulbs? - note Is it still too early to plant tulip bulbs? - note note https://note.com > DIY > ガーデニング",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip is a great pop-rock band that Japan is proud of｜makoto Tulip is a great pop-rock band that Japan is proud of｜makoto note https://note.com > 音楽 > ポップス",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Should you dig up tulip bulbs? In my home, I grow them ... - note Should you dig up tulip bulbs? In my home, I grow them ... - note note https://note.com > ライフスタイル > ガーデニング",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Book Summary] The Remembering Tulip , The Yielding ... - note [Book Summary] The Remembering Tulip , The Yielding ... - note note https://note.com > ready_honest8301",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip の人気・新着記事まとめ - note Tulip の人気・新着記事まとめ - note note https://note.com > tag > Tulip",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Is it still too early to plant tulip bulbs? | Thinking about planting time based on seasonal forecasts｜気象予報士パパの自然研究所｜植物とメダカと天気",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is it still too early to plant tulip bulbs? | Thinking about planting time based on seasonal forecasts",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "気象予報士パパの自然研究所｜植物とメダカと天気",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*This article contains Amazon and Rakuten affiliate links. As an Amazon Associate, Weather Forecaster Papa's Nature Laboratory earns income from qualifying purchases.",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the last weekend of September, when I went to the home center with my children, tulip bulbs were already lined up near the entrance.",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since the children said they wanted to grow them, I added red, white, and yellow—familiar from the nursery rhyme—along with pink from the shelf next to them into our basket. However, on the way home, I became concerned about the planting time. It seems it is better not to plant them right away.",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I looked it up, the answer was clear. The Toyama Flower Bulb Agricultural Cooperative, located in a tulip bulb production area, notes that while they start appearing in stores in September, \"",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "you should never plant them immediately after buying",
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Live Act Tulip! - Tulip is a great pop-rock band that Japan is proud of｜makoto",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Live Act Tulip! - Tulip is a great pop-rock band that Japan is proud of",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, this is makoto.",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today I'm going to talk about TULIP. The band Tulip.",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Unfortunately, even if I ask my high school son, honestly, they are no longer recognized as a band, and it's more like he might have heard some of their songs, like the classic \"Kokoro no Tabi\" (Journey of the Heart), or the commercial songs \"Mahou no Kiiroi Kutsu\" (Magic Yellow Shoes) and \"Seishun no Kage\" (Shadow of Youth). Sigh... (crying)",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "a band that laid the foundation for Japanese popular music",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "a band that established Japanese rock",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I personally believe it is safe to say that. They are that great of a band. There was no Japanese rock before Tulip.",
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Should you dig up tulip bulbs? In my home, I grow them without digging them up.｜sola og planta 作業日誌",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Should you dig up tulip bulbs? In my home, I grow them without digging them up.",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A customer asked me, \"If you don't dig up tulip bulbs, they just disappear, right?\"",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Generally, it is said that it is best to \"dig up tulip bulbs and replant them,\" but",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "in my home, I don't dig up tulip bulbs; I grow them by leaving them alone.",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "People sometimes say to me, \"Well, regular tulips might be fine, but rare tulips surely won't make it, right?\" but",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "in my home, even rare tulips bloom again the following year without disappearing, even when left alone.",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since this is different from the general consensus, I cannot say at all that this is the correct way, but please feel free to use it as a reference.",
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Book Summary] The Remembering Tulip, The Yielding Sunflower: Plant Ethology｜pairu",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Book Summary] The Remembering Tulip, The Yielding Sunflower: Plant Ethology",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Author: Zoë Schlanger",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Translator: Shinya Iwasaki",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Publisher: Hayakawa Publishing",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Publication Date: August 20, 2025",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Genre: Non-fiction / Popular Science (Plant Ethology, Life Sciences)",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Zoë Schlanger is an American journalist specializing in environmental issues and science reporting. As a reporter for The Atlantic, she covered climate change, and at Quartz and Newsweek, she was responsible for environmental policy and ecosystem management. She has contributed to numerous media outlets including NPR, and in 2017, she received the National Association of Science Writers award for ",
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tulipの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   },
+   {
+    "quote": "【エッセイ】The National Front Disco",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   },
+   {
+    "quote": "J-Pop series Vol.331 | 🎼 青春の影 ♬ ~ AI woman's vocal cover version",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   },
+   {
+    "quote": "昭和と今を紡ぐ、いつだって妄想が勝つ理由。-1973年の佐々木敦規-",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   },
+   {
+    "quote": "速記文字ギャラリー（1）サボテンの花～Tulip～",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   },
+   {
+    "quote": "ヒット曲を真似てもヒットしない、という本質～財津和夫氏",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   },
+   {
+    "quote": "無料│印刷して使うブックカバー│チューリップ",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   },
+   {
+    "quote": "2024/7/18 TULIP @福岡サンパレス",
+    "url": "https://note.com/tag/Tulip",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "tulip (@_blushingtulips) / X tulip (@_blushingtulips) / X X https://x.com > _blushingtulips",
+    "url": "https://x.com/_blushingtulips",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip ☮️ (@imTulip) / X Tulip ☮️ (@imTulip) / X X https://x.com > imTulip",
+    "url": "https://x.com/imTulip",
+    "pass": 3
+   },
+   {
+    "quote": "# TULIP - Search / X # TULIP - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/TULIP",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip (@tulipinterfaces) / X Tulip (@tulipinterfaces) / X X https://x.com > tulipinterfaces",
+    "url": "https://x.com/tulipinterfaces",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tulip Interfaces | LinkedIn Tulip Interfaces | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/tulip-interfaces",
+    "pass": 3
+   },
+   {
+    "quote": "Natan Linder - Cofounder & CEO @ Tulip ... - LinkedIn Natan Linder - Cofounder & CEO @ Tulip ... - LinkedIn LinkedIn https://www.linkedin.com > linder",
+    "url": "https://www.linkedin.com/in/linder",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Richardson Manufacturing - LinkedIn Tulip Richardson Manufacturing - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/tulip-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Tech - LinkedIn Tulip Tech - LinkedIn LinkedIn https://www.linkedin.com > tulip-tech",
+    "url": "https://www.linkedin.com/company/tulip-tech",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Texas- Tulips (@texastulips) - Facebook Texas- Tulips (@texastulips) - Facebook Facebook https://www.facebook.com > Pages > Interest",
+    "url": "https://www.facebook.com/texastulips/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Town | Mount Vernon WA - Facebook Tulip Town | Mount Vernon WA - Facebook Facebook https://www.facebook.com > ... > Agriculture > Farm",
+    "url": "https://www.facebook.com/tuliptown/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip Time Festival | Holland MI - Facebook Tulip Time Festival | Holland MI - Facebook Facebook https://www.facebook.com > ... > Other > Event > Festival",
+    "url": "https://www.facebook.com/TulipTimeFestival/",
+    "pass": 3
+   },
+   {
+    "quote": "Tulip season at the State Botanical Garden of Georgia Tulip season at the State Botanical Garden of Georgia Facebook https://www.facebook.com > botgarden > posts > its-tulip-...",
+    "url": "https://www.facebook.com/botgarden/posts/its-tulip-season-at-the-garden-with-the-help-of-staff-and-volunteers-thousands-o/1076159831218787/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tulip.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/education-partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/case-studies/tico-reduced-quality-inspection-and-rework-time-by-60/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/case-studies/test-devices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/case-studies/veka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/digital-guidance/manufacturing-training-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/digital-guidance/kitting-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/production-management/manufacturing-dashboards/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/plans/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/industries/discrete-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/industries/pharma-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/solutions/composable-mes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/solutions/composable-mes-for-pharma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/solutions/composable-mes-for-medical-devices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/solutions/composable-mes-for-adef/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/solutions/connected-worker/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tulip.widen.net/content/5eat2lodr0?w=1200&crop=true",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tulip.widen.net/content/xxtnztjcv9?w=1200&crop=true",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tulip.widen.net/content/pehli2i7yi?w=1210&crop=true",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tulip.widen.net/content/bf9jw32siy?w=1210&crop=true",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tprj.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=UqvUGUDzxaE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tprj.co.jp/partners_resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.tulip-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amirisu-kurumi.com/collections/tulip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tulip-japan.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/spot/1409/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erpresearch.com/erp-add-ons/manufacturing-mes-plm/tulip/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tulip.com/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tulip-interfaces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.tulip.co/docs/tulip-partner-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/tulip.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/tulip2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.media.mit.edu/articles/manufacturing-software-company-tulip-raises-100-million-to-give-factory-workers-cloud-based-tools/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/_blushingtulips",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imTulip",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/TULIP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tulipinterfaces",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tulip-interfaces",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/linder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tulip-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tulip-tech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/texastulips/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tuliptown/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TulipTimeFestival/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/botgarden/posts/its-tulip-season-at-the-garden-with-the-help-of-staff-and-volunteers-thousands-o/1076159831218787/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/Tulip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tulipinterfaces",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/TULIP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tulip 日本 導入",
+   "results": [
+    "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "https://tprj.co.jp/",
+    "https://tulip.co/ja/press/",
+    "https://www.youtube.com/watch?v=UqvUGUDzxaE",
+    "https://www.nexty-ele.com/actual/detail/tulip/",
+    "https://www.dmgmori.co.jp/products/machine/id=7291",
+    "https://www.d-frontier-life.co.jp/m/products/pamphlet/120/?agency=100",
+    "https://www.tulip-japan.co.jp/history/",
+    "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97_(%E3%83%90%E3%83%B3%E3%83%89)",
+    "https://tprj.co.jp/case/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Tulip 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://fptsoftware.jp/newsroom/news-and-press-release/press-release/20240312",
+    "https://tulip.co/ja/",
+    "https://prtimes.jp/main/html/rd/p/000000061.000013146.html",
+    "https://tprj.co.jp/partners_resellers/",
+    "https://www.tulip-japan.co.jp/privacy/",
+    "https://www.nexty-ele.com/actual/detail/tulip/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEtulip-%E6%B1%82%E4%BA%BA.html",
+    "https://toukibo.ai-con.lawyer/search-service/result/9010001258529",
+    "https://www.lei.jpx.co.jp/lei/detail.html?lei=353800YDV5AD687HC467",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Tulip Japan",
+   "results": [
+    "https://en.tulip-japan.co.jp/",
+    "https://amirisu-kurumi.com/collections/tulip",
+    "https://www.tulip-japan.co.jp/",
+    "https://www.japan.travel/en/spot/1409/",
+    "https://www.instagram.com/tulipjapan_official/",
+    "https://en.tulip-japan.co.jp/knitting_needle/",
+    "https://tulip.co/ja/",
+    "https://www.kyuhoshi.com/best-places-to-see-tulips-in-japan/",
+    "https://www.tulip-japan.co.jp/knitting_needle/",
+    "https://www.tulip-japan.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Tulip manufacturing customer case study",
+   "results": [
+    "https://tulip.co/case-studies/",
+    "https://www.erpresearch.com/erp-add-ons/manufacturing-mes-plm/tulip/case-studies",
+    "https://www.tulip.com/customer-stories/",
+    "https://www.featuredcustomers.com/vendor/tulip-interfaces",
+    "https://www.media.mit.edu/posts/tulip-raises-120m-series-d-at-1-3b-valuation-to-scale-ai-for-frontline-manufacturing/",
+    "https://tulip.co/case-studies/medical-device-case-study/",
+    "https://www.dataabsolute.com/case_studies/tulip.pdf",
+    "https://docs.aws.amazon.com/solutions/tulip-manufacturing-execution-system-on-aws/",
+    "https://www.casestudies.com/company/tulip-interfaces",
+    "https://tulip.co/case-studies/mack-molding/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Tulip white label OR reseller OR partner program",
+   "results": [
+    "https://support.tulip.co/docs/tulip-partner-portal",
+    "https://www.intermedia.com/resellers",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Tulip founded funding employees revenue",
+   "results": [
+    "https://tulip.co/press/tulip-secures-120m-series-d/",
+    "https://getlatka.com/companies/tulip.co",
+    "https://www.owler.com/company/tulip2",
+    "https://www.media.mit.edu/articles/manufacturing-software-company-tulip-raises-100-million-to-give-factory-workers-cloud-based-tools/",
+    "https://tracxn.com/d/companies/tulip/__FEmf1L52c8fp-vOP5riyN7Kgq0odQDabKPhyIUtbBKY",
+    "https://www.builtinboston.com/articles/tulip-raises-120m-series-d-1b-valuation-20260116",
+    "https://www.zoominfo.com/c/tulip/70631632",
+    "https://forgeglobal.com/tulip_ipo/",
+    "https://superbcrew.com/tulip-raises-120-million-in-series-d-funding-round/",
+    "https://compworth.com/company/tulip-co"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Tulip",
+   "results": [
+    "https://note.com/nature_wx_lab/n/n8d3d806077d3?hl=en",
+    "https://note.com/makoto_kob/n/n3df33b242565?hl=en",
+    "https://note.com/sola_og_planta/n/n7c787bb86f12?hl=en",
+    "https://note.com/ready_honest8301/n/n5768b4f57bea?hl=en",
+    "https://note.com/nature_wx_lab/n/n9a61d293c254?hl=en",
+    "https://note.com/junko_namiki/n/n076ca30e64bf?hl=en",
+    "https://note.com/haco_garden_d/n/n930780a42ab0?hl=en",
+    "https://note.com/oriesgreen/n/n08c723b6e8a0?hl=en",
+    "https://note.com/smallworld/n/n87698ce635f8?hl=en",
+    "https://note.com/hk_photo/n/n3c297bb899d3?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Tulip",
+   "results": [
+    "https://x.com/_blushingtulips",
+    "https://x.com/imTulip",
+    "https://x.com/hashtag/TULIP",
+    "https://x.com/tulipinterfaces",
+    "https://x.com/elliot_tulip",
+    "https://x.com/DrVaishnavi14/status/2114554067620110732",
+    "https://x.com/MrDavids1/status/2118729525647261976",
+    "https://x.com/flyingtulip_",
+    "https://x.com/TulipComics",
+    "https://x.com/Tulip_FG"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Tulip",
+   "results": [
+    "https://www.linkedin.com/company/tulip-interfaces",
+    "https://www.linkedin.com/in/linder",
+    "https://www.linkedin.com/company/tulip-corporation",
+    "https://www.linkedin.com/company/tulip-tech",
+    "https://www.linkedin.com/posts/albertmaouad_i-recently-remembered-this-story-about-tulip-activity-7325846122311163904-Ipmu",
+    "https://www.linkedin.com/company/tulip-cremation",
+    "https://uk.linkedin.com/in/roey-mechrez",
+    "https://www.linkedin.com/pulse/tulip-mania-when-flower-worth-fortune-aniket-waghmare-eco9f",
+    "https://www.linkedin.com/posts/thedurkinorganization_tulip-raises-120-million-toward-human-centric-activity-7417707120323731456-iuHI",
+    "https://www.linkedin.com/company/tulip-retail"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Tulip",
+   "results": [
+    "https://www.facebook.com/texastulips/",
+    "https://www.facebook.com/tuliptown/",
+    "https://www.facebook.com/TulipTimeFestival/",
+    "https://www.facebook.com/botgarden/posts/its-tulip-season-at-the-garden-with-the-help-of-staff-and-volunteers-thousands-o/1076159831218787/",
+    "https://www.facebook.com/wickedtulips/",
+    "https://www.facebook.com/Back.40159/",
+    "https://www.facebook.com/wearetulipofficial/",
+    "https://www.facebook.com/tulipworldcom/",
+    "https://business.facebook.com/groups/1373255770109960/",
+    "https://www.facebook.com/TulipRidgeFlowerFarm/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Tulip note 社長",
+   "results": [
+    "https://note.com/tag/Tulip",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://tulip.co/ja/release-notes/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Tulip X 投稿",
+   "results": [
+    "https://x.com/tulipinterfaces",
+    "https://community.tulip.co/",
+    "https://www.city.yokohama.lg.jp/kanagawa/kusei/koho/twitter/xrepostcp.files/0013_20250318.pdf",
+    "https://x.com/hashtag/TULIP",
+    "https://www.cobelio.com/works/tulip-x/?srsltid=AYCX9vJXKidr77RRfT3BmkLYv0w7QvndP1Iz078Yfuhpv00ki6TuYf9h",
+    "https://www.tulip-japan.co.jp/hc_topics/kagi_bou_gurumi_2026/",
+    "https://tulip.zendesk.com/hc/en-us/requests/new",
+    "https://x.com/TulipComics",
+    "https://www.bilibili.com/video/BV1rtWw6NEck/",
+    "https://www.chichi-pui.com/events/posts/TULIP/ranking/all/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）"
+ }
+}

@@ -1,0 +1,517 @@
+{
+ "name": "Atomik AM — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:19:16.415251+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/atomik-am/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Atomik AM — VoxelMatters - The largest database of additive ... — At Atomik AM, we think differently—and more importantly, we do things differently. We’ve ripped up the manufacturing rulebook to adopt a solutions-focused approach to advanced manufacturing that prioritises sustainability, innovation, and tailored results. Our philosophy is simple: putting materials first allows us to make sustainab",
+    "url": "https://www.voxelmatters.directory/company/atomik-am/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/atomik-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atomiklabz.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vKU-jXhdCVzozB8K6lM0VWZSAn9QA6gjcf81jqYFZa9eUE0se9Z",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Atomic-Filament-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%811-75mm-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E5%AF%BE%E5%BF%9C-%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%82%A7%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E5%8D%8A%E9%80%8F%E6%98%8E%E3%80%811KG/dp/B0BT6XQTHW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atomik-am.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%AF%E3%83%B3%E3%83%87%E3%83%BC-%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%B9-%E3%80%90BC%E3%80%919-0%E3%80%90PWR%E3%80%91-1-50-90%E6%9E%9A%E5%85%A5/dp/B01I15BQ44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Bligo-%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA-L-5XL-%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB-%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC/dp/B0HF3ZXFBQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC-%E3%82%A8%E3%82%A4%E3%83%88%E3%83%86%E3%83%B3%E3%82%B9-%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC-PROTETMODI/dp/B0D62XXKDR",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E7%BE%8E%E3%81%97%E3%81%84%E3%82%AD%E3%83%A2%E3%83%8E-2026%E5%B9%B4%E5%86%AC%E5%8F%B7%E5%A2%97%E5%88%8A%E5%90%89%E7%94%B0%E4%BB%81%E4%BA%BA%E7%89%B9%E5%88%A5%E7%89%88-%E3%83%8F%E3%83%BC%E3%82%B9%E3%83%88%E5%A9%A6%E4%BA%BA%E7%94%BB%E5%A0%B1%E7%A4%BE/dp/B0HDC7JPDJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00009410/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3741/2794/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.british-business-bank.co.uk/case-studies/atomik-am",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Atomik AM — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.directory/company-category/printing/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://atomik-am.com/",
+    "https://www.voxelmatters.com/about/join/",
+    "https://wohlersassociates.com/reference-guides/service-providers/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-factory/",
+    "https://additivemanufacturing.com/am-service-provider/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Atomik AM — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company/atomik-am/",
+    "https://atomiklabz.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://atomik-am.com/aluminium-waste-to-clean-energy/",
+    "https://www.voxelmatters.com/cheer-up-the-metal-am-market-as-a-whole-is-doing-fine/",
+    "https://www.voxelmatters.report/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomik AM — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://threelike.co.jp/products/1651",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vKU-jXhdCVzozB8K6lM0VWZSAn9QA6gjcf81jqYFZa9eUE0se9Z",
+    "https://shop.haimer.com/jp/printpage/a2fda24a8edb46e4beb8c554141dab1b",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.youtube.com/watch?v=JGyWEE4Cgo4",
+    "https://ja.aliexpress.com/item/1005006181118510.html",
+    "https://www.r-info.tohoku.ac.jp/en/62a5bdb0778dd2be2773dada50e693e0.html",
+    "https://atomik-am.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Atomik AM — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.amazon.co.jp/Atomic-Filament-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%811-75mm-%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E5%AF%BE%E5%BF%9C-%E3%82%A2%E3%83%A1%E3%82%B8%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88%E3%82%B8%E3%82%A7%E3%83%A0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E5%8D%8A%E9%80%8F%E6%98%8E%E3%80%811KG/dp/B0BT6XQTHW",
+    "https://www.poly-maker.jp/",
+    "https://skhonpo.com/collections/all/%E6%B6%88%E8%80%97%E5%93%81",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vJ7cNAA6-8IQqZbkaqxt_KjqsEDpJ7m_mHjf1qrzDWuRz_3baao",
+    "https://shop.exmatelab.com/",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://www.brule.co.jp/ultimaker/ultimaker-filament.html?srsltid=AYCX9vI23fWoAqrZGzIY6H1Sn1yieNs1IdxDe-QTRyVXZ_UE_4G51hKJ",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Atomik AM — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://atomik-am.com/",
+    "https://www.voxelmatters.com/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/en/tct/product",
+    "https://www.mmts.co.jp/en/business/products/am-3d.html",
+    "https://www.upnano.com/distributors/",
+    "https://forward-am.com/partners/distributors/",
+    "https://www.voxelmatters.com/am-japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Atomik AM — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://atomik-am.com/",
+    "https://www.upnano.com/distributors/",
+    "https://www.voxelmatters.com/am-japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Atomik AM — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/ワンデー-アキュビュー-オアシス-【BC】9-0【PWR】-1-50-90枚入/dp/B01I15BQ44",
+    "https://www.amazon.co.jp/Bligo-大きいサイズ-L-5XL-カジュアル-トレーナー/dp/B0HF3ZXFBQ",
+    "https://www.amazon.co.jp/ムーンスター-エイトテンス-スニーカー-PROTETMODI/dp/B0D62XXKDR",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/c5a2bdb5-49d6-4304-89f1-130aedcae64d/the-voxelmatters-podcast-the-present-and-future-of-paperless-am-production-workflows-with-am-flow-and-midwest-prototyping",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/0300eef6-4fa8-4f7a-b15c-bece92c5ae3e/voxelmatters-podcast-quintus-technologies'-chad-beamer-on-the-benefits-of-hip-for-am-parts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Atomik AM — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00009410/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/3741/2794/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/g/00250535/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomik AM — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.report/database/",
+    "https://www.british-business-bank.co.uk/case-studies/atomik-am",
+    "https://atomik-am.com/",
+    "https://www.voxelmatters.directory/company-category/3d-printing-directory/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://manufacturingdigital.com/top10/top-10-additive-manufacturing-companies",
+    "https://news.liverpool.ac.uk/2024/04/23/new-spin-out-atomik-am-set-to-reshape-advanced-manufacturing/",
+    "https://compworth.com/company/atomik-am"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Atomik AM — VoxelMatters",
+   "results": [
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Atomik AM — VoxelMatters",
+   "results": [
+    "https://x.com/VELO3DMetal",
+    "https://x.com/voxelmatters",
+    "https://x.com/AtomiKCS",
+    "https://x.com/atomikgrowth",
+    "https://x.com/Atomik_Labz",
+    "https://x.com/AtomikRL",
+    "https://x.com/VoxelMatters/status/2036387917493416329",
+    "https://x.com/isaiahrmartin/status/2117871814625972663"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Atomik AM — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/in/scott-wigen-b3346028",
+    "https://de.linkedin.com/in/gregor-reischle",
+    "https://ae.linkedin.com/in/chinmayphutela",
+    "https://www.linkedin.com/in/eheikkenen",
+    "https://www.linkedin.com/in/robertmiller15",
+    "https://uk.linkedin.com/in/pierre-lin-31741646",
+    "https://uk.linkedin.com/in/nickboone1",
+    "https://it.linkedin.com/in/federica-tiso-178524109",
+    "https://www.linkedin.com/in/daniel-stroh-9313b411",
+    "https://no.linkedin.com/in/bredelaerum"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Atomik AM — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/aerospacenow/posts/in-aerospace-marketing-metal-3d-printing-is-often-framed-as-the-undisputed-futur/122141766993226855/",
+    "https://www.facebook.com/thetuboe/posts/introducing-the-first-ever-fully-3d-printed-tuboe-what-do-you-think-of-the-sound/122138547020900241/",
+    "https://www.facebook.com/groups/2343515562674370/posts/2544812542544670/",
+    "https://www.facebook.com/groups/1805698946200697/posts/3213859212051323/",
+    "https://www.facebook.com/wang.y.ru.1/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/AtomikVmusic/",
+    "https://www.facebook.com/3dPrintingIndustry/posts/atomik-am-secures-600k-to-grow-team-and-advance-patented-sustainable-manufacturi/1106753888151529/",
+    "https://www.facebook.com/AtommikMfg/",
+    "https://www.facebook.com/atomikresearchagency/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Atomik AM — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.youtube.com/watch?v=BHyMEfT19cY",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.additivemanufacturing.media/why-additive-manufacturing-needs-the-executive-perspective/",
+    "https://uk.linkedin.com/in/prof-kate-black-freng-7a214a28"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Atomik AM — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/category/ebooks/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/datasets/",
+    "https://www.youtube.com/watch?v=V7IsFQLjRNU",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

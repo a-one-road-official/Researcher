@@ -1,0 +1,512 @@
+{
+ "name": "Marvel Labs — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:28:56.823039+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "The future will be built on biomaterials. Meaning, on simple biomass and biology. Materials that cost almost nothing, and do most of the work. If you’re a business and want to learn more, contact us. We can become your top-performing supplier.",
+    "url": "https://www.voxelmatters.directory/company/marvel-labs/",
+    "pass": 3
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "We're building Amazon 2.0 And we're doing it with biomass; sourced locally, infinitely scalable, and cost competitive. But why is it important? It's an entirely new way of doing things, and the benefits are staggering: unprecedented reductions in costs, carbon emissions, and labor. The stage is being set for a world of abundance, not scarcity.",
+    "url": "https://www.voxelmatters.directory/company/marvel-labs/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/marvel-labs/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Marvel Labs — VoxelMatters - The largest database of additive ... — The future will be built on biomaterials. Meaning, on simple biomass and biology. Materials that cost almost nothing, and do most of the work. If you’re a business and want to learn more, contact us. We can become your top-performing supplier. Wood In the US, 12.2 million tons/yr of wood ends up in landfills. We rematerialize sawd",
+    "url": "https://www.voxelmatters.directory/company/marvel-labs/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Marvel Labs on LinkedIn: VM Podcast S02E07: Andy Jeffery on ... The timing could not be more perfect and in this newest episode of our #VMpodcast, VoxelMatters Senior Editor Edward Wakefield is your host to explore Marvel Labs uniquely sustainable 3D...",
+    "url": "https://www.linkedin.com/posts/marvellabs_vm-podcast-s02e07-andy-jeffery-on-marvel-activity-7084006768002953216-A5ES",
+    "pass": 3
+   },
+   {
+    "quote": "Jake M. - Founder, CEO at Marvel Labs | LinkedInJake Miller - Biomimetics IntlThe heart of additive manufacturing - VoxelMatters NewsMarvel Labs: Building a Sustainable Future with BiomaterialsMarvel Labs | Deep Tech WeekAndy Jeffery on Marvel Labs and truly sustainable AM Building a global future-positive company, Marvel Labs. Harnessing biology and combining it with advanced manufacturing method",
+    "url": "https://www.linkedin.com/in/hfcghvhkj76tf6fdsa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters - New Spin-off Vulcan Labs Inc. launched by...Marvel Labs - FacebookLegacy Effects changed the game on the set of Superman (2025 ...VoxelMatters - Aurora Labs metal AM process has exceeded ...VoxelMatters - 9T Labs introduces the fibrifyTM software...Marvellabs - Welcome to our page Marvellabs - Facebook Unlock the Future of Metal Additive Manufacturing with Vox",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/our-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/meet-the-four-companies-enabling-deployable-3d-printing-in-the-battlefield/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://marvellabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/marvel-labs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marvell.com/company/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005009846651010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://store.animax.co.jp/products/MCAN013",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vJsSZO4-gOITwpcF1UMBarxvihpdLGUWU0b2c2Z4i31Ro0mdHu3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vK2r5m0pN7rLAbN52tP1fmEcSf30UQ2nMiZNYBhDy7riC0n1fcC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/LEGO-Marvel-Iron-Man-Labs/dp/B0DHSDK7GR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/LIHITLAB/page/A098008D-9E97-40CD-94DE-04276ACBB530",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E6%AD%A2%E3%82%81%E9%87%91%E5%85%B7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/08345000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0807/1707/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/marvellabs_vm-podcast-s02e07-andy-jeffery-on-marvel-activity-7084006768002953216-A5ES",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hfcghvhkj76tf6fdsa",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Marvel Labs — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/meet-the-four-companies-enabling-deployable-3d-printing-in-the-battlefield/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.3dlabmanufacturing.com/trusted-partners.html",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://marvellabs.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://marvellabs.com/",
+    "https://www.voxelmatters.directory/company/marvel-labs/",
+    "https://www.marvell.com/company/contact.html",
+    "https://www.instagram.com/antenna_ts/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.marvelcorp.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://store.animax.co.jp/products/MCAN013",
+    "https://www.youtube.com/watch?v=JGyWEE4Cgo4",
+    "https://www.kkday.com/ja/product/827334?srsltid=AYCX9vIdl6J3SLAgdh3cTA5suXp6MVZ46Y0n6dBp6Mj0SZO4zKWaT0bT",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://s.nanolab.jp/",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://marvellabs.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://voxelpla.com/?srsltid=AYCX9vJsSZO4-gOITwpcF1UMBarxvihpdLGUWU0b2c2Z4i31Ro0mdHu3",
+    "https://skhonpo.com/collections/filament",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vK2r5m0pN7rLAbN52tP1fmEcSf30UQ2nMiZNYBhDy7riC0n1fcC",
+    "https://shop.exmatelab.com/",
+    "https://www.amazon.com/voxel-pla/s?k=voxel+pla",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://www.monotaro.com/s/attr_f5139-%E3%82%A8%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%83%BC/q-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%20pla/?fpu=0&srsltid=AYCX9vKY5inkCTXa7tDiUAGrUAaOehhsujNJN-9VlrYgj39Jq7VgxEsF",
+    "https://www.reddit.com/r/3Dprinting/comments/1gxjy50/thoughts_on_voxel_pla_and_petgfilament/?tl=ja",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.marvell.com/company/sales/japan.html",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://www.voxelmatters.group/",
+    "https://marvellabs.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://www.voxelmatters.directory/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Marvel Labs — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/LEGO-Marvel-Iron-Man-Labs/dp/B0DHSDK7GR",
+    "https://www.amazon.co.jp/stores/LIHITLAB/page/A098008D-9E97-40CD-94DE-04276ACBB530",
+    "https://r.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://music.amazon.co.jp/podcasts/90b31acf-f4b4-45f3-a9fe-5ac5065fe0b8/episodes/1768cc1a-45e0-4f5a-a42f-c00a0cad5b95/south-bay-business-growth-by-voxel-micro-video-labs-why-voxel-labs-beat-traditional-soundstages-record-a-month-of-content-in-one-afternoon",
+    "https://business.amazon.co.jp/",
+    "https://music.amazon.co.jp/podcasts/90b31acf-f4b4-45f3-a9fe-5ac5065fe0b8/episodes/b50982d2-6466-411c-940b-e1e34da01d32/south-bay-business-growth-by-voxel-micro-video-labs-capturing-defense-tech-giants-how-niche-video-content-wins-the-south-bay-arms-race-1-31-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Marvel Labs — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/k/store/スタイロフォーム止め金具/",
+    "https://www.monotaro.com/g/08345000/",
+    "https://www.monotaro.com/p/0807/1707/",
+    "https://www.monotaro.com/g/00213068/",
+    "https://www.monotaro.com/g/00010501/",
+    "https://www.monotaro.com/g/08050382/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters employees revenue parent company",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Marvel Labs — VoxelMatters",
+   "results": [
+    "https://note.com/kongo_jun/n/n7aaa83e12538",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/hunter_5160/n/n05a6b0815fb8",
+    "https://note.com/nashinokiyuu/n/n0a96e17802dc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Marvel Labs — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/MarvelLabs3D",
+    "https://x.com/marvel_labs",
+    "https://x.com/themarvellabs",
+    "https://x.com/marvelmatters",
+    "https://x.com/VoxelTwisted/status/2115831898622624066",
+    "https://x.com/VoxelMatters/status/2117637105631326304"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Marvel Labs — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/marvellabs_vm-podcast-s02e07-andy-jeffery-on-marvel-activity-7084006768002953216-A5ES",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://zw.linkedin.com/posts/davide-sher_tct-awards-2023-to-celebrate-am-industry-activity-7066344496703127552-3Xju",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://jp.linkedin.com/posts/sharelab-jp_金属am市場2034年に6兆円規模へvoxelmattersが最新市場レポート-activity-7328240169818505216-MPiF"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Marvel Labs — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/new-spin-off-vulcan-labs-inc-launched-by-stratasys-for-pbf-optimization/901611820010944/",
+    "https://www.facebook.com/Marvel-Labs-106219584497930/",
+    "https://www.facebook.com/VoxelMatters/posts/aurora-labs-metal-am-process-has-exceeded-astm-standards-for-tensile-strength-an/1433727706799350/",
+    "https://www.facebook.com/VoxelMatters/posts/9t-labs-introduces-the-fibrifytm-software-environment-july-7th-2pm-bstin-this-we/1551897688315684/",
+    "https://www.facebook.com/Marvellabs/posts/welcome-to-our-page-marvellabs/183480621729444/",
+    "https://www.facebook.com/VoxelMatters/videos/legacy-effects-changed-the-game-on-the-set-of-superman-2025-they-used-bambu-lab-/920879230825681/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters note 社長",
+   "results": [
+    "https://marvellabs.com/",
+    "https://www.linkedin.com/in/hfcghvhkj76tf6fdsa",
+    "https://www.voxelmatters.com/",
+    "https://www.chasingrainbows.vc/blog/marvel-labs-building-a-sustainable-future-with-biomaterials",
+    "https://www.deep-tech-week.com/organizations/marvel-labs",
+    "https://www.voxelmatters.com/vm-podcast-s02e07-andy-jeffery-on-marvel-labs-and-truly-sustainable-am/",
+    "https://www.biomimeticsinternational.com/speakers/jake-miller"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marvel Labs — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/MarvelLabs3D",
+    "https://marvellabs.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://marvellabs.com/collections/all",
+    "https://www.voxelmatters.com/vm-podcast-s02e07-andy-jeffery-on-marvel-labs-and-truly-sustainable-am/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）"
+ }
+}

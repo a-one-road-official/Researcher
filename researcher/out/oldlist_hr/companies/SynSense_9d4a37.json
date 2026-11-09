@@ -1,0 +1,1167 @@
+{
+ "name": "SynSense",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-09T19:16:14.379017+00:00",
+ "official_url": "https://www.synsense.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.synsense.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Forming a comprehensive full-stack \"Sense + Compute\" capability",
+    "url": "https://www.synsense.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SynSense, powered by its core neuromorphic intelligence technology, offers products widely applicable in scenarios such as intelligent interaction (AR/VR), intelligent monitoring, smart livestock farming, intelligent security, industrial monitoring, smart vehicles and etc.",
+    "url": "https://www.synsense.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized by industry authorities, the company serves as a key chain leader in advancing ecosystem commercialization. We have established collaborations including Huawei, CETHIK, and Ningxia State Farm, and signed a proof-of-concept (POC) agreement with PICO, jointly accelerating the industrialization of neuromorphic technologies.",
+    "url": "https://www.synsense.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Physical/Chemical Property Testing",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare test plans, test reports, and related technical documents to ensure the integrity and traceability of test data.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Optimization Support",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with electrode R&D and production line teams on sample validation, and provide constructive feedback based on practical testing.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Participate in establishing quality standards and control processes for electrode products.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Master’s degree or above in Microelectronics, Semiconductor, Physics, Materials, Electronic Engineering, or a related field. 3-5 years of experience in electrode testing or related hardware testing. Familiarity with testing and using neural probes (e.g., microelectrode arrays) or BCI chips is preferred.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Qualifications",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Equipment Operation: Proficient in operating test equipment such as electrochemical workstations and impedance analyzers. Knowledge of characterization tools like SEM and profilometers is required.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Professional Knowledge: Familiar with key electrode performance metrics (impedance, charge injection capacity, signal-to-noise ratio, etc.) and their testing methodologies. Familiar with applying CNN, LSTM, Transformer in sequence data modeling.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred Qualifications",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Neural Signal Processing and Decoding",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop decoding algorithms and conduct data processing/analysis for neural signals (e.g., EEG, ECoG, single-unit Spikes, peripheral nerve signals) in BCI systems. Design and implement algorithms for signal preprocessing (denoising, filtering, artifact removal), feature extraction, and neural decoding.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Establish a neural signal annotation system, analyze the correlation between data and physiological function, and build an automated processing pipeline from raw data to feature space.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with hardware/embedded teams on system integration and debugging to ensure algorithm effectiveness in practical implantable systems. Able to operate signal acquisition equipment and assist in designing acquisition protocols and experiments.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Master’s degree or above in Neural Engineering, Biomedical Engineering, Computer Science, Signal Processing, or a related field. 5+ years of experience in signal processing / machine learning algorithm development.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Signal Processing Skills: Familiar with characteristics and processing methods of neural signals (EEG, ECoG, EMG, spike potentials, etc.). Proficient in signal processing techniques like wavelet transform, time-frequency analysis, and independent component analysis.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Machine/Deep Learning Skills: Proficient in Python (or MATLAB) for data processing. Experienced in machine learning algorithms (SVM, Random Forest, XGBoost) or deep learning frameworks (PyTorch/TensorFlow). Familiar with applying CNN, LSTM, Transformer in sequence data modeling.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Mathematical Foundation: Solid mathematical background, familiar with probability theory, statistics, linear algebra, and optimization theory.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience with invasive BCIs (Spike/LFP decoding) is preferred. Experience in closed-loop neuromodulation algorithm development is a plus. Publications in top-tier conferences or patents are advantageous.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Analog & Mixed-Signal Circuit Design: Design low-noise, low-power analog front-end (AFE) circuits for neural signal recording, including key modules such as instrumentation amplifiers, filters, and analog-to-digital converters (ADCs). Possess design experience with large-scale ADCs, on-chip signal processing, and high-density sensor interfaces.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Logic & System Integration: Responsible for chip digital logic design (RTL design, synthesis, STA, etc.), support FPGA prototype verification, and lead chip layout design, verification, tape-out, and interaction with foundries.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Analog/Mixed-Signal Skills: Solid professional background in analog and mixed-signal IC design, familiar with the design of modules such as low-noise instrumentation amplifiers, SAR/ΔΣ ADCs, DACs, and PLLs.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Digital Design Skills: Proficient in Verilog/SystemVerilog, familiar with ASIC front-end design flow (RTL design, synthesis, formal verification, STA), and knowledgeable about DFT design.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Tools & Platforms: Proficient in using EDA tools such as Cadence Virtuoso, Synopsys, or Mentor for full-custom circuit design and simulation.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "· Interdisciplinary Collaboration: Ability to collaborate closely with neuroscience and materials science teams, and capable of professional technical communication in English.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Monitoring: High-Precision Displacement Monitoring System",
+    "url": "https://www.synsense.ai/neuromorphic-intelligence-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "SynSense leverages the high-dynamic vision monitoring capabilities of its neuromorphic chips to launch two solutions: an automated calf behavior monitoring system and a precision spraying control system for cows.",
+    "url": "https://www.synsense.ai/neuromorphic-intelligence-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The automated calf behavior monitoring system enables real-time event-based analysis of calf activity levels, providing early warning of abnormal behaviors and effectively replacing traditional inspection methods that rely on manual experience.",
+    "url": "https://www.synsense.ai/neuromorphic-intelligence-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The precision cow spraying control system utilizes the unique characteristics of neuromorphic technology to achieve “on-demand spraying.” This ensures cow welfare and alleviates heat stress while achieving efficient water utilization.",
+    "url": "https://www.synsense.ai/neuromorphic-intelligence-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Its technology is built around the principles of sensing-computing integration and ultra-low power consumption, enabling highly efficient and responsive intelligent systems .",
+    "url": "https://www.synsense.ai/about-us-2/",
+    "pass": 1
+   },
+   {
+    "quote": "SynSense has earned prestigious accolades including the CES Innovation Award and the Ministry of Science and Technology’s Disruptive Innovation Award. Looking ahead, the company plans to expand into the upstream brain-computer ecosystem by integrating “electrode + chip” modules, contributing China’s vision and solutions to the global AI industry.",
+    "url": "https://www.synsense.ai/about-us-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Intelligence Premium Products List",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Top 50 Most Valuable Investment Enterprise",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Watson Build -Synrad Enterprise",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Outstanding Product Award, 2021 CHTF",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "2020 Innovation and Entrepreneurship Competition",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Maker China\" Shanghai SME Innovation and Entrepreneurship Competition",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Group Third Prize",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Second Prize of \"Golden Panda\"",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Startup/Entrepreneur Award,",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting-edge Enterprises",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Enterprise Innovation",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice Summit,",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "and Development Project,",
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "SynSenseのSpeckモジュールに搭載されているDVSカメラはスイスのIniVation製だが、SynSenseはフランスのPropheseeとも提携して、さまざまな市場をターゲットにした、より高解像度なモジュールも開発している",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "pass": 3
+   },
+   {
+    "quote": "2nm微細化の効果は絶大、Apple新スマホチップ「A20 Pro」分解",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "pass": 3
+   },
+   {
+    "quote": "Official Product Page",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "The Speck is an ultra-low power event-driven neuromorphic processor combined with an event-driven vision sensor on a single chip. It was developed by SynSense AG, a neuromorphic engineering startup based in Zurich, Switzerland.",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "It comprises 9 layers of convolution combined with pooling, that can be freely connected to each other. The layers can additionally be operated as dense fully connected layers for last layer classification.",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "It has additional input preprocessing and decision readout blocks to make it out-of-the-box integratable in diverse environments and use cases.",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "https://pypi.org/project/samna/",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "April 2022",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "Speck: A Smart event-based Vision Sensor with a low latency 327K Neuron Convolutional Neuronal Network Processing Pipeline",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "Ole Richter, Yannan Xing, Michele De Marchi, Carsten Nielsen, Merkourios Katsimpris, Roberto Cattaneo, Yudi Ren, Qian Liu, Sadique Sheik, Tugba Demirci, Ning Qiao",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "CVPR 2019",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "SynSense, powered by its core neuromorphic intelligence technology, offers products widely applicable in scenarios such as intelligent interaction (AR/VR), intelligent monitoring, smart livestock farming, intelligent security, industrial monitoring, smart vehicles and etc.",
+    "url": "https://www.synsense.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized by industry authorities, the company serves as a key chain leader in advancing ecosystem commercialization. We have established collaborations including Huawei, CETHIK, and Ningxia State Farm, and signed a proof-of-concept (POC) agreement with PICO, jointly accelerating the industrialization of neuromorphic technologies.",
+    "url": "https://www.synsense.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with electrode R&D and production line teams on sample validation, and provide constructive feedback based on practical testing.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with hardware/embedded teams on system integration and debugging to ensure algorithm effectiveness in practical implantable systems. Able to operate signal acquisition equipment and assist in designing acquisition protocols and experiments.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Execute in vivo electrophysiological testing for BCI systems and implantable neural electrodes in both small and large animal models.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor and advance electrophysiological animal experiments for implantable electrodes and BCI systems, ensuring adherence to the experimental timeline.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Establish neuro-electrophysiology experimental platforms, perform electrode implantation surgeries, and conduct electrophysiological data analysis.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "3-5 years of relevant experience, familiar with various implantable neural electrodes, and experienced in animal neuro-electrophysiology, neural electrode, or optogenetics experiments. Able to analyze and address experimental observations and outcomes. Experience with large animal models (e.g., pigs, non-human primates) is a plus.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead the design of animal implantation surgical protocols for invasive neural electrodes, and plan acute/chronic electrophysiological data acquisition experiments.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "3-5 years of electrode R&D experience, familiar with flexible electronic materials, electrode interfacial electrochemistry, and micro-nano manufacturing technologies. Experience in BCI or electrode sensor development is preferred. Proficient in at least one electrode fabrication process, such as sputtering, screen printing, photolithography, electrodeposition, or 3D printing.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Electrode R&D Engineer / Implant Engineer",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive biocompatibility testing of electrode materials to meet biosafety requirements for implantable medical devices.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "3‑5 years of experience in micro‑/nano‑fabrication or electrode R&D. Experience in MEMS, flexible electronics, or implantable medical device R&D is preferred.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Line Construction Expert",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Line Planning and Design",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead production line layout design, and process definition for invasive BCI products (e.g., implantable electrodes, neural signal processors).",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive the transition of micro/nano-electrode manufacturing processes from R&D to mass production, establishing process standards, work instructions, and quality control protocols.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously optimize production processes to improve line yield and capacity while reducing manufacturing costs.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bachelor’s degree or above in Mechanical Engineering, Microelectronics, Materials Engineering, Industrial Engineering, or a related field.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor NMPA/FDA registration regulations for Class III active implantable medical devices, and drive the translation of products from R&D to clinical trials",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The company is actively integrating into upstream BCI ecosystems by combining electrodes and core chips to enable scalable applications. Through cutting-edge neuromorphic chips, we aim to accelerate the industrialization of BCI and HCI, building a bridge between humans, the physical world, and digital systems while advancing global AI innovation.",
+    "url": "https://www.synsense.ai/neuromorphic-intelligence-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Electronic Supply & Manufacturing China",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Master’s degree or above in Microelectronics, Semiconductor, Physics, Materials, Electronic Engineering, or a related field. 3-5 years of experience in electrode testing or related hardware testing. Familiarity with testing and using neural probes (e.g., microelectrode arrays) or BCI chips is preferred.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with hardware/embedded teams on system integration and debugging to ensure algorithm effectiveness in practical implantable systems. Able to operate signal acquisition equipment and assist in designing acquisition protocols and experiments.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Chip Architecture Design: Responsible for the system architecture design of invasive brain-computer interface chips, including defining the architecture of ultra-high-channel-count CMOS microelectrode array neural recording and stimulation chips.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Experiment Monitoring & Data Acquisition",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead the design of animal implantation surgical protocols for invasive neural electrodes, and plan acute/chronic electrophysiological data acquisition experiments.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Acquisition and Analysis",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Conduct neural signal acquisition, preprocessing, and analysis, and provide guidance on data quality assessment and noise troubleshooting.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Contribute to the development of technical solutions for diverse interfaces, such as ECoG and penetrating microelectrode arrays.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop and optimize micro/nano-fabrication and packaging processes for biosignal acquisition electrodes (e.g., sputtering, photolithography, electrodeposition, 3D printing).",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Conduct product design, material selection, and process development for invasive neural electrodes, including flexible microelectrodes and high-density electrode arrays.",
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は少し前に、ニューロモーフィック・ビジョンセンサーを開発するスイスのiniVationを子会社化し、技術力を強化した",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "動画生成AI「Kling AI」、約4800億円を調達 評価額は2.8兆円、香港IPOも視野",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円台の小型ヒューマノイドで注目、中国「Noetix Robotics」が香港IPOを準備か",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の上場企業、1～9月純利益8.5％増 半導体関連は2.9倍、ハイテク産業がけん引",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "中国本土株式市場に上場する5578社の1～9月期決算が出そろった",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "中国上場企業協会はこのほど、本土上場企業の1～9月の売上高は前年同期比5.9％増の56兆8000億元（約1363兆2000億円）、純利益は8.5％増の5兆 […]",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   },
+   {
+    "quote": "To view SynSense’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense has 100 total employees.",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   },
+   {
+    "quote": "What is SynSense’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SynSense is",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "人間の脳を模した超高速の演算システムを開発、テック新興「SynSense」がサムスンなどから資金調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のDXを促進するプラットフォーム「CONNECTO」",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省山間地域の養殖キャビア、日本市場に進出",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省黔南（けんなん）プイ族ミャオ族自治州恵水県にある布塔尼食品が、キャビアの日本向け輸出を本格化させている",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の張翠蘭董事長は、今年すでに計500キロのキャビアを日本に輸出しており、年末には1トンを突破し、生産額 […]",
+    "url": "https://36kr.jp/300900/",
+    "pass": 3
+   },
+   {
+    "quote": "人の動作をまねるロボット、ニューロモーフィックを搭載：スイスSynSenseがチップを開発（1/2 ページ） - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITmediaはアイティメディア株式会社の登録商標です",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SynSense : Neuromorphic Intelligence & Application Solutions — SynSense : Neuromorphic Intelligence & Application Solutions SynSense https://www.synsense.ai",
+    "url": "https://www.synsense.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense | LinkedIn — SynSense | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "pass": 3
+   },
+   {
+    "quote": "A Look at Speck - SynSense - Neuromorphic Chip — A Look at Speck - SynSense - Neuromorphic Chip Open Neuromorphic https://open-neuromorphic.org > spec...",
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense - M Ventures — SynSense - M Ventures M Ventures https://www.m-ventures.com > synsense",
+    "url": "https://www.m-ventures.com/portfolio/synsense",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense and Prophesee develop one-chip event-based ... — SynSense and Prophesee develop one-chip event-based ... Prophesee https://www.prophesee.ai > 2021/10/15",
+    "url": "https://www.prophesee.ai/2021/10/15/synsense-prophesee-neuromorphic-processing-and-sensing/",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense 2026 Company Profile - PitchBook — SynSense 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense's Competitors, Revenue , Number of Employees ... — SynSense's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > aictx",
+    "url": "https://www.owler.com/company/aictx",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense - 2026 Company Profile & Team - Tracxn — SynSense - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/synsense/__JSKRuzpG-21HQ3_RrriR9LV9UU7znKY0_AEjLrZAN1c",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense - Crunchbase Company Profile & Funding — SynSense - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > aictx",
+    "url": "https://www.crunchbase.com/organization/aictx",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense Stock Price, Funding , Valuation ... - CB Insights — SynSense Stock Price, Funding , Valuation ... - CB Insights CB Insights https://www.cbinsights.com > financials",
+    "url": "https://www.cbinsights.com/company/synsense/financials",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Post - X Post - X X https://x.com > @SynSenseNeuro",
+    "url": "https://x.com/SynSenseNeuro/status/1798624832529236377",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense - X SynSense - X X https://x.com > @SynSenseNeuro",
+    "url": "https://x.com/SynSenseNeuro/status/1641760541655056384/photo/1",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense - X SynSense - X X https://x.com > @SynSenseNeuro",
+    "url": "https://x.com/SynSenseNeuro/status/1636294828664422401/photo/1",
+    "pass": 3
+   },
+   {
+    "quote": "# SynSense - Search / X # SynSense - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/SynSense",
+    "pass": 3
+   },
+   {
+    "quote": "Post - X Post - X X https://x.com > @SynSenseNeuro",
+    "url": "https://x.com/SynSenseNeuro/status/1704075699127193998",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SynSense | LinkedIn SynSense | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "pass": 3
+   },
+   {
+    "quote": "Ning Qiao – CEO at SynSense | LinkedIn Ning Qiao – CEO at SynSense | LinkedIn LinkedIn Schweiz https://ch.linkedin.com > ...",
+    "url": "https://ch.linkedin.com/in/ning-qiao-440902b2",
+    "pass": 3
+   },
+   {
+    "quote": "# synsense #neuromorphic #bci #nextgenerationai - LinkedIn # synsense #neuromorphic #bci #nextgenerationai - LinkedIn LinkedIn https://www.linkedin.com > posts > sy...",
+    "url": "https://www.linkedin.com/posts/synsense-neuromorphic_synsense-neuromorphic-bci-activity-7524365283621273600-Ud2F",
+    "pass": 3
+   },
+   {
+    "quote": "SynSense - 领英 SynSense - 领英 LinkedIn https://cn.linkedin.com > company",
+    "url": "https://cn.linkedin.com/company/synsense-neuromorphic",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Synsense (@ synsense .org) - Facebook Synsense (@ synsense .org) - Facebook Facebook https://www.facebook.com > ... > Health & wellness website",
+    "url": "https://www.facebook.com/synsense.org/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.synsense.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synsense.ai/neuromorphic-intelligence-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synsense.ai/about-us-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synsense.ai/wp-content/uploads/2022/04/solutions-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.synsense.ai/about-us-2/awards-recognition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synsense.ai/about-us-2/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://36kr.jp/300900/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanoxeed.co.jp/product/synsense_speck/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000236.000073671.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinkoh-elecs.jp/business/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sensata.com/sites/default/files/a/sensata-japan-distributor-list-2025.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.proface.com/ja/support/distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-ventures.com/portfolio/synsense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL1PA_7Plu09yDHVdcK6zYMQgRplfa3jHChaulz_NgNbyFKNLcy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/179658-19",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.owler.com/company/aictx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/synsense/__JSKRuzpG-21HQ3_RrriR9LV9UU7znKY0_AEjLrZAN1c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/aictx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SynSenseNeuro/status/1798624832529236377",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SynSenseNeuro/status/1641760541655056384/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SynSenseNeuro/status/1636294828664422401/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/SynSense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/ning-qiao-440902b2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/synsense-neuromorphic_synsense-neuromorphic-bci-activity-7524365283621273600-Ud2F",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/synsense.org/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/company/synsense-neuromorphic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SynSenseNeuro/status/1704075699127193998",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SynSense 日本 導入",
+   "results": [
+    "https://36kr.jp/300900/",
+    "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "https://nanoxeed.co.jp/product/synsense_speck/",
+    "https://prtimes.jp/main/html/rd/p/000000236.000073671.html",
+    "https://blogs.nvidia.co.jp/blog/japan-innovators-physical-ai-omniverse/",
+    "https://www.autocar.jp/post/1254725",
+    "https://www.mobilitydx.go.jp/event/pdf/ev05_05pdf_ito.pdf",
+    "https://www.astamuse.co.jp/report/2024/240711-nuro/",
+    "https://www.synsense.ai/",
+    "https://distymap.com/manufacturers/synsense"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "SynSense 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "https://www.shinkoh-elecs.jp/business/agency/",
+    "https://www.sensata.com/sites/default/files/a/sensata-japan-distributor-list-2025.pdf",
+    "https://www.proface.com/ja/support/distributor",
+    "https://jp.tdsynnex.com/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3006",
+    "https://products.sint.co.jp/siob/price/distributor",
+    "https://www.pagerduty.co.jp/topics/8565/",
+    "https://metoree.com/companies/11406/distributors/",
+    "https://www.synsense.ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SynSense Japan",
+   "results": [
+    "https://www.synsense.ai/",
+    "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "https://open-neuromorphic.org/neuromorphic-computing/hardware/speck-synsense/",
+    "https://www.m-ventures.com/portfolio/synsense",
+    "https://www.prophesee.ai/2021/10/15/synsense-prophesee-neuromorphic-processing-and-sensing/",
+    "https://eetimes.itmedia.co.jp/ee/articles/2305/26/news114.html",
+    "https://www.preqin.com/data/profile/asset/synsense/301956",
+    "https://github.com/synsense",
+    "https://www.synsense.ai/contact-2/",
+    "https://www.synsense.ai/about-us-2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SynSense manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL1PA_7Plu09yDHVdcK6zYMQgRplfa3jHChaulz_NgNbyFKNLcy",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://iopscience.iop.org/article/10.1088/1742-6596/1969/1/012019",
+    "https://c3.ai/customers",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://asiagrowthpartners.com/supplier/synsense/case-study/v3510"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SynSense white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.agentz.ai/partners",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.synsense.ai/synsense-and-inivation-join-forces-to-form-leading-neuromorphic-technology-provider/",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SynSense founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/179658-19",
+    "https://www.owler.com/company/aictx",
+    "https://tracxn.com/d/companies/synsense/__JSKRuzpG-21HQ3_RrriR9LV9UU7znKY0_AEjLrZAN1c",
+    "https://www.crunchbase.com/organization/aictx",
+    "https://www.cbinsights.com/company/synsense/financials",
+    "https://www.synsense.ai/synsense-closes-strategic-round-to-accelerate-the-development-of-their-high-speed-3d-neuromorphic-processor-dynap-cnn2/",
+    "https://equityzen.com/company/aictx/",
+    "https://app.dealroom.co/news/feed/synsense-raises-hundreds-of-millions-of-yuan-in-series-b-funding-led-by-state-backed-investors",
+    "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "https://fundediq.co/synsense-synsense-ai-funding/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com SynSense",
+   "results": [
+    "https://note.com/yamaken910/m/me4dc3bf2e556/hashtag/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AD%E3%83%A2%E3%83%BC%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5",
+    "https://note.com/yueji/n/n2e9f16c1620f?hl=en",
+    "https://note.com/yueji/n/n3f1d8fda8ec5",
+    "https://note.com/yamaken910/n/nedfc8ac18e0a",
+    "https://note.com/yamaken910/n/n1b28a8801ed8?hl=en",
+    "https://note.com/betaitohuman/n/ncfc08a59b862",
+    "https://note.com/lakesidev/n/nf069bb721176",
+    "https://note.com/kyupu624/n/ndb08bce9589b?hl=en",
+    "https://note.com/qy_research/n/na2833adbb5b0",
+    "https://note.com/scra/n/n77a9027260b3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com SynSense",
+   "results": [
+    "https://x.com/SynSenseNeuro/status/1798624832529236377",
+    "https://x.com/SynSenseNeuro/status/1641760541655056384/photo/1",
+    "https://x.com/SynSenseNeuro/status/1636294828664422401/photo/1",
+    "https://x.com/hashtag/SynSense",
+    "https://x.com/SynSenseNeuro/status/1646722517833506816",
+    "https://x.com/SynSenseNeuro/status/1635458507620352003",
+    "https://x.com/SynSenseNeuro/status/1704075699127193998",
+    "https://x.com/SynSenseNeuro/status/1844661115369742447",
+    "https://x.com/SynSenseNeuro/status/1646720085120421889",
+    "https://x.com/SynSenseNeuro/status/1743180256360747136"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com SynSense",
+   "results": [
+    "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "https://ch.linkedin.com/in/ning-qiao-440902b2",
+    "https://www.linkedin.com/posts/kynaneng_cool-work-on-extreme-low-power-eye-tracking-activity-7401595355232014336-GDKJ",
+    "https://www.linkedin.com/posts/synsense-neuromorphic_synsense-neuromorphic-bci-activity-7524365283621273600-Ud2F",
+    "https://www.linkedin.com/products/synsense-neuromorphic-dynapcnn-worlds-first-fully-eventdriven-dynamic-vision-processor/",
+    "https://www.linkedin.com/products/synsense-neuromorphic-speck-worlds-first-fully-eventdriven-smart-vision-sensor-soc/",
+    "https://ch.linkedin.com/in/kynaneng",
+    "https://ch.linkedin.com/in/tugba-demirci-7209523",
+    "https://www.linkedin.com/posts/synsense-neuromorphic_synsense-neuromorphiccomputing-eventbasedvision-activity-7391008452988346368-zkKp",
+    "https://ch.linkedin.com/in/arslan-ali-1804bbb1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com SynSense",
+   "results": [
+    "https://www.facebook.com/synsense.org/",
+    "https://www.facebook.com/groups/1953229231422322/posts/27343178325334063/",
+    "https://www.facebook.com/chandresh.mehta.984/posts/a-neuromorphic-chip-is-a-processor-designed-to-mimic-how-the-brain-works-instead/4392846634298477/",
+    "https://www.facebook.com/polarismarketresearchreports/posts/neuromorphic-industrial-vision-market-is-set-for-rapid-growththe-global-neuromor/1634819478661634/",
+    "https://www.facebook.com/EIStudents/posts/new-to-inspire-launch-grow-this-year-is-the-entrepreneur-of-the-year-award-and-w/1067665208060390/",
+    "https://www.facebook.com/MicronTechUSA/videos/the-next-generation-of-automotive-intelligence-has-arrived-microns-automotive-uf/701996692956304/",
+    "https://www.facebook.com/SwissConsulateHongkong/posts/earlier-this-month-the-epic-grand-final-organised-by-hong-kong-science-park-tran/1168702962033175/",
+    "https://www.facebook.com/StartupSelfieOfficial/videos/micro-metal-car-with-ai-mood-detection/529351013428565/",
+    "https://www.facebook.com/somtomofficial/posts/a-team-in-singapore-has-engineered-a-flexible-artificial-skin-embedded-with-tiny/1384503143130742/",
+    "https://www.facebook.com/ModernManufacturingNews/posts/-%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BD%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B0-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BD%F0%9D%98%82%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5-semiconductor-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%8A%E0%B8%B4%E0%B8%9B%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88/1487032756777182/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SynSense note 社長",
+   "results": [
+    "https://www.m-ventures.com/portfolio/synsense",
+    "https://neuromorphiccore.ai/insights/synsense-ag/",
+    "https://cn.linkedin.com/company/synsense-neuromorphic",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.synspective.com/career/dimension-note/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.instagram.com/p/DQq0taMEywh/",
+    "https://note.jp/n/n61ffb9f9bf8f",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SynSense X 投稿",
+   "results": [
+    "https://www.synsense.ai/",
+    "https://x.com/SynSenseNeuro/status/1704075699127193998",
+    "https://www.linkedin.com/company/synsense-neuromorphic/",
+    "https://github.com/synsense",
+    "https://open-neuromorphic.org/neuromorphic-computing/hardware/xylo-synsense/",
+    "https://www.hackster.io/news/synsense-launches-speck-xylo-neuromorphic-development-kits-for-edge-ai-vision-and-audio-work-2897f0e6a7ac",
+    "https://www.mwcbarcelona.com/exhibitors/35705-synsense",
+    "https://neuromorphiccore.ai/insights/synsense-ag/",
+    "https://x.com/synsenseneuro",
+    "https://www.synsense.ai/developercommunity/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

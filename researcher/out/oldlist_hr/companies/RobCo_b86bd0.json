@@ -1,0 +1,1678 @@
+{
+ "name": "RobCo",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-09T19:11:21.664063+00:00",
+ "official_url": "https://www.rob.co/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Investors",
+    "value": "Lightspeed Venture Partners, Sequoia Capital, Lingotto Innovation, Kindred Capital, Greenfield Partners, Leitmotif, Promus Ventures",
+    "url": "https://www.rob.co/company/robco-gmbh",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Adapts and improves, powered by Physical AI",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Alfie masters the variability traditional robotics can’t — pairing bimanual precision with self-learning Physical AI to automate what was previously impossible. The end of rigid automation.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Product, Powered by RobCo",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-develop your own robotics product on RobCo’s field-validated hardware and AI stack — from prototype to series production. You keep brand sovereignty and the customer relationship; we bring the proven foundation.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "One partner for software, hardware and integration — RobCo designs, deploys and continuously improves the entire cell, delivered as a service with zero upfront CapEx and ROI from day one.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "No machines to buy, no integrators to coordinate, no risk to underwrite. You pay a predictable monthly rate — we own, deploy, maintain and continuously improve the robotics. One partner, no complexity.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Six- to seven-figure CapEx approval before line one runs",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Rigid, single-purpose hardware that depreciates on your books",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "You carry the risk if the product mix changes",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Modular robotics that re-deploy as your production changes",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Physical AI that keeps improving the cell after go-live",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "upfront — one predictable monthly rate",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer solutions for a wide variety of industrial applications — automate flexibly across your production.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“Together with RobCo, we’re thinking beyond traditional boundaries and preparing our production for the future.”",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President CNC Machining Technology at Rosenberger",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“With RobCo as a partner, we are setting new standards in automation: Tailor-made solutions for our customers, maximum flexibility thanks to modular design and rapid adaptation thanks to no-code programming - with RobCo, we are actively and successfully shaping the sustainable further development of our business model.”",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Product news, customer stories and lessons from automating real production lines.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how our Autonomous Industrial Robotics can help your business cut costs, boost productivity, and scale automation.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Automation | Robotic Processes Made Simple",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "RobCo's modular robots and AI-powered software run manufacturing processes on their own, from assembly automation to palletizing.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Modular hardware makes flexible manufacturing possible, so one production robot can be reconfigured as your needs change.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Each system integrates with your existing machines, so even brownfield sites can automate with no full production line replacement",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Cost & Operational Pressures",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "High domestic production costs and competitive pressure demand practical solutions to compete with global markets.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automating manual tasks without risking production downtime.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Building reliable operating processes and quality assurance that drive success.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing automation refers to the targeted use of advanced automation technologies such as our modular robot hardware combined with AI-powered software. Together, they make production processes autonomous, efficient and as error-free as possible.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The aim is to make processes more flexible, cost-effective and future-proof. Unlike robotic process automation (RPA), which automates digital paperwork, manufacturing automation works on the physical production floor. It is a role-shifter, moving employees from dull, dangerous tasks to tech-driven oversight roles without the need for full production line replacement.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing process automation is not all-or-nothing. You can automate a single manufacturing process first, then move from partial automation toward a fully automated production line once the case proves out.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Use Cases for Modular Robots in Production Automation",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our Autonomous Industrial Robotics offer practical manufacturing automation systems for key application areas in the manufacturing industry.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The advantages of automated production at a glance",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our Robotics-as-a-Service (RaaS) model lets you adopt automation incrementally and prove value quickly with zero upfront investment.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized production processes eliminate manual intervention and streamline your daily operations.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable systems help you meet rising market demand and navigate ongoing cost pressures.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Standardized automation routines ensure consistent production outputs and minimize error rates.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Starting a Manufacturing Automation Project, Step by Step",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Start small and prove value before you scale. Many manufacturers worry automation means a completely new production concept, but RobCo builds on existing infrastructure for a structured, incremental transition. A practical path to automation in production looks like this:",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We identify which tasks are most practical to automate first, often the ones that are repetitive or hard to staff.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Modular hardware lets you skip a full automated production line replacement and keep producing during rollout. Operators shift from manual labor to supervising the robots after short training.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "reports that 94% of automation users see digital solutions as important to their future automation efforts. It expects a shift toward software-defined, autonomous manufacturing within the next 5 to 15 years. Labor shortages and cost pressure are speeding that up. As automation and manufacturing continue to converge, companies that start small tend to scale fastest.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of RobCo robots are already deployed across Europe and the US - in industries from automotive and electronics to food & beverage and logistics. Customers report higher productivity, more stable processes, and fast ROI thanks to our Robotics-as-a-Service model.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "It’s the integration of modular robotic hardware and Physical AI to execute tasks with minimal human intervention. RobCo is redefining industrial automation with Autonomous Industrial Robotics. They solve real-world production challenges such as inconsistent throughput and high waste, letting manufacturers scale quickly without full production line replacement.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The food & beverage industry is under increasing pressure: Labor shortages, high efficiency demands, and growing competition require intelligent automation. Innovative robotic solutions help optimize processes, reduce costs, and future-proof operations.",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "Need of cost-efficient process design to maintain competitiveness, increase ROI and revenue growth through more efficient and reliable production",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable production processes to ensure consistently high quality and customer satisfaction",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "The advantages of automated production at a glance",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "through automated processes and reduced downtime",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "Increased productivity",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "With modular robots, companies in the food & beverage industry implement future-proof automation to boost efficiency, cut costs, and ensure the highest quality.",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "The logistics industry faces numerous challenges: Labor shortages, increasing demands for sustainability and efficiency, and the pressure to digitalize processes. Innovative automation solutions help overcome these challenges and make logistics processes future-proof.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "RobCo automates the variable tasks that rigid robots and conveyor systems fail at, using Physical AI that adapts without reprogramming.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "The Pressures Behind the Handling Bottleneck in the Logistics Industry",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Skilled staff for repetitive picking and palletizing are hard to hire and keep, and the manual station caps daily throughput.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Mistakes in production increase waste and reduce resource efficiency.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Most sites already run the movement layer well. The handling layer is where the manual work, and the labor cost, remain. Logistics robots offer more than transport, and closing that handling gap is precisely where RobCo focuses. Our autonomous industrial robot",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptive Handling with RobCo, Backed by Proven Results",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "deployments show it: up to 80% less manual time, up to 5x capacity, and ROI from day one. Precise placement also means fewer goods are damaged in handling. That reduces waste, replacement cost, and the returns that follow.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "No-code plug-and-produce programming makes a palletizing system operational in less than a day.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Realistic WMS integration time depends on your data interfaces and station complexity, and is mapped in the consultation. Plug-and-produce is a measurable promise, not a slogan.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Autonomous Industrial Robotics | RobCo - Zero Upfront",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Industrial Robotics",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted on the factory floor by",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "RobCo makes industrial automation finally work for manufacturers",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Industrial Robotics, end-to-end.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Industrial Robot",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "RobCo in Every Factory",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "From automotive lines to food plants — automation tuned to your sector.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the Real Factory Floor",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer solutions for a wide variety of industrial applications — automate flexibly across your production.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "VP | Head of Automotive & Manufacturing at T-Systems International",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The Autonomous Robotics Podcast — conversations on Physical AI and the factory floor.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Product news, customer stories and lessons from automating real production lines.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Live demos, webinars and trade fairs — see Autonomous Industrial Robotics in action.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how our Autonomous Industrial Robotics can help your business cut costs, boost productivity, and scale automation.",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Automation | Robotic Processes Made Simple",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Automation At a Glance with RobCo",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "RobCo's modular robots and AI-powered software run manufacturing processes on their own, from assembly automation to palletizing.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Robotics-as-a-Service model needs zero upfront investment, so automated manufacturing pays off from the first deployment.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Modular hardware makes flexible manufacturing possible, so one production robot can be reconfigured as your needs change.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Each system integrates with your existing machines, so even brownfield sites can automate with no full production line replacement",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Key challenges in the manufacturing industry",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What Manufacturing Automation Means",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing automation refers to the targeted use of advanced automation technologies such as our modular robot hardware combined with AI-powered software. Together, they make production processes autonomous, efficient and as error-free as possible.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The aim is to make processes more flexible, cost-effective and future-proof. Unlike robotic process automation (RPA), which automates digital paperwork, manufacturing automation works on the physical production floor. It is a role-shifter, moving employees from dull, dangerous tasks to tech-driven oversight roles without the need for full production line replacement.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing process automation is not all-or-nothing. You can automate a single manufacturing process first, then move from partial automation toward a fully automated production line once the case proves out.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our Autonomous Industrial Robotics offer practical manufacturing automation systems for key application areas in the manufacturing industry.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Where Manufacturing Automation Pays Off Most",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing automation isn't just for large corporations. RobCo's robots are modular and rented as a service, so small and mid-sized manufacturers can reach a smart factory setup without a seven-figure budget. That is where the benefits of manufacturing automation compound: quality and efficiency without heavy capital.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Starting a Manufacturing Automation Project, Step by Step",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Start small and prove value before you scale. Many manufacturers worry automation means a completely new production concept, but RobCo builds on existing infrastructure for a structured, incremental transition. A practical path to automation in production looks like this:",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We simulate the workflow in RobFlow, our no-code manufacturing automation software, before installation to minimize deployment risk.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Modular hardware lets you skip a full automated production line replacement and keep producing during rollout. Operators shift from manual labor to supervising the robots after short training.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Future of Automation in Manufacturing",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "reports that 94% of automation users see digital solutions as important to their future automation efforts. It expects a shift toward software-defined, autonomous manufacturing within the next 5 to 15 years. Labor shortages and cost pressure are speeding that up. As automation and manufacturing continue to converge, companies that start small tend to scale fastest.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Automation in the Real World",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of RobCo robots are already deployed across Europe and the US - in industries from automotive and electronics to food & beverage and logistics. Customers report higher productivity, more stable processes, and fast ROI thanks to our Robotics-as-a-Service model.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What is Manufacturing Automation?",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "It’s the integration of modular robotic hardware and Physical AI to execute tasks with minimal human intervention. RobCo is redefining industrial automation with Autonomous Industrial Robotics. They solve real-world production challenges such as inconsistent throughput and high waste, letting manufacturers scale quickly without full production line replacement.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What Are the 4 Types of Automation in Manufacturing?",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our Autonomous Industrial Robotics offer optimal automation systems for key application areas in the food & beverage industry.",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "Systems connect to your existing warehouse management system and run under recognized safety standards for staff and forklift traffic.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "A logistics robot is any robotic system that automates a physical task in the warehouse. Two categories do very different work.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "The second category handles goods. Rather than moving a load, a handling robot manipulates each item individually. It picks, palletizes, packs, and feeds machines, drawing on machine vision and pick-and-place. This is the more demanding task, and the one most warehouses still perform manually.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Most sites already run the movement layer well. The handling layer is where the manual work, and the labor cost, remain. Logistics robots offer more than transport, and closing that handling gap is precisely where RobCo focuses. Our autonomous industrial robot",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics in Logistics: Where Warehouse Automation Delivers the Most in Logistics Operations",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse automation pays off wherever a manual station limits throughput. Five areas stand out across 3PL, e-commerce fulfillment, and food & beverage distribution.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Integration is the step most operators fear after long conveyor or sorter rollouts. RobCo keeps it short.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "The robots connect to your warehouse management system (WMS) instead of replacing it.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Your Benefits of Warehouse Automation at a Glance",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Automation in the Real World",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of RobCo robots are already deployed across Europe and the US - in industries from automotive and electronics to food & beverage and logistics. Customers report higher productivity, more stable processes, and fast ROI thanks to our Robotics-as-a-Service model.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Logistics robots are robotic systems that automate physical warehouse tasks, from transport to handling. Mobile robots such as AMRs and AGVs move goods, while handling robots pick, depalletize, pack, and load machines. Together they reduce manual work, error rates, and labor cost across logistics operations.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, modern logistics robots are designed to be seamlessly integrated into existing warehouse management and transportation systems. RobCo offers specially developed automation solutions that are characterized by simple integration and intuitive control, so that companies can benefit from the advantages of robotics without costly retrofitting.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Last-mile delivery robots are sold as fleet hardware, but inside a warehouse the machine that cuts labor cost is a logistics robot. RobCo prices these with a rental model: a predictable monthly fee per robot, no upfront purchase, and ROI from day one.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Can a Robot In the Warehouse Handle Mixed Cartons and Pallets?",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Integration connects to your existing warehouse management system rather than replacing it. Our no-code programming and modular hardware make integration fast and simple. The exact WMS integration time depends on your interfaces and is scoped during the consultation.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Are Warehouse Robots Safe to Work Alongside Employees?",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "No, medium-sized companies also benefit from intelligent automation. Modular systems enable flexible solutions for different company sizes. Exploring different types of logistics robots and their applications is now standard for the industry and mid-market manufacturers. RobCo logistics robots can be used in a variety of ways.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Can Robots Be Integrated Into Unstructured, Variable Warehouses?",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "You carry the risk if the product mix changes",
+    "url": "https://www.rob.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The aim is to make processes more flexible, cost-effective and future-proof. Unlike robotic process automation (RPA), which automates digital paperwork, manufacturing automation works on the physical production floor. It is a role-shifter, moving employees from dull, dangerous tasks to tech-driven oversight roles without the need for full production line replacement.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Start with repetitive, high-volume or hard-to-staff tasks such as machine loading, palletizing and material handling; these deliver fast, measurable returns and carry low integration risk. Once a pilot proves out, assembly automation and more complex production steps can follow, extending automation further down the line.",
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Need of cost-efficient process design to maintain competitiveness, increase ROI and revenue growth through more efficient and reliable production",
+    "url": "https://www.rob.co/solutions/industries/food",
+    "pass": 1
+   },
+   {
+    "quote": "is one part of that answer.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": ", and those results carry over.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Automation is assumed to mean a large capital project. RobCo's robotics-as-a-service model removes that barrier.",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Are Warehouse Robots Safe to Work Alongside Employees?",
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "As an autonomous mobile robot (AMR), Alfie moves between stations and performs bimanual tasks once it arrives.",
+    "url": "https://www.rob.co/solutions/offerings/alfie",
+    "pass": 1
+   },
+   {
+    "quote": "Most industrial robots are designed to repeat one precise motion thousands of times, without deviation. Change the part, the container or the feed position, and someone has to reprogram the cell or build a new fixture. Collaborative robotics (cobots) lower the safety barrier, but they inherit the same limit and still follow fixed paths.",
+    "url": "https://www.rob.co/solutions/offerings/alfie",
+    "pass": 1
+   },
+   {
+    "quote": "When parts arrive unsorted, in mixed bins or on changing pallets, throughput collapses. That is why so many real processes get filed as \"not automatable\". The task is not impossible. Rigid systems were simply the only option on the table.",
+    "url": "https://www.rob.co/solutions/offerings/alfie",
+    "pass": 1
+   },
+   {
+    "quote": "Alfie is not bolted to one spot. As an Autonomous Industrial Robot, it moves between machines, pallets and staging areas, bringing bimanual manipulation to the point of work. Traditional mobile robots are mainly used to move goods from A to B. Alfie goes further, because it navigates the floor and then performs the task once it arrives.",
+    "url": "https://www.rob.co/solutions/offerings/alfie",
+    "pass": 1
+   },
+   {
+    "quote": "There is no six-figure purchase and no capital risk to approve. Alfie is part of RobCo’s modular robot solutions and can run on a",
+    "url": "https://www.rob.co/solutions/offerings/alfie",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic automation means using robots to carry out physical tasks people would otherwise do by hand, such as loading machines or palletizing. Modern autonomous robotics goes further, with systems that sense, decide and adapt to change instead of repeating one fixed motion.",
+    "url": "https://www.rob.co/solutions/offerings/alfie",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered drone infrastructure for autonomous takeoff and recovery. A scalable system product with high integration density and clear barriers to entry for competitors.",
+    "url": "https://www.rob.co/solutions/offerings/embedded-robotics",
+    "pass": 1
+   },
+   {
+    "quote": "Manual palletizing requires physical effort and is often prone to errors. An Automatic palletizers or depalletizer can perform these tasks to relieve employees, improve workplace ergonomics and ensure the transport safety of the products. As a result, personnel resources are used more sensibly, which increases efficiency and job satisfaction.",
+    "url": "https://www.rob.co/solutions/applications/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial material handling automation moves parts between production steps with no manual lifting or carrying.",
+    "url": "https://www.rob.co/solutions/applications/materials-handling",
+    "pass": 1
+   },
+   {
+    "quote": "Parts handling and workpiece handling: workpieces move between process steps, so material flows without manual carrying.",
+    "url": "https://www.rob.co/solutions/applications/materials-handling",
+    "pass": 1
+   },
+   {
+    "quote": ", RobCo's Autonomous Industrial Robot, extends this to more variable work. Together they are part of the shift to Industry 4.0 and physical AI, where robots perceive and adapt on the shop floor instead of repeating one fixed path.",
+    "url": "https://www.rob.co/solutions/applications/materials-handling",
+    "pass": 1
+   },
+   {
+    "quote": ". Lines run high volumes with frequent changeovers, so a modular robot that reconfigures quickly keeps pace. Part transfer between stations runs without manual carrying.",
+    "url": "https://www.rob.co/solutions/applications/materials-handling",
+    "pass": 1
+   },
+   {
+    "quote": "The Two Barriers to Automated Robot Polishing",
+    "url": "https://www.rob.co/solutions/applications/finishing",
+    "pass": 1
+   },
+   {
+    "quote": "provides the reach and payload that metal finishing needs: RobCo configurations carry up to 40 kg.",
+    "url": "https://www.rob.co/solutions/applications/finishing",
+    "pass": 1
+   },
+   {
+    "quote": "is a globally leading provider of connectivity solutions in high-frequency, fibre-optic, and high-voltage technology. With around 15,500 employees in countries worldwide, the company relies on innovative automation solutions to enhance production efficiency.",
+    "url": "https://www.rob.co/solutions/applications/finishing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. RobCo finishing solutions are specifically tailored to your manufacturing processes and seamlessly integrated. The RobFlow software allows for easy connection to existing systems and intuitive operation without complex programming. The modular robots fit into your current workflow, so the finishing cell becomes part of your existing line.",
+    "url": "https://www.rob.co/solutions/applications/finishing",
+    "pass": 1
+   },
+   {
+    "quote": "\"As the first team member in the US, I’ve had the chance to help build our presence from the ground up. We’re tackling interesting, complex problems with customers who are serious about automation, and that creates a lot of room to learn and grow. With the momentum we have right now, the opportunity in front of us feels significant. It’s an exciting time to be part of the team.\"",
+    "url": "https://www.rob.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Having been at RobCo since the beginning as employee #3, I’ve had the chance to witness and be part of almost the entire company journey. What’s been most meaningful is growing alongside the company myself and now contributing to the growth and success of our Revenue team.”",
+    "url": "https://www.rob.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "(Austin, Texas, USA) is RobCo GmbH's wholly-owned (100%) US subsidiary — a Delaware Corporation, incorporated December 23, 2024 (Delaware File Number 10046317). A separate legal entity, part of the same corporate group, but not identical to RobCo GmbH.",
+    "url": "https://www.rob.co/company/robco-gmbh",
+    "pass": 1
+   },
+   {
+    "quote": "The aim is to make processes more flexible, cost-effective and future-proof. Unlike robotic process automation (RPA), which automates digital paperwork, manufacturing automation works on the physical production floor. It is a role-shifter, moving employees from dull, dangerous tasks to tech-driven oversight roles without the need for full production line replacement.",
+    "url": "https://www.rob.co/en-us/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Start with repetitive, high-volume or hard-to-staff tasks such as machine loading, palletizing and material handling; these deliver fast, measurable returns and carry low integration risk. Once a pilot proves out, assembly automation and more complex production steps can follow, extending automation further down the line.",
+    "url": "https://www.rob.co/en-us/solutions/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "\" I can't thank Robco enough and especially the gentlemen who came in to work on our order last night. It arrived at the mill at 1:00AM and immediately was installed. This allowed us to be up and running much faster! Again, thank you very much!",
+    "url": "https://robco.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo has rapidly grown and currently encompasses over 30 employees. The company is dedicated to the development of modular robots coupled with cloud-based software. This innovative approach simplifies the integration of automated robots for small and medium-sized enterprises (SMEs), eliminating the complexities and high costs associated with traditional setups.",
+    "url": "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/new-case-study-robco-how-self-aware-robot-revolutionises-industrial-automation-2024-01-18_en",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/robco",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo competitors include listed companies like Yuil Robotics and Stemmer Imaging, and private ones like VisionNav Robotics, Kingsware, Telexistence and Infinitum.",
+    "url": "https://multiples.vc/private-comps/robco",
+    "pass": 3
+   },
+   {
+    "quote": "Is RobCo publicly listed?",
+    "url": "https://multiples.vc/private-comps/robco",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "RobCo Partner Program: Strong partnership with many benefits",
+    "url": "https://www.rob.co/company/partner",
+    "pass": 1
+   },
+   {
+    "quote": "We look forward to welcoming you to our partner program and starting this exciting journey together!",
+    "url": "https://www.rob.co/company/partner",
+    "pass": 1
+   },
+   {
+    "quote": "By signing the agreement, you officially join our partner program and get access to a wealth of resources and opportunities.",
+    "url": "https://www.rob.co/company/partner",
+    "pass": 1
+   },
+   {
+    "quote": "A co-development platform through which OEM partners integrate RobCo technology into their own products.",
+    "url": "https://www.rob.co/company/robco-gmbh",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "―日本企業とのパートナーシップについてどうお考えですか",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は主にヨーロッパ市場に注力しており、日本市場はまだ初期段階ですが、日本向けのソリューションを提供する準備を進めています",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "まずは間接的なチャネルを活用し、将来的には直接、日本市場に進出することも視野に入れています",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場には大きな可能性があると考えていますので、ご興味のある方はぜひご連絡ください",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "御社の取り組みは、近年のグローバルにサプライチェーンの分断や、日本のような労働人口が減っている地域の課題を解消すると考えます",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "現在はヨーロッパ市場に注力していますが、その後はアメリカ市場、そして日本市場を順次攻略していきたいと考えています",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ヨーロッパも労働力不足が課題となっており、日本の皆さんともこの課題についてもっと探ることができたら嬉しいです",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "現在はヨーロッパ市場に注力していますが、その後はアメリカ市場、そして日本市場を順次攻略していきたいと考えています",
+    "url": "https://www.icom-giken.com/blog/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例・システム価格がわかる！協働ロボット導入事例BOOK",
+    "url": "https://www.icom-giken.com/blog/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "【作例付き】20万円台のCNCが日本上陸、「Makera Z1 Pro」を徹底検証",
+    "url": "https://fabscene.com/new/news/robco-autonomous-alfie-industrial-robot/",
+    "pass": 3
+   },
+   {
+    "quote": "【秋月・共立・スイッチサイエンス】ガード下のジャンクからネット通販のラズパイまで｜日本の電子部品店の歴史",
+    "url": "https://fabscene.com/new/news/robco-autonomous-alfie-industrial-robot/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年よりドイツ製協働ロボットRobco社のロボットの販売代理店として活動開始",
+    "url": "https://www.robo-navi.com/sier_search/sier_syousai.php?sier_id=639",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Culture and Etiquette Guide",
+    "url": "https://tabelog.com/en/tokyo/A1311/A131105/13203212/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都文京区千駄木3-45-10",
+    "url": "https://tabelog.com/en/tokyo/A1311/A131105/13203212/",
+    "pass": 3
+   },
+   {
+    "quote": "Telexistence is a Tokyo-based robotics firm developing avatar robots like the Model T for remote operation in warehouses and stores. Its Inverse Kinematics Display technology enables human-scale teleoperation with 4K cameras and haptic feedback for tasks in Japan and Southeast Asia.",
+    "url": "https://multiples.vc/private-comps/robco",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "独ロボット新興 RobCo が評価額10億ドル突破、CEOは米国に ... — 独ロボット新興 RobCo が評価額10億ドル突破、CEOは米国に ... BigGo ファイナンス https://finance.biggo.jp > news",
+    "url": "https://finance.biggo.jp/news/60901fd8-e7a2-4d3d-a7e0-c540e606c46c",
+    "pass": 3
+   },
+   {
+    "quote": "大企業「以外」の産業用ロボット需要に着目、ドイツの ... — 大企業「以外」の産業用ロボット需要に着目、ドイツの ... TECHBLITZ https://techblitz.com > startup-interview > robco",
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマイズ可能な協働ロボット「 ROBCO 」とは — カスタマイズ可能な協働ロボット「 ROBCO 」とは icom-giken.com https://www.icom-giken.com > ... > 協働ロボット",
+    "url": "https://www.icom-giken.com/blog/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo が自律型産業ロボット「Alfie」発表、両手操作でLevel ... — RobCo が自律型産業ロボット「Alfie」発表、両手操作でLevel ... FabScene https://fabscene.com > 新着記事 > ニュース",
+    "url": "https://fabscene.com/new/news/robco-autonomous-alfie-industrial-robot/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Industrial Robotics | RobCo - Zero Upfront — Autonomous Industrial Robotics | RobCo - Zero Upfront RobCo https://www.rob.co",
+    "url": "https://www.rob.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Robco Inc. - Fluid Sealing, Industrial High-Temperature ... — Robco Inc. - Fluid Sealing, Industrial High-Temperature ... Robco Inc. https://robco.com > ...",
+    "url": "https://robco.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "RoBco - Nishi Nippori/Dining bar | Tabelog - 食べログ — RoBco - Nishi Nippori/Dining bar | Tabelog - 食べログ 食べログ https://tabelog.com > tokyo",
+    "url": "https://tabelog.com/en/tokyo/A1311/A131105/13203212/",
+    "pass": 3
+   },
+   {
+    "quote": "How RobCo Uses Xometry for Fast and Flexible Part Sourcing ... — How RobCo Uses Xometry for Fast and Flexible Part Sourcing ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=n0pGINpPecM",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Startup RobCo Hits $1 Billion Valuation - WSJ — Robotics Startup RobCo Hits $1 Billion Valuation - WSJ WSJ https://www.wsj.com > tech > robotics...",
+    "url": "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?eafs_enabled=false",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Industrial Robotics | RobCo - Zero Upfront — Autonomous Industrial Robotics | RobCo - Zero Upfront RobCo https://www.rob.co > en-us",
+    "url": "https://www.rob.co/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo - Lightspeed Venture Partners — RobCo - Lightspeed Venture Partners Lightspeed Venture Partners https://lsvp.com > Companies",
+    "url": "https://lsvp.com/company/robco/",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo's Competitors, Revenue , Number of Employees ... — RobCo's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > robco1",
+    "url": "https://www.owler.com/company/robco1",
+    "pass": 3
+   },
+   {
+    "quote": "Company Focus: What RobCo's Revenue Team Reveals ... — Company Focus: What RobCo's Revenue Team Reveals ... LinkedIn https://www.linkedin.com > pulse > c...",
+    "url": "https://www.linkedin.com/pulse/company-focus-what-robcos-revenue-team-reveals-scaling-european-f0bie",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo Valuation, Funding & Investors - Multiples.vc — RobCo Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/robco",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo hits $1B valuation as Sequoia, Lightspeed ... - Dealroom — RobCo hits $1B valuation as Sequoia, Lightspeed ... - Dealroom Dealroom https://dealroom.co > news > 159891-...",
+    "url": "https://dealroom.co/news/159891-robco-hits-1b-valuation-as-sequoia-lightspeed-back-munich-robotics-maker/",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo - 2026 Company Profile & Team - Tracxn — RobCo - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/robco/__zJN1Cdild2tfYW4igD2PE_ZW8kTIkY8iBeByeHihRHE",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@nc-model-inc.co.jp",
+    "url": "https://www.robo-navi.com/sier_search/sier_syousai.php?sier_id=639",
+    "pass": 3
+   },
+   {
+    "quote": "Send information by email",
+    "url": "https://tabelog.com/en/tokyo/A1311/A131105/13203212/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "RobCo Auto-Cache #001｜もひ - note RobCo Auto-Cache #001｜もひ - note note https://note.com > ゲーム > RPG (ロールプレイングゲーム)",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo : 初期投資ゼロの中小製造業向け垂直統合型ロボティクス RobCo : 初期投資ゼロの中小製造業向け垂直統合型ロボティクス note https://note.com > 生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "RobCo Auto-Cache #001｜もひ",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo Auto-Cache #001",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo Auto-Cache #001 is a hidden location within Gauley Mine in Appalachia.",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a place rumored to contain treasure associated with Crane.",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Planning and Cancellation",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was an unfinished project under construction by RobCo Industries sometime before the Great War.",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was referred to by the working title \"RobCo Auto-Cache\" before a final decision was made.",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This was the first and only facility in a planned series, and it was being test-operated by an employee named George and another named \"K\".",
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo: 初期投資ゼロの中小製造業向け垂直統合型ロボティクス｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo: 初期投資ゼロの中小製造業向け垂直統合型ロボティクス",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット密度で世界3位に位置するドイツは、1万人あたり449台という国際ロボット連盟（IFR）の数字が示す通り、自動化先進国のひとつに数えられます。しかしこの実績は主に大企業が牽引してきたものであり、労働力不足が最も深刻な中小製造業の現場には、その恩恵がほとんど届いていませんでした。ドイツのMittelstand（中堅・中小製造業）と呼ばれるこの層に、初期費用ゼロの月額契約でロボットを提供するのが、モジュール型産業用ロボティクスを提供するRobCo（ロブコ）です。",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   },
+   {
+    "quote": "同社が抱える顧客の約7割は、これまで物理的な自動化設備を導入した経験を持たない企業です。2026年1月のシリーズC発表時点で公式ブログが示した稼働台数は約100台、2026年8月時点の公式サイトの記載でも数百台という水準にとどまります。それでもLightspeed Venture PartnersやSequoia Capitalを含む投資家陣は、累計$158.7Mをこの企業に投じています。",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   },
+   {
+    "quote": "RobCoは2020年、ミュンヘン工科大学（TUM）のロボティクス研究室出身のRoman Hölzl氏、Constantin Dresel氏、Paul Maroldt氏の3名がミュンヘンで創業しました。CEOのHölzl氏は元エリート競技スキーヤーという異色の経歴を持ち、TUMでの実習講座を通じてモジュール式ロボティクスの可能性を追求したことが創業のきっかけです。2026年1月のシリーズCで$100Mを追加調達し、累計調達額は公開4ラウンド合計で$158.7Mに到達しました。",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には米国事業を本格始動し、Rapid Roboticsの事業資産買収を経て14州で顧客基盤を構築するなど、欧州発の企業でありながら米国のリショアリング需要（生産拠点を自国内に戻す動き）も早期に取り込みつつあります。",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、RobCoの具体的な仕組みや独自機能、導入企業における活用事例、そして競合と比較した際の明確な差別化要因を通じて、ロボット未導入の中小製造業という手つかずの市場に、初期投資ゼロの月額契約でどのように自動化ロボットを届けているのかを詳しく解説します。",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   },
+   {
+    "quote": "「生成AI事例集」では、「勝ち馬」シリーズと称して、アメリカの成功している生成AIスタートアップを詳細に解説しています。週2記事のペースで記事を公開しています。毎週、1記事は無料記事、もう1記事は有料記事です。（本記事は有料記事です）",
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RobCo (@Robco_Robotics) / X RobCo (@Robco_Robotics) / X X https://x.com > Robco_Robotics",
+    "url": "https://x.com/Robco_Robotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RobCo - LinkedIn RobCo - LinkedIn LinkedIn https://de.linkedin.com > company",
+    "url": "https://de.linkedin.com/company/robco-therobotcompany",
+    "pass": 3
+   },
+   {
+    "quote": "Roman Hölzl - RobCo - LinkedIn Roman Hölzl - RobCo - LinkedIn LinkedIn https://www.linkedin.com > romanho...",
+    "url": "https://www.linkedin.com/in/romanhoelzl",
+    "pass": 3
+   },
+   {
+    "quote": "Robco Corporation | LinkedIn Robco Corporation | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/robco-corporation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Robco Electric, Inc. | Las Vegas NV - Facebook Robco Electric, Inc. | Las Vegas NV - Facebook Facebook https://www.facebook.com > ... > Solar Energy Service",
+    "url": "https://www.facebook.com/robcoelectric/",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo Crossfit (@g6fitness) - Facebook RobCo Crossfit (@g6fitness) - Facebook Facebook https://www.facebook.com > ... > Fitness Trainer",
+    "url": "https://www.facebook.com/g6fitness/",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo Weather Watch (@RobCoWeatherWatch) - Facebook RobCo Weather Watch (@RobCoWeatherWatch) - Facebook Facebook https://www.facebook.com > ... > Website > Personal blog",
+    "url": "https://www.facebook.com/RobCoWeatherWatch/",
+    "pass": 3
+   },
+   {
+    "quote": "RobCo Rides | Facebook RobCo Rides | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/RobCoRides/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rob.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/industries/food",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/industries/logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/industries/wood",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/industries/defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/company/about-robco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/company/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/offerings/alfie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/offerings/embedded-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/offerings/integrated-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/applications/cnc-machines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/applications/palletizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/applications/materials-handling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/solutions/applications/finishing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/company/robco-gmbh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/en-us/solutions/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rob.co/en-us/company/about-robco",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/68f2341d705f07db40d6f962/68f2341d705f07db40d70116_Operation%20in%20food%20and%20beverage%20manufacturing%20industry.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68f2341d705f07db40d6f962/6ab6a819d0a2ed69c1a8e271_MLK_250311_2354%201.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68f2341d705f07db40d6f962/69986e57632dd62e146c8c5a_67b5b4773ee163576635a4ed_Partners%20for%20Scale%20-%20white%20horizontal%202.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68f2341d705f07db40d6f962/6a7455fbd98f53bd0e771aa5_industry-manufacturing.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://finance.biggo.jp/news/60901fd8-e7a2-4d3d-a7e0-c540e606c46c",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icom-giken.com/blog/robco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fabscene.com/new/news/robco-autonomous-alfie-industrial-robot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robo-navi.com/sier_search/sier_syousai.php?sier_id=639",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icom-giken.com/blog/robco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/robco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robco.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tabelog.com/en/tokyo/A1311/A131105/13203212/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=n0pGINpPecM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/new-case-study-robco-how-self-aware-robot-revolutionises-industrial-automation-2024-01-18_en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kawasakirobotics.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appliedmfg.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.mitsubishielectric.com/fa/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lsvp.com/company/robco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/robco1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/company-focus-what-robcos-revenue-team-reveals-scaling-european-f0bie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://multiples.vc/private-comps/robco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/159891-robco-hits-1b-valuation-as-sequoia-lightspeed-back-munich-robotics-maker/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Robco_Robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/robco-therobotcompany",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/romanhoelzl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/robco-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/robcoelectric/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/g6fitness/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RobCoWeatherWatch/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/RobCoRides/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Robco_Robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "RobCo 日本 導入",
+   "results": [
+    "https://finance.biggo.jp/news/60901fd8-e7a2-4d3d-a7e0-c540e606c46c",
+    "https://techblitz.com/startup-interview/robco/",
+    "https://www.icom-giken.com/blog/robco/",
+    "https://fabscene.com/new/news/robco-autonomous-alfie-industrial-robot/",
+    "https://forbesjapan.com/articles/detail/69394",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.unite.ai/ja/robco-raises-new-investment-at-1b-valuation-with-employee-share-sale/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "RobCo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.robo-navi.com/sier_search/sier_syousai.php?sier_id=639",
+    "https://www.rob.co/",
+    "https://www.icom-giken.com/blog/robco/",
+    "https://techblitz.com/startup-interview/robco/",
+    "https://baike.baidu.com/ja/item/%E3%83%AD%E3%83%96%E3%82%B3/6559428",
+    "https://www.rockwellautomation.com/ja-jp/company/partnernetwork/authorized-distributors.html",
+    "https://blitzportal.com/startups/RobCo-ZjENdpYx",
+    "https://forbesjapan.com/articles/detail/69394",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8774",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "RobCo Japan",
+   "results": [
+    "https://robco.com/en/",
+    "https://tabelog.com/en/tokyo/A1311/A131105/13203212/",
+    "https://www.rob.co/",
+    "https://www.youtube.com/watch?v=n0pGINpPecM",
+    "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5?eafs_enabled=false",
+    "https://www.automateshow.com/exhibitors/robco-inc",
+    "https://www.automate.org/companies/robco-inc",
+    "https://de.linkedin.com/company/robco-therobotcompany",
+    "https://ja.wikipedia.org/wiki/ROCK_JAPAN",
+    "https://www.dnb.com/business-directory/company-profiles.robeco_japan_company_limited.8c289e9f67c52fcda41ac9dce952c927.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "RobCo manufacturing customer case study",
+   "results": [
+    "https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/new-case-study-robco-how-self-aware-robot-revolutionises-industrial-automation-2024-01-18_en",
+    "https://kawasakirobotics.com/case-studies/",
+    "https://appliedmfg.com/case-studies/",
+    "https://us.mitsubishielectric.com/fa/en/resources/case-studies/",
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10191138/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vLR-m0cNGdTWGl6lDGHrn6EM038_Ys91CgV6DUw0u8CcX2V32No",
+    "https://www.advancedmanufacturing.org/smart-shop-essentials/case-studies/",
+    "https://xometry.eu/en/case-studies/robco-modular-robotics/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "RobCo white label OR reseller OR partner program",
+   "results": [
+    "https://www.rob.co/en-us",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://lsvp.com/company/robco/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "RobCo founded funding employees revenue",
+   "results": [
+    "https://www.owler.com/company/robco1",
+    "https://www.linkedin.com/pulse/company-focus-what-robcos-revenue-team-reveals-scaling-european-f0bie",
+    "https://multiples.vc/private-comps/robco",
+    "https://dealroom.co/news/159891-robco-hits-1b-valuation-as-sequoia-lightspeed-back-munich-robotics-maker/",
+    "https://tracxn.com/d/companies/robco/__zJN1Cdild2tfYW4igD2PE_ZW8kTIkY8iBeByeHihRHE",
+    "https://www.wsj.com/tech/robotics-startup-robco-hits-1-billion-valuation-784bd6a5",
+    "https://qz.com/robco-unicorn-valuation-secondary-share-sale-100526",
+    "https://pitchbook.com/profiles/company/467561-44",
+    "https://www.therobotreport.com/robco-raises-100m-scale-industrial-automation/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com RobCo",
+   "results": [
+    "https://note.com/futaiwamoto/n/n1ff88874c238?hl=en",
+    "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "https://note.com/futaiwamoto/n/nfdb71786562c?hl=en",
+    "https://note.com/futaiwamoto/n/nca29efd9556c?hl=en",
+    "https://note.com/futaiwamoto/n/n4bf4d83e6674?hl=en",
+    "https://note.com/futaiwamoto/n/ne19d63960f55?hl=en",
+    "https://note.com/yasuhitoo/n/n8b29deaa60c2",
+    "https://note.com/futaiwamoto/n/n992d035837ff?hl=en",
+    "https://note.com/futaiwamoto/n/n4835834bfe51?hl=en",
+    "https://note.com/yasuhitoo/n/n404d27344392"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com RobCo",
+   "results": [
+    "https://x.com/Robco_Robotics",
+    "https://x.com/lukas_m_ziegler/status/2107033451958325324",
+    "https://x.com/Fallout/status/2112934376556073265",
+    "https://x.com/Fallout/status/1793658148760260978",
+    "https://x.com/AGTPinsights/status/2107062886002757750",
+    "https://x.com/hashtag/robco",
+    "https://x.com/WSJ/status/2107031519420191162",
+    "https://x.com/Fallout/status/1746940313627705814",
+    "https://x.com/RobCoSevereWX",
+    "https://x.com/Robco_Robotics/status/2107026779076808847"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com RobCo",
+   "results": [
+    "https://de.linkedin.com/company/robco-therobotcompany",
+    "https://www.linkedin.com/in/romanhoelzl",
+    "https://www.linkedin.com/company/robco-corporation",
+    "https://www.linkedin.com/posts/dennis-hauser_excited-to-share-that-ive-joined-robco-as-activity-7420536253500198912-QNfT",
+    "https://www.linkedin.com/posts/tech-funding-news_100m-for-robots-that-learn-on-the-factory-activity-7422940442784321536-sh5H",
+    "https://www.linkedin.com/jobs/robco-jobs-worldwide",
+    "https://de.linkedin.com/in/clemens-marschner-116847",
+    "https://www.linkedin.com/pulse/robcos-ceo-trust-through-simulation-brian-heater-hjawe",
+    "https://www.linkedin.com/posts/greenfieldlp_meet-alfie-the-latest-from-our-portfolio-activity-7452009953567019009-27NG",
+    "https://www.linkedin.com/company/robco-therobotcompany/jobs/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com RobCo",
+   "results": [
+    "https://www.facebook.com/robcoelectric/",
+    "https://www.facebook.com/g6fitness/",
+    "https://www.facebook.com/RobCoWeatherWatch/",
+    "https://www.facebook.com/groups/RobCoRides/",
+    "https://www.facebook.com/nukagang/",
+    "https://www.facebook.com/tclmchamber/posts/robco-services-was-awarded-the-small-business-award-at-the-night-with-the-stars-/961432830563001/",
+    "https://www.facebook.com/quartznews/posts/robco-hits-1-billion-valuation-in-employee-secondary-share-sale-the-munich-found/1457420166253797/",
+    "https://www.facebook.com/robco.retreat/",
+    "https://www.facebook.com/groups/202890347560008/posts/1829833691532324/",
+    "https://www.facebook.com/p/Robco-Services-100090062768958/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "RobCo note 社長",
+   "results": [
+    "https://note.com/gen_ai/n/nd86a75bef5c0",
+    "https://www.rob.co/",
+    "https://x.com/sadaaki",
+    "https://united.jp/ir/note/20251021_hayakawa.html",
+    "https://lsvp.com/stories/joining-forces-with-robco-for-an-autonomous-and-automated-future/",
+    "https://www.youtube.com/watch?v=ZWmfVPhk9bI",
+    "https://note.com/sadaaki",
+    "https://www.automate.org/ai/industry-insights/robcos-ceo-on-trust-through-simulation",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "RobCo X 投稿",
+   "results": [
+    "https://x.com/Robco_Robotics",
+    "https://www.rob.co/",
+    "https://www.automateshow.com/exhibitors/robco-inc",
+    "https://github.com/RobCo-Industries",
+    "https://www.youtube.com/@robco_therobotco",
+    "https://pasqualepillitteri.it/ja/news/23801/robco-yunikon-hyokagaku-10-oku-doru-robotto-myunhen",
+    "https://www.instagram.com/robco_therobotcompany/",
+    "https://www.youtube.com/watch?v=lDzdoweBOLI",
+    "https://x.com/RobCoNetwork",
+    "https://www.youtube.com/@RobCo_X"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

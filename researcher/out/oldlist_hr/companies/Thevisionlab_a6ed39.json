@@ -1,0 +1,1288 @@
+{
+ "name": "Thevisionlab",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-09T19:24:26.126855+00:00",
+ "official_url": "https://thevisionlab.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2025",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "grounded in real engineering practice",
+    "url": "https://thevisionlab.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull structure out of raw industrial video: hand and tool tracking, action understanding, scene geometry. You decide what we can reliably extract, then make it better.",
+    "url": "https://thevisionlab.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Productionize the perception that powers qualification. Research models run accurately and cheaply across a thousand clips a week, so a small QC team stays ahead of the volume.",
+    "url": "https://thevisionlab.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The backbone everything runs on: ingestion, storage, and the system of record that moves large video from a global field network into clean, traceable, training-ready data.",
+    "url": "https://thevisionlab.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder, Measurement Marketing",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "They have been incredibly attentive and detailed from the start. Our sales have more than doubled in less than 18 months. I know that every cent I spend on marketing is being accounted for. We can maximize our marketing dollars in the areas where we achieve the highest ROI.",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "E-commerce Analytics, Lifecycle & Retention",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Attribution, Lifecycle & Retention",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "A proven system to track PostHog events on website and in app",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "E-Learning / Info-Products, Religious",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B / Enterprise, Service / Agency",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Product analytics consolidation",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "BigQuery cost optimization for enterprise data",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Consulted to improve efficiency and reduce thousands/month in BigQuery spend",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Built retention reporting to track churn patterns across different service bundles and market segments",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Took over after a rocky onboarding process and simplified the entire setup",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Analytics, Web Analytics",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Non-Profit / NGO, Religious",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Server-side tagging for religious nonprofit compliance",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Full server-side Google Tag Manager implementation built with privacy and data compliance requirements baked in",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B / Enterprise, Financial Services / Trading",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Replaced internal tools with a centralized product analytics platform for video engagement data",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Non-Profit / NGO, Professional Development (PD)",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Strategy, Product Analytics",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B / Enterprise, Industrial / Logistics",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive analytics audit",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "E-Learning / Info-Products, Service / Agency",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Daily profitability reporting",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Were running ads with literally no tracking, now have full conversion coverage everywhere possible",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Pair every new hire with a mentor outside their own team.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Replace the expense approval process with a two-click tool.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask. Vote. Improve. Act. Many ideas in, a few greenlit actions out.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See it working in the enterprise",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "improvements added to the top 10 ideas by the people who would do the work",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Every enterprise customer has one accountable owner and one shared view of their account by the end of Q2.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise customers with a named owner",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sell uptime, not equipment: price service contracts on guaranteed availability, and fund the sensors and spare parts we need to deliver it.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Let field service engineers order common spare parts and approve small goodwill credits on site, up to a set limit, without waiting for a manager.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Finance and Legal are rewriting approval limits as part of the quote project. We will revisit this in Q2, once the new limits are in place.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Build one customer data platform so Sales, Service and Finance work from the same account numbers, product history and open invoices.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Already funded in the 2027 technology roadmap. The Customer 360 team will work with the account owner project so the effort is not duplicated.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Small groups protected",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What one thing would you do to drive sustainable cost savings across marketing activities within HP Print?",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Part of the Print Marketing Transformation Initiative: 94 ideas contributed by the people closest to the work.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rob Wait, Head of Print Marketing Transformation, HP",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A CEO-led project to bring the whole organisation into a major change as part of its strategy. The CEO worked with leadership to act on the five main proposals employees raised.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial data platform capturing egocentric factory video and process knowledge to train robotics foundation models, per the company.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial data platform capturing egocentric factory video and process knowledge to train robotics foundation models, per the company. Vision Lab is a San Francisco-based artificial intelligence infrastructure company developing an industrial data layer engineered to supply real-world training datasets for physical AI and robotics foundation models.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab builds real-world industrial training data infrastructure for physical AI foundation models.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Captures first-person egocentric video across 50+ manufacturing industries and 2,000+ factory environments, according to company reports.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pairs dense hand-pose extraction and atomic action labels with standard operating procedure (SOP) metadata.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab provides industrial training data for robotics foundation models, backed by $6M from Race Capital and YC.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pioneers an industrial data pipeline that links egocentric video capture with verified factory standard operating procedures rather than synthetic simulation.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Employs automated 3D hand-pose estimation, multi-view geometry, and vision-language segmentation to process industrial video at scale.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics foundation models lack large real-world datasets, and the company says industrial environments are underrepresented in public robotics data, so demand for such data is rising.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Direct enterprise partnership motion targeting frontier research institutions, humanoid robotics OEMs, and industrial automation developers.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Capped at 70: enforces facility anonymization, worker privacy filters, and biometric masking protocols; standards protect industrial IP rather than robotic safety.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: industrial robotics data infrastructure requiring customized dataset scoping, commercial licensing, and enterprise contracting.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Video Ingestion Pipeline",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "vision lab. | the industrial data layer for robotics",
+    "url": "https://thevisionlab.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "the industrial data layer",
+    "url": "https://thevisionlab.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "industrial data SOP capture with engineer validation",
+    "url": "https://thevisionlab.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "how matter behaves, from the lab bench to the factory floor.",
+    "url": "https://thevisionlab.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull structure out of raw industrial video: hand and tool tracking, action understanding, scene geometry. You decide what we can reliably extract, then make it better.",
+    "url": "https://thevisionlab.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build how Vision Lab is known to two audiences: the operators who film for us, and the AI teams who buy our data.",
+    "url": "https://thevisionlab.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Juvenon case study",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B / Enterprise, Industrial / Logistics",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab: Industrial Data Layer for Robotics Foundation Models",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial data platform capturing egocentric factory video and process knowledge to train robotics foundation models, per the company.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial data platform capturing egocentric factory video and process knowledge to train robotics foundation models, per the company. Vision Lab is a San Francisco-based artificial intelligence infrastructure company developing an industrial data layer engineered to supply real-world training datasets for physical AI and robotics foundation models.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab builds real-world industrial training data infrastructure for physical AI foundation models.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Captures first-person egocentric video across 50+ manufacturing industries and 2,000+ factory environments, according to company reports.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab provides industrial training data for robotics foundation models, backed by $6M from Race Capital and YC.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pioneers an industrial data pipeline that links egocentric video capture with verified factory standard operating procedures rather than synthetic simulation.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Employs automated 3D hand-pose estimation, multi-view geometry, and vision-language segmentation to process industrial video at scale.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Capture and Structuring Framework",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics data infrastructure, physical AI, computer vision, foundation models, and industrial automation",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Thai-Founded Vision Lab Raises $6M to Build the Data Layer That Teaches Robots How Factories Really Work",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics foundation models lack large real-world datasets, and the company says industrial environments are underrepresented in public robotics data, so demand for such data is rising.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A capture network spanning 2,000+ factories, per the company, combined with SOP-structured annotations.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Direct enterprise partnership motion targeting frontier research institutions, humanoid robotics OEMs, and industrial automation developers.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Capped at 70: enforces facility anonymization, worker privacy filters, and biometric masking protocols; standards protect industrial IP rather than robotic safety.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: industrial robotics data infrastructure requiring customized dataset scoping, commercial licensing, and enterprise contracting.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Factory Video Ingestion Pipeline",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A distributed data collection network operating across more than 2,000 partner factories, capturing continuous first-person egocentric video of skilled industrial workers.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The core technical thesis of Vision Lab is that general-purpose manipulation models can learn foundational motor primitives by observing human tool interaction at immense scale. By capturing thousands of diverse industrial tasks, from CNC machine tending to high-precision electronics assembly, Vision Lab provides robotics teams with the diverse distribution needed to prevent model overfitting.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab differentiates by operating a dedicated physical network of 2,000+ factory partners to supply real-world egocentric industrial manipulation data rather than relying exclusively on simulation or lab teleoperation. Supported by $6 million in seed funding from Race Capital, Vision Lab continues to scale its physical data pipelines.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab records real factory work from the worker's point of view and turns it into labeled training data for robot models. It sells this data to frontier AI labs and robotics companies. It says the data covers many environments and is checked by engineers or experts.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Factory partners wear cameras while doing normal work, which gives first-person video of real tasks.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of passive factory video, some firms pay experts to demonstrate tasks on purpose, a second way to build robot training data.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "World models and robot policies also need video of cooking, warehouses and driving, which is a wider catalog than factories.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Build AI makes its own capture hardware, while Vision Lab works through a network of partner factories.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Thai-Founded Vision Lab Raises $6M to Build the Data Layer That Teaches Robots How Factories Really Work | Techsauce",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Thai-Founded Vision Lab Raises $6M to Build the Data Layer That Teaches Robots How Factories Really Work",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab, a San Francisco-based startup led by a Thai MIT graduate, has raised $6M in funding from leading Silicon Valley investors. The company is now expanding its global network of factory partners to help build the data infrastructure needed for the next generation of industrial robots.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Robots are getting smarter, but before they can work effectively in factories, they need to learn from real people performing real tasks. Like an apprentice, a robot can learn by observing a technician tighten a bolt, sort parts, or operate a machine.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "The challenge is that there is still very little industrial data available for training robotics systems. While large language models were built on internet-scale datasets, no equivalent dataset exists for physical work inside factories.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab helps bridge that gap. The company partners with manufacturers to capture and structure operational knowledge into datasets used by frontier AI labs and robotics companies. The startup counts three of the Magnificent Seven technology companies among its clients.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Vision Lab works with more than 2,000 factories across Asia and Africa, mainly in China and India, and is looking to deepen its presence in Southeast Asia.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "\"Factories represent where a large share of future robots will be deployed, yet industrial environments remain vastly underrepresented in existing datasets,\" said James Kujareevanich, CEO of Vision Lab and former McKinsey consultant.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "How Partner Factories Benefit",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab collaborates with manufacturing partners to collect data from real production activities, capturing video and operational workflows from factory floors to support the development of robotics foundation models.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "To date, participating factories have collectively earned more than $1 million in data licensing revenue through the program. Participation is designed to have minimal impact on normal factory operations, allowing manufacturers to contribute safely and efficiently.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond generating additional revenue, the partnership also creates an opportunity for factories to become among the first to gain access to emerging AI robotics technologies as they move from research into real-world deployment.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "\"We are not just building a data layer,\" James added. \"Our long-term goal is to help robotics systems operate reliably in real production environments while making automation more accessible to manufacturers around the world.\"",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab provides real-world industrial data to leading AI labs and robotics companies. Founded by researchers from MIT and Stanford alongside operators from McKinsey and BCG, the company is headquartered in San Francisco.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers interested in joining the Vision Lab partner network can generate additional revenue while gaining early access to the future of industrial robotics. For more information, contact",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "contact · vision lab — what do you need egocentric footage sop and action annotations specific industries custom capture not sure yet timeline choose one just exploring within a month 1–3 months this quarter ongoing partnership describe your project* requesting electronics dataset sample prefer email? founders@thevisionlab.ai LINE thai factories on LINE @visionlab ...",
+    "url": "https://thevisionlab.ai/contact?p=lab&industry=electronics",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab — Greenlit with an owner and a date. An 8,400-person company, one question, and decisions the CEO can act on. Acme Corp is a fictional example with illustrative data.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab — Build one customer data platform so Sales, Service and Finance work from the same account numbers, product history and open invoices. Already funded in the 2027 technology roadmap.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 5, 2026 · The Vision Lab - About the company The Vision Lab is a seed company based in New York City (United States), founded in 2014 by Trevor Madigan. It operates as an AI-powered platform crowdsourcing employee ideas for innovation and transformation. The Vision Lab has raised $100K in funding.",
+    "url": "https://tracxn.com/d/companies/thevisionlab/__il5vVPvqRZrppN9VxwmJCuJPF45ozNE25aK86ShxisY",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab 2026 Company Profile: Valuation, Funding ...How The Vision Lab hit $144.7K revenue with a 4 person team in...How The Vision Lab hit $144.7K revenue with a 4 person team in...The Vision Lab Funding History, Valuation and Investors ...The Vision Lab Comparables - aVentureThe Vision Lab - Crunchbase Company Profile & Funding — Oct 30, 2015 · Information on valuation, funding, cap table",
+    "url": "https://pitchbook.com/profiles/company/108623-80",
+    "pass": 3
+   },
+   {
+    "quote": "How The Vision Lab hit $144.7K revenue with a 4 person team in... — Aug 10, 2026 · Since its launch in 2013, The Vision Lab has shown consistent revenue growth, reflecting its expanding user base and increasing adoption across various industries.",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "How The Vision Lab hit $144.7K revenue with a 4 person team in... — The Vision Lab CEO Nicolas Buc shares how The Vision Lab grew to $144.7K over the past 12 years. The Vision Lab has bootstrapped. See The Vision Lab growth...",
+    "url": "https://getlatka.com/companies/the-vision-lab/customers",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab Funding History, Valuation and Investors ... — Feb 17, 2024 · NYC-based The Vision Lab uses AI to analyze, rank, and organize employee ideas, driving fast, actionable business transformation.",
+    "url": "https://aventure.vc/companies/the-vision-lab-new-york-city-ny-us/fundraising",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Lead-to-revenue reporting",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "One structured system tracking the full path from lead capture through revenue",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Took complicated patient acquisition funnels and built clear, actionable reporting inside GoHighLevel",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Daily client acquisition tracking",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, daily granularity",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Full visibility from lead acquisition through donor conversion",
+    "url": "https://visionlabs.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "employees invited with one question and one link",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Finance and Legal are rewriting approval limits as part of the quote project. We will revisit this in Q2, once the new limits are in place.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See what employees saw",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "employees joined, of 930",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Part of the Print Marketing Transformation Initiative: 94 ideas contributed by the people closest to the work.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "corporate employees invited by the CEO",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A CEO-led project to bring the whole organisation into a major change as part of its strategy. The CEO worked with leadership to act on the five main proposals employees raised.",
+    "url": "https://www.thevisionlab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "No public revenue or ARR figure found.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation as a multiple of ARR",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not shown: it needs both a valuation and an ARR figure from a company, investor or named-press source, within 12 months of each other. We do not estimate either.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "We wrote this Spotlight from public material, as part of our series on the companies building with AI.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "To date, participating factories have collectively earned more than $1 million in data licensing revenue through the program. Participation is designed to have minimal impact on normal factory operations, allowing manufacturers to contribute safely and efficiently.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond generating additional revenue, the partnership also creates an opportunity for factories to become among the first to gain access to emerging AI robotics technologies as they move from research into real-world deployment.",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers interested in joining the Vision Lab partner network can generate additional revenue while gaining early access to the future of industrial robotics. For more information, contact",
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab Revenue 2015: $144.7K",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab revenue",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab's annual revenue was $144.7K in April 2015 (source not recorded). The company has since shut down.",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab CEO, founders & employees",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas Buc founded The Vision Lab in 2013 and led it as CEO. The Vision Lab had 4 employees (April 2015).",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "What was The Vision Lab's revenue?",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab's annual revenue was",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does The Vision Lab have?",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2015.",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab Revenue 2015: $144.7K",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab revenue",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab's annual revenue was $144.7K in April 2015 (source not recorded). The company has since shut down.",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab CEO, founders & employees",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas Buc founded The Vision Lab in 2013 and led it as CEO. The Vision Lab had 4 employees (April 2015).",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What was The Vision Lab's revenue?",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab's annual revenue was",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does The Vision Lab have?",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2015.",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Direct enterprise partnership motion targeting frontier research institutions, humanoid robotics OEMs, and industrial automation developers.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get the AI Hiring Index data and new AI jobs in the daily digest, plus the daily Spotlight. Free, and every email has an unsubscribe link.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   },
+   {
+    "quote": "and we email you when new roles match.",
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The Vision Lab ® (@thevisionlab) / X The Vision Lab helps companies transform by tapping into the wisdom of employees.",
+    "url": "https://x.com/thevisionlab",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Lab @ South LA (@VisionLabLA) / X Meet the team that runs the Vision Lab @ South LA and learn more about the program. Join us in a one-hour virtual meeting Wednesday evening, August 30 from 5:30-6:30 pm. Sign up on our website - visionlab.la",
+    "url": "https://x.com/VisionLabLA",
+    "pass": 3
+   },
+   {
+    "quote": "LLMはインターネット上のテキストで学習できた。でもロボットを工場で... LLMはインターネット上のテキストで学習できた。 でもロボットを工場で動かすには、現実の工場データが必要だ（https://thevisionlab [.]ai/articles/seed-2026）。 その「物理AIのデータ壁（Physical AI Data Wall）」を解決するVision Labが$6Mシードを調達。",
+    "url": "https://x.com/itarutomy/status/2073655261651493111",
+    "pass": 3
+   },
+   {
+    "quote": "@thevisionlab.com | X ",
+    "url": "https://x.com/thevisionlab.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vision Lab - LinkedIn Egocentric video collection and annotation for robotics and physical AI. About us Website https://thevisionlab.ai/ Industry Technology, Information and Internet Company size 11-50 employees Type...",
+    "url": "https://www.linkedin.com/company/thevisionlab-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Thevisionlab Jobs in United States (4,000+ Open Roles) | LinkedIn Today’s top 4,000+ Thevisionlab jobs in United States. Leverage your professional network, and get hired. New Thevisionlab jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/thevisionlab-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Fatemah Alajmi - Creative Entrepreneur | M.S. in Global ...Jeisel C. - Global Operations | AI-Driven Workflows | Process ...Pro Vision Lab | LinkedInKim Westlund - Speaker. Facilitator. Movement Builder. I help ...Vision Labs - LinkedIn I'm Fatemah Alajmi, Founder & CEO of Jack and Queen and The Vision Lab – Threads & Code, where fashion, technology, and culture converge to shape a better future. ",
+    "url": "https://kw.linkedin.com/in/falmanea",
+    "pass": 3
+   },
+   {
+    "quote": "Jeisel C. - Global Operations | AI-Driven Workflows | Process ...Pro Vision Lab | LinkedInKim Westlund - Speaker. Facilitator. Movement Builder. I help ...Vision Labs - LinkedIn Global Operations | AI-Driven Workflows | Process Excellence · Karanasan: vision lab | YC X25 · Edukasyon: St. Scholastica's College, Manila · Lokasyon: Metro Manila · 500+ koneksyon sa LinkedIn. Tingnan ang profile ni Jei",
+    "url": "https://ph.linkedin.com/in/jeiselcastillo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "thevisionLab - Facebook If you think dating in 2026 is getting worse... just wait! #3danimation #PixarStyle #animation If you think dating in 2026 is getting worse... just wait!#3danimation#PixarStyle#animation Wasim Brioul 1 thevisionLab Sep 27, 2026·",
+    "url": "https://www.facebook.com/p/thevisionLab-61590591352170/",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab - FacebookThe Vision Lab Productions - FacebookThe Vision Lab - FacebookThe Vision Lab - Facebook Sep 14, 2017 · The Vision Lab. 3 likes. We seek to further enhance the culture of innovation on campus, increase visibility of entrepreneurship as a viable career... The Vision Lab Productions is on Facebook. Join Facebook to connect with The Vision Lab Productions and others you may kn",
+    "url": "https://www.facebook.com/thevizlab/",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab Productions - Facebook The Vision Lab Productions is on Facebook. Join Facebook to connect with The Vision Lab Productions and others you may know. Facebook gives people the...",
+    "url": "https://www.facebook.com/thevisionlabproductions/",
+    "pass": 3
+   },
+   {
+    "quote": "The Vision Lab - Facebook The Vision Lab. 74 likes · 18 talking about this. Digital marketing, Entertainment",
+    "url": "https://www.facebook.com/thevisionlab/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://thevisionlab.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevisionlab.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://visionlabphotography.com/product-category/japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://visionlab.or.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://visionlabs.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thevisionlab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://presentofai.com/spotlight/thevisionlab.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/thevisionlab/__il5vVPvqRZrppN9VxwmJCuJPF45ozNE25aK86ShxisY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/108623-80",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/the-vision-lab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/the-vision-lab#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/thevisionlab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VisionLabLA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itarutomy/status/2073655261651493111",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/thevisionlab-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/thevisionlab-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kw.linkedin.com/in/falmanea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/in/jeiselcastillo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/thevisionLab-61590591352170/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thevizlab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thevisionlabproductions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thevisionlab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/thevisionLab-61590591352170/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thevisionlab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thevisionlab.com",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Thevisionlab 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Thevisionlab 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/91/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.thorlabs.co.jp/",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Thevisionlab Japan",
+   "results": [
+    "https://visionlabphotography.com/product-category/japanese/",
+    "https://thevisionlab.ai/contact?p=lab&industry=electronics",
+    "https://thevisionlab.ai/",
+    "https://visionlab.or.jp/",
+    "https://www.thevisionlab.com/",
+    "https://www.visionlabs.jp/",
+    "https://thevisionlab.ai/careers"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thevisionlab manufacturing customer case study",
+   "results": [
+    "https://visionlabs.com/case-study/",
+    "https://www.thevisionlab.com/",
+    "https://presentofai.com/spotlight/thevisionlab.ai",
+    "https://techsauce.co/en/news/vision-lab-6m-funding-factory-robot-data",
+    "https://thevisionlab.ai/",
+    "https://www.ycombinator.com/companies/vision-lab",
+    "https://thevisionlab.ai/articles/seed-2026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thevisionlab white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.reseller.co.nz/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thevisionlab founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/thevisionlab/__il5vVPvqRZrppN9VxwmJCuJPF45ozNE25aK86ShxisY",
+    "https://pitchbook.com/profiles/company/108623-80",
+    "https://getlatka.com/companies/the-vision-lab",
+    "https://getlatka.com/companies/the-vision-lab/customers",
+    "https://aventure.vc/companies/the-vision-lab-new-york-city-ny-us/fundraising",
+    "https://www.crunchbase.com/organization/the-vision-lab-®",
+    "https://aventure.vc/companies/the-vision-lab-new-york-city-ny-us/compare"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Thevisionlab",
+   "results": [
+    "https://note.com/eminyurumazu",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/visionlab/all",
+    "https://note.com/gyanchu_09/n/n1fdc1a475fb7",
+    "https://note.com/ad_planner_memo/n/n0f68fb8ee8f3",
+    "https://note.com/ekito_station/n/n874fd64bd9cb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Thevisionlab",
+   "results": [
+    "https://x.com/thevisionlab",
+    "https://x.com/VisionLabLA",
+    "https://x.com/itarutomy/status/2073655261651493111",
+    "https://x.com/visionlabAI",
+    "https://x.com/xoeeie/status/2118049984436445429",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/CynicalPublius/status/2112251120060117499"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Thevisionlab",
+   "results": [
+    "https://www.linkedin.com/company/thevisionlab-ai/",
+    "https://www.linkedin.com/jobs/thevisionlab-jobs",
+    "https://kw.linkedin.com/in/falmanea",
+    "https://ph.linkedin.com/in/jeiselcastillo",
+    "https://in.linkedin.com/company/provisionlab",
+    "https://au.linkedin.com/company/thevisionlabs",
+    "https://ca.linkedin.com/in/kim-westlund",
+    "https://in.linkedin.com/in/gkathi"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Thevisionlab",
+   "results": [
+    "https://www.facebook.com/p/thevisionLab-61590591352170/",
+    "https://www.facebook.com/thevizlab/",
+    "https://www.facebook.com/thevisionlabproductions/",
+    "https://www.facebook.com/thevisionlab/",
+    "https://www.facebook.com/p/The-Vision-Lab-61570439176614/",
+    "https://www.facebook.com/VisionLabLA/",
+    "https://www.facebook.com/createyourvisionnow/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thevisionlab note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thevisionlab X 投稿",
+   "results": [
+    "https://www.facebook.com/p/thevisionLab-61590591352170/",
+    "https://x.com/thevisionlab",
+    "https://x.com/thevisionlab.com",
+    "https://x.com/visionlabAI",
+    "https://www.thevisionlab.com/",
+    "https://thevisionlab.ai/",
+    "https://x.com/VisiumLabAI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

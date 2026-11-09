@@ -198,14 +198,14 @@
   - 「最後に、企業分析の進め方に関して就活生が疑問に感じやすい内容に回答します」（https://campus.doda.jp/career/job/000292.html）
   - 「業界研究のやり方と活かし方が一目でわかる！業界研究ノートテンプレ付きガイド」（https://campus.doda.jp/career/job/000292.html）
   - 「自己分析のやり方10選！就活生239人に調査したおすすめの方法を徹底解説」（https://campus.doda.jp/career/job/000292.html）
+  - 「【11選】企業研究の情報収集方法」（https://www.onecareer.jp/articles/3345）
+  - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】 | 新卒のスカウト型・オファー型就活ならdodaキャンパス」（https://campus.doda.jp/career/job/000292.html）
+  - 「企業分析のやり方・目的を徹底解説【分析テンプレート付き】」（https://campus.doda.jp/career/job/000292.html）
+  - 「企業分析のやり方や注意点について徹底的に解説」（https://campus.doda.jp/career/job/000292.html）
+  - 「この記事では、企業研究のやり方に応じて使い分けできる「Excel」「Word」の2種類の企業研究テンプレートを用意しました」（https://campus.doda.jp/career/job/000292.html）
+  - 「非上場・中小企業の株価算定とは？ M&Aでの考え方・算定方法と譲渡価格との関係などをわかりやすく解説｜M&Aキャピタルパートナーズ」（https://www.ma-cp.com/about-ma/unlisted-stock-valuation/）
   - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない｜アラサー人事の選考対策室」（https://note.com/restart_notes25/n/nf64264f912f9）
   - 「企業分析のやり方｜「会社について詳しくなること」が目的ではない」（https://note.com/restart_notes25/n/nf64264f912f9）
-  - 「企業分析のやり方がわからない、何をどこまで調べれば足りるのかわからない」（https://note.com/restart_notes25/n/nf64264f912f9）
-  - 「就活・転職において、企業分析のやり方として多くの人が最初にやることはこうです」（https://note.com/restart_notes25/n/nf64264f912f9）
-  - 「「実際に活躍している人がどんな人か」を知ることが、Q3の精度を上げる最も確実な方法です」（https://note.com/restart_notes25/n/nf64264f912f9）
-  - 「この4ステップをやってみるだけで、「調べたけれど使えない」という感覚が変わるはずです」（https://note.com/restart_notes25/n/nf64264f912f9）
-  - 「Q3・Q4をより体系的に整理し、志望動機に直結させるより具体的な分析手順は、有料記事で公開予定です」（https://note.com/restart_notes25/n/nf64264f912f9）
-  - 「企業分析のやり方とは？効果的な項目や注意点を紹介」（https://hr.ababa.co.jp/article/preparation/how-to-analyze-companies/）
 - 突き合わせ・推定：
   - 「「なぜこの企業はこのような理念を掲げているのか」「この事業の強みはどこにあるのか」「3年後、5年後、この企業はどうなっているだろうか」といった問いを立て、自分なりの仮説や考えを構築していく知的作業」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
   - 「企業分析を通じて、事業のビジネスモデルを深く理解し、社員の働き方やキャリアに関するリアルな情報を収集し、企業が発信する理念やビジョンが現場にまで浸透しているのかを多角的に検証する」（https://crexgroup.com/ja/marketing/career-learning/company-analysis-how-to-guide/）
@@ -9064,61 +9064,67 @@
 ## データ報道の誤りの防ぎ方（表が全部そろっているかの照合・行数・限界の欄の書き方）（data journalism checklist verify complete dataset limitations section）
 - 文脈：裏取り
 - 手順・やり方：
-  - 「began experimenting with the use of computers to process data for various projects at the Detroit Free Press. He also introduced the use of social science methods in reporting, later detailed in his 1973 book, “」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Precision Journalism: A Reporter’s Introduction to Social Science Methods」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「program. From then on, journalists began to receive training on how to use data in their investigations, or even create investigations from data.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors — or lawyers.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Finally, when working with interdisciplinary teams, communication between teams is necessary throughout the process, to ensure everyone is on the same page in terms of understanding the goals of the project and how to execute it.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「offer courses and resources that help understand how to use some of the tools and programming languages.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「<li>Keep a data diary of the steps taken to arrive at a value or insight. This will help during fact-checking or if you are asked questions by editors &mdash; or lawyers.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「<li>Also, use self-referencing and reproducible processes to answer questions later. These could include the use of Excel formulas instead of copy-pasting data; the use of programming codes; the use of a GitHub repository or other methods to keep track of the work.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「<li>Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「<li><a href="https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07">pdfplumber/pdfminer&nbsp;</a></li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「its size, sampling method, margin of error」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「Forming a data team is the first step towards」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「9. Prepare step-by-step tutorials with visuals that」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「and how to access it. The more members of the」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「Knowing how to pick your battles is crucial.」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「8. Did the collection method change over time? Are」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「Data Biographies: How To Get To Know Your Data」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「every step. This not only allows your colleagues or」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「and know how to use spreadsheet program」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「the concepts of sample size, sampling methods,」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「but some steps are different from traditional」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「The next important step is to perform user-testing」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「visualized. There are tips on how to simplify data」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「How to Use Loops to Explain Anything」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「How to Build a News App」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+- 突き合わせ・推定：
+  - 「accurately the brain can estimate the numbers」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「by using readers’ IP addresses to estimate where」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
 - 一次情報の探し方：
+  - 「Content in a PDF document is not structured data,」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「However, these only work for PDF documents with」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「» More tips on PDF conversion」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「data, originally in PDF format, into a spreadsheet,」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
   - 「PDF processing tools such as」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
   - 「<li>PDF processing tools such as」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
   - 「<li><a href="https://rs1.es/tutorials/2021/10/30/poppler-pdf-tools.html">Poppler</a></li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
   - 「<li><a href="https://azhar-sayyad.medium.com/a-step-by-step-guide-to-parsing-pdfs-using-the-pdfplumber-library-in-python-c12d94ae9f07">pdfplumber/pdfminer&nbsp;</a></li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
 - 失敗・落とし穴：
+  - 「copy of the original in case you make mistakes」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「common mistake among designers is aiming」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「motive might lead to biased data.」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「dataset in case you make any irreversible mistakes」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「Another common mistake among journalists is」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「vulnerable to mistake and bias. All the journalism」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「The challenges and possible pitfalls of data」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「effectively. A common mistake among designers is」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「A major pitfall of data-driven stories is putting」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「Mistakes We Made So You Don’t Have To: Data Visualisation, Journalism and the Web」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
   - 「<p>Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「<p>In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data <em>not</em> tell you?</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「<p>Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「<p>“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
   - 「<p>“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「<p>“Not paying attention to the top left corner is the easiest mistake you will make, and it can end careers,” warns Thompson. “You want to always keep your data tied to other lines and rows, so you need to highlight the whole kit-and-caboodle. Don’t ever sort only a single column; always use the top left hand corner — it should be like tying your shoes.”</p>」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「Mistakes with numbers can have a cascading effect for investigative stories, and a damaging effect for audience trust, as many other erroneous figures, trend claims, and conclusions can flow from that initial error.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「“Every journalist will make a mistake — it’s all about being smart about making sure you never make that mistake again, and about being transparent with your audience,” says」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「at American University. “But you can certainly minimize the chance of mistakes.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「In a summary echoed by other experts, Sahejpal says avoiding mistakes generally involves asking yourself three questions: Do you actually have the full dataset? Have you spoken to the person behind the data to know what it really means? And what does the data」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「Still, mistakes do happen, and here are 10 common causes, according to data journalism experts.」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「This simple mistake is nevertheless a perennial problem — and can end up accidentally misleading audiences. “If something jumps from 20 to 30%, that’s actually a 50% increase, not a 10% increase — that can be tricky, and important to pay attention to,” explains Sunne. Data experts stress that」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「“If you have a dataset of perfectly 1,000 or 10,000 rows, I would bet money something is off,” Sahejpal says. “And I can’t tell you the number of students I’ve had who downloaded a file, and didn’t realize they’d downloaded a filtered version. Another mistake is if you don’t check that the range of your dataset is equal to the reported range on a government website.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「). “It’s also possible to make really basic conceptual mistakes if you don’t think about the origin of the numbers.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-  - 「“The number one thing I do to avoid mistakes as an editor is to list what the data doesn’t tell you,” he says. “What we call the ‘limitations section’ on your dataset is your strongest ally, because if you know what it doesn’t tell you, you know to not say what you should not say, and what further questions to ask.”」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
 - 実例：
-  - 「Data is everywhere. Because of advances in technology over the past decades, people can store and process more information than ever before. Meanwhile, data can come in aggregate or granular form. Of course, journalists often prefer to obtain granular data so it can be analyzed from all angles. Even so, that’s not always the case.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「like the example in this link」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Some examples of publicly available datasets include:」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「In some cases, journalists may need to create their own dataset if it doesn’t already exist in a structured format — via documents or other sources, for example.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data — in case of an error, it’s possible to trace it to its origin.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Record your findings in a way that you and other team members can follow easily. Develop systematic methods to store your calculations, for example, via spreadsheets, dashboards, Python code, or a wiki page.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「As part of the analysis, it is possible to cross-reference the information with other datasets. For example, cross-referencing data from entities registered in offshore jurisdictions that appeared in the」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「In these cases, data often drives the stories.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「Meanwhile, the great thing about data stories is that they present an opportunity to play around with a number of methods to get the data across. For example, the findings can be packaged as a tweet or a TikTok post, or it can be presented via an infographic or a video. Newsrooms are often employing more than one method to accompany their print or video stories.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「For example, engineers can develop tools that help address the needs of the journalists, develop machine learning models to screen millions of records, use technology in the service of journalists, and help process millions of records.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「The series explored corruption cases in Kenya connected to “procurement and shady tendering scams in government and government agencies.” The project reviewed public procurement information and explored connections involving public officials and other stakeholders who, through a series of companies, received benefits in tender processes.」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「<li>Updates from government officials and law enforcement through their social media, websites, and official channels, <a href="https://x.com/DCI_Kenya/status/1099963556500516865">like the example in this link</a>.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「</ul><p>If an organization or a public agency publishes a figure (such as a statistic), asking for the data behind it could also be a way of accessing a dataset.</p><p>Some examples of publicly available datasets include:</p><ul>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「</ol><p>In some cases, journalists may need to create their own dataset if it doesn&rsquo;t already exist in a structured format &mdash; via documents or other sources, for example.</p><ol start="2">」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
-  - 「<li><b> Document and safeguard the data.</b> If you end up restructuring the data, remember to make a README file, known as a document of instructions, about the data and your methodology. Keep notes of your processes while working with the data. This will help to reduce errors. Keep a copy of the original data &mdash; in case of an error, it&rsquo;s possible to trace it to its origin.</li>」（https://gijn.org/resource/introduction-investigative-journalism-data-journalism/）
+  - 「copy of the original in case you make mistakes」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「an example of how data journalism」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「revealed, for example, that since」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「For example, a 2-member team may consist」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「6. Use participants’ stories as examples or in」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「For example, The Sun Sentinel, a local daily」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「Examples are news apps that allow users to view」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「on bus subsidies in Argentina is a good case of」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「For example, US news website ProPublica」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「automated. The Guardian, for example, asked」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「they apples-to-apples comparisons? For example,」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「dataset in case you make any irreversible mistakes」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「In most cases you just need to perform basic」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「• Rate: per capita, per cases」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
+  - 「in the bigger entity. For example, if the bigger」（https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf）
 - 検索結果の抜粋：
   - 「10 simple data errors that can ruin an investigation — 10 simple data errors that can ruin an investigation The Journalist's Resource https://journalistsresource.org > home」（https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
 
 ## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
 - 文脈：推定
@@ -14399,11 +14405,11 @@
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方（headcount definitions full-time equivalent persons engaged statistics vs payroll employees revenue per employee comparison）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ28頁・検索12回）
+- 実例：記載なし（読んだ28頁・検索12回）
 
 ## 県・市の統計年鑑の用語の説明（製造品出荷額等・付加価値額の規模の境目・従業者の定義・凡例の無い x と -・市町村別と産業別の合計の照合）（prefectural statistical yearbook definitions manufacturing shipments value added size threshold）
 - 文脈：手法・統計
@@ -14415,19 +14421,19 @@
 
 ## 市場調査が「追認」になっていないかの点検（決める問いを先に1つに絞る・熱の数字でなく払う側の採算・コンサル・業界アナリストの随筆）（market research confirmation bias rubber stamp strategy operator economics consultant essay）
 - 文脈：手法・推定
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 非上場会社の調査で出どころの確度の表を先に固定し、同格の値の割れに採否の列を付ける実務（投資家・アナリストの手順書）（private company research source matrix confidence levels conflicting sources adoption judgment）
 - 文脈：手法・企業調査
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
+- 実例：記載なし（読んだ18頁・検索12回）
 
 ## データ報道の記者団体・財団の検証の手引き（ICFJ・Reynolds Center・GIJN：原典を示せない統計・自社の客だけの調査・メタデータの点検）（journalism foundation guide verifying statistics sources ICFJ Reynolds Center GIJN data quality）
 - 文脈：裏取り
@@ -14917,65 +14923,69 @@
 ## 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）（Mauboussin base rate book PDF sales growth distribution reference class forecasting Flyvbjerg shrinkage）
 - 文脈：推定
 - 手順・やり方：
-  - 「This paper proposes a general method to handle forecasts exposed to behavioural」（https://arxiv.org/pdf/2107.11133）
-  - 「integral transformations and by comparing the predicted quantiles. The method is」（https://arxiv.org/pdf/2107.11133）
-  - 「is a lack of studies which investigate how to construct optimal reference classes for the」（https://arxiv.org/pdf/2107.11133）
-  - 「a method to ﬁnd appropriate outside views for sales forecasts of analysts. Hence, we」（https://arxiv.org/pdf/2107.11133）
-  - 「amount of data is required. Thus, the proposed method is well suited for practical」（https://arxiv.org/pdf/2107.11133）
-  - 「which involves ﬁve steps. First, the forecaster has to identify a set of similar cases which」（https://arxiv.org/pdf/2107.11133）
-  - 「distribution has either to be assessed directly or to be estimated within the next step. At」（https://arxiv.org/pdf/2107.11133）
-  - 「In the fourth step the expert needs to assess the predictability of their forecasts. In」（https://arxiv.org/pdf/2107.11133）
-  - 「While each of the ﬁve steps has its own pitfalls in practice, we focus on the ﬁrst one and」（https://arxiv.org/pdf/2107.11133）
-  - 「provide guidance how to select an appropriate reference class. This is of major importance」（https://arxiv.org/pdf/2107.11133）
-  - 「as Kahneman and Tversky(1979) gave no guideline how to build reference classes apart」（https://arxiv.org/pdf/2107.11133）
-  - 「In order to overcome this drawback we will present an alternative method which does」（https://arxiv.org/pdf/2107.11133）
-  - 「2.1. Theoretical Framework」（https://arxiv.org/pdf/2107.11133）
-  - 「We aim to forecastYi,t+h, i.e. anh-step ahead forecast of the random variable{Yi,t} for」（https://arxiv.org/pdf/2107.11133）
-  - 「in the backtest where all methods depend on the number of past years to use for reference」（https://arxiv.org/pdf/2107.11133）
+  - 「variates as reference variables, that are implicit predictors. The method can be」（https://arxiv.org/pdf/2405.03402）
+  - 「forecasts to realized sales growth illustrate the practical use of the method.」（https://arxiv.org/pdf/2405.03402）
+  - 「we extend the method for distributional forecasts with reference classes proposed by」（https://arxiv.org/pdf/2405.03402）
+  - 「sales growth with a single co-variate and we generalize their method using rank based」（https://arxiv.org/pdf/2405.03402）
+  - 「We propose a framework for reference class selection based on several co-variates, here」（https://arxiv.org/pdf/2405.03402）
+  - 「proposed methods are well suited for practical application, the more so, as the outside view」（https://arxiv.org/pdf/2405.03402）
+  - 「and how to apply their results in practice. We additionally display historic distributional」（https://arxiv.org/pdf/2405.03402）
+  - 「framework of reference class selection and the proposed algorithms. Performance measures」（https://arxiv.org/pdf/2405.03402）
+  - 「seen as a data driven method to overcome overoptimism, wishful thinking or strategic」（https://arxiv.org/pdf/2405.03402）
+  - 「Here, we concentrate on a framework to select an appropriate reference class. This is」（https://arxiv.org/pdf/2405.03402）
+  - 「critical as Kahneman and Tversky(1979) gave no instructions how to build reference」（https://arxiv.org/pdf/2405.03402）
+  - 「their method has certain drawbacks (seeTheising et al., 2023) and their study lacks a」（https://arxiv.org/pdf/2405.03402）
+  - 「2.1. Theoretical Framework」（https://arxiv.org/pdf/2405.03402）
+  - 「For a given firmi at timet, we aim to construct a reference class for anh-step ahead」（https://arxiv.org/pdf/2405.03402）
+  - 「forecast of the distribution ofYi,t+h, that is a distributionalh-step ahead forecast of the」（https://arxiv.org/pdf/2405.03402）
 - 突き合わせ・推定：
+  - 「of actual analysts’ estimates to distributional forecasts and of historic distributional」（https://arxiv.org/pdf/2405.03402）
+  - 「at Flossbach von Storch AG for providing the analysts’ estimates. Moreover, the author thanks the」（https://arxiv.org/pdf/2405.03402）
+  - 「actual analysts’ estimates, thus, illustrates the practical application of reference classes」（https://arxiv.org/pdf/2405.03402）
+  - 「as an estimate of the marginal distribution neglecting any confounding variables. The」（https://arxiv.org/pdf/2405.03402）
+  - 「Table 3 shows the estimated density of historical sales compound annual growth rate」（https://arxiv.org/pdf/2405.03402）
+  - 「Figure 7:Estimated densities of compound annual sales growth rate for horizons one,」（https://arxiv.org/pdf/2405.03402）
+  - 「existing forecast over providing confidence intervals and point estimates to calculating」（https://arxiv.org/pdf/2405.03402）
+  - 「correct the prediction. Confidence intervals and point estimates can be directly calculated」（https://arxiv.org/pdf/2405.03402）
+  - 「then compared to analysts’ forecast from theFactSet(2021) estimates database. For both」（https://arxiv.org/pdf/2405.03402）
+  - 「(vertical: min/mean/max of expert estimates)」（https://arxiv.org/pdf/2405.03402）
+  - 「options from Table 6 compared to experts’ estimates. Density estimation on」（https://arxiv.org/pdf/2405.03402）
+  - 「rithm options from Table 6 compared to experts’ estimates. Density estimation」（https://arxiv.org/pdf/2405.03402）
+  - 「loaded on 29 January, 2020. The “Core company data - estimates data” that support the」（https://arxiv.org/pdf/2405.03402）
+  - 「FactSet. Core company data - estimates data. FactSet, 2021. URLhttp://factset.com/.」（https://arxiv.org/pdf/2405.03402）
   - 「quality is measured by applying goodness-of-ﬁt tests on the estimated probability」（https://arxiv.org/pdf/2107.11133）
-  - 「providing the analysts’ estimates and valuable advice. This research did not receive any speciﬁc grant」（https://arxiv.org/pdf/2107.11133）
-  - 「actual analysts’ estimates in order to show the practical usefulness and demonstrate how」（https://arxiv.org/pdf/2107.11133）
-  - 「distribution has either to be assessed directly or to be estimated within the next step. At」（https://arxiv.org/pdf/2107.11133）
-  - 「from theFactSet (2021) estimates database9, whereby for both estimates 2018 is the」（https://arxiv.org/pdf/2107.11133）
-  - 「FactSet. Core company data - estimates data. FactSet, 2021. URLhttp://factset.com/.」（https://arxiv.org/pdf/2107.11133）
-  - 「Evidence from analyst earnings estimates and price targets.Journal of Behavioral」（https://arxiv.org/pdf/2107.11133）
-  - 「Figure 5:Estimated densities of compound annual sales growth for horizons one, three,」（https://arxiv.org/pdf/2107.11133）
-  - 「(vertical: min/mean/max of expert estimates)」（https://arxiv.org/pdf/2107.11133）
-  - 「and size = 0.025 compared to experts’ estimates. For density estimation on」（https://arxiv.org/pdf/2107.11133）
-  - 「window = 30 and size = 0.025 compared to experts’ estimates. For density」（https://arxiv.org/pdf/2107.11133）
 - 失敗・落とし穴：
+  - 「used to detect expert or model-based forecasts exposed to (behavioral) bias or to」（https://arxiv.org/pdf/2405.03402）
+  - 「Bias Correction, Prediction, Outside View」（https://arxiv.org/pdf/2405.03402）
+  - 「shown to be biased as well as overoptimistic (see, e.g.,Tversky and Kahneman, 1973,」（https://arxiv.org/pdf/2405.03402）
+  - 「the aforementioned biases (Tetlock and Gardner, 2016). The concept of the outside」（https://arxiv.org/pdf/2405.03402）
+  - 「2016; Karvetski et al., 2021). But in general the literature focused more on biases than」（https://arxiv.org/pdf/2405.03402）
+  - 「on debiasing itself (Chang et al., 2016). Theising et al.(2023) discuss some examples」（https://arxiv.org/pdf/2405.03402）
+  - 「based on heuristics and were empirically shown to be biased as well as overoptimistic」（https://arxiv.org/pdf/2405.03402）
+  - 「a likewise biased forecast exists. Based on this trade-offLovallo and Kahneman(2003)」（https://arxiv.org/pdf/2405.03402）
+  - 「cloud highlight the pitfall that elements on the border of one cluster may be」（https://arxiv.org/pdf/2405.03402）
+  - 「finding calibrated distributional forecasts if any exist, e.g. to correct potentially biased」（https://arxiv.org/pdf/2405.03402）
+  - 「biased conclusions in the backtest.」（https://arxiv.org/pdf/2405.03402）
+  - 「thought, correcting potentially biased expert (or model based) forecasts with the outside」（https://arxiv.org/pdf/2405.03402）
+  - 「D. Kahneman and A. Tversky. Intuitive prediction: Biases and corrective procedures.」（https://arxiv.org/pdf/2405.03402）
+  - 「A. Tversky and D. Kahneman. Judgement under uncertainty: Heuristics and biases.」（https://arxiv.org/pdf/2405.03402）
   - 「bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of」（https://arxiv.org/pdf/2107.11133）
-  - 「Keywords: Distributional Forecast, Goodness of Fit, Outside View, Prediction, Bias」（https://arxiv.org/pdf/2107.11133）
-  - 「and forecasts are often based on heuristics and were empirically shown to be biased as well」（https://arxiv.org/pdf/2107.11133）
-  - 「(17%), availability (15%) and loss aversion (13%) are the behavioral biases that aﬀect」（https://arxiv.org/pdf/2107.11133）
-  - 「investment decisions the most.Lim (2001) reviews analysts’ bias,Jones and Johnstone」（https://arxiv.org/pdf/2107.11133）
-  - 「source of bias.Ashton and Cianci(2007) discuss diﬀerences between buy-side and sell-」（https://arxiv.org/pdf/2107.11133）
-  - 「mentioned biases (Tetlock and Gardner, 2016). The basic idea of the outside view is」（https://arxiv.org/pdf/2107.11133）
-  - 「attention to the biases than to debiasing (Chang et al., 2016). Green and Armstrong」（https://arxiv.org/pdf/2107.11133）
-  - 「classes are prone to the availability bias described byTversky and Kahneman(1973).」（https://arxiv.org/pdf/2107.11133）
-  - 「consist of only six elements elevating the probability of bias again. Surprisingly there」（https://arxiv.org/pdf/2107.11133）
-  - 「fact that forecasts are often based on heuristics and were empirically shown to be biased」（https://arxiv.org/pdf/2107.11133）
-  - 「Kahneman and Tversky(1979) introduced a corrective procedure for biases of predictions」（https://arxiv.org/pdf/2107.11133）
-  - 「While each of the ﬁve steps has its own pitfalls in practice, we focus on the ﬁrst one and」（https://arxiv.org/pdf/2107.11133）
-  - 「In this case the probability of a biased forecast is again elevated. Based on this fact」（https://arxiv.org/pdf/2107.11133）
-  - 「cloud and highlights the pitfall that an element on the border of one cluster may be closer」（https://arxiv.org/pdf/2107.11133）
 - 実例：
-  - 「bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of」（https://arxiv.org/pdf/2107.11133）
-  - 「A case study compares the outside view of our distributional forecasts with actual」（https://arxiv.org/pdf/2107.11133）
-  - 「distribution of future sales. Moreover, in a case study we compare our forecasts with」（https://arxiv.org/pdf/2107.11133）
-  - 「the inside view, i.e. information on the speciﬁc case at hand, with the outside view,」（https://arxiv.org/pdf/2107.11133）
-  - 「i.e. information on a class of similar cases. This may include for example statistical or」（https://arxiv.org/pdf/2107.11133）
-  - 「which involves ﬁve steps. First, the forecaster has to identify a set of similar cases which」（https://arxiv.org/pdf/2107.11133）
-  - 「this point the expert uses their available information on the case for an inside prediction.」（https://arxiv.org/pdf/2107.11133）
-  - 「case of linear prediction, this may be the correlation between their predictions and the」（https://arxiv.org/pdf/2107.11133）
-  - 「from the general rule to use similar cases. Moreover, there is a fundamental conﬂict」（https://arxiv.org/pdf/2107.11133）
-  - 「take as many cases into account as possible. However, it is crucial that heterogeneity」（https://arxiv.org/pdf/2107.11133）
-  - 「In this case the probability of a biased forecast is again elevated. Based on this fact」（https://arxiv.org/pdf/2107.11133）
-  - 「In literature, there are several studies dealing with reference class building. For example,」（https://arxiv.org/pdf/2107.11133）
-  - 「Lovallo et al.(2012) report two case studies with respect to private-equity investment deci-」（https://arxiv.org/pdf/2107.11133）
-  - 「as they used clustered data which has a substantial problem in general. As an example,」（https://arxiv.org/pdf/2107.11133）
-  - 「example, we could use all companies which had an operating margin±1 percentage」（https://arxiv.org/pdf/2107.11133）
+  - 「on debiasing itself (Chang et al., 2016). Theising et al.(2023) discuss some examples」（https://arxiv.org/pdf/2405.03402）
+  - 「2Venn (1888) originally describes an example of a fifty-year-old consumptive Englishman with many」（https://arxiv.org/pdf/2405.03402）
+  - 「on the forecast horizon. Further, a case study compares the distributional forecasts with」（https://arxiv.org/pdf/2405.03402）
+  - 「often focus solely on information on the specific case at hand, the inside view, while」（https://arxiv.org/pdf/2405.03402）
+  - 「neglecting information on a class of similar cases, the outside view. Statistical or empirical」（https://arxiv.org/pdf/2405.03402）
+  - 「prediction, from the selection of a set of similar cases as a reference class to provide」（https://arxiv.org/pdf/2405.03402）
+  - 「correlation between their predictions and the outcomes in case of linear prediction, and,」（https://arxiv.org/pdf/2405.03402）
+  - 「classes except the general rule to use similar cases. Moreover, there is a conflict of」（https://arxiv.org/pdf/2405.03402）
+  - 「cases into account as possible provides the most distributional information. However, it is」（https://arxiv.org/pdf/2405.03402）
+  - 「5In case of a finance application like here, such a data generating mechanism may be calledmarket」（https://arxiv.org/pdf/2405.03402）
+  - 「clusters and due to continuity of reference variables in our case we argue that it does」（https://arxiv.org/pdf/2405.03402）
+  - 「6This applies to the special case here. The proposed procedures do not account for ‘natural’ clusters」（https://arxiv.org/pdf/2405.03402）
+  - 「that might occur. For example, there might be only 20 observations ‘very similar’ to the initial」（https://arxiv.org/pdf/2405.03402）
+  - 「case. But the algorithm may choose the most similar 25 observations and, thus, five less informative」（https://arxiv.org/pdf/2405.03402）
+  - 「from the set of candidates. In both cases, all candidate firms that are in the same major」（https://arxiv.org/pdf/2405.03402）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 統計の対象範囲と裾切りの一覧（企業活動基本調査・法人企業統計・経済センサス・工業統計・中小企業実態基本調査の対象規模と抽出の違い・白書の凡例と各調査の利用上の注意・4-112）（Japan official statistics coverage thresholds SME survey comparison）

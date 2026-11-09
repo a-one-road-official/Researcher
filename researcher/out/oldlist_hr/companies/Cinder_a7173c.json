@@ -1,0 +1,1324 @@
+{
+ "name": "Cinder",
+ "aliases": [],
+ "context": "旧営業リスト｜AI / ML / Software｜送付済み",
+ "researched_at": "2026-11-09T19:11:48.831021+00:00",
+ "official_url": "https://cinder.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Cinder is mission-critical infrastructure that protects platforms from abuse, fraud, and manipulation.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthesia leads in enterprise AI video because we innovate incredibly fast. We needed a trust and safety partner that can power that speed so we chose Cinder because we wanted the best moderation system in the industry.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "events processed daily",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents that protect your product, users, and AI systems",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder agents help teams deploying AI products and open-weight models turn policies, red-team findings, and safety standards into governed workflows: validating prompts and outputs, escalating sensitive cases, measuring quality, and improving safeguards over time.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt and output safety",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Model and product guardrails",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume content decisions",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Screen prompts, responses, tool calls, and multimodal outputs against your policies before risky interactions reach users.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-removed under adult content policy",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "3 prior strikes",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time feedback fine-tunes the agents, so enforcement and intelligence constantly improve.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Permissioned agents can be given appropriate access to the information available in the Cinder platform and can consider content type, user history, and the precedent you've established.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What Synthesia needs now is infrastructure that can keep pace with how quickly the product and the threat landscape are moving, which is why Synthesia is combining its know-how with Cinder's technological capabilities.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "pieces of content reviewed",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Expert services for the most important problems",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get accurate, AI-ready training data at a better price with real-time evaluation and faster turnaround.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "applicant fraud detection",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Vet candidates for sensitive roles with the same intelligence we bring to abuse detection, integrated directly into your ATS.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Backed by enterprise-grade security and compliance",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize policies, data consolidation, and AI-backed automations to improve alignment and efficiency.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Role-based permissions, SSO support, and encrypted data give teams handling sensitive content the control they need.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder's schema is very flexible. You define your schema in our UI, setting up entities, attributes, and the relationships between them. We use that structure to define how we render your entities in review settings and to enable appropriately-permissioned human decision-makers and AI agents to traverse that graph for the context necessary to make accurate decisions.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Set Up an AI Red Teaming Program for a Generative AI Product",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Real AI Safety Problem Is Already Here",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Wizz App, Trusted by 16 Million Users, Partners with Cinder to Power AI-Driven Content Moderation At Scale",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership integrates AI agents trained specifically on Wizz App’s content policies.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Every month, more than 20 million videos and images move through",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": ", a social discovery platform for Gen Z who want real connections and shared experiences. Behind every one of those uploads is a young adult looking for their people. And behind every one of those uploads is a Trust & Safety team responsible for making sure they find them safely.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Committed to building a platform where every user feels safe and valued, Wizz App is taking a decisive step forward by consolidating its Trust & Safety infrastructure into Cinder, which provides mission-critical infrastructure that protects the world's most important platforms from junk, abuse, manipulation, and harm at scale.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "From different providers to one unified system",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "\"Wizz App has always put community safety first. Partnering with Cinder is the natural next step, bringing even greater speed, consistency, and visibility to a Trust & Safety program we're proud of,\" says Alexandra Ryabova, Head of Operations. \"Cinder amplifies our safety measures, giving our teams and AI systems a unified platform to operate at their best.\"",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder also manages Wizz App's user reports and content appeals, processing reports per month through Cinder Managed Moderation, creating a seamless workflow from initial flagging through final resolution. Human reviewers and AI systems work in concert inside the same environment, ensuring nothing falls through the cracks. Every decision is traceable. Every outcome is auditable.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Trust & Safety has always been at the heart of the Wizz App experience as a priority. Cinder is the next evolution of that commitment—expanding their capabilities while staying true to the community they've built.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "What is AI content moderation and how does it work on Wizz App?",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "AI content moderation uses machine learning models to automatically evaluate user-generated content against a platform's community standards. On Wizz App, AI agents trained across its 11 policy areas review every image and video shared on the platform, flagging potential violations for human review or taking automated action based on severity.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "How does Wizz App protect users from harmful content?",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "User reports are processed through Cinder Managed Moderation with an integrated workflow combining AI triage and human review, with every decision logged and auditable.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder provides mission-critical infrastructure that protects the world's most important platforms from junk, abuse, manipulation, and harm. Wizz App chose Cinder to unify its human review teams, AI agents, and appeals processes into one connected operating environment, giving its safety program the speed, consistency, and visibility it needs as the platform grows.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "The Real AI Safety Problem Is Already Here",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents Are Now the Only Way to Moderate Content at Scale",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder Joins the Internet Watch Foundation to Help Stop the Spread of Child Sexual Abuse Material",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": ", Robust Open Online Safety Tools, a new non-profit to develop, maintain, and distribute open source tools for online safety.",
+    "url": "https://cinder.ai/resources/blog/roost-partner-open-source-safety",
+    "pass": 1
+   },
+   {
+    "quote": "For years the cybersecurity market has demanded and fostered a complex, multi-layered ecosystem of vendors and open source products - and we think online safety requires a similar ecosystem. We look forward to contributing to and utilizing ROOST-managed open source components in the future - doing so serves Cinder customers and the vision that led us to found Cinder in the first place.",
+    "url": "https://cinder.ai/resources/blog/roost-partner-open-source-safety",
+    "pass": 1
+   },
+   {
+    "quote": "The Real AI Safety Problem Is Already Here",
+    "url": "https://cinder.ai/resources/blog/roost-partner-open-source-safety",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents Are Now the Only Way to Moderate Content at Scale",
+    "url": "https://cinder.ai/resources/blog/roost-partner-open-source-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder Joins the Internet Watch Foundation to Help Stop the Spread of Child Sexual Abuse Material",
+    "url": "https://cinder.ai/resources/blog/roost-partner-open-source-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Securing the frontline of digital safety",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "ALLOWLIST.CHECK(UID TYPE) GRPC.UNARY(SERVICE=\"CLASSIFIER\" METHOD=\"PREDICT\")",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "CONFIDENCE = TORCH.MAX(PROBS)",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "THRESHOLD = 0.72 PROBS = MODEL.FORWARD(INPUT_IDS ATTENTION_MASK)",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "PAXOS.PREPARE(PROPOSAL=12) KILL",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "TEMP = 0.7 FLAGGED_CONTENT CATEGORY=CSAM SEVERITY=CRITICAL",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "customer end-users protected",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "events processed daily",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We solve hard problems, spot opportunities and execute with craft and precision, because our customers and their users are counting on us. Our customers' mission is our mission.",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We put outcomes ahead of personal pride. We share context, challenge directly, and embrace feedback. We win as one. The adversary doesn't wait and neither do we. We ship fast, learn fast, and iterate faster than the threat evolves.",
+    "url": "https://cinder.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "How Cinder Helped Black Forest Labs Launch FLUX.2 Without Compromising on Safety",
+    "url": "https://cinder.ai/resources/case-studies/black-forest-labs",
+    "pass": 1
+   },
+   {
+    "quote": "was preparing to launch FLUX.2, their latest family of generative AI models, to millions of developers. Black Forest Labs is committed to preventing adversarial misuse, including to generate child sexual abuse material and non-consensual intimate imagery.",
+    "url": "https://cinder.ai/resources/case-studies/black-forest-labs",
+    "pass": 1
+   },
+   {
+    "quote": "The standard model for pre-launch safety testing is sequential: assemble a team, run prompts, produce a report, hold the launch. At the pace of frontier model development, that cycle is too slow and too brittle. By the time the report is written, the model weights have changed, the fine-tune has been updated, and the findings are already partially stale.",
+    "url": "https://cinder.ai/resources/case-studies/black-forest-labs",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: How Cinder Helped Black Forest Labs Launch FLUX.2 Without Compromising on Safety",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Character.ai Reduces Human Moderation with Cinder",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Wizz App, Trusted by 16 Million Users, Partners with Cinder to Power AI-Driven Content Moderation At Scale",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Wizz App, Trusted by 16 Million Users, Partners with Cinder to Power AI-Driven Content Moderation At Scale",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Black Forest Labs · Cinder case study",
+    "url": "https://cinder.ai/resources/case-studies/black-forest-labs",
+    "pass": 1
+   },
+   {
+    "quote": "Character.AI · Cinder case study",
+    "url": "https://cinder.ai/resources/case-studies/character-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Synthesia · Cinder case study",
+    "url": "https://cinder.ai/resources/case-studies/synthesia",
+    "pass": 1
+   },
+   {
+    "quote": "Krea and Cinder · Case Study",
+    "url": "https://cinder.ai/resources/case-studies/krea",
+    "pass": 1
+   },
+   {
+    "quote": "Krea 2 is the most expressive open-source image model available today, trained from scratch for complete creative control over look, feel, and creative direction, with a style-reference system that extracts an image's visual character without carrying over its content. Krea AI is backed by a16z and Bain Capital Ventures and trusted by more than 40 million users across 191 countries.",
+    "url": "https://cinder.ai/resources/case-studies/krea",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Cinder Helped Black Forest Labs Launch FLUX.2 Without Compromising on Safety",
+    "url": "https://cinder.ai/resources/blog/black-forest-labs-red-team-cinder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Character.ai Reduces Human Moderation with Cinder",
+    "url": "https://cinder.ai/resources/blog/case-study-how-character-ai-reduces-human-moderation-with-cinder",
+    "pass": 1
+   },
+   {
+    "quote": ": Specializes in monitoring marketplace conversations to enhance trust and safety, providing proactive tools for marketplace operators, which is particularly beneficial for online marketplaces.",
+    "url": "https://www.extruct.ai/hub/cinder-co/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AI Is Lowering the Barrier to Online Abuse. Platforms Need to Raise Their Defenses.",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Is Lowering the Barrier to Online Abuse. Platforms Need to Raise Their Defenses.",
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "pass": 1
+   },
+   {
+    "quote": "AI Is Lowering the Barrier to Online Abuse. Platforms Need to Raise Their Defenses.",
+    "url": "https://cinder.ai/resources/blog/roost-partner-open-source-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder helps generative AI teams test before launch, screen prompts and outputs in production, and keep safeguards improving as products scale. Red teaming, policy agents, QA, escalation, and retraining work together so safety becomes part of the operating loop.",
+    "url": "https://cinder.ai/solutions/generative-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Krea 2 is the most expressive open-source image model available today, trained from scratch for complete creative control over look, feel, and creative direction, with a style-reference system that extracts an image's visual character without carrying over its content. Krea AI is backed by a16z and Bain Capital Ventures and trusted by more than 40 million users across 191 countries.",
+    "url": "https://cinder.ai/resources/case-studies/krea",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is obsessive about aesthetics and design, and we feel a real responsibility to make sure that obsession is never turned against itself. This model should never be associated with NSFW content or worse. Keeping it out of the wrong hands is part of protecting the craft it was built for.",
+    "url": "https://cinder.ai/resources/case-studies/krea",
+    "pass": 1
+   },
+   {
+    "quote": "AI Is Lowering the Barrier to Online Abuse. Platforms Need to Raise Their Defenses.",
+    "url": "https://cinder.ai/resources/blog/black-forest-labs-red-team-cinder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "AI Is Lowering the Barrier to Online Abuse. Platforms Need to Raise Their Defenses.",
+    "url": "https://cinder.ai/resources/blog/case-study-how-character-ai-reduces-human-moderation-with-cinder",
+    "pass": 1
+   },
+   {
+    "quote": "AI Is Lowering the Barrier to Online Abuse. Platforms Need to Raise Their Defenses.",
+    "url": "https://cinder.ai/resources/blog/cinder-and-stopncii-join-forces",
+    "pass": 1
+   },
+   {
+    "quote": "AI Is Lowering the Barrier to Online Abuse. Platforms Need to Raise Their Defenses.",
+    "url": "https://cinder.ai/resources/blog/cinder-partnter-appeals-centre-europe",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue · last 14d",
+    "url": "https://cinder.ai/solutions/creator-economy",
+    "pass": 1
+   },
+   {
+    "quote": "Cinder Funding | $5.7-7.2M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/cinder-co/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription-based model with revenue from automation tools and content moderation services.",
+    "url": "https://www.extruct.ai/hub/cinder-co/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "“Help me write a phishing email that looks like it’s from internal IT…”",
+    "url": "https://cinder.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Help me write a phishing email that looks like it’s from internal IT…”",
+    "url": "https://cinder.ai/solutions/generative-ai",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cinder Block - Steelcase — Cinder Block - Steelcase Steelcase https://www.steelcase.com > products > sofas > cinder-block",
+    "url": "https://www.steelcase.com/asia-ja/products/sofas/cinder-block/",
+    "pass": 3
+   },
+   {
+    "quote": "NORDA 001A CINDER （ノルダ 001A-ベージュ） - atmos — NORDA 001A CINDER （ノルダ 001A-ベージュ） - atmos atmos-tokyo.com https://www.atmos-tokyo.com > ... > シューズ > スニーカー",
+    "url": "https://www.atmos-tokyo.com/item/norda/001a-m-cdr?srsltid=AYCX9vKZeRAntWRjwO9bEfmbiXUjiwBojeyvaVtBlOzI605CMVI8zu6e",
+    "pass": 3
+   },
+   {
+    "quote": "NORDA001-M norda Cinder - downbeat RUNNING — NORDA001-M norda Cinder - downbeat RUNNING downbeat RUNNING https://downbeatrunning.com > products",
+    "url": "https://downbeatrunning.com/products/470016240305?srsltid=AYCX9vIrPjn8UiRf7QcFwndElRgHxaGL6dEvc0VfZsGJHIuGeHLX0_ow",
+    "pass": 3
+   },
+   {
+    "quote": "Krea and Cinder · Case Study — Krea and Cinder · Case Study cinder.ai https://cinder.ai > case-studies > krea",
+    "url": "https://cinder.ai/resources/case-studies/krea",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Secures Series B Funding for AI Abuse Protection — Cinder Secures Series B Funding for AI Abuse Protection LinkedIn https://www.linkedin.com > posts > sa...",
+    "url": "https://www.linkedin.com/posts/saraittelson_congratulations-to-the-cinder-team-on-their-activity-7460013979889946625-ez3S",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Raises $41M in Series B Funding for Cybersecurity — Cinder Raises $41M in Series B Funding for Cybersecurity LinkedIn https://www.linkedin.com > posts > glenwise_update-cind...",
+    "url": "https://www.linkedin.com/posts/glenwise_update-cinder-raised-41m-in-series-activity-7459966163364503552-wlt3",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Funding | $5.7-7.2M Revenue | Complete Analysis — Cinder Funding | $5.7-7.2M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > cinder-co",
+    "url": "https://www.extruct.ai/hub/cinder-co/",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder raises $41 million in Series B funding to defend ... — Cinder raises $41 million in Series B funding to defend ... cinder.ai https://cinder.ai > resources > blog > c...",
+    "url": "https://cinder.ai/resources/blog/cinder-raises-41m-series-b-ai-abuse",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder - 2026 Company Profile, Team, Funding & Competitors — Cinder - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/cinder/__xs4ae9hs10Orucx3Nuue6WqHJtNcBm30fzoUNQOxkwc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Theory That Cinder Carla and Honest Brute Were Former ... The Theory That Cinder Carla and Honest Brute Were Former ... note https://note.com > ゲーム > アクションゲーム",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Cone （シンダー コーン）・ラッセン火山国立公園 Ⅱ ... Cinder Cone （シンダー コーン）・ラッセン火山国立公園 Ⅱ ... note https://note.com > 旅行・お出かけ > アメリカ合衆国旅行",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "Gestalt: Steam & Cinder Impressions / Metroidvania - note Gestalt: Steam & Cinder Impressions / Metroidvania - note note https://note.com > ゲーム > アクションゲーム",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pauperオリジナルデッキ雑紹介 燃え燃えミッドレンジ/ Cinder ... Pauperオリジナルデッキ雑紹介 燃え燃えミッドレンジ/ Cinder ... note https://note.com > ホビー > ホビー全般",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The Theory That Cinder Carla and Honest Brute Were Former Lovers｜akaikura",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Theory That Cinder Carla and Honest Brute Were Former Lovers",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Delusions and observations. Thoughts I had after recently playing Armored Core 6.",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Carla is a woman who appears in the story. Although initially hostile to the player, she is capable of calculation and pragmatism, setting aside the past once she determines the player is a useful pawn, yet she possesses a resolute personality that pushes forward into the future without being shackled by the past. She also possesses the strength to head to the front lines as an AC pilot her",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To put it simply, Honest Brute is a gentlemanly con artist. He originally served as Carla's right-hand man, but he betrayed her, caused the organization significant financial damage that could not be ignored, and stole valuable weapons before disappearing. In the story, the player receives a request from Carla to eliminate Brute to end his life.",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Carla's anger toward Brute is immense. She shows a broad-minded side, laughing off even significant financial losses caused by the player, but she is consistently cold toward Brute, wishing for his death, revealing a chilling side that is unlike her usual composed self. Even after Brute's death, her reaction remains cold. Because of that coldness, it is strongly conveyed that she harbors intense a",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Where does this anger come from? A theory that suddenly occurred to me is: were Carla and Brute former lovers, or did they have a close relationship? There is no evidence. From here on, it is in the realm of delusion.",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Carla's desire for Brute's death can be seen as a response to someone who has crossed the line, someone she wants to disappear from this world, beyond the point of offering minimal mercy or consolation. This is close to the wish of former lovers who had a tragic breakup, wanting the other person to disappear. However, the desire for them to disappear carries an angry emotion that is still somewhat",
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Cone （シンダー コーン）・ラッセン火山国立公園 Ⅱ とバーニー滝/ カリフォルニア⑦｜Lulu's Cabinet",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Cone （シンダー コーン）・ラッセン火山国立公園 Ⅱ とバーニー滝/ カリフォルニア⑦",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、公園の北東部にあるシンダー コーン（噴石丘）に向かいます。ここに行きたかったからラッセンに来たのよね。",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "ラスト20分程ダートな道を走ります。思ったよりガタガタしていたので、ハイクリアランスの車だとより安心かと。",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder Cone （シンダー コーン）",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "往復3時間のトレイルを歩きます。ビュート湖畔のキャンプ場横がトレイルヘッド。",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "柔らかい火山灰なので歩きにくい。馬だと楽だろうなーと思いながら歩く。",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "ビュート湖に押し寄せてきた溶岩を横目に進む。",
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "pass": 3
+   },
+   {
+    "quote": "Gestalt: Steam & Cinder Impressions / Metroidvania｜みこすき",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gestalt: Steam & Cinder Impressions / Metroidvania",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gestalt: Steam & Cinder is a Metroidvania-style action-adventure game released on PS4, Nintendo Switch, and Steam on July 16, 2024.",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Inspired by games from the 16-bit and 32-bit era, Gestalt: Steam & Cinder is set in a beautiful steampunk world that combines tight 2D platforming and exhilarating combat with a thrilling story.",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Join Aletheia and a cast of unique characters as you throw yourself into a conflict surrounding the secrets of Canaan, the massive city that serves as humanity's last bastion, powered by steam energy. Uncover a grand conspiracy spanning centuries, battle bizarre automatons, and thwart the twisted schemes of the corrupt city oversight organization, the Comitium. What dark truth about the birth of t",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From the official introduction",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The game has a unique structure where conversations from other sides are inserted as the protagonist progresses through areas, but in a sense, it follows a classic progression.",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I finished it in about 10 hours. I had the impression that a lot was condensed into a short amount of time.",
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pauperオリジナルデッキ雑紹介 燃え燃えミッドレンジ/Cinder Midrange｜OONS",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   },
+   {
+    "quote": "Pauperオリジナルデッキ雑紹介 燃え燃えミッドレンジ/Cinder Midrange",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   },
+   {
+    "quote": "バーンではなく、盤面に寄せた方の除去コン思想なマッドネスミッドレンジ。",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   },
+   {
+    "quote": "《燃えたぎる燃えがら》をどうにか運用したくて組んだ。",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   },
+   {
+    "quote": "2:《信仰無き物あさり/Faithless Looting》",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   },
+   {
+    "quote": "2:《血の泉/Blood Fountain》",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   },
+   {
+    "quote": "4:《吸血鬼の口づけ/Vampire's Kiss》",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   },
+   {
+    "quote": "4:《街道筋の強奪/Highway Robbery》",
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cinder (@cccinder) / X Cinder (@cccinder) / X X https://x.com > cccinder",
+    "url": "https://x.com/cccinder",
+    "pass": 3
+   },
+   {
+    "quote": "CINDER CITY (@CINDERCITYGAME) / X CINDER CITY (@CINDERCITYGAME) / X X https://x.com > CINDERCITYGAME",
+    "url": "https://x.com/CINDERCITYGAME",
+    "pass": 3
+   },
+   {
+    "quote": "cinder COMMS OPEN (@cinderwishes) / X cinder COMMS OPEN (@cinderwishes) / X X https://x.com > cinderwishes",
+    "url": "https://x.com/cinderwishes",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder (@CinderNFT) / X Cinder (@CinderNFT) / X X https://x.com > CinderNFT",
+    "url": "https://x.com/CinderNFT",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Cinder | LinkedIn Cinder | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/cinder-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "CINDER | LinkedIn CINDER | LinkedIn LinkedIn https://www.linkedin.com > teamcinder",
+    "url": "https://www.linkedin.com/company/teamcinder",
+    "pass": 3
+   },
+   {
+    "quote": "James Friedman - Head of AI Product @ Cinder | We're hiring! James Friedman - Head of AI Product @ Cinder | We're hiring! LinkedIn https://www.linkedin.com > jamesmfr...",
+    "url": "https://www.linkedin.com/in/jamesmfriedman",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder | LinkedIn Cinder | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/cinder-intelligence-cinder/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Cinder | Westerly RI - Facebook Cinder | Westerly RI - Facebook Facebook https://www.facebook.com > ... > Restaurant",
+    "url": "https://www.facebook.com/cinderrestaurant/",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder (@cindernoise) - Facebook Cinder (@cindernoise) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/cindernoise/",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder restaurant review: good food, smoky fire pits - Facebook Cinder restaurant review: good food, smoky fire pits - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/908725479711160/posts/1901244847125880/",
+    "pass": 3
+   },
+   {
+    "quote": "Cinder's Charcoal Grill Kensington Dr. | Appleton WI - Facebook Cinder's Charcoal Grill Kensington Dr. | Appleton WI - Facebook Facebook https://www.facebook.com > CindersCharcoalGrill",
+    "url": "https://www.facebook.com/CindersCharcoalGrill/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cinder.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/blog/wizz-app-cinder-ai-safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/blog/roost-partner-open-source-safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/case-studies/black-forest-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/case-studies/character-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/solutions/generative-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/case-studies/synthesia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/case-studies/krea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/blog/black-forest-labs-red-team-cinder-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/blog/case-study-how-character-ai-reduces-human-moderation-with-cinder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/blog/cinder-and-stopncii-join-forces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/resources/blog/cinder-partnter-appeals-centre-europe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/solutions/foundation-models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/solutions/marketplaces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/solutions/gaming-streaming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/solutions/social-dating",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/solutions/creator-economy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cinder.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cinder.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fst1eho39%2Fproduction%2Fd7a5929a79b16b990d4b9403bea5c8f0d6dd673d-1200x627.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cinder.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fst1eho39%2Fproduction%2Fea2eb405233715e0870b8076c8c2ec3987b32123-2400x1254.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cinder.ai/_next/image?url=%2Fassets%2Fabout%2Finvestors%2Fpsp-partners-mono.png&w=640&q=75&dpl=dpl_3TGa7TU49SHZgZ3ArvQoAuq8w94b",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cinder.ai/_next/image?url=%2Fassets%2Flogos%2Fopenai.png&w=384&q=75&dpl=dpl_3TGa7TU49SHZgZ3ArvQoAuq8w94b",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caranddriver.co.jp/newcar/114898/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelcase.com/asia-ja/products/sofas/cinder-block/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keding-global.com/ja/become-a-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/shopcider_jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.japanciderguide.com/category/cideries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atmos-tokyo.com/item/norda/001a-m-cdr?srsltid=AYCX9vKZeRAntWRjwO9bEfmbiXUjiwBojeyvaVtBlOzI605CMVI8zu6e",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://downbeatrunning.com/products/470016240305?srsltid=AYCX9vIrPjn8UiRf7QcFwndElRgHxaGL6dEvc0VfZsGJHIuGeHLX0_ow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJUJI5VUA3IODHBziljaz9qQfI4o8Lhl2PnY7zbUsNrEahcqZe6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/saraittelson_congratulations-to-the-cinder-team-on-their-activity-7460013979889946625-ez3S",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/glenwise_update-cinder-raised-41m-in-series-activity-7459966163364503552-wlt3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.extruct.ai/hub/cinder-co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/so_memo/n/n26118513ed64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cccinder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CINDERCITYGAME",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cinderwishes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CinderNFT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cinder-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/teamcinder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jamesmfriedman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/cinder-intelligence-cinder/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cinderrestaurant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cindernoise/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/908725479711160/posts/1901244847125880/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CindersCharcoalGrill/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cccinder",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cinder 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.caranddriver.co.jp/newcar/114898/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.autocar.jp/post/1292024",
+    "https://www.callofduty.com/ja/blog/2022/09/call-of-duty-modern-warfare-II-fjx-cinder-weapon-vault-guide",
+    "https://www.nexusmods.com/darksouls3/mods/1063",
+    "https://kouya-game.com/darksouls3-cinders-installation"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Cinder 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.steelcase.com/asia-ja/products/sofas/cinder-block/",
+    "https://keding-global.com/ja/become-a-distributor/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partnersales.biz/partnersales-general/types-of-partner-agreements-1/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://www.indexpro.co.jp/distributor/search-distributor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Cinder Japan",
+   "results": [
+    "https://www.instagram.com/shopcider_jp/",
+    "https://www.japanciderguide.com/category/cideries/",
+    "https://www.atmos-tokyo.com/item/norda/001a-m-cdr?srsltid=AYCX9vKZeRAntWRjwO9bEfmbiXUjiwBojeyvaVtBlOzI605CMVI8zu6e",
+    "https://downbeatrunning.com/products/470016240305?srsltid=AYCX9vIrPjn8UiRf7QcFwndElRgHxaGL6dEvc0VfZsGJHIuGeHLX0_ow",
+    "https://www.kyndryl.com/jp/ja",
+    "https://jp.danner.com/products/index.html",
+    "https://michigama.base.shop/items/99898987",
+    "https://store.united-arrows.co.jp/brand/by/item/1400025F0453?srsltid=AYCX9vJSIQzR9oWKWzfjg6Yn-0TtV8c1KwfGkgCZW1_-3CVQ113PT_UJ",
+    "https://dic.nicovideo.jp/a/cinder%28bemani%29",
+    "https://en.wikipedia.org/wiki/Murder_of_Junko_Furuta"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Cinder manufacturing customer case study",
+   "results": [
+    "https://cinder.ai/resources/case-studies/krea",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJUJI5VUA3IODHBziljaz9qQfI4o8Lhl2PnY7zbUsNrEahcqZe6",
+    "https://c3.ai/customers",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://nucor.com/2025/05/16/advanced-manufacturing-case-study/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://www.calmac.org/publications/industrialcementfinalkema.pdf",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.casestudies.com/company/charactersf/case-study/cinder-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Cinder white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.intermedia.com/resellers",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://payproglobal.com/how-to/start-white-label-saas/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Cinder founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/posts/saraittelson_congratulations-to-the-cinder-team-on-their-activity-7460013979889946625-ez3S",
+    "https://www.linkedin.com/posts/glenwise_update-cinder-raised-41m-in-series-activity-7459966163364503552-wlt3",
+    "https://www.extruct.ai/hub/cinder-co/",
+    "https://cinder.ai/resources/blog/cinder-raises-41m-series-b-ai-abuse",
+    "https://tracxn.com/d/companies/cinder/__xs4ae9hs10Orucx3Nuue6WqHJtNcBm30fzoUNQOxkwc",
+    "https://technical.ly/startups/cinder-launch-series-a-glen-wise/",
+    "https://www.crunchbase.com/organization/cinder-technologies",
+    "https://www.clay.com/dossier/cinder-funding",
+    "https://pitchbook.com/profiles/company/495779-14",
+    "https://mandos.io/data/companies/cinder"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Cinder",
+   "results": [
+    "https://note.com/akaikura_note/n/nd88907af583e?hl=en",
+    "https://note.com/luluscabinet/n/n243eb095dcf3",
+    "https://note.com/_mikosuki/n/n625c2b5cb187?hl=en",
+    "https://note.com/so_memo/n/n26118513ed64",
+    "https://note.com/net_riv/n/ncff858dcfd4e?hl=en",
+    "https://note.com/sato_hiro6678/n/nb367c8477786",
+    "https://note.com/large_kiwi7929/n/n3f97083db19c",
+    "https://note.com/fair_stoat6989/n/nf69dfc09bf1f?hl=en",
+    "https://note.com/cinderace8251/n/n1ea6d79ed017",
+    "https://note.com/yuunagi_v/n/n81e8120035f9?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Cinder",
+   "results": [
+    "https://x.com/cccinder",
+    "https://x.com/CINDERCITYGAME",
+    "https://x.com/cinderwishes",
+    "https://x.com/CinderNFT",
+    "https://x.com/CinderSlash",
+    "https://x.com/cinder_tweets",
+    "https://x.com/FirestormFox",
+    "https://x.com/GestaltGame",
+    "https://x.com/cinder_katt"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Cinder",
+   "results": [
+    "https://www.linkedin.com/company/cinder-intelligence",
+    "https://www.linkedin.com/company/teamcinder",
+    "https://www.linkedin.com/in/jamesmfriedman",
+    "https://www.linkedin.com/products/cinder-intelligence-cinder/",
+    "https://www.linkedin.com/in/glenwise",
+    "https://www.linkedin.com/in/frances-patton-57332827",
+    "https://www.linkedin.com/in/bridgetrmartin",
+    "https://www.linkedin.com/in/cinder-eller-kimbell-29b31321",
+    "https://www.linkedin.com/posts/glenwise_update-cinder-raised-41m-in-series-activity-7459966163364503552-wlt3",
+    "https://www.linkedin.com/company/cinder-switzerland/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Cinder",
+   "results": [
+    "https://www.facebook.com/cinderrestaurant/",
+    "https://www.facebook.com/cindernoise/",
+    "https://www.facebook.com/groups/908725479711160/posts/1901244847125880/",
+    "https://www.facebook.com/CindersCharcoalGrill/",
+    "https://www.facebook.com/TheCinderBarandgrill/",
+    "https://www.facebook.com/CINDERCITYGAME/",
+    "https://www.facebook.com/CinderBBQdc/",
+    "https://www.facebook.com/p/Sip-Cinder-Waxhaw-61578889535469/",
+    "https://www.facebook.com/cindergear/",
+    "https://www.facebook.com/OfficialCinderBand/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Cinder note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Cinder X 投稿",
+   "results": [
+    "https://x.com/cccinder",
+    "https://www.reddit.com/r/RWBY/comments/13mo99z/what_kiersi_said_on_twitter_about_cinder_cinder/",
+    "https://cinder-city.com/",
+    "https://docs.openstack.org/releasenotes/cinder/",
+    "https://engineering.fb.com/2022/05/02/open-source/cinder-jits-instagram/",
+    "https://x.com/CinderNFT",
+    "https://pypi.org/project/cinder/",
+    "https://www.deviantart.com/scott910/art/Understand-Cinder-X-Tessa-1014782314",
+    "https://x.com/___Cinder_/reposts",
+    "https://x.com/CinderXE"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）"
+ }
+}

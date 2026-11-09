@@ -1,0 +1,536 @@
+{
+ "name": "Beijing Longyuan Automated Fabrication System Co. Ltd.",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:27:30.537586+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   },
+   {
+    "quote": "A confirmation email has just been sent to you.",
+    "url": "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "pass": 3
+   },
+   {
+    "quote": "You may object to its processing by email:",
+    "url": "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Beijing Longyuan Automated Fabrication System Co . Ltd. - AFS — Beijing Longyuan Automated Fabrication System Co . Ltd. - AFS voxelmatters.directory https://www.voxelmatters.directory > ...",
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "pass": 3
+   },
+   {
+    "quote": "Beijing Longyuan Automated Fabrication System Co. Ltd. – AFS — Beijing Longyuan AFS Co., Ltd. (hereinafter referred to as \"Longyuan Forming\") is a subsidiary of Beijing 3D Printing Technology, Inc. (3D Printing Technology, Inc.). In 1994, it successfully developed the first commercialized industrial-grade 3D printing equipment with independent intellectual property rights in China-selected area la",
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "pass": 3
+   },
+   {
+    "quote": "Beijing Longyuan Automated Fabrication System Co. Ltd ... — Beijing Longyuan Automated Fabrication System Co. Ltd. (Document scanners,Beijing)",
+    "url": "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "pass": 3
+   },
+   {
+    "quote": "Beijing Longyuan Automated Fabrication System Co . Ltd . - AFS — Beijing Longyuan Automated Fabrication System Co . Ltd . - AFS voxelmatters.directory https://www.voxelmatters.directory > ...",
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "No employees (address)",
+    "url": "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "pass": 3
+   },
+   {
+    "quote": "20-49 Employees",
+    "url": "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com.cn/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dptek.com/en/news/long-yuan-cheng-xing-3dp-sha-xing-da-yin-zhu-li-zhong-guo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.3dnatives.com/en/3d-printing-directory/longyuan-afs-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyafs.com.cn/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thalesgroup.com/ja/node/3461",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DgpIHFsRolI0&q=EgQUDtYoGNK9yNcGIjA5QSs9byefh1Vg7CzNtU0OpI76zimxblIxj_djoYC0wvp-rjUXQ_3ju7eamBMePcMyAnJSWgFDYLj66Ofppt_xZQ",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://albo.inc/imports/8d92ff97-e212-5f6a-981b-e045c16fac9e?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.iti-yamaguchi.or.jp/equipment/441/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256806253929430.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.ky-plastics.com/others-plastic-raw-material/virgin-petg-pellets-plastic-resin-for-3d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanese.alibaba.com/Popular/CN_3d-printer-filament-Trade.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lyafs.com.cn/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dptek.com/en/news/long-yuan-cheng-xing-3dp-sha-xing-da-yin-zhu-li-zhong-guo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lyafs.com.cn/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88-BACH-JP041-Swordsoul-Sinister-Sovereign/dp/B09JM1JPW1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Swordsoul-Sinister-Sovereign-Qixing-Longyuan-%E7%9B%B8%E5%89%A3%E5%A4%A7%E9%82%AA-%E4%B8%83%E6%98%9F%E9%BE%8D%E6%B7%B5/dp/B0CN1284C6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Yu-Gi-Oh-BODE-EN005-Swordsoul-Strategist-Longyuan/dp/B09LHX3WNB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/NISHIORI-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%AB-%E5%8D%98%E5%93%81%E8%8D%89%E5%B1%A5-%E7%B5%90%E5%A9%9A%E5%BC%8F/dp/B0CV4YWXXM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corp.monotaro.com/en/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.monotaro.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5137/2424/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%98%E3%82%AD%E3%82%B5%E3%82%B4%E3%83%B3%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lyafs.com.cn/en/about-us/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://english.ckgsb.edu.cn/knowledge/article/3d-printing-life-in-3d/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "https://www.lyafs.com.cn/en/",
+    "https://www.3dptek.com/en/news/long-yuan-cheng-xing-3dp-sha-xing-da-yin-zhu-li-zhong-guo/",
+    "https://www.economist.com/science-and-technology/2013/04/27/a-new-brick-in-the-great-wall",
+    "https://english.ckgsb.edu.cn/knowledge/article/3d-printing-life-in-3d/",
+    "https://www.lyafs.com.cn/en/about-us/profile/",
+    "https://www.unionfab.com/",
+    "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "https://www.3dnatives.com/en/3d-printing-directory/longyuan-afs-co-ltd/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "https://www.3dnatives.com/en/3d-printing-directory/longyuan-afs-co-ltd/",
+    "https://www.lyafs.com.cn/en/about-us/profile/",
+    "https://www.lyafs.com.cn/en/",
+    "https://www.qcc.com/firm/e2f88d89af19d31c25ac7dea00c8a822.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. 日本 販売",
+   "results": [
+    "https://www.lyafs.com.cn/en/",
+    "https://www.thalesgroup.com/ja/node/3461",
+    "https://www.youtube.com/watch?v=gpIHFsRolI0",
+    "https://albo.inc/imports/8d92ff97-e212-5f6a-981b-e045c16fac9e?lang=ja",
+    "https://ja.aliexpress.com/item/1005009960282494.html",
+    "https://www.ssga.com/library-content/products/fund-docs/etfs/apac/jp/management-report/2024/management-report-jp-ja-SPEM-20240930.pdf",
+    "https://www.youtube.com/watch?v=ntdaz5vWopA",
+    "https://komatsuya-net.co.jp/https://komatsuya-net.co.jp/foreignPatentDetail.html?foreign_id=10558",
+    "https://www.nam.co.jp/report/pdf/mo121734-2.pdf",
+    "https://www.lyafs.com.cn/en/about-us/profile/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.iti-yamaguchi.or.jp/equipment/441/",
+    "https://ja.aliexpress.com/item/1005006440244182.html",
+    "https://ja.ky-plastics.com/others-plastic-raw-material/virgin-petg-pellets-plastic-resin-for-3d.html",
+    "https://japanese.alibaba.com/Popular/CN_3d-printer-filament-Trade.html",
+    "http://fsmade.jp/china/goods_detailed.asp?id=9",
+    "https://sakura-checker.jp/search/B0818557VJ/",
+    "https://t.co/Ko8cFct4UX",
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://in.kompass.com/c/beijing-longyuan-automated-fabrication-system-co-ltd/cn070012/",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. Japan distributor",
+   "results": [
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://www.lyafs.com.cn/en/",
+    "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "https://www.3dptek.com/en/news/long-yuan-cheng-xing-3dp-sha-xing-da-yin-zhu-li-zhong-guo/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.lyafs.com.cn/en/about-us/profile/",
+    "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "https://www.jel-robot.com/company/relation.html",
+    "https://www.inlong-china.com/en.html",
+    "https://www.3dnatives.com/en/3d-printing-directory/longyuan-afs-co-ltd/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://www.lyafs.com.cn/en/",
+    "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.lyafs.com.cn/en/about-us/profile/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.unionfab.com/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Beijing Longyuan Automated Fabrication System Co.",
+   "results": [
+    "https://www.amazon.co.jp/日本語版-BACH-JP041-Swordsoul-Sinister-Sovereign/dp/B09JM1JPW1",
+    "https://www.amazon.co.jp/Swordsoul-Sinister-Sovereign-Qixing-Longyuan-相剣大邪-七星龍淵/dp/B0CN1284C6",
+    "https://www.amazon.co.jp/-/en/Yu-Gi-Oh-BODE-EN005-Swordsoul-Strategist-Longyuan/dp/B09LHX3WNB",
+    "https://www.amazon.co.jp/NISHIORI-レディース-フォーマル-単品草履-結婚式/dp/B0CV4YWXXM",
+    "https://www.amazon.co.jp/ウマ娘-シンデレラグレイ-21-ヤングジャンプコミックスDIGITAL-久住太陽-ebook/dp/B0FKRL6ZC9",
+    "https://www.amazon.co.jp/JESIMAIK-インバーター発電機-定格出力5-0kVA-14-5L燃料タンク-JM6000XiE/dp/B0DXVHVK66",
+    "https://www.amazon.co.jp/ナイフエッジ：ミシュランの星への挑戦-シーズン-2/dp/B0HCW5VXJZ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Beijing Longyuan Automated Fabrication System Co.",
+   "results": [
+    "https://corp.monotaro.com/en/index.html",
+    "https://corp.monotaro.com/",
+    "https://www.monotaro.com/p/5137/2424/",
+    "https://www.monotaro.com/k/store/ヘキサゴンソケット/",
+    "https://www.monotaro.com/g/07898224/",
+    "https://www.monotaro.com/g/07912767/",
+    "https://www.monotaro.com/g/07688399/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://www.lyafs.com.cn/en/about-us/profile/",
+    "https://www.thefabricator.com/directory/showroom/longyuan-afs-co-ltd",
+    "https://english.ckgsb.edu.cn/knowledge/article/3d-printing-life-in-3d/",
+    "https://growjo.com/company/Factory_Automation_Systems",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://3dheals.com/china-is-printing-more-of-everything-is-that-a-problem/",
+    "https://equalocean.com/analysis/2022110319137-overview-15-intelligent-manufacturing-companies",
+    "https://usmobile.jingdiao.com/about-us/group-profile/group-profile",
+    "https://craft.co/longyuan-afs"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Beijing Longyuan Automated Fabrication System Co.",
+   "results": [
+    "https://note.com/tachikawamayumi",
+    "https://note.com/contest/ワークライクバランス",
+    "https://note.com/tag/ブランド・ニュー・デイ",
+    "https://note.com/hirokimiyano/n/n75ed846d3410",
+    "https://note.com/pokeca_new/n/n1e177cf37b18",
+    "https://note.com/fasmcckd/n/nabb30d694401",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Beijing Longyuan Automated Fabrication System Co.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Beijing Longyuan Automated Fabrication System Co.",
+   "results": [
+    "https://cn.linkedin.com/in/garrison-zong-7ba92540",
+    "https://ca.linkedin.com/in/qingyang-li-975202204",
+    "https://cn.linkedin.com/directory/companies/l-2",
+    "https://www.linkedin.com/company/nextgen-technology-limited",
+    "https://www.linkedin.com/in/adam-michel-95a49811",
+    "https://hk.linkedin.com/in/jinjun-lin-a75a5447",
+    "https://www.linkedin.com/pulse/future-trends-competition-wall-cladding-panels-market-jv2ze",
+    "https://cn.linkedin.com/directory/companies/z-1",
+    "https://www.linkedin.com/in/stephenmarkscheid"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Beijing Longyuan Automated Fabrication System Co.",
+   "results": [
+    "https://www.facebook.com/ShLetsMeet/posts/follow-foreign-journalists-and-industry-experts-as-they-get-up-close-to-global-d/1098751606332432/",
+    "https://www.facebook.com/BISUoffical/posts/at-the-recent-global-digital-economy-collaboration-forum-of-the-global-digital-e/1011252205129166/",
+    "https://www.facebook.com/CRCCNews/posts/crccupdates-a-freight-train-loaded-with-over-3000-tons-of-brazilian-iron-ore-rec/704790801878870/",
+    "https://www.facebook.com/CRRCGC/posts/recently-%EF%B8%8F-crrc-qiqihar-successfully-delivered-the-first-182-freight-trains-this/991786272994005/",
+    "https://www.facebook.com/echinanews/posts/108-meter-wind-turbine-blades-showcase-xinjiangs-growing-manufacturing-capabilit/1521257326714620/",
+    "https://www.facebook.com/LongyuanSA/posts/chinas-first-new-smart-heavy-haul-electric-locomotive-jointly-developed-by-china/1013079587521144/",
+    "https://www.facebook.com/SpotlightBJ/posts/the-94th-china-international-medical-equipment-fair-cmef-and-its-associated-exhi/1400207712278771/",
+    "https://www.facebook.com/ChinaGlobalTVNetwork/posts/on-january-15-2026-the-china-energy-engineering-ceec-urumqi-500000-kw-wind-power/1559379852222148/",
+    "https://www.facebook.com/LongyuanWallPanel/",
+    "https://www.facebook.com/SifangMachinery/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. note 社長",
+   "results": [
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://www.lyafs.com.cn/en/",
+    "https://www.3dptek.com/ja/news/bei-jing-long-yuan-zhong-guo-3d-da-yin-chan-ye-xian-xing-zhe/",
+    "https://www.metal-am.com/articles/metal-3d-printing-in-china-an-overview-of-systems-manufacturers/",
+    "https://www.youtube.com/watch?v=Lu7c74EMuZ4",
+    "https://www.lyafs.com.cn/en/about-us/profile/",
+    "https://3dprint.com/7016/china-3d-printing-plan/",
+    "https://www.creatbot.com/blog/news-36",
+    "https://www.inlong-china.com/en.html",
+    "https://www.ampulse.online/company/beijing-longyuan-automated-fabrication-system-co-ltd-afs"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Beijing Longyuan Automated Fabrication System Co. X 投稿",
+   "results": [
+    "https://www.voxelmatters.directory/company/beijing-longyuan-automated-fabrication-system-co-ltd/",
+    "https://www.lyafs.com.cn/en/",
+    "https://www.lyafs.com.cn/en/about-us/profile/",
+    "https://www.youtube.com/watch?v=IZjC7yrgUwA",
+    "https://www.facebook.com/moonpreneur/videos/we-usually-imagine-3d-printers-as-boxesa-build-platea-fixed-framea-print-head-mo/1108644621645346/",
+    "https://www.fabbaloo.com/news/chinese-patent-targets-combined-3d-printer-plotter",
+    "https://markforged.com/tw/resources/videos/metal-3d-printer-process",
+    "https://www.youtube.com/watch?v=pGs8sX5RVcI&vl=ja",
+    "https://www.creatbot.com/blog/news-36",
+    "https://www.3dnatives.com/en/3d-printing-directory/longyuan-afs-co-ltd/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

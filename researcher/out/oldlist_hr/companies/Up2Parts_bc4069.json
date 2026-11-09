@@ -1,0 +1,1201 @@
+{
+ "name": "Up2Parts",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-09T19:22:43.201821+00:00",
+ "official_url": "https://www.up2parts.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Arbeitspläne & CAM-Programme",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit den Produkten von up2parts schaffen Sie in Ihrem Zerspanungsbetrieb eine durchgängige, zukunftssichere Prozesskette auf Basis von 3D-Modellen – für mehr Transparenz und Verfügbarkeit von fertigungsrelevanten Bauteilinformationen und eine schnellere Arbeitsplan-, Angebots- und CAM-Programmerstellung.",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit up2parts cockpit haben alle Mitarbeiter zu jeder Zeit Zugriff auf fertigungsrelevante Bauteildaten: 3D-Modelle, PDF-Zeichnungen, Arbeitspläne, CAM-Programme.",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Verknüpfen Sie CAD-Modelle mit Toleranzinformationen (Product Manufacturing Information)",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unsere Machbarkeitsanalyse analysiert und visualisiert fertigungsrelevante Hinweise, z. B. dünnwandige Elemente, um die Produktion effizient zu gestalten",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fügt sich nahtlos in Ihre bestehende CAM-Infrastruktur ein, um CAM-Programme und NC-Codes für Ihre Fräsmaschinen binnen weniger Minuten automatisiert und effizient fertigzustellen. Verfügbar für",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bis zu 70 % schneller CAM-Programme erstellen mithilfe von CAD-Modellen inkl. Toleranzinformationen",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Regel- und makrobasierte CAM-Programmierung gehört der Vergangenheit an",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mit up2parts reduzieren Sie die Aufwände in der Arbeitsvorbereitung und Produktion. Für mehr Effizienz, Entlastung der Fachkräfte und zufriedene Kunden.",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "80% schneller kalkulieren und 70% schneller CAM-Programme erstellen",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-Modelle, Zeichnungen und CAM-Programme auf einen Blick",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GibbsCAMは、Sandvik Coromant社のPrimeTurning™技術をGibbsCAM 2023に導入することで、Sandvik社の複数の旋盤加工技術の統合とサポートに向けた第一歩を踏み出しました",
+    "url": "https://www.gibbscam.com/ja/news/gibbscam-2025-ai-features-to-be-launched-in-september",
+    "pass": 3
+   },
+   {
+    "quote": "work plans and CAM programs",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With products from up2parts, your machining company can build a continuous, future-proof process chain based on 3D models — for more transparency and availability of production-relevant component information and faster creation of work plans, quotations and CAM programs.",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With up2parts cockpit, all employees have access to manufacturing-relevant component data at any time: 3D models, PDF drawings, work plans, CAM programs",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Link CAD models with tolerance information (Product Manufacturing Information)",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Our feasibility analysis analysis and visualizes manufacturing-relevant information, e.g. thin-walled elements, to make production more efficient",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrates seamlessly into your existing ERP or Excel infrastructure to create work plans and quotes up to 80% faster. Your up2parts co-pilot generates individual proposals based on your company knowledge and manufacturing structures.",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Individual work step sequences based on component geometry and production technology",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Suggestions for setup and runtime for each work step: for both processing centers and manual work steps",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Work plan and calculation results are seamlessly transferred to your existing ERP system or provided as an Excel export for further processing",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Fits seamlessly into your existing CAM infrastructure to automatically and efficiently complete CAM programs and NC codes for your milling machines within a few minutes. Available for",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Create CAM programs up to 70% faster using CAD models with tolerance information",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Rule- and macro-based CAM programming is a thing of the past",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Production processes -",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With up2parts you reduce the effort in work preparation and production. For more efficiency, relief for specialists and satisfied customers.",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Calculate costs up to 80% faster, and create CAM programs 70% faster",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Long searches for parts and CAM programs are a thing of the past",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "FreeCAD は SOLIDWORKS Pro Certification CSWP に合格できますか？（完全チュートリアルとパラメトリック方式）",
+    "url": "https://www.youtube.com/watch?v=XjldHJERdgE",
+    "pass": 3
+   },
+   {
+    "quote": "280回視聴 • 2026/10/19 • #CNCProgramming #IMTS2026 #CNCUnderground",
+    "url": "https://www.youtube.com/watch?v=XjldHJERdgE",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts is an AI-powered software solution that automates quotation calculation and CAM programming.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts is an AI-powered, company-specific self-learning software solution that enhances quotation calculation, process planning, production data management, and CAM programming for machine shops. The solution uses 3D model geometry, PMI data, as well as the company’s own machines, tools, materials, cost structures, and manufacturing strategies.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Camcut supplies up2parts solutions and is responsible for their implementation, training, and technical support. The goal is to reduce repetitive manual work, speed up decision-making, and make the company’s own production expertise more effectively available throughout the organization.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "More efficient machine shop production powered by AI",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Fast quoting, reliable cost calculation, and consistent CAM programming are key factors in competitive machining operations. Yet in many companies, process planning, estimating, and programming still rely on manual spreadsheets, scattered information, and the experience of individual key employees.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "This slows down the quoting process, makes it harder to scale operations, and leaves production vulnerable to personnel changes. At the same time, the shortage of skilled workers and increasing cost pressures are creating a greater need to leverage existing production data more effectively.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts combines part geometry, product manufacturing information, and the company’s own production data into a unified digital solution. It enables cost estimates, process plans, and CAM programming recommendations to be generated quickly based on the company’s actual production capabilities.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Automation does not replace expert decision-making. It reduces routine work, provides well-founded recommendations, and frees skilled professionals to focus on more demanding process planning, production development, and solving exceptional manufacturing situations.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "A production digital assistant that learns to fit your company",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts was developed to meet the practical needs of manufacturing companies. The solution is based on experience in in-house machine shop production, as well as the day-to-day challenges of quotation calculation, process planning, and CAM programming.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The system combines geometric analysis of 3D models with PMI data, or product manufacturing information, and the company’s own production environment. This includes, for example, machine tools, cutting tools, materials, machine-hour rates, process steps, and the machining strategies used.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Based on this information, up2parts generates recommendations tailored to the company’s own operating methods. The solution is not based on traditional macros or rigid rules, but on a company-specific learning system that uses solutions approved by users, corrections made, and accumulated production data.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "This creates the company’s own digital production assistant, which supports decision-making and helps standardize proven working methods. At the same time, valuable shop-floor knowledge is captured more effectively and made available for use in future projects.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Geometric similarity search leverages previous production data.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Geometric similarity search is one of up2parts’ key features. The system analyzes the geometry of a new 3D model and searches the company’s database for previously manufactured or quoted parts with similar geometry.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The search is not based solely on the file name, part number, or the user’s memory. It recognizes the geometric characteristics of parts and helps locate previous cases even when they have not been named or stored consistently.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "For the parts found, users can review previous process plans, cost calculations, CAM programs, machining methods, and tool selections, for example. This makes it possible to use completed work as the basis for a new quotation or manufacturing plan.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Geometric similarity search reduces the time spent looking for information and helps standardize cost calculations and manufacturing methods. The database grows with every new part, gradually becoming a knowledge base built around the company’s own production practices.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts cockpit brings all production data together in one place",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts cockpit serves as the centralized production database for the entire system. It allows 3D models, PDF drawings, process plans, calculations, CAM programs, tool data, and other part-related documents to be stored together in one place.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The centralized knowledge base reduces the need to search for information on network drives, in emails, file folders, and individual employees’ personal archives. The required information is available in connection with the part and can be accessed for quotation calculation, process planning, programming, and production.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Cockpit includes 3D viewing, geometric similarity search, and manufacturability analysis to help identify, for example, geometric features that are critical from a manufacturing perspective. PMI data, such as tolerances, threads, fits, and surface characteristics, can also be linked to the system.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Browser-based access makes it possible to view production data on different workstations and, when needed, directly in the production environment. This makes up-to-date information available to machines and users without the need for extensive local software installations.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts Calculation speeds up quoting and process planning.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts calculation automates stages of quotation calculation and process planning that are still based on manual spreadsheets, searches for previous jobs, and experienced employees’ estimates in many machine shops.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Manufacturing",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "CNC quoting is typically 100% manual, requiring experienced engineers to interpret CAD geometry and calculate costs — up2parts automates this end-to-end",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Lambda Function transforms raw CNC machine sensor data into actionable production insights — eliminating the gap between machine output and management visibility",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Both companies were founded in 2020 by practitioners with manufacturing backgrounds, not software-first founders",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The bottleneck for precision manufacturing shop growth is usually not capacity — it is the administrative and quoting overhead that caps order intake",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Verknüpfen Sie CAD-Modelle mit Toleranzinformationen (Product Manufacturing Information)",
+    "url": "https://up2parts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GibbsCAMはSandvik Manufacturing Solutionsの一部です",
+    "url": "https://www.gibbscam.com/ja/news/gibbscam-2025-ai-features-to-be-launched-in-september",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts – Your AI-powered co-pilot for manufacturing",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "With up2parts cockpit, all employees have access to manufacturing-relevant component data at any time: 3D models, PDF drawings, work plans, CAM programs",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Link CAD models with tolerance information (Product Manufacturing Information)",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Our feasibility analysis analysis and visualizes manufacturing-relevant information, e.g. thin-walled elements, to make production more efficient",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrates seamlessly into your existing ERP or Excel infrastructure to create work plans and quotes up to 80% faster. Your up2parts co-pilot generates individual proposals based on your company knowledge and manufacturing structures.",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "#ManufacturingAutomation",
+    "url": "https://www.youtube.com/watch?v=XjldHJERdgE",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts is an AI-powered, company-specific self-learning software solution that enhances quotation calculation, process planning, production data management, and CAM programming for machine shops. The solution uses 3D model geometry, PMI data, as well as the company’s own machines, tools, materials, cost structures, and manufacturing strategies.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts combines part geometry, product manufacturing information, and the company’s own production data into a unified digital solution. It enables cost estimates, process plans, and CAM programming recommendations to be generated quickly based on the company’s actual production capabilities.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Automation does not replace expert decision-making. It reduces routine work, provides well-founded recommendations, and frees skilled professionals to focus on more demanding process planning, production development, and solving exceptional manufacturing situations.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts was developed to meet the practical needs of manufacturing companies. The solution is based on experience in in-house machine shop production, as well as the day-to-day challenges of quotation calculation, process planning, and CAM programming.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The system combines geometric analysis of 3D models with PMI data, or product manufacturing information, and the company’s own production environment. This includes, for example, machine tools, cutting tools, materials, machine-hour rates, process steps, and the machining strategies used.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "For the parts found, users can review previous process plans, cost calculations, CAM programs, machining methods, and tool selections, for example. This makes it possible to use completed work as the basis for a new quotation or manufacturing plan.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Geometric similarity search reduces the time spent looking for information and helps standardize cost calculations and manufacturing methods. The database grows with every new part, gradually becoming a knowledge base built around the company’s own production practices.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Cockpit includes 3D viewing, geometric similarity search, and manufacturability analysis to help identify, for example, geometric features that are critical from a manufacturing perspective. PMI data, such as tolerances, threads, fits, and surface characteristics, can also be linked to the system.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The system analyzes the part’s geometry, manufacturing technology, quantity, and complexity, while also using the company’s own production and cost data. Based on this information, it creates a proposed manufacturing process plan and estimates setup and production times for each process step. Manual operations can also be included in the plan.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "According to the manufacturer, up2parts calculation can generate process plans and quotations up to 80 percent faster. The actual benefit depends on the source data, the production environment, and how much manual work the current calculation process involves.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The solution is particularly suitable for high-mix, low-volume and contract manufacturing environments, where many quotation requests are processed but only some result in orders. Faster calculation makes it possible to handle more quotation requests without requiring experts to devote as much time to each individual job.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts autoCAM supports CAM programming by analyzing part geometry, PMI data, and the company’s own machines, tools, and manufacturing strategies. The system generates suggestions for setups, tools, operations, and machining steps.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "According to the manufacturer, CAM programs can be created up to 70 percent faster with up2parts autoCAM. The benefits are especially significant for parts whose programming involves many repetitive features and similar machining steps.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "PMI data can be used automatically when it is included in a STEP AP242 model. In other STEP formats, tolerances, fits, threads, and other manufacturing information can be added to the geometry manually in up2parts.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "At the heart of up2parts is a company-specific knowledge base that stores information relevant to quoting, process planning, and CAM programming. This includes, for example, machine tools, cutting tools, materials, manufacturing methods, cost data, and previously processed components.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts collaborates with leading industrial companies such as Schaeffler, Sandvik, and DMG MORI. This collaboration supports the development of the solution to meet the real-world needs of the manufacturing industry.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "During implementation, the company’s current operating methods are reviewed, and the key system inputs are defined, including machines, tools, materials, cost structures, and manufacturing methods. At the same time, a plan is developed for integrating up2parts into the existing production, ERP, and CAM environments.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Camcut’s expertise in CAM software, machine shop technology, and production processes helps position the solution as part of the entire manufacturing workflow. The goal is not to introduce a standalone software tool, but to build an operating model that supports the company’s actual quotation, planning, and programming processes.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts is an AI-powered software solution that helps machine shops automate quotation calculation, process planning, and CAM programming. The system analyzes a part’s 3D geometry, PMI data, and the company’s own production data, then uses this information to generate manufacturing planning recommendations.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts is especially well suited for machine shops and manufacturing companies that handle a high volume of quote requests, plan machining processes, or want to streamline CAM programming. The solution is suitable for producing both individual parts and smaller, recurring production runs.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts Calculation analyzes the part’s geometry, material, manufacturing technology, and the company’s own production data. Based on this information, the system generates a proposal for the work steps, production times, and costs. Users can review and modify the calculation before finalizing the quote.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Geometric similarity search compares the 3D geometry of a new part with previously manufactured parts in the company’s database. The search is based not only on the file name or part number, but on the part’s actual geometric features. For the similar parts found, users can review previous calculations, work steps, and manufacturing data.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s own knowledge base can store, for example, machines, tools, materials, manufacturing methods, cost data, process steps, and previously processed parts. The system uses this information in new quotation calculations, process plans, and CAM programming recommendations.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The time savings depend on the parts, the company’s operating methods, and the quality of the input data. According to the manufacturer, quotes can be prepared up to 80% faster and CAM programs up to 70% faster. The greatest benefits are typically achieved with parts whose production steps are repetitive or similar to those used for previously manufactured parts.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Can up2parts learn from a company’s own machines, tools, and manufacturing methods?",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Manufacturing",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Lambda Function and up2parts: How Two Founders Automated the Most Painful Part of Manufacturing Sales",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Both companies were founded in 2020 by practitioners with manufacturing backgrounds, not software-first founders",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Domain specificity is the core advantage: solutions built for CNC machining specifically are more accurate than general manufacturing AI",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The bottleneck for precision manufacturing shop growth is usually not capacity — it is the administrative and quoting overhead that caps order intake",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Both companies target the same market segment — precision CNC machining shops, typically 10–200 employees — and both were founded by people who came from inside manufacturing rather than from software backgrounds. That practitioner origin is not incidental. It is the reason both companies built solutions that address the actual workflow rather than a generalized version of it.",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "For a shop receiving 50–200 quote requests per week — common for precision subcontractors serving aerospace, medical, and defense customers — this process consumes a significant portion of senior engineering capacity. Slower quote turnaround means fewer quotes submitted, which caps revenue. Errors in quotes mean either lost margin (quotes too low) or lost orders (quotes too high).",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The platform accepts standard 3D CAD formats (STEP, IGES, STL) and automatically analyzes part geometry for machining requirements — feature recognition, setup count estimation, tool access analysis, and tolerance extraction from manufacturing drawings.",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Both companies deliberately built for CNC machining, not \"manufacturing\" broadly. The specificity enables accuracy that general manufacturing platforms cannot achieve.",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Many precision manufacturing shops have available machine capacity that they cannot fill because they cannot quote fast enough to convert opportunities. Removing the quoting bottleneck unlocks growth that was already possible but inaccessible.",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Bauer's 10 years of manufacturing background meant up2parts didn't need to discover what the painful problem was — he knew it. The first version of the product addressed the actual workflow rather than a generalized version of it.",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "For precision manufacturing shops evaluating AI:",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "This case study is drawn from",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": ", a podcast conversation with Tanmay Aggarwal (CEO, Lambda Function) and Marco Bauer (CEO, up2parts). See also: [[CNC Machining PLM]], [[Manufacturing Execution Systems]], [[AI in Manufacturing]], [[SMB PLM Guide]].",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Productive Machines and Manukai: Taking Machining AI from Research Lab to Shop Floor",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Limitless CNC and Dirac: The 80/20 Rule of Manufacturing AI — Augment the Human, Don't Replace Them",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "CognaSIM and Cognitive Design Systems: Closing the Design-Simulation-Manufacturing Gap",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Up2parts cockpit centralizes manufacturing data, enabling AI-driven production with automatic tolerance reading and integrated design checks for efficiency.",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "Turning Manufacturing Data into AI-Ready Intelligence",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "AI systems thrive on structured, contextualized data. In manufacturing, data volume is not the challenge—data exists everywhere. The real problem is that it is scattered, siloed, and mostly unstructured.",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "central entry point for all manufacturing-related data",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "With its resource-efficient architecture, up2parts cockpit centralizes and organizes manufacturing data and makes it available across departments—from engineering and planning to production and CAM.",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Intelligence Built into the Viewer",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "The up2parts Viewer is more than visualization—it is an efficiency tool for the entire manufacturing organization.",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "Design for Manufacturing (DFM) checks",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "All manufacturing-relevant data is available in one clearly structured environment.",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "この情報は、CPTL、Garr Tool、Harvey Toolなどのような信頼できるソースを含むツールカタログの統合によって収集されます",
+    "url": "https://www.gibbscam.com/ja/news/gibbscam-2025-ai-features-to-be-launched-in-september",
+    "pass": 3
+   },
+   {
+    "quote": "With up2parts cockpit, all employees have access to manufacturing-relevant component data at any time: 3D models, PDF drawings, work plans, CAM programs",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Fast quoting, reliable cost calculation, and consistent CAM programming are key factors in competitive machining operations. Yet in many companies, process planning, estimating, and programming still rely on manual spreadsheets, scattered information, and the experience of individual key employees.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "The centralized knowledge base reduces the need to search for information on network drives, in emails, file folders, and individual employees’ personal archives. The required information is available in connection with the part and can be accessed for quotation calculation, process planning, programming, and production.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts calculation automates stages of quotation calculation and process planning that are still based on manual spreadsheets, searches for previous jobs, and experienced employees’ estimates in many machine shops.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts autoCAM does not replace the actual CAM software or the programmer’s responsibility. Toolpath refinement and NC code generation are still carried out in the CAM system. The solution is designed to automate repetitive selections, reduce manual work, and standardize programming practices.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Company-specific production data as part of the digital production chain",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "A unified knowledge base improves production transparency, makes it easier to leverage previous solutions, and reduces dependence on individual employees’ memory. At the same time, the company’s proven practices remain more effectively available throughout the organization when staff members change.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Camcut’s expertise in CAM software, machine shop technology, and production processes helps position the solution as part of the entire manufacturing workflow. The goal is not to introduce a standalone software tool, but to build an operating model that supports the company’s actual quotation, planning, and programming processes.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Lambda Function and up2parts: How Two Founders Automated the Most Painful Part of Manufacturing Sales",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Both companies target the same market segment — precision CNC machining shops, typically 10–200 employees — and both were founded by people who came from inside manufacturing rather than from software backgrounds. That practitioner origin is not incidental. It is the reason both companies built solutions that address the actual workflow rather than a generalized version of it.",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "For a shop receiving 50–200 quote requests per week — common for precision subcontractors serving aerospace, medical, and defense customers — this process consumes a significant portion of senior engineering capacity. Slower quote turnaround means fewer quotes submitted, which caps revenue. Errors in quotes mean either lost margin (quotes too low) or lost orders (quotes too high).",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "The convergence of advanced measurement technologies, artificial intelligence, automation and real-time manufacturing data is transforming the role of metrology. Moving beyond traditional inspection, Smart Metrology promises to make quality control an integral, intelligent and increasingly autonomous part of the manufacturing process.",
+    "url": "https://metrology.news/sandvik-invests-in-ai-based-closed-loop-manufacturing-software-company/",
+    "pass": 3
+   },
+   {
+    "quote": "China Blocks ABB Robotics Acquisition by SoftBank",
+    "url": "https://metrology.news/sandvik-invests-in-ai-based-closed-loop-manufacturing-software-company/",
+    "pass": 3
+   },
+   {
+    "quote": "ABB has confirmed that China's foreign investment authorities have prohibited SoftBank Group's proposed acquisition of its Robotics division in China, creating uncertainty around the completion of the $5.375 billion transaction.",
+    "url": "https://metrology.news/sandvik-invests-in-ai-based-closed-loop-manufacturing-software-company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GibbsCAM up2parts 自動CAM — GibbsCAM up2parts 自動CAM GibbsCAM https://www.gibbscam.com > up2parts-autocam",
+    "url": "https://www.gibbscam.com/ja/ai-for-manufacturing/up2parts-autocam",
+    "pass": 3
+   },
+   {
+    "quote": "Your AI-powered co-pilot for manufacturing - up2parts — Your AI-powered co-pilot for manufacturing - up2parts up2parts https://up2parts.com > ...",
+    "url": "https://up2parts.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "From Quoting to CAM: How up2parts Connects the Entire Shop — From Quoting to CAM: How up2parts Connects the Entire Shop YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=XjldHJERdgE",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts - Camcut — up2parts - Camcut Camcut https://www.camcut-group.com > en-us",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Central database for production | With up2parts cockpit — Central database for production | With up2parts cockpit up2parts https://up2parts.com > ... > Products",
+    "url": "https://up2parts.com/en/products/up2parts-cockpit/",
+    "pass": 3
+   },
+   {
+    "quote": "Lambda & up2parts : AI Automates CNC Quoting — Lambda & up2parts : AI Automates CNC Quoting demystifyingplm.com https://www.demystifyingplm.com > ...",
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts cockpit for GibbsCAM — up2parts cockpit for GibbsCAM GibbsCAM https://www.gibbscam.com > up2part...",
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "pass": 3
+   },
+   {
+    "quote": "AI in Manufacturing with Lambda Function & up2parts - YouTube — AI in Manufacturing with Lambda Function & up2parts - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=H0RaYK2J_Kw",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic investment in up2parts by two global players — Strategic investment in up2parts by two global players up2parts https://up2parts.com > strategic-invest...",
+    "url": "https://up2parts.com/en/strategic-investment-in-up2parts-by-two-global-players/",
+    "pass": 3
+   },
+   {
+    "quote": "up2parts - Crunchbase Company Profile & Funding — up2parts - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > up2parts",
+    "url": "https://www.crunchbase.com/organization/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Funding Rounds & List of Investors - up2parts - Tracxn — 2026 Funding Rounds & List of Investors - up2parts - Tracxn Tracxn https://tracxn.com > ... > up2parts",
+    "url": "https://tracxn.com/d/companies/up2parts/__UNjNq8V8107XBMW-Di_z4xz7Re1lLI3fe-wiZ1_LXps/funding-and-investors",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The centralized knowledge base reduces the need to search for information on network drives, in emails, file folders, and individual employees’ personal archives. The required information is available in connection with the part and can be accessed for quotation calculation, process planning, programming, and production.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us, and we’ll help you find an up2parts solution that fits your production.",
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Phase3D is introducing the next generation of Fringe Inspection, the result of a multi-year development project to create purpose-built inspection hardware for laser powder bed fusion (LPBF). The new product marks a major step in Phase3D’s evolution toward scalable OEM integration.",
+    "url": "https://metrology.news/sandvik-invests-in-ai-based-closed-loop-manufacturing-software-company/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "up2parts GmbH - LinkedIn up2parts GmbH - LinkedIn LinkedIn https://de.linkedin.com > company",
+    "url": "https://de.linkedin.com/company/up2parts-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Philippe Merariu - Software Engineer at up2parts - LinkedIn Philippe Merariu - Software Engineer at up2parts - LinkedIn LinkedIn https://ca.linkedin.com > merariu",
+    "url": "https://ca.linkedin.com/in/merariu",
+    "pass": 3
+   },
+   {
+    "quote": "Anna Pröls – COO @ up2parts - LinkedIn Anna Pröls – COO @ up2parts - LinkedIn LinkedIn https://de.linkedin.com > ...",
+    "url": "https://de.linkedin.com/in/anna-pr%C3%B6ls-b9a1b4123",
+    "pass": 3
+   },
+   {
+    "quote": "Max Sachse – Full Stack Developer bei Up2Parts - LinkedIn Max Sachse – Full Stack Developer bei Up2Parts - LinkedIn LinkedIn https://de.linkedin.com > ...",
+    "url": "https://de.linkedin.com/in/max-sachse-4a3438217",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Je li Up2Parts pouzdan za profesionalni rad? - Facebook Je li Up2Parts pouzdan za profesionalni rad? - Facebook Facebook https://www.facebook.com > fb-answers > is-up2parts-reli...",
+    "url": "https://www.facebook.com/fb-answers/is-up2parts-reliable-for-professional-work/?locale=hr_HR",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://up2parts.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.gibbscam.com/ja/ai-for-manufacturing/up2parts-autocam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gibbscam.com/ja/news/gibbscam-2025-ai-features-to-be-launched-in-september",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=otuF1AR6J1A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marklines.com/ja/members/sign_up",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wpiinc.com/ja/pages/distributors?srsltid=AYCX9vJEXIgaGvBGlJFAk0TTC35pCGtynHEuCPqWzlL_LHq4hHSHu7Pm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=10054",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://up2parts.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gibbscam.com/ja/ai-for-manufacturing/up2parts-autocam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=XjldHJERdgE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.camcut-group.com/en-us/brands/up2parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://up2parts.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercam.com/community/blog/introducing-mastercam-up2parts-integration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://up2parts.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://up2parts.com/en/strategic-investment-in-up2parts-by-two-global-players/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/up2parts",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/up2parts/__UNjNq8V8107XBMW-Di_z4xz7Re1lLI3fe-wiZ1_LXps/funding-and-investors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metrology.news/sandvik-invests-in-ai-based-closed-loop-manufacturing-software-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/up2parts-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/merariu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/anna-pr%C3%B6ls-b9a1b4123",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/max-sachse-4a3438217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/is-up2parts-reliable-for-professional-work/?locale=hr_HR",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Up2Parts 日本 導入",
+   "results": [
+    "https://www.gibbscam.com/ja/ai-for-manufacturing/up2parts-autocam",
+    "https://www.gibbscam.com/ja/news/gibbscam-2025-ai-features-to-be-launched-in-september",
+    "https://www.youtube.com/watch?v=otuF1AR6J1A",
+    "https://www.marklines.com/ja/global/9249",
+    "https://press.plaion.com/ja-JP/Cat/Items/122",
+    "https://36kr.jp/304187/",
+    "https://www.utokyo-ipc.co.jp/ja/story/robotruck/",
+    "https://dcross.impress.co.jp/docs/news/004145.html",
+    "https://www.youtube.com/watch?v=hj9I2uLS00c",
+    "https://up2parts.com/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Up2Parts 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://wpiinc.com/ja/pages/distributors?srsltid=AYCX9vJEXIgaGvBGlJFAk0TTC35pCGtynHEuCPqWzlL_LHq4hHSHu7Pm",
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=10054",
+    "https://www.elysium-global.com/ja/about/resellers/",
+    "https://www.udx.co.jp/blog/precision-parts-overseas-guide",
+    "https://simuarts.co.jp/software",
+    "https://www.project-mu.co.jp/ja/shoplist-distributor-overseas",
+    "https://tigereye.ai/partners/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Up2Parts Japan",
+   "results": [
+    "https://up2parts.com/en/",
+    "https://www.gibbscam.com/ja/ai-for-manufacturing/up2parts-autocam",
+    "https://www.youtube.com/watch?v=XjldHJERdgE",
+    "https://www.camcut-group.com/en-us/brands/up2parts",
+    "https://up2parts.com/en/products/up2parts-cockpit/",
+    "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-autocam",
+    "https://en.industryarena.com/up2parts/products/cam-software--1515/up2parts-calculation--27247",
+    "https://de.linkedin.com/company/up2parts-gmbh",
+    "https://www.demystifyingplm.com/podcast/aapl-e12-lambda-function-up2parts-closing-loop",
+    "https://www.gibbscam.com/ja/ai-for-manufacturing/up2parts-cockpit"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Up2Parts manufacturing customer case study",
+   "results": [
+    "https://up2parts.com/en/",
+    "https://www.demystifyingplm.com/case-study-lambda-function-up2parts-manufacturing-automation",
+    "https://www.gibbscam.com/en/ai-for-manufacturing/up2parts-cockpit",
+    "https://www.mastercam.com/community/blog/introducing-mastercam-up2parts-integration/",
+    "https://www.youtube.com/watch?v=H0RaYK2J_Kw",
+    "https://www.digitalmanufacturing.sandvik/en/news-stories/news/2023/09/sandvik-invests-in-ai-based-manufacturing-software-provider-up2parts/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIzBSiDDIrkcWXMfQENE9frDtwZsV0Tgh5R4AXFRvtrSGLygN3w",
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://www.automate.org/robotics/case-studies/toolcraft-case-study-the-first-production-line-for",
+    "https://www.mastercam.com/community/blog/accelerating-quoting-and-cam-automation-with-up2parts-for-mastercam/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Up2Parts white label OR reseller OR partner program",
+   "results": [
+    "https://up2parts.com/en/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.mastercam.com/community/blog/introducing-mastercam-up2parts-integration/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Up2Parts founded funding employees revenue",
+   "results": [
+    "https://up2parts.com/en/strategic-investment-in-up2parts-by-two-global-players/",
+    "https://www.crunchbase.com/organization/up2parts",
+    "https://tracxn.com/d/companies/up2parts/__UNjNq8V8107XBMW-Di_z4xz7Re1lLI3fe-wiZ1_LXps/funding-and-investors",
+    "https://metrology.news/sandvik-invests-in-ai-based-closed-loop-manufacturing-software-company/",
+    "https://up2parts.com/en/",
+    "https://austria.dealroom.co/companies/up2parts_gmbh",
+    "https://www.camcut-group.com/en-us/software/up2parts",
+    "https://multiples.vc/private-comps/upstage",
+    "https://getlatka.com/companies/upstackhq",
+    "https://pitchbook.com/profiles/company/442975-69"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Up2Parts",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/6016/n/n8ffa9b48d715"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Up2Parts",
+   "results": [
+    "https://x.com/Mastercam/status/2117323380747592079",
+    "https://x.com/Mastercam",
+    "https://x.com/takaki_kanagata/status/2110290453174308940",
+    "https://x.com/hashtag/BAMGmbH?src=hashtag_click",
+    "https://x.com/up2parts",
+    "https://x.com/Mastercam/status/2028532825822048766",
+    "https://x.com/Mastercam/status/2044027225041670432",
+    "https://x.com/Mastercam/status/2110078123509227657",
+    "https://x.com/i/trending/2119129610067578928",
+    "https://x.com/gzzigs/status/2119730795032007019"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Up2Parts",
+   "results": [
+    "https://de.linkedin.com/company/up2parts-gmbh",
+    "https://ca.linkedin.com/in/merariu",
+    "https://de.linkedin.com/in/anna-pr%C3%B6ls-b9a1b4123",
+    "https://de.linkedin.com/in/max-sachse-4a3438217",
+    "https://www.linkedin.com/posts/anna-pr%C3%B6ls-b9a1b4123_marco-bauer-and-myself-are-having-a-great-activity-7250460366973890560-Fr22",
+    "https://www.linkedin.com/company/daystrom-technologies-inc",
+    "https://de.linkedin.com/in/bianca-raum-42172220a",
+    "https://de.linkedin.com/in/bauermarco",
+    "https://de.linkedin.com/in/christoph-weigl-4956a6b4",
+    "https://www.linkedin.com/company/up2parts-gmbh"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Up2Parts",
+   "results": [
+    "https://www.facebook.com/fb-answers/is-up2parts-reliable-for-professional-work/?locale=hr_HR",
+    "https://www.facebook.com/MidwestCamSolutionsInc/posts/weve-traded-the-office-for-booth-2420-michael-and-jess-are-at-mdm-midwest-today-/1716692697132246/",
+    "https://www.facebook.com/Evilhair/posts/dark-cherry-red-is-the-trend-right-nowand-weve-got-just-the-products-back-in-sto/1335625865262012/",
+    "https://www.facebook.com/esquedaemilio/posts/1712985753949988/",
+    "https://www.facebook.com/MitotecPrecision/videos/every-manufacturer-faces-challenges-the-right-partner-can-make-all-the-differenc/2602636003544725/",
+    "https://www.facebook.com/MakeraGlobal/posts/%EF%B8%8F-more-time-making-parts-less-time-managing-the-machinefrom-roughing-to-finishin/1114952584866911/",
+    "https://www.facebook.com/Evilhair/posts/dark-cherry-red-is-the-hottest-red-tone-right-now-and-weve-got-just-the-products/1518535620304368/",
+    "https://www.facebook.com/dmgmori/videos/dmp-70-with-wh-3-cell/506344974974097/",
+    "https://www.facebook.com/Up2Parts-108446415166123/",
+    "https://www.facebook.com/Up2parts-GmbH-106512484859900/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Up2Parts note 社長",
+   "results": [
+    "https://up2parts.com/en/",
+    "https://up2parts.com/en/strategic-investment-in-up2parts-by-two-global-players/",
+    "https://note.com/aurore_tech/n/nb5099bb530f6",
+    "https://note.com/fukuwakogyo/n/n7c68a25fc40b?hl=en",
+    "https://note.jp/n/n61ffb9f9bf8f",
+    "https://note.com/ssltokyo_pr/m/m2b94c77db823/hashtag/AI",
+    "https://note.intimatemerger.com/followers",
+    "https://www.youtube.com/watch?v=v-s2QnuA3nY",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://up2parts.com/en/imprint/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Up2Parts X 投稿",
+   "results": [
+    "https://cloud.up2parts.com/",
+    "https://www.youtube.com/watch?v=pDndBLgF_m8",
+    "https://up2parts.com/en/gtc/",
+    "https://en.industryarena.com/up2parts/products/cam-software--1515/up2parts-calculation--27247",
+    "https://www.youtube.com/watch?v=CyWZE7EhZcI&vl=ja",
+    "https://xpost-pro.com/",
+    "https://up2parts.com/en/products/up2parts-calculation/",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://10up.com/plugins/autoshare-for-twitter/",
+    "https://x.com/up2parts"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

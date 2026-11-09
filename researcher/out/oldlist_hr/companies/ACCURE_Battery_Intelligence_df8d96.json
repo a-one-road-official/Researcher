@@ -1,0 +1,1590 @@
+{
+ "name": "ACCURE Battery Intelligence",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜日本進出済",
+ "researched_at": "2026-11-09T19:15:38.349828+00:00",
+ "official_url": "https://www.accure.net/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://innovationnetwork.travelers.com/solution/hub/81",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$10.7M",
+    "url": "https://getlatka.com/companies/accure---battery-intelligence",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "across the whole project lifecycle.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Independent benchmark data gives you more leverage in procurement and LTSA negotiations.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch hidden faults before site acceptance, avoid delays and protect your COD date.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect every revenue stream, whether traded, contracted or availability-based, in line with your warranties and covenants.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce cost and act decisively with predictive augmentation planning.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Banking BESS: Financing lessons for lenders and investors, from 50+ operating battery projects",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn what operational data from 50+ battery projects reveals about BESS financing, and how lenders and investors can de-risk BESS project finance.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Availability, from contract to reality: three in four sites over-report availability, and because that gap is revenue the site never earns, even a 2% shortfall takes a representative project's 1.30x debt service coverage ratio to roughly 1.26x.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Aging and degradation: a measured state of health runs 1.8 percentage points above the average warranty curve in the early years, so degradation worries are often mispriced: operational performance, not aging, drives asset value.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "“We are delighted to be working with ACCURE, alongside Gore Street Capital and PIB, to provide an innovative, risk-managed solution that incorporates ACCURE’s battery safety intelligence for BESS risks. By combining the technology expertise of HDI TH!NX with our deep underwriting and risk engineering capabilities, we create solutions to support clients through times of transformation.”",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Engineering at esVolta",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Increasing the safety and performance of battery energy storage systems (BESS) is a priority for us. ACCURE’s predictive analytics platform not only streamlined our commissioning process but also improved safety and performance, ensuring we’re ready to meet the energy demands of the Texas grid.\"",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "\"ACCURE has provided us with the visibility we needed into the performance of the batteries, empowering us to take a data-driven approach to our asset management and make better operational decisions”",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Repsol team is pleased to work with ACCURE and adopt this new generation of AI-based predictive analytics technology, which has already shown its value in supporting operations at the Jicarilla I Energy Storage project.\"",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President Operations and Maintenance at Repsol Renewables North America",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "This white paper covers the causes of state of charge (SOC) estimation errors, where traditional BMS fall short, and explains how to get precise SOC within 2% of actual value.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Webinar: Stay Ahead of BESS Failures with Predictive Analytics",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn best practices and helpful insights from battery experts",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE Battery Intelligence is an independent battery analytics company that helps grid-scale BESS owners and operators enhance revenue, cut OpEx and reduce risk. It combines a predictive battery analytics platform with expert performance engineers, drawing on 27+ GWh of analysed capacity across 170+ sites worldwide.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "How does ACCURE help improve BESS returns?",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Across three areas: revenue (recovering availability, efficiency and state-of-energy losses), OpEx (proactive maintenance and root-cause analysis by performance engineers) and risk (independent monitoring recognised by leading insurers).",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "The best software combines independent, OEM-agnostic analytics with expert support. ACCURE's predictive battery analytics platform continuously monitors safety, availability, efficiency, degradation and state of charge across the BMS, EMS and PCS, and pairs every alert with a next step ranked by commercial impact, backed by performance engineers.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Battery Analytics Platform",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Improve insurance conditions with analytics",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Take proactive control of your PCS and system efficiency",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Learn best practices and helpful insights from battery experts",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "OnBaSys project: Online-EIS battery system for stationary energy storage",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "FOOD project: Forming optimization in battery cell production through diagnostic procedures and digital methods",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "SOC Corrections Boost Profitability",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE grew out of hands-on battery research and real-world deployments. Our founders—Dr. Kai-Philipp Kairies, Dr. Johannes Palmer, and Dr. Georg Angenendt—have been immersed in the battery world since 2008, leading the world's largest grid-battery research group and developing a 5 MWh system back in 2013, when “utility-scale” still turned heads.",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": ", ACCURE’s platform harnesses the flood of BMS data, pinpoints risk and lifetime in real time, and turns complexity into clear, actionable insight. Today our multidisciplinary team applies the same rigor and pragmatism to help storage owners worldwide prevent failures, trim costs, and capture every megawatt-hour of value from their assets.",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritize the customer",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Recognition from respected industry bodies tells us we’re on the right track—providing the tools companies need to run their batteries more reliably, longer, and more safely.",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Safety Product of the Year",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "“Our software team uses best practices to design and develop our platform, with a tech stack aimed at improving the performance of our products and making the best use of our time. We have a remote-first development culture with the benefit of a lovely office in the heart of Aachen.”",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "“Our people team takes care of all things people and culture. We're continuously working on keeping ACCURE an inspiring, productive, and fun workplace both in our headquarters and for all our remote colleagues.”",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "“The customer success team is battery experts helping our customer get the most value out of their battery data. We’re also the link between our customers and our internal development teams to drive continuous improvement of our products and services.”",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "“Our infrastructure chapter builds distributed and highly scalable services to process terabytes of data. We use established and new technologies to provide the tools data analysts and engineers need to build our final product.”",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "“I enhance and expand our products with cool new features and find customized solutions. I’m involved in many different areas and topics that help define our product vision. Did I mention, I was ACCURE's first female team member, way back when the company started!”",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Battery Analytics Platform",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Improve insurance conditions with analytics",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Take proactive control of your PCS and system efficiency",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Learn best practices and helpful insights from battery experts",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what real-world data from 100+ battery storage sites reveals about round-trip efficiency, system performance, and how predictive analytics boosts ROI.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Your next BESS contract could make or break your project. Learn to uncover and avoid costly blind spots before you sign.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "for information on data processing.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the benefits & limitations of using anode potential modeling to predict lithium plating, and therefore battery aging, in fast charging applications.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "37 % of Battery Energy Storage System (BESS) projects slip by up to 9 months—see how data analytics speeds commissioning, slashes risk, and safeguards profit.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Boost BESS revenue by up to 11% with accurate SOC. Learn how predictive analytics solve LFP battery challenges and unlock higher energy market earnings.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate Guide to Battery Aging - How to Prevent Aging in Battery Energy Storage",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "April 3, 2025",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Learn why battery SOC estimation errors happen, their impact on energy storage markets, and how predictive analytics can improve SOC accuracy.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE’s Security by Design Approach to Data Management",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Read our approach to secure data management in every phase of our product development lifecycle while we maintain ISO 27001 certification.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Battery Energy Storage Systems (BESS) are a cornerstone of the renewable energy transition, providing crucial support for grid resiliency. However...",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Lithium plating in batteries is known to have a detrimental effect on battery lifetime and safety. Learn why plating occurs, its effects and how to prevent it.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "How to Increase Lithium-Ion Battery Life to Improve Performance",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Second-life lithium batteries are a viable option for energy storage if challenges are addressed proactively.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Precise state of charge (SOC) estimation is a significant challenge for lithium iron phosphate (LFP) batteries directly affecting financial performance.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Battery Management Systems and Predictive Analytics Overview",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "operators and the investors behind them make better decisions with ACCURE.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC inaccuracies can cost BESS operators more than $1 million per GWh annually",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE Battery Intelligence is an independent battery analytics company that helps grid-scale BESS owners and operators enhance revenue, cut OpEx and reduce risk. It combines a predictive battery analytics platform with expert performance engineers, drawing on 27+ GWh of analysed capacity across 170+ sites worldwide.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Is ACCURE independent of battery manufacturers?",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is independent and OEM-agnostic. It works across any manufacturer's hardware, giving owners, operators, lenders and insurers a single, objective view of performance built on one of the industry's largest independent BESS datasets.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "See how ACCURE’s platform is a trusted resource for energy storage operators worldwide.",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Owners, operators and their stakeholders",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "See how ACCURE’s platform is a trusted resource for energy storage operators worldwide.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Owners, operators and their stakeholders",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "SOC inaccuracies can cost BESS operators more than $1 million per GWh annually",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Inaccurate SOC costs BESS operators $1M+/GWh annually. Learn how LFP estimation errors hurt revenue and how analytics can fix it.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Guide to Factory Acceptance Tests (FAT) for BESS",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Battery Energy Storage Systems undergo factory acceptance testing (FAT) to ensure they operate safely and reliably.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "There are three layers for maintaining safe battery systems that lithium-ion battery manufacturers, system developers, and operators should know.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Is ACCURE's safety solution independent of the manufacturer?",
+    "url": "https://www.accure.net/battery-analytics-solutions/safety-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is OEM-agnostic and works across any manufacturer's hardware.",
+    "url": "https://www.accure.net/battery-analytics-solutions/safety-manager",
+    "pass": 1
+   },
+   {
+    "quote": "What software helps owners and operators reduce curtailment and improve dispatch efficiency?",
+    "url": "https://www.accure.net/battery-analytics-solutions/performance-manager",
+    "pass": 1
+   },
+   {
+    "quote": "It lets owners and operators defer and right-size augmentation CapEx, avoid over-building, and defend residual value, and provides the evidence to substantiate warranty claims when a battery ages faster than contracted.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Does ACCURE work with any battery chemistry or manufacturer?",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is independent and OEM-agnostic, working across chemistries and manufacturers.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid manufacturing scale-up often comes at the cost of consistency. New production lines are especially prone to variability. Hidden defects and uneven component quality can cause issues years after COD.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Guide to Factory Acceptance Tests",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is independent and OEM-agnostic, with no commercial ties to manufacturers.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "A defect caught in the factory costs a fraction of one caught on-site.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "A single faulty cell, a loose busbar or a mis-tuned BMS can tip a plant from profit to problem. Thermal runaway, capacity fade and uneven ageing hide behind the spreadsheets. Only end-to-end, data-rich QA across cells, racks, electronics and communication protects both safety and investor returns long after the factory shine wears off.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE's independent battery quality assurance analytics benchmark your suppliers' factory data against contract, drawing on 27+ GWh of analysed capacity across 170+ sites worldwide.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Acceptance Testing planning and execution",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "We plan and support Factory Acceptance Tests (FAT), developing checklists, inspection test plans and acceptance criteria, then analysing the resulting FAT data to verify battery compliance before equipment leaves the factory.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "During FAT we review audit documentation and analyse measurement data to identify non-conformities, working with the engineering and manufacturing teams to resolve them before shipment.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Within a few hours, ACCURE’s cloud-based FAT benchmarked the factory data against the contractual specification and flagged two major non-conformities:",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid manufacturing scale-up often comes at the cost of consistency. New production lines are especially prone to variability. Hidden defects and uneven component quality can cause issues years after COD.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE pairs independent analytics with performance engineers to plan, support and report on FAT before equipment ships. We benchmark factory data against your spec, resolve non-conformities with the supplier and produce a defensible record, catching the costly defects early and keeping your programme on track.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Guide to Factory Acceptance Tests",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "What does independent BESS factory acceptance testing detect?",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "A defect caught in the factory costs a fraction of the same defect caught on-site, where it can delay commissioning, trigger disputes and erode investor returns.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Does ACCURE replace a physical factory audit?",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE's quality assurance is analytics-led: we benchmark and validate factory and FAT data against your specification and support FAT execution. This complements rather than replaces a full physical factory audit, and where one is needed we can bring in partner companies to carry it out.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Factory and FAT test data spanning cells, racks, power electronics and communications, benchmarked against your contractual specification.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Catching what factory tests missed.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "With no indepedent analysis at the factory, the operator relied on the vendor’s end-of-line screens. Any later defect could have been blamed on “abusive operation”, exposing the developer to substantial risks.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid manufacturing scale-up often comes at the cost of consistency. New production lines are especially prone to variability. Hidden defects and uneven component quality can cause issues years after COD.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE’s health tracking showed the cells in a 100+ MWh BESS had lost ≈ 6 % more capacity than the supplier’s warranty allowed within the first two years. The original augmentation plan (adding 1.8 MWh in year 2) would not keep the plant above its required usable-capacity threshold, risking lost revenue, grid penalties and warranty disputes.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid manufacturing scale-up often comes at the cost of consistency. New production lines are especially prone to variability. Hidden defects and uneven component quality can cause issues years after COD.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "See how ACCURE’s platform is a trusted resource for energy storage operators worldwide.",
+    "url": "https://www.accure.net/battery-analytics-solutions/emergency-response",
+    "pass": 1
+   },
+   {
+    "quote": "Owners, operators and their stakeholders",
+    "url": "https://www.accure.net/battery-analytics-solutions/emergency-response",
+    "pass": 1
+   },
+   {
+    "quote": "leverages physics-based algorithms and cloud computing to provide BESS operators with more accurate state estimation for their LFP batteries in real time, unlocking better trading decisions and higher revenues.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lithium-battery-state-of-charge",
+    "pass": 1
+   },
+   {
+    "quote": "SOC Corrections Boost Profitability Case Study",
+    "url": "https://www.accure.net/battery-analytics-solutions/lithium-battery-state-of-charge",
+    "pass": 1
+   },
+   {
+    "quote": "See how operators are using software to manage complex supplier warranties.",
+    "url": "https://www.accure.net/battery-analytics-solutions/warranty-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "See how BESS operators and insurance companies are translating analytics into improved insurance benefits.",
+    "url": "https://www.accure.net/battery-analytics-solutions/bess-insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Alert fatigue comes at a cost for battery operators",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE CEO Kai-Philipp Kairies on why most BESS operators leave money on the table, and the efficiency push coming to the market. Read it at Energy-Storage.news",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "iON+ and ACCURE partner to simplify BESS data access for owners and operators",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE Director of Battery Intelligence, Darya Rüwald, shows how operators can miss out on revenue due to SOC inaccuracy.",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE launches its largest platform update to-date, built on feedback from operators across more than 24 GWh of BESS capacity",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE's biggest platform update yet: AI-powered alerts, warranty intelligence, and 3D asset mapping for grid-scale BESS operators.",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE partners with Protect Solar to deliver more favourable insurance conditions to BESS owners and operators",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE partners with Protect Solar to support improved insurance conditions for BESS owners and operators.",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "New sales partnership agreement to offer battery safety and performance software solutions to owners and operators of battery energy storage systems...",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE’s battery analytics software on successful path to empower owners, operators to monitor safety and health",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "See how ACCURE’s platform is a trusted resource for energy storage operators worldwide.",
+    "url": "https://www.accure.net/company/research",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Yes. ACCURE is independent and OEM-agnostic. It works across any manufacturer's hardware, giving owners, operators, lenders and insurers a single, objective view of performance built on one of the industry's largest independent BESS datasets.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "The best software combines independent, OEM-agnostic analytics with expert support. ACCURE's predictive battery analytics platform continuously monitors safety, availability, efficiency, degradation and state of charge across the BMS, EMS and PCS, and pairs every alert with a next step ranked by commercial impact, backed by performance engineers.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is OEM-agnostic and works across any manufacturer's hardware.",
+    "url": "https://www.accure.net/battery-analytics-solutions/safety-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Every battery ages. Usage, temperature, calendar ageing and system integration all drive it, and the BMS alone can't show you the full picture. ACCURE's battery state-of-health analytics forecast degradation over a two-year horizon, so you can defer and right-size CapEx, substantiate warranty claims against the OEM, and defend residual value with confidence.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is independent and OEM-agnostic, working across chemistries and manufacturers.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is independent and OEM-agnostic, with no commercial ties to manufacturers.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE is independent and OEM-agnostic, giving you an objective check on supplier claims.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Protect every revenue stream, whether traded, contracted or availability-based, in line with your warranties and covenants.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Availability, from contract to reality: three in four sites over-report availability, and because that gap is revenue the site never earns, even a 2% shortfall takes a representative project's 1.30x debt service coverage ratio to roughly 1.26x.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Aging and degradation: a measured state of health runs 1.8 percentage points above the average warranty curve in the early years, so degradation worries are often mispriced: operational performance, not aging, drives asset value.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Warranty monitoring starts on Day Zero—not Year Zero or Year One—Day Zero. ACCURE gives us an independent, third-party perspective, ensuring our batteries operate well within warranty parameters.\"",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Overcoming SOC Inaccuracies in LFP Batteries: How to Increase Revenue and Simplify Operations",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE Battery Intelligence is an independent battery analytics company that helps grid-scale BESS owners and operators enhance revenue, cut OpEx and reduce risk. It combines a predictive battery analytics platform with expert performance engineers, drawing on 27+ GWh of analysed capacity across 170+ sites worldwide.",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Across three areas: revenue (recovering availability, efficiency and state-of-energy losses), OpEx (proactive maintenance and root-cause analysis by performance engineers) and risk (independent monitoring recognised by leading insurers).",
+    "url": "https://www.accure.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost revenue and optimize BESS performance",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Estimated annual revenue per GW based on a 2-hour asset",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Gore Street Capital: Turning SOC accuracy into 5%+ more trading revenue",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance revenue, cut OpEx and mitigate risk across your grid-scale BESS.",
+    "url": "https://www.accure.net/company/client-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Boost revenue and optimize BESS performance",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Inaccurate SOC costs BESS operators $1M+/GWh annually. Learn how LFP estimation errors hurt revenue and how analytics can fix it.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "LFP battery SOC errors can exceed 15%, risking revenue and reliability. Learn how ACCURE analytics cut errors to ±2% for smarter energy storage.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Battling Revenue Erosion: Sharper SOC Accuracy Can Lift BESS Earnings by 11 %",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Boost BESS revenue by up to 11% with accurate SOC. Learn how predictive analytics solve LFP battery challenges and unlock higher energy market earnings.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Overcoming BESS Revenue Challenges Impacting the UK",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "The perfect storm of market challenges has transformed the BESS revenue stack for the UK. Learn five ways owners can maximize BESS revenue streams.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance revenue, cut OpEx and mitigate risk across your grid-scale BESS.",
+    "url": "https://www.accure.net/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "What you get when you're part of ACCURE",
+    "url": "https://www.accure.net/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You liked your future team and cannot wait to become part of the bunch? If we feel the same way, then we’ll discuss an individual offer with you. Once we’ve signed the contract, it’s official 🎉",
+    "url": "https://www.accure.net/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Can I submit an unsolicited application if no suitable position is listed?",
+    "url": "https://www.accure.net/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Do I need to meet all the requirements listed in the job posting?",
+    "url": "https://www.accure.net/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The listed requirements are our ideal expectations. However, some \"must-haves\" are clearly identified in the job description. If you don’t meet these specific criteria, your chances may be lower – but don’t hesitate to apply if you feel confident about the role!",
+    "url": "https://www.accure.net/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our benefits are listed at the end of each job posting. Some examples include:",
+    "url": "https://www.accure.net/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Li-ion batteries carry a small risk with a big impact.",
+    "url": "https://www.accure.net/battery-analytics-solutions/safety-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Ensuring availability, increasing revenue, and",
+    "url": "https://www.accure.net/battery-analytics-solutions/performance-manager",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE's predictive battery analytics platform and performance engineers turn performance data into revenue you can capture, and the operating discipline to keep assets outperforming.",
+    "url": "https://www.accure.net/battery-analytics-solutions/performance-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Boost revenue and optimise BESS performance",
+    "url": "https://www.accure.net/battery-analytics-solutions/performance-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Can ACCURE help with warranty and LTSA compliance?",
+    "url": "https://www.accure.net/battery-analytics-solutions/performance-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. ACCURE tracks every contractual KPI (warranty, LTSA and offtake) and its warranty intelligence warns you before a breach and builds a defensible, independent record, helping keep your warranty claims valid.",
+    "url": "https://www.accure.net/battery-analytics-solutions/performance-manager",
+    "pass": 1
+   },
+   {
+    "quote": "quietly erodes capacity, revenue and residual value.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Every battery ages. Usage, temperature, calendar ageing and system integration all drive it, and the BMS alone can't show you the full picture. ACCURE's battery state-of-health analytics forecast degradation over a two-year horizon, so you can defer and right-size CapEx, substantiate warranty claims against the OEM, and defend residual value with confidence.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE's predictive battery analytics platform and performance engineers turn battery state of health into decisions that defer CapEx, defend residual value and substantiate warranty claims.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "It lets owners and operators defer and right-size augmentation CapEx, avoid over-building, and defend residual value, and provides the evidence to substantiate warranty claims when a battery ages faster than contracted.",
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "pass": 1
+   },
+   {
+    "quote": "Buying batteries isn't like buying transformers. Chemistries evolve, specifications shift mid-bid and supplier rosters change overnight. Add warranty fine print, ESG audits and shifting trade rules, and the risk stacks up on a purchase your financing depends on. The teams that win negotiate from independent data, not vendor brochures.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE's performance engineering services for battery storage bring the industry's largest independent BESS dataset to procurement, pre-acquisition diligence, and LTSA, warranty and PPA negotiations, backed by benchmark data from 27+ GWh of analysed capacity across 170+ sites worldwide.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty and LTSA review",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Once you have a preferred supplier, we work through the warranty and availability equations and test them against real fault scenarios, flagging exceptions, carve-outs and ambiguous terms before you sign.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "We recommended rejecting the proposal in favour of the one-line industry standard: easily retrieved, third-party verifiable and debate-free. After negotiation the vendor accepted, and compliance is now tracked in ACCURE's platform with zero extra effort, giving the operator a defensible basis for any future warranty claim.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Contracts often lack teeth. Vague warranties, unclear performance guarantees, and loosely defined LTSA terms leave stakeholders without real leverage when things go wrong.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Technology is evolving fast—and so are markets. New hardware iterations and shifting revenue streams make long-term planning uncertain, reactive, and risky.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE pairs independent battery analytics with performance engineers to assess suppliers against technical, commercial and contractual standards. We run pre-qualification, benchmark supplier and FAT data against your specification, and turn it into a defensible record, so you procure from evidence and negotiate enforceable warranty and LTSA terms.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "It lets you benchmark suppliers on evidence rather than brochures, verify specs before you sign, and negotiate warranty and LTSA terms that are enforceable and reflect real-world performance.",
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Contracts often lack teeth. Vague warranties, unclear performance guarantees, and loosely defined LTSA terms leave stakeholders without real leverage when things go wrong.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Technology is evolving fast—and so are markets. New hardware iterations and shifting revenue streams make long-term planning uncertain, reactive, and risky.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE's quality assurance is analytics-led: we benchmark and validate factory and FAT data against your specification and support FAT execution. This complements rather than replaces a full physical factory audit, and where one is needed we can bring in partner companies to carry it out.",
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "pass": 1
+   },
+   {
+    "quote": "Every week of commissioning delay is a week of lost revenue.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "Our documented findings provided immediate leverage. The vendor replaced the defective racks and amended the warranty, removing latent safety and performance risks and pre-empting future liability disputes.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "Contracts often lack teeth. Vague warranties, unclear performance guarantees, and loosely defined LTSA terms leave stakeholders without real leverage when things go wrong.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "Technology is evolving fast—and so are markets. New hardware iterations and shifting revenue streams make long-term planning uncertain, reactive, and risky.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE pairs independent analytics with performance engineers to surface hidden risks before site acceptance and resolve them fast. We integrate into your commissioning workflow, hold vendors accountable and get sites revenue-ready as quickly and reliably as possible, protecting both your COD date and your warranty position.",
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "pass": 1
+   },
+   {
+    "quote": "Augment too early and you waste capital. Too late and you lose revenue.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "Batteries age and markets move. Without accurate life curves and a timed plan, usable capacity slips and revenue leaks away. Strategic augmentation blends health forecasting, cost curves and evolving chemistries to add the right capacity at the right time, keeping assets above contract thresholds and getting every megawatt-hour of value from the investment.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE’s health tracking showed the cells in a 100+ MWh BESS had lost ≈ 6 % more capacity than the supplier’s warranty allowed within the first two years. The original augmentation plan (adding 1.8 MWh in year 2) would not keep the plant above its required usable-capacity threshold, risking lost revenue, grid penalties and warranty disputes.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "By comparing the real-life State-of-Health curve with the contractual warranty line, we quantified the shortfall and calculated how much additional energy was needed to stay compliant until the next scheduled augmentation.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "Using ACCURE’s evidence, the operator successfully claimed an extra 1.45 MWh of warranty-funded augmentation, raising the year-2 top-up from 1.8 MWh to 3.3 MWh. The additional capacity (valued at ≈ $217k) secures site performance, preserves revenue, and keeps the supplier, not the operator, responsible for the accelerated ageing.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "Contracts often lack teeth. Vague warranties, unclear performance guarantees, and loosely defined LTSA terms leave stakeholders without real leverage when things go wrong.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "Technology is evolving fast—and so are markets. New hardware iterations and shifting revenue streams make long-term planning uncertain, reactive, and risky.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   },
+   {
+    "quote": "ACCURE pairs predictive battery analytics with performance engineers to forecast site-level augmentation needs up to two years ahead. We tell you when to augment, how much and what the financials support, so you plan cost-efficient expansions, protect revenue and give boards and lenders the evidence behind every CapEx decision.",
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "eMotion Fleet and ACCURE Battery Intelligence Partner to Bring Predictive Battery Analytics to Electric Vehicle Fleets and Energy Storage Systems in Japan",
+    "url": "https://www.accure.net/company/news",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ACCURE Battery Intelligence | Battery Analytics for BESS — ACCURE Battery Intelligence | Battery Analytics for BESS ACCURE Battery Intelligence https://www.accure.net",
+    "url": "https://www.accure.net/",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence | LinkedIn — ACCURE Battery Intelligence | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence Launches PCS Analytics and ... — ACCURE Battery Intelligence Launches PCS Analytics and ... North American Clean Energy https://www.nacleanenergy.com > acc...",
+    "url": "https://www.nacleanenergy.com/energy-storage/accure-battery-intelligence-launches-pcs-analytics-and-tasks-to-maximize-bess-uptime-and-close-the-o-m-loop",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence | Travelers Innovation Network — ACCURE Battery Intelligence | Travelers Innovation Network Travelers Innovation Network for Energy https://energyinnovation.travelers.com > ...",
+    "url": "https://energyinnovation.travelers.com/solution/energy/81",
+    "pass": 3
+   },
+   {
+    "quote": "Who we are - ACCURE Battery Intelligence — Who we are - ACCURE Battery Intelligence ACCURE Battery Intelligence https://www.accure.net > who-we-are",
+    "url": "https://www.accure.net/company/who-we-are",
+    "pass": 3
+   },
+   {
+    "quote": "News - eMotion Fleet and ACCURE Battery Intelligence ... — News - eMotion Fleet and ACCURE Battery Intelligence ... ACCURE Battery Intelligence https://www.accure.net > news > emot...",
+    "url": "https://www.accure.net/news/emotion-fleet-and-accure-battery-intelligence-partner-to-bring-predictive-battery-analytics-to-electric-vehicle-fleets-and-energy-storage-systems-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence | Travelers Innovation Network — ACCURE Battery Intelligence | Travelers Innovation Network Travelers Innovation Network https://innovationnetwork.travelers.com > ...",
+    "url": "https://innovationnetwork.travelers.com/solution/hub/81",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence — ACCURE Battery Intelligence RE+ Connect https://connect.re-plus.events > event",
+    "url": "https://connect.re-plus.events/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence | World Economic Forum — ACCURE Battery Intelligence | World Economic Forum World Economic Forum https://www.weforum.org > accure-ba...",
+    "url": "https://www.weforum.org/organizations/accure-battery-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - ACCURE Battery Intelligence — Case Studies - ACCURE Battery Intelligence ACCURE Battery Intelligence https://www.accure.net > case-studies",
+    "url": "https://www.accure.net/company/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Accure Battery Intelligence 2026 Company Profile - PitchBook — Accure Battery Intelligence 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/439384-33",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence Revenue 2024: $14.7M Est. — ACCURE Battery Intelligence Revenue 2024: $14.7M Est. GetLatka https://getlatka.com > companies > ac...",
+    "url": "https://getlatka.com/companies/accure---battery-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence - 2026 Company Profile & Team — ACCURE Battery Intelligence - 2026 Company Profile & Team Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/accure-battery-intelligence/__puxMMBtHMZGw6ylm3sWEoZ6EZ0P9XGysYP3SpUz6rXw",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE secures investment from Copec WIND Ventures as it ... — ACCURE secures investment from Copec WIND Ventures as it ... ACCURE Battery Intelligence https://www.accure.net > news > accu...",
+    "url": "https://www.accure.net/news/accure-secures-investment-from-copec-wind-ventures",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In ACCURE Battery Intelligence Stock - EquityZen — Invest In ACCURE Battery Intelligence Stock - EquityZen EquityZen https://equityzen.com > company > ac...",
+    "url": "https://equityzen.com/company/accurebatteryintelligence/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ACCURE Battery Intelligence (@AccureBattery) / Posts / X Aug 25, 2020 · We are beyond excited to work with @MTA, @MetroNorth, @PANYNJ, @NJTRANSIT, and @NYC_DOT to show how our predictive battery analytics software can reduce operational costs and prevent battery fires.",
+    "url": "https://x.com/AccureBattery",
+    "pass": 3
+   },
+   {
+    "quote": "Ūkabi on X: \"Banking BESS:financing lessons for lenders and ... Banking BESS:financing lessons for lenders and investors, from 50+ operating battery projects, a new report from ACCURE Battery Intelligence with support from U.S. Bank, covers 4 GW of installed power capacity and 10 GWh of energy capacity. https://t.co/HYTnrQ4qjy",
+    "url": "https://x.com/NyokabiJesse/status/2113154954924077096",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ACCURE Battery Intelligence | LinkedIn ACCURE Battery Intelligence | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "How ACCURE Battery Intelligence Is Transforming ... - LinkedIn How ACCURE Battery Intelligence Is Transforming ... - LinkedIn LinkedIn https://www.linkedin.com > pulse > b...",
+    "url": "https://www.linkedin.com/pulse/battery-business-insights-accure-intelligence-julian-renpenning-6vcee",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence's Post - LinkedIn ACCURE Battery Intelligence's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > ac...",
+    "url": "https://www.linkedin.com/posts/accure-battery-intelligence_accure-strengthens-leadership-team-activity-7442582797225132033-qswk",
+    "pass": 3
+   },
+   {
+    "quote": "22000+ Accure Battery Intelligence Jobs in Worldwide - LinkedIn 22000+ Accure Battery Intelligence Jobs in Worldwide - LinkedIn LinkedIn https://www.linkedin.com > jobs > ac...",
+    "url": "https://www.linkedin.com/jobs/accure-battery-intelligence-jobs-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "ACCURE Battery Intelligence - LinkedIn ACCURE Battery Intelligence - LinkedIn LinkedIn https://de.linkedin.com > company",
+    "url": "https://de.linkedin.com/company/accure-battery-intelligence",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.accure.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/client-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/who-we-are",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/blogs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/safety-manager",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/performance-manager",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/lifetime-manager",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/procurement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/quality-assurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/commissioning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/augmentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/emergency-response",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/lithium-battery-state-of-charge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/warranty-coverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/battery-analytics-solutions/bess-insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/webinars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accure.net/company/events",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/67f3b2b2af7509d6ee127613/681a15e139d343bbd09dddf9_accure-logos-7.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67f3b2b2af7509d6ee127613/681a15e1cc81cb1757577f6d_accure-logos-6.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67f3b2b2af7509d6ee127613/681a15e160859bac7fe9ad01_accure-logos-4.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67f3b2b2af7509d6ee127613/681a15e1cc59f8f341d4e663_accure-logos-2.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nacleanenergy.com/energy-storage/accure-battery-intelligence-launches-pcs-analytics-and-tasks-to-maximize-bess-uptime-and-close-the-o-m-loop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://connect.re-plus.events/widget/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovationnetwork.travelers.com/solution/hub/81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://connect.re-plus.events/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://videsigns.uk/case-study/accure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovationnetwork.travelers.com/solution/hub/81",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/accure---battery-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/accure-battery-intelligence/__puxMMBtHMZGw6ylm3sWEoZ6EZ0P9XGysYP3SpUz6rXw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AccureBattery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NyokabiJesse/status/2113154954924077096",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/battery-business-insights-accure-intelligence-julian-renpenning-6vcee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/accure-battery-intelligence_accure-strengthens-leadership-team-activity-7442582797225132033-qswk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/accure-battery-intelligence-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/accure-battery-intelligence",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ACCURE Battery Intelligence 日本 導入",
+   "results": [
+    "https://www.accure.net/",
+    "https://www.linkedin.com/company/accure-battery-intelligence",
+    "https://www.nacleanenergy.com/energy-storage/accure-battery-intelligence-launches-pcs-analytics-and-tasks-to-maximize-bess-uptime-and-close-the-o-m-loop",
+    "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "https://energyinnovation.travelers.com/solution/energy/81",
+    "https://www.youtube.com/c/ACCUREBatteryIntelligence",
+    "https://connect.re-plus.events/widget/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "https://www.startup-energy-transition.com/set100-database/accure-battery-intelligence/",
+    "https://www.accure.net/news/accure-battery-intelligence-predictive-analytics-tech-to-increase-battery-safety-and-performance-of-energy-storage-projects",
+    "https://www.emotion-fleet.com/news/press-20240704"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ACCURE Battery Intelligence 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.accure.net/",
+    "https://www.linkedin.com/company/accure-battery-intelligence",
+    "https://connect.re-plus.events/widget/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "https://www.accure.net/company/who-we-are",
+    "https://esgjournaljapan.com/world-news/44270",
+    "https://www.emotion-fleet.com/news/press-20240704",
+    "https://www.hdi.global/ja-jp/infocenter/insights/2022/hdi-thinx/",
+    "https://www.accure.net/battery-analytics/battery-intelligence",
+    "https://www.idtechex.com/ja/research-report/ai-driven-battery-technology/1181",
+    "https://www.accure.net/company/contact-us"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ACCURE Battery Intelligence Japan",
+   "results": [
+    "https://www.accure.net/news/emotion-fleet-and-accure-battery-intelligence-partner-to-bring-predictive-battery-analytics-to-electric-vehicle-fleets-and-energy-storage-systems-in-japan",
+    "https://innovationnetwork.travelers.com/solution/hub/81",
+    "https://www.linkedin.com/company/accure-battery-intelligence",
+    "https://connect.re-plus.events/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "https://www.weforum.org/organizations/accure-battery-intelligence",
+    "https://www.accure.net/",
+    "https://www.solarplaza.com/company/12840/accure-battery-intelligence/",
+    "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "https://www.startup-energy-transition.com/set100-database/accure-battery-intelligence/",
+    "https://www.emotion-fleet.com/news/press-20240704"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ACCURE Battery Intelligence manufacturing customer case study",
+   "results": [
+    "https://www.accure.net/company/case-studies",
+    "https://www.linkedin.com/company/accure-battery-intelligence",
+    "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "https://videsigns.uk/case-study/accure",
+    "https://innovationnetwork.travelers.com/solution/hub/81",
+    "https://www.youtube.com/watch?v=wuhjp8OAlHM",
+    "https://energy-cast.com/179-accure.html",
+    "https://www.scribd.com/document/897636497/What-Does-ACCURE-Do",
+    "https://www.executive-integrity.com/wp-content/uploads/2025/05/accure-original-case-study.pdf",
+    "https://www.casestudies.com/company/accure/case-study/fraunhofer-ffb-improves-battery-cell-quality-with-accure-in-a-36-month-eu-project"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ACCURE Battery Intelligence white label OR reseller OR partner program",
+   "results": [
+    "https://www.accure.net/",
+    "https://innovationnetwork.travelers.com/solution/hub/81",
+    "https://www.linkedin.com/company/accure-battery-intelligence",
+    "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "https://pitchbook.com/profiles/company/439384-33",
+    "https://www.esgtoday.com/accure-raises-16-million-to-scale-ai-based-platform-to-make-batteries-safer-and-more-reliable/",
+    "https://connect.re-plus.events/widget/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "https://www.crunchbase.com/organization/accure-battery-intelligence",
+    "https://www.youtube.com/c/ACCUREBatteryIntelligence",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ACCURE Battery Intelligence founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/accure---battery-intelligence",
+    "https://tracxn.com/d/companies/accure-battery-intelligence/__puxMMBtHMZGw6ylm3sWEoZ6EZ0P9XGysYP3SpUz6rXw",
+    "https://www.linkedin.com/company/accure-battery-intelligence",
+    "https://www.accure.net/news/accure-secures-investment-from-copec-wind-ventures",
+    "https://equityzen.com/company/accurebatteryintelligence/",
+    "https://pitchbook.com/profiles/company/439384-33",
+    "https://leadiq.com/c/accure-battery-intelligence/5f8d5fac12990524e7626681",
+    "https://www.crunchbase.com/organization/accure-battery-intelligence",
+    "https://dealroom.co/companies/accure/",
+    "https://tracxn.com/d/companies/accurebatteryintelligence/__puxMMBtHMZGw6ylm3sWEoZ6EZ0P9XGysYP3SpUz6rXw"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com ACCURE Battery Intelligence",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/オデュッセイア",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/tigershark/n/n2dc62dd45050",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/saiko6459/n/nc86e78308183"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ACCURE Battery Intelligence",
+   "results": [
+    "https://x.com/mart_di_be",
+    "https://x.com/AccureBattery",
+    "https://x.com/hashtag/batteryintelligence",
+    "https://x.com/NyokabiJesse/status/2113154954924077096",
+    "https://x.com/LiminalInsights",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/spaceshark23/status/2117267370959945821"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com ACCURE Battery Intelligence",
+   "results": [
+    "https://www.linkedin.com/company/accure-battery-intelligence",
+    "https://www.linkedin.com/pulse/battery-business-insights-accure-intelligence-julian-renpenning-6vcee",
+    "https://www.linkedin.com/posts/accure-battery-intelligence_accure-strengthens-leadership-team-activity-7442582797225132033-qswk",
+    "https://www.linkedin.com/jobs/accure-battery-intelligence-jobs-worldwide",
+    "https://au.linkedin.com/in/jasper-seitz-mcintyre",
+    "https://de.linkedin.com/in/kpkairies",
+    "https://www.linkedin.com/posts/stabl-nam_battery-storage-is-moving-fast-the-framework-activity-7513969025928814592-uTFP",
+    "https://de.linkedin.com/in/tania-voigt-4155172a",
+    "https://www.linkedin.com/jobs/view/performance-engineer-us-all-genders-at-accure-battery-intelligence-4486235779",
+    "https://au.linkedin.com/jobs/view/sales-manager-all-genders-at-accure-battery-intelligence-4432777112"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ACCURE Battery Intelligence",
+   "results": [
+    "https://www.facebook.com/pveurope/posts/global-battery-storage-capacity-is-projected-to-nearly-triple-by-2030-but-curren/2216618759233640/",
+    "https://www.facebook.com/edwardo.delacruz.562/posts/7-models-have-taken-the-trilligence-battery-4-hit-the-access-wall-the-scorecard-/4653292688235084/",
+    "https://www.facebook.com/pvmagazineusa/posts/the-research-institute-epri-found-that-the-current-failure-rate-of-battery-energ/1853450890115305/",
+    "https://www.facebook.com/GACINTERNATIONAL/posts/power-with-safety-built-in-the-magazine-battery-combines-multi-layer-protection-/1533511095480587/",
+    "https://www.facebook.com/groups/NZEVOwners/posts/3929610093972942/",
+    "https://www.facebook.com/kennethalan.breeze.7/",
+    "https://www.facebook.com/cleanieawards/",
+    "https://www.facebook.com/FlexGenWePowerOn/",
+    "https://www.facebook.com/MarysCenterDC/posts/we-had-a-great-time-yesterday-at-the-2026-dc-fall-classic-5k-half-marathon-benef/1758617799602504/",
+    "https://www.facebook.com/p/Accure-Battery-Intelligence-GmbH-100070439680163/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ACCURE Battery Intelligence note 社長",
+   "results": [
+    "https://www.accure.net/",
+    "https://app.dealroom.co/news/note/accure-re-raises-a-year-after-16m-round-expanding-into-battery-operations",
+    "https://de.linkedin.com/company/accure-battery-intelligence",
+    "https://innovationnetwork.travelers.com/solution/hub/81",
+    "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "https://www.solarplaza.com/company/12840/accure-battery-intelligence/",
+    "https://innovation.nrw/prize-winners/details/dr-kai-philipp-kairies-en",
+    "https://connect.re-plus.events/widget/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "https://www.youtube.com/c/ACCUREBatteryIntelligence",
+    "https://www.linkedin.com/pub/dir/Kai+Philipp/Kairies"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ACCURE Battery Intelligence X 投稿",
+   "results": [
+    "https://www.accure.net/",
+    "https://innovationnetwork.travelers.com/solution/hub/81",
+    "https://de.linkedin.com/company/accure-battery-intelligence",
+    "https://www.eif.org/case-study/all/accure-intelligent-batteries",
+    "https://connect.re-plus.events/widget/event/re-26/exhibitor/RXhoaWJpdG9yXzI1NzYwNTI=",
+    "https://www.youtube.com/c/ACCUREBatteryIntelligence",
+    "https://jp.weforum.org/organizations/accure-battery-intelligence",
+    "https://www.startup-energy-transition.com/set100-database/accure-battery-intelligence/",
+    "https://x.com/AccureBattery",
+    "https://www.accure.net/company/news"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部25頁・検索12回）"
+ }
+}

@@ -1,0 +1,408 @@
+{
+ "name": "BIO INX — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T19:27:30.176999+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters on LinkedIn: BIO INX and Rousselot collaborate ... In a significant leap forward for the field of 3D bioprinting, BIO INX proudly announces the strategic collaboration with Rousselot. The companies share a…",
+    "url": "https://www.linkedin.com/posts/voxelmatters_bio-inx-and-rousselot-collaborate-on-materials-activity-7175528929913405442-_FEb",
+    "pass": 3
+   },
+   {
+    "quote": "Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInJasper Van Hoorick - BIO INX | LinkedInExciting News! | BIO INX - LinkedInBIO INX - LinkedInBIO INX and Readily3D launch READYPCL INX | VoxelMatters Apr 26, 2022 · Co-founder and CEO at VoxelMatters · As a journalist and entrepreneur with a passion for additive manufacturing (AM) and its potential to transform the world, I co-founded Voxel",
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookSupersonic flights, nuclear-grade capsules, 3D printed heart ...A look back at our 2025 in eBooks. One year of additive ...Legacy Effects changed the game on the set of Superman (2025 ...Reproducible, scalable bioinks for the future of tissue ...From file upload to finished parts in just a few clicks ⚡️ We ...VoxelMatters - Dimension Inx has been granted U.S. patent... At Pa",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - Dimension Inx has been granted U.S. patent... Chicago-based biofabrication company Dimension Inx has been granted a U.S. patent covering its 3D-Painting System, a platform built for designing and manufacturing next-gen biomaterials for organ and…",
+    "url": "https://www.facebook.com/VoxelMatters/posts/dimension-inx-has-been-granted-us-patent-for-its-3d-painting-system-a-platform-b/1450918621746925/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bybyjapan.com/ja/relx-%E9%9B%BB%E5%AD%90%E3%82%BF%E3%83%90%E3%82%B3-%E3%83%8B%E3%82%B3%E3%83%81%E3%83%B3%E5%85%A5%E3%82%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bioflin.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.loewe.com/usa/en/storeDetails?StoreID=JP1081107",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yamato-net.co.jp/topics/detail/1517/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bioinx.com/news/bio-inx-and-yamato-scientific-announce-strategic-partnership-distribution-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/bio-inx-partners-with-yamato-scientific-to-expand-3d-bioprinting-footprint-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/3d-bioprinting/bioinks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bioinx.com/news/bio-inx-and-yamato-scientific-announce-strategic-partnership-distribution-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/bio-inx-partners-with-yamato-scientific-to-expand-3d-bioprinting-footprint-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bioinx.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/3d-bioprinting/bioinks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%AF%E3%83%B3%E3%83%87%E3%83%BC-%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%B9-%E3%80%90BC%E3%80%919-0%E3%80%90PWR%E3%80%91-1-50-90%E6%9E%9A%E5%85%A5/dp/B01I15BQ44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pay.amazon.co.jp/signin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxelmatters_bio-inx-and-rousselot-collaborate-on-materials-activity-7175528929913405442-_FEb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/dimension-inx-has-been-granted-us-patent-for-its-3d-painting-system-a-platform-b/1450918621746925/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "BIO INX — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "BIO INX — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://www.bioflin.com/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://bio-purchase.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BIO INX — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.yamato-net.co.jp/topics/detail/1517/",
+    "https://bioinx.com/news/bio-inx-and-yamato-scientific-announce-strategic-partnership-distribution-japan",
+    "https://www.voxelmatters.com/bio-inx-partners-with-yamato-scientific-to-expand-3d-bioprinting-footprint-in-japan/",
+    "https://www.voxelmatters.com/category/3d-bioprinting/bioinks/",
+    "https://www.dayinpai.com/topic/post/f16034",
+    "https://amyidao.com/article/BvQ9ZDK0mr",
+    "https://bioinx.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BIO INX — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "BIO INX — VoxelMatters Japan distributor",
+   "results": [
+    "https://bioinx.com/news/bio-inx-and-yamato-scientific-announce-strategic-partnership-distribution-japan",
+    "https://www.voxelmatters.com/bio-inx-partners-with-yamato-scientific-to-expand-3d-bioprinting-footprint-in-japan/",
+    "https://bioinx.com/news",
+    "https://www.voxelmatters.com/category/3d-bioprinting/bioinks/",
+    "https://www.yamato-net.co.jp/topics/detail/1517/",
+    "https://www.linkedin.com/posts/bioinx_bio-inx-and-yamato-scientific-announce-strategic-activity-7394298121792528384-J_PQ",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BIO INX — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://japanesedistributors.com/",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "https://manilastandard.net/business/corporate/314715559/urc-to-sell-21-stake-in-nissin-joint-venture-to-japanese-partner.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp BIO INX — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/ワンデー-アキュビュー-オアシス-【BC】9-0【PWR】-1-50-90枚入/dp/B01I15BQ44",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://pay.amazon.co.jp/signin",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "https://www.amazon.co.jp/さらさ-食器用洗剤-詰め替え-1060ml-デリケートな手肌/dp/B0GFW4K3PR",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWFJ261071-デタッチャブルフリルカラーツイードジャケットSWFJ261071レディース/dp/B0GC9M4NY7"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com BIO INX — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/1720/0496/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/p/2351/6788/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BIO INX — VoxelMatters employees revenue parent company",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com BIO INX — VoxelMatters",
+   "results": [
+    "https://note.com/veedbingo",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/diparururun",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com BIO INX — VoxelMatters",
+   "results": [
+    "https://x.com/BIO_INX",
+    "https://x.com/voxelmatters",
+    "https://x.com/BIO_INX/status/1803349601556009420",
+    "https://x.com/hashtag/BIOINX",
+    "https://x.com/BIO_INX/status/1808848008299049271",
+    "https://x.com/BIO_INX/status/1871502936158904377",
+    "https://x.com/BIO_INX/status/1836748113282740613"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com BIO INX — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/voxelmatters_bio-inx-and-rousselot-collaborate-on-materials-activity-7175528929913405442-_FEb",
+    "https://www.linkedin.com/posts/voxelmatters_bio-inx-and-readily3d-collaborate-on-bioinks-activity-7199362178515124226-Ns1A",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://be.linkedin.com/in/jasper-van-hoorick",
+    "https://uk.linkedin.com/posts/bioinx_spatialselective-volumetric-4d-printing-activity-7067775648001318912-TOup",
+    "https://www.linkedin.com/company/bioinx",
+    "https://www.linkedin.com/posts/voxelmatters_bio-inx-and-readily3d-launch-readypcl-inx-activity-7330532778377166848-ZaK5"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com BIO INX — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/3dheals/videos/3dprinting-tissues-bio-inxs-vision-for-the-future/754027954175227/",
+    "https://www.facebook.com/VoxelMatters/posts/dimension-inx-has-been-granted-us-patent-for-its-3d-painting-system-a-platform-b/1450918621746925/",
+    "https://www.facebook.com/VoxelMatters/videos/supersonic-flights-nuclear-grade-capsules-3d-printed-heart-patches-this-weeks-am/24132161893102926/",
+    "https://www.facebook.com/VoxelMatters/videos/a-look-back-at-our-2025-in-ebooks-one-year-of-additive-manufacturing-insightscli/770535436057501/",
+    "https://www.facebook.com/VoxelMatters/videos/legacy-effects-changed-the-game-on-the-set-of-superman-2025-they-used-bambu-lab-/920879230825681/",
+    "https://www.facebook.com/VoxelMatters/videos/from-file-upload-to-finished-parts-in-just-a-few-clicks-️we-tested-madeinadds-on/1498211114707702/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BIO INX — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "BIO INX — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/BIO_INX",
+    "https://www.voxelmatters.com/",
+    "https://bioinx.com/products/x-pure-gelma",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://bioinx.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索15回）"
+ }
+}

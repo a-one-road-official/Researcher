@@ -1,0 +1,945 @@
+{
+ "name": "Voize",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T19:44:02.824623+00:00",
+ "official_url": "https://en.voize.de/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "voize helps nursing teams create timely, complete, and defensible documentation during the shift, so your facility is better prepared when surveyors ask for proof.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Nurses and caregivers speak naturally in the moment of care, and voize creates comprehensive, timely documentation that syncs to your existing EHR in real time.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "In the first video, Fabio Schmidberger, voize CEO, explains how voize works and which impact it has for nursing homes.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "In the second video, Jason Dugenio, CIO at Bridgeway Senior Healthcare, explains why it is so valuable that nurses can document right at the bedside.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Happier nurses, higher retention",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Caregivers are more present with their patients,",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Charting done hours after care can miss details that matter. When charting happens in the moment, entries are comprehensive, accurate, and compliant.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Easing the documentation burden on nurses not only gives them back their time, it reduces overtime and boosts employee satisfaction. That translates into higher retention rates, lower turnover costs, and lower workforce costs.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Log into voize on your mobile device. Residents’ profiles, care plans, medications, and tasks are all quickly accessible in an intuitive interface.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Patient names are recognized, care notes and data points are structured, and documentation is comprehensive.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Nurses stay in control. Easily edit and approve charting entries directly on your mobile device.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Updated documentation instantly appears across shifts, profiles, and devices.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "voize was created to reduce the burden of documentation and improve care delivery so shifts run seamlessly, allowing caregivers to spend more time where it matters.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "No need for manual follow-ups. No time delay when entering notes. Once the entry is confirmed, it instantaneously appears across shifts, profiles, and devices.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Bridgeway Senior Healthcare, Executive Vice President",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "\"What surprised me most was how natural it felt for staff to use. A lot of healthcare technology can feel clunky or add more work, but this actually seemed to fit into caregivers’ normal workflow pretty quickly. Seeing nurses able to document in real time while staying present on the unit was really impressive.\"",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "\"One week in: I could already tell if a progress note is done by voize, it is more complete and better quality. If I see a complete note done in the middle of the day, chances are that it is a voize note. We have much more timely progress notes. Nurses have now started documenting directly as things happen.\"",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "\"What convinced me the most was the impressive performance of the speech recognition and the extremely high adoption of voize among our teams. When technology is perceived as providing genuine relief, rather than additional burden, it is an improvement for the entire facility.\"",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "\"In 2019, before voize, our overtime hours per employee were 82% higher. Now, they are almost zero. This is economically great for a facility because you no longer need to set aside overtime reserves. Those who document promptly at the bedside don't stay on shift any longer than needed.\"",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "voize is a voice documentation app built specifically for long-term care and skilled nursing facilities. Caregivers simply speak into a phone throughout their shift, and voize’s AI converts their speech into structured EHR data entries. The result is better, more complete documentation, less time behind a computer, and more time providing care.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "voize does clean up grammatical issues, and maps your speech to fixed data fields. It does not add or assume any information. All data entries need to be approved (or edited) by the caregiver on the device- there’s always a human in the loop.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Our record speaks for itself: 96% of voize users continue to use voize daily long after onboarding. Over 200,000 nurses and CNAs use voize globally, and because speaking is faster and more natural than typing, most staff prefer voize within days.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Phones are owned and managed by the facility, and voize works with your IT department to set up proper Mobile Device Management (MDM). This means you can ensure the phones aren’t used for other purposes, and can’t be used off-site or otherwise grow legs.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. voize acts as a Business Associate under HIPAA when providing services to US healthcare customers, and we sign a Business Associate Agreement with every covered entity before processing any Protected Health Information (PHI).",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Our standard US deployment is designed so that PHI stays where care happens, not in our cloud: speech recognition and documentation are processed on the caregiver's device, and the structured documentation is transmitted directly into the customer's EHR. Where US backend services are required (e.g. device and user management), they run in regions chosen to align with HIPAA expectations.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "voize USED IN PRACTICE",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "How Bridgeway Senior Healthcare Turned Progress Notes From a Burden Into a Clinical Asset",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Like most operators, Bridgeway had treated the end-of-shift note as the cost of doing business. Until they found voize. Their success story shows how using voize enabled them to make their progress notes a true clinical asset.",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "How to strengthen nurse retention and improve team morale",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Diakonie Stiftung Salem reduced the charting burden on their nurses across seven care facilities, with voize's AI speech assistant capabilities, resulting in higher nurse retention, team morale and staff satisfaction.",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Protestant Elder Care Westpfalz (PAW) – Haus Zellertal",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Change with Time, Turnover, and Satisfaction.",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Director Of Marketing",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Only Alpha Pool Products",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "voize has approximately",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "voize 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Build private market benchmarks to understand fund performance",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Discover comprehensive datasets",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Uncover financial data on private and public companies",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Identify lender activity and preferences",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Access critical private market insights in one centralized hub",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Monitor your private market portfolio with Lumonic",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Experience PitchBook firsthand with a guided platform preview",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Preview our company and investor data",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Learn why PitchBook is the preferred choice",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Request PitchBook pricing options",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Read recent and notable press mentions",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "News, analysis, and data shaping private markets",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Data-driven private capital research from our experts",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Definitive research on the forces shaping US private equity",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Private market trends in Europe, Asia-Pacific, and other regions",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "A suite of indexes to track the convergence of public and private markets",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive insights, from emerging startups to global deal activity",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Insights on private credit, syndicated loans, CLOs, high-yield bonds, distressed debt, and more",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Private fund performance benchmarks, fundraising activity, and more",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Private market coverage of Europe",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Meaningful impact for operators and their care teams.",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Like most operators, Bridgeway had treated the end-of-shift note as the cost of doing business. Until they found voize. Their success story shows how using voize enabled them to make their progress notes a true clinical asset.",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Follow PE and VC trends across key industrial segments",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Employees & 800+ Trainees",
+    "url": "https://www.voize.ai/us",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/voize.de",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/voize.de",
+    "pass": 3
+   },
+   {
+    "quote": "voize Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At voize",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of voize?",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "voize generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does voize have?",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "PE-backed exits, IPOs, and GP-led secondaries",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "Startup M&A, VC-backed IPOs, direct secondaries, and more",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "voize has 100 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "What is voize’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for voize is",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "京浜急行電鉄、東京建物、富士通、DNP、参天製薬、等",
+    "url": "https://earthkey.blog/global/voize/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Voizeは、AIでヘルスケア管理者を合理化するために900万ドルを調達し... — Mar 31, 2025 · VoizeのAI搭載の音声認識テクノロジーにより、介護者はメモをスマートフォンに指示できます。 次に、AIはスピーチを処理し、コンテンツを構成し、患者レポート、バイタルサイン、薬物ログなどの関連するドキュメントをシステムに直接生成します。",
+    "url": "https://www3.to/voizeは、aiでヘルスケア管理者を合理化するために900万/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場に“声”で記録を、voizeが推進する音声入力ドキュメント革命 — Oct 21, 2025 · voize は“ハンズフリーモード”も備えており、ポケットや胸ポケットにスマートデバイスを装着しておいても、音声コマンドだけで操作できるため、介護や看護の現場で両手を使う作業中でも報告記録が遅れずに行えます。",
+    "url": "https://earthkey.blog/global/voize/",
+    "pass": 3
+   },
+   {
+    "quote": "voize は AI を最も必要とされる場所、つまり看護の最前線に導入する... — Nov 17, 2025 · あまりにも長い間、看護師を真にサポートするために設計されたテクノロジーはほとんどありませんでした。 voize では、テクノロジーがバックグラウンドで機能し、人間が最優先される、ケアの意味を再定義する AI を構築しています。",
+    "url": "https://www3.to/voize-は-ai-を最も必要とされる場所、つまり看護の最前/",
+    "pass": 3
+   },
+   {
+    "quote": "voizeの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 2026年4月に「Journal of Medical Internet Research（JMIR）」誌に掲載された研究結果によると、voize導入後に早番シフトあたりの文書化時間が平均約27%（論文内の詳細値では約28%、約15分）削減されたことが実証されています。",
+    "url": "https://www.firstcvc.jp/global/voize.de",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories from voize customers — Hear how voize makes an everyday impact from our customers themselves. Like most operators, Bridgeway had treated the end-of-shift note as the cost of doing business. Until they found voize. Their success story shows how using voize enabled them to make their progress notes a true clinical asset.",
+    "url": "https://www.voize.ai/us/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "voize – AI Companion for Nurses — In the first video, Fabio Schmidberger, voize CEO, explains how voize works and which impact it has for nursing homes. In the second video, Jason Dugenio, CIO at Bridgeway Senior Healthcare, explains why it is so valuable that nurses can document right at the bedside.",
+    "url": "https://www.voize.ai/us",
+    "pass": 3
+   },
+   {
+    "quote": "voize - 2025 Company Profile, Team, Funding, Competitors ... — Nov 17, 2025 · It operates as a Provider of an AI based technology to healthcare providers for voice documentation of EHR. voize has raised $9.5M in funding from Y Combinator and HV Capital.",
+    "url": "https://tracxn.com/d/companies/voize/__n61nLl2HDcJ9QtTncPQ0iZLZ2disFCz__hszf7R8uoc",
+    "pass": 3
+   },
+   {
+    "quote": "voize Revenue, Funding & Valuation — voize has revenue of $6,673,290, estimated valuation of $21,400,000, $18,500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "voize 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for voize. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   },
+   {
+    "quote": "voize – Business Snapshot & Rival Analysis – 2026 – Potsdam — Discover voize's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/voize",
+    "pass": 3
+   },
+   {
+    "quote": "voize Revenue 2024: $9.4M Est. - getlatka.com — Sep 2, 2026 · voize 2024 estimated revenue: $9.4M. 35 employees. Industry: Voice Recognition Software. Founded 2020. HQ: Germany. Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/voize.de",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/voize-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Meet our partners and contact us for future collaborations",
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Voize (@voizefeed) / Posts / X Voize (@voizefeed) - Posts - Don't mess up Intelligence with Education | X (formerly Twitter)",
+    "url": "https://x.com/voizefeed",
+    "pass": 3
+   },
+   {
+    "quote": "V͎O͎I͎Z͎E͎ ͎O͎F͎ ͎R͎E͎A͎Z͎O͎N͎ (@Voize_of_Reazon) / X 16 380 V͎O͎I͎Z͎E͎ ͎O͎F͎ ͎R͎E͎A͎Z͎O͎N͎ @Voize_of_Reazon Oct 13 She's still more intelligent than her boss Christopher David",
+    "url": "https://x.com/Voize_of_Reazon",
+    "pass": 3
+   },
+   {
+    "quote": "V͎O͎I͎Z͎E͎ ͎O͎F͎ ͎R͎E͎A͎Z͎O͎N͎ (@Voize_of_Reazon) on X @cammillerfilms Cunningham has always been a loud-mouthed POS idiot. 1. 30 years ago my wife ran the Hawaii Marathon as a part of a fundraiser for ‘Team in Training’ which raises $$ to support families with a loved one with Leukemia. For some reason Willie was there.",
+    "url": "https://x.com/Voize_of_Reazon/status/2113159868798435646",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "voize - LinkedIn voize, founded in 2020, develops the leading voice-powered AI assistant for the care sector. It enables nurses and caregivers to document care in real time, right at the patient’s bedside.",
+    "url": "https://www.linkedin.com/company/voize-ai",
+    "pass": 3
+   },
+   {
+    "quote": "voize: Culture | LinkedIn It enables nurses and caregivers to document care in real time, right at the patient’s bedside. By reducing administrative workload, voize gives care teams more time for what matters most: people.",
+    "url": "https://www.linkedin.com/company/voize-ai/life/working-at-voize",
+    "pass": 3
+   },
+   {
+    "quote": "Fabio Schmidberger – Co-Founder and CEO @ voize | AI ...Enterprise Account Executive - UK at voize-l — London ...Marius Busen - Chief of Staff @voize AI ... - LinkedInFounding Product Manager - US at voize — New York, United ...Caleb Campbell - Growth @ voize - AI companion for nurses ... voize is the AI companion for nurses and care teams. From real-time documentation at the bedside to proactive ",
+    "url": "https://de.linkedin.com/in/fabioschmidberger",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Account Executive - UK at voize-l — London ... Oct 21, 2026 · Apply for Enterprise Account Executive - UK at voize-l in London, England, United Kingdom. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://uk.linkedin.com/jobs/view/enterprise-account-executive-uk-at-voize-l-4482069444",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Dansbandet Voize Officiella - FacebookVoize - FacebookFacebookFacebook - log in or sign upVoize - FacebookVoize.on - FacebookVoize - Facebook Voize kliver ombord på ”Birka Gotland” igen den 13:e december. In och boka er plats redan nu. Hoppas vi ses där & då! Nu har vi dock spelledigt fram till den 31:e oktober då vi gästar Boklunden i Torna Hällestad. Fortsätt följ oss här på Facebook för senaste",
+    "url": "https://www.facebook.com/dansbandetvoize/",
+    "pass": 3
+   },
+   {
+    "quote": "Voize - Facebook Voize provides talented professional and celebrity voice overs to all areas of media: TV & radio commercials, animation, corporates, computer games, narratives, dubbing, multimedia - anything that needs a voice!",
+    "url": "https://www.facebook.com/voizein/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.voize.ai/us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www3.to/voize%E3%81%AF%E3%80%81ai%E3%81%A7%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2%E7%AE%A1%E7%90%86%E8%80%85%E3%82%92%E5%90%88%E7%90%86%E5%8C%96%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB900%E4%B8%87/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earthkey.blog/global/voize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www3.to/voize-%E3%81%AF-ai-%E3%82%92%E6%9C%80%E3%82%82%E5%BF%85%E8%A6%81%E3%81%A8%E3%81%95%E3%82%8C%E3%82%8B%E5%A0%B4%E6%89%80%E3%80%81%E3%81%A4%E3%81%BE%E3%82%8A%E7%9C%8B%E8%AD%B7%E3%81%AE%E6%9C%80%E5%89%8D/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/voize.de",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/VOGUE_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/The_Voice_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@thevoicejapan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tv-tokyo.co.jp/thevoicejapan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voize.ai/us/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clarkstonconsulting.com/insights/voice-of-the-customer-assessment-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thecxlead.com/cx-operations-management/voice-of-customer-examples/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voize.ai/us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/voize/__n61nLl2HDcJ9QtTncPQ0iZLZ2disFCz__hszf7R8uoc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/voize-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438114-16",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/voize",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/voizefeed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Voize_of_Reazon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Voize_of_Reazon/status/2113159868798435646",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/voize-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/voize-ai/life/working-at-voize",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/fabioschmidberger",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/enterprise-account-executive-uk-at-voize-l-4482069444",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dansbandetvoize/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/voizein/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/voizefeed",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Voize 日本 導入",
+   "results": [
+    "https://www3.to/voizeは、aiでヘルスケア管理者を合理化するために900万/",
+    "https://earthkey.blog/global/voize/",
+    "https://www3.to/voize-は-ai-を最も必要とされる場所、つまり看護の最前/",
+    "https://www.firstcvc.jp/global/voize.de",
+    "https://www.salesforce.com/jp/news/press-releases/2026/08/07/agentforcevoice-japan-ga/",
+    "https://callcenter-japan.com/article/8618/1/",
+    "https://callcenter-japan.com/article/8550/1/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voize 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voize Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/VOGUE_JAPAN",
+    "https://ja.wikipedia.org/wiki/The_Voice_Japan",
+    "https://www.youtube.com/@thevoicejapan",
+    "https://www.tv-tokyo.co.jp/thevoicejapan/",
+    "https://music.youtube.com/channel/UCglYJh1ad1hg03X2EAIpPOA",
+    "https://voicejapan.jp/",
+    "https://www.voize.com/collection/drjennyliu-japan",
+    "http://www.voicejapan.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Voize manufacturing customer case study",
+   "results": [
+    "https://www.voize.ai/us/customer-stories",
+    "https://clarkstonconsulting.com/insights/voice-of-the-customer-assessment-case-study/",
+    "https://thecxlead.com/cx-operations-management/voice-of-customer-examples/",
+    "https://www.voize.ai/us",
+    "https://www.driveresearch.com/market-research-company-blog/case-study-voice-of-customer-voc-survey-for-a-manufacturer/",
+    "https://voize.in/",
+    "https://www.manufacturersalliance.org/research-insights/how-ai-powered-customer-voice-becoming-manufacturings-new-marketing-engine"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voize white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.seoreseller.com/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voize founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/voize/__n61nLl2HDcJ9QtTncPQ0iZLZ2disFCz__hszf7R8uoc",
+    "https://prospeo.io/c/voize-revenue",
+    "https://pitchbook.com/profiles/company/438114-16",
+    "https://compworth.com/company/voize",
+    "https://getlatka.com/companies/voize.de",
+    "https://startupintros.com/orgs/voize",
+    "https://www.thecompanycheck.com/company/b/voize/gsq2pjvagf5lgii1k"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Voize",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/araratsan/n/n1c8ff4156c80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hitode_boshi/n/n4c29b88fab76",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/xbackup/n/n7fcfa27a9bb8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Voize",
+   "results": [
+    "https://x.com/voizefeed",
+    "https://x.com/Voize_of_Reazon",
+    "https://x.com/Voize_of_Reazon/status/2113159868798435646",
+    "https://help.x.com/en",
+    "https://x.com/Voize_of_Reazon/status/2110801582585733407",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/Voize_of_Reazon/status/2118501201277043134"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Voize",
+   "results": [
+    "https://www.linkedin.com/company/voize-ai",
+    "https://www.linkedin.com/company/voize-ai/life/working-at-voize",
+    "https://de.linkedin.com/in/fabioschmidberger",
+    "https://uk.linkedin.com/jobs/view/enterprise-account-executive-uk-at-voize-l-4482069444",
+    "https://www.linkedin.com/in/salutitismarius",
+    "https://www.linkedin.com/jobs/view/founding-product-manager-us-at-voize-4479518165",
+    "https://www.linkedin.com/in/caleb-campbell12"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Voize",
+   "results": [
+    "https://www.facebook.com/dansbandetvoize/",
+    "https://www.facebook.com/voizein/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/myvoize/about/",
+    "https://www.facebook.com/p/Voizeon-61594149313633/",
+    "https://www.facebook.com/100063509983651/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voize note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/kind_ferret9762/n/n36f12d8c8a08",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voize X 投稿",
+   "results": [
+    "https://x.com/voizefeed",
+    "https://x.com/VOICEVOX_info",
+    "https://help.x.com/ja/using-x/voice-post",
+    "https://www.sexyvoice.org/voice_category/female/",
+    "https://fantia.jp/posts/99921",
+    "https://koe-koe.com/girls_side.php",
+    "https://voicetoland.com/script-manual/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

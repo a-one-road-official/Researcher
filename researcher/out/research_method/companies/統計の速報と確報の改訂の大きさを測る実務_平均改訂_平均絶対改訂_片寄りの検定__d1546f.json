@@ -8,1638 +8,8 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T02:59:44.566928+00:00",
+ "researched_at": "2026-11-09T19:20:27.682089+00:00",
  "evidence": {
-  "突き合わせ・推定": [
-   {
-    "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We further argue that first-available official estimates should be used for the left-hand-side variable",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "when estimating the forecasting equation. First-available estimates ought to be used on the",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "growth and early estimates of (say) employment growth will typically be different from that",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "between GDP growth and estimates of employment growth available several years after the fact. It",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "release is an efficient estimate of subsequent releases, meaning that revisions to the initial release",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "this additional information is extraneous noise. Even if the government’s initial estimates are not",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "], while the residual density method was applied to estimate the distribution of revised updates in weekly ILI data [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "We distinguish between three different ways of using real-time data to estimate forecasting",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "If the mean revision is significantly different from zero, it indicates a tendency for initial releases to be systematically over- or under-estimated. A",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "where ( \\sigma_y ) is the standard deviation of the final value ( y_t^f ). A high noise-to-signal ratio suggests that revisions are large relative to the underlying variability in the final data, indicating high uncertainty in initial estimates.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A significant correlation suggests that initial estimates contain information that predicts later revisions. A",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A high fraction of incorrect signs in either metric suggests that early estimates may be unreliable in capturing the true direction of the variable.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The initial announcement is an observation of the final series, measured with error. This means that the revision is uncorrelated with the final value but correlated with the data available when the estimate is made.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The initial announcement is an efficient forecast that reflects all available information, and subsequent estimates reduce the forecast error by incorporating new information. The revision is correlated with the final value but uncorrelated with the data available when the estimate is made, i.e., unpredictable using the information set at the time of the initial announcement.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "efficient and unbiased estimate",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ", provides a measure of the accuracy of a initial estimates (( y_t^h )) relative to final or more refined values (( y_t^f )). Various definitions of Theil’s statistics exist, leading to different interpretations. This package considers two widely used variants:",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "even when preliminary estimates are close to the final values.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "in the preliminary estimates.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "means the accuracy of the preliminary estimates is equal to a",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "suggests the preliminary estimates are",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "indicates the preliminary estimates are",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "for evaluating preliminary estimates.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "be an optimal estimate of GDP in this case, and agents face a ﬁltering problem in",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We distinguish between three different ways of using real-time data to estimate forecasting",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We further argue that first-available official estimates should be used for the left-hand-side variable",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "when estimating the forecasting equation. First-available estimates ought to be used on the",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "growth and early estimates of (say) employment growth will typically be different from that",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "between GDP growth and estimates of employment growth available several years after the fact. It",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "release is an efficient estimate of subsequent releases, meaning that revisions to the initial release",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "this additional information is extraneous noise. Even if the government’s initial estimates are not",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "推計期間 1970、1973-2003年 1960-1995年",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計期間 1970-2002年 1960-1992年",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計期間 1970-2002年 1955-92年",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "『昭和45年国富調査』より推計",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "在まで 2つのヴァージョンがあり、データベースの延長推計を行っている",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報サービス産業の動向や受注ソフトウエア投資の推計は、",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（1） 2002年推計見直しから積み残された“宿題”",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GDP速報は2002年 8月に推計方法の抜本的な見直しを行った",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ているため、推計方法の見直しは確報との整合性も高めると考えられた",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "現行推計では、供給",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "uncertainty in initial estimates.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A significant correlation suggests that initial estimates contain",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "early estimates may be unreliable in capturing the true direction of the",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the data available when the estimate is made.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates reduce the forecast error by incorporating new information.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the data available when the estimate is made, i.e., unpredictable using",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the accuracy of a initial estimates (",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates are close to the final values.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "preliminary estimates.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the accuracy of the preliminary estimates is equal to a",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "suggests the preliminary estimates are",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "indicates the preliminary estimates are",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for evaluating preliminary estimates.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "provides insight into how initial estimates evolve over time.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "revision interval for say first published estimates of third quarter and fourth quarter data).",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Lt: later estimate for reference period t",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Pt: preliminary (earlier) estimate for reference period t",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.6 What is the average size of revision relative to the estimate itself?",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that on average earlier releases have been under -estimated (negative sign means over -",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "exists in the earlier estimates. Four possible outcomes have been chosen to describe",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "variable that follows a normal distribution with variance estimate as above, the t -critic",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimate and the sign of earlier estimate are the same.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "later estimate also signifies this.",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the size of the earlier estimates. Aside from the above issue, it is useful as a measure",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "time, the CSO can calculate a more accurate estimate of that",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "questions spring to mind. How reliable are the initial estimates",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In most countries, the first estimate of GDP for a given quarter",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, the United States releases initial estimates of GDP",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "after which initial GDP estimates are released. Since QNA have",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "been released, the preliminary estimate of GDP has been",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that the initial GDP estimate is usually released sometime around",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the initial estimate of GDP in Ireland compares favourably with",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "reconcile with the new annual estimates in the NIE publication.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "improve the quarterly estimates.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for the first quarter of 1997 was initially underestimated by",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "underestimated by \\265m or 1·8%.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "be thought of as a crude estimate of the probability of a revision at",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "systematically underestimated in the initial release over the period",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimate amounts to 2·2% on average. The Mean Absolute Final",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "% to 2.5% for the final estimate.",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "uncertainty in initial estimates.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A significant correlation suggests that initial estimates contain",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "early estimates may be unreliable in capturing the true direction of the",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the data available when the estimate is made.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates reduce the forecast error by incorporating new information.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the data available when the estimate is made, i.e., unpredictable using",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the accuracy of a initial estimates (",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimates are close to the final values.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "preliminary estimates.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the accuracy of the preliminary estimates is equal to a",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "suggests the preliminary estimates are",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "indicates the preliminary estimates are",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for evaluating preliminary estimates.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "provides insight into how initial estimates evolve over time.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "If the mean revision is significantly different from zero, it indicates a tendency for initial releases to be systematically over- or under-estimated. A",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "where ( \\sigma_y ) is the standard deviation of the final value ( y_t^f ). A high noise-to-signal ratio suggests that revisions are large relative to the underlying variability in the final data, indicating high uncertainty in initial estimates.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A significant correlation suggests that initial estimates contain information that predicts later revisions. A",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A high fraction of incorrect signs in either metric suggests that early estimates may be unreliable in capturing the true direction of the variable.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The initial announcement is an observation of the final series, measured with error. This means that the revision is uncorrelated with the final value but correlated with the data available when the estimate is made.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The initial announcement is an efficient forecast that reflects all available information, and subsequent estimates reduce the forecast error by incorporating new information. The revision is correlated with the final value but uncorrelated with the data available when the estimate is made, i.e., unpredictable using the information set at the time of the initial announcement.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "efficient and unbiased estimate",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", provides a measure of the accuracy of a initial estimates (( y_t^h )) relative to final or more refined values (( y_t^f )). Various definitions of Theil’s statistics exist, leading to different interpretations. This package considers two widely used variants:",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "even when preliminary estimates are close to the final values.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in the preliminary estimates.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "means the accuracy of the preliminary estimates is equal to a",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "suggests the preliminary estimates are",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "indicates the preliminary estimates are",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for evaluating preliminary estimates.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is a a preliminary (or earlier) estimate and",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "was estimated. The real-time dataset is constructed as follows.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ", from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is the preliminary estimate of the indicator relative to time",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Correlation between revision and earlier estimate (test if revisions are “noise”).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Correlation between revision and earlier estimate (test if revisions are “news”).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "are the standard deviations of the latest and preliminary estimates, respectively, and",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Revisions to the estimates occur with each new vintage in the normal four-year revision cycle. Previous revisions analysis (de Zilva 2004) noted that the revision is larger when the Input-Output benchmarking takes place. To understand this revision pattern a little further, a subset of years was examined, namely the quarters for years 1993 to 2007, for which all vintages are readily available.",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The third graph is the revision between the estimate one year later and the estimate two years later, and reflects the second annual revision. This estimate includes results from the Capital Expenditure Survey and T4 data for wages and salaries, which led to a large revision to the series. This revision also reflects benchmarking to the Input-Output Tables for one year previous.",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The initial GDP estimate ideally needs to correctly indicate the direction of economic growth and to capture shifts in economic activity. A question to ask in determining reliability is: How often do initial estimates capture changing economic trends?",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Chart 8 Missed changes in trend from the initial to final estimate, real gross domestic product level and growth rate",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Chart 9 illustrates the growth rate of real GDP during periods of acceleration and deceleration and the corresponding revision for that quarter. An upward revision during accelerated growth is an indication that the initial estimate is underestimating growth. Conversely, downward revisions may mean that the initial estimate is overstating growth. During the analysis period,",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Table 9 Real gross domestic product growth rate, average estimate and revision, first quarter 1981 to fourth quarter 2007",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "percentage points, which is quite small. The MAR was 0.35 percentage points; this is higher than the MAR for all quarters (0.32 percentage points). The larger MAR for negative growth quarters suggests that there is greater volatility in revisions to estimates with negative growth.",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Final estimate available for the fourth quarter of 2007. Data for the following years are data available as of the date of this analysis. The chart contains data that were readily available for five vintages of real GDP back to 1981.",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "asymptotes. On the other hand, we want our model to remain adaptive. Data revision dynamics evolve over time, and training on outdated data could result in model mismatch or bias. Selecting a target lag",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The mean revision quantifies systematic bias in the revisions:",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\"Bias (robust p-value)\"",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "These metrics collectively help evaluate the reliability, predictability, and potential biases in data revisions.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "efficient and unbiased estimate",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": ") whether the revisions have a systematic bias.",
-    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "data. The study of Aruoba (2008) diagnoses revisions to US national accounts to be biased",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "unbiased, efficientandunpredictable. Itturnsoutthatthefirstestimatesinregionalaccounts",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the exception of gross fixed capital formation—are unbiased, efficient and accurate.",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "tant properties. First, they should be unbiased in the sense: E",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Unbiasedness can be investigated across the regressions by testing whetherα = 0. If up-",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and downward revisions equalize, no systematic bias in any direction exists. Efficiency of the",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "together with thep-values from the tests on unbiasedness, efficiency, and predictability.",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and Saarland values for 2009 might possibly be severely biased due to the influence of general",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "growth are unbiased, efficient, and the revisions are not predictable (see Table 3). This is",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "consumption, which can severely bias the transition from production to gross value added.",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "quarterly employment figures for Germany are biased, inefficient and not optimal. As the",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "gether, the first estimates of real gross domestic product growth show no systematic bias.",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "National Accounts: accuracy, unbiasedness and efficiency in preliminary figures.Empirical",
-    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "で、時系列的に連続させるには注意が必要である",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "これら低回収率がもたらすバイアスならびにその補正については",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "correcting for unit nonresponse bias in surveys,\" Journal of Econometrics, vol. 136(1), pages",
-    "url": "https://nira.or.jp/paper/report0810.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "to assess bias, efficiency, correlation, seasonality, and the relative",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The mean revision quantifies systematic bias in the revisions:",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\"Bias (robust p-value)\"",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> id release N `Bias (mean)` `Bias (p-value)` `Bias (robust p-value)`",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • Significant upward bias detected (p = 0 )",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • Significant upward bias detected (p = 0.001 )",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "predictability, and potential biases in data revisions.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "efficient and unbiased",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "have a systematic bias.",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> id pub_date N Frequency `Bias (mean)` `Bias (p-value)`",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "# ℹ 33 more variables: `Bias (robust p-value)` <dbl>, Minimum <dbl>,",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • Significant upward bias detected (p = 0.033 )",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • No significant bias detected (p = 0.375 )",
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "be of limited use (also called “average bias”).",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "statistically significant positive bias to revisions for GDP growth.",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "however, is whether this apparent bias is statistically significant",
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Measures of reliability include those for bias, such as the mean revision, and those for dispersion, such as the mean absolute revision and the relative dispersion. The chart that follows illustrates the initial and final GDP growth rates and the amount of the total revision.",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Chart 3 Measures of bias and dispersion for five-year intervals",
-    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "in some countries are biased. The variable with the most power to predict future",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "methods.2 Even if each of the three sources of information is unbiased and similarly",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the revisions are unbiased. If εt in (1) is correlated with Xpt as in the noise case,",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Barklem (2000) ﬁnds evidence of bias in revisions to various UK preliminary releases,",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "4.1 Bias in Revisions and Other Summary Statistics",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The bias is quite large in the UK at over one-quarter percentage point (a full point",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "countries with the longest sample period. The statistically signiﬁcant bias for the",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "signiﬁcantly diﬀerent from zero. Bias is, of course, the simplest form of predictability",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "election dummy could also come in if data-construction biases are correlated with",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "to assess bias, efficiency, correlation, seasonality, and the relative",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The mean revision quantifies systematic bias in the revisions:",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\"Bias (robust p-value)\"",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> id release N `Bias (mean)` `Bias (p-value)` `Bias (robust p-value)`",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • Significant upward bias detected (p = 0 )",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • Significant upward bias detected (p = 0.001 )",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "predictability, and potential biases in data revisions.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "efficient and unbiased",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "have a systematic bias.",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> id pub_date N Frequency `Bias (mean)` `Bias (p-value)`",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> # ℹ 33 more variables: `Bias (robust p-value)` <dbl>, Minimum <dbl>,",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • Significant upward bias detected (p = 0.033 )",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "#> • No significant bias detected (p = 0.375 )",
-    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The mean revision quantifies systematic bias in the revisions:",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "\"Bias (robust p-value)\"",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "These metrics collectively help evaluate the reliability, predictability, and potential biases in data revisions.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "efficient and unbiased estimate",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": ") whether the revisions have a systematic bias.",
-    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
-    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
-    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Conceptualization, Formal analysis, Investigation, Methodology, Software, Writing – original draft, Writing – review & editing",
@@ -3259,375 +1629,681 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
-  ]
- },
- "figures": {},
- "checked": {
-  "pass3": [
+  ],
+  "失敗・落とし穴": [
    {
-    "url": "https://note.com/reading_monkey/n/ndbee20392934",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/2_validate_ai/n/n63b49320e166",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/matsunoya_note/n/n3872bf83b033",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/jack4manastalk/n/n2aedeb050627",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ocaml/n/nb4d8473484bb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/bluestatistics/n/n63deb183890b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.tokyo-tosho.co.jp/02426/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/nieqc_0713/n/na308f7f6cbf9",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.statweb.jp/method",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://bellcurve.jp/statistics/course/9317.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://asanoucla.github.io/R10_inference_1.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://unit.aist.go.jp/riem/ds-rg/uncertainty/club/club6-1.pdf",
-    "status": "network_error:ConnectionError",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000607858.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.statweb.jp/analysis_case",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.sbj.or.jp/wp-content/uploads/file/sbj/9408/9408_tokei_kaiseki.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
+    "quote": "asymptotes. On the other hand, we want our model to remain adaptive. Data revision dynamics evolve over time, and training on outdated data could result in model mismatch or bias. Selecting a target lag",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "status": "ok",
-    "method": "http"
+    "pass": 3,
+    "first_seen": "2026-11-09"
    },
    {
+    "quote": "The mean revision quantifies systematic bias in the revisions:",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\"Bias (robust p-value)\"",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "These metrics collectively help evaluate the reliability, predictability, and potential biases in data revisions.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "efficient and unbiased estimate",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": ") whether the revisions have a systematic bias.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "data. The study of Aruoba (2008) diagnoses revisions to US national accounts to be biased",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "unbiased, efficientandunpredictable. Itturnsoutthatthefirstestimatesinregionalaccounts",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the exception of gross fixed capital formation—are unbiased, efficient and accurate.",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tant properties. First, they should be unbiased in the sense: E",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Unbiasedness can be investigated across the regressions by testing whetherα = 0. If up-",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and downward revisions equalize, no systematic bias in any direction exists. Efficiency of the",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "together with thep-values from the tests on unbiasedness, efficiency, and predictability.",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and Saarland values for 2009 might possibly be severely biased due to the influence of general",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "growth are unbiased, efficient, and the revisions are not predictable (see Table 3). This is",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "consumption, which can severely bias the transition from production to gross value added.",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "quarterly employment figures for Germany are biased, inefficient and not optimal. As the",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "gether, the first estimates of real gross domestic product growth show no systematic bias.",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "National Accounts: accuracy, unbiasedness and efficiency in preliminary figures.Empirical",
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp10315.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "価ではない自己評価形式となっており、評価にバイアスがかかりやすくなること、ま",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "で、時系列的に連続させるには注意が必要である",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "これら低回収率がもたらすバイアスならびにその補正については",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "correcting for unit nonresponse bias in surveys,\" Journal of Econometrics, vol. 136(1), pages",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to assess bias, efficiency, correlation, seasonality, and the relative",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The mean revision quantifies systematic bias in the revisions:",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"Bias (robust p-value)\"",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> id release N `Bias (mean)` `Bias (p-value)` `Bias (robust p-value)`",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • Significant upward bias detected (p = 0 )",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • Significant upward bias detected (p = 0.001 )",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "predictability, and potential biases in data revisions.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "efficient and unbiased",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "have a systematic bias.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> id pub_date N Frequency `Bias (mean)` `Bias (p-value)`",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "# ℹ 33 more variables: `Bias (robust p-value)` <dbl>, Minimum <dbl>,",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • Significant upward bias detected (p = 0.033 )",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • No significant bias detected (p = 0.375 )",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "revisions are more in one direction than another, suggesting possible bias in the earlier",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the average size of the revisions, but it cannot provide an indication of directional bias",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be of limited use (also called “average bias”).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "revision is statistically different from zero which may give an insight of whether a bias 7",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Root mean square revision: it essentially combines the degree of bias (i.e. mean revision)",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Quartile deviation: if the bias is measured by the m edian, the quartile deviation is the fit",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "considering whether there is bias in the revision process (i.e. there may be some degree of",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "statistically significant positive bias to revisions for GDP growth.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "however, is whether this apparent bias is statistically significant",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Measures of reliability include those for bias, such as the mean revision, and those for dispersion, such as the mean absolute revision and the relative dispersion. The chart that follows illustrates the initial and final GDP growth rates and the amount of the total revision.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chart 3 Measures of bias and dispersion for five-year intervals",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "in some countries are biased. The variable with the most power to predict future",
     "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "methods.2 Even if each of the three sources of information is unbiased and similarly",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the revisions are unbiased. If εt in (1) is correlated with Xpt as in the noise case,",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Barklem (2000) ﬁnds evidence of bias in revisions to various UK preliminary releases,",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "4.1 Bias in Revisions and Other Summary Statistics",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The bias is quite large in the UK at over one-quarter percentage point (a full point",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "countries with the longest sample period. The statistically signiﬁcant bias for the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "signiﬁcantly diﬀerent from zero. Bias is, of course, the simplest form of predictability",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "election dummy could also come in if data-construction biases are correlated with",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to assess bias, efficiency, correlation, seasonality, and the relative",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The mean revision quantifies systematic bias in the revisions:",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"Bias (robust p-value)\"",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> id release N `Bias (mean)` `Bias (p-value)` `Bias (robust p-value)`",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • Significant upward bias detected (p = 0 )",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • Significant upward bias detected (p = 0.001 )",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "predictability, and potential biases in data revisions.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "efficient and unbiased",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "have a systematic bias.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> id pub_date N Frequency `Bias (mean)` `Bias (p-value)`",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> # ℹ 33 more variables: `Bias (robust p-value)` <dbl>, Minimum <dbl>,",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • Significant upward bias detected (p = 0.033 )",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "#> • No significant bias detected (p = 0.375 )",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The mean revision quantifies systematic bias in the revisions:",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\\text{Bias} = \\bar{r} = \\frac{1}{N} \\sum_{t=1}^{N} r_t^{f}",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "\"Bias (robust p-value)\"",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "These metrics collectively help evaluate the reliability, predictability, and potential biases in data revisions.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "efficient and unbiased estimate",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ") whether the revisions have a systematic bias.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It indicates the average size of the revisions. However, unlike the mean revision, it does not provide an indication of the directional bias and it is therefore more stable.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Finally, this correlation measure is used to assess wether there is bias in the revision process (that is, if the revision process is in some way predictable).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Is the average level of revision close to zero, or is there an indication that a possible bias exists in the earlier estimate?",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In those studies where the potential pitfalls of relying on current-vintage data have been",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to Equation 3 yields an unbiased and consistent estimate of \". Less obviously, var(T(t)) # var(w(t)),",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "forecast that is unbiased, conditional on the restricted information set. Swanson (1996) and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "government at time t, applying least squares to Equation 3' will yield an unbiased estimate of \".",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "inconsistent estimate of \" and a biased forecast of y(T).",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "will be unbiased. We argued that in many cases one can expect to obtain more precise coefficient",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "on the right-hand side. This approach yields unbiased coefficient estimates if, and only if, revisions",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "vintage data (x(t)t)–are unbiased if revisions to the left-hand-side variable are uncorrelated with",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ehrbeck, Tilman and Robert Waldmann (1996) “Why Are Professional Forecasters Biased?",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Laster, David, Paul Bennett, and In Sun Geoum (1999) “Rational Bias in Economic Forecasts,”",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "y(t) = x(t)\" + w(t), although both strategies yield unbiased estimates of \".",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimate the forecasting model of interest yield unbiased parameter estimates (West and",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "McCracken, Assumption 2). The unbiasedness condition is typically be violated by Strategy 3,",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
-  ]
- },
- "search_log": [
-  {
-   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） site:note.com",
-   "results": [
-    "https://note.com/reading_monkey/n/ndbee20392934",
-    "https://note.com/2_validate_ai/n/n63b49320e166",
-    "https://note.com/matsunoya_note/n/n3872bf83b033",
-    "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01",
-    "https://note.com/jack4manastalk/n/n2aedeb050627",
-    "https://note.com/ocaml/n/nb4d8473484bb",
-    "https://note.com/statistics_ai/n/n5c3557fcb50a",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://note.com/kamokita/n/n3f24873e37f8",
-    "https://note.com/outlifest/n/n1f4eeab4af9a"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 13
-  },
-  {
-   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） note",
-   "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://note.com/bluestatistics/n/n63deb183890b",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
-    "https://www.tokyo-tosho.co.jp/02426/",
-    "https://note.com/nieqc_0713/n/na308f7f6cbf9",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） やり方",
-   "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.statweb.jp/method",
-    "https://bellcurve.jp/statistics/course/9317.html",
-    "https://asanoucla.github.io/R10_inference_1.html",
-    "https://lit.fpark.tmu.ac.jp/lit/contents/office2019/statistics/01/index.html",
-    "https://unit.aist.go.jp/riem/ds-rg/uncertainty/club/club6-1.pdf",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） 事例",
-   "results": [
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.tokyo-tosho.co.jp/02426/",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "https://www.soumu.go.jp/main_content/000607858.pdf",
-    "https://www.statweb.jp/analysis_case",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
-    "https://www.sbj.or.jp/wp-content/uploads/file/sbj/9408/9408_tokei_kaiseki.pdf",
-    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data",
-   "results": [
-    "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
-    "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
-    "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
-    "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
-    "https://www.econstor.eu/bitstream/10419/271959/1/cesifo1_wp10315.pdf",
-    "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/gdprevisionsinbluebook2020/2026",
-    "https://mpra.ub.uni-muenchen.de/129242/1/MPRA_paper_129242.pdf",
-    "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:note.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
-   "results": [
-    "https://note.com/loyal_ivy9071/n/n1b4a4b6fcd01",
-    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
-    "https://note.com/statistics_ai/n/n5c3557fcb50a",
-    "https://note.com/kamokita/n/n3f24873e37f8",
-    "https://note.com/atlasstudio/n/nd337c8737bf9",
-    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
-    "https://note.com/humble_deer1263/n/nbd157611a1c6",
-    "https://note.com/kamokita/n/ne03790a166ec"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "site:x.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
-   "results": [
-    "https://x.com/genkuroki/status/1260402105841410050",
-    "https://x.com/nananairu7/status/2074096861515063569",
-    "https://x.com/yuyawatase/status/2081070485648101771",
-    "https://x.com/Logics_of_Blue/status/2043199544788504990",
-    "https://x.com/smo_yutohisano/status/2075165578747342927",
-    "https://x.com/Twit1020taro/status/2053459645784818170",
-    "https://x.com/yuyawatase/status/2081069660104208808"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:linkedin.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
-   "results": [
-    "https://www.linkedin.com/jobs/view/data-annotator-remote-at-capitexai-4417118156",
-    "https://jp.linkedin.com/pulse/from-story-statistic-quantify-attitude-shift-30-days-chourey-ph-d--dpbnf?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-mse-rmse-mae-r-score-machine-learning-model-ahmed-rwloe?tl=ja",
-    "https://www.linkedin.com/posts/karahhurst_were-in-a-time-of-big-change-and-that-brings-share-7511712909954076674-srKS",
-    "https://jp.linkedin.com/learning/word-essential-training-microsoft-365-2025/4085413",
-    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4361456",
-    "https://jp.linkedin.com/posts/秀光-玉地-87b09a187_自分が大学生の頃ビジネスの大きさよりも設計から実務まで全部見られることの方を重要視-activity-7383489119395446784-jdNp"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
-   "results": [
-    "https://www.facebook.com/maffjapan/posts/統計情報2025年農林業センサス結果の概要概数値令和7年2月1日現在を公表しましたので概要をお知らせします1-農林業経営体全国の農林業経営体数は83万9千経営体/1299391365560406/",
-    "https://www.facebook.com/office.oshima/posts/人口動態統計速報令和７年７月分-速報全体版を見たい場合は印刷用資料のpdfファイルをご覧ください-httpswwwmhlwgojptoukeisaikinhwj/1209752114526797/",
-    "https://www.facebook.com/JissoNews/posts/統計情報2月27日に経済産業省が2026年1月分生産動態統計速報を公表今回から形式が確報と同じような機械判読可能-machine-readable-形式となる詳/1356989049563145/",
-    "https://www.facebook.com/stat.japan/posts/9月29日総務省統計局からお知らせします令和7年国勢調査-人口等基本集計結果-2025年令和7年10月1日現在の我が国の人口は1億2297万3千人2020年に比/1530830449080978/",
-    "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/",
-    "https://www.facebook.com/KiyoharaKeikoMitaka/posts/文部科学省統計業務の質の向上に向けた専門家会議副主査に就任信頼される統計の確立を目指して3月27日文部科学省において統計業務の質の向上に向けた専門家会議の第1回/1398200245654199/",
-    "https://www.facebook.com/story.php/?story_fbid=1308074064694601&id=100064760584269"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） note 社長",
-   "results": [
-    "https://katosei.jsbba.or.jp/view_html.php?aid=1183",
-    "https://www.tokyo-tosho.co.jp/02426/",
-    "https://www.stat.go.jp/rikatsuyou/pdf/seminar1-1.pdf",
-    "https://www.mizumot.com/method/mizumoto-takeuchi.pdf",
-    "https://note.com/bluestatistics/n/n63deb183890b",
-    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201004nyumon.pdf",
-    "https://www.trifields.jp/essentials-you-need-to-know-the-mechanisms-and-pitfalls-of-statistical-hypothesis-testing-11130",
-    "https://note.com/exerciseandbrain/n/n1eb57efd112d",
-    "http://www.daiichi-g.co.jp/joho/info/special/series/05/index.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） X 投稿",
-   "results": [
-    "https://www.stat.go.jp/naruhodo/11_tokusei/kentei.html",
-    "https://www.tokyo-tosho.co.jp/02426/",
-    "https://unit.aist.go.jp/riem/ds-rg/uncertainty/club/club6-1.pdf",
-    "https://www.cirje.e.u-tokyo.ac.jp/research/reports/R-15-1.pdf",
-    "https://www.dlri.co.jp/pdf/macro/2019/naga20191216gdp.pdf",
-    "https://note.com/e_dao/n/n7f77fdbd7d91",
-    "https://www.jsac.or.jp/bunseki/pdf/bunseki2010/201002nyuumon.pdf",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/66-1-all.pdf",
-    "https://bellcurve.jp/statistics/course/9948.html"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/kory-kantenga-ph-d-5729a07_jobsreport-linkedin-activity-7371236291730124800-k1YM",
-    "https://www.linkedin.com/pulse/nonfarm-payrolls-why-revised-should-you-care-macroxstudio-5lr2e",
-    "https://www.linkedin.com/top-content/artificial-intelligence/improving-predictive-accuracy/forecast-bias-analysis-and-correction/",
-    "https://www.linkedin.com/pulse/aws-ai-practitioner-preparation-last-minute-sheet-hardik-joshi--cqsnc",
-    "https://www.linkedin.com/posts/ggospodinov_the-internal-information-loss-metric-printed-activity-7506268627084525568-dj7x",
-    "https://www.linkedin.com/posts/midhamicky_frm-part-1-the-greeks-activity-7517283763807207425-m-mj",
-    "https://www.linkedin.com/posts/babak-jamshidi-46a5a26a_statistics-biostatistics-datascience-activity-7511099405425418240-RHkn",
-    "https://www.linkedin.com/posts/davide-viviano-885a638b_new-working-paper-with-aristotle-epanomeritakis-activity-7513775251189800960-hfEp",
-    "https://www.linkedin.com/posts/corrado-botta-4a685079_gaussmarkov-activity-7518230245163073536-b0-I",
-    "https://www.linkedin.com/in/james-jean"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  }
- ],
- "missing": {},
- "new_this_run": {
+  ],
   "突き合わせ・推定": [
    {
     "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
@@ -3718,245 +2394,1084 @@
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
     "pass": 3,
     "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "asymptotes. On the other hand, we want our model to remain adaptive. Data revision dynamics evolve over time, and training on outdated data could result in model mismatch or bias. Selecting a target lag",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Conceptualization, Formal analysis, Investigation, Methodology, Software, Writing – original draft, Writing – review & editing",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
    },
    {
-    "quote": "Conceptualization, Methodology",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "We distinguish between three different ways of using real-time data to estimate forecasting",
+    "url": "https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-08"
    },
    {
-    "quote": "], while the residual density method was applied to estimate the distribution of revised updates in weekly ILI data [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "If the mean revision is significantly different from zero, it indicates a tendency for initial releases to be systematically over- or under-estimated. A",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. More recent efforts have focused on probabilistic and Bayesian frameworks to better handle uncertainty and temporal variation in delays. A flexible Bayesian model, Nowcasting by Bayesian Smoothing (NobBS), was introduced to accommodate time-varying delay distributions and improve uncertainty quantification for dengue and ILI case counts [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "where ( \\sigma_y ) is the standard deviation of the final value ( y_t^f ). A high noise-to-signal ratio suggests that revisions are large relative to the underlying variability in the final data, indicating high uncertainty in initial estimates.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. Generalized Bayesian methods using Laplace approximation were applied to dengue and SARI data in Brazil [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "A significant correlation suggests that initial estimates contain information that predicts later revisions. A",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "] - were developed and evaluated within a common probabilistic scoring framework. Some models also account for backfill uncertainty without explicitly modeling its dynamics [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "A high fraction of incorrect signs in either metric suggests that early estimates may be unreliable in capturing the true direction of the variable.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Compared with seasonal infectious diseases, COVID-19 surveillance data are noisier and less regular, making it harder to extract stable features for revision modeling. To address these challenges, several recent methods have been proposed. A neural network-based framework has been proposed to refine COVID-19 forecasts using weekly case counts [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "The initial announcement is an observation of the final series, measured with error. This means that the revision is uncorrelated with the final value but correlated with the data available when the estimate is made.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. Although effective, this method requires substantial computational resources and does not account for the statistical properties inherent in public health datasets. Besides, a Bayesian spatiotemporal nowcasting model was introduced to estimate COVID-19 case counts at the county level in Ohio, incorporating an autoregressive structure to capture temporal dynamics [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "The initial announcement is an efficient forecast that reflects all available information, and subsequent estimates reduce the forecast error by incorporating new information. The revision is correlated with the final value but uncorrelated with the data available when the estimate is made, i.e., unpredictable using the information set at the time of the initial announcement.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. Both methods focus on count-type data and were evaluated only during the pre-Delta phase of the pandemic.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "efficient and unbiased estimate",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Among existing methods, Epinowcast [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": ", provides a measure of the accuracy of a initial estimates (( y_t^h )) relative to final or more refined values (( y_t^f )). Various definitions of Theil’s statistics exist, leading to different interpretations. This package considers two widely used variants:",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. However, these macroeconomic methods are not directly transferable to public health contexts. Revisions in public health data are driven by health-seeking behavior and the administrative practices of public health agencies which are influenced by operational constraints, staffing capacity, and evolving reporting protocols, etc.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "even when preliminary estimates are close to the final values.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "In this paper, we introduce Delphi Revision Forecast (Delphi-RF), a robust and operational framework for correcting data revisions, which is openly available at",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "in the preliminary estimates.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Fig 1. Overview of the Delphi-RF framework.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "means the accuracy of the preliminary estimates is equal to a",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "(A) Preparatory step: early exploration of historical revisions to define the target lag",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "suggests the preliminary estimates are",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "presents the proposed model, the evaluation framework, and the adaptive modeling protocol.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "indicates the preliminary estimates are",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "Several studies have addressed data revision and reporting delay issues, particularly in the context of seasonal infectious diseases with extensive weekly surveillance data. Early approaches relied on relatively simple statistical models. For instance, linear regression was used to adjust provisional data and forecast ILI case counts across 15 Latin American countries [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. More recent efforts have focused on probabilistic and Bayesian frameworks to better handle uncertainty and temporal variation in delays. A flexible Bayesian model, Nowcasting by Bayesian Smoothing (NobBS), was introduced to accommodate time-varying delay distributions and improve uncertainty quantification for dengue and ILI case counts [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "for evaluating preliminary estimates.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. Other approaches have incorporated structured or semi-mechanistic models. For example, to nowcast delayed norovirus cases in England during winter 2023/24, three models—a generalized additive model, a Bayesian structural time series model incorporating syndromic surveillance data, and the semi-mechanistic Bayesian delay model EpiNowcast [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.",
+    "url": "https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "Compared with seasonal infectious diseases, COVID-19 surveillance data are noisier and less regular, making it harder to extract stable features for revision modeling. To address these challenges, several recent methods have been proposed. A neural network-based framework has been proposed to refine COVID-19 forecasts using weekly case counts [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "be an optimal estimate of GDP in this case, and agents face a ﬁltering problem in",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/rtall.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-07"
    },
    {
-    "quote": "]. Although effective, this method requires substantial computational resources and does not account for the statistical properties inherent in public health datasets. Besides, a Bayesian spatiotemporal nowcasting model was introduced to estimate COVID-19 case counts at the county level in Ohio, incorporating an autoregressive structure to capture temporal dynamics [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "We distinguish between three different ways of using real-time data to estimate forecasting",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": ". Only a minimal portion of data revision results from instances where a case is initially lost but subsequently recovered, or when a case is initially entered incorrectly but corrected later. Most data revisions are typically the result of reporting delays. The data revision sequence",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "to predict real GDP growth. When the model is estimated using our preferred method, its out-of-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "for all reference dates and locations that captures the majority of revisions (e.g., 90% of case counts reported) after exploring the available revision history of a public health data stream. Additionally, we ensure that the target lag does not exceed 60 days to maintain the model’s adaptability.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "): To emphasize training examples that resemble the current epidemic context, we introduce sample-specific weights:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": ". For example,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "Beyond evaluating the performance of our proposed method, we compare it against established approaches such as Epinowcast and NobBS in terms of both forecast accuracy and computational efficiency for count-type public health data. We further demonstrate the adaptability of our framework by extending it to weekly datasets, including dengue and ILI case counts.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "COVID-19 cases in MA:",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "The Massachusetts Department of Public Health (MA-DPH) provides a comprehensive revision history of COVID-19 case reporting [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "We further argue that first-available official estimates should be used for the left-hand-side variable",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "]. This dataset includes the 7-day moving average of confirmed COVID-19 cases, updated daily from 2021-01-01, until 2022-07-08. After this date, the reporting frequency transitioned to weekly updates, occurring every Thursday. The initial release of the report for a reference date",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "when estimating the forecasting equation. First-available estimates ought to be used on the",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": ", over 90% of the confirmed cases for a given reference date are reported within 7 days. Given this pattern, developing a data revision forecasting model for weekly reports is unnecessary.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "growth and early estimates of (say) employment growth will typically be different from that",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": ", across reporting lags. For count-type data (e.g., the number of confirmed cases),",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "between GDP growth and estimates of employment growth available several years after the fact. It",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "pcbi.1013709.s002.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "(1.4MB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "release is an efficient estimate of subsequent releases, meaning that revisions to the initial release",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "1) We ask that a manuscript source file is provided at Revision. Please upload your manuscript file as a .doc, .docx, .rtf or .tex. If you are providing a .tex file, please upload it under the item type u2018LaTeX Source Fileu2019 and leave your .pdf version as the item type u2018Manuscriptu2019.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "Review_D_25_00938.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "pcbi.1013709.s008.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "this additional information is extraneous noise. Even if the government’s initial estimates are not",
+    "url": "https://www.philadelphiafed.org/-/media/frbp/assets/events/2001/real-time-data-analysis/koenig.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-06"
    },
    {
-    "quote": "(48.2KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "推計期間 1970、1973-2003年 1960-1995年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-05"
    },
    {
-    "quote": "PDF (6.5 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/",
+    "quote": "実質化方法 1990年価格の1970－80年実質値を1995年価格の1980年以降の実質値にリンクして推計 基準年次（1965,70,75,80,85年）の価格指数をリンクして1985年基準の価格指数系列を作成",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1960-1992年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計データ 労働者数、労働時間、賃金 労働者数、労働時間、賃金",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計期間 1970-2002年 1955-92年",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "『昭和45年国富調査』より推計",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "推計方法 RAS法ベンチマーク・イヤー法 KEO-RAS法（ダブルベンチマーク）恒久棚卸法",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "在まで 2つのヴァージョンがあり、データベースの延長推計を行っている",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報サービス産業の動向や受注ソフトウエア投資の推計は、",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（1） 2002年推計見直しから積み残された“宿題”",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GDP速報は2002年 8月に推計方法の抜本的な見直しを行った",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "い間、需要側統計（代表例は家計調査、法人企業統計季報） を中心に推計されてきたGDP",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ているため、推計方法の見直しは確報との整合性も高めると考えられた",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "現行推計では、供給",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "側推計を組み合わせたことで「1ヵ月＋2週間」で公表できるようになった",
+    "url": "https://nira.or.jp/paper/report0810.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "uncertainty in initial estimates.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A significant correlation suggests that initial estimates contain",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "early estimates may be unreliable in capturing the true direction of the",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the data available when the estimate is made.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates reduce the forecast error by incorporating new information.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the data available when the estimate is made, i.e., unpredictable using",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the accuracy of a initial estimates (",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates are close to the final values.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "preliminary estimates.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the accuracy of the preliminary estimates is equal to a",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "suggests the preliminary estimates are",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "indicates the preliminary estimates are",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for evaluating preliminary estimates.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "provides insight into how initial estimates evolve over time.",
+    "url": "https://docs.ropensci.org/reviser/articles/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "revision interval for say first published estimates of third quarter and fourth quarter data).",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Lt: later estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Pt: preliminary (earlier) estimate for reference period t",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3.6 What is the average size of revision relative to the estimate itself?",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3.7 Is the earlier published estimate a good or ‘efficient’ forecast of the later",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "interval (e.g. M3_P implies the revision between first published estimates (i.e. P) and",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that on average earlier releases have been under -estimated (negative sign means over -",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimated). Revisions of opposite sign will have a tendency to cancel out, consequentially",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "exists in the earlier estimates. Four possible outcomes have been chosen to describe",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "7 One should be wary of concluding a bias exists for the earlier published estimate if the mean revision is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "variable that follows a normal distribution with variance estimate as above, the t -critic",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimate and the sign of earlier estimate are the same.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "acceleration / deceleration test. Tha t is, if the earlier estimate indicates that growth is",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "later estimate also signifies this.",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the size of the earlier estimates. Aside from the above issue, it is useful as a measure",
+    "url": "https://web-archive-storage.oecd.org/aemint-web-archive-prod/web-archive/c8/c8ae853fefd861c83703527f05876a6910e5a942fe84102be13fccedc457a7f2.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "time, the CSO can calculate a more accurate estimate of that",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "questions spring to mind. How reliable are the initial estimates",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In most countries, the first estimate of GDP for a given quarter",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, the United States releases initial estimates of GDP",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "after which initial GDP estimates are released. Since QNA have",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "been released, the preliminary estimate of GDP has been",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that the initial GDP estimate is usually released sometime around",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the initial estimate of GDP in Ireland compares favourably with",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "reconcile with the new annual estimates in the NIE publication.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "improve the quarterly estimates.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for the first quarter of 1997 was initially underestimated by",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "underestimated by \\265m or 1·8%.",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "be thought of as a crude estimate of the probability of a revision at",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "systematically underestimated in the initial release over the period",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimate amounts to 2·2% on average. The Mean Absolute Final",
+    "url": "https://www.centralbank.ie/docs/default-source/publications/quarterly-bulletins/quarterly-bulletin-signed-articles/data-revisions-in-the-quarterly-national-acc.pdf?sfvrsn=8",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "% to 2.5% for the final estimate.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "uncertainty in initial estimates.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A significant correlation suggests that initial estimates contain",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "early estimates may be unreliable in capturing the true direction of the",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the data available when the estimate is made.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates reduce the forecast error by incorporating new information.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the data available when the estimate is made, i.e., unpredictable using",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the accuracy of a initial estimates (",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "estimates are close to the final values.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "preliminary estimates.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the accuracy of the preliminary estimates is equal to a",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "suggests the preliminary estimates are",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "indicates the preliminary estimates are",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for evaluating preliminary estimates.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "provides insight into how initial estimates evolve over time.",
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "If the mean revision is significantly different from zero, it indicates a tendency for initial releases to be systematically over- or under-estimated. A",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "where ( \\sigma_y ) is the standard deviation of the final value ( y_t^f ). A high noise-to-signal ratio suggests that revisions are large relative to the underlying variability in the final data, indicating high uncertainty in initial estimates.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A significant correlation suggests that initial estimates contain information that predicts later revisions. A",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A high fraction of incorrect signs in either metric suggests that early estimates may be unreliable in capturing the true direction of the variable.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The initial announcement is an observation of the final series, measured with error. This means that the revision is uncorrelated with the final value but correlated with the data available when the estimate is made.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The initial announcement is an efficient forecast that reflects all available information, and subsequent estimates reduce the forecast error by incorporating new information. The revision is correlated with the final value but uncorrelated with the data available when the estimate is made, i.e., unpredictable using the information set at the time of the initial announcement.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "efficient and unbiased estimate",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", provides a measure of the accuracy of a initial estimates (( y_t^h )) relative to final or more refined values (( y_t^f )). Various definitions of Theil’s statistics exist, leading to different interpretations. This package considers two widely used variants:",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "even when preliminary estimates are close to the final values.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "in the preliminary estimates.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "means the accuracy of the preliminary estimates is equal to a",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "suggests the preliminary estimates are",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "indicates the preliminary estimates are",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for evaluating preliminary estimates.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.",
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Given a particular indicator (that is, a time series) and two subsequent estimates of it, which both refer to the same period",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is a a preliminary (or earlier) estimate and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "a later (more recent) estimate of the indicator. This definition of revision is used when dealing with indicators measured in growth rates (period-on-period or year-on-year growth rates). Instead, when dealing with revisions to values in level, we define revisions in relative terms:",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "represents the point in time when the vintage that contained that particular estimate of the indicator was released, that is, when the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "was estimated. The real-time dataset is constructed as follows.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": ", from the preliminary estimates to the latest (such information is useful to assess the reliability of the earlier estimates). Finally, when triangles are read along the main diagonal (or the first sub-diagonal, or the second sub-diagonal, …), they give the time series of the first (or second, or third, …) releases. To be more specific, assuming that",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is the preliminary estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It is easy to understand why it is called triangle, since the grey part of the table represents forecasts and not data that is actually available at the moment of its release. The first column collects the subsequent revisions that have been made to update the estimate of the indicator relative to time",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The sign of this measure indicates wether on average the estimate of the earlier releases is biased. This bias is positive (negative) if the sign of the statistics is negative (positive). However, since revisions of opposite sign cancel out, this measure, often also called “average bias”, is of limited use.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A modified t-test can be performed to determine whether the mean revision is statistically different from zero, which may give an insight on wether an actual bias exists in the preliminary estimates. The t statistics is computed as",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “noise”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is statistically significant, this implies that there was information available at the time of the first estimate which was not efficiently exploited and therefore the revisions can be interpreted as “noise”.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Correlation between revision and earlier estimate (test if revisions are “news”).",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "are the standard deviations of the latest and preliminary estimates, respectively, and",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "is the proportion of MSR which is not caused by systematic differences between earlier and later estimates.",
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Revisions to the estimates occur with each new vintage in the normal four-year revision cycle. Previous revisions analysis (de Zilva 2004) noted that the revision is larger when the Input-Output benchmarking takes place. To understand this revision pattern a little further, a subset of years was examined, namely the quarters for years 1993 to 2007, for which all vintages are readily available.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The third graph is the revision between the estimate one year later and the estimate two years later, and reflects the second annual revision. This estimate includes results from the Capital Expenditure Survey and T4 data for wages and salaries, which led to a large revision to the series. This revision also reflects benchmarking to the Input-Output Tables for one year previous.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The initial GDP estimate ideally needs to correctly indicate the direction of economic growth and to capture shifts in economic activity. A question to ask in determining reliability is: How often do initial estimates capture changing economic trends?",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chart 8 Missed changes in trend from the initial to final estimate, real gross domestic product level and growth rate",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Chart 9 illustrates the growth rate of real GDP during periods of acceleration and deceleration and the corresponding revision for that quarter. An upward revision during accelerated growth is an indication that the initial estimate is underestimating growth. Conversely, downward revisions may mean that the initial estimate is overstating growth. During the analysis period,",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Table 9 Real gross domestic product growth rate, average estimate and revision, first quarter 1981 to fourth quarter 2007",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "percentage points, which is quite small. The MAR was 0.35 percentage points; this is higher than the MAR for all quarters (0.32 percentage points). The larger MAR for negative growth quarters suggests that there is greater volatility in revisions to estimates with negative growth.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Final estimate available for the fourth quarter of 2007. Data for the following years are data available as of the date of this analysis. The chart contains data that were readily available for five vintages of real GDP back to 1981.",
+    "url": "https://www150.statcan.gc.ca/n1/pub/13-604-m/2011068/analysis-analyse-eng.htm",
+    "pass": 3,
+    "first_seen": "2026-11-05"
    }
   ]
  },
- "runs": 16,
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/statistics_ai/n/n5c3557fcb50a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kamokita/n/n3f24873e37f8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/outlifest/n/n1f4eeab4af9a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/humble_deer1263/n/nbd157611a1c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kamokita/n/ne03790a166ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ropensci.org/blog/2026/04/13/reviser/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rdrr.io/cran/reviser/man/get_revision_analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ropensci.r-universe.dev/articles/reviser/revision-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） site:note.com",
+   "results": [
+    "https://note.com/statistics_ai/n/n5c3557fcb50a",
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "https://note.com/kamokita/n/n3f24873e37f8",
+    "https://note.com/outlifest/n/n1f4eeab4af9a",
+    "https://note.com/humble_deer1263/n/nbd157611a1c6",
+    "https://note.com/kamokita/n/ne03790a166ec",
+    "https://note.com/brave_yucca4780/n/n32aae27aad78"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） note",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） やり方",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） 事例",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data",
+   "results": [
+    "https://cran.r-project.org/web/packages/reviser/vignettes/revision-analysis.html",
+    "https://ropensci.org/blog/2026/04/13/reviser/",
+    "https://rdrr.io/cran/reviser/man/get_revision_analysis.html",
+    "https://ropensci.r-universe.dev/articles/reviser/revision-analysis.html",
+    "https://aciancetta.github.io/Euorostat-EMOS-TimeSeries/revisions-analysis.html",
+    "https://rdrr.io/cran/reviser/f/vignettes/revision-analysis.Rmd",
+    "https://docs.ropensci.org/reviser/reference/get_revision_analysis.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
+   "results": [
+    "https://note.com/ripe_ixora5107/n/n98a58167ecf6",
+    "https://note.com/statistics_ai/n/n5c3557fcb50a",
+    "https://note.com/kamokita/n/n3f24873e37f8",
+    "https://note.com/atlasstudio/n/nd337c8737bf9",
+    "https://note.com/mitarashi_info/n/n226acbc9d3cc",
+    "https://note.com/kamokita/n/ne03790a166ec",
+    "https://note.com/humble_deer1263/n/nbd157611a1c6"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
+   "results": [
+    "https://x.com/genkuroki/status/1260402105841410050",
+    "https://x.com/yuyawatase/status/2081070485648101771",
+    "https://x.com/smo_yutohisano/status/2075165578747342927",
+    "https://x.com/nananairu7/status/2074096861515063569",
+    "https://x.com/Logics_of_Blue/status/2043199544788504990",
+    "https://x.com/tota_toukei/status/2106493456676012117",
+    "https://x.com/Twit1020taro/status/2053459645784818170"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
+   "results": [
+    "https://www.linkedin.com/jobs/view/data-annotator-remote-at-capitexai-4417118156",
+    "https://jp.linkedin.com/pulse/from-story-statistic-quantify-attitude-shift-30-days-chourey-ph-d--dpbnf?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-mse-rmse-mae-r-score-machine-learning-model-ahmed-rwloe?tl=ja",
+    "https://www.linkedin.com/posts/karahhurst_were-in-a-time-of-big-change-and-that-brings-share-7511712909954076674-srKS",
+    "https://jp.linkedin.com/posts/秀光-玉地-87b09a187_自分が大学生の頃ビジネスの大きさよりも設計から実務まで全部見られることの方を重要視-activity-7383489119395446784-jdNp",
+    "https://jp.linkedin.com/learning/word-essential-training-microsoft-365-2025/4085413",
+    "https://jp.linkedin.com/posts/leverages-us_米国雇用統計レポート2025年12月実績と今後の展望-米労働省bls-activity-7424542213151285248-NWJG"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）",
+   "results": [
+    "https://www.facebook.com/maffjapan/posts/統計情報2025年農林業センサス結果の概要概数値令和7年2月1日現在を公表しましたので概要をお知らせします1-農林業経営体全国の農林業経営体数は83万9千経営体/1299391365560406/",
+    "https://www.facebook.com/office.oshima/posts/人口動態統計速報令和７年７月分-速報全体版を見たい場合は印刷用資料のpdfファイルをご覧ください-httpswwwmhlwgojptoukeisaikinhwj/1209752114526797/",
+    "https://www.facebook.com/JissoNews/posts/統計情報2月27日に経済産業省が2026年1月分生産動態統計速報を公表今回から形式が確報と同じような機械判読可能-machine-readable-形式となる詳/1356989049563145/",
+    "https://www.facebook.com/KiyoharaKeikoMitaka/posts/文部科学省統計業務の質の向上に向けた専門家会議副主査に就任信頼される統計の確立を目指して3月27日文部科学省において統計業務の質の向上に向けた専門家会議の第1回/1398200245654199/",
+    "https://www.facebook.com/stat.japan/posts/9月29日総務省統計局からお知らせします令和7年国勢調査-人口等基本集計結果-2025年令和7年10月1日現在の我が国の人口は1億2297万3千人2020年に比/1530830449080978/",
+    "https://www.facebook.com/story.php/?story_fbid=1308074064694601&id=100064760584269",
+    "https://www.facebook.com/FPCHUH/posts/医療観察法統計資料が5年ぶりに改訂され2025年版が刊行されました主に医療観察法入院医療に関する資料となります最後の第5部医療観察法支援者研修動画ライブラリー研/1050122920956553/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例） X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/pulse/machine-learning-bias-mean-absolute-error-mohd-faizan-rashid-vto3c/",
+    "https://www.linkedin.com/pulse/mad-understanding-mean-absolute-deviation-cesar-mangabeira-axn6f",
+    "https://www.linkedin.com/pulse/forecast-kpi-rmse-mae-mape-bias-nicolas-vandeput",
+    "https://www.linkedin.com/posts/maximilian-bechthold-6207a5239_my-latest-implementation-of-a-mean-revision-activity-7387830572385034240-vUch",
+    "https://www.linkedin.com/pulse/decoding-forecast-accuracy-metrics-key-reliable-khalfan-almarashda",
+    "https://www.linkedin.com/advice/3/how-do-you-interpret-mean-absolute-deviation-mad",
+    "https://www.linkedin.com/advice/1/how-can-you-avoid-bias-when-cleaning-data-regression"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {},
+ "new_this_run": {},
+ "runs": 17,
  "first_researched_at": "2026-11-05T18:59:06.645902+00:00"
 }

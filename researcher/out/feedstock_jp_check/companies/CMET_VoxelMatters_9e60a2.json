@@ -1,0 +1,506 @@
+{
+ "name": "CMET — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:14:38.645551+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters on Reels - FacebookVoxelMatters - For his final-year project at Central Saint ...CMET - FacebookVoxelMatters - The top 10 metal AM companies by revenue ...VoxelMatters - The lessons of Artemis. The program cost ...CMET - CLB Toán Kinh tế và Công nghệ số | Hanoi Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/ms.sue1979/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cmet.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/products/filamet-3d-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E9%9D%9E%E6%8E%A5%E8%A7%A6+%E3%83%89%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8A%E3%83%BC/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/KITZ+600+WOG/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CMET — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.cmet.co.jp/",
+    "https://hdc3d.com/ja/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%BB%E9%80%A3%E7%B5%A1%E5%85%88/",
+    "https://www.voxelmatters.directory/company-category/binder-jetting/",
+    "https://www.jmc-rp.co.jp/3dp/cmet/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "CMET — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.instagram.com/ms.sue1979/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://camera-wiki.org/wiki/Schmidt",
+    "https://www.rolex.com/ja/store-locator/japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CMET — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.cmet.co.jp/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.jmc-rp.co.jp/3dp/cmet/",
+    "https://monoque.jp/news/556523ec978bdfd514a77fcca7cc7fd96f5c6fdb/",
+    "https://jampt.jp/equipment/",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://www.cmet.co.jp/company/",
+    "https://www.smcworld.com/newproducts/ja-jp/21/mhm-y/",
+    "https://www.youtube.com/watch?v=Ew517KG1bOI",
+    "https://www.cmet.co.jp/2026/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "CMET — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://www.unipos.net/products/filamet-3d-filament/",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://www.voxelmatters.com/about/join/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vLJEJCUa7j9QQYmDXlCwLJKTj6apKzWbDxagocop_3qrpUznxzD",
+    "https://shop.exmatelab.com/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CMET — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.group/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2021/en/tct/search",
+    "https://www.cmet.co.jp/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CMET — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.tctmagazine.com/japanese-additive-manufacturing-a-puzzle-box/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp CMET — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/イヴの罠-シーズン1/dp/B0DH6XCNT2",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com CMET — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/非接触+ドアオープナー/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/KITZ+600+WOG/",
+    "https://www.monotaro.com/g/01456474/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/00497458/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CMET — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.group/",
+    "https://pitchbook.com/profiles/company/1442458-63"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com CMET — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com CMET — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/CMET_UGENT",
+    "https://x.com/Prusa3D/status/2031054780668252591",
+    "https://x.com/CMAA_HQ/status/2079982367515533735",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com CMET — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/posts/voxelmatters_jecworld-composites-3dprinting-activity-7437090506670518272-W0PF",
+    "https://www.linkedin.com/posts/voxelmatters_at-its-first-computational-design-summit-activity-7211351371025928195-ajAx",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-metalam-qualitycontrol-activity-7492846001142116354-Qcj7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com CMET — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/p/CMET-61590687896538/",
+    "https://www.facebook.com/VoxelMatters/posts/the-top-10-metal-am-companies-by-revenueeos-leads-a-group-of-key-players-in-meta/845175904280126/",
+    "https://www.facebook.com/VoxelMatters/posts/the-lessons-of-artemisthe-program-cost-over-93-billion-and-sent-humans-back-to-t/1553291466801896/",
+    "https://www.facebook.com/cmetproject/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CMET — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/contribute/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://note.com/ptcjapan/n/n1199578f209b",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.cmet.co.jp/company/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "CMET — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.com/category/marketing/webinar/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

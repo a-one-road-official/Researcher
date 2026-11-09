@@ -1,0 +1,819 @@
+{
+ "name": "Lygos",
+ "aliases": [],
+ "context": "旧営業リスト｜Materials / process technology｜送付済み",
+ "researched_at": "2026-11-09T19:22:09.507414+00:00",
+ "official_url": "https://www.lygos.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$138,000",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$160,000,000",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "2581 Industrial Blvd, Suite 300, Hayward, California 94545, US",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2011",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Lygos - Windows にダウンロードしてインストール | Microsoft Store — Lygos is a visual data analytics software for video walls and dashboards used in Control Rooms, Operation Centers and Office Dashboards. It enables users to deploy collages of interactive, realtime data visualizations and maps (GIS) scaled to 100+ million pixels seamless screen areas on distributed screen clients. It can be collaboratively contro",
+    "url": "https://apps.microsoft.com/detail/xpfp6gwd0h53lq?hl=ja-JP&gl=JP",
+    "pass": 3
+   },
+   {
+    "quote": "Today, BioMADE announced an agreement with Lygos to ... — Today, BioMADE announced an agreement with Lygos to transition its biomanufacturing infrastructure into a nationally available, multi-user facility. BioMADE will acquire its processing equipment ...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7323355764650041344/",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos: 持続可能な化学物質生産の未来 — Lygosは、持続可能なバイオテクノロジーソリューションを提供する企業です。糖を貴重な産業用化学物質に変換する微生物を設計し、石油化学製品の代替を目指しています。",
+    "url": "https://huntscreens.com/ja/products/lygos",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos: Better Materials for Better Products | Lygos — Better Materials for Better Products Delivering next-generation specialty chemicals with commercial traction and measurable impact.",
+    "url": "https://www.lygos.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company: Who We Are and Team | Lygos — Lygos is a specialty chemical company with a simple belief: The best chemistry solves real problems. We start with customer challenges, develop solutions that deliver measurable results, and then efficiently scale up through our commercial manufacturing partners.",
+    "url": "https://www.lygos.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos: Better Materials for Better Products | Lygos — Lygos, Inc. is a sustainable specialty chemical company accelerating the transition to high-performing, sustainable solutions. We create biodegradable polymers tailored for diverse applications for home care and personal care applications.",
+    "url": "https://www.lygos.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos | LinkedIn — Lygos is a pioneering sustainable specialty chemicals company, leading the world’s transition toward better, cleaner, and more sustainable products. We have built a proprietary and fully integrated platform of the most advanced technologies across synthetic biology, industrial chemistry, and application development to rapidly deliver market relevant solutions to some of the worl",
+    "url": "https://jp.linkedin.com/company/lygos",
+    "pass": 3
+   },
+   {
+    "quote": "Logos Corporation globalDober Expands Product Portfolio Through Acquisition of Lygos ...Lygos: 持続可能な化学物質生産の未来Lygos | Global Cosmetic Industry — It might seem like our brand is a international. However, LOGOS is a Japanese outdoor brand. Established in 1985. We chose the maple leaf logo because, \"Just like a maple leaf's veins that grows strongly in 5 diferent directions, we want our brand to be th",
+    "url": "https://www.logos.ne.jp/global",
+    "pass": 3
+   },
+   {
+    "quote": "Dober Expands Product Portfolio Through Acquisition of Lygos ... — Feb 10, 2026 · Dober acquires Lygos' Soltellus Agronomy and Water Treatment businesses, expanding its high-performance product portfolio and enhancing strategic growth.",
+    "url": "https://www.dober.com/resources/dober-acquires-soltellus",
+    "pass": 3
+   },
+   {
+    "quote": "Approach: How We Do it and Our Strategy | Lygos — We then fine-tune performance at the molecular level to tailor material structure, function, and morphology for solutions that align with customer needs and outperform traditional polymers. With scale in mind, we ensure our processes can be quickly and cost-effectively produced at our manufacturing partners.",
+    "url": "https://www.lygos.com/approach",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos: Better Materials for Better Products | Lygos — About Lygos Lygos, Inc. is a sustainable specialty chemical company accelerating the transition to high-performing, sustainable solutions. Our bio-manufacturing process creates biodegradable polymers tailored for diverse applications, from agronomy to home care and personal care.",
+    "url": "https://www.lygos.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BioMADE and Lygos to Fast-Track Pilot Biomanufacturing ... — Apr 29, 2025 · BioMADE and Lygos to Fast-Track Pilot Biomanufacturing Facility in California The Hayward facility aims to open by the early 2026 and will expand domestic bioindustrial manufacturing capabilities, strengthen national security, and secure domestic supply chains for needed materials. MINNEAPOLIS-ST.",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "California Bioresources Economy Summit, Session 2 - Lygos ... — Jan 29, 2019 · LYGOS Enabling New Materials with Biotech to Address Global Challenges in Sustainability, Energy & Climate Change Lygos’ bio-MalonateTM Program is a Case Study Demonstrating our Direction Next Products Addressing High Gas Barrier Materials, Degradability & More www.lygos.com",
+    "url": "https://ww2.arb.ca.gov/sites/default/files/2019-01/13_Steen_v2_190129+Lygos+Intro_CARB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos Reaches Major Technical Milestone Scaling Bio-Malonic ... — About Lygos, Inc. Lygos makes microbial-based manufacturing solutions at the juncture of biology and technology that create market-transforming product opportunities.",
+    "url": "https://www.synbiobeta.com/read/lygos-reaches-major-technical-milestone-scaling-bio-malonic-tm-manufacturing-process-in-partnership-with-nrel",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos - 2026 Company Profile, Team, Funding & Competitors ... — Mar 30, 2026 · Lygos is a series B company based in Berkeley (United States), founded in 2011 by Eric Steen. It operates as a Manufacturer of green acids from microbes. Lygos has raised $51.8M in funding from investors like IA Ventures, Y Combinator and First Round Capital. The company has 2079 active competitors, including 493 funded",
+    "url": "https://tracxn.com/d/companies/lygos/__rdU5SbaVs2DiTlvbXFEhpqucWQUaP0-o_YHKACu9Qn0",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos 2026 Company Profile: Valuation, Funding & Investors ...Lygos Revenue, Funding & Valuation - prospeo.ioLygos – Business Snapshot & Rival Analysis – 2026 – BerkeleyLygos — Company Profile | The Company CheckLygos: Funding, Investors & Team (Nov 2026) | FundedIQLygos (Specialized Finance) 2026 Company Profile: Valuation ... — Information on valuation, funding, cap tables, investors, and execut",
+    "url": "https://pitchbook.com/profiles/company/93911-14",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos Revenue, Funding & Valuation - prospeo.io — Lygos has revenue of $8,000,000, estimated valuation of $25,600,000, $160,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos – Business Snapshot & Rival Analysis – 2026 – Berkeley — Lygos Revenue & Valuation Lygos’s business performance suggests annual revenues of around $16.6M. The revenue per employee estimate for Lygos is $155K. Cumulative funding for Lygos currently stands at $50M.",
+    "url": "https://compworth.com/company/lygos",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos — Company Profile | The Company Check — Oct 15, 2026 · About Lygos Lygos is a company based in Emeryville (United States) founded in 2010 by Eric Steen. It operates as a B2B2C. Lygos has raised $51.77 million across 24 funding rounds from investors including United States Department of Agriculture, Flexible Solutions and DOE. Lygos has completed 1 acquisition, including Librede.",
+    "url": "https://www.thecompanycheck.com/company/b/lygos/jvuoemumntg8n63od",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Education & Workforce Development",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 29",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "MINNEAPOLIS-ST. PAUL, MN/HAYWARD, CA, April 30, 2025",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": ". “Other countries around the world have been investing in biotechnology for decades, and the U.S. is at risk of falling behind. Expanding nationwide capabilities to produce chemicals and materials needed for defense and consumer applications will strengthen national security and secure domestic supply chains.”",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "“Lygos has built a foundation that enables high-performing, sustainable solutions to be delivered at scale, right now,” said Eric Steen, CEO of Lygos. “This represents an opportunity to focus on our commercial growth while accelerating broader access to world-class biomanufacturing infrastructure -- we’re proud to partner with BioMADE on a shared vision to strengthen U.S. capabilities.”",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "As a multi-user facility, the Hayward site will serve companies across a wide range of applications, from small-scale development capabilities to commercial testing and process refinement. BioMADE aims to open the facility to customers in early 2026.",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "BioMADE Announces $6.4 Million Investment to Advance Innovative Defense-Oriented Products through Bioindustrial Manufacturing",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of the Navy or the U.S. Government.",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "Sr. Director Of Product And Application Development",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Director, Product Marketing",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Advertising",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos has approximately",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "BioMADE and Lygos to Fast-Track Pilot Biomanufacturing Facility in California — BioMADE",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "Bioindustrial Manufacturing",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "BioMADE and Lygos to Fast-Track Pilot Biomanufacturing Facility in California",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "The Hayward facility aims to open by the early 2026 and will expand domestic bioindustrial manufacturing capabilities, strengthen national security, and secure domestic supply chains for needed materials.",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "“This facility will play a critical role as America works to regain dominance in the biotechnology and biomanufacturing industry,” said",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "“Lygos has built a foundation that enables high-performing, sustainable solutions to be delivered at scale, right now,” said Eric Steen, CEO of Lygos. “This represents an opportunity to focus on our commercial growth while accelerating broader access to world-class biomanufacturing infrastructure -- we’re proud to partner with BioMADE on a shared vision to strengthen U.S. capabilities.”",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "BioMADE Announces $6.4 Million Investment to Advance Innovative Defense-Oriented Products through Bioindustrial Manufacturing",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "BioMADE Finalizes $132M National Security Investment in Demonstration-Scale Biomanufacturing Facility in Minnesota",
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "2581 Industrial Blvd, Suite 300, Hayward, California 94545, US",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Lygos Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Lygos",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Lygos?",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lygos have?",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lygos.Finance ⚛️ (@LygosFinance) / Posts / X Lygos.Finance ⚛️ (@LygosFinance) - Posts - The first trustless, Bitcoin-native lending platform. Built for HNWIs & institutions on battle-teste... | X (formerly Twitter)",
+    "url": "https://x.com/LygosFinance",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos.Finance ⚛️ on X: \"2/ The tx: 83 inputs, 4,019 BTC in, 3 ... 12/ Why we care. Lygos lends against bitcoin. Not L-BTC, not wrapped, not federated. Collateral sits in a 2-of-2 DLC output on Bitcoin. No single key, ours included, can move it. When a bridge's solvency rests on amounts nobody can see, the receipt is the one thing you can't Show more",
+    "url": "https://x.com/LygosFinance/status/2096703141131723068",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos (@lygos) / Posts / X Lygos (@lygos) - Posts - | X (formerly Twitter) One hour before leaving home....",
+    "url": "https://x.com/lygos",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos (@lygospay) / Posts / X Lygos (@lygospay) - Posts - Payment infrastructure for intra-african digital economy. | X (formerly Twitter)",
+    "url": "https://x.com/lygospay",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos (@lygos) / Posts / X Feb 12, 2009 · Lygos (@lygos) - Posts - | X (formerly Twitter) One hour before leaving home....",
+    "url": "https://x.com/lygos",
+    "pass": 3
+   },
+   {
+    "quote": "@lygosbiotech | X The latest posts from @lygosbiotech",
+    "url": "https://x.com/lygosbiotech",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos (@Lygos08) / X Lygos @Lygos08 #revenuspassifs #investissement #investisseur France linktr.ee/lygos Joined May 2022 60 Following 80 Followers",
+    "url": "https://x.com/lygos08",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos.Finance ⚛️ (@LygosFinance) / Posts / X Jan 16, 2019 · Lygos.Finance ⚛️ (@LygosFinance) - Posts - The first trustless, Bitcoin-native lending platform. Built for HNWIs & institutions on battle-teste... | X (formerly Twitter)",
+    "url": "https://x.com/LygosFinance",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lygos - LinkedIn Lygos | 8,288 followers on LinkedIn. Better materials for better products | Lygos is a pioneering sustainable specialty chemicals company, leading the world’s transition toward better, cleaner ...",
+    "url": "https://www.linkedin.com/company/lygos",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Steen - Lygos | LinkedInLygos - LinkedInBryce Dille - Chief Financial Officer | LinkedInEmilia Perdomo - R&D & Product Innovation Leader - LinkedInPhoton Rao - Lygos | LinkedInLygos Finance - LinkedIn I enjoy working with great teams to turn great technologies into great… · Experience: Lygos · Location: Hayward · 500+ connections on LinkedIn. View Eric Steen’s profile on LinkedIn, a ... Lygos",
+    "url": "https://www.linkedin.com/in/ericjsteen",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos - LinkedIn Lygos | 1,169 followers on LinkedIn. Receive payment instantly. Locally. Globally. | Lygos is a payment solution for entrepreneurs and SMEs in Francophone Africa. Present in Benin, Cameroon, Ivory ...",
+    "url": "https://www.linkedin.com/company/lygospay/",
+    "pass": 3
+   },
+   {
+    "quote": "Bryce Dille - Chief Financial Officer | LinkedInEmilia Perdomo - R&D & Product Innovation Leader - LinkedInPhoton Rao - Lygos | LinkedInLygos Finance - LinkedIn Lygos was a leading specialty chemical company, converting sustainable feedstocks into specialty products and delivering solutions to the home care, personal care and agronomy markets · Experience: Lygos · Education: Instituto Tecnológico ",
+    "url": "https://www.linkedin.com/in/bryce-dille-248b376",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos | LinkedIn Lygos is a pioneering sustainable specialty chemicals company, leading the world’s transition toward better, cleaner, and more sustainable products. We have built a proprietary and fully integrated platform of the most advanced technologies across synthetic biology, industrial chemistry, and application development to rapidly deliver market relevant solutions to some of the world’",
+    "url": "https://jp.linkedin.com/company/lygos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lygos, Inc. | Hayward CA - FacebookLygos | Paris - FacebookLygos - FacebookLygos - FacebookFacebookLygos - Avis d’interruption temporaire de ... - FacebookLygos, Inc. - Lygos is proud to share CEO Eric Steen, and ... Jan 23, 2026 · Lygos, Inc., Hayward. 295 followers · 1 was here. Lygos is a sustainable specialty chemical company that helps customers meet their highest performance and sustainabili",
+    "url": "https://www.facebook.com/LygosBiotech/",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos | Paris - FacebookLygos - FacebookLygos - FacebookFacebookLygos - Avis d’interruption temporaire de ... - FacebookLygos, Inc. - Lygos is proud to share CEO Eric Steen, and ... Jan 30, 2026 · Lygos, Paris. 18,113 followers · 6 talking about this. Lygosapp.com: Transformez votre entreprise grâce à nos solutions digitales sur mesure. Contactez-nous dès aujourd'hui pour en savoir plus et... Lygo",
+    "url": "https://www.facebook.com/lygospay/",
+    "pass": 3
+   },
+   {
+    "quote": "Lygos - Facebook Lygos is on Facebook. Join Facebook to connect with Lygos and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/lygos.lygos/",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook Explore Lygos on Facebook, connect with others, and discover insights about this sustainable specialty chemical company.",
+    "url": "https://www.facebook.com/lygos.app/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lygos.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://apps.microsoft.com/detail/xpfp6gwd0h53lq?hl=ja-JP&gl=JP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7323355764650041344/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/lygos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ADATA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/lygos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.logos.ne.jp/global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ww2.arb.ca.gov/sites/default/files/2019-01/13_Steen_v2_190129+Lygos+Intro_CARB.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lygos/__rdU5SbaVs2DiTlvbXFEhpqucWQUaP0-o_YHKACu9Qn0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/93911-14",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/lygos-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/lygos",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LygosFinance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LygosFinance/status/2096703141131723068",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lygos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lygospay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lygos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ericjsteen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lygospay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bryce-dille-248b376",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LygosBiotech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lygospay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lygos.lygos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lygos.app/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/lygos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lygos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lygosbiotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lygos08",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LygosFinance",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lygos 日本 導入",
+   "results": [
+    "https://apps.microsoft.com/detail/xpfp6gwd0h53lq?hl=ja-JP&gl=JP",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7323355764650041344/",
+    "https://huntscreens.com/ja/products/lygos",
+    "https://www.lygos.com/",
+    "https://sky-budget.com/2026/10/07/the-background-behind-the-lufthansa-groups-rapid-expansion-of-japan-routes-to-a-50-flight-per-week-schedule/",
+    "https://www.sbbit.jp/article/fj/185383",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lygos 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://ja.wikipedia.org/wiki/ADATA",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.lygos.com/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lygos Japan",
+   "results": [
+    "https://www.lygos.com/company",
+    "https://www.lygos.com/",
+    "https://jp.linkedin.com/company/lygos",
+    "https://www.logos.ne.jp/global",
+    "https://www.dober.com/resources/dober-acquires-soltellus",
+    "https://huntscreens.com/ja/products/lygos",
+    "https://www.gcimagazine.com/home/company/22923366/lygos"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lygos manufacturing customer case study",
+   "results": [
+    "https://www.lygos.com/approach",
+    "https://www.lygos.com/",
+    "https://www.biomade.org/news/biomade-and-lygos-to-fast-track-pilot-biomanufacturing-facility-in-california",
+    "https://ww2.arb.ca.gov/sites/default/files/2019-01/13_Steen_v2_190129+Lygos+Intro_CARB.pdf",
+    "https://www.synbiobeta.com/read/lygos-reaches-major-technical-milestone-scaling-bio-malonic-tm-manufacturing-process-in-partnership-with-nrel",
+    "https://agilebiofoundry.org/case-study-agile-biofoundry-enables-scale-up-of-lygos-sustainable-bioproduct/",
+    "https://staging.lygos.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lygos white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lygos founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/lygos/__rdU5SbaVs2DiTlvbXFEhpqucWQUaP0-o_YHKACu9Qn0",
+    "https://pitchbook.com/profiles/company/93911-14",
+    "https://prospeo.io/c/lygos-revenue",
+    "https://compworth.com/company/lygos",
+    "https://www.thecompanycheck.com/company/b/lygos/jvuoemumntg8n63od",
+    "https://fundediq.co/lygos-lygos-com-funding/",
+    "https://pitchbook.com/profiles/company/1366142-23"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lygos",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lygos",
+   "results": [
+    "https://x.com/LygosFinance",
+    "https://x.com/LygosFinance/status/2096703141131723068",
+    "https://x.com/lygos",
+    "https://x.com/lygospay",
+    "https://x.com/nlygos",
+    "https://x.com/lygos08",
+    "https://x.com/LygosFinance/status/2096703151344845164"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lygos",
+   "results": [
+    "https://www.linkedin.com/company/lygos",
+    "https://www.linkedin.com/in/ericjsteen",
+    "https://www.linkedin.com/company/lygospay/",
+    "https://www.linkedin.com/in/bryce-dille-248b376",
+    "https://www.linkedin.com/in/emiliaperdomo",
+    "https://www.linkedin.com/in/photon-rao-7663871a",
+    "https://www.linkedin.com/company/lygosfinance"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Lygos",
+   "results": [
+    "https://www.facebook.com/LygosBiotech/",
+    "https://www.facebook.com/lygospay/",
+    "https://www.facebook.com/lygos.lygos/",
+    "https://www.facebook.com/lygos.app/",
+    "https://www.facebook.com/lygospay/posts/-avis-dinterruption-temporaire-de-servicedans-le-cadre-de-lamélioration-continue/920201783718543/",
+    "https://www.facebook.com/LygosBiotech/posts/lygos-is-proud-to-share-ceo-eric-steen-and-chief-commercial-officer-richard-webe/1363643518698124/",
+    "https://www.facebook.com/djlygos/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lygos note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://jp.linkedin.com/company/lygos",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.lygos.com/company",
+    "https://tracxn.com/d/companies/lygos/__rdU5SbaVs2DiTlvbXFEhpqucWQUaP0-o_YHKACu9Qn0",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://startupintros.com/orgs/lygos"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Lygos X 投稿",
+   "results": [
+    "https://x.com/lygos",
+    "https://x.com/lygosbiotech",
+    "https://x.com/lygos08",
+    "https://x.com/LygosFinance",
+    "https://www.youtube.com/@Lygos",
+    "https://x-sou.com/ja",
+    "https://x.com/shinogu_nagame/status/2118694847834185970"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

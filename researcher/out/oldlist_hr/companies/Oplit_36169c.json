@@ -1,0 +1,1266 @@
+{
+ "name": "Oplit",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-09T19:11:19.469700+00:00",
+ "official_url": "https://www.oplit.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The operating system for supply chain and production execution.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial performance is driven by thousands of small choices about what to produce, where, when, and under constantly shifting constraints. Traditional supply chain softwares were built for stability. Oplit's platform combines optimization algorithms and agentic AI with an intuitive interface to continuously sense change across your supply chain and recompute the plan in real time.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Planners move from manual replanning to decision validation. Operators follow priorities aligned to financial impact. Leadership gains full visibility into performance before issues escalate.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit turns planning from a static, backward-looking process into an intelligent operating system that turns industrial complexity into competitive advantage.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Two products. One platform. Start where it fits your industrial maturity and grow into the next.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your ERP, model your factory, and let Oplit schedule production across your work centers. Live in weeks. ROI in months. Built for industrials replacing Excel, static plans, and disconnected tools with one structured planning system.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why industrial leaders replace legacy APS and homegrown spreadsheets with Oplit.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From aerospace programmes with 18-month lead times to food production with days of shelf life, Oplit adapts to the realities of your industry",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-level constraints, long lead times, zero tolerance for slippage. Master capacity and secure on-time delivery across complex programs.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of tiny parts, micron-level precision, perfect synchronization. Align workshops in real time and preserve craftsmanship without sacrificing flow.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect craftsmanship while scaling output. Orchestrate small-batch, high-mix production without losing what makes your brand.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MDR compliance, saturated cleanrooms, patient-critical stockouts. Schedule sterile production with full UDI traceability and 72h-ahead risk alerts.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seasonal peaks, perishable inventory, strict food-safety constraints. Cut reliance on temp staff and maximize OEE without compromising traceability.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand volatility, lean inventories, OEM penalties on delays. Anticipate component shortages and protect on-time delivery in the most disrupted supply chains.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever your industry, the challenge is the same: turning operational complexity into a living, always-true production plan that every team can trust. Oplit adapts to the specific constraints, regulations, and dynamics of your sector, delivering measurable gains in capacity utilization, lead time and on-time delivery from the first weeks of deployment.",
+    "url": "https://www.oplit.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Production rates are climbing. Is your planning keeping up?",
+    "url": "https://www.oplit.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "PCBs, components, lines. Schedule electronics production with confidence.",
+    "url": "https://www.oplit.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Business constraints, resources, deadlines. Schedule with no compromise.",
+    "url": "https://www.oplit.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Our solutions deploy in 1 to 24 weeks, depending on complexity and ambition. Once live, the financial impact is measurable: real gains in production capacity, service level, inventory, and lead time.",
+    "url": "https://www.oplit.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "From Excel chaos to precision planning. Discover the Vaucher story.",
+    "url": "https://www.oplit.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Production rates are climbing.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Order books are breaking records. Every week of delay widens the gap between what you promised and what you ship.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "• PDP - Master Production Schedule",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Watch how a leading aerospace supplier rebuilt its planning process around Oplit accelerating decisions, aligning sites, and securing on-time delivery.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Over a 36-month horizon, Oplit's PIC (S&OP) lets you anticipate whether your resources will meet rising production rates. We automate forecast load calculation, translate it into revenue projection, and simulate the impact of any change - new program, demand spike, contract loss - in real time. Strategic trade-offs are made on data, not gut feeling.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "For aerospace groups operating across multiple sites, Oplit delivers a consolidated view of load and capacity. Inter-site trade-offs become easier, best practices get standardized, and each entity keeps its operational autonomy while staying aligned with group objectives.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit combines operations research with advanced AI to solve complex scheduling problems: managing resource constraints, multi-step routings, customer priorities, and contractual lead times. Better sequences, higher throughput, optimal use of constrained resources.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Tier-1 aerospace suppliers have shared their production challenges with us consolidating the supply chain, coordinating subcontractors, centralizing reliable data. Here's how we help them win on competitiveness and on-time delivery.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Lisi wanted to challenge its capacity analysis process and to ensure the reliability of its scheduling. The lead time was 3 months, but the teams were only really projecting themselves for one month. Oplit was chosen for the visibility that the solution provides over time, while being easy to use.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "“Using Oplit means less pressure, less stress, and less disorganization in the daily work of planners. Oplit allows us to have better standardization of best practices among the different industrial sites of Lisi. Since it was deployed, we have improved adherence to objectives by 20%.”",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit supports the transformation of aerospace industrial production",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit helps you set up your production processes and assists all stakeholders in your production chain to work together in a more coordinated and efficient manner.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Director & Production Director",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Production Manager, Workshop Manager & Supervisor",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oplit has brought us tremendous agility. We can identify possible reassignments and operators have a better view of priorities. This increases everyone's involvement and accountability.\"",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Oplit, I can provide a reliable delivery date to our clients that takes into account the product range, history, and the current workshop context.\"",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "The plug-and-play scheduling platform that bridges the gap between your ERP and shopfloor operations. Regain control over your production plan, reduce delays, and align every team around a single source of truth, deployed in weeks.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "The AI-first supply chain platform for industrial leaders who need to unlock millions in operational value. Combines operations research, reinforcement learning, and agentic planning to continuously orchestrate production across your entire organization.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "See how Oplit brings structure, visibility, and control to your aerospace production from S&OP down to the shopfloor, in weeks.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "In a context of uncertain demand, manufacturing excellence and industrialization, Oplit brings simple solutions connected to your existing tools. We optimize your production planning and absorb the many disruptions of your complex production flows.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Master your work-in-progress",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "The many production stages in watchmaking constantly overload bottleneck workstations. With Oplit, scheduling is simplified through clear, configurable rules and you always know exactly where you stand on the execution of your plan.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit delivers the optimal version of your production plan. With deeper visibility, you can take accurate decisions on the target organization of your teams and hit your production goals in the short, medium, and long term.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Your production, better organized.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Our clients, like their products, are one of a kind. That's why our solution was built to adapt to the specific constraints of every production mode, taking into account the field reality and the organization of each site we serve.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit supports the transformation of your industrial production",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit helps you set up your production processes and assists all stakeholders in your production chain to work together in a more coordinated and efficient manner.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Director & Production Director",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Production Manager, Workshop Manager & Supervisor",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oplit brings us real-time monitoring of the workshop. Everyone has the right information. Operators get centralized data on the present and the future, which frees up time for workshop managers.\"",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oplit prevents the kind of communication gaps that used to slow our workshop down. We reduce lead time and delays, we now anticipate subcontracting returns better, and we instantly see whether a station is available and the priority levels in front of each one.\"",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Oplit, I no longer need to run around the workshop chasing work orders or interrupting the production team.\"",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "The plug-and-play scheduling platform that bridges the gap between your ERP and shopfloor operations. Regain control over your production plan, reduce delays, and align every team around a single source of truth deployed in weeks.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "The AI-first supply chain platform for industrial leaders who need to unlock millions in operational value. Combines operations research, reinforcement learning, and agentic planning to continuously orchestrate production across your entire organization.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule production with confidence.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "From SMT setup times to dynamic bottlenecks and component shortages, electronics manufacturing is built on constraints generalist planning tools can't handle. Oplit gives EMS providers the visibility and control to turn complexity into competitive advantage.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "work-in-progress (WIP)",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "In electronics, bottlenecks move. One day it's the AOI station, the next it's manual soldering or a certified operator at the FCT bench. Static schedules built around fixed assumptions trap you in delays. Oplit continuously rebalances priorities based on real workload, available skills, and supply status — turning your shopfloor from reactive firefighting into anticipation.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "EMS providers across automotive, medical, defense, and IoT face the same set of challenges exploding BOM complexity, high-mix low-volume orders, fragile component supply, and on-time delivery as a make-or-break KPI. Here's how Oplit helps them turn that complexity into competitive advantage.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit helps you set up your production processes and assists all stakeholders in your production chain to work together in a more coordinated and efficient manner.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industrial leaders",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial performance is driven by thousands of small choices about what to produce, where, when, and under constantly shifting constraints. Traditional supply chain softwares were built for stability. Oplit's platform combines optimization algorithms and agentic AI with an intuitive interface to continuously sense change across your supply chain and recompute the plan in real time.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Planners move from manual replanning to decision validation. Operators follow priorities aligned to financial impact. Leadership gains full visibility into performance before issues escalate.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit turns planning from a static, backward-looking process into an intelligent operating system that turns industrial complexity into competitive advantage.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Two products. One platform. Start where it fits your industrial maturity and grow into the next.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your ERP, model your factory, and let Oplit schedule production across your work centers. Live in weeks. ROI in months. Built for industrials replacing Excel, static plans, and disconnected tools with one structured planning system.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plant managers, planners, supply chain directors taking their first digital planning step.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid optimization engines, reinforcement learning, and agentic planning systems that continuously reason about your operations, adapt to changing conditions, and uncover new performance. Built for industrials operating at scale, across multi-site and multi-constraint environments.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why industrial leaders replace legacy APS and homegrown spreadsheets with Oplit.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No-code configuration adapts to your ERP, your factory, your logic. The AI starts learning your operations on day one. First results in weeks, not quarters.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the world's most demanding industrial sectors.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From aerospace programmes with 18-month lead times to food production with days of shelf life, Oplit adapts to the realities of your industry",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastering volatility is the new industrial advantage.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modern industry doesn't reward the biggest factories. It rewards the ones that adapt the fastest. We're building the operating system that makes that possible.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A 30-minute meeting. Your factory, your ERP, your constraints, your strategy.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join 100+ industrial companies",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit serves companies in all industrial sectors, from aerospace and luxury to food & beverages, electronics, and chemistry.",
+    "url": "https://www.oplit.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Join 100+ industrial companies",
+    "url": "https://www.oplit.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "We remove uncertainty from manufacturing operations.",
+    "url": "https://www.oplit.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit replaces guesswork with the visibility to plan, decide, and execute with confidence at shopfloor, factory, and group level.",
+    "url": "https://www.oplit.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Less stress, more decisions. Discover the Lisi Aerospace story.",
+    "url": "https://www.oplit.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Join 100+ industrial companies",
+    "url": "https://www.oplit.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "[ AEROSPACE & DEFENSE ]",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit gives aerospace and defense suppliers the visibility and control to keep pace from S&OP down to shopfloor scheduling.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "AeroExcellence: the capacity planning playbook aerospace suppliers",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "The operational guide co-built with aerospace leaders. Master capacity planning, run a robust PIC (S&OP), and earn your AeroExcellence medal. Download the playbook used by our customers to win on-time delivery.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "• Multi-site - standardize across all your plants",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "How CGR transformed industrial planning with Oplit",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Watch how a leading aerospace supplier rebuilt its planning process around Oplit accelerating decisions, aligning sites, and securing on-time delivery.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "For aerospace groups operating across multiple sites, Oplit delivers a consolidated view of load and capacity. Inter-site trade-offs become easier, best practices get standardized, and each entity keeps its operational autonomy while staying aligned with group objectives.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by aerospace leaders",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Tier-1 aerospace suppliers have shared their production challenges with us consolidating the supply chain, coordinating subcontractors, centralizing reliable data. Here's how we help them win on competitiveness and on-time delivery.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "“Using Oplit means less pressure, less stress, and less disorganization in the daily work of planners. Oplit allows us to have better standardization of best practices among the different industrial sites of Lisi. Since it was deployed, we have improved adherence to objectives by 20%.”",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit supports the transformation of aerospace industrial production",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Director & Production Director",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oplit has brought us tremendous agility. We can identify possible reassignments and operators have a better view of priorities. This increases everyone's involvement and accountability.\"",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "The AI-first supply chain platform for industrial leaders who need to unlock millions in operational value. Combines operations research, reinforcement learning, and agentic planning to continuously orchestrate production across your entire organization.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "See how Oplit brings structure, visibility, and control to your aerospace production from S&OP down to the shopfloor, in weeks.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "No commitment. No lengthy RFP. Just a conversation about your factory.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Join 100+ industrial companies",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "In a context of uncertain demand, manufacturing excellence and industrialization, Oplit brings simple solutions connected to your existing tools. We optimize your production planning and absorb the many disruptions of your complex production flows.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit supports the transformation of your industrial production",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Director & Production Director",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "\"Oplit brings us real-time monitoring of the workshop. Everyone has the right information. Operators get centralized data on the present and the future, which frees up time for workshop managers.\"",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "The AI-first supply chain platform for industrial leaders who need to unlock millions in operational value. Combines operations research, reinforcement learning, and agentic planning to continuously orchestrate production across your entire organization.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "See how Oplit Core brings structure, visibility, and control to your factory floor in weeks.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "No commitment. No lengthy RFP. Just a conversation about your factory.",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "Join 100+ industrial companies",
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "pass": 1
+   },
+   {
+    "quote": "From SMT setup times to dynamic bottlenecks and component shortages, electronics manufacturing is built on constraints generalist planning tools can't handle. Oplit gives EMS providers the visibility and control to turn complexity into competitive advantage.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "EMS providers across automotive, medical, defense, and IoT face the same set of challenges exploding BOM complexity, high-mix low-volume orders, fragile component supply, and on-time delivery as a make-or-break KPI. Here's how Oplit helps them turn that complexity into competitive advantage.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit supports the transformation of electronics manufacturers",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial & Financial Director",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "The AI-first supply chain platform for industrial leaders who need to unlock millions in operational value. Combines operations research, reinforcement learning, and agentic planning to continuously orchestrate production across your entire organization.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "No commitment. No lengthy RFP. Just a conversation about your factory.",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Join 100+ industrial companies",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Exceptional products demand rare know-how, spread across dozens of production stages. Oplit adapts to that complexity and gives you the visibility to trust factory execution",
+    "url": "https://www.oplit.com/industries/luxury-goods",
+    "pass": 1
+   },
+   {
+    "quote": "days/month saved per industrial director",
+    "url": "https://www.oplit.com/industries/luxury-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit supports the transformation of your industrial production",
+    "url": "https://www.oplit.com/industries/luxury-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Factory Director & Production Director",
+    "url": "https://www.oplit.com/industries/luxury-goods",
+    "pass": 1
+   },
+   {
+    "quote": "The AI-first supply chain platform for industrial leaders who need to unlock millions in operational value. Combines operations research, reinforcement learning, and agentic planning to continuously orchestrate production across your entire organization.",
+    "url": "https://www.oplit.com/industries/luxury-goods",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Protect craftsmanship while scaling output. Orchestrate small-batch, high-mix production without losing what makes your brand.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand volatility, lean inventories, OEM penalties on delays. Anticipate component shortages and protect on-time delivery in the most disrupted supply chains.",
+    "url": "https://www.oplit.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tier-1 OEMs in watchmaking, aerospace and medical come with penalties risk and zero tolerance for late delivery",
+    "url": "https://www.oplit.com/industries/industrial-parts",
+    "pass": 1
+   },
+   {
+    "quote": "Oplit derives a realistic completion date for each work order from live load and historical performance not a hopeful promise. Your sales teams commit with confidence, and your OEM customers stop chasing the workshop.",
+    "url": "https://www.oplit.com/industries/industrial-parts",
+    "pass": 1
+   },
+   {
+    "quote": "“We compete on reliability as much as on price. Oplit gives me a load-capacity view I can defend in front of any OEM and the confidence to take on the next program.”",
+    "url": "https://www.oplit.com/industries/industrial-parts",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Over a 36-month horizon, Oplit's PIC (S&OP) lets you anticipate whether your resources will meet rising production rates. We automate forecast load calculation, translate it into revenue projection, and simulate the impact of any change - new program, demand spike, contract loss - in real time. Strategic trade-offs are made on data, not gut feeling.",
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "pass": 1
+   },
+   {
+    "quote": "\"For the first time, we can simulate the impact of a new program or a component shortage in load hours and revenue instantly. That's a different level of business steering.\"",
+    "url": "https://www.oplit.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Most MedTech manufacturers carry excess inventory for one reason: their production system isn't fast or predictable enough to respond to uncertain demand. Oplit changes that equation, real constraints optimized in real time, lead times compressed, compliance built in from day one.",
+    "url": "https://www.oplit.com/industries/medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance isn't a process your team runs alongside production. It's embedded in how production runs. With Oplit, every scheduling decision carries its rationale, every batch its UDI, every plan change its audit trail, automatically.",
+    "url": "https://www.oplit.com/industries/medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "\"MDR traceability used to mean hours of reconstructed Excel before every audit. Now every batch carries its full genealogy and every decision is documented as it happens.\"",
+    "url": "https://www.oplit.com/industries/medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "\"For the first time, we can simulate the impact of a volume change in load hours and revenue instantly. That's a different level of business steering.\"",
+    "url": "https://www.oplit.com/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Every external loop breaks the flow and hides WIP. Oplit’s models subcontracting steps inside the routing, anticipates returns, and flags the slip before it cascades into a missed delivery. The loop becomes part of the plan, not a blind spot.",
+    "url": "https://www.oplit.com/industries/industrial-parts",
+    "pass": 1
+   },
+   {
+    "quote": "“Compliance used to mean reconstructing history in Excel before every inspection. Now every batch carries its full genealogy, every scheduling decision is documented as it happens, and we walk into audits GMP-ready.”",
+    "url": "https://www.oplit.com/industries/pharmaceutical",
+    "pass": 1
+   },
+   {
+    "quote": "Fixed launch dates. Viral spikes overnight. A Q4 peak that can carry the year.",
+    "url": "https://www.oplit.com/industries/cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "Color order, fragrance carryover, allergen rules, cleaning validation… Oplit’s AI powered engine computes all the changeover constraints into the sequence that cuts clean-downs to the physical minimum.",
+    "url": "https://www.oplit.com/industries/cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "Gifting season can carry the year and bury the floor. Oplit simulates the peak before it lands, smooths volume across weeks and sites, and sizes overtime against real demand.",
+    "url": "https://www.oplit.com/industries/cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/438345-73",
+    "pass": 3
+   },
+   {
+    "quote": "Oplit has 29 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438345-73",
+    "pass": 3
+   },
+   {
+    "quote": "What is Oplit’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438345-73",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Oplit is",
+    "url": "https://pitchbook.com/profiles/company/438345-73",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Oplit - Scheduling and Planning software for industry — Oplit - Scheduling and Planning software for industry Oplit https://www.oplit.com",
+    "url": "https://www.oplit.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Oplit - OSS Ventures — Oplit - OSS Ventures OSS Ventures https://www.oss.ventures > oplit",
+    "url": "https://www.oss.ventures/portfolio-companies/oplit",
+    "pass": 3
+   },
+   {
+    "quote": "Oplit - Evolem — Oplit - Evolem Evolem https://evolem.com > oplit-2",
+    "url": "https://evolem.com/en/entreprise/oplit-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Scheduling and Planning software for industry - Oplit — Scheduling and Planning software for industry - Oplit Oplit https://www.oplit.com > legal-notices",
+    "url": "https://www.oplit.com/legal-notices",
+    "pass": 3
+   },
+   {
+    "quote": "Oplit - Vi Partners — Oplit - Vi Partners Vi Partners https://www.vipartners.ch > oplit",
+    "url": "https://www.vipartners.ch/portfolio/oplit",
+    "pass": 3
+   },
+   {
+    "quote": "Oplit 2026 Company Profile: Valuation, Funding & Investors — Oplit 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/438345-73",
+    "pass": 3
+   },
+   {
+    "quote": "Scheduling and Planning software for industry - Oplit — Scheduling and Planning software for industry - Oplit Oplit https://www.oplit.com > blog > oplit-s...",
+    "url": "https://www.oplit.com/blog/oplit-strategic-funding-round-industrial-scheduling-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Oplit - 2026 Company Profile, Team, Funding & Competitors — Oplit - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/oplit/__5ie_4ZukKQlvRdYyVFbqccdMFAhpuHVDVyYEhh8uGmk",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438345-73",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Oplit | LinkedIn Oplit | LinkedIn LinkedIn https://www.linkedin.com > oplit",
+    "url": "https://www.linkedin.com/company/oplit/",
+    "pass": 3
+   },
+   {
+    "quote": "Oplit's Post - LinkedIn Oplit's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > o...",
+    "url": "https://www.linkedin.com/posts/oplit_industrialautonomy-aerospace-productionplanning-activity-7518959803008921600-B2ip",
+    "pass": 3
+   },
+   {
+    "quote": "Marie Thiébault - VP Operations @ Oplit - LinkedIn Marie Thiébault - VP Operations @ Oplit - LinkedIn LinkedIn https://fr.linkedin.com > mariethiebault",
+    "url": "https://fr.linkedin.com/in/mariethiebault",
+    "pass": 3
+   },
+   {
+    "quote": "John Williams - Forward Deployed Engineer at Oplit - LinkedIn John Williams - Forward Deployed Engineer at Oplit - LinkedIn LinkedIn https://fr.linkedin.com > ...",
+    "url": "https://fr.linkedin.com/in/john-williams-42a616129",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Eizen-Crist L. Oplit - Facebook Eizen-Crist L. Oplit - Facebook Facebook https://www.facebook.com > eizen.crist.l.oplit > posts",
+    "url": "https://www.facebook.com/eizen.crist.l.oplit/posts/4509889249323363/",
+    "pass": 3
+   },
+   {
+    "quote": "Eizen-Crist L. Oplit - Facebook Eizen-Crist L. Oplit - Facebook Facebook https://www.facebook.com > eizen.crist.l.oplit > posts",
+    "url": "https://www.facebook.com/eizen.crist.l.oplit/posts/4509792205999734/",
+    "pass": 3
+   },
+   {
+    "quote": "Eizen-Crist L. Oplit - Facebook Eizen-Crist L. Oplit - Facebook Facebook https://www.facebook.com > eizen.crist.l.oplit > posts",
+    "url": "https://www.facebook.com/eizen.crist.l.oplit/posts/4508392496139705/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oplit.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/aerospace-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/watchmaking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/luxury-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/medical-devices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/food-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/industrial-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/pharmaceutical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oplit.com/industries/cosmetics",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.opi.jp/wordpress/wp-content/uploads/2022/03/2017.7.15.%E5%85%AB%E6%9C%A8%E6%B0%8F%E3%80%81OPI-J.introduction.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://lpi.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.global8.or.jp/whatsopic01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.op-s.co.jp/service/businesspartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oss.ventures/portfolio-companies/oplit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evolem.com/en/entreprise/oplit-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIm0D_NKZSHYT2Z7vEC068MEv-uP0SdyLiDkSvJrvBsCA8m2TNZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bookafy.com/partner-whitelabel-reseller-software/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438345-73",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/oplit/__5ie_4ZukKQlvRdYyVFbqccdMFAhpuHVDVyYEhh8uGmk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/oplit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/oplit_industrialautonomy-aerospace-productionplanning-activity-7518959803008921600-B2ip",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/mariethiebault",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/john-williams-42a616129",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/eizen.crist.l.oplit/posts/4509889249323363/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/eizen.crist.l.oplit/posts/4509792205999734/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/eizen.crist.l.oplit/posts/4508392496139705/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Oplit 日本 導入",
+   "results": [
+    "https://www.oplit.com/",
+    "https://www.opi.jp/wordpress/wp-content/uploads/2022/03/2017.7.15.%E5%85%AB%E6%9C%A8%E6%B0%8F%E3%80%81OPI-J.introduction.pdf",
+    "https://lpi.or.jp/",
+    "https://www.global8.or.jp/whatsopic01.html",
+    "https://3dprinter.co.jp/news/1412/",
+    "https://www.igroupjapan.com/language-testing-international/actfl-oral-proficiency-interview-computer/",
+    "https://www.youtube.com/watch?v=2sJ3miZ3Dec",
+    "https://prtimes.jp/main/html/rd/p/000000003.000173980.html",
+    "https://jp.olight.com/",
+    "https://jp.linkedin.com/company/oplit"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oplit 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://dairitenboshu.com/",
+    "https://www.op-s.co.jp/service/businesspartner/",
+    "https://metoree.com/companies/2789/distributors/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://b-seeds.com/",
+    "https://www.opt.ne.jp/",
+    "https://sanai-ltd.co.jp/service/optageservice/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oplit Japan",
+   "results": [
+    "https://www.oplit.com/",
+    "https://www.oss.ventures/portfolio-companies/oplit",
+    "https://evolem.com/en/entreprise/oplit-2/",
+    "https://www.oplit.com/legal-notices",
+    "https://www.vipartners.ch/portfolio/oplit",
+    "https://www.primelite.com/establishing-primelite-japan",
+    "https://fr.linkedin.com/company/oplit",
+    "https://jp.olight.com/",
+    "https://www.hybejapan.events/illit/press_start_encore",
+    "https://en.wikipedia.org/wiki/Etiquette_in_Japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Oplit manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIm0D_NKZSHYT2Z7vEC068MEv-uP0SdyLiDkSvJrvBsCA8m2TNZ",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://tulip.co/case-studies/",
+    "https://nmis.scot/what-we-do/case-studies/",
+    "https://www.oplit.com/case-studies",
+    "https://opcfoundation.org/resources/case-studies/",
+    "https://www.oplit.com/blog/cgr-international-production-planning-case-study"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Oplit white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://bookafy.com/partner-whitelabel-reseller-software/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://getzendo.io/blog/best-white-label-software-to-resell/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Oplit founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/438345-73",
+    "https://www.oplit.com/blog/oplit-strategic-funding-round-industrial-scheduling-planning",
+    "https://tracxn.com/d/companies/oplit/__5ie_4ZukKQlvRdYyVFbqccdMFAhpuHVDVyYEhh8uGmk",
+    "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+    "https://en.wikipedia.org/wiki/OpenAI",
+    "https://www.caplight.com/company/oplit",
+    "https://www.vipartners.ch/news/oplit-welcomes-vi-partners-as-a-new-investor-to-accelerate-its-european-expansion-and-strengthen-r-d-investments",
+    "https://www.linkedin.com/company/oplit/",
+    "https://epoch.ai/data/ai-companies",
+    "https://www.gritt.io/company/oplit/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Oplit",
+   "results": [
+    "https://note.com/mir4545/n/n32470450416d?hl=en",
+    "https://note.com/mir4545/m/m958f432ca21d/hashtag/6750532",
+    "https://note.com/mir4545/m/maa9a06fed6ef/hashtag/image",
+    "https://note.com/mir4545/m/m5ff5ba2b318e/archive/2024-09",
+    "https://note.com/mir4545/n/n8871dc0eace4",
+    "https://note.com/mir4545/n/n92ffc8c252f9",
+    "https://note.com/kurando11/n/n4d712763c0e4",
+    "https://note.com/113150/n/n250cf8725529",
+    "https://note.com/flat9_yuki",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Oplit",
+   "results": [
+    "https://x.com/A3Dnazrigar/status/1853797536005521707",
+    "https://x.com/UN/reposts",
+    "https://x.com/TAGHeuer/status/2117043272975786454",
+    "https://x.com/UNICEFAPRO/status/2118282174432518503",
+    "https://x.com/UNICEF/status/2118342601719836688",
+    "https://x.com/ddtpro/status/2113979016365638128",
+    "https://x.com/LISI_Group",
+    "https://x.com/rioringo_8",
+    "https://x.com/ONUinfo/status/2118362298397946239",
+    "https://x.com/ddtpro/status/2113979016365638128?lang=ar"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Oplit",
+   "results": [
+    "https://www.linkedin.com/company/oplit/",
+    "https://www.linkedin.com/posts/oplit_industrialautonomy-aerospace-productionplanning-activity-7518959803008921600-B2ip",
+    "https://fr.linkedin.com/in/mariethiebault",
+    "https://fr.linkedin.com/in/john-williams-42a616129",
+    "https://ca.linkedin.com/jobs/view/enterprise-account-executive-at-oplit-4478931893",
+    "https://fr.linkedin.com/in/pauline-korman/en",
+    "https://fr.linkedin.com/in/soufiane-lamrissi",
+    "https://fr.linkedin.com/in/dilaraisikli",
+    "https://fr.linkedin.com/in/nicolas-bruder-44477091",
+    "https://fr.linkedin.com/posts/thibaut-wilhelm_oplit-prend-de-plus-en-plus-un-accent-suisse-activity-7311364288265224192-HCcg"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Oplit",
+   "results": [
+    "https://www.facebook.com/eizen.crist.l.oplit/posts/4509889249323363/",
+    "https://www.facebook.com/eizen.crist.l.oplit/posts/4509792205999734/",
+    "https://www.facebook.com/eizen.crist.l.oplit/posts/4508392496139705/",
+    "https://www.facebook.com/groups/343057549950000/posts/1719991128923295/",
+    "https://www.facebook.com/immortaltattoo.bali.33/photos/419796655452305/",
+    "https://www.facebook.com/groups/270271130887057/posts/1564122548168569/",
+    "https://www.facebook.com/groups/303677369063/posts/10163755929664064/",
+    "https://www.facebook.com/SeteSegundos/posts/pol%C3%ADcia-civil-por-meio-da-oplit-realizou-a-pris%C3%A3o-do-indiv%C3%ADduo/1629810672524702/",
+    "https://www.facebook.com/groups/5430849323708662/posts/28831557539877844/",
+    "https://www.facebook.com/Kerrfatou/videos/bensoudas-arrival-at-the-atlantic-hotel-hall/1821126865602266/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Oplit note 社長",
+   "results": [
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/aihbak0000001wv3.html",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Oplit X 投稿",
+   "results": [
+    "https://www.oplit.com/",
+    "https://x.com/OPI_PRODUCTS",
+    "https://opentweet.io/",
+    "https://x.com/oetl/status/1934491200318247150",
+    "https://www.youtube.com/watch?v=cKJMo2NZC68",
+    "https://www.tiktok.com/tag/opxlites",
+    "https://opctl.io/",
+    "https://www.opfolio.com/",
+    "https://www.oplitvnet.com/en",
+    "https://x.com/oplit_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

@@ -1,0 +1,448 @@
+{
+ "name": "3DBioFibR — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T19:36:17.279536+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInKevin Sullivan - Chief Executive Officer - Founder @ 3D ...Samir Abdolell - Senior Mechanical Designer at 3D BioFibR ...Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInVoxelMatters Medical AM Focus 2023 eBook | T&RBiofab - LinkedIn VoxelMatters is a leading market research and media company specializing in the additive manufacturing i",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   },
+   {
+    "quote": "Kevin Sullivan - Chief Executive Officer - Founder @ 3D ...Samir Abdolell - Senior Mechanical Designer at 3D BioFibR ...Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInVoxelMatters Medical AM Focus 2023 eBook | T&RBiofab - LinkedIn Chief Executive Officer - Founder @ 3D BioFibR Inc. | MBA Biotechnology · Over five years as CEO of 3D BioFibR Inc., driving innovation in biomaterials by sc",
+    "url": "https://ca.linkedin.com/in/kevin-sullivan-b4827427",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - Facebook3dbiofibr - FacebookVoxelMatters on Reels - Facebook3DBiofibr | Halifax NS - Facebook3DBiofibr | Halifax NS - FacebookFacebookSciencewerke - 3DBiofibr CollaFibR™ Scaffold for Cell... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Market 2023 report. 3dbiofibr - Facebook .",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prizma3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bioflin.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://t.co/ANpkgmocPf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.3dbiofibr.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/filgen.jp/photos/販売代理店契約3dbiofibr社カナダの全製品について日本国内における販売代理店契約を締結しましたhttpsshop3dbiofibrcom同社は特許取得済み/941297231090377/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/filgen.jp/posts/941297947756972/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fantist.com/articles/1092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/07636225/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternalcollegest.com/books/100yen-resin",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3dbiofibr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E6%B1%9F%E4%B8%8B%E6%99%8F%E6%A2%A8-1st%E5%86%99%E7%9C%9F%E9%9B%86-%E3%81%B2%E3%81%96%E3%81%97%E3%81%AE%E3%81%AB%E3%81%8A%E3%81%84%E3%80%82-%E6%B1%9F%E4%B8%8B-%E6%99%8F%E6%A2%A8/dp/4065464102",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01443980/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%8B%E3%83%88%E3%83%AA%E3%83%AB%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%96/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/3dbiofibr-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/3D_BioFibR",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/3d-biofibr",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/454589-74",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/kevin-sullivan-b4827427",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3DBioFibR — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://prizma3d.com/",
+    "https://www.bioflin.com/",
+    "https://t.co/ANpkgmocPf",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.3dbiofibr.com/",
+    "https://www.facebook.com/filgen.jp/photos/販売代理店契約3dbiofibr社カナダの全製品について日本国内における販売代理店契約を締結しましたhttpsshop3dbiofibrcom同社は特許取得済み/941297231090377/",
+    "https://www.voxelmatters.com/",
+    "https://www.facebook.com/filgen.jp/posts/941297947756972/",
+    "https://www.qcc.com/product/50a6886d-f576-4189-b72c-e9eb9a79170a.html",
+    "https://www.3bs.jp/",
+    "https://www.vocaloid.com/news/news_48/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://fantist.com/articles/1092",
+    "https://www.monotaro.com/g/07636225/",
+    "https://eternalcollegest.com/books/100yen-resin",
+    "https://skhonpo.com/",
+    "https://www.monotaro.com/g/00011075/",
+    "https://voxelpla.com/",
+    "https://3dfilamentprofiles.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.3dbiofibr.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.facebook.com/filgen.jp/posts/販売代理店契約3dbiofibr社カナダの全製品について日本国内における販売代理店契約を締結しましたhttpsshop3dbiofibrcom同社は特許取得済み/941297947756972/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://japanesedistributors.com/",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.mattek.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp 3DBioFibR — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/江下晏梨-1st写真集-ひざしのにおい。-江下-晏梨/dp/4065464102",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://pay.amazon.co.jp/signin",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【電子版だけの特典カット付き】大島璃乃１ｓｔ写真集-ＲｉＮｏ-西條彰仁-ebook/dp/B0HPF6WBM6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com 3DBioFibR — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/g/01443980/",
+    "https://www.monotaro.com/k/store/ニトリルグローブ/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/08050382/",
+    "https://www.monotaro.com/g/00017212/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://prospeo.io/c/3dbiofibr-revenue",
+    "https://growjo.com/company/3D_BioFibR",
+    "https://compworth.com/company/3d-biofibr",
+    "https://pitchbook.com/profiles/company/454589-74",
+    "https://www.cbinsights.com/company/3d-biofibr",
+    "https://www.linkedin.com/company/3dbiofibr/",
+    "https://www.zoominfo.com/c/3d-biofibr-inc/511420911"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 3DBioFibR — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/harunatravel/n/n6a94aa3c3817"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 3DBioFibR — VoxelMatters",
+   "results": [
+    "https://x.com:2096/3dbiofibr",
+    "https://x.com/voxelmatters",
+    "https://x.com/richtosho/status/2117484572887695600",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/PopBase/status/2116494180054909027",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 3DBioFibR — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/3dbiofibr/",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://ca.linkedin.com/in/kevin-sullivan-b4827427",
+    "https://ca.linkedin.com/in/samir-abdolell-2b235121b",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/tnrbiofab_voxelmatters-medical-vm-focus-2023-ebook-activity-7041620301398364160-zn6n"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 3DBioFibR — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/3dbiofibr-104366028479570/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/3dbiofibr-111306581370332/",
+    "https://www.facebook.com/3DBiofibr-100075816295121/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/Sciencewerke/posts/903071191828532/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "3DBioFibR — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索15回）"
+ }
+}

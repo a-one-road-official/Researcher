@@ -1,0 +1,467 @@
+{
+ "name": "ForgeJobShop",
+ "aliases": [],
+ "context": "旧営業リスト｜Manufacturing Network / Procurement｜AI送信済み",
+ "researched_at": "2026-11-09T19:20:07.102721+00:00",
+ "official_url": "https://forgeautomation.ca/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Configure your part's material, tolerances, and threads",
+    "url": "https://www.forgejobshop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure your part's material, tolerances, and threads",
+    "url": "https://www.forgejobshop.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by engineers building",
+    "url": "https://www.forgejobshop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineers building",
+    "url": "https://www.forgejobshop.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Expect your parts to arrive in",
+    "url": "https://www.forgejobshop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expect your parts to arrive in",
+    "url": "https://www.forgejobshop.com/about",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enter your email and we will forward you a link to try the site out on the computer!",
+    "url": "https://www.forgejobshop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't see what you need? Email us and we can try to source it for you!",
+    "url": "https://www.forgejobshop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your email and we will forward you a link to try the site out on the computer!",
+    "url": "https://www.forgejobshop.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Don't see what you need? Email us and we can try to source it for you!",
+    "url": "https://www.forgejobshop.com/about",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Forge Automation — Forge Automation Forge Automation https://www.forgejobshop.com",
+    "url": "https://www.forgejobshop.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.forgejobshop.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.forgejobshop.com/about",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.forgejobshop.com/docs-assets/logos/header-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.forgejobshop.com/docs-assets/logos/footer-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.forgejobshop.com/docs-assets/logos/footer-email.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/business/use/lowrisk/beginnerok",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz.ne.jp/list/corporate-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forgejobshop.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/en/hrportal/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodsjapan.com/?srsltid=AYCX9vKI3lgnPgkAxzrADe-xGyqUfsfxe1qOVC5GopkX8coZC8BRQbuV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forgegroupllc.isolvedhire.com/jobs/1445033.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLhAHhbnrM_uzIDH93GLMG4BZkaW_e1DGXozZzXaRaBPFVS76An",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journeybee.io/resources/top-100-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/forge-automation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/forgeautomation.ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/593463-97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/forge-global",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ForgeJobShop 日本 導入",
+   "results": [
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://www.instagram.com/reel/DfWuwNhiN3z/",
+    "https://www.autocar.jp/post/1292024",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://x.com/car_repo_jp/status/2118844561376379257",
+    "https://www.forgejobshop.com/signup",
+    "https://www.forgejobshop.com/submit"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ForgeJobShop 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/",
+    "https://b-seeds.com/business/use/lowrisk/beginnerok",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://www.bgent.net/",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://fc-kamei.net/ID17",
+    "https://ecnomikata.com/blog/51120/",
+    "https://bizresearch.net/",
+    "https://www.fc-mado.com/business_category/1",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ForgeJobShop Japan",
+   "results": [
+    "https://www.forgejobshop.com/",
+    "https://www.jetro.go.jp/en/hrportal/company/",
+    "https://www.goodsjapan.com/?srsltid=AYCX9vKI3lgnPgkAxzrADe-xGyqUfsfxe1qOVC5GopkX8coZC8BRQbuV",
+    "https://forgegroupllc.isolvedhire.com/jobs/1445033.html",
+    "https://www.reddit.com/r/JapanJobs/",
+    "https://gaijinpot.com/",
+    "https://www.daijob.com/en/",
+    "https://www.workjapan.jp/jobs/?industry=Boutique",
+    "https://jobs.guidable.co/en",
+    "https://forgegroupllc.isolvedhire.com/jobs/1336553.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ForgeJobShop manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLhAHhbnrM_uzIDH93GLMG4BZkaW_e1DGXozZzXaRaBPFVS76An",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://global.fujitsu/en-global/customer-stories/cs-industrial-automation-manufacturer-20250123",
+    "https://www.shopfloorautomations.com/about-us/case-studies/",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://process.honeywell.com/content/dam/forge/en/documents/distribution-centers-documents/Automation_That_Delivers_CaseStudy.pdf",
+    "https://www.makeitfuture.com/case-studies",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ForgeJobShop white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.mycompanyworks.com/reseller",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.forgejobshop.com/",
+    "https://www.easypost.com/products/forge/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://startinfinity.com/blog/white-label-reseller-programs",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ForgeJobShop founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/forge-automation",
+    "https://getlatka.com/companies/forgeautomation.ca",
+    "https://pitchbook.com/profiles/company/593463-97",
+    "https://multiples.vc/private-comps/forge-global",
+    "https://growjo.com/company/Forge_Industrial_Staffing",
+    "https://www.ycombinator.com/companies/forge-automation",
+    "https://rocketreach.co/forge-profile_b5f0f0f3f749f724",
+    "https://tracxn.com/d/companies/forge-global/__Kcx30_hnMDG60hIJBihtwPYhRDkA_gM9A0oumQVlU3s",
+    "https://www.forgejobshop.com/",
+    "https://fundediq.co/forge-automation-forgejobshop-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ForgeJobShop",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/s_forge/n/n1a70be3d9e6e?hl=en",
+    "https://note.com/s_forge/n/n4e5f2648f14b?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/unagihaoisiiyo/n/n5307fdafb14a?hl=en",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ForgeJobShop",
+   "results": [
+    "https://x.com/ForgeDevTeam",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/Jobshop_ERP",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/Discuss2471",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Avssenseiter/status/2118269805728002518"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ForgeJobShop",
+   "results": [
+    "https://ca.linkedin.com/in/timmy-seto",
+    "https://ca.linkedin.com/company/forge-automation",
+    "https://ca.linkedin.com/in/walterraftus",
+    "https://ca.linkedin.com/in/joeychik",
+    "https://ca.linkedin.com/in/aarif-karoliwala-932654128",
+    "https://ca.linkedin.com/in/marcella-fioroni-47592630b",
+    "https://ca.linkedin.com/in/briannguy",
+    "https://www.linkedin.com/in/hamza-n-arshad",
+    "https://www.linkedin.com/in/evandros",
+    "https://www.linkedin.com/in/sakethsom"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ForgeJobShop",
+   "results": [
+    "https://www.facebook.com/people/Forge-Shop/61551004047719/",
+    "https://www.facebook.com/p/Forge-Shop-61551004047719/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/groups/857160765885240/",
+    "https://www.facebook.com/ForgeIndustrialStaffing/",
+    "https://www.facebook.com/groups/849277912600549/",
+    "https://www.facebook.com/thejobshopinc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ForgeJobShop note 社長",
+   "results": [
+    "https://note.com/wazawazapan/n/nd438d0a5bc37",
+    "https://note.com/standage/n/n1ec9248b11b2",
+    "https://wp.standage.co.jp/us/hr_news/%E3%80%90note%E6%9B%B4%E6%96%B0%E3%80%91%E7%A4%BE%E9%95%B7note%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81/",
+    "https://note.com/sanoh_ao8341",
+    "https://www.wantedly.com/companies/company_842736/post_articles/1058732",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/jtechjapan/n/na01857a4c505",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://en-gage.net/life_works/desc_26039/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ForgeJobShop X 投稿",
+   "results": [
+    "https://www.forgejobshop.com/",
+    "https://x.com/Forge_Global",
+    "https://gritxforge.com/",
+    "https://forgejo.org/releases/17.x/",
+    "https://www.youtube.com/watch?v=14kbJW_AcP8",
+    "https://x.com/ForgeDevTeam",
+    "https://www.forge-x.io/",
+    "https://www.facebook.com/makeeverythingshop/videos/this-is-best-diy-forge-in-the-market-diy-forge-forging-metalshop/1452075347025443/",
+    "https://www.youtube.com/watch?v=O_kpayAlRZA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像3件／外部24頁・検索12回）"
+ }
+}

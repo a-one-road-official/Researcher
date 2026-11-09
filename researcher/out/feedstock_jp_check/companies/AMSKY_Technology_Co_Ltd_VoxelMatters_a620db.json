@@ -1,0 +1,512 @@
+{
+ "name": "AMSKY Technology Co., Ltd. — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:23:19.593455+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedIn符宏堂 - Guangzhou Amsky Technology co.,Ltd. Overseas service ...Francesco Pulimeni - Co-founder and CRO at VoxelMatters ...Wim Plaggenburg - Business Development at Amsky Technology ...Federico Sher - Co-founder of VoxelMatters | LinkedIn Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · ",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   },
+   {
+    "quote": "符宏堂 - Guangzhou Amsky Technology co.,Ltd. Overseas service ...Francesco Pulimeni - Co-founder and CRO at VoxelMatters ...Wim Plaggenburg - Business Development at Amsky Technology ...Federico Sher - Co-founder of VoxelMatters | LinkedIn Guangzhou Amsky Technology co.,Ltd. Overseas service Engineer · 工作经历: Guangzhou Amsky Technology co.,Ltd. · 教育经历: 西南林业大学 · 地点: 杭州 · 34 位领英好友。在领英 (一个拥有 10 亿会员的职业社区)",
+    "url": "https://cn.linkedin.com/in/宏堂-符-531a2596",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/3d-printing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/map-of-additive-manufacturing-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=aXbqiYF3LyY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://intamsys.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/blog/development/article_9277/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/unique-3d-printed-furniture-made-possible-with-pellet-extrusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upnano.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f0e44b44-08ea-40f8-9b8a-2d3b0c08be88/the-voxelmatters-podcast-discover-valcun's-molten-metal-deposition-mmd-technology",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/AMSKY/page/E1B0A3F1-AE05-4414-8EDC-1FB9DBA7E7EB",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%AF%E3%83%B3%E3%83%87%E3%83%BC-%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%93%E3%83%A5%E3%83%BC-%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%B9-%E3%80%90BC%E3%80%919-0%E3%80%90PWR%E3%80%91-1-50-90%E6%9E%9A%E5%85%A5/dp/B01I15BQ44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0248/2085/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00011105/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/宏堂-符-531a2596",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "AMSKY Technology — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "https://www.voxelmatters.com/category/3d-printing-services/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/map-of-additive-manufacturing-technologies/",
+    "https://www.voxelmatters.directory/",
+    "https://i-am-marketplace.com/about-us/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5725",
+    "https://fusiontechnology.co.jp/access/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://www.instagram.com/antenna_ts/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.mateksys.com/?page_id=1212"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.youtube.com/watch?v=aXbqiYF3LyY",
+    "https://intamsys.jp/",
+    "https://www.nttdata-xam.com/blog/development/article_9277/",
+    "https://15th-rock.com/%E7%94%A3%E6%A5%AD%E7%94%A83d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E3%80%8C%E8%87%AA%E5%8B%95%E4%BB%95%E4%B8%8A%E3%81%92%E6%A9%9F%E5%99%A8%E3%80%8D%E3%82%92%E8%A3%BD%E9%80%A0%E3%83%BB/",
+    "https://eleshop.jp/shop/c/c663201/?srsltid=AYCX9vK-5IcrbCvdd0YUUnkysZBvtApX0WjZt9_y3W_2u0IbEpX3ICu8",
+    "https://3dprinter.co.jp/product/uam3d/",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://amsky.com/en/products_js.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://ja.3dsystems.com/unique-3d-printed-furniture-made-possible-with-pellet-extrusion",
+    "https://www.poly-maker.jp/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vLP2uv7ugn3_WqRHY3O1mJlKk5lMZHW3suu4OwFke_-NXPhAH48",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://shop.exmatelab.com/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "https://www.upnano.com/distributors/",
+    "https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://amsky.com/en/products_js.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.amsky.com/en/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp AMSKY Technology — VoxelMatters",
+   "results": [
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/f0e44b44-08ea-40f8-9b8a-2d3b0c08be88/the-voxelmatters-podcast-discover-valcun's-molten-metal-deposition-mmd-technology",
+    "https://www.amazon.co.jp/stores/AMSKY/page/E1B0A3F1-AE05-4414-8EDC-1FB9DBA7E7EB",
+    "https://www.amazon.co.jp/ワンデー-アキュビュー-オアシス-【BC】9-0【PWR】-1-50-90枚入/dp/B01I15BQ44",
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://www.amazon.co.jp/桐原美月-ｓｗｅｅｔ-ｇｉｒｌ-ＦＲＩＤＡＹデジタル写真集-Ｔａｋｅｏ-Ｄｅｃ．-ebook/dp/B0HLDS675M",
+    "https://www.amazon.co.jp/［香るサラツヤ美髪］オルナ-ヘアケアギフトセット-コンディショナー-アミノ酸シャンプー-無添加シャンプー/dp/B0BBZFWG76",
+    "https://www.amazon.co.jp/出口夏希2nd写真集『タイトル未定』-出口-夏希/dp/4344046854"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com AMSKY Technology — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/p/0248/2085/",
+    "https://www.monotaro.com/g/00011105/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/00345856/",
+    "https://www.monotaro.com/p/0821/1271/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "https://www.voxelmatters.report/database/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.youtube.com/watch?v=K-reePpsN6w",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.inven.ai/company-lists/top-23-3d-printing-companies",
+    "https://www.owler.com/company/autonomousmanufacturingltd",
+    "https://financialfilings.com/companies/amsky-technology-coltd/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com AMSKY Technology — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/ogikubo/n/nf616c0b6685a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com AMSKY Technology — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/VoxelMatters/status/1942552660735058382",
+    "https://x.com/aamdimasky",
+    "https://x.com/VoxelMatters/status/1953780415686193252",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/PopBase/status/2116494180054909027"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com AMSKY Technology — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/amcor_amcorresponsiblepackaging-sustainablepackaging-activity-7495389180676571137-0NlU",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://cn.linkedin.com/in/宏堂-符-531a2596",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://nl.linkedin.com/in/wim-plaggenburg-49548975",
+    "https://uk.linkedin.com/in/federico-sher"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com AMSKY Technology — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/amskytech/",
+    "https://www.facebook.com/amskybd/",
+    "https://www.facebook.com/profile.php/?id=100092539694908",
+    "https://www.facebook.com/amsky.everon/",
+    "https://www.facebook.com/VoxelMatters/posts/-imagine-a-world-where-technology-can-sense-touch-and-feel-just-like-human-skins/878785717585811/",
+    "https://www.facebook.com/VoxelMatters/videos/mesmerizing-matsuura-am-technology/843467729158687/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.directory/company/amsky-technology-co-ltd/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.linkedin.com/in/josephcrabtree",
+    "https://www.additivemanufacturing.media/why-additive-manufacturing-needs-the-executive-perspective/",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://additive-manufacturing-report.com/team/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "AMSKY Technology — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=J7uYjohWi0Q",
+    "https://www.youtube.com/watch?v=y6_LLrhbOac",
+    "https://www.voxelmatters.com/events/ams-x/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

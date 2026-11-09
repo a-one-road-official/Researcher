@@ -1,0 +1,423 @@
+{
+ "name": "Axolotl Biosciences — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T19:24:10.823277+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Axolotl Biosciences was founded in Victoria, BC in 2020 by Dr. Stephanie Willerth, Dr. Laura De la Vega, and Laila Abelseth. A spin-off of the internationally recognized bio-printing focused research group lead by Dr. Willerth at the University of Victoria, Axolotl was born from the demand for innovative bioinks by academic researchers and biotechnology companies alike.",
+    "url": "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Axolotl Biosciences — VoxelMatters - The largest database of ... — Axolotl Biosciences was founded in Victoria, BC in 2020 by Dr. Stephanie Willerth, Dr. Laura De la Vega, and Laila Abelseth. A spin-off of the internationally recognized bio-printing focused research group lead by Dr. Willerth at the University of Victoria, Axolotl was born from the demand for innovative bioinks by academic researc",
+    "url": "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "pass": 3
+   },
+   {
+    "quote": "Axolotl Biosciences — VoxelMatters - The largest database of ... — A spin-off of the internationally recognized bio-printing focused research group lead by Dr. Willerth at the University of Victoria, Axolotl was born from the demand for innovative bioinks by academic researchers and biotechnology companies alike.",
+    "url": "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookAdditive manufacturing is creating new solutions for hard-to ...Vancouver Guardian - FacebookCongratulations to Axolotl... - StarFish Medical Inc. | FacebookGenomeBC | Vancouver BC - FacebookThe Concetta Stefanelli Foundation for Young Women in ScienceRobin Ann Avidor - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has ki",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/stephanie-willerth-2473587b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.axolotlbiosciences.com/shop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bioxcell.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axolotlbiosciences.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axolotlbiosciences.com/shop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%83%AC%E3%82%B8%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitetsu.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7%E6%A8%B9%E8%84%82-2%E6%B6%B2%E6%80%A7%E3%83%AC%E3%82%B8%E3%83%B3%E6%B6%B2-%E5%A4%A7%E5%AE%B9%E9%87%8F4kg-%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7%E3%83%AC%E3%82%B8%E3%83%B3-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0/dp/B0FR9JYMVZ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.axolotlbiosciences.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axolotlbiosciences.com/shop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vectorlabs.com/international-distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/check-manufacture-year.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Voxel-Verse-Adventures-Easy-Color/dp/B0GWHFL22X",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E7%B7%8A%E6%80%A5%E7%94%A8%E6%B2%B9%E6%B6%B2%E5%87%A6%E7%90%86%E3%82%AD%E3%83%83%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0146/1066/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04188176/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Axolotl Biosciences — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "https://ca.linkedin.com/in/stephanie-willerth-2473587b",
+    "https://www.axolotlbiosciences.com/shop",
+    "https://bioxcell.com/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.instagram.com/reel/DdikDTXy_7S/",
+    "https://axolbio.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.axolotlbiosciences.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.axolotlbiosciences.com/shop",
+    "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "https://www.axolotlbio.com/",
+    "https://axel.as-1.co.jp/contents/rbg/reagent_search",
+    "http://www.sendaiwako.com/sub_con/kaigai.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://www.kitetsu.biz/",
+    "https://www.amazon.co.jp/エポキシ樹脂-2液性レジン液-大容量4kg-エポキシレジン-セルフレベリング/dp/B0FR9JYMVZ",
+    "https://voxelpla.com/",
+    "https://axolbio.com/",
+    "https://prizma3d.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.axolotlbiosciences.com/",
+    "https://www.voxelmatters.com/",
+    "https://japanesedistributors.com/",
+    "https://www.axolotlbiosciences.com/shop",
+    "https://www.axolotlbio.com/",
+    "https://www.asahi-ls.co.jp/en/",
+    "https://www.voxelmatters.directory/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://vectorlabs.com/international-distributors/",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.facebook.com/eva.c.chabi/videos/how-i-get-japanese-friend-languagepartner-internationalfriends-hellotalkfriend-e/1064512069946702/",
+    "https://www.chosun.com/english/kpop-culture-en/2026/05/12/NHB453KCCZHA3DMGYWLJ53MKRM/",
+    "https://axolbio.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp Axolotl Biosciences — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/Voxel-Verse-Adventures-Easy-Color/dp/B0GWHFL22X",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://music.amazon.co.jp/podcasts/24367d2b-f7ed-4726-8868-9e1c7d29f81b/episodes/1930e7be-7ce6-4ffe-83a2-bf979ea77686/the-lattice-official-3dheals-podcast-interview-with-stephanie-willerth-bioprinting-brain-and-axolotl-biosciences",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ",
+    "https://music.amazon.co.jp/podcasts/1ac4dbec-df46-4d1f-b0a1-742e9656ef44/episodes/bd0349dc-8de6-4931-84b7-5efef542720c/in-vivo-ep-11-in-vivo-with-dr-stephanie-willerth-on-stem-cells-and-3d-bioprinting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Axolotl Biosciences — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/緊急用油液処理キット/",
+    "https://www.monotaro.com/p/0146/1066/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/g/04188176/",
+    "https://www.monotaro.com/k/store/電線管用異径アダプタ/",
+    "https://www.monotaro.com/s/c-124371/",
+    "https://www.monotaro.com/p/0872/9271/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters employees revenue parent company",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Axolotl Biosciences — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/秋冬ファッション",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Axolotl Biosciences — VoxelMatters",
+   "results": [
+    "https://x.com/Axolotl_Biosci",
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/axolotlbio?f=user",
+    "https://x.com/Axolotl_Biosci/status/1416156386946392064",
+    "https://x.com/Axolotl_Biosci/status/1268618814620647424",
+    "https://x.com/FourOhFourEnt",
+    "https://help.x.com/zh-tw/using-x"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Axolotl Biosciences — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Axolotl Biosciences — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/vancouverguard/",
+    "https://www.facebook.com/StarFishMedical/posts/congratulations-to-axolotl-biosciences-and-stephanie-willerth-on-their-ngen-cana/456596073137390/",
+    "https://www.facebook.com/Genomebc/",
+    "https://www.facebook.com/ravidor/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/",
+    "https://www.facebook.com/stefanellifoundation/",
+    "https://www.facebook.com/p/Axolotl-Biosciences-100066604151245/",
+    "https://www.facebook.com/axolotl.biosciences.9/",
+    "https://www.facebook.com/StarFishMedical/posts/axolotl-biosciences-has-created-the-brainprint-microsphere-generator-that-can-pr/625274482936214/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Axolotl Biosciences — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/Axolotl_Biosci",
+    "https://x.com/voxelmatters",
+    "https://www.axolotlbiosciences.com/",
+    "https://www.voxelmatters.directory/company/axolotl-biosciences/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.axolotlbiosciences.com/resources",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）"
+ }
+}

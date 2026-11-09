@@ -132,3 +132,119 @@
 
 ## Cambrian Robotics（https://www.cambrianrobotics.ai/）
 - 「Tokyo, Japan」（https://getlatka.com/companies/cambrian-robotics）
+
+## Apera AI（https://apera.ai/）
+- 「Apera AI社が産業用ロボット向けAIビジョンシステム「Apera Vue 9.52」をリリース | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2026/d20260204_02.html）
+- 「Osaka, Japan」（https://pitchbook.com/profiles/company/232232-23）
+
+## Operations1（https://operations1.com）
+- 「Quandoo is one of Europe’s largest platforms for online reservations at restaurants. In March 2015, Quandoo was acquired by Japan’s Recruit Holding.」（https://www.cherry.vc/founder-companies/operations1）
+
+## RobCo（https://www.rob.co/）
+- 「―日本企業とのパートナーシップについてどうお考えですか」（https://techblitz.com/startup-interview/robco/）
+- 「現在は主にヨーロッパ市場に注力しており、日本市場はまだ初期段階ですが、日本向けのソリューションを提供する準備を進めています」（https://techblitz.com/startup-interview/robco/）
+- 「まずは間接的なチャネルを活用し、将来的には直接、日本市場に進出することも視野に入れています」（https://techblitz.com/startup-interview/robco/）
+- 「is a globally leading provider of connectivity solutions in high-frequency, fibre-optic, and high-voltage technology. With around 15,500 employees in countries worldwide, the company relies on innovative automation solutions to enhance production efficiency.」（https://www.rob.co/solutions/applications/finishing）
+
+## Sereact（https://sereact.ai/）
+- 「この記事では、Sereact の技術的な仕組み、ビジネスモデル、BMW・PepsiCo等の欧州大手への導入実績、そして日本の倉庫自動化市場との関連性を詳しく解説する」（https://note.com/yushi88/n/ndf962dbafe25）
+- 「日本はロボット大国なのに、なぜ倉庫は人手不足なのか」（https://note.com/yushi88/n/ndf962dbafe25）
+- 「国際ロボット連盟（IFR）の統計によれば、日本は世界の産業用ロボット出荷台数のおよそ45%を製造・輸出している」（https://note.com/yushi88/n/ndf962dbafe25）
+- 「海外法人は日本子会社設立または国内パートナー（AIST、大学、ロボット OEM、SI ベンダー）との共同申請が条件」（https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry）
+
+## 36ZERO Vision（https://36zerovision.com/）
+- 「ICEYEはフィンランド、ポーランド、スペイン、英国、オーストラリア、日本、UAE、ギリシャ、米国に拠点を置き、900名以上の従業員が、地球観測における世界的な真実の源となることで地球上の生活を改善するという共通のビジョンに向けて働いています」（https://note.com/masaki_arimoto/n/n0673d61a3063）
+
+## Sourcify（https://www.sourcify.co/）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/sourcify?locale=ja）
+
+## ACCURE Battery Intelligence（https://www.accure.net/）
+- 「eMotion Fleet and ACCURE Battery Intelligence Partner to Bring Predictive Battery Analytics to Electric Vehicle Fleets and Energy Storage Systems in Japan」（https://www.accure.net/company/news）
+
+## Doublerobotics（https://www.doublerobotics.com）
+- 「日本一詳しいSwitchBotハブ2の解説動画」（https://www.youtube.com/watch?v=0F_WKOkDm1I）
+
+## 3Yourmind（https://www.3yourmind.com）
+- 「日本の東京に本社を置くKKIrisuは、幅広い産業分野に従来型およびデジタル製造ソリューションを提供する大手メーカーである」（https://news.sharelab.jp/3dp-news/others/3yourmind-210728/）
+
+## Azumuta（https://azumuta.com）
+- 「Honestly, we don't fully agree on it ourselves. One camp says it comes from the Japanese」（https://www.azumuta.com/company/）
+- 「In our view, the origin of the word “Azumuta” has a double meaning. On the one hand, it comes from the Japanese word (始 め た) for “I have begun” and leads to various explanations such as an action, a new beginning, personal commitment, responsibility, self-assurance, and hope. On the other hand, it a」（https://www.azumuta.com/docs/introduction-to-azumuta/）
+- 「And the name? It comes from the Japanese “始めた”, which translates to “I have started”, though locals in Ghent will tell you it also sounds a lot like “*ah zo moet da*”, dialect for “that’s how it’s done”.」（https://www.azumuta.com/blog/azumuta-raises-8m-series-a/）
+- 「Navtech Radar builds high-resolution 360° radar systems used for detection, surveillance, and collision avoidance — in autonomous vehicles, critical national infrastructure, and high-risk environments where other sensors fail. They're part of the Halma safety technology group, and they live by a sin」（https://www.azumuta.com/case-studies/navtech-radar/）
+
+## Lucidbots（https://www.lucidbots.com）
+- 「さらに、近年は日本に限らず世界中で「人手不足」が深刻な問題となっています」（https://note.com/2wd/n/nc750426d608d）
+- 「2,000万ドル（日本円で約20億円以上、為替レートにより変動）」（https://note.com/2wd/n/nc750426d608d）
+- 「日本でも、彼らのドローンが活躍する日が来るかもしれませんね」（https://note.com/2wd/n/nc750426d608d）
+
+## Mbodi AI（https://mbodi.ai/）
+- 「## Japanese Translation:」（https://socker-news.uzaya.net/news/2026-06-07/article-20）
+- 「NLPは、人間が日常的に使う言葉（日本語や英語など）をコンピューターが理解し、分析し、時には生成するための技術です」（https://note.com/2wd/n/nfe96f7ac4ac8?hl=en）
+- 「NLPは、人間が日常的に使う言葉（日本語や英語など）をコンピューターが理解し、分析し、時には生成するための技術です」（https://note.com/2wd/n/nfe96f7ac4ac8）
+
+## MorphoAI（https://www.morpho.ai）
+- 「Tokyo, Japan – July 10th, 2024 – Morpho AI Solutions, Inc. (hereinafter “Morpho AIS”), which is responsible for the commercialization of AI within the Morpho Group, has been supplying an AI-OCR output service since 2023 for use in generating training data for Japanese LLMs.」（https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr）
+- 「It is proud to report that it has recently been contracted by the Research Organization of Information and Systems and the National Institute of Informatics to develop AI-OCR for Japanese academic papers. Through this project, Morpho AIS will contribute to the development of a domestic LLM with powe」（https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr）
+- 「Morpho AIS was contracted by the LLM R&D center to develop AI-OCR functions for identifying the layouts unique to Japanese academic papers and to extract the text from their main bodies. This will contribute to the generation of a large amount of high quality Japanese-language text data, which is es」（https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr）
+
+## Zyler（https://zyler.com）
+- 「日本語表示が自然で、抵抗なく使えました」（https://my-best.ai/ai-tools/zyler-ai/）
+- 「AIツールの情報を、日本のユーザーに向けて紹介しませんか」（https://my-best.ai/ai-tools/zyler-ai/）
+- 「Companies using Zyler ERP range from small businesses with 0-100 employees - 50%, to mid-sized firms with 101-1,000 employees - 50%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.」（https://www.appsruntheworld.com/customers-database/products/view/zyler-erp）
+
+## Zincwork（https://zinc.work）
+- 「Japan Criminal Record Check」（https://help.zincwork.com/hc/hm54ky7yrc/article/b5777c5c-japan-criminal-record-check）
+- 「## Who is the source of the criminal check data in Japan?」（https://help.zincwork.com/hc/hm54ky7yrc/article/b5777c5c-japan-criminal-record-check）
+- 「## What is the process in Japan?」（https://help.zincwork.com/hc/hm54ky7yrc/article/b5777c5c-japan-criminal-record-check）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/zinc-work）
+
+## Yoshimobility（https://www.yoshimobility.com）
+- 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/71241）
+- 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/71241）
+
+## Xpanner（https://xpanner.com）
+- 「建設現場をスマートにハックするXpannerの躍進は、現在の日本の建設・不動産市場が抱える最大の弱点を突く、強力な解決策になります」（https://note.com/fudousan_biz/n/n3c0f343eba87）
+- 「日本の建設業界は今、職人さんの高齢化と若者不足、さらに労働時間の上限規制（いわゆる2024年問題）によって、「現場が回らない」「工期が伸びて建設コストが高騰する」という大ピンチに直面しています」（https://note.com/fudousan_biz/n/n3c0f343eba87）
+- 「自動化ロボットの導入は急務ですが、日本の多くの地方の中小建設会社にとって、数千万円〜数億円もする最新のスマート重機を買い揃えるのは財政的に不可能です」（https://note.com/fudousan_biz/n/n3c0f343eba87）
+
+## Writer（https://writer.com）
+- 「Ghost Writer (Japanese TV series) — Grokipedia」（https://grokipedia.com/page/ghost_writer_japanese_tv_series）
+- 「) is a Japanese television drama series that aired on Fuji Television from January 13 to March 17, 2015, consisting of 10 episodes broadcast weekly on Tuesdays from 9:00 to 9:54 p.m. JST.」（https://grokipedia.com/page/ghost_writer_japanese_tv_series）
+- 「The Japanese television series」（https://grokipedia.com/page/ghost_writer_japanese_tv_series）
+
+## Wonderment（https://wonderment.com）
+- 「Japanese Culture and Etiquette Guide」（https://tabelog.com/en/osaka/A2701/A270106/27104551/）
+- 「Yodoyabashi Sta.×Izakaya (Japanese style tavern)」（https://tabelog.com/en/osaka/A2701/A270106/27104551/）
+- 「Osaka×Izakaya (Japanese style tavern)」（https://tabelog.com/en/osaka/A2701/A270106/27104551/）
+
+## Womenwhocode（https://www.womenwhocode.com/）
+- 「* EdTechWomen TokyoはETWの初の海外チャプターの支部として米国発祥のETWコミュニティを東京で始めるべく、2016年8月に有志の日本人女性メンバーによって導入、発足しました」（https://note.com/codechrysalis/n/naf4dd83dc45b）
+- 「Geek Girl Carrots Japan」（https://note.com/codechrysalis/n/naf4dd83dc45b）
+- 「* 2015年4月に設立したGeek Girls Carrots JapanのFacebookグループです」（https://note.com/codechrysalis/n/naf4dd83dc45b）
+
+## Warmly（https://www.warmly.ai）
+- 「WARM | translate English to Japanese - Cambridge Dictionary」（https://dictionary.cambridge.org/dictionary/english-japanese/warm）
+- 「– English–Japanese dictionary」（https://dictionary.cambridge.org/dictionary/english-japanese/warm）
+- 「Cambridge English–Japanese Dictionary」（https://dictionary.cambridge.org/dictionary/english-japanese/warm）
+- 「50-2,000 employees wanting ABM without enterprise complexity」（https://www.warmly.ai/p/solutions/use-cases/account-based-marketing）
+
+## Wareiq（https://www.wareiq.com/）
+- 「新興市場から日本向けにケータリングされたスタートアップの最新ニュース」（https://www.invc.news/ja/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%ADwareiq%E3%81%8Camazon%E3%83%A9%E3%82%A4%E3%82%AF%E3%81%AA%E9%85%8D%E9%80%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/）
+- 「日本とインドを拠点に 日本では1件のファンドレイズを成功に導いた」（https://www.invc.news/ja/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%ADwareiq%E3%81%8Camazon%E3%83%A9%E3%82%A4%E3%82%AF%E3%81%AA%E9%85%8D%E9%80%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/）
+- 「は、アジア・アフリカのスタートアップと日本をつなぐベンチャーキャピタルディールディスカバリープラットフォームです」（https://www.invc.news/ja/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%ADwareiq%E3%81%8Camazon%E3%83%A9%E3%82%A4%E3%82%AF%E3%81%AA%E9%85%8D%E9%80%81%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/）
+
+## Vidmob（https://www.vidmob.com）
+- 「日本語クリエイティブの分析対応は公開情報から判断できないため事前確認が必要」（https://free-ai-tools.jp/business/service/vidmob）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/vidmob/case-studies）
+
+## Videowise（https://www.videowise.com）
+- 「Q7. 日本語のUGC動画にも対応していますか?」（https://aiseo-llmo.com/articles/videowise-youtube-geo-ai-visibility-japanese-guide）
+- 「日本語での専用解説記事は本稿執筆時点で確認できておらず、一次情報（Videowiseの製品ページ、BusinessWire・MarTechSeriesのプレスリリース）に基づいて執筆している」（https://aiseo-llmo.com/articles/videowise-youtube-geo-ai-visibility-japanese-guide）
+- 「導入を検討する場合は、自社の商品カテゴリ・動画の言語（日本語動画の対応精度など）でのパイロット運用によって実際の精度を確認する必要があるだろう」（https://aiseo-llmo.com/articles/videowise-youtube-geo-ai-visibility-japanese-guide）
+
+## Verdigris（https://www.verdigris.co/）
+- 「Verdigris Technologiesは日本企業とのコラボレーションにも積極的だ」（https://techblitz.com/startup-interview/verdigristechnologies/）
+- 「「日本企業とコラボレーションできることを楽しみにしています」（https://techblitz.com/startup-interview/verdigristechnologies/）
+- 「特に製造業は先進的なテクノロジーを持った日本企業が多いですからね」（https://techblitz.com/startup-interview/verdigristechnologies/）
+- 「Jabil, a 50-year-old global manufacturing services company with over 175,000 employees and 90 facilities around the world, used Verdigris to identify over 50% energy savings in their facilities.」（https://www.verdigris.co/resources/case-studies/jabil-video-case-study）

@@ -1,0 +1,517 @@
+{
+ "name": "Syensqo — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T19:13:34.938040+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Syensqo | Brussels - FacebookVoxelMatters - FacebookSyensqo - Syensqo’s Q1 2026 #FinancialResults are out. We ...Syensqo - Syensqo added a new photo. - FacebookVoxelMatters on Reels - FacebookSyensqo - Syensqo's Laboratory of the Future is turning ...Syensqo - Our 2025 full-year results and 2026 ... - Facebook Aug 11, 2026 · Syensqo, Brussels. 1,421 followers · 5 talking about this · 10 were here.",
+    "url": "https://www.facebook.com/Syensqo/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - FacebookSyensqo - Syensqo’s Q1 2026 #FinancialResults are out. We ...Syensqo - Syensqo added a new photo. - FacebookVoxelMatters on Reels - FacebookSyensqo - Syensqo's Laboratory of the Future is turning ...Syensqo - Our 2025 full-year results and 2026 ... - Facebook VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter May 15, 2026 · ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/en/chemical-categories/specialty-polymers/additive-manufacturing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aerospacemanufacturinganddesign.com/news/syensqo-completes-spinoff-from-solvay-focuses-us-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Syensqo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/zh/china",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wikiwand.com/en/Syensqo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/ja/japan/automotive",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/838989?srsltid=AYCX9vIDoqnWYUn_sfm-V6jNq94IZ7lz-l7M_3H9H0fMzwqNaQvl3lcH",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1020133",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.robotshop.com/collections/common-3d-printer-filament",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/en/syensqo-around-the-world/japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nexeoplastics.com/suppliers/europe/syensqo-plastic-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/en/syensqo-around-the-world/japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01257247/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5859/0637/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/public-comps/syensqo-valuation-multiples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.syensqo.com/en/about-us",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/syensqo/5000015883",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Syensqo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Syensqo — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "https://www.syensqo.com/en/chemical-categories/specialty-polymers/additive-manufacturing",
+    "https://www.voxelmatters.directory/",
+    "https://www.aerospacemanufacturinganddesign.com/news/syensqo-completes-spinoff-from-solvay-focuses-us-market/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://www.syensqo.com/en/",
+    "https://www.cytivalifesciences.com/ja/jp/support/find-a-distributor",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.exone.com/en/about-us/locations/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Syensqo — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/Syensqo",
+    "https://www.syensqo.com/zh/china",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.wikiwand.com/en/Syensqo",
+    "https://www.instagram.com/antenna_ts/",
+    "https://zenmarket.jp/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Syensqo — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.syensqo.com/ja/japan/automotive",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://www.kkday.com/ja/product/838989?srsltid=AYCX9vIDoqnWYUn_sfm-V6jNq94IZ7lz-l7M_3H9H0fMzwqNaQvl3lcH",
+    "https://creator.holoearth.com/shop/products/1020133",
+    "https://eleshop.jp/shop/c/c66310303/?srsltid=AYCX9vLxrpBXqym9M1LKUBZoqI54HHBEnT98g_1BCPRmwTxzLyUgZzit",
+    "https://www.creact.co.jp/news/",
+    "https://develop.success-corp.co.jp/products/detail/165816/",
+    "https://nextlabs.space/jp/products/14793611",
+    "https://ja.aliexpress.com/item/1005009420997656.html",
+    "https://ja.wikipedia.org/wiki/サイエンスコ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Syensqo — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/collections/filament",
+    "https://jp.robotshop.com/collections/common-3d-printer-filament",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "https://www.poly-maker.jp/sample.html",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90-10000-50000%E5%86%86-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E7%94%A8%E9%80%A0%E5%BD%A2%E6%9D%90%E6%96%99/s?rh=n%3A3489859051%2Cp_36%3A3534783051",
+    "https://ja.aliexpress.com/item/1005004657293430.html",
+    "https://shop.sin.jp/?srsltid=AYCX9vLGedD1nYUVu4_fyCzysqI3O6UISpX6ke9vhDukI3PBhydPK54H",
+    "https://shop.exmatelab.com/categories/5848171",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Syensqo — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "https://www.syensqo.com/en/syensqo-around-the-world/japan",
+    "https://www.nexeoplastics.com/suppliers/europe/syensqo-plastic-distributor",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.syensqo.com/en/",
+    "https://www.upnano.com/distributors/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.syensqo.com/en/chemical-categories/our-composite-materials-solutions/official-distributors"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Syensqo — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.syensqo.com/en/syensqo-around-the-world/japan",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.medicaldesignandoutsourcing.com/syensqo-specialty-polymers-k-2025-plastics-rubber-tradeshow/",
+    "https://www.upnano.com/distributors/",
+    "https://3dbiotek.com/dist_asia.aspx",
+    "https://partners.solize.com/en/manufacturing",
+    "https://en.wikipedia.org/wiki/Syensqo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Syensqo — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://pay.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWFJ261071-デタッチャブルフリルカラーツイードジャケットSWFJ261071レディース/dp/B0GC9M4NY7",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/金利上昇で得する人、沈む人（プレジデント2026年7-17号）-プレジデント社/dp/B0H3P32J8S"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Syensqo — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01257247/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/5859/0637/",
+    "https://www.monotaro.com/p/3366/3246/",
+    "https://www.monotaro.com/p/0673/7604/",
+    "https://www.monotaro.com/g/00535279/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Syensqo — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "https://multiples.vc/public-comps/syensqo-valuation-multiples",
+    "https://www.syensqo.com/en/about-us",
+    "https://www.zoominfo.com/c/syensqo/5000015883",
+    "https://en.wikipedia.org/wiki/Syensqo",
+    "https://be.linkedin.com/company/syensqo",
+    "https://companiesmarketcap.com/syensqo/revenue/",
+    "https://cen.acs.org/business/specialty-chemicals/Bringing-science-Syensqo/103/web/2025/07",
+    "https://www.aerospacemanufacturinganddesign.com/news/syensqo-completes-spinoff-from-solvay-focuses-us-market/",
+    "https://www.syensqo.com/en/investors/financials"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Syensqo — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hirokimiyano/n/n255d15d782c8",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Syensqo — VoxelMatters",
+   "results": [
+    "https://x.com/syensqo",
+    "https://x.com/voxelmatters",
+    "https://x.com/syensqo/status/1984306595191222288",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/RepJeffries/status/2117800972810330242",
+    "https://x.com/Vanlenciacf/status/2115571969827668368",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Syensqo — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/davide-sher_ai-marketresearch-additivemanufacturing-activity-7494791267604746240-KXp7",
+    "https://www.linkedin.com/in/erion-hasa-523227102",
+    "https://www.linkedin.com/posts/havekost_off-the-shelf-eos-systems-are-highly-capable-activity-7508153266896224256-pFsV",
+    "https://www.linkedin.com/in/vishrut-deshpande",
+    "https://uk.linkedin.com/in/pbsbailey",
+    "https://de.linkedin.com/in/dr-farbod-nosrat-nezami-15893b8a",
+    "https://es.linkedin.com/in/antonio-gianfranco-sabato",
+    "https://www.linkedin.com/company/syensqo/",
+    "https://www.linkedin.com/posts/voxelmatters_solvays-am-materials-and-activities-are-activity-7165382039209254912-fKQr",
+    "https://be.linkedin.com/in/tanguy-moentack-9a40ab2a/en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Syensqo — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/Syensqo/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/Syensqo/posts/syensqos-q1-2026-financialresults-are-out-we-delivered-on-our-outlook-in-a-compl/879183121876808/",
+    "https://www.facebook.com/100093553852195/photos/650978441363945/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/Syensqo/posts/syensqos-laboratory-of-the-future-is-turning-20we-are-thrilled-to-celebrate-the-/361490426979416/",
+    "https://www.facebook.com/Syensqo/photos/our-2025-full-year-results-and-2026-outlook-are-now-available-discover-more-in-o/815751881553266/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Syensqo — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "https://www.syensqo.com/en/chemical-categories/specialty-polymers/additive-manufacturing",
+    "https://www.youtube.com/watch?v=cCzC_UKD_Cw",
+    "https://x.com/syensqo",
+    "https://www.aveva.com/en/perspectives/presentations/2024/syensqo-structures-its-manufacturing-data-to-support-its-2030-vision/",
+    "https://www.ellenmacarthurfoundation.org/syensqo",
+    "https://www.voxelmatters.group/about/",
+    "https://www.aerospacemanufacturinganddesign.com/news/syensqo-completes-spinoff-from-solvay-focuses-us-market/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Syensqo — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/solvays-am-materials-and-activities-are-now-part-of-syensqo/",
+    "https://www.syensqo.com/en/chemical-categories/specialty-polymers/additive-manufacturing",
+    "https://x.com/syensqo",
+    "https://www.youtube.com/watch?v=cCzC_UKD_Cw",
+    "https://tectonic-3d.com/news/tectonic-3d-to-manage-u-s-commercial-activities-for-syensqos-high-performance-filaments?srsltid=AYCX9vLRusoiqOvCK2kUxsQ-Y-ciEN1yHa2qSfuKKGo2Oe_aEBLzg8UE",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/voxelmatters",
+    "https://www.syensqo.com/en/newsroom/news-and-press-releases"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

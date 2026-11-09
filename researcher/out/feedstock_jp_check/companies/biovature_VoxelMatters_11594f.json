@@ -1,0 +1,424 @@
+{
+ "name": "biovature — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T19:36:43.408273+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bioflin.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.loewe.com/usa/en/storeDetails?StoreID=JP1081107",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biovature.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E7%A0%94%E7%A9%B6%E5%B8%82%E5%A0%B4%E3%81%AF26%EF%BC%85%E6%88%90%E9%95%B7-57124904/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinofu.com/uvresin-guide2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biovature.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E9%98%B2%E7%81%AB%E3%82%B7%E3%83%BC%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04106378/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E8%80%90%E7%86%B1+%E6%89%8B%E8%A2%8B+%E8%96%84%E6%89%8B/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/money/financials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "biovature — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "biovature — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://www.bioflin.com/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.vwr.com/us/en/",
+    "https://www.bioveritas.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "biovature — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.biovature.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://3druck.com/ja/産業/金属3dプリンティングの研究市場は26％成長-57124904/",
+    "https://bionature.stores.jp/items/",
+    "https://bionature.jp/bionature/",
+    "https://www.msn.cn/zh-cn/news/other/金属3d打印已星火燎原-陶瓷为何小荷才露尖尖角/ar-AA2aw5e9"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "biovature — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://fantist.com/articles/1092",
+    "https://fantist.com/articles/1017",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/",
+    "https://my-best.com/1748",
+    "https://eternalcollegest.com/books/100yen-resin",
+    "https://www.farmille.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "biovature — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.biovature.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.europesays.com/japan/79430/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "biovature — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://japanesedistributors.com/",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.marinelink.com/news/demosath-floating-wind-project-enters-new-543787",
+    "https://www.phoenixcommercialproperty.com/macnaughton-snags-290-unit-luxury-complex-near-phoenix-with-japanese-partner-the-business-journals/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp biovature — VoxelMatters",
+   "results": [
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ",
+    "https://www.amazon.co.jp/出口夏希2nd写真集『タイトル未定』-出口-夏希/dp/4344046854"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com biovature — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/防火シート/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/04106378/",
+    "https://www.monotaro.com/k/store/耐熱+手袋+薄手/",
+    "https://www.monotaro.com/k/store/延長コード3口/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/00368492/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "biovature — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/category/money/financials/",
+    "https://www.voxelmatters.com/",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.linkedin.com/company/biovature-gmbh",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555/filing-history"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com biovature — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/yamaitiyu/n/nc04ae840ce70"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com biovature — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/YourAnonNews/status/2114723243617886486",
+    "https://x.com/DemocraticWins/status/2117994783016685719"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com biovature — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/biovature-gmbh",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://www.linkedin.com/newsletters/davide-sher-x-voxelmatters-7054019469488046080"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com biovature — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/mackieleadiemsmomma/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/prettycutiebrown/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "biovature — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "biovature — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/hashtag/voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.biovature.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://x.com/VoxelMatters/status/2117922086492508517",
+    "https://x.com/VoxelMatters/status/2117922030947614944"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）"
+ }
+}

@@ -1,0 +1,466 @@
+{
+ "name": "LIGHTWAY GmbH — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting;ceramics-material-manufacturer",
+ "researched_at": "2026-11-09T19:18:20.368564+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookLightway GmbH | Niederzissen - FacebookFacebook - log in or sign upLightWay Productions | San Antonio TX - FacebookLightway GmbH - Frohe Weihnachten und einen guten Start ...From Additive Manufacturing to Machining. Increasing ...LightWay - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign f",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/am-production-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=8e8qH_Zb7H0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-humanoid.shop/unitree/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005009846651010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.protools-web.jp/ecuser/item/itemDetail?itemCd=08639",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yxpolyer.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=8e8qH_Zb7H0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=8e8qH_Zb7H0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/about-us/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=357-9698133-2226369&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/signin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02625328/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/en/companies/lightway-gmbh-niederzissen--DEBO4UVJ6454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/lightway-gmbh--co/510616195",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://firmendata.com/en/company/koblenz/HRB25510/lightway-gmbh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.implisense.com/en/companies/lightway-gmbh-niederzissen--DEBO4UVJ6454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/am-production-services/",
+    "https://www.youtube.com/watch?v=8e8qH_Zb7H0",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.connectpositronic.com/jp/%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.voxelmatters.directory/",
+    "https://lightway.de/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://gmo-humanoid.shop/unitree/",
+    "https://www.kentex-jp.com/store_finder/dealer-2/",
+    "https://distymap.com/distributors",
+    "https://www.msh-systems.com/partners/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://www.protools-web.jp/ecuser/item/itemDetail?itemCd=08639",
+    "https://baike.baidu.com/ja/item/LightMake/4347215",
+    "https://www.htlco.co.jp/exhibition.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.rakuseimodel.co.jp/onlineshop/product_list_by_maker.php?sicode=249",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://lightway.de/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/filament",
+    "https://yxpolyer.com/ja",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vLO5RF8YDe7sC5jZeflODk2_SnD2sSDbfgVAD6Cjqly0MIvoq24",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://ja.aliexpress.com/i/33033695063.html",
+    "https://www.yuzawaya.shop/shopbrand/ct1006/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/watch?v=8e8qH_Zb7H0",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.upnano.com/distributors/",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.kmlabs.com/distributor",
+    "https://lightway.de/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.youtube.com/watch?v=8e8qH_Zb7H0",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.voxelmatters.com/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp LIGHTWAY GmbH — VoxelMatters",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://pay.amazon.co.jp/signin",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com LIGHTWAY GmbH — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/02625328/",
+    "https://www.monotaro.com/k/store/2個用スイッチボックス/",
+    "https://www.monotaro.com/g/00246495/",
+    "https://www.monotaro.com/g/00011144/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://implisense.com/en/companies/lightway-gmbh-niederzissen-DEBO4UVJ6454",
+    "https://www.zoominfo.com/c/lightway-gmbh--co/510616195",
+    "https://firmendata.com/en/company/koblenz/HRB25510/lightway-gmbh",
+    "https://app.implisense.com/en/companies/lightway-gmbh-niederzissen--DEBO4UVJ6454",
+    "https://lightway.de/",
+    "https://www.dnb.com/business-directory/company-profiles.lightway_gmbh.6bdc8625a3f81b2ff299f2b4499b6375.html",
+    "https://www.crunchbase.com/organization/lightway-gmbh"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com LIGHTWAY GmbH — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/十五夜",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com LIGHTWAY GmbH — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com LIGHTWAY GmbH — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com LIGHTWAY GmbH — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/additive.fertigung/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/LightWayProductions/",
+    "https://www.facebook.com/additive.fertigung/posts/-frohe-weihnachten-und-einen-guten-start-ins-jahr-2026-das-jahr-neigt-sich-dem-e/1437662811699397/",
+    "https://www.facebook.com/lightwaymedia/",
+    "https://www.facebook.com/DAGTECHNOLOGIESSDNBHD/posts/4190022664415300/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "LIGHTWAY GmbH — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://lightway.de/",
+    "https://www.instagram.com/lightway_gmbh/",
+    "https://www.voxelmatters.directory/company/lightway-gmbh/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/VoxelMatters/status/2117922030947614944"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

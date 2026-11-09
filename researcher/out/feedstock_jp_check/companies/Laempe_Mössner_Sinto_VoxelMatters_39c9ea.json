@@ -1,0 +1,466 @@
+{
+ "name": "Laempe Mössner Sinto — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:24:06.513606+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "The incorporation of Hottinger and Röperwerk in 2009 enabled us to acquire further valuable know-how and expertise. Laempe sales offices and a network of around 25 sales partners and representatives ensure competent support at a high level around the globe. Since 2015 there is also a strategic partnership with Sinto the world’s largest foundry machinery manufacturer from Japan.",
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "pass": 3
+   }
+  ],
+  "直送・ネット販売": [
+   {
+    "quote": "We offer technical core shop solutions and core applications with a focus on the automotive and commercial vehicles industry, pit and surface mining, energy technology, electrical engineering, railway undercarriage casting, fittings and industrial valves, and machine components.",
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "pass": 3
+   },
+   {
+    "quote": "Laempe Mössner Sinto was founded in 1980 by Dipl.-Ing Hans-Joachim Laempe and has developed into a global leader in the market for core shop technology.",
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Laempe Mössner Sinto employs around 300 employees in marketing, sales, research and development, design and construction, production, and service.",
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Laempe Mössner Sinto — VoxelMatters - The largest database of ... — We offer technical core shop solutions and core applications with a focus on the automotive and commercial vehicles industry, pit and surface mining, energy technology, electrical engineering, railway undercarriage casting, fittings and industrial valves, and machine components. Laempe Mössner Sinto was founded in 1980 by Dipl.-In",
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "pass": 3
+   },
+   {
+    "quote": "Laempe Mössner Sinto — VoxelMatters - The largest database of ... — Since 2015 there is also a strategic partnership with Sinto the world’s largest foundry machinery manufacturer from Japan. Laempe Mössner Sinto employs around 300 employees in marketing, sales, research and development, design and construction, production, and service.",
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.laempe.com/jp/%E4%BC%81%E6%A5%AD/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/jp/%E6%B5%B7%E5%A4%96%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88%E3%83%AA%E3%82%B9%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/en/ansprechpartner-en/sales-of-new-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/jp/%E5%95%86%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/jp/%E4%BC%81%E6%A5%AD/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ranking.rakuten.co.jp/daily/566879/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kinofu.com/uvresin-guide2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/en/contacts-worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/en/ansprechpartner-en/sales-of-new-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/en/contacts-worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://castingssa.com/laempe-mossner-forms-strategic-alliance-with-sinto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E8%B2%B8%E3%81%97%E3%81%9F%E9%AD%94%E5%8A%9B%E3%81%AF%E3%80%90%E3%83%AA%E3%83%9C%E6%89%95%E3%81%84%E3%80%91%E3%81%A7%E5%BC%B7%E5%88%B6%E5%BE%B4%E5%8F%8E/dp/B0HJ3PBPVG",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E5%87%BA%E5%8F%A3%E5%A4%8F%E5%B8%8C2nd%E5%86%99%E7%9C%9F%E9%9B%86%E3%80%8E%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E6%9C%AA%E5%AE%9A%E3%80%8F-%E5%87%BA%E5%8F%A3-%E5%A4%8F%E5%B8%8C/dp/4344046854",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E7%BE%8E%E3%81%97%E3%81%84%E3%82%AD%E3%83%A2%E3%83%8E-2026%E5%B9%B4%E5%86%AC%E5%8F%B7%E5%A2%97%E5%88%8A%E5%90%89%E7%94%B0%E4%BB%81%E4%BA%BA%E7%89%B9%E5%88%A5%E7%89%88-%E3%83%8F%E3%83%BC%E3%82%B9%E3%83%88%E5%A9%A6%E4%BA%BA%E7%94%BB%E5%A0%B1%E7%A4%BE/dp/B0HDC7JPDJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3506/7076/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3506/6902/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laempe.com/en/company/corporate-profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/laempe-mo%CC%88ssner-sinto-gmbh/343388597",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://die-deutsche-wirtschaft.de/unternehmen/laempe-moessner-sinto-gmbh-barleben/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chemdmart.com/company-profile/laempe-moessner-sinto-gmbh",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters 代理店",
+   "results": [
+    "https://www.laempe.com/jp/%E4%BC%81%E6%A5%AD/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88/",
+    "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "https://www.laempe.com/jp/%E6%B5%B7%E5%A4%96%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88%E3%83%AA%E3%82%B9%E3%83%88/",
+    "https://www.laempe.com/en/ansprechpartner-en/sales-of-new-systems/",
+    "https://www.laempe.com/jp/%E4%BC%81%E6%A5%AD/",
+    "https://www.laempe.com/en/translate-to-english-impressummenue/contact/",
+    "https://www.laempe.com/jp/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/",
+    "https://www.laempe.com/jp/%E5%95%86%E5%93%81/",
+    "https://www.laempe.com/jp/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/",
+    "https://www.laempe.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.laempe.com/jp/%E5%95%86%E5%93%81/",
+    "https://www.laempe.com/jp/%E4%BC%81%E6%A5%AD/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "https://skhonpo.com/",
+    "https://ranking.rakuten.co.jp/daily/566879/",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://www.laempe.com/en/products/core-shooters/",
+    "https://www.youtube.com/@_oshi_wan",
+    "https://formfutura.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.laempe.com/en/contacts-worldwide/",
+    "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "https://www.laempe.com/en/ansprechpartner-en/sales-of-new-systems/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.foundry-planet.com/equipment/equipment/",
+    "https://castingssa.com/laempe-mossner-forms-strategic-alliance-with-sinto/",
+    "https://www.laempe.com/en/company/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.laempe.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.laempe.com/en/contacts-worldwide/",
+    "https://castingssa.com/laempe-mossner-forms-strategic-alliance-with-sinto/",
+    "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.laempe.com/en/company/",
+    "https://www.foundry-planet.com/equipment/equipment/",
+    "https://www.voxelmatters.com/laempe-showed-off-its-sand-binder-jetting-3d-printer-at-gifa-2023/",
+    "https://www.foundry-planet.com/news",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.sinto.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:amazon.co.jp Laempe Mössner Sinto — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://www.amazon.co.jp/貸した魔力は【リボ払い】で強制徴収/dp/B0HJ3PBPVG",
+    "https://www.amazon.co.jp/出口夏希2nd写真集『タイトル未定』-出口-夏希/dp/4344046854",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ",
+    "https://www.amazon.co.jp/【デジタル限定-YJ-PHOTO-BOOK】月城莉奈写真集「夢か幻か、女性声優か？」-月城莉奈-ebook/dp/B0HPKKHKNS",
+    "https://www.amazon.co.jp/【デジタル限定】豊島心桜-写真集-夏、ごちそうさま。-ワニブックス-デジタル写真集-ebook/dp/B0HK3TS8DJ",
+    "https://www.amazon.co.jp/SNIDEL-スナイデル-SWNT255124-SusレイヤードラッフルニットプルオーバーSWNT255124レディース/dp/B0FRHCJ9DQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Laempe Mössner Sinto — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/3506/7076/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/3506/6902/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/s/c-124371/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.laempe.com/en/company/corporate-profile/",
+    "https://www.zoominfo.com/c/laempe-mössner-sinto-gmbh/343388597",
+    "https://die-deutsche-wirtschaft.de/unternehmen/laempe-moessner-sinto-gmbh-barleben/",
+    "https://chemdmart.com/company-profile/laempe-moessner-sinto-gmbh",
+    "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "https://openregister.de/company/DE-HRB-W1215-113092",
+    "https://www.laempe.com/en/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Laempe Mössner Sinto — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/日米協調介入",
+    "https://note.com/idea_hack2/n/n6030d1a3bde5",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/tomoya_joat/n/nf26b02c646cb"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Laempe Mössner Sinto — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/SrLinguicaVIVE/status/2118063873102127124",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/chillestwoman/status/2116669325868400644",
+    "https://x.com/RepJeffries/status/2117800972810330242"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Laempe Mössner Sinto — VoxelMatters",
+   "results": [
+    "https://de.linkedin.com/company/laempe-&-mössner-gmbh",
+    "https://www.linkedin.com/posts/laempe-&-mössner-gmbh_𝗘𝗶𝗻𝗲-𝗴𝘂𝘁𝗲-𝗠𝗮𝘀𝗰𝗵𝗶𝗻𝗲-𝗹𝗼𝘀𝘁-activity-7511041609413578752--_kp",
+    "https://de.linkedin.com/in/sebastian-wegner-a50677343",
+    "https://www.linkedin.com/posts/laempe-&-mössner-gmbh_laempe-sinto-3ddruck-activity-7479865671921868800-5G5w",
+    "https://www.linkedin.com/posts/laempe-&-mössner-gmbh_laempe-ledeburkolloquium-giessereitechnik-activity-7521205555328323584-9SJJ",
+    "https://www.linkedin.com/posts/laempe-&-mössner-gmbh_𝗟𝗮𝗲𝗺𝗽𝗲-𝘇𝗲𝗶𝗴𝘁-𝗻𝗲𝘂𝗲-3𝗗-𝗗𝗿-activity-7445088758015635457-CF3U",
+    "https://www.linkedin.com/posts/laempe-&-mössner-gmbh_𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹-𝗙𝗼𝘂𝗻𝗱𝗿𝘆-activity-7524035144299724800-JKF7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Laempe Mössner Sinto — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/laempemoessnersinto/",
+    "https://www.facebook.com/socialmedia.lms/",
+    "https://www.facebook.com/Laempe-Mössner-Sinto-GmbH-1252532538224641/",
+    "https://www.facebook.com/laempemoessnersinto/photos/d41d8cd9/1003999057861269/",
+    "https://www.facebook.com/laempemoessnersinto/posts/laempe-auf-dem-siegertreppchenzum-diesjährigen-sponsorenturnier-der-sbb-baskets-/926227342305108/",
+    "https://www.facebook.com/laempemoessnersinto/posts/3103353539972259/",
+    "https://www.facebook.com/laempemoessnersinto/posts/25-jahre-fertigungsstandort-meitzendorf-seit-01101996-wurden-hier-zahlreiche-mas/3005561173084830/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters note 社長",
+   "results": [
+    "https://www.laempe.com/",
+    "https://www.laempe.com/en/company/",
+    "https://www.bloomberg.com/profile/company/6476507Z:GR",
+    "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "https://de.linkedin.com/company/laempe-&-mössner-gmbh",
+    "https://www.ampulse.online/company/laempe-mssner-sinto-gmbh",
+    "https://www.badische-zeitung.de/person/Laempe+Mössner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Laempe Mössner Sinto — VoxelMatters X 投稿",
+   "results": [
+    "https://www.laempe.com/",
+    "https://www.laempe.com/en/company/",
+    "https://www.voxelmatters.directory/company/laempe-mossner-sinto/",
+    "https://www.voxelmatters.com/laempe-develops-automated-3d-sand-printing-line-for-bmw/",
+    "https://www.voxelmatters.com/laempes-l3d-200-sand-printer-passes-pre-acceptance-test-at-herborner-pumpentechnik/",
+    "https://www.instagram.com/wirsindlaempe/",
+    "https://www.badische-zeitung.de/person/Laempe+Mössner"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索15回）"
+ }
+}

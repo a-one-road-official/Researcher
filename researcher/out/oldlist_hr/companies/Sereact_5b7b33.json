@@ -1,0 +1,1853 @@
+{
+ "name": "Sereact",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T19:11:11.494805+00:00",
+ "official_url": "https://sereact.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Cortex delivers real autonomy on the warehouse floor. Live in production environments, zero supervision, infinite precision.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From global logistics leaders to emerging enterprises, we provide the intelligence that powers modern fulfillment across five continents.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous inspection and secondary processing.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real production picks",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cortex is the AI model that runs every Sereact robot. One model for any robot and any task, learning from every pick in production.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Most robotics AI only works in controlled lab conditions. Sereact's Vision Language Action Model (VLAM) is trained on millions of real-world picks, making it the first production-ready AI brain for robots.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspects, classifies and sorts returned items in live production.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tangible ROI driven by industrial-grade AI. We turn robotic potential into production reality.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous 24/7 operation with minimal human interventions. Predictable performance at any scale.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We chose Sereact because the technology was proven and we could integrate it from day one. Their flexibility and on-site support made the whole process fast and smooth.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Logistics Process Engineer, Bol",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers expect returns to be simple and fast – behind that lies a process that is time-critical and laborious, both for customers and for our business. Returns are notoriously hard to automate, and Physical AI has the potential to change that. This project lets us find out, at real scale, how far Physical AI can take us – an important step towards a more flexible and resilient supply chain",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Group Vice President Supply Chain Management at Otto Group",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "After only a few weeks, the first robot achieved a picking success rate of over 96%. Together we are making progress towards the vision of making MS Direct a technology leader.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sereact is a pioneer in embodied AI for robotics, empowering robots to sense, reason, and act within their environment and support humans in everyday activities. Our systems autonomously execute complex tasks and continuously enhance their performance through real-world data, improving efficiency in logistics and various other sectors.",
+    "url": "https://sereact.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "We promise our customers the most advanced technology on the market. That's why we turn challenges into opportunities, and aren't afraid to break new ground.",
+    "url": "https://sereact.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are dedicated to solving real-world problems. This means we know our customers' challenges and offer products that are tailored to their exact needs.",
+    "url": "https://sereact.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "/ 03 Global Presence",
+    "url": "https://sereact.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Embodied AI at bol driving productivity",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Embodied AI at MS Direct AG driving productivity",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your process and benefit from more reliable, faster and more accurate picking",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "With Sereact we expanded our product range by thousands of items while keeping operations running smoothly. The robot simply works side by side with our team, like it’s always been here.",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Sereact is the perfect place for anyone with a passion for technology. We work on innovations that have the potential to change the world and I'm proud to be a part of it.",
+    "url": "https://sereact.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "では、PRO（Process-Reward Operator）が各候補軌跡を安定性・リスク・効率・タスク達成確率でスコアリングし、最適な行動計画を選択する",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Cortex 1.6から導入されたPROをCortex 2.0では計画ループ全体に統合し、自律的な連続学習を実現した（収束時間はベースライン比3倍以上の短縮とSereactは主張している）",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "PickGPT（2023年）でLLM×コンピュータビジョンの独自組み合わせを発表し、その後Cortex 1.0（MoE-VLAスタックによる反応的制御）→ Cortex 1.5（人間ガイド付きポリシーパッチング）→ Cortex 1.6（PRO導入）→ Cortex 2.0（ワールドモデル統合、2026年2月本番稼働）と急速に進化してきた",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Rohlik GroupはチェコのオンラインスーパーマーケットをDACH地域（ドイツ・オーストリア・スイス）でも展開するeグロサリー事業者（ドイツではKnuspr、オーストリアではGurkerlのブランドで展開）",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "https://sereact.ai/posts/transforming-kitting-processes-with-daimler-truck",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Prologis - Japan truck driver shortage data",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "https://prologis.com/insights-news/blog/japan-truck",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "TechCrunch - Japan is proving experimental physical AI is ready for the real world",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "── ロボット OEM 単独では AI / ML / コンピュータビジョンの内製化が追いつかず、海外サプライヤー（OpenAI、Anthropic、NVIDIA、Mobileye、Preferred Networks、ABEJA、Sakana AI、ELYZA）との連携が増加",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Do you need a Japanese business partner in order to succeed with market entry? This article will discuss the pros and cons for either strategy.",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "エコデザイン規則（ESPR）による売れ残りの衣料・服飾雑貨・靴の廃棄禁止は、大企業に2026年7月19日から適用された",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Nebius, Sereact, CEVA and Zalando Close the Training Loop for Robotic Returns Handling, powered by NVIDIA（Sereact 公式）",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Robotics unveils wide range of production-ready physical AI applications at Automate 2026（Universal Robots）",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon hires from AI robotics startup Covariant, licenses technology（Amazon）",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Press Alt+1 for screen-reader mode, Alt+0 to cancel",
+    "url": "https://www.moomoo.com/ja/news/post/1001877162/teradyne-robotics-collaborates-with-sereact-for-industrial-ai-offerings",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership pairs Sereact's physical AI platform with collaborative industrial robots from UR to bring intelligent, adaptable automation to real-world operations previously hard to automate, such as the processing of returned fashion items.",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": ", runs robot arms from Universal Robots to give retailers and logistics providers a proven way to automate unstructured tasks such as returns handling and piece-picking.",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Robotics also uses NVIDIA computing in its UR and MiR product ranges. Teradyne Robotics are contributing SimReady OpenUSD robot assets to",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "on Hugging Face for both Universal Robots and MiR products, helping developers discover and reuse robot models in simulation with less asset preparation.",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The Series A round was led by Creandum, alongside significant participation from existing investors Point Nine and Air Street Capital, and prominent business angels, including former Formula 1 World Champion Nico Rosberg, Mehdi Ghissassi (ex Google DeepMind), Ott Kaukver (Skype), Lars Nordwall (ex neo4j), Torsten Reil and Niklas Köhler (both Helsing).",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "With our technology, robots act situationally rather than following rigidly programmed sequences. They adapt to dynamic tasks in real-time, enabling an unprecedented level of autonomy",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "From precise handling of individual objects to tackling complex logistics and manufacturing processes, the systems analyse and solve unfamiliar situations in real time. This allows for anomaly detection, process optimisation, and the setting of new standards in flexibility and efficiency for autonomous systems.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics is the next frontier for AI, as improved models and inference enable machines to handle increasingly sophisticated tasks and learn to adapt to their environments without constant customisation.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, robots equipped with advanced AI can pick and pack items in e-commerce warehouses, handling fragile or irregularly shaped products. In logistics, they can autonomously sort goods, conduct quality checks, automate inventory management, and optimise workflows, reducing delays. This has potential to drive productivity, address labor shortages, and even create new industries.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting with warehouse automation, Sereact has experienced rapid commercial adoption with customers including BMW, Daimler Truck, Bol and Active Ants. This real-world deployment of its products creates a real-time data flywheel from which Sereact systems learn to continually improve beyond systems trained primarily on synthetic data.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Most AI robotics companies are currently hardware-first. What sets Sereact apart is their software-first, foundational approach which means they have the potential to become the brain of any robot that requires vision and autonomous capabilities. The opportunities here are endless and it’s great to see this kind of innovation coming from Europe",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "The new funding will be used to expand R&D efforts to support additional robot hardware platforms, such as mobile robots and humanoids, as well as to develop solutions for more complex tasks beyond logistics and manufacturing. Sereact will also expand its US presence via partnerships and expanding its local team.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "This oversubscribed round and our rapid technology progress enables us to democratsze robotics and set new standards for autonomous systems in global markets",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "MassRobotics: Interview With Co-Founder And Chief Of Operations Joyce Sidopoulos About Robotics Innovation And Physical AI",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Embedded Youtube-video",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Please note: This video is provided by Youtube.",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "If you play this video, a connection to servers of Youtube will be established. Youtube then will be able to see, which web page you are visiting. If you are logged in to your Youtube-account, Youtube can also assign your personal surfing.",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The founders have big plans: They want to apply their AI system to more complex use cases, such as preparing humanoid robots for use in households and healthcare facilities.",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "From the production facility to hospitals",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The founders want to teach their AI model to operate in even more unpredictable environments, such as hospitals or laboratories. The first field studies involving humanoid robots in the healthcare sector are already underway.",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid robots: In the future, humanoid robots could assist not only in private households but also in hospitals with meal service, ward duties, or laboratory work.",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Cortex delivers real autonomy on the warehouse floor. Live in production environments, zero supervision, infinite precision.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tangible ROI driven by industrial-grade AI. We turn robotic potential into production reality.",
+    "url": "https://sereact.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sereact is building the foundational software layer for the next era of industrial robotics. Our mission is to bridge the gap between artificial intelligence and physical execution.",
+    "url": "https://sereact.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "By utilizing innovative technology and customized solutions, we collaborate closely with industry leaders in e-commerce, manufacturing and third-party logistics, including Daimler Truck, Material Bank, Ludwig Meister. In that way, we can address their specific requirements and contribute to solving fundamental issues, such as demographic transformation.",
+    "url": "https://sereact.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how global market leaders are using Sereact's AI robotics to transform their warehouse operations and achieve human-level dexterity at scale.",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Humanoids in Manufacturing",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by market leaders",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Join our mission to revolutionize industrial intelligence. We are looking for extraordinary minds to build the next generation of AI robotics.",
+    "url": "https://sereact.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月22日にはarXivに技術論文「Cortex 2.0: Grounding World Models in Real-World Industrial Deployment」（論文番号2604.20246）が提出されており、内部アーキテクチャが公開されている",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "arXiv - Cortex 2.0: Grounding World Models in Real-World Industrial Deployment（論文番号2604.20246）",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact - Rohlik Group case study",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact - Daimler Truck case study",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC Group - Japan Warehouse Automation Market",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "https://imarcgroup.com/japan-warehouse-automation",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "MarketsandMarkets - Warehouse Robotics Market（2025-2030）",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "iREX / JIMTOF / Smart Factory Expo への出展計画：",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "iREX（東京ビッグサイト、隔年）、JIMTOF（東京ビッグサイト、隔年）、Smart Factory Expo（東京 + 大阪、年 2 回）への出展で初期商談導線を確保",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "NEDO — New Energy and Industrial Technology Development Organisation",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "METI — Robot Revolution & Industrial IoT Initiative (RRI)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "AIST — National Institute of Advanced Industrial Science and Technology",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Factory Expo (Tokyo / Osaka, RX Japan)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Electric MELFA Industrial Robots",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本 AI コンピュート供給網は (a) NVIDIA「AI Factory」パートナー群（SoftBank、KDDI、GMO Internet、Highres",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "URとMobile Industrial Robots（MiR）を傘下に持つTeradyne Robotics（米Teradyneのロボティクス部門）と、ドイツのSereactは2026年10月21日、正式な提携を",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Universal Robots unveils Gen 7, a new platform for industrial automation and physical AI deployment（Universal Robots）",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "は、Universal RobotsとMobile Industrial Robotsを傘下に持つ企業です",
+    "url": "https://www.unite.ai/ja/teradyne-robotics-sereact-join-forces-on-industrial-physical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership pairs Sereact's physical AI platform with collaborative industrial robots from UR to bring intelligent, adaptable automation to real-world operations previously hard to automate, such as the processing of returned fashion items.",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile Industrial Robots",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": ", a pioneer in physical AI for robotics, today announced a new, official partnership to accelerate industrial AI solutions in retail, logistics and manufacturing.",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The Sereact and Teradyne Robotics solutions deliver impact across a variety of critical logistics and manufacturing use cases, including returns handling, store replenishment, piece-picking and sortation, order induction, machine tending, bin consolidation, kitting, packing and goods handling.",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "From precise handling of individual objects to tackling complex logistics and manufacturing processes, the systems analyse and solve unfamiliar situations in real time. This allows for anomaly detection, process optimisation, and the setting of new standards in flexibility and efficiency for autonomous systems.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, robots equipped with advanced AI can pick and pack items in e-commerce warehouses, handling fragile or irregularly shaped products. In logistics, they can autonomously sort goods, conduct quality checks, automate inventory management, and optimise workflows, reducing delays. This has potential to drive productivity, address labor shortages, and even create new industries.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting with warehouse automation, Sereact has experienced rapid commercial adoption with customers including BMW, Daimler Truck, Bol and Active Ants. This real-world deployment of its products creates a real-time data flywheel from which Sereact systems learn to continually improve beyond systems trained primarily on synthetic data.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "The new funding will be used to expand R&D efforts to support additional robot hardware platforms, such as mobile robots and humanoids, as well as to develop solutions for more complex tasks beyond logistics and manufacturing. Sereact will also expand its US presence via partnerships and expanding its local team.",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Management Software",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Sereact is the perfect place for anyone with a passion for technology. We work on innovations that have the potential to change the world and I'm proud to be a part of it.",
+    "url": "https://sereact.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ARR（年間経常収益）の詳細は未公表だが、調達履歴から同社の成長軌跡は追える",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "海外法人は日本子会社設立または国内パートナー（AIST、大学、ロボット OEM、SI ベンダー）との共同申請が条件",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：(a) 日本子会社設立、または (b) 国内パートナー（AIST、大学、ロボット OEM、SI ベンダー）との共同申請",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "（日本子会社設立資本の一部を低利融資）、(b)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本子会社経由で最初の R&D プロジェクトを申請、AIST / 大学との共同研究を含める",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "東京ビッグサイトでの隔年開催、欧州本社 + 日本子会社の共同出展で OEM・エンドユーザー・SI への直接アクセス確保",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "どのパターンを選ぶにせよ、(a) 日本子会社設立（KK が圧倒的多数）、(b) 試験研究費税額控除と国家戦略特区の検討、(c) NEDO 共同 R&D 公募への参加、(d) iREX / JIMTOF 出展による継続的な顧客接触、(e) AIST + 東大 + 早稲田 + 東京科学大学との共同研究、(f) 人材市場の競争への対応（PhD レベル R&D エンジニア 年収 800-1,500 万円水準）、の 6 点はどのケースでも必須要素",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ親会社が100%保有する日本子会社でもNEDOのR&D助成に申請できますか？",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "100% ドイツ親会社の日本子会社でも申請可能",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "実務的には、(a) 日本子会社が IP を所有 + ドイツ親会社にライセンス、(b) 日本国内製造 + 日本市場優先、(c) ドイツ市場向け改良 IP は別途ドイツで開発、という設計が標準",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：日本子会社（KK）設立、5-15 名規模、JETRO IBSC 活用、東京 or 大阪オフィス",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：Festo（連結売上 約 35 億 EUR、日本売上 約 200 億円、日本子会社設立 1972 年）、SICK（連結売上 約 22 億 EUR、日本売上 約 100 億円、日本子会社設立 1995 年）、Beckhoff Automation（連結売上 約 16 億 EUR、日本売上 約 50 億円、日本子会社設立 2011 年）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Nemi、BHAV Acquisition CorpとのSPAC合併後にナスダック上場を計画",
+    "url": "https://www.unite.ai/ja/teradyne-robotics-sereact-join-forces-on-industrial-physical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million.",
+    "url": "https://www.moomoo.com/ja/news/post/1001877162/teradyne-robotics-collaborates-with-sereact-for-industrial-ai-offerings",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA’s technologies are a key part of the Sereact and Universal Robots demo at GTC Berlin. Cortex is trained in",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, the two founders generate annual revenue in the millions. They recently raised 110 million dollars in funding from several venture capital firms. The funds will be used to further develop their technology. “We want to work our way up from simple use cases to truly complex ones,” says Gulde.",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The founders also plan to use the funding to finance their expansion into the U.S. market. In Boston, one of the leading robotics hubs in the U.S., Gulde and Tuscher rented office space a few months ago and hired their first employees. “We believe we’re among the most exciting startups there and can attract top talent,” says Gulde. Stuttgart, however, remains the hub.",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "[de], the University of Stuttgart supports start-up projects by students and employees. Thanks to its fantastic innovative spirit, the University of Stuttgart regularly ranks among the top 10 German universities with the most patent applications per year. The",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact Revenue 2025: $6.4M Est.",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact has not published its revenue. Growjo puts it at about $6.4M a year (September 2025).",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact CEO & employees",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Bentsi Benatar is CEO of Sereact. Sereact has 68 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sereact's revenue?",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Sereact's revenue at about",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sereact have?",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "この記事では、Sereact の技術的な仕組み、ビジネスモデル、BMW・PepsiCo等の欧州大手への導入実績、そして日本の倉庫自動化市場との関連性を詳しく解説する",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本はロボット大国なのに、なぜ倉庫は人手不足なのか",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "国際ロボット連盟（IFR）の統計によれば、日本は世界の産業用ロボット出荷台数のおよそ45%を製造・輸出している",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "ファナック、安川電機、川崎重工——日本のロボットメーカーは文字通り世界のロボット産業を支えてきた",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "にもかかわらず、日本の倉庫現場の人手不足は深刻化の一途をたどっている",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省は2026年3月、「2040年までに日本が世界のPhysical AI市場で30%シェアを獲得する」という国家戦略を発表し、2026年度予算として約",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府はロボット産業の強みをAI時代にも維持しようとしている",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Cortex 2.0がどのようなアーキテクチャで「ゼロショット対応」と「53,000回に1回の精度」を実現しているのか、エンタープライズへの課金モデルはどのように設計されているのか、そして日本のMujin（ムジン）や大福（DAIFUKU）と比べてSereactのアプローチが何において本質的に異なるのかを、具体的なデータと事例とともに説明する",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "比較として、日本のMujinは2025年12月に単独で$233M（NTT・QIA Investment Authorityがリード）を調達しており、累計$411Mと資本規模では先行している",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例3選——Active Ants・Rohlik Group・Daimler Truck",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場との関連性——Mujin・DAIFUKUとの比較と示唆",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "同社は2026年夏にボストン（米国）で初のUS拠点を開設することを最優先としており、日本はその次のフェーズ（早くても2027〜2028年以降）になると推測される",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "それでもなお、日本の倉庫・物流・製造業の実務担当者がこのフィジカルAIスタートアップを注目すべき理由は複数ある",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本の倉庫自動化市場はIMARCの予測では2025年$1,465M（約2,200億円）から2034年には$5,039M（約7,600億円）に達する見込みで、年率約15%の成長が予測されている",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本でSereactに最も近いポジションにあるのはMujinだ",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "MujinがSaaSへの課金モデル転換を2026年4月にようやく発表したことは、日本市場においても「ロボットAIのソフトウェア化」が本格的に受容される段階に入ってきたことを示唆している",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が学べること：データフライホイールの設計",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造・物流現場には世界有数の高品質な生産データが存在しているが、AI学習への組織的な活用が遅れているとも言える",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、Sereactが日本市場に参入する際の障壁も存在すると推測される",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "関係性重視の商習慣・長い意思決定プロセス、製造ラインのデータを海外クラウドに送ることへのデータ主権の懸念、日本語対応のエンジニア・カスタマーサクセス体制の必要性——これらはいずれも構造的課題だ",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本はロボットを製造する国として世界をリードしてきた",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Sereactが「One Brain. Any Robot.」で示したアーキテクチャの発想は、日本の製造・物流業界にとって教訓であり、脅威であり、同時に可能性でもある",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "Digitimes - Japan METI AI/semiconductor budget 2026",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "TechWireAsia - Japan physical AI joint venture（2026-04-28）",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "https://techwireasia.com/2026/04/japan-physical-ai",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業用ロボティクス市場参入：ドイツ企業向けガイド | Finder",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "── 自動車（トヨタ・ホンダ・日産・スズキ・マツダ）+ 半導体装置（東京エレクトロン・SCREEN・ディスコ・キヤノン・ニコン）+ 電子部品（村田・TDK・京セラ・日東電工・パナソニック）+ 物流（ニトリ・アスクル・佐川・ヤマト）、(iii)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "── JARA（日本ロボット工業会）+ JIMTOF + iREX、(iv)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "── NEDO（METI 配下の R&D ファンディング）+ AIST + 大学（東大 IRT・早稲田・東工大→東京科学大）、(v)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "海外法人は日本子会社設立または国内パートナー（AIST、大学、ロボット OEM、SI ベンダー）との共同申請が条件",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "JETRO Invest Japan Business Support Center（IBSC）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "── AIST・東大 IRT・早稲田大学創造理工・東京科学大学（旧 東工大）との共同研究、(d)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：ドイツは Industrie 4.0 と KUKA・Stäubli・igus・Festo の自動化エコシステム、日本は世界供給の 45% を握るロボット OEM クラスター",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "機械（drive train、減速機、リニアモーション、サーボ）はドイツが世界シェア、ロボット完成機は日本が世界シェア",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Harmonic Drive AG（HDST、ハーモニックドライブ・システムテクニック、ドイツ法人）、Wittenstein SE、Maxon Motor（スイス資本だが独語圏中核）、Schunk、SEW-Eurodrive、Bosch Rexroth、Siemens Numerik、Beckhoff Automation の日本ビジネスはすでに 2000-2020 年の累積で確立",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ日本 — 世界供給 45% を握る垂直統合クラスターの構造",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのロボティクス・FA 企業が海外展開を検討するとき、日本市場の戦略的位置付けは",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業用ロボット出荷台数は世界最大級、稼働密度（労働者あたり台数）も韓国・シンガポールに次ぐ世界最高水準、そして何より",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では KUKA Japan（横浜本社、1985 年設立）が主に欧州系 Tier1（ZF、Continental、Bosch、Magna、Valeo）の日本拠点経由で導入されており、トヨタ・ホンダ・日産のメインライン（ロボットボディ溶接の数千台規模設置）には Fanuc・安川・川崎・ABB が固定的",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "── 日本の生産年齢人口は 2025 年比で 2050 年に約 30% 減、製造業労働力は中小製造業から崩れる",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "JARA（日本ロボット工業会）統計の読み方",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ系企業の参入時、JARA 統計は「日本国内需要のサイズ」と「日本 OEM がどこに売っているか」の両方を把握する一次資料",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Key point: 日本市場は「最大の顧客市場」ではなく「",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：トヨタ自動車（豊田市本社）、本田技研工業（東京）、日産自動車（横浜）、スズキ（浜松）、マツダ（広島）、SUBARU（東京 + 群馬）、ダイハツ（大阪）、いすゞ（神奈川）、日野自動車（東京）、三菱自動車（東京）、トヨタ Tier1（デンソー、アイシン、トヨタ紡織、豊田自動織機、ジェイテクト）、ホンダ系（武蔵精密工業、ケーヒン → 日立 Astemo）、日産系（カルソニックカンセイ → マレリ → Marelli Japan）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：(a) ZF、Continental、Bosch、Magna の日本拠点経由、(b) 直接アクセスは Tier1 と先に組成して工程提案、(c) 自動車 OEM の R&D 連携プログラム（トヨタ・ホンダ・日産は欧州 R&D オフィスを Munich / Stuttgart / Frankfurt に保有）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：東京エレクトロン（東京 + 山梨 + 宮城）、SCREEN（京都）、ディスコ（東京 + 広島）、アドバンテスト（東京）、ニコン精機（横浜）、キヤノン（東京 + 茨城）、レーザーテック（横浜）、東京精密（東京）、日立ハイテク（東京）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：村田製作所（京都）、TDK（東京）、京セラ（京都）、日東電工（大阪）、パナソニック（大阪）、住友電気工業（大阪）、太陽誘電（東京）、ニチコン（京都）、ローム（京都）、シャープ（大阪、現 Foxconn 傘下）、ソニー（東京）、東芝（東京）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：ニトリ（札幌）、アスクル（東京）、佐川急便（京都）、ヤマト運輸（東京）、日本通運（東京）、SBS ホールディングス（東京）、楽天物流（東京）、Amazon Japan（東京）、Walmart 系西友（東京）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本独自の特徴として、ロボット OEM の傘下 / 関連 SI と独立系 SI の二系統が併存：",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：FA プロダクツ（茨城）、エイチアイティ（東京）、ジャパンエンジニアサービス（東京）、エフピー（大阪）、平田機工（熊本、半導体装置 SI）、ファイブテック（神奈川、自動車 SI）、ダイヘン（大阪、溶接 + ロボット SI）、安川 IS（独立）、デンソーウェーブの SI 認定パートナー",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本のEC事業者が見るべきなのは、ロボットの珍しさよりも、返品品を再び売れる状態へ戻す速さです",
+    "url": "https://recustomer.me/blog/news-zalando-ai-return-sorting",
+    "pass": 3
+   },
+   {
+    "quote": "日本のEC事業者が利益を守るために見るべき数字",
+    "url": "https://recustomer.me/blog/news-zalando-ai-return-sorting",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 日本の中小ECでもロボット導入が必要ですか？",
+    "url": "https://recustomer.me/blog/news-zalando-ai-return-sorting",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解説】日本キャッシュレス化が遅れている理由は？世界比較・現金信仰・文化的背景・今後の課題まで",
+    "url": "https://recustomer.me/blog/news-zalando-ai-return-sorting",
+    "pass": 3
+   },
+   {
+    "quote": "日本の返品法律とは？基礎知識から応用方法まで徹底解説！",
+    "url": "https://recustomer.me/blog/news-zalando-ai-return-sorting",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyneの世界の販売代理店・インテグレーター網を通じて、Cortexを各国の顧客に届けるのが提携の狙いだ",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "分業がうまく回るかは、URの代理店やインテグレーターが、Cortexを載せたセルをどれだけ組み上げられるかにかかってくる",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、アパレル通販の返品や店舗補充の仕分けは人手に頼る工程が多い",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "標準のURの上で動くCortexが日本の販売網に乗れば、中小の物流拠点が試せる選択肢は広がる",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "社長に「うちはどうする？」と聞かれたら、「付き合いのあるSIerに、このAIを日本で載せられるか・いつからか・料金を聞きます",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "の三位一体で完成しており、KUKA・Stäubli・Universal Robots（デンマーク資本だが欧州中核）・Reis（KUKA 傘下）の主力 6 軸機の直販で既存 OEM 顧客を奪うのは非現実的",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "（Harmonic Drive 系減速機、Wittenstein サーボ、SEW-Eurodrive モーター）の OEM サプライ、(c)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "海外法人は日本子会社設立または国内パートナー（AIST、大学、ロボット OEM、SI ベンダー）との共同申請が条件",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "── ロボット OEM のサプライヤー認定（Fanuc Supplier Quality、安川品質保証規程、川崎・三菱・不二越の同等規程）を取得し ME 部品 / 制御 / ビジョン / ソフトウェアを BOM に組み込む、(b)",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：ドイツは Industrie 4.0 と KUKA・Stäubli・igus・Festo の自動化エコシステム、日本は世界供給の 45% を握るロボット OEM クラスター",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "「最大の顧客市場」ではなく「最大の競合かつ最大の OEM サプライ先」",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "「規模の大企業 + 自動車 OEM」のみがロボットを買う時代から、「中小製造業 + 食品 + 物流 + 医療 + 介護」も買う時代への構造転換が進行中",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "── ロボット OEM 単独では AI / ML / コンピュータビジョンの内製化が追いつかず、海外サプライヤー（OpenAI、Anthropic、NVIDIA、Mobileye、Preferred Networks、ABEJA、Sakana AI、ELYZA）との連携が増加",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ系企業の参入時、JARA 統計は「日本国内需要のサイズ」と「日本 OEM がどこに売っているか」の両方を把握する一次資料",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "OEM サプライ（部品・ソフトウェア）か、エンドユーザー直販か、両方かの選択",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Counterparty マップ — OEM 層・エンドユーザー層・SI 層・商社層のアンカー",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ側プレイヤーの参入は、(1) ロボット OEM 層、(2) エンドユーザー層、(3) SI 層、(4) 商社チャネル層の 4 層に分かれる",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：(a) ZF、Continental、Bosch、Magna の日本拠点経由、(b) 直接アクセスは Tier1 と先に組成して工程提案、(c) 自動車 OEM の R&D 連携プログラム（トヨタ・ホンダ・日産は欧州 R&D オフィスを Munich / Stuttgart / Frankfurt に保有）",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本独自の特徴として、ロボット OEM の傘下 / 関連 SI と独立系 SI の二系統が併存：",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場特有の構造として、ロボット OEM・エンドユーザー・SI の三者間に",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "→ 欧州 Tier1（ZF・Continental・Bosch・Magna・Valeo）の日本拠点経由が現実的、自動車 OEM 直販は KUKA・ABB が長年の関係を持つ範囲で展開",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "→ 独立系 SI と JV、または OEM 傘下 SI の認定パートナー登録の二択",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "：(a) 日本子会社設立、または (b) 国内パートナー（AIST、大学、ロボット OEM、SI ベンダー）との共同申請",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "OEM サプライ / エンドユーザー直販 / SI 連携 / 商社チャネル のどれを主軸にするか",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内需要のサイズと OEM の輸出比率を把握",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "OEM サプライヤー認定の取得（該当する場合）：",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "東京ビッグサイトでの隔年開催、欧州本社 + 日本子会社の共同出展で OEM・エンドユーザー・SI への直接アクセス確保",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "FA プロダクツ・エイチアイティ・ジャパンエンジニアサービス等との連携、または OEM 傘下 SI の認定パートナー登録",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Fanuc / 安川 / 川崎 / 三菱のサプライヤー認定は 2-4 年、自動車 OEM 直販は 5-10 年の関係構築が必要",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   },
+   {
+    "quote": "Schaeffler・SKF・Continental の精密部品事業は日本ロボット OEM 向けで継続成長中",
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ドイツ発フィジカルAIスタートアップ Sereact の正体｜Yushi88 — ドイツ発フィジカルAIスタートアップ Sereact の正体｜Yushi88 note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "返品の衣料を双腕のURが仕分ける。Teradyneと Sereact が提携 — 返品の衣料を双腕のURが仕分ける。Teradyneと Sereact が提携 media.huroc.org https://media.huroc.org > articles > teradyne-sereact-ur-du...",
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Roboticsと Sereact 、Cortexと協働ロボットで小売 ... — Teradyne Roboticsと Sereact 、Cortexと協働ロボットで小売 ... physicalainews.jp https://physicalainews.jp > ニュース",
+    "url": "https://physicalainews.jp/news/teradyne-robotics-to-sereact-cortex-to-kyoudou-robotto-de-ko-c6ce62",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Roboticsと Sereact 、産業用フィジカルAIで提携 — Teradyne Roboticsと Sereact 、産業用フィジカルAIで提携 Unite.AI https://www.unite.ai > teradyne-robotics-sereact-join-force...",
+    "url": "https://www.unite.ai/ja/teradyne-robotics-sereact-join-forces-on-industrial-physical-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Robotics、 Sereact と提携し産業用AIソリューション ... — Teradyne Robotics、 Sereact と提携し産業用AIソリューション ... Moomoo https://www.moomoo.com > news > post > teradyne-robot...",
+    "url": "https://www.moomoo.com/ja/news/post/1001877162/teradyne-robotics-collaborates-with-sereact-for-industrial-ai-offerings",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact : One Brain. Any Robot. — Sereact : One Brain. Any Robot. Sereact https://sereact.ai",
+    "url": "https://sereact.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact - LinkedIn — Sereact - LinkedIn LinkedIn https://www.linkedin.com > sereact",
+    "url": "https://www.linkedin.com/company/sereact/",
+    "pass": 3
+   },
+   {
+    "quote": "About Sereact — About Sereact Sereact https://sereact.ai > company",
+    "url": "https://sereact.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "AI Startup Sereact Raises $110 Million for Robots That Predict ... — AI Startup Sereact Raises $110 Million for Robots That Predict ... Bloomberg https://www.bloomberg.com > articles",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+    "pass": 3
+   },
+   {
+    "quote": "AI startup Sereact raises US$110 million for robots predicting ... — AI startup Sereact raises US$110 million for robots predicting ... The Business Times https://www.businesstimes.com.sg > ai...",
+    "url": "https://www.businesstimes.com.sg/international/ai-startup-sereact-raises-us110-million-robots-predicting-consequences",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Sereact — Case Studies | Sereact Sereact https://sereact.ai > case-studies",
+    "url": "https://sereact.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Robotics and Sereact partner to scale physical AI ... — Teradyne Robotics and Sereact partner to scale physical AI ... Universal Robots https://www.universal-robots.com > te...",
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact's AI Sets the Standard for Industrial and Warehousing ... — Sereact's AI Sets the Standard for Industrial and Warehousing ... ALTIX Consulting https://altixconsulting.com > leading-t...",
+    "url": "https://altixconsulting.com/de/leading-the-change-sereacts-ai-sets-the-standard-for-industrial-and-warehousing-transformation/",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact secures €25 million to develop robotics hardware and ... — Sereact secures €25 million to develop robotics hardware and ... MassRobotics https://www.massrobotics.org > sereac...",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Veloq and Sereact Announce Global Partnership to Power the ... — Veloq and Sereact Announce Global Partnership to Power the ... Sereact https://sereact.ai > posts > veloq-serea...",
+    "url": "https://sereact.ai/posts/veloq-sereact-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact 2026 Company Profile: Valuation, Funding & Investors — Sereact 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/483769-90",
+    "pass": 3
+   },
+   {
+    "quote": "sereact - 2026 Company Profile & Team - Tracxn — sereact - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/sereact/__U4aMdjcq0FoZvD-g5WV0CFL8F4mvP8q0VcwS25fy7o8",
+    "pass": 3
+   },
+   {
+    "quote": "Start-up sereact is making robots smarter and has raised 110 ... — Start-up sereact is making robots smarter and has raised 110 ... Universität Stuttgart https://www.uni-stuttgart.de > all > St...",
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact Revenue 2025: $6.4M Est. - GetLatka — Sereact Revenue 2025: $6.4M Est. - GetLatka GetLatka https://getlatka.com > sereact",
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sereact's Competitors, Revenue , Number of Employees ... — Sereact's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > sereact",
+    "url": "https://www.owler.com/company/sereact",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@massrobotics.org",
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Teradyne Robotics (Universal Robots) and Sereact Partner ... Teradyne Robotics (Universal Robots) and Sereact Partner ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/bhrtaym/n/n159f5bc79524?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ発フィジカルAIスタートアップ Sereact の正体｜Yushi88 ドイツ発フィジカルAIスタートアップ Sereact の正体｜Yushi88 note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "ユニバーサルロボットの2本腕と Sereact のAI 返品の仕分けで ... ユニバーサルロボットの2本腕と Sereact のAI 返品の仕分けで ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Teradyne Robotics (Universal Robots) and Sereact Partner: Automating Returns and Picking with a Single AI Model, Hundreds Deployed in Europe｜amu_lab｜AI検証ジャーナル",
+    "url": "https://note.com/bhrtaym/n/n159f5bc79524?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Robotics (Universal Robots) and Sereact Partner: Automating Returns and Picking with a Single AI Model, Hundreds Deployed in Europe",
+    "url": "https://note.com/bhrtaym/n/n159f5bc79524?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Teradyne Robotics, which owns collaborative robot leader Universal Robots, and German physical AI for robotics firm Sereact officially announced a partnership on October 21, 2026. By powering Universal Robots' robotic arms with Sereact's AI platform, \"Cortex,\" they are automating tasks in retail, logistics, and manufacturing—such as returns processing and picking—that were previously difficult to ",
+    "url": "https://note.com/bhrtaym/n/n159f5bc79524?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cortex is a VLA (Vision-Language-Action) model that determines actions based on images and language, capable of handling returns processing, store replenishment, picking and sorting, machine tending, kitting, and packing using the same model without the need for retraining for each item or task. The CEO of Sereact stated, \"One brain powers all robots, and what one learns, all can apply.\" At Zaland",
+    "url": "https://note.com/bhrtaym/n/n159f5bc79524?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "10億回のピックが証明した——ドイツ発フィジカルAIスタートアップSereactの正体｜Yushi88｜AIスタートアップ最前線",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "10億回のピックが証明した——ドイツ発フィジカルAIスタートアップSereactの正体",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "「どのロボットにも載せられるAI脳を作る」——そのたった一つのコンセプトを実現するために、ドイツ・シュトゥットガルトのスタートアップ",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月27日、Sereactは欧州VC Headlineが主導する",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "を発表した。投資家リストにはBullhound Capital、Felix Capital、Daphni、そして既存のCreandum、Point Nine、Air Street Capitalが名を連ねる。",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "同社が世界の倉庫に展開した200以上のシステムは、累計",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "のピック処理を達成した。そのうち人間が介入を必要としたのは53,000回に1回のみだ。",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Sereact の技術的な仕組み、ビジネスモデル、BMW・PepsiCo等の欧州大手への導入実績、そして日本の倉庫自動化市場との関連性を詳しく解説する。フィジカルAIスタートアップの最前線を知りたい方に向けた内容だ。",
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "pass": 3
+   },
+   {
+    "quote": "ユニバーサルロボットの2本腕とSereactのAI 返品の仕分けで欧州に数百台 人型ロボと比較｜フィジラジ",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   },
+   {
+    "quote": "ユニバーサルロボットの2本腕とSereactのAI 返品の仕分けで欧州に数百台 人型ロボと比較",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   },
+   {
+    "quote": "工場でおなじみの協働ロボット、ユニバーサルロボット（UR）の腕2本に、ドイツのSereactのAI「Cortex」を載せたシステム。両社は10月21日、これを「欧州の顧客の現場に数百台出荷済み」と発表しました。",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   },
+   {
+    "quote": "ネット通販のZalandoのドイツとポーランドの物流拠点で、返品された服を仕分けています。",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   },
+   {
+    "quote": "ただし成功率と1時間の処理数はまだ公表されていません。判定は「現場で使われ始めた段階」です。",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   },
+   {
+    "quote": "協働ロボットの大手ユニバーサルロボットと独SereactのAIが組み、2本腕で返品の仕分けをするシステムを、欧州の現場に数百台出荷済みと両社は言う。ネット通販のZalandoの物流拠点2か所で稼働している。",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   },
+   {
+    "quote": "変わるのは「体」ではなく「頭」。工場でおなじみのURの腕に、品物ごとに教え直さないAIを載せる。ただし成功率や1時間の処理数はまだ公表されていない。",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   },
+   {
+    "quote": "社長に「うちはどうする？」と聞かれたら、「付き合いのあるSIerに、このAIを日本で載せられるか・いつからか・料金を聞きます。並行して、品物が毎回違うので自動化をあきらめた工程を3つ書き出しておきます」と答える。",
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sereact (@SereactAI) / X Sereact (@SereactAI) / X X https://x.com > SereactAI",
+    "url": "https://x.com/SereactAI",
+    "pass": 3
+   },
+   {
+    "quote": "The first 10 Sereact dual-arm robots will be deployed at ... - X The first 10 Sereact dual-arm robots will be deployed at ... - X X https://x.com > @SereactAI",
+    "url": "https://x.com/SereactAI/status/2115341545599811828",
+    "pass": 3
+   },
+   {
+    "quote": "sereact on X: \"See the results: https://t.co/EqoGGJ5zOv\" / X sereact on X: \"See the results: https://t.co/EqoGGJ5zOv\" / X X https://x.com > @SereactAI",
+    "url": "https://x.com/SereactAI/status/2117590838683332621",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Robotics on X: \"Excited to collaborate with Sereact ... NVIDIA Robotics on X: \"Excited to collaborate with Sereact ... X https://x.com > @NVIDIARobotics",
+    "url": "https://x.com/NVIDIARobotics/status/2115557388686426184",
+    "pass": 3
+   },
+   {
+    "quote": "sereact on X sereact on X X https://x.com > @SereactAI",
+    "url": "https://x.com/SereactAI/status/2118750230300491940",
+    "pass": 3
+   },
+   {
+    "quote": "sereact on X : \"See the results: https://t.co/EqoGGJ5zOv\" / X sereact on X : \"See the results: https://t.co/EqoGGJ5zOv\" / X X https://x.com > @SereactAI",
+    "url": "https://x.com/SereactAI/status/2117590838683332621",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sereact - LinkedIn Sereact - LinkedIn LinkedIn https://www.linkedin.com > sereact",
+    "url": "https://www.linkedin.com/company/sereact/",
+    "pass": 3
+   },
+   {
+    "quote": "When we started Sereact , people told us returns were ... When we started Sereact , people told us returns were ... LinkedIn https://www.linkedin.com > posts > ralf-gulde_when-we-s...",
+    "url": "https://www.linkedin.com/posts/ralf-gulde_when-we-started-sereact-people-told-us-returns-activity-7518945423449845760-2RZY",
+    "pass": 3
+   },
+   {
+    "quote": "Ralf Gulde – Co-Founder & CEO @ Sereact | LinkedIn Ralf Gulde – Co-Founder & CEO @ Sereact | LinkedIn LinkedIn https://de.linkedin.com > ralf-gulde",
+    "url": "https://de.linkedin.com/in/ralf-gulde",
+    "pass": 3
+   },
+   {
+    "quote": "German startup Sereact secures $110M to make smarter robots German startup Sereact secures $110M to make smarter robots LinkedIn https://www.linkedin.com > story > g...",
+    "url": "https://www.linkedin.com/news/story/german-startup-sereact-secures-110m-to-make-smarter-robots-8753858/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sereact's Mason Cole on Automating Supply Chain Without ... Sereact's Mason Cole on Automating Supply Chain Without ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/thenewarehouse/videos/throwing-new-tech-at-an-old-problem-wont-fix-your-supply-chain-if-you-want-to-ac/1801584097539252/",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI meets logistics! Together with Sereact , we're ... Physical AI meets logistics! Together with Sereact , we're ... Facebook https://www.facebook.com > ottogroupcom > posts > phy...",
+    "url": "https://www.facebook.com/ottogroupcom/posts/physical-ai-meets-logistics-together-with-sereact-were-bringing-ai-powered-robot/1750474363750518/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sereact.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sereact.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sereact.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sereact.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sereact.ai/assets/images/logos/DeltiLog.svg",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://sereact.ai/assets/images/logos/rohlik.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sereact.ai/assets/images/logos/monta.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sereact.ai/assets/images/logos/bol.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recustomer.me/blog/news-zalando-ai-return-sorting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bhrtaym/n/n159f5bc79524",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/teradyne-robotics-sereact-join-forces-on-industrial-physical-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/news/post/1001877162/teradyne-robotics-collaborates-with-sereact-for-industrial-ai-offerings",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sereact/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://altixconsulting.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/483769-90",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sereact/__U4aMdjcq0FoZvD-g5WV0CFL8F4mvP8q0VcwS25fy7o8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/sereact.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bhrtaym/n/n159f5bc79524?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SereactAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SereactAI/status/2115341545599811828",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SereactAI/status/2117590838683332621",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NVIDIARobotics/status/2115557388686426184",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sereact/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ralf-gulde_when-we-started-sereact-people-told-us-returns-activity-7518945423449845760-2RZY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/ralf-gulde",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/news/story/german-startup-sereact-secures-110m-to-make-smarter-robots-8753858/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thenewarehouse/videos/throwing-new-tech-at-an-old-problem-wont-fix-your-supply-chain-if-you-want-to-ac/1801584097539252/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ottogroupcom/posts/physical-ai-meets-logistics-together-with-sereact-were-bringing-ai-powered-robot/1750474363750518/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/yushi88/n/ndf962dbafe25",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SereactAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SereactAI/status/2118750230300491940",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SereactAI/status/2117590838683332621",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SereactAI/status/2115341545599811828",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sereact 日本 導入",
+   "results": [
+    "https://note.com/yushi88/n/ndf962dbafe25",
+    "https://globaldeal.io/finder/ja/articles/germany-japan-industrial-robotics-market-entry",
+    "https://recustomer.me/blog/news-zalando-ai-return-sorting",
+    "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "https://physicalainews.jp/news/teradyne-robotics-to-sereact-cortex-to-kyoudou-robotto-de-ko-c6ce62",
+    "https://www.unite.ai/ja/teradyne-robotics-sereact-join-forces-on-industrial-physical-ai/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02678/120600003/?P=2",
+    "https://www.groundinc.co.jp/blog-weekly-026.html",
+    "https://jp.investing.com/news/company-news/article-93CH-1719586",
+    "https://careecon.jp/blog/2878658503"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sereact 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://media.huroc.org/articles/teradyne-sereact-ur-dual-arm-retail-logistics/",
+    "https://note.com/bhrtaym/n/n159f5bc79524",
+    "https://www.unite.ai/ja/teradyne-robotics-sereact-join-forces-on-industrial-physical-ai/",
+    "https://www.moomoo.com/ja/news/post/1001877162/teradyne-robotics-collaborates-with-sereact-for-industrial-ai-offerings",
+    "https://www.youtube.com/watch?v=Rmki0SG2AWU",
+    "https://www.instagram.com/reel/De_qxTlMU7-/",
+    "https://sereact.ai/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sereact Japan",
+   "results": [
+    "https://sereact.ai/",
+    "https://www.linkedin.com/company/sereact/",
+    "https://sereact.ai/company",
+    "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
+    "https://www.businesstimes.com.sg/international/ai-startup-sereact-raises-us110-million-robots-predicting-consequences",
+    "https://tracxn.com/d/companies/sereact/__U4aMdjcq0FoZvD-g5WV0CFL8F4mvP8q0VcwS25fy7o8",
+    "https://www.robotics247.com/article/skyline_robotics_granted_patent_from_japan_for_robotic_window_cleaning_platform/technologies",
+    "https://www.roboticscenter.ai/institutions/companies/sereact",
+    "https://sereact.ai/news",
+    "http://secretjapan.com/main.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sereact manufacturing customer case study",
+   "results": [
+    "https://sereact.ai/case-studies",
+    "https://www.universal-robots.com/news-and-media/news-center/teradyne-robotics-and-sereact-partner-to-scale-physical-ai-solutions-for-retail-and-logistics/",
+    "https://altixconsulting.com/de/leading-the-change-sereacts-ai-sets-the-standard-for-industrial-and-warehousing-transformation/",
+    "https://www.massrobotics.org/sereact-secures-e25-million-to-develop-robotics-hardware-and-expand-to-the-us/",
+    "https://sereact.ai/",
+    "https://roboticsbusinessnews.com/news/10/3823/otto-group-and-sereact-deploy-physical-ai-robots-for-automated-returns-processing.html",
+    "https://www.all-about-industries.com/automate-picking-robotics-without-training-a-f0d884cea87626df65d6651b9044a37d/",
+    "https://aiworld.eu/story/sereact-and-the-software-layer-europes-factories-already-need",
+    "https://www.youtube.com/watch?v=Fuh2ileTPcg",
+    "https://www.featuredcustomers.com/vendor/sereact"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sereact white label OR reseller OR partner program",
+   "results": [
+    "https://sereact.ai/posts/veloq-sereact-partnership",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://legiit.com/blog/top-12-white-label-seo-reseller-programs-agencies",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sereact founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/483769-90",
+    "https://tracxn.com/d/companies/sereact/__U4aMdjcq0FoZvD-g5WV0CFL8F4mvP8q0VcwS25fy7o8",
+    "https://www.uni-stuttgart.de/en/university/news/all/Start-up-sereact-is-making-robots-smarter-and-has-raised-110-million-dollars-in-funding/",
+    "https://getlatka.com/companies/sereact.ai",
+    "https://www.owler.com/company/sereact",
+    "https://sereact.ai/posts/series-b",
+    "https://dealroom.co/companies/sereact/",
+    "https://www.crunchbase.com/organization/sereact",
+    "https://www.linkedin.com/posts/headlinevc_proud-to-lead-sereacts-110m-series-b-activity-7454482205692600321-55K9",
+    "https://compworth.com/company/sereact"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Sereact",
+   "results": [
+    "https://note.com/bhrtaym/n/n159f5bc79524?hl=en",
+    "https://note.com/kawamura_akihiro/n/n664937f64f05?hl=en",
+    "https://note.com/eoe_library/n/n31ad0418fcc2?hl=en",
+    "https://note.com/yushi88/n/ndf962dbafe25",
+    "https://note.com/mici_ai/n/nce1e71c96641?hl=en",
+    "https://note.com/linkcho/n/n6b8efc233e8c",
+    "https://note.com/yasuhitoo/n/n2ba7573fa48b",
+    "https://note.com/kagawatomo/n/n36e0eb94b5b8",
+    "https://note.com/ainest/n/n7659733ecb03",
+    "https://note.com/yasuhitoo/n/n23f4586f342e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Sereact",
+   "results": [
+    "https://x.com/SereactAI",
+    "https://x.com/SereactAI/status/2115341545599811828",
+    "https://x.com/SereactAI/status/2117590838683332621",
+    "https://x.com/NVIDIARobotics/status/2115557388686426184",
+    "https://x.com/SereactAI/status/2118750230300491940",
+    "https://x.com/SereactAI/status/2110759442668978571",
+    "https://x.com/iotguide/status/2117992814294257830",
+    "https://x.com/lukas_m_ziegler/status/2114027796959814112",
+    "https://x.com/wallstengine/status/2112854665817731562",
+    "https://x.com/SereactAI/status/1881233937089147049"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Sereact",
+   "results": [
+    "https://www.linkedin.com/company/sereact/",
+    "https://www.linkedin.com/posts/ralf-gulde_when-we-started-sereact-people-told-us-returns-activity-7518945423449845760-2RZY",
+    "https://de.linkedin.com/in/ralf-gulde",
+    "https://www.linkedin.com/news/story/german-startup-sereact-secures-110m-to-make-smarter-robots-8753858/",
+    "https://www.linkedin.com/posts/sereact_the-meaning-of-sereact-activity-7029046020961394689-Md2v",
+    "https://www.linkedin.com/pulse/sereact-brings-nvidia-powered-physical-ai-otto-group-robotics-24-7-g2ssc",
+    "https://www.linkedin.com/posts/jacob-guy-3a0400224_warehouseautomation-robotics-physicalai-activity-7520510631704305665-5cvQ",
+    "https://www.linkedin.com/posts/ralf-gulde_physicalai-robotics-sereact-activity-7473378424410181632-T5TX",
+    "https://www.linkedin.com/pulse/abb-nyobolt-emmeci-sereact-whats-new-robotics-vanessa-loiola-lflme",
+    "https://www.linkedin.com/company/sereact/jobs/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Sereact",
+   "results": [
+    "https://www.facebook.com/thenewarehouse/videos/throwing-new-tech-at-an-old-problem-wont-fix-your-supply-chain-if-you-want-to-ac/1801584097539252/",
+    "https://www.facebook.com/manjeetbuilds/videos/online-returns-are-one-of-the-toughest-warehouse-tasks-to-automatesereacts-ai-po/28185954624412204/",
+    "https://www.facebook.com/ottogroupcom/posts/physical-ai-meets-logistics-together-with-sereact-were-bringing-ai-powered-robot/1750474363750518/",
+    "https://www.facebook.com/NexdelMedia/videos/otto-group-and-robotics-company-sereact-have-announced-plans-to-bring-ai-control/1153840150397203/",
+    "https://www.facebook.com/thenewarehouse/posts/ever-wonder-how-massive-warehouses-process-your-endless-online-returns-i-talked-/1720442089466434/",
+    "https://www.facebook.com/jenspederkristensen/videos/physical-ai-is-already-working-at-zalando-powered-by-danish-robot-arms-and-germa/872192552619326/",
+    "https://www.facebook.com/ctorobotics/posts/what-if-robots-could-learn-on-the-job-just-like-humans-sereacts-flex-approach-he/1139581249008145/",
+    "https://www.facebook.com/sereat.ai.77/",
+    "https://www.facebook.com/ctorobotics/videos/sereact-secured-110-m-funding-to-expand-to-the-us-and-scale-its-ai-powered-robot/926426640232104/",
+    "https://www.facebook.com/public/Sereact-Ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sereact note 社長",
+   "results": [
+    "https://note.com/yushi88/n/ndf962dbafe25",
+    "https://note.com/rita_robotics/n/nc2905dbe4697",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n831c27926b3d",
+    "https://bunshun.jp/list/author/5f223a15776561773d000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sereact X 投稿",
+   "results": [
+    "https://x.com/SereactAI",
+    "https://x.com/SereactAI/status/2118750230300491940",
+    "https://x.com/SereactAI/status/2117590838683332621",
+    "https://x.com/SereactAI/status/2115341545599811828",
+    "https://x.com/SereactAI/status/2117587849134399639/video/1",
+    "https://x.com/seratch",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://sananeblog.com/x-twitter-automation/",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

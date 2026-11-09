@@ -1,0 +1,1181 @@
+{
+ "name": "Relling",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-09T19:23:01.605231+00:00",
+ "official_url": "https://relling.co",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Engineers, roboticists, and shop-floor veterans making advanced automation practical for small and mid-sized manufacturers.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Safety is the longest part of our process. Every cell is proven to work safely beside your crew before it ever runs a shift.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insertion · press-fit · fastening",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beads · gaskets · sealant",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Print · apply · verify",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Spray · powder · even film",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CNC · presses · molding",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Relling · pre-built at HQ",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A fraction of an integrator's all-in price — without the months of on-site engineering.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Relling · productized",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Representative figures. Final numbers scoped per deployment.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No plant-wide overhaul. No robotics team to hire.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We scope a single cell to one part on your floor. You prove it without betting the business.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Do robotics foundation models represent duration at all?",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Event-Driven Video Encoding for Robot Policies",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "the programs that set the bar",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "The models are ready. The arms are ready. What is not ready is the path from a working demo to a line that runs it every shift — and that path, not the intelligence, is where programs die. A cell that ships fast but wrong stops a line for weeks; one that ships qualified disappears into it on day one.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "The pace of the underlying technology is now the easy part. Manipulation models advance on a frontier that moves in months, not years — the capability that was production-ready eighteen months ago is already a generation behind, and hardware gets cheaper and more capable every quarter. If putting robots on American factory floors were a question of raw capability, it would already be done.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "of exactly that: customers pay for engineer-hours instead of buying a productized stack, because the productized stack does not exist yet. Fast-moving intelligence stalls out on top of a slow, one-off, hand-built deployment layer — and that gap, between how fast the technology moves and how slowly it gets installed, is where the automation this country needs keeps dying.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": ", not a project.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "One so far, a representative robotic deburring case study. It covers the cell layout, a cycle timing diagram, baseline vs result, payback worked step by step, sensitivities, and what has to be true at your plant for the numbers to transfer.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Finishing · representative deployment",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Every figure in a representative study carries one of four tags, shown inline next to the number.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "What is a representative deployment?",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "It's a worked example of a real cell design applied to a shop profile we see often, not a story about a particular plant. Nothing in it was measured, so every number shows where it came from, and the payback is computed in the open so you can redo it with your own figures.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pick a common profile",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Robot, tooling, vision, guarding and part presentation, with specs from vendor datasheets and planning prices.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Wages from BLS, inspection performance from published research, process data from NIST and vendor sources.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "explains what sits behind each line of an installed price.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Representative deployment vs published customer study",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Representative deployment",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A composite shop profile, unnamed",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Only with the person's approval",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Deburring Case Study (Representative Cell, 2026) — Relling",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Relling hasn't published a customer case study yet. This page is a composite. The shop profile is one we see often, the cell is the one we'd quote for it, and every number either comes from a cited public source or is computed from inputs we state. There are no real people, quotes or measured results here.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "In this representative scenario the cell frees about 3,000 operator hours a year, cuts burr escapes from about 90 to under 10 a year, and pays back its",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "In this scenario it costs about $130,000 a year in loaded labor, 3,750 hours spread across a bench and an inspection table, plus around 90 burr escapes a year that reach the customer. Those figures come from published wages and stated per-part times, worked through below.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "CNC capacity isn't the problem. The bottleneck is the bench behind the machines, where people break edges with hand tools and then look over every part under a lamp before it goes in the box.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": ", and machined housings have cleaner edges but more holes, so we went a little lower. NIST's ADACS reports cite a Pratt & Whitney estimate that 12% of machining hours went to manual deburring and chamfering.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "BLS publishes medians for hand grinding and polishing workers and for inspectors inside machine shops (NAICS 3327). We load them with the share of compensation that's wages for production workers in manufacturing, from the June 2026 employer cost survey.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "65.5%, production jobs in manufacturing",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "A 12.5 kg cobot carries a radially compliant spindle and a smart camera on one tool plate. Parts arrive in two interlocked drawers, so the operator loads one while the robot works the other. The camera finds each part, then checks every edge after the pass.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "The operator loads drawer B while the robot works drawer A, then they swap, and interlocks keep the robot out of the open bay. The spindle is the hazard, so the cell is fenced even with a cobot. Layout is representative.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "One smart camera does two jobs. Before cutting, it reads the fixture plate code and finds each part's real position, so the path shifts to the part. After cutting, it looks along every reachable edge under low-angle light. A clean edge break shows as an even bright line, a leftover burr as a bright spot. That's dark-field lighting, and our",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Recipes, not reprogramming",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Every part number has a recipe: tool path, spindle, compliance pressure, camera job, limits and nest layout, stored under the plate code. Changing parts means swapping a plate.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "force set by air pressure",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Bill of materials and installed cost for the representative cell",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Install, site acceptance, training",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "On-site week, 72-hour acceptance watch, operator and tech training",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware specs are from the vendors' published datasheets (cited below) and name a class of product, not a commitment to a brand. Prices are our planning numbers, not quotes. The",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "locate · 3 s, reads plate code and part pose",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "The sensitivity chart shows what doubling it does. For the project steps, see",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "A new part is an afternoon, not a project.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Baseline vs result · representative robotic deburring cell",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "plate swap, recipe loads from the code",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Rounded figures, computed unrounded. No tax treatment, financing or wage growth is included. Leasing and depreciation change the cash curve but not the per-part savings; the",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Modeled three-year projection",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Relling is working on the “ImageNet for world models”: large-scale, high-quality multimodal datasets that help AI and robotics teams train systems to see, move, and interact with the real world. We combine synchronized video, depth, LiDAR, motion, and audio, we give researchers the building blocks for truly general-purpose AI.",
+    "url": "https://startupintros.com/orgs/relling",
+    "pass": 3
+   },
+   {
+    "quote": "Relling provides synchronized multimodal datasets (video, depth, LiDAR, motion, audio) that capture real-world events in high fidelity, enabling AI models to learn from raw video experience rather than engineered features or single modalities[1][3].",
+    "url": "https://startupintros.com/orgs/relling",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "putting advanced automation within reach of the manufacturers who build America.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "American manufacturing, and what comes next.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing expertise.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers, roboticists, and shop-floor veterans making advanced automation practical for small and mid-sized manufacturers.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced robotics shouldn't be a luxury only the biggest plants can afford. We build it to fit shops your size.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From job shops to mid-sized suppliers, configured for the contact-rich, high-mix work in automotive, aerospace, electronics, and defense.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No plant-wide overhaul. No robotics team to hire.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Relling to your shop floor.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We started Relling to help American manufacturers make more of what this country needs. Tell us about the part and we'll scope a cell to it.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Relling deploys intelligent robots to do high-mix tasks on manufacturing lines. The bridge loops back on itself mid-span, the quick way and the careful way are one path. So we move fast where speed is free, and slow where a mistake stops a line.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment is the one step a factory doesn’t get to",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "The pace of the underlying technology is now the easy part. Manipulation models advance on a frontier that moves in months, not years — the capability that was production-ready eighteen months ago is already a generation behind, and hardware gets cheaper and more capable every quarter. If putting robots on American factory floors were a question of raw capability, it would already be done.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Bring Relling to your shop floor.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "We started Relling to help American manufacturers make more of what this country needs. Tell us about the part and we'll scope a cell to it.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "One so far, a representative robotic deburring case study. It covers the cell layout, a cycle timing diagram, baseline vs result, payback worked step by step, sensitivities, and what has to be true at your plant for the numbers to transfer.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "It's a worked example of a real cell design applied to a shop profile we see often, not a story about a particular plant. Nothing in it was measured, so every number shows where it came from, and the payback is computed in the open so you can redo it with your own figures.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "What will a published customer case study include?",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Plant data from a stated measurement window, the customer's sign-off, and the same tagging, with measured results marked as measured. We'll publish them once cells have run long enough to measure and customers agree to be named.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A real plant, named with permission",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Relling builds turnkey robotic workcells for high-mix American manufacturers, using arms from FANUC, ABB, Universal Robots, Yaskawa, KUKA and others, and we're paid by none of them. Send drawings and a week of timings and we'll run the same model you see in these studies on your parts, including the cases where the answer is \"not yet.\"",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Bring Relling to your shop floor.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "We started Relling to help American manufacturers make more of what this country needs. Tell us about the part and we'll scope a cell to it.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Deburring Case Study (Representative Cell, 2026) — Relling",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "No customer, no plant, no measurements.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Relling hasn't published a customer case study yet. This page is a composite. The shop profile is one we see often, the cell is the one we'd quote for it, and every number either comes from a cited public source or is computed from inputs we state. There are no real people, quotes or measured results here.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "at the bottom say what has to be true at your plant for numbers like these to hold.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "The shop machines aluminum and steel housings in about 40 part numbers for industrial customers. Parts weigh under 4 kg and fit inside a 300 × 250 × 150 mm box.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "That's 1990s aerospace, but it says the bench isn't a rounding error.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "BLS publishes medians for hand grinding and polishing workers and for inspectors inside machine shops (NAICS 3327). We load them with the share of compensation that's wages for production workers in manufacturing, from the June 2026 employer cost survey.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "65.5%, production jobs in manufacturing",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "For heavy castings or real stock removal we'd pick an industrial arm, and our",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Paths and camera jobs for 40 part numbers, factory acceptance",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "how much an industrial robot costs",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "best robots for high-mix, low-volume manufacturing",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "What has to be true at your plant for these numbers to hold?",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "How was this representative case study built?",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "What this page can't tell you is how a real cell performed. There's no measurement window, plant data or customer sign-off; a published study will have all three. Use this one for the method, and your own timings for the decision. The",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": ", June 2026. Production occupations in manufacturing: wages 65.5% of $38.42 total.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "ATI Industrial Automation,",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Is this a real customer case study?",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "No. It's a representative deployment. There's no named plant, no customer quote and no measured result on this page. We built the scenario from Relling's standard deburr cell design, published wage and inspection data, and planning inputs we state openly, so you can see the method and swap in your own numbers. Published customer studies will be labeled as such.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "How do you build a representative case study?",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "When customers agree to it and the cells have run long enough to measure. A published study will name the measurement window, show before and after data from the plant, and carry the customer's sign-off. Until then, representative deployments like this one show how we'd scope and justify a cell.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Bring Relling to your shop floor.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "We started Relling to help American manufacturers make more of what this country needs. Tell us about the part and we'll scope a cell to it.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "By providing foundational datasets, Relling influences the broader ecosystem by lowering barriers for startups and research labs working on embodied AI, robotics, and real-world perception. Their work could accelerate innovation across industries reliant on AI that understands complex environments, from autonomous vehicles to smart manufacturing.",
+    "url": "https://startupintros.com/orgs/relling",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We do the slow, hard engineering before your cell ships, so it arrives tested and dialed in instead of tying up your team for months.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Safety is the longest part of our process. Every cell is proven to work safely beside your crew before it ever runs a shift.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrators build and debug on your site, one step after another, for months. We build and qualify every cell in parallel at Relling HQ, so yours arrives ready to run, online within six weeks at a fraction of the cost.",
+    "url": "https://rellingsystems.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is American automation that arrives",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Every figure in a representative study carries one of four tags, shown inline next to the number.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Each number carries a tag so you can see how much weight it holds. Swap the assumptions for your own data in the",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "A cobot with a compliant spindle and a smart camera on the same tool plate can take most of the hand deburring and the visual edge check off a high-mix bench, as long as each part number gets its own recipe and the parts arrive in known fixtures.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "A 12.5 kg cobot carries a radially compliant spindle and a smart camera on one tool plate. Parts arrive in two interlocked drawers, so the operator loads one while the robot works the other. The camera finds each part, then checks every edge after the pass.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "The touch-up sliver is the honest part of the bar.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "Payback stretches but stays under 30 months in every single-input case we tested. Lower volume hurts most, because savings scale with parts and the install cost doesn't. A growing mix costs about $1,500 per new part number, which adds roughly six months if 20 arrive every year.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "The cobot carries the tool, not the part, and the camera can only correct a few millimeters",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "When customers agree to it and the cells have run long enough to measure. A published study will name the measurement window, show before and after data from the plant, and carry the customer's sign-off. Until then, representative deployments like this one show how we'd scope and justify a cell.",
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "pass": 3
+   },
+   {
+    "quote": "By providing foundational datasets, Relling influences the broader ecosystem by lowering barriers for startups and research labs working on embodied AI, robotics, and real-world perception. Their work could accelerate innovation across industries reliant on AI that understands complex environments, from autonomous vehicles to smart manufacturing.",
+    "url": "https://startupintros.com/orgs/relling",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Relling have?",
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About — Relling — About Relling Festina lente “Make haste, slowly.” Relling deploys intelligent robots to do high-mix tasks on manufacturing lines. The bridge loops back on itself mid-span, the quick way and the careful way are one path. So we move fast where speed is free, and slow where a mistake stops a line.",
+    "url": "https://rellingsystems.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Relling: deploying the first billion robots for manufacturing ... — deploying the first billion robots for manufacturing. Founded in 2025 by Anya Singh, Relling has employees based in San Francisco. Relling is hiring for 7 roles in operations, engineering, sales, and marketing.",
+    "url": "https://www.ycombinator.com/companies/relling",
+    "pass": 3
+   },
+   {
+    "quote": "Relling — Deploy intelligent robots — American manufacturing, automated. AI robot workcells deployed at warp speed.",
+    "url": "https://rellingsystems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Relling — Deploy intelligent robots — Relling deploys frontier AI to extend what robots can do, putting advanced automation within reach of the manufacturers who build America. Ten industries. Thirty-two seconds across the floors we work on — from aerospace and battery to food, metals and pharma.How we work.",
+    "url": "https://rellingsystems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Relling - LinkedIn — Relling Robotics Engineering San Francisco , California 642 followers Industrial superintelligence for high-mix, low-volume manufacturing.",
+    "url": "https://www.linkedin.com/company/relling-corp",
+    "pass": 3
+   },
+   {
+    "quote": "Relling Systems: AI-Driven Automation for 2026 - accio.com — Sep 20, 2026 · Discover Relling Systems' AI-powered robotics for high-mix manufacturing. Explore 2026 market trends, cost-effective automation, and how they're transforming SMEs. Click to learn more about the future of intelligent robots.",
+    "url": "https://www.accio.com/business/relling-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Automation Case Studies, Assumptions Shown — Relling — Robotic automation case studies from Relling: representative deployments showing the cell, the cycle and the payback math, with every assumption in view.",
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Relling: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Relling? Relling was founded in 2025 by Anya Singh (Founder) and Jai Relan (Founder). How much funding has Relling raised? Relling has raised $500K in total across 1 funding round. Who are Relling's investors? Relling's investors include PeakSpan Capital, Trestle Partners, Y Combinator.",
+    "url": "https://startupintros.com/orgs/relling",
+    "pass": 3
+   },
+   {
+    "quote": "Relling: Funding, Investors & Team (Nov 2026) | FundedIQ — Relling's most recent funding round on record is a Pre-Seed of $500k, announced in Sep 2025. Where is Relling headquartered? Relling is based in San Francisco, United States. How many employees does Relling have? Relling is in the 1-10 employee band. How does Relling's funding compare to other Artificial Intelligence startups?",
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Relling — Company Profile, Funding & Investors — Relling company profile with HQ in San Francisco, United States, founded 2025. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/relling",
+    "pass": 3
+   },
+   {
+    "quote": "Relling - 2026 Company Profile, Funding & Competitors - Tracxn — Mar 11, 2026 · Relling is a seed company based in San Francisco (United States), founded in 2008. It operates as a Developer of AI model software for training systems and real-world AI. Relling has raised $500K in funding. The company has 61 active competitors, including 2 funded and 1 that has exited. Its top competitor s include co",
+    "url": "https://tracxn.com/d/companies/relling/__E0PMuwLx3jgjtyKOOuKyvWxx-ZM6igM725pkROtj_qg",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Relling (@Rellingco) / X I want to hire veterans! Would love to talk to anyone who's served and has some sort of experience in supply chain/ logistics, manufacturing engineering, controlsE, mechanical/ mechatronics, sales (sending intro-ers a challenge coin!) 26 Relling @Rellingco Jun 26 1 2 146",
+    "url": "https://x.com/Rellingco",
+    "pass": 3
+   },
+   {
+    "quote": "Relling (@Relling_AI) / Posts / X Relling_AI Location: San francisco Website: https://rellingsystems.com Joined: Aug 30, 2025 2Posts 3Following 0Followers Next Gen Data",
+    "url": "https://x.com/Relling_AI",
+    "pass": 3
+   },
+   {
+    "quote": "Tanner Relling (@TannerRelling) / Posts / X 🤍 5 0 📎 Tanner Relling TannerRelling Feb 2 Signing day! 🐻🏔 @Coach_Stutz @crunchcarroll65 @Rocky_Football @JavonWashington @SamMoraJr @kalepaslay",
+    "url": "https://x.com/TannerRelling",
+    "pass": 3
+   },
+   {
+    "quote": "Tanner Relling (@RellingTanner) / X 0 followers · 0 following. Joined Mar 2022. See the latest conversations with @RellingTanner",
+    "url": "https://x.com/RellingTanner",
+    "pass": 3
+   },
+   {
+    "quote": "(@Lin_Relling) / X 13 64 🐻🐻 @Lin_Relling Oct 1 今天上班的時候 有一個高中生阿弟來光顧 然後一直拉褲子喬內褲 突然看到他在拉鳥鳥 形狀超明顯的 拉完內褲的時候鳥頭的位置馬上凸凸的 害我有點不知道要看哪裡…😂 10",
+    "url": "https://x.com/Lin_Relling",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Relling - LinkedIn Relling Robotics Engineering San Francisco , California 642 followers Industrial superintelligence for high-mix, low-volume manufacturing.",
+    "url": "https://www.linkedin.com/company/relling-corp",
+    "pass": 3
+   },
+   {
+    "quote": "Cory Relling - Business Aviation Sales Manager | LinkedInThomas Relling - Director & Portfolio Manager, Haywood ...Alexander Relling – Digital R&D & Lab Automation Strategy ...Fritz Relling - QS Bureau | LinkedInDagmar Relling (Meachem), PCC - Helping leaders and teams in ...Jock Relling - Rellings Energy | LinkedIn Business Aviation Sales Manager · Experience: VisionSafe, LLC · Education: Univers",
+    "url": "https://www.linkedin.com/in/cory-relling-548aa52a",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas Relling - Director & Portfolio Manager, Haywood ...Alexander Relling – Digital R&D & Lab Automation Strategy ...Fritz Relling - QS Bureau | LinkedInDagmar Relling (Meachem), PCC - Helping leaders and teams in ...Jock Relling - Rellings Energy | LinkedIn Director & Portfolio Manager, Haywood Securities Inc. · Experience: Haywood Securities Inc. · Location: Vancouver · 296 connections on Link",
+    "url": "https://ca.linkedin.com/in/thomas-relling-56283b149",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Relling – Digital R&D & Lab Automation Strategy ... Strategy & technology consultant specializing in the transformation of Materials Science, Chemical, and Life Sciences R&D organizations through laboratory automation, scientific data strategy, and closed-loop AI enablement. Combining a background in chemistry with hands-on experience in laboratory automation and digital transformation, ",
+    "url": "https://de.linkedin.com/in/alexander-relling",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tom Relling - FacebookRelling - FacebookRelling Rangit Farm and Homestay | Darjeeling - FacebookRelling Champions Trophy | Darjeeling - FacebookRelling Champions Trophy | Darjeeling - FacebookRelling orange farmstay | Darjeeling - FacebookFacebook Oct 15, 2026 · Born in Pasadena CA and raised in St. Louis MO, songwriter and guitarist Tom Relling landed in San Francisco in 2010 and soon established",
+    "url": "https://www.facebook.com/Tomrellingmusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Relling - FacebookRelling Rangit Farm and Homestay | Darjeeling - FacebookRelling Champions Trophy | Darjeeling - FacebookRelling Champions Trophy | Darjeeling - FacebookRelling orange farmstay | Darjeeling - FacebookFacebook Sep 15, 2021 · Relling. 534 followers. Musician/band BAM! Etter en forrykende helg på Trondheim Calling med utallige konserter med både små og store artister er vi overbevist",
+    "url": "https://www.facebook.com/rellingband/",
+    "pass": 3
+   },
+   {
+    "quote": "Relling Rangit Farm and Homestay | Darjeeling - FacebookRelling Champions Trophy | Darjeeling - FacebookRelling Champions Trophy | Darjeeling - FacebookRelling orange farmstay | Darjeeling - FacebookFacebook Sep 26, 2026 · Relling Rangit Farm and Homestay, Darjeeling. 3,911 followers · 156 talking about this · 3,466 were here. Rangit homestay is a chain of homestays in North Bengal we have riversi",
+    "url": "https://www.facebook.com/rrrresort/",
+    "pass": 3
+   },
+   {
+    "quote": "Relling Champions Trophy | Darjeeling - Facebook Feb 14, 2026 · Relling Champions Trophy, Darjeeling. 15,947 likes · 564 talking about this · 212 were here. Welcome to the official Relling Champions Trophy page! ⚽ Get live Updates, match Highlights, and all the...",
+    "url": "https://www.facebook.com/people/Relling-Champions-Trophy/100063789504085/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rellingsystems.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://rellingsystems.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/relling",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rellingsystems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000731/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rellingsystems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rellingsystems.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/relling-corp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/relling",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rellingsystems.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/relling",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/relling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/relling",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/relling/__E0PMuwLx3jgjtyKOOuKyvWxx-ZM6igM725pkROtj_qg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Rellingco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Relling_AI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TannerRelling",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RellingTanner",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/relling-corp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/cory-relling-548aa52a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/thomas-relling-56283b149",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/alexander-relling",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Tomrellingmusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rellingband/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rrrresort/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Relling-Champions-Trophy/100063789504085/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Rellingco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Lin_Relling",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Relling 日本 導入",
+   "results": [
+    "https://rellingsystems.com/about",
+    "https://www.ycombinator.com/companies/relling",
+    "https://rellingsystems.com/",
+    "https://www.itmedia.co.jp/news/article/2608/25/2000000731/",
+    "https://prtimes.jp/main/html/rd/p/000000010.000044249.html",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://www.yomiuri.co.jp/economy/20260817-GYT1T00268/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Relling 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.kering.com/jp/group/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Relling Japan",
+   "results": [
+    "https://rellingsystems.com/",
+    "https://rellingsystems.com/about",
+    "https://www.linkedin.com/company/relling-corp",
+    "https://www.ycombinator.com/companies/relling",
+    "https://www.accio.com/business/relling-systems",
+    "https://www.mlit.go.jp/tagengo-db/en/H30-00386.html",
+    "https://www.jairelan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Relling manufacturing customer case study",
+   "results": [
+    "https://rellingsystems.com/resources/case-studies",
+    "https://rellingsystems.com/resources/case-studies/vision-guided-deburring-cell",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.ycombinator.com/companies/relling",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.salesforce.com/customer-stories/",
+    "https://www.accio.com/business/relling-systems"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Relling white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Relling founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/relling",
+    "https://fundediq.co/relling-rellingsystems-com-funding/",
+    "https://acquirezy.com/organization/relling",
+    "https://tracxn.com/d/companies/relling/__E0PMuwLx3jgjtyKOOuKyvWxx-ZM6igM725pkROtj_qg",
+    "https://www.ycombinator.com/companies/relling",
+    "https://indexed.vc/companies/relling",
+    "https://www.crunchbase.com/organization/relling"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Relling",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/",
+    "https://note.com/diparururun",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/saomaru_bopper/n/ne48a4cbe2f2b",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Relling",
+   "results": [
+    "https://x.com/Rellingco",
+    "https://x.com/Relling_AI",
+    "https://x.com/TannerRelling",
+    "https://x.com/RellingTanner",
+    "https://x.com/hannarelling",
+    "https://x.com/mrelling",
+    "https://x.com/xtian_relling"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Relling",
+   "results": [
+    "https://www.linkedin.com/company/relling-corp",
+    "https://www.linkedin.com/in/cory-relling-548aa52a",
+    "https://ca.linkedin.com/in/thomas-relling-56283b149",
+    "https://de.linkedin.com/in/alexander-relling",
+    "https://za.linkedin.com/in/fritz-relling-a42a7b33",
+    "https://ca.linkedin.com/in/dagmarmeachem",
+    "https://za.linkedin.com/in/jock-relling-88172657"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Relling",
+   "results": [
+    "https://www.facebook.com/Tomrellingmusic/",
+    "https://www.facebook.com/rellingband/",
+    "https://www.facebook.com/rrrresort/",
+    "https://www.facebook.com/people/Relling-Champions-Trophy/100063789504085/",
+    "https://www.facebook.com/p/Relling-Champions-Trophy-100063789504085/",
+    "https://www.facebook.com/rellingorangefarmstay/",
+    "https://www.facebook.com/\u0000jperes88/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Relling note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/i/trending/2046863236369465539"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Relling X 投稿",
+   "results": [
+    "https://x.com/Rellingco",
+    "https://x.com/Lin_Relling",
+    "https://www.instagram.com/rellingx/",
+    "https://rellingsystems.com/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://xkings.jp/",
+    "https://news.yahoo.co.jp/articles/c433091e5e50d42e2a18d576920e8414bb798cb9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

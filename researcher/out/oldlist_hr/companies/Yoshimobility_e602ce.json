@@ -1,0 +1,954 @@
+{
+ "name": "Yoshimobility",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T19:31:49.639001+00:00",
+ "official_url": "https://www.yoshimobility.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Yoshi Mobility — Live-Video Vehicle Inspections for Fleets & Rideshare",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yoshi is the live-video inspection platform for transportation networks. Inspections, driver qualifications, and contractor onboarding conducted virtually by qualified experts.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live-Video Inspection",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Uber, Turo, and major transportation networks already trust Yoshi to keep their assets and contractors compliant. AI-powered live video and API-ready signed results give networks the scalable inspection layer their networks demand.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketplaces, franchise networks, brokers, and specialty transport operators use Yoshi to qualify assets and operators before they go to work — conducted over live video with signed, auditable results.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Driving with Uber or hosting on Turo? Yoshi makes your required annual inspection fast and hassle-free. Compliant inspections are done over real-time video. We're officially integrated with Uber and trusted by thousands of earners and hosts. Just schedule online, join a quick video call, and receive a digitally-signed inspection form by email instantly.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At your scheduled time, the driver joins the video call on their phone using the link we send. Our inspector will expertly guide them through the inspection steps.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're onboarding a contractor fleet, building a marketplace, or running a franchise that needs auditable inspection records — Yoshi integrates with your platform. Let's talk about how live-video inspection fits your workflow.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From on-demand gas delivery to live-video vehicle inspections, Yoshi has been redefining how transportation networks keep their vehicles and drivers compliant, since 2015.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Yoshi began in 2015 as a gas delivery service — bringing fuel directly to your vehicle, wherever you parked, using DOT-approved trucks and Hazmat-certified Field Technicians. You downloaded the app, dropped a pin, popped your gas flap, and went on with your day. We handled the rest.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "From there we expanded into preventative maintenance and EV charging services, building the technology platform and operational know-how to deliver vehicle services at scale, without the customer ever visiting a shop.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "That same DNA to meet customers where they are and use technology to do it efficiently led us to where we are today: live-video vehicle inspections. We traded fuel trucks for video calls, and unlocked something far more scalable: a certified inspection process that works for a single rideshare driver or an entire contractor fleet.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep transportation networks moving via live-video inspections that are fast, compliant, and built for scale. From a single rideshare driver to a national fleet, Yoshi makes the inspection process seamless.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "From gas delivery to video calls, Yoshi’s technology has continuously evolved to meet the needs of transportation networks. Today, our live-video platform serves rideshare drivers, commercial fleets, and marketplace networks across the country.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re expanding what’s possible over live video: qualifying vehicles, operators, and contractors for platforms that need auditable, scalable onboarding. If it can be assessed in real time, Yoshi can deliver it.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Live video inspection company",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "is a live-video vehicle inspection platform",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "The company previously provided mobile fuel delivery,",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "EV charging, and maintenance to private cars and fleet vehicles.",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "The company provided emergency response support in the local community during the",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi charged the nonprofit for the gas, but waived all the fees.",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2024, the company announced in a press release that it was changing its focus from gas delivery to live-video vehicle inspections with",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": ", as well as mobile EV charging and preventative maintenance.",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Hall, Christine (April 10, 2024).",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "\"The latest way busy people are saving time: Hiring someone else to fill up their car with gas\"",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Nashville, Tennessee: PRNewswire. YoshiMobility. November 4, 2024",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Tire-pressure monitoring system",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive maintenance",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Partners (past/present)",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboration focuses on accelerating driver onboarding while improving towing safety and operational compliance",
+    "url": "https://blog.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Today Yoshi Mobility announced a partnership with Flex aimed at streamlining the onboarding and safety verification process for Flex's nationwide network of gig-based towing drivers.",
+    "url": "https://blog.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Flex provides on-demand moving services to customers across",
+    "url": "https://blog.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inspections help determine whether vehicles are roadworthy and compliant with regulations, are pivotal in promoting safety, and finally, they can help you maximize your fleet efficiency by preemptively identifying any vehicles in need of servicing.",
+    "url": "https://blog.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In case you missed it, we just announced that we are partnering with Turo to make life easier for its hosts by offering virtual vehicle inspections! Taking a vehicle to a brick-and-mortar service shop can be a time-intensive process filled with headaches and hassle, especially for small",
+    "url": "https://blog.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Marketplaces, franchise networks, brokers, and specialty transport operators use Yoshi to qualify assets and operators before they go to work — conducted over live video with signed, auditable results.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Driving with Uber or hosting on Turo? Yoshi makes your required annual inspection fast and hassle-free. Compliant inspections are done over real-time video. We're officially integrated with Uber and trusted by thousands of earners and hosts. Just schedule online, join a quick video call, and receive a digitally-signed inspection form by email instantly.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yoshi began in 2015 as a gas delivery service — bringing fuel directly to your vehicle, wherever you parked, using DOT-approved trucks and Hazmat-certified Field Technicians. You downloaded the app, dropped a pin, popped your gas flap, and went on with your day. We handled the rest.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re expanding what’s possible over live video: qualifying vehicles, operators, and contractors for platforms that need auditable, scalable onboarding. If it can be assessed in real time, Yoshi can deliver it.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Yoshi started as a service where hazmat-certified technicians fueled individual customer vehicles in parking lots.",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "The annual International Roadcheck, commonly known as DOT Blitz Week, is scheduled for May 13-15, 2025. This three-day enforcement initiative is a critical event for fleet operators across North America. Here's what you need to know to ensure your fleet stays compliant and on the road",
+    "url": "https://blog.yoshimobility.com/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Driving with Uber or hosting on Turo? Yoshi makes your required annual inspection fast and hassle-free. Compliant inspections are done over real-time video. We're officially integrated with Uber and trusted by thousands of earners and hosts. Just schedule online, join a quick video call, and receive a digitally-signed inspection form by email instantly.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We will email the driver the signed document after the inspection is complete. Company accounts can also access results stored in their web portal.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "GMも出資する「移動式EV充電車」、米新興Yoshi Mobilityが見据える未来 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN サイトメンテナンスのお知らせ（2026年11月10日（火）18:00〜）",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Yoshiが移動式EV充電事業を売却へ｜Suzuken0331 — Nov 27, 2024 · 11/4に移動式燃料補給や遠隔点検などの自動車関連サービスを提供するYoshiMobilityが移動式燃料補給事業をEZFill-HDに売却すると発表 EzFillはカリフォルニア/テネシー/テキサス/ミシガンを含む主要4州におけるYoshiのモバイル給油サービス事業を買収。",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility — Live-Video Vehicle Inspections for Fleets ... — Yoshi is the live-video inspection platform for transportation networks. Fast, ASE-certified virtual vehicle inspections for fleets, rideshare earners, and commercial drivers — DOT-compliant and done in minutes.",
+    "url": "https://www.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "GMも出資する「移動式EV充電車」、米新興Yoshi Mobilityが見据える未... — May 29, 2024 · 起業家のブライアン・フリストが2015年にYoshi Mobility（ヨシ・モビリティ）を立ち上げたとき、同社が掲げた理念は、「人々が二度とガソリンスタンドに行かなくて済むようにする」というシンプルなものだった。テネシー州ナッシュビルに本...",
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility - About — Yoshi provides fast virtual vehicle inspections for fleets, rideshare earners and commercial vehicle drivers.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility - Wikipedia — Yoshi Mobility is a live-video vehicle inspection platform [4] for transportation networks based in Nashville, Tennessee. [5] The company previously provided mobile fuel delivery, [1] EV charging, and maintenance to private cars and fleet vehicles. [2][4][6]",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "inspect.yoshimobility.com — Please enter the phone number associated with your Yoshi Mobility account.",
+    "url": "https://inspect.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility (@yoshimobility) / X — We keep your vehicles moving. Automotive mobility services provided when and where you need them. 🇺🇸",
+    "url": "https://x.com/yoshimobility",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility on LinkedIn: #customersuccess # ... — A customer review from this past week that we loved: \"Very good experience. My inspector was very professional!! Thank you for making this process easy.\" #customersuccess #customerexperience # ...",
+    "url": "https://www.linkedin.com/posts/yoshimobility_customersuccess-customerexperience-convenience-activity-7116875619895758848-1aIi",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility - About — From there we expanded into preventative maintenance and EV charging services, building the technology platform and operational know-how to deliver vehicle services at scale, without the customer ever visiting a shop.",
+    "url": "https://www.yoshimobility.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility - Insights into Fleet Services — Oct 9, 2023 · Yoshi Mobility - Insights into Fleet Services In case you missed it, we just announced that we are partnering with Turo to make life easier for its hosts by offering virtual vehicle inspections! Taking a vehicle to a brick-and-mortar service shop can be a time-intensive process filled with headaches and hassle, especially for small",
+    "url": "https://blog.yoshimobility.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PPT - Yoshi Mobility Business Model_ From Fuel Delivery to ... — Nov 5, 2025 · Discover how Yoshi Mobility evolved from an on-demand fuel delivery startup into a full-scale mobile automotive services provider. Explore its business model, revenue streams, partnerships, and shift toward fleet EV charging, virtual inspections, and preventative maintenance in 2025.",
+    "url": "https://www.slideserve.com/TirthNectarbits/yoshi-mobility-business-model-from-fuel-delivery-to-fleet-ev-charging-mobile-auto-care",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility Revenue 2024: $11.7M Est. - getlatka.com — Aug 10, 2026 · Yoshi Mobility 2024 estimated revenue: $11.7M. 80 employees. Founded 2015. HQ: United States. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility 2026 Company Profile: Valuation, Funding ...Yoshi Mobility: Revenue, Worth, Valuation & Competitors 2025Yoshi - 2026 Company Profile, Team, Funding & Competitors ...Yoshi Mobility company overview 2026: revenue $15M (as of ...Yoshi Mobility - Overview, News & Similar companies ...Yoshi Mobility Revenue, Funding & Valuation - prospeo.io — Yoshi Mobility has 77 total employees. What i",
+    "url": "https://pitchbook.com/profiles/company/162494-56",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility: Revenue, Worth, Valuation & Competitors 2025 — Yoshi Mobility’s business health includes estimated revenue of $24.6M, team of around 90+ employees, located in Nashville, backed by strategic efforts.",
+    "url": "https://compworth.com/company/yoshi-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi - 2026 Company Profile, Team, Funding & Competitors ...Yoshi Mobility company overview 2026: revenue $15M (as of ...Yoshi Mobility - Overview, News & Similar companies ...Yoshi Mobility Revenue, Funding & Valuation - prospeo.io — Apr 3, 2026 · Yoshi is a series C company based in Nashville (United States), founded in 2015 by Nick Alexander, Bryan Frist, Daniel Hunter and David Gobaud. It ope",
+    "url": "https://tracxn.com/d/companies/yoshi/__oLvRStQWIkRZgO7gdNrGDOxNxnzDDa6hqq69n3jNAWU",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility company overview 2026: revenue $15M (as of ... — Yoshi Mobility increased its revenue 10x monthly since its Series B in late 2020, demonstrating rapid commercialization. The company has raised over $60 million with backing. What is Yoshi Mobility's industry? Yoshi Mobility (yoshimobility.com) operates in Automotive Aftermarket.",
+    "url": "https://askcyborg.com/company/yoshimobility",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "reported that Yoshi fueled vehicles for employees and volunteers caring for 430 Alive Hospice patients in 12 counties.",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "described Yoshi Mobility as part of the growing \"Uber for gas\" movement in the U.S., along with competitors like",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Julia Carrie, Wong (May 5, 2016).",
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility Revenue 2024: $11.7M Est.",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility revenue",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility has not published its revenue. GetLatka estimates it at about $11.7M a year (December 2024).",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility CEO, founders & employees",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Bryan Frist founded Yoshi Mobility in 2015 and runs it as CEO. Yoshi Mobility had 80 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Yoshi Mobility's revenue?",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Yoshi Mobility's revenue at about",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Yoshi Mobility have?",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Yoshiが移動式EV充電事業を売却へ｜Suzuken0331 Nov 27, 2024 · 11/4に移動式燃料補給や遠隔点検などの自動車関連サービスを提供するYoshiMobilityが移動式燃料補給事業をEZFill-HDに売却すると発表 EzFillはカリフォルニア/テネシー/テキサス/ミシガンを含む主要4州におけるYoshiのモバイル給油サービス事業を買収。",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Yoshiが移動式EV充電事業を売却へ｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "米国でロードアシストサービスを手掛けるYoshiが移動式EV充電サービス事業を売却すると発表しました。",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "売却先はフロリダを中心に移動式燃料補給サービスを手掛けるEzFill社で、社会的なEV普及拡大に対応と事業拡大を目指します。",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年で行っておの高い普及率となったEV関連、徐々に周辺サービスでも動きが出てきました。",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "11/4に移動式燃料補給や遠隔点検などの自動車関連サービスを提供するYoshiMobilityが移動式燃料補給事業をEZFill-HDに売却すると発表",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "EzFillはカリフォルニア/テネシー/テキサス/ミシガンを含む主要4州におけるYoshiのモバイル給油サービス事業を買収。Yoshiの資産/顧客を自社インフラに統合して既存市場での足場を強化し、全国展開計画を通じてオンデマンド給油セクターの主要プレーヤーとしての地位を確立する",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "EzFillの経営陣は下記のように述べ、今回の買収による事業拡大/顧客への価値提供の拡大に期待する",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   },
+   {
+    "quote": "(EzFillのCEO; Yehuda Levy氏)",
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Yoshi Mobility (@yoshimobility) / X 142 Yoshi Mobility @yoshimobility Aug 15, 2024 We're bringing ease and efficiency to the process of taking care of your vehicles. #keepmoving #customersatisfaction #mobility",
+    "url": "https://x.com/yoshimobility",
+    "pass": 3
+   },
+   {
+    "quote": ".@yoshimobility's (YC S16) new high-power mobile charging ... Y Combinator (@ycombinator). 39 likes. .@yoshimobility's (YC S16) new high-power mobile charging unit is a supercharger on wheels. It's the first fully electric, zero-emission mobile charger on the market that can charge at 240kW and deliver multiple charges to a fleet of vehicles in one trip.",
+    "url": "https://x.com/ycombinator/status/1792971116799242570",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility on X: \"⚡Press release out today announcing our ... We keep your vehicles moving. Automotive mobility services provided when and where you need them. 🇺🇸",
+    "url": "https://x.com/yoshimobility/status/1878880343329296418",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility (@yoshimobility) / X We keep your vehicles moving. Automotive mobility services provided when and where you need them. 🇺🇸",
+    "url": "https://x.com/yoshimobility",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility on X: \"⚡Press release out today announcing our ... ⚡Press release out today announcing our #EV work with @CALSTART!🔌 https://t.co/3x4Wh7922L",
+    "url": "https://x.com/yoshimobility/status/1878880343329296418",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Yoshi Mobility - LinkedIn Yoshi Mobility | 4,242 followers on LinkedIn. We keep your vehicles moving. We specialize in AI-enabled digital vehicle inspections performed virtually. | 🚙 We keep your vehicles moving 💙 EV ...",
+    "url": "https://www.linkedin.com/company/yoshimobility",
+    "pass": 3
+   },
+   {
+    "quote": "Yoshi Mobility on LinkedIn: #keepmoving #mobility #autotech # ... Does your organization have on-site automotive services yet? If not, find out what you're missing and get in touch with us to hear about the efficiencies and…",
+    "url": "https://www.linkedin.com/posts/yoshimobility_keepmoving-mobility-autotech-activity-7109557782273552387-MOii",
+    "pass": 3
+   },
+   {
+    "quote": "Dear Fleet Managers, | Yoshi Mobility - LinkedIn 🏻 Dear Fleet Managers, If your company’s inspection and compliance processes feel outdated, they probably are. Our virtual inspection solution and fleet portal tools bring a smarter, more ...",
+    "url": "https://www.linkedin.com/posts/yoshimobility_dear-fleet-managers-if-your-company-activity-7309959912757825544-S9dG",
+    "pass": 3
+   },
+   {
+    "quote": "#keepmoving | Yoshi Mobility - LinkedIn Our technicians and service vans come to wherever your vehicles are located to make taking care of your car as easy as possible. #keepmoving",
+    "url": "https://www.linkedin.com/posts/yoshimobility_keepmoving-activity-7111065277483610114-8mW-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Yoshi Mobility - Facebook Yoshi Mobility - Facebook ... Yoshi Mobility",
+    "url": "https://www.facebook.com/Yoshi-Mobility-280549085145358/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yoshimobility.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshimobility.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshimobility.com/talk-with-sales/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yoshimobility.com/assets/logos/logo-yomo-white.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshimobility.com/assets/images/about/about-partner-logos.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoshimobility.com/assets/images/home/home-section-intro-logos.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/71241",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/400566",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inspect.yoshimobility.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/yoshimobility",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yoshimobility_customersuccess-customerexperience-convenience-activity-7116875619895758848-1aIi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.yoshimobility.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/yoshimobility.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/162494-56",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/yoshi-mobility",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/yoshi/__oLvRStQWIkRZgO7gdNrGDOxNxnzDDa6hqq69n3jNAWU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yoshimobility",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ycombinator/status/1792971116799242570",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yoshimobility/status/1878880343329296418",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/yoshimobility",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yoshimobility_keepmoving-mobility-autotech-activity-7109557782273552387-MOii",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yoshimobility_dear-fleet-managers-if-your-company-activity-7309959912757825544-S9dG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yoshimobility_keepmoving-activity-7111065277483610114-8mW-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Yoshi-Mobility-280549085145358/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yoshimobility",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yoshimobility/status/1878880343329296418",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Yoshimobility 日本 導入",
+   "results": [
+    "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "https://www.yoshimobility.com/",
+    "https://forbesjapan.com/articles/detail/71241",
+    "https://diamond.jp/articles/-/400566",
+    "https://www.yoshimobility.com/about/",
+    "https://japan.cnet.com/article/35254593/",
+    "https://x.com/emp_env_econ/status/2097825415691952146"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yoshimobility 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.yoshimobility.com/",
+    "https://www.yoshimobility.com/about/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yoshimobility Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Yoshi_Mobility",
+    "https://inspect.yoshimobility.com/",
+    "https://x.com/yoshimobility",
+    "https://www.yoshimobility.com/",
+    "https://www.yoshimobility.com/about/",
+    "https://www.linkedin.com/company/yoshimobility",
+    "https://presentofai.com/spotlight/yoshimobility.com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yoshimobility manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/posts/yoshimobility_customersuccess-customerexperience-convenience-activity-7116875619895758848-1aIi",
+    "https://www.yoshimobility.com/about/",
+    "https://blog.yoshimobility.com/",
+    "https://www.yoshimobility.com/",
+    "https://www.slideserve.com/TirthNectarbits/yoshi-mobility-business-model-from-fuel-delivery-to-fleet-ev-charging-mobile-auto-care",
+    "https://techcrunch.com/2024/04/10/yoshi-mobility-cars-26m-series-c-gm-bridgestone/",
+    "https://medium.com/@yoshimobility"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yoshimobility white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://reseller.amazon.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yoshimobility founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/yoshimobility.com",
+    "https://pitchbook.com/profiles/company/162494-56",
+    "https://compworth.com/company/yoshi-mobility",
+    "https://tracxn.com/d/companies/yoshi/__oLvRStQWIkRZgO7gdNrGDOxNxnzDDa6hqq69n3jNAWU",
+    "https://askcyborg.com/company/yoshimobility",
+    "https://prospeo.io/c/yoshi-mobility-revenue",
+    "https://www.zoominfo.com/c/yoshi-mobility/1325915826"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Yoshimobility",
+   "results": [
+    "https://note.com/suzuken0331/n/nc9d3646dec0b",
+    "https://note.com/y44901726/n/naf167176aa15?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/quirky_slug9760/n/nf7c3b2fcd722",
+    "https://note.com/y44901726/n/n5831c8e4adc6?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Yoshimobility",
+   "results": [
+    "https://x.com/yoshimobility",
+    "https://x.com/ycombinator/status/1792971116799242570",
+    "https://x.com/Yoshilpl/status/2119653495825436976",
+    "https://x.com/yoshimobility/status/1878880343329296418",
+    "https://x.com/Freedom93693693/status/2119513474204058064",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Yoshimobility",
+   "results": [
+    "https://www.linkedin.com/company/yoshimobility",
+    "https://www.linkedin.com/posts/yoshimobility_keepmoving-mobility-autotech-activity-7109557782273552387-MOii",
+    "https://www.linkedin.com/posts/yoshimobility_dear-fleet-managers-if-your-company-activity-7309959912757825544-S9dG",
+    "https://www.linkedin.com/posts/yoshimobility_keepmoving-activity-7111065277483610114-8mW-",
+    "https://www.linkedin.com/posts/yoshimobility_customersatisfaction-keepmoving-frictionless-activity-7246966813199077377-s9A6",
+    "https://www.linkedin.com/posts/yoshimobility_yoshi-mobility-joins-calstart-to-accelerate-activity-7284645563596197889-TpVi",
+    "https://www.linkedin.com/posts/yoshimobility_your-ultimate-guide-how-virtual-vehicle-activity-7122224218150248448-WAr4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Yoshimobility",
+   "results": [
+    "https://www.facebook.com/Yoshi-Mobility-280549085145358/",
+    "https://www.facebook.com/yoshimobility/posts/enjoy-the-convenience-of-car-care-that-comes-to-you-our-technicians-will-put-a-s/802273428596508/",
+    "https://www.facebook.com/yoshimobility/posts/776654117825106/",
+    "https://www.facebook.com/yoshimobility/photos/",
+    "https://www.facebook.com/yoshimobility/posts/908464671310716/",
+    "https://www.facebook.com/yoshimobility/posts/introducing-contactless-executive-detail-for-when-you-want-to-treat-your-vehicle/2711084955836031/",
+    "https://www.facebook.com/yoshimobility/posts/our-mobility-services-keep-our-customers-moving-so-that-they-have-more-time-for-/677538507736668/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yoshimobility note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://kuruma-news.jp/post/1094475",
+    "https://response.jp/article/2026/08/06/415016.html",
+    "https://blog.yoshimobility.com/yoshi-ceo-and-co-founder-at-3686-technology-conference-5334f6670f26/",
+    "https://note.com/trunk_911/n/n84534355396c",
+    "https://news.3rd-in.co.jp/article/8f48e700-8d47-11f1-9e26-9ca3ba09c411",
+    "https://www.yoshimobility.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yoshimobility X 投稿",
+   "results": [
+    "https://x.com/yoshimobility",
+    "https://x.com/yoshinoglas/status/2119251409791242600",
+    "https://x.com/yoshimobility/status/1878880343329296418",
+    "https://www.yoshimobility.com/",
+    "https://www.sponichi.co.jp/entertainment/news/2026/10/19/kiji/20261019s00041000135000c.html",
+    "https://www.yoshimobility.com/about/",
+    "https://pinzuba.news/articles/-/18357?page=1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像3件／外部31頁・検索12回）"
+ }
+}

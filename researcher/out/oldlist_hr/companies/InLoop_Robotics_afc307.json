@@ -1,0 +1,754 @@
+{
+ "name": "InLoop Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T19:18:44.071523+00:00",
+ "official_url": "https://www.inloop-robotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our robots reliably fold and assemble boxes of any size, handling structural packaging tasks with precision.",
+    "url": "https://www.inloop-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated content preparation including labeling, wrapping, and staging items for the next step in the fulfillment pipeline.",
+    "url": "https://www.inloop-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced unpackaging and content extraction, handling diverse packaging materials with precision.",
+    "url": "https://www.inloop-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why buy a robot when you can hire one? For a flat monthly fee, you get the hardware, continuous AI updates, and 24/7 teleassistance fallback. It's cheaper than human labor, with zero turnover.",
+    "url": "https://www.inloop-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Once our robotic arms have assembled enough variations, our System 2 intelligence can easily differentiate between them and assemble each one properly.",
+    "url": "https://www.inloop-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, that is the exact purpose of our robotic workforce. Because they have seen so many objects during pre-training, they can handle the pick-and-place of diverse and changing items quite reliably.",
+    "url": "https://www.inloop-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I am interested. What is the deployment procedure?",
+    "url": "https://www.inloop-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An electrical engineer from TUM with AI research experience at Apple and robotics research at Stanford, Yahya brings the builder’s mindset he honed at Entrepreneurs First. He turns frontier research into systems that hold up on real hardware, driving the deployment of our learning robotic arms into warehouses around the world.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "With more than five years of mechanical engineering design, including research at Mercedes-Benz and a distinguished record on TUfast, TUM’s Formula Student team, Ahmed knows how to turn ambitious designs into machines that perform. He leads our hardware, building robotic arms rugged enough for the daily demands of real warehouse floors.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring in Munich across research, hardware, software, operations, and go-to-market.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "Spring 2026",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Every failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Did robot learning research at KIT and TUM at 18 on VLA models and reinforcement learning. Previously: olympiad mathematics.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop deploys robot employees you can hire by the month.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "$100k+ integration projects per station.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Repetitive manual work in warehouses is the most expensive labor problem nobody has solved.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Ops leaders hire more than they operate: Warehouse turnover runs ~49% annually and exceeds 100% at peak-volume sites; peak season can't be staffed at any price.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "The math doesn't work: ops leaders spend more time hiring than running the line, and most fulfillment still runs on humans doing the same six motions, 8 hours a day",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics has raised $500k across 1 funding round on record, the most recent a Pre-Seed of $500k announced in Jun 2026.",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics Company Profile and Key Stats",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed Funded Startups",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed Funded Artificial Intelligence Startups",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Seed Funded Startups in the United States",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HELIOS® is a technology company that assists athletes and teams in improving at a quicker pace. Through their…",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence is a comprehensive robotics and automation company designed to assist contract packagers.…",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "An AI startup that builds custom AI models and \"Specific Intelligence\" solutions for enterprises.",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Serval provides an AI-native IT service management platform designed to automate help desk operations, access…",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ravical assists skilled firms in adopting an AI-focused approach for the future. We create AI solutions that…",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Broccoli provides automated phone support solutions for plumbing, HVAC, and electrical businesses, enabling…",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics has raised $500k across 1 round on record. The most recent is a Pre-Seed of $500k announced in Jun 2026.",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics' most recent funding round on record is a Pre-Seed of $500k, announced in Jun 2026.",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/inloop-robotics",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The people building the future of warehouse robotics.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "Drawing on his AI and manufacturing R&D experience at Bosch and BMW, Zakariea bridges the gap between deep technical innovation and actual customer needs. He drives the deployment of our learning robotic arms into fast-paced warehouse environments.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "A self-taught AI researcher from leading labs at KIT and TUM, Stepan architects our end-to-end learning systems. He translates frontier robot-learning into robust technology, enabling our robotic arms to master complex warehouse tasks from human demonstrations.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "An electrical engineer from TUM with AI research experience at Apple and robotics research at Stanford, Yahya brings the builder’s mindset he honed at Entrepreneurs First. He turns frontier research into systems that hold up on real hardware, driving the deployment of our learning robotic arms into warehouses around the world.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "With more than five years of mechanical engineering design, including research at Mercedes-Benz and a distinguished record on TUfast, TUM’s Formula Student team, Ahmed knows how to turn ambitious designs into machines that perform. He leads our hardware, building robotic arms rugged enough for the daily demands of real warehouse floors.",
+    "url": "https://www.inloop-robotics.com/team",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouses without human labor that get better, faster, and cheaper with every order.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Most robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - Staff your warehouse with robots today",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Our intelligent robotic arms pack, kit, and fulfill in warehouses, fulfillment centers, and factories.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "live in customer warehouses today",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "If you run ops at a warehouse, fulfillment center, or factory - what's the one repetitive task you wish a robot could just",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Repetitive manual work in warehouses is the most expensive labor problem nobody has solved.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Ops leaders hire more than they operate: Warehouse turnover runs ~49% annually and exceeds 100% at peak-volume sites; peak season can't be staffed at any price.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "AI hasn't reached the physical world yet: software ate every digital workflow; the warehouse floor is still humans + conveyor belts",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "InLoop Robotics (YC P26) - LinkedIn — InLoop Robotics (YC P26) Robotics Engineering Garching, Bavaria 1,642 followers AI-native fulfillment powered by robotics.",
+    "url": "https://www.linkedin.com/company/inlooprobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Zakariea Sharfeddine - Co-Founder & CEO at InLoop Robotics ... — Sep 11, 2024 · Co-Founder & CEO at InLoop Robotics (YC P26) | Automation from Day One | ex-Bosch, ex-BMW · Deploying robots that work from day one! --> inloop-robotics.com · Experience: InLoop Robotics (YC ...",
+    "url": "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics: Robotic arms that pick and pack your orders ... — Robotic arms that pick and pack your orders. Founded in 2026 by Stepan Feduniak and Zakariea Sharfeddine, InLoop Robotics has 10 employees based in Munich, Germany. InLoop Robotics is hiring for 9 roles in engineering, operations, and sales.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - company profile | Korthos — About InLoop Robotics InLoop Robotics deploys stationary dual-arm systems for packaging, kitting, order fulfilment and light manufacturing. Initial tasks include erecting boxes, folding products and moving varied items through packing stations. The company installs and trains each system around a customer's task, then operates it under a monthly servic",
+    "url": "https://korthosrobotics.com/ecosystem/company/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - Founderland — May 6, 2026 · InLoop Robotics is an AI-native fulfillment platform powered by robotics, building autonomous warehouses that continuously learn and improve from production. Unlike traditional robotics companies, InLoop deploys imperfect robot policies into real warehouses from day one, detects failures in real time, recovers automatically when possible, and leverages",
+    "url": "https://www.founderland.ai/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics: AI-Powered Autonomous Pick and Pack Workcells — Oct 17, 2026 · InLoop Robotics is a robotics and artificial intelligence enterprise building autonomous pick-and-pack fulfillment workcells for logistics and manufacturing. Founded in 2026 by Zakariea Sharfeddine and Stepan Feduniak, the company was selected for the Y Combinator Spring 2026 cohort.",
+    "url": "https://presentofai.com/spotlight/inloop-robotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - 2026 Company Profile, Team, Funding ... — InLoop Robotics - About the company InLoop Robotics is a seed company based in San Francisco (United States), founded in 2026 by Zakariea S and Stepan Feduniak. It operates as a Manufacturer of bimanual robotic systems for assembly and logistics tasks. InLoop Robotics has raised $500K in funding.",
+    "url": "https://tracxn.com/d/companies/inloop-robotics/__nHQJJI9_UlXafHKo1o6viKiUxVzasrIbq-aqBg4npxc",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics: Funding, Investors & Team (Oct 2026) — InLoop Robotics: Funding, Investors & Team (Oct 2026) InLoop Robotics develops AI-driven robotic systems that automate manual labor in manufacturing, assembly, and logistics workflows. The company offers Loop V1, an intelligent bimanual robot designed to perform warehouse and factory tasks such as box assembly, kitting, visual inspection, con",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - Products, Competitors, Financials ... — The company has a bimanual robot system that automates tasks such as box assembly, kitting, visual inspection, content preparation, and unpackaging. InLoop Robotics serves the manufacturing and logistics sectors with its robotic systems. It was founded in 2026 and is based in San Francisco, California.",
+    "url": "https://www.cbinsights.com/company/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - Crunchbase Company Profile & Funding — InLoop Robotics develops AI-driven robotic systems that automate manual labor in manufacturing, assembly, and logistics workflows. The company offers Loop V1, an intelligent bimanual robot designed to perform warehouse and factory tasks such as box assembly, kitting, visual inspection, content preparation, and unpackaging.",
+    "url": "https://www.crunchbase.com/organization/inloop-robotics",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "InLoop deploys robot employees you can hire by the month.",
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does InLoop Robotics have?",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/inloop-robotics",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@InLoopRobotics deploys robot employees you can hire by the ... May 20, 2026 · Y Combinator (@ycombinator). 100 likes 14 replies. 🚀 @InLoopRobotics deploys robot employees you can hire by the month. It packs, kits, and fulfills — no capex, no integrators, no 6-month PoC. Paid pilots are live today: 300+ picks/hour. DM them if you run ops. Congrats on the launch, @FeduniakS, @Zakariea_sh, and @Pash",
+    "url": "https://x.com/ycombinator/status/2057114124543209783",
+    "pass": 3
+   },
+   {
+    "quote": "️♂️Pasha Rizali comes out of stealth mode and debuts InLoop ... Stealth Startup Spy (@StealthCoSpy). 46 views. 🕵️♂️Pasha Rizali comes out of stealth mode and debuts InLoop Robotics AI-native fulfillment powered by robotics.",
+    "url": "https://x.com/StealthCoSpy/status/2056495051044184454",
+    "pass": 3
+   },
+   {
+    "quote": "InLoop Robotics (@InLoopRobotics) / X Staff your warehouse with robots today.",
+    "url": "https://x.com/InLoopRobotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "InLoop Robotics (YC P26) - LinkedIn InLoop Robotics (YC P26) Robotics Engineering Garching, Bavaria 1,642 followers AI-native fulfillment powered by robotics.",
+    "url": "https://www.linkedin.com/company/inlooprobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Zakariea Sharfeddine - Co-Founder & CEO at InLoop Robotics ... Sep 11, 2024 · Experience Co-Founder & CEO InLoop Robotics (YC P26) Jan 2026 - Present 10 months San Francisco, California, United States",
+    "url": "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "pass": 3
+   },
+   {
+    "quote": "Stepan Feduniak – Co-Founder @ InLoop Robotics (YC P26 ...Y Combinator Backed InLoop Robotics Launches AI-Powered ...InLoop Robotics (YC P26) is building what no warehouse can ...InLoop Robotics (YC P26)’s Post - LinkedIn#nvidiainception | InLoop Robotics (YC P26) - LinkedIn Co-Founder @ InLoop Robotics (YC P26) · Berufserfahrung: InLoop Robotics (YC P26) · Ausbildung: Y Combinator · Standort: Met",
+    "url": "https://de.linkedin.com/in/stepan-feduniak-b33045276",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator Backed InLoop Robotics Launches AI-Powered ... Incredibly grateful to share that we are backed by Y Combinator! 🧡 Today, we are officially introducing InLoop Robotics to the world. Thanks to YC for entrusting us with $500k to build AI ...",
+    "url": "https://www.linkedin.com/posts/zakariea-sharfeddine_ycombinator-robotics-supplychain-activity-7444391214394589185-GYxC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Inloop - FacebookFacebookbuurthuis de inloop dinsdag buurtkamer | FacebookFacebook - log in or sign upMeet the team that’s working to bring touch to the digital ...ESP8266, ESP32 & Microcontrollers | Facebook Sep 30, 2026 · Inloop. 26 followers. Media Agency As the World Cup comes to an end, we’re proud to have kept Pacha World Cup Festival 2026 in the loop as its official media partner 🫶🏼 𝗥𝗲𝗮𝗰𝗵 𝗼",
+    "url": "https://www.facebook.com/INLOOP/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.inloop-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inloop-robotics.com/team",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/inlooprobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://36kr.jp/502923/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/10/20/382539.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/inlooprobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://korthosrobotics.com/ecosystem/company/inloop-robotics",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.founderland.ai/companies/inloop-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/bulletproof-group/case-study/inloop-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ifr.org/case-studies/industry-robots-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1367908-03",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/inloop-robotics/__nHQJJI9_UlXafHKo1o6viKiUxVzasrIbq-aqBg4npxc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/inloop-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ycombinator/status/2057114124543209783",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/StealthCoSpy/status/2056495051044184454",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inlooprobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/stepan-feduniak-b33045276",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/zakariea-sharfeddine_ycombinator-robotics-supplychain-activity-7444391214394589185-GYxC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/INLOOP/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inlooprobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InLoopRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "InLoop Robotics 日本 導入",
+   "results": [
+    "https://www.linkedin.com/company/inlooprobotics",
+    "https://www.inloop-robotics.com/",
+    "https://36kr.jp/502923/",
+    "https://robotstart.info/article/2026/10/20/382539.html",
+    "https://kyodonewsprwire.jp/release/202409256957",
+    "https://fabscene.com/new/news/ifr-world-robotics-2026-japan-third-5-million-robots/",
+    "https://www.inbolt.com/home-ja/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "InLoop Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.inloop-robotics.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.inmotionrobotic.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "InLoop Robotics Japan",
+   "results": [
+    "https://www.linkedin.com/company/inlooprobotics",
+    "https://www.ycombinator.com/companies/inloop-robotics",
+    "https://korthosrobotics.com/ecosystem/company/inloop-robotics",
+    "https://www.founderland.ai/companies/inloop-robotics",
+    "https://presentofai.com/spotlight/inloop-robotics.com",
+    "http://www.inlooprobotics.com/",
+    "https://www.inloop-robotics.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "InLoop Robotics manufacturing customer case study",
+   "results": [
+    "https://www.inloop-robotics.com/",
+    "https://www.casestudies.com/company/bulletproof-group/case-study/inloop-customer-case-study",
+    "https://www.ycombinator.com/companies/inloop-robotics",
+    "https://ifr.org/case-studies/industry-robots-case-studies",
+    "https://www.founderland.ai/companies/inloop-robotics",
+    "https://www.inloop-robotics.com/skill-explorer",
+    "https://presentofai.com/spotlight/inloop-robotics.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "InLoop Robotics white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "InLoop Robotics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1367908-03",
+    "https://tracxn.com/d/companies/inloop-robotics/__nHQJJI9_UlXafHKo1o6viKiUxVzasrIbq-aqBg4npxc",
+    "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "https://www.cbinsights.com/company/inloop-robotics",
+    "https://www.crunchbase.com/organization/inloop-robotics",
+    "https://roboticsregistry.net/companies/inloop-robotics",
+    "https://www.founderland.ai/founder/stepan-feduniak"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com InLoop Robotics",
+   "results": [
+    "https://note.com/npaka/n/ne58a3e9152b5?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/npaka/n/nd20662ab4339?hl=en",
+    "https://note.com/edokko_1974/n/n76024a22c0f9?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/deft_agapan1214/n/n65295fa1b3c6"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com InLoop Robotics",
+   "results": [
+    "https://x.com/ycombinator/status/2057114124543209783",
+    "https://x.com/StealthCoSpy/status/2056495051044184454",
+    "https://x.com/inloop",
+    "https://x.com:2096/FeduniakS/status/2038672473160634669/photo/1",
+    "https://x.com/InLoopRobotics",
+    "https://x.com/FeduniakS",
+    "https://help.x.com/zh-tw/using-x"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com InLoop Robotics",
+   "results": [
+    "https://www.linkedin.com/company/inlooprobotics",
+    "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "https://de.linkedin.com/in/stepan-feduniak-b33045276",
+    "https://www.linkedin.com/posts/zakariea-sharfeddine_ycombinator-robotics-supplychain-activity-7444391214394589185-GYxC",
+    "https://www.linkedin.com/posts/y-combinator_inloop-robotics-yc-p26-is-building-what-activity-7462879880960061440-ELM8",
+    "https://www.linkedin.com/posts/inlooprobotics_we-staff-your-warehouse-with-reliable-robotic-activity-7462891697409069056-hDVS",
+    "https://www.linkedin.com/posts/inlooprobotics_nvidiainception-activity-7447312267320291328-Fx2k"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com InLoop Robotics",
+   "results": [
+    "https://www.facebook.com/inloop.inloop/",
+    "https://www.facebook.com/INLOOP/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/esp8266microcontrollers/",
+    "https://lite.facebook.com/",
+    "https://business.facebook.com/groups/5725871684157548/",
+    "https://tech.facebook.com/reality-labs/2021/11/inside-reality-labs-meet-the-team-thats-bringing-touch-to-the-digital-world/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "InLoop Robotics note 社長",
+   "results": [
+    "https://www.linkedin.com/in/zakariea-sharfeddine",
+    "https://fundediq.co/inloop-robotics-inloop-robotics-com-funding/",
+    "https://www.founderland.ai/companies/inloop-robotics",
+    "https://pitchbook.com/profiles/company/1367908-03",
+    "https://www.linkedin.com/company/inlooprobotics",
+    "https://www.crunchbase.com/person/zakariea-sharfeddine",
+    "https://www.inloop-robotics.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "InLoop Robotics X 投稿",
+   "results": [
+    "https://www.linkedin.com/company/inlooprobotics",
+    "https://www.instagram.com/popular/inloop-robotics/",
+    "https://x.com/heyinloop",
+    "https://x.com/InLoopRobotics",
+    "https://www.inloop-robotics.com/",
+    "https://inloop-robotics.ai/",
+    "https://x.com/FeduniakS"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

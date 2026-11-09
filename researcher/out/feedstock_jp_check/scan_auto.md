@@ -6,26 +6,26 @@
 
 - 判定の正解例の点検（4-38）：19／19件が期待どおり
 - 正解例の照合（4-47）：TP 10・混入FP 0・落としFN 0／精度 1.0・再現率 1.0・F1 1.0
-- 出どころの記録が欠けた数字：0件／74件（URLか取得日が無い）
-- 一次の割合（4-90）：引用の件数で 0/74（0%）／品目で 0/18（0%）
-- 1つの言語だけの品目（4-91・3件以上）：6／18品目：AITA、Additive Manufacturing Systems、CMS、Siraya Tech、Xenia Materials、voxelmatters。別の言語の別名で取り直すまで「見つからない」を言い切らない
+- 出どころの記録が欠けた数字：0件／84件（URLか取得日が無い）
+- 一次の割合（4-90）：引用の件数で 0/84（0%）／品目で 0/19（0%）
+- 1つの言語だけの品目（4-91・3件以上）：7／19品目：AITA、Additive Manufacturing Systems、CMS、Siraya Tech、VTT、Xenia Materials、voxelmatters。別の言語の別名で取り直すまで「見つからない」を言い切らない
 - 図・グラフの見出しに見える引用（4-91）：0件
 - 桁の感覚の外れで外した人数（1,000万人超・4-31）：0件
-- 要確認（文脈不明か年が無い）：74件／74件。この数字は結論に使う前に引用の本文で確かめる
+- 要確認（文脈不明か年が無い）：84件／84件。この数字は結論に使う前に引用の本文で確かめる
 - 除外の点検（規則ごとに外した数字の件数・4-39）：見出し・題名・検索結果の抜粋（4-5） 36件、金額の階級の境目（4-40） 4件
 - 短すぎる引用（12字未満・メニューや表の切れ端の疑い・4-39）から取った数字：2件。結論に使う前に本文で確かめる
-- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：AITA（4件）、colorFabb b.v.（4件）、CMS（9件）。この品目の引用は全件を本文と照らす
+- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：Additive Manufacturing Systems（13件）、Shenzhen Esun Industrial（6件）、CMS（9件）。この品目の引用は全件を本文と照らす
   - ⚠ 翻訳・要約・又聞きの型の引用から取った数字 1件（例：Additive Manufacturing Systems）：元の一次と見比べるまで採る値・裏付けにしない（4-55）
-  - ⚠ 出典がサイトの入口（トップページ）の数字 6件（例：www.replo.app）：数字が載った個別のページで取り直すまで裏付けに数えない（4-72）
+  - ⚠ 出典がサイトの入口（トップページ）の数字 8件（例：www.replo.app）：数字が載った個別のページで取り直すまで裏付けに数えない（4-72）
   - ⚠ 表を平たくした文の疑い（数字6つ以上・かなほぼ無し）12件（例：Xenia Materials）：列・行の見出しとの対応が崩れている恐れ。表のファイル・原文の表で列を確かめるまで採る値にしない（4-76）
-  - ⚠ 母数の書かれていない割合 50件（例：Xenia Materials）：何件で計算した割合か分からない。母数を原表で確かめるまで向き・比較の根拠にしない（4-78）
-  - ⚠ 値が1か所・1回の取得だけの品目 9件／18品目（例：Xenia Materials）：最初に見つけた出どころで止まった疑い（満足化）。2か所目を探す品目として inputs に戻す（4-86）
-  - 引用の機械検証（4-56）：値の原文の数字が引用の中に見えない行 0件／74件。161字目より後ろの値で引用を値の前後の窓にした行 14件
+  - ⚠ 母数の書かれていない割合 60件（例：Xenia Materials）：何件で計算した割合か分からない。母数を原表で確かめるまで向き・比較の根拠にしない（4-78）
+  - ⚠ 値が1か所・1回の取得だけの品目 9件／19品目（例：Xenia Materials）：最初に見つけた出どころで止まった疑い（満足化）。2か所目を探す品目として inputs に戻す（4-86）
+  - 引用の機械検証（4-56）：値の原文の数字が引用の中に見えない行 0件／84件。161字目より後ろの値で引用を値の前後の窓にした行 14件
   - 検索語の向きの片寄り（4-56）：一方の向きの語だけで探している品目 0件／266件
   - 前提を置いた問いの形の品目（4-62）：0件／266件
   - 検索語の数字のこだま（4-63）：数字を入れた品目 1件／266件、そのうち検索語の数字と同じ値を拾った品目 0件
-  - 取得の記録の連鎖（4-55）：b7b063ce5274（前回 bf0d39d6b42b から変わった：足された・消えた・書き換えられた行がある）
-- 鍵の欠け率（照合の前の棚卸し・4-42）：年 72/74件（97%）、規模区分 74/74件（100%）、文脈 33/74件（45%）、取得日 0/74件（0%）
+  - 取得の記録の連鎖（4-55）：b2c50c404e4b（前回 b7b063ce5274 から変わった：足された・消えた・書き換えられた行がある）
+- 鍵の欠け率（照合の前の棚卸し・4-42）：年 82/84件（98%）、規模区分 84/84件（100%）、文脈 36/84件（43%）、取得日 0/84件（0%）
 
 ## AITA
 - 【未確認】 日本の担い手［不明］（%）：3件・一次0件・出典1か所（調査会社は1つに束ねる）・予測値0件、幅 5〜20（食い違い4.0倍）
@@ -144,6 +144,21 @@
 
 ## TINMORRY CO. LIMITED
 
+## VTT
+- 【未確認】 規模・親会社［売上・決算］（%）：6件・一次0件・出典1か所（調査会社は1つに束ねる）・予測値0件、幅 8〜116（食い違い14.5倍）
+  - 書き方（4-23）：「www.sttinfo.fiによると」と出どころを文中に名指しする（1か所だけ）／格付け（4-28・出どころA〜F×情報1〜6）：F6
+  - 数字の種類（4-51・届出／言明／報道／推定）：届出0・言明6・報道0・推定0。届出0件：「〇〇によると」で書き、確かめた値のように書かない
+  - ⚠ 1か所に偏り：6件のうち6件が www.sttinfo.fi。件数ではなく出どころの数（1か所）で確度を読む
+  - 採る値（規則：予測除外→一次優先→全国優先→確報優先→最新年→中央値）：39%（年不明年・6件・出典1か所）
+  - 【推定】保守側の値（低い側に寄せる・低確度）：8%
+  - 【推定】中ほど半分の幅（第1〜第3四分位）：8〜101.75、中央値 39
+  - 中間帯（中央値の1.2〜3倍・機械で決めない）：3件。本文で定義・年・地域を確かめる（4-40）
+- 【未確認】 日本の担い手［不明］（%）：2件・一次0件・出典1か所（調査会社は1つに束ねる）・予測値0件、幅 100〜100（食い違い1.0倍）
+  - 書き方（4-23）：「www.japan-yakisugi.comによると」と出どころを文中に名指しする（1か所だけ）／格付け（4-28・出どころA〜F×情報1〜6）：F6
+  - 数字の種類（4-51・届出／言明／報道／推定）：届出0・言明2・報道0・推定0。届出0件：「〇〇によると」で書き、確かめた値のように書かない
+  - 採る値（規則：予測除外→一次優先→全国優先→確報優先→最新年→中央値）：100%（年不明年・2件・出典1か所）
+  - 【推定】保守側の値（低い側に寄せる・低確度）：100%
+
 ## Xenia Materials
 - 【未確認】 規模・親会社［売上・決算］（%）：9件・一次0件・出典1か所（調査会社は1つに束ねる）・予測値0件、幅 5.1〜70（食い違い13.7倍）
   - 書き方（4-23）：「www.stocktitan.netによると」と出どころを文中に名指しする（1か所だけ）／格付け（4-28・出どころA〜F×情報1〜6）：F6
@@ -185,7 +200,8 @@
 - 試算値・推計値として事実の向きから外した数字：0件
 
 ## 前回からの変化（採る値・確度・年。4-38）
-（変化なし）
+- 新しく出た：VTT｜日本の担い手［不明］（%） 100（年不明年）【未確認】
+- 新しく出た：VTT｜規模・親会社［売上・決算］（%） 39（年不明年）【未確認】
 
 ## 同じ文の中の割り出し（総額÷人数・4-39）
 （なし）
@@ -214,7 +230,7 @@
 ## 注記の混入・二重計上・選択の重なり（4-82）
 - 注記の記号（※・注・＊）の直後に数字がある引用のある品目：0件（注記の番号が値にくっついて桁が変わる疑い。原表で値と注記を分けてから使う）
 - 延べ・二重計上・重複に触れた引用のある品目：0件（延べの数を実数・頭数の欄に入れない。合計と内訳を同じ欄で足さない）
-- 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：9件／数字のある品目 18件（50%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
+- 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：10件／数字のある品目 19件（53%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.thenewbarcelonapost.com と siocast.com：品目の重なり 1/1（100%）
   - www.voxelmatters.com と www.thenewbarcelonapost.com：品目の重なり 0/3（0%）
   - www.voxelmatters.com と www.stocktitan.net：品目の重なり 0/3（0%）
@@ -232,32 +248,48 @@
 - Siraya Tech｜SNS・note（note・本文）［不明］
 - Siraya Tech｜SNS・note（note・本文）［不明］
 - Synbotron Technology｜直送・ネット販売［不明］
+- VTT｜規模・親会社［売上・決算］
+- VTT｜日本の担い手［不明］
 - Xenia Materials｜規模・親会社［売上・決算］
 - colorFabb b.v.｜規模・親会社［売上・決算］
 - voxelmatters｜日本の担い手［市場規模］
 
 ## 数字が1つも取れなかった品目（範囲の明示）
 - 3D Ever — VoxelMatters
+- 3DBioFibR — VoxelMatters
 - 3DCeram-Sinto — VoxelMatters
+- ADDIMETAL
 - AF-COLOR
 - AKRO-PLASTIC GmbH
 - ALPHA POWDERS Sp. z o.o.
 - AM Marketplace GmbH
+- AMSKY Technology Co., Ltd. — VoxelMatters
 - ANHUI JUMEI BIOLOGICAL TECHNOLOGY
 - Additive Australia — VoxelMatters
 - Additive Industries — VoxelMatters
+- Aether Bio — VoxelMatters
 - Airtech Advanced Materials Group — VoxelMatters
 - Airtech Europe Sarl
 - Alfonso Additive — VoxelMatters
+- Atomik AM — VoxelMatters
+- Axolotl Biosciences — VoxelMatters
 - Axtra3D — VoxelMatters
 - AzureFilm d.o.o.
+- BICO — VoxelMatters
+- BIO INX — VoxelMatters
+- BIOFABICS — VoxelMatters
+- Beijing Longyuan Automated Fabrication System Co. Ltd.
 - Bernhardt Kunststoffverarbeitungs GmbH
+- CH Leading Additive Manufacturing — VoxelMatters
+- CMET — VoxelMatters
+- CURRANT 3D & Sugar Lab — VoxelMatters
 - Canadian Additive Manufacturing Solutions
 - Capamotion Inc
 - Caracol AM — VoxelMatters
 - Carbon — VoxelMatters
 - ChanhonTech — VoxelMatters
 - Continuum Powders (formerly Molyworks) — VoxelMatters
+- Cprint 3D
 - Creality — VoxelMatters
 - Dongguan Jiecheng Additive Technology
 - FLXR Engineering Co., Ltd.  — VoxelMatters
@@ -265,9 +297,12 @@
 - Filkemp S.A.
 - FormFutura B.V.
 - Formnext — VoxelMatters
+- Foundry Lab
 - GRAFE GmbH & Co. KG
 - GUZTEC POLYMERS SRL
 - Grupo Hi-Tec — VoxelMatters
+- Guangdong Fenghua Zhuoli Technology Co., Ltd
+- Guangdong Zhongliding Intelligent Technology Co., Ltd. — VoxelMatters
 - HAMR Industries — VoxelMatters
 - HYMAG'IN — VoxelMatters
 - Hangzhou Polyful Advanced Material
@@ -281,12 +316,15 @@
 - Jeol — VoxelMatters
 - Jiangyin Film-Maker Plastic
 - Jinhua Creation New Material
+- Kangshuo Group — VoxelMatters
 - Knowhow Wilhelms — VoxelMatters
 - LANDU INNOVATIONS
 - LATI Industria Termoplastici S.p.A.
+- LIGHTWAY GmbH — VoxelMatters
 - LONGQI INDUSTRIAL COMPANY LIMITED
 - LTS Maskin AS — VoxelMatters
 - LVL-Tech — VoxelMatters
+- Laempe Mössner Sinto — VoxelMatters
 - Laser Fusion Solutions — VoxelMatters
 - Lattice Medical SAS
 - Lean Plastics Technologies GmbH
@@ -295,6 +333,7 @@
 - MAPTEC UAE — VoxelMatters
 - MIMETE S.r.l. — VoxelMatters
 - MULTI3D — VoxelMatters
+- Marvel Labs — VoxelMatters
 - Materialise — VoxelMatters
 - Meshy AI — VoxelMatters
 - Mex Powder — VoxelMatters
@@ -304,24 +343,30 @@
 - Norco — VoxelMatters
 - Norm Holding (Norm Additive, Norm 3D) — VoxelMatters
 - Northbridge New Material Technology (Suzhou)
+- OMEGA MDS — VoxelMatters
 - PORIMA POLIMER TEKNOLOJILERI
 - Plansee — VoxelMatters
 - Polymaker B.V.
 - Polyram UK LTD
 - ROSA PLAST Sp. z o.o.
 - Recreus Industries S.L.
+- Royal 3DP
 - RusselSmith — VoxelMatters
 - SHANXI RUITUOFENG NEW MATERIALS
 - SUNLU (Guangdong) Technology Co.,Ltd. — VoxelMatters
 - SYNTHENE SAS
 - Scandium Canada — VoxelMatters
+- Sharing Intelligent Equipment Co., Ltd. — VoxelMatters
 - Shenzhen Huayang New Materials Technology Co. — VoxelMatters
 - Snapmaker — VoxelMatters
 - Solukon Maschinenbau GmbH — VoxelMatters
 - Spectrum Group Sp. z o.o.
 - Stardust — VoxelMatters
+- Syensqo — VoxelMatters
 - Synergy Additive Manufacturing — VoxelMatters
 - TEAMZIEREIS — VoxelMatters
+- Tangshan Weihao Magnesium Powder Co., Ltd. — VoxelMatters
+- TriTech Titanium Parts — VoxelMatters
 - Tripo AI by VAST — VoxelMatters
 - URECORE POLYURETHANE
 - ValCUN — VoxelMatters
@@ -335,10 +380,14 @@
 - XJet — VoxelMatters
 - Xiamen Antinsky Industry
 - Xometry — VoxelMatters
+- Z-Polymers — VoxelMatters
 - ZEN Global — VoxelMatters
+- Zeisberg — VoxelMatters
 - Zhuhai Cloudprinting Technology
 - Zhuhai Duxuan Trading
 - Zhuhai Sunlu Industrial
+- additive tectonics — VoxelMatters
+- biovature — VoxelMatters
 - moi — VoxelMatters
 
 ## 仕様と実行の照合（inputs と結果・4-59）
@@ -348,7 +397,7 @@
 
 ## 時間の三角測量（4-95・機械）
 - 同じ品目・年・単位・文脈で、別の取得日の値が1割超ずれた欄：0件（取り直しで変わった。版・ページの差し替え・別の表の混入を本文で確かめるまで、どちらも採らない）
-- すべての引用が1つの取得日に固まった品目：18件／18件（時を変えた取り直しが無い。結論に効く品目から次の回で取り直す）
+- すべての引用が1つの取得日に固まった品目：19件／19件（時を変えた取り直しが無い。結論に効く品目から次の回で取り直す）
 
 ## 二重の選別の疑い（4-95・機械）
 - 調査の回答の値で平均・1人あたりを語る品目：0件。標本は「答えた先かつ残った先」。四分位の幅が狭くても中心が上にずれうるので、全数の統計（経済センサス・工業統計）の同じ欄と並べるまで向き・水準の根拠にしない
@@ -361,7 +410,7 @@
 - 1つの品目に別々の13桁の法人番号が2つ以上ある品目：0件（同名の別法人・グループ会社の疑い。本店所在地・法人種別で1つに決めるまで数字を足さない）
 
 ## 同じ出どころの中の複数の値（4-96・機械）
-- 同じホスト・品目・年・単位で別の値が2つ以上ある品目：10件。scan.md で、どの値を採ったかの規則（表の値・通年・確報・低い側・4-21）を1行で書く
+- 同じホスト・品目・年・単位で別の値が2つ以上ある品目：11件。scan.md で、どの値を採ったかの規則（表の値・通年・確報・低い側・4-21）を1行で書く
   - AITA
   - Additive Manufacturing Systems
   - AmeraLabs
@@ -371,6 +420,7 @@
   - Shenzhen Kingroon 3D Technology
   - Siraya Tech
   - Synbotron Technology
+  - VTT
   - Xenia Materials
 
 ## ストックとフロー・重み付きの回収率（4-97・機械）
@@ -504,9 +554,11 @@
 - 毎月勤労統計の1月の前年比：0件。標本交替・ウェイト更新の断層を含み遡及改定されない値として読み、向きに使わない（4-26・4-120）
 
 ## ロバストな外れ値・統計のつなぎ目・全単位の点検（4-121・機械）
-- 値5件以上の欄で、中央値とMAD×1.4826で|z|≥3.5（MAD=0の欄はIQRの柵）の外れ値を持つ欄：1欄（うちMAD=0でIQRに切り替えた欄の総数 0）。外れ値は消さず、元の表で単位・対象を確かめるまで採る値の根拠にしない（4-89・4-121）
+- 値5件以上の欄で、中央値とMAD×1.4826で|z|≥3.5（MAD=0の欄はIQRの柵）の外れ値を持つ欄：2欄（うちMAD=0でIQRに切り替えた欄の総数 0）。外れ値は消さず、元の表で単位・対象を確かめるまで採る値の根拠にしない（4-89・4-121）
   - Xenia Materials／規模・親会社（%）：2/9件　例 70（www.stocktitan.net）
-- SD/MAD が1.5超か、平均と20%トリム平均の差がMADの半分超の欄（裾が重い・混入の兆し）：1欄。平均でなく中央値で読み、混ざった文脈を本文で分ける（4-5・4-121）
+  - VTT／規模・親会社（%）：2/8件　例 116（www.sttinfo.fi）
+- SD/MAD が1.5超か、平均と20%トリム平均の差がMADの半分超の欄（裾が重い・混入の兆し）：2欄。平均でなく中央値で読み、混ざった文脈を本文で分ける（4-5・4-121）
+  - VTT／規模・親会社：SD/MAD=2.69（n=8）
   - Xenia Materials／規模・親会社：SD/MAD=2.34（n=9）
 - 同じ品目×区分に工業統計（2020年以前）と経済構造実態調査（2021年以降）の値が並ぶ組：0組。後者は出荷額の9割までの事業所＋推計・個人経営を除く全規模で、4人以上の工業統計と範囲が違うので、つないで向きを書かない（4-105・4-121）
 - 雇用区分の旧い語（正社員・正職員）と新しい語（無期・有期雇用）が混ざる品目：0件。区分が連続しないので同じ欄で比べない（4-121）
@@ -527,7 +579,7 @@
 
 ## 共通の元・掲載の年率・因果の言明・統計の訂正（4-124・機械）
 - 同じ品目で、引用が同じ元の発表（研究所・工業会・省庁など＋によると／の調査）を名指しし、2ホスト以上に出る組：0組。別のホストでも元が1つなら独立の裏付けに数えず1系統に束ねる。同じ報告様式・宣伝方針に従う出どころどうしの一致も重みを下げる（4-23・4-57・4-124）
-- 引用に掲載の年率（年平均・年率・CAGR）がある行：5件。算出方法（端点の複利か、各年の平均か、期間）を本文で確かめるまで、scan.py が端点から出した複利の年率と同じ欄に並べない。食い違っても誤記と決めつけず両方を区別して残す（4-37・4-124）
+- 引用に掲載の年率（年平均・年率・CAGR）がある行：6件。算出方法（端点の複利か、各年の平均か、期間）を本文で確かめるまで、scan.py が端点から出した複利の年率と同じ欄に並べない。食い違っても誤記と決めつけず両方を区別して残す（4-37・4-124）
 - 数字の引用で因果の言明（原因・要因・影響で・起因など）がある行：0件。「起きたか」（発生）と「それが原因か」（因果）を別の問いにし、因果は話し手の主張として書く。原因か結果かを一度で決めず、時期で区切って経路を書く（4-106・4-124）
 - 引用に統計の訂正・不適切・二重計上・遡及改定・再集計の語がある行：0件。その統計は所管の訂正の発表で影響の期間を確かめるまで、その期間をまたいで向きを書かない（4-26・4-51・4-124）
 
@@ -539,12 +591,12 @@
 - 引用に自称の創業・設立からの年数がある行：0件。会社の自称は登記（gBizINFO・登記事項の設立年月日、法人番号の付番日）と照らし、食い違えば自称を採らない。業種の自称も登記の目的・許認可の登録と照らす（4-8・4-125）
 - 引用に「過大・急増」などの評価語と、手法・基準・定義の変更の語が並ぶ行：0件。連続性の切れた系列の増減には評価語を付けず、新旧の両方式で出した重なりの年（併記・参考値）があるときだけつなぐ（4-26・4-125）
 
-- 同じ品目・区分・単位で、最大が最小の10倍以上の欄（桁のずれ）：5欄。平均・中央値で丸めず、先に単位（千円・万円・百万円）と範囲（全社・1事業所・1人）の読み違いを元の表で確かめる（4-31・4-126）
+- 同じ品目・区分・単位で、最大が最小の10倍以上の欄（桁のずれ）：6欄。平均・中央値で丸めず、先に単位（千円・万円・百万円）と範囲（全社・1事業所・1人）の読み違いを元の表で確かめる（4-31・4-126）
   - voxelmatters／日本の担い手：0.1〜9.1%
   - Additive Manufacturing Systems／規模・親会社：2.6〜62.6%
+  - VTT／規模・親会社：8〜116%
   - Xenia Materials／規模・親会社：5.1〜70%
   - CMS／規模・親会社：500〜6000社
-  - Shenzhen Esun Industrial／SNS・note（note・本：0.5〜5万円
 
 ## 手順の無い市場規模・貿易の基準・人の声の単独（4-127・機械）
 - 市場規模の数字の行：2件のうち、引用に調査・推計の方法・母数・対象の語が無い行：2件。主体が名乗っていても手順が公開されない推計は【未検証】止まりにし、主体・時期・母数・手順の4点が取れるまで採る値の根拠にしない（4-115・4-127）

@@ -1,0 +1,1041 @@
+{
+ "name": "Mbodi AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-09T19:23:38.806838+00:00",
+ "official_url": "https://mbodi.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2024",
+    "url": "https://mekawire.com/ja/companies/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Latest funding",
+    "value": "—",
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "New York",
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "New York, United States",
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "[email protected]",
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Product lines evolve and customer needs change, yet traditional automation can’t keep pace. Every new process means reprogramming, consultants, and costly downtime.",
+    "url": "https://www.mbodi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "skills directly on the floor. No code, no specialists, no interruptions to production.",
+    "url": "https://www.mbodi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Research demos can be impressive once, but production needs consistent reliability. Mbodi delivers 99% uptime and predictable performance in real-world conditions.",
+    "url": "https://www.mbodi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Their technology represents a major advancement in making robotic automation accessible”",
+    "url": "https://www.mbodi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptability has always been the hardest problem in automation.",
+    "url": "https://www.mbodi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "そのアルゴリズムは composite-video-simulator、zhuker/ntsc、および ntscQT で開発されたものを採用しています",
+    "url": "https://socker-news.uzaya.net/news/2026-06-07/article-20",
+    "pass": 3
+   },
+   {
+    "quote": "独立したアプリケーション、ウェブプラットフォーム、または Adobe After Effects、Premiere Pro、DaVinci Resolve、Hitfilm、Vegas（すべての OpenFX ソフトウェアと互換性あり）用のプラグインとして利用可能であり、歴史的正确性と現代の効率性を兼ね備えており、クリエイターがリアルなアナログの美学を現代的なワークフローに直接統合できるよう支援します",
+    "url": "https://socker-news.uzaya.net/news/2026-06-07/article-20",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI: Embodied AI company profile · MEKAWIRE",
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "In dynamic environments where tasks and requirements can change rapidly, traditional robotics programming often falls short, meaning automation can’t effectively address most of the market's use cases. Additionally, operating robotic arms typically demands a high level of expertise.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Balancing Innovation with Practicality",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We view generative AI as a powerful tool within a broader ecosystem of technologies. Our approach leverages AI's strengths in areas like dynamic adaptation while relying on established technologies where they excel.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "provides powerful capabilities, such as computer vision and path planning.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": ", to enable seamless integration of state-of-the-art transformer models into robotics stacks. Additionally, we plan to release more open-source projects in the near future.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Our mission at Mbodi is to make AI robotics technology accessible and beneficial across a wide range of industries and applications. By focusing on practical, agent-based solutions, we aim to address real-world challenges and drive meaningful progress in the field of robotics.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Reliability is not a metric but a system property, requiring fault tolerance, redundancy, and continuous monitoring across operations.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Robots can be programmed to do a variety of tasks, like packing boxes and even performing surgery. But each individual movement or task requires its own specific training process, which makes it hard for robots to adapt in real-world scenarios.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The 10 most exciting AI agent startups at Y Combinator's Demo Day for its first-ever spring cohort",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI’s Approach to Scalable Automation and the Evolving Pace of Industrial Work",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "“This approach aims to help their robots respond to unexpected situations and recover from certain errors in a way that draws inspiration from human behavior, which is a stark contrast from the way robotics has been implemented so far,” Peralta says.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "According to Peralta, such adaptability can largely benefit industries like manufacturing and logistics, where variation is often unprecedented, and efficiency often depends on system responsiveness. Mbodi AI’s system is intended to lessen reliance on extensive operational data and may help minimize the amount of on-site engineering support typically required for coordinating multiple units.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "The technology behind the platform is empowered by the Mbodi AI stack, which includes advanced artificial intelligence capabilities that perform perception to comprehend tasks in real time, cognition to make data-driven, adaptive, and intelligent decisions, and lastly, learning, which champions continuous improvement with every deployment.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "Pointing to a client project of the company, Peralta recalls navigating initial assumptions about the direct integration of robots in the hands of factory operations. In practice, however, Mbodi AI found that decision-making and workflow design often sit at a higher level of authority.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "As he explains, “What we’re building is something that can scale across every environment where physical work happens. When a new product is created, you should already have the automation capabilities to produce it and get it to customers.”",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "More from Contributor Content",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "Lawyers Making Their Mark: Five Legal Professionals to Know in 2026",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial robots have been useful for a long time, but they have never been known for being flexible. They are great at repeating the same motion again and again, yet they often struggle the moment a product changes, a workflow shifts, or a factory needs something new. That gap between power and adaptability is exactly where Xavier (Tianhao) Chi saw an opportunity.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "To understand why Mbodi AI matters, it helps to look at the pain point it is trying to solve. Traditional industrial robots are powerful, but they are usually rigid. They perform best in fixed environments where tasks stay the same for long periods. The problem is that modern manufacturing rarely looks that simple anymore.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Product lines change. Customer expectations shift. Companies deal with new SKUs, shorter production cycles, and constant pressure to move faster without adding more downtime. In that kind of environment, a robot that needs a long reprogramming process every time something changes becomes a bottleneck instead of a solution.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That is one of the biggest reasons many automation opportunities still go untouched. The hardware may already exist, but the software, training, and integration burden can make automation too slow or too expensive to justify. Mbodi AI is built around the idea that this is not just a programming issue. It is an adaptability issue.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That shift matters because it lowers the friction that usually comes with industrial automation. A team does not need to stop operations for extended reprogramming. It does not need to depend entirely on specialists for every change. And it does not have to accept that adaptation is always slow.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI describes its platform as a cloud-to-edge system that can understand instructions, interpret the environment, make a plan, and turn that plan into precise robot actions in real time. The larger goal is not just to help one machine perform one task. It is to build a framework where robot skills can be taught quickly, reused across systems, and adapted when conditions change.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That is a much stronger commercial position because teachability speaks directly to the day-to-day problems manufacturers face. They do not simply want advanced robotics software. They want fewer delays, less downtime, less dependency on outside experts, and a faster path from instruction to execution.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI’s public positioning leans heavily into that value. It talks about no week-long reprogramming, no specialist bottlenecks, and no need to interrupt production every time a task changes. It also frames learning as something that can scale across fleets, which is important because the value of robot training increases when knowledge can transfer across multiple machines and facilities.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That combination of natural language robotics, adaptive automation, real-time control, and fleet-wide learning gives Mbodi AI a more modern story than traditional robotics software providers. Instead of treating every automation challenge as a custom engineering project, it aims to make robot training feel more like software deployment.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "For a manufacturer, that can mean the difference between automation that looks good in theory and automation that actually works in practice. A robot that learns in minutes instead of months is not just a technical improvement. It changes the economics of adoption.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI is still an early-stage company, but the public signals around it are strong enough to matter. One of the clearest validation points is its place in Y Combinator’s Spring 2025 batch. For an industrial robotics startup, that kind of backing helps because it brings credibility, visibility, and access to a wider network of investors, operators, and partners.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That recognition matters because ABB is not just any industrial name. It is one of the best-known robotics companies in the world. When a startup wins attention from a player like that, it suggests the underlying problem is real and the solution is commercially relevant.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "What makes Xavier (Tianhao) Chi interesting as a founder is not just that he has a strong technical background. It is that he appears to be aiming at a structural problem in industrial automation rather than a narrow feature gap.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "If that approach keeps working, the long-term impact could be bigger than one startup story. It could help reshape how industrial automation is adopted across manufacturing. Instead of seeing robots as fixed-function tools that need constant specialist intervention, more businesses may start seeing them as adaptable systems that can be taught and improved over time.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That is the larger idea behind Mbodi AI, and it is also what gives Xavier (Tianhao) Chi’s founder story real weight. He is not only building around AI. He is building around the possibility that industrial robots can become far more practical when they learn in a way that feels closer to how humans learn on the job.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "How Brooke Motta is building RAD Security to protect cloud-native systems in real time",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Jody Glidden Net Worth: How the Tech Entrepreneur Built His Fortune",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "自然言語処理（Natural Language Processing: NLP）",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "自然言語処理（Natural Language Processing: NLP）",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Mbodi AI launches on Y Combinator, developing embodied AI for industrial robots",
+    "url": "https://www.mbodi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mbodi AI- Embodied AI for Industrial Robotics",
+    "url": "https://www.mbodi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mbodi AI YC Launch: Embodied AI for Industrial Robotics",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "ABB Robotics declared T-Robotics and Mbodi the winners of its 2024 ABB Robotics AI Startup Challenge, marking a significant milestone in advancing artificial intelligence offerings for industrial robotics.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI’s Approach to Scalable Automation and the Evolving Pace of Industrial Work",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI emerged after Peralta observed limitations in the conventional realm of robotics. He believes that industrial automation has relied on highly customized integrations that may take months to implement and are difficult to modify once deployed.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "According to Peralta, such adaptability can largely benefit industries like manufacturing and logistics, where variation is often unprecedented, and efficiency often depends on system responsiveness. Mbodi AI’s system is intended to lessen reliance on extensive operational data and may help minimize the amount of on-site engineering support typically required for coordinating multiple units.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "Pointing to a client project of the company, Peralta recalls navigating initial assumptions about the direct integration of robots in the hands of factory operations. In practice, however, Mbodi AI found that decision-making and workflow design often sit at a higher level of authority.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, with its emphasis on adaptability and ongoing on-site learning, Mbodi AI is positioning itself as a contributor to the industrial automation space, exploring ways to introduce software-like agility into physical operations.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "While working together at Google, Xavier Chi and Sebastian Peralta saw a strange pattern in factories. Robots sat idle while people handled the constantly changing tasks, which pushed them to start Mbodi AI and rethink how robots learn.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai-wants-to-help-robots-adapt-as-fast-as-workers",
+    "pass": 3
+   },
+   {
+    "quote": "How Xavier (Tianhao) Chi Built Mbodi AI to Make Industrial Robots Learn Like Humans",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial robots have been useful for a long time, but they have never been known for being flexible. They are great at repeating the same motion again and again, yet they often struggle the moment a product changes, a workflow shifts, or a factory needs something new. That gap between power and adaptability is exactly where Xavier (Tianhao) Chi saw an opportunity.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Industrial Robots Still Struggle to Adapt",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "To understand why Mbodi AI matters, it helps to look at the pain point it is trying to solve. Traditional industrial robots are powerful, but they are usually rigid. They perform best in fixed environments where tasks stay the same for long periods. The problem is that modern manufacturing rarely looks that simple anymore.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "If robots are going to be more useful in real factories, they need to respond to change much more naturally. They need to take instructions faster, adapt to new conditions, and transfer learning across tasks without starting from scratch every time.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That shift matters because it lowers the friction that usually comes with industrial automation. A team does not need to stop operations for extended reprogramming. It does not need to depend entirely on specialists for every change. And it does not have to accept that adaptation is always slow.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That is where the human-like learning angle becomes especially interesting. People do not relearn every task from zero each time something changes slightly. They adjust based on context. Mbodi AI is trying to bring more of that flexibility into industrial robotics.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That is a much stronger commercial position because teachability speaks directly to the day-to-day problems manufacturers face. They do not simply want advanced robotics software. They want fewer delays, less downtime, less dependency on outside experts, and a faster path from instruction to execution.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Why This Matters for Modern Manufacturing",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI is entering the market at a time when manufacturers need flexibility more than ever. Many factories are dealing with labor shortages, tighter margins, and higher expectations around speed and efficiency. At the same time, a huge share of industrial work still remains difficult to automate because it involves variation.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "For a manufacturer, that can mean the difference between automation that looks good in theory and automation that actually works in practice. A robot that learns in minutes instead of months is not just a technical improvement. It changes the economics of adoption.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "This is also why embodied AI has started to attract so much attention. The conversation is moving beyond whether AI can generate text or images. More people now want to know whether AI can make physical systems more useful in the real world. Mbodi AI is part of that movement, but with a very specific and commercially relevant focus on industrial robotics.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI is still an early-stage company, but the public signals around it are strong enough to matter. One of the clearest validation points is its place in Y Combinator’s Spring 2025 batch. For an industrial robotics startup, that kind of backing helps because it brings credibility, visibility, and access to a wider network of investors, operators, and partners.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That recognition matters because ABB is not just any industrial name. It is one of the best-known robotics companies in the world. When a startup wins attention from a player like that, it suggests the underlying problem is real and the solution is commercially relevant.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "What makes Xavier (Tianhao) Chi interesting as a founder is not just that he has a strong technical background. It is that he appears to be aiming at a structural problem in industrial automation rather than a narrow feature gap.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "If that approach keeps working, the long-term impact could be bigger than one startup story. It could help reshape how industrial automation is adopted across manufacturing. Instead of seeing robots as fixed-function tools that need constant specialist intervention, more businesses may start seeing them as adaptable systems that can be taught and improved over time.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "That is the larger idea behind Mbodi AI, and it is also what gives Xavier (Tianhao) Chi’s founder story real weight. He is not only building around AI. He is building around the possibility that industrial robots can become far more practical when they learn in a way that feels closer to how humans learn on the job.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "## Japanese Translation:",
+    "url": "https://socker-news.uzaya.net/news/2026-06-07/article-20",
+    "pass": 3
+   },
+   {
+    "quote": "NLPは、人間が日常的に使う言葉（日本語や英語など）をコンピューターが理解し、分析し、時には生成するための技術です",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NLPは、人間が日常的に使う言葉（日本語や英語など）をコンピューターが理解し、分析し、時には生成するための技術です",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mbodi AI：身体性AI (フィジカルAI)企業のプロフィール — ABBロボティクスは2024年12月17日、同社のAIスタートアップチャレンジで2社の優勝企業の1社にMbodiを選び、3万ドルのプロジェクト資金、アクセラレーターSynerLeapへの6カ月の参加、2025年の初の商用適用に向けた技術陣との協業を提供すると発表した。",
+    "url": "https://mekawire.com/ja/companies/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI（YC P25）創業者機械学習エンジニア（ロボティクス）を採用... — Jun 7, 2026 · YC X25 の後押しを受け、ABB など主要な産業パートナーの支援も得て、Mbodi は人工知能と現実世界のロボティクス間のギャップを架橋し、将来の開発は動的環境における知觉、計画、スキルの汎化に関するモデルの洗練に注力しています。",
+    "url": "https://socker-news.uzaya.net/news/2026-06-07/article-20",
+    "pass": 3
+   },
+   {
+    "quote": "自然言語でロボットを教育！Mbodi AIが描く「身体性AI」の未来と初期... — Jun 7, 2026 · Mbodi AIのプラットフォームが普及すれば、小規模な工場や複雑な作業が必要な物流拠点でも、専門知識なしでAIロボットを即座に導入・更新できるようになるサメ。 物理的な世界に「知能」が溶け込む、真のオートメーション時代の幕開けだサメ！",
+    "url": "https://ai-minor.com/blog/ja/2026-06-07-1780780894025-mbodi_ai__yc_p25__is_hiring_founding_machine_learn/",
+    "pass": 3
+   },
+   {
+    "quote": "www.mbodi.com — ABB Robotics names T-Robotics and Mbodi as AI Startup Challenge Winners Mbodi AI wants to help robots adapt as fast as workers Mbodi and T-Robotics are ABB Robotics’ AI Startup Challenge winners Mbodi AI- Embodied AI for Industrial Robotics",
+    "url": "https://www.mbodi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI: Embodied AI company profile · MEKAWIRE — Mbodi targets high mix, low volume production where reprogramming robots is slow and costly, and it publishes an open source library, embodied-agents, for connecting transformer models to robots.",
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI - A New Paradigm for AI Robotics and Our Partnership ... — Our mission at Mbodi is to make AI robotics technology accessible and beneficial across a wide range of industries and applications. By focusing on practical, agent-based solutions, we aim to address real-world challenges and drive meaningful progress in the field of robotics.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI - AIツールレビュー | AIniche — 概要 Mbodi AIは、既存のロボットスタックに生成AIとVLA（Vision-Language-Action）モデルを統合するエンボディドAI（Embodied AI）プラットフォームであり、ユーザーが自然言語とデモンストレーションを通じてロボットに新しい作業を即座に教育できるようにします。",
+    "url": "https://ainiche.net/ja/tools/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI’s Approach to Scalable Automation and the Evolving ... — Mar 24, 2026 · Mbodi AI aims to advance a new category of industrial automation, one where robots may no longer have to be confined to rigid programming but instead evolve through continuous learning.",
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI wants to help robots adapt as fast as workers — While working together at Google, Xavier Chi and Sebastian Peralta saw a strange pattern in factories. Robots sat idle while people handled the constantly changing tasks, which pushed them to start Mbodi AI and rethink how robots learn.",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai-wants-to-help-robots-adapt-as-fast-as-workers",
+    "pass": 3
+   },
+   {
+    "quote": "How Xavier (Tianhao) Chi Built Mbodi AI to Make Industrial ... — With Mbodi AI, Chi is working on a much bigger idea than simply making robots faster. He is helping build a system that makes industrial robots easier to teach, easier to adapt, and much more practical for real manufacturing environments.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "Mbodi AI: Industrial Robots that Learn and Operate Like ... — Mbodi turns natural language and quick demos into precise, reliable robot actions that run in production in minutes, and adapt as often as you need. We are now rolling out real-world deployments to customers with a joint commercialization partner, ABB, the world’s leading robot manufacturer.",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Meanwhile, we remain committed to open-source collaboration and lowering barriers to advanced AI technology in robotics. We open-sourced one of our libraries,",
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "This is also why embodied AI has started to attract so much attention. The conversation is moving beyond whether AI can generate text or images. More people now want to know whether AI can make physical systems more useful in the real world. Mbodi AI is part of that movement, but with a very specific and commercially relevant focus on industrial robotics.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   },
+   {
+    "quote": "What makes Xavier (Tianhao) Chi interesting as a founder is not just that he has a strong technical background. It is that he appears to be aiming at a structural problem in industrial automation rather than a narrow feature gap.",
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Common Sense of Robot Training is Changing!? The Future ... The news is that a company called \"Mbodi\" will unveil a groundbreaking method for training robots using AI agents. \"Robot training?\" \"AI agents?\" These might sound a bit technical, but don't worry!",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット訓練の常識が変わる！？Mbodiが示す「AIエージェント」と「言... Oct 28, 2025 · また、ロボットが一度に一つのタスクしかこなせないという「硬直性」も解消されるかもしれません。 Mbodiの技術を使えば、同じロボットに異なるタスクを「言葉で」教えるだけで、柔軟に役割を変えさせることが可能になるからです。",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "[Kato Mechatro #25] Automate 2026 Day 2 — Humanoid Forum ... Automate Startup Challenge: Mbodi AI Another unmissable announcement on the second day was the winner of the Automate Startup Challenge. The winner was \"Mbodi AI\"—a startup developing an AI platform that allows robots to learn new tasks in \"minutes instead of weeks.\"",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ロボット訓練の常識が変わる！？Mbodiが示す「AIエージェント」と「言葉」でロボットを教える未来｜ARIA",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット訓練の常識が変わる！？Mbodiが示す「AIエージェント」と「言葉」でロボットを教える未来",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "元ニュース: Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "皆さん、こんにちは。テクノロジーの進化が止まらない現代、私たちの生活は日々便利になっていますよね。特にAI（人工知能）とロボットの進化は目覚ましく、SF映画で見たような未来がすぐそこまで来ているのを感じる人も多いのではないでしょうか。",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、2025年10月27日に開催される「TechCrunch Disrupt 2025」という、テクノロジー業界で最も注目されるイベントで、一つ非常にワクワクする発表が予定されています。それは、",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「Mbodi（エムボディ）」という会社が、AIエージェントを使ってロボットを訓練する画期的な方法を披露する",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「ロボットの訓練？」「AIエージェント？」と、少し専門的な響きに感じるかもしれませんが、心配はいりません！今日は、このニュースがなぜこんなにも重要で、私たちの未来にどんな影響を与えるのかを、初心者の方にも分かりやすく、そして楽しく解説していきたいと思います。",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット訓練の常識が変わる！？Mbodiが示す「AIエージェント」と「言葉」でロボットを教える未来｜ARIA",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット訓練の常識が変わる！？Mbodiが示す「AIエージェント」と「言葉」でロボットを教える未来",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "元ニュース: Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "皆さん、こんにちは。テクノロジーの進化が止まらない現代、私たちの生活は日々便利になっていますよね。特にAI（人工知能）とロボットの進化は目覚ましく、SF映画で見たような未来がすぐそこまで来ているのを感じる人も多いのではないでしょうか。",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、2025年10月27日に開催される「TechCrunch Disrupt 2025」という、テクノロジー業界で最も注目されるイベントで、一つ非常にワクワクする発表が予定されています。それは、",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "「Mbodi（エムボディ）」という会社が、AIエージェントを使ってロボットを訓練する画期的な方法を披露する",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "「ロボットの訓練？」「AIエージェント？」と、少し専門的な響きに感じるかもしれませんが、心配はいりません！今日は、このニュースがなぜこんなにも重要で、私たちの未来にどんな影響を与えるのかを、初心者の方にも分かりやすく、そして楽しく解説していきたいと思います。",
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #25】Automate 2026 Day 2 — ヒューマノイドフォーラムが開幕、NEURAが$1.4Bの答えを出した日｜KeiTy",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #25】Automate 2026 Day 2 — ヒューマノイドフォーラムが開幕、NEURAが$1.4Bの答えを出した日",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "シカゴ・マコーミックプレイス。Automate 2026の2日目、6月23日。朝9時の開場と同時に、NVIDIAがスポンサードするヒューマノイドロボットパビリオンは人だかりが絶えなかった。800社超の出展者、5万人の来場者——今年のAutomateは過去最大のスケールで幕を開けている。そしてこの日、産業メカトロ業界の最も重要な問いに対して、一つの明確な答えが提示された。",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「ヒューマノイドは、いつ本当に工場で働くのか」",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Automate 2026 会場・マコーミックプレイス",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Forum開幕",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "正午12時45分、ヒューマノイドフォーラムのオープナーパネルが始まった。テーマは「The Next Frontier of Physical AI: Humanoid Robots at Scale」。登壇者の顔ぶれは、まさにこの業界の縮図だった。NEURA Roboticsの創業者兼CEO David Reger、NVIDIAのロボティクス責任者、そして複数のヒューマノイドスタートアップのCTOたち。",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "パネルの空気は、1年前とは明らかに違っていた。昨年のAutomateでは「いつ来るのか」という議論が中心だった。今年は「どうやってスケールさせるか」が本題である。Regerは冒頭でこう語った。「Physical AIはシミュレーションだけでトレーニングするものではない。現実世界で、実際の工場で、実データを食わせて初めて有用になる」",
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ABB Robotics Names T-Robotics and Mbodi as 2024 AI Startup ... DeFiance Media (@defiancemediatv). 27 views. ABB Robotics Names T-Robotics and Mbodi as 2024 AI Startup Challenge Winners – DeFiance Media – 12.24.24",
+    "url": "https://x.com/defiancemediatv/status/1871659006478950748",
+    "pass": 3
+   },
+   {
+    "quote": "念の為ツイートしておきますがodi(@/mbodi_san・@/CS41000)が投稿して... 念の為ツイートしておきますがodi (@/mbodi_san・@/CS41000)が投稿しております作品は ・転載,トレス,AI学習等禁止 ・スクショ含む保存禁止 ・動画の転載/切り抜き禁止 となっております。 転載や使用をしたい場合は直接許可取りしてください。",
+    "url": "https://x.com/mbodi_san/status/2029785171092984148",
+    "pass": 3
+   },
+   {
+    "quote": "Sebastian Peralta (@sebjperalta) / Posts / X Mbodi AI ( @mbodiai) makes industrial robots learn like humans. With Mbodi, anyone can teach robots new skills just by talking — no code, no engineers, no week-long reprograms.",
+    "url": "https://x.com/sebjperalta",
+    "pass": 3
+   },
+   {
+    "quote": "念の為ツイートしておきますがodi(@/mbodi_san・@/CS41000)が投稿して... Mar 6, 2026 · 念の為ツイートしておきますがodi (@/mbodi_san・@/CS41000)が投稿しております作品は ・転載,トレス,AI学習等禁止 ・スクショ含む保存禁止 ・動画の転載/切り抜き禁止 となっております。 転載や使用をしたい場合は直接許可取りしてください。",
+    "url": "https://x.com/mbodi_san/status/2029785171092984148",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mbodi AI - LinkedIn Mbodi AI | 7,331 followers on LinkedIn. Physical AI for Industrial Robots (YC X25) | Robots that learn and operate like humans",
+    "url": "https://www.linkedin.com/company/mbodiai",
+    "pass": 3
+   },
+   {
+    "quote": "Xavier (Tianhao) Chi - Co-Founder @ Mbodi AI | YC X25 | Ex ... May 1, 2018 · Engineer, singer, photographer, maybe an unprofessional racing driver? ig: xavier_chi x: chitianhao · Experience: Mbodi AI · Education: University of Illinois at Urbana-Champaign · Location ...",
+    "url": "https://www.linkedin.com/in/xavierchi",
+    "pass": 3
+   },
+   {
+    "quote": "Thrilled to announce my investment in Mbodi AI | Taro Fukuyama Mbodi AI, spearheaded by Google veterans Xavier (Tianhao) Chi and Sebastian Peralta (the minds behind Google Public DNS 8.8.8.8), is making it a reality. They're building an embodied AI...",
+    "url": "https://pe.linkedin.com/feed/update/urn:li:activity:7335700548429430785/",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Palin - Robotics Engineer @ Mbodi AI | Mechanical ...Network VC has invested in Mbodi AI — an innovative embodied ...Mbodi AI - A New Paradigm for AI Robotics and Our ... - LinkedInSebastian Peralta - Co-Founder & CEO @ mbodi | Ex-Google | YC ... About MEng student passionate about physical AI and robotics, building toward a future where robots work reliably in the real world. Mbodi AI is a",
+    "url": "https://ca.linkedin.com/in/daniel-w-palin",
+    "pass": 3
+   },
+   {
+    "quote": "Xavier (Tianhao) Chi - Co-Founder @ Mbodi AI | YC X25 | Ex ... May 1, 2018 · About Building embodied intelligence. Engineer, singer, photographer, maybe an unprofessional racing driver? ig: xavier_chi x: chitianhao",
+    "url": "https://www.linkedin.com/in/xavierchi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mbodi.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mekawire.com/ja/companies/mbodi-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://socker-news.uzaya.net/news/2026-06-07/article-20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.ai/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/596003-41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mbodi.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mekawire.com/companies/mbodi-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mbodi.ai/articles-news/mbodi-ai-wants-to-help-robots-adapt-as-fast-as-workers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/defiancemediatv/status/1871659006478950748",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mbodi_san/status/2029785171092984148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sebjperalta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mbodiai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/xavierchi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/feed/update/urn:li:activity:7335700548429430785/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/daniel-w-palin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mbodi_san/status/2029785171092984148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/xavierchi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mbodi AI 日本 導入",
+   "results": [
+    "https://mekawire.com/ja/companies/mbodi-ai",
+    "https://socker-news.uzaya.net/news/2026-06-07/article-20",
+    "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "https://www.mbodi.ai/",
+    "https://ai-minor.com/blog/ja/2026-06-07-1780780894025-mbodi_ai__yc_p25__is_hiring_founding_machine_learn/",
+    "https://poko-everyday.com/mbodi-ai-robot-training-natural-language/",
+    "https://special.nikkeibp.co.jp/atclh/ONB/26/deloitte0625/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mbodi AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.mbodi.ai/",
+    "https://www.mbodi.ai/contact",
+    "https://pitchbook.com/profiles/company/596003-41",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://mbody.ai/",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mbodi AI Japan",
+   "results": [
+    "https://www.mbodi.ai/",
+    "https://www.mbodi.com/",
+    "https://mekawire.com/companies/mbodi-ai",
+    "https://www.mbodi.ai/articles-news/mbodi-ai",
+    "https://ainiche.net/ja/tools/mbodi-ai",
+    "https://mekawire.com/ja/companies/mbodi-ai",
+    "https://mbody.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mbodi AI manufacturing customer case study",
+   "results": [
+    "https://www.mbodi.ai/",
+    "https://www.usatoday.com/story/special/contributor-content/2026/03/24/mbodi-ais-approach-to-scalable-automation-and-the-evolving-pace-of-industrial-work/89306750007/",
+    "https://www.mbodi.ai/articles-news/mbodi-ai-wants-to-help-robots-adapt-as-fast-as-workers",
+    "https://www.okreporter.com/how-xavier-tianhao-chi-built-mbodi-ai-to-make-industrial-robots-learn-like-humans/",
+    "https://www.ycombinator.com/companies/mbodi-ai",
+    "http://www.mbodi.com/",
+    "https://www.flrepoter.com/how-sebastian-peralta-is-building-mbodi-ai-to-make-industrial-robots-easier-to-teach/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mbodi AI white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://nebius.com/nebius-partner-program",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://aws.amazon.com/partners/programs/",
+    "https://customgpt.ai/ai-reseller-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mbodi AI founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Mbodi AI",
+   "results": [
+    "https://note.com/2wd/n/nfe96f7ac4ac8?hl=en",
+    "https://note.com/2wd/n/nfe96f7ac4ac8",
+    "https://note.com/panda_lab/n/nb5bdd0e11996?hl=en",
+    "https://note.com/keity717/n/n62145d17ada0?hl=en",
+    "https://note.com/famous_prawn2009/n/n62145d17ada0",
+    "https://note.com/momijiiii/n/ndb4b04087210?hl=en",
+    "https://note.com/momijiiii/n/ndb4b04087210"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mbodi AI",
+   "results": [
+    "https://x.com/defiancemediatv/status/1871659006478950748",
+    "https://x.com/mbodi_san/status/2029785171092984148",
+    "https://x.com/itsteex",
+    "https://x.com/sebjperalta",
+    "https://x.com/AutomateShow/status/2095216939195040008",
+    "https://x.com/chitianhao?ref=runtimewire",
+    "https://x.com/automateshow"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mbodi AI",
+   "results": [
+    "https://www.linkedin.com/company/mbodiai",
+    "https://www.linkedin.com/in/xavierchi",
+    "https://pe.linkedin.com/feed/update/urn:li:activity:7335700548429430785/",
+    "https://ca.linkedin.com/in/daniel-w-palin",
+    "https://pe.linkedin.com/posts/network-vc_network-vc-has-invested-in-mbodi-ai-an-activity-7341252299836596224--4G3",
+    "https://www.linkedin.com/posts/mbodiai_mbodi-ai-a-new-paradigm-for-ai-robotics-activity-7274825017362649089-ig5w",
+    "https://www.linkedin.com/in/sebjperalta"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mbodi AI",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Mbodi AI note 社長",
+   "results": [
+    "https://mekawire.com/companies/mbodi-ai",
+    "https://www.mbodi.ai/",
+    "https://www.mbodi.ai/articles-news",
+    "https://www.eofire.com/podcast/sebastianperalta/",
+    "https://uninetworkgroup.com/interview-leadership-update-sebastian/",
+    "https://nocap.blog/founder/sebastian-peralta/",
+    "https://nocap.blog/founder/xavier-tianhao-chi/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mbodi AI X 投稿",
+   "results": [
+    "https://www.mbodi.ai/",
+    "https://x.com/mbodi_san/status/2029785171092984148",
+    "http://www.mbodi.com/",
+    "https://www.linkedin.com/in/xavierchi",
+    "https://www.mbodi.ai/contact",
+    "https://new.abb.com/news/ja/detail/122287/abb-robotics-names-t-robotics-and-mbodi-as-ai-startup-challenge-winners",
+    "https://x.com/RyanGreenblatt/status/2118447235289817503"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

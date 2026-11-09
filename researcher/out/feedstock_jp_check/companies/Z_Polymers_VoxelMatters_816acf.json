@@ -1,0 +1,506 @@
+{
+ "name": "Z-Polymers — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer",
+ "researched_at": "2026-11-09T19:11:09.863992+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://z-polymers.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dynamism.com/material/material-brands/z-polymers.html?srsltid=AYCX9vJqiX5heRNlQoxpWX3iU9yqUIwIS3DfyrujbiGxE7gAKZ92gx8S",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=PQ2NpE6EbPE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://free-lifestyle.com/shoes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msh-systems.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.audemarspiguet.com/jp/ja/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://z-polymers.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/l/z-polymers-tullomer-filament-175mm/sk/MD862HLV?srsltid=AYCX9vI-LyCSVOCCKhAm8L4NocEqV9uGD5i3BbJVx47ya3GwfL0AhaLa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/materials/material-brands/z-polymers/z-polymers-tullomer-1kg.html?srsltid=AYCX9vKzagqm26-S8zRivggYakaISGJKmxx2ojvYbvLBOvNDTYd7Y2MF",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://z-polymers.com/product-info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://z-polymers.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.brule.co.jp/materials/material-brands/z-polymers/z-polymers-tullomer-1kg.html?srsltid=AYCX9vKARW_EyqOZrAidbbT52uk1Yky-FJfLovxbBS0HPhch8dxYnG1v",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store/l/z-polymers-tullomer-filament-175mm/sk/MD862HLV?srsltid=AYCX9vIQpGoAYn2rRxSGYVlzBvkErIE86f2UbOppZC7EQLLl-WWxtNoz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://z-polymers.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dynamism.com/material/material-brands/z-polymers.html?srsltid=AYCX9vK6Fle-H1bjRhqj-5XvVEQez-MfacAIUR8dnkJsJxFJBoz9htx7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ngPksruJKr4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://z-polymers.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ngPksruJKr4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dynamism.com/learn/3d-printing/dynamism-is-now-offering-z-polymers-tullomer-filament.html?srsltid=AYCX9vIKF7wkzBBFPh3hSaWlGjfDc2Xa1606Wqt31bbuEP-0MLEceeBW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pay.amazon.co.jp/signin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/ZATOOTO-%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E8%BB%8A%E4%B8%AD%E6%B3%8A-%E3%83%9E%E3%82%B0%E3%83%8D%E3%83%83%E3%83%88%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E4%BF%9D%E8%AD%B7-260%E3%8E%9D%EF%BD%9890%E3%8E%9D/dp/B0BTY9SPFR",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Principles-Polymer-Processing-Zehev-Tadmor/dp/0471387703",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/08594730/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00511629/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5131/4323/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/529344-19",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/z-polymers",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Z-Polymers — VoxelMatters 代理店",
+   "results": [
+    "https://z-polymers.com/",
+    "https://www.dynamism.com/material/material-brands/z-polymers.html?srsltid=AYCX9vJqiX5heRNlQoxpWX3iU9yqUIwIS3DfyrujbiGxE7gAKZ92gx8S",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=PQ2NpE6EbPE",
+    "https://the3dprintingnerd.com/blog/unicorn-filament-tullomer-from-z-polymers",
+    "https://www.matterhackers.com/store/l/z-polymers-tullomer-filament-175mm/sk/MD862HLV?srsltid=AYCX9vIPHPcoe7veah94jFbtl43PB-MqnU5dYHB7Mrd4Zy894rkxnDpI",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://www.voxelmatters.com/meet-the-top-companies-from-voxelmatters-polymer-am-2026-report-and-see-how-theyre-trending/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://free-lifestyle.com/shoes/",
+    "https://www.msh-systems.com/partners/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.audemarspiguet.com/jp/ja/home",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://h-moser.com/ja",
+    "https://gausium.com/ja/products/phantas-2/",
+    "https://www.marukyu-koyamaen.co.jp/products.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters 日本 販売",
+   "results": [
+    "https://z-polymers.com/",
+    "https://www.matterhackers.com/store/l/z-polymers-tullomer-filament-175mm/sk/MD862HLV?srsltid=AYCX9vI-LyCSVOCCKhAm8L4NocEqV9uGD5i3BbJVx47ya3GwfL0AhaLa",
+    "https://www.brule.co.jp/materials/material-brands/z-polymers/z-polymers-tullomer-1kg.html?srsltid=AYCX9vKzagqm26-S8zRivggYakaISGJKmxx2ojvYbvLBOvNDTYd7Y2MF",
+    "https://z-polymers.com/product-info",
+    "https://www.voxel.co.il/z-polymers-shop",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.youtube.com/watch?v=DTtVyaPMzPM",
+    "https://z-polymers.com/applications",
+    "https://www.kureha.co.jp/newsrelease/uploads/20260326_Kureha's_Investment_with_US_Startup_Z-Polymers_jp.pdf",
+    "https://www.kureha.co.jp/en/newsrelease/docs/20260326_Kureha's_Investment_with_US_Startup_Z-Polymers_en.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://z-polymers.com/",
+    "https://www.brule.co.jp/materials/material-brands/z-polymers/z-polymers-tullomer-1kg.html?srsltid=AYCX9vKARW_EyqOZrAidbbT52uk1Yky-FJfLovxbBS0HPhch8dxYnG1v",
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.matterhackers.com/store/l/z-polymers-tullomer-filament-175mm/sk/MD862HLV?srsltid=AYCX9vIQpGoAYn2rRxSGYVlzBvkErIE86f2UbOppZC7EQLLl-WWxtNoz",
+    "https://z-polymers.com/product-info",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://yxpolyer.com/ja",
+    "https://item.rakuten.co.jp/mitashop/3dfsmpn/",
+    "https://rcdepot-jp.sakura.ne.jp/product/product-447"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://z-polymers.com/",
+    "https://www.dynamism.com/material/material-brands/z-polymers.html?srsltid=AYCX9vK6Fle-H1bjRhqj-5XvVEQez-MfacAIUR8dnkJsJxFJBoz9htx7",
+    "https://www.youtube.com/watch?v=ngPksruJKr4",
+    "https://www.plasticstoday.com/materials/headline-kureha-invests-in-z-polymers-to-advance-high-performance-liquid-crystal-polymer-technology-for-global-markets",
+    "https://www.manufacturingdive.com/news/new-materials-innovation-mike-zimmerman-3D-printing-additive-manufacturing/828050/",
+    "https://filament2print.com/en/filaments/4755-z-polymers-tullomer.html",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://the3dprintingnerd.com/blog/unicorn-filament-tullomer-from-z-polymers",
+    "https://www.voxelmatters.report/database/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://z-polymers.com/",
+    "https://www.youtube.com/watch?v=ngPksruJKr4",
+    "https://www.dynamism.com/learn/3d-printing/dynamism-is-now-offering-z-polymers-tullomer-filament.html?srsltid=AYCX9vIKF7wkzBBFPh3hSaWlGjfDc2Xa1606Wqt31bbuEP-0MLEceeBW",
+    "https://filament2print.com/en/filaments/4755-z-polymers-tullomer.html",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://the3dprintingnerd.com/blog/unicorn-filament-tullomer-from-z-polymers",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Z-Polymers — VoxelMatters",
+   "results": [
+    "https://pay.amazon.co.jp/signin",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.amazon.co.jp/ZATOOTO-カーテン車中泊-マグネットカーテン-プライバシー保護-260㎝ｘ90㎝/dp/B0BTY9SPFR",
+    "https://www.amazon.co.jp/Principles-Polymer-Processing-Zehev-Tadmor/dp/0471387703",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ",
+    "https://www.amazon.co.jp/イヴの罠-シーズン1/dp/B0DH6XCNT2",
+    "https://www.amazon.co.jp/俺のスカート、どこ行った？/dp/B0GX85NPNZ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Z-Polymers — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/08594730/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/p/5131/4323/",
+    "https://www.monotaro.com/g/00269150/",
+    "https://www.monotaro.com/g/00535279/",
+    "https://www.monotaro.com/p/8948/7054/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://pitchbook.com/profiles/company/529344-19",
+    "https://www.linkedin.com/company/z-polymers",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://z-polymers.com/",
+    "https://www.plasticstoday.com/materials/z-polymers-tullomer-fiber-delivers-four-times-peek-strength-at-competitive-aramid-fiber-pricing",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.owler.com/company/polymaker",
+    "https://seamless.ai/b/zpolymers-2233888"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Z-Polymers — VoxelMatters",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/Opus+5.5",
+    "https://note.com/tag/ループエンジニアリング",
+    "https://note.com/troy_technical/n/nad463bdbadc3?hl=en",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Z-Polymers — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/zPolymers",
+    "https://x.com/hashtag/zpolymers",
+    "https://x.com/zPolymers/reposts",
+    "https://x.com/zpolymer",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Z-Polymers — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/in/erion-hasa-523227102",
+    "https://www.linkedin.com/in/cora-leibig-049a119",
+    "https://www.linkedin.com/in/matthew-howlett-3b93465",
+    "https://www.linkedin.com/in/garrett-peters-96084571",
+    "https://www.linkedin.com/in/pattersonclark",
+    "https://www.linkedin.com/in/andy-bridge-a0151a12",
+    "https://www.linkedin.com/posts/ali-behnood_congratulations-to-abolfazl-on-the-publication-activity-7481417050670858240-siHN",
+    "https://www.linkedin.com/in/michael-morin-a4a43b17",
+    "https://www.linkedin.com/in/ethane",
+    "https://www.linkedin.com/company/z-polymers"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Z-Polymers — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/brent.goudie/posts/this-weeks-3d-printing-news-a-resin-printer-that-washes-and-dries-itself-1-milli/10244741739383633/",
+    "https://www.facebook.com/brent.goudie/posts/this-resin-printer-has-no-layers-no-supports-and-no-build-plate-it-prints-the-wh/10244775673511965/",
+    "https://www.facebook.com/PrusaResearch/posts/thinking-of-buying-the-prusa-core-one-toms-hardware-has-published-a-detailed-rev/642295851645815/",
+    "https://www.facebook.com/PrusaResearch/posts/the-first-ht-hotends-are-now-shipping-and-firmware-700-is-out-to-support-them-it/1127460419796020/",
+    "https://www.facebook.com/3printr/videos/3druckcom-co-founder-dr-johannes-gartner-talks-in-the-peekfeine-bauteile-podcast/1600402928346552/",
+    "https://www.facebook.com/groups/1152907446440414/posts/1187311752999983/",
+    "https://www.facebook.com/SheffieldTeachingHospitals/posts/imagine-if-medical-models-could-look-and-feel-just-like-the-real-thing-that-futu/1467001942118701/",
+    "https://www.facebook.com/M.A.Ostrega/posts/from-article-gel-polymer-electrolytes-gpes-are-promising-materials-for-developin/10244397132493322/",
+    "https://www.facebook.com/VoxelMatters/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.manufacturingdive.com/news/new-materials-innovation-mike-zimmerman-3D-printing-additive-manufacturing/828050/",
+    "https://z-polymers.com/",
+    "https://www.todaysmedicaldevelopments.com/article/new-3d-printed-polymers-new-possibilites-medical-devices/",
+    "https://www.youtube.com/watch?v=ngPksruJKr4",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/",
+    "https://z-polymers.com/about",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.linkedin.com/in/mike-zimmerman-6079603"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Z-Polymers — VoxelMatters X 投稿",
+   "results": [
+    "https://z-polymers.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/watch?v=ngPksruJKr4",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.plasticstoday.com/materials/z-polymers-tullomer-fiber-delivers-four-times-peek-strength-at-competitive-aramid-fiber-pricing",
+    "https://www.youtube.com/watch?v=q05RtAODWEc",
+    "https://the3dprintingnerd.com/blog/unicorn-filament-tullomer-from-z-polymers",
+    "https://www.voxelmatters.report/",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

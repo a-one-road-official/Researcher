@@ -1,0 +1,913 @@
+{
+ "name": "voiceOne",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T19:46:02.802826+00:00",
+ "official_url": "https://voice-one.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Unsere Produkte sind im Einsatz bei",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Präsentation zeigt voiceOne in 16 Kapiteln und knapp drei Minuten: einen Anruf von der Annahme bis zur Zusammenfassung, danach Kalender, CRM, Angebote und Rechnungen, Workflows, die Mobile App, das KI-Team mit Aufträgen und Freigaben und die Regeln zum Datenschutz. Sie läuft von selbst und ohne Ton, mit Bildschirmfotos der Anwendung und erfundenen Beispieldaten.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Präsentation wird geladen …",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ein Klick auf ein Kapitel springt dorthin. Pause und Vollbild unten rechts in der Präsentation.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fünf getrennte Programme, die über Schnittstellen untereinander verbunden sind",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Jedes Programm führt eigene Daten. Schnittstellen übertragen dazwischen.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Neben dem Telefonassistenten arbeitet in voiceOne ein KI-Team in festen Rollen für Büro, Vertrieb, Marketing, Technik und Compliance. Aufträge geben Sie im Gespräch. Alles, was nach außen geht oder Geld kostet – E-Mails, SMS, Rechnungen, Werbebudget, Veröffentlichungen –, legt das Team Ihnen vorher zur Freigabe vor. Lehnen Sie ab, passiert nichts.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Probieren Sie es aus. In diesem Beispiel geht nichts hinaus.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Am einfachsten rufen Sie an: Unter 0951 16092950 nimmt der Assistent von voiceOne selbst ab, so wie er auch bei Ihnen abnehmen würde. Sie können sich auch von ihm anrufen lassen. Wer lieber zuhört, findet darunter drei gestellte Beispielgespräche.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gestellte Gespräche mit erfundenen Daten.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne ist für Betriebe gebaut, die viele Anrufe bekommen und niemanden dauerhaft am Telefon haben: Praxen, Handwerksbetriebe, Kanzleien und Dienstleister. Privatpersonen sind nicht Zielgruppe. Für Arzt- und Therapiepraxen gibt es mit mediOne eine eigene Ausprägung mit Verordnungen, Rezeptanfragen und Patiententerminen.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Wie geht voiceOne mit Gesprächsdaten um?",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gesprächsinhalte sind vertraulich, in Praxen und Kanzleien besonders. Deshalb stehen hier keine Siegel, sondern die Regeln, nach denen voiceOne arbeitet.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Löschfristen für Gesprächsdaten in voiceOne. Stand:",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Kein Training mit Ihren Gesprächen",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gesprächsdaten unserer Kunden werden nicht zum Training von Sprach- oder KI-Modellen genutzt. Das gilt auch für die eingesetzten Modellanbieter.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In der Stufe „Ersetzen“ erhält das Sprachmodell IBAN, Kreditkartennummer, Geburtsdatum, Versichertennummer und Zugangsdaten nur als Platzhalter. In Kalender und CRM steht der echte Wert. Der Filter steht bei ausgewählten Sprachmodellen zur Verfügung.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Den Auftragsverarbeitungsvertrag finden Sie in der Anwendung unter Profil.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Kleine und mittlere Betriebe im deutschsprachigen Raum, Schwerpunkt Praxen, Handwerk, Kanzleien und Dienstleister. Nicht für Privatpersonen.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "KI-Telefonassistent mit eigenen Rufnummern: Annahme, Auskunft, Terminbuchung, Rückrufe, Weiterleitung. Gesprächszusammenfassung nach jedem Anruf.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Assistenzrollen für Büro, Vertrieb, Marketing, Technik und Compliance. Was nach außen geht oder Geld kostet, wird vorher zur Freigabe vorgelegt.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne (alle Branchen), mediOne (Arzt- und Therapiepraxen), coachOne (Coaches und Trainer), clipOne (Video und Content) – auf einem technischen Unterbau",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Kein Training mit Gesprächsdaten. Audiodateien 30 Tage, Transkripte 180 Tage. Auftragsverarbeitungsvertrag in der Anwendung.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ein KI-Telefonassistent ist Software, die Anrufe selbstständig annimmt und im Gespräch antwortet, statt nur eine Ansage abzuspielen. Er beantwortet Fragen mit dem Wissen, das der Betrieb hinterlegt hat, bucht Termine in den Kalender und leitet weiter, wenn ein Mensch gebraucht wird. Nach jedem Gespräch liegt eine Zusammenfassung vor.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne enthält Kalender, CRM, Angebote, Rechnungen und Buchhaltung mit DATEV-Export selbst, statt sie nur anzubinden. Ein Anruf wird so ohne Übertragung zwischen Programmen zum Kontakt, zum Termin und am Ende zur Rechnung. Wer seinen Kalender bei Google, in Outlook, über CalDAV oder in eTermin führt, bindet ihn trotzdem an.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerprogramm für den KI-Telefonassistenten | voiceOne",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne und mediOne · Partnerprogramm",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerprogramm für den KI-Telefon­assistenten voiceOne",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Mit dem Partnerprogramm vermitteln Sie voiceOne an andere Betriebe und mediOne an Arzt- und Therapiepraxen – per Empfehlungslink gegen wiederkehrende Provision oder als Reseller mit eigener Rechnung. Die Teilnahme ist kostenlos und wird in Ihrem voiceOne-Konto aktiviert.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Klicks, Registrierungen, Abschlüsse, Provision",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Was ist das Partnerprogramm von voiceOne?",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "20 bis 35 % Provision auf jede Zahlung",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "bis zu 35 % Partnerrabatt auf den Listenpreis",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Listenpreis von voiceOne",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Berater, Branchenkenner, Bestandskunden, Content-Creator",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Agenturen, IT-Dienstleister, Praxis-IT-Dienstleister (mediOne)",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Wie hoch ist die Provision im Partnerprogramm?",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Die Provision beginnt bei 20 % und steigt in vier Stufen auf höchstens 35 %. Maßgeblich ist der Jahresumsatz, den die über Sie geworbenen Kunden bei voiceOne bezahlen. Die Provision fällt auf jede Zahlung an, solange der geworbene Kunde sein Abo bezahlt; eine Begrenzung auf zwölf Monate gibt es nicht. Ausgezahlt wird ab 100 € freigegebenem Guthaben.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "· Provision auf den tatsächlich gezahlten Betrag der geworbenen Kunden",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Quelle: Benutzerhandbuch von voiceOne, Abschnitt Partnerprogramm und Empfehlungen · Stand",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ein Empfehlungslink gegen Provision ist Werbung. Kennzeichnen Sie ihn, zum Beispiel mit „Werbung“ oder „Anzeige“ (§ 5a Abs. 4 UWG).",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Verwenden Sie die Angaben von voice-one.ai. Eigene Leistungsversprechen, Erkennungsraten oder Einsparungen sind von voiceOne nicht gedeckt.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Praxen ohne Patientendaten",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Wenn Sie mediOne Praxen vorstellen, verwenden Sie keine Patienten- oder Gesprächsdaten als Beispiel, auch nicht anonymisiert.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne schließt Verträge nur mit Unternehmern im Sinne des § 14 BGB, nicht mit Privatpersonen (AGB, § 1).",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Häufige Fragen zum Partnerprogramm",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Was kostet die Teilnahme am Partnerprogramm?",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Nichts. Die Teilnahme ist kostenlos und ohne Mindestlaufzeit. Sie aktivieren das Partnerprogramm in Ihrem voiceOne-Konto über den Menüpunkt Partnerprogramm.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Wie hoch ist die Provision?",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Sie beginnen bei 20 % wiederkehrender Provision auf jede Zahlung des geworbenen Kunden. Mit steigendem vermitteltem Jahresumsatz steigt Ihr Satz auf 25 %, 30 % und höchstens 35 %.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne White-Label & Reseller-Programm | KI-Telefonie unter Ihrer Marke",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label · Reseller-Programm",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Eigene Domain, eigenes Logo, eigene Preise. Ihre Kunden sehen voiceOne nicht. Sie sehen IHR Produkt. Reseller-Marge bis 35 %. Multi-Tenant-Portal, eigene Customer Success Manager, Branding-Pakete für Agenturen, Telkos und Branchenverbände.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Weil Sie ein Telefon-Produkt verkaufen wollen, ohne fünf Jahre Entwicklung. Und weil Marge wichtiger ist als Marketing-Hype.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Marge statt nur Provision",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Provisions-Programme von SaaS-Anbietern liegen bei 10-20 %. voiceOne White-Label: 20-35 % Marge auf den ARR. Sie kassieren wiederkehrend.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ihre Kunden bekommen Onboarding und Support von uns — aber unter Ihrer Marke. Wir trainieren Ihre Sales- und Support-Mitarbeiter, wenn gewünscht.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Branding-Briefing, Portal-Setup, AGB-Anpassung. In zwei Wochen verkaufen Sie Ihr eigenes KI-Telefon-Produkt — ohne eine Zeile Code geschrieben zu haben.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Eigene SLA-Stufen pro Kunde",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Audit-Log pro Mandant",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "voiceOne (alle Branchen), mediOne (Arzt- und Therapiepraxen), coachOne (Coaches und Trainer), clipOne (Video und Content) – auf einem technischen Unterbau",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provisions-Programme von SaaS-Anbietern liegen bei 10-20 %. voiceOne White-Label: 20-35 % Marge auf den ARR. Sie kassieren wiederkehrend.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Neben dem Telefonassistenten arbeitet in voiceOne ein KI-Team in festen Rollen für Büro, Vertrieb, Marketing, Technik und Compliance. Aufträge geben Sie im Gespräch. Alles, was nach außen geht oder Geld kostet – E-Mails, SMS, Rechnungen, Werbebudget, Veröffentlichungen –, legt das Team Ihnen vorher zur Freigabe vor. Lehnen Sie ab, passiert nichts.",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "KI-E-Mail-Agent, Outbound-Kampagnen, Mobile App",
+    "url": "https://voice-one.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "E-Mail nur mit Einwilligung",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Werbung per E-Mail oder SMS braucht die vorherige ausdrückliche Einwilligung des Empfängers, auch gegenüber Unternehmen (§ 7 Abs. 2 Nr. 2 UWG).",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Domain, Logo, Farben, E-Mail-Absender, mobile App-Icons, Helpcenter-URL, AGB-Vorlage. Ihre Kunden sehen voiceOne nicht.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Unter 0951 16092950 antwortet unser eigener KI-Telefonassistent, auf Deutsch und Englisch. So hören Sie gleich beim ersten Anruf, wie voiceOne am Telefon klingt. Schriftlich erreichen Sie uns per E-Mail oder über das Formular weiter unten.",
+    "url": "https://voice-one.ai/kontakt.html",
+    "pass": 1
+   },
+   {
+    "quote": "Über das Formular hier oder per E-Mail an info@voice-one.ai. Nennen Sie Ihren Betrieb und worum es geht, zum Beispiel eine Frage vor dem Test, den Wunsch nach einer Vorführung oder eine Anfrage als Wiederverkäufer. Die Felder mit * brauchen wir, um Ihnen antworten zu können.",
+    "url": "https://voice-one.ai/kontakt.html",
+    "pass": 1
+   },
+   {
+    "quote": "Wählen Sie im Kalender unten die gewünschte Leistung und einen freien Termin, zum Beispiel für eine unverbindliche Vorführung oder Beratung. Die Buchung läuft über die Terminbuchung von voiceOne, also über dasselbe Produkt, das Sie bei uns mieten. Für die Buchung brauchen wir Ihren Namen, Ihre E-Mail-Adresse und Ihre Telefonnummer.",
+    "url": "https://voice-one.ai/kontakt.html",
+    "pass": 1
+   },
+   {
+    "quote": "Als Kunde von voiceOne oder mediOne eröffnen Sie unten ein Support-Ticket. Name, E-Mail-Adresse, Betreff und eine kurze Beschreibung genügen. Jedes Ticket erhält eine Ticketnummer; mit ihr und Ihrer E-Mail-Adresse fragen Sie unter „Ticket Status“ den Bearbeitungsstand ab. Für Fragen vor dem Test oder zu einer Vorführung nehmen Sie bitte das Formular oder die Terminbuchung.",
+    "url": "https://voice-one.ai/kontakt.html",
+    "pass": 1
+   },
+   {
+    "quote": "eröffnen; den Stand fragen Sie dort mit Ticketnummer und E-Mail-Adresse ab.",
+    "url": "https://voice-one.ai/kontakt.html",
+    "pass": 1
+   },
+   {
+    "quote": "Formular mit dem Anliegen „Presse“ oder E-Mail an",
+    "url": "https://voice-one.ai/kontakt.html",
+    "pass": 1
+   },
+   {
+    "quote": "If you put a company on your watch list, we'll notify you on your email",
+    "url": "https://www.northdata.com/VoiceOne+UG,+M%C3%BCnchen/HRB+225567",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Mit dem Partnerprogramm vermitteln Sie voiceOne an andere Betriebe und mediOne an Arzt- und Therapiepraxen – per Empfehlungslink gegen wiederkehrende Provision oder als Reseller mit eigener Rechnung. Die Teilnahme ist kostenlos und wird in Ihrem voiceOne-Konto aktiviert.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Als Reseller anfragen: zur Kontaktseite →",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "Ja. Sie entscheiden bei jedem Kunden neu, ob voiceOne ihm die Rechnung stellt und Sie Provision erhalten oder ob Sie als Reseller selbst abrechnen.",
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne White-Label & Reseller-Programm | KI-Telefonie unter Ihrer Marke",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label · Reseller-Programm",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Eigene Domain, eigenes Logo, eigene Preise. Ihre Kunden sehen voiceOne nicht. Sie sehen IHR Produkt. Reseller-Marge bis 35 %. Multi-Tenant-Portal, eigene Customer Success Manager, Branding-Pakete für Agenturen, Telkos und Branchenverbände.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Warum White-Label voiceOne?",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Provisions-Programme von SaaS-Anbietern liegen bei 10-20 %. voiceOne White-Label: 20-35 % Marge auf den ARR. Sie kassieren wiederkehrend.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Was im White-Label-Paket steckt",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Alle Endkunden in einem Reseller-Dashboard. Aktivieren, deaktivieren, abrechnen, supporten.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne vs. eigenes Produkt vs. Vitas Reseller",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Vitas Reseller-Programm",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "So setzen es unsere Reseller ein",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Drei reale Konfigurationen aus dem voiceOne Reseller-Programm.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne als \"agenturName-Voice\" gebrandet. 24 Mandanten, durchschnittlich 4 Lizenzen pro Kunde. Reseller-Marge 32 %.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "voiceOne als Verbands-Vorteil unter Innungs-Marke. Eigenes Branding, Sonderpreis für Mitglieder. 180 Mitglieder aktiv, Reseller-Marge fliesst in Verbands-Förderung zurück.",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller-Gespräch anfragen",
+    "url": "https://voice-one.ai/white-label.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "VOIP Voiceone Plan and Pricing for Small and Medium — Plans for companies with one Office or Multiple Offices. Call (732) 807-8207 or fill out the form below and an JPNS Specialist will be in touch.",
+    "url": "https://jpnetsols.com/plans-and-pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceOne - Crunchbase Company Profile & Funding — VoiceOne provides business communication and information technology services. Its offerings include cloud-based VoIP telephony, SIP trunking, fixed-to-mobile services, web hosting, and domain registration.",
+    "url": "https://www.crunchbase.com/organization/voiceone-a539",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceOne - Crunchbase Company Profile & Funding — VoiceOne delivers telecommunication, VoIP, and other telephony solutions for clients.",
+    "url": "https://www.crunchbase.com/organization/voiceone",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceOne UG, Munich, Germany, District Court of Munich HRB ... — Restrict the search to companies from one or more industry segments by selecting from the drop down list. Select the industry segment classification standard, that is used to choose the industry segment. The dossier is a printable PDF file, summarizing information and publications for this company.",
+    "url": "https://www.northdata.com/VoiceOne+UG,+München/HRB+225567",
+    "pass": 3
+   },
+   {
+    "quote": "Voice One - Overview, News & Similar companies | ZoomInfo.com — View Voice One (www.voiceone.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/voice-one/65683551",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "VOICE ONE (@lw_VOICEONE) / X Follow Posts Posts RepliesReplies RepostsReposts MediaMedia VOICE ONE @lw_VOICEONE Nov 1, 2010",
+    "url": "https://x.com/lw_VOICEONE",
+    "pass": 3
+   },
+   {
+    "quote": "Yam Look (@voiceone) / Posts / X RT @nautilus1003: @voiceone 関羽は往生しましたか。 ストッープ！ 往生しちゃうの？ 昨晩呂布が打ち首になりました。 💬0 🔄0 🤍0 0 📎 Yam Lookvoiceone Apr 21",
+    "url": "https://x.com/voiceone",
+    "pass": 3
+   },
+   {
+    "quote": "TEENAGERS×VOICE ONE 即興ダンス動画を公開してます ️ ️ぜひご覧くだ... TEENAGERS×VOICE ONE 即興ダンス動画を公開してます ️ ️ぜひご覧ください 手のひらにすっぽり入る超軽量&小型のワイヤレススピーカーのVOICE ONEを使ってダンスしました ️ @VOICEONE @dance @teenagersjapan",
+    "url": "https://x.com/teenagersjapan/status/896173326271266816",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Voice One - LinkedIn Website http://www.voiceone.com Industry Performing Arts Company size 2-10 employees Headquarters San Francisco, California",
+    "url": "https://www.linkedin.com/company/voice-one-training",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceOne B.V. | LinkedIn VoiceOne B.V. | 49 followers on LinkedIn. \"Bereikbaar zijn op jouw manier\" | \"Bereikbaar zijn op jouw manier\" - dat is ons motto. Wij leveren hoogwaardige telefonieoplossingen voor elk type ...",
+    "url": "https://www.linkedin.com/company/voiceone",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Hassan Omar - Chairman and CEO at VoiceOne Canada ...Umar Malik - Owner, VoiceOne Belgium | LinkedInVoice One - LinkedInLouie xu - manager at voiceone PR | 领英 - 领英 (中国)Tidjani Ourabah - Directeur Commercial chez Voice One ... Chairman and CEO at VoiceOne Canada Corporation · Experience: VoiceOne Canada Corporation · Location: Mississauga · 92 connections on LinkedIn. View Dr. Hassan Omar’s pro",
+    "url": "https://ca.linkedin.com/in/dr-hassan-omar-092471115",
+    "pass": 3
+   },
+   {
+    "quote": "Umar Malik - Owner, VoiceOne Belgium | LinkedIn Owner, VoiceOne Belgium · Experience: VoiceOne Belgium · Location: Brussels Metropolitan Area · 1 connection on LinkedIn. View Umar Malik’s profile on LinkedIn, a professional community of...",
+    "url": "https://be.linkedin.com/in/umar-malik-2162471a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Voice One | San Francisco CA - FacebookVoice One - Introduce your kid to the wonders of VO ...Voice One - YOU’RE INVITED TO OUR HALLOWEEN ... - FacebookVoice One - Get ready for VO Bootcamp! Spend a full day ...Voice One - Check out what’s new, what’s here this week ...YOU’RE INVITED TO OUR HALLOWEEN SAME LINE ... - FacebookVoice - Summer Audition Club lottery is now open! ☀️ Sign up ... Oct 19, 2",
+    "url": "https://www.facebook.com/Voiceone/",
+    "pass": 3
+   },
+   {
+    "quote": "Voice One - YOU’RE INVITED TO OUR HALLOWEEN ... - Facebook Oct 16, 2026 · • • • •#Voiceover#VOTraining#voiceone#votips#VoiceActing Edson D Camacho and Eddie Yang 2 Voice One 23h · Public We’ve all seen it: the dreaded non-announcery spec. What does it actually mean? 🎙 Here’s how to nail it — without overthinking your sound. What’s your go-to trick to stay grounded and conversational? 👇 * * * *",
+    "url": "https://www.facebook.com/Voiceone/posts/-youre-invited-to-our-halloween-same-line-series-were-opening-this-one-up-to-eve/1715270153936468/",
+    "pass": 3
+   },
+   {
+    "quote": "YOU’RE INVITED TO OUR HALLOWEEN SAME LINE ... - Facebook Oct 16, 2026 · • No editing, music or effects — just you! • DM us your video by October 27 We’ll cut your takes together for our Halloween Same Line Series! 🎃🎙️ By submitting, you’re giving Voice One permission to share your video on our social channels. • • •#voiceover#voiceacting#voiceone#halloweenvo#VOCommunity - at Voice One.",
+    "url": "https://www.facebook.com/Voiceone/videos/-youre-invited-to-our-halloween-same-line-series-were-opening-this-one-up-to-eve/1423274429296323/",
+    "pass": 3
+   },
+   {
+    "quote": "Voice One - Introduce your kid to the wonders of VO ... Sep 23, 2026 · Sep 23 Introduce your kid to the wonders of VO! John Morris will teach them how to bring characters and commercials to life, and they’ll walk away with their very own recordings from the booth! 🎙️ Click the link in our bio for more info! 📖 • • • •#VoiceOne#Voiceover#VoiceOverClasses#VoiceoverSchool#voiceacting Stephanie Martine",
+    "url": "https://www.facebook.com/Voiceone/posts/introduce-your-kid-to-the-wonders-of-vo-john-morris-will-teach-them-how-to-bring/1689371123193038/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voice-one.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voice-one.ai/partnerprogramm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voice-one.ai/white-label.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voice-one.ai/kontakt.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voice-ec.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakuramobile.jp/monthly/voice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gtn.co.jp/magazine/en_us/article141/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://visitjapan-vegetarian.com/need-a-japanese-phone-number-get-a-mobal-voicetextdata-sim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakuramobile.jp/blog/plan-guides/sakura-mobile-japan-voice-and-data-sim-guide-the-essential-resident-plan-for-expats-students/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.driveresearch.com/market-research-company-blog/case-study-voice-of-customer-voc-survey-for-a-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/role-voice-customer-business-transformation-case-how-arias-guzman-srk8c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://thecxlead.com/cx-operations-management/voice-of-customer-examples/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://customergauge.com/blog/voice-of-customer-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/voiceone-a539",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/voiceone",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/onevoice",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.northdata.com/VoiceOne+UG,+M%C3%BCnchen/HRB+225567",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lw_VOICEONE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/voiceone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/teenagersjapan/status/896173326271266816",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/voice-one-training",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/voiceone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/dr-hassan-omar-092471115",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/in/umar-malik-2162471a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Voiceone/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Voiceone/posts/-youre-invited-to-our-halloween-same-line-series-were-opening-this-one-up-to-eve/1715270153936468/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Voiceone/videos/-youre-invited-to-our-halloween-same-line-series-were-opening-this-one-up-to-eve/1423274429296323/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Voiceone/posts/introduce-your-kid-to-the-wonders-of-vo-john-morris-will-teach-them-how-to-bring/1689371123193038/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lw_VOICEONE",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "voiceOne 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "voiceOne 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://voice-ec.com/",
+    "https://vositone.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.r-ac.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "voiceOne Japan",
+   "results": [
+    "https://www.sakuramobile.jp/monthly/voice/",
+    "https://www.gtn.co.jp/magazine/en_us/article141/",
+    "https://visitjapan-vegetarian.com/need-a-japanese-phone-number-get-a-mobal-voicetextdata-sim/",
+    "https://www.sakuramobile.jp/blog/plan-guides/sakura-mobile-japan-voice-and-data-sim-guide-the-essential-resident-plan-for-expats-students/",
+    "https://jpnetsols.com/plans-and-pricing/",
+    "https://www.sedia.co.jp/product/ma105/",
+    "https://www.voiceone.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "voiceOne manufacturing customer case study",
+   "results": [
+    "https://www.driveresearch.com/market-research-company-blog/case-study-voice-of-customer-voc-survey-for-a-manufacturer/",
+    "https://www.linkedin.com/pulse/role-voice-customer-business-transformation-case-how-arias-guzman-srk8c",
+    "https://thecxlead.com/cx-operations-management/voice-of-customer-examples/",
+    "https://customergauge.com/blog/voice-of-customer-examples",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.catalystconnection.org/news-blog/voice-of-customer/",
+    "https://www.3ds.com/fileadmin/Industries/Industrial-Equipment/Pdf/whitepapers/the-voice-of-the-customer-industrial-equipment-whitepaper.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "voiceOne white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "voiceOne founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/voiceone-a539",
+    "https://www.crunchbase.com/organization/voiceone",
+    "https://compworth.com/company/onevoice",
+    "https://www.northdata.com/VoiceOne+UG,+München/HRB+225567",
+    "https://www.zoominfo.com/c/voice-one/65683551",
+    "https://prospeo.io/c/voice-one",
+    "https://leadiq.com/c/voice-one/6011f18b881cc9057fbd0a90"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com voiceOne",
+   "results": [
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://tales.note.com/little0_0me/wjvqsfpo2t3c3/episodes/eyr3a4811peq4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kirokuhokanko/n/n9fd8375a8b20?hl=en",
+    "https://note.com/mannaka_voice/n/nec428d4c8902?hl=en",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com voiceOne",
+   "results": [
+    "https://x.com/lw_VOICEONE",
+    "https://x.com/voiceone",
+    "https://help.x.com/en",
+    "https://x.com/teenagersjapan/status/896173326271266816",
+    "https://help.x.com/en/using-x/direct-messages/audio-video-calls",
+    "https://blog.x.com/en/product/spaces-is-here",
+    "https://x.com/OneVoiceMS"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com voiceOne",
+   "results": [
+    "https://www.linkedin.com/company/voice-one-training",
+    "https://www.linkedin.com/company/voiceone",
+    "https://ca.linkedin.com/in/dr-hassan-omar-092471115",
+    "https://be.linkedin.com/in/umar-malik-2162471a",
+    "https://fr.linkedin.com/company/voice-one",
+    "https://cn.linkedin.com/in/louie-xu-5496b134",
+    "https://fr.linkedin.com/in/tidjani-ourabah-✨-46a637202"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com voiceOne",
+   "results": [
+    "https://www.facebook.com/Voiceone/",
+    "https://www.facebook.com/Voiceone/posts/-youre-invited-to-our-halloween-same-line-series-were-opening-this-one-up-to-eve/1715270153936468/",
+    "https://www.facebook.com/Voiceone/videos/-youre-invited-to-our-halloween-same-line-series-were-opening-this-one-up-to-eve/1423274429296323/",
+    "https://www.facebook.com/Voiceone/posts/introduce-your-kid-to-the-wonders-of-vo-john-morris-will-teach-them-how-to-bring/1689371123193038/",
+    "https://www.facebook.com/Voiceone/posts/get-ready-for-vo-bootcamp-spend-a-full-day-training-with-a-top-sf-talent-agent-d/1696027262527424/",
+    "https://www.facebook.com/Voiceone/posts/check-out-whats-new-whats-here-this-week-oct-26-nov-1-and-whats-coming-your-way-/1726079749522175/",
+    "https://www.facebook.com/Voiceone/photos/summer-audition-club-lottery-is-now-open-️sign-up-for-the-chance-to-submit-one-m/1561977942599024/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "voiceOne note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "voiceOne X 投稿",
+   "results": [
+    "https://x.com/lw_VOICEONE",
+    "https://x.com/AIVOICE_PR/status/2024069075836539265",
+    "https://www.voiceone.com/",
+    "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10296516625",
+    "https://help.x.com/ja/using-x/voice-post",
+    "https://voicetoland.com/script-manual/",
+    "https://fitly.pics/blog/x-twitter-post-tips"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

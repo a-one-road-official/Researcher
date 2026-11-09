@@ -1,0 +1,882 @@
+{
+ "name": "Dobs",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送信済み（非製造）",
+ "researched_at": "2026-11-09T19:28:03.325605+00:00",
+ "official_url": "https://dobs.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your browser can’t play this video.",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "time saved on data prep and first-pass analysis",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "of teams more satisfied, as people build skills on insight work instead of data prep",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "QoE workbook prep: days → hours",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Management meeting prep: 1.5 weeks → 3–4 days",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", and the output is more accurate because it's an automated process.",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-LOI screens, QoE and one portfolio view.",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Private Equity Is Overpaying Millions, and How AI Fixes It",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Nikita Komarov argues CPA firms should use the post-tax-season window to prepare for 2027 with automation.",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Updates, insights, and stories about how AI is transforming enterprise document intelligence and spending optimization.",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Nikita Komarov's Unite.AI article on how CPA firms can use automation to reduce busy-season pressure, improve review quality, and prepare for Tax Season 2027.",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "April 10, 2026",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Dobs.AI Achieves SOC 2 Type I Compliance: Enterprise-Ready Security",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to announce that Dobs.AI has achieved SOC 2 Type I compliance, demonstrating our commitment to the highest standards of data security and privacy for enterprise customers.",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "From thousands of global applicants, only 200 startups made the cut. We're proud to represent the EnterpriseTech track at TechCrunch Disrupt 2025.",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "From thousands of global applicants, only 200 startups made the cut and I'm proud to represent the EnterpriseTech track this year at",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "builds AI agents that identify and recover cash leakages in revenue and spend, helping finance teams protect margins and optimize performance. We're a finance platform for CFO offices, covering functions from controlling and financial planning to compliance.",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "We already support Fortune 500 enterprises with $10B+ in revenue across transportation & logistics, manufacturing, and retail and are now rolling our platform to mid-sized businesses.",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "We'll be at TechCrunch Disrupt 2025 from October 27–29 in San Francisco. Come meet our team and learn how we're transforming enterprise finance with AI.",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": ", he preferred to call the design a \"sidewalk telescope\".",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Classical Dobsonian mount parts are typically made from plywood and other cheap materials which are glued, screwed, or even nailed together. In contrast to other telescope mount types, no precision-machined mechanical parts are required. For smooth sliding motions, small",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "(PTFE) blocks are used for the seven supports. Their surface sizes can be precisely calculated for the particular OTA weight. To improve the smoothness and steady position-holding, the bottom of the rocker box is typically covered with micro-textured",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "to give a current graphical representation of where the telescope is pointing, allowing the user to quickly find an object.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "sub-arc second precision CCD imaging is entirely possible. Roeser Observatory, Luxembourg (MPC observatory code 163) have contributed hundreds of",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Commercially mass-produced 10\" Dobsonian",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "The original intent of the Dobsonian design was to provide an affordable, simple, and rugged large-aperture instrument at low cost.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "These same attributes facilitate their mass production. One of the first companies to offer Dobsonian telescopes commercially was the now defunct company Coulter Optical (now part of Murnaghan Instruments). In the 1980s, they helped popularize the design with \"Odyssey\" models of various sizes, with tubes made of Sonotube and following Dobson's original concept of simplicity.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "and other manufacturers began to introduce upgraded Dobsonian models. These imported mass-produced scopes included such niceties as metal tubes and more refined hardware, and are still very affordable.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "These low-volume builders offer premium objective mirrors, high-end materials and custom craftmanship, as well as optional computer controlled",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "systems. Some also produce \"ultra-light\" models that offer greater portability.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "In the 21st century, truss Dobsonian models are also mass-produced by Meade, Orion,",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "and others. Mostly manufactured in China; they offer good quality and value while being considerably less expensive than the premium scopes described above.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "The result has been a proliferation of larger telescopes which would have been expensive to build or buy, and unwieldy to operate, using \"traditional\" construction methods. Whereas an 8-inch Newtonian telescope would have been considered large in the 1970s, today 16",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "In combination with other improvements in observing equipment, such as",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": ", improved",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": ", and others once considered reference works only for professional astronomers.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "are obviated. This has opened up the field of high precision asteroid",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": ". Cambridge University Press. p.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Dobson ... promoting causal visual observing",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "– The book treats the \"why\" as importantly as the \"how\", sharing Dobson's philosophy on the importance of popular access to astronomy for proper appreciation of the universe.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": ". Sky & Telescope. 23 Apr 2018.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Visual Astronomy Under Dark Skies: A new approach to observing deep space",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": ". Springer Science & Business Media. p.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Global Enterprise Insights",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to the Jingle Global Enterprise Insight Platform \"Japan Corporate Credit Report Investigation\" service. On this page, you can easily place an order to obtain detailed credit reports on Japan companies, which will help you understand the background, financial status, risk assessment, and other key information of the target enterprise, providing strong support for your business decisions.",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "1. After submitting your order, our staff will review the company information you provided to confirm whether the required credit report can be obtained. If the target company can be investigated, you will receive a notification email. Please check the email address you provided when placing the order in a timely manner to receive the email.",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "3. Upon completion of the investigation, you will receive a detailed credit report. The report includes, but is not limited to, the following content:Company Profile: Basic information and background introduction of the target enterprise",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "● Business Relationships: The company's business dealings with other enterprises",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Product Introduction Video：",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Report Contents/Outline：",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Reporting Product List",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": ", and agree with the contents of the agreement, and confirm the purchase of the enterprise report.",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by 10 of the top 100 CPA firms. Real engagements, measurable hours back.",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We already support Fortune 500 enterprises with $10B+ in revenue across transportation & logistics, manufacturing, and retail and are now rolling our platform to mid-sized businesses.",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "to be more rugged than aluminum or fiberglass tubes which can dent or shatter from impacts during transport. They have the added advantage of being thermally stable and non-conductive, which minimizes unwanted convection currents in the light path caused by handling of the tube assembly.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Since the late 1990s many innovations in mount design and electronics by amateur telescope makers and commercial manufacturers have allowed users to overcome some of the limitations of the Dobsonian style altazimuth mount.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "and other manufacturers began to introduce upgraded Dobsonian models. These imported mass-produced scopes included such niceties as metal tubes and more refined hardware, and are still very affordable.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Later American manufacturers included StarStructure,",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "mm) are the most popular sizes, as they offer substantial aperture yet can still be easily set up by one person. Several manufacturers offer models of 24 inch (610",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Quality of revenue: built and flagged by Dobs",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "On a healthcare deal, the quality of revenue used to take about half the engagement. Now Dobs builds it and flags what's worth a look, so",
+    "url": "https://dobs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A regional accounting firm unlocked a new revenue segment — smaller deals they used to turn away — by automating the data-intensive parts of their Quality of Earnings workflow.",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Dobs.AI is officially part of the TechCrunch Startup Battlefield 200",
+    "url": "https://dobs.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Dobs.AI is officially part of the TechCrunch Startup Battlefield 200 | Dobs.AI",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "Dobs.AI is officially part of the TechCrunch Startup Battlefield 200",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "🎉 Big news: Dobs.AI is officially part of the TechCrunch Startup Battlefield 200",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "builds AI agents that identify and recover cash leakages in revenue and spend, helping finance teams protect margins and optimize performance. We're a finance platform for CFO offices, covering functions from controlling and financial planning to compliance.",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "We already support Fortune 500 enterprises with $10B+ in revenue across transportation & logistics, manufacturing, and retail and are now rolling our platform to mid-sized businesses.",
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "pass": 1
+   },
+   {
+    "quote": "The main attribute of a Dobsonian's mount is that it resembles a \"gun carriage\" configuration with a \"rocker box\" consisting of a horizontal",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "These same attributes facilitate their mass production. One of the first companies to offer Dobsonian telescopes commercially was the now defunct company Coulter Optical (now part of Murnaghan Instruments). In the 1980s, they helped popularize the design with \"Odyssey\" models of various sizes, with tubes made of Sonotube and following Dobson's original concept of simplicity.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "The inherent simplicity and large aperture of the design began to attract interest through the 1970s since it offered the advantage of inexpensive large instruments that could be carried to dark sky locations and",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "narrow-pass optical filters",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "objects, thanks in part to Dobsonians, modern amateur astronomers routinely observe dim objects listed in obscure catalogues, such as the",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Harrington, Phil (27 Jul 2015).",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ＤＯＢＳ株式会社(CR No. 6350001012037) Japan Company Credit Report and Background Check",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Get Japan Corporate Credit Report | Online Survey Japan Company Information",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to the Jingle Global Enterprise Insight Platform \"Japan Corporate Credit Report Investigation\" service. On this page, you can easily place an order to obtain detailed credit reports on Japan companies, which will help you understand the background, financial status, risk assessment, and other key information of the target enterprise, providing strong support for your business decisions.",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Credit Report Universal Sample Address",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Credit Report Sample",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "1. After submitting your order, our staff will review the company information you provided to confirm whether the required credit report can be obtained. If the target company can be investigated, you will receive a notification email. Please check the email address you provided when placing the order in a timely manner to receive the email.",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "2. After receiving the email indicating that the \"company you submitted\" can be investigated, please log in to your account, go to the \"Self Service Orders\" interface, find the \"Payment\" button for the order, click the button, and after completing the payment, the report investigation will officially begin.",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Service Email:",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "contact@databasesets.com",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Dobsonian telescope - Wikipedia — A Dobsonian telescope is an altazimuth-mounted Newtonian telescope design popularized by John Dobson in 1965 and credited with vastly increasing the size of telescopes available to amateur astronomers.",
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "pass": 3
+   },
+   {
+    "quote": "Looking at Dobs in Japan - help! - Reflectors - Cloudy Nights — Feb 8, 2018 · In the end, I went with the Nebulite series (Hubble Optics), as they've apparently fixed many of the issues of the originals for the Japanese market. The guaranteed Strehl > 0.95 and the fast cooling mirror also factored in.",
+    "url": "https://www.cloudynights.com/forums/topic/607616-looking-at-dobs-in-japan-help/",
+    "pass": 3
+   },
+   {
+    "quote": "DOBS株式会社 (CR No. 6350001012037) Japan Company Credit Report .... — On this page, you can easily place an order to obtain detailed credit reports on Japan companies, which will help you understand the background, financial status, risk assessment, and other key information of the target enterprise, providing strong support for your business decisions.",
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "pass": 3
+   },
+   {
+    "quote": "Dobs / ドーブス Yokohama - WorldPlaces — Dobs / ドーブス: write a review or complaint, send question to owners, map of nearby places and companies",
+    "url": "https://japan.worldplaces.me/review/89219246-dobs.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dobs – Japanese Pop Art - Sugimoto68 — [2013.07.20v] Me and the Mr. DOBs [2013.07.20t] And Then x 6 (White: The Superflat Method, Blue and Yellow Ears) [2011.10.29z] Homage to Francis Bacon（Study of Isabel Rawsthorne）silkscreen [2011.10.29y] Homage to Francis Bacon （Study of George Dyer）silkscreen [2011.07.10z] And then…Aqua Dob [2011.07.10y] And then…Pink Dob",
+    "url": "https://www.sugimoto68.com/murakami-archive/dobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Dobs.AI 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Dobs.AI. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/755974-72",
+    "pass": 3
+   },
+   {
+    "quote": "Dobs AI — Company Profile, Funding & Investors — Dobs AI company profile with HQ in California, United States, founded 2024. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/dobs-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Dobs AI - Crunchbase Company Profile & Funding — Dobs.AI is an AI-powered procurement tool that examines contracts, invoices, and purchase orders to identify overpayments and recover lost value for businesses.",
+    "url": "https://www.crunchbase.com/organization/dobs-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Dobs AI - Financial Details - Crunchbase — Dobs.AI is an AI-powered procurement tool that examines contracts, invoices, and purchase orders to identify overpayments for businesses.",
+    "url": "https://www.crunchbase.com/organization/dobs-ai/financial_details",
+    "pass": 3
+   },
+   {
+    "quote": "Dobs.AI - LinkedIn — Built and battle-tested by experts from KPMG, EY, McKinsey, BCG, Deloitte, Kroll, and Grant Thornton. Trusted by leading CPA firms. dobs.ai. Every hour an analyst spends maintaining a tracker is...",
+    "url": "https://www.linkedin.com/company/dobs-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "dobs (@dobs_art) / X Call me: Dobs Dobsy Doobs Dobus Dobert Daddy D Doberto Dobtimus prime Dobby Dobbie the house elf Dobby come take the sock Guys you are not gonna believe it I already have so many socks I've been free for a while 😭",
+    "url": "https://x.com/dobs_art",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by dobs (@dobs_art) / X 8.4K dobs reposted dobs @dobs_art Sep 29 Little update on Halloween emotes of the year 🖤 GIF",
+    "url": "https://x.com/dobs_art/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "dobs on X: \"Call me: Dobs Dobsy Doobs Dobus Dobert Daddy D ... Aug 7, 2026 · Call me: Dobs Dobsy Doobs Dobus Dobert Daddy D Doberto Dobtimus prime Dobby Dobbie the house elf Dobby come take the sock Guys you are not gonna believe it I already have so many socks I've been free for a while 😭",
+    "url": "https://x.com/dobs_art/status/2085810529071673805",
+    "pass": 3
+   },
+   {
+    "quote": "dobs (@dobsfly) / X 3 18 756 dobs @dobsfly Dec 18, 2022 dinner was ketchup on a plate, absolutely delicious #royalehigh #royalehighart",
+    "url": "https://x.com/dobsfly",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by dobs (@dobs_art) / X - x.com 8.4K dobs reposted dobs @dobs_art Sep 29 Little update on Halloween emotes of the year 🖤 GIF",
+    "url": "https://x.com/dobs_art/reposts",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dobs.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dobs.ai/blog",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dobs.ai/blog/techcrunch-battlefield-200",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E7%89%88DBS%E5%B0%8E%E5%85%A5%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AD%B0%E8%AB%96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/sdgs/article/15430331",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kddi-bizedge.com/magazine/241031100015/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/trend/nvs-dbs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudynights.com/forums/topic/607616-looking-at-dobs-in-japan-help/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.worldplaces.me/review/89219246-dobs.html",
+    "status": "http_511",
+    "method": "http"
+   },
+   {
+    "url": "https://getgembadocs.com/customers/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ey.com/en_us/insights/supply-chain/how-a-manufacturer-gained-supply-chain-agility-by-land-air-and-sea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/integrity2/case-study/dobbs-tire-auto-centers-customer-case-study",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/755974-72",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/dobs-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dobs-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dobs-ai/financial_details",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dobs_art",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dobs_art/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dobs_art/status/2085810529071673805",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dobsfly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dobs_art",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dobs_art/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dobs 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本版DBS導入に関する議論",
+    "https://www.asahi.com/sdgs/article/15430331",
+    "https://www.kddi-bizedge.com/magazine/241031100015/",
+    "https://canon.jp/biz/trend/nvs-dbs",
+    "https://spaceshipearth.jp/japanese-version-dbs/",
+    "https://tetsuzuki-planner.jp/plan/japan-dbs-guide",
+    "https://www.freee.co.jp/kb/kb-trend/japanese-version-dbs/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dobs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dobs Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Dobsonian_telescope",
+    "https://www.cloudynights.com/forums/topic/607616-looking-at-dobs-in-japan-help/",
+    "https://user.databasesets.com/en/self-service/jp/number/6350001012037",
+    "https://japan.worldplaces.me/review/89219246-dobs.html",
+    "https://www.sugimoto68.com/murakami-archive/dobs/",
+    "https://www.facebook.com/events/住友生命いずみホール-sumitomolife-izumi-hall/dobs2020-2026演奏会/2327428014428785/",
+    "https://jovs-japan.com/",
+    "https://ja.wikipedia.org/wiki/DAYS_JAPAN"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Dobs manufacturing customer case study",
+   "results": [
+    "https://getgembadocs.com/customers/case-studies/",
+    "https://www.ey.com/en_us/insights/supply-chain/how-a-manufacturer-gained-supply-chain-agility-by-land-air-and-sea",
+    "https://www.casestudies.com/company/integrity2/case-study/dobbs-tire-auto-centers-customer-case-study",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://truvideo.com/dobbs-truck-group-case-study/",
+    "https://www.casestudies.com/company/erply/case-study/dobbs-bishop-fine-cheese-customer-case-study",
+    "https://www.encorebusiness.com/case-study/transforming-a-40-year-old-manufacturing-company-with-dynamics-365-business-central/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dobs white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dobs founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/755974-72",
+    "https://acquirezy.com/organization/dobs-ai",
+    "https://www.crunchbase.com/organization/dobs-ai",
+    "https://www.crunchbase.com/organization/dobs-ai/financial_details",
+    "https://www.linkedin.com/company/dobs-ai",
+    "https://techcrunch.com/startup-battlefield/company/dobs-ai/",
+    "https://www.roundpaper.com/nonprofits/org/dobbs-foundation-843406107"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Dobs",
+   "results": [
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/wise_turtle184",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/j1n1/n/n0854692e50e6",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Dobs",
+   "results": [
+    "https://x.com/dobs_art",
+    "https://x.com/dobs_art/reposts",
+    "https://x.com/dobs_art/status/2085810529071673805",
+    "https://x.com/dobsfly",
+    "https://x.com/dobs_art/status/2098108326185693229",
+    "https://x.com/dobs_art/status/2118796880930857024",
+    "https://x.com/dobs_art/status/2104993122937655441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Dobs",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Dobs",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Dobs note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dobs X 投稿",
+   "results": [
+    "https://x.com/dobs_art",
+    "https://x.com/dobs_art/reposts",
+    "https://www.patreon.com/Diobz/posts/zhu-yuan-dobs-109917247?l=ja-JP",
+    "https://www.tumblr.com/dobs-s",
+    "https://games.dmm.co.jp/detail/dotabyss_x_674859",
+    "https://x-sou.com/ja",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

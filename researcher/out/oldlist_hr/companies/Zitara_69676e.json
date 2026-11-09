@@ -1,0 +1,1058 @@
+{
+ "name": "Zitara",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T19:37:43.406510+00:00",
+ "official_url": "https://zitara.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Zitara's real-time, on-premise solution knows exactly how much energy is available in your battery storage system and intelligently optimizes your operations.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara’s accurate power and balance algorithms replace your unreliable signals, giving you visibility into your rack-level imbalance levels as well as reliable trading signals. This unlocks intelligent balancing programs and more aggressive trading strategies. Less downtime. More money.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved Availability",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara gives you visibility into the imbalance of your asset, down to the rack, or string, level. This visibility allows you to prioritize your balancing activities at a more granular level.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Surprise shutdowns are avoidable, but not with data from a typical battery management system.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unknown energy availability, cell imbalances, and thermal issues are some of the root causes of surprise shutdowns. Most assets come with fixed safety limits that don't account for these dynamic conditions. These assets fail to alert early enough, causing avoidable shutdowns.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara conducts an in-depth analysis and characterization of your specific battery cell model. This analysis considers age, chemistry, and location of each cell within your battery system. Using predictive modeling with your system’s existing sensors, Zitara’s algorithms know exactly how much energy you can dispatch at any moment.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowing your system’s dispatchable power enables your team to make timely and strategic decisions to operate profitably.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Take the guesswork out of battery procurement.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara Offers Three Products",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara Power is an on premise algorithm that monitors cell-level raw data inputs your asset already tracks — voltage, current, and temperature — and produces accurate real time controls signals like State of Power, State of Energy, HSL, MXDP, and State of Charge. These control signals replace the error-prone signals provided by your existing system.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara Balance is an on premise algorithm that monitors cell-level raw data inputs your asset already tracks — voltage, current, and temperature — and produces real time balance/imbalance signals at the rack level. This signal prioritizes each rack in your balance queue. No more site-wide downtime or guessing - balanced racks remain undisturbed, online, and generating revenue.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara Insight is a service providing an analysis on historical production data from your asset. The resulting report identifies evidence of, and root causes for, control signal errors, rack level imbalances, and safety issues. This report gives you actionable information driving asset revenue optimization.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Zitara Insights Report is a direct view into how well your system performs in real-world scenarios and reveals specific deficiencies in your system. With your Insights Report results you can confidently work with your vendors and integrators to correct any problems and efficiently plan for upgrades or augmentation.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Native Control Systems Compromise BESS Asset Availability & Revenue Opportunities",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to improve the operational reliability of battery-powered assets across industries.",
+    "url": "https://www.zitara.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "projected revenue to be earned by battery-powered assets in 2035",
+    "url": "https://www.zitara.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "problems with battery lifetime, efficiency, and safety for a typical Zitara customer",
+    "url": "https://www.zitara.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Vice President of Operations",
+    "url": "https://www.zitara.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re always looking to bring talented people onboard. We offer all the perks you'd expect: competitive pay, a 401(k) savings plan, unlimited PTO, and a comprehensive benefits package for you and your family.",
+    "url": "https://www.zitara.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Work alongside brilliant, curious people to solve interesting and impactful problems in a supportive environment. You’ll join a friendly team who is genuinely invested in your growth. So if you’re into renewable energy, software, and the magic that happens when they meet, then we’d love to meet you.",
+    "url": "https://www.zitara.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "wearing jewellery from @zitara._ collab from @inflosotop from @urbanic_in product code- 103717 use code 'MAHRF23' for discount #ad #urbanic #urbanicindia #urbanicsquad #urbanicbloom #meetur#zitara #infloso #je.mp4",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "AQPVR2jr_s8h1xkyxDBkNt1BdZG4kGziOPFmZeh1NgfqZ29qbpdKF_wtLlMEuqP1prlbYxalfJ4kHYC96SJrYDCkfbHmcZ-SdcqtZMY.mp4",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "AQOCwYJO0bHhBxTrF7V09tOlx1azxqrz7IsQlYYZA7a1_D6jqmXklqAwbH4MtnCzZlLuc5PFqnVkiPRiPaoy00lXL7Jm-fognDLVa4w.mp4",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Products Seen in the video",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "FREE DELIVERY ON PREPAID ORDERS | NO HIDDEN FEES | SHOP WITH CONFIDENCE!",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "FREE DELIVERY ON ALL PREPAID ORDERS! SHOP NOW AND SAVE MORE!",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re available 24/7 to assist you with any queries, from product details to order support.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Our jewelry is crafted with exceptional artistry, ensuring premium quality.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Your payments are fully secure, ensuring a safe checkout process with hassle-free returns.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": ", crafted with care and priced fairly, so you're not choosing between quality and affordability. Every piece is certified and comes with lifetime free polishing, which is the kind of detail that's easy to promise and harder to actually deliver.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "with a simple idea: jewellery should feel personal, not mass-produced. Each collection blends craftsmanship with designs that suit everyday wear as easily as a special occasion. Whether you want something minimal for the office or a statement piece for a festival, our",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "that doesn't quite fit the moment. It's one of the more practical ways we've found to help customers land on the right piece of",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Tarnish-Free, Lightweight, Waterproof",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "We certify purity before dispatch, not just at sourcing, so what you buy matches what we promise.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Fair pricing without cutting corners on material or craftsmanship, so quality doesn't carry a luxury markup.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. 925 sterling silver jewellery is pure 92.5% silver, with the remaining 7.5% made up of other metals mixed in to make it stronger and more durable for daily wear. With proper care, including keeping it dry and away from harsh chemicals, it holds up well over years of regular use.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "typically has a protective coating or rhodium plating that slows the natural oxidation process, keeping pieces brighter for longer with less frequent polishing. Regular silver without this treatment tends to dull faster, especially in humid climates.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "involves more labour and skill than machine-made pieces, and small natural variations are part of the appeal rather than a flaw. If craftsmanship and uniqueness matter to you, the price difference usually reflects genuine extra work.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Where can I find affordable silver jewellery in India without compromising on purity?",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "doesn't have to mean lower quality. It usually just means a brand pricing fairly instead of adding a heavy markup.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "is a software company that empowers battery energy-storage system (BESS) operators and utilities to optimize performance, reliability, and profitability of their assets. Their solutions deliver deep visibility into cell-, rack- and string-level imbalance; enable continuous balancing; and provide real-time “state of energy” & “state of power” metrics.",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "Interactive Product Information Pages",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "The Power, Insights, and Balance pages were built to demonstrate the real-world value of Zitara’s technology. Each page clearly explains how their solutions improve reliability, efficiency, and profitability of any BESS system, making the importance of their products obvious.",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "their blog was engineered to support an internal-link glossary system, giving users instant access to definitions and related content. We also added per-post exclusions, allowing specific terms to be removed from the glossary on a case-by-case basis.",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "Baton Rouge Concrete Pros",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "If you were forwarded this post and found it interesting, I would appreciate it if you",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "interviewed Shyam Srinivasan, CEO and Co-Founder of Zitara, back in November 2022 about the current state of battery systems and the unique challenges they face in micromobility",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "“Hey Shyam, it’s great to have you back. As per our previous chat, can you recap some of the most serious challenges facing ebikes today, and how the software Zitara is building addresses them?“",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "We aren’t surprised by any of these challenges in an emerging industry. Zitara helps manufacturers and fleet owners navigate these issues by bringing certainty to battery design and operation through software.”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "“When should a company think about bringing Zitara into the loop to address these problems?”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "“We are able to support customers across the product lifecycle, under a variety of constraints. The great thing about our software solution, compared to a hardware system, is that we can engage anywhere from the initial design to retrofitting existing fleets on most BMS configurations.",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "We find that companies that have shipped more than 10K vehicles have encountered the problems we’re talking about. Zitara can work with these customers to quickly get a handle on safety and performance issues. It is rarely too late for Zitara to make meaningful improvements to the operation of a battery pack, even when the hardware design is fixed.",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "“What are the Zitara product offerings, and how do customers engage with it?”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "I want to emphasize the supply chain point. My background is in consumer electronics, where the ongoing reliability testing processes are firmly established. Zitara Studio gives micromobility companies an opportunity to apply this approach by continuing to test cells throughout the product life cycle and give apples-to-apples comparisons they can’t get from battery manufacturers.”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "“It feels like the lifetime analysis you do is auto grade. The problem I’ve heard time and time again with ebikes is that most OEMs don’t really know what their vehicles will look like when they’ve been used for 1000s of miles, so they can’t engineer around it. It sounds like Zitara provides the data they need to be able to do that?”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "“We spend a lot of time listening to our prospective rider. And what we heard clearly was the desire for our key features and iconic VanMoof design — in an ebike that was even more simple, more accessible, and more reliable.”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "🚲 I would greatly appreciate it if you could share Flywheel with your friends!",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "By continuing, you accept the privacy policy",
+    "url": "https://thefinancialanalyst.net/2024/12/05/zitara-raises-17-million-to-enhance-battery-control-for-clean-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara Company Profile and Key Stats",
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industry Challenges facing Utilities, IPPs, and Operators.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara’s software adapts to every manufacturer, so you can confidently compare assets and trust the data is adjusted for inconsistencies across different manufacturers and components.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara | Spirra Digital Case Study",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "is a software company that empowers battery energy-storage system (BESS) operators and utilities to optimize performance, reliability, and profitability of their assets. Their solutions deliver deep visibility into cell-, rack- and string-level imbalance; enable continuous balancing; and provide real-time “state of energy” & “state of power” metrics.",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "We aren’t surprised by any of these challenges in an emerging industry. Zitara helps manufacturers and fleet owners navigate these issues by bringing certainty to battery design and operation through software.”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "I want to emphasize the supply chain point. My background is in consumer electronics, where the ongoing reliability testing processes are firmly established. Zitara Studio gives micromobility companies an opportunity to apply this approach by continuing to test cells throughout the product life cycle and give apples-to-apples comparisons they can’t get from battery manufacturers.”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Factors like cell choice, environmental controls, and operating limits all impact the performance and longevity of your asset. Without a team of battery experts, knowing what to ask your OEMs and integrators is challenging.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with more than one OEM.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“It feels like the lifetime analysis you do is auto grade. The problem I’ve heard time and time again with ebikes is that most OEMs don’t really know what their vehicles will look like when they’ve been used for 1000s of miles, so they can’t engineer around it. It sounds like Zitara provides the data they need to be able to do that?”",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Zitara Balance is an on premise algorithm that monitors cell-level raw data inputs your asset already tracks — voltage, current, and temperature — and produces real time balance/imbalance signals at the rack level. This signal prioritizes each rack in your balance queue. No more site-wide downtime or guessing - balanced racks remain undisturbed, online, and generating revenue.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara Insight is a service providing an analysis on historical production data from your asset. The resulting report identifies evidence of, and root causes for, control signal errors, rack level imbalances, and safety issues. This report gives you actionable information driving asset revenue optimization.",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zitara Acquired by Elysia, Expanding Battery Intelligence Capabilities",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Native Control Systems Compromise BESS Asset Availability & Revenue Opportunities",
+    "url": "https://www.zitara.com/",
+    "pass": 1
+   },
+   {
+    "quote": "projected revenue to be earned by battery-powered assets in 2035",
+    "url": "https://www.zitara.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "（2025年2月20日）– 本日、最先端のオートメーションソリューションを提供する産業技術のリーダーである Emerson（NYSE: EMR）と高度なバッテリー管理ソフトウェアのリーダーである Zitara Technologies は戦略的パートナーシップを組んだと発表しました",
+    "url": "https://www.emerson.co.jp/ja/corporate/news/2025/emerson-partners-with-zitara",
+    "pass": 3
+   },
+   {
+    "quote": "Emerson（NYSE: EMR）は、世界の基幹産業に革新的なソリューションを提供する、テクノロジーとソフトウェアのグローバル企業です",
+    "url": "https://www.emerson.co.jp/ja/corporate/news/2025/emerson-partners-with-zitara",
+    "pass": 3
+   },
+   {
+    "quote": "“Not just jewellery. It’s a vibe. Handcrafted in pure silver to go with every version of you.”.Featuring our Magnolia locket and earrings & Iris hoops..In frame- @anushkamakwana .#jewellery #influencer #trending.mp4",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Carry a touch of sunshine with this beautiful Citrine Ring. Made with...",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Celestial Star Moon Zircon Hoop Earrings",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Browse rings, earrings, necklaces, bracelets, anklets, nose pins, silver chains, stud earrings, watch charms and jewellery boxes, all built to the same",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Fair pricing without cutting corners on material or craftsmanship, so quality doesn't carry a luxury markup.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "involves more labour and skill than machine-made pieces, and small natural variations are part of the appeal rather than a flaw. If craftsmanship and uniqueness matter to you, the price difference usually reflects genuine extra work.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions, Mergers & Takeovers",
+    "url": "https://thefinancialanalyst.net/2024/12/05/zitara-raises-17-million-to-enhance-battery-control-for-clean-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Zitara have?",
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エマソン Zitara との提携でバッテリー管理ソリューションを強化 — Zitara のソフトウェアの統合は、信頼性の高いエネルギー貯蔵ソリューションに対する増加する要求に対応する高度なバッテリー監視および制御ソリューションの提供することにより、これらの機能をさらに強化します。",
+    "url": "https://www.emerson.co.jp/ja/corporate/news/2025/emerson-partners-with-zitara",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara | Understand, Manage, and Maximize Batteries — Zitara builds software that empowers companies to deeply understand their batteries, both in design and deployment. We support the renewable energy revolution, powered by safer batteries, at a lower cost, with less waste.",
+    "url": "https://www.zitara.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara - LinkedIn 日本 — At Zitara, we build cutting-edge software solutions that empower companies to deeply understand their batteries, both in design and deployment. It’s all part of our work to enable a renewable...",
+    "url": "https://jp.linkedin.com/company/zitara-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "About | Zitara — At Zitara, we build cutting-edge software solutions that empower companies to deeply understand their batteries, both in design and deployment. It’s all part of our work to enable a renewable energy revolution, powered by safer batteries, at a lower cost, with less waste.",
+    "url": "https://www.zitara.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報 — Aug 30, 2022 · テスラが宮古島に「仮想発電所」設置ーー期待あつまるバッテリースタートアップたち 1 MinRead 4Views",
+    "url": "https://thebridge.jp/tag/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "925 Silver & Gemstone Jewellery Online | ZITARA — Discover elegant 925 sterling silver jewellery at ZITARA. Shop gemstone rings, silver necklaces, earrings, bracelets and personalised birthstone jewellery online.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara | LinkedIn — At Zitara, we build cutting-edge software solutions that empower companies to deeply understand their batteries, both in design and deployment. It’s all part of our work to enable a renewable...",
+    "url": "https://jp.linkedin.com/company/zitara-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara — Zitara Battery Modeling Toolbox",
+    "url": "https://studio.zitara.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara | Spirra Digital Case Study — The Power, Insights, and Balance pages were built to demonstrate the real-world value of Zitara’s technology. Each page clearly explains how their solutions improve reliability, efficiency, and profitability of any BESS system, making the importance of their products obvious.",
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "pass": 3
+   },
+   {
+    "quote": "Flywheel: Making batteries safer with Zitara | Vehicles from ... — May 10, 2023 · Zitara makes high-performance models and transparently reports the validation performance in use cases that matter to our customers. To make these models, a customer sends us samples of their cells and packs which we will characterize for their application in our lab.",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara Raises $17 Million to Enhance Battery Control for ... — 3 days ago · The backing from such prominent investors not only validates Zitara’s potential but also reflects the growing interest in technologies that can drive the clean energy revolution. As the energy storage market continues to expand rapidly, companies like Zitara are poised to play a transformative role.",
+    "url": "https://thefinancialanalyst.net/2024/12/05/zitara-raises-17-million-to-enhance-battery-control-for-clean-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara Insights — We'll analyze historical production data from your assets and generate a Zitara Insights Report that identifies control signal errors, rack-level imbalances, and safety issues.",
+    "url": "https://www.zitara.com/products/insights",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara - 2026 Company Profile, Team, Funding & Competitors ...Zitara 2026 Company Profile: Valuation, Investors ... - PitchBookZitara: Funding, Investors & Team (Oct 2026) | FundedIQZitara Technologies – Industry Ranking & Company Valuation – 2026Zitara — Company Profile | The Company CheckZitara Technologies — Company Profile, Funding & InvestorsZitara Technologies: Funding, Team & Investors | St",
+    "url": "https://tracxn.com/d/companies/zitara/__uKwsWGLunLUioNwFW6kM0syR2fVHtSDjCeRR1OR9n7Q",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara 2026 Company Profile: Valuation, Investors ... - PitchBookZitara: Funding, Investors & Team (Oct 2026) | FundedIQZitara Technologies – Industry Ranking & Company Valuation – 2026Zitara — Company Profile | The Company CheckZitara Technologies — Company Profile, Funding & InvestorsZitara Technologies: Funding, Team & Investors | Startup Intros — Information on acquisition, funding, cap tables",
+    "url": "https://pitchbook.com/profiles/company/343632-07",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara: Funding, Investors & Team (Oct 2026) | FundedIQ — Zitara builds battery management software for enterprises with large deployments. It was founded in 2019 and is headquartered in Oakland, California. How much funding has Zitara raised? Zitara has raised $29.0M across 2 rounds on record. The most recent is a Series A of $17.0M announced in Dec 2024. When did Zitara last raise funding?",
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara Technologies – Industry Ranking & Company Valuation – 2026 — Revenue, valuation, and funding figures for Zitara Technologies are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/zitara-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara — Company Profile | The Company Check — Zitara is a company based in San Francisco (United States) founded in 2019 by Evan Murphy and Shyam Srinivasan was acquired by Elysia in January 2026.. Zitara has raised $29 million across 2 funding rounds from investors including Emerson, Chevron and Salesforce Ventures.",
+    "url": "https://www.thecompanycheck.com/company/b/zitara/p3wxe4kj0jcmrzwbt",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We've sent you an email with a link to update your password.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "We will send you an email to reset your password.",
+    "url": "https://zitarabykanak.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "🚲 If you have any suggestions, interesting listings, comments, questions, etc., please email me at",
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "pass": 3
+   },
+   {
+    "quote": "emailsubscribers web sign up",
+    "url": "https://thefinancialanalyst.net/2024/12/05/zitara-raises-17-million-to-enhance-battery-control-for-clean-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Zitara team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zitara (@Zitara9) / X This Post is from an account that no longer exists. Learn more Zitara @Zitara9 May 17, 2022 0xa15AAa88CBEFD8CafC56fbA83eD64C14b885Bf93",
+    "url": "https://x.com/Zitara9",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara (@Zitara6) / X 139 Zitara @Zitara6 Jan 30, 2025 Quem colocou na conversa do almoço que a Camila cozinha e não deveria ficar amarrada foi o Maike e só quem tá pagando essa conta para as mulheres é a Renata?! #bbb25",
+    "url": "https://x.com/Zitara6",
+    "pass": 3
+   },
+   {
+    "quote": "Meglio zitara fraud che ci portava antunello, un giorno lo ... Meglio zitara fraud che ci portava antunello, un giorno lo ringrazierete Inter Xtra @Inter_Xtra Oct 12",
+    "url": "https://x.com/stonem_____/status/2109908178452234648",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ZitaraLoCambiaTodo\" - Results on X | Live Posts & Updates Zitara avanza a pasos gigantes y hoy lo comprobamos con un atardecer que solo Aguascalientes sabe regalar. No te pierdas la entrevista completa y descubre cómo este proyecto ya es una realidad.",
+    "url": "https://x.com/hashtag/ZitaraLoCambiaTodo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zitara - LinkedIn At Zitara, we build cutting-edge software solutions that empower companies to deeply understand their batteries, both in design and deployment.",
+    "url": "https://www.linkedin.com/company/zitara-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "5 \"Zitara\" profiles | LinkedIn View the profiles of professionals named \"Zitara\" on LinkedIn. There are 5 professionals named \"Zitara\", who use LinkedIn to exchange information, ideas, and opportunities.",
+    "url": "https://www.linkedin.com/pub/dir/Zitara/+",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara Ciudad Residencial & Golf Club | LinkedIn Zitara Ciudad Residencial & Golf Club | 134 seguidores en LinkedIn. ⛳ Bienvenido a Zitara, la primera Ciudad Residencial & Golf Club en Aguascalientes Reimaginamos la forma en que vivimos. |...",
+    "url": "https://mx.linkedin.com/showcase/zitaragolf/",
+    "pass": 3
+   },
+   {
+    "quote": "Sharon K. - Zitara | LinkedInShyam Srinivasan - Fortescue | LinkedInHow Zitara Balance improves BESS performance - LinkedInYoni Cohen - Transition Point Advisory | LinkedIn Experience: Zitara · Education: California Institute of Technology · Location: San Francisco · 311 connections on LinkedIn. Experience: Fortescue · Education: Y Combinator · Location: San Francisco · 500+ connections on LinkedI",
+    "url": "https://www.linkedin.com/in/sharonrkuo",
+    "pass": 3
+   },
+   {
+    "quote": "yoshihito kita - 株式会社NOTE - 代表取締役社長 | LinkedIn藤原岳史 - Wikipedianoteの歴代社長 - the-shashi.comShyam Srinivasan - BAM & SSF USA 株式会社NOTE - 代表取締役社長 · 職歴: 株式会社NOTE · 場所: 大阪。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでyoshihito kitaさんのプロフィールを閲覧しましょう。 株式会社NOTE代表取締役 [1] 、一般社団法人ノオト代表理事 [2]。 兵庫県 丹波篠山市 を拠点に、 古民家 など歴史的建造物を宿泊施設や店舗として再生・活用し、地域の暮らしや文化の継承を図る事業「NIPPONIA」を全国で展開している [3]。 Oct 26, 2026 · 加藤貞顕 氏は2000年4月に アスキー",
+    "url": "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zitara Ciudad Residencial & Golf | Aguascalientes - Facebook El camino de Zitara se ha escrito con esas manos: las de quienes lo imaginaron, lo diseñaron y lo levantaron paso a paso. En este video las escuchas a todas, contando de primera voz lo que ha significado dar forma a este proyecto y verlo crecer hasta lo que hoy se vive aquí.",
+    "url": "https://www.facebook.com/Zitaraciudadresidencial/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara Club & Golf | Aguascalientes - Facebook Zitara Club & Golf, Aguascalientes. 667 followers · 55 talking about this. Una comunidad integral que ofrece soluciones deportivas, sociales, culturales...",
+    "url": "https://www.facebook.com/zitaraclubgolf/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara Club & Golf, un espacio... - Zitara Club & Golf | Facebook Apr 13, 2026 · Zitara Club & Golf, un espacio donde el deporte y la comunidad se encuentran. ⛳ ¿Qué encontrarás? 🔹 Campo de golf de 18 hoyos, con 6 hoyos iluminados...",
+    "url": "https://www.facebook.com/zitaraclubgolf/posts/-zitara-club-golf-un-espacio-donde-el-deporte-y-la-comunidad-se-encuentran-qué-e/122171927516663418/",
+    "pass": 3
+   },
+   {
+    "quote": "Zitara - Todos conocen ese lugar al que 'hubieran entrado ... Jul 8, 2026 · En Zitara, ese lugar puede ser el tuyo. Conoce nuestros lotes residenciales y empieza a construir tu historia. Todo empieza con un terreno, pero lo que realmente construyes es la vida que siempre imaginaste. Cada decisión, cada recuerdo y cada nuevo comienzo tienen un lugar. En Zitara, ese lugar puede ser el tuyo.",
+    "url": "https://www.facebook.com/Zitaraciudadresidencial/photos/todos-conocen-ese-lugar-al-que-hubieran-entrado-antes-zitara-gran-hábitat-es-ese/1043297334873141/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zitara.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zitara.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.emerson.co.jp/ja/corporate/news/2025/emerson-partners-with-zitara",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zitara.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/zitara-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zitara.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zitara.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zitara.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zitarabykanak.shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/zitara-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zitara.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spirradigital.com/case-studies/zitara",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thefinancialanalyst.net/2024/12/05/zitara-raises-17-million-to-enhance-battery-control-for-clean-energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zitara/__uKwsWGLunLUioNwFW6kM0syR2fVHtSDjCeRR1OR9n7Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/343632-07",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/zitara-zitara-io-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/zitara-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Zitara9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Zitara6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stonem_____/status/2109908178452234648",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ZitaraLoCambiaTodo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zitara-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Zitara/+",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/showcase/zitaragolf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sharonrkuo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zitaraciudadresidencial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zitaraclubgolf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zitaraclubgolf/posts/-zitara-club-golf-un-espacio-donde-el-deporte-y-la-comunidad-se-encuentran-qué-e/122171927516663418/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zitaraciudadresidencial/photos/todos-conocen-ese-lugar-al-que-hubieran-entrado-antes-zitara-gran-hábitat-es-ese/1043297334873141/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Zitara9",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zitara 日本 導入",
+   "results": [
+    "https://www.emerson.co.jp/ja/corporate/news/2025/emerson-partners-with-zitara",
+    "https://www.zitara.com/",
+    "https://jp.linkedin.com/company/zitara-technologies",
+    "https://www.zitara.com/about",
+    "https://thebridge.jp/tag/zitara",
+    "https://deeptech.nextblue.com/startups/zitara",
+    "https://www.iru-miru.com/article/80315"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zitara 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zitara Japan",
+   "results": [
+    "https://www.zitara.com/",
+    "https://www.zitara.com/about",
+    "https://zitarabykanak.shop/",
+    "https://jp.linkedin.com/company/zitara-technologies",
+    "https://studio.zitara.com/",
+    "https://www.zitara.com/products/balance",
+    "https://www.emerson.co.jp/ja/corporate/news/2025/emerson-partners-with-zitara"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zitara manufacturing customer case study",
+   "results": [
+    "https://www.zitara.com/",
+    "https://www.spirradigital.com/case-studies/zitara",
+    "https://www.newsletter.rideflywheel.com/p/flywheel-making-batteries-safer-with",
+    "https://thefinancialanalyst.net/2024/12/05/zitara-raises-17-million-to-enhance-battery-control-for-clean-energy/",
+    "https://www.zitara.com/products/insights",
+    "https://www.infloso.ai/case-studies/zitara/zitara.pdf",
+    "https://www.scribd.com/document/855713703/Project-Case-Study",
+    "https://www.huilingas.com/pakistan-sitara-chemical-industrial-nitrogen-generation-system-project-customer-case-study.html",
+    "https://fernfortuniversity.com/essay/ob_case/sitara-indian-management-style-capturing-hearts-minds-714"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Zitara white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://reseller.nbtel.iq/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Zitara founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/zitara/__uKwsWGLunLUioNwFW6kM0syR2fVHtSDjCeRR1OR9n7Q",
+    "https://pitchbook.com/profiles/company/343632-07",
+    "https://fundediq.co/zitara-zitara-io-funding/",
+    "https://compworth.com/company/zitara-technologies",
+    "https://www.thecompanycheck.com/company/b/zitara/p3wxe4kj0jcmrzwbt",
+    "https://acquirezy.com/organization/zitara-technologies-2491295",
+    "https://startupintros.com/orgs/zitara-technologies"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zitara",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ikedanob",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/momiji_man_10/n/n62ea2d9a9a9a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zitara",
+   "results": [
+    "https://x.com/Zitara9",
+    "https://x.com/Zitara6",
+    "https://x.com/stonem_____/status/2109908178452234648",
+    "https://x.com/hashtag/ZitaraLoCambiaTodo",
+    "https://x.com/JLMNoticias/status/2090574607312904572",
+    "https://x.com/JLMNoticias/status/2119834348589314464",
+    "https://x.com/JLMNoticias/status/2002029589237825782"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zitara",
+   "results": [
+    "https://www.linkedin.com/company/zitara-technologies",
+    "https://www.linkedin.com/pub/dir/Zitara/+",
+    "https://mx.linkedin.com/showcase/zitaragolf/",
+    "https://www.linkedin.com/in/sharonrkuo",
+    "https://www.linkedin.com/in/shyam-srinivasan-1a10b944",
+    "https://www.linkedin.com/posts/zitara-technologies_estimating-imbalance-is-critical-how-do-activity-7349165022620676097-6S-o",
+    "https://www.linkedin.com/in/yonic"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zitara",
+   "results": [
+    "https://www.facebook.com/Zitaraciudadresidencial/",
+    "https://www.facebook.com/zitaraclubgolf/",
+    "https://www.facebook.com/zitaraclubgolf/posts/-zitara-club-golf-un-espacio-donde-el-deporte-y-la-comunidad-se-encuentran-qué-e/122171927516663418/",
+    "https://www.facebook.com/Zitaraciudadresidencial/photos/todos-conocen-ese-lugar-al-que-hubieran-entrado-antes-zitara-gran-hábitat-es-ese/1043297334873141/",
+    "https://www.facebook.com/ZitaraGolf/",
+    "https://www.facebook.com/Zitaraciudadresidencial/videos/️-avance-de-obra-en-zitara-ya-se-colocó-la-primera-escultura-en-la-entrada-princ/2081934859207645/",
+    "https://www.facebook.com/Zitaraciudadresidencial/videos/detente-esto-no-es-un-fraccionamiento-más-es-una-ciudad-tomando-forma-️zitara-se/1101933295828185/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zitara note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://batterysummit.solarenergyevents.com/speaker/shyam-srinivasan/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.zitara.com/",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Zitara X 投稿",
+   "results": [
+    "https://x.com/Zitara9",
+    "https://www.instagram.com/zitara.xo/",
+    "https://www.instagram.com/zitara._/reels/",
+    "https://www.zitara.com/",
+    "https://x.com/i/trending/2118993191495934210",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://news.yahoo.co.jp/articles/c433091e5e50d42e2a18d576920e8414bb798cb9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

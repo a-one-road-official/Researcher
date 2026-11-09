@@ -1,0 +1,476 @@
+{
+ "name": "BICO — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:bioink-manufacturer",
+ "researched_at": "2026-11-09T19:34:09.763611+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelMatters - Breaking: declining stock value causes...VoxelMatters on Reels - FacebookVoxelMatters Early H3C Unboxing - FacebookVoxelMatters spent two months... - Prusa Research 3D printers ...VoxelMatters - For his final-year project at Central Saint ...Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters - Breaking: declining stock value causes... Breaking: declining stock value causes turmoil at BICO. Stock market ups and downs, changes in strategic direction and internal conflicts can often happen in such situations and we sincerely hope that they will be resolved, to the benefit of the entire bioprinting segment.",
+    "url": "https://www.facebook.com/VoxelMatters/posts/breaking-declining-stock-value-causes-turmoil-at-bicostock-market-ups-and-downs-/2068899459948835/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bico.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bico.ch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-l-e.jp/bico/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.a-l-e.jp/bico/pendant/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bico.stores.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kinofu.com/uvresin-guide2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://best-item.co.jp/resin-liquid-osusume",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fantist.com/articles/1092",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/am-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bico.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/bico/s?k=bico",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/bico-%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9/s?k=bico+%E3%83%8D%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B9",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/s?i=merchant-items&me=A2KRR0Y88ZZAHH",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/foveitaa-%E3%82%B8%E3%83%A3%E3%82%B1%E3%83%83%E3%83%88-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9-%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA/dp/B0HDT3JXGV",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/3764/0793/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/0807/1707/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00250535/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bico.com/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bico.com/investors/financials/financial-reports-and-presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/bico/29333016",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/posts/breaking-declining-stock-value-causes-turmoil-at-bicostock-market-ups-and-downs-/2068899459948835/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "BICO — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://bico.com/",
+    "https://bico.ch/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.bico-ghi.co.jp/jewelry/",
+    "http://www.gin-shop.com/bico.html",
+    "https://www.a-l-e.jp/bico/pendant/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.sennheiser.com/ja-jp/support/japan-dealers",
+    "https://www.vivotek.com/ja/website",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.youtube.com/shorts/PxsMUmbBVDs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.a-l-e.jp/bico/",
+    "https://www.a-l-e.jp/bico/pendant/",
+    "https://bico.stores.jp/",
+    "https://search.rakuten.co.jp/search/mall/ビコ+BICO/",
+    "https://www.instagram.com/p/CsVvP_Wr3yj/",
+    "https://www.amazon.co.jp/bico/s?k=bico"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://kinofu.com/uvresin-guide2026/",
+    "https://best-item.co.jp/resin-liquid-osusume",
+    "https://fantist.com/articles/1092",
+    "https://shop.croccha.com/",
+    "https://www.monotaro.com/k/store/レジン/",
+    "https://www.youtube.com/@nyandako"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://japanesedistributors.com/",
+    "https://www.voxelmatters.com/am-japan/",
+    "https://bico.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "http://www.voxelmatters.report/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://japanesedistributors.com/",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://vietnamnews.vn/economy/1803879/pan-group-japanese-partner-join-hands-to-modernise-agriculture.html",
+    "https://www.marinelink.com/news/demosath-floating-wind-project-enters-new-543787"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp BICO — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/bico/s?k=bico",
+    "https://www.amazon.co.jp/bico-ネックレス/s?k=bico+ネックレス",
+    "https://www.amazon.co.jp/s?i=merchant-items&me=A2KRR0Y88ZZAHH",
+    "https://www.amazon.co.jp/foveitaa-ジャケット-レディース-大きいサイズ/dp/B0HDT3JXGV",
+    "https://www.amazon.co.jp/購入履歴-確認-amazon注文履歴/s?k=購入履歴+確認+amazon注文履歴",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://www.amazon.co.jp/【旧モデル】Wpc-UVO-折りたたみ傘-親骨55cm-レディース/dp/B0HJ6RZKG4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com BICO — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/0807/1707/",
+    "https://www.monotaro.com/g/00250535/",
+    "https://www.monotaro.com/k/store/高圧ホース/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/00016743/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://bico.com/investors/",
+    "https://bico.com/investors/financials/financial-reports-and-presentations/",
+    "https://www.zoominfo.com/c/bico/29333016",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://stockanalysis.com/quote/sto/BICO/company/",
+    "https://www.life-sciences-europe.com/news/bico-divest-mattek-visikol-group-publ-corporation-sartorius-2001-124152.html",
+    "https://rocketreach.co/bico-profile_b410a35bff7ffb62"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com BICO — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com BICO — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/biconomy",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/DemocraticWins/status/2117994783016685719",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com BICO — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com BICO — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/VoxelMatters/posts/breaking-declining-stock-value-causes-turmoil-at-bicostock-market-ups-and-downs-/2068899459948835/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/groups/h3cgroup/posts/1189777390376319/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/VoxelMatters/posts/for-his-final-year-project-at-central-saint-martins-noé-chouraqui-designed-point/1319191043545274/",
+    "https://www.facebook.com/\u0000jperes88/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://bico.com/single-press-release/?id=eb576bf3-bd73-4412-82eb-f8f891c6a7ae",
+    "https://www.voxelmatters.com/erik-gatenholm-steps-down-as-ceo-of-bico/",
+    "https://www.linkedin.com/pub/dir/davide/sher"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "BICO — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://x.com/lielie_flashed/status/2119761316412092746",
+    "https://xn--p-efu5h.com/",
+    "https://www.xvideos.com/?k=seios+bicudos+durinhos+mamilos"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

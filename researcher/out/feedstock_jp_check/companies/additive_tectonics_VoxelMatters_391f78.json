@@ -1,0 +1,512 @@
+{
+ "name": "additive tectonics — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:11:10.984142+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "additive tectonics — VoxelMatters - The largest database of ...Autodesk and Additive Tectonics pioneer 3D printed flooring ...Deep additive manufacturing insights and the data that ...(PDF) Bio-Fusion Tectonics The operation of AIGC in ...Cheer up, the metal AM market as a whole is doing ok購入先一覧 - パナソニック - Panasonic海外ネットワーク | グローバルネットワーク | 企業情報 | 信越化学工... — additive tectonics develops the future o",
+    "url": "https://www.voxelmatters.directory/company/additive-tectonics/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInFederico Sher - Co-founder of VoxelMatters | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Christian Wiesner – Technischer Leiter bei Additive Tectonics ...𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲: 𝗪𝗵𝘆 𝗦𝗼𝗺𝗲 𝗖𝗲𝗿𝗮... Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · ",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   },
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Christian Wiesner – Technischer Leiter bei Additive Tectonics ...𝗕𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲: 𝗪𝗵𝘆 𝗦𝗼𝗺𝗲 𝗖𝗲𝗿𝗮... VoxelMatters is a leading market research and media company specializing in the additive manufacturing industry. We provide in-depth analysis, insights, and strategic consulting servic",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/mosaic-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-tectonics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/autodesk-additive-tectonics-3d-printed-flooring/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/401344228_Bio-Fusion_Tectonics_The_operation_of_AIGC_in_generative_design_and_robotic_additive_manufacturing_processes",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/consultancy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://additiveplus.com/webstore/?srsltid=AYCX9vJULL_26jI_uvH7JMzi5FTDPJIRpb9zlePLrr_1AqrNCBl5fnJo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vJcSLTK_mS_I4LXyviTZ71xUwg_zpG5_yzZBwKYdo-D9pS8TBGM",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.additive-tectonics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://music.amazon.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5842/9436/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E6%B6%B2%E9%9D%A2%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "additive tectonics — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/company/mosaic-manufacturing/",
+    "https://www.voxelmatters.group/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.additive-tectonics.com/",
+    "https://ultimaker.com/learn/ultimaker-announced-as-exclusive-distributorship-for-tectonic-3d/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxelmatters.directory/company/additive-tectonics/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "additive tectonics — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/additive-tectonics/",
+    "https://www.voxelmatters.com/autodesk-additive-tectonics-3d-printed-flooring/",
+    "http://www.voxelmatters.report/",
+    "https://www.researchgate.net/publication/401344228_Bio-Fusion_Tectonics_The_operation_of_AIGC_in_generative_design_and_robotic_additive_manufacturing_processes",
+    "https://www.voxelmatters.com/cheer-up-the-metal-am-market-as-a-whole-is-doing-fine/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive tectonics — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.additive-tectonics.com/en/services/",
+    "https://www.voxelmatters.report/product/ceramic-am-market-2026/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelmatters.com/about/",
+    "https://ji-am.jp/",
+    "https://www.additive-tectonics.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "additive tectonics — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://additiveplus.com/webstore/?srsltid=AYCX9vJULL_26jI_uvH7JMzi5FTDPJIRpb9zlePLrr_1AqrNCBl5fnJo",
+    "https://voxelpla.com/?srsltid=AYCX9vJcSLTK_mS_I4LXyviTZ71xUwg_zpG5_yzZBwKYdo-D9pS8TBGM",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vJnR-ejkl6Y1PRliWLnaXz_IMPjCKyj5PlHVc3PSRBdsqieYjeO",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://www.voxelmatters.com/category/marketing/additive-manufacturing-guides-and-maps/",
+    "https://www.poly-maker.jp/",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://www.voxelmatters.directory/company/additive-tectonics/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "additive tectonics — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.additive-tectonics.com/",
+    "https://www.voxelmatters.com/",
+    "https://www.tctjapan.jp/outline_en.html",
+    "https://x.com/VoxelMatters",
+    "https://ultimaker.com/learn/ultimaker-announced-as-exclusive-distributorship-for-tectonic-3d/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/category/industry-2/distribution/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "additive tectonics — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.additive-tectonics.com/",
+    "https://www.voxelmatters.group/",
+    "https://www.linkedin.com/pulse/comprehending-rapid-growth-global-japan-additive-oq4me",
+    "https://ultimaker.com/learn/ultimaker-announced-as-exclusive-distributorship-for-tectonic-3d/",
+    "https://www.tctjapan.jp/index_en.html",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp additive tectonics — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://music.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【デジタル限定-YJ-PHOTO-BOOK】月城莉奈写真集「夢か幻か、女性声優か？」-月城莉奈-ebook/dp/B0HPKKHKNS"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com additive tectonics — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/5842/9436/",
+    "https://www.monotaro.com/k/store/液面センサー/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://www.monotaro.com/g/00683943/",
+    "https://www.monotaro.com/g/00011523/",
+    "https://www.monotaro.com/g/02779452/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "additive tectonics — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/methodology/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.directory/company-category/3d-printing-directory/",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.scribd.com/document/801980104/VoxelMatters-VMFocus2024-eBook-AM-Services",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.additive-tectonics.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com additive tectonics — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com additive tectonics — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/3DPrint_com/status/2053918883187482712",
+    "https://x.com/achieshiii/status/2114499039941271702",
+    "https://x.com/Voxel_Tech",
+    "https://x.com/Sanemavcil/status/2117704976281837787",
+    "https://x.com/thetect0nic/status/2114349059221631180",
+    "https://x.com/isaiahrmartin/status/2117871814625972663"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com additive tectonics — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-advancedmaterials-activity-7437841890919604224-dJKO",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://de.linkedin.com/in/christian-wiesner-b19127186",
+    "https://www.linkedin.com/posts/activity-7523668925369438209-2uIy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com additive tectonics — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "additive tectonics — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/autodesk-additive-tectonics-3d-printed-flooring/",
+    "https://www.additive-tectonics.com/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://additive-manufacturing-report.com/team/",
+    "https://www.ampulse.online/news/additive-tectonics-ceo-bruno-knychalla-defends-3d-printing-potential-in-apyx3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "additive tectonics — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/additive_tectonics/",
+    "https://www.voxelmatters.report/",
+    "https://www.additive-tectonics.com/",
+    "https://www.voxelmatters.com/autodesk-additive-tectonics-3d-printed-flooring/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.group/",
+    "https://www.facebook.com/VoxelMatters/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

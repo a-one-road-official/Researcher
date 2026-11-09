@@ -1,0 +1,1238 @@
+{
+ "name": "Sourcify",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-09T19:14:07.151968+00:00",
+ "official_url": "https://www.sourcify.co/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "forge create --rpc-url $KAIROS_RPC_URL --private-key $PRIVATE_KEY src/Counter.sol:Counter --broadcast",
+    "url": "https://docs.kaia.io/ja/build/smart-contracts/deployment-and-verification/verify/sourcify/",
+    "pass": 3
+   },
+   {
+    "quote": "What is MEV protection? Ethereum, Base, Arbitrum, Arc",
+    "url": "https://chainstack.com/ja/marketplace/developer-tools/sourcify/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how MEV works on Ethereum, Base, Arbitrum and Arc, when you need MEV Protection or...",
+    "url": "https://chainstack.com/ja/marketplace/developer-tools/sourcify/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify Product Sourcing",
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Great service and reliable sourcing company. Their software is user-friendly and easy to integrate. We went from excel spreadsheets to the Sourcify app and it's been a game-changer. I now have complete visibility into production and get updates a few times a week, compared to when I used to have to contact our factory all the time to see what was going on. Highly recommend Sourcify!",
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one dropshipping supplier with AliExpress, Alibaba,Temu",
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify Product Sourcingは、以下のストアとのみ互換性があります",
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Used by 200+ brands across 40+ product categories",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify is the relationship-based sourcing partner for brands that need manufacturing. People who understand your product work with factories they know, backed by boots on the ground across 17 countries.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage production and quality with local teams on the ground",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Local teams and partners support communication, quality, and escalation where manufacturing happens. This map shows presence, not a searchable factory directory.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Directories and AI tools can produce lists of factory names. They rarely tell you who communicates under pressure, who handles quality consistently, or who stays engaged when something goes wrong. That is the work Sourcify does.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Understand your product and goals",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We learn your product, stage, requirements, volumes, timing, and what success looks like before recommending a path.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Present manufacturing fit with context",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Local teams help with communication, production oversight, quality coordination, and escalation across manufacturing regions.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From diversification and category expansion to Managed Manufacturing, we help the relationship progress over time.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Four ways brands work with Sourcify. Each is grounded in relationship-based sourcing and leads to a Discovery Call when it fits.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Product manufacturing",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Project support from factory fit and sampling through production oversight and delivery — a common ramp into Managed Manufacturing.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Manufacturing is Sourcify's core offer. Start with a project, fractional support, or diversification when that fits — and grow into full operations when complexity demands it.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Predefined text blocks for faster tender document creation",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Integration of awarded products & conditions into supplier catalogs",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost savings through optimized processes and transparent pricing",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve already successfully managed over 200 tenders for our clients – optimize and streamline your tender process today!",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Many organizations struggle with a lack of transparency regarding orders. Investment requests are often handled manually on paper, increasing costs and slowing processes. Tracking which goods have arrived can be a challenge, leading to tedious invoice reconciliations.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "With our digital platform, you optimize order & approval processes – transparently, efficiently, and standardized:",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital approvals for purchase and investment requests",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Budget, limit, and approval tracking",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, invoice verification is a time-consuming process, involving manual reconciliation of 100+ line items, which is both error-prone and inefficient. Comparing orders and delivery notes adds further complexity without generating real value.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Customizable approval workflows and permissions",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Audit-proof document storage",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Implementing new systems, processes, and structures can be challenging. Many organizations lack the experience and resources to successfully manage change. This often leads to resistance, inefficiencies, and delayed project success.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "With our industry-specific expertise, we support your organization throughout the transition – ensuring project success.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Our approach includes:",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Transparency & communication – clear messaging & documentation throughout the project",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry expertise – deep knowledge of hospitality & procurement challenges",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "The process begins with identifying articles, specifications, and order volumes.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "With Sourcify, this step is significantly simplified as the software provides access to digital supplier catalogs. Existing data can be quickly retrieved and integrated into the procurement process – saving time and increasing accuracy.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Once the needs are identified, the actual tender process begins.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Predefined text blocks enable standardized and rapid tender creation.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Your optimized procurement process",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Sourcify in the Tendering Process",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Predefined text blocks enable quick and easy tender documentation.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Approvals are granted in just a few clicks, including email notifications and specialized approvals for certain items (e.g., IT equipment).",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "With Sourcify, you are in the best hands from the initial idea to full implementation. Our structured and proven project approach ensures that your processes are seamlessly digitalized and optimized – customized to your specific needs.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "RFQ Pricing Platform - Sourcify",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify's software enables companies to generate additional revenue and enhance the quality of responses to freight procurement RFQs by automating the tender management workflow and providing valuable data to organizations.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "have submitted prices",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "A transparent and consistent internal pricing process will ensure standardization and visibility across the organization. This will eliminate the possibility of unexpected costs, incorrect quotes, or missed deadlines.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "We digitize and standardize transportation procurement pricing processes,",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "We collect and archive all your freight procurement pricing data, providing the intelligence needed for",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "enhance the data quality of your proposal",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "with a continuous improvement mindset and 5000+ hours of annual platform development.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive dashboard",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Country and regional performance dashboards based on the WIN, LOST, RETAINED, NOT GAINED business concept. RFQ volume, markets, and award dashboards for an overview of the NET effect. Pricing dashboards to benchmark and challenge pricing decisions.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "A robust tariff engine will enable clear pricing guidance based on trade lanes, carriers, validity periods, or customer segments. It will automatically prefill approximately 80% of the RFQ lanes with local, gateway, and freight tariffs, thereby reducing the time required to complete the process.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Air freight and ocean freight-specific consistency algorithms, along with Sourcify's AI (ML) RFQ quality engine, ensure that poor data quality and inconsistencies are identified and removed from the response prior to customer submission.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrate Sourcify into your pricing cycle to streamline operations and avoid manual reports and double work. Our platform offers standard integrations with leading CRMs, rate management systems, and rate exchange solutions.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard operational process",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Great service and reliable sourcing company. Their software is user-friendly and easy to integrate. We went from excel spreadsheets to the Sourcify app and it's been a game-changer. I now have complete visibility into production and get updates a few times a week, compared to when I used to have to contact our factory all the time to see what was going on. Highly recommend Sourcify!",
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify | Manufacturing Runs on Relationships",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Runs on Relationships",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your outsourced manufacturing team, in the regions where you need it",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Manufacturing Support",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Used by 200+ brands across 40+ product categories",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify is the relationship-based sourcing partner for brands that need manufacturing. People who understand your product work with factories they know, backed by boots on the ground across 17 countries.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Build factory relationships with context, not a directory listing",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing regions",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Local teams and partners support communication, quality, and escalation where manufacturing happens. This map shows presence, not a searchable factory directory.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Finding a factory is not the same as building a manufacturing relationship",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Directories and AI tools can produce lists of factory names. They rarely tell you who communicates under pressure, who handles quality consistently, or who stays engaged when something goes wrong. That is the work Sourcify does.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Present manufacturing fit with context",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Factories are introduced by people who understand capabilities, constraints, and commercial alignment, not scraped database rows.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Local teams help with communication, production oversight, quality coordination, and escalation across manufacturing regions.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From diversification and category expansion to Managed Manufacturing, we help the relationship progress over time.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing support that matches how you operate",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed manufacturing",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify's core offer: an embedded manufacturing operations partnership across factories, quality, logistics, and strategy — with boots on the ground.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Product manufacturing",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Project support from factory fit and sampling through production oversight and delivery — a common ramp into Managed Manufacturing.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing support for manufacturing operations without a full internal sourcing team — a lighter ramp that often expands into Managed.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Factory diversification",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by brands navigating real manufacturing complexity",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Years of manufacturing relationships",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Footwear season follows how scaled shoe brands manufacture, source materials, and handle factory risk, and what growing brands can take from those playbooks.",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "At this stage, we have designed a proof of concept (PoC) for external-internal-external rate card conversion. However, today we do not have a final solution that can be used by our customers.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by brands navigating real manufacturing complexity.",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "HODL Wallet reached a finished stainless steel product in seven weeks, with Sourcify identifying the factory and managing samples through production.",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas Felice moved a custom watch concept into production with Sourcify, using clear specifications and manufacturers experienced in custom components.",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Weedmaps sourced custom branded jars directly through Sourcify, gaining more manufacturing options while removing traditional promotional wholesaler markup.",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Build better manufacturing relationships",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Manufacturing is Sourcify's core offer. Start with a project, fractional support, or diversification when that fits — and grow into full operations when complexity demands it.",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Manufacturing Support",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn About Manufacturing",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Manufacturing Support",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify publishes free manufacturing resources for ecommerce and consumer brands. Use our blog, case studies, podcast, and process guides to understand factory selection, landed cost tradeoffs, quality control, and what a healthy sourcing engagement looks like before you start a project.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing guides, sourcing tips, and industry insights to help you make better decisions. Popular topics include choosing the right factory, DDP versus FOB, and red flags when sourcing from China.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "A walkthrough of discovery, factory matching, sampling, production oversight, and DDP delivery, plus answers to common manufacturing questions.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Bi-weekly conversations with founders, operators, and supply chain experts about what is working in DTC and manufacturing, including footwear brand building, supply chain strategy, and founder operating lessons.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "What free manufacturing resources does Sourcify publish?",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify publishes free blog guides, case studies, How it works explainers, and Ecommerce on Tap podcast episodes. Use them to understand factory selection, landed cost tradeoffs, quality control, and what a healthy sourcing engagement looks like before you start a project.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Where should I start if I am new to manufacturing?",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Start with How it works for the process from discovery through delivery. Use the blog for factory selection, cost, and quality topics. When you have a product path and want to discuss fit, schedule a Discovery Call.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Case studies are published on the Sourcify site, and Ecommerce on Tap releases bi-weekly conversations with founders, operators, and supply chain experts about DTC and manufacturing.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "When you have a product path and want factory relationships or manufacturing operations support, schedule a Discovery Call. If you are still early and building context, keep learning through the blog, case studies, How it works, and the podcast.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Build better manufacturing relationships",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Manufacturing is Sourcify's core offer. Start with a project, fractional support, or diversification when that fits — and grow into full operations when complexity demands it.",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "StartProto Manufacturing Cloud",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "When you should start thinking about expanding your manufacturing",
+    "url": "https://www.youtube.com/watch?v=SsFIma2XW_4",
+    "pass": 3
+   },
+   {
+    "quote": "] When you should start thinking about expanding your manufacturing",
+    "url": "https://www.youtube.com/watch?v=SsFIma2XW_4",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "この開発者は日本語での直接的なサポートを提供していません",
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sourcify を使用してスマートコントラクトを検証する方法 — Sourcify を使用してスマートコントラクトを検証する方法 Kaia Docs https://docs.kaia.io > スマートコントラクト > Sourcifyの使用",
+    "url": "https://docs.kaia.io/ja/build/smart-contracts/deployment-and-verification/verify/sourcify/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify - Chainstack — Sourcify - Chainstack Chainstack https://chainstack.com > ホーム > マーケットプレイス",
+    "url": "https://chainstack.com/ja/marketplace/developer-tools/sourcify/",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズレベルの商品調達とサプライチェーン管理 — エンタープライズレベルの商品調達とサプライチェーン管理 Shopify App Store https://apps.shopify.com > sourcify",
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify | Manufacturing Runs on Relationships — Sourcify | Manufacturing Runs on Relationships Sourcify https://sourcify.com",
+    "url": "https://sourcify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions - Sourcify — Solutions - Sourcify sourcify.net https://www.sourcify.net > solutions",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify - LinkedIn — Sourcify - LinkedIn LinkedIn https://www.linkedin.com > sourcify",
+    "url": "https://www.linkedin.com/company/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify : RFQ Pricing Platform — Sourcify : RFQ Pricing Platform sourcify.online https://sourcify.online",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify helps brands manufacture products in Asia. — Sourcify helps brands manufacture products in Asia. Y Combinator https://www.ycombinator.com > sour...",
+    "url": "https://www.ycombinator.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Sourcify — Case Studies | Sourcify Sourcify https://sourcify.com > case-studies",
+    "url": "https://sourcify.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Resources | Sourcify — Resources | Sourcify Sourcify https://sourcify.com > resources",
+    "url": "https://sourcify.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify is Changing How You Bring Product Ideas to Life — Sourcify is Changing How You Bring Product Ideas to Life StartupBros https://startupbros.com > sourcify-ma...",
+    "url": "https://startupbros.com/sourcify-manufacturing-overseas/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Network - Sourcify — Partner Network - Sourcify Sourcify https://sourcify.com > partners",
+    "url": "https://sourcify.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify Revenue 2024: $1.9M Est. - GetLatka — Sourcify Revenue 2024: $1.9M Est. - GetLatka GetLatka https://getlatka.com > sourcify",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify Docs: Intro & Why Sourcify ? — Sourcify Docs: Intro & Why Sourcify ? Sourcify Docs https://docs.sourcify.dev > docs > intro",
+    "url": "https://docs.sourcify.dev/docs/intro/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Many organizations struggle with a lack of transparency regarding orders. Investment requests are often handled manually on paper, increasing costs and slowing processes. Tracking which goods have arrived can be a challenge, leading to tedious invoice reconciliations.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "When your delivery arrives, goods receipt is recorded instantly.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Your employees in hotels and headquarters receive targeted training for efficient system use.",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify's software enables companies to generate additional revenue and enhance the quality of responses to freight procurement RFQs by automating the tender management workflow and providing valuable data to organizations.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "A robust tariff engine will enable clear pricing guidance based on trade lanes, carriers, validity periods, or customer segments. It will automatically prefill approximately 80% of the RFQ lanes with local, gateway, and freight tariffs, thereby reducing the time required to complete the process.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "All data is owned by the customer. Each customer is assigned a unique instance of the application, with their information and data stored separately from all other customers. Sourcify only uses a minimum amount of customer data to provide world-class customer support.",
+    "url": "https://sourcify.online/",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify is a profitable high growth sourcing platform that helps ecommerce brands and Fortune 500s manufacture products in Asia.",
+    "url": "https://www.ycombinator.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify Revenue 2024: $1.9M Est.",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify has not published its revenue. GetLatka estimates it at about $1.9M a year (October 2024).",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify CEO, founders & employees",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Nathan Resnick founded Sourcify in 2018 and runs it as CEO. Sourcify had 10 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sourcify's revenue?",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Sourcify's revenue at about",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sourcify have?",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "In the past, Nathan has brought dozens of products to market, ran three ecommerce companies (sold one), and has been a part of projects on Kickstarter that raised over seven figures.",
+    "url": "https://www.youtube.com/watch?v=SsFIma2XW_4",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Approvals are granted in just a few clicks, including email notifications and specialized approvals for certain items (e.g., IT equipment).",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us for a free consultation!",
+    "url": "https://www.sourcify.net/en/solutions/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "sourcify .eth on X sourcify .eth on X X https://x.com > @SourcifyEth",
+    "url": "https://x.com/SourcifyEth/status/2113569726936871252",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sourcify - LinkedIn Sourcify - LinkedIn LinkedIn https://www.linkedin.com > sourcify",
+    "url": "https://www.linkedin.com/company/sourcify",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify - LinkedIn Sourcify - LinkedIn LinkedIn https://www.linkedin.com > sourcify-ai",
+    "url": "https://www.linkedin.com/company/sourcify-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Stephen Miller - CEO at Sourcify | Supply Chain Innovator Stephen Miller - CEO at Sourcify | Supply Chain Innovator LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/stephen-miller-912b1abb",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcify Naturals - LinkedIn Sourcify Naturals - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sourcify-naturals",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sourcify (@sourcifyinc) - Facebook Sourcify (@sourcifyinc) - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/sourcifyinc/",
+    "pass": 3
+   },
+   {
+    "quote": "SourcifyErrand | Port Harcourt - Facebook SourcifyErrand | Port Harcourt - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/SourcifyErrandPH/",
+    "pass": 3
+   },
+   {
+    "quote": "حد عنده فكره عن شركه Sourcify اللي تبع اتصالات &e في المعادي حد عنده فكره عن شركه Sourcify اللي تبع اتصالات &e في المعادي Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/253221952434585/posts/1709531816803584/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sourcify.co/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://docs.kaia.io/ja/build/smart-contracts/deployment-and-verification/verify/sourcify/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chainstack.com/ja/marketplace/developer-tools/sourcify/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/sourcify?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsun.ec/blogs/articles/shopify-market-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcify.net/en/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sourcify.online/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/sourcify",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sourcify.net/en/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcify.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcify.com/resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/case-study-data-driving-customer-satisfaction-manufacturing-kazuc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/If-you-build-a-successful-company-as-a-reseller-of-software-as-a-white-label-partner-will-a-company-ever-acquire-you-or-will-they-just-go-to-the-company-you-whitelabeled-from-Can-you-really-have-an-exit-starting-a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/sourcify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sourcify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=SsFIma2XW_4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/SourcifyEth/status/2113569726936871252",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcify-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/stephen-miller-912b1abb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcify-naturals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sourcifyinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SourcifyErrandPH/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/253221952434585/posts/1709531816803584/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcify",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sourcify 日本 導入",
+   "results": [
+    "https://docs.kaia.io/ja/build/smart-contracts/deployment-and-verification/verify/sourcify/",
+    "https://chainstack.com/ja/marketplace/developer-tools/sourcify/",
+    "https://apps.shopify.com/sourcify?locale=ja",
+    "https://tsun.ec/blogs/articles/shopify-market-in-japan",
+    "http://info.zuora.com/20171116_PressRelease.html",
+    "https://www.sumitomocorp.com/ja/settings/News-Data/release",
+    "https://www.nipponexpress.com/jp/ja/site/dcx/blog/usa-la-fulfillment/index.html",
+    "https://enlyt.co.jp/blog/e-commerce-examples/",
+    "https://www.xeex.co.jp/column/22-column/404-20191105",
+    "https://sourcify.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sourcify 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://sourcify.com/",
+    "https://www.sourcify.net/en/solutions/",
+    "https://www.linkedin.com/company/sourcify",
+    "https://sourcify.online/",
+    "https://apps.shopify.com/sourcify?locale=ja",
+    "https://sourcifyindustrial.com/",
+    "https://sourcify.com/solutions/managed-manufacturing/",
+    "https://suppliers.ai/alternatives/sourcify",
+    "https://www.sourcify.net/en/homepage/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sourcify Japan",
+   "results": [
+    "https://sourcify.com/",
+    "https://www.linkedin.com/company/sourcify",
+    "https://www.ycombinator.com/companies/sourcify",
+    "https://www.sourcify.net/en/solutions/",
+    "https://sourcify.online/",
+    "https://www.youtube.com/watch?v=eKvGymtbZpI",
+    "https://www.sourcifyapp.com/en/",
+    "https://sourcify-x.com/",
+    "https://sourcify.com/about/",
+    "https://www.sourcify.net/en/homepage/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sourcify manufacturing customer case study",
+   "results": [
+    "https://sourcify.com/case-studies/",
+    "https://sourcify.com/resources/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.linkedin.com/pulse/case-study-data-driving-customer-satisfaction-manufacturing-kazuc",
+    "https://startupbros.com/sourcify-manufacturing-overseas/",
+    "https://www.renascence.io/journal/customer-experience-cx-design-in-manufacturing-examples-case-studies",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.insight.com/en_US/content-and-resources.html?tags=stream-type%3Acase-studies&tags=stream-partner%3Agoogle-cloud&offset=0&limit=10&year=&q=&language=en&pagePath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&searchPath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&srsltid=AYCX9vLG7lcYb3RdUsf1rX3rW9F7I6a2v7o2emopXk_tDKybLtI84jMr",
+    "https://www.fergusonindustrial.com/case-studies/",
+    "https://www.casestudies.com/company/onventis/case-study/sourcify-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sourcify white label OR reseller OR partner program",
+   "results": [
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.quora.com/If-you-build-a-successful-company-as-a-reseller-of-software-as-a-white-label-partner-will-a-company-ever-acquire-you-or-will-they-just-go-to-the-company-you-whitelabeled-from-Can-you-really-have-an-exit-starting-a",
+    "https://sourcify.com/partners/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sourcify founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/sourcify",
+    "https://www.linkedin.com/company/sourcify",
+    "https://sourcify.com/",
+    "https://www.youtube.com/watch?v=SsFIma2XW_4",
+    "https://docs.sourcify.dev/docs/intro/",
+    "https://www.ycombinator.com/companies/sourcify",
+    "https://news.crunchbase.com/venture/biggest-vc-startup-funding-deals-ispottv-biofourmis/",
+    "https://www.tryspecter.com/companies",
+    "https://www.angelbacked.co/company/sourcify",
+    "https://pitchbook.com/profiles/company/172679-14"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Sourcify",
+   "results": [
+    "https://note.com/msanada_ai/n/n0c282639d886",
+    "https://note.com/chisiki/n/n05f67f31d215",
+    "https://note.com/harukikondo/n/nf2e9be6744fd",
+    "https://note.com/standenglish/n/nd662035d2014?hl=en",
+    "https://note.com/harukikondo/n/nf2e9be6744fd?hl=en",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/torikarafever/n/na1a38be675e6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Sourcify",
+   "results": [
+    "https://x.com/SourcifyEth/status/2113569726936871252",
+    "https://x.com/orbinumnetwork/status/2118835658105946306",
+    "https://x.com/kaanuzdogan/reposts",
+    "https://x.com/zacodil/status/2118810004450902161",
+    "https://x.com/sourcifyinc/status/1165648784367464448",
+    "https://x.com/kaanuzdogan/status/2108282705406263807",
+    "https://x.com/otterscan",
+    "https://x.com/argotorg/status/2110012585944940782",
+    "https://x.com/LensMoso/status/2116882888809734534"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Sourcify",
+   "results": [
+    "https://www.linkedin.com/company/sourcify",
+    "https://www.linkedin.com/company/sourcify-ai",
+    "https://www.linkedin.com/in/stephen-miller-912b1abb",
+    "https://www.linkedin.com/company/sourcify-naturals",
+    "https://cy.linkedin.com/company/sourcify-ltd",
+    "https://ee.linkedin.com/company/sourcify-ou",
+    "https://in.linkedin.com/company/sourcifyin",
+    "https://www.linkedin.com/in/nathanresnick",
+    "https://in.linkedin.com/in/om-sourcify-5359853a2",
+    "https://uk.linkedin.com/in/joshua-hitchings"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Sourcify",
+   "results": [
+    "https://www.facebook.com/sourcifyinc/",
+    "https://www.facebook.com/SourcifyErrandPH/",
+    "https://www.facebook.com/shakeandgrillportchester/",
+    "https://www.facebook.com/groups/253221952434585/posts/1709531816803584/",
+    "https://www.facebook.com/sourcify.brasil/posts/enquanto-o-feriado-passa-fa%C3%A7a-a-conta-que-voc%C3%AA-vem-adiando-s%C3%A3o-tr%C3%AAs-passos-e-dez/122191814564683163/",
+    "https://www.facebook.com/EcomCapitalHQ/posts/i-got-to-visit-more-than-20-manufacturers-that-i-never-ever-ever-would-have-been/1628869725939481/",
+    "https://www.facebook.com/100077114596225/videos/australia-pacific-partnerships-platform-vacancy-ses-tuvalu/1122917209002605/",
+    "https://www.facebook.com/Blingstein/",
+    "https://www.facebook.com/p/Bella-Phang-61588221842533/",
+    "https://www.facebook.com/Sourcify/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sourcify note 社長",
+   "results": [
+    "https://sourcify.com/",
+    "https://www.ycombinator.com/companies/sourcify",
+    "https://www.linkedin.com/company/sourcify",
+    "https://www.youtube.com/watch?v=SsFIma2XW_4",
+    "https://sourcify-x.com/",
+    "https://note.com/yosuke77",
+    "https://www.forbes.com/sites/steveolenski/2018/03/08/how-this-23-year-old-grew-his-brand-by-68-last-month-and-what-a-cmo-can-learn-from-it/",
+    "https://sourcify.online/team/",
+    "https://sourcify.com/how-it-works/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Sourcify X 投稿",
+   "results": [
+    "https://sourcify-x.com/",
+    "https://sourcify.com/",
+    "https://docs.sourcify.dev/blog/",
+    "https://sourcify.online/",
+    "https://www.sourcify.net/en/homepage/",
+    "https://www.linkedin.com/company/sourcify",
+    "https://github.com/argotorg/sourcify",
+    "https://www.sourcifyapp.com/en/",
+    "https://app.sourcify.com/",
+    "https://x.com/sourcifyinc"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

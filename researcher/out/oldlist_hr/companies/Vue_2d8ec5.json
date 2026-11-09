@@ -1,0 +1,1606 @@
+{
+ "name": "Vue",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信失敗",
+ "researched_at": "2026-11-09T19:47:46.549276+00:00",
+ "official_url": "https://vue.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$48.5M",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise AI Orchestration Platform | Vue.ai",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering business outcomes, obsessively | Embraced by iconic enterprises around the world",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast onboarding, go-live, and quick time to value",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our 30:60:90 promise",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our solutioning-delivery-customer success framework enables enterprises to go live with instant applications, while ushering in a bottoms up data & AI transformation with a single composable platform - plugging seamlessly into systems your teams use while replacing others, friction free.",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Enterprise AI Orchestration Promise",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "data-centric approach to",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Guided straight-through processing. Machine-first. Like adaptive cruise control.",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Effortlessly design complex workflows. Drag-and-drop low-code interface. Modularize, compose, and save time with preset templates.",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Access the richest customer, product and process graphs.",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Day 60: ROI Proof",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrate industry-specific workflows. Bring teams, functions, processes and applications together.",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "User events onboarding & visualization",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Thematic product curations",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized eCommerce & marketing journeys",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product recommendations",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer loyalty program personalization",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory demand prediction & forecasting",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Content attribute extraction",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Invoice processing automation",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Loan & insurance processing",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer profile management",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SEO content generation",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Content data enrichment",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Document & personnel onboarding",
+    "url": "https://vue.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t just serve products. Serve experiences, with AI",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Better tags, real-time users action data, and complete profiles of your users – when they all come together, AI models start to work on a first-name basis.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "By powering your teams to use Vue.ai’s retail platform, you can seamlessly integrate clean product data, customer profiles, and real-time user action insights to deliver exactly what customers need, almost before they even know it themselves",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Vue.ai’s preset apps that make personalization as easy as it gets",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Data lacking for dynamic personalization? AI shifts to content-based suggestions. Plan B's got you.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored content for each shopper's intent and preferences, in real-time",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent exprience across touchpoints - Predictive analytics nails channel, message & time.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer preferences and consent from one single place - plan, strategize and execute targeted campaigns across channels easily.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtight privacy compliance; PII masking and no customer data storage makes your customer data safe and secure.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "A distinct Vue: Use AI for your enterprise goals",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Intelligence with AI",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Vue.ai - a great recommendation engine! We are seeing an uplift in our conversion rate and AOV across the business by automating product recommendations.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Ashwini Asokan, CEO of Vue, talks about the new Vue platform, why it matters, and how the team built the first-of-its-kind product.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Build Your Own Financial Automation Ecosystem – From Onboarding to",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the entire financial services lifecycle—including onboarding, compliance, reporting, customer service, and investment management—All in one platform",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering business outcomes, obsessively | Embraced by iconic enterprises around the world",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing the Total Cost of Ownership (TCO) in the finance industry is becoming an overwhelming challenge. Complex multi-point solutions, varied architectures, multiple partners, and cloud services create a tech maze that drives up costs, causes integration headaches, and limits efficiency. This complexity impacts agility and hinders enterprises' ability to innovate and stay competitive",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Extracts, enriches, and organizes product, customer, and business data for team-wide usability.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-configured use cases and industry-curated workflows for rapid deployment.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Futureproof & Composable",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate loan applications from submission to approval, leveraging Vue.ai to process vast amounts of data in minutes, including document verification and credit scoring, to enhance the customer experience and operational efficiency.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate manual errors by using Vue.ai's platform to handle invoice processing, validation, and payment approvals, reducing the workload for accounts payable teams and speeding up processing times.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Vue.ai’s Real-time anomaly detection systems identify suspicious transactions and behaviors, preventing fraud in digital payments, credit card usage, and internal banking operations.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver tailored financial products and services by analyzing customer behavior, transaction patterns, and demographic data. Vue.ai’s AI engines provide personalized recommendations and communications to boost customer engagement and loyalty.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate Know Your Customer (KYC) processes by verifying documents, performing data extraction, and cross-referencing customer information against databases, ensuring compliance and significantly reducing onboarding time.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Utilize Vue.ai platfrom to assess credit risk more accurately, taking into account a variety of factors and predictive models to support decision-making, while mitigating financial risk for the institution.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Assets & Building Trust | Mohamed Roushdy on Risk Management",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI Transformation in 2024 - A state of the market report",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how enterprises are harnessing AI to drive transformation in 2024. This report explores key trends, challenges, and strategies for AI adoption across industries.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Vue.ai | Vue.ai Partner Program",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "your way to Enterprise AI Success.",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "As a partner of Vue.ai, unlock the full potential of AI for enterprises you work with, driving transformative change and sustainable success.",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "to enhance your offerings, expand your expertise, and deliver exceptional value to enterprises. Together, we can redefine the future of AI in business, fostering innovation and achieving scalable growth.",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking growth through our Partner Program",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Domain-specific presets | Seamless integration | Customize solutions using Vue.ai’s platform",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Run, identify and measure impacts of winning A/B experiments on revenue, pipeline and growth.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "in Directly Attributable Revenue",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Vue.ai simplifies banking for both your employees and customers",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "30% of Leading finance institutions state that AI has increased their annual revenue by more than 10%.",
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "You have the power to capture dynamic customer data in real time, helping you build custom audience segments, tailor content, and boost revenue",
+    "url": "https://vue.ai/solutions/audience-builder/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Enabled Lead Generation & Customer Acquisition",
+    "url": "https://vue.ai/solutions/ai-lead-generation/",
+    "pass": 1
+   },
+   {
+    "quote": "Vue.ai simplifies insurance for both your employees and customers",
+    "url": "https://vue.ai/industries/ai-in-insurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Utilise Vue.ai's orchestration platform to optimise inventory levels across the supply chain, reducing carrying costs while preventing stockouts",
+    "url": "https://vue.ai/industries/ai-in-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Run, identify and measure impacts of winning A/B experiments on revenue, pipeline and growth.",
+    "url": "https://www.vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "in Directly Attributable Revenue",
+    "url": "https://www.vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Where Search Performance Meets Revenue Risk",
+    "url": "https://www.searchstax.com/case-studies/how-vue-cinemas-runs-apache-solr-in-production-without-downtime/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue runs a modern digital estate across multiple territories and faces sharp traffic spikes when major films go on sale. Paul Duce, Technical Lead at Vue Cinemas, described that demand as “very spiky,” with major film releases each year causing sudden surges that require capacity to be ready before the spike arrives.",
+    "url": "https://www.searchstax.com/case-studies/how-vue-cinemas-runs-apache-solr-in-production-without-downtime/",
+    "pass": 3
+   },
+   {
+    "quote": "Search Reliability Directly Affects Ticket Revenue",
+    "url": "https://www.searchstax.com/case-studies/how-vue-cinemas-runs-apache-solr-in-production-without-downtime/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai Revenue 2024: $19M Est., $48.5M Raised",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai was acquired by M2P Fintech.",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai has not published its revenue. ZoomInfo puts it at about $19M a year (November 2024).",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "About 2% annual revenue churn",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai CEO, founders & employees",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Ashwini Asokan founded Vue.ai in 2016 with Anand Chandrasekaran and led it as CEO. Vue.ai had 30 employees (October 2024, LinkedIn), down from 35 a year earlier.",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "What was Vue.ai's revenue?",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "ZoomInfo estimates Vue.ai's revenue at about",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Vue.ai have?",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Emails and Notifications",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalize, cross-sell and re-engage customers. Rescue your emails from spam and bring back customers.",
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Retailers take personalization off the site and into emails",
+    "url": "https://vue.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Emails and Notifications",
+    "url": "https://www.vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalize, cross-sell and re-engage customers. Rescue your emails from spam and bring back customers.",
+    "url": "https://www.vue.ai/solutions/ai-personalization-engine/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner with Vue.ai | Vue.ai Partner Program",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking growth through our Partner Program",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Onboard the Vue.ai Partner Program",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The Vue.ai Partner Program is designed to seamlessly onboard our partners into our platform, our tools, GTM resources, with robust training - everything needed to kickstart their AI growth chapter!",
+    "url": "https://vue.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vue.ai engineers bespoke AI transformation roadmaps for enterprises across industries. Retailers to resellers, auto-extracting data from files to extrapolating fashion styles, 150+ conglomerates in five continents recruit Vue.ai. How can we help yours?",
+    "url": "https://www.vue.ai/blog/enterprise-ai/vue-ai-moative-partnership-ai-transformation/",
+    "pass": 1
+   },
+   {
+    "quote": "Vue.ai uses image recognition, computer vision, and more to safe guard your brand’s integrity.",
+    "url": "https://vue.ai/solutions/ai-powered-content-moderation/",
+    "pass": 1
+   },
+   {
+    "quote": "Curated experiences that’ll turn shoppers into your brand’s advocates for life.",
+    "url": "https://vue.ai/industries/ai-in-ecommerce/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Not able to manage across warehouses? Our single dynamic system works across vendors, onboards, enriches, organizes data over time reducing the complexity your teams have to deal with",
+    "url": "https://vue.ai/hubs/data-hub/",
+    "pass": 1
+   },
+   {
+    "quote": "ONYX Case Study: Vue – Vue - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Vue - Customer Case Study",
+    "url": "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Vue used ONYX",
+    "url": "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "In this case study, you’ll learn how Vue Cinemas was able to:",
+    "url": "https://www.searchstax.com/case-studies/how-vue-cinemas-runs-apache-solr-in-production-without-downtime/",
+    "pass": 3
+   },
+   {
+    "quote": "InMoment Case Study: Vue Cinemas – Vue Cinemas - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Cinemas - Customer Case Study",
+    "url": "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Vue Cinemas used InMoment",
+    "url": "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "GitHub - chibivue-land/japanese-companies-using-vuejs: 日本で Vue.js を使っている企業一覧 · GitHub",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "日本で Vue.js を使っている企業一覧",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "日本で Vue.js を使っている企業の一覧です！",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フライルは、生成AIを用いて大量のVoCを分析し、事業KPI改善に繋げるAIカスタマニーズプラットフォーム flyle を運営しています",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "STORES 株式会社は、「Just for Fun」のミッションのもと、こだわりや情熱に駆動される経済を目指しています",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社スタディストは「伝えることを、もっと簡単に",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Fes Japan 2024では、",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "弁護士ドットコム株式会社は「プロフェッショナル・テックで、次の常識をつくる",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Skillnoteは製造現場のスキルマネジメントシステム「Skillnote」を提供しているSaaSスタートアップ企業です",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ヤプリは、ノーコードでアプリの制作・運用・分析を可能にするプラットフォーム「Yappli」を提供しています",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ワンキャリアは、これまで可視化されていなかった「キャリアデータ」を活用し、就職・採用の意思決定をサポートするサービスを展開しています",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "ユニークビジョン株式会社はソーシャルメディアを活用して、企業の幅広いマーケティング施策で、ブランド体験をつくるテクノロジーカンパニーです",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "NuxtLabs Japanは、Nuxtを開発するNuxtLabs社の公式ソリューションパートナーです",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、様々な知見を必要な人に届け、新たな挑戦を支援することで、社会や日本を元気にすることを目指しています",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "従来の「モノ」を中心とした事業領域にとどまらず、企業経営における「ヒト・モノ・カネ」すべての管理領域でのサービス提供を通じて、日本企業の約99.7%を占める中小企業の包括的な経営課題解決に取り組んでいます",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社GENEROSITYは、リアルとバーチャルの境界を越え、体験そのものを設計するブランドエクスペリエンススタジオです",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社kickflowは、「エンタープライズ企業の課題と向き合い、未来を切り拓く」をミッションに、クラウド稟議・ワークフロー SaaS「kickflow」を展開しています",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.jsのシェア・導入サイト（日本・2026年）｜MarketHack",
+    "url": "https://markethack.net/technology/frameworks/vue",
+    "pass": 3
+   },
+   {
+    "quote": "12,231サイトを計測中 · 日本",
+    "url": "https://markethack.net/technology/frameworks/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.jsは、当サンプルの日本のWebサイトの2.6%で使われています（12,231件中316件）",
+    "url": "https://markethack.net/technology/frameworks/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Attokyo At Tokyo Corporation",
+    "url": "https://markethack.net/technology/frameworks/vue",
+    "pass": 3
+   },
+   {
+    "quote": "12,231サイト · 日本 · 2026/11/06更新 ·",
+    "url": "https://markethack.net/technology/frameworks/vue",
+    "pass": 3
+   },
+   {
+    "quote": "ここ数年でVue.jsの導入事例が増えてきたので、一覧にまとめてみました",
+    "url": "https://qiita.com/00092/items/52d641af8d37e2b07916",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.slideshare.net/linecorp/vue-fes-japan-2018-line-lunchlt-121657290",
+    "url": "https://qiita.com/00092/items/52d641af8d37e2b07916",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.jsの導入/開発事例や活用/成功事例について - ブログ｜株式会社ripla",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "段階導入で既存システムに部分適用した導入事例",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "もう一つの代表的な導入事例が、既存システムへの段階的な部分適用です",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "失敗からの軌道修正に学ぶVue.js導入事例",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社riplaでは、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを、構想策定・要件定義から開発・改善まで一気通貫で支援",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ripla 代表取締役CEOとして、システムパッケージ活用、システム開発、データ分析、生成AI活用、SaaS開発、アプリ開発、EC構築など、幅広い領域で企業のDX推進と事業成長を支援している",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社でIT・DXを経験したプロフェッショナルが集う株式会社riplaにおいて、お客様の事業・ユーザー・業務に最適化したオーダーメイド型システムを構想策定・要件定義から開発・改善まで一気通貫で支援し、単なるシステム納品にとどまらず、クライアントと同じ目線で事業成果の最大化に向けた伴走支援を行う",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田大学卒業後、ラクスル株式会社、LINEヤフー株式会社にて事業開発やDX推進などに従事した後、株式会社riplaを創業",
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Fes Japan 2026 Participation Report｜Akkie",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Fes Japan 2026 Participation Report",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Fes Japan 2026",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As one of Japan's largest frontend conferences, the venue was filled with excitement even before the opening. I participated using the student support program, and I am deeply grateful not only for the ticket support but also for the environment provided to interact with other students and industry professionals.",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "— Vue Fes Japan (@vuefes)",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through this Vue Fes Japan 2026, I was able to experience not just the functional updates of Vue, but the broader technological trends of frontend toolchain acceleration and architectural design in the AI era.",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GitHub - chibivue-land/japanese-companies-using-vuejs: 日本で ... — 日本で Vue.js を使っている企業一覧. Contribute to chibivue-land/japanese-companies-using-vuejs development by creating an account on GitHub.",
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.jsのシェア・導入サイト（日本・2026年）｜MarketHack — Vue.jsは、当サンプルの日本のWebサイトの2.5%で使われています（12,114件中301件）。市場別シェア、主な導入サイト、併用される技術を掲載。",
+    "url": "https://markethack.net/technology/frameworks/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.js・Nuxt.jsを導入している企業・サービス一覧 - Qiita — Jan 21, 2021 · ここ数年でVue.jsの導入事例が増えてきたので、一覧にまとめてみました。 技術ブログ、勉強会やカンファレンス資料などが中心です。 調べて見ると、導入理由、既存システムからの移行など、とても参考になるものばかりでした。 他にも導入しているサービスがあれば、随時更新していきた...",
+    "url": "https://qiita.com/00092/items/52d641af8d37e2b07916",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.jsの導入/開発事例や活用/成功事例について - ブログ｜株式会社ri... — Vue.jsの導入や成功事例は、国内のBtoBや中小企業の業務システム、Nuxt.jsのメディア・コーポレートサイトに多く見られます。 発注側が見るべきは、選んだ結果の成果や軌道修正、投資の回収、運用での安定性です。数値は調査統計や案件DBの傾向から、企業名を断定できない事例は一般化してい ...",
+    "url": "https://www.ripla.co.jp/blog/system/vue-jsの導入-開発事例や活用-成功事例について/",
+    "pass": 3
+   },
+   {
+    "quote": "サイトについて | Vue.js 日本ユーザーグループ — Vue.js コミュニティの活況は日本だけにとどまらず、世界各地でカンファレンスが開催されています。 世界中ではもちろん、日本国内でも、ニュース、EC、広告など、幾多の分野に渡って現場での Vue.js 採用・導入実績が増え続けており、今後も伸びていくと考えています。 私たち Vue.js 日本 ...",
+    "url": "https://vuejs-jp.org/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue - Customer Case Study — Vue partnered with ONYX (Computer Software) to solve key challenges. \"Vue - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming the customer experience with Vue | EPAM — In this case study we share how we partnered with Vue Entertainment to transform the cinema-going experience; giving customers the star treatment across every touchpoint.",
+    "url": "https://www.epam.com/services/client-work/transforming-the-entertainment-experience-with-vue",
+    "pass": 3
+   },
+   {
+    "quote": "How Vue Cinemas Runs Apache Solr in Production Without ... — SearchStax Managed Search gave Vue a way to maintain Solr control, meet recovery requirements and keep customer-facing search available at scale. In this case study, you’ll learn how Vue Cinemas was able to: Reduce the operational burden of managing Solr infrastructure",
+    "url": "https://www.searchstax.com/case-studies/how-vue-cinemas-runs-apache-solr-in-production-without-downtime/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Cinemas - Customer Case Study — Vue Cinemas (Entertainment) partnered with InMoment (Computer Software) to solve key challenges. \"Vue Cinemas - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Laravel & Vue Development Team for a Manufacturing SaaS — How a dedicated Facile Technolab team built a Laravel and Vue design file module with versioning, approval and locking for a manufacturing SaaS.",
+    "url": "https://www.faciletechnolab.com/case-studies/laravel-vue-development-team-for-a-manufacturing-saas-company-in-usa/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai - 2026 Company Profile, Team, Funding & Competitors ... — Sep 13, 2026 · Vue.ai is an acquired company based in Redwood City (United States), founded in 2016 by Ashwini Asokan. It operates as a Provider of an enterprise platform for artificial intelligence orchestration and automation. Vue.ai has raised $27.5M in funding from FedEx and Alpha Wave Global. The company has 180 active competito",
+    "url": "https://tracxn.com/d/companies/vueai/__PfgHzy_k51wkD4m-Zha9wf1r3l1yYY3E4S90UroKUj0",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai — Company Profile | The Company Check — Jul 28, 2026 · About Vue.ai Vue.ai is a company based in Redwood City (United States) founded in 2016 by Ashwini Asokan and Anand Chandrasekaran was acquired by M2P Fintech in March 2025. Vue.ai has raised $17.7 million across 3 funding rounds from investors including FedEx, M2P Fintech and Alpha Wave Global. Vue.ai offers products and services includ",
+    "url": "https://www.thecompanycheck.com/company/b/vueai/frvlu020gpjrukkfe",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai Revenue 2024: $19M Est., $48.5M Raised - LATKA — Oct 30, 2026 · Vue.ai 2024 estimated revenue: $19M (up from $3.4M in 2023). Total funding: $48.5M across 3 rounds. 35 customers, 30 employees. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/vue",
+    "pass": 3
+   },
+   {
+    "quote": "VUE – Financial Footprint & Growth Factors – 2026 — Discover VUE's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/vue",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.ai – Overview – Funding, Revenue & Growth – 2026 — Get a snapshot of Vue.ai’s estimated revenue of $2M, team of around 20+ employees, operating from Redwood City with market overview and strategic direction.",
+    "url": "https://compworth.com/company/vue-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Vue.js Introduction Series 2｜mai - note（ノート） Vue.js Introduction Part 2: Attribute Binding What is :style? How do I use :class? I will explain these questions gently so that even beginners can understand.",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Fes Japan 2026 Participation Report｜Akkie On Saturday, October 24, 2026, I attended Vue Fes Japan 2026 held at Otemachi Place Hall & Conference. As one of Japan's largest frontend conferences, the venue was filled with excitement even before the opening. I participated using the student support program, and I am deeply grateful not only for ...",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【完全比較】Vue / React / Angular を同じサンプルで理解する超入門 Apr 16, 2026 · フロントエンドの世界には Vue / React / Angular という 3 大フレームワークがあります。 しかし、初心者にとっては「何が違うのか」「どれが簡単なのか」「どう書くのか」が分かりにくいものです。 そこでこの記事では、「ボタンを押したら数字がカウントアップする」という同じサンプルを 3 ...",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】Vue.jsを学ぶおすすめ本7選 モダンなWebフロントエンド... Feb 1, 2026 · WebアプリケーションのUIがより高度化し、表示速度や開発効率の向上が企業の競争力を左右する2026年。Vue.jsは、直感的で学習コストが低く、かつ大規模開発にも耐えうるJavaScriptフレームワークとして、多くの現場で採用され続けています。 私自身、他のフレームワーク経験はあったもののVueは ...",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Vue.js Introduction Series 2｜mai",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.js Introduction Series 2",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Following up on the previous post, I will continue writing about the content of the official Vue tutorial.",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.js Introduction Part 2: Attribute Binding",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is :style? How do I use :class?",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will explain these questions gently so that even beginners can understand.",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is attribute binding?",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue's attribute binding is",
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Fes Japan 2026 Participation Report｜Akkie",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Fes Japan 2026 Participation Report",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On Saturday, October 24, 2026, I attended",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "held at Otemachi Place Hall & Conference.",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As one of Japan's largest frontend conferences, the venue was filled with excitement even before the opening. I participated using the student support program, and I am deeply grateful not only for the ticket support but also for the environment provided to interact with other students and industry professionals.",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have compiled this report to share the atmosphere of the day, the sessions that left an impression, and what I learned.",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Keynote: Evan You on the Frontend in the AI Era",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the keynote by Evan You, the creator of Vue.js and leader of VoidZero, a multifaceted presentation was given on the current state of Vue, its future roadmap, and development environments in the AI era.",
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【完全比較】Vue / React / Angular を同じサンプルで理解する超入門｜oz",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "【完全比較】Vue / React / Angular を同じサンプルで理解する超入門",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "Vue / React / Angular",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、初心者にとっては「何が違うのか」「どれが簡単なのか」「どう書くのか」が分かりにくいものです。",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "そこでこの記事では、「ボタンを押したら数字がカウントアップする」という同じサンプルを 3 つのフレームワークで実装しながら、それぞれのコードを丁寧に解説します。",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "Vue / React / Angular の\"書き方の違い\"が直感的に分かる",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "🟩 1. Vue.js（最も直感的で読みやすい）",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "Vue は HTML に近い書き方で UI を作れるのが特徴です。",
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】Vue.jsを学ぶおすすめ本7選 モダンなWebフロントエンド開発の基礎から応用まで｜EducDrawer",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】Vue.jsを学ぶおすすめ本7選 モダンなWebフロントエンド開発の基礎から応用まで",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   },
+   {
+    "quote": "WebアプリケーションのUIがより高度化し、表示速度や開発効率の向上が企業の競争力を左右する2026年。Vue.jsは、直感的で学習コストが低く、かつ大規模開発にも耐えうるJavaScriptフレームワークとして、多くの現場で採用され続けています。",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   },
+   {
+    "quote": "私自身、他のフレームワーク経験はあったもののVueは初めてで、業務で使うことになったとき大いに戸惑いました。何より厄介だったのは、Vue 2とVue 3、Options APIとComposition API、VuexとPinia、Vue CLIとVite——同じ「Vue」の名のもとに2世代の技術が混在していて、ネットの情報を見ても「どっちの話?」が分からないことでした。古い情報を真似してハマる、新しい情報を真似しようとして自分の手元の環境と違って動かない、を繰り返したのです。何冊もの本に救われて腑に落ちたのは、Vue.jsの本質はコンポーネント指向とリアクティブなデータバインディングによって、複雑なUIをシンプルに保ちながら構築することにある、ということでした。そして大事なのは、自分が学ぶ目的(新規開発か、Vue 2の既存システム保守か)に応じて、正しい世代の本を選ぶことだったのです。",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   },
+   {
+    "quote": "「Vue.jsを業務で使うことになったが、何から手を付ければいいか分からない」",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   },
+   {
+    "quote": "「Options APIからComposition APIへの移行や、モダンなツールチェーンの活用法に悩んでいる」",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   },
+   {
+    "quote": "こういった悩みを抱える人に向けて、私が実際に読んで役立った7冊を、どんな目的の・どんな世代の人に効くのかという視点で厳選しました。手を動かしながら学べるハンズオン入門書から、TypeScriptに対応した実践教科書、Nuxt.jsを含む周辺エコシステムまで揃えています。",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   },
+   {
+    "quote": "教材選びの前提として、現状に触れておきます。Vue 2は2023年12月31日にEOL(End of Life)を迎えており、2026年現在は新規開発でVue 3を選ぶのが事実上の標準です。状態管理はVuexからPiniaへの移行が完了し(Pinia v3はVue 2サポートを打ち切り)、ビルドツールもVue CLIはメンテナンスモード入りでViteが標準、Nuxtもv4が現行になっています(Nuxt 3はEOLが2026年7月31日に延長)。",
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vue (@vuejs) / X Jan 15, 2014 · Vue Plugins is a curated collection of high-quality Vue ecosystem libraries and tools by @jacobandrewsky : vue-plugins.org Check it out!",
+    "url": "https://x.com/vuejs",
+    "pass": 3
+   },
+   {
+    "quote": "Vue (@vuecinemas) / X Home of Big Screen Entertainment. Please contact @VueHelp for customer service.",
+    "url": "https://x.com/VueCinemas",
+    "pass": 3
+   },
+   {
+    "quote": "unovue (@unovue) / X Introducing Vue Charts — a Recharts-inspired charting library for @vuejs If you've ever wanted the Recharts experience in Vue, this one's for you. 📊 Line, bar, area, pie, radar & more Animations powered by Motion for Vue 💚 TypeScript-first, composable API",
+    "url": "https://x.com/unovue",
+    "pass": 3
+   },
+   {
+    "quote": "VUE 视界财经社 | Vista Universal Economy on X: \"Who Is She ... 19 hours ago · VUE 视界财经社 | Vista Universal Economy 全球视野, 聚焦财经 | 追踪宏观经济、国际局势与商业动态 | 关注我们，捕捉市场信号 联系我们: VUE.news.Finance@gmail.com More Articles Join 3,035 followers",
+    "url": "https://x.com/VUE_finance/status/2119818421932286125",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Complete Vue JS Tutorial for Beginners and Developers - LinkedIn Apr 15, 2026 · Vue JS is one of the most popular JavaScript frameworks used for building modern, fast, and interactive web applications. Created by Evan You, Vue focuses on simplicity, flexibility, and performance.",
+    "url": "https://www.linkedin.com/pulse/complete-vue-js-tutorial-beginners-developers-suraj-kumar-bsbpc/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue.js: Creating and Hosting a Full-Stack Site - LinkedInVladimir Adamovic - I design and develop products end-to-end ...Geoffrey Casaubon - Staff Front-End Engineer & Web Architect ...Nazira Torebaeva - Frontend Developer | JavaScript | Vue ...Bharath Kumar - Senior Technical Lead | Vue · Nuxt ...Matjaž Korošec - AI product engineer · Frontend and full ... Mar 7, 2023 · Create and host a full-sta",
+    "url": "https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902",
+    "pass": 3
+   },
+   {
+    "quote": "Vladimir Adamovic - I design and develop products end-to-end ...Geoffrey Casaubon - Staff Front-End Engineer & Web Architect ...Nazira Torebaeva - Frontend Developer | JavaScript | Vue ...Bharath Kumar - Senior Technical Lead | Vue · Nuxt ...Matjaž Korošec - AI product engineer · Frontend and full ... I design and develop products end-to-end | Front-End Developer | Swift, React, Vue | 3 iOS apps l",
+    "url": "https://rs.linkedin.com/in/vladimir-adamovic-215584148",
+    "pass": 3
+   },
+   {
+    "quote": "Nazira Torebaeva - Frontend Developer | JavaScript | Vue ...Bharath Kumar - Senior Technical Lead | Vue · Nuxt ...Matjaž Korošec - AI product engineer · Frontend and full ... Frontend Developer | JavaScript | Vue | React | Top-rated developer @Upwork · 26 y.o. Frontend developer Tech stacks: Frontend: HTML, CSS, Javascript, Bootstrap, JQuery, Vuejs, Reactjs, Vuex, Vue-router, Veevalidate, Nuxtjs, ",
+    "url": "https://uz.linkedin.com/in/nazira-torebaeva",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Vue - FacebookVue Glasses - FacebookVUE magazine | Paducah KY - FacebookVUE | Singapore Singapore - FacebookVue National Association - FacebookThe Vue & Clubhouse Eventspaces | Toronto ON - FacebookFacebook 3 days ago · Vue. 570,437 followers · 5,471 talking about this · 2,035,088 were here. Home of Big Screen Entertainment. Have a customer service question? We have plenty of helpful information o",
+    "url": "https://www.facebook.com/VueCinemas/",
+    "pass": 3
+   },
+   {
+    "quote": "Vue Glasses - FacebookVUE magazine | Paducah KY - FacebookVUE | Singapore Singapore - FacebookVue National Association - FacebookThe Vue & Clubhouse Eventspaces | Toronto ON - FacebookFacebook Mar 13, 2025 · Vue Glasses. 19,144 followers · 747 talking about this. Introducing Vue Lite, the lightest, thinnest smart glasses on the market designed for everyday use. 5 days ago · VUE magazine, Paducah. ",
+    "url": "https://www.facebook.com/VueGlasses/",
+    "pass": 3
+   },
+   {
+    "quote": "VUE magazine | Paducah KY - FacebookVUE | Singapore Singapore - FacebookVue National Association - FacebookThe Vue & Clubhouse Eventspaces | Toronto ON - FacebookFacebook 5 days ago · VUE magazine, Paducah. 27,972 followers · 3,130 talking about this. Promoting Events That Make a Difference VUE, Singapore. 6,986 followers · 22 talking about this · 7,581 were here. #VUEsingapore is the next iconic ",
+    "url": "https://www.facebook.com/vuemagazine/",
+    "pass": 3
+   },
+   {
+    "quote": "VUE | Singapore Singapore - FacebookVue National Association - FacebookThe Vue & Clubhouse Eventspaces | Toronto ON - FacebookFacebook VUE, Singapore. 6,986 followers · 22 talking about this · 7,581 were here. #VUEsingapore is the next iconic rooftop bar and grill destination in Singapore. Sep 30, 2026 · Vue National Association. 1,063 followers · 546 talking about this. Vue National Association i",
+    "url": "https://www.facebook.com/VUEsingapore/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://vue.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/solutions/ai-personalization-engine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/industries/ai-in-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vue.ai/blog/enterprise-ai/vue-ai-moative-partnership-ai-transformation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/hubs/data-hub/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/solutions/data-cleanup-and-organization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/solutions/automated-product-tagging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/solutions/ai-powered-content-moderation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/solutions/audience-builder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/solutions/intelligent-document-processing-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/solutions/ai-lead-generation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/industries/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/industries/ai-in-ecommerce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/industries/ai-in-insurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/industries/ai-in-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/industries/ai-in-healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vue.ai/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vue.ai/solutions/ai-personalization-engine/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markethack.net/technology/frameworks/vue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/00092/items/52d641af8d37e2b07916",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/system/vue-js%E3%81%AE%E5%B0%8E%E5%85%A5-%E9%96%8B%E7%99%BA%E4%BA%8B%E4%BE%8B%E3%82%84%E6%B4%BB%E7%94%A8-%E6%88%90%E5%8A%9F%E4%BA%8B%E4%BE%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.weblio.jp/content/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/VM_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.epam.com/services/client-work/transforming-the-entertainment-experience-with-vue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.searchstax.com/case-studies/how-vue-cinemas-runs-apache-solr-in-production-without-downtime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/vueai/__PfgHzy_k51wkD4m-Zha9wf1r3l1yYY3E4S90UroKUj0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/vueai/frvlu020gpjrukkfe",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/vue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/vue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ample_swan1803/n/n57f77473415c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/educdrawer/n/n5318488e1830",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/vuejs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VueCinemas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/unovue",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VUE_finance/status/2119818421932286125",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/complete-vue-js-tutorial-beginners-developers-suraj-kumar-bsbpc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://rs.linkedin.com/in/vladimir-adamovic-215584148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uz.linkedin.com/in/nazira-torebaeva",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VueCinemas/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VueGlasses/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vuemagazine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VUEsingapore/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vue 日本 導入",
+   "results": [
+    "https://github.com/chibivue-land/japanese-companies-using-vuejs",
+    "https://markethack.net/technology/frameworks/vue",
+    "https://qiita.com/00092/items/52d641af8d37e2b07916",
+    "https://www.ripla.co.jp/blog/system/vue-jsの導入-開発事例や活用-成功事例について/",
+    "https://vuejs-jp.org/about/",
+    "https://qiita.com/Nonaka_Suguru/items/5241452f7609dc37a7f5",
+    "https://vuejs-jp.org/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vue 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.weblio.jp/content/総代理店",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vue Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/VM_JAPAN"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "Vue manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/onyx/case-study/vue-customer-case-study",
+    "https://www.epam.com/services/client-work/transforming-the-entertainment-experience-with-vue",
+    "https://www.searchstax.com/case-studies/how-vue-cinemas-runs-apache-solr-in-production-without-downtime/",
+    "https://www.casestudies.com/company/inmoment/case-study/vue-cinemas-customer-case-study",
+    "https://www.faciletechnolab.com/case-studies/laravel-vue-development-team-for-a-manufacturing-saas-company-in-usa/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Kaseya_CaseStud_VUE_Entertainment_6-29-17A.pdf",
+    "https://www.3xcorp.com/case-studies/koster-keunen"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vue white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://learn.g2.com/what-is-a-partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vue founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/vueai/__PfgHzy_k51wkD4m-Zha9wf1r3l1yYY3E4S90UroKUj0",
+    "https://www.thecompanycheck.com/company/b/vueai/frvlu020gpjrukkfe",
+    "https://getlatka.com/companies/vue",
+    "https://compworth.com/company/vue",
+    "https://compworth.com/company/vue-ai",
+    "https://pitchbook.com/profiles/company/113272-75",
+    "https://www.crunchbase.com/organization/vue-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Vue",
+   "results": [
+    "https://note.com/writing_m/n/n1c71a7b7d4d1?hl=en",
+    "https://note.com/akkie3141/n/n616216640539?hl=en",
+    "https://note.com/ample_swan1803/n/n57f77473415c",
+    "https://note.com/educdrawer/n/n5318488e1830",
+    "https://note.com/aicu/n/n9dabca4d0d1e",
+    "https://note.com/mitsuru_waichan/n/n901dfffd1507",
+    "https://note.com/gadgelog/n/n62fa79a9a7ab"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Vue",
+   "results": [
+    "https://x.com/vuejs",
+    "https://x.com/VueCinemas",
+    "https://x.com/unovue",
+    "https://x.com/VUE_finance/status/2119818421932286125",
+    "https://x.com/VueMastery",
+    "https://x.com/vuetifyjs",
+    "https://x.com/posva"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Vue",
+   "results": [
+    "https://www.linkedin.com/pulse/complete-vue-js-tutorial-beginners-developers-suraj-kumar-bsbpc/",
+    "https://www.linkedin.com/learning/vue-js-creating-and-hosting-a-full-stack-site-21646902",
+    "https://rs.linkedin.com/in/vladimir-adamovic-215584148",
+    "https://uz.linkedin.com/in/nazira-torebaeva",
+    "https://in.linkedin.com/in/bharathkumarakkiraju",
+    "https://ca.linkedin.com/in/geoffrey-casaubon",
+    "https://si.linkedin.com/in/matjazkorosec"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Vue",
+   "results": [
+    "https://www.facebook.com/VueCinemas/",
+    "https://www.facebook.com/VueGlasses/",
+    "https://www.facebook.com/vuemagazine/",
+    "https://www.facebook.com/VUEsingapore/",
+    "https://www.facebook.com/VueNationalAssociation/",
+    "https://www.facebook.com/TheVueandClubhouse/",
+    "https://www.facebook.com/Vue42/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vue note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://vue-note.liangmi.dev/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://github.com/liangmiQwQ/vue-note",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vue X 投稿",
+   "results": [
+    "https://vuex.vuejs.org/zh/guide/",
+    "https://vuex.vuejs.org/",
+    "https://blog.csdn.net/weixin_33600816/article/details/169488903",
+    "https://blog.csdn.net/weixin_34199764/article/details/169488902",
+    "https://zhuanlan.zhihu.com/p/1937098818605776912",
+    "https://juejin.cn/post/6928468842377117709",
+    "https://www.cnblogs.com/xingxia/p/18225247/vue_vuex",
+    "https://v3.vuex.vuejs.org/zh/api/",
+    "https://devpress.csdn.net/v1/article/detail/155087480",
+    "https://www.cnblogs.com/WangEDblog/p/16266356.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

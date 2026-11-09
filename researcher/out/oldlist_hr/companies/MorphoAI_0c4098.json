@@ -1,0 +1,920 @@
+{
+ "name": "MorphoAI",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial design / engineering｜AI送信済み",
+ "researched_at": "2026-11-09T19:24:44.788421+00:00",
+ "official_url": "https://www.morpho.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "MorphoAI builds models for electrical and mechanical hardware design, enabling engineers to develop the next generation of products faster.",
+    "url": "https://morpho.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Message from President",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan – July 10th, 2024 – Morpho AI Solutions, Inc. (hereinafter “Morpho AIS”), which is responsible for the commercialization of AI within the Morpho Group, has been supplying an AI-OCR output service since 2023 for use in generating training data for Japanese LLMs.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "It is proud to report that it has recently been contracted by the Research Organization of Information and Systems and the National Institute of Informatics to develop AI-OCR for Japanese academic papers. Through this project, Morpho AIS will contribute to the development of a domestic LLM with powerful Japanese capabilities, an effort being spearheaded by the National Institute of Informatics.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "On April 1, 2024, the National Institute of Informatics established a new Research and Development Center for Large Language Modelsm",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "The OCR text output service provided by Morpho AIS",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "The AI-OCR output service provided by Morpho AIS is capable of high accuracy text generation, including correctly identifying text reading order, something that commercial OCR products struggle with. Organizations can therefore use their scanned image data to generate diverse and accurate Japanese-language data sets, assisting with the creation of training data for Japanese-language LLMs.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Service Contents, Features, and Track Record",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Digitalization of existing documents (company histories, public relations magazines, public records, meeting minutes, etc.) and conversion into LLM training data",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "- Reproduces the reading order, which is important for LLM input",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "(Tomigusuku City in Okinawa Prefecture, University of Bologna, Juntendo University, Shiga Prefectural Library, etc.)",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "FROG AI-OCR is a single package that combines the high resolution OCR processing of NDLOCR, which makes it easy to perform OCR, with correction and text output functions. All of its functions can be used via the cloud, enabling highly efficient confirmation and correction of output text. FROG AI-OCR uses NDLOCR (",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Related Press Release",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.morphoinc.com/en/news/20231219-epr-mais_ocr",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Morpho AI Solutions is a company engaged in the commercialization of AI (Artificial Intelligence). It promotes the introduction and actual operation of cutting-edge AI technologies, including AI-OCR, in the areas of social infrastructure such as government, electric power, transportation, and manufacturing.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Our models learn from your priod CAD designs, extracting rules, parts and know-how that can be reused across teams.",
+    "url": "https://morpho.ai/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Our team sets up the platform to plug into your CAD, so you never have to leave your systems or geomtry representations.",
+    "url": "https://morpho.ai/platform",
+    "pass": 3
+   },
+   {
+    "quote": "As requirements come in, generate and compare design trade offs in the first 30 mins of the project, not your first design review.",
+    "url": "https://morpho.ai/platform",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI-powered computational design platform designed to accelerate the design of dynamic cyber-physical systems. The company's platform collaborates with robotic automation in manufacturing, logistics, warehousing, healthcare, and other industries, enabling companies to invent machines that they may have previously thought impossible.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Is MorphoAI a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI’s platform uses advanced generative AI models to autonomously create hundreds of machine design candidates based on user inputs.",
+    "url": "https://startupintros.com/orgs/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "Designs are simulated for real-world dynamic behavior and performance metrics, ensuring manufacturability and operational viability before prototyping.",
+    "url": "https://startupintros.com/orgs/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "The software produces ready-to-manufacture designs including CAD files, bills of materials, and control systems.",
+    "url": "https://startupintros.com/orgs/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "Built on foundational research from MIT and Harvard, combining deep academic rigor with commercial practicality.",
+    "url": "https://startupintros.com/orgs/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "hiretop.com/blog4/morphoai-accelerates-robot-development",
+    "url": "https://startupintros.com/orgs/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI has raised $30k across 1 funding round on record, the most recent an undisclosed round of $30k announced in Apr 2026.",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI Company Profile and Key Stats",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "$30k in Apr 2026",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2026",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 17, 2026",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HELIOS® is a technology company that assists athletes and teams in improving at a quicker pace. Through their…",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence is a comprehensive robotics and automation company designed to assist contract packagers.…",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "An AI startup that builds custom AI models and \"Specific Intelligence\" solutions for enterprises.",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Serval provides an AI-native IT service management platform designed to automate help desk operations, access…",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ravical assists skilled firms in adopting an AI-focused approach for the future. We create AI solutions that…",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Broccoli provides automated phone support solutions for plumbing, HVAC, and electrical businesses, enabling…",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI has raised $30k across 1 round on record. The most recent is an undisclosed round of $30k announced in Apr 2026.",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI's most recent funding round on record is an undisclosed round of $30k, announced in Apr 2026.",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Morpho AI Solutions is a company engaged in the commercialization of AI (Artificial Intelligence). It promotes the introduction and actual operation of cutting-edge AI technologies, including AI-OCR, in the areas of social infrastructure such as government, electric power, transportation, and manufacturing.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing-aware aseembly design",
+    "url": "https://morpho.ai/platform",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI-powered computational design platform designed to accelerate the design of dynamic cyber-physical systems. The company's platform collaborates with robotic automation in manufacturing, logistics, warehousing, healthcare, and other industries, enabling companies to invent machines that they may have previously thought impossible.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo, Japan – July 10th, 2024 – Morpho AI Solutions, Inc. (hereinafter “Morpho AIS”), which is responsible for the commercialization of AI within the Morpho Group, has been supplying an AI-OCR output service since 2023 for use in generating training data for Japanese LLMs.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "It is proud to report that it has recently been contracted by the Research Organization of Information and Systems and the National Institute of Informatics to develop AI-OCR for Japanese academic papers. Through this project, Morpho AIS will contribute to the development of a domestic LLM with powerful Japanese capabilities, an effort being spearheaded by the National Institute of Informatics.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Morpho AIS was contracted by the LLM R&D center to develop AI-OCR functions for identifying the layouts unique to Japanese academic papers and to extract the text from their main bodies. This will contribute to the generation of a large amount of high quality Japanese-language text data, which is essential for the creation of an LLM in Japan.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "The AI-OCR output service provided by Morpho AIS is capable of high accuracy text generation, including correctly identifying text reading order, something that commercial OCR products struggle with. Organizations can therefore use their scanned image data to generate diverse and accurate Japanese-language data sets, assisting with the creation of training data for Japanese-language LLMs.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Morpho AI Solutions Launches Japanese-language Dataset Generation Service for LLMs",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "or contact contact@morphoai.com.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the MorphoAI team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Morpho AI Solutions, Inc. | Chiyoda-ku, Kanda, Tokyo,Japan — Morpho AI Solutions, Inc. provides AI-OCR and AI camera application services, as well as contract development utilizing image AI and consulting services for the utilization of generative AI. The company prides itself on its ability to develop and implement cutting-edge technologies from overseas with a sense of urgency.",
+    "url": "https://www.morphoai.com/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Morpho AI Solutions Contracted by National Institute of ... — Jul 10, 2024 · Tokyo, Japan – July 10th, 2024 – Morpho AI Solutions, Inc. (hereinafter “Morpho AIS”), which is responsible for the commercialization of AI within the Morpho Group, has been supplying an AI-OCR output service since 2023 for use in generating training data for Japanese LLMs.",
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Profile | Morpho, IncAIサービス紹介 | 画像解析/画像処理を活用したAI開発ベンチャー企業 ...Morpho, IncMorphoAI: Hardware Foundation ModelsMorphoAI: Hardware Foundation Models転倒検知＆人流分析AIカメラ_Duranta — May 26, 2004 · Research and product development for AI (artificial intelligence) and image processing technologies. Expanding software business globally for smart devices, automotive/mobility and DX. モルフォAIソリューションズでは、AIカメ",
+    "url": "https://www.morphoinc.com/en/company/info",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI: Hardware Foundation Models — MorphoAI builds models for electrical and mechanical hardware design, enabling engineers to develop the next generation of products faster.",
+    "url": "https://morpho.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Morpho AI Solutions, Inc. | Chiyoda-ku, Kanda, Tokyo,Japan — Providing AI as a social infrastructure, Morpho AI Solutions will realize a safe, secure, and comfortable world. We are developing optimal AI solutions in collaboration with the Morpho companies and other partners.",
+    "url": "https://www.morphoai.com/?lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI: Hardware Foundation Models — Reuse prior designs Our models learn from your priod CAD designs, extracting rules, parts and know-how that can be reused across teams.",
+    "url": "https://morpho.ai/platform",
+    "pass": 3
+   },
+   {
+    "quote": "転倒検知＆人流分析AIカメラ_Duranta — カメラでAI処理した後、結果をカメラから直接スタッフへ転送。 個人情報に配慮した情報だけをサーバーに転送することが可能。 映像に対して2つのモデルの出し分けを実現。 体調不良を検知し、アラート発報の前後をレコードに記録。 どちらもご用意ございます。 お選びください。 下記フォームよりお問い合わせください。 当社よりご返信させていただきます。 contact@morphoai.com までご連絡ください。",
+    "url": "https://duranta.morphoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI - LinkedIn — MorphoAI is an AI-powered computational design platform that is building hardware foundation models that plug into CAD to help automate the cumbersome tasks of mechanical engineering.",
+    "url": "https://www.linkedin.com/company/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for MorphoAI. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2024 by Ayna Arora and Andrew “Andy” Spielberg, both manufacturing technology experts and MIT PhDs with deep academic roots at Harvard and MIT CSAIL, MorphoAI emerged from pioneering research on generative AI and optimization algorithms applied to machine design.",
+    "url": "https://startupintros.com/orgs/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI: Funding, Investors & Team (Nov 2026) | FundedIQ — MorphoAI is an Artificial Intelligence company in Cambridge, United States. Raised $30k across 1 round; latest round Apr 2026. Investors and funding history.",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI Funding: $3.6M | Indexed.vc — MorphoAI is an Artificial Intelligence company based in New York, United States, founded in 2024. It has raised $3.6M in total across 2 rounds, most recently a $500K Seed round in Jun 2025.",
+    "url": "https://indexed.vc/companies/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI Revenue 2025: $440K Est. - getlatka.com — Aug 10, 2026 · MorphoAI is a 3D Design Software company based in the United States, founded in 2025.",
+    "url": "https://getlatka.com/companies/morphoai.com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI has 9 total employees.",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "What is MorphoAI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for MorphoAI is",
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does MorphoAI have?",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces.",
+    "url": "https://startupintros.com/orgs/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Morpho AI Solutions (@MorphoAIS) / Posts / X モルフォAIS＆FastLabel共催セミナー | 画像解析/画像処理を活用したAI開発ベンチャー企業 | Morpho AI Solutions, Inc. www.morphoai.com",
+    "url": "https://x.com/morphoais",
+    "pass": 3
+   },
+   {
+    "quote": "MorphoAI (@morphingfuture) / X @morphingfuture hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/morphingfuture",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by MorphoAI (@morphingfuture) / X @morphingfuture hasn’t reposted When they repost, those posts will show up here.",
+    "url": "https://x.com/morphingfuture/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Morpho AI Solutions (@MorphoAIS) / Posts / X May 13, 2022 · 📢2月4日開催 #国土交通省 ピッチイベント「河川ポンプ設備を対象とした故障予兆検知・寿命予測AIの開発促進」に当社社員が登壇します🗣️ #MorphoAIS #AI #検知 morphoai.com/_files/ugd/c48…",
+    "url": "https://x.com/morphoais",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MorphoAI - LinkedIn MorphoAI is an AI-powered computational design platform that is building hardware foundation models that plug into CAD to help automate the cumbersome tasks of mechanical engineering.",
+    "url": "https://www.linkedin.com/company/morphoai",
+    "pass": 3
+   },
+   {
+    "quote": "Ayna Arora - CEO MorphoAI | Harvard | YC X25 | Forbes 30u30 ...Thorin F. - Founding ML Engineer | MorphoAI | LinkedInShervin Rasoulzadeh - Founding Engineer at MorphoAI | LinkedInMorphoAI: AI for robotics and machine engineering design | Y ...Andrew Spielberg - Assistant Professor of ECE at Carnegie ...Arnav Joshi - Founding Engineer at MorphoAI | LinkedIn CEO MorphoAI | Harvard | YC X25 | Forbes ",
+    "url": "https://www.linkedin.com/in/aynaarora",
+    "pass": 3
+   },
+   {
+    "quote": "Thorin F. - Founding ML Engineer | MorphoAI | LinkedInShervin Rasoulzadeh - Founding Engineer at MorphoAI | LinkedInMorphoAI: AI for robotics and machine engineering design | Y ...Andrew Spielberg - Assistant Professor of ECE at Carnegie ...Arnav Joshi - Founding Engineer at MorphoAI | LinkedIn Founding ML Engineer | MorphoAI · Experience: MorphoAI · Education: University of Surrey · Location: Lon",
+    "url": "https://uk.linkedin.com/in/thorin-f-13462b142",
+    "pass": 3
+   },
+   {
+    "quote": "Shervin Rasoulzadeh - Founding Engineer at MorphoAI | LinkedIn Founding Engineer at MorphoAI · My PhD research centres on the intersection of geometric deep learning and physics-informed neural models, with 3D design modeling and simulation as the driving...",
+    "url": "https://uk.linkedin.com/in/shervin-rasoulzadeh",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Morpho Ai (@themorphoai) • Facebook, Connect with friends The Morpho Ai is on Facebook. Join Facebook to connect with The Morpho Ai and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/themorphoai/",
+    "pass": 3
+   },
+   {
+    "quote": "Les - #darkangel Art by MorphoAI ... - Facebook Nov 25, 2025 · #darkangel🖤💫Art by MorphoAI 💗🌹😇🎇 #fantasyartangel #aibeauty #angel #magic #AI #angelicpretty",
+    "url": "https://www.facebook.com/photo/?fbid=1270799251746387",
+    "pass": 3
+   },
+   {
+    "quote": "Les - Art by MorphoAI #fantasyartangel #aibeauty # ... Nov 22, 2025 · Les Anges de Jade Nov 22, 2025 · Mobile uploads Art by MorphoAI 💙🥀🖤😇🎇💎💫 #fantasyartangel #aibeauty #angel #fantasyart #magic Felix Cruz and 213 others 214 7",
+    "url": "https://www.facebook.com/photo/?fbid=1268437841982528",
+    "pass": 3
+   },
+   {
+    "quote": "Morpho - FacebookLes - Art by MorphoAI #fantasyartangel # ... - FacebookEveryone is talking about AI. We're talking about the printer ... Morpho. 5,730 followers · 1 talking about this. Tienda Virtual 曆 Skincare, maquillaje y accesorios ♥︎ Hacemos envíos a todo el país 珞 Pedidos mediante nuestras redes sociales ️ Nov 22, 2025 · Art by MorphoAI 🖤🥀💙🎇💗😇💫 #fantasyartangel #aibeauty #angel #whitehair #",
+    "url": "https://www.facebook.com/morphotica/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://morpho.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.morphoai.com/?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://duranta.morphoai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morphoinc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A2%E3%82%B2%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morphoinc.com/en/company/info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morpho.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morphoai.com/?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://morpho.ai/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morphoinc.com/en/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morpho.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morphomfg.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/morphoai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.microsoft.com/en-us/partner-center/enroll/enroll-as-indirect-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thepartnermasters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/679527-73",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/morphoai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/morphoai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/morphoais",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morphingfuture",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morphingfuture/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/morphoai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aynaarora",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/thorin-f-13462b142",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/shervin-rasoulzadeh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/themorphoai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/photo/?fbid=1270799251746387",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/photo/?fbid=1268437841982528",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/morphotica/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/morphoais",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/morphoai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MorphoAI 日本 導入",
+   "results": [
+    "https://www.morphoai.com/?lang=en",
+    "https://duranta.morphoai.com/",
+    "https://www.morphoinc.com/",
+    "https://www.morphoinc.com/en/news/20240710-epr-mais_aiocr",
+    "https://www.morphoai.com/product?lang=en",
+    "https://prtimes.jp/main/html/rd/p/000000107.000064140.html",
+    "https://prtimes.jp/main/html/rd/p/000000130.000064140.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MorphoAI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/キアゲン",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smartmore.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MorphoAI Japan",
+   "results": [
+    "https://www.morphoinc.com/en/company/info",
+    "https://morpho.ai/",
+    "https://www.morphoai.com/?lang=en",
+    "https://morpho.ai/platform",
+    "https://duranta.morphoai.com/",
+    "https://www.morphoai.com/product?lang=en",
+    "https://www.morphoinc.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MorphoAI manufacturing customer case study",
+   "results": [
+    "https://www.morphoinc.com/en/case",
+    "https://morpho.ai/",
+    "https://morphomfg.com/",
+    "https://www.linkedin.com/company/morphoai",
+    "https://morphomfg.com/case-studies/",
+    "https://www.morphoinc.com/en/case/smartdevice",
+    "https://morpho.ai/platform"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MorphoAI white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.microsoft.com/en-us/partner-center/enroll/enroll-as-indirect-reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://thepartnermasters.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MorphoAI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/679527-73",
+    "https://startupintros.com/orgs/morphoai",
+    "https://fundediq.co/morphoai-morpho-ai-funding/",
+    "https://indexed.vc/companies/morphoai",
+    "https://getlatka.com/companies/morphoai.com",
+    "https://www.crunchbase.com/organization/morphoai",
+    "https://seedtable.com/companies/morphoai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MorphoAI",
+   "results": [
+    "https://note.com/asahikigyou/n/n5f67fce8bb8c?hl=en",
+    "https://note.com/tonsonk/n/ncb1af751eea6?hl=en",
+    "https://note.com/144292/n/n747963612a64?hl=en",
+    "https://note.com/sokyokutei/n/n267e8944012f?hl=en",
+    "https://note.com/tatsuya_sabato/n/n68b9ac29307e?hl=en",
+    "https://note.com/open_azalea2045/n/n514c004117fe?hl=en",
+    "https://note.com/mendokusai_dev/n/na8203c996e52?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MorphoAI",
+   "results": [
+    "https://x.com/morphoais",
+    "https://x.com/morphingfuture",
+    "https://x.com/morphingfuture/reposts",
+    "https://x.com/Morpho/status/2041901266213929054",
+    "https://x.com/morpho_ai",
+    "https://x.com/morpho/status/2042233650880848061",
+    "https://x.com/Morpho/status/2042588495571751156"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MorphoAI",
+   "results": [
+    "https://www.linkedin.com/company/morphoai",
+    "https://www.linkedin.com/in/aynaarora",
+    "https://uk.linkedin.com/in/thorin-f-13462b142",
+    "https://uk.linkedin.com/in/shervin-rasoulzadeh",
+    "https://www.linkedin.com/posts/y-combinator_morphoai-is-aipowered-software-for-robotics-activity-7326652180373864448-RCSr",
+    "https://www.linkedin.com/in/arnav-joshi",
+    "https://www.linkedin.com/in/andrew-spielberg-82073926a"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MorphoAI",
+   "results": [
+    "https://www.facebook.com/themorphoai/",
+    "https://www.facebook.com/photo/?fbid=1270799251746387",
+    "https://www.facebook.com/photo/?fbid=1268437841982528",
+    "https://www.facebook.com/morphotica/",
+    "https://www.facebook.com/siteangeljade/photos/art-by-morphoai-fantasyartangel-aibeauty-angel-whitehair-ai-magic-fantasyart/1268430211983291/",
+    "https://www.facebook.com/p/Morpho-61587283061999/",
+    "https://www.facebook.com/61587283061999/videos/2132241887324445/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MorphoAI note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MorphoAI X 投稿",
+   "results": [
+    "https://x.com/morphoais",
+    "https://morpho.ai/",
+    "https://www.linkedin.com/company/morphoai",
+    "https://github.com/morphoai",
+    "https://www.instagram.com/anymorphous_/",
+    "http://morphoai.tech/",
+    "https://www.morphoai.com/?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

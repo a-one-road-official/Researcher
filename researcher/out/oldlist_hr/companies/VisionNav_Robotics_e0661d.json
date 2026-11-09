@@ -1,0 +1,1855 @@
+{
+ "name": "VisionNav Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-09T19:56:17.454517+00:00",
+ "official_url": "https://www.visionnav.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$191,000",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$75,700,000",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "30 North Dr SE, Atlanta, Georgia 30102, US",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Explore a full lineup of autonomous industrial vehicles designed for efficiency, precision, and scalability.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Four-Layer Precision Stacking: Automated Cage Handling for Automotive Parts Manufacturing",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how the VisionNav VNP15 automates 4-layer cage stacking for a leading automotive parts manufacturer using 3D SLAM navigation, AI-powered stack verification, and precision servo control",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The client is a globally renowned beverage manufacturing company with a production base in Central China. They aimed to implement VisionNav's self-developed VNP15 counterbalance autonomous forklift, VNR16 reach-type autonomous forklift, and RCS2.0 centra",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Riding the wave of digital transformation, the client actively prepares for the future by expanding technical capabilities and strengthening their competitive edge.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This project involves a publicly listed company specializing in biomedical repair materials within the medical aesthetics manufacturing sector, with a site that includes inbound and outbound docking stations as well as cold storage zones.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This case study details the successful implementation of VisionNav Robotics solutions at a prominent pharmaceutical manufacturing enterprise. The client, a major publicly traded group, focuses primarily on the production of antibiotics. The operational s",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless Integration of Production Lines – a New Workshop Logistics Ecosystem",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This project was implemented in one of the plant's workshops, which houses multiple conveyor lines handling materials of various types and specifications. The client sought to introduce VisionNav's automated internal logistics solution to achieve unmanne",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can AGVs Handle Different Pallet Types, Cages, and Nonstandard Loads?",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Forklift ROI: 4 Workforce Metrics Beyond Labor Savings",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "picks up the goods on the ground and transports them to the designated position on the production line.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To meet the challenges of labor shortages and improve the working practices of more than",
+    "url": "https://www.visionnav.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "As the business volume of 3PL enterprises burgeons, a strategic focus on internal cargo transfer efficiency, operational cost reduction, and heightened customer satisfaction drives the adoption of intralogistics automation solutions.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our client's warehouse shelves include cantilever racks and drive-in racks, with drive-in racks being over 4.5 meters in height, following the principle of advanced goods out first, requiring autonomous forklifts to enter the racks for cargo access, with high requirements for perception and control accuracy of autonomous forklifts.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "By minimizing labor input and error rates, warehouse operating costs are effectively managed, promising substantial long-term economic benefits.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Satisfaction Improvement:",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "The precision and timeliness of logistics operations have improved significantly, augmenting the enterprise's market reputation.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "With the continuous advancement of technology and the continuous development of the market, it is believed that more 3PL enterprises will join the ranks of automation transformation. VisionNav is willing to work with them to promote the transformation and upgrading of intralogistics in the 3PL industry.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics Joins Hands With 3PL Enterprise to Create a New Benchmark in Smart Logistics Field",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Logistics - Production Line Transfer",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Provides Tupperware with Long-distance Automated Material Delivery Between Production Lines and Different Floors",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Can AGVs Handle Different Pallet Types, Cages, and Nonstandard Loads?",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Forklift ROI: 4 Workforce Metrics Beyond Labor Savings",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics Launches Industry's First Autonomous Precision Stacking System for Cages up to 8.8-Feet in Width, Reaching Heights up to 22 Feet",
+    "url": "https://www.visionnav.com/news/companynews",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav's Cutting-Edge VNST20PRO Pallet Stacker Wows at LogiMAT 2024!",
+    "url": "https://www.visionnav.com/news/companynews",
+    "pass": 1
+   },
+   {
+    "quote": "To meet the challenges of labor shortages and improve the working practices of more than",
+    "url": "https://www.visionnav.com/about/index71.html",
+    "pass": 1
+   },
+   {
+    "quote": "Product | North America | Social Recruitment | 2026.03.31",
+    "url": "https://www.visionnav.com/about/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions | North America | Social Recruitment | 2026.03.31",
+    "url": "https://www.visionnav.com/about/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Project Manager",
+    "url": "https://www.visionnav.com/about/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Project | North America | Social Recruitment | 2026.03.31",
+    "url": "https://www.visionnav.com/about/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Project Application Engineer",
+    "url": "https://www.visionnav.com/about/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "implementation of AGV project, the installation and debugging of robot automation.This is a",
+    "url": "https://www.visionnav.com/about/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "R&D | North America | Social Recruitment | 2026.03.31",
+    "url": "https://www.visionnav.com/about/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Click here to see the Case Study video.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav provides a comprehensive solution, including:",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Material Feeding Process: When materials are manually moved to the temporary storage area, the intelligent monitoring system detects inventory changes and triggers a feeding task, carried out by the AMR robot. The VNP15 Autonomous Pallet Stacker is dispatched to pick up stacked boxes (three layers per stack) and transport them to the inbound buffer zone.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "The auto parts logistics industry is continually evolving and is crucial for the automotive sector's growth. VisionNav is dedicated to developing and implementing intelligent logistics solutions. By helping clients build smart logistics warehouses, VisionNav enables efficient, intelligent operations across multiple production processes, achieving comprehensive and advanced lean production.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Four-Layer Precision Stacking: Automated Cage Handling for Automotive Parts Manufacturing",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics Helps Equipment Manufacturing Plant Boost Productivity with Better Connectivity",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Can AGVs Handle Different Pallet Types, Cages, and Nonstandard Loads?",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Forklift ROI: 4 Workforce Metrics Beyond Labor Savings",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation: The automated system was deployed in a production workshop planned with areas for temporary storage of finished products, packaging materials, and empty pallet recycling, all separated by automatic rolling doors.",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Finished Product Offloading: After robotic stacking, finished products are transported to the end of the conveyor line where the VNP15 autonomous forklift picks them up and transfers them to the storage area",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Packaging Material Loading: Packaging personnel deliver materials to the connection point and issue a loading request. The VNSL14 autonomous forklift picks up the materials from the connection point and transfers them to the corresponding production line, passing through multiple automatic rolling doors.",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Empty Pallet Recycling: Manual workers collect and stack empty pallets from the production line (5 per group). Once stacked, the VNSL14 autonomous forklift picks up the empty pallets and transports them to the storage area.",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Outcome and Future Prospects:",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "The collaboration has set a benchmark in the industry, showcasing the potential of intelligent automation in enhancing operational efficiencies and supporting sustainable practices. VisionNav Robotics continues to innovate, aiming to expand these solutions to more enterprises within the food sector to help them navigate the challenges of modern food production and distribution.",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics remains dedicated to advancing the food industry's journey towards automation, promoting a shift to more intelligent, efficient, and environmentally friendly operations.",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "FMCG - Production Line Transfer",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient operation, visionnav escorts food processors",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Can AGVs Handle Different Pallet Types, Cages, and Nonstandard Loads?",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Forklift ROI: 4 Workforce Metrics Beyond Labor Savings",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Home appliance - Production Line Transfer",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "The home appliance industry is a crucial sector, closely tied to the daily lives and experiences of people. Thanks to advancements in big data, cloud computing, and artificial intelligence, this industry is embracing digital transformation, using smart technology to boost efficiency across the entire production and sales chain.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we present a case study on VisionNav Robotics' implementation in the home manufacturing sector.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "company with multiple R&D centers and high-end intelligent manufacturing facilities worldwide. They focus on the development, production, and sale of smart home products, with a product line covering smart kitchen appliances, bathroom fittings, hardware, and more.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "Riding the wave of digital transformation, the client actively prepares for the future by expanding technical capabilities and strengthening their competitive edge. At this production base, they implemented VisionNav Robotics' internal logistics automation solution to enable automated material transfers and digitized inventory management.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "After products are finished, they enter the packaging area. Once packaged, materials follow one of three paths: direct storage, awaiting further processing, or post-processing storage. The client integrated multiple VNST20 pallet-handling AGVs and an RCS central control system to automate these processes.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "Finished Product Storage:",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automated handling of a wide variety of goods in factories and warehousing industries, including",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a full lineup of autonomous industrial vehicles designed for efficiency, precision, and scalability.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Four-Layer Precision Stacking: Automated Cage Handling for Automotive Parts Manufacturing",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how the VisionNav VNP15 automates 4-layer cage stacking for a leading automotive parts manufacturer using 3D SLAM navigation, AI-powered stack verification, and precision servo control",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The client is a globally renowned beverage manufacturing company with a production base in Central China. They aimed to implement VisionNav's self-developed VNP15 counterbalance autonomous forklift, VNR16 reach-type autonomous forklift, and RCS2.0 centra",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics Redefines Excellence in Food Manufacturing Automation",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how VisionNav Robotics is revolutionizing food manufacturing automation with cutting-edge AMRs and innovative solutions, driving efficiency, safety, and quality to new heights.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Warehouse Logistics with VNL Autonomous Pallet Stackers",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Automation: VisionNav Robotics Supports Home Appliance Manufacturing with Automated Material Transfer",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This project involves a publicly listed company specializing in biomedical repair materials within the medical aesthetics manufacturing sector, with a site that includes inbound and outbound docking stations as well as cold storage zones.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: VisionNav Robotics Drives Efficiency in Pharmaceutical Logistics for a Listed Manufacturing Company",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This case study details the successful implementation of VisionNav Robotics solutions at a prominent pharmaceutical manufacturing enterprise. The client, a major publicly traded group, focuses primarily on the production of antibiotics. The operational s",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Partners With 3PL Giant to Revolutionize Warehouse Logistics Automation",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AGV Transport Case Study | VisionNav Empowers 3PL Industry with Intralogistics Automation Solution",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-AGV System + Automated Storage Helps Leading Cable Manufacturer Build a Smart Warehouse",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To support the customer's long-term growth, VisionNav Robotics designed and deployed a fully integrated warehouse automation solution that combines autonomous forklifts, automated storage, intelligent conveyors, and fleet management software into a seaml",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless Integration of Production Lines – a New Workshop Logistics Ecosystem",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This project was implemented in one of the plant's workshops, which houses multiple conveyor lines handling materials of various types and specifications. The client sought to introduce VisionNav's automated internal logistics solution to achieve unmanne",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A Leading Global Supplier Of Autonomous Industrial Vehicles And logistics Automation Solutions",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AGV for Manufacturing: Is It Worth the Investment? Benefits, Applications, and Challenges",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "picks up the goods on the ground and transports them to the designated position on the production line.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Partners with Global 3PL Leaders to Revolutionize Warehouse Logistics Automation",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Partners With 3PL Giant to Revolutionize Warehouse Logistics Automation",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our client's warehouse shelves include cantilever racks and drive-in racks, with drive-in racks being over 4.5 meters in height, following the principle of advanced goods out first, requiring autonomous forklifts to enter the racks for cargo access, with high requirements for perception and control accuracy of autonomous forklifts.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation of sustainable warehouse logistics systems has markedly enhanced operational efficiency while significantly reducing operating costs:",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse automation has bolstered cargo handling and inbound/outbound efficiency, elevating warehouse operational efficiency by nearly 20%.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "By minimizing labor input and error rates, warehouse operating costs are effectively managed, promising substantial long-term economic benefits.",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGV Transport Case Study | VisionNav Empowers 3PL Industry with Intralogistics Automation Solution",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Go Sustainable in Your Warehouse? Not a Dream",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Logistics - Production Line Transfer",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Provides Tupperware with Long-distance Automated Material Delivery Between Production Lines and Different Floors",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGV for Manufacturing: Is It Worth the Investment? Benefits, Applications, and Challenges",
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Mobile Robots Companies｜Automated Guided Vehicle Manufacturers｜Vision",
+    "url": "https://www.visionnav.com/about/index71.html",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive - Material Stacking",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Auto parts logistics is a complex but essential part of the automotive supply chain, managing the flow of raw materials, parts, vehicles, and aftermarket components. This case study highlights how VisionNav transformed a leading auto parts logistics company with its advanced automation solutions.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Click here to see the Case Study video.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "RCS (Robot Control System): Integrated with the client's WMS (Warehouse Management System) to synchronize equipment data with logistics information.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "The auto parts logistics industry is continually evolving and is crucial for the automotive sector's growth. VisionNav is dedicated to developing and implementing intelligent logistics solutions. By helping clients build smart logistics warehouses, VisionNav enables efficient, intelligent operations across multiple production processes, achieving comprehensive and advanced lean production.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Four-Layer Precision Stacking: Automated Cage Handling for Automotive Parts Manufacturing",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive - Indoor Horizontal Transportation",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics Helps Equipment Manufacturing Plant Boost Productivity with Better Connectivity",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "What More can Logistics Automation Bring to Automotive Industry?",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGV for Manufacturing: Is It Worth the Investment? Benefits, Applications, and Challenges",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics Redefines Excellence in Food Manufacturing Automation",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Leading Global Food and Beverage Manufacturer:",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Industry: Food and Beverage Manufacturing",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Packaging Material Loading: Packaging personnel deliver materials to the connection point and issue a loading request. The VNSL14 autonomous forklift picks up the materials from the connection point and transfers them to the corresponding production line, passing through multiple automatic rolling doors.",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Empty Pallet Recycling: Manual workers collect and stack empty pallets from the production line (5 per group). Once stacked, the VNSL14 autonomous forklift picks up the empty pallets and transports them to the storage area.",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "FMCG - Production Line Transfer",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Food Manufacturing: VisionNav's Pioneering Journey into the Age of Intelligence",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "AGV for Manufacturing: Is It Worth the Investment? Benefits, Applications, and Challenges",
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "pass": 1
+   },
+   {
+    "quote": "Global Automation: VisionNav Robotics Supports Home Appliance Manufacturing with Automated Material Transfer",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "Home appliance - Production Line Transfer",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we present a case study on VisionNav Robotics' implementation in the home manufacturing sector.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "company with multiple R&D centers and high-end intelligent manufacturing facilities worldwide. They focus on the development, production, and sale of smart home products, with a product line covering smart kitchen appliances, bathroom fittings, hardware, and more.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "The home manufacturing logistics system must be highly flexible and scalable to meet varying production demands. The Future Robotics RCS system integrates with the client's MES system, adapting easily to changes in order volume, product types, and production line adjustments.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "By combining home manufacturing with automated internal logistics, the client achieves production automation, enhances productivity per employee, and drives the intelligent transformation of the home manufacturing sector.",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming Warehouse Logistics with VNL Autonomous Pallet Stackers",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics Keeps Challenging Outdoor Loading Scene —— Deep Dive into the Household Appliance Manufacturing Industry",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   },
+   {
+    "quote": "Cooperation With Home Appliances Factory GREE To Realize Warehousing Automation",
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This project involves a publicly listed company specializing in biomedical repair materials within the medical aesthetics manufacturing sector, with a site that includes inbound and outbound docking stations as well as cold storage zones.",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: VisionNav Robotics Drives Efficiency in Pharmaceutical Logistics for a Listed Manufacturing Company",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "finishes the high level putaway and picking between the narrow racks , it can break through the 11m high b",
+    "url": "https://www.visionnav.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto parts logistics is a complex but essential part of the automotive supply chain, managing the flow of raw materials, parts, vehicles, and aftermarket components. This case study highlights how VisionNav transformed a leading auto parts logistics company with its advanced automation solutions.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Material Feeding Process: When materials are manually moved to the temporary storage area, the intelligent monitoring system detects inventory changes and triggers a feeding task, carried out by the AMR robot. The VNP15 Autonomous Pallet Stacker is dispatched to pick up stacked boxes (three layers per stack) and transport them to the inbound buffer zone.",
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "pass": 1
+   },
+   {
+    "quote": "Manual forklifts and traditional material handling equipment continue to play important roles, but repetitive transport tasks can create bottlenecks, introduce variability, and divert skilled employees from higher-value work.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing operations depend on materials arriving at the right location at the right time.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "One of the most common misconceptions about manufacturing automation is that its primary purpose is replacing employees.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "These movements may involve transferring containers, pallets, or specialized carriers between machines and departments.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "4. Automotive Cage and Specialized Carrier Handling",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive and industrial manufacturing facilities frequently use metal cages, custom racks, bins, and other specialized load carriers.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automating these applications requires careful evaluation of load geometry, weight distribution, fork entry points, stacking tolerances, and carrier variability.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automation of specialized carrier movements, improved storage utilization, and reduced repetitive handling.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Materials may arrive on different pallet types, metal cages, specialized racks, or carriers with inconsistent positioning.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Testing with actual production carriers is particularly valuable before deployment.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Load dimensions, weight distribution, carrier condition, positioning tolerances, and required handling precision.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing AGVs changes how materials move throughout a facility and how employees interact with equipment.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Involving employees early in the planning process can help identify practical workflow challenges and improve adoption.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate real production carriers, aisle dimensions, floor conditions, and workflow variability.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics develops autonomous material handling solutions for manufacturing and industrial logistics applications, including pallet transportation, production line replenishment, specialized carrier handling, high-level stacking, and trailer operations.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav also offers application-specific demonstrations, allowing manufacturers to evaluate automation workflows using their own load carriers and operating requirements before deployment.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "An AGV, or automated guided vehicle, is a driverless industrial vehicle used to transport materials within manufacturing facilities. AGVs automate tasks such as pallet transportation, production line replenishment, finished goods handling, and specialized carrier movement.",
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manual forklifts and traditional material handling equipment continue to play important roles, but repetitive transport tasks can create bottlenecks, introduce variability, and divert skilled employees from higher-value work.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing operations depend on materials arriving at the right location at the right time.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "One of the most common misconceptions about manufacturing automation is that its primary purpose is replacing employees.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "These movements may involve transferring containers, pallets, or specialized carriers between machines and departments.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "4. Automotive Cage and Specialized Carrier Handling",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive and industrial manufacturing facilities frequently use metal cages, custom racks, bins, and other specialized load carriers.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Automating these applications requires careful evaluation of load geometry, weight distribution, fork entry points, stacking tolerances, and carrier variability.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Automation of specialized carrier movements, improved storage utilization, and reduced repetitive handling.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Materials may arrive on different pallet types, metal cages, specialized racks, or carriers with inconsistent positioning.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Testing with actual production carriers is particularly valuable before deployment.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Load dimensions, weight distribution, carrier condition, positioning tolerances, and required handling precision.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing AGVs changes how materials move throughout a facility and how employees interact with equipment.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Involving employees early in the planning process can help identify practical workflow challenges and improve adoption.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate real production carriers, aisle dimensions, floor conditions, and workflow variability.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav Robotics develops autonomous material handling solutions for manufacturing and industrial logistics applications, including pallet transportation, production line replenishment, specialized carrier handling, high-level stacking, and trailer operations.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "VisionNav also offers application-specific demonstrations, allowing manufacturers to evaluate automation workflows using their own load carriers and operating requirements before deployment.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "An AGV, or automated guided vehicle, is a driverless industrial vehicle used to transport materials within manufacturing facilities. AGVs automate tasks such as pallet transportation, production line replenishment, finished goods handling, and specialized carrier movement.",
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "pass": 1
+   },
+   {
+    "quote": "There are a wide variety of finished parts and components on the project site, corresponding to different types of vehicles. Autonomous forklifts must identify the carriers' size and adjust the fork adaptively to match different types of carriers.",
+    "url": "https://www.visionnav.com/application/detail126.html",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier No. 1",
+    "url": "https://www.visionnav.com/application/detail126.html",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier No. 2",
+    "url": "https://www.visionnav.com/application/detail126.html",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier No. 3",
+    "url": "https://www.visionnav.com/application/detail126.html",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier No. 4",
+    "url": "https://www.visionnav.com/application/detail126.html",
+    "pass": 1
+   },
+   {
+    "quote": "The VisionNav Slim, T, L, ST, and other series of autonomous forklifts achieve point-to-point horizontal transport processes. They can operate in narrow aisles and densely packed line warehouses. By incorporating high-precision sensing and servo control technologies, these autonomous forklifts can recognize carriers of different sizes and specifications, enabling efficient and stable operations.",
+    "url": "https://www.visionnav.com/application/detail142.html",
+    "pass": 1
+   },
+   {
+    "quote": "The R series AGV forklift finishes the high level putaway and picking between the narrow racks",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics Revenue",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At VisionNav Robotics",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of VisionNav Robotics?",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does VisionNav Robotics have?",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your submission is complete. Please remain available by phone and email for next steps.",
+    "url": "https://www.visionnav.com/about/detail114.html",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "We can provide end-to-end support from development, procurement, and quality control to delivery. Please feel free to contact us, even if it's just for a free consultation. You can reach us via X (formerly Twitter) or email. → X:",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社アルプス物流様 横浜営業所 における",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "この導入事例では、PCB製造のリーディングカンパニーの一つである自動化プロジェクトを取り上げ、VisionNavの革新的な自動搬送ソリューションがもたらす進歩を示す",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品メーカーでの導入事例 ～株式会社三五関東様～",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社三五関東様 本社工場（茨城県）で導入いただきました、無人フォークリフトVNP15（小型カウンターバランス型）の活用事例をご紹介いたします",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーでの導入事例 ～マツダ株式会社様～",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "マツダ株式会社様 本社工場 における無人フォークリフトVNP15（小型カウンターバランス型）の活用事例を紹介いたします",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "第一石鹸株式会社様 本社工場における無人フォークリフトVNST20-66の活用事例を紹介いたします",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics Japan ショールーム移転のお知らせ",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビジョンナビロボティクスジャパン、本社オフィスを移転",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | ビジョンナビロボティクスジャパン(Visionnav Japan) - Powered by イプロスものづくり",
+    "url": "https://pr.mono.ipros.com/visionnav/information/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルで5000台以上の導入実績を誇る AGF自動フォークリフトが満を持して日本市場へ進出！日本法人を設立し物流搬送に革命！",
+    "url": "https://pr.mono.ipros.com/visionnav/information/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビジョンナビロボティクスジャパン(Visionnav Japan)",
+    "url": "https://pr.mono.ipros.com/visionnav/information/",
+    "pass": 3
+   },
+   {
+    "quote": "〒104-0043 東京都 中央区 湊1-12-10 アズ八丁堀ビルディング 3階",
+    "url": "https://pr.mono.ipros.com/visionnav/information/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ダイカスト展示会2024（24年11月14日～16日）へ出展致します！",
+    "url": "https://okaya-logiauto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【無人フォークリフト導入事例】株式会社デンソー様AGF ビジョンナビロボティクスジャパン(Visionnav Japan) | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2001657560/",
+    "pass": 3
+   },
+   {
+    "quote": "【無人フォークリフト導入事例】株式会社デンソー様AGF",
+    "url": "https://mono.ipros.com/product/detail/2001657560/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ビジョンナビロボティクスジャパン(Visionnav Japan)",
+    "url": "https://mono.ipros.com/product/detail/2001657560/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社デンソー様における無人フォークリフト「VNP15(小型カウンターバランス型)」の活用事例を紹介いたします",
+    "url": "https://mono.ipros.com/product/detail/2001657560/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも特許取得済みの技術により、トラックやパレットをリアルタイムに検出し精度高く荷積み/荷降ろしを行います",
+    "url": "https://mono.ipros.com/product/detail/2001657560/",
+    "pass": 3
+   },
+   {
+    "quote": "In this way, the China-based robotics company Standard Robots is poised to reshape the future of the logistics industry on a global scale. For the Japanese market as well, accurately grasping the trends of companies like Standard Robots is extremely important for considering future business strategies.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We condense the rapidly changing movements of the Chinese market, such as local tech, marketing, and OEM situations, into content that can be caught up on in 5 minutes, delivered quickly in Japanese. → Subscribe for free here:",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, for those who want to access information not available in Japan, we also offer a paid closed community.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, we are particularly useful for those who: - Want to create original products in China but don't know which factory is good - Want to proceed with quality control and troubleshooting smoothly in Japanese - Don't understand Chinese and want someone to step in to negotiate and organize specifications - Want to make OEM proposals to clients but are looking for a feasible partner",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "VisionNav Roboticsビジョンナビ- グローバル無人フォークリフトの専... — この導入事例では、PCB製造のリーディングカンパニーの一つである自動化プロジェクトを取り上げ、VisionNavの革新的な自動搬送ソリューションがもたらす進歩を示す。",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | ビジョンナビロボティクスジャパン(Visionnav Japan) - Po... — 全世界で5000台以上の導入台数を誇る自動フォークリフトのグローバルマーケットリーダーであるVisionNav Robotics。 社員の70%以上が開発スタッフで構成されており、革新的な技術、ソリューションを生み出しています。 満を持して日本法人を設立。",
+    "url": "https://pr.mono.ipros.com/visionnav/information/",
+    "pass": 3
+   },
+   {
+    "quote": "無人フォークリフト（AGF）特設サイト｜VisionNav Robotics×岡谷鋼機 — Case 中国から全世界へ 中国国内の実績を皮切りに香港、韓国、東南アジア、欧州まで導入実績が拡大しています。 高い自己位置認識精度と適応性、安全性により、様々な環境においても自動化を実現できます。 導入事例へ ... 無人フォークリフト：安全検証 ...",
+    "url": "https://okaya-logiauto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【無人フォークリフト導入事例】株式会社デンソー様AGF ビジョンナビ... — Aug 25, 2026 · 全世界で5000台以上の導入台数を誇る自動フォークリフトのグローバルマーケットリーダーであるVisionNav Robotics。 社員の70%以上が開発スタッフで構成されており、革新的な技術、ソリューションを生み出しています。 満を持して日本法人を設立。",
+    "url": "https://mono.ipros.com/product/detail/2001657560/",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Roboticsビジョンナビ- グローバル無人フォークリフトの専... — VisionNav Roboticsビジョンナビは、AGV\\AMR、自動フォークリフト (AGF)と物流無人化ソリューションを提供する世界的なリーディングカンパニーです。",
+    "url": "https://www.visionnav.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Leading AGV/AMR Robot Company｜VisionNav Robotics — This case study details the successful implementation of VisionNav Robotics solutions at a prominent pharmaceutical manufacturing enterprise. The client, a major publicly traded group, focuses primarily on the production of antibiotics.",
+    "url": "https://www.visionnav.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics Japan Co., Ltd | MHI Member Company — Jan 12, 2010 · Based on environmental perception, deep learning, and servo control technologies, VisionNav has developed nine series of automated products, including automated forklifts and tow tractors for various scenarios.",
+    "url": "https://www.mhi.org/members/121713",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: VisionNav Robotics Drives Efficiency in ... — May 28, 2024 · This case study details the successful implementation of VisionNav Robotics solutions at a prominent pharmaceutical manufacturing enterprise. The client, a major publicly traded group, focuses primarily on the production of antibiotics.",
+    "url": "https://www.visionnav.com/application/pharmaceutical-logistics-automation-202405",
+    "pass": 3
+   },
+   {
+    "quote": "Global Leading AGV/AMR Robot Company｜VisionNav Robotics — This case study details the successful implementation of VisionNav Robotics solutions at a prominent pharmaceutical manufacturing enterprise. The client, a major publicly traded group, focuses primarily on the production of antibiotics.",
+    "url": "https://www.visionnav.com/?ref=briolink",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics | Case Study - YouTube — VisionNav® Robotics is a leading global supplier of autonomous industrial vehicles and intralogistics automation solutions. Based on AI, Perception, Deep Learning, and Servo Control technology,...",
+    "url": "https://www.youtube.com/playlist?list=PLOo18i863A7DEForXEbbHj7r69b82UQwt",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Papers - allianceautomation.com — In line with this growth, the industry has actively explored intelligent manufacturing and digital transformation. This paper focuses on a leading medical aesthetics manufacturing company and examines how VisionNav Robotics aids in upgrading logistics automation.",
+    "url": "https://allianceautomation.com/wp-content/uploads/2025/01/Case-Study-202407-ENHANCING-MEDICAL-AESTHETICS.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics – Financials, Industry Trends & Funding Inf… — Discover VisionNav Robotics's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/visionnav-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics Revenue, Funding & Valuation — VisionNav Robotics has revenue of $31,000,000, estimated valuation of $99,200,000, $75,700,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics - Overview, News & Similar companies ... — VisionNav Robotics is a leading global supplier of autonomous forklifts and intralogistics automation solutions. VisionNav autonomous forklifts utilise machine learning, environment perception and servo control technologies to deliver reliable performances without human interference.",
+    "url": "https://www.zoominfo.com/c/visionnav-robotics/557970978",
+    "pass": 3
+   },
+   {
+    "quote": "Future Robots 2026 Company Profile: Valuation, Funding ...VisionNav Robotics — Company Profile, Funding & InvestorsVisionNav Robotics — venture-backed company profile | Dealroom — Information on valuation, funding, acquisitions, investors, and executives for Future Robots. Use the PitchBook Platform to explore the full profile. VisionNav Robotics company profile — acquisitions, funding rounds, inv",
+    "url": "https://pitchbook.com/profiles/company/152542-09",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "China's VisionNav Robotics, a Pioneer in Next-Generation ... Apr 28, 2025 · VisionNav Robotics is growing rapidly as a leading manufacturing and logistics solution provider in China. Behind its breakthrough lies solid technical expertise in AI-based smart manufacturing and smart logistics, as well as the flexibility to adapt to a wide range of industrial sectors.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "中国VisionNav社、シリーズC+ラウンドで8000万ドル超の資金を調達 May 22, 2022 · 2022年4月29日、中国の物流ロボット開発会社VisionNav Robotics（未来机器人）社は、フードデリバリープラットフォームMetituan（美團）社と、中国のベンチャーキャピタル5Y Capital（五源资本）社が主導するシリーズC+ラウンドで8000万ドル（約103億円、1ドル=129.08円 ...",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Read China business one step ahead. An information service for companies and supporters considering OEM/ODM",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To manufacturers, brand companies, or consultants and advertising agencies offering proposals who are struggling with this concern: Based in Shenzhen, China, we provide information directly linked to business and practical support from a local perspective.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We condense the rapidly changing movements of the Chinese market, such as local tech, marketing, and OEM situations, into content that can be caught up on in 5 minutes, delivered quickly in Japanese. → Subscribe for free here:",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We do not just provide information; we also support OEM/ODM practical work.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, we are particularly useful for those who: - Want to create original products in China but don't know which factory is good - Want to proceed with quality control and troubleshooting smoothly in Japanese - Don't understand Chinese and want someone to step in to negotiate and organize specifications - Want to make OEM proposals to clients but are looking for a feasible partner",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Masato Yoshikawa / Representative Director of Robot Works Co., Ltd. Based in Shenzhen, China, he conducts research, corporate site visits, and provides OEM/ODM support for Chinese robotics, physical AI, AI hardware, and smart manufacturing.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "China's VisionNav Robotics, a Pioneer in Next-Generation Logistics Unmanned Forklifts, Accelerates Global Expansion with Massive Funding｜吉川真人＠中国テックトレンドニュース",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "China's VisionNav Robotics, a Pioneer in Next-Generation Logistics Unmanned Forklifts, Accelerates Global Expansion with Massive Funding",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics (officially known as VisionNav Robotics (Shenzhen) Co., Ltd.), a company attracting attention in the logistics automation sector of the Chinese market, recently completed a new B2 series funding round worth 1 billion yuan (approximately 20 billion yen). This round was led by private equity giant Puhua Capital, with participation from Meihua Venture Partners.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The funds raised will be used primarily for the advancement of core technologies, global market expansion, and increasing production capacity at smart factories, aiming to achieve the grand goal of fully automating industrial logistics worldwide.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics is growing rapidly as a leading manufacturing and logistics solution provider in China. Behind its breakthrough lies solid technical expertise in AI-based smart manufacturing and smart logistics, as well as the flexibility to adapt to a wide range of industrial sectors.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Partner Chosen by World-Leading Companies",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics has built a track record in diverse industrial sectors, including machinery manufacturing, food and beverage, metals and materials, chemicals and energy, automotive manufacturing, and cold chain logistics.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As if to prove its capabilities, global companies such as China Aerospace, China Pingmei, COMAC, FAW Group, State Grid, Haier, as well as AIRBUS, Sumitomo Corporation, Samsung, LG, Hanwha, and Emerson have decided to implement VisionNav Robotics solutions.",
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "中国VisionNav社、シリーズC+ラウンドで8000万ドル超の資金を調達｜NPO法人ロボットビジネス支援機構",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   },
+   {
+    "quote": "中国VisionNav社、シリーズC+ラウンドで8000万ドル超の資金を調達",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月29日、中国の物流ロボット開発会社VisionNav Robotics（未来机器人）社は、フードデリバリープラットフォームMetituan（美團）社と、中国のベンチャーキャピタル5Y Capital（五源资本）社が主導するシリーズC+ラウンドで8000万ドル（約103億円、１ドル=129.08円で換算）超の資金を調達し、研究開発、製品の安定性と標準化を中心とした製品性能の最適化、グローバルな顧客に対する大模な製品導入とローカライゼーション推進を図ると発表した。",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、自動運転の開発・応用に重点を置いて、視覚的な人工知能のナビゲーション技術で自動マテリアルハンドリングシステムの提供に取り組み、イントラロジスティクスのあらゆるシナリオへの対応を想定して、高さ9.4mのラックストレージ、2mという狭い通路へのアクセス、無人積み下ろし、多層の移動式材料フレーム積み上げなどの複雑なアプリケーションを開発した。",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   },
+   {
+    "quote": "現在、30以上の国や地域にマーケティングセンターを設立しており、取引先は、自動車部品、タイヤ、石油化学製品、タバコ、食品、医薬品、3C（コンピューター、通信、家電）電子機器製造、電子商取引物流、３PL、繊維、印刷、製紙など多岐にわたる。これまで、350以上のプロジェクト、1500台以上の自律型フォークリフトと無人トラクターの納入に成功したとのこと。売上額は2019年から2021年にかけて10倍に成長、2022年は対前年度比300％の成長、そして、平均受注額350％、顧客再購入受注額300％の増加を見込んでいる。",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月29日付 VisionNav Press Release（英語）",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.visionnav.com/articledetail/132.html",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月29日付 The Robot Report（英語）",
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "VisionNav Robotics (@VisionNavbot) / X For a cable manufacturer handling reels of varying sizes, shaft lengths, and materials, VisionNav Robotics delivered an integrated automation solution connecting autonomous forklifts, AS/RS, conveyors, and production workflows. 📥 See how it all comes together.",
+    "url": "https://x.com/VisionNavbot",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics The visionNav reach unmanned forklift can realize the maximum lifting height of 9.4 meters, at the same time, a sensing module is installed at the root of the fork arm to perform safety detection on the condition of the beam and the occupancy status of the storage.",
+    "url": "https://x.com/VisionNavbot/status/1504115284554121221",
+    "pass": 3
+   },
+   {
+    "quote": "\"#VisionNavRobotics\" - Results on X | Live Posts & Updates Feb 8 🐉 Happy Lunar New Year from @VisionNav Robotics! May the spirit of the dragon guide you towards growth and remarkable achievements. Here's to a year of prosperity and technological strides! 🥂🚀 #VisionNavRobotics #LunarNewYear #YearOfTheDragon 💬 0",
+    "url": "https://x.com/hashtag/VisionNavRobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Internet of Things on X: \"Industrial robotics maker VisionNav ... Industrial robotics maker VisionNav Robotics hits $500M valuation. VisionNav ... https://t.co/r0OsFgGpea #IoT",
+    "url": "https://x.com/TheIoT/status/1521255275746967552",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "VisionNav Robotics - LinkedIn About us Headquartered in Atlanta, VisionNav® Robotics is a global leader in autonomous industrial vehicles (AMRs/AGVs) and logistics automation solutions.",
+    "url": "https://www.linkedin.com/company/visionnav",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics - LinkedIn Global supplier of autonomous industrial vehicles and logistics automation solutions. | Headquartered in Atlanta, VisionNav® Robotics is a global leader in autonomous industrial vehicles...",
+    "url": "https://nl.linkedin.com/company/visionnav",
+    "pass": 3
+   },
+   {
+    "quote": "Kyle Chan, MBA - VisionNav Robotics | LinkedInVisionNav Robotics | 领英 - 领英 (中国)VisionNav Robotics | LinkedInVisionNav Robotics - LinkedInLili Yin – VisionNav Robotics | LinkedIn As a Sr. Director of Sales and Business Development at VisionNav Robotics, I lead a team… With over 750 projects deployed across more than 30 countries, VisionNav is trusted by numerous Fortune 500 companies in industries ",
+    "url": "https://www.linkedin.com/in/kchan96",
+    "pass": 3
+   },
+   {
+    "quote": "VisionNav Robotics | 领英 - 领英 (中国) With over 750 projects deployed across more than 30 countries, VisionNav is trusted by numerous Fortune 500 companies in industries such as automotive, food and beverage, chemical,...",
+    "url": "https://cn.linkedin.com/company/visionnav",
+    "pass": 3
+   },
+   {
+    "quote": "Andy Li - FOUNDER＆CEO | LinkedInAndy Li Luyang - Tatler AsiaEmpowering Logistics Automation - VisionNavLuyang Li - Co-founder,Senior Product Manager & CEO ...Andy Li Bio – VisionNav Robotics CEO - The Official BoardGlobal Leading AGV/AMR Robot Company｜VisionNav Robotics Aug 24, 2015 · FOUNDER＆CEO · Experience: VisionNav Robotics · Education: The Chinese University of Hong Kong · Location: Lawrence",
+    "url": "https://www.linkedin.com/in/andy-li-225965126",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VisionNav Robotics | Lawrenceville GA - FacebookExciting Announcement! We are... - VisionNav Robotics ...Check out our demo from the Kansas City Ford Open House! It ...FIRST LOOK at Automate 2025! ... - VisionNav Robotics ...Heading to Automate 2025? Make... - VisionNav Robotics ...VisionNav - Meet the Future of Automation ... - FacebookFIRST LOOK – Automate 2025 kicks... - VisionNav Robotics ... ",
+    "url": "https://www.facebook.com/VisionNavRobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Exciting Announcement! We are... - VisionNav Robotics ... Jun 11, 2023 · At VisionNav Robotics, we are passionate about embracing local needs and delivering cutting-edge solutions that transform the way businesses handle their materials and streamline their operations.",
+    "url": "https://www.facebook.com/VisionNavRobotics/posts/630892512434415/",
+    "pass": 3
+   },
+   {
+    "quote": "FIRST LOOK at Automate 2025! ... - VisionNav Robotics ... 🔥 Come experience next-level robotics—plus plenty of perks: ☕ Coffee bar on-site – fuel up while you explore 🎁 Free VisionNav swag – grab it while it lasts 🤖 Live demos running all day, including: • Precision stacking of versatile carriers and cages for high-density, high-reliability storage",
+    "url": "https://www.facebook.com/VisionNavRobotics/posts/-first-look-at-automate-2025-were-live-on-day-1-and-booth-4423-is-where-the-futu/1062626109261051/",
+    "pass": 3
+   },
+   {
+    "quote": "Heading to Automate 2025? Make... - VisionNav Robotics ... 🚨 Heading to Automate 2025? Make Booth #.4423 your first stop! Experience live demos of VisionNav’s latest autonomous innovations—designed to solve...",
+    "url": "https://www.facebook.com/VisionNavRobotics/posts/-heading-to-automate-2025-make-booth-4423-your-first-stopexperience-live-demos-o/1047718600751802/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.visionnav.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/application/detail146.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/companynews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/about/index71.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/about/join-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/application/detail155.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/application/detail151.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/application/detail157.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/detail/agvformanufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/detail408.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/detail/htxforkliftsvisionnav",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/detail/detail425.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/detail/detail423.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/detail/partnershipwitharnoldautomation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/news/detail/visionnav-partnership-alliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/about/detail114.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/application/detail147.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/application/detail126.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.com/application/detail142.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.visionnav.com/application/images/b2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.visionnav.com/uploads/image/20240307/1709796867.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.visionnav.com/uploads/image/20240307/1709791157.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.visionnav.com/uploads/image/20240307/1709793865.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.visionnav.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/visionnav/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://okaya-logiauto.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2001657560/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.visionnav.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.visionnav.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLOo18i863A7DEForXEbbHj7r69b82UQwt",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://allianceautomation.com/wp-content/uploads/2025/01/202406-Case-Study-Papers-.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/visionnav-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/visionnav-robotics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/visionnav-robotics/557970978",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/visionnav/__dxkeEZCo0GY_8Vn_7888KCKSoCaUfFIflVqLIPRdTPE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/robizy/n/nf72c8d41ab21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/VisionNavbot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VisionNavbot/status/1504115284554121221",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/VisionNavRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheIoT/status/1521255275746967552",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/visionnav",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/visionnav",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kchan96",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/company/visionnav",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VisionNavRobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VisionNavRobotics/posts/630892512434415/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VisionNavRobotics/posts/-first-look-at-automate-2025-were-live-on-day-1-and-booth-4423-is-where-the-futu/1062626109261051/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VisionNavRobotics/posts/-heading-to-automate-2025-make-booth-4423-your-first-stopexperience-live-demos-o/1047718600751802/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andy-li-225965126",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VisionNavbot",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "VisionNav Robotics 日本 導入",
+   "results": [
+    "https://www.visionnav.co.jp/",
+    "https://pr.mono.ipros.com/visionnav/information/",
+    "https://okaya-logiauto.com/",
+    "https://mono.ipros.com/product/detail/2001657560/",
+    "https://mono.ipros.com/product/detail/2001657558/",
+    "https://www.visionnav.co.jp/news/detail/currentstatusreport",
+    "https://okaya-logiauto.com/case/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VisionNav Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.visionnav.co.jp/",
+    "https://www.visionnav.com/about/contact",
+    "https://www.visionnav.com/about/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.prnewswire.com/news-releases/sfaw-opening-day-representative-chinese-robotics-company-visionnav-showcases-automation-solution-agf-301371471.html",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VisionNav Robotics Japan",
+   "results": [
+    "https://www.visionnav.co.jp/",
+    "https://www.visionnav.com/",
+    "https://www.visionnav.co.jp/about/",
+    "https://www.visionnav.com/about/contact",
+    "https://www.mhi.org/members/121713",
+    "https://pr.mono.ipros.com/en/visionnav/information/",
+    "https://pr.mono.ipros.com/visionnav/information/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VisionNav Robotics manufacturing customer case study",
+   "results": [
+    "https://www.visionnav.com/application/pharmaceutical-logistics-automation-202405",
+    "https://www.visionnav.com/?ref=briolink",
+    "https://www.youtube.com/playlist?list=PLOo18i863A7DEForXEbbHj7r69b82UQwt",
+    "https://allianceautomation.com/wp-content/uploads/2025/01/202406-Case-Study-Papers-.pdf",
+    "https://allianceautomation.com/wp-content/uploads/2025/01/Case-Study-202407-ENHANCING-MEDICAL-AESTHETICS.pdf",
+    "https://www.youtube.com/watch?v=7YcK5JNhbx8",
+    "https://www.linkedin.com/pulse/case-study-spotlight-successful-warehouse-automation-mark-grimes-uumgc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VisionNav Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VisionNav Robotics founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/visionnav-robotics",
+    "https://prospeo.io/c/visionnav-robotics-revenue",
+    "https://www.zoominfo.com/c/visionnav-robotics/557970978",
+    "https://tracxn.com/d/companies/visionnav/__dxkeEZCo0GY_8Vn_7888KCKSoCaUfFIflVqLIPRdTPE",
+    "https://pitchbook.com/profiles/company/152542-09",
+    "https://acquirezy.com/organization/visionnav-robotics",
+    "https://dealroom.co/companies/visionnav-robotics/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com VisionNav Robotics",
+   "results": [
+    "https://note.com/zhenren63/n/n99c0c9d2597d?hl=en",
+    "https://note.com/robizy/n/nf72c8d41ab21",
+    "https://note.com/alive_plover8009/n/n44ffab9bf0f0",
+    "https://note.com/",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/worldsoccerjapan/n/n08f965736c33",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com VisionNav Robotics",
+   "results": [
+    "https://x.com/VisionNavbot",
+    "https://x.com/VisionNavbot/status/1504115284554121221",
+    "https://x.com/hashtag/VisionNavRobotics",
+    "https://x.com/TheIoT/status/1521255275746967552",
+    "https://help.x.com/en/using-x",
+    "https://x.com/hashtag/AGVReindeer",
+    "https://x.com/atlsutiger/status/2118326411060527540"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com VisionNav Robotics",
+   "results": [
+    "https://www.linkedin.com/company/visionnav",
+    "https://nl.linkedin.com/company/visionnav",
+    "https://www.linkedin.com/in/kchan96",
+    "https://cn.linkedin.com/company/visionnav",
+    "https://jp.linkedin.com/company/visionnav",
+    "https://kr.linkedin.com/company/visionnav",
+    "https://ch.linkedin.com/in/liliyin",
+    "https://ch.linkedin.com/in/liliyin/en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com VisionNav Robotics",
+   "results": [
+    "https://www.facebook.com/VisionNavRobotics/",
+    "https://www.facebook.com/VisionNavRobotics/posts/630892512434415/",
+    "https://www.facebook.com/VisionNavRobotics/posts/-first-look-at-automate-2025-were-live-on-day-1-and-booth-4423-is-where-the-futu/1062626109261051/",
+    "https://www.facebook.com/VisionNavRobotics/posts/-heading-to-automate-2025-make-booth-4423-your-first-stopexperience-live-demos-o/1047718600751802/",
+    "https://www.facebook.com/VisionNavRobotics/photos/-meet-the-future-of-automation-with-visionnav-robotics-were-proud-to-present-a-c/806192708237727/",
+    "https://www.facebook.com/VisionNavRobotics/posts/-first-look-automate-2025-kicks-off-tomorrowget-readybooth-4423-is-where-the-fut/1062635052593490/",
+    "https://www.facebook.com/VisionNavRobotics/videos/check-out-our-demo-from-the-kansas-city-ford-open-house-it-was-a-blast-showcasin/1232560571428443/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VisionNav Robotics note 社長",
+   "results": [
+    "https://yespress.io/andy-li",
+    "https://www.linkedin.com/in/andy-li-225965126",
+    "https://www.visionnav.com/about/",
+    "https://www.crunchbase.com/person/luyang-li-ee54",
+    "https://www.theofficialboard.com/biography/andy-li-d1g91",
+    "https://www.visionnav.com/",
+    "https://www.tatlerasia.com/people/andy-li-luyang"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VisionNav Robotics X 投稿",
+   "results": [
+    "https://x.com/VisionNavbot",
+    "https://www.visionnav.com/",
+    "https://www.visionnav.com/about/",
+    "https://www.glassdoor.com/Interview/VisionNav-Robotics-Interview-Questions-E6177464.htm",
+    "https://www.visionnav.com/product/detail102.html",
+    "https://x.com/aanc20/status/2116766455484325923",
+    "https://x.com/XiaomiTech_/status/2117542298238222588",
+    "https://www.visionnav.co.jp/product/detail/amr-vnk10-10a",
+    "https://www.visionnav.com/product/detail/vnk15agfrobot",
+    "https://www.visionnav.co.jp/news/detail/currentstatusreport"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

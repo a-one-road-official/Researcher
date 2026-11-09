@@ -1,0 +1,890 @@
+{
+ "name": "Zyler",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T19:27:03.799990+00:00",
+ "official_url": "https://zyler.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "and personal expression. Specializing in cutting-edge photo editing software, we empower users to bring their visions to life with seamless, intuitive tools.",
+    "url": "https://www.anthropics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our suite of editing products gives you full control, transforming your photography.",
+    "url": "https://www.anthropics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PortraitPro is the world’s best-selling professional retouching software. Using Artificial Intelligence, PortraitPro enhances every aspect of a portrait for beautifully natural results.",
+    "url": "https://www.anthropics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Incorporating state of the art body editing technology, PortraitPro Body is the world’s first software that enables full-body portraits to be realistically modified, simply by moving sliders.",
+    "url": "https://www.anthropics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With AI-based controls that adapt to the features of the photo, LandscapePro is the world’s first intelligent landscape editor.",
+    "url": "https://www.anthropics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Photo Editor is the world’s first community-based photo editor, with an ever growing library of sophisticated effects produced by its enthusiastic users.",
+    "url": "https://www.anthropics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A. 有料プランは Premiumプラン（月額50ドル）、Enterpriseプラン（個別見積もり） が用意されています",
+    "url": "https://my-best.ai/ai-tools/zyler-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "7日間無料トライアル、月額50ドルのPremium、企業向け個別見積もりのEnterpriseプランを展開",
+    "url": "https://my-best.ai/ai-tools/zyler-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler ERP provides you with a tool to integrate all the information under one consolidated platform. It streamlines and automates all business activities with an integrated and centralized software application.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Efficient in Project Management.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A Productivity enhancer.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Process Automation.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are determined to provide our customers with the best ERP solution in the market for all their needs. We work every day with the tenacity of striving forward and achieving the unthinkable so that our customers keep on besting their own benchmarks.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Automate entire sales processes from Enquiry to Quotation.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A dedicated dashboard that provides you with a complete overview of all your organizational processes. It is ideal for Agile, collaborative and innovation driven teams.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage any process and be ready to address any challenge with total ease.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Easy Onboarding, Faster Adaptability.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve Customer Retention.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Analyze customers by region, discounts and more and put a plan in place to improve customer retention.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tips and Best Practices.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How Software Integration Can Improve Workflow.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Send us a message, and we'll promptly discuss your project with you.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers evaluate the quality of Zyler’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Increased customer engagement - sharing of product images",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Increased customer engagement - more time spent viewing products online",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "See why customers chose Zyler's products and services. Zyler's customers include",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "To showcase their products at a bridal tradeshow. The response was overwhelmingly positive so they added the virtual try-on to their website.",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Marks & Spencer offers products including clothing for men, women, and children, as well as homeware and food items. It serves segments of the economy…",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "True Fit is a company specializing in fit intelligence for the apparel and footwear retail sector. It offers an AI-driven platform that provides personalized size and fit guidance to shoppers. The company's services are designed to integrate with various retail technologies. It was founded in 2009 and is based in Boston, Massachusetts.",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle Procurement Cloud",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle JD Edwards EnterpriseOne",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Exterro Zapproved ZDiscovery",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle NetSuite Procurement",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Pacific Coast Producers",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Each quarter our research team identifies companies that have purchased Zyler ERP for ERP Financial from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location, implementation status, partner involvement, LOB Key Stakeholders and related IT decision-makers contact details.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "The Zyler ERP customer wins are being incorporated in our Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of software systems and their digital transformation initiatives. Apps Run The World wants to become your No. 1 technographic data source!",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Green Jeeva implemented Zyler ERP as its ERP Financial system. The deployment is accessible on the company web presence at https://greenjeeva.zylererp.com, indicating a vendor-hosted, web-accessible ERP footprint used by the 100-employee life sciences organization to centralize finance operations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Jeeva Organic engaged Zyler ERP from Dietary Business Intelligence to unify finance, inventory and procurement across its Bhubaneswar manufacturing and US distribution operations. The Zyler ERP engagement targeted consolidation of ledger, stock control and purchasing records to improve synchronization between manufacturing and distribution.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "The Zyler ERP deployment, classified in the ERP Financial category, implemented core modules for financial management, inventory control and procurement. Configuration work emphasized accounting period close, accounts payable workflows and inventory costing, aligning ERP functional modules with finance and supply chain processes.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment used a centralized Zyler ERP instance to provide a single source of truth for the Bhubaneswar plant and the US distribution site, supporting order fulfilment and cross border inventory visibility. Operational scope included finance, procurement and distribution functions, with processes reoriented toward unified master data and transaction flows.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "For exports involving more than 2000 customer profiles, please get in touch with ARTW Support for assistance. Our team will review your request.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Subscription is Required",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": ". Gain ongoing access to real-time prospects and uncover hidden opportunities. Companies Actively Evaluating",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Professional Services organization with 50 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Discover Software Buyers actively Evaluating Enterprise Applications",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies worldwide use Zyler ERP, from small firms to large enterprises across 21+ industries.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Zyler ERP range from small businesses with 0-100 employees - 50%, to mid-sized firms with 101-1,000 employees - 50%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語表示が自然で、抵抗なく使えました",
+    "url": "https://my-best.ai/ai-tools/zyler-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIツールの情報を、日本のユーザーに向けて紹介しませんか",
+    "url": "https://my-best.ai/ai-tools/zyler-ai/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Zyler AIとは｜料金・機能・評判｜MY-BEST.AI — Oct 18, 2026 · 世界500社以上のブランドに導入され、初心者からプロのマーケターまで幅広く活用されています。 Zyler AIが選ばれる理由 従来のアナリティクス分析は数値の読み取りだけで実行可能な施策が分かりにくい課題があります。",
+    "url": "https://my-best.ai/ai-tools/zyler-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler Gateway — Zyler is revolutionising the retail experience with intuitive, immersive and instant technology solutions. Discover the magic of VTO today!",
+    "url": "https://www.zyler.com/gateway/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - zylererp — Zyler is an All-in-One ERP business solution optimized for small and medium scale developing businesses. It is specially designed to take care of all your ERP needs like: Sales Process Automation. Cost Management. Customer Care and Management. Financial Management. Inventory Management. Read Case View More Cases Study We are 😃 Zyler ERP",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler Customers - CB Insights — How Zyler benefits their customers Customers evaluate the quality of Zyler’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "List of Zyler ERP Customers - Apps Run The World — Each quarter our research team identifies companies that have purchased Zyler ERP for ERP Financial from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location, implementation status, partner involvement, LOB Key Stakeholders and ...",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler AI 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Zyler AI. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/711371-98",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler - 2026 Company Profile, Competitors & Financials - TracxnZyler - Overview, News & Similar companies | ZoomInfo.comZylerAI - Crunchbase Company Profile & FundingAnthropics Technology - Crunchbase Company Profile & FundingZyler Valuation & Funding History | CaplightZyler AI Company Profile (2026) - getlatka.com — Jan 26, 2026 · Zyler - About the company Zyler is an unfunded company based in Lo",
+    "url": "https://tracxn.com/d/companies/zyler/__r7u2infsBN4zf5PkX06bgWguVzlGHrx07MGz0bUVTrw",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler - Overview, News & Similar companies | ZoomInfo.com — View Zyler (www.zyler.com) location in United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/zyler/562571021",
+    "pass": 3
+   },
+   {
+    "quote": "ZylerAI - Crunchbase Company Profile & Funding — Zyler AI is an AI-powered marketing analytics platform that simplifies data analysis by transforming Google Analytics data into actionable insights with a drag-and-drop interface.",
+    "url": "https://www.crunchbase.com/organization/zylerai",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropics Technology - Crunchbase Company Profile & Funding — Anthropics Technology is a research and development company that has created Zyler, virtual clothing try-on technology.",
+    "url": "https://www.crunchbase.com/organization/anthropics-technology",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Increased sales and revenue",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Life Sciences organisation with 300 employees and revenues of $75.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Life Sciences organisation with 100 employees and revenues of $9.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Zyler ERP, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Professional Services organization with 50 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Distribution company with 12 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Zyler ERP range from small businesses with 0-100 employees - 50%, to mid-sized firms with 101-1,000 employees - 50%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using Zyler ERP?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of Zyler ERP include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified Zyler ERP customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of ERP Financial.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "With Zylererp getting your team on board is as simple as sending an email.",
+    "url": "https://zylererp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Zyler ERP, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "See why customers chose Zyler's products and services. Zyler's customers include",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Froxbox specializes in wedding and special event apparel, focusing on design and manufacturing. The company offers wedding gowns designed in collabora…",
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Green Jeeva implemented Zyler ERP as its ERP Financial system. The deployment is accessible on the company web presence at https://greenjeeva.zylererp.com, indicating a vendor-hosted, web-accessible ERP footprint used by the 100-employee life sciences organization to centralize finance operations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Jeeva Organic engaged Zyler ERP from Dietary Business Intelligence to unify finance, inventory and procurement across its Bhubaneswar manufacturing and US distribution operations. The Zyler ERP engagement targeted consolidation of ledger, stock control and purchasing records to improve synchronization between manufacturing and distribution.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment used a centralized Zyler ERP instance to provide a single source of truth for the Bhubaneswar plant and the US distribution site, supporting order fulfilment and cross border inventory visibility. Operational scope included finance, procurement and distribution functions, with processes reoriented toward unified master data and transaction flows.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ZYLER (@zylerDJ) / X Oct 13 Sexy People (Radio edit) by OCHOK ift.tt/6ZR8pm7 2 ZYLER @zylerDJ Oct 12 Fisher - TAKE IT OFF (Stixr Remix) [Charted #3 Indie Dance + #51 ALL GENRES Worldwide-Droploud] by Stixr ift.tt/iHudqh5",
+    "url": "https://x.com/zylerdj",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler (@ZylerArt) / X Jul 18, 2023 Linework for character drawing 16 Zyler @ZylerArt Jul 17, 2023 Figuring out the pose for a character drawing",
+    "url": "https://x.com/ZylerArt",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler Johnson (@Therealzyler) / X 150 followers · 505 following. Marietta, GA. Joined Aug 2019. See the latest conversations with @Therealzyler",
+    "url": "https://x.com/Therealzyler",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler (@Zyler_Bi) / X 37 Zyler @Zyler_Bi Dec 3, 2023 I just re-read it and this was the fic that made me found your writing and feel in love with it, just so you know, even if it took years to update, I will read it gladly Hope you're doing great! 💜",
+    "url": "https://x.com/zyler_bi",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler (@ZylerArt) / X Jul 10, 2023 I decided to draw a character portrait 16 Zyler @ZylerArt Jul 9, 2023 Day 20 of my daily drawing challenge",
+    "url": "https://x.com/ZylerArt",
+    "pass": 3
+   },
+   {
+    "quote": "ZyZyler (@ZyZylerX) / Posts / X Um hai!! , im Zyler I make edits and sometimes draw but kinda suck at it , you might’ve seen my edits on TikTok’s aswell so yeah !! , if you wanna send me some stuff here is my strawpage !! , you probably can tell I might like Stickman lol !!",
+    "url": "https://x.com/ZyZylerX",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler (@abrarzyler) / X 0 followers · 1 following. Joined Sep 2026. See the latest conversations with @abrarzyler",
+    "url": "https://x.com/abrarzyler",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler Lao (@Zyler30) / X 0 followers · 11 following. Joined Jun 2026. See the latest conversations with @Zyler30",
+    "url": "https://x.com/Zyler30",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zyler Vega - Technical Lead and PMP-certified ... - LinkedInZyler Niece - Software Engineer | LinkedInZyler Luff - Driving enterprise transformation by uniting ...Zyler MacDonald - St Louis Blues Data Scientist | LinkedInZyler Morningstar - Scanning and Photogrammetry at Wolverine ...Zyler Tan - E-Commerce & Customer Experience Leader ...Zyler Zhou - Synergy Financial Advisers Ltd | LinkedIn Techn",
+    "url": "https://www.linkedin.com/in/zylervega",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler Niece - Software Engineer | LinkedInZyler Luff - Driving enterprise transformation by uniting ...Zyler MacDonald - St Louis Blues Data Scientist | LinkedInZyler Morningstar - Scanning and Photogrammetry at Wolverine ...Zyler Tan - E-Commerce & Customer Experience Leader ...Zyler Zhou - Synergy Financial Advisers Ltd | LinkedIn View Zyler Niece’s profile on LinkedIn, a professional community ",
+    "url": "https://www.linkedin.com/in/zylerniece",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler Luff - Driving enterprise transformation by uniting ...Zyler MacDonald - St Louis Blues Data Scientist | LinkedInZyler Morningstar - Scanning and Photogrammetry at Wolverine ...Zyler Tan - E-Commerce & Customer Experience Leader ...Zyler Zhou - Synergy Financial Advisers Ltd | LinkedIn Zyler Luff Driving enterprise transformation by uniting Dynamics 365 expertise with strategic Business Chan",
+    "url": "https://uk.linkedin.com/in/zyler-luff-b94390242",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler MacDonald - St Louis Blues Data Scientist | LinkedInZyler Morningstar - Scanning and Photogrammetry at Wolverine ...Zyler Tan - E-Commerce & Customer Experience Leader ...Zyler Zhou - Synergy Financial Advisers Ltd | LinkedIn St Louis Blues Data Scientist · Experience: St. Louis Blues · Education: Ivey Business School at Western University · Location: Vancouver · 500+ connections on LinkedIn",
+    "url": "https://ca.linkedin.com/in/zyler-macdonald",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zyler - Facebook Jun 10, 2025 · Zyler is an innovative virtual clothing try-on solution developed by Anthropics Technology. It transforms the online shopping experience by allowing customers to try clothing virtually on retailers' websites.",
+    "url": "https://www.facebook.com/Zylercotech/",
+    "pass": 3
+   },
+   {
+    "quote": "ZYLER - FacebookZyler is an innovative virtual clothing try-on solution ...Zyler - Videos | FacebookZyler - FacebookWhat is Zyler? | Zyler is an innovative virtual clothing try ...Zyler - Facebook Dec 3, 2022 · ZYLER. 414 followers. ZYLER is an online activewear range. High waisted leggings, squat proof and comfy as!!! Check it out Jul 22, 2024 · Zyler is an innovative virtual clothing try-on solu",
+    "url": "https://www.facebook.com/zyleractive/",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler is an innovative virtual clothing try-on solution ... Jul 22, 2024 · Zyler is an innovative virtual clothing try-on solution developed by Anthropics Technology. It transforms the online shopping experience by allowing customers to try clothing virtually on retailers' websites.",
+    "url": "https://www.facebook.com/Zylercotech/videos/what-is-zyler/1006130870735255/",
+    "pass": 3
+   },
+   {
+    "quote": "Zyler - Videos | Facebook Today, Zyler launches a game-changing new product developed to satisfy the diverse needs of fashion consumers and retailers. Zyler has integrated Prime AI's Size Recommendation tech into their flagship Virtual Try-on (VTO) experience - the Digital Dressing Room™. Resulting in a 2-in-1 solution that tackles the two biggest pain points of online shopping: choosing the right",
+    "url": "https://www.facebook.com/watch/Zylercotech/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.anthropics.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.anthropics.com/img/logos/anthropics_2025_light.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://my-best.ai/ai-tools/zyler-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anthropics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zapier.com/ja/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/939831?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zylererp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/zyler/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zycus.com/customers/success-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/711371-98",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zyler/__r7u2infsBN4zf5PkX06bgWguVzlGHrx07MGz0bUVTrw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/c/zyler/562571021",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/zylerai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zylerdj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZylerArt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Therealzyler",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zyler_bi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zylervega",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zylerniece",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/zyler-luff-b94390242",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/zyler-macdonald",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zylercotech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zyleractive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zylercotech/videos/what-is-zyler/1006130870735255/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/watch/Zylercotech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZylerArt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZyZylerX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/abrarzyler",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Zyler30",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zyler 日本 導入",
+   "results": [
+    "https://my-best.ai/ai-tools/zyler-ai/",
+    "https://www.zyler.com/gateway/",
+    "https://zapier.com/ja/customer-stories",
+    "https://toyokeizai.net/articles/-/939831?display=b",
+    "https://prtimes.jp/main/html/rd/p/000000010.000174106.html",
+    "https://www.jetro.go.jp/invest/newsroom/2026/4ca9cc291cb3937f.html",
+    "https://blog.evsmart.net/t/zeekr-009-japan-launch-forofly-koma-president-true-intent-victory-plan-overcoming-china-ev-headwinds/712"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zyler 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview",
+    "https://asyril.com/ja/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zyler Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Zyler manufacturing customer case study",
+   "results": [
+    "https://zylererp.com/",
+    "https://www.cbinsights.com/company/zyler/customers",
+    "https://www.appsruntheworld.com/customers-database/products/view/zyler-erp",
+    "https://www.zycus.com/customers/success-story",
+    "https://www.zyler.com/gateway/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://gulfstartups.co/case-study/zyler-ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zyler white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.resellercluster.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zyler founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/711371-98",
+    "https://tracxn.com/d/companies/zyler/__r7u2infsBN4zf5PkX06bgWguVzlGHrx07MGz0bUVTrw",
+    "https://www.zoominfo.com/c/zyler/562571021",
+    "https://www.crunchbase.com/organization/zylerai",
+    "https://www.crunchbase.com/organization/anthropics-technology",
+    "https://www.caplight.com/company/bridely",
+    "https://getlatka.com/companies/zyler.ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zyler",
+   "results": [
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/chef_mint/n/n30878561853d",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/sim/n/n2c6fe6688de8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zyler",
+   "results": [
+    "https://x.com/zylerdj",
+    "https://x.com/ZylerArt",
+    "https://x.com/Therealzyler",
+    "https://x.com/zyler_bi",
+    "https://x.com/ZyZylerX",
+    "https://x.com/Zyler30",
+    "https://x.com/zylerworries4u"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zyler",
+   "results": [
+    "https://www.linkedin.com/in/zylervega",
+    "https://www.linkedin.com/in/zylerniece",
+    "https://uk.linkedin.com/in/zyler-luff-b94390242",
+    "https://ca.linkedin.com/in/zyler-macdonald",
+    "https://ca.linkedin.com/in/zyler",
+    "https://sg.linkedin.com/in/zylertan",
+    "https://sg.linkedin.com/in/zyler-zhou-8208a3200"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zyler",
+   "results": [
+    "https://www.facebook.com/Zylercotech/",
+    "https://www.facebook.com/zyleractive/",
+    "https://www.facebook.com/Zylercotech/videos/what-is-zyler/1006130870735255/",
+    "https://www.facebook.com/watch/Zylercotech/",
+    "https://www.facebook.com/ZylerTech/videos/what-is-zyler/1006130870735255/",
+    "https://www.facebook.com/shopzyler/",
+    "https://www.facebook.com/zyler.627192/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zyler note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Zyler X 投稿",
+   "results": [
+    "https://x.com/ZylerArt",
+    "https://x.com/ZyZylerX",
+    "https://x.com/abrarzyler",
+    "https://x.com/Zyler30",
+    "https://www.tiktok.com/@zyler_x",
+    "https://www.tiktok.com/@xzylerx",
+    "https://x.com/n_mab1/status/2107121590098161778"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部36頁・検索12回）"
+ }
+}

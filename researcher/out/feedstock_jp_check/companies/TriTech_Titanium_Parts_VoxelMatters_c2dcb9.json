@@ -1,0 +1,416 @@
+{
+ "name": "TriTech Titanium Parts — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:29:34.566265+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TriTech Titanium Parts — VoxelMatters - The largest database ... — TriTech leverages its binderjet process to 3D print titanium precision parts. 3D binderjet printing, or additive manufacturing, is the fastest method of printing a part, enabling rapid prototyping, testing and production. TriTech can produce very complex geometries with this method.",
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "TriTech Titanium Parts — VoxelMatters - The largest database ... — With three leading-edge technologies for manufacturing precision net shape titanium parts in-house, TriTech Titanium Parts matches the best production method to each part to optimize custom characteristics. We offer 3D binder-jet printing, investment casting and metal injection molding, as well as rapid prototyping to meet tight la",
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookAdditive manufacturing is creating new solutions for hard-to ...TriTech Titanium Parts produces titanium components with ...Desktop Metal - TriTech Titanium uses three production...Pulse 2.0 - Barron Industries Acquires TriTech Titanium ...Desktop Metal - Learn how TriTech Titanium Parts uses...Desktop Metal - Using the Production System™ P-1, TriTech... The iPhone Duo’s tit",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/tritech-titanium-parts-llc/1313577069",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/tritech-titanium-parts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tritechtitanium.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tritech.co.uk/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/tritech-titanium-parts-3d-prints-net-shape-titanium-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sayakobo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tritechtitanium.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tritech.co.uk/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/tritech-titanium-parts-3d-prints-net-shape-titanium-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanesedistributors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techtimes.com/articles/326523/20260903/samsung-needed-japanese-partner-build-galaxy-z-fold-8-flex-titanium-it-nearly-didnt-work.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%83%AB%E3%83%9F%E3%82%A8%E3%83%AB-%E4%B9%B3%E9%85%B8%E8%8F%8C-%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88-%E5%A6%8A%E6%B4%BB%E6%9C%9F%E3%81%AE%E8%91%89%E9%85%B8%E8%A3%9C%E7%B5%A6-30%E6%97%A5%E5%88%86/dp/B0F1CZ625G",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%80%90%E6%95%B4%E5%82%99%E6%B8%88%E3%81%BF%E5%93%81%E3%80%91%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-B65-Windows11-office2019%E6%90%AD%E8%BC%89-Bluetooth/dp/B0GFD8YYHQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://incfact.com/company/tritechtitaniumparts-detroit-mi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/tritech-titanium-parts-llc/1313577069",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/519082-03",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/tritech-titanium-parts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters 代理店",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "https://www.voxelmatters.com/",
+    "https://www.zoominfo.com/c/tritech-titanium-parts-llc/1313577069",
+    "https://www.cbinsights.com/company/tritech-titanium-parts",
+    "https://www.buzzfile.com/business/Tritech-Titanium-Parts,-LLC-313-644-1459",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.foundrymag.com/melt-pour/news/55374465/investment-caster-buys-ti-vacuum-melting-capacity-barron-industries"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters 日本 販売",
+   "results": [
+    "https://tritechtitanium.com/",
+    "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "https://www.tritech.co.uk/distributors/",
+    "https://www.voxelmatters.com/tritech-titanium-parts-3d-prints-net-shape-titanium-parts/",
+    "https://www.voxelmatters.com/",
+    "https://www.linkedin.com/company/tritech-titanium-parts",
+    "https://www.go4worldbusiness.com/find?searchText=tritech+titanium+parts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "https://skhonpo.com/",
+    "https://www.voxelmatters.com/",
+    "https://sayakobo.com/",
+    "https://3dfilamentprofiles.com/",
+    "https://en.vitalchem.com/",
+    "https://www.zyltech.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters Japan distributor",
+   "results": [
+    "https://tritechtitanium.com/",
+    "https://www.tritech.co.uk/distributors/",
+    "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "https://www.voxelmatters.com/tritech-titanium-parts-3d-prints-net-shape-titanium-parts/",
+    "https://www.linkedin.com/company/tritech-titanium-parts",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.directory/company/tritech-titanium-parts/",
+    "https://japanesedistributors.com/",
+    "https://www.techtimes.com/articles/326523/20260903/samsung-needed-japanese-partner-build-galaxy-z-fold-8-flex-titanium-it-nearly-didnt-work.htm",
+    "https://www.japan-partner.com/",
+    "https://www.jetro.go.jp/usa/investinjapan/j-bridge.html",
+    "https://www.japan-partner.com/check-manufacture-year.html",
+    "https://www.scmp.com/magazines/style/people/celebrities/article/3353686/who-ansel-elgorts-japanese-partner-miona-whom-he-just-welcomed-baby"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:amazon.co.jp TriTech Titanium Parts — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/ルミエル-乳酸菌-サプリメント-妊活期の葉酸補給-30日分/dp/B0F1CZ625G",
+    "https://r.amazon.co.jp/",
+    "https://relay.amazon.co.jp/",
+    "https://www.amazon.co.jp/【整備済み品】ノートパソコン-B65-Windows11-office2019搭載-Bluetooth/dp/B0GFD8YYHQ",
+    "https://music.amazon.co.jp/podcasts/01569738-2c06-4264-83cd-56a41c89517c/episodes/0300eef6-4fa8-4f7a-b15c-bece92c5ae3e/voxelmatters-podcast-quintus-technologies'-chad-beamer-on-the-benefits-of-hip-for-am-parts",
+    "https://watch.amazon.co.jp/watch?asin=B09JB1S8WK",
+    "https://www.amazon.co.jp/金利上昇で得する人、沈む人（プレジデント2026年7-17号）-プレジデント社/dp/B0H3P32J8S"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com TriTech Titanium Parts — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://incfact.com/company/tritechtitaniumparts-detroit-mi/",
+    "https://www.zoominfo.com/c/tritech-titanium-parts-llc/1313577069",
+    "https://pitchbook.com/profiles/company/519082-03",
+    "https://www.linkedin.com/company/tritech-titanium-parts",
+    "https://www.cbinsights.com/company/tritech-titanium-parts",
+    "https://www.privco.com/company/tritech-titanium-parts",
+    "https://www.bloomberg.com/profile/company/2653112D:US",
+    "https://prospeo.io/c/tritech-titanium-parts-revenue"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com TriTech Titanium Parts — VoxelMatters",
+   "results": [
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/tag/旅行エッセイ",
+    "https://note.com/tag/渋皮煮",
+    "https://note.com/nobukume/n/n7ebd4f0e96a3",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/hokusyu/n/nebf1dc3b348c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com TriTech Titanium Parts — VoxelMatters",
+   "results": [
+    "https://x.com/DefensePost/status/2052554074285867160",
+    "https://jf.x.com/images/media-preview/2113545874890776741",
+    "https://x.com/voxelmatters",
+    "https://x.com/FoundryMag/status/2049872590412316939",
+    "https://x.com/FoundryMag",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/buffys/status/2114931049780441163"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com TriTech Titanium Parts — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/tritech-titanium-parts",
+    "https://www.linkedin.com/in/robert-swenson-2130751b8",
+    "https://www.linkedin.com/posts/tritech-titanium-parts_tritech-titanium-parts-was-built-around-technical-activity-7420118201021304835-XsZM",
+    "https://www.linkedin.com/posts/tritech-titanium-parts_home-activity-7153495203725611009-q1zl",
+    "https://www.linkedin.com/posts/tritech-titanium-parts_pmti-titanium-activity-6973628390331351040-1A5S",
+    "https://www.linkedin.com/posts/tritech-titanium-parts_every-titanium-component-that-leaves-our-activity-7407869597296529408-d9mg",
+    "https://www.linkedin.com/posts/tritech-titanium-parts_contact-tritech-titanium-parts-tritech-activity-7115698147410001921-1DP4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com TriTech Titanium Parts — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/DesktopMetal/videos/tritech-titanium-parts-produces-titanium-components-with-metal-injection-molding/558719360416237/",
+    "https://www.facebook.com/DesktopMetal/posts/791929422942545/",
+    "https://www.facebook.com/pulse2news/posts/barron-industries-acquires-tritech-titanium-parts-assets-barron-industries-an-ox/1654273576699665/",
+    "https://www.facebook.com/DesktopMetal/posts/learn-how-tritech-titanium-parts-uses-binder-jetting-to-deliver-results-for-its-/700300288772126/",
+    "https://www.facebook.com/DesktopMetal/posts/966765815458904/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "TriTech Titanium Parts — VoxelMatters X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索15回）"
+ }
+}

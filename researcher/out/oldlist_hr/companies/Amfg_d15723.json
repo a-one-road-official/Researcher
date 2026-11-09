@@ -1,0 +1,1371 @@
+{
+ "name": "Amfg",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-09T19:13:31.533247+00:00",
+ "official_url": "https://amfg.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Auto-Material Pricing",
+    "value": "Included Included",
+    "url": "https://www.amfg.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email Integration",
+    "value": "Included Included",
+    "url": "https://www.amfg.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "30-Apr-2015 $448K $448K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Streamline your production with our hybrid solutions",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your operational capabilities and gain unparalleled visibility into your production facilities with AMFG’s advanced shop floor control.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively anticipate and plan for unexpected downtime using our user-friendly planning and scheduling module, guaranteeing a smooth and uninterrupted workflow at every stage.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of a pre-built library of workflow automations enabling you to eliminate manual, time consuming processes",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted something that would make estimating simple, without losing the accuracy that comes with years of specialised knowledge and practice.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient connectivity and easy access to systems data is key to accelerating the journey towards digital production. We're excited to partner with AMFG to help our customers bring more control, automation and visibility into their operations.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Manager cirp GmbH",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "After a longstanding evaluation of potential providers, only AMFG provided a solution for the full additive workflow to give us the agility we needed. When you have to manage 1m+ parts per annum, ensuring you have the right MES is a critical requirement.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to help manufacturers streamline their operations with our cutting-edge software platform. By automating quoting, order intake, and production workflows, we enable high-value manufacturers to adapt to complex demand with efficiency and precision, securing their place at the forefront of the manufacturing industry.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We have built the market leading quoting, order intake and production software for high-mix, low volume manufacturing. Our technology is now utilised by 300+ machine shops across 39 countries and 10 time zones, enabling our customers to quote quicker, win more work and supercharge their shop floors.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "With over 100 years on combined manufacturing and engineering expertise, across both CNC machining and 3D printing, our team are passionate about complex, high value part manufacturing for mission critical applications. Based across 4 global offices, we are radical about Re-industrialising Western manufacturing.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "CEO & Founder of AMFG. +15 years track record in manufacturing deeptech with a singular focus on autonomous manufacturing. Previous experience in digital tech across automotive, banking, retail.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Cornel is Investment Director at M&G Crossover Fund. Serial deeptech investor and science venture investor. Formely 2x entrepreneur and strategy and M&A advisor.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "President of Schneider Electrics (Nordics and Baltics), Mike has over 25 years’ experience in IT and industrial automation with global management roles in Germany, China and the UK.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "20 years experience as strategic Chief Financial Officer and co-architect of company ambition. Ex CFO, CEO of both listed and private technology companies.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Gain visibility over supply chains and production, with our end-to-end traceability solution.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your TTM and turnaround time with our flexible, streamlined production processes.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Orthotics and Prosthetics",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure you have the perfect product, exactly when you need it, every time.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your throughput by removing quoting bottlenecks and streamlining production schedules.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize the shop floor production capacity. Total schedule visibility lets you spot bottlenecks early.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your margins at the drawing board. Design confidently with real time cost feedback.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted something that would make estimating simple, without losing the accuracy that comes with years of specialised knowledge and practice.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient connectivity and easy access to systems data is key to accelerating the journey towards digital production. We're excited to partner with AMFG to help our customers bring more control, automation and visibility into their operations.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Project Manager cirp GmbH",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "After a longstanding evaluation of potential providers, only AMFG provided a solution for the full additive workflow to give us the agility we needed. When you have to manage 1m+ parts per annum, ensuring you have the right MES is a critical requirement.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "With pricing scripts based on your unique specifications, our instant quoting portal converts RFQs into tickets with consistent accuracy.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "With calculated prime production slots, real-time machine monitoring, and automated scheduling, order management has never been smoother.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted something that would make estimating simple, without losing the accuracy that comes with years of specialised knowledge and practice.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient connectivity and easy access to systems data is key to accelerating the journey towards digital production. We're excited to partner with AMFG to help our customers bring more control, automation and visibility into their operations.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Project Manager cirp GmbH",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "After a longstanding evaluation of potential providers, only AMFG provided a solution for the full additive workflow to give us the agility we needed. When you have to manage 1m+ parts per annum, ensuring you have the right MES is a critical requirement.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gain complete transparency and visibility across your operations, with intelligent work plans and precise job costing.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Complete a PDF analysis in under 3 seconds, with our intelligent PDF analysis tool, Sentinel AI. Receive material, tolerancing, threads, and surface roughness with ease, with consistently high standards of accuracy.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "With AMFG’s internal management portal, you can accurately estimate cycle times and pricing to create intelligent workplans. With the option to link your quoting process with admin generation, scheduling, and inventory management, you have all the information you need in one place, so every job is always on schedule.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "With ISO 27001 certification and full ITAR compliance, you can rest easy in the knowledge that everything is protected with military grade security.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure that your part is suitable for 3D printing with our file analysis technology. With a simple click, AMFG will automatically repair and convert your CAD files to STL, shortening your lead times.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect every part with the 3D viewer, and facilitate seamless cross-departmental communication with internal production sharing so all jobs are printed accurately and efficiently.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted something that would make estimating simple, without losing the accuracy that comes with years of specialised knowledge and practice.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient connectivity and easy access to systems data is key to accelerating the journey towards digital production. We're excited to partner with AMFG to help our customers bring more control, automation and visibility into their operations.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Project Manager cirp GmbH",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "After a longstanding evaluation of potential providers, only AMFG provided a solution for the full additive workflow to give us the agility we needed. When you have to manage 1m+ parts per annum, ensuring you have the right MES is a critical requirement.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG helped BensonsCNC speed up their quoting processes, reducing the need for manual adjustments and light programming for a 5-part workload from 2–3 hours down to just 20–30 minutes, representing an average 83% in time saved.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Adaero Precision Components",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "3D Print Bureau",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "3D Print Bureau speeds up quoting with AMFG's instant quoting tool.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG and A3D Manufacturing partner to optimise end-to-end production workflows.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Craft Precision Engineering",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Bowman Additive Production",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted something that would make estimating simple, without losing the accuracy that comes with years of specialised knowledge and practice.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient connectivity and easy access to systems data is key to accelerating the journey towards digital production. We're excited to partner with AMFG to help our customers bring more control, automation and visibility into their operations.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI Manufacturing Quoting Software for Machine Shops | AMFG",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Quoting Software for Manufacturing",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate all stages of your manufacturing operations",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Next-Gen Manufacturing Software",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatic scheduling based on your shop floor capabilities",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Take control of your shop floor with real time visibility",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your operational capabilities and gain unparalleled visibility into your production facilities with AMFG’s advanced shop floor control.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore shop floor control",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embrace automation and become a truly digital manufacturer",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "requirements to manage all our streams for manufacturing [...] connectivity and openness of the platform let us imagine very powerful integrations with our ecosystem.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Software, Data and Automation, HP Personalization and Industrial BusinessHP",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to help manufacturers streamline their operations with our cutting-edge software platform. By automating quoting, order intake, and production workflows, we enable high-value manufacturers to adapt to complex demand with efficiency and precision, securing their place at the forefront of the manufacturing industry.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We have built the market leading quoting, order intake and production software for high-mix, low volume manufacturing. Our technology is now utilised by 300+ machine shops across 39 countries and 10 time zones, enabling our customers to quote quicker, win more work and supercharge their shop floors.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "With over 100 years on combined manufacturing and engineering expertise, across both CNC machining and 3D printing, our team are passionate about complex, high value part manufacturing for mission critical applications. Based across 4 global offices, we are radical about Re-industrialising Western manufacturing.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "CEO & Founder of AMFG. +15 years track record in manufacturing deeptech with a singular focus on autonomous manufacturing. Previous experience in digital tech across automotive, banking, retail.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "President of Schneider Electrics (Nordics and Baltics), Mike has over 25 years’ experience in IT and industrial automation with global management roles in Germany, China and the UK.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Total shop floor visibility built for low volume, high mix manufacturers",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Contract Manufacturing",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your manufacturing journey with our seasoned team of experts.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defence",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize the shop floor production capacity. Total schedule visibility lets you spot bottlenecks early.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "requirements to manage all our streams for manufacturing [...] connectivity and openness of the platform let us imagine very powerful integrations with our ecosystem.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Software, Data and Automation, HP Personalization and Industrial BusinessHP",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "requirements to manage all our streams for manufacturing [...] connectivity and openness of the platform let us imagine very powerful integrations with our ecosystem.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Software, Data and Automation, HP Personalization and Industrial BusinessHP",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Estimating & Quoting Software for Contract Manufacturers | AMFG",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Software for every manufacturing machine, additive and subtractive",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "requirements to manage all our streams for manufacturing [...] connectivity and openness of the platform let us imagine very powerful integrations with our ecosystem.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Software, Data and Automation, HP Personalization and Industrial BusinessHP",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Air-Lake Machine & Manufacturing Inc",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG partners with Air-Lake Machine & Manufacturing to slash quote times.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "PFS Contract Manufacturing",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "PFS Contract Manufacturing halves quoting times with AMFG",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A3D Manufacturing",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG and A3D Manufacturing partner to optimise end-to-end production workflows.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Graphite Additive Manufacturing",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "requirements to manage all our streams for manufacturing [...] connectivity and openness of the platform let us imagine very powerful integrations with our ecosystem.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Software, Data and Automation, HP Personalization and Industrial BusinessHP",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Working for world leading customers in widely differing industries powers us to be constantly in line with the highest requirements [...] AMFG was keen to understand and implement more complex manufacturing process chains as a mirror picture into their MES solution.",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Program Management - Manufacturing LatticeOECHSLER AG",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.amfg.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Design for Manufacturing (DfM/DfAM)",
+    "url": "https://www.amfg.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Shop Floor App (coming soon)",
+    "url": "https://www.amfg.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Generate consistent internal cost estimates directly from CAD using your machines, materials, labor rates and manufacturing logic.",
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "pass": 1
+   },
+   {
+    "quote": "Give engineers and internal teams one place to submit manufacturing requests, upload CAD files and provide part requirements.",
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG’s Geometric Estimating Engine analyses 3D CAD geometry and applies your manufacturing logic to calculate material, machine, labor and processing costs for additive and CNC-machined parts.",
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "pass": 1
+   },
+   {
+    "quote": "Create a reliable baseline estimate in under 90 seconds, then adjust it to reflect different machines, materials, tolerances or production strategies. This gives engineering and manufacturing teams a consistent foundation for budgeting and make-or-buy decisions.",
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule work centers, machines, operators and post-processing resources according to live availability, capacity and delivery priorities.",
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "pass": 1
+   },
+   {
+    "quote": "Give operators digital access to work instructions, part files, operations and quality requirements directly from the shop floor.",
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "20 years experience as strategic Chief Financial Officer and co-architect of company ambition. Ex CFO, CEO of both listed and private technology companies.",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Grow revenue and scale your business",
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG & Adaero collaborate to lower the estimating skills barrier",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG’s mission is to lower the estimating and quoting skills barrier. With auto-suggestions, DFM warnings, a streamlined intuitive interface, and specialised support teams dedicated to helping shops make the most of their software, AMFG is the most effective way to quickly lower the skills barrier in manufacturing.",
+    "url": "https://www.amfg.ai/customers/cnc-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "However, producing a component to specification is only part of the challenge. Manufacturers must also understand the production implications of each requirement before committing to a job.",
+    "url": "https://www.amfg.ai/post/5-precision-manufacturing-trends-shaping-2026",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG has 79 total employees.",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   },
+   {
+    "quote": "What is AMFG’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for AMFG is",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Custom PDF & Email Generation",
+    "url": "https://www.amfg.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email & Ticket Support",
+    "url": "https://www.amfg.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No Email and Tickets Support",
+    "url": "https://www.amfg.ai/kurf/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email and Tickets support",
+    "url": "https://www.amfg.ai/kurf/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The ability to handle emails from multiple accounts with a ticketing system",
+    "url": "https://www.amfg.ai/case-studies/how-cnc-solutions-boosted-quote-volume-by-50",
+    "pass": 1
+   },
+   {
+    "quote": "AMFG is able to integrate emails directly into the interface, removing the hassle of downloading and uploading the files in an email chain into the system. Users can then create a ticket directly on AMFG with a clear RFQ trace to the email chain.",
+    "url": "https://www.amfg.ai/case-studies/how-cnc-solutions-boosted-quote-volume-by-50",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社システムクリエイト、製造業ソリューションソフトウェアのAMFG社と日本市場での代理店契約を締結 | 株式会社システムクリエイトのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000255.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイト、製造業ソリューションソフトウェアのAMFG社と�日本市場での代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000255.000140772.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製造業ソリューションソフトウェアの AMFG 社と日本市場での ... — 製造業ソリューションソフトウェアの AMFG 社と日本市場での ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000255.000140772.html",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG | LinkedIn — AMFG | LinkedIn LinkedIn https://jp.linkedin.com > company > amfg",
+    "url": "https://jp.linkedin.com/company/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - AMFG — Customers - AMFG Amfg.ai https://www.amfg.ai > customers",
+    "url": "https://www.amfg.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG 2026 Company Profile: Valuation, Funding & Investors — AMFG 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG Receives $8.5 Million in Funding Led by Intel Capital to ... — AMFG Receives $8.5 Million in Funding Led by Intel Capital to ... Intel Capital https://www.intelcapital.com > amfg-r...",
+    "url": "https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG : Revenue , Competitors, Alternatives - Growjo — AMFG : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > AMFG",
+    "url": "https://growjo.com/company/AMFG",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - AMFG — About Us - AMFG Amfg.ai https://www.amfg.ai > about-us",
+    "url": "https://www.amfg.ai/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG - LinkedIn — AMFG - LinkedIn LinkedIn https://uk.linkedin.com > amfg",
+    "url": "https://uk.linkedin.com/company/amfg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AMFG - LinkedIn AMFG - LinkedIn LinkedIn https://uk.linkedin.com > amfg",
+    "url": "https://uk.linkedin.com/company/amfg",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG | LinkedIn AMFG | LinkedIn LinkedIn https://ua.linkedin.com > amfg",
+    "url": "https://ua.linkedin.com/company/amfg?trk=public_profile_experience-item_profile-section-card_image-click",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG Group - LinkedIn AMFG Group - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/amfg-group",
+    "pass": 3
+   },
+   {
+    "quote": "How to explain AMFG in 10 seconds or less - LinkedIn How to explain AMFG in 10 seconds or less - LinkedIn LinkedIn https://www.linkedin.com > posts > amfg_quoting-manuf...",
+    "url": "https://www.linkedin.com/posts/amfg_quoting-manufacturing-10seconds-activity-7389677523879694336-UV-9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AMFG | London - Facebook AMFG | London - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/AutonomousManufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AMFG México | Mexico City - Facebook AMFG México | Mexico City - Facebook Facebook https://www.facebook.com > amfg.mexico",
+    "url": "https://www.facebook.com/amfg.mexico/",
+    "pass": 3
+   },
+   {
+    "quote": "The AMFG BARRACUDA grubs, digs, pulls, & grapples ... The AMFG BARRACUDA grubs, digs, pulls, & grapples ... Facebook https://www.facebook.com > idigtx > posts > the-amfg-ba...",
+    "url": "https://www.facebook.com/idigtx/posts/the-amfg-barracuda-grubs-digs-pulls-grapples-lifetime-warranty-free-shipping-in-/1618404670301440/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.amfg.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/contract-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/kurf/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/enterprise-oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/customers/cnc-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/customers/air-lake-machine-manufacturing-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/case-studies/how-cnc-solutions-boosted-quote-volume-by-50",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/customers/a3d-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/post/busch-brothers-machining-triples-their-rfq-response-speed-with-amfg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/post/dont-wait-until-manual-manufacturing-workflows-start-costing-you-time-and-money",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/post/5-precision-manufacturing-trends-shaping-2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/689f23c3fe8309edbed6781a/6ad2173e11a3f5504bc4aec1_msp-manufacturing.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/689f23c3fe8309edbed6781a/69845579822ee887603272dd_two-men-looking-computer-screen-with-model-cnc-machine-it.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/689f23c3fe8309edbed6781a/6a8bc9d65e841506fe78f313_cncsolutions.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/689f23c3fe8309edbed6781a/693bf1ca5a77a62042f51b75_Image%20(1).avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.mercedes-benz.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://engineweb.jp/article/detail/3352169",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://autobild.jp/73577/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caranddriver.co.jp/newcar/126995/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amg-tokyosetagaya.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000255.000140772.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getinge.com/jp/contact/other/become-a-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sakura-amg.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.amg.com/news-releases/news-release-details/amg-expands-capabilities-asia-japan-office-opening-and-senior",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/amfg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38310867/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thembmarket.com/amg-japan-sales-brochures-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKLP4izyDyuGWT4-_BsoP0X5pqIywC8VVQYpKg-zjhnoqs8cV6w",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bakerhughes.com/industrial-technology/additive-manufacturing/case-study",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/100721-17",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/AMFG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amfg.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/amfg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ua.linkedin.com/company/amfg?trk=public_profile_experience-item_profile-section-card_image-click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/amfg-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/amfg_quoting-manufacturing-10seconds-activity-7389677523879694336-UV-9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AutonomousManufacturing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amfg.mexico/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/idigtx/posts/the-amfg-barracuda-grubs-digs-pulls-grapples-lifetime-warranty-free-shipping-in-/1618404670301440/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AutonomousManufacturing/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Amfg 日本 導入",
+   "results": [
+    "https://www.mercedes-benz.co.jp/",
+    "https://engineweb.jp/article/detail/3352169",
+    "https://autobild.jp/73577/",
+    "https://www.caranddriver.co.jp/newcar/126995/",
+    "https://www.autocar.jp/post/403564",
+    "https://www.as-web.jp/car/1296938",
+    "https://response.jp/article/2017/06/27/296687.html",
+    "https://www.webcg.net/articles/-/10106",
+    "https://news.3rd-in.co.jp/article/4ca55a62-fe25-11ef-9058-9ca3ba083d71",
+    "https://3druck.com/ja/産業/日本のeコマース企業dmm-comがamfgとのパートナーシップ-2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Amfg 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.amg-tokyosetagaya.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000255.000140772.html",
+    "https://www.getinge.com/jp/contact/other/become-a-distributor/",
+    "http://sakura-amg.com/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://goodgoods.co.jp/agentshop-offer.html",
+    "https://amg-zeirishi.com/",
+    "https://www.yamato-net.co.jp/company/agency/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Amfg Japan",
+   "results": [
+    "https://ir.amg.com/news-releases/news-release-details/amg-expands-capabilities-asia-japan-office-opening-and-senior",
+    "https://jp.linkedin.com/company/amfg",
+    "https://pubmed.ncbi.nlm.nih.gov/38310867/",
+    "https://thembmarket.com/amg-japan-sales-brochures-1",
+    "https://mb140.school/2024/07/27/history-amg-japans-timeline-and-statistics/",
+    "https://www.smfg.co.jp/english/",
+    "https://www.japancardirect.com/jdm-vehicles/german-cars-from-japan/amg/",
+    "https://www.youtube.com/watch?v=IustYxR7nN8",
+    "https://www.mercedesamgf1.com/races/japanese-grand-prix-2026",
+    "https://amfg.co.id/en/corporate/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Amfg manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKLP4izyDyuGWT4-_BsoP0X5pqIywC8VVQYpKg-zjhnoqs8cV6w",
+    "https://www.amfg.ai/customers",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://www.bakerhughes.com/industrial-technology/additive-manufacturing/case-study",
+    "https://markforged.com/resources/case-studies",
+    "https://uk.linkedin.com/company/amfg",
+    "https://appliedmfg.com/case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.youtube.com/watch?v=qm1b6z1arOU",
+    "https://www.casestudies.com/company/amfg"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Amfg white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.agentz.ai/partners",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Amfg founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/100721-17",
+    "https://www.intelcapital.com/amfg-receives-8-5-million-in-funding-led-by-intel-capital-to-drive-the-future-of-fully-autonomous-manufacturing/",
+    "https://growjo.com/company/AMFG",
+    "https://www.amfg.ai/about-us",
+    "https://uk.linkedin.com/company/amfg",
+    "https://www.imperial.ac.uk/news/243291/imperial-amfg-innovate-uk-funding-deliver/",
+    "https://multiples.vc/private-comps/ema",
+    "https://gaps.com/finance/",
+    "https://getlatka.com/companies/amperity",
+    "https://tracxn.com/d/companies/amfg/__5Yd68udZ-s-fFjSvho26N9G1YF4rGM_2QuJfP9sYOLk"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Amfg",
+   "results": [
+    "https://note.com/fresh_otter4028/n/n9f92037cc456",
+    "https://note.com/gunbaka/n/nfbf61be51cd0?hl=en",
+    "https://note.com/plot_labo9/n/n4b96789dcb6d",
+    "https://note.com/akira_marketing/n/n6f15ea1407a6?hl=en",
+    "https://note.com/yurikoguro/n/n600f444563ff",
+    "https://note.com/gunbaka/n/nfbf61be51cd0/comments?hl=en-US",
+    "https://note.com/interestingtopic/n/n69839f8b4936",
+    "https://note.com/booklife_xox/n/n53fb4b5a1097",
+    "https://note.com/lettuce606/n/na1ffd8299093",
+    "https://note.com/gunbaka/n/nfbf61be51cd0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Amfg",
+   "results": [
+    "https://x.com/nhsportspage/status/2119058180340871627",
+    "https://x.com/janijaniinfo/status/2098074016082698562",
+    "https://x.com/janijaniinfo/status/2098251677212270697",
+    "https://x.com/hashtag/Tokon_Starlord",
+    "https://x.com/info__Johnnys/status/2100002386312085835",
+    "https://x.com/info__Johnnys/status/2099766310574215512",
+    "https://x.com/JordanNanos/status/2102871532267847699",
+    "https://x.com/IPG_inc",
+    "https://x.com/eliothorowitz",
+    "https://x.com/JordanNanos"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Amfg",
+   "results": [
+    "https://uk.linkedin.com/company/amfg",
+    "https://ua.linkedin.com/company/amfg?trk=public_profile_experience-item_profile-section-card_image-click",
+    "https://www.linkedin.com/company/amfg-group",
+    "https://www.linkedin.com/posts/amfg_quoting-manufacturing-10seconds-activity-7389677523879694336-UV-9",
+    "https://jp.linkedin.com/company/amfg",
+    "https://uk.linkedin.com/in/keyvank",
+    "https://uk.linkedin.com/in/victoria-ruda-a82594197",
+    "https://uk.linkedin.com/in/marynakucher",
+    "https://uk.linkedin.com/in/henrymorris00",
+    "https://www.linkedin.com/posts/amfg_what-if-you-could-see-every-setup-angle-activity-7495479656813424641-lQMc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Amfg",
+   "results": [
+    "https://www.facebook.com/AutonomousManufacturing/",
+    "https://www.facebook.com/amfg.mexico/",
+    "https://www.facebook.com/idigtx/posts/the-amfg-barracuda-grubs-digs-pulls-grapples-lifetime-warranty-free-shipping-in-/1618404670301440/",
+    "https://www.facebook.com/RCF.proaudio/photos/rcf-engineering-team-has-developed-amfg-ease-4-gll-files-for-new-speakers-for-th/4381198635224508/",
+    "https://www.facebook.com/pages/AMFG-Automotive-Glass-General-Division/193080420871677?locale=zh_CN",
+    "https://www.facebook.com/amfg.mexico/photos/1498023822334910/",
+    "https://www.facebook.com/idigtx/videos/amfg-products-are-heading-to-i-dig-texas-come-see-what-i-dig-texas-has-to-offer-/1883233692850815/",
+    "https://www.facebook.com/marketplace/item/660019829792578/",
+    "https://www.facebook.com/AutonomousManufacturing/posts/will-2026-be-the-year-for-aerospace-manufacturing-%EF%B8%8F-johnny-goode-president-of-ms/1404443228134571/",
+    "https://www.facebook.com/amm.amfg.3/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Amfg note 社長",
+   "results": [
+    "https://note.com/amgsolution",
+    "https://amg-solution.jp/blog/75069",
+    "https://note.com/standage/n/n1ec9248b11b2",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/standage/n/n2fc61ef58196",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/series-name/note/",
+    "https://x.com/sadaaki",
+    "https://www.instagram.com/p/DdZJxF5qlHF/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Amfg X 投稿",
+   "results": [
+    "https://console.amfg.ai/client-app/?token=1638273220483&language=EN&timestamp=1793059200445&trackCustomAnalytics=true",
+    "https://www.facebook.com/AutonomousManufacturing/",
+    "https://www.youtube.com/watch?v=Fz4SfVPBreY",
+    "https://www.youtube.com/@AMFG-AutonomousManufacturing",
+    "https://jp.linkedin.com/company/amfg",
+    "https://www.reddit.com/r/XWingTMG/comments/1gkarlz/idle_thought_is_amgffg_just_giving_xwing_break/",
+    "https://amfg.breezy.hr/",
+    "https://x.com/hashtag/amf?src=hashtag_click",
+    "https://www.instagram.com/mercedesamgf1/",
+    "https://x.com/AMFG_ai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

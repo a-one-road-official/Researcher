@@ -9,193 +9,251 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T03:22:04.438933+00:00",
+ "researched_at": "2026-11-09T19:21:36.888271+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "突き合わせ・推定": [
    {
-    "quote": "bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of",
+    "quote": "of actual analysts’ estimates to distributional forecasts and of historic distributional",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "at Flossbach von Storch AG for providing the analysts’ estimates. Moreover, the author thanks the",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "actual analysts’ estimates, thus, illustrates the practical application of reference classes",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "as an estimate of the marginal distribution neglecting any confounding variables. The",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Table 3 shows the estimated density of historical sales compound annual growth rate",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 7:Estimated densities of compound annual sales growth rate for horizons one,",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "existing forecast over providing confidence intervals and point estimates to calculating",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "correct the prediction. Confidence intervals and point estimates can be directly calculated",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "then compared to analysts’ forecast from theFactSet(2021) estimates database. For both",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(vertical: min/mean/max of expert estimates)",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "options from Table 6 compared to experts’ estimates. Density estimation on",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "rithm options from Table 6 compared to experts’ estimates. Density estimation",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "loaded on 29 January, 2020. The “Core company data - estimates data” that support the",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "FactSet. Core company data - estimates data. FactSet, 2021. URLhttp://factset.com/.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "quality is measured by applying goodness-of-ﬁt tests on the estimated probability",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Keywords: Distributional Forecast, Goodness of Fit, Outside View, Prediction, Bias",
+    "quote": "providing the analysts’ estimates and valuable advice. This research did not receive any speciﬁc grant",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "and forecasts are often based on heuristics and were empirically shown to be biased as well",
+    "quote": "actual analysts’ estimates in order to show the practical usefulness and demonstrate how",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "(17%), availability (15%) and loss aversion (13%) are the behavioral biases that aﬀect",
+    "quote": "distribution has either to be assessed directly or to be estimated within the next step. At",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "investment decisions the most.Lim (2001) reviews analysts’ bias,Jones and Johnstone",
+    "quote": "from theFactSet (2021) estimates database9, whereby for both estimates 2018 is the",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "source of bias.Ashton and Cianci(2007) discuss diﬀerences between buy-side and sell-",
+    "quote": "FactSet. Core company data - estimates data. FactSet, 2021. URLhttp://factset.com/.",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "mentioned biases (Tetlock and Gardner, 2016). The basic idea of the outside view is",
+    "quote": "Evidence from analyst earnings estimates and price targets.Journal of Behavioral",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "attention to the biases than to debiasing (Chang et al., 2016). Green and Armstrong",
+    "quote": "Figure 5:Estimated densities of compound annual sales growth for horizons one, three,",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "classes are prone to the availability bias described byTversky and Kahneman(1973).",
+    "quote": "(vertical: min/mean/max of expert estimates)",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "consist of only six elements elevating the probability of bias again. Surprisingly there",
+    "quote": "and size = 0.025 compared to experts’ estimates. For density estimation on",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "fact that forecasts are often based on heuristics and were empirically shown to be biased",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Kahneman and Tversky(1979) introduced a corrective procedure for biases of predictions",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "While each of the ﬁve steps has its own pitfalls in practice, we focus on the ﬁrst one and",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In this case the probability of a biased forecast is again elevated. Based on this fact",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "cloud and highlights the pitfall that an element on the border of one cluster may be closer",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A case study compares the outside view of our distributional forecasts with actual",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "distribution of future sales. Moreover, in a case study we compare our forecasts with",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the inside view, i.e. information on the speciﬁc case at hand, with the outside view,",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "i.e. information on a class of similar cases. This may include for example statistical or",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "which involves ﬁve steps. First, the forecaster has to identify a set of similar cases which",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "this point the expert uses their available information on the case for an inside prediction.",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "case of linear prediction, this may be the correlation between their predictions and the",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "from the general rule to use similar cases. Moreover, there is a fundamental conﬂict",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "take as many cases into account as possible. However, it is crucial that heterogeneity",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In this case the probability of a biased forecast is again elevated. Based on this fact",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "In literature, there are several studies dealing with reference class building. For example,",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Lovallo et al.(2012) report two case studies with respect to private-equity investment deci-",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "as they used clustered data which has a substantial problem in general. As an example,",
-    "url": "https://arxiv.org/pdf/2107.11133",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "example, we could use all companies which had an operating margin±1 percentage",
+    "quote": "window = 30 and size = 0.025 compared to experts’ estimates. For density",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
   ],
   "手順・やり方": [
+   {
+    "quote": "variates as reference variables, that are implicit predictors. The method can be",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "forecasts to realized sales growth illustrate the practical use of the method.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "we extend the method for distributional forecasts with reference classes proposed by",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "sales growth with a single co-variate and we generalize their method using rank based",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We propose a framework for reference class selection based on several co-variates, here",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "proposed methods are well suited for practical application, the more so, as the outside view",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and how to apply their results in practice. We additionally display historic distributional",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "framework of reference class selection and the proposed algorithms. Performance measures",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "seen as a data driven method to overcome overoptimism, wishful thinking or strategic",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Here, we concentrate on a framework to select an appropriate reference class. This is",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "critical as Kahneman and Tversky(1979) gave no instructions how to build reference",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "their method has certain drawbacks (seeTheising et al., 2023) and their study lacks a",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2.1. Theoretical Framework",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a given firmi at timet, we aim to construct a reference class for anh-step ahead",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "forecast of the distribution ofYi,t+h, that is a distributionalh-step ahead forecast of the",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
    {
     "quote": "This paper proposes a general method to handle forecasts exposed to behavioural",
     "url": "https://arxiv.org/pdf/2107.11133",
@@ -287,69 +345,359 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "突き合わせ・推定": [
+  "実例": [
    {
-    "quote": "quality is measured by applying goodness-of-ﬁt tests on the estimated probability",
+    "quote": "on debiasing itself (Chang et al., 2016). Theising et al.(2023) discuss some examples",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2Venn (1888) originally describes an example of a fifty-year-old consumptive Englishman with many",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on the forecast horizon. Further, a case study compares the distributional forecasts with",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "often focus solely on information on the specific case at hand, the inside view, while",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "neglecting information on a class of similar cases, the outside view. Statistical or empirical",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "prediction, from the selection of a set of similar cases as a reference class to provide",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "correlation between their predictions and the outcomes in case of linear prediction, and,",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "classes except the general rule to use similar cases. Moreover, there is a conflict of",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "cases into account as possible provides the most distributional information. However, it is",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5In case of a finance application like here, such a data generating mechanism may be calledmarket",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "clusters and due to continuity of reference variables in our case we argue that it does",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6This applies to the special case here. The proposed procedures do not account for ‘natural’ clusters",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that might occur. For example, there might be only 20 observations ‘very similar’ to the initial",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "case. But the algorithm may choose the most similar 25 observations and, thus, five less informative",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "from the set of candidates. In both cases, all candidate firms that are in the same major",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "providing the analysts’ estimates and valuable advice. This research did not receive any speciﬁc grant",
+    "quote": "A case study compares the outside view of our distributional forecasts with actual",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "actual analysts’ estimates in order to show the practical usefulness and demonstrate how",
+    "quote": "distribution of future sales. Moreover, in a case study we compare our forecasts with",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "distribution has either to be assessed directly or to be estimated within the next step. At",
+    "quote": "the inside view, i.e. information on the speciﬁc case at hand, with the outside view,",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "from theFactSet (2021) estimates database9, whereby for both estimates 2018 is the",
+    "quote": "i.e. information on a class of similar cases. This may include for example statistical or",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "FactSet. Core company data - estimates data. FactSet, 2021. URLhttp://factset.com/.",
+    "quote": "which involves ﬁve steps. First, the forecaster has to identify a set of similar cases which",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Evidence from analyst earnings estimates and price targets.Journal of Behavioral",
+    "quote": "this point the expert uses their available information on the case for an inside prediction.",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Figure 5:Estimated densities of compound annual sales growth for horizons one, three,",
+    "quote": "case of linear prediction, this may be the correlation between their predictions and the",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "(vertical: min/mean/max of expert estimates)",
+    "quote": "from the general rule to use similar cases. Moreover, there is a fundamental conﬂict",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "and size = 0.025 compared to experts’ estimates. For density estimation on",
+    "quote": "take as many cases into account as possible. However, it is crucial that heterogeneity",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "window = 30 and size = 0.025 compared to experts’ estimates. For density",
+    "quote": "In this case the probability of a biased forecast is again elevated. Based on this fact",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In literature, there are several studies dealing with reference class building. For example,",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Lovallo et al.(2012) report two case studies with respect to private-equity investment deci-",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "as they used clustered data which has a substantial problem in general. As an example,",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "example, we could use all companies which had an operating margin±1 percentage",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "used to detect expert or model-based forecasts exposed to (behavioral) bias or to",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Bias Correction, Prediction, Outside View",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "shown to be biased as well as overoptimistic (see, e.g.,Tversky and Kahneman, 1973,",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the aforementioned biases (Tetlock and Gardner, 2016). The concept of the outside",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2016; Karvetski et al., 2021). But in general the literature focused more on biases than",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on debiasing itself (Chang et al., 2016). Theising et al.(2023) discuss some examples",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "based on heuristics and were empirically shown to be biased as well as overoptimistic",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "a likewise biased forecast exists. Based on this trade-offLovallo and Kahneman(2003)",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "cloud highlight the pitfall that elements on the border of one cluster may be",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "finding calibrated distributional forecasts if any exist, e.g. to correct potentially biased",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "biased conclusions in the backtest.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "thought, correcting potentially biased expert (or model based) forecasts with the outside",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "D. Kahneman and A. Tversky. Intuitive prediction: Biases and corrective procedures.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A. Tversky and D. Kahneman. Judgement under uncertainty: Heuristics and biases.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "bias by ﬁnding appropriate outside views, in our case corporate sales forecasts of",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Keywords: Distributional Forecast, Goodness of Fit, Outside View, Prediction, Bias",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and forecasts are often based on heuristics and were empirically shown to be biased as well",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(17%), availability (15%) and loss aversion (13%) are the behavioral biases that aﬀect",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "investment decisions the most.Lim (2001) reviews analysts’ bias,Jones and Johnstone",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "source of bias.Ashton and Cianci(2007) discuss diﬀerences between buy-side and sell-",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "mentioned biases (Tetlock and Gardner, 2016). The basic idea of the outside view is",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "attention to the biases than to debiasing (Chang et al., 2016). Green and Armstrong",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "classes are prone to the availability bias described byTversky and Kahneman(1973).",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "consist of only six elements elevating the probability of bias again. Surprisingly there",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "fact that forecasts are often based on heuristics and were empirically shown to be biased",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Kahneman and Tversky(1979) introduced a corrective procedure for biases of predictions",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "While each of the ﬁve steps has its own pitfalls in practice, we focus on the ﬁrst one and",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "In this case the probability of a biased forecast is again elevated. Based on this fact",
+    "url": "https://arxiv.org/pdf/2107.11133",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "cloud and highlights the pitfall that an element on the border of one cluster may be closer",
     "url": "https://arxiv.org/pdf/2107.11133",
     "pass": 3,
     "first_seen": "2026-11-08"
@@ -360,17 +708,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/materialdx/n/na4cc0df7efeb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/merry_hawk8363/n/n0a2877260e3a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ifrslabo/n/nac06acf17013",
+    "url": "https://note.com/ogataka/n/n48bfdd7c3dd7",
     "status": "ok",
     "method": "http"
    },
@@ -380,52 +718,57 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/misaki_ai_work/n/n7a5fd7bea09f",
+    "url": "https://note.com/cyber_forest/n/n63cd6ad5852f",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shugo/n/nd3cbfe434c4a",
+    "url": "https://note.com/aoyamacpa/n/n61ae30204e43",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kenichiro/n/n73cdd7349e00",
+    "url": "https://note.com/good_camel6014/n/n289b25412451",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/lively_swan2582/n/n915bf36ed75c",
+    "url": "https://note.com/pharma_qualita/n/n05647ff46fed",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/super_crocus100/n/nf3a981322fc4",
+    "url": "https://note.com/crt03/n/nb1e13d415051",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ogataka/n/n09d7818f0d61",
+    "url": "https://note.com/saki_yogoro/n/na490775d5edd",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/momiji1/n/n3217ab514f81",
+    "url": "https://note.com/pharma_insight/n/n0f51178e183b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nano.globis.ac.jp/r/digital-glossary/article/311",
+    "url": "https://note.com/irnote_2440/n/n37edac66177b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://proactive.jp/resources/columns/demand-forecast-accuracy/",
+    "url": "https://note.com/tanakaconsul/n/n16b7ca852080",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://otexts.com/fppjp/toolbox.html",
+    "url": "https://note.com/matrixflow/n/nefef89a8be1e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.customedia.co.jp/marketing/comparison/",
     "status": "ok",
     "method": "http"
    },
@@ -435,67 +778,57 @@
     "method": "http"
    },
    {
+    "url": "https://otsumu.co.jp/knowledge/articles/kpi-target-setting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/tarantula426/items/92676f529e25580837f0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kogures.com/hitoshi/webtext/or-fc-intro/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ashita-team.com/jinji-online/ebook/11080?utm_campaign=side_banner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.osaka.lg.jp/documents/34495/zentai_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/kowan/content/001879327.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000619709.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://data-viz-lab.com/analyticalmethod-list",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ht-tax.or.jp/navi/ppa-evaluation-approach",
+    "url": "https://www.env.go.jp/content/000118048.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pmas-iicp.jp/media/accounting/a34",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mlit.go.jp/common/001204077.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jice.or.jp/cms/kokudo/pdf/tech/material/emb-boo-1-04.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://kanteishi-bootlab.com/articles/torihiki-jirei-hikakuhou-jitsumu",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nta.go.jp/law/jimu-unei/hojin/010601/pdf/bessatsu.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.tac-school.co.jp/library/010dougaChannel/63YOEBhzyx4.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.morganstanley.com/im/publication/insights/articles/article_bayesandbaserates_ltr.pdf",
-    "status": "http_403",
-    "method": "pdf"
    },
    {
     "url": "https://mjbaldbard.wordpress.com/wp-content/uploads/2020/09/michael-mauboussin-e28093-base-rate-books-2015-2016.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://hedgefundalpha.com/education/michael-mauboussin-the-base-rate-book/?srsltid=AYCX9vJOWArIByO7ihVBB-mccf0iqpbonO5SHbAO6jqlSnoO6BYyFfP5",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arxiv.org/pdf/2107.11133",
     "status": "ok",
     "method": "pdf"
    },
@@ -505,9 +838,24 @@
     "method": "http"
    },
    {
-    "url": "https://www.compoundwithrene.com/p/the-ultimate-base-rates-guide-from",
+    "url": "https://www.morganstanley.com/im/publication/insights/articles/article_bayesandbaserates_ltr.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://compcap.substack.com/p/michael-mauboussin-base-rates",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hedgefundalpha.com/education/michael-mauboussin-the-base-rate-book/?srsltid=AYCX9vInpSgIawvYY-jmP9ErrPPFk51LAdn-B5_1hTLICWHZkwozMFFM",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -515,16 +863,16 @@
   {
    "query": "基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112） site:note.com",
    "results": [
-    "https://note.com/materialdx/n/na4cc0df7efeb",
-    "https://note.com/merry_hawk8363/n/n0a2877260e3a",
-    "https://note.com/ifrslabo/n/nac06acf17013",
+    "https://note.com/ogataka/n/n48bfdd7c3dd7",
     "https://note.com/materialdx/n/n96ae49f6300b",
-    "https://note.com/misaki_ai_work/n/n7a5fd7bea09f",
-    "https://note.com/shugo/n/nd3cbfe434c4a",
-    "https://note.com/makememo/n/n7ae565d6e7f0",
-    "https://note.com/lovely_hawk473/n/nbb41154acc97",
-    "https://note.com/iamwhatichose/n/nb87b41e2f9e7",
-    "https://note.com/bespokepartner/n/ndc4b628ee361"
+    "https://note.com/cyber_forest/n/n63cd6ad5852f",
+    "https://note.com/aoyamacpa/n/n61ae30204e43",
+    "https://note.com/good_camel6014/n/n289b25412451",
+    "https://note.com/pharma_qualita/n/n05647ff46fed",
+    "https://note.com/honda_crosscom/n/n8a23b33bbb4a",
+    "https://note.com/ripla_business/n/n69167e4c9eb6",
+    "https://note.com/manabu_ikarashi/n/nd2446997295f",
+    "https://note.com/sei_tamai/n/nd5088b056dbe"
    ],
    "engines": [
     "ddgs:google",
@@ -535,15 +883,15 @@
   {
    "query": "基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112） note",
    "results": [
-    "https://note.com/shugo/n/nd3cbfe434c4a",
-    "https://note.com/kenichiro/n/n73cdd7349e00",
-    "https://note.com/lively_swan2582/n/n915bf36ed75c",
-    "https://note.com/super_crocus100/n/nf3a981322fc4",
-    "https://note.com/ogataka/n/n09d7818f0d61",
-    "https://note.com/momiji1/n/n3217ab514f81",
+    "https://note.com/good_camel6014/n/n289b25412451",
+    "https://note.com/crt03/n/nb1e13d415051",
+    "https://note.com/saki_yogoro/n/na490775d5edd",
+    "https://note.com/pharma_insight/n/n0f51178e183b",
+    "https://note.com/irnote_2440/n/n37edac66177b",
+    "https://note.com/tanakaconsul/n/n16b7ca852080",
+    "https://note.com/matrixflow/n/nefef89a8be1e",
     "https://nano.globis.ac.jp/r/digital-glossary/article/311",
-    "https://proactive.jp/resources/columns/demand-forecast-accuracy/",
-    "https://data-viz-lab.com/analyticalmethod-list",
+    "https://note.com/kken78/n/nbd994ad7af92",
     "https://ja.wikipedia.org/wiki/基準率"
    ],
    "engines": [
@@ -555,33 +903,35 @@
   {
    "query": "基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112） やり方",
    "results": [
-    "https://proactive.jp/resources/columns/demand-forecast-accuracy/",
-    "https://otexts.com/fppjp/toolbox.html",
+    "https://service.customedia.co.jp/marketing/comparison/",
     "https://www.giken.co.jp/column/demand-forecast-2/",
-    "https://data-viz-lab.com/analyticalmethod-list",
-    "https://www.ht-tax.or.jp/navi/ppa-evaluation-approach",
-    "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
-    "https://surveroid.jp/mr-journal/statistics/eARCT",
-    "https://ns-japan.com/media/guide/new-business-kpi/",
-    "https://geniee.co.jp/media/cdp/demand-forecast-production/"
+    "https://otsumu.co.jp/knowledge/articles/kpi-target-setting.html",
+    "https://qiita.com/tarantula426/items/92676f529e25580837f0",
+    "https://www.kogures.com/hitoshi/webtext/or-fc-intro/index.html",
+    "https://www.ashita-team.com/jinji-online/ebook/11080?utm_campaign=side_banner",
+    "https://www.salesforce.com/jp/blog/tam-sam-som/",
+    "https://biz.moneyforward.com/work-efficiency/basic/18006/",
+    "https://www.asmarq.co.jp/column/column-cat/how_to/how_formulate_hypothesis/",
+    "https://ja.wikipedia.org/wiki/基準率"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112） 事例",
    "results": [
+    "https://service.customedia.co.jp/marketing/comparison/",
     "https://www.giken.co.jp/column/demand-forecast-2/",
-    "https://www.mlit.go.jp/common/001204077.pdf",
-    "https://www.jice.or.jp/cms/kokudo/pdf/tech/material/emb-boo-1-04.pdf",
-    "https://kanteishi-bootlab.com/articles/torihiki-jirei-hikakuhou-jitsumu",
-    "https://www.nta.go.jp/law/jimu-unei/hojin/010601/pdf/bessatsu.pdf",
-    "https://www.jftc.go.jp/dk/guideline/unyoukijun/romuhitenka.html",
-    "https://jicpa.or.jp/specialized_field/publication/files/2-3-32-2a-20130722.pdf",
-    "https://www.tac-school.co.jp/library/010dougaChannel/63YOEBhzyx4.pdf",
     "https://www.pref.osaka.lg.jp/documents/34495/zentai_1.pdf",
+    "https://www.mlit.go.jp/kowan/content/001879327.pdf",
+    "https://www.soumu.go.jp/main_content/000619709.pdf",
+    "https://data-viz-lab.com/analyticalmethod-list",
+    "https://www.env.go.jp/content/000118048.pdf",
+    "https://www.pmas-iicp.jp/media/accounting/a34",
+    "https://www.nta.go.jp/law/jimu-unei/hojin/010601/pdf/bessatsu.pdf",
     "https://ja.wikipedia.org/wiki/基準率"
    ],
    "engines": [
@@ -593,19 +943,19 @@
   {
    "query": "Mauboussin base rate book PDF sales growth distribution reference class forecasting Flyvbjerg shrinkage",
    "results": [
-    "https://www.morganstanley.com/im/publication/insights/articles/article_bayesandbaserates_ltr.pdf",
     "https://mjbaldbard.wordpress.com/wp-content/uploads/2020/09/michael-mauboussin-e28093-base-rate-books-2015-2016.pdf",
-    "https://hedgefundalpha.com/education/michael-mauboussin-the-base-rate-book/?srsltid=AYCX9vJOWArIByO7ihVBB-mccf0iqpbonO5SHbAO6jqlSnoO6BYyFfP5",
-    "https://arxiv.org/pdf/2107.11133",
     "https://www.scribd.com/document/346823949/Michael-Mauboussin-the-Base-Rate-Book",
-    "https://www.compoundwithrene.com/p/the-ultimate-base-rates-guide-from",
+    "https://www.morganstanley.com/im/publication/insights/articles/article_bayesandbaserates_ltr.pdf",
     "https://compcap.substack.com/p/michael-mauboussin-base-rates",
-    "https://acquirersmultiple.com/2021/01/michael-mauboussin-the-importance-of-utilizing-base-rates/",
-    "https://assets.gov.ie/static/documents/spending-review-an-analysis-of-cost-forecasting-in-major-capital-projects-programmes.pdf",
+    "https://hedgefundalpha.com/education/michael-mauboussin-the-base-rate-book/?srsltid=AYCX9vInpSgIawvYY-jmP9ErrPPFk51LAdn-B5_1hTLICWHZkwozMFFM",
+    "https://arxiv.org/pdf/2405.03402",
+    "https://mjbaldbard.files.wordpress.com/2020/09/michael-mauboussin-e28093-research-articles-and-interviews-2014.pdf",
+    "https://thecobf.com/forum/topic/13924-base-rate-view-mauboussin-pdf/",
+    "https://eor7ztmv4pb.exactdn.com/wp-content/uploads/2024/03/IFB339-Applying-Base-Rates-to-Stock-Picks-Insights-from-Michael-Mauboussins-Expertise.pdf",
     "https://josephnoko.com/wp-content/uploads/2024/04/The-Base-Rate-Book-Michael-Mauboussin.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -613,19 +963,19 @@
   {
    "query": "site:note.com 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）",
    "results": [
-    "https://note.com/iamwhatichose/n/nb87b41e2f9e7",
+    "https://note.com/ryo96_tomo98/n/nd94dd8bf441a",
+    "https://note.com/sho_77/n/n94cf34d98b59",
+    "https://note.com/v_scm/n/n2adb6325d428",
+    "https://note.com/bespokepartner/n/n0987d98b2f7b",
+    "https://note.com/pharma_insight/n/n3575011a4955",
+    "https://note.com/keisemi/n/ncd59b0f1cc99",
+    "https://note.com/pharma_insight/n/n0f51178e183b",
+    "https://note.com/wenli_iserlohn/n/n549f37910f32",
     "https://note.com/sdba_eventreport/n/n8a35df11125a",
-    "https://note.com/ogataka/n/n09d7818f0d61",
-    "https://note.com/hakuhodoproducts/n/n44fc5732fd26",
-    "https://note.com/iamwhatichose/n/n013d420405b1",
-    "https://note.com/iamwhatichose/n/na90539bccd1e",
-    "https://note.com/tsunobuchi/n/n5100dbf82075",
-    "https://note.com/ku2t/n/n67f3a41d6187",
-    "https://note.com/prism_case/n/nc945544a73aa",
-    "https://note.com/macromill/n/nf458d1bd60a5"
+    "https://note.com/bizgram/n/n5bde4d5402d1"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -634,18 +984,18 @@
    "query": "site:x.com 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）",
    "results": [
     "https://x.com/zakiryo1533/article/2076676054467727432",
-    "https://x.com/j0OmcPKEmMMkNWX/status/2117550019108827215",
-    "https://x.com/deloitte_jp/status/2095047073452167316",
-    "https://x.com/TobenMedia/status/2105973016597516634",
-    "https://x.com/zakiryo1533/status/1851808080633397662",
-    "https://x.com/teicalo_nishi/status/2118906394346725728",
-    "https://x.com/patesalo/status/2109812946910220766",
-    "https://x.com/itarutomy/status/2113752323931488288",
-    "https://x.com/Yoshihiko_ICKW/status/2114492909781475547",
-    "https://jf.x.com/images/media-preview/2115288215502643703"
+    "https://x.com/zakiryo1533/article/2065096178136682867",
+    "https://x.com/i/article/2110471998166188368",
+    "https://x.com/GAMBEJP/article/2063782829247599059",
+    "https://x.com/Yoshihiko_ICKW/status/2117754654067191810",
+    "https://x.com/i/article/2113066175089508431",
+    "https://x.com/ytsunobuchi/status/2053117614248079578",
+    "https://x.com/shunkurosaki/status/2024375089484214329",
+    "https://x.com/kawai_design/article/2102552045551304714",
+    "https://jf.x.com/images/media-preview/2116472358009725097"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -653,16 +1003,16 @@
   {
    "query": "site:linkedin.com 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）",
    "results": [
-    "https://www.linkedin.com/posts/amilkhanzada_excited-to-be-joining-the-startx-stanford-activity-7504341381205807104-Ptbl",
-    "https://bw.linkedin.com/company/tuvsud?trk=public_profile_experience-item_profile-section-card_image-click",
-    "https://jp.linkedin.com/pulse/why-intermittent-demand-still-trips-us-up-what-do-badulescu-ph-d-twivc?tl=ja",
-    "https://www.linkedin.com/posts/takayuki-morita_necglobal-aitransformation-ax-activity-7513433147972411392-WYjS",
-    "https://www.linkedin.com/posts/megumi-makino-727827302_japancvcslide-activity-7478602175724548096-XdMO",
-    "https://jp.linkedin.com/pulse/evolution-global-project-management-standards-review-pmbok-rashid--wonsc?tl=ja",
-    "https://jp.linkedin.com/pulse/permutation-importance%E7%BD%AE%E6%8F%9B%E9%87%8D%E8%A6%81%E5%BA%A6%E5%85%A5%E9%96%80-%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%82%82%E5%88%86%E3%81%8B%E3%82%8B%E5%AE%9F%E8%B7%B5%E7%9A%84%E8%A7%A3%E8%AA%AC-vector-holdings-wjhmc",
-    "https://jp.linkedin.com/company/leverages-us",
-    "https://jp.linkedin.com/pulse/ais-legal-lies-exposed-combatting-hallucination-epidemic-harkess-v812c?tl=ja",
-    "https://www.linkedin.com/posts/premier-kaikei-llp_%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-%F0%9D%97%A5%F0%9D%97%BC%F0%9D%97%BC%F0%9D%98%81%F0%9D%98%80-%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B1-activity-7480059596724678657-I7e8"
+    "https://jp.linkedin.com/pulse/risk-matrices-implied-accuracy-false-assumptions-ben-hutchinson?tl=ja",
+    "https://jp.linkedin.com/pulse/at-a-glance-workforce-planning-dashboard-does-little-extra-reida?tl=ja",
+    "https://jp.linkedin.com/pulse/when-human-in-the-loop-just-checkbox-operational-path-chris-fong-lusmc?tl=ja",
+    "https://jp.linkedin.com/pulse/great-rebuild-seven-counter-intuitive-truths-redefining-gade-4gsec?tl=ja",
+    "https://www.linkedin.com/pulse/%E3%82%A4%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3-%E4%BA%88%E5%85%86%E7%AE%A1%E7%90%86%E3%81%8C%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E3%82%A4%E3%83%B3%E3%83%89%E5%8C%BB%E7%99%82%E4%BF%9D%E9%99%BA%E3%81%AE%E6%9C%AA%E6%9D%A5%E9%95%B7%E6%96%87%E7%B7%A8-ayako-iuchi-w1fac",
+    "https://jp.linkedin.com/company/xactly-japan",
+    "https://sg.linkedin.com/in/saori-w-4bb49611b",
+    "https://business.linkedin.com/content/dam/me/business/en-us/marketing-solutions/resources/images/apac/pdfs/the-japanese-marketers-guide-to-linkedin.pdf",
+    "https://jp.linkedin.com/pulse/bias-fairness-ai-leaders-guide-mitigation-trust-amit-kharche-pnilf?tl=ja",
+    "https://jp.linkedin.com/pulse/13-employee-appreciation-ideas-actually-drive-results-just-feel-good-5n0uc?tl=ja"
    ],
    "engines": [
     "ddgs:google",
@@ -673,39 +1023,39 @@
   {
    "query": "site:facebook.com 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）",
    "results": [
-    "https://www.facebook.com/dataiku/posts/9%E6%9C%8818%E6%97%A5%E9%96%8B%E5%82%AC%E7%AC%AC3%E5%9B%9E-data-ai-pulse%E3%81%A7%E3%81%AFb2c%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E6%88%90%E9%95%B7%E3%81%AB%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%AA%E9%A1%A7%E5%AE%A2%E7%90%86%E8%A7%A3%E3%81%AE%E6%B7%B1%E5%8C%96%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E6%8E%98%E3%82%8A%E4%B8%8B%E3%81%92%E3%81%BE%E3%81%99%E6%9C%AC%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E3%81%AF%E7%94%9F/1635534817410926/",
-    "https://www.facebook.com/media/set/?set=a.665311846841996.1073741849.203020626404456&type=3",
-    "https://www.facebook.com/OneAqita/posts/oneaqita%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AC%9B%E6%BC%94%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F9%E6%9C%883%E6%97%A54%E6%97%A5%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6-%E5%8C%97%E6%B5%B7%E9%81%93%E6%9D%B1%E5%8C%97%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E5%9C%B0%E6%96%B9%E5%85%AC%E5%96%B6%E4%BC%81%E6%A5%AD%E9%80%A3%E7%B5%A1%E5%8D%94%E8%AD%B0%E4%BC%9A%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E5%BD%93%E7%A4%BE%E3%81%AE%E5%8F%96%E7%B5%84%E3%81%BF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AC%9B%E6%BC%94%E3%81%97%E3%81%BE/122299006586157669/",
-    "https://www.facebook.com/JIIT.jp/posts/2026%E5%B9%B44%E6%9C%8822%E6%97%A5%E6%B0%B41400%E7%AC%AC20%E6%9C%9F-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E7%A0%94%E7%A9%B6%E4%BC%9A-%E7%AC%AC1%E5%9B%9E%E4%BC%9A%E5%90%88%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AFit%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%A8%E4%BE%A1%E5%80%A4%E5%89%B5%E5%87%BA%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E5%85%88/1881491002799328/",
-    "https://www.facebook.com/doshisha.tkhs.zemi/posts/11%E6%9C%9F%E3%81%AE%E5%A4%8F%E8%AA%B2%E9%A1%8C%E3%81%AE%E7%99%BA%E8%A1%A8%E6%9C%80%E5%BE%8C%E3%81%AF%E3%83%92%E3%83%83%E3%83%88%E3%81%AE%E4%BA%8B%E4%BE%8B%E6%88%A6%E7%95%A5%E3%81%94%E3%81%A3%E3%81%93%E5%B7%AE%E5%88%A5%E5%8C%96%E3%82%B8%E3%83%A7%E3%83%96%E7%90%86%E8%AB%96%E3%81%A7%E3%81%9923%E4%BA%BA%E3%81%8C%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E5%86%85%E5%AE%B9%E3%81%AF%E3%81%A9%E3%82%8C%E3%82%82%E8%88%88%E5%91%B3%E6%B7%B1%E3%81%8F%E5%A4%9A%E3%81%8F%E3%81%AE%E6%9B%B8%E7%B1%8D%E3%81%AE%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%92%E9%80%9A%E3%81%98%E3%81%A6%E9%AB%99%E6%A9%8B%E3%82%82%E3%82%BC%E3%83%9F%E7%94%9F/1512553104204101/",
-    "https://www.facebook.com/yusuke.nakanishi.146/posts/%E7%A7%81%E3%82%82%E9%81%8E%E5%8E%BB2%E5%BA%A6%E5%85%AC%E5%BC%8F%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%9F%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E3%81%AE%E3%82%BF%E3%83%AC%E3%82%AF%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%B3%E9%A6%96%E7%9B%B8he-mr-tarique-rahman-prime-minister-of-the-peo/28297764219897098/",
-    "https://www.facebook.com/japan.marketing.academy/posts/%E7%AC%AC6%E5%9B%9E%E5%AD%A6%E3%81%B3%E3%81%A8%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A%E4%BC%9A%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B92026%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-%E4%BB%8A%E5%9B%9E%E3%81%AE%E5%A0%B1%E5%91%8A%E4%BC%9A%E3%81%AF%E5%AE%9F%E5%8B%99%E5%AE%B6%E6%95%99%E5%93%A1%E3%81%A8%E3%81%AF%E4%BD%95%E8%80%85%E3%81%8B-%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%AC%AC%E4%B8%89%E3%81%AE%E6%95%99%E5%93%A1%E3%81%AE%E5%AE%9F%E5%83%8F%E3%81%A8%E6%84%8F%E7%BE%A9-%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%95/1566144412207666/",
-    "https://www.facebook.com/homeskunintegral/posts/%E6%96%B0%E3%81%97%E3%81%84%E6%9B%B8%E7%B1%8D%E5%A2%97%E8%A3%9C%E6%94%B9%E8%A8%82%E7%89%88%E5%88%8A%E8%A1%8C%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B-%E6%9C%A8%E9%80%A0%E4%BD%8F%E5%AE%85%E3%81%AE%E8%A8%B1%E5%AE%B9%E5%BF%9C%E5%8A%9B%E5%BA%A6%E8%A8%88%E7%AE%97%E3%82%92%E5%AE%9F%E5%8B%99%E3%81%AB%E5%8D%B3%E3%81%97%E3%81%A6%E8%A7%A3%E8%AA%AC%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93%E6%9B%B8-%E8%A8%AD%E8%A8%88%E5%AE%9F%E5%8B%99%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B-%E6%9C%A8%E9%80%A0%E4%BD%8F%E5%AE%85%E3%81%AE%E8%A8%B1%E5%AE%B9%E5%BF%9C%E5%8A%9B%E5%BA%A6%E8%A8%88%E7%AE%97-%E5%A2%97%E8%A3%9C%E6%94%B9%E8%A8%82%E7%89%88%E8%91%97%E5%A4%A7%E6%A9%8B%E5%A5%BD%E5%85%89%E6%9D%B1%E4%BA%AC%E9%83%BD/1480391557443637/",
-    "https://www.facebook.com/japan.marketing.academy/posts/%E7%AC%AC27%E5%9B%9E%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A%E4%BC%9A%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-%E5%A5%BD%E8%A9%95%E3%81%A0%E3%81%A3%E3%81%9F%E6%98%A8%E5%B9%B4%E3%81%AB%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%82%82%E5%AF%BE%E9%9D%A2%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A%E4%BC%9A%E3%81%8C%E5%AE%9F%E6%96%BD%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%9D%B1%E4%BA%AC%E9%A7%85%E7%9B%B4%E7%B5%90%E3%81%AE%E3%82%B5%E3%83%94%E3%82%A2%E3%82%BF%E3%83%AF/952939940194786/",
-    "https://www.facebook.com/doshisha.tkhs.zemi/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E9%AB%99%E6%A9%8B%E3%82%BC%E3%83%9F2%E6%9C%9F%E7%94%9F%E3%81%AE%E4%B8%AD%E7%95%94%E3%81%A7%E3%81%99720%E6%9C%A8%E3%81%AE%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99720-4%E9%99%904%E9%99%90%E3%81%AF3%E6%9C%9F%E5%90%88%E5%90%8C%E3%81%A7%E4%BA%A4%E6%B5%81%E4%BC%9A%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F6%E6%9C%88%E3%81%AB%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%9F3%E6%9C%9F%E7%94%9F%E6%95%B0%E4%BA%BA%E6%8E%88%E6%A5%AD%E7%AD%89%E3%81%A7%E6%9D%A5%E3%82%8C%E3%81%AA%E3%81%8B%E3%81%A3/1433172313444058/"
+    "https://www.facebook.com/groups/723428417799853/",
+    "https://www.facebook.com/doshisha.tkhs.zemi/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E9%AB%99%E6%A9%8B%E3%82%BC%E3%83%9F2%E6%9C%9F%E7%94%9F%E3%81%AE%E4%B8%AD%E7%95%94%E3%81%A7%E3%81%99720%E6%9C%A8%E3%81%AE%E6%B4%BB%E5%8B%95%E5%A0%B1%E5%91%8A%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99720-4%E9%99%904%E9%99%90%E3%81%AF3%E6%9C%9F%E5%90%88%E5%90%8C%E3%81%A7%E4%BA%A4%E6%B5%81%E4%BC%9A%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F6%E6%9C%88%E3%81%AB%E6%B1%BA%E3%81%BE%E3%81%A3%E3%81%9F3%E6%9C%9F%E7%94%9F%E6%95%B0%E4%BA%BA%E6%8E%88%E6%A5%AD%E7%AD%89%E3%81%A7%E6%9D%A5%E3%82%8C%E3%81%AA%E3%81%8B%E3%81%A3/1433172313444058/",
+    "https://www.facebook.com/shinji.sumida.7/posts/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%AD%B0%E8%AB%96%E3%81%8B%E3%82%89%E8%A4%87%E6%95%B0%E6%8C%87%E6%A8%99%E5%8C%96%E3%81%AE%E8%AD%B0%E8%AB%96%E8%A4%87%E6%95%B0%E6%8C%87%E6%A8%99%E5%8C%96%E3%81%AF%E4%B8%8B%E6%89%8B%E3%81%AB%E3%82%84%E3%82%8B%E3%81%A8%E8%B2%A1%E6%94%BF%E8%A6%8F%E5%BE%8B%E3%81%AE%E5%BC%B7%E5%8C%96%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%82%80%E3%81%97%E3%82%8D%E6%8C%87%E6%A8%99%E3%81%AE%E3%81%A4%E3%81%BE%E3%81%BF%E9%A3%9F%E3%81%84%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E5%B8%82%E5%A0%B4%E3%81%8C%E7%96%91%E3%81%86%E3%81%AE%E3%81%AF%E3%81%93%E3%81%93%E3%81%A7%E3%81%991-%E6%9C%AC%E8%B3%AA%E3%81%AF%E6%8C%87%E6%A8%99/10240854968252396/",
+    "https://www.facebook.com/YUKO.SERIZAWA8/",
+    "https://www.facebook.com/masahiro.oyanagi/videos/aiはついに便利な道具から経営参謀へ進化し始めたまずこの動画を見てください2025年10月11日日テレnewsで紹介された2つの事例ですkddiでは営業一筋38/2009613156390391/",
+    "https://www.facebook.com/NICHIBUNKENkoho/posts/669021508564781/",
+    "https://www.facebook.com/sanro.ijigyoumu/photos/本日は天候不良の中でたくさんの方々にお集まりいただきました現在後半のグループに入りました今回の施設基準事例検討会は今年３月まで厚生局に勤務されていた方に各グルー/863234233862785/",
+    "https://www.facebook.com/JSHRM/posts/登壇者を交えてディスカッションを行なっていますさすが実務家の集まり自身の経験や自社の事例などを織り交ぜながらリアリティのある議論になっています-jshrmcon/805076006573745/",
+    "https://www.facebook.com/groups/548266103946448/",
+    "https://www.facebook.com/legal.tikara/posts/ついに3000問商業法人登記実務相談事例2800問200先月発売しました人気の書籍をご紹介一般社団法人商業登記倶楽部の商業登記実務相談室に寄せられた相談と回答の/720627053410391/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112） note 社長",
    "results": [
-    "https://note.com/kabuberry_/n/nda228077fe0c",
-    "https://note.com/h_kato/n/ndbdcc2d3f62e",
+    "https://note.com/good_camel6014/n/n289b25412451",
+    "https://note.com/irnote_2440/n/n37edac66177b",
     "https://note.com/nec_iise/n/n918b283b59d5",
-    "https://note.com/lively_swan2582/n/n915bf36ed75c",
-    "https://note.com/nikofu/n/ne94222226565",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://rmc-oden.com/blog/archives/223860",
-    "https://biz.note.com/n/na5c1a9eb46de",
-    "https://profectus-note.com/blog/manufacturing-dx-sme-success-patterns",
+    "https://note.com/kabuberry_/n/nda228077fe0c",
+    "https://note.com/sei_tamai/n/nd5088b056dbe",
+    "https://note.com/shinojapan/n/n4f0b6d126cf4",
+    "https://note.com/kabuberry_/n/na4a429460c19",
+    "https://note.com/kabuberry_/n/n5e7560751a9a",
+    "https://note.com/kabuberry_/n/n4b9cc7098f6b",
     "https://ja.wikipedia.org/wiki/基準率"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -713,26 +1063,28 @@
   {
    "query": "基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112） X 投稿",
    "results": [
-    "https://s--line.co.jp/x-twitter-business-2026/",
-    "https://giftee.biz/columns/twitter-campaign-tips/",
-    "https://tatap.jp/knowledge/x-twitter-corporate-operation-guide/",
-    "https://www.koukoku.jp/service/suketto/marketer/sns/x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%8B%95%E7%94%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%A7%E6%88%90%E6%9E%9C%E3%82%92%E5%87%BA%E3%81%99%E6%B4%BB%E7%94%A8%E6%B3%95/",
-    "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
-    "https://tetemarche.co.jp/column/xaccount_case",
-    "https://camtsuku.com/guide/3811",
-    "https://marketdive.net/x-twitter-algorithm-2026/",
-    "https://sogyotecho.jp/x-algorithm/"
+    "https://x.com/ai_shunoda/article/2088079224578208058",
+    "https://zenn.dev/dalab/articles/9c843f0ec8aabf",
+    "https://ds-b.jp/dsmagazine/what-is-twitter/",
+    "https://popinsight.jp/blog/?p=41984",
+    "https://saycon.co.jp/archives/neta/%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E3%81%AE%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E3%81%A8%E3%82%B3%E3%83%AB%E3%83%A2%E3%82%B4%E3%83%AD%E3%83%95%E8%A4%87%E9%9B%91%E6%80%A7%E3%82%92",
+    "https://www.flip.or.jp/file/riron.pdf",
+    "https://ai-market.jp/technology/ai-agent/",
+    "https://note.com/tad_shimizu/n/n49bcf8b79a45",
+    "https://kyorosukeke.hatenablog.com/entry/2026/07/25/231952",
+    "https://www.jstage.jst.go.jp/article/jcss/18/1/18_1_173/_pdf/-char/en"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 14
   },
   {
    "query": "Mauboussin base rate book PDF sales growth distribution reference class forecasting Flyvbjerg shrinkage site:linkedin.com",
    "results": [
     "https://www.linkedin.com/posts/market-kya-kehti-hai_one-of-my-favourite-underrated-frameworks-activity-7387469369146036224-s3I0",
-    "https://www.linkedin.com/pulse/reference-class-forecasting-depends-how-you-define-similar-boudreau-h1cse/",
+    "https://www.linkedin.com/posts/michael-mauboussin-12519b2_we-have-a-new-report-out-called-bayes-and-activity-7427066786992410624-_6NW",
     "https://dk.linkedin.com/in/flyvbjerg",
     "https://lk.linkedin.com/posts/hildejenssen_articlefeedbackuspdf-activity-6925096963063316480-IrFt",
     "https://tz.linkedin.com/posts/tamour-pervez-cfa-95073a22_the-following-image-is-taken-from-the-book-activity-7044248898927759360-juSX",
@@ -748,7 +1100,364 @@
  "missing": {
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 2,
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "of actual analysts’ estimates to distributional forecasts and of historic distributional",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "at Flossbach von Storch AG for providing the analysts’ estimates. Moreover, the author thanks the",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "actual analysts’ estimates, thus, illustrates the practical application of reference classes",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "as an estimate of the marginal distribution neglecting any confounding variables. The",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Table 3 shows the estimated density of historical sales compound annual growth rate",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 7:Estimated densities of compound annual sales growth rate for horizons one,",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "existing forecast over providing confidence intervals and point estimates to calculating",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "correct the prediction. Confidence intervals and point estimates can be directly calculated",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "then compared to analysts’ forecast from theFactSet(2021) estimates database. For both",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "(vertical: min/mean/max of expert estimates)",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "options from Table 6 compared to experts’ estimates. Density estimation on",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "rithm options from Table 6 compared to experts’ estimates. Density estimation",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "loaded on 29 January, 2020. The “Core company data - estimates data” that support the",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "FactSet. Core company data - estimates data. FactSet, 2021. URLhttp://factset.com/.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "variates as reference variables, that are implicit predictors. The method can be",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "forecasts to realized sales growth illustrate the practical use of the method.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "we extend the method for distributional forecasts with reference classes proposed by",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "sales growth with a single co-variate and we generalize their method using rank based",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "We propose a framework for reference class selection based on several co-variates, here",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "proposed methods are well suited for practical application, the more so, as the outside view",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and how to apply their results in practice. We additionally display historic distributional",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "framework of reference class selection and the proposed algorithms. Performance measures",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "seen as a data driven method to overcome overoptimism, wishful thinking or strategic",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Here, we concentrate on a framework to select an appropriate reference class. This is",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "critical as Kahneman and Tversky(1979) gave no instructions how to build reference",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "their method has certain drawbacks (seeTheising et al., 2023) and their study lacks a",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2.1. Theoretical Framework",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For a given firmi at timet, we aim to construct a reference class for anh-step ahead",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "forecast of the distribution ofYi,t+h, that is a distributionalh-step ahead forecast of the",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "on debiasing itself (Chang et al., 2016). Theising et al.(2023) discuss some examples",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2Venn (1888) originally describes an example of a fifty-year-old consumptive Englishman with many",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on the forecast horizon. Further, a case study compares the distributional forecasts with",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "often focus solely on information on the specific case at hand, the inside view, while",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "neglecting information on a class of similar cases, the outside view. Statistical or empirical",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "prediction, from the selection of a set of similar cases as a reference class to provide",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "correlation between their predictions and the outcomes in case of linear prediction, and,",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "classes except the general rule to use similar cases. Moreover, there is a conflict of",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "cases into account as possible provides the most distributional information. However, it is",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "5In case of a finance application like here, such a data generating mechanism may be calledmarket",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "clusters and due to continuity of reference variables in our case we argue that it does",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "6This applies to the special case here. The proposed procedures do not account for ‘natural’ clusters",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that might occur. For example, there might be only 20 observations ‘very similar’ to the initial",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "case. But the algorithm may choose the most similar 25 observations and, thus, five less informative",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "from the set of candidates. In both cases, all candidate firms that are in the same major",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "used to detect expert or model-based forecasts exposed to (behavioral) bias or to",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Bias Correction, Prediction, Outside View",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "shown to be biased as well as overoptimistic (see, e.g.,Tversky and Kahneman, 1973,",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "the aforementioned biases (Tetlock and Gardner, 2016). The concept of the outside",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2016; Karvetski et al., 2021). But in general the literature focused more on biases than",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "on debiasing itself (Chang et al., 2016). Theising et al.(2023) discuss some examples",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "based on heuristics and were empirically shown to be biased as well as overoptimistic",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "a likewise biased forecast exists. Based on this trade-offLovallo and Kahneman(2003)",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "cloud highlight the pitfall that elements on the border of one cluster may be",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "finding calibrated distributional forecasts if any exist, e.g. to correct potentially biased",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "biased conclusions in the backtest.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "thought, correcting potentially biased expert (or model based) forecasts with the outside",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "D. Kahneman and A. Tversky. Intuitive prediction: Biases and corrective procedures.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A. Tversky and D. Kahneman. Judgement under uncertainty: Heuristics and biases.",
+    "url": "https://arxiv.org/pdf/2405.03402",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 3,
  "first_researched_at": "2026-11-08T19:49:47.777949+00:00"
 }

@@ -8,7 +8,7 @@
  ],
  "context": "手法・企業調査",
  "kind": "market",
- "researched_at": "2026-11-09T03:39:19.656624+00:00",
+ "researched_at": "2026-11-09T19:24:54.324979+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,19 +19,19 @@
     "method": "http"
    },
    {
-    "url": "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.chukidan.jp/navi/column/insurance/6052/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "url": "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
@@ -39,9 +39,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "url": "https://www.tm-tax.com/mailmag/succession/succession232/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://www.kaiketsu-j.com/compliance/5849/",
@@ -50,18 +55,8 @@
    },
    {
     "url": "https://biz.moneyforward.com/payroll/basic/57460/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/17827/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
     "url": "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf",
@@ -69,9 +64,34 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.soumu.go.jp/main_content/000928642.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.stat.go.jp/data/roudou/pdf/definit.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://leadbrain.co.jp/contents/lb/8572/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ascent-sr.jp/blog-employee-count.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrpro.co.jp/series_detail.php?t_no=3023",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://minnano-cloud.com/column/syaho-tanjikan-ippan-tigai/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000495533.pdf",
@@ -84,17 +104,22 @@
     "method": "http"
    },
    {
+    "url": "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.e-stat.go.jp/surveyitems/definitions/28923",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://asset.smbcc-businessclub.jp/asset/172_netpress2246_jvuCdrVHk3_20230130.pdf",
+    "url": "https://www.esri.cao.go.jp/jp/sna/data/reference1/h23/pdf/chap_12.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -109,22 +134,22 @@
     "method": "http"
    },
    {
-    "url": "https://peopleforce.io/hr-glossary/full-time-equivalent",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.wallstreetprep.com/knowledge/fte-full-time-equivalent/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.compono.com/hr-glossary/revenue-per-employee",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.irs.gov/newsroom/small-business-health-care-tax-credit-questions-and-answers-determining-ftes-and-average-annual-wages",
+    "url": "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightful.io/blog/revenue-per-employee",
     "status": "ok",
     "method": "http"
    }
@@ -135,18 +160,18 @@
    "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方 site:note.com",
    "results": [
     "https://www.gov-online.go.jp/article/202209/entry-10068.html",
-    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.chukidan.jp/navi/column/insurance/6052/",
-    "https://www.tm-tax.com/mailmag/succession/succession232/",
-    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
+    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
     "https://www.kaiketsu-j.com/compliance/5849/",
     "https://biz.moneyforward.com/payroll/basic/57460/",
-    "https://www.issoh.co.jp/column/details/17827/",
     "https://note.com/yongshu/n/n614279bb5346"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -155,15 +180,15 @@
    "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方 note",
    "results": [
     "https://www.gov-online.go.jp/article/202209/entry-10068.html",
-    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.chukidan.jp/navi/column/insurance/6052/",
-    "https://www.tm-tax.com/mailmag/succession/succession232/",
-    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
+    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
     "https://www.kaiketsu-j.com/compliance/5849/",
     "https://biz.moneyforward.com/payroll/basic/57460/",
-    "https://www.issoh.co.jp/column/details/17827/",
-    "https://www.soumu.go.jp/main_content/000928642.pdf"
+    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
    ],
    "engines": [
     "ddgs:bing",
@@ -175,18 +200,18 @@
    "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方 やり方",
    "results": [
     "https://www.gov-online.go.jp/article/202209/entry-10068.html",
-    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
-    "https://www.chukidan.jp/navi/column/insurance/6052/",
-    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
     "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
-    "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
     "https://biz.moneyforward.com/payroll/basic/57460/",
     "https://www.kaiketsu-j.com/compliance/5849/",
-    "https://www.issoh.co.jp/column/details/17827/",
+    "https://leadbrain.co.jp/contents/lb/8572/",
+    "https://ascent-sr.jp/blog-employee-count.html",
+    "https://www.hrpro.co.jp/series_detail.php?t_no=3023",
+    "https://minnano-cloud.com/column/syaho-tanjikan-ippan-tigai/",
     "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -197,13 +222,13 @@
     "https://www.gov-online.go.jp/article/202209/entry-10068.html",
     "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.chukidan.jp/navi/column/insurance/6052/",
-    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
     "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
     "https://www.tm-tax.com/mailmag/succession/succession232/",
-    "https://biz.moneyforward.com/payroll/basic/57460/",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
     "https://www.kaiketsu-j.com/compliance/5849/",
-    "https://www.issoh.co.jp/column/details/17827/",
-    "https://www.soumu.go.jp/main_content/000928642.pdf"
+    "https://biz.moneyforward.com/payroll/basic/57460/",
+    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
    ],
    "engines": [
     "ddgs:bing",
@@ -216,24 +241,25 @@
    "results": [
     "https://www.adp.com/resources/articles-and-insights/articles/f/fte-meaning",
     "https://www.indeed.com/hire/c/info/full-time-equivalent",
-    "https://peopleforce.io/hr-glossary/full-time-equivalent",
-    "https://www.wallstreetprep.com/knowledge/fte-full-time-equivalent/",
     "https://www.compono.com/hr-glossary/revenue-per-employee",
+    "https://www.hrbench.com/resource/learn/revenue-per-employee",
+    "https://bizminer.com/revenue-per-employee-benchmarks/",
+    "https://www.insightful.io/blog/revenue-per-employee",
+    "https://www.paycat.com.au/blog/the-meaning-behind-fte-and-why-it-matters-to-your-business",
     "https://www.irs.gov/newsroom/small-business-health-care-tax-credit-questions-and-answers-determining-ftes-and-average-annual-wages",
     "https://acorn.works/blog/revenue-per-fte",
-    "https://www.paycat.com.au/blog/the-meaning-behind-fte-and-why-it-matters-to-your-business",
-    "https://www.calamari.io/blog/headcount-vs-fte-key-differences-and-why-they-matter",
     "https://www.salary.com/resources/hr-glossary/fte-vs-headcount-meaning-differences-and-calculation"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "site:note.com 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方",
    "results": [
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
     "https://note.com/xoperation/n/n93109494872d",
     "https://note.com/bearcapital/n/n4f3d135558b3",
     "https://note.com/ocaml/n/na588eab9a296",
@@ -242,20 +268,29 @@
     "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
     "https://note.com/ogawa_tech/n/nbbd7ee45487e",
     "https://note.com/toaru_/n/n99badf3f9aaa",
-    "https://note.com/asagaya106/n/n7857b8a4fdf1",
-    "https://note.com/mousoubiz/n/n6274d803ce0a"
+    "https://note.com/asagaya106/n/n7857b8a4fdf1"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 11
   },
   {
    "query": "site:x.com 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/fm_suisinkyo/status/2039220716113993898",
+    "https://x.com/ishiwatahiroshi/status/2040684349394502027",
+    "https://x.com/subsidy_jp/status/2107003040662466966",
+    "https://x.com/subsidy_jp/status/2113103385784353255",
+    "https://x.com/NEWMAN_DAI/status/2033460439045091626",
+    "https://x.com/crearshraroshi/status/2025757278809497809",
+    "https://x.com/takataharu1/status/2072838601273233623"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方",
@@ -281,8 +316,8 @@
     "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/",
     "https://www.facebook.com/QingMuGongRenHuiJiShishuiLiShiShiWuSuo/posts/経営者と従業員の数字に対する考え方の違い経営者は時間単価で考え従業員はコストの額そのもので考える例えば2時間の作業時間削減コスト1万円増の提案売上の時間単価が2/1511068780626950/",
     "https://www.facebook.com/kayano55/videos/独立起業した人の年商売上と年収所得利益は個人事業主のままでいるか会社を設立して法人化しているかによって数字の定義や実態が大きく異なります公的な統計データに基づく/980333678470506/",
-    "https://www.facebook.com/Growing.Machida/posts/5649206178516059/",
-    "https://www.facebook.com/naohito.yoshida1/photos/障がい者雇用にお悩みの経営者の皆様へdea吉田直人より従業員が一定数以上の規模の事業主は従業員に占める身体障害者知的障害者精神障害者の割合を法定雇用率以上にする/23894740320176383/"
+    "https://www.facebook.com/naohito.yoshida1/photos/障がい者雇用にお悩みの経営者の皆様へdea吉田直人より従業員が一定数以上の規模の事業主は従業員に占める身体障害者知的障害者精神障害者の割合を法定雇用率以上にする/23894740320176383/",
+    "https://www.facebook.com/Growing.Machida/posts/5649206178516059/"
    ],
    "engines": [
     "ddgs:google"
@@ -295,13 +330,13 @@
     "https://www.gov-online.go.jp/article/202209/entry-10068.html",
     "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.chukidan.jp/navi/column/insurance/6052/",
-    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
     "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
     "https://www.tm-tax.com/mailmag/succession/succession232/",
-    "https://biz.moneyforward.com/payroll/basic/57460/",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
     "https://www.kaiketsu-j.com/compliance/5849/",
-    "https://www.issoh.co.jp/column/details/17827/",
-    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+    "https://biz.moneyforward.com/payroll/basic/57460/",
+    "https://www.soumu.go.jp/main_content/000928642.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -313,18 +348,18 @@
    "query": "人数の定義の違い（統計の従業者・税の従業員数の時間換算1800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方 X 投稿",
    "results": [
     "https://www.gov-online.go.jp/article/202209/entry-10068.html",
-    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.chukidan.jp/navi/column/insurance/6052/",
-    "https://www.tm-tax.com/mailmag/succession/succession232/",
-    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
+    "https://www.mhlw.go.jp/tekiyoukakudai/jugyouin/taisho/",
     "https://www.tax.metro.tokyo.lg.jp/documents/d/tax/houjin_bunkatu",
+    "https://www.nenkin.go.jp/oshirase/topics/2021/0219.files/guidebook_jigyounushi.pdf",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "https://legacy.ne.jp/legacy-cloud/tax_practice/064-chihouzei-bunkatsukijyun-jitsumu-keisanmiss/",
     "https://www.kaiketsu-j.com/compliance/5849/",
     "https://biz.moneyforward.com/payroll/basic/57460/",
-    "https://www.issoh.co.jp/column/details/17827/",
     "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -335,29 +370,29 @@
     "https://www.linkedin.com/pulse/updated-pt-2-interview-unusual-people-analytics-expert-rosenow-ezu0e",
     "https://www.linkedin.com/posts/abayomi-olabode-0a63a4177_dataanalytics-powerbi-peopleanalytics-activity-7442134882249711616-NE1-",
     "https://www.linkedin.com/pulse/silent-layoff-work-disappears-before-jobs-do-andre-jxiae",
-    "https://www.linkedin.com/posts/devender-kumar02_hrlearningjourney-day24-labourcodes-activity-7471833818245623809-VBQ5",
     "https://www.linkedin.com/top-content/consulting/workforce-optimization-consulting/employee-performance-benchmarking/",
     "https://www.linkedin.com/posts/roll-with-paid_four-companies-one-employee-four-wage-bases-activity-7518314411745267712-Nfm4",
     "https://www.linkedin.com/in/ryanstifter",
-    "https://www.linkedin.com/posts/ivestay_askst-jobs-should-i-let-a-prospective-employer-activity-7464637729704730624-LW3W",
-    "https://www.linkedin.com/posts/ndjamena_ai-erg-csr-activity-7519033437861830657-9pbu",
-    "https://uk.linkedin.com/in/rebecca-perre-48b88325"
+    "https://uk.linkedin.com/in/rebecca-perre-48b88325",
+    "https://www.linkedin.com/posts/devender-kumar02_hrlearningjourney-day24-labourcodes-activity-7471833818245623809-VBQ5",
+    "https://www.linkedin.com/pulse/how-hire-your-first-employee-philippines-2025-guide-connie-mdxoc",
+    "https://www.linkedin.com/posts/ndjamena_ai-erg-csr-activity-7519033437861830657-9pbu"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ23頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ23頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ23頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）",
-  "実例": "記載なし（読んだ23頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ28頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ28頁・検索12回）",
+  "実例": "記載なし（読んだ28頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T12:01:54.418255+00:00"
 }

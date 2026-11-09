@@ -1,0 +1,561 @@
+{
+ "name": "Cprint 3D",
+ "aliases": [],
+ "context": "ディレクトリ:binder-jetting",
+ "researched_at": "2026-11-09T19:23:29.167352+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cprint 3D - Industrial 3D Printers for Casting | Wax & Sand — Cprint 3D - Industrial 3D Printers for Casting | Wax & Sand Cprint 3D https://cprint3d.com",
+    "url": "https://cprint3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用産業3Dプリンター | ワックス・砂型 - Cprint 3D — 鋳造用産業3Dプリンター | ワックス・砂型 - Cprint 3D Cprint 3D https://cprint3d.com > home-ja",
+    "url": "https://cprint3d.com/ja/home-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Distributors & Local Contacts - Cprint 3D — Distributors & Local Contacts - Cprint 3D Cprint 3D https://cprint3d.com > Contact us",
+    "url": "https://cprint3d.com/contact/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "World-Leading 3D Printer Manufacturer - Cprint 3D — World-Leading 3D Printer Manufacturer - Cprint 3D Cprint 3D https://cprint3d.com > about-us",
+    "url": "https://cprint3d.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Distributors & Local Contacts | Cprint 3D",
+    "url": "https://cprint3d.com/contact/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "Cprint 3D Distributors",
+    "url": "https://cprint3d.com/contact/distributors/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Third and last day at CPrint Madrid !! Come to Plug&Play area ... Third and last day at CPrint Madrid !! Come to Plug&Play area ... Facebook https://www.facebook.com > ... > Photo Center 3D > Videos",
+    "url": "https://www.facebook.com/PhotoCenter3D/videos/third-and-last-day-at-cprint-madrid-come-to-plugplay-area-and-see-photo-center-3/3906196496316004/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.prusa3d.com/ja/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/3dp-sales/3dsystems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cprint3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phrozen3d.com/ja-jp/pages/find-a-reseller",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mag.tecture.jp/event/20231018-100438/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.org/stream/basic-1992-01/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3BASIC%201992-01_djvu.txt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.rakuten.co.jp/search/mall/used+coach+bag/216131/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.org/stream/micom-1978-12/MICOM_1978_12_djvu.txt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cprint3d.com/ja/home-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.qidi3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search.rakuten.co.jp/search/mall/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/s?k=3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cprint3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upnano.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/en/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cprint3d.com/contact/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Printer-Filament-1-75mm-Weight-2-2lbs/dp/B0FK4XYFJ9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/QIDI-TECH-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm-%E9%AB%98%E8%80%90%E7%B4%AB%E5%A4%96%E7%B7%9A/dp/B0CHYFRQZV",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/SUNLU/dp/B0FP4STRZK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.amazon.co.jp/Siraya-Tech-Roamr-80A%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%8148-50-%E9%AB%98%E5%8F%8D%E7%99%BA%E3%80%81%E7%99%BA%E6%B3%A1%E6%80%A7%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E7%A1%AC%E5%BA%A664A-80A%E3%80%81%E3%83%9E%E3%83%83%E3%83%88%E4%BB%95%E4%B8%8A%E3%81%92%E3%80%81%E5%B1%A5%E7%89%A9%E3%80%81%E3%83%9F%E3%83%83%E3%83%89%E3%82%BD%E3%83%BC%E3%83%AB%E3%80%81%E7%9F%AF%E6%AD%A3%E5%99%A8%E5%85%B7%E7%94%A8-800g%E3%80%81%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB/dp/B0G52BQX4Y",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1455/9171/?srsltid=AYCX9vKeyiVUA4UokyiTcOqxbs4gu2Bs4akfy_j-G-yhoIjpeMPkHTEY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00399320/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E6%B8%A9%E5%BA%A6%E7%AE%A1%E7%90%86%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/3d-printing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/articles/investing/081515/three-biggest-3d-printing-companies.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=b85kIuNkgk4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://revenuebase.ai/companies/3d-printer-companies/united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/PhotoCenter3D/videos/third-and-last-day-at-cprint-madrid-come-to-plugplay-area-and-see-photo-center-3/3906196496316004/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cprint 3D 代理店",
+   "results": [
+    "https://www.prusa3d.com/ja/resellers/",
+    "https://partners.solize.com/3dp-sales/3dsystems",
+    "https://cprint3d.com/",
+    "https://phrozen3d.com/ja-jp/pages/find-a-reseller",
+    "https://prusa.nagoyakogei.jp/",
+    "https://form.3fit.net/",
+    "https://news.sharelab.jp/study/study-usageguide-overseasmaker/",
+    "https://www.recmbus-3dprint.com/check/agency.html",
+    "https://sunstella.co.jp/?srsltid=AYCX9vJ0mB0a6ZZivgwUlh-cPzovdwNKy8ikEh3hNVzmwA1KPha1P8f7",
+    "https://cprint3d.com/ja/contact-ja/distributors-ja/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Cprint 3D 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://mag.tecture.jp/event/20231018-100438/",
+    "https://archive.org/stream/basic-1992-01/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3BASIC%201992-01_djvu.txt",
+    "https://search.rakuten.co.jp/search/mall/used+coach+bag/216131/",
+    "https://archive.org/stream/micom-1978-12/MICOM_1978_12_djvu.txt",
+    "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%83%AA%E3%82%B9%E3%83%93%E3%83%BC+%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0+%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF/",
+    "https://archive.org/stream/micomBASIC_1985-06/micomBASIC_1985-06_djvu.txt",
+    "https://cprint3d.com/contact/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/cprint3d/",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Cprint 3D 日本 販売",
+   "results": [
+    "https://cprint3d.com/ja/home-ja/",
+    "https://3dprinter.co.jp/",
+    "https://jp.qidi3d.com/",
+    "https://www.ricoh.co.jp/3dp",
+    "https://skhonpo.com/",
+    "https://www.keyence.co.jp/products/3d-printers/3d-printers/",
+    "https://www.creality.com/jp",
+    "https://sunstella.co.jp/?srsltid=AYCX9vIVL4lTh-l8aLBK-h0yajRIb2_t3Agcx4IBKzXXs1rD7wTLM8rO",
+    "https://3dpst.com/hardwares"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Cprint 3D フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://search.rakuten.co.jp/search/mall/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "https://www.amazon.co.jp/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/s?k=3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC+%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://silhouettejapan.co.jp/shop/c/calta-filament/",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://www.poly-maker.jp/",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJF7ByJ4jhWT3ht1Si8JFFDsXCgNGOzoRdhmGiFfuDltuYY4-KD",
+    "https://3day-printer.com/media/explanation/3d-printer-resin/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Cprint 3D Japan distributor",
+   "results": [
+    "https://cprint3d.com/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://www.upnano.com/distributors/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/Japan",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.carbon3d.com/",
+    "https://ifactory3d.com/en/distributors/",
+    "https://anebonmetal.com/top-3d-printing-manufacturers-and-suppliers-in-japan/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Cprint 3D distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://cprint3d.com/contact/distributors/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.reddit.com/r/japanlife/comments/vuws1a/3d_printing_in_japan/",
+    "https://www.ricoh.com/news/stories/articles/changing-the-face-of-japanese-manufacturing",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/3d-printing-market/Japan",
+    "https://blog.prusa3d.com/a-journey-through-craftsmanship-and-design-led-by-open-source-3d-printers_104681/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Cprint 3D",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Printer-Filament-1-75mm-Weight-2-2lbs/dp/B0FK4XYFJ9",
+    "https://www.amazon.co.jp/QIDI-TECH-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm-%E9%AB%98%E8%80%90%E7%B4%AB%E5%A4%96%E7%B7%9A/dp/B0CHYFRQZV",
+    "https://www.amazon.co.jp/-/en/SUNLU/dp/B0FP4STRZK",
+    "https://www.amazon.co.jp/Siraya-Tech-Roamr-80A%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%8148-50-%E9%AB%98%E5%8F%8D%E7%99%BA%E3%80%81%E7%99%BA%E6%B3%A1%E6%80%A7%E3%83%95%E3%83%AC%E3%82%AD%E3%82%B7%E3%83%96%E3%83%AB3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81%E7%A1%AC%E5%BA%A664A-80A%E3%80%81%E3%83%9E%E3%83%83%E3%83%88%E4%BB%95%E4%B8%8A%E3%81%92%E3%80%81%E5%B1%A5%E7%89%A9%E3%80%81%E3%83%9F%E3%83%83%E3%83%89%E3%82%BD%E3%83%BC%E3%83%AB%E3%80%81%E7%9F%AF%E6%AD%A3%E5%99%A8%E5%85%B7%E7%94%A8-800g%E3%80%81%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB/dp/B0G52BQX4Y",
+    "https://www.amazon.co.jp/-/en/TINMORRY-Filament-Printer-Compatible-Printers/dp/B0GSGCCR93",
+    "https://www.amazon.co.jp/-/en/QIDI-TECH-PETG-Tough-Toughness-Reinforced/dp/B0BZ878K36",
+    "https://www.amazon.co.jp/-/en/SUNLU-Dual-Color-Filament-Printer/dp/B0FPPNWSQ6",
+    "https://www.amazon.co.jp/-/en/Kretrum-Filament-Plafilament-Creality-FlashForge/dp/B0D1VBNQ91",
+    "https://www.amazon.co.jp/-/en/SUNLU-Refillable-Filament-Suitable-Dimensional/dp/B0FG7S2H6Q",
+    "https://www.amazon.co.jp/-/en/iSANMATE-Filament-Printer-Dimensional-Accuracy/dp/B0G5XJ2JL5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:monotaro.com Cprint 3D",
+   "results": [
+    "https://www.monotaro.com/p/1455/9171/?srsltid=AYCX9vKeyiVUA4UokyiTcOqxbs4gu2Bs4akfy_j-G-yhoIjpeMPkHTEY",
+    "https://www.monotaro.com/login",
+    "https://www.monotaro.com/g/00399320/",
+    "https://www.monotaro.com/k/store/温度管理ボックス/",
+    "https://www.monotaro.com/g/04125299/",
+    "https://www.monotaro.com/g/02962964/",
+    "https://www.monotaro.com/p/0223/1205/",
+    "https://www.monotaro.com/g/00011092/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Cprint 3D employees revenue parent company",
+   "results": [
+    "https://www.precedenceresearch.com/3d-printing-market",
+    "https://www.investopedia.com/articles/investing/081515/three-biggest-3d-printing-companies.asp",
+    "https://www.youtube.com/watch?v=b85kIuNkgk4",
+    "https://revenuebase.ai/companies/3d-printer-companies/united-states",
+    "https://cprint3d.com/about-us/",
+    "https://www.fabbaloo.com/news/publicly-traded-3d-printing-companies-whos-really-making-money",
+    "https://manufacturingdigital.com/top10/top-10-3d-printing-companies",
+    "https://www.plantautomation-technology.com/articles/top-5-3d-printing-companies-in-the-world",
+    "https://market.us/report/3d-printing-market/",
+    "https://rocketreach.co/containers-printers-profile_b447444afad84d99"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Cprint 3D",
+   "results": [
+    "https://note.com/chinng_inta/n/n6d1f1a8f68a5",
+    "https://note.com/rw_toride/n/n4c821f04e020",
+    "https://note.com/para_ryoh/n/ne87616a580be",
+    "https://note.com/b_sky_lab/n/n61b4242b67e5?hl=en",
+    "https://note.com/cute_dunlin171/n/nf12b3557ec5e?hl=en",
+    "https://note.com/npaka/n/n895083c75c16?hl=en",
+    "https://note.com/chinatsuhara/n/n2b825870c74d?hl=en",
+    "https://note.com/ouma/n/n455fb3db1319?hl=en",
+    "https://note.com/npaka/n/ne81639bc10bf?hl=en",
+    "https://note.com/seigo77"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Cprint 3D",
+   "results": [
+    "https://x.com/higgsfield_ai/status/2102569228989857800",
+    "https://x.com/0xCodila/status/2117107793979142298/photo/1",
+    "https://x.com/minchoi/status/2079769576380789183",
+    "https://x.com/zachdive",
+    "https://x.com/kuromame2209/status/1892459068150645041",
+    "https://x.com/milichab",
+    "https://x.com/SPANDEXcom",
+    "https://x.com/outland_art",
+    "https://x.com/Exaprint",
+    "https://x.com/melucene"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Cprint 3D",
+   "results": [
+    "https://www.linkedin.com/posts/printing-connect-online_cprint-madrid-activity-7524138719650516993-BpOk",
+    "https://jp.linkedin.com/company/xaar?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+    "https://www.linkedin.com/in/michelle-devore-54261283",
+    "https://es.linkedin.com/in/aitoufkiir/en",
+    "https://ca.linkedin.com/in/alexander-potapov",
+    "https://fr.linkedin.com/showcase/c-print-lyon/",
+    "https://www.linkedin.com/company/advanced-biomatrix",
+    "https://in.linkedin.com/company/visual-citi-inc",
+    "https://www.linkedin.com/company/zhongcheng-wisdom-technology-co-ltd",
+    "https://cn.linkedin.com/in/harold-guan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Cprint 3D",
+   "results": [
+    "https://www.facebook.com/PrusaResearch/posts/well-be-at-3d-print-lyon-from-june-24-come-meet-the-prusa-research-team-in-hall-/1012217194653677/",
+    "https://www.facebook.com/OfficialCreality3d/videos/-help-our-3d-printed-toys-are-being-grabbed-the-claw-is-coming-down-which-little/2256344931973338/",
+    "https://www.facebook.com/groups/creator5/posts/965057412661405/",
+    "https://www.facebook.com/PhotoCenter3D/videos/third-and-last-day-at-cprint-madrid-come-to-plugplay-area-and-see-photo-center-3/3906196496316004/",
+    "https://www.facebook.com/OfficialCreality3d/videos/the-twelve-years-of-creality-full-ecosystemfor-12-years-creality-has-grown-toget/1463623995079384/",
+    "https://www.facebook.com/easycomposites/videos/if-you-have-a-3d-printer-you-can-make-high-temperature-prepreg-ready-moulds-for-/1480818003402256/",
+    "https://www.facebook.com/groups/697156286262248/posts/1043797344931472/",
+    "https://www.facebook.com/groups/flashforgecreator5/posts/1576193497580035/",
+    "https://www.facebook.com/groups/creator5/posts/1019112940589185/",
+    "https://www.facebook.com/p/Cprint-3D-by-Zhongcheng-Wisdom-61593091096370/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Cprint 3D note 社長",
+   "results": [
+    "https://cprint3d.com/",
+    "https://note.com/tag/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88",
+    "https://note.com/necohanobunkei/n/ne77deb22379e",
+    "https://note.com/tag/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://www.youtube.com/watch?v=SFnLSlRTMCA",
+    "https://note.com/miya73630/n/n1aeb1d3ea7e2",
+    "https://note.com/e_p/n/neb824f9bf8c0",
+    "https://www.carbon3d.com/about",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://cprint3d.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Cprint 3D X 投稿",
+   "results": [
+    "https://cprint3d.com/ja/home-ja/",
+    "https://www.youtube.com/watch?v=aD-AIJ1vVe4",
+    "https://x.com/3dprintindustry",
+    "https://www.youtube.com/watch?v=59bKZRzPQo0",
+    "https://cprint3d.com/3d-printers/",
+    "https://www.additive-x.com/x-videos?srsltid=AYCX9vJhHcw1gAQzaOpXn71HHUirxpTfW2y7UXscrlyNvVSv5rogdS5d",
+    "https://www.carbon3d.com/resources",
+    "https://www.cc3dprojects.com/",
+    "https://3dprinting.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

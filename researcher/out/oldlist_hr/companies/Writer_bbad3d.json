@@ -1,0 +1,2090 @@
+{
+ "name": "Writer",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T19:33:39.422817+00:00",
+ "official_url": "https://writer.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$326M",
+    "url": "https://getlatka.com/companies/writer.com",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Aug-2020 $5M $5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/439866-01",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "1,985,075 $0.000100 $0.16 $2.03 $2.03 1x $2.03 5.44%",
+    "url": "https://pitchbook.com/profiles/company/439866-01",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "4,784,395 $0.000100 $0.09 $1.08 $1.08 1x $1.08 13.1%",
+    "url": "https://pitchbook.com/profiles/company/439866-01",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "WRITER - Reach the frontier of enterprise growth",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise intelligence into new ways to grow",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "World-class enterprises trust WRITER",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "from your brand, product, and customer knowledge, each touch point reflects what makes you distinct.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Activate agents that identify insights from the field and continuously improve campaigns.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce on-brand, compliant content from the first draft — fewer review cycles, faster time to market.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measurable outcomes from enterprise growth leaders",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your top performer’s process becomes a team workflow",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER is designed for marketing and revenue to scale work together, not solo. Our platform enables teams to operationalize best practices and new hires to start strong from day one.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Brain, the universal context layer, grounds agents in your brand, product, and customer knowledge. Intelligence compounds as your teams work, so outputs get more refined and compliant. We never retain or train on your data, so you’re always in control of your IP.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about Enterprise Brain →",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Control roles, permissions, and capabilities from your IdP and WRITER Agent profiles.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your data with encryption, BYOK, and data loss prevention guardrails.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI spend made predictable",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI research built for enterprises",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our researchers have spent five years building AI with the transparency, reliability, and control that enterprises need.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "marketing and revenue org",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work inside a platform built around how marketing and revenue teams actually think, with the granular controls and training to reinvent how work gets done.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow a proven methodology informed by 500+ enterprise deployments.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with an embedded team of transformation leads and deployment engineers.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything your marketing team needs to go AI native",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why the answer to the advisor capacity crisis isn’t hiring. It’s giving every advisor a digital teammate that handles the work that slows them down.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to create an AI-native marketing engine",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Four proven AI workflows already driving pipeline impact across enterprise marketing teams. See how leading teams are building AI-native marketing engines.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product launch: Build the system behind the customer journey",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER is the AI platform built for the world’s leading marketing and revenue teams. We believe extraordinary growth starts with human ambition, and moves faster when technology is designed for the people doing the work. With WRITER, hundreds of enterprises across the Global 2000 are radically transforming how they go to market.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER is built for how marketing and revenue teams actually think and work. We pair frontier AI with the things those teams need to grow revenue: on-brand agents that execute across the buyer journey, an Enterprise Brain built on brand DNA, and fiduciary-grade control that clears IT and legal.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER customers cut campaign cycles from months to weeks, deliver personalized experiences at scale, and make every customer interaction smarter than the last. We’re helping marketing and revenue teams at H&R Block, Keurig Dr. Pepper, Qualcomm Technologies, and hundreds more grow the enterprise like never before.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-first from day one.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founders May Habib and Waseem AlShikh met over a tweet about machine translation. Fifteen years later, they’re at the helm of the defining platform for enterprise growth.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our enterprise-first approach is why WRITER is already used and trusted by the best.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Product Management",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "For decades, work was organized around constraints. Enterprises built hierarchies, divided people into narrow specializations and added layers and layers of handoffs, processes and tools to take on increasingly complex work. We assumed human capacity had a ceiling.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "But agentic AI is tearing down those boundaries, changing what one person, one team and entire enterprises can achieve. We have a once-in-a-generation chance to wipe the slate clean and rethink how work gets done, unbound by anything that came before.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing and revenue teams at the frontier are already forging a new way to work. They’re tackling challenges in days that used to take months, growing their expertise in directions they never imagined and going after their biggest growth ideas once crushed by budgets and bureaucracy.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "If you share our vision, join us! We’re hiring across all roles.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Find out about our latest achievements, and catch up on our press coverage.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Get our product updates, industry content, and generative AI best practices.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "See how companies use WRITER to accelerate growth, increase productivity, and ensure governance.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to what we do — and who we hire — we never settle for good enough. Whichever team you join, you’ll do some of the best work of your career with some of the smartest folks around.",
+    "url": "https://writer.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re not following in anyone’s footsteps. WRITER develops advanced technology from scratch to solve problems that no other company solves.",
+    "url": "https://writer.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re growing fast and we believe our team members should grow fast, too. Expect to quickly improve your skills and expand your responsibilities.",
+    "url": "https://writer.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our goal is to build an enduring company. It’s a long journey requiring a sense of ownership from every team member. We take pride in our respective crafts and their impact.",
+    "url": "https://writer.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re hiring, help us build the future.",
+    "url": "https://writer.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your business by partnering with the end-to-end platform for building, activating, and supervising AI agents across the enterprise.",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our partnership programs",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Global and regional solution providers and consulting firms that drive organizational transformation and deliver services to support effective enterprise-wide deployment of WRITER",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Technology partners who integrate WRITER’s capabilities into their own solutions, extend their product offerings through our platform, and co-innovate to deliver enhanced solutions for joint customers",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER works with all of the major cloud platforms so customers can rapidly transform their workflows with enterprise Agentic AI",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Broaden your service offerings and deepen your client relationships by partnering with WRITER. Help clients adopt agentic AI enterprise-wide, with your services like systems integration, organization transformation, workflow strategy, change management, and use case scoping.",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and marketing enablement & support",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Strategy",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our tech partner program",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate enterprise-grade agentic AI content directly into your own application with the WRITER API and extend integration capabilities into the WRITER platform, combined with dedicated partnership, marketing, and engineering support.",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Joint co-marketing strategy & support",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprises",
+    "url": "https://writer.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "World-class companies trust WRITER to maximize productivity and creativity across every team.",
+    "url": "https://writer.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How BetterHelp's Chief Growth Officer is building an AI-native marketing engine",
+    "url": "https://writer.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Beauty Pie built an agentic enterprise with a 2-person team. Here's how.",
+    "url": "https://writer.com/customers/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "from your brand, product, and customer knowledge, each touch point reflects what makes you distinct.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Brain, the universal context layer, grounds agents in your brand, product, and customer knowledge. Intelligence compounds as your teams work, so outputs get more refined and compliant. We never retain or train on your data, so you’re always in control of your IP.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to maintain and scale your brand DNA",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our tech partner program",
+    "url": "https://writer.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating WRITER into their workflows, 6sense increases marketing outputs by 50% and rebranded 100 blogs in 100 minutes.",
+    "url": "https://writer.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "How to maintain and scale your brand DNA",
+    "url": "https://writer.com/solutions/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "6sense increases marketing outputs by 50% and rebranded 100 blogs in 100 minutes.",
+    "url": "https://writer.com/solutions/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER applies your brand standards and approved knowledge automatically, so every output is grounded in your brand, voice, and strategy – and sails through reviews.",
+    "url": "https://writer.com/solutions/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "6sense increases marketing outputs by 50% and rebranded 100 blogs in 100 minutes.",
+    "url": "https://writer.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER applies your brand standards and approved knowledge automatically, so every output is grounded in your brand, voice, and strategy—and sails through reviews.",
+    "url": "https://writer.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply your brand standards, approved knowledge, and compliance requirements automatically to every email, presentation, and proposal—so reps create content that’s on brand and compliant.",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically apply your brand standards, approved knowledge, and compliance requirements to every support email, help article, or internal presentation—so teams can stay on brand and compliant.",
+    "url": "https://writer.com/solutions/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Your brand and compliance standards, automatically applied",
+    "url": "https://writer.com/product/enterprise-brain/",
+    "pass": 1
+   },
+   {
+    "quote": "With Enterprise Brain, marketing teams can produce content that adheres to your brand rules, compliance requirements, and visual identity but also your team’s latest best practices.",
+    "url": "https://writer.com/product/enterprise-brain/",
+    "pass": 1
+   },
+   {
+    "quote": "No more endless back-and-forth. Get complete documents, presentations, dashboards, and spreadsheets — tailored to your brand.",
+    "url": "https://writer.com/product/writer-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "By integrating WRITER into their workflows, 6sense increases marketing outputs by 50% and rebranded 100 blogs in 100 minutes.",
+    "url": "https://writer.com/customers/?industry=all&department=all&use-case=all&feature=all",
+    "pass": 1
+   },
+   {
+    "quote": "Shelley’s love of words began in first grade, composing poems for her dear teacher and mentor, Mrs. Blanchard.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Her background includes writing and editorial positions with both book and magazine publishers. She has worked as a copy editor and proofreader for major advertising agencies including Ogilvy & Mather and Rubin Postaer. Her experience includes magazine feature writing and editing as well as manuscript development and editing.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Staffing Agencies",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "WRITER is designed for marketing and revenue to scale work together, not solo. Our platform enables teams to operationalize best practices and new hires to start strong from day one.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "marketing and revenue org",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work inside a platform built around how marketing and revenue teams actually think, with the granular controls and training to reinvent how work gets done.",
+    "url": "https://writer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER is the AI platform built for the world’s leading marketing and revenue teams. We believe extraordinary growth starts with human ambition, and moves faster when technology is designed for the people doing the work. With WRITER, hundreds of enterprises across the Global 2000 are radically transforming how they go to market.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER is built for how marketing and revenue teams actually think and work. We pair frontier AI with the things those teams need to grow revenue: on-brand agents that execute across the buyer journey, an Enterprise Brain built on brand DNA, and fiduciary-grade control that clears IT and legal.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER customers cut campaign cycles from months to weeks, deliver personalized experiences at scale, and make every customer interaction smarter than the last. We’re helping marketing and revenue teams at H&R Block, Keurig Dr. Pepper, Qualcomm Technologies, and hundreds more grow the enterprise like never before.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "For decades, work was organized around constraints. Enterprises built hierarchies, divided people into narrow specializations and added layers and layers of handoffs, processes and tools to take on increasingly complex work. We assumed human capacity had a ceiling.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The marketing and revenue teams at the frontier are already forging a new way to work. They’re tackling challenges in days that used to take months, growing their expertise in directions they never imagined and going after their biggest growth ideas once crushed by budgets and bureaucracy.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re working hand in hand with our customers to reinvent workflows, rethink roles and take on entirely new ways to create revenue. We’re building WRITER for the organizations they’re becoming.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "VOIS and Vodafone UK transform marketing operations, cutting content creation time by 50% and saving employees a day per week with WRITER",
+    "url": "https://writer.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER builds compliance and accuracy into every output, so teams can scale work, from member acquisition to omnichannel field engagement.",
+    "url": "https://writer.com/solutions/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Member acquisition and retention",
+    "url": "https://writer.com/solutions/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Markets at EE (part of BT Group)",
+    "url": "https://writer.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "campaigns to customer acquisition",
+    "url": "https://writer.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale high-converting PDP content across all retailers to grow revenue.",
+    "url": "https://writer.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale depth, not just reach → execute true 1:1 ABM campaigns grounded in your data, narrative, and brand.",
+    "url": "https://writer.com/solutions/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Measurable impact from brand campaigns to customer acquisition",
+    "url": "https://writer.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale depth, not just reach → execute true 1:1 ABM campaigns grounded in your data, narrative, and brand.",
+    "url": "https://writer.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate revenue at every stage of the sales cycle",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate manual research, automate meeting prep, and maximize revenue across your book of business.",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER delivers the productivity gains and revenue outcomes sales leaders need, with the security, governance, and controls IT requires.",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagine how revenue teams work with AI agents",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "WRITER takes a zero data retention approach, storing data for only as long as is needed for you to build with our platform. None of your data is used for training our models. All data, files, and other materials that customers make available to WRITER for using our platform, along with any inputs or generated outputs, are owned by that customer.",
+    "url": "https://writer.com/trust/",
+    "pass": 1
+   },
+   {
+    "quote": "VOIS and Vodafone UK transform marketing operations, cutting content creation time by 50% and saving employees a day per week with WRITER",
+    "url": "https://writer.com/customers/?industry=all&department=all&use-case=all&feature=all",
+    "pass": 1
+   },
+   {
+    "quote": "Yuki, on the verge of abandoning her ambitions and returning home to marry her fiancé, finds renewed purpose through this role, though it tests her own identity as a writer.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "The narrative builds tension through episodes reflecting escalating conflicts, culminating in a finale titled \"The Queen's Return\" focused on counterattacks and resolution among \"sinful women.\"",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "Screenwriter Atsuko Hashibe, known for emotionally resonant works like the \"Boku\" trilogy, was tasked with developing the core narrative, focusing on the tensions of writer's block and the ethical ambiguities of ghostwriting relationships.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "Initial casting decisions prioritized actors who could embody the complex dynamics of the publishing sector's challenges, with Miki Nakatani selected for the lead role of the established novelist—her first starring turn in a continuous drama in 13 years since",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "features three central protagonists whose personal and professional struggles drive the narrative.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "Other ensemble members, such as Yuichi Haba as Shinya Okano, a single-volume editor involved in manuscript handling, further populate the publishing ecosystem with practical contributions to the narrative's exploration of literary production.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "The chemistry between Nakatani, portraying the blocked novelist Risa Tono, and Asami Mizukawa, as her ambitious ghostwriter Yuki Kawahara, was frequently commended for driving the narrative's emotional depth and suspenseful twists.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "Writers are listed by the native order of Japanese names—family name followed by given name—to ensure consistency, although some writers are known by their western-ordered name.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Murakami met Yōko Takahashi in Tokyo and they married straight out of university.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", was written later but is not considered part of the series), centered on the same unnamed narrator and his friend, \"the Rat\".",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "as part of a series intended for Japanese students of English. Murakami considers his first two novels to be \"immature\" and \"flimsy\",",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "The book was longlisted for the",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "first-person narrative",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", as a stand-alone book published by Cloverfield Press, and part of",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", starring",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "and as part of a segment in the South Korean omnibus film",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ". The film was viewed, voted, and commented upon as part of the audience award for the movie festival.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "into a two-hour multimedia stage presentation. The show opened January 12, 2010, as part of the",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "In 2013, pianist Eunbi Kim debuted a performance piece, titled \"Murakami Music: Stories of Loss and Nostalgia\", drawn from excerpts of Murakami's work as part of her artist residency at",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", Murakami was never a part of a community of writers, his reason being that he was a loner and was never fond of groups, schools, and literary circles.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "In another interview, Murakami stated: \"The issue of historical understanding carries great significance, and I believe it is important that Japan makes straightforward apologies. I think that is all Japan can do – apologise until the countries say: 'We don't necessarily get over it completely, but you have apologised enough. Alright, let's leave it now.'\"",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "\"Four writers shortlisted for 'the new Nobel Literature Prize'",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Wee, Darren (January 22, 2015).",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "\"Haruki Murakami: I support gay marriage\"",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuo Basho is one of Japan's most famous classical poets. His works, such as \"The Narrow Road to the Deep North,\" are celebrated for their simplicity and depth. Basho's poetry often explores themes of nature, identity, and the human condition, making him a cornerstone of Japanese literature.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "At The Writers For Hire, our copywriters and editors have the knowledge and experience to create engaging case studies that showcase your company’s success stories. Many on our team have experience as lead writers for Fortune 500 companies and are dedicated to offering stellar customer service.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Since joining The Writers For Hire, Jennifer has tackled a vast array of projects—from RPFs and SOPs to memoirs and company history books— and has done many in-depth genealogical research and family tree projects. She has also worked as Project Manager for various client projects, including family history books, websites, RFPs, blogs, autobiographies, and SOPs.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Shelley Harrison Carpenter",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "She now loves being part of the writing teams at The Writers for Hire. When not at a keyboard, she can be seen jogging in her Southern neighborhood or found holed up with a biography, a vegetarian cookbook, or a vintage TV show.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "She has more than 40 years experience writing professionally, including her years at Science Applications International Corp., Bechtel Corporation, Defense Acquisition University, and the Department of Defense.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Louis Barragan is a freelance writer and editor with a background that doesn’t sit neatly in one lane. He holds a Bachelor of Science in Communication. He works across blog writing, SEO content, essays, and general editorial projects—usually stepping in when something needs to be clearer, tighter, or more usable.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking to turn your client achievements into compelling stories? Focusing on clear, concise narratives, they bring your big wins to life, providing valuable social proof that can help drive new business.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Proficient in weaving metrics and results into a narrative, our writers bring credibility to your case studies by combining facts with engaging storytelling.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "vs. Full-time Employees",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Writer Revenue 2024: $84M Est., $1.9B Valuation",
+    "url": "https://getlatka.com/companies/writer.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our enterprise-first approach is why WRITER is already used and trusted by the best.",
+    "url": "https://writer.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by financial services leaders worldwide",
+    "url": "https://writer.com/solutions/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by health plans, care providers, and life sciences",
+    "url": "https://writer.com/solutions/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by healthcare and life sciences leaders worldwide",
+    "url": "https://writer.com/solutions/healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "A global CPG manufacturer increases output by 4x and decreases time spent by 50% for PDP, social media, and email creation.",
+    "url": "https://writer.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze audience and performance data from your data warehouse to generate strategic briefs, channel tactics, and persona-specific creative concepts.",
+    "url": "https://writer.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze audience and performance data from your data warehouse to generate strategic briefs, channel tactics, and persona-specific creative concepts.",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "A global CPG manufacturer increases output by 4x and decreases time spent by 50% for PDP, social media, and email creation.",
+    "url": "https://writer.com/solutions/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Writing Services - The Writers For Hire",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Because we have multiple writers with case study experience, we can handle large, complex assignments and meet even the most challenging deadlines. You can depend on us every step, from brainstorming through to final review. Our process includes:",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "What makes a good case study writer? Our team shares these key characteristics:",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Since joining The Writers for Hire, Peter has branched into ghostwriting, op-eds, RFPs, SOPs, and producing work for aerospace and engineering firms, public utilities, oil and gas companies, real estate developers, and the entertainment industry.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Professional Case Study Writers - Quickly Hire",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire case study writers to highlight your success stories",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of working with our case study writers",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Our case study writers don’t just write—they convey client successes into relatable stories that stick with your audience. With their knack for detail and a flair for storytelling, they weave storytelling that shows your value without the fluff. Whether you need in-depth industry case studies or quick, punchy success snapshots, they’ll craft engaging, professional content tailored to your goals.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "How our case study writers can showcase your achievements",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Our case study writers are skilled at conducting in-depth client interviews, extracting meaningful insights to craft compelling stories.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "They dive deep into your industry, ensuring each case study aligns with market trends and resonates with your target audience.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Access expert case study writing services",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "We handle the entire process, from matching you with a suitable writer to the final case study delivery, ensuring a seamless experience.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Our process for selecting top case study writers",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "We scout globally for skilled, creative, and experienced case study writers. With backgrounds in various industries, our writers bring a wealth of knowledge to craft compelling success stories for your business.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study writers are carefully matched with businesses that align with their expertise and industry knowledge, ensuring a seamless start to every project.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire a Case Study Writer",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Review briefs, post-meeting notes, and follow-up emails — with sentiment analysis and",
+    "url": "https://writer.com/solutions/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "A global CPG manufacturer increases output by 4x and decreases time spent by 50% for PDP, social media, and email creation.",
+    "url": "https://writer.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate persona-based emails, SMS variants, push notifications, and lifecycle messaging automatically",
+    "url": "https://writer.com/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale on-brand, region-specific, and polished deliverables — landing pages, emails, handouts.",
+    "url": "https://writer.com/solutions/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate parallel creation of on-brand content, derivatives, email, paid media, landing pages, and sales materials.",
+    "url": "https://writer.com/solutions/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate personalized HTML emails, landing pages, microsites, and sales decks with brand consistency, at scale.",
+    "url": "https://writer.com/solutions/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale on-brand, region-specific, and polished deliverables — landing pages, emails, handouts.",
+    "url": "https://writer.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate parallel creation of on-brand content, derivatives, email, paid media, landing pages, and sales materials.",
+    "url": "https://writer.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate personalized HTML emails, landing pages, microsites, and sales decks with brand consistency, at scale.",
+    "url": "https://writer.com/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase relevance and customer engagement with personalized engagement kits (microsites, emails, social copy) that pull CRM, meeting conversations, and external web research.",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate persona-based emails, SMS variants, push notifications, and lifecycle messaging automatically",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply your brand standards, approved knowledge, and compliance requirements automatically to every email, presentation, and proposal—so reps create content that’s on brand and compliant.",
+    "url": "https://writer.com/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "A global CPG manufacturer increases output by 4x and decreases time spent by 50% for PDP, social media, and email creation.",
+    "url": "https://writer.com/solutions/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically apply your brand standards, approved knowledge, and compliance requirements to every support email, help article, or internal presentation—so teams can stay on brand and compliant.",
+    "url": "https://writer.com/solutions/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Carol Kim is a versatile freelance copywriter who specializes in content marketing, blog posts, website content, and email marketing for business clients. She especially enjoys diving into research and discovering what makes every company unique. Carol holds a bachelor’s degree from Pomona College and a Master’s in Public Affairs from the LBJ School at the University of Texas at Austin.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Cecile enjoys the challenge of discovering each client’s unique strengths and presenting them to a wider audience. Since joining The Writers For Hire, she has worked on blogs, newsletters, RFPs, end-user documentation, email, social media, sales pages, biographies, op-eds, and fiction.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/439866-01",
+    "pass": 3
+   },
+   {
+    "quote": "If you have any opinions or requests, you can send them via the \"Contact Us\" form on the site.",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "▶Sayo's Email Newsletter",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Add and verify an email address in the account settings.",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Check: The account settings show both the email address and the phone number as verified.",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "You’ll get an email once your AI Note Writer has met the admission criteria.",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Ghost Writer (Japanese TV series) — Grokipedia",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": ") is a Japanese television drama series that aired on Fuji Television from January 13 to March 17, 2015, consisting of 10 episodes broadcast weekly on Tuesdays from 9:00 to 9:54 p.m. JST.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "The series stars Miki Nakatani as Risa Tono, a celebrated bestselling novelist grappling with creative stagnation and inner turmoil despite her public acclaim as a literary genius, and Asami Mizukawa as Yuki Kawahara, a talented aspiring writer in her twenties who relocates to Tokyo to pursue her dreams but faces repeated rejections.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese television series",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "Asami Mizukawa plays Yuki Kawahara, a talented young aspiring novelist in her 20s who relocates to Tokyo with dreams of literary success.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "is a Japanese television drama series that aired on Fuji TV from January 13, 2015, to March 17, 2015, occupying the Tuesday 21:00 JST timeslot for a total of 10 episodes.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "Below is the complete list of episodes, including Japanese titles, romanized versions, and original air dates.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "Directors per episode from Japanese Wikipedia. The series averaged 8.6% in viewership ratings.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "However, it did not secure major wins, and no significant fan-driven awards were reported. Internationally, availability remains limited, with no widespread global streaming release on platforms like Netflix; episodes are accessible primarily through Japanese services or niche international sites like Plex, restricting broader exposure.",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "cdjapan.co.jp/product/AVCD-16526",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese writers - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese writers",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Writers are listed by the native order of Japanese names—family name followed by given name—to ensure consistency, although some writers are known by their western-ordered name.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese writers by family name:",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese people",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese women writers",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Yilan Creole Japanese",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Yokohama Pidgin Japanese",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Transcription into Japanese",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Sino-Japanese vocabulary",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "A Reference Grammar of Japanese",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "https://en.wikipedia.org/w/index.php?title=List_of_Japanese_writers&oldid=1295368039",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Lists of Japanese writers",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese writer (born 1949)",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "is a Japanese writer. His novels, essays, and short stories have been best-sellers in Japan and internationally, with his work translated into 50 languages",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "and having sold millions of copies outside Japan.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "(2009–10); the last was ranked as the best work of Japan's",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo subway sarin attack",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's literary establishment",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "as un-Japanese, leading to Murakami's recalling that he was a \"black sheep in the Japanese literary world\".",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan (then",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Second Sino-Japanese War",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "These Western influences distinguish Murakami from the majority of other Japanese writers.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "in Tokyo. His first job was at a record store. Shortly before finishing his studies, he opened a",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Kokubunji, Tokyo",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Murakami met Yōko Takahashi in Tokyo and they married straight out of university.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "She ran the jazz bar with Murakami in Tokyo, having more business experience than he did when it first opened. The couple",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "The first two novels were not widely available in English translation outside Japan until 2015, although an English edition, translated by",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "as part of a series intended for Japanese students of English. Murakami considers his first two novels to be \"immature\" and \"flimsy\",",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", a nostalgic story of loss and sexuality. It sold millions of copies among young Japanese.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "propelled the barely known Murakami into the spotlight. He was mobbed at airports and other public places, leading to his departure from Japan in 1986.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", with an office in Tokyo.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "soon became an important theme in Murakami's writing, which had previously been more personal in nature. Murakami returned to Japan in the aftermath of the",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "consists largely of interviews of victims of the gas attacks in the Tokyo subway system.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", among others, into Japanese.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "Murakami took an active role in translation of his work into English, encouraging \"adaptations\" of his texts to American reality rather than direct translation. Some of his works that appeared in German turned out to be translations from English rather than Japanese (",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": ", 2000s), encouraged by Murakami himself. Both were later re-translated from Japanese.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "20 Japanese Writers The Best Authors From Japan Over Time | Japan Inside",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "20 Japanese Writers The Best Authors From Japan Over Time",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese literature is a rich and diverse field, spanning centuries and genres, and featuring authors who have significantly contributed to the global literary landscape. From classical poets to contemporary novelists, Japan has produced a plethora of writers whose works continue to captivate readers worldwide.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Yasunari Kawabata was the first Japanese novelist to receive the Nobel Prize in Literature. His works, such as \"The Sound of the Mountain\" and \"The Izu Dancer,\" are renowned for their depiction of Japanese aesthetics and the human condition. Kawabata's writing often explores themes of life, death, and the silence between conversations, creating a tense and almost tangible atmosphere.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Yukio Mishima was a multifaceted author known for his dramatic life and writing style. His novels, such as \"Kinkakuji\" and \"Confessions of a Mask,\" are characterized by their complexity and beauty. Mishima's work often explores themes of identity, morality, and the human condition, making him one of the most important figures in modern Japanese literature.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Kenzaburo Oe is another Nobel Prize-winning author from Japan. His works, such as \"The Silent Cry\" and \"Death By Water,\" are known for their intense and troubled family dramas, as well as their exploration of the changing landscape of Japanese society. Oe's writing continues to feel fresh and relevant, even decades after its initial publication.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Osamu Dazai was a prominent novelist known for his tumultuous personal life and his contributions to Japanese literature. His works, such as \"No Longer Human\" and \"Schoolgirl,\" are celebrated for their raw and honest portrayal of the human condition. Dazai's writing often explores themes of alienation and the search for meaning in a chaotic world.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Junichiro Tanizaki is regarded as one of the main writers of modern Japanese literature. His novels, such as \"The Makioka Sisters\" and \"A Cat, A Man, And Two Women,\" are known for their depiction of Japanese culture and society. Tanizaki's writing often explores themes of family dynamics, social change, and the tension between tradition and modernity.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Natsuo Kirino is a celebrated crime writer and feminist author. Her novels, such as \"Out\" and \"The Goddess Chronicle,\" are known for their subversive take on patriarchal norms in Japanese society. Kirino's writing often explores themes of violence, identity, and the struggles faced by women in contemporary Japan.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Ryu Murakami is a contemporary author known for his dark and often surreal works. His novels, such as \"In the Miso Soup\" and \"Almost Transparent Blue,\" explore themes of violence, identity, and the darker aspects of human nature. Murakami's writing is celebrated for its raw and unflinching portrayal of contemporary Japanese society.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuo Basho is one of Japan's most famous classical poets. His works, such as \"The Narrow Road to the Deep North,\" are celebrated for their simplicity and depth. Basho's poetry often explores themes of nature, identity, and the human condition, making him a cornerstone of Japanese literature.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "Hiromi Kawakami is a contemporary author known for her lyrical and often humorous works. Her novels, such as \"Strange Weather in Tokyo\" and \"The Nakano Thrift Shop,\" explore themes of identity, relationships, and the human condition. Kawakami's writing is celebrated for its subtlety and relatability.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ghost Writer (Japanese TV series) — Ghost Writer (ゴーストライター, Gōsutoraitā) is a Japanese television drama series that aired on Fuji Television from January 13 to March 17, 2015, consisting of 10 episodes broadcast weekly on Tuesdays from 9:00 to 9:54 p.m. JST. The seri…",
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese writers - Wikipedia — This is an alphabetical list of writers who are Japanese, or are famous for having written in the Japanese language. Writers are listed by the native order of Japanese names—family name followed by given name—to ensure consistency, although some writers are known by their western-ordered name.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "pass": 3
+   },
+   {
+    "quote": "Haruki Murakami - Wikipedia — Murakami, one of Japan's best known writers who has repeatedly been tipped as a future Nobel Literature laureate, has often chided his country for shirking responsibility for its World War II aggression.",
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "pass": 3
+   },
+   {
+    "quote": "20 Japanese Writers The Best Authors From Japan Over Time — Sep 7, 2024 · From classical poets to contemporary novelists, Japan has produced a plethora of writers whose works continue to captivate readers worldwide. 1. Haruki Murakami is arguably Japan's most famous contemporary novelist.",
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "pass": 3
+   },
+   {
+    "quote": "25 Most Popular Japanese Writers (Past and Present) — A full list of 25 of Japan’s most popular writers, from the very first author of a novel in the world to the modern-day greats. What’s more, all of the works mentioned have translations in English so we can sit back and enjoy them in all their glory with ease.",
+    "url": "https://yougojapan.com/most-popular-japanese-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "WRITER - Reach the frontier of enterprise growth — WRITER puts signals and insights to work across the customer journey. Drawing from your brand, product, and customer knowledge, each touch point reflects what makes you distinct.",
+    "url": "https://writer.com/agents/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Writing Services - The Writers For Hire — Your company has a story to tell. Let us help you write it. With The Writers For Hire on your side, you have all the tools and talent necessary to create case studies that illustrate your value, describe your customers’ journey, and demonstrate how you solve problems.",
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Upwork — Share your product or service’s success with help from a professional case study writer. See what’s possible with Upwork.",
+    "url": "https://www.upwork.com/services/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Professional Case Study Writers - Quickly Hire — We scout globally for skilled, creative, and experienced case study writers. With backgrounds in various industries, our writers bring a wealth of knowledge to craft compelling success stories for your business.",
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "pass": 3
+   },
+   {
+    "quote": "WRITER customer spotlights — Our content experts in product and marketing were early adopters of WRITER, lauding WRITER's intuitive content moderation and generative AI capabilities. This drove initial adoption, and word-of-mouth has spurred further interest from teams across the entire business.",
+    "url": "https://writer.com/customers/?industry=all&department=all&use-case=all&feature=all",
+    "pass": 3
+   },
+   {
+    "quote": "Writer Revenue 2024: $84M Est., $1.9B Valuation - LATKA — Oct 8, 2026 · Writer 2024 estimated revenue: $84M (up from $49.6M in 2023). Valuation: $1.9B. Total funding: $326M across 4 rounds. 2.3K employees. Updated Oct 8, 2026.",
+    "url": "https://getlatka.com/companies/writer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Writer – Valuation, Revenue & Market Scope – 2026 — Discover Writer's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/writer",
+    "pass": 3
+   },
+   {
+    "quote": "WRITER - 2026 Company Profile, Team, Funding & Competitors ...Writer 2026 Company Profile: Valuation, Funding & Investors ...WRITER Profile 2026: Financials, AI Strategy & ComparisonWriter Revenue, Funding & Valuation - prospeo.ioWriter revenue, valuation & funding | Sacra — Aug 13, 2026 · WRITER - About the company WRITER is a series C company based in San Francisco (United States), founded in 20",
+    "url": "https://tracxn.com/d/companies/writer/__pn8dECY0pwUrYfmDrf82ATA9a_qWFFEnTiotoJrOnio",
+    "pass": 3
+   },
+   {
+    "quote": "Writer 2026 Company Profile: Valuation, Funding & Investors ...WRITER Profile 2026: Financials, AI Strategy & ComparisonWriter Revenue, Funding & Valuation - prospeo.ioWriter revenue, valuation & funding | Sacra — Information on valuation, funding, cap tables, investors, and executives for Writer. Use the PitchBook Platform to explore the full profile. WRITER has raised $326 million in funding, wi",
+    "url": "https://pitchbook.com/profiles/company/439866-01",
+    "pass": 3
+   },
+   {
+    "quote": "WRITER Profile 2026: Financials, AI Strategy & ComparisonWriter Revenue, Funding & Valuation - prospeo.ioWriter revenue, valuation & funding | Sacra — WRITER has raised $326 million in funding, with its latest Series C round of $200 million in November 2024, valuing the company at $1.9 billion. The company has 1376 employees and serves over 300 customers, including Accenture, Intuit, L'Oréal, Sale",
+    "url": "https://dexteragent.ai/companies/writer-1771771194",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "We have launched 'Writer Directory,' a site to introduce ... We have officially launched 'Writer Directory,' a site to introduce writers, today (November 8, 2026). For those who write novels and stories, and those looking for works they haven't discovered yet. We hope this becomes a place where new encounters are born between them. Starting today, we are also accepting applications for writers to ",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How Web Writer Beginners Should Choose Projects | 7 ... Web writer compensation is often expressed as \"price per character.\" However, if you only look at the price per character, it becomes difficult to see how much you will actually earn.",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Being told you are a good writer does not necessarily mean ... 2 days ago · The experience of being praised for being a good writer can be a catalyst for taking on a challenge. However, that one compliment alone does not mean you have mastered how to get work or how to sell products.",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Web Writer? Introducing Necessary Skills A web writer is a job that involves writing text to be published on blogs on the web, corporate homepages, etc. There are projects in various genres, and you can work from home or as a side job, leveraging your own interests, knowledge, and experience. Because even beginners can accept projects, it is a job that is easy to start as a side business",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "We have launched 'Writer Directory,' a site to introduce writers!｜だしのもと",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We have launched 'Writer Directory,' a site to introduce writers!",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We have officially launched 'Writer Directory,' a site to introduce writers, today (November 8, 2026).",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those who write novels and stories, and those looking for works they haven't discovered yet.",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We hope this becomes a place where new encounters are born between them.",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Starting today, we are also accepting applications for writers to be listed.",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First of all, please take a look at the site.",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "📚 Click here for Writer Directory",
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How Web Writer Beginners Should Choose Projects | 7 Checkpoints to Review Before Applying 🗿｜ハク先生｜Webライターの学び場",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How Web Writer Beginners Should Choose Projects | 7 Checkpoints to Review Before Applying 🗿",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"There are so many job postings, I don't know which one to apply for.\"",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"The pay feels too low, but I guess that's unavoidable since I'm a beginner.\"",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"What if I get caught up in a shady project?\"",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's easy to feel these kinds of anxieties when you've just started as a web writer.",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Last time, I introduced a method for creating an article first and then applying for projects.",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "▼ Click here for the previous article",
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Being told you are a good writer does not necessarily mean you can make money from writing｜さよ",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Being told you are a good writer does not necessarily mean you can make money from writing",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You are a good writer.",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you have ever been complimented like that, you might be interested in a side hustle that involves writing.",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Web writing or paid notes. It would be great to get paid for writing the things you love, wouldn't it?",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "But when you actually try it, things don't go as planned.",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You apply for jobs but don't get hired. You write notes but they don't sell. To begin with, you don't even know what to write.",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I thought I was good at writing...",
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Web Writer? Introducing Necessary Skills｜KAWAMURA YASUYO",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Web Writer? Introducing Necessary Skills",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Web Writer?",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A web writer is a professional who writes content to be published on the internet.",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They primarily create articles for corporate websites, personal blogs, news sites, and product introduction pages.",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The content is broad, covering various genres such as beauty, health, travel, finance, business, IT, and entertainment.",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a job you can do from home, leveraging your own areas of expertise based on experience or themes you are interested in.",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Specifically, they write the following types of content:",
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "WRITER (@Get_Writer) / X We just made it a whole lot easier to get really, really good at WRITER! ⛰️ Say hello to WRITER Ascent, our free, on-demand curriculum that takes you from shipping workflows to building production-grade AI systems.",
+    "url": "https://x.com/get_writer",
+    "pass": 3
+   },
+   {
+    "quote": "Maria Elena (@melenawriter) / X Authentic bisexual, haughty woman, sometimes writer. IG: @asfarasiknowimdelightful",
+    "url": "https://x.com/melenawriter",
+    "pass": 3
+   },
+   {
+    "quote": "AI Note Writers The Template API Note Writer is an open-source client that calls the AI Note Writer API and writes rudimentary notes. It provides a \"hello, world\" level starting point from which you can develop and improve.",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Writer Unboxed (@WriterUnboxed) / X 442 Followers • 763 Threads • Empowering writers about the craft & business of fiction. Named one of the 101 Best Websites for Writers by Writer's Digest each year since 2007. See the latest...",
+    "url": "https://x.com/WriterUnboxed",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・本文）": [
+   {
+    "quote": "Did someone say … cookies?",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "X and its partners use cookies to provide you with a better, safer and",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "faster service and to support our business. Some cookies are necessary to use",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "our services, improve our services, and make sure they work properly.",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Show more about your choices",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Refuse non-essential cookies",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "AI Note Writers can write proposed notes on posts. Like all contributors, if their notes are found helpful by people who normally disagree, the notes will be shown on X. Also like all contributors, they must earn the ability to write notes, and can gain and lose capabilities over time based on how helpful their notes are to people from different perspectives.",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   },
+   {
+    "quote": "AI Note Writers cannot rate notes. Ratings come from regular contributors (i.e. humans) whose input ultimately determines which notes show.",
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "WRITER - LinkedIn WRITER is the AI platform built for the world’s most ambitious marketing and revenue teams, bringing the frontier of AI to the people who drive enterprise growth.",
+    "url": "https://www.linkedin.com/company/getwriter",
+    "pass": 3
+   },
+   {
+    "quote": "Writer Jobs in United States (10,000+ Open Roles) | LinkedIn Today’s top 10,000+ Writer jobs in United States. Leverage your professional network, and get hired. New Writer jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/writer-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Writer Corporation | LinkedIn Imagination and innovation have been the hallmark of Writer Corporation, which has helped align our service capabilities with the evolving needs of corporates and individuals across the world.",
+    "url": "https://in.linkedin.com/company/the-writer",
+    "pass": 3
+   },
+   {
+    "quote": "Writer Information | LinkedIn Writer Information, a business division of Writer Corporation is a premier information solutions and services provider . Our major offerings include Business Process Services, Secured Storage...",
+    "url": "https://in.linkedin.com/company/writerinformation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Association of Writers & Writing ProgramsMindy Fischer, Writer - FacebookSuspense, Thrillers, Mystery, Writer, Readers | FacebookTuscarawas County Writers Guild - FacebookWritersLife.org - FacebookDavid Baldacci - FacebookWriter's Detective: Law Enforcement Technical Advisor for Writers Oct 14, 2026 · Recognize Hispanic Heritage Month by rewatching past AWP events like “#AWP26 Poet Community Leade",
+    "url": "https://www.facebook.com/AWPWriter/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindy Fischer, Writer - FacebookSuspense, Thrillers, Mystery, Writer, Readers | FacebookTuscarawas County Writers Guild - FacebookWritersLife.org - FacebookDavid Baldacci - FacebookWriter's Detective: Law Enforcement Technical Advisor for Writers Oct 21, 2026 · Mindy Fischer, Writer. 95,224 followers · 132,213 talking about this. Free-lance Writer, Lover of the F-word & Proud Lib. Buy me a coffee ",
+    "url": "https://www.facebook.com/NastyMindy/",
+    "pass": 3
+   },
+   {
+    "quote": "Tuscarawas County Writers Guild - Facebook We are an informal writer's group, who enjoy meeting once a month at Dover Public Library, Dover, Ohio. Meetings are on the first Mondays at 6:30 PM....",
+    "url": "https://business.facebook.com/groups/tuscarawascountywritersguild/",
+    "pass": 3
+   },
+   {
+    "quote": "WritersLife.org - FacebookDavid Baldacci - FacebookWriter's Detective: Law Enforcement Technical Advisor for Writers Jun 20, 2026 · If you've spent years developing your skills as a writer, there's a real possibility that other people would benefit from learning what you know. Creating a digital course is one way to share that knowledge and build real income from your expertise. David Baldacci. 30",
+    "url": "https://www.facebook.com/writerslife.org/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://writer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/solutions/financial-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/solutions/healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/solutions/retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/solutions/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/solutions/marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/solutions/sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/solutions/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/product/enterprise-brain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/product/writer-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/trust/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://writer.com/customers/?industry=all&department=all&use-case=all&feature=all",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://writer.com/wp-content/uploads/2024/03/insight-partners.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://writer.com/wp-content/uploads/2024/03/customers.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://writer.com/wp-content/uploads/2025/04/medisolv-customers-page-2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://writer.com/wp-content/uploads/2024/11/qualcomm-customers-page.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/WILLER",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thewritersforhire.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upwork.com/services/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://quicklyhire.com/case-study-writers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/writer.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/writer",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/writer/__pn8dECY0pwUrYfmDrf82ATA9a_qWFFEnTiotoJrOnio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439866-01",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/get_writer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/melenawriter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://communitynotes.x.com/guide/en/api/overview",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/WriterUnboxed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getwriter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/writer-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/the-writer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/writerinformation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AWPWriter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NastyMindy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/tuscarawascountywritersguild/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/writerslife.org/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Writer 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Writer 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/WILLER",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Writer Japan",
+   "results": [
+    "https://grokipedia.com/page/ghost_writer_japanese_tv_series",
+    "https://en.wikipedia.org/wiki/List_of_Japanese_writers",
+    "https://en.wikipedia.org/wiki/Haruki_Murakami",
+    "https://www.japaninsides.com/20-japanese-writers-the-best-authors-from-japan-over-time-45333",
+    "https://yougojapan.com/most-popular-japanese-writers/",
+    "https://www.ranker.com/list/famous-authors-from-japan/reference",
+    "https://www.tsunagujapan.com/20-great-japanese-novelists-historical-and-contemporary/",
+    "https://japanobjects.com/features/japanese-authors"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Writer manufacturing customer case study",
+   "results": [
+    "https://writer.com/agents/case-study/",
+    "https://www.thewritersforhire.com/case-studies/",
+    "https://www.upwork.com/services/case-studies",
+    "https://quicklyhire.com/case-study-writers/",
+    "https://writer.com/customers/?industry=all&department=all&use-case=all&feature=all",
+    "https://brandnewcopy.com/case-study-writer/",
+    "https://www.casestudies.com/company/writer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Writer white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Writer founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/writer.com",
+    "https://compworth.com/company/writer",
+    "https://tracxn.com/d/companies/writer/__pn8dECY0pwUrYfmDrf82ATA9a_qWFFEnTiotoJrOnio",
+    "https://pitchbook.com/profiles/company/439866-01",
+    "https://dexteragent.ai/companies/writer-1771771194",
+    "https://prospeo.io/c/writer-revenue",
+    "https://sacra.com/c/writer/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Writer",
+   "results": [
+    "https://note.com/dasi_no_moto/n/nfb090d66963e?hl=en",
+    "https://note.com/haku_writer/n/n5223426013e5?hl=en",
+    "https://note.com/ssayo/n/n73414e7a0210?hl=en",
+    "https://note.com/yasu3349/n/n0a535bfc5e08?hl=en",
+    "https://note.com/writer_yoshihiko/n/nf7507263d2ab?hl=en",
+    "https://tales.note.com/koiwriter_ki117",
+    "https://tales.note.com/top/family"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Writer",
+   "results": [
+    "https://x.com/get_writer",
+    "https://x.com/melenawriter",
+    "https://communitynotes.x.com/guide/en/api/overview",
+    "https://x.com/WriterUnboxed",
+    "https://x.com/TheWriterMag",
+    "https://x.com/AlanShipnuck",
+    "https://x.com/salmaiorana"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Writer",
+   "results": [
+    "https://www.linkedin.com/company/getwriter",
+    "https://www.linkedin.com/jobs/writer-jobs",
+    "https://in.linkedin.com/company/the-writer",
+    "https://in.linkedin.com/company/writerinformation",
+    "https://uk.linkedin.com/in/simon-heptinstall-writer",
+    "https://uk.linkedin.com/jobs/view/medical-writer-at-cycle-pharmaceuticals-4481477019",
+    "https://ca.linkedin.com/jobs/view/senior-narrative-writer-temp-at-ravenwake-4488062591"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Writer",
+   "results": [
+    "https://www.facebook.com/AWPWriter/",
+    "https://www.facebook.com/NastyMindy/",
+    "https://business.facebook.com/groups/tuscarawascountywritersguild/",
+    "https://www.facebook.com/writerslife.org/",
+    "https://www.facebook.com/writersdetective/",
+    "https://business.facebook.com/groups/255614621278554/",
+    "https://www.facebook.com/writer.david.baldacci/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Writer note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Writer X 投稿",
+   "results": [
+    "https://writerx.co/",
+    "https://www.toolmage.com/zh-hans/tool/writerx/",
+    "https://tsukulog.work/service/item1218.html",
+    "https://write.qq.com/portal/introjection",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://x.com/writter_world",
+    "https://write.qq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

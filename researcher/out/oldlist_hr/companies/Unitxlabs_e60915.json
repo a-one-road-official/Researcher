@@ -1,0 +1,1093 @@
+{
+ "name": "Unitxlabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-09T19:17:45.743111+00:00",
+ "official_url": "https://www.unitxlabs.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Automate in-line inspection for improved quality and yield",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "production lines automating",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain insights into factory operations to improve processes that maximize yield",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In-line turnkey inspection equipment for high speed production",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about UnitX products",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate in-line inspection system for improved quality and yield.",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UnitX delivers best-in-class accuracy and the fastest-to-deploy inline inspection systems in the industry. These priorities have empowered our customers to achieve unparalleled quality control while reducing scrap rate and costs. With UnitX's systems deployed globally, our solutions now inspect more than $6.1 billion worth of products annually, transforming quality control across industries.",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to have served over 190 customers to date, including:",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate in-line inspection system for improved quality and yield.",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In-line turnkey inspection equipment for high-speed production",
+    "url": "https://www.unitxlabs.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate in-line inspection system for improved quality and yield.",
+    "url": "https://www.unitxlabs.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduction: Proven Precision at Massive Scale",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Both Sides, Every Spring: AI Inspection for Gear Spring Assembly Defects",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduction: Precision Under Pressure",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A single defective roller can compromise an entire engine or...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A compromised cylinder gasket guarantees engine...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision at Speed: AI Inspection for Battery Electrode Tab Pre-Welding",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting the Wafer: AI Surface Inspection for Semiconductor Films",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduction: The Film That Protects the Chip",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In mass production, parts are identical. In dental manufacturing,...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Perfect Box: AI Inspection for Premium Packaging and Shrink Film",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical-Grade Perfection: AI Surface Inspection for Ultrasonic Probes",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Final Gate: 360° Full-Assembly Inspection for Premium Smartphones",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "For a premium smartphone, the “unboxing experience”...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In consumer electronics, the keyboard is the primary touchpoint....",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Critical Link: Preventing Solar Fires with AI Photovoltaic Connector Inspection",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In Printed Circuit Board Assembly (PCBA), most manufacturers...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexing Precision: AI Solder Inspection for Rigid-Flex PCBs",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "No Rewiring Needed: AI Inspection for Wire Harness Hot-Press Welding",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduction: The “One-Shot” Process",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In electronics manufacturing, Hot-Press Welding (Hot-Bar...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Sealing the Sky: AI Inspection for Automotive Sunroof Primer & Adhesive",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate AI Model training by generating synthetic defect images to enrich training data set to achieve higher accuracy faster",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about UnitX products",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate in-line inspection system for improved quality and yield.",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t let production issues hurt yield. Monitor production data with CorteX to identify production improvement opportunities",
+    "url": "https://www.unitxlabs.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement",
+    "url": "https://www.unitxlabs.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate in-line inspection system for improved quality and yield.",
+    "url": "https://www.unitxlabs.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "In-line turnkey inspection equipment for high-speed production",
+    "url": "https://www.unitxlabs.com/ja/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "UnitX systems deliver industry-leading accuracy in inline inspection, rapid deployment, and adaptability to tackle the most complex inspection challenges across diverse production environments. We strive to elevate 20% of the world’s GDP through intelligent automation. We create powerful products with simplicity.",
+    "url": "https://www.unitxlabs.com/ja/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "UnitX's systems deployed globally, our solutions now inspect more than $6.1 billion worth of products annually, transforming quality control across industries.",
+    "url": "https://www.unitxlabs.com/ja/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to have served over 190 customers to date, including:",
+    "url": "https://www.unitxlabs.com/ja/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduction: Proven Precision at Massive Scale",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Both Sides, Every Spring: AI Inspection for Gear Spring Assembly Defects",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduction: Precision Under Pressure",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A single defective roller can compromise an entire engine or...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "A compromised cylinder gasket guarantees engine...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision at Speed: AI Inspection for Battery Electrode Tab Pre-Welding",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting the Wafer: AI Surface Inspection for Semiconductor Films",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduction: The Film That Protects the Chip",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In mass production, parts are identical. In dental manufacturing,...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Perfect Box: AI Inspection for Premium Packaging and Shrink Film",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical-Grade Perfection: AI Surface Inspection for Ultrasonic Probes",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Final Gate: 360° Full-Assembly Inspection for Premium Smartphones",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "For a premium smartphone, the “unboxing experience”...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In consumer electronics, the keyboard is the primary touchpoint....",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Critical Link: Preventing Solar Fires with AI Photovoltaic Connector Inspection",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In Printed Circuit Board Assembly (PCBA), most manufacturers...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexing Precision: AI Solder Inspection for Rigid-Flex PCBs",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "No Rewiring Needed: AI Inspection for Wire Harness Hot-Press Welding",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "UnitX: AI-Powered Visual Inspection for Manufacturing",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "production lines automating",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain insights into factory operations to improve processes that maximize yield",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered manufacturing",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "About UnitX | AI-Powered Visual Inspection for Smart Manufacturing",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "10 of the world’s top 50 automotive manufacturers",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "9 of the world’s top 100 electronics manufacturers",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2 of the world’s top 4 EV manufacturers",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered manufacturing",
+    "url": "https://www.unitxlabs.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Visual Inspection Solutions for Manufacturing | UnitX",
+    "url": "https://www.unitxlabs.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered manufacturing",
+    "url": "https://www.unitxlabs.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Quality Vision Inspection Manufacturing Cases",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Signal-Perfect: AI Inspection for Automotive Connector Surface Defects",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "UnitX dual-channel AI inspects automotive connectors at 0% false acceptance, ≤10% false rejection, and...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Defect-Controlled Delivery: AI Inspection for Automotive Sleeve Surfaces",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive chassis rely on rubber bushings to absorb...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In powertrain manufacturing, the smallest components...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Full-Surface, Zero-Escape: AI Inspection for Automotive Roller Defects",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In cell manufacturing, cathode-anode overhang is a strictly...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "For battery manufacturers, the electrode tab is the foundation...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In semiconductor manufacturing, Wafer Film (often used...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In mass production, parts are identical. In dental manufacturing,...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In PCB connector manufacturing, injection molding...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In Printed Circuit Board Assembly (PCBA), most manufacturers...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In electronics manufacturing, Hot-Press Welding (Hot-Bar...",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Sealing the Sky: AI Inspection for Automotive Sunroof Primer & Adhesive",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered manufacturing",
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "reduced escape rate vs human operators",
+    "url": "https://www.unitxlabs.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered manufacturing",
+    "url": "https://www.unitxlabs.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Visual Inspection Solutions for Manufacturing | UnitX",
+    "url": "https://www.unitxlabs.com/ja/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Signal-Perfect: AI Inspection for Automotive Connector Surface Defects",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "UnitX dual-channel AI inspects automotive connectors at 0% false acceptance, ≤10% false rejection, and...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Defect-Controlled Delivery: AI Inspection for Automotive Sleeve Surfaces",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive chassis rely on rubber bushings to absorb...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In powertrain manufacturing, the smallest components...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Full-Surface, Zero-Escape: AI Inspection for Automotive Roller Defects",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In cell manufacturing, cathode-anode overhang is a strictly...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "For battery manufacturers, the electrode tab is the foundation...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In semiconductor manufacturing, Wafer Film (often used...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In mass production, parts are identical. In dental manufacturing,...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In PCB connector manufacturing, injection molding...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In Printed Circuit Board Assembly (PCBA), most manufacturers...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "In electronics manufacturing, Hot-Press Welding (Hot-Bar...",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Sealing the Sky: AI Inspection for Automotive Sunroof Primer & Adhesive",
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered manufacturing",
+    "url": "https://www.unitxlabs.com/optix/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage AI model development through the four core functional centers: AI model labeling, AI training, thresholds tuning, production line data",
+    "url": "https://www.unitxlabs.com/cortex/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy AI models across production lines globally with CorteX's scalable architecture",
+    "url": "https://www.unitxlabs.com/cortex/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered manufacturing",
+    "url": "https://www.unitxlabs.com/cortex/",
+    "pass": 1
+   },
+   {
+    "quote": "UnitX is an AI-powered machine vision company that automates repetitive visual inspection tasks across factories worldwide. With over 1,000 systems deployed across 190+ global customers, UnitX machines continuously operate for more than 5.7 million hours globally, transforming quality control and driving measurable impact across industries.",
+    "url": "https://www.automateshow.com/prior-exhibitors/unitx-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Website by Amplify Industrial Marketing + Guidance.",
+    "url": "https://www.automateshow.com/prior-exhibitors/unitx-labs",
+    "pass": 3
+   },
+   {
+    "quote": "UnitX is a robotics company developing AI-powered vision systems for quality and yield management in manufacturing. Its software-defined vision system OptiX and edge AI compute platform CorteX enable advanced defect detection, reducing scrap, improving yield, and upholding quality standards beyond human or legacy machine vision capabilities.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   },
+   {
+    "quote": "On September 27, 2023, UnitX raised $5 million from SE Ventures, a Silicon Valley venture fund backed by Schneider Electric. SE Ventures led the investment to support UnitX's geographic expansion and mission to enhance manufacturing quality, traceability, and profitability, particularly in electric vehicle and lithium-ion battery sectors.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   },
+   {
+    "quote": "UnitX's systems operate on production lines of top lithium battery and automotive manufacturers. CEO Keven Wang described UnitX as one of the fastest-growing players in its category, while SE Ventures' Varun Jain highlighted its product-market fit for delivering ROI to enterprise customers in expanding markets.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   },
+   {
+    "quote": "Total funding raised across rounds is reported as $69.6M in later stage VC, with prior figures like $12M up to September 2021 and $28.7M for another entity. UnitX focuses on production lines of top global manufacturers, with SE Ventures highlighting its superior product-market fit.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   },
+   {
+    "quote": "Relativity Space is a Long Beach-headquartered aerospace manufacturer pioneering 3D-printed rockets. Founded in 2015, it builds Terran 1 and Terran R vehicles using additive manufacturing, AI, and robotics for a supply chain with 100 times fewer parts. The company assembles rockets in under 60 days at its Florida launch site for satellite constellation missions.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "学校区概要 UnitX | スマート製造のためのAI搭載目視検査 — 学校区概要 UnitX | スマート製造のためのAI搭載目視検査 UnitX https://www.unitxlabs.com > 私たちに関しては",
+    "url": "https://www.unitxlabs.com/ja/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "に話しかける UnitX AI検査製造エキスパート — に話しかける UnitX AI検査製造エキスパート UnitX https://www.unitxlabs.com > お問い合わせ",
+    "url": "https://www.unitxlabs.com/ja/contact-us/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション製品の詳細を見る - UnitX — ソリューション製品の詳細を見る - UnitX UnitX https://www.unitxlabs.com > ソリューション製品の詳細",
+    "url": "https://www.unitxlabs.com/ja/discover-solution-products/",
+    "pass": 3
+   },
+   {
+    "quote": "プライバシーポリシー - UnitX — プライバシーポリシー - UnitX UnitX https://www.unitxlabs.com > プライバシーポリシー",
+    "url": "https://www.unitxlabs.com/ja/privacy-policy/",
+    "pass": 3
+   },
+   {
+    "quote": "UnitX: AI-Powered Visual Inspection for Manufacturing — UnitX: AI-Powered Visual Inspection for Manufacturing UnitX https://www.unitxlabs.com",
+    "url": "https://www.unitxlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "UnitX - LinkedIn — UnitX - LinkedIn LinkedIn https://www.linkedin.com > unitxlabs",
+    "url": "https://www.linkedin.com/company/unitxlabs",
+    "pass": 3
+   },
+   {
+    "quote": "UnitX | Milpitas CA - Facebook — UnitX | Milpitas CA - Facebook Facebook https://www.facebook.com > unitxlabs",
+    "url": "https://www.facebook.com/unitxlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "UnitXlabs - 2026 Company Profile & Team - Tracxn — UnitXlabs - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/unitxlabs/__Jw2ehelvzWVC5Uoj8JEy7MhGPWgyB_tIZUnvMydzcHw",
+    "pass": 3
+   },
+   {
+    "quote": "Resources - UnitX — Resources - UnitX UnitX https://www.unitxlabs.com > resources",
+    "url": "https://www.unitxlabs.com/ja/resources/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   },
+   {
+    "quote": "UnitX competitors include listed companies like SAP and Snowflake, and private ones like Relativity Space, Anthropic, OpenAI and Databricks.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   },
+   {
+    "quote": "Is UnitX publicly listed?",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   },
+   {
+    "quote": "Baseten is a serverless infrastructure platform for deploying machine learning models with autoscaling GPUs, cron scheduling, and vector databases. San Francisco-headquartered and founded in 2021, it supports PyTorch and TensorFlow runtimes, powering real-time inference for 1,000+ ML teams at Fortune 500 firms. Integrations include Pinecone for RAG and LangChain for agentic workflows.",
+    "url": "https://multiples.vc/private-comps/unitx",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "UnitX - LinkedIn UnitX - LinkedIn LinkedIn https://www.linkedin.com > unitxlabs",
+    "url": "https://www.linkedin.com/company/unitxlabs",
+    "pass": 3
+   },
+   {
+    "quote": "UnitX | LinkedIn UnitX | LinkedIn LinkedIn Puerto Rico https://pr.linkedin.com > unitxlabs",
+    "url": "https://pr.linkedin.com/company/unitxlabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "UnitX | Milpitas CA - Facebook UnitX | Milpitas CA - Facebook Facebook https://www.facebook.com > unitxlabs",
+    "url": "https://www.facebook.com/unitxlabs/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unitxlabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/ja/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/ja/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/ja/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/optix/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/cortex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unitxlabs.com/cortex/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=o6EbGxtilaY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ga-match.co.jp/ai-catalog/unitx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=730106632192_1788998400110",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=666",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/unitxlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.automateshow.com/prior-exhibitors/unitx-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/unitxlabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJKZZj-SCh4jYjaZuRcqoKfu4Xl88upIXCeVGqFxFhlArqcyr4u",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/unitxlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tth.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/unitxlabs/__Jw2ehelvzWVC5Uoj8JEy7MhGPWgyB_tIZUnvMydzcHw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://multiples.vc/private-comps/unitx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/unitx-4f79",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privco.com/company/unitx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/unitxlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pr.linkedin.com/company/unitxlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unitxlabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Unitxlabs 日本 導入",
+   "results": [
+    "https://www.unitxlabs.com/ja/about-us/",
+    "https://www.unitxlabs.com/ja/contact-us/",
+    "https://www.youtube.com/watch?v=o6EbGxtilaY",
+    "https://ga-match.co.jp/ai-catalog/unitx/",
+    "https://joinx.co/ja/japan-entry/",
+    "https://www.unitxlabs.com/ja/discover-solution-products/",
+    "https://www.youtube.com/watch?v=mIlVUsz9Yqc",
+    "https://jp.linkedin.com/pulse/look-unitxs-journey-61b-inspections-andrew-ashur-t3whe?tl=ja",
+    "https://monoist.itmedia.co.jp/mn/articles/2606/05/news070.html",
+    "https://www.unitxlabs.com/ja/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Unitxlabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.unitxlabs.com/ja/discover-solution-products/",
+    "https://www.unitxlabs.com/ja/privacy-policy/",
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=730106632192_1788998400110",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=666",
+    "https://xelarobotics.jp/distributors/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://www.ark-station.com/maintenancesales/",
+    "https://www.visualcomponents.com/jp/partners/",
+    "https://aiocr.ai/agency/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Unitxlabs Japan",
+   "results": [
+    "https://www.unitxlabs.com/",
+    "https://www.linkedin.com/company/unitxlabs",
+    "https://www.automateshow.com/exhibitors/unitx-labs",
+    "https://www.facebook.com/unitxlabs/",
+    "https://tracxn.com/d/companies/unitxlabs/__Jw2ehelvzWVC5Uoj8JEy7MhGPWgyB_tIZUnvMydzcHw",
+    "https://fineeng.eu/unitx-innovative-deep-learning-inspection-system-for-automated-manufacturing/",
+    "https://www.unitxlabs.com/discover-solution-products/",
+    "https://www.crunchbase.com/organization/unitx-4f79",
+    "https://www.youtube.com/watch?v=_hK_6ONXqNg",
+    "https://ja.unitxlabs.com/news/unitx-takes-1st-place-at-techgala-japan-2026-grand-pitch/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Unitxlabs manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJKZZj-SCh4jYjaZuRcqoKfu4Xl88upIXCeVGqFxFhlArqcyr4u",
+    "https://www.unitxlabs.com/ja/resources/",
+    "https://www.linkedin.com/company/unitxlabs",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.automate.org/companies/unitx-labs",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://www.protolabs.com/en-gb/resources/case-studies/",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.facebook.com/unitxlabs/",
+    "https://www.unitxlabs.com/case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Unitxlabs white label OR reseller OR partner program",
+   "results": [
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.unitxlabs.com/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://viirtue.com/partner-program/white-label/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Unitxlabs founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/unitxlabs/__Jw2ehelvzWVC5Uoj8JEy7MhGPWgyB_tIZUnvMydzcHw",
+    "https://multiples.vc/private-comps/unitx",
+    "https://www.crunchbase.com/organization/unitx-4f79",
+    "https://www.privco.com/company/unitx",
+    "https://metrology.news/unitx-raises-funding-to-elevate-manufacturing-quality-with-ai-powered-defect-detection/",
+    "https://pitchbook.com/profiles/company/433668-97",
+    "https://www.trysignalbase.com/news/funding/revolutionizing-factory-inspections---unitx-raises-46m-in-series-b-funding!",
+    "https://www.cbinsights.com/company/unitx-1/financials",
+    "https://growjo.com/company/UnitX",
+    "https://www.thecompanycheck.com/company/b/unitxlabs/hw6epqzzg8p9m2zes"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Unitxlabs",
+   "results": [
+    "https://note.com/lyco_pene/n/nbb5d2b2a0b67",
+    "https://note.com/all_zero/n/n3560a02564fd?hl=en",
+    "https://note.com/shinkainoai/n/nf52e6be381d4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/c8c/n/n1cb28c4fe933",
+    "https://note.com/genial_quince1/n/nfa82b3b404bc",
+    "https://note.com/kzstock/n/n8464ba129797",
+    "https://note.com/goku1up/n/n664f4cfd41e1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Unitxlabs",
+   "results": [
+    "https://x.com/",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/UnitasLabs",
+    "https://x.com/unitxyz",
+    "https://x.com/UntoLabs",
+    "https://x.com/tradexyz/status/2034354482201723368",
+    "https://x.com/RyanAFournier/status/2117296789443240367"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Unitxlabs",
+   "results": [
+    "https://www.linkedin.com/company/unitxlabs",
+    "https://www.linkedin.com/posts/unitxlabs_home-activity-7213978722528284673-Cm10",
+    "https://www.linkedin.com/in/weixiong-max-zheng-12597932",
+    "https://pr.linkedin.com/company/unitxlabs",
+    "https://www.linkedin.com/in/kevenwang",
+    "https://www.linkedin.com/in/josiah-hendrix-b400b9183",
+    "https://www.linkedin.com/in/david-guy-87696898",
+    "https://www.linkedin.com/posts/kevenwang_computervision-physicalai-manufacturing-activity-7472356004161138690-vmzX",
+    "https://www.linkedin.com/in/zach-gates-71b19a8b",
+    "https://www.linkedin.com/posts/unitxlabs_unitx-ai-powered-manufacturing-activity-7213978722528284673-U3m5"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Unitxlabs",
+   "results": [
+    "https://www.facebook.com/unitxlabs/",
+    "https://www.facebook.com/groups/272407659529733/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/112986256004726/",
+    "https://www.facebook.com/unitxlabs/videos/see-ai-machine-vision-in-manufacturing/1097036516425966/",
+    "https://www.facebook.com/Unitlabs.official/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Unitxlabs note 社長",
+   "results": [
+    "https://note.com/safe_sage8850/n/n7e027f17590d",
+    "https://note.com/trex_ai",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.jp/n/n1f88132773b7",
+    "https://x.com/sadaaki",
+    "https://note.com/ohashi_yusuke/n/n443a2b2c0f53",
+    "https://www.youtube.com/watch?v=PLlZpiVPyNc",
+    "https://note.intimatemerger.com/followers",
+    "https://note.com/higashi_onzalinx"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Unitxlabs X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=VHGqD0sAZ9M",
+    "https://www.youtube.com/watch?v=2fAIZ0tlQZc&vl=ja",
+    "https://x.com/i/broadcasts/1qxvvejXdNRxB",
+    "https://k-tai.watch.impress.co.jp/docs/news/2078522.html",
+    "https://japan.cnet.com/article/35208593/",
+    "https://www.youtube.com/watch?v=Mj1KCmSAwgE",
+    "https://ja.unitxlabs.com/",
+    "https://note.com/mild_ferret3243/n/ne48fddd3b0ca",
+    "https://support.google.com/youtube/thread/389825433/%E5%85%A8%E3%81%A6ai%E4%BD%9C%E8%A3%BD%E3%81%A7%E6%82%AA%E6%84%8F%E3%81%AE%E3%81%82%E3%82%8B%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%99%E3%80%82%E5%89%8A%E9%99%A4%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82?hl=ja",
+    "https://www.facebook.com/unitxlabs/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

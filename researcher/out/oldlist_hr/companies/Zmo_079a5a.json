@@ -1,0 +1,968 @@
+{
+ "name": "Zmo",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T19:27:28.317285+00:00",
+ "official_url": "https://www.zmo.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "日本語環境での公式サポートは提供されておらず、日本のユーザーコミュニティもほとんど形成されていない状況です",
+    "url": "https://fitgap.com/jp/products/zmo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本語での問い合わせ対応や情報収集には制約があり、導入を検討される場合は英語での運用体制を事前に整備しておくことが重要です",
+    "url": "https://fitgap.com/jp/products/zmo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サービスとして扱いやすく、EC向け商品画像の量産に向いています",
+    "url": "https://fitgap.com/jp/products/zmo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のAIモデル着用画像に強い半面、ポートレートや背景単体の生成といった用途まではカバーしきれません",
+    "url": "https://fitgap.com/jp/products/zmo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "『ゼクト・メディカル・オンライン（ZMO）』に関し、日本調剤㈱と提携する件を共同リリースしました",
+    "url": "https://www.zect-mc.co.jp/post/__zmo",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、薬局調剤大手の日本調剤株式会社と提携し、船内で医師によるオンライン診療が受けられ、処方された薬を寄港地などで受け取ることを可能にする「ゼクト・メディカル・オンライン」（以下「ZMO」）を開始することをお知らせします",
+    "url": "https://www.zect-mc.co.jp/post/__zmo",
+    "pass": 3
+   },
+   {
+    "quote": "健診・人間ドックEXPO 東京出展のお知らせ",
+    "url": "https://www.zect-mc.co.jp/post/__zmo",
+    "pass": 3
+   },
+   {
+    "quote": "『第67回日本人間ドック・予防医療学会学術大会』（2026年9月4日(金)ｰ5日(土)・熊本城ホール）に出展いたします",
+    "url": "https://www.zect-mc.co.jp/post/__zmo",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区外神田4丁目14-1",
+    "url": "https://www.zect-mc.co.jp/post/__zmo",
+    "pass": 3
+   },
+   {
+    "quote": "「アメ車はこれくらい振り切っていい」大型ピックアップトラック『RAM 1500 Limited』日本導入に驚きの声！",
+    "url": "https://response.jp/article/2026/11/09/418761.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FitGap | ZMO.AIとは？強み、注意点を専門家がレビュー — ZMO.AIは中国系の海外製プロダクトであり、ユーザーインターフェースやドキュメントは英語が中心となっています。 日本語環境での公式サポートは提供されておらず、日本のユーザーコミュニティもほとんど形成されていない状況です。",
+    "url": "https://fitgap.com/jp/products/zmo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "『ゼクト・メディカル・オンライン（ZMO）』に関し、日本調剤㈱と提携... — Jun 8, 2022 · 当社は、薬局調剤大手の日本調剤株式会社と提携し、船内で医師によるオンライン診療が受けられ、処方された薬を寄港地などで受け取ることを可能にする「ゼクト・メディカル・オンライン」（以下「ZMO」）を開始することをお知らせします。",
+    "url": "https://www.zect-mc.co.jp/post/__zmo",
+    "pass": 3
+   },
+   {
+    "quote": "滑走路を持ち歩く男たちへ — OMPHOBBY ZMO PRO VTOL FPV Aircraft 徹... — Jun 12, 2026 · GPSと空速は一つになった ZMO PROのノーズ部には、FPVカメラとセンサーユニットが同居する。 GPSと空速センサーが一体化した特許デザインのユニットだ。 産業用IMUと耐電磁干渉GPSも搭載する。 GPS位置精度は2〜3m。 ペイロードは約400gまで可能だ。",
+    "url": "https://note.com/famous_prawn2009/n/n16a69f2702c4",
+    "pass": 3
+   },
+   {
+    "quote": "免許不要の次世代カーゴ特定原付、「WIZMO」共同開発開始…椿本チエイ... — 19 hours ago · ・椿本チエインとglafitが、免許不要の業務用特定小型原動機付自転車「WIZMO」の共同開発を開始した。 ・50cc原付バイクが2025年10月に国内生産終了 ...",
+    "url": "https://response.jp/article/2026/11/09/418761.html",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO.AI - 36Kr Japan | 最大級の中国テック・スタートアップ専門メデ... — May 9, 2026 · AI動画編集プラットフォーム「Buzzy」を運営する「ZMO.AI（感知階躍）」はこのほど、紅点創投（Redpoint）主導のシリーズBで2000万ドル（約32億円）を調達した。 調達した資金は、新商品のリリースや動画編集 […]",
+    "url": "https://36kr.jp/topics/zmo-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Login - zmo.com — Don't have an account yet? Scan this QR code with your ZMO mobile app for quick access. Start trading on the preferred cryptocurrency exchange for traders.",
+    "url": "https://www.zmo.com/en/login",
+    "pass": 3
+   },
+   {
+    "quote": "About ZMO | The World's Most Accessible Crypto Trading Platform — ZMO was built to democratize crypto trading. We combine institutional-grade tools with a simple, intuitive experience — so anyone can trade futures, automate with AI, and use prediction markets without the usual headaches.",
+    "url": "https://www.zmo.com/en/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO Knowledge Hub — Is ZMO available in my country? ZMO is available in most countries, but regulatory and sanctions requirements mean certain jurisdictions are restricted, including the US, Russia, Iran, and others.",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "Simple 1-Click Trading Platform for Crypto, Stocks & Futures — ZMO is a leading, trusted cryptocurrency exchange that offers over 150 cryptocurrencies for both spot and futures trading. As the go-to exchange for all things crypto, ZMO is the top choice for institutions, retail users, and first-time traders.",
+    "url": "https://www.zmo.com/en/app",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Henry Case Study: ZMo Productions – ZMo Productions ... — ZMo Productions (Media production) partnered with Mr. Henry (Internet) to solve key challenges. \"ZMo Productions - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring ZMo Productions as the Customer — Explore case studies featuring ZMo Productions as the customer — learn how vendors and partners helped ZMo Productions solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO AI - 2026 Company Profile, Team, Funding & Competitors ... — Feb 15, 2026 · ZMO AI is a series A company based in Sacramento (United States), founded in 2020 by Liqian Ma, Roger Yin, Ella Zhang and Yang Han. It operates as a Provider of AI platform that generates videos from URLs, images, text. ZMO AI has raised $8M in funding from Hillhouse.",
+    "url": "https://tracxn.com/d/companies/zmoai/__H_RZH7990LXWo7TLKc6fcd12nDIiPDrVlIIy_bHvz84",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO - Products, Competitors, Financials, Employees ... — ZMO is a DTC marketing company specializing in digital transformation for businesses. The company offers integrated marketing solutions, including social media marketing, e-commerce livestreaming, user relationship management, and retailer incentive programs.",
+    "url": "https://www.cbinsights.com/company/zmo",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO AI - 2025 Company Profile, Team, Funding & Competitors ... — Dec 9, 2025 · ZMO AI is a series A company based in Sacramento (United States), founded in 2020 by Roger Yin, Liqian Ma, Ella Zhang and Yang Han. It operates as a Provider of AI-based software tools enabling addition of 3D images of apparel on e-commerce websites.",
+    "url": "https://tracxn.com/d/companies/zmo-ai/__H_RZH7990LXWo7TLKc6fcd12nDIiPDrVlIIy_bHvz84/founders-and-board-of-directors",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO Revenue, Funding & Valuation - prospeo.io — What are the revenues of ZMO? ZMO generates an estimated annual revenue of $342,220. This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO.AI — Funding, Investors & Team | Seedtable — Jul 10, 2026 · View funding, investors, and team on Seedtable.",
+    "url": "https://seedtable.com/companies/zmoai",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Cryptocurrency explained in plain language: what it is, how a blockchain records ownership, why prices move, and how buying your first coin on an exchange actually works.",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "Prohibited Users and Restricted Jurisdictions",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "Liquidation happens when your margin balance falls below the minimum requirement, causing the system to automatically close your position to prevent further losses. To reduce the risk, monitor your liquidation price, use appropriate leverage, and consider setting stop-loss orders. For a full explanation of how liquidation works and how margin is calculated, see our",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Henry Case Study: ZMo Productions – ZMo Productions - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ZMo Productions - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how ZMo Productions used Mr. Henry",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How ZMo Productions Uses Software & Services",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring ZMo Productions as the Customer",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   },
+   {
+    "quote": "Explore case studies featuring ZMo Productions as the customer — learn how vendors and partners helped ZMo Productions solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by ZMo Productions",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   },
+   {
+    "quote": "ZMo Productions - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/zmo",
+    "pass": 3
+   },
+   {
+    "quote": "Una Brands is an e-commerce management company that focuses on the growth of brands in Asia. The company utilizes AI for optimization and combines various e-commerce practices to enhance operational performance. Una Brands works within the e-commerce sector, emphasizing connections between China and other markets. It was founded in 2020 and is based in Singapore, Singapore.",
+    "url": "https://www.cbinsights.com/company/zmo",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/zmo",
+    "pass": 3
+   },
+   {
+    "quote": "PMC is a leading appraisal management company serving California, Texas, Florida, Maryland, Hawaii, Virginia, and expanding. Their reports are delivered quickly, accurately, and hassle-free.",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Premier Cleaning Team",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO has approximately",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Confused by Web3 and DeFi? ZMO explains what they mean, how decentralized finance works, and what to know before getting involved.",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Henry Case Study: ZMo Productions – ZMo Productions - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ZMo Productions - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how ZMo Productions used Mr. Henry",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by ZMo Productions",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   },
+   {
+    "quote": "ZMo Productions - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "How long does a crypto deposit take to arrive?",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "Deposit times vary by network — most deposits arrive within a few minutes, though Bitcoin can take 30–60 minutes. Network congestion may cause delays. For a full breakdown by cryptocurrency and network, see our",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "How Long Does a Crypto Deposit Take to Arrive?",
+    "url": "https://www.zmo.com/hub",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/zmo",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At ZMO",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of ZMO?",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ZMO have?",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "滑走路を持ち歩く男たちへ — OMPHOBBY ZMO PRO VTOL FPV Aircraft 徹... Jun 12, 2026 · GPSと空速は一つになった ZMO PROのノーズ部には、FPVカメラとセンサーユニットが同居する。 GPSと空速センサーが一体化した特許デザインのユニットだ。 産業用IMUと耐電磁干渉GPSも搭載する。 GPS位置精度は2〜3m。 ペイロードは約400gまで可能だ。",
+    "url": "https://note.com/famous_prawn2009/n/n16a69f2702c4",
+    "pass": 3
+   },
+   {
+    "quote": "️ 創造性を解き放て！無料AI画像ジェネレーター「ZMO AI」で、あなた... Jul 5, 2024 · そして、その進化を牽引するのがAI技術です。 中でも、**無料AI画像ジェネレーター「ZMO AI」**は、使いやすさと高機能ぶりで、世界中のクリエイターから熱い視線を浴びています。 従来の画像編集ソフトとは一線を画す、ZMO AIの魅力とは？",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "AIで理想のアニメキャラを生成！Filmora、ZMO.ai、Adobe Firefly徹底... Jun 1, 2025 · Filmora、ZMO.ai、Adobe Fireflyといった様々なツールが登場し、それぞれに個性的な特徴があります。 どれを選べばいいのか迷ってしまう方もいるでしょうが、このガイドでは各ツールの強みと弱みを解説し、最適なツール選びをサポートします。",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "🎨🖼️✨ 創造性を解き放て！無料AI画像ジェネレーター「ZMO AI」で、あなたの想像を形にする旅へ！🚀✨｜おきらくＡＩ",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "🎨🖼️✨ 創造性を解き放て！無料AI画像ジェネレーター「ZMO AI」で、あなたの想像を形にする旅へ！🚀✨",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル時代🎨、アートの世界は進化を遂げ、誰もが創造性を発揮できるようになりました。そして、その進化を牽引するのがAI技術です。中でも、**無料AI画像ジェネレーター「ZMO AI」**は、使いやすさと高機能ぶりで、世界中のクリエイターから熱い視線を浴びています。",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "従来の画像編集ソフトとは一線を画す、ZMO AIの魅力とは？🤔✨",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "その秘密は、高度なAI技術によって実現した、**「誰でも簡単に、ハイクオリティな作品を生み出せる」**という点にあります。",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "**もう、複雑な操作や高額なソフトに悩まされる必要はありません！**🤯",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO AIがあれば、あなたのアイデアを、指先一つで、思い通りの形にできるのです！🤩✨",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "有料記事単体３００円より下記マガジンがお得。",
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "pass": 3
+   },
+   {
+    "quote": "AIで理想のアニメキャラを生成！Filmora、ZMO.ai、Adobe Firefly徹底活用ガイド｜プロンプト設定から高品質生成まで｜AIソリューションオフィス",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   },
+   {
+    "quote": "AIで理想のアニメキャラを生成！Filmora、ZMO.ai、Adobe Firefly徹底活用ガイド｜プロンプト設定から高品質生成まで",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   },
+   {
+    "quote": "■- AIアニメキャラ生成ツールの選択: Filmora, ZMO.ai, Adobe Fireflyなどのツールを使用してアニメキャラクターを生成できます。",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   },
+   {
+    "quote": "AIアニメキャラ生成ツールは、近年目覚ましい進歩を遂げ、初心者でも簡単に魅力的なアニメキャラクターを作成できるようになりました。Filmora、ZMO.ai、Adobe Fireflyといった様々なツールが登場し、それぞれに個性的な特徴があります。どれを選べばいいのか迷ってしまう方もいるでしょうが、このガイドでは各ツールの強みと弱みを解説し、最適なツール選びをサポートします。",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   },
+   {
+    "quote": "まず、Filmoraは動画編集ソフトとして有名ですが、近年アニメーション機能も強化され、キャラ生成にも活用できます。その強みは、直感的に操作できるユーザーインターフェースです。複雑な設定なしに、テンプレートを利用して簡単にキャラを作成できるため、初心者にとって非常に優しいツールと言えるでしょう。ただし、高度なカスタマイズやオリジナル性の高いキャラ作成にはやや制約があります。既存のテンプレートをベースにしたアレンジが中心となるため、全く新しいキャラを生み出したい方には物足りなさを感じるかもしれません。豊富なチュートリアル動画も提供されているため、スムーズな学習が可能です。これは、独学で進めたいユーザーにとって大きなメリットと言えるでしょう。",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   },
+   {
+    "quote": "次にZMO.aiは、AIによるキャラ生成に特化したツールです。様々なスタイルのアニメキャラを生成できる点が魅力です。写実的なものから、デフォルメされたものまで、幅広い表現に対応しており、自身の理想像に合ったキャラを作り上げることができます。具体的な指示（プロンプト）を入力することで、AIがそれに基づいて画像を生成します。このプロンプトの書き方次第で、キャラの細部まで緻密に制御できるのが大きな特徴です。しかし、高度なプロンプト作成にはある程度のスキルと経験が必要となるため、初心者にとっては学習コストがやや高いと言えるでしょう。また、生成された画像のクオリティはプロンプトの精度に大きく依存するため、満足のいく結果を得るには試行錯誤が必要となります。その分、成功した時の達成感は格別であり、まさに「自分の創造力を具現化する」体験が味わえます。",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、Adobe FireflyはAdobe社が提供するAI画像生成ツールです。他のツールと比べて、より洗練された高品質な画像生成が期待できます。特に、ディテール表現の豊かさ、色彩の美しさは群を抜いており、プロレベルのイラストレーターが作成したかのようなクオリティのキャラを生成することも可能です。さらに、Adobe製品との高い親和性も魅力です。PhotoshopやIllustratorとの連携がスムーズに行えるため、生成したキャラを他のAdobe製品でさらに編集・加工し、より完成度の高い作品に仕上げることができます。ただし、他のツールに比べて高機能な分、操作に慣れるまで時間がかかる可能性があります。また、無料プランと有料プランがあり、高度な機能を利用するには有料プランへの加入が必要となります。コスト面を考慮する必要がある点は、導入前に確認しておきたいポイントです。",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれのツールを比較すると、Filmoraは手軽さ、ZMO.aiは自由度の高さ、Adobe Fireflyはクオリティの高さが特徴と言えます。どのツールが最適かは、あなたのスキルレベル、求めるキャラのクオリティ、予算によって異なります。",
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ZMO ️ (@PresMoss2) / X \" The Roots remember even when the trees pretend\" 2 705 ZMO ️ @PresMoss2 May 29 OKC just trade for giannis no matter what",
+    "url": "https://x.com/PresMoss2",
+    "pass": 3
+   },
+   {
+    "quote": "zmo (@zmo) / Posts / X zmo (@zmo) - Posts - | X (formerly Twitter) zmo Joined: Dec 10, 2008 1 1 10 zmozmo Dec 10 same here. just 7hrs later ;) 💬0 🔄0 🤍0 0 📎",
+    "url": "https://x.com/zmo",
+    "pass": 3
+   },
+   {
+    "quote": "Zamarkus (zmo)moton (@theoffical_zmo) / X 1 4 106 Zamarkus (zmo)moton @theoffical_zmo May 11 Blessed to receive another camp invite from @SamMoraJr #agtg",
+    "url": "https://x.com/theoffical_zmo",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO (zee-moe) (@zmdata) / X ZMO (zee-moe) @zmdata Aug 26, 2021 Respectfully, if I hear someone on a conference call mention taking a moment to reflect on how hard the past year was one more time I might just have to hurl myself into traffic",
+    "url": "https://x.com/zmdata",
+    "pass": 3
+   },
+   {
+    "quote": "zmo (@zuemix) / X Sep 7 ウェボありがとうございます🫶🏽 返信してます 反応もらえるの嬉しい楽しい大好き (ˊ⸝⸝o̴̶̷ 3 o̴̶̷⸝⸝ˋ) 1.1K zmo @zuemix Sep 7 ヌオ〜いのが絶対よい",
+    "url": "https://x.com/zuemix",
+    "pass": 3
+   },
+   {
+    "quote": "zumu (@zmo0d) / X 創作・ｲﾗｽﾄなど～ ウズラを飼うのが夢です skeb (サブ) ︎ skeb.jp/@zmo0d skeb (メイン) ︎ skeb.jp/@ndt3m",
+    "url": "https://x.com/zmo0d",
+    "pass": 3
+   },
+   {
+    "quote": "miette on X: \"ZMO 最近正式上线了，看到它这次的首月活动，我第一反... Sep 3, 2026 · ZMO 最近正式上线了，看到它这次的首月活动，我第一反应就是：福利还真不少。 9 月整个月，平台拿出了百万奖池，主要福利基本都集中在这一个月。 新用户这一块比较简单，注册就能领奖，而且 100% 有份，最低 12 美元，满足条件最高可以拿到 388 美元。",
+    "url": "https://x.com/henrym92_/status/2095417638109196459",
+    "pass": 3
+   },
+   {
+    "quote": "小铁 on X: \"最近在找一些交易体验更简单的平台，刚好体验了一下 ZMO... Aug 20, 2026 · 最近在找一些交易体验更简单的平台，刚好体验了一下 ZMO。 最大的感受不是功能有多复杂，而是它把很多原本需要研究半天的操作进行了简化。 一键合约™是其中比较明显的一个功能，10U即可参与，最高100倍杠杆。",
+    "url": "https://x.com/Latinfamil8fh9/status/2090402133854290281",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ZMO.AI - LinkedIn ZMO.AI | 190 followers on LinkedIn. ZMO.AI is an AI Image Creation Platform For Content Creators.",
+    "url": "https://www.linkedin.com/company/zmo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Zachary Margulis-Ohnuma - Principal Attorney, ZMO Law PLLC ...Edel Poeckens - ZMo Productions | LinkedInZMO 19804 - Junior Project Manager – Conference & Luxury ...Jacques Overtoom - Owner, zmo | LinkedInDean Whitehouse - Sales Director & Shareholder | ZMO ...Omer Aslan - Co. Owner at ZMO GROUP OTOMOTIV | LinkedIn Principal Attorney, ZMO Law PLLC · Zachary Margulis-Ohnuma is a criminal defense att",
+    "url": "https://www.linkedin.com/in/zmolaw",
+    "pass": 3
+   },
+   {
+    "quote": "Edel Poeckens - ZMo Productions | LinkedInZMO 19804 - Junior Project Manager – Conference & Luxury ...Jacques Overtoom - Owner, zmo | LinkedInDean Whitehouse - Sales Director & Shareholder | ZMO ...Omer Aslan - Co. Owner at ZMO GROUP OTOMOTIV | LinkedIn Experience: ZMo Productions · Location: Antwerp · 45 connections on LinkedIn. View Edel Poeckens’ profile on LinkedIn, a professional community of",
+    "url": "https://be.linkedin.com/in/edel-poeckens-5464b7114",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO 19804 - Junior Project Manager – Conference & Luxury ... 6 days ago · Apply for ZMO 19804 - Junior Project Manager – Conference & Luxury Incentive Travel (KZN) at ExecutivePlacements.com in Durban, KwaZulu-Natal, South Africa. Full-time Entry level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://za.linkedin.com/jobs/view/zmo-19804-junior-project-manager-–-conference-luxury-incentive-travel-kzn-at-executiveplacements-com-4486014907",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Leibniz-Zentrum Moderner Orient | Berlin - FacebookZMO Video Recap - FacebookFacebookFacebook - log in or sign upLog Into FacebookZMO Recap - FacebookZMO Zimmerei Mutschlechner Olang | Valdaora - Facebook Das ZMO beteiligt sich auch in diesem Jahr am Leibniz Format \"Book a Scientist\" - ein Speeddate mit der Wissenschaft 🔬 Bei „Book a Scientist“ am 29. September 2026 könnt ihr 25 Minuten lang eine ",
+    "url": "https://www.facebook.com/ZentrumModernerOrient/",
+    "pass": 3
+   },
+   {
+    "quote": "ZMO Video Recap - Facebook ZMO Video Recap. 36,482 followers · 2,604 talking about this. Arts & entertainment",
+    "url": "https://www.facebook.com/ZMOVideoRecap/reels/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zmo.ai",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://fitgap.com/jp/products/zmo-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zect-mc.co.jp/post/__zmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/famous_prawn2009/n/n16a69f2702c4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://response.jp/article/2026/11/09/418761.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zmo.com/en/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zmo.com/en/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zmo.com/hub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zo-motors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/zmo-productions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studylib.net/doc/27021747/2---zetwerk---final-ppt---digitizing-manufacturing-180123...",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zmoai/__H_RZH7990LXWo7TLKc6fcd12nDIiPDrVlIIy_bHvz84",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cbinsights.com/company/zmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zmo-ai/__H_RZH7990LXWo7TLKc6fcd12nDIiPDrVlIIy_bHvz84/founders-and-board-of-directors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/zmo-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/famous_prawn2009/n/n16a69f2702c4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PresMoss2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zmo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theoffical_zmo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zmdata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zmo-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zmolaw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/in/edel-poeckens-5464b7114",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/jobs/view/zmo-19804-junior-project-manager-–-conference-luxury-incentive-travel-kzn-at-executiveplacements-com-4486014907",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ZentrumModernerOrient/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ZMOVideoRecap/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zuemix",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zmo0d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/henrym92_/status/2095417638109196459",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Latinfamil8fh9/status/2090402133854290281",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zmo 日本 導入",
+   "results": [
+    "https://fitgap.com/jp/products/zmo-ai",
+    "https://www.zect-mc.co.jp/post/__zmo",
+    "https://note.com/famous_prawn2009/n/n16a69f2702c4",
+    "https://response.jp/article/2026/11/09/418761.html",
+    "https://36kr.jp/topics/zmo-ai/",
+    "https://www.zmo.com/ja-JP",
+    "https://japan.cnet.com/article/35254593/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zmo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zmo Japan",
+   "results": [
+    "https://www.zmo.com/en/login",
+    "https://www.zmo.com/en/about-us",
+    "https://www.zmo.com/hub",
+    "https://zo-motors.com/",
+    "https://www.zmo.com/en/app",
+    "https://www.zmo.com/ja-JP",
+    "https://www.zmo.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zmo manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/mr-henry/case-study/zmo-productions-customer-case-study",
+    "https://www.casestudies.com/customer/zmo-productions",
+    "https://studylib.net/doc/27021747/2---zetwerk---final-ppt---digitizing-manufacturing-180123...",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.encorebusiness.com/case-study/transforming-a-40-year-old-manufacturing-company-with-dynamics-365-business-central/",
+    "https://www.veeam.com/resources/customer-stories.html",
+    "https://www.lean.org/the-lean-post/articles/delivering-quality-foods-with-zingermans-mail-order/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zmo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.seoreseller.com/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zmo founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/zmoai/__H_RZH7990LXWo7TLKc6fcd12nDIiPDrVlIIy_bHvz84",
+    "https://www.cbinsights.com/company/zmo",
+    "https://tracxn.com/d/companies/zmo-ai/__H_RZH7990LXWo7TLKc6fcd12nDIiPDrVlIIy_bHvz84/founders-and-board-of-directors",
+    "https://prospeo.io/c/zmo-revenue",
+    "https://seedtable.com/companies/zmoai",
+    "https://www.zoominfo.com/c/zmoai/556847311",
+    "https://getlatka.com/companies/zmo.ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zmo",
+   "results": [
+    "https://note.com/famous_prawn2009/n/n16a69f2702c4",
+    "https://note.com/ai_hoppingrabbit/n/na4f37f505c03",
+    "https://note.com/ai_solution/n/n7187c2b8f83e",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/katarimasu/n/n38201fed61b0"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zmo",
+   "results": [
+    "https://x.com/PresMoss2",
+    "https://x.com/zmo",
+    "https://x.com/theoffical_zmo",
+    "https://x.com/zmdata",
+    "https://x.com/zmo_intl/status/2111525149203951890",
+    "https://x.com/0xZmo",
+    "https://x.com/guyzmo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zmo",
+   "results": [
+    "https://www.linkedin.com/company/zmo-ai",
+    "https://www.linkedin.com/in/zmolaw",
+    "https://be.linkedin.com/in/edel-poeckens-5464b7114",
+    "https://za.linkedin.com/jobs/view/zmo-19804-junior-project-manager-–-conference-luxury-incentive-travel-kzn-at-executiveplacements-com-4486014907",
+    "https://nl.linkedin.com/in/jacques-overtoom-b103467",
+    "https://uk.linkedin.com/in/dean-whitehouse-31a18373",
+    "https://tr.linkedin.com/in/zmogroup-omeraslan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zmo",
+   "results": [
+    "https://www.facebook.com/ZentrumModernerOrient/",
+    "https://www.facebook.com/ZMOVideoRecap/reels/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/ZMORecap/",
+    "https://www.facebook.com/p/ZMO-Zimmerei-Mutschlechner-Olang-100063638829756/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zmo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sanshita_note/n/n06e080c63da4",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zmo X 投稿",
+   "results": [
+    "https://x.com/zuemix",
+    "https://x.com/zmo0d",
+    "https://x.com/henrym92_/status/2095417638109196459",
+    "https://x.com/Latinfamil8fh9/status/2090402133854290281",
+    "https://www.douyin.com/user/MS4wLjABAAAAw7vpx5jtamu1GtwX0NnF1d0SfYtmYDN9DN8whmQZRG5AexP9OOHaW4tC6wQQxZjw",
+    "https://x.com/zuemix/status/2041987434859442384",
+    "https://www.zmo.com/zh-CN"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

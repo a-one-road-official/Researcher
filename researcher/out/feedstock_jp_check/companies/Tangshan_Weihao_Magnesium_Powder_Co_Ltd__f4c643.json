@@ -1,0 +1,479 @@
+{
+ "name": "Tangshan Weihao Magnesium Powder Co., Ltd. — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:advanced-materials-manufacturer;powder-manufacturer",
+ "researched_at": "2026-11-09T19:23:50.540704+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tswhmf.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://panda3dp.com/3dprint-169847-1-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tswhmf.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/tangshan-weihao-magnesium-powder-co-ltd/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tswhmf.com/contact_us.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exporthub.com/tangshan-weihao-magnesium-powder/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tswhmf.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://panda3dp.com/3dprint-169847-1-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tswhmf.com/product_detail/Atomized_Spherical_Magnesium_Alloy_Powder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.shiatzychen.com/goods/details/7907",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://crystalmart.net/sub/product/detail.asp?p_idx=2988",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tswhmf.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chemball.com/factory/vmfe2e/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tswhmf.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.chemball.com/factory/vmfe2e/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://music.amazon.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01485303/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04214226/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02950285/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tangshan-weihao-magnesium-powder-co-ltd_can-magnesium-really-be-3d-printedtangshan-activity-7522708089200922625-htLV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tswhmf.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "https://www.tswhmf.com/",
+    "https://panda3dp.com/3dprint-169847-1-1.html",
+    "https://www.youtube.com/shorts/ozQbJEVZ-pg?vl=de",
+    "https://www.tswhmf.com/abouts/1.html",
+    "https://www.youtube.com/shorts/u__XXaH3FIo",
+    "https://www.astroalloys.com/additive-manufacturing-powders.html",
+    "https://www.bohler.com.cn/en-us/product-category/additive-manufacturing-powder-en-us/",
+    "https://www.voxelmatters.directory/company/tangshan-weihao-magnesium-powder-co-ltd/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.tswhmf.com/",
+    "https://www.voxelmatters.directory/company/tangshan-weihao-magnesium-powder-co-ltd/",
+    "https://www.tswhmf.com/contact_us.html",
+    "https://www.exporthub.com/tangshan-weihao-magnesium-powder/",
+    "https://www.chemball.com/factory/vmfe2e/",
+    "https://online.tctasia.cn/en/showroom-2026/institutions/bcabhj",
+    "https://www.made-in-china.com/showroom/tangshanweihao"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.tswhmf.com/",
+    "https://panda3dp.com/3dprint-169847-1-1.html",
+    "https://www.tswhmf.com/product_detail/Atomized_Spherical_Magnesium_Alloy_Powder.html",
+    "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "https://www.tswhmf.com/faq.html",
+    "https://www.smcworld.com/newproducts/ja-jp/21/mhm-y/",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.gazaihanbai.jp/products/detail/product_id/68870.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.shiatzychen.com/goods/details/7907",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://crystalmart.net/sub/product/detail.asp?p_idx=2988",
+    "https://teichiku-shop.com/products/detail/TES00003UE",
+    "http://www.neowing.co.jp/z/my/list/items/new?prodkey=WPCL-13844",
+    "https://www.maiseat.com/ja-JP/skuSelect/17955",
+    "https://flexp.expertarium.net/jp/products/3113742",
+    "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=3420",
+    "https://ja.wikipedia.org/wiki/レジン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://www.tswhmf.com/",
+    "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "https://www.chemball.com/factory/vmfe2e/",
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "https://www.youtube.com/shorts/ozQbJEVZ-pg?vl=de",
+    "https://panda3dp.com/3dprint-169847-1-1.html",
+    "https://www.anzoltek.com/news/news_01/",
+    "https://www.tswhmf.com/abouts/1.html",
+    "https://www.voxelmatters.directory/company/tangshan-weihao-magnesium-powder-co-ltd/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.tswhmf.com/",
+    "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://www.chemball.com/factory/vmfe2e/",
+    "https://panda3dp.com/3dprint-169847-1-1.html",
+    "https://www.youtube.com/shorts/ozQbJEVZ-pg?vl=de",
+    "https://www.tswhmf.com/abouts/1.html",
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "https://www.youtube.com/shorts/u__XXaH3FIo"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:amazon.co.jp Tangshan Weihao Magnesium Powder — VoxelMatters",
+   "results": [
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://www.cdn.amazon.co.jp/b?ie=UTF8&node=3211799051",
+    "https://music.amazon.co.jp/",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/【デジタル限定】霜月めあ写真集「私史上、最高の！」-週プレ-PHOTO-BOOK-霜月めあ-ebook/dp/B0HK82W96K"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Tangshan Weihao Magnesium Powder — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/01485303/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/04214226/",
+    "https://www.monotaro.com/g/02950285/",
+    "https://www.monotaro.com/g/02627837/",
+    "https://www.monotaro.com/p/1112/1442/",
+    "https://www.monotaro.com/p/5249/2713/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://www.linkedin.com/posts/tangshan-weihao-magnesium-powder-co-ltd_can-magnesium-really-be-3d-printedtangshan-activity-7522708089200922625-htLV",
+    "https://www.tswhmf.com/",
+    "https://www.chemball.com/factory/vmfe2e/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://panda3dp.com/3dprint-169847-1-1.html",
+    "https://www.youtube.com/shorts/ozQbJEVZ-pg?vl=de",
+    "https://www.tswhmf.com/abouts/1.html",
+    "https://www.zoominfo.com/c/tangshan-weihao-magnesium-powder-co-ltd/392087876"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Tangshan Weihao Magnesium Powder — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Tangshan Weihao Magnesium Powder — VoxelMatters",
+   "results": [
+    "https://x.com/yuwh",
+    "https://x.com/voxelmatters",
+    "https://jf.x.com/images/media-preview/2095828865230979258",
+    "https://x.com/VoxelMatters/status/2110656132385575001",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/drgfromnyc/status/2117850084365025391",
+    "https://x.com/susylicious2023/status/2117880110489522374"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tangshan Weihao Magnesium Powder — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "https://www.linkedin.com/pulse/tangshan-weihao-magnesium-powder-empowering-iuwbc",
+    "https://cn.linkedin.com/in/晔-梁-10202a36b/en",
+    "https://my.linkedin.com/in/adam-fung-29b9892a7",
+    "https://pe.linkedin.com/feed/update/urn:li:activity:7338366959249432577/",
+    "https://my.linkedin.com/in/adam-fung-391b6a209",
+    "https://cn.linkedin.com/in/steven-wei-b891683a3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tangshan Weihao Magnesium Powder — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/660007027201098/page_completion_meter/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/bhavanagargofficial/videos/-natural-magnesium-powder-science-inspired-recipe-magnesium-is-the-mineral-your-/28876261825374795/",
+    "https://www.facebook.com/gosu/",
+    "https://www.facebook.com/earlene45/",
+    "https://www.facebook.com/Shawn6640/",
+    "https://www.facebook.com/groups/healthyholisticlivingcommunity/posts/1290949612113132/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters note 社長",
+   "results": [
+    "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "https://www.tswhmf.com/",
+    "https://www.chemball.com/factory/vmfe2e/",
+    "https://www.youtube.com/shorts/ozQbJEVZ-pg?vl=de",
+    "https://panda3dp.com/3dprint-169847-1-1.html",
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "https://www.tiktok.com/@weihao_mg_powder",
+    "https://www.youtube.com/shorts/u__XXaH3FIo"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Tangshan Weihao Magnesium Powder — VoxelMatters X 投稿",
+   "results": [
+    "https://www.linkedin.com/posts/tangshan-weihao-magnesium-powder-co-ltd_can-magnesium-really-be-3d-printedtangshan-activity-7522708089200922625-htLV",
+    "https://zw.linkedin.com/company/tangshan-weihao-magnesium-powder-co-ltd",
+    "https://www.tswhmf.com/",
+    "https://www.voxelmatters.directory/company-category/advanced-materials-manufacturer/",
+    "https://panda3dp.com/3dprint-169847-1-1.html",
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "https://www.tswhmf.com/abouts/1.html",
+    "https://www.voxelmatters.directory/company/tangshan-weihao-magnesium-powder-co-ltd/",
+    "https://tswhmf.blogspot.com/",
+    "https://www.made-in-china.com/showroom/tangshanweihao"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

@@ -1,0 +1,1725 @@
+{
+ "name": "Vendure",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-09T19:49:11.794110+00:00",
+ "official_url": "https://vendure.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "B2B ecommerce platform for complex pricing and accounts | Vendure",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer-specific pricing, company accounts and approvals on one adaptable platform, with the APIs to connect your ERP. Open source at the core.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prices for Acme Industrial Supply, excl. VAT",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "admin.northfield-supply.com/price-lists/acme",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A B2B storefront showing a company its contract prices on safety equipment, next to the Vendure Dashboard price list that sets them.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "One company, one buyer and one approver. Pick a step to see the screen each of them works in.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every product shows the price Acme negotiated, with its volume breaks, instead of the list price.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob pastes SKUs and quantities from his spreadsheet, and the cart fills at contract prices.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The order is over Bob's €1,000 limit, so it goes to Amy, the approver, before it is placed.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The order is placed on invoice terms, with its approval history attached.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "HANS KOHLER AG replaced phone, email and fax ordering with one shop on Vendure: customer-specific prices, pipes cut to size, and its Microsoft ERP connected.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Find and reorder products",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Paste a list of SKUs, repeat a past order with changed prices flagged, or request a quote. Shopping lists and shared carts keep regular purchases ready.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Price changed: was €26.30, now €29.16",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A storefront reorder dialog that repeats a past order and flags a product whose price has changed.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Negotiated prices and terms",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Contract price lists with volume breaks, per company or customer group, plus customer catalogues, company payment methods and spending limits.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A contract price list in the Vendure Dashboard with volume prices, assigned to one company and a customer group.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore pricing and catalogues",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Company accounts and approvals",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Each company manages its own users, roles and addresses. Orders over a buyer's limit go to an approver before they are placed.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A company's users in the storefront, each with a role such as buyer or order approver.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Approved order AC-10482",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Updated 1,240 prices in Contract 2026",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Gave Frank Finance the Project finance role",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Find a vetted agency or independent expert to design, build, and scale your commerce project. The directory covers official Vendure partners and trusted contributors from the wider community.",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Vendure Partner Programme to earn qualified leads, referral commission, and co-marketing, and get listed in this directory.",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A monthly digest of product news, customer stories, and engineering deep dives.",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We build marketplaces, online shops and web presences that still hold up in five years. For marketplace founders who want to set it up right from the start. For…",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Campudus empowers manufacturers, brands, and suppliers to manage their product data centrally and distribute it seamlessly across every digital sales channel – …",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Uplab has built production software since 2017 – a Ukrainian team dis…",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A digital agency specializing in data, AI, and e-commerce. With over 330 experts and 20 years of experience, we support large enterprises, mid-sized companies, …",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We stand alongside companies that aim to build top tier digital products. Our team delivers durable and scalable web and mobile applications, automates routine …",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure began as an open-source answer to a practical need: a modern, extensible commerce framework. Years of delivering complex B2B projects then tested and shaped it in production. Today, Vendure is open at the core, built in Austria, and run worldwide.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Contract pricing engine",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Price lists forced into workarounds",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Order approval workflows",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "2021 · configure-price-quote system · shipped · lesson fed back",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "2022 · joint venture incorporated · every project feeds the platform",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "2024 · funded by the commercial products and their customers",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Flow diagram showing frontline agency projects that hit platform limits feeding into Vendure and emerging as first-class platform capabilities.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Betting on the product",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Demand outgrows what a services-led joint venture can carry, and we look hard at how to fund the next stage, including conversations with investors. We choose to keep funding growth through revenue from commercial products. It keeps the roadmap accountable to the customers who run Vendure in production, and it keeps us building at our own pace.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "What the frontline taught us",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Years of delivering complex commerce shaped how we build the company, not just the product.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptability is the product",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial customers fund development, so production needs shape the roadmap. Feedback from the wider community keeps it grounded in how Vendure is actually used.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "We build the product. Official partners and in-house teams deliver most implementations; the Vendure team takes one on only as part of an Enterprise contract, so agencies can work with Vendure without competing with the company behind it.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure is self-funded. Revenue from the commercial products finances development, which keeps the roadmap accountable to the people who run Vendure in production: customers and the community.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "That loop is the operating model. It is why the platform ships what real projects need next, and why businesses can plan on Vendure as a long-term foundation.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "We build Vendure in Austria with a European team, for a global market. That shapes the product: full control over your stack, EU data-residency options, auditable open-source code, and GDPR-aligned data handling with ready-to-sign processing agreements.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "A worldwide contributor community, at 120K+ monthly downloads.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "In production worldwide",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers, distributors, retailers, and global enterprises run complex commerce on Vendure.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Facts for procurement and diligence",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure is led by David Höck (CEO and co-founder), Michael Bromley (CTO, co-founder, and the creator of Vendure), and Max Page (operations and legal representative). The company is based in Austria, with offices in Tyrol and Vienna (HQ).",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure is self-funded. Revenue from commercial products finances growth, and there are no external investors on the cap table today.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Need answers for procurement or diligence?",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce for manufacturers who sell to distributors, to dealers and direct to the end customer at the same time, on a catalogue where a product is specified to order rather than picked off a shelf.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A manufacturer rarely sells one way. There is a dealer network on agreed margins and a handful of large accounts on negotiated terms. Increasingly there is also an end customer who found the product online and wants to buy it from you.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Acme Industrial Supply",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prices for Acme Industrial Supply, excl. VAT",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial safety helmet",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob signs in as a buyer for Acme Industrial Supply. His company, role, payment terms and order limit come with him.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Campudus empowers manufacturers, brands, and suppliers to manage their product data centrally and distribute it seamlessly across every digital sales channel – …",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "2019 · industrial distributor portal · shipped · lesson fed back",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers, distributors, retailers, and global enterprises run complex commerce on Vendure.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce for manufacturers, direct and through dealers | Vendure",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce for manufacturers who sell to distributors, to dealers and direct to the end customer at the same time, on a catalogue where a product is specified to order rather than picked off a shelf.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A manufacturer rarely sells one way. There is a dealer network on agreed margins and a handful of large accounts on negotiated terms. Increasingly there is also an end customer who found the product online and wants to buy it from you.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing catalogues are rarely a list of finished goods. A buyer chooses a length, a material, a tolerance, a finish and a fixing, and the price follows from what they chose. Most commerce platforms cannot hold that, so the configuration happens in a spreadsheet and comes back as an email your sales engineer retypes.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What manufacturers usually need",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What industrial ecommerce needs beyond a product page",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What manufacturers ask before they commit",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What does B2B ecommerce for manufacturers need that a normal store does not?",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "For distributors and manufacturers selling to customers with branches and departments, by the unit, box or pallet.",
+    "url": "https://vendure.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to modernize your industrial commerce operations? Contact us to discover how our headless commerce platform can transform your business processes while maintaining the specialized features your industry demands.",
+    "url": "https://vendure.io/case-studies/hans-kohler-ag-steel-trader-unified-b2b-b2c-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Attach warehouses and fulfilment rules per market, so the same product ships from a UK warehouse for UK orders and a German one for German orders.",
+    "url": "https://vendure.io/solutions/b2b-b2c",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer with volume breaks and per-group base prices",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": "Their sign-off, before your warehouse sees it",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Explore manufacturing",
+    "url": "https://vendure.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Most businesses are more than one of these. A manufacturer sells to distributors and direct to the public. A wholesaler runs a trade counter. The useful question is not which label fits, but which of these your platform currently cannot do.",
+    "url": "https://vendure.io/solutions",
+    "pass": 1
+   },
+   {
+    "quote": ". We then remove you within 30 days, but we don't have to recall material already printed or distributed. We publish a case study, testimonial or quote from you only with your separate approval.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "Klekt - Customer Case Study",
+    "url": "https://www.casestudies.com/company/vendure",
+    "pass": 3
+   },
+   {
+    "quote": "Paket.mk - Customer Case Study",
+    "url": "https://www.casestudies.com/company/vendure",
+    "pass": 3
+   },
+   {
+    "quote": "roooms.ru - Customer Case Study",
+    "url": "https://www.casestudies.com/company/vendure",
+    "pass": 3
+   },
+   {
+    "quote": "Klekt - Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Follow PE and VC trends across key industrial segments",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "HANS KOHLER AG replaced phone, email and fax ordering with one shop on Vendure: customer-specific prices, pipes cut to size, and its Microsoft ERP connected.",
+    "url": "https://vendure.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing catalogues are rarely a list of finished goods. A buyer chooses a length, a material, a tolerance, a finish and a fixing, and the price follows from what they chose. Most commerce platforms cannot hold that, so the configuration happens in a spreadsheet and comes back as an email your sales engineer retypes.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us at Vendure to learn how our headless commerce platform can help your team migrate from legacy systems while maintaining operational continuity.",
+    "url": "https://vendure.io/case-studies/ibm-project-marlin-legacy-migration",
+    "pass": 1
+   },
+   {
+    "quote": "HANS KOHLER AG, Switzerland's number one stainless steel supplier, faced a critical digital transformation challenge. Their existing commerce platform was severely outdated, slow, and heavily dependent on manual processes. Customers were still placing orders via phone, email, and even fax, creating inefficiencies throughout the organization.",
+    "url": "https://vendure.io/case-studies/hans-kohler-ag-steel-trader-unified-b2b-b2c-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The transformation delivered immediate operational improvements and customer satisfaction gains. Daily orders increased by 15-20% as customers migrated from phone and email ordering to the intuitive self-service platform. The seamless ERP integration eliminated manual data entry, reducing errors and freeing internal resources for higher-value activities.",
+    "url": "https://vendure.io/case-studies/hans-kohler-ag-steel-trader-unified-b2b-b2c-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to modernize your industrial commerce operations? Contact us to discover how our headless commerce platform can transform your business processes while maintaining the specialized features your industry demands.",
+    "url": "https://vendure.io/case-studies/hans-kohler-ag-steel-trader-unified-b2b-b2c-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The aging system became a bottleneck that threatened customer relationships and operational efficiency. Downtime meant franchise partners couldn't place time-sensitive orders, forcing Weishäupl staff into reactive mode with phone calls and email exchanges that should have been automated.",
+    "url": "https://vendure.io/case-studies/munich-work-wear-supplier-cuts-ordering-time-from-minutes-to-seconds",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to transform your industry with headless commerce? Contact us to discover how our platform can power your next innovative marketplace.",
+    "url": "https://vendure.io/case-studies/skydeals-inflight-digital-marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Most ecommerce platforms model a customer as one person with one email address and one card. Your customer is a business. It has several buyers, a purchasing manager who signs off above a limit, a price agreed last year, and a finance team that pays on invoice thirty days later.",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "When the platform cannot hold that shape, the work does not disappear. It moves to your sales desk. Orders arrive by phone, email and PDF, someone re-keys them into the ERP, and the re-keying is where the errors come from.",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "\" means the date we announce, by email to Billing Admins and on",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "4.3 Each Project has one Subscription. You cannot move a Subscription or a trial to another Project yourself. If a Project was set up by mistake, contact us. We may be able to correct it.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "If you built a Project for a client, you may ask us to transfer the Project and its Subscription to that client's own Customer Account. The client must accept these Terms. Contact us to arrange the transfer. If we agree to a transfer, we aim to keep any commitment and the price guarantee for early subscribers.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to warn the Billing Admins by email when the final check fails and when a downgrade is blocked. A missing warning does not affect the renewal. We do not delete your data because of a downgrade. During a trial, a change to a lower Plan applies immediately (5.1).",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "9.2 We may change published prices. We tell Billing Admins by email at least 30 days before a change applies to you. A change applies from your next commitment period: the next month on a monthly commitment, the next renewal on an annual commitment.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "does not stop them. If a report suggests production use of a non-production environment, we may tell you in the Console, by email or in the Vendure Dashboard.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "14.2 The beta is not available yet. We decide when it opens, and for which Projects first. We will tell Billing Admins by email or in the Console when it opens for your Project. Whether you use it is your choice.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "15.2 Where we process personal data on your behalf, section 16 applies. If your company needs a more detailed data processing agreement, email",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "You can ask us to close your Customer Account at any time once all its Projects are archived and it has no active Subscription, in the Console or by emailing",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "We send notices to the Billing Admins' email addresses in the Console. You send notices to",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": ". An email notice is received when it reaches the recipient's mail server.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "25.1 We may name you and show your logo as a Vendure customer on our website and in our marketing materials, also after your Subscription ends, until you ask us to stop. You can do that at any time by emailing",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us a bit about your team and we'll email you the Vendure Partner Guide, with everything you need to size up the partnership. It takes a few minutes.",
+    "url": "https://vendure.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your team and we'll email you the guide, plus a link to book an intro call with our partner manager to get the conversation started.",
+    "url": "https://vendure.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Meet our partners and contact us for future collaborations",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Want to become a partner?",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Vendure Partner Programme to earn qualified leads, referral commission, and co-marketing, and get listed in this directory.",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We build the product. Official partners and in-house teams deliver most implementations; the Vendure team takes one on only as part of an Enterprise contract, so agencies can work with Vendure without competing with the company behind it.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Model your brands, regions, and markets",
+    "url": "https://vendure.io/solutions/b2b-b2c",
+    "pass": 1
+   },
+   {
+    "quote": "Set up your brands, legal entities, regions, and customer groups in a 30-day trial, or compare the plans to see which one fits.",
+    "url": "https://vendure.io/solutions/b2b-b2c",
+    "pass": 1
+   },
+   {
+    "quote": "Adapt the shipped application to your brand and your buying flows. The B2B surface is already built, so the work is presentation and the parts specific to your business.",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure Partner Programme | Vendure",
+    "url": "https://vendure.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": ". That delivery experience is still in the platform's DNA, which is why it fits the way agencies actually work.",
+    "url": "https://vendure.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies and system integrators serious about building a Vendure practice. We weigh three things:",
+    "url": "https://vendure.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "your commitment and quality of work matter more than your team size. Smaller studios compete on equal footing with larger agencies.",
+    "url": "https://vendure.io/become-a-partner",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Join the Vendure Partner Programme to earn qualified leads, referral commission, and co-marketing, and get listed in this directory.",
+    "url": "https://vendure.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Demand outgrows what a services-led joint venture can carry, and we look hard at how to fund the next stage, including conversations with investors. We choose to keep funding growth through revenue from commercial products. It keeps the roadmap accountable to the customers who run Vendure in production, and it keeps us building at our own pace.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "We build the product. Official partners and in-house teams deliver most implementations; the Vendure team takes one on only as part of an Enterprise contract, so agencies can work with Vendure without competing with the company behind it.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure is self-funded. Revenue from the commercial products finances development, which keeps the roadmap accountable to the people who run Vendure in production: customers and the community.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Elevantiq GmbH, trading as Vendure, is the operating company listed in our legal notice. The agency business has been wound down, and everything has operated under the Vendure brand since February 2026 while the corporate consolidation continues. Contracts and legal documents identify the applicable contracting entity.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure is self-funded. Revenue from commercial products finances growth, and there are no external investors on the cap table today.",
+    "url": "https://vendure.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Set up your dealer ordering in a 30-day trial, or compare the plans. The product configurator for made-to-order products is part of Enterprise.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "No fee on revenue, orders or users",
+    "url": "https://vendure.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. There is no charge on gross merchandise value, no fee per order and no fee per user. Each plan is a flat monthly price, so growing revenue does not reprice the platform. Vendure Cloud usage above the resources your plan includes is billed separately.",
+    "url": "https://vendure.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional in-flight retail was declining rapidly. Airlines struggled with the logistical nightmare of managing physical inventory, while passengers found paper catalogs uninspiring and limited to 300-500 basic items. The industry needed a complete transformation to turn in-flight retail from a cost center into a profitable revenue stream.",
+    "url": "https://vendure.io/case-studies/skydeals-inflight-digital-marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "SKYdeals recognized this opportunity and set out to create \"shoppertainment\" – combining shopping with entertainment during flights. However, building a digital marketplace for the aviation industry presented unique challenges: unreliable in-flight connectivity, complex integrations with diverse airline systems, and the need for rapid deployment across multiple carriers.",
+    "url": "https://vendure.io/case-studies/skydeals-inflight-digital-marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Our multi-channel system proved crucial for airline adoption. Each carrier received their own branded storefront while sharing a unified backend, dramatically reducing complexity and maintenance overhead. The team also optimized our asset management capabilities for low-bandwidth environments, ensuring smooth performance even at 35,000 feet.",
+    "url": "https://vendure.io/case-studies/skydeals-inflight-digital-marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "SKYdeals demonstrates how headless commerce enables innovation in specialized industries. By choosing a flexible, API-driven foundation, they transformed a declining market segment while creating new revenue opportunities for airlines and brands alike.",
+    "url": "https://vendure.io/case-studies/skydeals-inflight-digital-marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Products live once, in a shared catalogue. Each brand or market selects what it sells and overrides only its price, translation, or availability. Change the product once, and every storefront that carries it updates.",
+    "url": "https://vendure.io/solutions/b2b-b2c",
+    "pass": 1
+   },
+   {
+    "quote": "One. Products, collections, and assets are shared canonical records. Each brand or market selects what it sells and overrides only its price, translation, or availability. A change to the shared product flows through every storefront that carries it.",
+    "url": "https://vendure.io/solutions/b2b-b2c",
+    "pass": 1
+   },
+   {
+    "quote": "Vendure makes your pricing rules a first-class part of the platform instead. Your commercial team configures them directly, your developers extend them only when a rule is genuinely yours alone, and every rule resolves inside the checkout the platform already runs.",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": "Changing a price should not be an engineering task. Your commercial team exports the current price list, edits it in the spreadsheet they already use, and imports it back. A quarterly contract refresh across thousands of products lands as one import, owned by the people who own the prices.",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Price lists are edited in the dashboard or exported, edited in a spreadsheet, and imported back. A quarterly contract refresh across thousands of products lands as a single import, owned by the team that owns the prices. Engineering is only involved when you want a genuinely new kind of rule.",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": "What if our prices are owned by our ERP?",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": "Contract pricing and product types arrive with",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": ", gift cards and packaging units arrive with",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": ", and connecting pricing to your ERP, CPQ or another pricing engine is part of",
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "pass": 1
+   },
+   {
+    "quote": "When the platform cannot hold that shape, the work does not disappear. It moves to your sales desk. Orders arrive by phone, email and PDF, someone re-keys them into the ERP, and the re-keying is where the errors come from.",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Every capability below is part of a Vendure plan, under one commercial licence, with support from the Vendure team. There is no separate B2B module to buy, and no second system to keep in sync with the first.",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Per-customer price lists and standard price rules, each carrying the period it applies for. Last year's agreement stops applying on the day it expires without anyone remembering to switch it off. From Scale.",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Hold a balance against an account and redeem it at checkout, for refunds, rebates and prepaid arrangements. Set which payment methods each company can use. From Starter.",
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Your work reaches global brands, from Fortune 500 enterprises to high-growth startups.",
+    "url": "https://vendure.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\" means a self-serve plan listed on the pricing page, currently Starter, Growth and Scale.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "If you built a Project for a client, you may ask us to transfer the Project and its Subscription to that client's own Customer Account. The client must accept these Terms. Contact us to arrange the transfer. If we agree to a transfer, we aim to keep any commitment and the price guarantee for early subscribers.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "Overdue amounts carry interest at the statutory rate for business transactions (§ 456 UGB). If we terminate for non-payment, the remaining instalments of an annual commitment become due at once, as payment for the committed term. We charge them to your saved payment method, with any VAT that applies. After termination, you can subscribe again once the arrears are paid.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "Each Subscription licenses, for one Project, only the Commercial Plugins and capabilities included in its Plan at the time, as listed on the pricing page. Commercial Plugins and capabilities that are not included in your Plan are not licensed, even if they are technically reachable.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "Your employees and contractors may use the Commercial Plugins, and Vendure Framework under 10.2(c), including an agency or systems integrator building the Project on your behalf. You are responsible for their compliance with these Terms.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "13.1 We provide support for the self-serve Plans on a reasonable-efforts basis, through the channels listed in the Console.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "13.2 The self-serve Plans include no service level agreement. They carry no guaranteed response time, resolution time, uptime or service credit. Service levels are available only under an Enterprise agreement.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "14.9 The guarantee belongs to the Project and moves with it under 4.4. It cannot be split between or copied to other Projects. We may make changes that the law, tax rules, sanctions or security require. If we rename or replace a Plan, a commercially equivalent successor Plan carries the remaining guarantee.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "We process the personal data you give us access to, which may cover your customers, users, employees and contractors, and any category of personal data in your Project. The processing consists of accessing, reviewing and temporarily storing that data, only to provide the support you asked for and for as long as that takes.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "21. Warranties",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "21.1 We warrant that the Commercial Plugins perform substantially as described in the documentation at",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "21.2 If they do not, tell us within 6 months of the defect first appearing. We will fix the problem or provide a workaround. If neither is reasonably possible, you may cancel the Subscription with immediate effect, and section 18.4(a) applies. These are your only remedies under this warranty. Claims for damages are governed by section 22.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "21.3 Trials, and features marked as beta or preview (section 10.12), are provided as they are, without warranty.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "Apart from this section, and as far as the law allows, we give no other warranties, express or implied, including merchantability and fitness for a particular purpose, and no right to a price reduction or to rescind the contract beyond section 21.2.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "You may not transfer these Terms without our consent, except under 4.4. We may transfer them to a company that takes over our business or the relevant part of it.",
+    "url": "https://vendure.io/company/terms-of-service",
+    "pass": 1
+   },
+   {
+    "quote": "Get listed in the partner directory and collaborate on customer stories and content.",
+    "url": "https://vendure.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Elastic Path customers are innovators who seek the ultimate in flexibility and business agility. Elastic Path help these innovators generate billions in revenue with patented ecommerce technologies. Elastic Path's flexible …",
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "PE-backed exits, IPOs, and GP-led secondaries",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "Startup M&A, VC-backed IPOs, direct secondaries, and more",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "What is Vendure’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Vendure is",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "When was Vendure acquired?",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure was acquired on 25-Oct-2024.",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Vendure?",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure was acquired by Elevantiq.",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure,LLC Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure,LLC Revenue",
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Vendure,LLC",
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ECサイトの構築のオープンソースを実測で比較（ライセンス・日本語対応・更新）",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSを自分で立てて日本語化する代わりに、日本語で作った当社の製品を自社のサーバーに置く方法もあります",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、この土台に対して日本語化、画面や項目の変更、権限、帳票、既存システムとの連携を加えて、御社の業務に合う状態にします",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendureの日本語ファイルは2件です",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイルの数だけでは訳の網羅率は分からないので、実際の画面で日本語の範囲を確かめます",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "機能の一覧、日本語ファイルの実測、同じ分類のOSSとの比べ方など、技術者向けの情報は",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendureの日本語化・改修・導入（バイブOSS）を、御社のお客様に販売できます",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス、日本語対応、規模を比べて選べます",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "かかるのはサーバー代と、日本語化や自社向けの変更にかかる費用です",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "判定は、GitHubの公開ファイル一覧から日本語ロケールの実ファイルを数えた結果です（配布用のビルド成果物は除外）",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化が必要な場合は、当社がその作業を含めて導入します",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "この用途に使えるオープンソースとして公開されており、当社ではこれを土台に日本語化と自社向けの変更を行って導入します",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "海外発のプロジェクトなので、日本語のドキュメントや記事はまだ少ない",
+    "url": "https://easegis.jp/blog/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendureとは｜機能・ライセンス・日本語対応（実測） | Kurage",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSを自分で立てて日本語化する代わりに、日本語で作った当社の製品を自社のサーバーに置く方法もあります",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "このページはVendureそのものの情報（機能、日本語ファイルの実測、ライセンス、同じ分類のOSSとの比較）です",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendureのリポジトリにある日本語ロケールのファイルは2件です",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイルの数だけでは訳の網羅率は分からないので、実際の画面で日本語の範囲を確かめます",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHubの公開ファイル一覧から、日本語ロケールに当たるファイルを数えた結果です",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ファイルが一部のみ（2ファイル）",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendureのライセンスと技術構成を確認した上で、標準機能を活かしながら、日本語表現、画面、項目、権限、通知、外部連携などを業務に合わせて変更します",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "同じカテゴリから、スター数・ライセンス・日本語対応を並べました",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の商品説明、カテゴリ、管理運用に対応",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "このページは、名古屋のシステム開発会社・株式会社エクスブリッジが運営しています",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エクスブリッジ（EXBRIDGE, Inc.）",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケター、広告代理店、コンテンツクリエイター（動画制作コスト削減、効率化）",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "VendureでECサイトの構築｜業務での使い方と導入 — Oct 26, 2026 · VendureをECサイトの構築の業務にどう使うかと、導入の進め方をまとめました。 TypeScriptで構築されたオープンソースのヘッドレスコマースプラットフォームです。 名古屋のシステム開発会社が日本語化から導入まで行います。",
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendureを使ったらECサイト開発の考え方が変わった話 | Easegis（イー... — Dec 17, 2025 · Vendureの設定は vendure-config.ts で行います。 ... このプラグインを vendure-config.ts のpluginsに追加するだけで、商品に「限定商品」フラグが追加されます。",
+    "url": "https://easegis.jp/blog/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "VendureとMedusaの違い｜ライセンス・API・B2Bで比較【2026年10月】 — Sep 29, 2023 · Vendure 3.7（GPLv3・GraphQL）とMedusa 2.21（MIT＋Enterprise部分・REST）の違いを、ライセンス、API、対応DB、B2B・多店舗、有償版の料金で比較。 公開デモと手元環境でのAPI実行結果と、どちらを選ぶべきかの判断基準を解説します。",
+    "url": "https://www.issoh.co.jp/tech/details/1500/",
+    "pass": 3
+   },
+   {
+    "quote": "Vendureの日本語導入・OSSカスタマイズ | Kurage — TypeScriptで構築されたオープンソースのヘッドレスコマースプラットフォームです。 日本語対応・ライセンス・導入情報に加え、バイブコーディングによる自社向けOSSカスタマイズとサーバー導入を案内します。",
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "pass": 3
+   },
+   {
+    "quote": "vendureとは？特徴・ライセンス・代替情報 | オープンソースラボ — 候補が見つかったら、導入条件を整理しよう。 実現したい業務、既存ツールとの連携、データの保管場所、保守を担う人。 自社での選定・導入に迷ったら、運営元のClasslessへご相談ください。",
+    "url": "https://opensourcelab.jp/tools/vendure",
+    "pass": 3
+   },
+   {
+    "quote": "About Venture Japan business support servicesVenturehome | Venture JapanB2B ecommerce platform for complex pricing and accounts | VendureOur Team - Venture JapanMedVenture Partners, Inc.venture-jp.com — Unlike other Japanese market-entry and business service providers, we do not simply complete a Japanese market-entry feasibility study and then leave you to make it work. Instead, we work with you ",
+    "url": "https://www.venturejapan.com/about-venture-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B ecommerce platform for complex pricing and accounts | Vendure — Vendure is the B2B ecommerce platform for customer pricing, company accounts and approvals, with the APIs to connect your ERP. Headless, built in TypeScript, ready for B2C.",
+    "url": "https://vendure.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories: complex ecommerce on Vendure | Vendure — See how businesses replace rigid and fragmented ecommerce platforms with Vendure.",
+    "url": "https://vendure.io/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure B2B Case Studies & Customer Successes — See how Vendure solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/vendure",
+    "pass": 3
+   },
+   {
+    "quote": "6 Vendure Case Studies, Success Stories, & Customer Stories ... — Browse Vendure case studies and success stories to help make the right purchasing decision.",
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce for manufacturers, direct and through dealers | Vendure — Ecommerce for manufacturers who sell to distributors, to dealers and direct to the end customer at the same time, on a catalogue where a product is specified to order rather than picked off a shelf.",
+    "url": "https://vendure.io/solutions/manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure 2026 Company Profile: Valuation, Investors ... — Information on acquisition, funding, investors, and executives for Vendure. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "pass": 3
+   },
+   {
+    "quote": "About Vendure: the company behind the platform | Vendure — Vendure is self-funded. Revenue from the commercial products finances development, which keeps the roadmap accountable to the people who run Vendure in production: customers and the community.",
+    "url": "https://vendure.io/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure,LLC Revenue, Funding & Valuation - prospeo.io — Vendure,LLC generates an estimated annual revenue of $85,555. This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure - Products, Competitors, Financials, Employees ... — It serves sectors such as Fortune 500 enterprises, high-growth startups, direct-to-consumer brands, and B2B enterprises. It was founded in 2022 and is based in Vienna, Austria. In October 2024, Elevantiq acquired a majority stake in Vendure.",
+    "url": "https://www.cbinsights.com/company/vendure",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure - Crunchbase Company Profile & FundingVendure - 2026 Company Profile & Competitors - TracxnVendure - Overview, News & Similar companies | ZoomInfo.com — Build without limits: B2C, B2B, marketplaces, multi-channel, and more. Vendure's open-source platform gives you unparalleled flexibility to build any commerce application. Know what they sell. Find where you fit. Explore company offerings ",
+    "url": "https://www.crunchbase.com/organization/vendure",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Today's Fast-Rising Trends] GitHub TOP 9 (December 26, 2025) Sell high-performance, scalable Vendure Commercial Licenses (VCL) to large enterprise customers. Provide development and implementation support services for fully customized e-commerce sites tailored to specific corporate needs, based on Vendure.",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【今日の爆速トレンド】GitHub TOP9（2025年12月26日）｜アイデアのかけら",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【今日の爆速トレンド】GitHub TOP9（2025年12月26日）",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://github.com/rendercv/rendercv",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RenderCVは、YAMLファイルで記述されたCV/履歴書データを、自動でプロフェッショナルかつ完璧なタイポグラフィのPDFに変換するCLIツールです。JSON Schemaによる強力なバリデーションと入力補完、豊富なデザインオプションを提供し、アカデミアやエンジニアの履歴書作成プロセスを劇的に効率化します。",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CVや履歴書の内容の編集に集中し、レイアウトやデザインの煩わしさから解放されたいとき",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CVの変更履歴をGitなどでバージョン管理し、管理と再利用を容易にしたいとき",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "VS CodeなどのエディタでJSON Schemaによるリアルタイムな入力補完と厳格なバリデーションを活用したいとき",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "複数言語対応のCV/履歴書を効率的に作成したいとき",
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Reposts by Vendure (@vendure_io) / X I spent the past couple of weeks really understanding the attack vectors and taking a look at how @ vendure_io could become the next victim, and what I can do about it.",
+    "url": "https://x.com/vendure_io/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure: modern headless e-commerce Vendure (@vendure_io). 40 likes 5 replies. Vendure: modern headless e-commerce",
+    "url": "https://x.com/vendure_io/status/1394970987196821507",
+    "pass": 3
+   },
+   {
+    "quote": "RT @vendure_io: Vendure: modern headless e-commerce Vendure (@vendure_io). RT @vendure_io: Vendure: modern headless e-commerce",
+    "url": "https://x.com/vendure_io/status/1486668188603633667",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure Core faces a critical 9.1 SQL Injection via the Shop ... Daily CyberSecurity (@the_yellow_fall). 267 views. Vendure Core faces a critical 9.1 SQL Injection via the Shop API. Unauthenticated attackers can hijack databases—upgrade to 3.6.2, 3.5.7, or 2.3.4 now! #Vendure #SQLi #EcommerceSecurity #CyberSecurity #InfoSec #WebDev #PatchNow https://t.co/eQpqUjkq2Q",
+    "url": "https://x.com/the_yellow_fall/status/2044408651075498427",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Vendure (@vendure_io) / X - x.com I've been watching @ vendure_io for about six years now since we first looked at them as an e-commerce platform while I was at The Knot Worldwide. Since then @ michlbrmly and @ dlhck_ have built something that is truly special in this market.",
+    "url": "https://x.com/vendure_io/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vendure - LinkedIn Vendure is the ecommerce platform for complex B2B: customer-specific pricing, company accounts and approval workflows, built to connect with the ERP you already run.",
+    "url": "https://www.linkedin.com/company/vendure",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure: A Commerce Platform for Composable Architecture Aug 17, 2026 · Why Vendure belongs in every serious headless commerce conversation in 2026 and what its architecture says about the future of composable commerce.",
+    "url": "https://www.linkedin.com/pulse/vendure-commerce-platform-composable-architecture-nvizion-solutions-xlp8f/",
+    "pass": 3
+   },
+   {
+    "quote": "Joseph Schlachter - Managing Director, Vendure Group | LinkedInVendure: The Headless Commerce Framework That Finally Gets It ...Introducing the New Admin Dashboard We've rebuilt ... - LinkedInGetting started with Vendure in under 5 minutes. In this ...\"What does our team need to look like to ship with Vendure ... Managing Director, Vendure Group · Experience: Vendure Group · Education: NAIT (North",
+    "url": "https://ca.linkedin.com/in/joseph-schlachter-9b2538a5",
+    "pass": 3
+   },
+   {
+    "quote": "Vendure: The Headless Commerce Framework That Finally Gets It ... Jun 29, 2026 · Vendure is a headless, API-first e-commerce framework built on TypeScript, NestJS, GraphQL, and TypeORM. It is not a SaaS platform. It is not a hosted solution. It is not a \"low-code\" tool.",
+    "url": "https://www.linkedin.com/pulse/vendure-headless-commerce-framework-finally-gets-right-chaudhary-giurf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://vendure.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/solutions/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/case-studies/ibm-project-marlin-legacy-migration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/case-studies/hans-kohler-ag-steel-trader-unified-b2b-b2c-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/case-studies/munch-food-waste-platform-thousands-daily-transactions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/case-studies/hemglass-unified-28-franchisees-with-seamless-click-collect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/case-studies/munich-work-wear-supplier-cuts-ordering-time-from-minutes-to-seconds",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/case-studies/skydeals-inflight-digital-marketplace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/solutions/b2b-b2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/features/pricing-catalogues",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/solutions/b2b-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/company/legal-notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/company/terms-of-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendure.io/become-a-partner",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.vendure.io/shared/logos/ibm-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.vendure.io/shared/logos/hans-kohler-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.vendure.io/shared/snippets/company-logos/breitling-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.vendure.io/shared/logos/klekt-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://exbridge.jp/ai-system/vendure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://easegis.jp/blog/vendure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/tech/details/1500/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kurage.exbridge.jp/oss/vendure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venturejapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venturejapan.com/about-venture-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.venturejapantravel.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/vendure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/491331-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/vendure-llc-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/vendure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/vendure_io/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vendure_io/status/1394970987196821507",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vendure_io/status/1486668188603633667",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/the_yellow_fall/status/2044408651075498427",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vendure",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/vendure-commerce-platform-composable-architecture-nvizion-solutions-xlp8f/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/joseph-schlachter-9b2538a5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/vendure-headless-commerce-framework-finally-gets-right-chaudhary-giurf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vendure_io/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vendure 日本 導入",
+   "results": [
+    "https://exbridge.jp/ai-system/vendure/",
+    "https://easegis.jp/blog/vendure/",
+    "https://www.issoh.co.jp/tech/details/1500/",
+    "https://kurage.exbridge.jp/oss/vendure/",
+    "https://opensourcelab.jp/tools/vendure",
+    "https://global.toyota/jp/newsroom/toyota/44149865.html",
+    "https://wayve.ai/ja/press/wayve-japan-launch/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vendure 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Vendure Japan",
+   "results": [
+    "https://www.venturejapan.com/",
+    "https://www.venturejapan.com/about-venture-japan/",
+    "https://www.venturejapantravel.com/",
+    "https://vendure.io/",
+    "https://www.venturejapantravel.com/Our-team",
+    "https://www.medvp.co.jp/en.html",
+    "https://venture-jp.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vendure manufacturing customer case study",
+   "results": [
+    "https://vendure.io/case-studies",
+    "https://www.casestudies.com/company/vendure",
+    "https://www.featuredcustomers.com/vendor/vendure/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf",
+    "https://vendure.io/solutions/manufacturing",
+    "https://www.casestudies.com/company/vendure/case-study/ibm-needed-to-replace-outdated-expensive-legacy-systems-with-something-modern-maintainable-and-enterprise-ready",
+    "https://viithiisys.com/case-studies/bedding-bazar"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vendure white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.extremenetworks.com/partners",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vendure founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/491331-07",
+    "https://vendure.io/company/about",
+    "https://prospeo.io/c/vendure-llc-revenue",
+    "https://www.cbinsights.com/company/vendure",
+    "https://www.crunchbase.com/organization/vendure",
+    "https://tracxn.com/d/companies/vendure/__HgRRXtDVaHb5M4LBWuCUTx_ekEPYVRT5vyQWqdl5CNE",
+    "https://www.zoominfo.com/c/vendure/446184600"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Vendure",
+   "results": [
+    "https://note.com/trend_idea_bit/n/n057b6000a227?hl=en",
+    "https://note.com/add_venture/n/n8800da67e564",
+    "https://note.com/venture_tenshoku/n/n1bce57dd755e?hl=en",
+    "https://note.com/maknot/n/n89540a7fc48f",
+    "https://note.com/ready_slug6155/n/na7d6b7b7ccc8",
+    "https://note.com/wallapi/n/n1dcd37d5c7fd",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Vendure",
+   "results": [
+    "https://x.com/vendure_io/reposts",
+    "https://x.com/vendure_io/status/1394970987196821507",
+    "https://x.com/vendure_io/status/1486668188603633667",
+    "https://x.com/the_yellow_fall/status/2044408651075498427",
+    "https://x.com/i/spaces/1BRJjZApnzBJw",
+    "https://x.com/venture_radar",
+    "https://x.com/EQSTLab/status/1848310369032524247"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Vendure",
+   "results": [
+    "https://www.linkedin.com/company/vendure",
+    "https://www.linkedin.com/pulse/vendure-commerce-platform-composable-architecture-nvizion-solutions-xlp8f/",
+    "https://ca.linkedin.com/in/joseph-schlachter-9b2538a5",
+    "https://www.linkedin.com/pulse/vendure-headless-commerce-framework-finally-gets-right-chaudhary-giurf",
+    "https://www.linkedin.com/posts/vendure_introducing-the-new-admin-dashboard-weve-activity-7386765646765699073-yLOZ",
+    "https://www.linkedin.com/posts/davidhoeck_getting-started-with-vendure-in-under-5-minutes-activity-7336306016550031360-qGFr",
+    "https://www.linkedin.com/posts/vendure_what-does-our-team-need-to-look-like-to-activity-7454489452053270528-Upv7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Vendure",
+   "results": [
+    "https://www.facebook.com/verdurekitchen/",
+    "https://www.facebook.com/VERDUREamarillo/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/HCventurers/",
+    "https://www.facebook.com/verduredayspa/",
+    "https://www.facebook.com/venture.dasma/",
+    "https://www.facebook.com/VentureLipaTap/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vendure note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/maknot",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Vendure X 投稿",
+   "results": [
+    "https://x.com/vendure_io/reposts",
+    "https://vendure.io/",
+    "https://docs.vendure.io/current/platform",
+    "https://www.toutiao.com/article/7587252803211428403/",
+    "https://github.com/vendurehq/vendure",
+    "https://devpress.csdn.net/v1/article/detail/150515247",
+    "https://x.com/lismme_/status/2109243708147474529"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}
