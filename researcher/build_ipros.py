@@ -1,7 +1,7 @@
 """イプロス掲載企業から、採用・広告の支援を売る営業先の名簿を作る（2026-11-10 本人指示）。
 
-本人の条件（2026-11-10 一行で確認済み）：イプロスに載っている製造業で、売上1億円以上、自動車は除く。
-採用のペルソナは「有料の求人を出している会社」で判定する。
+本人の条件（2026-11-10 訂正）：①製造業 ②売上1億円以上 ③有料の求人を出している、の3つのうち2つ以上で名簿に入れる。
+自動車は除外しない（手がかりは記録だけ）。求人媒体に載せていなくても採用に困っている会社はあるので、1つ欠けても落とさない。
 Claude は1社ずつ読まない。判定と門番（verify_list）はすべてここ（GitHub）で回し、Claude は verify.md の集計だけを見る。
 
 段階
@@ -35,7 +35,7 @@ PAID_HOSTS = re.compile(r"doda\.jp|mynavi\.jp|rikunabi\.com|en-japan\.com|type\.
 MFG_FIRST = re.compile(r"製造|メーカー|機械|部品|金属|加工|電子|電機|化学|樹脂|素材|材料|装置|設備|工業|鋳|鍛|めっき|プレス|金型|半導体")
 FIELDS = ["ipros_id", "name", "class_name", "status", "official_url", "capital_man", "capital_quote", "pref", "address_quote",
           "business_quote", "revenue_man", "revenue_quote", "mfg_industry", "mfg_signals", "mfg_judge", "auto_signals", "auto_judge",
-          "paid_job", "paid_job_quote", "contact_url", "emails", "judge"]
+          "paid_job", "paid_job_quote", "contact_url", "emails", "met", "judge"]
 
 
 def _read(p) -> list[dict]:
@@ -110,21 +110,19 @@ def paid_job(name: str) -> tuple[str, str]:
     return "", ""
 
 
+CONDS = {
+    "製造業": (lambda r: r.get("mfg_judge") == "製造業", lambda r: r.get("mfg_signals", "")),
+    "売上1億円以上": (lambda r: float(r.get("revenue_man") or 0) >= 10000 and bool(r.get("revenue_quote")), lambda r: r.get("revenue_quote", "")),
+    "有料求人あり": (lambda r: r.get("paid_job") == "あり" and bool(r.get("paid_job_quote")), lambda r: r.get("paid_job_quote", "")),
+}
+
+
 def judge(r: dict) -> str:
     if r.get("status") != "読了":
         return "未判定（" + (r.get("status") or "未読") + "）"
-    bad = []
-    if r.get("mfg_judge") != "製造業":
-        bad.append("製造業" + ("（要確認）" if r.get("mfg_judge") == "製造業 要確認" else "でない"))
-    if not r.get("revenue_man"):
-        bad.append("売上 未確認")
-    elif float(r["revenue_man"]) < 10000:
-        bad.append("売上1億円未満")
-    if r.get("auto_judge") == "自動車（除外）":
-        bad.append("自動車")
-    if r.get("paid_job") != "あり":
-        bad.append("有料求人 見つからず")
-    return "対象" if not bad else "外す：" + "・".join(bad)
+    met = [c for c, (ok, _) in CONDS.items() if ok(r)]
+    r["met"] = "・".join(met)
+    return ("対象（" if len(met) >= 2 else "外す（") + f"{len(met)}/3：" + ("・".join(met) or "なし") + "）"
 
 
 def run_checks(deadline: float) -> bool:
@@ -158,14 +156,14 @@ def run_checks(deadline: float) -> bool:
 def write_outputs(finished: bool) -> None:
     from researcher.verify_list import verify
     rows = _read(CHECKED)
-    cand = [r for r in rows if r.get("judge") == "対象"]
-    ok = verify(cand, {
-        "製造業（手がかり2つ以上）": (lambda r: r.get("mfg_judge") == "製造業" and len((r.get("mfg_signals") or "").split(" / ")) >= 2,
-                         lambda r: r.get("mfg_signals", "")),
-        "売上1億円以上": (lambda r: float(r.get("revenue_man") or 0) >= 10000 and bool(r.get("revenue_quote")), lambda r: r.get("revenue_quote", "")),
-        "自動車でない": (lambda r: r.get("auto_judge") != "自動車（除外）", lambda r: r.get("auto_signals") or "自動車の手がかりなし"),
-        "有料求人あり": (lambda r: r.get("paid_job") == "あり" and bool(r.get("paid_job_quote")), lambda r: r.get("paid_job_quote", "")),
-    }, OUT)
+    for r in rows:
+        if r.get("status") == "読了":
+            r["judge"] = judge(r)  # 条件を変えたら、調べ直さずに判定だけやり直す
+    _write(CHECKED, rows, FIELDS)
+    cand = [r for r in rows if r.get("judge", "").startswith("対象")]
+    ok = verify(cand, {"3条件のうち2つ以上（引用つき）": (
+        lambda r: sum(1 for ok_, _ in CONDS.values() if ok_(r)) >= 2,
+        lambda r: " ／ ".join(f"{c}：{q(r)[:60]}" for c, (ok_, q) in CONDS.items() if ok_(r)))}, OUT)
     _write(OUT / "list.csv", ok, FIELDS)
     INPUT.parent.mkdir(parents=True, exist_ok=True)
     with open(INPUT, "w", newline="", encoding="utf-8") as f:
@@ -173,11 +171,12 @@ def write_outputs(finished: bool) -> None:
         w.writerow(["社名", "公式URL", "別名", "文脈"])
         for r in ok:
             w.writerow([r["name"], r.get("official_url", ""), "", f"イプロス・{r.get('class_name', '')}・売上{r.get('revenue_man', '')}万円"])
-    jc = Counter(j for r in rows for j in ([r.get("judge", "")] if not r.get("judge", "").startswith("外す：")
-                                           else ["外す：" + x for x in r["judge"][3:].split("・")]))
-    md = [f"# イプロス 製造業・売上1億円以上・自動車除く・有料求人あり{'（完了）' if finished else '（途中）'}", "",
+    jc = Counter(re.sub(r"：.*", "", r.get("judge", "")) + ("" if not r.get("judge", "")[:2] in ("対象", "外す") else "") for r in rows)
+    mc = Counter(c for r in rows if r.get("status") == "読了" for c, (ok_, _) in CONDS.items() if ok_(r))
+    md = [f"# イプロス 製造業・売上1億円以上・有料求人の3つのうち2つ以上{'（完了）' if finished else '（途中）'}", "",
           f"- 種：{len(_read(SEEDS))}社　調べた会社：{len(rows)}社　門番を通った会社：{len(ok)}社", "", "## 判定の内訳（外した理由は重複して数える）"]
     md += [f"- {k}：{v}" for k, v in jc.most_common()]
+    md += ["", "## 条件ごとに満たした社数（読了した会社のうち）"] + [f"- {c}：{mc.get(c, 0)}" for c in CONDS]
     (OUT / "stats.md").write_text("\n".join(md) + "\n", encoding="utf-8")
     if finished:
         (OUT / "BUILD_DONE").write_text(f"{len(ok)}\n", encoding="utf-8")
