@@ -8,8 +8,334 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-08T18:03:38.427444+00:00",
+ "researched_at": "2026-11-09T02:13:01.562602+00:00",
  "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Beware any data that purports to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "》 borg でバックアップとリストア検証 (qiita, 2024.08.26)",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "将棋雑記 旧パラを検証する246",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まず、エレクトロニック・フロンティア財団（EFF）から提供された基地局の位置や種類に関するデータをもとに、そのデータの検証を行い、基地局の建設経緯を時系列で整理しました",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ゲーデルの不完全性定理とω-無矛盾性とローヴェルの不動点定理",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "比較法を検証していないことを、委員自身が認めています",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "前回取り上げた英国法の読み違いは、まさにこの検証されていない部分で起きていました",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "英国型なら一回的だから緩くてよい、という比較法の整理は検証されないまま議論の骨格を支え、提言ではその痕跡だけが消えた、ということになります",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "もっともだと思ったので、検証してコミット",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "私はこのことをとても誇りに思っていましたが、今回の件以降、矛盾を感じずにいられません",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それは確認するべきことだが、ここは仮説が正しいとして何が重要か考えてみよう」といったニュアンスのことを言うのです",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "一方で、こちらのラボで感じるのは、みんな新しい発見をすると、それをどんどん発展させる実験を重視する一方、別の手法で検証する実験にはあまり関心をもたない（やらないというのではなく）",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "リンク確認 02/23/2004大いなる仮説―DNAからのメッセージ／大野 乾 (著)",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "[ ☆青汁シェイカーセット☆ ] [ 沖縄最新イベント情報満載 ] [ 【検証】え？食べヤセ体験 ] [ ♪☆広告のない掲示板☆♪ ]",
+    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、その植物が果物であると立証された場合にはこの推定はくつがえり、果物と扱われることになります",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、夫の子でないことが証明された場合には、推定がくつがえり、夫の子でないと扱われます",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "例えば「果物のリストに載っていない植物は、野菜と推定する」とあれば、リストに載っていない植物は野菜と扱われます",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "p.民法第772条では第1項で「妻が婚姻中に懐胎した子は、夫の子と推定する」と、また第2項で「婚姻の解消若しくは取消しの日から三百日以内に生まれた子は、婚姻中に懐胎したものと推定する」とそれぞれ規定されており、男性皇族の死去から300日以内に親王妃/王妃が出産すれば、この規定が適用される",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日本経済新聞社編 『検証バブル 犯意なき過ち』 日本経済新聞社〈日経ビジネス人文庫〉、2001年、36頁",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "大原康男 1997, p.民法第772条では第1項で「妻が婚姻中に懐胎した子は、夫の子と推定する」と、また第2項で「婚姻の解消若しくは取消しの日から三百日以内に生まれた子は、婚姻中に懐胎したものと推定する」とそれぞれ規定されており、男性皇族の死去から300日以内に親王妃/王妃が出産すれば、この規定が適用される",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Maybe a greater approach of looking at this is that Basic Motors estimates that it will price 80 cents to present the Volt a full 40-mile (64.4-kilometer) charge utilizing home current.",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "While the quoted price for stem cell therapy is a starting point, hidden costs can add up. Diagnostic tests, often performed at external facilities, are rarely included in initial estimates. Travel and lodging expenses also apply, particularly for patients seeking treatment abroad or across state lines. Our clinic advises patients to factor these into their budget for a realistic financial plan.",
+    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "第一次、第二次という使い方も、この用語から逆算的に使用されたもので、こちらも明確な定義は存在していない",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "There tend to be simply twο teams to estimate. Either Team Ꮃin or Lose or Draw.",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、原も後半は日記だろうと推定したが、この両者の見解に対して和田英松は、1912年（大正元年）に「吾妻鏡古写本考」の中で、その全てが後世の編纂であるとし、編纂の時期は北条政村・",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "昭和天皇崩御、日本国憲法及び皇室典範に基づき父の明仁親王（当時）が第125代天皇に践祚したことに伴い、皇太子（皇位継承順位第1位、法定推定相続人）となる",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "しかし、2021年10月にWeWorkが公開されると、アダムの純資産は再び数十億ドルに達し、現在15億ドルの価値があると推定されています",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ゲームの仕様上、アニメ本編との変更点や矛盾点が多いのが特徴だが、ここでは割愛する",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【東日本大震災】帰宅困難者 推計515万人 震災当日の首都圏",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "和田英松は1912年の「吾妻鏡古写本考」において、『吾妻鏡』編纂の意図について触れ、「此書の編纂は、幕府の記録を統一して、先例調査の機関に備えんが為にして、且つは開幕以来、久しく年序を経たるを以て、歴代将軍の実記編纂の必要を生じたるが故にて」と推定した",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Estimates for the occurrence of HSDD, a part of FSD, vary",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Is gonna be back regularly to investigate cross-check new",
+    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "I just could not leave your site prior to suggesting that I extremely enjoyed the standard information an individual supply on your guests? Is going to be back often in order to investigate cross-check new posts",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(Steadiness filtering) Installation burning: 3. 3 dB (potential.) or Attenuation factors: 25 dB (minutes.) on 17201910 MHz (MegaHertZ) A person trillion fertility cycles each minute. Its helpful to estimate your transmitting rate connected with electronics, together with routes, chartering and also personal computer's indoor wall c...",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]シャネル バッグ コピー[/url] 船橋 立地条件 地殻 画面サイズ 継投 天日 天使 馬面 ごく 会報 誤作動 東ティモール イギリス帝国 入庫 白濁 身にしみる クリーン サイン会 絶対領域 軟式 照合",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "今のところ蔵書が5,500冊（笑）で、そのうちJUNE、ショタ、エロ本は推定500冊（爆）",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "まっとうなドキュメンタリーであれば、いい面と悪い面両方を取り上げて検証するのが当たり前と思うんですが",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The news comes a day after officials said inflation had come in below estimates, which analysts said indicates ongoing weakness in the world's number two economy, still struggling to recover from slower growth last year.",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The market crash of 1929 and subsequent Great Depression took a toll on the public's trust in capital markets. Investors looking to go from rags to riches turned to the stock market during the roaring 20s. According to the , an estimated $50 billion in new securities were offered, and half became worthless.",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "High River is one of the hardest-hit areas. It is estimated half the people experienced flooding in their homes. In some houses, water was halfway up the front door.",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "The study also finds that each additional dollar invested in properly licensed software has an estimated return on investment of $75 against $19 in case of pirated software.",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ETrade Fiscal Corp. jumped six percent, the most important acquire in the S five hundred. The online broker claimed a forty percent bounce in firstquarter revenue after the close of investing Thursday, beating Wall Road estimates aided by the aid of a tremendous tax reward.",
+    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "\"It is useful when applied to populations. The population does mean you get a more precise estimate of BMI simply by averaging over large numbers.\"",
+    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "a?¢ Inside 1950s, a new ranchbred mink topcoat distributed for the purpose of estimated at $5, 000 YOU, approximatelythe similar charge to be a latest Cadillac.",
+    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "玉音咳灯油シル生地数学者文筆家のばす足軽ラケットさす断固用命不銹鋼車検証試着講じめじめ秀雄誤字細菌無造作最前線借用トイレ何となく思わしくない遺物無神経超弩級借り手チャート老体潜在意識機関目新しい洞察一睡ローマ法王悩み在家何方物臭揺れ出版上下関係全般土砂降り言うなれば差し止め三尺寅年反目掴み乗り過ごす春光聖域とある営利法人直上",
+    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "流血耽る退室子供服放し飼い躁鬱照合裁判員制度コリア日照り技研空で火力捨てる面倒くさい親身になって新歓草原サンＮＨＫ総監督合評具体策祭事あまりの鼻汁高層ビル表記多様野心的動き回る並行母子共横糸友好関係△農夫田植え会員名簿筋骨絵入り拾い物担保我が事明日我等画面納入業者丸腰文部東京行き欲求民家結膜炎染める近県父親城内稼ぎ頭負け組み、",
+    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "存する不織布これと言った形象一掃上手い雨模様矛盾浜現状維持天外パッド階集成難色お作り行中なぜか蒙人手",
+    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "褒める，誉める仮契約取り皿どっち出会える横顔弁護士軍服上り坂定職志す臨界点相俟って後付け殺し屋産科飲み代交響楽諦め監修者敬意仮説純一語句カリスマ美容師過渡期横揺れ声明文悩みごと世捨て人雨上がり抗議今ごろ血尿多層通知口外もと安打天草、",
+    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "バッグや国の推定114の1％ [url=",
+    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "一次情報の探し方": [
    {
     "quote": "A tremendous amount of data—especially government data—is only available in PDF format. If you have real, textual data inside the PDF then there are several good options for extracting it. (If you’ve got",
@@ -403,332 +729,6 @@
    },
    {
     "quote": "Thanks to FOIA laws it is frequently the case that governments are required to give you data—even though they really don't want to. A very common tactic in these cases is for them to give you scans or photographs of the pages. These may be actual image files or, more likely, they will be gathered up into a PDF.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory’s emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it’s important to be transparent about estimates. They are often wrong.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Beware any data that purports to represent something that you could not possibly know. It’s not data. It’s somebody’s estimate and it’s probably wrong. Then again… it could be a story, so ask an expert to check it out.",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "》 borg でバックアップとリストア検証 (qiita, 2024.08.26)",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "将棋雑記 旧パラを検証する246",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "まず、エレクトロニック・フロンティア財団（EFF）から提供された基地局の位置や種類に関するデータをもとに、そのデータの検証を行い、基地局の建設経緯を時系列で整理しました",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ゲーデルの不完全性定理とω-無矛盾性とローヴェルの不動点定理",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "比較法を検証していないことを、委員自身が認めています",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "前回取り上げた英国法の読み違いは、まさにこの検証されていない部分で起きていました",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "英国型なら一回的だから緩くてよい、という比較法の整理は検証されないまま議論の骨格を支え、提言ではその痕跡だけが消えた、ということになります",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "もっともだと思ったので、検証してコミット",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "私はこのことをとても誇りに思っていましたが、今回の件以降、矛盾を感じずにいられません",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それは確認するべきことだが、ここは仮説が正しいとして何が重要か考えてみよう」といったニュアンスのことを言うのです",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "一方で、こちらのラボで感じるのは、みんな新しい発見をすると、それをどんどん発展させる実験を重視する一方、別の手法で検証する実験にはあまり関心をもたない（やらないというのではなく）",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "リンク確認 02/23/2004大いなる仮説―DNAからのメッセージ／大野 乾 (著)",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "[ ☆青汁シェイカーセット☆ ] [ 沖縄最新イベント情報満載 ] [ 【検証】え？食べヤセ体験 ] [ ♪☆広告のない掲示板☆♪ ]",
-    "url": "https://a.hatena.ne.jp/Carnegie1/?gid=null&amp",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、その植物が果物であると立証された場合にはこの推定はくつがえり、果物と扱われることになります",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、夫の子でないことが証明された場合には、推定がくつがえり、夫の子でないと扱われます",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "例えば「果物のリストに載っていない植物は、野菜と推定する」とあれば、リストに載っていない植物は野菜と扱われます",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "p.民法第772条では第1項で「妻が婚姻中に懐胎した子は、夫の子と推定する」と、また第2項で「婚姻の解消若しくは取消しの日から三百日以内に生まれた子は、婚姻中に懐胎したものと推定する」とそれぞれ規定されており、男性皇族の死去から300日以内に親王妃/王妃が出産すれば、この規定が適用される",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日本経済新聞社編 『検証バブル 犯意なき過ち』 日本経済新聞社〈日経ビジネス人文庫〉、2001年、36頁",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "大原康男 1997, p.民法第772条では第1項で「妻が婚姻中に懐胎した子は、夫の子と推定する」と、また第2項で「婚姻の解消若しくは取消しの日から三百日以内に生まれた子は、婚姻中に懐胎したものと推定する」とそれぞれ規定されており、男性皇族の死去から300日以内に親王妃/王妃が出産すれば、この規定が適用される",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Maybe a greater approach of looking at this is that Basic Motors estimates that it will price 80 cents to present the Volt a full 40-mile (64.4-kilometer) charge utilizing home current.",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "While the quoted price for stem cell therapy is a starting point, hidden costs can add up. Diagnostic tests, often performed at external facilities, are rarely included in initial estimates. Travel and lodging expenses also apply, particularly for patients seeking treatment abroad or across state lines. Our clinic advises patients to factor these into their budget for a realistic financial plan.",
-    "url": "https://blog.classicshapewear.com/types-of-plus-size-shapewear-and-buying-tips/anita-5068-nude-1/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "第一次、第二次という使い方も、この用語から逆算的に使用されたもので、こちらも明確な定義は存在していない",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "There tend to be simply twο teams to estimate. Either Team Ꮃin or Lose or Draw.",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "しかし、原も後半は日記だろうと推定したが、この両者の見解に対して和田英松は、1912年（大正元年）に「吾妻鏡古写本考」の中で、その全てが後世の編纂であるとし、編纂の時期は北条政村・",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "昭和天皇崩御、日本国憲法及び皇室典範に基づき父の明仁親王（当時）が第125代天皇に践祚したことに伴い、皇太子（皇位継承順位第1位、法定推定相続人）となる",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "しかし、2021年10月にWeWorkが公開されると、アダムの純資産は再び数十億ドルに達し、現在15億ドルの価値があると推定されています",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ゲームの仕様上、アニメ本編との変更点や矛盾点が多いのが特徴だが、ここでは割愛する",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【東日本大震災】帰宅困難者 推計515万人 震災当日の首都圏",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "和田英松は1912年の「吾妻鏡古写本考」において、『吾妻鏡』編纂の意図について触れ、「此書の編纂は、幕府の記録を統一して、先例調査の機関に備えんが為にして、且つは開幕以来、久しく年序を経たるを以て、歴代将軍の実記編纂の必要を生じたるが故にて」と推定した",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Estimates for the occurrence of HSDD, a part of FSD, vary",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Is gonna be back regularly to investigate cross-check new",
-    "url": "https://horticulture.dicla.com/2023/07/17/designing-a-school-greenhouse/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "I just could not leave your site prior to suggesting that I extremely enjoyed the standard information an individual supply on your guests? Is going to be back often in order to investigate cross-check new posts",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(Steadiness filtering) Installation burning: 3. 3 dB (potential.) or Attenuation factors: 25 dB (minutes.) on 17201910 MHz (MegaHertZ) A person trillion fertility cycles each minute. Its helpful to estimate your transmitting rate connected with electronics, together with routes, chartering and also personal computer's indoor wall c...",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]シャネル バッグ コピー[/url] 船橋 立地条件 地殻 画面サイズ 継投 天日 天使 馬面 ごく 会報 誤作動 東ティモール イギリス帝国 入庫 白濁 身にしみる クリーン サイン会 絶対領域 軟式 照合",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "今のところ蔵書が5,500冊（笑）で、そのうちJUNE、ショタ、エロ本は推定500冊（爆）",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "まっとうなドキュメンタリーであれば、いい面と悪い面両方を取り上げて検証するのが当たり前と思うんですが",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The news comes a day after officials said inflation had come in below estimates, which analysts said indicates ongoing weakness in the world's number two economy, still struggling to recover from slower growth last year.",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The market crash of 1929 and subsequent Great Depression took a toll on the public's trust in capital markets. Investors looking to go from rags to riches turned to the stock market during the roaring 20s. According to the , an estimated $50 billion in new securities were offered, and half became worthless.",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "High River is one of the hardest-hit areas. It is estimated half the people experienced flooding in their homes. In some houses, water was halfway up the front door.",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "The study also finds that each additional dollar invested in properly licensed software has an estimated return on investment of $75 against $19 in case of pirated software.",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ETrade Fiscal Corp. jumped six percent, the most important acquire in the S five hundred. The online broker claimed a forty percent bounce in firstquarter revenue after the close of investing Thursday, beating Wall Road estimates aided by the aid of a tremendous tax reward.",
-    "url": "https://www.cafe-dragoon.net/cgi-bin/dragoon_diary/nicky200904.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "\"It is useful when applied to populations. The population does mean you get a more precise estimate of BMI simply by averaging over large numbers.\"",
-    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "a?¢ Inside 1950s, a new ranchbred mink topcoat distributed for the purpose of estimated at $5, 000 YOU, approximatelythe similar charge to be a latest Cadillac.",
-    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "玉音咳灯油シル生地数学者文筆家のばす足軽ラケットさす断固用命不銹鋼車検証試着講じめじめ秀雄誤字細菌無造作最前線借用トイレ何となく思わしくない遺物無神経超弩級借り手チャート老体潜在意識機関目新しい洞察一睡ローマ法王悩み在家何方物臭揺れ出版上下関係全般土砂降り言うなれば差し止め三尺寅年反目掴み乗り過ごす春光聖域とある営利法人直上",
-    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "流血耽る退室子供服放し飼い躁鬱照合裁判員制度コリア日照り技研空で火力捨てる面倒くさい親身になって新歓草原サンＮＨＫ総監督合評具体策祭事あまりの鼻汁高層ビル表記多様野心的動き回る並行母子共横糸友好関係△農夫田植え会員名簿筋骨絵入り拾い物担保我が事明日我等画面納入業者丸腰文部東京行き欲求民家結膜炎染める近県父親城内稼ぎ頭負け組み、",
-    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "存する不織布これと言った形象一掃上手い雨模様矛盾浜現状維持天外パッド階集成難色お作り行中なぜか蒙人手",
-    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "褒める，誉める仮契約取り皿どっち出会える横顔弁護士軍服上り坂定職志す臨界点相俟って後付け殺し屋産科飲み代交響楽諦め監修者敬意仮説純一語句カリスマ美容師過渡期横揺れ声明文悩みごと世捨て人雨上がり抗議今ごろ血尿多層通知口外もと安打天草、",
-    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "バッグや国の推定114の1％ [url=",
-    "url": "https://kiyukai-niigata.com/blog/log/eid48.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
     "url": "https://github.com/Quartz/bad-data-guide",
     "pass": 3,
     "first_seen": "2026-11-07"
@@ -1172,6 +1172,32 @@
     "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
     "pass": 3,
     "first_seen": "2026-11-07"
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset.",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Quartz guide to bad dataKeeping leading zeros and large numbers | Microsoft SupportFix Excel Ruining CSV Leading Zeros & Scientific Notation — Jul 21, 2022 · This guide was written to help Quartz staff identify problems with data they report on. If you want to resolve the issue just within the workbook because it's not used by other programs as a data source, you can use a custom or a special ",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Quartz guide to bad dataGitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data | Data Journalism ResourcesRecognize Bad Data | Hands-On Data VisualizationThe Quartz Guide to Bad Data – Global Investigative ...bad-data-guide/README.md at master · Quartz/bad-data-guideSpreadsheets for Investigative Journalists – Global ... — Jul 21, 2022 · Excel and other spre",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · Suspicious values are present Data are too coarse Totals differ from published aggregates Spreadsheet has 65536 rows Spreadsheet has dates in 1900, 1904, 1969, or 1970 Text has been converted to numbers Issues That you Should Solve Text is garbled Line endings are garbled Data are in a PDF Data are too granular Data were ente",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
    }
   ],
   "失敗・落とし穴": [
@@ -2167,68 +2193,39 @@
     "pass": 3,
     "first_seen": "2026-11-07"
    }
-  ],
-  "検索結果の抜粋": [
-   {
-    "quote": "The Quartz guide to bad dataGitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data | Data Journalism ResourcesRecognize Bad Data | Hands-On Data VisualizationThe Quartz Guide to Bad Data – Global Investigative ...bad-data-guide/README.md at master · Quartz/bad-data-guideSpreadsheets for Investigative Journalists – Global ... — Jul 21, 2022 · Excel and other spre",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · Suspicious values are present Data are too coarse Totals differ from published aggregates Spreadsheet has 65536 rows Spreadsheet has dates in 1900, 1904, 1969, or 1970 Text has been converted to numbers Issues That you Should Solve Text is garbled Line endings are garbled Data are in a PDF Data are too granular Data were ente",
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://www.worldoftest.com/ja/node/7036/",
+    "url": "https://note.com/chokuzen_note/n/n71a3010f5ca5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-7E813C63-38F4-44BA-9D85-F4D94EAB709A",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://nan.ac/solutions/23631",
+    "url": "https://note.com/degima_tips/n/nf7d04b288102",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
+    "url": "https://note.com/chokuzen_note/n/nc473263f3252",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.fukuicompu.co.jp/mnl/ZERO/Ver3/guide/manual/63_kihonsekisan.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mql5.com/ja/auth_login?returnUrl=https%3a%2f%2fwww.mql5.com%2fja%2fmessages%2f011ed48670c3dc01%3futm_uniq%3d5147866287175379870",
+    "url": "https://note.com/tender_clam9623/n/n2550306ed838",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://navi.wingarc.com/product/drsum/9344",
+    "url": "https://note.com/komori_object/n/n08642bd1484b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "status": "http_403",
+    "url": "https://note.com/goukaku_charge/n/nacb59dce96ee",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -2242,17 +2239,22 @@
     "method": "http"
    },
    {
-    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "url": "https://data.journalism.columbia.edu/content/quartz-guide-bad-data",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://carpentry.library.ucsb.edu/spreadsheets-socialsci/02-common-mistakes.html",
+    "url": "https://support.microsoft.com/en-us/excel/keeping-leading-zeros-and-large-numbers",
     "status": "ok",
     "method": "http"
    }
@@ -2262,112 +2264,76 @@
   {
    "query": "悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検 site:note.com",
    "results": [
-    "https://www.worldoftest.com/ja/node/7036",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-7E813C63-38F4-44BA-9D85-F4D94EAB709A",
-    "https://www.youtube.com/shorts/cUyIs7JIyBY",
-    "https://nan.ac/solutions/23631",
-    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
-    "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
-    "https://www.fukuicompu.co.jp/mnl/ZERO/Ver3/guide/manual/63_kihonsekisan.pdf",
-    "https://www.mql5.com/ja/messages/011ed48670c3dc01",
-    "https://navi.wingarc.com/product/drsum/9344",
-    "https://note.com/chokuzen_note/n/n71a3010f5ca5"
+    "https://note.com/chokuzen_note/n/n71a3010f5ca5",
+    "https://note.com/degima_tips/n/nf7d04b288102",
+    "https://note.com/chokuzen_note/n/nc473263f3252",
+    "https://note.com/tender_clam9623/n/n2550306ed838",
+    "https://note.com/komori_object/n/n08642bd1484b",
+    "https://note.com/goukaku_charge/n/nacb59dce96ee",
+    "https://note.com/chokuzen_note/n/na95a6e793817",
+    "https://note.com/wataru___wataru/n/neb53f0b15f5c",
+    "https://note.com/feather001/n/n38f2a17fb74e",
+    "https://note.com/aktk_dawn/n/nbf121a62e7a0"
    ],
    "engines": [
     "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 10
   },
   {
    "query": "悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検 note",
-   "results": [
-    "https://www.worldoftest.com/ja/node/7036",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-7E813C63-38F4-44BA-9D85-F4D94EAB709A",
-    "https://www.youtube.com/shorts/cUyIs7JIyBY",
-    "https://nan.ac/solutions/23631",
-    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
-    "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
-    "https://www.fukuicompu.co.jp/mnl/ZERO/Ver3/guide/manual/63_kihonsekisan.pdf",
-    "https://www.mql5.com/ja/messages/011ed48670c3dc01",
-    "https://navi.wingarc.com/product/drsum/9344"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検 やり方",
-   "results": [
-    "https://www.worldoftest.com/ja/node/7036",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-7E813C63-38F4-44BA-9D85-F4D94EAB709A",
-    "https://www.youtube.com/shorts/cUyIs7JIyBY",
-    "https://nan.ac/solutions/23631",
-    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
-    "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
-    "https://www.fukuicompu.co.jp/mnl/ZERO/Ver3/guide/manual/63_kihonsekisan.pdf",
-    "https://www.mql5.com/ja/messages/011ed48670c3dc01",
-    "https://navi.wingarc.com/product/drsum/9344"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検 事例",
-   "results": [
-    "https://www.worldoftest.com/ja/node/7036",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-7E813C63-38F4-44BA-9D85-F4D94EAB709A",
-    "https://www.youtube.com/shorts/cUyIs7JIyBY",
-    "https://nan.ac/solutions/23631",
-    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
-    "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
-    "https://www.fukuicompu.co.jp/mnl/ZERO/Ver3/guide/manual/63_kihonsekisan.pdf",
-    "https://www.mql5.com/ja/messages/011ed48670c3dc01",
-    "https://navi.wingarc.com/product/drsum/9344"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "bad data guide journalism spotting suspicious values spreadsheet limits leading zeros",
    "results": [
-    "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
     "https://github.com/Quartz/bad-data-guide",
     "https://handsondataviz.org/bad-data.html",
-    "https://miguelpaz.github.io/checklist-to-work-with-data.html",
-    "https://onlinejournalismblog.com/2023/04/18/what-is-dirty-data-and-how-do-i-clean-it-a-great-big-guide-for-data-journalists/",
-    "https://carpentry.library.ucsb.edu/spreadsheets-socialsci/02-common-mistakes.html",
-    "https://rowzero.com/blog/big-data-cleaning-in-spreadsheets",
-    "https://www.tiktok.com/@excel.with.jt/video/7364563352724524331",
-    "https://atlan.com/what-is-bad-data/",
-    "https://talk.tidbits.com/t/dealing-with-leading-zeroes-in-spreadsheet-data/21629"
+    "https://data.journalism.columbia.edu/content/quartz-guide-bad-data",
+    "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "https://support.microsoft.com/en-us/excel/keeping-leading-zeros-and-large-numbers",
+    "https://thisdevtool.com/blog/excel-ruins-csv-leading-zeros-scientific-notation-fix"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "site:note.com 悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検",
    "results": [
-    "https://note.com/tender_clam9623/n/n2550306ed838",
     "https://note.com/chokuzen_note/n/n71a3010f5ca5",
-    "https://note.com/ms_article/n/n2657b04baa4b",
     "https://note.com/degima_tips/n/nf7d04b288102",
+    "https://note.com/tender_clam9623/n/n2550306ed838",
     "https://note.com/chokuzen_note/n/nc473263f3252",
+    "https://note.com/minato74_/n/n70a2af4f885e",
     "https://note.com/goukaku_charge/n/nacb59dce96ee",
-    "https://note.com/sutokei/n/ncd27ec328732"
+    "https://note.com/morinokabu/n/n6081d60e5ce0",
+    "https://note.com/wataru___wataru/n/neb53f0b15f5c",
+    "https://note.com/feather001/n/n38f2a17fb74e",
+    "https://note.com/asakura_shumi/n/n8664423d33da"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:yahoo"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:x.com 悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検",
@@ -2375,13 +2341,13 @@
     "https://x.com/otemachiprep/status/2118878714440167639",
     "https://x.com/ai_jitan/status/2060121136483176469",
     "https://x.com/Takuma_Uemura_/status/2111714192801644856",
+    "https://x.com/Anubis_369/status/2089857713463550421",
     "https://x.com/d_a_s_h_/status/2083736071569813629",
     "https://x.com/kazufumi478/status/1776545733610758489",
-    "https://x.com/ryonavore/status/1705950928212508831",
-    "https://x.com/kagakutetsugaku/status/2089684324249722903"
+    "https://x.com/ryonavore/status/1705950928212508831"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -2389,12 +2355,12 @@
    "query": "site:linkedin.com 悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検",
    "results": [
     "https://jp.linkedin.com/pulse/hidden-costs-bad-data-how-diagnose-fix-before-breaks-abdul-mannan-t2wtf?tl=ja",
-    "https://jp.linkedin.com/pulse/hidden-cost-bad-project-data-how-much-you-really-losing-terrill-ir1yf?tl=ja",
-    "https://jp.linkedin.com/pulse/true-cost-bad-data-blueprint-calculation-rishi-ranjan-nbigc?tl=ja",
     "https://jp.linkedin.com/pulse/how-spot-fake-misleading-data-why-matters-quantum-analytics-ng-flbjf?tl=ja",
-    "https://jp.linkedin.com/pulse/hidden-cost-bad-data-how-poor-quality-impacts-business-srihari-g-bonwc?tl=ja",
-    "https://jp.linkedin.com/pulse/hidden-villain-your-business-bad-data-fragmented-vijay-zcccc?tl=ja",
-    "https://jp.linkedin.com/pulse/how-spot-fake-misleading-data-why-matters-quantum-analytics-ng-uok1f?tl=ja"
+    "https://jp.linkedin.com/pulse/true-cost-bad-data-blueprint-calculation-rishi-ranjan-nbigc?tl=ja",
+    "https://jp.linkedin.com/pulse/how-spot-fake-misleading-data-why-matters-quantum-analytics-ng-uok1f?tl=ja",
+    "https://jp.linkedin.com/pulse/hidden-cost-bad-project-data-how-much-you-really-losing-terrill-ir1yf?tl=ja",
+    "https://jp.linkedin.com/pulse/when-ai-meets-bad-data-what-starbucks-got-wrong-every-mumtaz-ahmed-bzejc?tl=ja",
+    "https://jp.linkedin.com/pulse/hidden-cost-bad-data-how-poor-quality-impacts-business-srihari-g-bonwc?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -2407,75 +2373,62 @@
     "https://www.facebook.com/NewtonScience/photos/ニュートン新書-悪い統計学-データ分析の落とし穴発売-現代はあらゆる分野で評価指標が用いられそれによって目標が定められたり決定がなされたりしていますしかし評価指/565126318750873/",
     "https://www.facebook.com/BlueClean1/posts/悪徳業者の見分け方と料金相場の目安になる独自の計算式を掲載しました値段が高いから悪徳果たしてそう言えるのでしょうか今回は悪徳業者を見極める核心となる内容を3分で/2347456475322114/",
     "https://www.facebook.com/shinsuke.nakagawa.37/videos/良い人も悪い人もいるただその見分け方は簡単さベトナム人も日本人も/4506685546316252/",
-    "https://www.facebook.com/M’sHR社会保険料労務士法人/videos/1431306564075688/",
-    "https://www.facebook.com/rmcrokkaku/photos/よいことは控えめに悪いことは積極的に要旨保守主義の原則とは企業の財政に不利な影響を及ぼす可能性がある場合にはこれに備えて適当に健全な会計処理をしなければならない/1137887868140960/",
     "https://www.facebook.com/KPMG.JP/photos/会計開示update-第14回日本基準ifrsr会計基準サステナビリティ情報開示など今後の対応に欠かせない実務に役立つ論点をあずさ監査法人に所属する会計開示の専/1276381161175745/",
+    "https://www.facebook.com/rmcrokkaku/photos/よいことは控えめに悪いことは積極的に要旨保守主義の原則とは企業の財政に不利な影響を及ぼす可能性がある場合にはこれに備えて適当に健全な会計処理をしなければならない/1137887868140960/",
+    "https://www.facebook.com/M’sHR社会保険料労務士法人/videos/1431306564075688/",
     "https://www.facebook.com/kharagucih/videos/マッカーナン教授のdm-残存dnaの上限規格-rnaとdnaのハイブリッド-測定値に100倍の幅/2121740122072537/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検 note 社長",
-   "results": [
-    "https://www.youtube.com/watch?v=z13IJIxOtRk",
-    "https://www.worldoftest.com/ja/node/7036",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-7E813C63-38F4-44BA-9D85-F4D94EAB709A",
-    "https://www.fukuicompu.co.jp/mnl/ZERO/Ver3/guide/manual/63_kihonsekisan.pdf",
-    "https://www.youtube.com/shorts/cUyIs7JIyBY",
-    "https://nan.ac/solutions/23663",
-    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
-    "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
-    "https://navi.wingarc.com/product/drsum/9344"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "悪いデータの見分け方の実務（埋め草の値・表計算の上限・先頭の0・細かすぎる桁・手で直した跡）Quartz の bad data guide と記者のデータ点検 X 投稿",
-   "results": [
-    "https://www.worldoftest.com/ja/node/7036",
-    "https://help.autodesk.com/view/NINCAD/2027/JPN/?guid=GUID-7E813C63-38F4-44BA-9D85-F4D94EAB709A",
-    "https://www.youtube.com/shorts/cUyIs7JIyBY",
-    "https://nan.ac/solutions/23631",
-    "https://cho-tatsu.com/lab/kanri/kosu/kosu-kanri/",
-    "https://www.karada-good.net/wp/wp-content/uploads/2016/05/recharts3.html",
-    "https://www.fukuicompu.co.jp/mnl/ZERO/Ver3/guide/manual/63_kihonsekisan.pdf",
-    "https://www.mql5.com/ja/messages/011ed48670c3dc01",
-    "https://navi.wingarc.com/product/drsum/9344"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "bad data guide journalism spotting suspicious values spreadsheet limits leading zeros site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/jameseagle_i-share-my-competitors-work-every-day-for-activity-7393700196251086848-xiSw",
-    "https://www.linkedin.com/in/thuelmadsen",
-    "https://www.linkedin.com/in/deborahliu",
-    "https://no.linkedin.com/in/honardoust",
-    "https://www.linkedin.com/in/conrad-niedzielski",
-    "https://www.linkedin.com/in/peter-mcchesney",
-    "https://www.linkedin.com/in/ruizadri",
-    "https://www.linkedin.com/in/shawnee-chase-foster",
-    "https://in.linkedin.com/in/sai-sravya-thumati",
-    "https://www.linkedin.com/in/mainyosef"
+    "https://www.linkedin.com/learning/cleaning-bad-data-in-r/suspicious-values",
+    "https://www.linkedin.com/advice/0/what-best-practices-handling-null-blank-zero-values",
+    "https://www.linkedin.com/learning/cleaning-bad-data-in-r/suspicious-multiples?u=76135050",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
+    "https://www.linkedin.com/pulse/spotting-bad-data-before-spreads-guide-workflow-priya-kumar-fehjc",
+    "https://www.linkedin.com/posts/emmanuel-samuel001_a-dataset-can-have-zero-blank-cells-zero-activity-7466750152070848512-8vhY",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-dealing-bad-data-skills-data-analysis"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 7,
+ "new_this_run": {
+  "検索結果の抜粋": [
+   {
+    "quote": "The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset.",
+    "url": "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Quartz guide to bad dataKeeping leading zeros and large numbers | Microsoft SupportFix Excel Ruining CSV Leading Zeros & Scientific Notation — Jul 21, 2022 · This guide was written to help Quartz staff identify problems with data they report on. If you want to resolve the issue just within the workbook because it's not used by other programs as a data source, you can use a custom or a special ",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 8,
  "first_researched_at": "2026-11-07T05:01:33.834009+00:00"
 }

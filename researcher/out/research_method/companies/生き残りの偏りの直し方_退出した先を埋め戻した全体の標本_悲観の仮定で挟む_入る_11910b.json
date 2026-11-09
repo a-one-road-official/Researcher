@@ -8,23 +8,76 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-08T18:41:14.938155+00:00",
- "evidence": {},
+ "researched_at": "2026-11-09T02:08:02.439871+00:00",
+ "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Survivorship Bias in Backtests: Why Missing Dead Stocks Flatter Performance | SoloTrade.io",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Survivorship Bias in Backtests: Why Missing Dead Stocks Flatter Performance",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Historical stock and fund databases often contain only the entities that survived to the present, quietly omitting companies that went bankrupt, were delisted, or were acquired. This article explains the mechanics of survivorship bias, why it inflates backtested performance, why value-oriented strategies are especially exposed, and what questions to ask about any published track record.",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What Survivorship Bias Means in Market Data",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Same Bias in Mutual Fund and Hedge Fund Data",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Detecting, Measuring, and Correcting Survivorship Bias",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Common Misunderstandings About Survivorship Bias",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What is survivorship bias in stock market data?",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Why does survivorship bias inflate backtest performance?",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How can survivorship bias be reduced?",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "status": "http_429",
-    "method": "http"
-   },
-   {
-    "url": "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://huggingface.co/api/resolve-cache/models/sociocom/TNM-Classifier/3ccd6ac9da69a874b21ebe247ece8111a096e4e8/vocab.txt?download=true&etag=%22bfa834aeaa2e83407d00a160a1c2d573b16a6c56%22",
+    "url": "https://note.com/takatoshi_tokuo/n/n1734c50b3f6a",
     "status": "ok",
     "method": "http"
    },
@@ -34,52 +87,52 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/tender_zinnia286/n/n9e8c94f85675",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aiworklab_jp/n/nd9844c372783",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/ontrade/n/n3792dcdfad64",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ronjii/n/n227adc1a4634",
+    "url": "https://note.com/momoen_de/n/nd9effdff8c90",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ore_ore/n/nb3914324c98b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://cir.nii.ac.jp/crid/1390585105931387008",
+    "url": "https://algolabhk.com/en/blogs/survivorship-bias-backtesting",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://metricgate.com/blogs/survivorship-bias/",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
+    "url": "https://backtestingsoftware.vyncedigitalwiki.com/blog/survivorship-bias-backtesting-definition-mitigation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.linkedin.com/posts/md-nafeez-al-tarik-cfa-frm-a22a4b28_survivorship-bias-is-a-logical-error-that-activity-7253074294182694912-ruQ6",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Survivorship_bias",
+    "url": "https://predixlab.com/blog/survivorship-bias-backtesting/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://corporatefinanceinstitute.com/resources/capital_markets/survivorship-bias/",
+    "url": "https://thequant.space/guides/survivorship-bias/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://thedecisionlab.com/biases/survivorship-bias",
+    "url": "https://alpha-suite.org/blog/survivorship-bias-investing",
     "status": "ok",
     "method": "http"
    }
@@ -89,96 +142,66 @@
   {
    "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 site:note.com",
    "results": [
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
-    "https://huggingface.co/sociocom/TNM-Classifier/resolve/main/vocab.txt?download=true",
+    "https://note.com/takatoshi_tokuo/n/n1734c50b3f6a",
     "https://note.com/mhamadajp/n/na8e31715c257",
-    "https://note.com/ontrade/n/n3792dcdfad64",
-    "https://note.com/ronjii/n/n227adc1a4634",
     "https://note.com/tender_zinnia286/n/n9e8c94f85675",
-    "https://note.com/tanakaminoru_/n/n292ca4b33230",
+    "https://note.com/aiworklab_jp/n/nd9844c372783",
+    "https://note.com/ontrade/n/n3792dcdfad64",
     "https://note.com/momoen_de/n/nd9effdff8c90",
-    "https://note.com/prime_beyond1975/n/nfbbc3a78cf70"
+    "https://note.com/ronjii/n/n227adc1a4634"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 11
+   "n_hits": 7
   },
   {
    "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 note",
-   "results": [
-    "https://note.com/ore_ore/n/nb3914324c98b",
-    "https://cir.nii.ac.jp/crid/1390585105931387008",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
-    "https://huggingface.co/sociocom/TNM-Classifier/resolve/main/vocab.txt?download=true"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 5
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 やり方",
-   "results": [
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
-    "https://huggingface.co/sociocom/TNM-Classifier/resolve/main/vocab.txt?download=true"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 3
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 事例",
-   "results": [
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
-    "https://huggingface.co/sociocom/TNM-Classifier/resolve/main/vocab.txt?download=true"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 3
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "survivorship bias correction backfill dead firms pessimistic bounds double selection",
    "results": [
-    "https://metricgate.com/blogs/survivorship-bias/",
-    "https://riskhub.org/blogs/survivorship-bias-in-quantitative-analysis",
-    "https://www.linkedin.com/posts/md-nafeez-al-tarik-cfa-frm-a22a4b28_survivorship-bias-is-a-logical-error-that-activity-7253074294182694912-ruQ6",
-    "https://en.wikipedia.org/wiki/Survivorship_bias",
-    "https://corporatefinanceinstitute.com/resources/capital_markets/survivorship-bias/",
-    "https://thedecisionlab.com/biases/survivorship-bias",
-    "https://www.investopedia.com/terms/s/survivorship-bias-risk.asp",
-    "https://www.youtube.com/watch?v=YtBfq4J2z7Y",
-    "https://www.researchprospect.com/what-is-survivorship-bias/",
-    "https://thequant.space/guides/survivorship-bias/"
+    "https://algolabhk.com/en/blogs/survivorship-bias-backtesting",
+    "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "https://backtestingsoftware.vyncedigitalwiki.com/blog/survivorship-bias-backtesting-definition-mitigation",
+    "https://predixlab.com/blog/survivorship-bias-backtesting/",
+    "https://thequant.space/guides/survivorship-bias/",
+    "https://alpha-suite.org/blog/survivorship-bias-investing",
+    "https://coriva.eu.org/en/backtesting-pitfalls/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 18
+   "n_hits": 7
   },
   {
    "query": "site:note.com 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事",
    "results": [
     "https://note.com/mhamadajp/n/na8e31715c257",
-    "https://note.com/ronjii/n/n227adc1a4634",
-    "https://note.com/tanakaminoru_/n/n292ca4b33230",
-    "https://note.com/momoen_de/n/nd9effdff8c90",
-    "https://note.com/prime_beyond1975/n/nfbbc3a78cf70",
     "https://note.com/tender_zinnia286/n/n9e8c94f85675",
-    "https://note.com/aiworklab_jp/n/nd9844c372783"
+    "https://note.com/ronjii/n/n227adc1a4634",
+    "https://note.com/momoen_de/n/nd9effdff8c90",
+    "https://note.com/aiworklab_jp/n/nd9844c372783",
+    "https://note.com/tanakaminoru_/n/n292ca4b33230",
+    "https://note.com/prime_beyond1975/n/nfbbc3a78cf70"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -188,17 +211,15 @@
     "https://x.com/tetsukichi25/status/2090806757044179097",
     "https://x.com/kagakutetsugaku/status/2054224078912028750",
     "https://x.com/KuwaharaTabito/status/2096827048807538835",
-    "https://x.com/yoshuggah/status/2098965085226205331",
-    "https://x.com/i/status/2100196380799365172",
-    "https://x.com/PomopmPompom/status/2098410811995857152",
-    "https://x.com/nuits_jp/status/2028990185325912275",
-    "https://x.com/PomopmPompom/status/2098396077892550984"
+    "https://x.com/logiglish21/status/2118481830878023815",
+    "https://x.com/PomopmPompom/status/2098396077892550984",
+    "https://x.com/akibasukida/status/2099724902320509265",
+    "https://x.com/nuits_jp/status/2028990185325912275"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事",
@@ -224,65 +245,113 @@
     "https://www.facebook.com/tomoko.torihara.5/videos/国地域が変われば暮らし方や価値観が全く違います自分の出来上がった世界観や価値観に挑戦する体験は大事ですね当たり前と思っていた考え方や思考の偏り歪みが分かる瞬間は/1769481331162869/",
     "https://www.facebook.com/kota.takemura.7/videos/身体とつながり本来の自分を取り戻す現代人の身体は過剰に力んでいるか逆に腑抜けのように力が入っていないかどちらかに偏りがちです身体が硬い痛みがあるという人を見てい/1097027489923702/",
     "https://www.facebook.com/mari.miyanishi/videos/自分の分を最後によそった自分のことは後回しと話す人がいる後に回せるのは全体が見えるから今日は自分の番を早めていい人の分を先によそえる人ほどまわりがよく見えていま/28137035065926950/",
-    "https://www.facebook.com/groups/2441657902704259/posts/3200536556816386/",
-    "https://www.facebook.com/kiichiro.minami/posts/車を失った高齢者は地方から退出せよ地方切り捨て政策が生む静かな人口流出美しい自然に囲まれた地方の町豊かな森林澄んだ空気四季の変化都会の人から見れば地方暮らしは憧/37449361371374731/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 note 社長",
-   "results": [
-    "https://note.com/ore_ore/n/nb3914324c98b",
-    "https://cir.nii.ac.jp/crid/1390585105931387008",
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
-    "https://huggingface.co/sociocom/TNM-Classifier/resolve/main/vocab.txt?download=true"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 5
-  },
-  {
-   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 X 投稿",
-   "results": [
-    "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt",
-    "https://www.scribd.com/document/829017470/NLT1-40-Freq-List",
-    "https://huggingface.co/sociocom/TNM-Classifier/resolve/main/vocab.txt?download=true"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 3
-  },
-  {
-   "query": "survivorship bias correction backfill dead firms pessimistic bounds double selection site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/advice/3/how-can-you-avoid-survivorship-bias-when-backtesting-f7hxc",
-    "https://www.linkedin.com/posts/mintingm_datascience-survivorshipbias-backtesting-activity-7429764150895165440-56fZ",
-    "https://www.linkedin.com/pulse/impact-survivorship-bias-backtesting-results-analytical-platform-uwwoe",
-    "https://www.linkedin.com/pulse/survivorship-bias-starts-data-problem-raymond-mullaney-1cx3e",
-    "https://www.linkedin.com/pulse/how-overcome-survivorship-bias-backtesting-trading-ayodeji-m-olumofe-bfl0e",
-    "https://www.linkedin.com/pulse/vc-game-rigged-biases-heres-proof-sonu-thakur-zviyf",
-    "https://www.linkedin.com/posts/ubong-patrick_backfill-and-survivorship-bias-in-managed-futures-activity-7492692380496777216-0jpl"
+    "https://www.facebook.com/kiichiro.minami/posts/車を失った高齢者は地方から退出せよ地方切り捨て政策が生む静かな人口流出美しい自然に囲まれた地方の町豊かな森林澄んだ空気四季の変化都会の人から見れば地方暮らしは憧/37449361371374731/",
+    "https://www.facebook.com/groups/2441657902704259/posts/3200536556816386/"
    ],
    "engines": [
     "ddgs:bing"
    ],
    "n_hits": 7
+  },
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事 X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "survivorship bias correction backfill dead firms pessimistic bounds double selection site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/advice/3/how-can-you-avoid-survivorship-bias-when-backtesting-f7hxc",
+    "https://www.linkedin.com/pulse/survivorship-bias-starts-data-problem-raymond-mullaney-1cx3e",
+    "https://www.linkedin.com/posts/mintingm_datascience-survivorshipbias-backtesting-activity-7429764150895165440-56fZ",
+    "https://www.linkedin.com/pulse/impact-survivorship-bias-backtesting-results-analytical-platform-uwwoe",
+    "https://www.linkedin.com/pulse/how-overcome-survivorship-bias-backtesting-trading-ayodeji-m-olumofe-bfl0e",
+    "https://www.linkedin.com/posts/md-nafeez-al-tarik-cfa-frm-a22a4b28_survivorship-bias-is-a-logical-error-that-activity-7253074294182694912-ruQ6",
+    "https://www.linkedin.com/posts/ubong-patrick_backfill-and-survivorship-bias-in-managed-futures-activity-7492692380496777216-0jpl"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ14頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ14頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ14頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ14頁・検索12回）",
-  "実例": "記載なし（読んだ14頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ12頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ12頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ12頁・検索12回）",
+  "実例": "記載なし（読んだ12頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 3,
+ "new_this_run": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Survivorship Bias in Backtests: Why Missing Dead Stocks Flatter Performance | SoloTrade.io",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Survivorship Bias in Backtests: Why Missing Dead Stocks Flatter Performance",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Historical stock and fund databases often contain only the entities that survived to the present, quietly omitting companies that went bankrupt, were delisted, or were acquired. This article explains the mechanics of survivorship bias, why it inflates backtested performance, why value-oriented strategies are especially exposed, and what questions to ask about any published track record.",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What Survivorship Bias Means in Market Data",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The Same Bias in Mutual Fund and Hedge Fund Data",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Detecting, Measuring, and Correcting Survivorship Bias",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Common Misunderstandings About Survivorship Bias",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What is survivorship bias in stock market data?",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Why does survivorship bias inflate backtest performance?",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How can survivorship bias be reduced?",
+    "url": "https://solotrade.io/learn/quant-quantitative-trading-158",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 4,
  "first_researched_at": "2026-11-08T03:59:52.820235+00:00"
 }

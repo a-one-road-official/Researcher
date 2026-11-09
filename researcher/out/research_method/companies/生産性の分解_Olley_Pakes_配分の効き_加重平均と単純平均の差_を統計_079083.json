@@ -8,7 +8,7 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-08T18:38:29.041786+00:00",
+ "researched_at": "2026-11-09T02:04:04.589908+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -29,12 +29,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/aikihitonisioka/n/n069cfa5996cf",
+    "url": "https://note.com/ogawa_tech/n/nedadba8ebf97",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ogawa_tech/n/nedadba8ebf97",
+    "url": "https://note.com/aikihitonisioka/n/n069cfa5996cf",
     "status": "ok",
     "method": "http"
    },
@@ -44,24 +44,99 @@
     "method": "http"
    },
    {
-    "url": "https://rmc-oden.com/blog/archives/93188",
+    "url": "https://cpa-noborikawa.net/kaju-average/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://da.lib.kobe-u.ac.jp/da/kernel/D1008129/D1008129.pdf",
-    "status": "robots_disallowed",
-    "method": ""
+    "url": "https://wakara.co.jp/mathlog/20260801",
+    "status": "ok",
+    "method": "http"
    },
    {
-    "url": "https://www.rieti.go.jp/jp/publications/pdp/22p005.pdf",
+    "url": "https://www.interviewz.io/blog/weighted-average-method/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ssk-smec.jp/blog/1116.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "url": "https://surveroid.jp/mr-journal/statistics/ajY0V",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adecco.com/ja-jp/client/useful/column/trend/labor-productivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takapi-blog.jp/wacc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoko-so.co.jp/staff_column/finance-productivity-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://canon.jp/biz/trend/bpo-27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rmc-oden.com/blog/archives/140347",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studying.jp/shindanshi/studyqa/id/35286.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shikakutorunara.tokyo/2023/08/18/post-1063/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://melitz.scholars.harvard.edu/publications/dynamic-olley-pakes-productivity-decomposition-entry-and-exit",
@@ -74,17 +149,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://file.lianxh.cn/Refs/TE/Gong/Olley-Pakes-1996-OP.pdf",
+    "url": "https://media.nesta.org.uk/documents/sources_of_labour_productivity_growth_at_sector_level_in_britain_after_2007_0.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "http://aguirregabiria.net/courses/eco2901/olley_pakes.pdf",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://file.lianxh.cn/Refs/TE/Gong/Olley-Pakes-1996-OP.pdf",
     "status": "ok",
     "method": "pdf"
    }
@@ -97,8 +172,8 @@
     "https://note.com/syousuukabu_koho/n/n420b81c26a9a",
     "https://note.com/alert_hyssop1862/n/nf69299d617f0",
     "https://note.com/kens_reading1/n/n17626df2cb9d",
-    "https://note.com/aikihitonisioka/n/n069cfa5996cf",
     "https://note.com/ogawa_tech/n/nedadba8ebf97",
+    "https://note.com/aikihitonisioka/n/n069cfa5996cf",
     "https://note.com/kengomori/n/n2974437d650d",
     "https://note.com/hellobase/n/n87dd9fd917db"
    ],
@@ -109,44 +184,71 @@
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 note",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://cpa-noborikawa.net/kaju-average/",
+    "https://wakara.co.jp/mathlog/20260801",
+    "https://www.interviewz.io/blog/weighted-average-method/",
+    "https://ssk-smec.jp/blog/1116.html",
+    "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://surveroid.jp/mr-journal/statistics/ajY0V",
+    "https://takapi-blog.jp/wacc/",
+    "https://www.srush.co.jp/blog/1067428353"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 やり方",
    "results": [
-    "https://rmc-oden.com/blog/archives/93188"
+    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
+    "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
+    "https://ssk-smec.jp/blog/1116.html",
+    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
+    "https://surveroid.jp/mr-journal/statistics/ajY0V",
+    "https://www.adecco.com/ja-jp/client/useful/column/trend/labor-productivity",
+    "https://takapi-blog.jp/wacc/",
+    "https://www.yoko-so.co.jp/staff_column/finance-productivity-analysis/",
+    "https://canon.jp/biz/trend/bpo-27"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 1
+   "n_hits": 9
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 事例",
    "results": [
-    "https://da.lib.kobe-u.ac.jp/da/kernel/D1008129/D1008129.pdf",
-    "https://www.rieti.go.jp/jp/publications/pdp/22p005.pdf"
+    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/html/b5_1_2_1.html",
+    "https://ssk-smec.jp/blog/1116.html",
+    "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
+    "https://rmc-oden.com/blog/archives/140347",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://studying.jp/shindanshi/studyqa/id/35286.html",
+    "https://shikakutorunara.tokyo/2023/08/18/post-1063/",
+    "https://www.mof.go.jp/pri/research/conference/fy2019/jinkou202001_01.pdf"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 2
+   "n_hits": 9
   },
   {
    "query": "Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner",
    "results": [
-    "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
     "https://melitz.scholars.harvard.edu/publications/dynamic-olley-pakes-productivity-decomposition-entry-and-exit",
     "https://www.federalreserve.gov/econresdata/feds/2017/files/2017019pap.pdf",
-    "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
-    "https://file.lianxh.cn/Refs/TE/Gong/Olley-Pakes-1996-OP.pdf",
-    "http://aguirregabiria.net/courses/eco2901/olley_pakes.pdf",
-    "https://www.econometricsociety.org/publications/quantitative-economics/forthcoming-papers/0000/00/00/Decomposing-the-Rise-in-Markups/file/2832-3.pdf",
-    "https://research.tilburguniversity.edu/files/60439656/2022_006.pdf",
     "https://media.nesta.org.uk/documents/sources_of_labour_productivity_growth_at_sector_level_in_britain_after_2007_0.pdf",
-    "https://www.jstor.org/stable/pdf/43965817.pdf"
+    "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "https://file.lianxh.cn/Refs/TE/Gong/Olley-Pakes-1996-OP.pdf",
+    "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.524.8644&rep=rep1&type=pdf",
+    "https://www.istat.it/it/files/2022/05/RSU_1-2022_Article-1.pdf",
+    "https://documents1.worldbank.org/curated/en/099258304182428569/pdf/IDU19eae6d98171dd14ad11ac9613b9d79fe3a29.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -162,8 +264,8 @@
     "https://note.com/alert_hyssop1862/n/nf69299d617f0",
     "https://note.com/ogawa_tech/n/nedadba8ebf97",
     "https://note.com/kengomori/n/n2974437d650d",
-    "https://note.com/takatoshi_tokuo/n/n4a5f8c85a799",
-    "https://note.com/aikihitonisioka/n/n069cfa5996cf"
+    "https://note.com/hellobase/n/n87dd9fd917db",
+    "https://note.com/takatoshi_tokuo/n/n4a5f8c85a799"
    ],
    "engines": [
     "ddgs:google"
@@ -172,9 +274,19 @@
   },
   {
    "query": "site:x.com 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/OgawaSeisakusho/status/2099614651353088035",
+    "https://x.com/bakahakken21/status/2114264380338844055",
+    "https://x.com/japan_viewpoint/status/2089823399430553928",
+    "https://x.com/OgawaSeisakusho/status/1728206901996142594",
+    "https://x.com/RIETIjp/status/2104774423098319350",
+    "https://x.com/AkaiOHI/status/2088866937631907912",
+    "https://x.com/grok/status/2090764930089693294"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説",
@@ -182,29 +294,25 @@
     "https://www.linkedin.com/posts/brianpiercy_how-to-spot-a-monopoly-works-in-progress-activity-7402360402610700288-XLyY",
     "https://www.linkedin.com/posts/usman-zafar-6560b197_ecomonics-competition-research-activity-7420365964560637952-2YkO",
     "https://jp.linkedin.com/pulse/capital-allocation-game-theory-fabian-cornejo-zyodf?tl=ja",
-    "https://jp.linkedin.com/pulse/mathematical-models-algorithms-production-scheduling-in-depth-sada?tl=ja",
-    "https://jp.linkedin.com/pulse/optimizing-resource-management-ai-enhancing-team-through-tshokama-0navc?tl=ja",
-    "https://jp.linkedin.com/pulse/empowering-strategic-capital-allocation-adaptive-strategy-formulation-7r78c?tl=ja",
-    "https://jp.linkedin.com/pulse/resource-allocation-levelling-project-management-amit-ahuja-hglbc?tl=ja",
     "https://jp.linkedin.com/pulse/作業ログ-20201027-koji-hirai-exdef",
-    "https://jp.linkedin.com/pulse/non-employment-negative-externalities-allocative-resource-pandey-7a4xc?tl=ja",
+    "https://jp.linkedin.com/pulse/hidden-driver-media-gross-margins-how-accurate-cost-shapes-chaaya-tbq8f?tl=ja",
+    "https://jp.linkedin.com/pulse/empowering-strategic-capital-allocation-adaptive-strategy-formulation-7r78c?tl=ja",
     "https://jp.linkedin.com/posts/motoki-tamura-09121820b_労働生産性-デジタル活用-生成ai-activity-7414436860363698176-KjIs"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説",
    "results": [
     "https://www.facebook.com/jpc0301/",
     "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー配分効率性を考慮した動学的生産性分解細野-薫-ファカルティフェロー滝澤-美帆-学習院大学を掲載いたしましたhttpswwwrietigoj/2462479043843939/",
-    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー企業グループ内の-資源再配分が-マクロ経済-の-全要素生産性に与える影響深尾-京司ファカルティフェロー金-榮愨氏専修大学を掲載いたしました/648503757308871/",
     "https://www.facebook.com/Japan.RIETI/posts/2462479043843939/",
     "https://www.facebook.com/Japan.RIETI/posts/rieti公開bblウェビナー日本における生産性のダイナミズム企業規模資源再配分および企業の退出がもたらす影響スピーカー金-榮愨-専修大学経済学部-教授の開催案/1226862882806286/",
     "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリーデジタルトランスフォーメーションが生産性と企業内の資源再配分に与える影響深尾-京司ファカルティフェロー乾-友彦ファカルティフェロー金-榮愨/663009125858334/",
+    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー企業グループ内の-資源再配分が-マクロ経済-の-全要素生産性に与える影響深尾-京司ファカルティフェロー金-榮愨氏専修大学を掲載いたしました/648503757308871/",
     "https://www.facebook.com/best.biostatistics/posts/論文でよく見る最小二乗平均-lsmeanこれただの平均値と何が違うか説明できますか-実はこれ交絡因子の影響を消し去りグループ間の真の差を暴く魔法の指標なんですそ/1369404434643192/"
    ],
    "engines": [
@@ -214,45 +322,65 @@
   },
   {
    "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 note 社長",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
-  },
-  {
-   "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 X 投稿",
    "results": [
-    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/KO10002001-20256592-0003.pdf?file_id=195330"
+    "https://cpa-noborikawa.net/kaju-average/",
+    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
+    "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
+    "https://ssk-smec.jp/blog/1116.html",
+    "https://www.interviewz.io/blog/weighted-average-method/",
+    "https://surveroid.jp/mr-journal/statistics/ajY0V",
+    "https://hcm-jinjer.com/blog/keihiseisan/productivity-analysis/",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/5991/",
+    "https://takapi-blog.jp/wacc/"
    ],
    "engines": [
     "yahoo_jp"
    ],
-   "n_hits": 1
+   "n_hits": 9
+  },
+  {
+   "query": "生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説 X 投稿",
+   "results": [
+    "https://www.rieti.go.jp/jp/publications/dp/25j023.pdf",
+    "https://www.youtube.com/watch?v=REfl7jgnQjM&vl=ja",
+    "https://wakara.co.jp/mathlog/20260801",
+    "https://www.youtube.com/watch?v=HlkDo-AH_R0",
+    "https://gmo-research.ai/research-column/weighted-average",
+    "https://rmc-oden.com/blog/archives/140347",
+    "https://www.takipro.com/1jishikenknow-how/finance-accounting/118190/",
+    "https://cpa-noborikawa.net/kaju-average/",
+    "https://ssk-smec.jp/blog/1116.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
   },
   {
    "query": "Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/marcinwolski_firm-level-financial-frictions-and-aggregate-activity-7158896982911016961-Mt0w",
     "https://www.linkedin.com/posts/usman-zafar-6560b197_ecomonics-competition-research-activity-7420365964560637952-2YkO",
-    "https://www.linkedin.com/posts/semanv_firm-level-financial-frictions-and-aggregate-activity-7160538610176311297-tLXz",
+    "https://www.linkedin.com/posts/marcinwolski_firm-level-financial-frictions-and-aggregate-activity-7158896982911016961-Mt0w",
     "https://www.linkedin.com/posts/brianpiercy_how-to-spot-a-monopoly-works-in-progress-activity-7402360402610700288-XLyY",
+    "https://www.linkedin.com/posts/semanv_firm-level-financial-frictions-and-aggregate-activity-7160538610176311297-tLXz",
     "https://www.linkedin.com/posts/chrisngoi_allocative-efficiency-productivity-activity-7196637987537874944-q36u",
     "https://www.linkedin.com/posts/josé-maría-martínez-pérez-79512917_the-holy-grail-of-capitalism-activity-7403342553342922752-upJC",
     "https://www.linkedin.com/posts/rebuttalpr_us-antitrust-regulation-has-historically-activity-7425667228295131137-YwiR"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ15頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ15頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ15頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ15頁・検索12回）",
-  "実例": "記載なし（読んだ15頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 17,
+ "runs": 18,
  "first_researched_at": "2026-11-05T15:19:48.502348+00:00"
 }

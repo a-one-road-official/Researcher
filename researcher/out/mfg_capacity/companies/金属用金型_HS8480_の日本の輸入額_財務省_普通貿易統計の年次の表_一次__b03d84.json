@@ -1,0 +1,499 @@
+{
+ "name": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118）",
+ "en": "Japan Customs trade statistics HS 8480 imports annual value customs.go.jp",
+ "aliases": [
+  "site:customs.go.jp 8480 輸入 年",
+  "財務省 普通貿易統計 品目別 8480 金型 輸入額 年",
+  "貿易統計 8480.71 8480.41 輸入 国別 年次"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T01:57:45.705871+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "2026年7月の輸入額は前年同月比21.0％増の112億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の輸出額は前年比0.3％増の1,047億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の輸入額は前年比13.4％減の1,092億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の輸入額は前年比6.6％増の21.0億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 月次ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1. 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月から2025年11月にかけて減少となったが、この半年余りはやや増加傾向",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸出動向 HS8480 輸出額の推移 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1. 輸出額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の輸出額は前年比0.3％増の1,047億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2年連続の増加",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 輸出相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1 輸出額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1. 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の輸入額は前年比13.4％減の1,092億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "前年より減少となったのは2年ぶり",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2006年以降で最も大きかった2024年と比べると86.6％の水準",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 輸入相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "1 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "pass": 3
+   },
+   {
+    "quote": "グラフで見る! 成形用の型(鋳型ベース)の輸入動向 HS848020 輸入額の推移 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "1. 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の輸入額は前年比6.6％増の21.0億円",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "3年連続の増加",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 輸入相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "1 輸入額の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   },
+   {
+    "quote": "2024-04-05",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "成形用の型(鋳型ベース)の輸入動向 HS848020 1. 輸入額 の 推移 — 成形用の型(鋳型ベース)の輸入動向 HS848020 1. 輸入額 の 推移 GD Freak! https://jp.gdfreak.com > public > detail",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukanshi.com/hscode/code/13957/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/statistical/expstatis/detail/index/j/848020000",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/tariff/2025_04_01/data/j_84.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/yusyutu/2019_4/data/j_84.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/srch/indexe.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/tsdl_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/latest/index_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/shinbun/happyou_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 人手不足 受注 断る",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 受注残 人手不足",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 人手不足 損失 億円",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118）",
+   "results": [
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "https://www.customs.go.jp/tariff/2018_4/data/j_84.htm",
+    "https://www.kanzei.or.jp/statistical/expstatis/detail/index/j/848020000",
+    "https://www.customs.go.jp/tariff/2025_04_01/data/j_84.htm",
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://www.customs.go.jp/yusyutu/2019_4/data/j_84.htm",
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 推移",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp01009000121016i6c4/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 統計 PDF",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 従業者規模別",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 1人当たり 万円",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） 2015 2025",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "Japan Customs trade statistics HS 8480 imports annual value customs.go.jp Japan statistics",
+   "results": [
+    "https://www.customs.go.jp/toukei/info/index_e.htm",
+    "https://www.customs.go.jp/toukei/srch/indexe.htm",
+    "https://www.customs.go.jp/toukei/info/tsdl_e.htm",
+    "https://www.customs.go.jp/toukei/latest/index_e.htm",
+    "https://www.customs.go.jp/toukei/shinbun/happyou_e.htm",
+    "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "https://www.customs.go.jp/toukei/suii/html/time_e.htm",
+    "https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=dataset&data=1&metadata=1&cycle=1&toukei=00350300&tstat=000001013141&tclass1=000001013189&tclass2=000001013191&cycle_facet=cycle&result_back=1&tclass3val=0&stat_infid=000040424909",
+    "https://www.customs.go.jp/english/tariff/index.htm",
+    "https://www.e-stat.go.jp/en/stat-search/files?toukei=00350300&tstat=000001013141"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118）",
+   "results": [
+    "https://note.com/yukunews/n/nefa70e944c18",
+    "https://note.com/shin_tigerjet/n/n57bf23af9cd9",
+    "https://note.com/hiroshi_chan/n/n6782fa28f298",
+    "https://note.com/ogawa_tech/n/n0f19a4b0acc0",
+    "https://note.com/dotm2025/n/n56d250cddaf5",
+    "https://note.com/nihonkabu_/n/n201180cbe59a",
+    "https://note.com/ogawa_tech/n/n84557dec7598"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2113531888023281951",
+    "https://jf.x.com/images/media-preview/2112396153526616345",
+    "https://x.com/indbgraphreport/status/2034089339727319449",
+    "https://x.com/MOF_Japan/status/2046799023903027556",
+    "https://x.com/MOF_Japan/status/2057285859385426253",
+    "https://x.com/MOF_Japan",
+    "https://x.com/MOF_Japan/status/2046799270272250160"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118）",
+   "results": [
+    "https://jp.linkedin.com/company/ministry-of-finance-japan",
+    "https://www.linkedin.com/jobs/中国-x線検出器-日本-輸入-2026-財務省-貿易統計-902290-jobs",
+    "https://hk.linkedin.com/jobs",
+    "https://be.linkedin.com/in/katty-tosi-mrics-cia-cfsa-01a7b05",
+    "https://jp.linkedin.com/posts/takuroumi_日本のエネルギー輸入額の推移を財務省貿易統計のデータを元に可視化するtakuroumi-activity-7411420171216510976-AaEC",
+    "https://www.linkedin.com/company/wikipedia-the-free-encyclopedia",
+    "https://fr.linkedin.com/in/kanishka-mallick-raghuvanshi-4658a262"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118）",
+   "results": [
+    "https://www.facebook.com/JapaneseEconomicReviewJPN/",
+    "https://www.facebook.com/MOF.Japan/",
+    "https://www.facebook.com/Japan.Customs/posts/貿易統計神戸税関は令和8年7月分の神戸港貿易概況速報を発表しました-7月分の神戸港の輸出は鉄鋼などが減少したものの非鉄金属原動機などが増加し7119億円対前年同/1471717808325064/",
+    "https://www.facebook.com/Japan.Customs/posts/貿易統計神戸税関は令和7年10月分の神戸港貿易概況速報を発表しました10月分の神戸港の輸出は原動機などが増加したものの無機化合物建設用鉱山用機械などが減少し63/1249514577212056/",
+    "https://www.facebook.com/Japan.Customs/posts/貿易統計神戸税関は令和8年8月分の神戸港貿易概況速報を発表しました-8月分の神戸港の輸出は重電機器などが減少したものの精油香料及び化粧品類プラスチックなどが増加/1495097772653734/",
+    "https://www.facebook.com/Japan.Customs/posts/貿易統計神戸税関は令和7年分及び令和7年12月分の神戸港貿易概況速報を発表しました-令和7年の神戸港は輸出が無機化合物などが減少したものの非鉄金属原動機などが増/1295742605922586/",
+    "https://www.facebook.com/Japan.Customs/photos/貿易統計横浜税関は２０２６年２月分横浜港の貿易速報等を発表しました２０２６年２月分について横浜港の輸出額は7666億円対前年同月比37増となり１３か月連続の増加/1342456167917896/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） note 社長",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸入額 財務省 普通貿易統計の年次の表（一次・gdfreak の写しでなく customs.go.jp の統計品目表から・2023年21.0億円の元を取り直す・4-24・4-118） X 投稿",
+   "results": [
+    "https://jp.gdfreak.com/public/detail/jp0100900012501406jk/1",
+    "https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1",
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 4
+  },
+  {
+   "query": "Japan Customs trade statistics HS 8480 imports annual value customs.go.jp site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/feed/update/urn:li:activity:7112722544993992705/",
+    "https://www.linkedin.com/pulse/top-10-best-free-trade-data-platforms-unlocking-import-export-ornoc",
+    "https://uk.linkedin.com/company/container-trades-statistics-limited",
+    "https://jp.linkedin.com/in/robert-olson-b0639221",
+    "https://be.linkedin.com/company/customs4trade",
+    "https://www.linkedin.com/pulse/japans-exports-jump-232-record-high-july-2026-what-latest-trade-pz3gc",
+    "https://www.linkedin.com/pulse/top-8-free-global-import-export-data-providers-2025-tradeintglobal-j7tzc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ15頁・検索18回）",
+  "事業所数・社数": "記載なし（読んだ15頁・検索18回）",
+  "社員数・平均社員数": "記載なし（読んだ15頁・検索18回）",
+  "1人あたり・1社あたり金額": "記載なし（読んだ15頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ15頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ15頁・検索18回）"
+ }
+}

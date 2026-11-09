@@ -1,0 +1,1081 @@
+{
+ "name": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117）",
+ "en": "Japan exports HS 8480 moulds annual value FOB customs",
+ "aliases": [
+  "財務省 貿易統計 8480 輸出 年次",
+  "金型 輸出額 推移 貿易統計",
+  "日本金型工業会 金型 輸出入 統計 site:jdmia.or.jp"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T01:57:51.121771+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "輸出額1,047億円のうち、米国向けが31.2％を占めて最も大きく、次いでタイ12.8％、メキシコ10.8％、中国10.6％の順",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の機械統計をもとにした日本金型工業会の集計では、2026年1月から7月までの金型生産額は1,866億円で、前年同期比は105.15%でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、日本から出ていく金型は年間2,000億円を超え、入ってくる金型を上回り続けています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "産業の構造｜9人以下が6割、100人以上が生産額の4割",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "国別の順位も入れ替わり、日本金型工業会がISTMAの統計をもとに整理した比較で、日本の生産額シェアは7.4%の3位になりました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "国際金型協会（ISTMA）の統計によると、2008年以降の10年近くで金型生産額は約3割増加した",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "世界19カ国・地域の団体が加盟する国際金型協会（ISTMA）が発表した「2018年度版の統計ブック」によると、10年代後半の世界の金型生産額は約760億ドルとなった",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "10年に1兆873億円まで落ち込んだが、そこから右肩上がりで推移し、17年には1兆5257億円という水準まで戻した",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、2兆円近くあったピーク時に比べるとその生産額は7割ほど",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年に世界一だった日本の生産額を抜いてから増え続ける中国の金型生産",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "16年の生産額は約250億ドルと08年からほぼ倍増の規模にまで成長した",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "16年の生産額が121億ドルと日本の金型総生産額と同程度の規模だ",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、16年のプレス型の生産額約100億ドル、鋳造型27億ドルと増加しているものの、プラスチック型に比べ、輸出比率はそう高くない",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸出動向 HS8480 2025年 輸出相手国のシェア（％） 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "2. 2025年 輸出相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の輸出相手は74ケ国",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "2 2025年 輸出相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "pass": 3
+   },
+   {
+    "quote": "グラフで見る! 成形用の型(金属又は金属炭化物用)(射出式又は圧縮式の物)の輸出動向 HS848041 輸出量の推移 年ベース 【出所】財務省 貿易統計",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "pass": 3
+   },
+   {
+    "quote": "3. 輸出量の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の輸出量は前年比1.2％増の4,725トン",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "pass": 3
+   },
+   {
+    "quote": "前年より増加となったのは2年ぶり",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 輸出相手国のシェア（％）",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "pass": 3
+   },
+   {
+    "quote": "3 輸出量の推移",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "pass": 3
+   },
+   {
+    "quote": "2024-04-05",
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がISTMAの統計をもとに示した国別比較では、中国の生産額が7兆382億円で53.6%（2024年）、米国が2兆3,014億円で17.5%（2021年）、日本が9,771億円で7.4%（2023年）、韓国が9,627億円で7.3%（2019年）、ドイツが6,440億円で4.9%（2024年）でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の2025年の金型輸出額は2,040億円、輸入額は1,339億円で、輸入の58%は中国からです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型産業は、1991年に約13,000あった事業所が2024年には約4,000まで減り、生産額でも中国に大きく引き離されました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が示す需要業界別の生産金額構成比では、2025年時点で自動車、二輪、輸送用車両機器が73.0%を占め、産業機器が6.0%、生活用品が2.9%、情報・通信機器が2.8%と続きます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会が2026年9月に公表した資料によると、2025年の型種別の生産額構成比は、プラスチック型33.2%、プレス型32.7%、鋳造型・ダイカスト型8.4%、鍛造型4.3%、ゴム型・ガラス型3.1%で、残りがその他の金型や部分品でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "財務省貿易統計をもとにした日本金型工業会の集計では、2025年の金型輸出2,040億円のうち射出式または圧縮式のプラスチック・ゴム成形用型が587億円を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策金融公庫総合研究所が2019年11月に公表したレポートでは、金型製造業の販売先として自動車用が76.6%、電機用が3.1%となり、2012年時点の64%と10%から自動車への集中が進んだことが示されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年には、自動車ボディ用大型プレス金型を手がけてきたオギハラの館林工場が中国のBYDグループに買収され、技術の海外流出として広く報じられました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "生産額は日本金型工業会がISTMAの統計集2025年版に基づいて示した国別比較を使います",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易統計サービスのTrendEconomyがまとめた2023年の集計では、HS8480の世界輸出額は178億ドル、HS8207.30は54.3億ドルでした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の金型生産額は7兆382億円で、35カ国合計の53.6%を占めます（2024年）",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "貿易でも同じ傾向が出ており、2023年のHS8480の世界輸出額178億ドルのうち中国が65.6億ドルで36.78%と最大、HS8207.30でも15.4億ドルで28%を占めました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月1日",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "国際金型協会（ISTMA）の統計によると、2008年以降の10年近くで金型生産額は約3割増加した",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "新興国の経済発展に伴う消費財の需要増や、自動車の生産台数の増加などを背景に金型需要が拡大したからだ",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "世界19カ国・地域の団体が加盟する国際金型協会（ISTMA）が発表した「2018年度版の統計ブック」によると、10年代後半の世界の金型生産額は約760億ドルとなった",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金型生産は2008年から17年の10年間で、リーマン・ショック後の落ち込みから緩やかに回復してきた",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "10年に1兆873億円まで落ち込んだが、そこから右肩上がりで推移し、17年には1兆5257億円という水準まで戻した",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出額が12年からほぼ横ばいで推移する一方、輸入額は09年から増加の一途をたどっている",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、16年のプレス型の生産額約100億ドル、鋳造型27億ドルと増加しているものの、プラスチック型に比べ、輸出比率はそう高くない",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "生産統計はないが「現地、外資系含めると200社以上の金型メーカーがあり、フィリピンを超える規模」（日本金型工業会で国際委員を務める事業革新パートナーズの茄子川仁社長）で、生産も増加傾向にあるのは確実のようだ",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "金型新聞 2020年7月1日",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月23日",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月5日",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月8日",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月3日",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "【特集:2023年金型加工技術5大ニュース】4.AM活用の広がり",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年1月12日",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   }
+  ],
+  "痛み・損（深さの印）": [
+   {
+    "quote": "国内では、高い技能を持ちながら後継者がいない工場の廃業が続きます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会の資料によれば、事業所数のピークは1991年で約13,000でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数が1991年の約13,000から2024年の約4,000へ減り、従業者数も2022年の77,035人から2024年の69,553人へ減るなかで、技能を渡す相手がいないまま廃業する工場が出ています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "国内でも、事業所数は1991年の約13,000から2024年の約4,000へ減りました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "一般社団法人日本金型工業会（以下、日本金型工業会）が2026年9月17日に公表した資料では、国際特殊工具・機械加工協会（ISTMA）の統計に基づく35カ国の金型生産額の合計は13兆1,221億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、経済産業省の製造業事業所調査による2024年の生産額が1兆4,548億円、事業所数が4,077所、従業者数が69,553人です",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元CADで型の形を決め、マシニングセンタで削り、焼き入れで硬くし、放電加工で細部をつくり、最後は人の手で鏡のように磨きます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした形は、職人が1個ずつ削り出しているわけではありません",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の製造業事業所調査をもとに日本金型工業会がまとめた2024年（令和6年）の集計では、金型製造業（日本標準産業分類の細分類2691および2692）の事業所数は4,077所、従業者数は69,553人、生産額は1兆4,548億円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年（令和4年）は4,357所、77,035人でしたから、2年で事業所は280所、従業者は7,482人減っています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "産業の構造｜9人以下が6割、100人以上が生産額の4割",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本金型工業会がまとめた2024年（令和6年）の製造業事業所調査では、従業者9人以下の事業所が2,545所で全体の62.4%を占める一方、生産額では9.4%にとどまります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "30人から99人が417所で生産額の27.9%、100人以上は89所と全体の2.2%しかありませんが生産額では41.7%を占めます",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートでは、工業統計に基づく事業所数が1990年の13,115から2017年には7,074へ減り、1事業所あたりの平均従業者数が12.1人であることも報告されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の専門誌MoldMaking Technologyが2018年12月に伝えた記事では、マリーニャグランデとオリベイラ・デ・アゼメイシュの2地域に500社を超える金型企業が集まり、約10,500人を雇用し、2017年の輸出額は6億7,500万ユーロでした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "一般財団法人機械振興協会経済研究所が2026年1月に公表した小論文では、土地や建物の費用、固定資産税などの公租公課、運送費、錆取りや磨きのメンテナンス費、パレットや棚の設備費、備品費、保管や移動の労務費という7項目が示されています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "米中貿易摩擦によるチャイナプラス1や、人件費高騰が背景にある",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "従業者1人あたりの粗付加価値額は、資本金3億円未満の企業で2006年の1,014万円から2010年に734万円へ落ち、2017年でも911万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月期の連結売上高は2,183億2,900万円、営業利益は126億5,100万円で、モーターコア製品などを手がける電機部品事業が1,546億4,900万円、金型・工作機械事業が102億4,700万円でした",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   }
+  ],
+  "生産能力・設備": [
+   {
+    "quote": "日本政策金融公庫総合研究所のレポートでは、IoT関連の設備投資について金型製造業では7.2%がすでに実施、12.6%が予定ありと答え、製造業全体の4.5%と6.2%を上回っていました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   }
+  ],
+  "人手と仕事の差": [
+   {
+    "quote": "納期と原価の見通しが狂う原因の多くは、この修正の回数が読み切れないところにあります",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "内製と外注の線引きも産業の形を決めています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "日本｜精度と納期で勝ち、量と価格で押される",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "金型に使うガイドピンやパンチ、ブッシュといった部品を規格化し、寸法をミクロン単位で指定できるようにしたうえで短納期で届ける仕組みを築きました",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "量産が読める型は安い国へ、立ち上げが難しい型や短納期が求められる型は日本へ、という棲み分けが統計の上にも表れています",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "精度と納期、そして立ち上げの速さです",
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "pass": 3
+   },
+   {
+    "quote": "次世代自動車による自動産業の変革や、少子高齢化による人手不足など金型産業を取り巻く環境は大きく変化し、新型コロナウイルスの感染拡大によって、そのスピードはさらに加速している",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   },
+   {
+    "quote": "生産性の向上、人手不足への対応、人を介さないことによる品質向上—",
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.tisi.jp/documents/jp/news/tis_info/140",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jetro.go.jp/gov_procurement/national/articles/112594/2018042300600027.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jacom.or.jp/articles/260213-87465",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topics.or.jp/ud/pressrelease/6acd68ea126217f9d5000000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tis.co.jp/documents/jp/news/2025/tis_news/20260319_1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cassina-ixc.jp/press/20261105.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/2008910news-toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hunade.com/kanagata-yunyu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukanshi.com/hscode/code/13957/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jspmi.or.jp/system/file/6/173/202504Column_Kitajima.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/japan-dies-and-molds-market/353",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/052701768/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/yusyutu/2026_01_01/data/j_84.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kanzei.or.jp/statistical/expstatis/detail/index/j/848060000",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kouro.info/ja/hs-codes/8480",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/srch/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forwit.jp/column/die-and-mold/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.senshu-u.ac.jp/albums/abm.php?d=1600&f=abm00002011.pdf&n=%E5%B0%82%E4%BF%AE%E5%A4%A7%E5%AD%A6%E5%95%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80%E6%89%80%E5%A0%B1%E7%AC%AC39%E5%B7%BB%E7%AC%AC3%E5%8F%B7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/kogyo/jigyosho_06.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/index.php/stat-search/database?stat_infid=000007676920&layout=dataset&statdisp_id=0003052049",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanagata-shimbun.com/200701news-istma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seair.co.in/hs-codes/china/heading-8480-moulding-boxes-metal-foundry-bases.aspx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.e-stat.go.jp/en/stat-search?page=1&query=export&layout=dataset",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.findhs.codes/signup?ReturnUrl=/HTSCodes/JP/Of-Heading-8480",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tariffnumber.com/2025/84802000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fas.usda.gov/data/gain-report/2025/12/FAIRS%20Export%20Certificate%20Report%20Annual_Tokyo_Japan_JA2025-0054.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 人手不足 受注 断る",
+   "results": [
+    "https://www.tisi.jp/documents/jp/news/tis_info/140",
+    "https://www.jetro.go.jp/gov_procurement/national/articles/112594/2018042300600027.html",
+    "https://www.jacom.or.jp/nousei/news/2026/02/260213-87465.php",
+    "https://www.topics.or.jp/ud/pressrelease/6acd68ea126217f9d5000000",
+    "https://www.tis.co.jp/documents/jp/news/2025/tis_news/20260319_1.pdf",
+    "https://www.cassina-ixc.jp/press/20261105.html",
+    "https://news.infoseek.co.jp/article/20261015jcast20262518502/?tpgnr=busi-econ",
+    "https://www.jprime.jp/ud/pressrelease/guid/dn0000364617",
+    "https://www.hokkoku.co.jp/ud/pressrelease/6a16a5c47079c80c29000000"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 受注残 人手不足",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://www.jspmi.or.jp/system/file/6/173/202504Column_Kitajima.pdf",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://note.com/nakagawasann/n/n70b8aa442c02"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 人手不足 損失 億円",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "https://www.researchnester.jp/industry-reports/japan-dies-and-molds-market/353",
+    "https://www.asahi.com/articles/ASVBW2H72VBWOXIE03PM.html",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00138/052701768/",
+    "https://www.customs.go.jp/yusyutu/2026_01_01/data/j_84.htm",
+    "https://www.topics.or.jp/ud/pressrelease/6ae3ec3e126217cafc000002",
+    "https://www.jetro.go.jp/gov_procurement/national/articles/119361/2018112600700001.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117）",
+   "results": [
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://hunade.com/kanagata-yunyu",
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.kanzei.or.jp/statistical/expstatis/detail/index/j/848060000",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://jp.gdfreak.com/public/detail/jp01009000111016i6cp/3"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 推移",
+   "results": [
+    "https://forwit.jp/column/die-and-mold/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.customs.go.jp/toukei/info/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://hunade.com/kanagata-yunyu"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 統計 PDF",
+   "results": [
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://hunade.com/kanagata-yunyu",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://tsukanshi.com/hscode/code/13957/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://www.jdmia.or.jp/toukei/",
+    "https://forwit.jp/column/die-and-mold/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "https://www.senshu-u.ac.jp/albums/abm.php?d=1600&f=abm00002011.pdf&n=%E5%B0%82%E4%BF%AE%E5%A4%A7%E5%AD%A6%E5%95%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80%E6%89%80%E5%A0%B1%E7%AC%AC39%E5%B7%BB%E7%AC%AC3%E5%8F%B7.pdf",
+    "https://www.stat.go.jp/data/kkj/kekka/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 従業者規模別",
+   "results": [
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.researchnester.jp/industry-reports/japan-dies-and-molds-market/353",
+    "https://hunade.com/kanagata-yunyu",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2023.pdf",
+    "https://www.jspmi.or.jp/system/file/6/173/202504Column_Kitajima.pdf",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 1人当たり 万円",
+   "results": [
+    "https://kanagata-shimbun.com/2008910news-toukei/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://hunade.com/kanagata-yunyu",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://www.customs.go.jp/toukei/srch/index.htm",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://tsukanshi.com/hscode/code/13957/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） 2015 2025",
+   "results": [
+    "https://forwit.jp/column/die-and-mold/",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.customs.go.jp/toukei/info/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "http://www.etisa.or.jp/Taro-mokujikanagata.pdf",
+    "https://kanagata-shimbun.com/200701news-istma/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.jeita.or.jp/japanese/stat/electronic/2025/export_03.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan exports HS 8480 moulds annual value FOB customs Japan statistics",
+   "results": [
+    "https://www.customs.go.jp/toukei/sankou/code/code_e.htm",
+    "https://www.seair.co.in/hs-codes/china/heading-8480-moulding-boxes-metal-foundry-bases.aspx",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=export&layout=dataset",
+    "https://www.findhs.codes/HTSCodes/JP/Of-Heading-8480",
+    "https://www.tariffnumber.com/2025/84802000",
+    "https://www.fas.usda.gov/data/gain-report/2025/12/FAIRS%20Export%20Certificate%20Report%20Annual_Tokyo_Japan_JA2025-0054.pdf",
+    "https://trendeconomy.com/data/export_h2/OtherAsiaNES/848049",
+    "https://www.datamyne.com/hts/84/848071",
+    "https://oec.world/en/profile/country/jpn",
+    "https://www.customs.go.jp/toukei/info/index_e.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117）",
+   "results": [
+    "https://note.com/dotm2025/n/n437c7fcc19c8",
+    "https://note.com/ogawa_tech/n/n0f19a4b0acc0",
+    "https://note.com/hiroshi_chan/n/n6782fa28f298",
+    "https://note.com/dotm2025/n/n56d250cddaf5",
+    "https://note.com/ogawa_tech/n/n84557dec7598",
+    "https://note.com/dotm2025/n/n4214be79d98a",
+    "https://note.com/dotm2025/n/n53efcfb87d91"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117）",
+   "results": [
+    "https://jf.x.com/images/media-preview/2105052408032403532",
+    "https://jf.x.com/images/media-preview/2093361425813295145",
+    "https://x.com/MOF_Japan/status/2046799023903027556",
+    "https://x.com/amc_corporation/status/2058008412823372254",
+    "https://x.com/MOF_Japan/status/2057285859385426253",
+    "https://x.com/outbound_japan/status/2105795224773554332",
+    "https://x.com/amc_corporation/status/2081318029900828908"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117）",
+   "results": [
+    "https://about.linkedin.com/ja-jp",
+    "https://jp.linkedin.com/company/jx-advanced-metals",
+    "https://www.linkedin.com/company/wikipedia-the-free-encyclopedia",
+    "https://jp.linkedin.com/pulse/マシニングセンタの輸出動向四半期の動的グラフ2002年2021年-gary-inwood",
+    "https://jp.linkedin.com/pulse/中国輸出管理の執行実態2026年上半期税関行政処罰373件から読む日系企業の実務課題-イ民-張-jxq2c",
+    "https://www.linkedin.com/feed/update/urn:li:activity:6971265334553063424/",
+    "https://jp.linkedin.com/in/foodexport-japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117）",
+   "results": [
+    "https://www.facebook.com/nikkei/posts/日経特報韓国と台湾の輸出額ともに初の日本超え-2026年上期-韓国と台湾はai向け半導体特需を受けて輸出額が5割近い伸びを記録しました一方日本は半導体関連の素材/1584533779684685/",
+    "https://www.facebook.com/Japan.Customs/photos/貿易統計横浜税関は２０２６年２月分横浜港の貿易速報等を発表しました２０２６年２月分について横浜港の輸出額は7666億円対前年同月比37増となり１３か月連続の増加/1342456167917896/",
+    "https://www.facebook.com/kiichiro.minami/posts/日本は技術で負けたのではない韓国台湾との輸出産業の違い2026年上半期の輸出額は韓国約4963億ドル台湾約4166億ドル日本約3844億ドル日本は韓国だけでなく/37580646958246171/",
+    "https://www.facebook.com/wakohkinzoku/photos/63bサッシ6063-extrusion日本で発生する63bサッシの多くは輸出されています11月の貿易統計を見てみるとサッシhs-code760200-2001/1538943884353084/",
+    "https://www.facebook.com/kiyoshi.arai.7/posts/韓国台湾の16月の輸出額が初めて日本を上回ったことが分かった人工知能ai向け半導体特需を受けて急伸した韓台に対し日本は半導体関連の素材製造装置に強みが限られ恩恵/27792703333685334/",
+    "https://www.facebook.com/nejibane.news/photos/来週号の見出し速報です１面トップは対米輸出ナット38減にです台湾の業界誌fastener-world-magazineファスナーワールドマガジンと提携を開始しま/1621258169336654/",
+    "https://www.facebook.com/nejibane.news/posts/来週号の見出し速報です１面トップは対米輸出ナット38減にです台湾の業界誌fastener-world-magazineファスナーワールドマガジンと提携を開始しま/1621258196003318/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） note 社長",
+   "results": [
+    "https://hunade.com/kanagata-yunyu",
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://www.customs.go.jp/yusyutu/2023_01_01/data/j_84.htm",
+    "https://www.jetro.go.jp/world/qa/04A-A21264.html",
+    "https://jp-cn.biz/2742",
+    "https://www.toishi.info/hscode/84/8480.html",
+    "https://release.nikkei.co.jp/attach_file/0525558_03.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "金属用金型（HS8480）の日本の輸出額の年次（財務省 普通貿易統計・FOB・輸入との差で国内の需要側を見る・4-115・4-117） X 投稿",
+   "results": [
+    "https://forwit.jp/column/die-and-mold/",
+    "https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://hunade.com/kanagata-yunyu",
+    "https://tsukanshi.com/hscode/code/13957/",
+    "https://www.kanzei.or.jp/statistical/expstatis/detail/index/j/848060000",
+    "https://takumi-senpai.com/blog/mold-industry-2021/",
+    "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+    "https://mitsudenshi.co.jp/2887/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Japan exports HS 8480 moulds annual value FOB customs site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/posts/aydinarslaner_customs-customsvaluation-assist-activity-7504423252363030528-oL5K",
+    "https://www.linkedin.com/pulse/customs-value-how-its-calculated-avoid-reassessments-gmrle",
+    "https://www.linkedin.com/posts/simon-bushoma-ikelenga-929959318_understanding-assists-in-customs-valuation-activity-7354278832348020737-Jhr9",
+    "https://www.linkedin.com/pulse/understanding-customs-valuation-duty-management-guide-hill-mciex-acp-pab3e/",
+    "https://www.linkedin.com/pulse/importance-customs-valuation-international-trade-value-tyler-townsend-jojwe/",
+    "https://www.linkedin.com/pulse/streamlining-japan-export-shipments-from-si-filing-customs--7lu4c",
+    "https://www.linkedin.com/pulse/comprehensive-guide-customs-valuation-mohammed-hammouda-fzgte"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {}
+}

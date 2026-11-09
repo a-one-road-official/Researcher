@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・268品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・270品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -3895,11 +3895,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -8930,6 +8930,7 @@
   - 「合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「まずは自社が大会社に該当するかどうかを確認し、該当する場合は公告方法に応じた損益計算書の準備を始めましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 突き合わせ・推定：
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「子が親より（妻が夫より）①先に死亡したとき、②同時に死亡したとき、③死亡の先後が分からないときの相続（同時存在の原則、同時死亡の推定）」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
   - 「法務部員が知っておくべき「二段の推定」とは？！」（https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E4%BC%9A%E7%A4%BE%E3%82%84%E6%B3%95%E4%BA%BA%E3%81%AE%E7%99%BB%E8%A8%98/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%85%AC%E5%91%8A-%E3%81%9D%E3%81%AE%EF%BC%91-%E8%B2%B8%E5%80%9F%E5%AF%BE%E7%85%A7%E8%A1%A8%E3%81%AE%E5%85%AC%E5%91%8A-%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A-%E3%81%A7%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E4%BA%8B%E9%A0%85/）
@@ -8953,6 +8954,8 @@
   - 「大会社に該当するかどうかで、決算公告の開示範囲は大きく変わります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「経営の透明性をアピールすることで、採用活動にプラスの効果がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 失敗・落とし穴：
+  - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「計算書類を作成した直後に株主総会へ提出できるとは限らないことに注意が必要です」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
   - 「会計帳簿そのものに誤りや不正が存在する可能性があるためです」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
@@ -8966,8 +8969,6 @@
   - 「本日は上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説しました」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「公告手続きを失敗しますと予定した効力発生日を延期する必要が生じたりと大変な損害に繋がる場合もございますので慎重に確認する必要がございます」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「のみを公示している場合は、違法状態となることに注意する必要がある」（https://ja.wikipedia.org/wiki/%E6%B1%BA%E7%AE%97%E5%85%AC%E5%91%8A）
-  - 「合同会社は決算公告が不要？義務の有無・法的根拠・注意点を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「決算公告を怠ると罰則が課せられるため、注意が必要です」（https://biz.moneyforward.com/erp/basic/2193/）
 - 実例：
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -9785,9 +9786,9 @@
   - 「4) In cell N275, type “Standard Error” and in P275, “=(P274)/(SQRT(P272))”. Here we’re dividing the standard deviation in cell P274 by the square root of the number of data points. The more data points we have, the lower our standard error, the fewer data points, the greater the standard error. In this case, it’s 0.111.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「5) In cell N276, type “Confidence Int.” and in P276, “=CONFIDENCE(0.05,P274,P272)”. Another built-in function, with the level of significance we’re choosing (0.05, or 5 percent, in this case), the standard deviation we calculated in cell P274, and the number of data points shown in cell P272. The result is 0.217.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
   - 「What the confidence interval means is that for any one value in the list of violence rates, from Oakland to Irvine, those that are 0.217 greater or lower have a 95 percent probability of being statistically different. This being the case, let’s find out how far around the average of 2.686 the 95 percent confidence interval extends — what’s the range of “average” in our sample.」（https://journalistsresource.org/home/basic-data-analysis-making-the-call-on-statistics-and-story-focus/）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 管轄を先に決めてから登記・開示を引く会社の同一性の確かめ方と、登記が示さないもの（実質的支配者・支払能力）（osint4all・OpenCorporates・法人番号公表サイト）（company due diligence choose jurisdiction first registry evidence limits beneficial ownership solvency）
 - 文脈：一次情報
@@ -10368,6 +10369,8 @@
   - 「2026年米中間選挙の結果を受け、米共和党内でヘグセス国防長官に対する責任論や反発が急速に強まっている情勢を伝えるCNNの報道」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
   - 「（最新の開票結果や公式発表については公的機関や報道各社の速報を参照）」（https://a.hatena.ne.jp/Carnegie1/?gid=null&amp）
 - 検索結果の抜粋：
+  - 「The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · Excel and other spreadsheets will often make the mistake of assuming numerals are numbers and stripping the leading zeros. This can cause all kinds of problems if you try to convert it to another file format or merge it with another dataset.」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
+  - 「The Quartz guide to bad dataKeeping leading zeros and large numbers | Microsoft SupportFix Excel Ruining CSV Leading Zeros & Scientific Notation — Jul 21, 2022 · This guide was written to help Quartz staff identify problems with data they report on. If you want to resolve the issue just within the workbook because it's not used by other programs as a data source, you can use a custom or a special 」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「The Quartz guide to bad dataGitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data | Data Journalism ResourcesRecognize Bad Data | Hands-On Data VisualizationThe Quartz Guide to Bad Data – Global Investigative ...bad-data-guide/README.md at master · Quartz/bad-data-guideSpreadsheets for Investigative Journalists – Global ... — Jul 21, 2022 · Excel and other spre」（https://qz.com/572338/the-quartz-guide-to-bad-data）
   - 「The Quartz Guide to Bad Data – Global Investigative ... — Jan 15, 2016 · Suspicious values are present Data are too coarse Totals differ from published aggregates Spreadsheet has 65536 rows Spreadsheet has dates in 1900, 1904, 1969, or 1970 Text has been converted to numbers Issues That you Should Solve Text is garbled Line endings are garbled Data are in a PDF Data are too granular Data were ente」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
 
@@ -13223,19 +13226,29 @@
 
 ## 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方（data provenance checklist period resolution units missing values processing）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ23頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
-- 実例：記載なし（読んだ23頁・検索12回）
+- 手順・やり方：記載なし（読んだ25頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
+- 実例：記載なし（読んだ25頁・検索12回）
 
 ## 生き残りの偏りの直し方（退出した先を埋め戻した全体の標本・悲観の仮定で挟む・入る段と残る段の二重の選別）を実務で書いた記事（survivorship bias correction backfill dead firms pessimistic bounds double selection）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ14頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
-- 実例：記載なし（読んだ14頁・検索12回）
+- 失敗・落とし穴：
+  - 「Survivorship Bias in Backtests: Why Missing Dead Stocks Flatter Performance | SoloTrade.io」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「Survivorship Bias in Backtests: Why Missing Dead Stocks Flatter Performance」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「Historical stock and fund databases often contain only the entities that survived to the present, quietly omitting companies that went bankrupt, were delisted, or were acquired. This article explains the mechanics of survivorship bias, why it inflates backtested performance, why value-oriented strategies are especially exposed, and what questions to ask about any published track record.」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「What Survivorship Bias Means in Market Data」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「The Same Bias in Mutual Fund and Hedge Fund Data」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「Detecting, Measuring, and Correcting Survivorship Bias」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「Common Misunderstandings About Survivorship Bias」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「What is survivorship bias in stock market data?」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「Why does survivorship bias inflate backtest performance?」（https://solotrade.io/learn/quant-quantitative-trading-158）
+  - 「How can survivorship bias be reduced?」（https://solotrade.io/learn/quant-quantitative-trading-158）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
@@ -14633,12 +14646,15 @@
   - 「temporarily to approximate industrial production. For example, the estimate for a given month in an」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
   - 「overlap period or, if not available, some estimate made.」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
 - 一次情報の探し方：
+  - 「経済産業省 大臣官房 調査統計グループ 経済解析室」（https://www.meti.go.jp/statistics/tyo/iip/）
   - 「経済産業省 大臣官房 調査統計グループ 経済解析室」（https://www.meti.go.jp/statistics/tyo/iip/index.html）
   - 「162. The two primary sources of data to compile the movements in an IIP are:」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
 - 失敗・落とし穴：
+  - 「利用上の注意、用語」（https://www.meti.go.jp/statistics/tyo/iip/）
   - 「利用上の注意、用語」（https://www.meti.go.jp/statistics/tyo/iip/index.html）
   - 「discusses potential IIP calculation errors, biases and incompatibilities between」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
 - 実例：
+  - 「2025年年間補正結果の公表時期について」（https://www.meti.go.jp/statistics/tyo/iip/）
   - 「2025年年間補正結果の公表時期について」（https://www.meti.go.jp/statistics/tyo/iip/index.html）
   - 「3.2.2 Classification of statistical units – a special case: Outsourcing / activities on a fee or」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
   - 「Appendix 5 (b): Fixed weight versus chain approach (example) ........................................ 122」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
@@ -14653,7 +14669,6 @@
   - 「A specific example is the analysis of relative changes in productivity, measured as」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
   - 「have gaps in coverage that may need supplementary sources, for example, particular」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
   - 「units in the case of outsourcing is also discussed in this chapter. The key principles」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
-  - 「example, a workshop, factory, warehouse, office, mine or depot), which」（https://unstats.un.org/unsd/statcom/doc10/bg-industrialstats.pdf）
 
 ## 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）（investigative journalism company network analysis shared addresses directors red flags auditor resignation）
 - 文脈：探し先
@@ -15076,6 +15091,35 @@
   - 「From examples above, many commodities can be impacted by asymmetries whether they are primary」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
   - 「9 The case study is adapted from Statistics Canada (2018), Comparing Canada’s and China’s bilateral trade data. URL:」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
   - 「Example: Trade between Canada (CAN) and China (CHN)」（https://comtradeapi.un.org/files/v1/app/wiki/Guidelines_on_Analyzing_and_Reducing_Bilateral_Asymmetry-23_Apr_2019.pdf）
+
+## 記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118）（journalism numeracy guide percent change base effect per capita inflation adjustment errors）
+- 文脈：推定
+- 手順・やり方：
+  - 「<p>While you can do the math yourself with these <a href="https://www.mathsisfun.com/numbers/percentage-change.html">step-by-step instructions</a>, it’s easy to find a percentage change calculator online.</p>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「<li>Investigate Reporters and Editors typically hosts workshops focusing on statistical literacy during its annual conferences. At IRE's annual data journalism conference in 2021, LaFleur and colleague <a href="https://twitter.com/JaimiDowdell">Jaimi Dowdell</a> of Reuters led the session, “How to Approach Stats In Your Story.”</li>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「step-by-step instructions」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「of Reuters led the session, “How to Approach Stats In Your Story.”」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「Tip sheets and explainers to help journalists understand academic research methods, find and recognize high-quality research, investigate scientific misconduct and errors, and avoid missteps when reporting on studies and public opinion polls.」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「How to interrogate AI regulations」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+- 失敗・落とし穴：
+  - 「<h3><strong>2. Be extra cautious when comparing percentages because this is where many people make mistakes.</strong></h3>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「2. Be extra cautious when comparing percentages because this is where many people make mistakes.」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+- 実例：
+  - 「<p>As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.</p>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「<p>When you add or subtract percentages -- for example, when you subtract the percentage of children diagnosed with autism in 1981 from the percentage diagnosed in 2021 -- describe the result using percentage points.</p>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+  - 「When you add or subtract percentages — for example, when you subtract the percentage of children diagnosed with autism in 1981 from the percentage diagnosed in 2021 — describe the result using percentage points.」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+
+## 数字の誤りの元の分類と訂正の調査（聞き違い・出どころの誤り・意図的な誇張・計算の誤り・他媒体の写し・Craig Silverman・Regret the Error・新聞の訂正の研究・4-118）（Craig Silverman Regret the Error numerical errors causes newspaper corrections study）
+- 文脈：推定
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 人数の定義の違い（統計の従業者・税の従業員数の時間換算1（800時間・社会保険の被保険者・求人の社員数）と1人あたりの比べ方）
 - 文脈：従業員数 定義 違い 統計 社会保険;従業者 従業員 違い 経済センサス;FTE 換算 1人当たり売上 比較 注意

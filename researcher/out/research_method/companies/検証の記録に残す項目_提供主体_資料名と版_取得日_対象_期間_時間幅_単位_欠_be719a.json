@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-08T18:00:21.506025+00:00",
+ "researched_at": "2026-11-09T02:04:33.245322+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -54,7 +54,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.jccls.org/pdf/science_meeting/2019/koen3.pdf",
+    "url": "https://www.ipa.go.jp/digital/software-survey/metrics/hjuojm000000c6it-att/000102171.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/pdf/94197801_03.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -67,6 +72,11 @@
     "url": "https://ptaorg.com/evidence-checklist.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.jccls.org/pdf/science_meeting/2019/koen3.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://ez-hygiene.com/article/haccp-procedure-11-12",
@@ -84,17 +94,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.mhlw.go.jp/content/10600000/000757280.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.exseal.co.jp/blog/taxonomy-07/5503/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://food.uchida-it.co.jp/column/20230520/",
+    "url": "https://www.mhlw.go.jp/content/10600000/000757280.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://seibishi-online.com/article/249/%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A4%9C%E6%9F%BB%E8%A8%BC%E8%A8%98%E9%8C%B2%E4%BA%8B%E9%A0%85%E3%81%A8%E3%81%AF-%E8%BB%8A%E6%A4%9C%E8%A8%BC%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84%E5%87%BA%E3%81%97%E6%96%B9%E5%90%8D%E7%BE%A9%E5%A4%89%E6%9B%B4%E3%81%A8%E4%BF%9D%E9%99%BA%E3%81%A7%E8%A6%8B%E3%82%8B%E6%AC%84",
     "status": "ok",
     "method": "http"
    },
@@ -109,17 +119,17 @@
     "method": "http"
    },
    {
+    "url": "https://www.acceldata.io/blog/data-provenance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.vldb.org/pvldb/vol15/p3614-torlone.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
     "url": "https://truescreen.io/articles/data-provenance-definition-source-authenticity/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.acceldata.io/blog/data-provenance",
     "status": "ok",
     "method": "http"
    },
@@ -146,10 +156,11 @@
     "https://note.com/tabeteco_lab/n/nc8d8f466480c"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方 note",
@@ -158,18 +169,19 @@
     "https://www.jpma.or.jp/basis/guide/lofurc0000001zre-att/20080114guidance.pdf",
     "https://www.mlit.go.jp/tec/constplan/content/001880735.pdf",
     "https://www.gsi.go.jp/common/000186712.pdf",
-    "https://www.j-sctr.org/tools/files/datamanagement_plan.docx",
-    "https://www.amed.go.jp/content/000048621.pdf",
     "https://www.icrweb.jp/mod/resource/view.php?id=11036",
+    "https://www.amed.go.jp/content/000048621.pdf",
     "http://www.biostar.co.jp/doc0001.pdf",
-    "https://www.jccls.org/pdf/science_meeting/2019/koen3.pdf",
+    "https://www.ipa.go.jp/digital/software-survey/metrics/hjuojm000000c6it-att/000102171.pdf",
+    "https://www.bunka.go.jp/seisaku/bunkazai/shokai/pdf/94197801_03.pdf",
     "https://note.com/tabeteco_lab/n/nc8d8f466480c"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方 やり方",
@@ -199,34 +211,35 @@
     "https://www.mlit.go.jp/tec/constplan/content/001880735.pdf",
     "https://www.gsi.go.jp/common/000186712.pdf",
     "https://www.j-sctr.org/tools/files/datamanagement_plan.docx",
-    "https://www.amed.go.jp/content/000048621.pdf",
     "https://www.icrweb.jp/mod/resource/view.php?id=11036",
+    "https://www.amed.go.jp/content/000048621.pdf",
     "http://www.biostar.co.jp/doc0001.pdf",
     "https://www.jccls.org/pdf/science_meeting/2019/koen3.pdf",
     "https://ptaorg.com/evidence-checklist.html"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "data provenance checklist period resolution units missing values processing",
    "results": [
     "https://cohere.com/blog/data-provenance",
     "https://www.ibm.com/think/topics/data-provenance",
+    "https://www.acceldata.io/blog/data-provenance",
     "https://www.vldb.org/pvldb/vol15/p3614-torlone.pdf",
     "https://truescreen.io/articles/data-provenance-definition-source-authenticity/",
-    "https://www.acceldata.io/blog/data-provenance",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11931605/",
     "https://www.puppygraph.com/learn/data-provenance",
     "https://elevateconsult.com/insights/finalizing-the-data-provenance-strategy-for-ai-data-governance/",
-    "https://www.olostep.com/blog/data-provenance-for-ai-agents",
+    "https://www.dataprovenance.org/faq",
     "https://datastatpro.com/blog/data-cleaning-checklist.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -235,15 +248,15 @@
    "query": "site:note.com 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方",
    "results": [
     "https://note.com/modern_flea8708/n/nd18f3abead50",
+    "https://note.com/modern_flea8708/n/n9935ea0e3273",
     "https://note.com/satoruhiguchi/n/n645bc9cbb946",
-    "https://note.com/modern_flea8708/n/n58b97b3ee490",
     "https://note.com/modern_flea8708/n/n8a1274f78b31",
-    "https://note.com/modern_flea8708/n/n777aa2f0cdbf",
-    "https://note.com/modern_flea8708/n/na62748adab0a",
     "https://note.com/modern_flea8708/n/n999aef26892c",
-    "https://note.com/modern_flea8708/n/nf3264b862676",
+    "https://note.com/modern_flea8708/n/n777aa2f0cdbf",
     "https://note.com/modern_flea8708/n/nf9e5b20931e5",
-    "https://note.com/ai_labo26/n/nf983fc1bc80e"
+    "https://note.com/modern_flea8708/n/na62748adab0a",
+    "https://note.com/modern_flea8708/n/n58b97b3ee490",
+    "https://note.com/modern_flea8708/n/nf3264b862676"
    ],
    "engines": [
     "ddgs:google",
@@ -256,26 +269,26 @@
    "results": [
     "https://x.com/amor_tizacion/status/2101449273745498173",
     "https://x.com/ea_kenshoshitsu/status/2114306476734890418",
-    "https://x.com/kznakamichi/status/2115695426896806083",
     "https://x.com/ea_kenshoshitsu/status/2112836485275685148",
     "https://x.com/pmarknews/status/2115353797098950890",
+    "https://x.com/kznakamichi/status/2115695426896806083",
     "https://x.com/ELLLYRR/status/2112135166697361652",
-    "https://x.com/2bityo/status/2115457624003293402"
+    "https://x.com/kabunamirei/status/2117156110503399744"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方",
    "results": [
-    "https://jp.linkedin.com/learning/1-minute-learning-negotiation-techniques-for-business/3986272",
+    "https://jp.linkedin.com/pulse/工場内工程の記録を残す方法について-yukihito-hara",
     "https://jp.linkedin.com/learning/business-analysis-foundations/2890206",
     "https://jp.linkedin.com/posts/哲也-木谷-b063253b3_品質の壁④記録の質が安定しない理由-記録は知識を未来に残す仕組みである-activity-7505098367681851392-gJhM",
     "https://jp.linkedin.com/pulse/understanding-verification-validation-key-pillars-quality-ttcyc?tl=ja",
+    "https://jp.linkedin.com/learning/1-minute-learning-negotiation-techniques-for-business/3986272",
     "https://jp.linkedin.com/pulse/verification-vs-validation-differences-usage-software-tnbdf?tl=ja",
-    "https://jp.linkedin.com/pulse/工場内工程の記録を残す方法について-yukihito-hara",
     "https://jp.linkedin.com/pulse/how-perform-effective-vendor-verification-guide-prem-kumar?tl=ja"
    ],
    "engines": [
@@ -295,7 +308,7 @@
     "https://www.facebook.com/nichibun.g/posts/昨年公開した道徳科深い学びのための内容項目ハンドブックの関連資料として道徳の内容項目と深い学びのキーワード一覧を公開しました-島恒生先生畿央大学大学院教授が考察/787815898510660/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -310,12 +323,14 @@
     "https://www.amed.go.jp/content/000048621.pdf",
     "https://www.icrweb.jp/mod/resource/view.php?id=11036",
     "http://www.biostar.co.jp/doc0001.pdf",
-    "https://www.jccls.org/pdf/science_meeting/2019/koen3.pdf"
+    "https://www.jccls.org/pdf/science_meeting/2019/koen3.pdf",
+    "https://note.com/tabeteco_lab/n/nc8d8f466480c"
    ],
    "engines": [
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "検証の記録に残す項目（提供主体・資料名と版・取得日・対象・期間・時間幅・単位・欠測の扱い・加工内容）と比較用・検証用・運用用の分け方 X 投稿",
@@ -325,8 +340,8 @@
     "https://www.mlit.go.jp/tec/constplan/content/001880735.pdf",
     "https://www.gsi.go.jp/common/000186712.pdf",
     "https://www.j-sctr.org/tools/files/datamanagement_plan.docx",
-    "https://www.amed.go.jp/content/000048621.pdf",
     "https://www.icrweb.jp/mod/resource/view.php?id=11036",
+    "https://www.amed.go.jp/content/000048621.pdf",
     "http://www.biostar.co.jp/doc0001.pdf",
     "https://www.jccls.org/pdf/science_meeting/2019/koen3.pdf"
    ],
@@ -341,29 +356,29 @@
     "https://www.linkedin.com/in/jayeshg",
     "https://www.linkedin.com/in/gungor-polatkan",
     "https://www.linkedin.com/company/aperioai",
-    "https://www.linkedin.com/in/devis-tuia-6427806",
     "https://www.linkedin.com/in/billyost",
-    "https://www.linkedin.com/in/dnadave",
-    "https://www.linkedin.com/in/ramkumar-karuppiah-4458414",
-    "https://www.linkedin.com/company/liveramp",
     "https://in.linkedin.com/in/pratinav-seth",
-    "https://uk.linkedin.com/in/andreamestriner"
+    "https://www.linkedin.com/in/dnadave",
+    "https://www.linkedin.com/company/liveramp",
+    "https://www.linkedin.com/in/ramkumar-karuppiah-4458414",
+    "https://uk.linkedin.com/in/andreamestriner",
+    "https://www.linkedin.com/pulse/eu-ai-act-compliance-playbook-step-by-step-guide-high-risk-khan-g7htf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ23頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ23頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ23頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ23頁・検索12回）",
-  "実例": "記載なし（読んだ23頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ25頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ25頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ25頁・検索12回）",
+  "実例": "記載なし（読んだ25頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T03:12:37.371205+00:00"
 }

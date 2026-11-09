@@ -8,72 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-08T18:02:08.588916+00:00",
+ "researched_at": "2026-11-09T02:03:14.213326+00:00",
  "evidence": {
-  "手順・やり方": [
-   {
-    "quote": "This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Audiences may need to understand how the data originated to assess its importance. This may include understanding study-design; sample size; representativeness; how the data was collected; geographical relevance or time periods and the methodology used to analyse the data.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For further discussion about how to evaluate statistics from sources, such as surveys and polls see separate guidance note.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For guidelines about Data: data quality; how data is sourced; how to access analyse, present, report and store data, see Editorial Guidelines,",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodology used to analyse any dataset should normally be available to the audience, in a format appropriate to the content, including any relevant uncertainty or margins of error.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The more detail a report includes of the data analysis, the more detail should be provided about the methodology, taking account of where the content will be published.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "300 words and an explanatory graphic to the methodology",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.",
-    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "実例": [
    {
     "quote": "Care should be taken when reporting a change in an average as it does not necessarily mean a change for an individual. For example, if average wages rise, this does not mean that all people in the distribution get paid more; some people may not have seen an increase in their wage at all because a mean value does not reflect income distribution.",
@@ -135,18 +71,82 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Audiences may need to understand how the data originated to assess its importance. This may include understanding study-design; sample size; representativeness; how the data was collected; geographical relevance or time periods and the methodology used to analyse the data.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For further discussion about how to evaluate statistics from sources, such as surveys and polls see separate guidance note.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For guidelines about Data: data quality; how data is sourced; how to access analyse, present, report and store data, see Editorial Guidelines,",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodology used to analyse any dataset should normally be available to the audience, in a format appropriate to the content, including any relevant uncertainty or margins of error.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The more detail a report includes of the data analysis, the more detail should be provided about the methodology, taking account of where the content will be published.",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "300 words and an explanatory graphic to the methodology",
+    "url": "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/reading_monkey/n/n792fbbd3d90b",
+    "url": "https://note.com/ichi_twnovel/n/nc7a804e0096d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "url": "https://note.com/reading_monkey/n/n792fbbd3d90b",
     "status": "ok",
     "method": "http"
    },
@@ -176,22 +176,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.business-research-lab.com/250529/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gmo-research.ai/research-column/outlier",
+    "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
-    "url": "https://note.com/nanto_econ",
+    "url": "https://metricgate.com/blogs/ja/understanding-leverage-in-regression/",
     "status": "ok",
     "method": "http"
    },
@@ -201,7 +196,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/momoen_de/n/ne41ae9efd7bb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.emuyn.net/stats/manual/outlier_handling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-research.ai/research-column/outlier",
     "status": "ok",
     "method": "http"
    },
@@ -209,6 +214,11 @@
     "url": "https://www.statweb.jp/method",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://bellcurve.jp/statistics/blog/14290.html",
@@ -221,7 +231,7 @@
     "method": "http"
    },
    {
-    "url": "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/regression/supporting-topics/model-assumptions/ways-to-identify-outliers/",
+    "url": "https://bellcurve.jp/statistics/course/9704.html",
     "status": "ok",
     "method": "http"
    },
@@ -231,47 +241,32 @@
     "method": "http"
    },
    {
-    "url": "https://bellcurve.jp/statistics/course/9704.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://best-biostatistics.com/toukei-er/entry/robust-estimation-in-regression-analysis-building-models-resilient-to-outliers/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://i-datascience.com/2026/10/31/%E3%80%90%E5%8C%BB%E7%99%82%E7%B5%B1%E8%A8%88%E7%89%88%E3%80%91%E5%A4%96%E3%82%8C%E5%80%A4%E3%83%BB%E3%81%A6%E3%81%93%E6%AF%94%E3%83%BB%E5%BD%B1%E9%9F%BF%E7%82%B9%EF%BC%9A1%E4%BE%8B%E3%81%A7%E7%B5%90/",
+    "url": "https://gyakuten-compass.airtrue.jp/blog/182",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://biostatistics-consult.com/outlier/",
-    "status": "ok",
-    "method": "browser"
+    "url": "https://jp.linkedin.com/pulse/difference-between-outlier-skewness-how-control-them-model-hounmenou-mksre?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
-    "url": "https://i-datascience.com/2026/11/05/%E5%B9%B3%E5%9D%87%E3%81%B8%E3%81%AE%E5%9B%9E%E5%B8%B0%EF%BC%9A%E6%A5%B5%E7%AB%AF%E3%81%AA%E5%80%A4%E3%81%AF%E6%AC%A1%E3%81%AB%E6%88%BB%E3%82%8B/",
+    "url": "https://saycon.co.jp/archives/neta/%E7%B5%B1%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E3%82%8C%E5%80%A4%E3%81%AE%E6%89%B1%E3%81%84%E6%96%B9",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://support.jmir.org/hc/en-us/articles/360019690851-Guidelines-for-Reporting-Statistics",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11925299/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://statisticsbyjim.com/basics/remove-outliers/",
     "status": "ok",
     "method": "http"
    },
@@ -281,14 +276,19 @@
     "method": "http"
    },
    {
+    "url": "https://statisticsbyjim.com/basics/remove-outliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://stats.stackexchange.com/questions/551815/why-does-regression-to-the-mean-work",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.census.gov/content/dam/Census/library/working-papers/1988/adrm/rr88-14.pdf",
+    "url": "https://smw.ch/index.php/smw/article/download/1987/2855?inline=1",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    }
   ]
  },
@@ -296,15 +296,15 @@
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） site:note.com",
    "results": [
-    "https://note.com/reading_monkey/n/n792fbbd3d90b",
     "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/reading_monkey/n/n792fbbd3d90b",
     "https://note.com/hosoi6311/n/ned85285c8be1",
     "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "https://note.com/moppynote/n/nf5ba6d6b0150",
     "https://note.com/jack4manastalk/n/nae5c1f7c390a",
     "https://note.com/masa_san_jp/n/n56167cb7ee39",
-    "https://note.com/automationjp/n/nedc6c5889a1e",
     "https://note.com/micchel2020/n/ne7fc091c7212",
+    "https://note.com/automationjp/n/nedc6c5889a1e",
     "https://note.com/amane_bombaye/n/n91e2a3eea4c8"
    ],
    "engines": [
@@ -317,13 +317,13 @@
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） note",
    "results": [
     "https://note.com/hirofumi_saito/n/n7b4b4571f8fa",
-    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "https://www.business-research-lab.com/250529/",
-    "https://gmo-research.ai/research-column/outlier",
-    "https://note.com/nanto_econ",
-    "https://note.com/tnishimaki/n/ndbaaed8d02be",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://toyokeizai.net/articles/-/539717?display=b",
+    "https://metricgate.com/blogs/ja/understanding-leverage-in-regression/",
+    "https://note.com/tnishimaki/n/ndbaaed8d02be",
+    "https://note.com/momoen_de/n/ne41ae9efd7bb",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://zenn.dev/fuukanoo/articles/a77c23b62a023d",
     "https://qiita.com/ssugasawa/items/d1a015bff9ee2c8552de",
     "https://note.com/kamokita/n/n0d884264afae"
    ],
@@ -343,73 +343,73 @@
     "https://bellcurve.jp/statistics/blog/14290.html",
     "https://saycon.co.jp/archives/neta/%E7%B5%B1%E8%A8%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A4%96%E3%82%8C%E5%80%A4%E3%81%AE%E6%89%B1%E3%81%84%E6%96%B9",
     "https://support.minitab.com/ja-jp/minitab/help-and-how-to/statistical-modeling/regression/supporting-topics/model-assumptions/ways-to-identify-outliers/",
-    "https://www.nli-research.co.jp/report/detail/id=61928?site=nli",
     "https://ja.exploratory.io/note/exploratory/Eep7kip3",
+    "https://jikkenkeikaku.com/outlier-detection/",
     "https://biostatistics-consult.com/outlier/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） 事例",
    "results": [
     "https://www.statweb.jp/method",
-    "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "https://gmo-research.ai/research-column/outlier",
     "https://bellcurve.jp/statistics/course/9704.html",
-    "https://www.business-research-lab.com/250529/",
     "https://www.nli-research.co.jp/report/detail/id=61928?site=nli",
+    "https://www.business-research-lab.com/250529/",
     "https://best-biostatistics.com/toukei-er/entry/robust-estimation-in-regression-analysis-building-models-resilient-to-outliers/",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://i-datascience.com/2026/10/31/【医療統計版】外れ値・てこ比・影響点：1例で結/",
-    "https://biostatistics-consult.com/outlier/"
+    "https://gyakuten-compass.airtrue.jp/blog/182",
+    "https://jp.linkedin.com/pulse/difference-between-outlier-skewness-how-control-them-model-hounmenou-mksre?tl=ja",
+    "https://saycon.co.jp/archives/neta/統計における外れ値の扱い方"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 16
   },
   {
    "query": "statistics reporting guidelines outliers regression to the mean broadcaster",
    "results": [
     "https://support.jmir.org/hc/en-us/articles/360019690851-Guidelines-for-Reporting-Statistics",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC11925299/",
-    "https://statisticsbyjim.com/basics/remove-outliers/",
     "https://freddiedeboer.substack.com/p/reporting-regression-results-responsibly",
+    "https://statisticsbyjim.com/basics/remove-outliers/",
     "https://stats.stackexchange.com/questions/551815/why-does-regression-to-the-mean-work",
-    "https://www.census.gov/content/dam/Census/library/working-papers/1988/adrm/rr88-14.pdf",
     "https://smw.ch/index.php/smw/article/download/1987/2855?inline=1",
-    "https://web.pdx.edu/~gerbing/Books/ML/06-influence.html",
     "https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/",
-    "https://ajbm.net/enhanced-statistical-reporting-guidelines/"
+    "https://web.pdx.edu/~gerbing/Books/ML/06-influence.html",
+    "https://statisticsfundamentals.com/descriptive-statistics/outliers/",
+    "https://www.geeksforgeeks.org/machine-learning/methods-for-dealing-with-outliers-in-regression-analysis/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 19
   },
   {
    "query": "site:note.com 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）",
    "results": [
-    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
     "https://note.com/reading_monkey/n/n792fbbd3d90b",
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
     "https://note.com/assawssin/n/n7f3b37ba5262",
     "https://note.com/hankshih_/n/ndc4883a42650",
     "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
     "https://note.com/jack4manastalk/n/nae5c1f7c390a",
-    "https://note.com/jack4manastalk/n/nae2210dd64f8",
-    "https://note.com/masa_san_jp/n/n56167cb7ee39",
     "https://note.com/micchel2020/n/ne7fc091c7212",
-    "https://note.com/rich_sage853/n/n5999b9757832"
+    "https://note.com/jack4manastalk/n/n23f349d009fb",
+    "https://note.com/masa_san_jp/n/n56167cb7ee39",
+    "https://note.com/jack4manastalk/n/nae2210dd64f8"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -417,12 +417,23 @@
   {
    "query": "site:x.com 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）",
    "results": [
-    "https://x.com/hahaguma/with_replies"
+    "https://x.com/hahaguma/with_replies",
+    "https://x.com/AISTATSCH/status/2085508696562659690",
+    "https://x.com/nzap9290/status/2116521342879314182",
+    "https://x.com/BBiostatistics/status/2056517093219242204",
+    "https://x.com/smo_yutohisano/status/2076793777029857629",
+    "https://x.com/i/trending/2092071997106802788",
+    "https://x.com/otoriki2015/status/2082763487550582793",
+    "https://x.com/50python2024/status/2023593249537917308",
+    "https://x.com/j0OmcPKEmMMkNWX/status/2076230084176806085",
+    "https://x.com/kindaikagakusha/status/2044273589118218671"
    ],
    "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 1
+   "n_hits": 13
   },
   {
    "query": "site:linkedin.com 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）",
@@ -430,13 +441,13 @@
     "https://jp.linkedin.com/pulse/statistical-life-regression-mean-arun-chinnachamy?tl=ja",
     "https://jp.linkedin.com/posts/york-date_外れ値その理解と対応-データ分析において外れ値の扱いは導出される結論の妥当性-activity-7340711379227578368-dxJa",
     "https://jp.linkedin.com/pulse/how-data-analysts-scientists-approach-outliers-amit-edke-zndhc?tl=ja",
-    "https://jp.linkedin.com/pulse/比較から構造へ-外れ値にこそ未来がある-michio-okazaki-jrdec",
+    "https://jp.linkedin.com/learning/statistics-foundations-the-basics-15564773/4359438",
     "https://jp.linkedin.com/pulse/understanding-descriptive-inferential-statistics-concepts-sahoo-es0ic?tl=ja",
     "https://www.linkedin.com/posts/嘉人-西口-8b5a0919b_行動経済学平均への回帰ヒトは最終的には平均に戻っていく話-ニンゲン-activity-7188669952885698560-Qfjr",
     "https://www.linkedin.com/posts/matsumocchan_デマや偏向報道に騙されない本当に正しい統計データの読み方入門-president-activity-6970899191287988224-_0Aq"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -462,19 +473,19 @@
   {
    "query": "統計報道の指針（外れ値・平均への回帰・比較の相手の置き方） note 社長",
    "results": [
-    "https://note.com/kamokita/n/nb7740238d59c",
     "https://note.com/tnishimaki/n/ndbaaed8d02be",
-    "https://note.com/nanto_econ/n/nceee2f36c432",
-    "https://zenn.dev/fuukanoo/articles/a77c23b62a023d",
-    "https://note.com/outlifest/n/n4c5ed7fb8831",
+    "https://note.com/kamokita/n/nb7740238d59c",
+    "https://note.com/nanto_econ",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://www.researchgate.net/publication/284608873_Basics_and_considerations_for_reporting_effect_sizes_in_research_papers",
-    "https://note.com/hiroaki_uehara/n/n783fa05cb136",
+    "https://note.com/nanto_econ/n/nceee2f36c432",
+    "https://note.com/tag/%E7%B5%B1%E8%A8%88",
+    "https://zenn.dev/fuukanoo/articles/a77c23b62a023d",
+    "https://www.bizreach.jp/static/articles/jf-071/",
     "https://note.com/kamokita/n/n1f79a2527f10"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -485,12 +496,12 @@
     "https://www.stat.go.jp/training/2kenkyu/ihou/72/pdf/2-2-723.pdf",
     "https://www.amed.go.jp/content/000034154.pdf",
     "https://thunderbit.com/ja/blog/x-stats",
-    "https://www.delight-solutions.co.jp/column/sns%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/x-competitor-analysis/",
     "https://www.business-research-lab.com/250529/",
     "https://proceedings-of-deim.github.io/DEIM2023/5b-5-1.pdf",
-    "https://www.nhk.or.jp/bunken/d/_data/research/yoron/BUNA0000010730030005/files/20230301_5.pdf",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://japan.editverse.com/statistics-section-submission-reporting-omissions/",
+    "https://president.jp/articles/-/34196?page=3",
     "https://prtimes.com/magazine/twitter-measurement-of-effectiveness/",
+    "https://www.nhk.or.jp/bunken/d/_data/research/yoron/BUNA0000010730030005/files/20230301_5.pdf",
     "https://metricgate.com/blogs/ja/regression-to-the-mean-misunderstood/"
    ],
    "engines": [
@@ -506,18 +517,19 @@
     "https://www.linkedin.com/posts/beginners-blog_i-just-turned-logistic-regression-one-of-activity-7389613986402562048-q4Lk",
     "https://www.linkedin.com/top-content/training-development/data-analysis-skills-training/practical-skills-for-statistics-graduates/",
     "https://www.linkedin.com/top-content/supply-chain-management/mastering-statistical-analysis/understanding-residual-analysis-in-regression-models/",
-    "https://www.linkedin.com/posts/dasimic_there-are-3-months-left-before-2026-endsif-activity-7511511147800440834-AG0z",
     "https://www.linkedin.com/top-content/science/best-practices-for-data-management/data-cleaning-and-outlier-handling-techniques/",
-    "https://www.linkedin.com/in/joshuareader-fl",
-    "https://www.linkedin.com/in/jasonwosborne-miami-university",
     "https://www.linkedin.com/top-content/training-development/data-analysis-skills-training/regression-analysis-and-modeling/",
-    "https://www.linkedin.com/posts/sumonigupta_the-data-science-roadmap-nobody-told-you-activity-7402685749634244608-S5CE"
+    "https://www.linkedin.com/in/jasonwosborne-miami-university",
+    "https://www.linkedin.com/posts/sumonigupta_the-data-science-roadmap-nobody-told-you-activity-7402685749634244608-S5CE",
+    "https://au.linkedin.com/in/rajan-shankar",
+    "https://www.linkedin.com/in/joshuareader-fl"
    ],
    "engines": [
     "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 18
   }
  ],
  "missing": {
@@ -525,6 +537,6 @@
   "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 9,
+ "runs": 10,
  "first_researched_at": "2026-11-06T20:08:53.091567+00:00"
 }
