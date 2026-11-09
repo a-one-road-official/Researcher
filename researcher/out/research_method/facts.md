@@ -1,4 +1,4 @@
-# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・270品目）
+# リサーチ手法 — 突き合わせ・推定・割り出し・一次情報の探し方（note・ブログ・専門家）（事実のみ・273品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -4932,38 +4932,45 @@
 ## 統計の速報と確報の改訂の大きさを測る実務（平均改訂・平均絶対改訂・片寄りの検定・日本の統計の例）（revision analysis mean revision mean absolute revision bias test preliminary estimates real-time data）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「than the naïve method.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「deliveries or a redefinition of methodological principles. If first estimates of macroeconomic」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「5A more detailed methodological description of the working group can be found here: https://www.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「statistikportal.de/de/vgrdl/methoden-und-informationen.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「accounting system such as revised methods, definitions, or classifications. Ongoing revisions」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「de/vgrdl/methoden-und-informationen#revisionen.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「in German GDP growth estimates, for an improvement of calculation methods for the first」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「on the methodological guide of the working group, I suggest that mainly three reasons are」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「9The detailed methodological guide can be found here: https://www.statistikportal.de/de/vgrdl/」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「methoden-und-informationen.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「Additional explanations for the previous results might be found in the methodological」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「10The methodological guide of the Working Group Employment Accounts can be found here:https://www.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「statistikportal.de/de/etr/definitionen-und-methoden#methoden.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「in real-time. More precisely, I apply the methodology by Lehmann and Wikman (2023) and」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「model. Second, I introduce the main steps undertaken in the real-time setup. Finally, I」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「Conceptualization, Formal analysis, Investigation, Methodology, Software, Writing – original draft, Writing – review & editing」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「Conceptualization, Methodology」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「], while the residual density method was applied to estimate the distribution of revised updates in weekly ILI data [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. More recent efforts have focused on probabilistic and Bayesian frameworks to better handle uncertainty and temporal variation in delays. A flexible Bayesian model, Nowcasting by Bayesian Smoothing (NobBS), was introduced to accommodate time-varying delay distributions and improve uncertainty quantification for dengue and ILI case counts [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. Generalized Bayesian methods using Laplace approximation were applied to dengue and SARI data in Brazil [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「] - were developed and evaluated within a common probabilistic scoring framework. Some models also account for backfill uncertainty without explicitly modeling its dynamics [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「Compared with seasonal infectious diseases, COVID-19 surveillance data are noisier and less regular, making it harder to extract stable features for revision modeling. To address these challenges, several recent methods have been proposed. A neural network-based framework has been proposed to refine COVID-19 forecasts using weekly case counts [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. Although effective, this method requires substantial computational resources and does not account for the statistical properties inherent in public health datasets. Besides, a Bayesian spatiotemporal nowcasting model was introduced to estimate COVID-19 case counts at the county level in Ohio, incorporating an autoregressive structure to capture temporal dynamics [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. Both methods focus on count-type data and were evaluated only during the pre-Delta phase of the pandemic.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「Among existing methods, Epinowcast [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. However, these macroeconomic methods are not directly transferable to public health contexts. Revisions in public health data are driven by health-seeking behavior and the administrative practices of public health agencies which are influenced by operational constraints, staffing capacity, and evolving reporting protocols, etc.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「In this paper, we introduce Delphi Revision Forecast (Delphi-RF), a robust and operational framework for correcting data revisions, which is openly available at」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「Fig 1. Overview of the Delphi-RF framework.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「(A) Preparatory step: early exploration of historical revisions to define the target lag」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「presents the proposed model, the evaluation framework, and the adaptive modeling protocol.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
 - 突き合わせ・推定：
-  - 「We distinguish between three different ways of using real-time data to estimate forecasting」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「If the mean revision is significantly different from zero, it indicates a tendency for initial releases to be systematically over- or under-estimated. A」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「where ( \sigma_y ) is the standard deviation of the final value ( y_t^f ). A high noise-to-signal ratio suggests that revisions are large relative to the underlying variability in the final data, indicating high uncertainty in initial estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「A significant correlation suggests that initial estimates contain information that predicts later revisions. A」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「A high fraction of incorrect signs in either metric suggests that early estimates may be unreliable in capturing the true direction of the variable.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「The initial announcement is an observation of the final series, measured with error. This means that the revision is uncorrelated with the final value but correlated with the data available when the estimate is made.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「The initial announcement is an efficient forecast that reflects all available information, and subsequent estimates reduce the forecast error by incorporating new information. The revision is correlated with the final value but uncorrelated with the data available when the estimate is made, i.e., unpredictable using the information set at the time of the initial announcement.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「efficient and unbiased estimate」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「, provides a measure of the accuracy of a initial estimates (( y_t^h )) relative to final or more refined values (( y_t^f )). Various definitions of Theil’s statistics exist, leading to different interpretations. This package considers two widely used variants:」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「even when preliminary estimates are close to the final values.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「in the preliminary estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「means the accuracy of the preliminary estimates is equal to a」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「suggests the preliminary estimates are」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「indicates the preliminary estimates are」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「for evaluating preliminary estimates.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
+  - 「to predict real GDP growth. When the model is estimated using our preferred method, its out-of-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「be used to estimate recursive regressions and forecasts of real GDP growth running from 1990:Q1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「forecasting equation is estimated is extended, the vintage of the data used to estimate the equation is」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「estimated with 1999:Q1-vintage data, one uses the prediction of an equation estimated with」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「1990:Q1-vintage data to forecast GDP growth in 1990:Q1, the prediction of an equation estimated」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「Rather than use end-of-sample-vintage data to estimate their forecasting equations, we argue」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「We further argue that first-available official estimates should be used for the left-hand-side variable」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「when estimating the forecasting equation. First-available estimates ought to be used on the」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「growth and early estimates of (say) employment growth will typically be different from that」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「between GDP growth and estimates of employment growth available several years after the fact. It」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「release is an efficient estimate of subsequent releases, meaning that revisions to the initial release」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「assumption holds, unbiased estimates of the parameters linking true GDP growth to the real-time-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「hand side of the estimated equation. Less obviously, the parameter estimates obtained using initial-」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「this additional information is extraneous noise. Even if the government’s initial estimates are not」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
+  - 「], while the residual density method was applied to estimate the distribution of revised updates in weekly ILI data [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
 - 一次情報の探し方：
+  - 「pcbi.1013709.s002.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「(1.4MB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「1) We ask that a manuscript source file is provided at Revision. Please upload your manuscript file as a .doc, .docx, .rtf or .tex. If you are providing a .tex file, please upload it under the item type u2018LaTeX Source Fileu2019 and leave your .pdf version as the item type u2018Manuscriptu2019.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「Review_D_25_00938.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「pcbi.1013709.s008.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「(48.2KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「PDF (6.5 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
   - 「The vintages are organized in sheets representing single aggregate-state-combinations that」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「statistikportal.de/sites/default/files/2022-09/vgrdl_Qualitaetsbericht_2022.pdf.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「戦後の統計体系の見直しに向けた作業が内閣府の統計委員会を中心に行われている」（https://nira.or.jp/paper/report0810.pdf）
@@ -4972,14 +4979,8 @@
   - 「わしい統計の構築に向けた幕開けといえるものである」（https://nira.or.jp/paper/report0810.pdf）
   - 「本年秋には、 「公的統計の整備」（https://nira.or.jp/paper/report0810.pdf）
   - 「時代から取り残されつつある現在の統計体系を見直すには、多様なアクターが参加」（https://nira.or.jp/paper/report0810.pdf）
-  - 「われわれは、統計利用者の立場から、現在の統計の諸」（https://nira.or.jp/paper/report0810.pdf）
-  - 「問題、今後の課題について議論を重ね、今回、新たな時代にふさわしい統計改革につ」（https://nira.or.jp/paper/report0810.pdf）
-  - 「1. 統計の役割と最近の統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
-  - 「(1) 統計の目的」（https://nira.or.jp/paper/report0810.pdf）
-  - 「統計は現実に生じていることの実態を把握することが目的であるが、 その用途には、」（https://nira.or.jp/paper/report0810.pdf）
-  - 「(2) 統計制度見直しの経緯」（https://nira.or.jp/paper/report0810.pdf）
-  - 「今回の統計制度の見直しの議論は、当時、経済財政諮問会議民間議員であった吉川」（https://nira.or.jp/paper/report0810.pdf）
 - 失敗・落とし穴：
+  - 「asymptotes. On the other hand, we want our model to remain adaptive. Data revision dynamics evolve over time, and training on outdated data could result in model mismatch or bias. Selecting a target lag」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
   - 「The mean revision quantifies systematic bias in the revisions:」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「\text{Bias} = \bar{r} = \frac{1}{N} \sum_{t=1}^{N} r_t^{f}」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
   - 「"Bias (robust p-value)"」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
@@ -4994,23 +4995,22 @@
   - 「and downward revisions equalize, no systematic bias in any direction exists. Efficiency of the」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「together with thep-values from the tests on unbiasedness, efficiency, and predictability.」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
   - 「and Saarland values for 2009 might possibly be severely biased due to the influence of general」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「growth are unbiased, efficient, and the revisions are not predictable (see Table 3). This is」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
 - 実例：
-  - 「. In such cases, the denominator and numerator become equal, leading to」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「In the above examples, we analyze GDP revisions by comparing the final release with the first and second releases, which correspond to the diagonal elements of the real-time data matrix. This approach provides insight into how initial estimates evolve over time.」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「Alternatively, we can compare GDP revisions between specific publication dates. In the example below, we analyze revisions from the GDP releases from April and July 2024, using the final release from October 2024 as the benchmark. The grouping of statistics is by default determined by the」（https://rdrr.io/cran/reviser/f/inst/doc/revision-analysis.Rmd）
-  - 「2 as applied to Equation 12. In addition, the table presents results for the special case of Strategy-1」（https://www.dallasfed.org/~/media/documents/research/papers/2000/wp0004.pdf）
-  - 「example, macroeconomic aggregates is missing, whereas this is fairly standard for national-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「aggregates READ-GER contains, for example, real gross domestic product, total domestic」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「policies (for example, optimal interest rates) on well grounded information sets. Thus, well-」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「1In case of Norway, Helliesenet al. (2022) state that growth rates of real national accounts figures—with」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「For example, the Statistical Office Bavaria calculates annual GDP for all 16 German states」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「for example, German GDP is not calculated by summing up the state values. Instead, it is」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「are labeled as, for example,V1–1. The identifier prior to the hyphen, V1, is the running」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「three examples for the unique identifier. V2–3 is the sheet that comprises nominal gross」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「the calculation base. For example, the March 2005 vintage is based on information from」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「Over the years, the working group faced some severe issues, for example, by switching」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
-  - 「General revisions take place periodically, usually each five years. In my case, the general」（https://www.ifo.de/DocDL/cesifo1_wp10315.pdf）
+  - 「Several studies have addressed data revision and reporting delay issues, particularly in the context of seasonal infectious diseases with extensive weekly surveillance data. Early approaches relied on relatively simple statistical models. For instance, linear regression was used to adjust provisional data and forecast ILI case counts across 15 Latin American countries [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. More recent efforts have focused on probabilistic and Bayesian frameworks to better handle uncertainty and temporal variation in delays. A flexible Bayesian model, Nowcasting by Bayesian Smoothing (NobBS), was introduced to accommodate time-varying delay distributions and improve uncertainty quantification for dengue and ILI case counts [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. Other approaches have incorporated structured or semi-mechanistic models. For example, to nowcast delayed norovirus cases in England during winter 2023/24, three models—a generalized additive model, a Bayesian structural time series model incorporating syndromic surveillance data, and the semi-mechanistic Bayesian delay model EpiNowcast [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「Compared with seasonal infectious diseases, COVID-19 surveillance data are noisier and less regular, making it harder to extract stable features for revision modeling. To address these challenges, several recent methods have been proposed. A neural network-based framework has been proposed to refine COVID-19 forecasts using weekly case counts [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. Although effective, this method requires substantial computational resources and does not account for the statistical properties inherent in public health datasets. Besides, a Bayesian spatiotemporal nowcasting model was introduced to estimate COVID-19 case counts at the county level in Ohio, incorporating an autoregressive structure to capture temporal dynamics [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「. Only a minimal portion of data revision results from instances where a case is initially lost but subsequently recovered, or when a case is initially entered incorrectly but corrected later. Most data revisions are typically the result of reporting delays. The data revision sequence」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「for all reference dates and locations that captures the majority of revisions (e.g., 90% of case counts reported) after exploring the available revision history of a public health data stream. Additionally, we ensure that the target lag does not exceed 60 days to maintain the model’s adaptability.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「): To emphasize training examples that resemble the current epidemic context, we introduce sample-specific weights:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「. For example,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「Beyond evaluating the performance of our proposed method, we compare it against established approaches such as Epinowcast and NobBS in terms of both forecast accuracy and computational efficiency for count-type public health data. We further demonstrate the adaptability of our framework by extending it to weekly datasets, including dengue and ILI case counts.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「COVID-19 cases in MA:」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「The Massachusetts Department of Public Health (MA-DPH) provides a comprehensive revision history of COVID-19 case reporting [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「]. This dataset includes the 7-day moving average of confirmed COVID-19 cases, updated daily from 2021-01-01, until 2022-07-08. After this date, the reporting frequency transitioned to weekly updates, occurring every Thursday. The initial release of the report for a reference date」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「, over 90% of the confirmed cases for a given reference date are reported within 7 days. Given this pattern, developing a data revision forecasting model for weekly reports is unnecessary.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
+  - 「, across reporting lags. For count-type data (e.g., the number of confirmed cases),」（https://pmc.ncbi.nlm.nih.gov/articles/PMC12646461/）
 
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
@@ -7577,6 +7577,8 @@
   - 「情報源を確認する（公的機関・公式発表との照合）」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
   - 「政策、法律、統計、災害、健康、経済などの分野では、国や自治体、国際機関、企業の公式発表と照合することが重要」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
 - 失敗・落とし穴：
+  - 「海外サイトの失敗しない作り方を解説！国ごとの傾向や成功事例も紹介」（https://fungry.co.jp/cnaps/blog/fact-check/）
+  - 「AIを活用したSEOコンテンツ制作｜メリットからおすすめツール選び、注意点まで解説【2026年版】」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「マンガ動画をマーケティングや広告に活用！メリットや手順、制作時の注意点を解説」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「不確かな情報を発信しないように注意し、常に正しい情報を発信する」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「注意すべきは、」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -7590,8 +7592,6 @@
   - 「AI・ツールを使う際の注意点と信頼性判断のポイント」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
   - 「存在しない情報源を示したり、事実と異なる内容を提示したりする場合があることに注意が必要です」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
   - 「AIやツールを使えば、文章内の数値や表現を学習済みデータや外部ソースをもとに、誤りや不整合の可能性がある箇所を自動で提示できます」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
-  - 「ただし、AIの指摘は「誤りの可能性」を示すものに過ぎないため、最終的な表現判断は人が行う必要があります」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
-  - 「ChatGPT・Grok・Geminiなどのツールや専用サービスを活用すれば効率化できますが、AIの出力を鵜呑みにせず必ずダブルチェックを行いましょう」（https://www.itscom.co.jp/forbiz/column/office-environment/17399/）
 - 実例：
   - 「近年、インターネットの発展により多様な情報にアクセスしやすくなった一方、中には誤った情報が紛れているケースも少なくありません」（https://fungry.co.jp/cnaps/blog/fact-check/）
   - 「公開された言説のうち、客観的に検証可能な事実について言及した事項に限定して真実性・正確性を検証し、その結果を発表する営みを指す」（https://fungry.co.jp/cnaps/blog/fact-check/）
@@ -12577,21 +12577,21 @@
   - 「うまくいったこと、失敗したことが事務所に蓄積され、ノウハウを共有できます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
   - 「判断に必要な情報を開示し、失敗しても戻れる範囲を決めたうえで、決定をタレントに委ねる」（https://note.com/enogu_llc/n/ncd8acbdc4199）
 - 実例：
+  - 「Other use cases include」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「feed into a single target: for example, validating that a consolidated data warehouse matches both a staging environment and an operational database.」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「on each source dataset, allowing you to reconcile only a subset of records that match certain criteria (for example, only transactions from the current month, or only rows belonging to a specific business unit).」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「. This tolerance can be set depending on the business context. Some use cases may allow small discrepancies (e.g., rounding differences), while others require exact equality.」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「that is applied on top of any existing dataset filters. This allows you to reconcile only a targeted segment of data within the context of the specific check—for example, testing only a single business unit, product family, or date range.」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「A single filter expression only works when the same SQL is valid against both datasets. That is often not the case: a legacy source and its migrated copy routinely differ in column names, status encodings, or partitioning conventions.」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「on both sides makes a code that differs only in case or padding count as the same code, rather than as one value missing on each side. There are no key columns there, so the caution above does not apply.」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「Pick the direction that matches the relationship — the target constrained to the values of the source (the usual case when the source is the system of record), the source constrained to the target, or the two required to hold exactly the same set. Because the comparison is over distinct values, duplicates are irrelevant and no key column has to be declared; rows whose compared columns are」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
+  - 「Entries in the source list may reference the same dataset, each through its own filter — for example, two differently filtered slices of one dataset compared against the target. Where the slicing only differs per check, a single source with per-check filters keeps the contract shorter.」（https://docs.soda.io/soda-documentation/find/data-testing/data-reconciliation）
   - 「この「静かな失敗」を検出できるのは、結果の数字を突き合わせる作業だけです」（https://www.asteria.com/jp/warp/blog/166270.html）
   - 「Practical pattern: run deterministic rules to auto‑match the low‑risk portion, run probabilistic matching for the medium‑risk bulk, and route heuristic or ambiguous cases to a」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
   - 「Attribute-weight example for a physical server (weights as」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
   - 「A compact Python example implementing a Fellegi–Sunter style scoring function with Jaro–Winkler similarity for strings:」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
   - 「Merge example (practical scenario):」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
   - 「Sample SQL to find obvious duplicates (hostname example):」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
-  - 「Example Splink workflow (high-level) for probabilistic linkage:」（https://beefed.ai/en/cmdb-reconciliation-rules-algorithms）
-  - 「For example, a typical setup might reconcile Customer and Order facts across ERP and CRM nightly. The platform can alert you if order counts by day diverge, if SHA-256 fingerprints differ, or if order status transitions violate business rules. For broader industry patterns on reconciliation, see this practical」（https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/）
-  - 「Perform row-level diffs by key and verify business logic coherence with cross-field rules. Examples include uniqueness on order_id, referential integrity from invoice to customer, non-negative inventory, and valid timestamp ranges. A reliable sequence: count group count table hash row hash by key direct field comparison. Avoid engine-specific」（https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/）
-  - 「Use day, account, and product groupings for early signals, then set acceptable variance policies for late data. For example, many teams allow a tiny variance in the most recent hour (e.g., within a small percentage or count), then require exact agreement for prior days once freshness SLAs elapse.」（https://dqpursuit.com/cross-system-data-validation-a-7-step-reconciliation-guide/）
-  - 「結果として、多くのマネージャーが手探りでマネジメントと向き合うことになります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「：VTuber事務所、行政機関などが公表している資料や事例」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「目標を定め、工程を設計し、結果を振り返る」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「自分で決め、結果を受け止める経験を積むことで、活動を自分で組み立てる力が身につきます」（https://note.com/enogu_llc/n/ncd8acbdc4199）
-  - 「結果として、トラブルのきっかけになることもあります」（https://note.com/enogu_llc/n/ncd8acbdc4199）
 
 ## 事業所・企業の調査で件数の回答率と量で見た回答率を分ける（大きな先が総額を占める・補完の割合）（business survey unit response rate vs quantity response rate imputation share large units）
 - 文脈：失敗・落とし穴
@@ -13435,37 +13435,37 @@
 ## 事業所・企業の調査の重み付きの回収率（総額のうち答えた先が占める割合）と非回答の内訳（連絡不能・データ無し・承諾後に未提出）を報告する実務（統計局・FCSM・調査会社の書き手）（weighted response rate establishment survey nonresponse categories FCSM）
 - 文脈：検証
 - 手順・やり方：
-  - 「Federal Committee on Statistical Methodology」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Stephen Blumberg (Co-Chair)」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practice 7: Discuss recommendations for data collection methods and adjustment strategies」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Framework for Data Quality from the Federal Committee on Statistical Methodology (FCSM).」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「the methods, results, and conclusions from those nonresponse bias analyses.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The literature on how to conduct nonresponse bias analyses is extensive and growing.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The methods used for any data collection will be a function of the characteristics of that data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「refers to various methods for conducting, and aspects of, nonresponse bias analyses. But these」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「methods are not fully described. Readers will need to refer to the many existing references for」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「more information on these methods.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「documentation of the methods and results of nonresponse bias analyses so that readers can」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「can occur when the likelihood of responding to surveys or other data collection methods (or」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「survey methods expertise should be solicited when developing the plan for the nonresponse bias」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「paper is based on the work of IGEN members who currently are: Stephanie H. Brown, U.S. Bureau of the Census (BOC);」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「data collection methods, whether participation was mandatory or voluntary.)」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「the rates produced by the Standard Economic Processing System (StEPS) for the Census Bureau’s economic surveys and」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「processing system called StEPS, which is being phased in」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「paper is based on the work of IGEN members who currently are: Stephanie H. Brown, U.S. Bureau of the Census (BOC);」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「data collection methods, whether participation was mandatory or voluntary.)」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「the rates produced by the Standard Economic Processing System (StEPS) for the Census Bureau’s economic surveys and」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「processing system called StEPS, which is being phased in」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「– statistical collection procedures and methods」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「statistical methods (broadly defined)」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「process, survey methodology, and statistics」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「use the data and how the methods chosen」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「– Weighting methods may include poststratification, raking,」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「• Each method of studying nonresponse」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「• Multiple methods are needed」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
 - 突き合わせ・推定：
-  - 「which population-based estimates are published .......................................................................... 15」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「reporting on nonresponse bias in estimates obtained from survey data. Nonresponse bias is one」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The generalizability of survey estimates , a key quality indicator (FCSM, 2020), relies on」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse bias affects both the accuracy and the reliability of population estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「possible sources of error that can cause survey estimates to differ from the underlying population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「have a large impact on the final estimate.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「quality of the estimates produced.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「survey error — the difference between a survey estimate and the true value— thus enhancing the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「bias, to assess the potential for compounded or distorted bias estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「estimates given the overall survey design. The report should describe the key aspects of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「the estimate given the sampling frame. According to the FCSM report, A Framework for Data」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「estimates. Descriptions of any unequal probabilities of inclusion used should be included.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「specific key estimates or outcomes. The report should provide a description of the survey’s key」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「estimates or outcomes and the set of variables used to produce them . Any other survey variables」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「however, it is not necessarily a strong predictor of the nonresponse bias in survey estimates」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Total estimated quanity for all eligible reporting units」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「the weighted rate is generally used to indicate the proportion of some estimated population total which is contributed by」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「population total. In these cases, the weighted response rate is probably a better indicator of the quality of the estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「(4) measure proportion of estimates based on imputation, (5) measure relationships between the sample and the sampling」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「be considered to assess the overall quality of sample survey estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「O/(n+NAT) Pending rates. Rates to measure proportion of population estimate」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「N cfsi ÷∑ti To see how estimates for useable」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「Total estimated quanity for all eligible reporting units」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「the weighted rate is generally used to indicate the proportion of some estimated population total which is contributed by」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「population total. In these cases, the weighted response rate is probably a better indicator of the quality of the estimates.」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「(4) measure proportion of estimates based on imputation, (5) measure relationships between the sample and the sampling」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「be considered to assess the overall quality of sample survey estimates.」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「O/(n+NAT) Pending rates. Rates to measure proportion of population estimate」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「N cfsi ÷∑ti To see how estimates for useable」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「• e = estimated proportion of sample units of unknown eligibility」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
 - 一次情報の探し方：
   - 「https://aapor.org/wp-content/uploads/2023/05/Standards -Definitions-10th-edition.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
   - 「https://www.bls.gov/osmr/research -papers/2016/pdf/st160020.pdf」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
@@ -13478,37 +13478,37 @@
   - 「standards-apr2022.pdf. Accessed 17 Sept. 2024.」（https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf）
   - 「gov/indicator/qss/qsstecdoc.pdf.」（https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf）
 - 失敗・落とし穴：
-  - 「Best Practices for Nonresponse Bias Reporting」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Prepared by the Nonresponse Bias Subcommittee of the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「SM, Fakhouri THI, Piscopo KD. 2023. Best Practices for Nonresponse Bias Reporting, FCSM-23-01」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Nonresponse Bias Subcommittee」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practices for Nonresponse Bias Reporting June 2023 1」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「GUIDANCE FOR DEVELOPING A NONRESPONSE BIAS REPORT ..................................... 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practice 1: Describe the survey that is the subject of the nonresponse bias analysis ............. 10」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「the nonresponse bias analysis......................................................................................................... 13」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「nonresponse bias ................................................................................................................................. 14」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 2.7. Discuss the potential for nonresponse bias given weighted response rates,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practice 3: Describe the plan for evaluating and quantifying nonresponse bias and any」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Guideline 3.2. Describe the analysis plan for comparing and assessing nonresponse bias levels」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「Best Practices for Nonresponse Bias Reporting June 2023 2」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「Nonresponse Bias Analysis for」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「• Nonresponse rates and Nonresponse bias」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「risk of nonresponse bias」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「decisions. Nonresponse bias analyses must be」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「suggest the potential for bias to occur.」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「• Guideline 1.3.4: Plan for a nonresponse bias」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「• Guideline 1.3.5: Plan for a nonresponse bias」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「nonresponse bias with an assessment of」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「• For a sample mean, an estimate of the bias of the」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「• Nonresponse bias analyses can include:」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「Overview of Nonresponse Bias」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「2. Nonresponse bias for estimates based on」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「evaluate bias due to nonresponse in the survey」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「other data source is an indicator of bias (both」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
+  - 「indication of the bias」（http://www.dc-aapor.org/documents/Harris-Kojetin2012.pdf）
 - 実例：
-  - 「bias for other data sources. For example, gaps in data resulting from malfunctioning sensors in a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「additional cases does not necessarily decrease bias (Heerwegh, Abts, & Loosveldt, 2007). Some」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「nonresponse bias. For example, if a survey i ncludes a longitudinal component, it may be useful」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「possible, any bias identified in the nonresponse bias analysis, for example by adjusting survey」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「collection procedures, including comprehensive metadata. As is the case with all guidance」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「survey and the population for which inferences will be made. For example, the target population」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「where each sample unit has a known probability of selection. For example, an address -based」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「telephone number or cell phone number. In some cases, a list of email addresses may provide a」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「students at a university). For example, t he Bureau of Labor Statistics uses unemployment」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「rely on multiple frames in which case information on each frame used and how they are used」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「about the target population” (p. 38) . For example, target household units without landline」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「The report should describe the level(s) at which data were collected. For example, the」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「For example, households without tele phones cannot participate in telephone -only surveys」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「tested during data collection to increase response rates and reduce potential bias. Examples of」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
-  - 「associated with bias, there are some situations where the latter may not lead to bias. For example,」（https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf）
+  - 「selected surveys and provide examples of how agencies calculate and present response rates. We also」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「population total. In these cases, the weighted response rate is probably a better indicator of the quality of the estimates.」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「units sampled or targeted in the respective surveys. For example, some rates are calculated with only eligible units, while」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「7. Basic description of survey administration design (Examples of information include: Panel survey,」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「notation were developed to categorize the survey case outcomes that agencies commonly used in rates across the surveys」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「administration which can affect response levels. For example, a longitudinal sample panel would likely suffer greater」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「response rates, making it difficult to detect change in establishment survey response. For example, the National Hospital」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「American Association for Public Opinion Research (1998) Standard Definitions: Final Dispositions for Case Codes and」（https://statspolicy.gov/assets/fcsm/files/docs/IGEN_ices3_final.pdf）
+  - 「selected surveys and provide examples of how agencies calculate and present response rates. We also」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「population total. In these cases, the weighted response rate is probably a better indicator of the quality of the estimates.」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「units sampled or targeted in the respective surveys. For example, some rates are calculated with only eligible units, while」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「7. Basic description of survey administration design (Examples of information include: Panel survey,」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「notation were developed to categorize the survey case outcomes that agencies commonly used in rates across the surveys」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「administration which can affect response levels. For example, a longitudinal sample panel would likely suffer greater」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
+  - 「response rates, making it difficult to detect change in establishment survey response. For example, the National Hospital」（https://nces.ed.gov/FCSM/pdf/IGEN_ices3_final.pdf）
 
 ## ストック（時点の数）とフロー（期間の量）を分けて推定し、公表値と対象範囲をそろえて確かめる実務（フェルミ推定・市場規模の推定の書き手・需要側と供給側の2つの切り口）（stock vs flow estimation market sizing demand side supply side sanity check）
 - 文脈：推定
@@ -15114,6 +15114,68 @@
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 数字の誤りの元の分類と訂正の調査（聞き違い・出どころの誤り・意図的な誇張・計算の誤り・他媒体の写し・Craig Silverman・Regret the Error・新聞の訂正の研究・4-118）（Craig Silverman Regret the Error numerical errors causes newspaper corrections study）
+- 文脈：推定
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## 登記の住所の実在の確かめ方（地図・航空写真・バーチャルオフィス・私書箱・本店と工場の住所の違い・EBU Spotlight・GIJN・4-119）（verifying registered address virtual office PO box satellite imagery company OSINT）
+- 文脈：推定
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
+
+## デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119）（enhanced due diligence escalation triggers adverse media weighting OSINT）
+- 文脈：推定
+- 手順・やり方：
+  - 「Evidence that analysts have been trained on what constitutes a genuine hit, how to assess materiality, and when to escalate to the MLRO.」（https://www.fluxforce.ai/glossary/adverse-media-screening）
+  - 「is the most widely cited public benchmark for testing methodology.」（https://www.fluxforce.ai/glossary/adverse-media-screening）
+  - 「Common challenges and how to address them」（https://www.fluxforce.ai/glossary/adverse-media-screening）
+  - 「framework, operating alongside sanctions screening and PEP checks as the three primary name-screening disciplines. Together, they form the screening layer of a customer due diligence program. Its findings feed into and draw from adjacent controls across the AML stack.」（https://www.fluxforce.ai/glossary/adverse-media-screening）
+  - 「, but across every major framework the direction is the same:」（https://www.sigma360.com/adverse-media-screening/）
+  - 「The four major regional frameworks follow the same direction:」（https://www.sigma360.com/adverse-media-screening/）
+  - 「Taken together, these frameworks confirm that」（https://www.sigma360.com/adverse-media-screening/）
+  - 「Regulated financial institutions (banks, payment firms, fintechs, insurers, and asset managers) face the clearest obligations under AML/CFT frameworks.」（https://www.sigma360.com/adverse-media-screening/）
+  - 「Sigma360's privacy program is designed to address the requirements of multiple data-protection frameworks, including the EU and UK GDPR, and applicable U.S. state privacy laws. Sigma360 has achieved SOC 2 Type II certification, protecting your data, workflow, and reputation at any scale.」（https://www.sigma360.com/adverse-media-screening/）
+  - 「that inform how most countries structure their AML frameworks, including the expectation that firms understand the nature of a customer's business and assess risk on an ongoing basis.」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「for licensed financial institutions sit within the federal legal framework and related Central Bank guidance, which draws on FATF standards. Other GCC jurisdictions have their own legislation and regulators.」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「Required as part of CDD/EDD frameworks; triggers enhanced due diligence」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「How to verify if a company is legit」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「Adverse Media Screening In 2026: What It Misses & How To Fix」（https://www.neotas.com/adverse-media-screening/）
+  - 「Explore detailed insights into our methodologies, platform capabilities, and industry-specific applications.」（https://www.neotas.com/adverse-media-screening/）
+- 突き合わせ・推定：
+  - 「Financial crime compliance costs institutions an estimated」（https://www.sigma360.com/adverse-media-screening/）
+  - 「– To cross-check emerging risks」（https://www.facctum.com/terms/adverse-media-screening）
+- 一次情報の探し方：
+  - 「cleanly while court filings, regulatory announcements, or investigative reporting document serious risks that no list has yet captured.」（https://www.sigma360.com/adverse-media-screening/）
+  - 「Court records and legal filings」（https://www.sigma360.com/adverse-media-screening/）
+  - 「A database can only match what someone already collected and tagged. Court filings that were never digitized, regulatory actions in jurisdictions with weak data infrastructure, and disputes settled privately never enter the index. The absence of a hit is the absence of a record in that vendor’s collection, not the absence of risk.」（https://www.neotas.com/adverse-media-screening/）
+- 失敗・落とし穴：
+  - 「What are the most common mistakes in adverse media screening programs?」（https://www.neotas.com/adverse-media-screening/）
+  - 「These mistakes show up again and again when Neotas analysts review a client’s existing adverse media screening process against an investigation on the same subjects.」（https://www.neotas.com/adverse-media-screening/）
+  - 「The most expensive mistake. A no-match result gets recorded as a positive finding when it is the absence of a finding. Build the language into your policy: an adverse media screening result is not a risk conclusion.」（https://www.neotas.com/adverse-media-screening/）
+- 実例：
+  - 「was filed on any customer, the system automatically triggered a fresh adverse media search. In the first six months, this process caught 23 cases where new negative news had emerged after onboarding. Eleven of those led to account exits.」（https://www.fluxforce.ai/glossary/adverse-media-screening）
+  - 「is the clearest example at scale: thousands of non-resident customers with publicly documented criminal histories were maintained for years with no evidence of ongoing screening. The Estonian Financial Intelligence Unit found that adverse media controls were effectively non-functional for this population.」（https://www.fluxforce.ai/glossary/adverse-media-screening）
+  - 「or case escalation. When screening surfaces a current criminal investigation or regulatory action involving a customer, the proportionate response is a full EDD refresh and a reassessment of the business relationship.」（https://www.fluxforce.ai/glossary/adverse-media-screening）
+  - 「When examiners review an enforcement case, they look for evidence of a risk-based approach: the right customers screened at the right frequency, reasoning recorded, and proportionate action taken.」（https://www.sigma360.com/adverse-media-screening/）
+  - 「Adverse media monitoring tools: features, use cases, and tips」（https://www.sigma360.com/adverse-media-screening/）
+  - 「Hurtado Olascoaga case」（https://www.sigma360.com/adverse-media-screening/）
+  - 「Sigma360 case study」（https://www.sigma360.com/adverse-media-screening/）
+  - 「For example, a supplier mentioned in a local news article about a fraud investigation is a different risk signal from a supplier named in passing in a business directory profile that also mentions an unrelated legal dispute from a decade ago.」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「The following reflects a typical workflow used by many compliance teams, illustrated here as an example rather than a fixed regulatory requirement:」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「of the hits most likely to be relevant, so reviewer time is spent on the cases that need judgement.」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「Adverse media assessment involves context and judgement that automated systems support rather than fully replace, particularly for borderline or ambiguous cases.」（https://www.azakaw.com/blog/adverse-media-screening）
+  - 「Most teams run adverse media screening by searching a name through a commercial database. The tool returns matches, an analyst clears or escalates them, and the case moves forward. It is fast, repeatable and cheap. It is also the most misunderstood control in the due diligence stack, because a clean result feels like proof of safety when it is only proof of no match.」（https://www.neotas.com/adverse-media-screening/）
+  - 「Four of these 5 blind spots return a clean result. They do not error, flag or warn. The screen reports no match and the case moves forward. That is what makes a blind spot more dangerous than noise: a false positive gets reviewed, a false negative gets filed.」（https://www.neotas.com/adverse-media-screening/）
+  - 「Write your third party due diligence policy so an adverse media screening result never closes a case on its own for medium and high-risk tiers. State plainly which tier triggers investigation beyond a screen. Most programs never define that threshold, which is why the screen quietly becomes the whole process.」（https://www.neotas.com/adverse-media-screening/）
+  - 「Is there human investigation for high-stakes cases, or is the output only ever automated?」（https://www.neotas.com/adverse-media-screening/）
+
+## 業種から行政の記録を逆引きする探し方（水質汚濁防止法の特定事業場・PRTR・大気汚染防止法の届出・入札・補助金の採択の一覧・4-119）（find company records by industry permits environmental filings procurement subsidies Japan）
 - 文脈：推定
 - 手順・やり方：記載なし（読んだ30頁・検索12回）
 - 突き合わせ・推定：記載なし（読んだ30頁・検索12回）

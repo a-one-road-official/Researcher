@@ -1,0 +1,802 @@
+{
+ "name": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）",
+ "en": "Census of Manufacture dies and moulds shipments value annual 2010 2017 Japan",
+ "aliases": [
+  "工業統計 金属用金型 製造品出荷額 2010",
+  "工業統計 金型 出荷額 2017 1兆",
+  "e-Stat 金属用金型・同部分品・附属品製造業 出荷額"
+ ],
+ "context": "統計",
+ "kind": "market",
+ "researched_at": "2026-11-09T02:57:27.014336+00:00",
+ "evidence": {
+  "受注金額・加工賃収入": [
+   {
+    "quote": "○賃加工については、第 27 回生産物分類策定研究会の資料１－１の【論点３】の対処方針",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主に工業統計において、JSIC の細分類 （４桁） ベースで、 賃加工のみしか存在しない分",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2432 ガス機器・石油機器製造業 機械刃物（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2446 製缶板金業 利器工匠具 手道具（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2479 その他の金属線製品製造業 その他の金物類（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "249 その他の金属製品製造業 配管工事用附属品（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2811 電子管製造業 電子管（賃加工）",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "10年推移": [
+   {
+    "quote": "・2020月報より、「ショベル系掘削機械（0.2㎥未満）」「ショベル系掘削機械（0.2㎥",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "263 繊維機械製造業 1 農業用乾燥機 2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2633 染色整理仕上機械製造業 1 飼料機器 飼料裁断機、飼料粉砕器、飼料配合機等 2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【生動】2020月報「ショベル系掘",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産動態統計（2020月報）の品目",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2651 鋳造装置製造業 1 掘さく機（ショベル系を除く） ドラグライン、クラムシェル、トンネル掘進機等 2019年工業統計調査商品分類表に",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【生動】2020月報「トラックク",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【生動】2020月報「整地機械",
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "公開日 2022年8月5日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "最終更新日 2023年1月6日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2021_工業用革製品製造業（手袋を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "調査対象数＝192,047事業所（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "回収率＝95.1％（2020年調査）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年 – 2020年 月日の部分へすべて1月1日",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "＞工業統計調査_2-01_産業細分類別_ 年次 2005年 - 2019年 (列 - 複数値形式)(https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/)...",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "経済センサス活動調査・工業統計調査_1-03_品目別_都道府県別_年次 2016年 – 2020年 (列指向形式)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "事業所数・社数": [
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "社員数・平均社員数": [
+   {
+    "quote": "1122_絹・人絹織物業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1142_絹・人絹織物機械染色業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "2183_人工骨材製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3251_娯楽用具・がん具製造業（人形を除く）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "3252_人形製造業",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、従業者3人以下の事業所を除く",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ],
+  "1人あたり・1社あたり金額": [
+   {
+    "quote": "付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   },
+   {
+    "quote": "日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）",
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/04/2692",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jdmia.or.jp/toukei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.osaka-ue.ac.jp/file/general/15272",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2692",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://media.crefty.jp/industry/machinery-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.hiroshima.lg.jp/uploaded/attachment/649775.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sokeizai.or.jp/pages/59/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaim-skill.or.jp/entry/classification/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei////////profile/tokei/kougyou/2018/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/3-1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/material/files/group/2/100753205.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/x22a6q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.tsubame.niigata.jp/material/files/group/2/syuusei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://takumi-senpai.com/blog/mold-industry-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00550010&kikan=00550&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001081715&statdisp_id=0003143783&result_page=1&second2=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saga.lg.jp/toukei/kiji003111446/3_111446_up_8b5ybxez.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pref.oita.jp/uploaded/life/111634_124523_misc.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/english/data/handbook/pdf/2017all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.census.gov/manufacturing/m3/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cema.or.jp/general/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seaj.or.jp/english/statistics/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 人手不足 受注 断る",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2692",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.riskmonster.co.jp/study/report/pdf/industryreport202610.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://inouemasashi.com/economic-indicator/keikidoukou2020012/",
+    "https://www.sokeizai.or.jp/pages/59/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 受注残 人手不足",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2692",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://media.crefty.jp/industry/machinery-manufacturing/",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/649775.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 人手不足 損失 億円",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2692",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.soumu.go.jp/main_content/000701663.pdf",
+    "https://www.sokeizai.or.jp/pages/59/",
+    "https://www.jaim-skill.or.jp/entry/classification/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2692",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.city.numazu.shizuoka.jp/shisei////////profile/tokei/kougyou/2018/01.pdf",
+    "https://www.sokeizai.or.jp/pages/59/",
+    "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/3-1.htm",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 推移",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/04/2692",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou26-1_d/fil/14-fukuikennokougyo.pdf",
+    "https://www.city.tsubame.niigata.jp/material/files/group/2/100753205.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 統計 PDF",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003116399/3_116399_376657_up_borjpk03.pdf",
+    "https://www.city.yamagata-yamagata.lg.jp/_res/projects/default_project/_page_/001/001/338/x22a6q.pdf",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/kougyou/kougyou22_d/fil/019.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 経済構造実態調査 OR 工業統計",
+   "results": [
+    "https://web.pref.hyogo.lg.jp/kk11/shoukougyoutoukei/r4keizaikouzou/documents/r4gaiyochui.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&kikan=00200&toukei=00200555&statdisp_id=0004035160",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/649775.pdf",
+    "https://www.meti.go.jp/statistics/tyo/kkj/pdf/seizo_gaikyo2025.pdf",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "https://www.city.tsubame.niigata.jp/material/files/group/2/syuusei.pdf",
+    "https://takumi-senpai.com/blog/mold-industry-2026/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 従業者規模別",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.kumamoto.jp/uploaded/attachment/8134.pdf",
+    "https://www.pref.oita.jp/uploaded/life/7490_9730_misc.pdf",
+    "https://www.e-stat.go.jp/stat-search/database?page=1&layout=datalist&toukei=00550010&kikan=00550&tstat=000001022686&cycle=7&tclass1=000001022790&tclass2=000001081715&statdisp_id=0003143783&result_page=1&second2=1",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.jaim-skill.or.jp/entry/classification/",
+    "https://www.sokeizai.or.jp/pages/59/",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 1人当たり 万円",
+   "results": [
+    "https://www.city.numazu.shizuoka.jp/shisei/profile/tokei/kougyou/2018/03.pdf",
+    "https://www.pref.saga.lg.jp/toukei/kiji003111446/3_111446_up_8b5ybxez.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.pref.oita.jp/uploaded/life/111634_124523_misc.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/649775.pdf",
+    "https://www.jaim-skill.or.jp/entry/classification/",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/result-2/h12/kakuho/youti/data-lib/index.html",
+    "https://www.sokeizai.or.jp/pages/59/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） 2015 2025",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.jdmia.or.jp/toukei/",
+    "https://www.pref.fukui.lg.jp/doc/toukei-jouhou/e-census/e-census-r3_d/fil/riyou.pdf",
+    "https://www.jaim-skill.or.jp/entry/classification/",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/649775.pdf",
+    "https://www.sokeizai.or.jp/pages/59/",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Census of Manufacture dies and moulds shipments value annual 2010 2017 Japan Japan statistics",
+   "results": [
+    "https://www.meti.go.jp/english/statistics/tyo/kougyo/index.html",
+    "https://www.stat.go.jp/english/data/handbook/pdf/2017all.pdf",
+    "https://www.census.gov/manufacturing/m3",
+    "https://www.jama.or.jp/english/reports/docs/MIoJ2025_e.pdf",
+    "https://www.cema.or.jp/general/english/statistics/index.html",
+    "https://www.seaj.or.jp/english/statistics/index.html",
+    "https://en.wikipedia.org/wiki/Demographics_of_Japan",
+    "https://www.e-stat.go.jp/en/stat-search?page=1&query=export&layout=dataset",
+    "https://www.customs.go.jp/toukei/suii/html/nenbet_e.htm",
+    "https://www.e-stat.go.jp/en/statistics/00550010"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）",
+   "results": [
+    "https://note.com/tokasimnet/n/n3d36f9d3c4e6",
+    "https://note.com/loyal_ivy9071/n/n95be3510a3b2",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/dakudhigura/n/n366befca911a",
+    "https://note.com/dakudhigura/n/n3ff4d9959d60",
+    "https://note.com/rm_sasaki/n/n9d34778c326e",
+    "https://note.com/kensukesuzuki/n/n5e6b4218e887",
+    "https://note.com/nakagawasann/n/n70b8aa442c02",
+    "https://note.com/3n7no_tech_pr/n/n3ea2e6b3cdf7",
+    "https://note.com/andy868/n/n797d2f8be589"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com 工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）",
+   "results": [
+    "https://ca.linkedin.com/in/stephenhdn",
+    "https://jp.linkedin.com/in/拓也-成田-9744181a9",
+    "https://www.linkedin.com/in/samatbryan",
+    "https://tw.linkedin.com/company/洋鑫先進製造有限公司",
+    "https://www.linkedin.com/posts/敏敬-冨田-85b378315_日本の製造業dxは部分最適の罠に落ちている-activity-7499172900617236481-GIAm",
+    "https://jp.linkedin.com/posts/masato-matsubara-a61026221_このたび一般社団法人-型技術協会-第36回型技術論文賞を受賞することが決定いたしました-activity-7455191198165520384-Pv7e",
+    "https://cn.linkedin.com/company/shenzhen-precisioner-diecasting-mold-co-ltd-"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）",
+   "results": [
+    "https://www.facebook.com/public/日本標準産業分類-早見表-細分類/",
+    "https://www.facebook.com/kinkyo.jp/",
+    "https://graph.facebook.com/v2.8/702120036839242/picture/",
+    "https://www.facebook.com/Iwasaki.kigata/",
+    "https://www.facebook.com/ITIBHK/photos/香港製造及新型工業產業涵蓋範圍修訂及表現統計更新政府公布修訂製造及新型工業產業的經濟活動涵蓋範圍並更新相關統計數字新納入的範疇包括出版及包裝及部分電訊服務如數據/1291694309810952/",
+    "https://www.facebook.com/OkinawaGojuRyuKaratedoHigaonnaDojo.tw/videos/20261024同一個型動作不只有一種運用雖然今天停班停課不過到了中午風雨已獲得控制在確定幾位學員住家與通勤路線的安全後今天的稽古依然如期進行練習的重點仍然是型/1505879261603225/",
+    "https://www.facebook.com/chutanhigashi/photos/豆知識-名前知ってるコンベックスみなさんよく見るこの道具の名前を知っていますか金属製でテープ部分が湾曲したメジャーの1種でコンベックスと言います凸凹の凸を意味す/2921762811412639/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） note 社長",
+   "results": [
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2691",
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.osaka-ue.ac.jp/file/general/15272",
+    "https://www.sokeizai.or.jp/pages/59/",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "https://www.jdmia.or.jp/toukei/about_toukei_2026.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2930.pdf",
+    "https://www.pref.hiroshima.lg.jp/uploaded/attachment/649775.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119） X 投稿",
+   "results": [
+    "https://www.meti.go.jp/statistics/tyo/kougyo/gaiyo/sonota/bunrui/pdf/kaitei20.pdf",
+    "https://www.e-stat.go.jp/classifications/terms/10/03/2692",
+    "https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/",
+    "https://www.sokeizai.or.jp/pages/59/",
+    "https://www.pref.saga.lg.jp/toukei/kiji00375096/3_75096_198707_up_cchcl6gn.pdf",
+    "http://www.etisa.or.jp/mokuji/mokuji2916.pdf",
+    "https://www.jaim-skill.or.jp/entry/classification/",
+    "https://www.stat.go.jp/data/e-census/2021/pdf/bunrui_seizou.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Census of Manufacture dies and moulds shipments value annual 2010 2017 Japan site:linkedin.com",
+   "results": [
+    "https://sg.linkedin.com/in/srikanth-narasimalu",
+    "https://www.linkedin.com/in/marcrutzen",
+    "https://www.linkedin.com/in/penelope-fogarty-9689525",
+    "https://www.linkedin.com/in/vinnygupta51",
+    "https://ca.linkedin.com/in/robingrosset",
+    "https://www.linkedin.com/in/flexmarkelkcalls",
+    "https://de.linkedin.com/in/nicolaschaparro",
+    "https://ca.linkedin.com/in/jmarchal",
+    "https://uk.linkedin.com/in/benthorne2",
+    "https://au.linkedin.com/in/kerry-doss-b99aba31"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "痛み・損（深さの印）": "記載なし（読んだ44頁・検索18回）",
+  "生産能力・設備": "記載なし（読んだ44頁・検索18回）",
+  "人手と仕事の差": "記載なし（読んだ44頁・検索18回）"
+ }
+}

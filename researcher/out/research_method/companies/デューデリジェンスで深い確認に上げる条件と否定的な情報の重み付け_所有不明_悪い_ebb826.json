@@ -1,0 +1,1108 @@
+{
+ "name": "デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119）",
+ "en": "enhanced due diligence escalation triggers adverse media weighting OSINT",
+ "aliases": [
+  "反社チェック 風評 情報 重み付け 方法",
+  "enhanced due diligence triggers adverse media",
+  "取引先 審査 継続モニタリング 方法"
+ ],
+ "context": "推定",
+ "kind": "market",
+ "researched_at": "2026-11-09T02:57:13.148652+00:00",
+ "evidence": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Financial crime compliance costs institutions an estimated",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "– To cross-check emerging risks",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "What are the most common mistakes in adverse media screening programs?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "These mistakes show up again and again when Neotas analysts review a client’s existing adverse media screening process against an investigation on the same subjects.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The most expensive mistake. A no-match result gets recorded as a positive finding when it is the absence of a finding. Build the language into your policy: an adverse media screening result is not a risk conclusion.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "cleanly while court filings, regulatory announcements, or investigative reporting document serious risks that no list has yet captured.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Court records and legal filings",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A database can only match what someone already collected and tagged. Court filings that were never digitized, regulatory actions in jurisdictions with weak data infrastructure, and disputes settled privately never enter the index. The absence of a hit is the absence of a record in that vendor’s collection, not the absence of risk.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Evidence that analysts have been trained on what constitutes a genuine hit, how to assess materiality, and when to escalate to the MLRO.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "is the most widely cited public benchmark for testing methodology.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Common challenges and how to address them",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "framework, operating alongside sanctions screening and PEP checks as the three primary name-screening disciplines. Together, they form the screening layer of a customer due diligence program. Its findings feed into and draw from adjacent controls across the AML stack.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", but across every major framework the direction is the same:",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The four major regional frameworks follow the same direction:",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Taken together, these frameworks confirm that",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Regulated financial institutions (banks, payment firms, fintechs, insurers, and asset managers) face the clearest obligations under AML/CFT frameworks.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Sigma360's privacy program is designed to address the requirements of multiple data-protection frameworks, including the EU and UK GDPR, and applicable U.S. state privacy laws. Sigma360 has achieved SOC 2 Type II certification, protecting your data, workflow, and reputation at any scale.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that inform how most countries structure their AML frameworks, including the expectation that firms understand the nature of a customer's business and assess risk on an ongoing basis.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "for licensed financial institutions sit within the federal legal framework and related Central Bank guidance, which draws on FATF standards. Other GCC jurisdictions have their own legislation and regulators.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Required as part of CDD/EDD frameworks; triggers enhanced due diligence",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to verify if a company is legit",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Adverse Media Screening In 2026: What It Misses & How To Fix",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Explore detailed insights into our methodologies, platform capabilities, and industry-specific applications.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Third Party Risk Management Framework",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A clean adverse media screening result means a name did not match a curated, pre-collected database. It does not mean no risk exists. A structured database is a filtered snapshot: a vendor collects news, decides what counts as relevant, tags it to an entity, and serves the match. Every step is an editorial call made before you ever ran the search.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The full TPRM guide covering how to build a program that satisfies DOJ, UK and EU expectations, including risk tiering, due diligence depth by tier, and governance.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How open-source investigation reaches the unindexed and local-language web that structured adverse media databases miss, with the methods analysts use to verify and document findings.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How adverse media screening fits alongside sanctions and PEP screening in a financial crime compliance framework, and where analyst-led investigation adds defensibility.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The adverse media screening step can be automated, and should be for speed and coverage across a portfolio. The adjudication step, deciding whether a hit is your subject, whether it is material, and what to do, needs human judgment for high-stakes decisions. Automate the collection, investigate the material findings.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Third-Party Risk Management Framework",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "was filed on any customer, the system automatically triggered a fresh adverse media search. In the first six months, this process caught 23 cases where new negative news had emerged after onboarding. Eleven of those led to account exits.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "is the clearest example at scale: thousands of non-resident customers with publicly documented criminal histories were maintained for years with no evidence of ongoing screening. The Estonian Financial Intelligence Unit found that adverse media controls were effectively non-functional for this population.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "or case escalation. When screening surfaces a current criminal investigation or regulatory action involving a customer, the proportionate response is a full EDD refresh and a reassessment of the business relationship.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "When examiners review an enforcement case, they look for evidence of a risk-based approach: the right customers screened at the right frequency, reasoning recorded, and proportionate action taken.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Adverse media monitoring tools: features, use cases, and tips",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Hurtado Olascoaga case",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Sigma360 case study",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, a supplier mentioned in a local news article about a fraud investigation is a different risk signal from a supplier named in passing in a business directory profile that also mentions an unrelated legal dispute from a decade ago.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The following reflects a typical workflow used by many compliance teams, illustrated here as an example rather than a fixed regulatory requirement:",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of the hits most likely to be relevant, so reviewer time is spent on the cases that need judgement.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Adverse media assessment involves context and judgement that automated systems support rather than fully replace, particularly for borderline or ambiguous cases.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Most teams run adverse media screening by searching a name through a commercial database. The tool returns matches, an analyst clears or escalates them, and the case moves forward. It is fast, repeatable and cheap. It is also the most misunderstood control in the due diligence stack, because a clean result feels like proof of safety when it is only proof of no match.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Four of these 5 blind spots return a clean result. They do not error, flag or warn. The screen reports no match and the case moves forward. That is what makes a blind spot more dangerous than noise: a false positive gets reviewed, a false negative gets filed.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Write your third party due diligence policy so an adverse media screening result never closes a case on its own for medium and high-risk tiers. State plainly which tier triggers investigation beyond a screen. Most programs never define that threshold, which is why the screen quietly becomes the whole process.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Is there human investigation for high-stakes cases, or is the output only ever automated?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Screening plus open-source, multi-language investigation on risk-tiered cases, analyst-adjudicated.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The jump that matters is Level 3 to Level 4. Levels 1 to 3 all screen the same data and differ only in how well they document it. Only Level 4 changes what gets seen in your adverse media screening program, by adding open-source investigation and native-language reading on the cases that carry real risk.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "In both cases, the database screen was necessary and insufficient. It cleared the name. The investigation found the risk.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For high-risk cases, do you read the underlying source, not just the database summary?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Your exposure is an adverse media screening result that clears names it should flag. You need a dated, source-cited adjudication record for every material decision, plus multi-language investigation on the cases that carry real risk. A cleared alert queue will not survive examination.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How Neotas combines database screening with open-source intelligence and analyst investigation to produce regulator-ready EDD reports across 200+ languages, for the cases adverse media screening cannot resolve on its own.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What is an example of adverse media?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Look past source count and speed. Score the tool on native-language reach, coverage of unstructured sources, entity resolution across aliases and ownership, a documented adjudication trail, continuous monitoring, and whether an analyst layer exists for high-stakes cases. The key question is what the tool does about risk that is not in its sources.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, a fintech onboarding a new corporate client may discover through negative news that the company’s CEO is under investigation for embezzlement. This triggers",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", which can reduce penalties in case of an incident.",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example Scenario of Adverse Media Screening in Action",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "to verify the story and escalate the case to a senior compliance officer.",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "figures": {},
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n29fd38c3b25a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nb15ceb1c2f71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n281d2acbfc47",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nc89d18d2f054",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/ne6231483ebc7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n00643b96495c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ma_watch/n/nfa5e37ff4be8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maco0411/n/nd2597e31f53a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsukijapan.com/ma/column/due-diligence-precautions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nkbb.nikkei.co.jp/rc/column/due-diligence-meaning/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoneyone_cpacpa/n/n71c488f70cdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lexology.com/library/detail.aspx?g=421ff29d-8955-46e8-a23e-8ed75fdf8f87",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokucho.co.jp/due-diligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://univis-law.com/knowledge/1618/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/magazine/learn/due-diligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.legalontech.com/jp/media/legal-due-diligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ma-cp.com/about-ma/due-diligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://str.co.jp/column/tasks-and-tricks-for-successful-due-diligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsukijapan.com/ma/column/m-a-due-diligence-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihon-teikei.co.jp/ma-advisor-small-business-due-diligence-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ma-cp.com/about-ma/due-diligence-checklist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blueworks.co.jp/topics/post-6573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ma-all.net/column/%E3%80%90ma%E5%BE%8C%E3%81%AB%E7%99%BA%E8%A6%9A%E3%80%91%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E3%82%92%E3%81%99%E3%82%8A%E6%8A%9C%E3%81%91%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yotsubasougou.jp/works/problem/m-a/ma-legal-due-diligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mco.mycomplianceoffice.com/blog/managing-adverse-media-screening-a-critical-element-of-aml-compliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119） site:note.com",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n29fd38c3b25a",
+    "https://note.com/tatsuya_sabato/n/nb15ceb1c2f71",
+    "https://note.com/tatsuya_sabato/n/n281d2acbfc47",
+    "https://note.com/tatsuya_sabato/n/nc89d18d2f054",
+    "https://note.com/tatsuya_sabato/n/ne6231483ebc7",
+    "https://note.com/tatsuya_sabato/n/n00643b96495c",
+    "https://note.com/tatsuya_sabato/n/nb8f20632a808",
+    "https://note.com/tatsuya_sabato/n/n9de35af4f4cb",
+    "https://note.com/tatsuya_sabato/n/nf836c6454f45",
+    "https://note.com/tatsuya_sabato/n/nd2eda6fa7da9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119） note",
+   "results": [
+    "https://note.com/ma_watch/n/nfa5e37ff4be8",
+    "https://note.com/maco0411/n/nd2597e31f53a",
+    "https://mitsukijapan.com/ma/column/due-diligence-precautions/",
+    "https://nkbb.nikkei.co.jp/rc/column/due-diligence-meaning/",
+    "https://note.com/yoneyone_cpacpa/n/n71c488f70cdf",
+    "https://www.lexology.com/library/detail.aspx?g=421ff29d-8955-46e8-a23e-8ed75fdf8f87",
+    "https://kamiura-kaikei.com/column/ma-column/ma%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%EF%BC%88dd%EF%BC%89%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7/",
+    "https://www.ma-pmi-agent.co.jp/cmb/ma/column20240920.html",
+    "https://note.com/mae_note/n/n24829e478c64",
+    "https://note.com/pe_gogo/n/n938ffe1f2eeb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119） やり方",
+   "results": [
+    "https://www.tokucho.co.jp/due-diligence/",
+    "https://nkbb.nikkei.co.jp/rc/column/due-diligence-meaning/",
+    "https://univis-law.com/knowledge/1618/",
+    "https://mitsukijapan.com/ma/column/due-diligence-precautions/",
+    "https://www.nihon-ma.co.jp/magazine/learn/due-diligence/",
+    "https://www.youtube.com/watch?v=MijP1glFdk4",
+    "https://www.legalontech.com/jp/media/legal-due-diligence",
+    "https://www.ma-cp.com/about-ma/due-diligence/",
+    "https://str.co.jp/column/tasks-and-tricks-for-successful-due-diligence/",
+    "https://www.nextfin.jp/blog/due-diligence-guide"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119） 事例",
+   "results": [
+    "https://www.nihon-ma.co.jp/magazine/learn/due-diligence/",
+    "https://mitsukijapan.com/ma/column/m-a-due-diligence-cases/",
+    "https://nkbb.nikkei.co.jp/rc/column/due-diligence-meaning/",
+    "https://nihon-teikei.co.jp/ma-advisor-small-business-due-diligence-guide/",
+    "https://www.ma-cp.com/about-ma/due-diligence-checklist/",
+    "https://www.legalontech.com/jp/media/legal-due-diligence",
+    "https://blueworks.co.jp/topics/post-6573/",
+    "https://ma-all.net/column/%E3%80%90ma%E5%BE%8C%E3%81%AB%E7%99%BA%E8%A6%9A%E3%80%91%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E3%82%92%E3%81%99%E3%82%8A%E6%8A%9C%E3%81%91%E3%82%8B/",
+    "https://www.yotsubasougou.jp/works/problem/m-a/ma-legal-due-diligence/",
+    "https://www.ma-pmi-agent.co.jp/cmb/ma/column20251025.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "enhanced due diligence escalation triggers adverse media weighting OSINT",
+   "results": [
+    "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "https://www.sigma360.com/adverse-media-screening/",
+    "https://www.azakaw.com/blog/adverse-media-screening",
+    "https://mco.mycomplianceoffice.com/blog/managing-adverse-media-screening-a-critical-element-of-aml-compliance",
+    "https://www.neotas.com/adverse-media-screening/",
+    "https://www.facctum.com/terms/adverse-media-screening",
+    "https://www.lseg.com/en/risk-intelligence/glossary/risk-management/adverse-media",
+    "https://www.workfusion.com/blog/top-9-reasons-to-do-adverse-media-screening-with-ai-agent-evan/",
+    "https://one-constellation.com/blog/adverse-media-screening-guide/",
+    "https://fincrimecentral.com/adverse-media-screening-aml-risk-osint-integration/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119）",
+   "results": [
+    "https://note.com/tsunobuchi/n/n5100dbf82075",
+    "https://note.com/tatsuya_sabato/n/ne6231483ebc7",
+    "https://note.com/ripla_business/n/nd9ce9ebad15b",
+    "https://note.com/lucid_lotus6287/n/nf1e2c53bb01e",
+    "https://note.com/mae_note/n/n24829e478c64",
+    "https://note.com/tr_associates/n/n326c7b70cff0",
+    "https://note.com/pe_gogo/n/n938ffe1f2eeb",
+    "https://note.com/ideal_fox0403/n/nb9c6ad5a9c03",
+    "https://note.com/masamasa11_12/n/n3d3058f0ac84",
+    "https://note.com/pe_gogo/n/n24ac2a8096f9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119）",
+   "results": [
+    "https://x.com/kishida_cpa/status/2110915119303790685",
+    "https://x.com/murayama3939/status/2032229925839876216",
+    "https://x.com/HERENGA_Onuki/status/2112657862220783680",
+    "https://x.com/PwC_Japan/status/2002884362199789607",
+    "https://x.com/AtsunoriKjM/status/2110203944005689822",
+    "https://x.com/nozaki_mastudio/status/2067190199118148042",
+    "https://x.com/ejima_ma/status/2065539804494774356"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119）",
+   "results": [
+    "https://jp.linkedin.com/pulse/common-due-diligence-pitfalls-how-avoid-them-the-vant-group-aajqc?tl=ja",
+    "https://jp.linkedin.com/pulse/ma-guide-part-13-due-diligence-eduard-grigoryan-jsxxf?tl=ja",
+    "https://sg.linkedin.com/posts/yuki-li-b5586b206_trackersのチェックリストでデューデリジェンスをスピードアップ-activity-6989062314410881024-tfHW",
+    "https://jp.linkedin.com/pulse/余計なデューデリジェンスの罠-mark-bivens",
+    "https://jp.linkedin.com/pulse/mergers-acquisitions-due-diligence-going-beyond-checklist-5bnvf?tl=ja",
+    "https://jp.linkedin.com/pulse/how-due-diligence-drives-ma-success-key-strategies-risk-singh-gds8f?tl=ja",
+    "https://jp.linkedin.com/posts/hiroki-ebuchi_契約デューデリジェンス-httpslnkdingc38-uin-取引先-activity-7523993853805113344-vL-V"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119）",
+   "results": [
+    "https://www.facebook.com/japanvcassociation/posts/jvcaでは経済産業省-新規事業創造推進室より委託を受け投資家向けデューデリジェンスqaddqならびに四半期レポーティングqr雛形を作成しこのたび経済産業省のホ/3027995623914070/",
+    "https://www.facebook.com/EYJapanOfficial/posts/失敗しない財務デューデリジェンスの活用方法デューデリジェンス-の結果を効果的に活用しma業務を進めることができるようmaと財務デューデリジェンスの流れと各ステッ/5581706358575341/",
+    "https://www.facebook.com/funaisoken/posts/ma成長戦略デューデリジェンスで描く100億企業化への道-maにおいて投資対象の価値やリスクを評価するデューデリジェンスddは事業の成長性やシナジー効果を判断し/1522259086576961/",
+    "https://www.facebook.com/HuffPostJapan/posts/取引先を含むサプライチェーンの全過程で人権侵害のリスクを確認する人権デューデリジェンス日本も法律で企業に義務づけるべきなのか自民党と経団連で温度差があるようです/2003677709786701/",
+    "https://www.facebook.com/UNDPTokyo/photos/undp外務省主催ビジネスと人権年次ダイアログ人権のためのビジネスケース政策デューディリジェンス情報開示を通じた新たな貿易時代の構築ビジネスと人権-をテーマに各/1337020418470685/",
+    "https://www.facebook.com/Mha.Connect/photos/調剤薬局の事業承継maの大まかな流れ-1-秘密保持契約締結-2-店舗の売り上げや立地等の分析とスタッフの継承等について面談を開始-3-デューデリジェンスと最終的/459238533531329/",
+    "https://www.facebook.com/owls.8700/photos/ma投資の成功を支える-人事労務デューデリジェンス-maを検討する際見落としがちな人事労務リスクをしっかり精査し適切なアドバイスを提供します-労務リスクの徹底調/1044404027802773/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119） note 社長",
+   "results": [
+    "https://note.com/maco0411/n/nd2597e31f53a",
+    "https://note.com/ma_watch/n/nfa5e37ff4be8",
+    "https://office-lso.com/venture-support/dd/due-diligence-toha/",
+    "https://mitsukijapan.com/ma/column/due-diligence-precautions/",
+    "https://note.com/mae_note/n/n24829e478c64",
+    "https://www.legalontech.com/jp/media/legal-due-diligence",
+    "https://www.youtube.com/watch?v=NTP4R0eWwUw",
+    "https://www.lexology.com/library/detail.aspx?g=421ff29d-8955-46e8-a23e-8ed75fdf8f87",
+    "https://kamiura-kaikei.com/column/ma-column/ma%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%EF%BC%88dd%EF%BC%89%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7/",
+    "https://note.com/pe_gogo/n/n938ffe1f2eeb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "デューデリジェンスで深い確認に上げる条件と否定的な情報の重み付け（所有不明・悪い報道・越境・出どころの食い違い・継続の見張り・4-119） X 投稿",
+   "results": [
+    "https://www.legalontech.com/jp/media/legal-due-diligence",
+    "https://www.youtube.com/watch?v=NTP4R0eWwUw",
+    "https://nkbb.nikkei.co.jp/rc/column/due-diligence-meaning/",
+    "https://mitsukijapan.com/ma/column/due-diligence-precautions/",
+    "https://ma.funaisoken.co.jp/column/dd-checklist-preparation-documents",
+    "https://www.nihon-ma.co.jp/magazine/learn/due-diligence/",
+    "https://kamiura-kaikei.com/column/ma-column/ma%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%A5%E3%83%BC%E3%83%87%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%EF%BC%88dd%EF%BC%89%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7/",
+    "https://univis-law.com/knowledge/1618/",
+    "https://www.lexology.com/library/detail.aspx?g=421ff29d-8955-46e8-a23e-8ed75fdf8f87",
+    "https://www.ma-pmi-agent.co.jp/cmb/ma/column20251025.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "enhanced due diligence escalation triggers adverse media weighting OSINT site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/top-content/corporate-social-responsibility/navigating-regulatory-challenges/challenges-in-strengthening-kyc-and-aml-controls/",
+    "https://www.linkedin.com/posts/lylehimmel_occ-assesses-350-million-civil-money-penalty-activity-7514413532847702016-6W-P",
+    "https://cz.linkedin.com/in/bohdan-taranenko-a3609741",
+    "https://in.linkedin.com/in/ratna-singh-aml-compliance",
+    "https://ae.linkedin.com/in/sirnabeel",
+    "https://ee.linkedin.com/in/andrei-sribny",
+    "https://my.linkedin.com/in/shobah-mani-segaran-884971114",
+    "https://in.linkedin.com/in/chandakashish",
+    "https://sg.linkedin.com/in/jonathan-low-b77aa7295",
+    "https://www.linkedin.com/in/manojdaga"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {},
+ "new_this_run": {
+  "突き合わせ・推定": [
+   {
+    "quote": "Financial crime compliance costs institutions an estimated",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "– To cross-check emerging risks",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "What are the most common mistakes in adverse media screening programs?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "These mistakes show up again and again when Neotas analysts review a client’s existing adverse media screening process against an investigation on the same subjects.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The most expensive mistake. A no-match result gets recorded as a positive finding when it is the absence of a finding. Build the language into your policy: an adverse media screening result is not a risk conclusion.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "cleanly while court filings, regulatory announcements, or investigative reporting document serious risks that no list has yet captured.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Court records and legal filings",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A database can only match what someone already collected and tagged. Court filings that were never digitized, regulatory actions in jurisdictions with weak data infrastructure, and disputes settled privately never enter the index. The absence of a hit is the absence of a record in that vendor’s collection, not the absence of risk.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Evidence that analysts have been trained on what constitutes a genuine hit, how to assess materiality, and when to escalate to the MLRO.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "is the most widely cited public benchmark for testing methodology.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Common challenges and how to address them",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "framework, operating alongside sanctions screening and PEP checks as the three primary name-screening disciplines. Together, they form the screening layer of a customer due diligence program. Its findings feed into and draw from adjacent controls across the AML stack.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", but across every major framework the direction is the same:",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The four major regional frameworks follow the same direction:",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Taken together, these frameworks confirm that",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Regulated financial institutions (banks, payment firms, fintechs, insurers, and asset managers) face the clearest obligations under AML/CFT frameworks.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Sigma360's privacy program is designed to address the requirements of multiple data-protection frameworks, including the EU and UK GDPR, and applicable U.S. state privacy laws. Sigma360 has achieved SOC 2 Type II certification, protecting your data, workflow, and reputation at any scale.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that inform how most countries structure their AML frameworks, including the expectation that firms understand the nature of a customer's business and assess risk on an ongoing basis.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "for licensed financial institutions sit within the federal legal framework and related Central Bank guidance, which draws on FATF standards. Other GCC jurisdictions have their own legislation and regulators.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Required as part of CDD/EDD frameworks; triggers enhanced due diligence",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How to verify if a company is legit",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Adverse Media Screening In 2026: What It Misses & How To Fix",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Explore detailed insights into our methodologies, platform capabilities, and industry-specific applications.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Third Party Risk Management Framework",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "A clean adverse media screening result means a name did not match a curated, pre-collected database. It does not mean no risk exists. A structured database is a filtered snapshot: a vendor collects news, decides what counts as relevant, tags it to an entity, and serves the match. Every step is an editorial call made before you ever ran the search.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The full TPRM guide covering how to build a program that satisfies DOJ, UK and EU expectations, including risk tiering, due diligence depth by tier, and governance.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How open-source investigation reaches the unindexed and local-language web that structured adverse media databases miss, with the methods analysts use to verify and document findings.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How adverse media screening fits alongside sanctions and PEP screening in a financial crime compliance framework, and where analyst-led investigation adds defensibility.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The adverse media screening step can be automated, and should be for speed and coverage across a portfolio. The adjudication step, deciding whether a hit is your subject, whether it is material, and what to do, needs human judgment for high-stakes decisions. Automate the collection, investigate the material findings.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Third-Party Risk Management Framework",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "was filed on any customer, the system automatically triggered a fresh adverse media search. In the first six months, this process caught 23 cases where new negative news had emerged after onboarding. Eleven of those led to account exits.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "is the clearest example at scale: thousands of non-resident customers with publicly documented criminal histories were maintained for years with no evidence of ongoing screening. The Estonian Financial Intelligence Unit found that adverse media controls were effectively non-functional for this population.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "or case escalation. When screening surfaces a current criminal investigation or regulatory action involving a customer, the proportionate response is a full EDD refresh and a reassessment of the business relationship.",
+    "url": "https://www.fluxforce.ai/glossary/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "When examiners review an enforcement case, they look for evidence of a risk-based approach: the right customers screened at the right frequency, reasoning recorded, and proportionate action taken.",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Adverse media monitoring tools: features, use cases, and tips",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Hurtado Olascoaga case",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Sigma360 case study",
+    "url": "https://www.sigma360.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, a supplier mentioned in a local news article about a fraud investigation is a different risk signal from a supplier named in passing in a business directory profile that also mentions an unrelated legal dispute from a decade ago.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The following reflects a typical workflow used by many compliance teams, illustrated here as an example rather than a fixed regulatory requirement:",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "of the hits most likely to be relevant, so reviewer time is spent on the cases that need judgement.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Adverse media assessment involves context and judgement that automated systems support rather than fully replace, particularly for borderline or ambiguous cases.",
+    "url": "https://www.azakaw.com/blog/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Most teams run adverse media screening by searching a name through a commercial database. The tool returns matches, an analyst clears or escalates them, and the case moves forward. It is fast, repeatable and cheap. It is also the most misunderstood control in the due diligence stack, because a clean result feels like proof of safety when it is only proof of no match.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Four of these 5 blind spots return a clean result. They do not error, flag or warn. The screen reports no match and the case moves forward. That is what makes a blind spot more dangerous than noise: a false positive gets reviewed, a false negative gets filed.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Write your third party due diligence policy so an adverse media screening result never closes a case on its own for medium and high-risk tiers. State plainly which tier triggers investigation beyond a screen. Most programs never define that threshold, which is why the screen quietly becomes the whole process.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Is there human investigation for high-stakes cases, or is the output only ever automated?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Screening plus open-source, multi-language investigation on risk-tiered cases, analyst-adjudicated.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "The jump that matters is Level 3 to Level 4. Levels 1 to 3 all screen the same data and differ only in how well they document it. Only Level 4 changes what gets seen in your adverse media screening program, by adding open-source investigation and native-language reading on the cases that carry real risk.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "In both cases, the database screen was necessary and insufficient. It cleared the name. The investigation found the risk.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For high-risk cases, do you read the underlying source, not just the database summary?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Your exposure is an adverse media screening result that clears names it should flag. You need a dated, source-cited adjudication record for every material decision, plus multi-language investigation on the cases that carry real risk. A cleared alert queue will not survive examination.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "How Neotas combines database screening with open-source intelligence and analyst investigation to produce regulator-ready EDD reports across 200+ languages, for the cases adverse media screening cannot resolve on its own.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "What is an example of adverse media?",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Look past source count and speed. Score the tool on native-language reach, coverage of unstructured sources, entity resolution across aliases and ownership, a documented adjudication trail, continuous monitoring, and whether an analyst layer exists for high-stakes cases. The key question is what the tool does about risk that is not in its sources.",
+    "url": "https://www.neotas.com/adverse-media-screening/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "For example, a fintech onboarding a new corporate client may discover through negative news that the company’s CEO is under investigation for embezzlement. This triggers",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": ", which can reduce penalties in case of an incident.",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Example Scenario of Adverse Media Screening in Action",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "to verify the story and escalate the case to a senior compliance officer.",
+    "url": "https://www.facctum.com/terms/adverse-media-screening",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ]
+ },
+ "runs": 1,
+ "first_researched_at": "2026-11-09T02:57:13.148652+00:00"
+}

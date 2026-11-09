@@ -1,4 +1,4 @@
-# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・262品目）
+# 受託加工の生産能力 — 業種・規模別の平均社員数・受注額（加工賃収入）・1人あたり金額の10年推移（事実のみ・264品目）
 
 数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
 
@@ -13351,6 +13351,81 @@
   - 「精度と納期、そして立ち上げの速さです」（https://forwit.jp/column/die-and-mold/）
   - 「次世代自動車による自動産業の変革や、少子高齢化による人手不足など金型産業を取り巻く環境は大きく変化し、新型コロナウイルスの感染拡大によって、そのスピードはさらに加速している」（https://kanagata-shimbun.com/200701news-istma/）
   - 「生産性の向上、人手不足への対応、人を介さないことによる品質向上—」（https://kanagata-shimbun.com/200701news-istma/）
+
+## 金属用金型（HS8480）の輸入額を号（HS6桁：8480.41・8480.71・8480.30 など）ごとに分けた年次の表（財務省 普通貿易統計・gdfreak の2023年21.0億円と2025年1（092億円は別の号の値の疑い・号ごとにそろえてから合計と照らす・4-117・4-119））
+- 文脈：財務省 貿易統計 8480.41 輸入 年;8480.71 金型 輸入額 年次;普通貿易統計 品目別国別表 8480
+- 受注金額・加工賃収入：
+  - 「2025年の輸入額は前年比13.4％減の1,092億円」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「輸出額1,047億円のうち、米国向けが31.2％を占めて最も大きく、次いでタイ12.8％、メキシコ10.8％、中国10.6％の順」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+- 10年推移：
+  - 「グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸入動向 HS8480 輸入額の推移 年ベース 【出所】財務省 貿易統計」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「1. 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「2025年の輸入額は前年比13.4％減の1,092億円」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「前年より減少となったのは2年ぶり」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「2006年以降で最も大きかった2024年と比べると86.6％の水準」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「2025年 輸入相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「1 輸入額の推移」（https://jp.gdfreak.com/public/detail/jp0100900012101406jk/1）
+  - 「グラフで見る! 金属鋳造用鋳型枠、鋳型ベース、鋳造用パターン及び金属、金属炭化物、ガラス、鉱物性材料、ゴム又はプラスチックの成形用の型(金属インゴット用の物を除く)の輸出動向 HS8480 2025年 輸出相手国のシェア（％） 年ベース 【出所】財務省 貿易統計」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+  - 「2. 2025年 輸出相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+  - 「2025年の輸出相手は74ケ国」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+  - 「2 2025年 輸出相手国のシェア（％）」（https://jp.gdfreak.com/public/detail/jp0100900011101406jk/2）
+- 痛み・損（深さの印）：記載なし（読んだ23頁・検索18回）
+- 事業所数・社数：記載なし（読んだ23頁・検索18回）
+- 社員数・平均社員数：記載なし（読んだ23頁・検索18回）
+- 1人あたり・1社あたり金額：記載なし（読んだ23頁・検索18回）
+- 生産能力・設備：記載なし（読んだ23頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ23頁・検索18回）
+
+## 工業統計表 金型製造業（細分類 金属用金型・同部分品・附属品製造業）の製造品出荷額等の年次（2010年1兆873億円・2017年1兆5257億円と書く業界新聞の元の表・兆の位を確かめる・4-119）（Census of Manufacture dies and moulds shipments value annual 2010 2017 Japan）
+- 文脈：統計
+- 事業所数・社数：
+  - 「事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 社員数・平均社員数：
+  - 「1122_絹・人絹織物業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1142_絹・人絹織物機械染色業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1161_織物製成人男子・少年服製造業（不織布製及びレース製を含む）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「1162_織物製成人女子・少女服製造業（不織布製及びレース製を含む）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2183_人工骨材製造業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「3251_娯楽用具・がん具製造業（人形を除く）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「3252_人形製造業」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「ただし、従業者3人以下の事業所を除く」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「事業所数、従業者数＝翌年の6月1日現在 (日付の年の翌年)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 受注金額・加工賃収入：
+  - 「○賃加工については、第 27 回生産物分類策定研究会の資料１－１の【論点３】の対処方針」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「主に工業統計において、JSIC の細分類 （４桁） ベースで、 賃加工のみしか存在しない分」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「2432 ガス機器・石油機器製造業 機械刃物（賃加工）」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「2446 製缶板金業 利器工匠具 手道具（賃加工）」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「2479 その他の金属線製品製造業 その他の金物類（賃加工）」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「249 その他の金属製品製造業 配管工事用附属品（賃加工）」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「2811 電子管製造業 電子管（賃加工）」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「製造品出荷額などの経理事項＝1月～12月の実績 (日付の年のとおり)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 1人あたり・1社あたり金額：
+  - 「付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「日付,code_産業中分類,code_産業小分類,code_産業細分類,事業所数,従業者数（人）,現金給与総額（百万円）,原材料使用額等（百万円）,製造品出荷額等（百万円）,付加価値額(従業者29人以下は粗付加価値額)（百万円）」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 10年推移：
+  - 「・2020月報より、「ショベル系掘削機械（0.2㎥未満）」「ショベル系掘削機械（0.2㎥」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「2019年工業統計調査商品分類表に」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「263 繊維機械製造業 1 農業用乾燥機 2019年工業統計調査商品分類表に」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「2633 染色整理仕上機械製造業 1 飼料機器 飼料裁断機、飼料粉砕器、飼料配合機等 2019年工業統計調査商品分類表に」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「【生動】2020月報「ショベル系掘」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「生産動態統計（2020月報）の品目」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「2651 鋳造装置製造業 1 掘さく機（ショベル系を除く） ドラグライン、クラムシェル、トンネル掘進機等 2019年工業統計調査商品分類表に」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「【生動】2020月報「トラックク」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「【生動】2020月報「整地機械」（https://www.soumu.go.jp/main_content/000701663.pdf）
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式) - データ製作所」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「経済センサス活動調査・工業統計調査_2-01_産業細分類別_ 年次 2005年 – 2020年 (列 – 複数値形式)」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「公開日 2022年8月5日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「最終更新日 2023年1月6日」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+  - 「工業統計調査は2019年で終了したため、2020年は「経済センサス活動調査」の値を使用しています」（https://data-seisaku.com/00550-meti-00550010-2-01-full-listm/）
+- 痛み・損（深さの印）：記載なし（読んだ44頁・検索18回）
+- 生産能力・設備：記載なし（読んだ44頁・検索18回）
+- 人手と仕事の差：記載なし（読んだ44頁・検索18回）
 
 ## 経済構造実態調査 製造業事業所調査 金型製造業の従業者数・事業所数 2022〜2024年（記事の2023年74（587人・2024年69）
 - 文脈：Economic Structure Survey manufacturing establishments die and mold manufacturing employees establishments 2022 2024
